@@ -1,0 +1,1102 @@
+# 09A Molecular and cell Biology of Hepatopancreatobiliary Disease: Introduction and Basic Principles
+
+
+Generated with Claude. 
+
+**1. Which of the following best describes the primary goal of Chapter 9A on HPB molecular and cell biology?**
+
+- To provide surgical techniques for HPB procedures
+- To outline clinical staging systems for HPB cancers
+- **To provide a foundation outlining biologic principles governing benign and malignant HPB diseases**
+- To describe imaging modalities used in HPB diagnosis
+
+*Explanation: The chapter explicitly states its primary goal is to provide a foundation outlining the biologic principles that govern benign and malignant HPB diseases and to illuminate complex interactions between such principles.*
+
+---
+
+**2. Which of the following signaling pathways is NOT listed among those important for normal pancreatic and liver development?**
+
+- Notch
+- Hedgehog
+- **JAK-STAT**
+- Wnt/β-catenin
+
+*Explanation: The chapter lists Notch, Hedgehog, Wnt/β-catenin, PI3K/PTEN, mTOR, NF-κB, and TGF-β as pathways important for normal pancreatic and liver development. JAK-STAT is not mentioned in this context.*
+
+---
+
+**3. How many Notch receptors are found in mammals?**
+
+- Two
+- Three
+- **Four**
+- Five
+
+*Explanation: There are four Notch receptors (Notch1–4) found in mammals, along with five Notch ligands.*
+
+---
+
+**4. How many Notch ligands are found in mammals?**
+
+- Two
+- Three
+- Four
+- **Five**
+
+*Explanation: Five Notch ligands (Dll1, Dll3, Fll4, Jagged1, and Jagged2) are found in mammals.*
+
+---
+
+**5. What is the Notch intracellular domain (NICD) released by?**
+
+- Phosphorylation of the Notch receptor
+- Ubiquitin-mediated degradation
+- **Proteolytic cleavages at three distinct sites (S1, S2, and S3) on the Notch receptor**
+- Ligand-independent constitutive activation
+
+*Explanation: Interactions between receptor and ligand on adjacent cells result in several proteolytic cleavages of the Notch receptor at three distinct sites (S1, S2, and S3), releasing the NICD.*
+
+---
+
+**6. After NICD translocates to the nucleus, which molecule does it bind to displace co-repressor complexes?**
+
+- Mastermind-like (Maml)
+- Smoothened (SMO)
+- **CBF1/RBPj**
+- β-Catenin
+
+*Explanation: NICD translocates to the nucleus, where it binds CBF1/RBPj, displacing co-repressor complexes, and then recruits coactivator molecules including Mastermind-like (Maml).*
+
+---
+
+**7. Which of the following is a coactivator molecule recruited by NICD in the nucleus?**
+
+- Frizzled (Fz)
+- GLI1
+- **Mastermind-like (Maml)**
+- MyD88
+
+*Explanation: After NICD binds CBF1/RBPj and displaces co-repressor complexes, it recruits coactivator molecules including Mastermind-like (Maml).*
+
+---
+
+**8. In the liver, Notch signaling is critical to the development of which structure?**
+
+- The portal venous system
+- The hepatic arterial system
+- **The intrahepatic biliary system**
+- The hepatic sinusoids
+
+*Explanation: In the liver, Notch signaling is critical to the development of the intrahepatic biliary system and is also crucial in liver regeneration.*
+
+---
+
+**9. Alagille syndrome is characterized by an autosomal dominant mutation in which genes?**
+
+- Notch1 or Jagged1
+- Notch3 or Dll1
+- **Notch2 or Jagged2**
+- Notch4 or Dll3
+
+*Explanation: Alagille syndrome is characterized by an autosomal dominant mutation in Notch2 or Jagged2, resulting in malformation of the intrahepatic biliary tree as well as other abnormalities.*
+
+---
+
+**10. What is the consequence of Notch1 knockout in mice regarding liver tumors?**
+
+- Development of hepatocellular carcinoma
+- Development of pancreatic ductal adenocarcinoma
+- **Proliferation and dedifferentiation of endothelial cells with spontaneous hepatic angiosarcoma**
+- Development of cholangiocarcinoma
+
+*Explanation: Notch1 knockout mice develop proliferation and dedifferentiation of endothelial cells with eventual spontaneous development of hepatic angiosarcoma, suggesting a tumor suppressive role for Notch1.*
+
+---
+
+**11. Constitutive expression of activated Notch1 or the intracellular domain of Notch2 leads to spontaneous development of which tumor at 12 months in mice?**
+
+- Hepatic angiosarcoma
+- Cholangiocarcinoma
+- **Hepatocellular carcinoma (HCC)**
+- Pancreatic ductal adenocarcinoma
+
+*Explanation: Constitutive expression of both activated Notch1 and the intracellular domain of Notch2 lead to spontaneous hepatocellular carcinoma (HCC) at 12 months.*
+
+---
+
+**12. In the pancreas, inhibition of the Notch pathway results in which of the following?**
+
+- Prevention of endocrine cell differentiation
+- Formation of ductal adenocarcinoma
+- **Premature differentiation to neurogenin-3 (Ngn3+) expressing endocrine cells**
+- Increased acinar cell proliferation
+
+*Explanation: Inhibition of the Notch pathway in pancreatic progenitors results in premature differentiation to neurogenin-3 (Ngn3+) expressing endocrine cells.*
+
+---
+
+**13. In the pancreas, activation of Notch signaling in progenitors has which effect?**
+
+- Promotes endocrine differentiation
+- Promotes exocrine differentiation
+- **Prevents specification into either endocrine or exocrine lineages**
+- Induces acinar-to-ductal metaplasia
+
+*Explanation: Activation of Notch signaling in pancreatic progenitors prevents specification into either endocrine or exocrine lineages.*
+
+---
+
+**14. Which of the following best describes Sonic hedgehog (SHH) transmembrane receptors?**
+
+- GLI1 and GLI2
+- Dll1 and Dll3
+- **Patched (PTCH1, PTCH2) and Smoothened (SMO)**
+- Frizzled (Fz) and LRP5/6
+
+*Explanation: Canonical SHH signal transduction consists of multiple Hedgehog (Hh) ligands, two transmembrane receptors (Patched [PTCH1, PTCH2] and Smoothened [SMO]), and the GLI family of transcription factors.*
+
+---
+
+**15. In the canonical Hedgehog pathway, what is the effect of Hh ligand binding to Patched?**
+
+- It directly activates GLI transcription factors
+- It inhibits SMO activity
+- **It blocks the inhibitory effect of Patched on the co-receptor Smoothened**
+- It promotes degradation of β-catenin
+
+*Explanation: When Hh ligands bind to the receptor Patched, it blocks the inhibitory effect of Patched on the co-receptor Smoothened, allowing active SMO to lead to GLI protein activation.*
+
+---
+
+**16. The GLI family of transcription factors in the Hedgehog pathway includes which of the following?**
+
+- GLI1, GLI2, GLI4
+- **GLI1, GLI2, GLI3**
+- GLI1, GLI3, GLI5
+- GLI2, GLI3, GLI4
+
+*Explanation: The glioma-associated oncogene homolog (GLI) family of transcription factors consists of GLI1, GLI2, and GLI3.*
+
+---
+
+**17. In the adult liver, what is the status of Hh ligands under normal (non-injured) conditions?**
+
+- Highly expressed in hepatocytes
+- Expressed primarily in Kupffer cells
+- **Largely absent**
+- Constitutively expressed in cholangiocytes
+
+*Explanation: Hh ligands are largely absent in the adult liver but are reactivated in response to liver injury and at times of liver regeneration.*
+
+---
+
+**18. In liver injury, which type of cells produce Hh ligands that act in a paracrine fashion on mesenchymal-type cells?**
+
+- Kupffer cells
+- Hepatic stellate cells
+- **Epithelial cells**
+- Sinusoidal endothelial cells
+
+*Explanation: In injury, epithelial cells produce Hh ligands that act in a paracrine fashion on mesenchymal-type cells, playing a critical role in crosstalk among multiple cell types.*
+
+---
+
+**19. Upregulation of PTCH and GLI factors has been identified in which of the following conditions?**
+
+- Autoimmune hepatitis and primary biliary cirrhosis
+- Acute liver failure and hepatic encephalopathy
+- **Nonalcoholic fatty liver disease (NAFLD), biliary cirrhosis, and hepatitis B and C**
+- Hepatic adenoma and focal nodular hyperplasia
+
+*Explanation: Hedgehog signaling plays a role in chronic liver disease with upregulation of PTCH and GLI factors in NAFLD, biliary cirrhosis, and hepatitis B (HBV) and C (HCV).*
+
+---
+
+**20. In the context of HCC, increased expression of which Hedgehog pathway component has been associated with poorer patient outcomes?**
+
+- GLI3
+- PTCH1
+- **SMO**
+- Hh ligands
+
+*Explanation: Correlative data suggest poorer outcomes in patients with HCC who have increased SMO expression, implicating Hedgehog signaling in tumor progression.*
+
+---
+
+**21. In the Wnt/β-catenin pathway, which complex is normally responsible for maintaining β-catenin in a phosphorylated state targeted for degradation?**
+
+- Notch/CBF1 complex
+- SMO/GLI complex
+- **APC, CK1, and GSK3-β**
+- Frizzled/LRP complex
+
+*Explanation: β-Catenin is typically maintained in a phosphorylated state and targeted for degradation by adenomatous polyposis coli (APC) product, casein kinase 1 (CK1), and glycogen synthase kinase-3 (GSK3)-β.*
+
+---
+
+**22. What is the gene name for β-catenin whose mutations or deletions are commonly found in liver tumors?**
+
+- APC
+- GSK3B
+- **CTNNB1**
+- CK1
+
+*Explanation: Mutations or deletions of the β-catenin gene, CTNNB1, or mutations in other genes/aberrant expression of proteins in the pathway, result in cytoplasmic stabilization and nuclear translocation of β-catenin.*
+
+---
+
+**23. What percentage of hepatic adenomas are β-catenin mutated, and what risk does this confer?**
+
+- 1%–5%, associated with rupture risk
+- 5%–10%, associated with biliary obstruction
+- **10%–15%, associated with increased risk of transformation into HCC**
+- 20%–30%, associated with portal hypertension
+
+*Explanation: β-Catenin mutated hepatic adenomas account for approximately 10% to 15% of hepatic adenomas and are associated with an increased risk for transformation into HCC.*
+
+---
+
+**24. Abnormal expression of β-catenin is noted in what percentage of hepatocellular carcinoma cases?**
+
+- 5%–10%
+- **17%–40%**
+- 50%–75%
+- 80%–90%
+
+*Explanation: Abnormal expression of β-catenin is noted in 17% to 40% of HCC and 50% to 75% of hepatoblastoma.*
+
+---
+
+**25. In animal models, the absence of β-catenin leads to disrupted development of which part of the pancreas?**
+
+- Endocrine pancreas (islets of Langerhans)
+- Pancreatic ductal system
+- **Exocrine pancreas**
+- Both endocrine and exocrine pancreas equally
+
+*Explanation: In the pancreas, the absence of β-catenin in animal models leads to disrupted development of the exocrine pancreas.*
+
+---
+
+**26. Wnt pathway activation in the pancreas results in which of the following according to gain-of-function experiments?**
+
+- Hyperplastic exocrine pancreas
+- Increased islet cell mass
+- **Hypoplastic pancreas after abnormal acquisition of intestinal features**
+- Conversion of acinar cells to ductal cells
+
+*Explanation: Gain-of-function experiments show that Wnt pathway activation results in a hypoplastic pancreas after abnormal acquisition of intestinal features.*
+
+---
+
+**27. Toll-like receptors (TLRs) are found on which types of cells?**
+
+- Hepatocytes and cholangiocytes
+- Hepatic stellate cells and sinusoidal endothelial cells
+- **Dendritic cells and macrophages**
+- Natural killer cells and B-lymphocytes
+
+*Explanation: Toll-like receptors (TLR) are cell surface receptors found on dendritic cells and macrophages and play a key role in the innate immune system.*
+
+---
+
+**28. What does the acronym PAMPs stand for in the context of TLR signaling?**
+
+- Protein-activated membrane phospholipid signals
+- Plasma-associated microbial peptide sequences
+- **Pathogen-associated molecular patterns**
+- Phospholipid-activated membrane protein signals
+
+*Explanation: TLRs recognize pathogen-associated molecular patterns (PAMPs; specific microbial components that are conserved between species) or damage-associated molecular patterns (DAMPs).*
+
+---
+
+**29. Which TLRs expressed on Kupffer cells have been shown to play a role in the development of alcoholic liver disease, NASH, and HCC?**
+
+- TLR1, TLR3, and TLR7
+- TLR3, TLR5, and TLR8
+- **TLR2, TLR4, and TLR9**
+- TLR4, TLR6, and TLR10
+
+*Explanation: TLRs (specifically TLR2, TLR4, and TLR9 expressed on Kupffer cells) have been shown to play a role in the development of alcoholic liver disease, NASH, and HCC, likely through interactions with host intestinal flora.*
+
+---
+
+**30. Which of the following describes DAMPs?**
+
+- Specific microbial components conserved between species
+- Viral surface proteins recognized by TLRs
+- **Components of dying cells**
+- Bacterial endotoxins released during infection
+
+*Explanation: DAMPs (damage-associated molecular patterns) are components of dying cells, in contrast to PAMPs which are specific microbial components conserved between species.*
+
+---
+
+**31. IFN-α has been used clinically to treat which hepatic infection?**
+
+- Hepatitis B virus (HBV)
+- **Hepatitis C virus (HCV)**
+- Hepatitis A virus (HAV)
+- Hepatitis E virus (HEV)
+
+*Explanation: IFNs have been shown to play a role in host defenses against viruses, and IFN-α has been used to treat HCV infection.*
+
+---
+
+**32. Which transcription factors are described as key regulators of metabolism in the liver?**
+
+- GLI1, GLI2, and GLI3
+- MyD88 and TRIF
+- **FOXO1, LXR, FXR, SREBP1, and PPAR**
+- NF-κB and TGF-β
+
+*Explanation: Transcription factors such as FOXO1, liver X receptor (LXR), farnesoid X receptor (FXR), SRE-binding protein 1 (SREBP1), and peroxisome proliferator-activated receptors (PPAR) are key regulators of metabolism in the liver.*
+
+---
+
+**33. Which signaling pathways regulate gluconeogenesis and fatty acid metabolism in the liver through insulin and glucagon signaling, respectively?**
+
+- RAS/RAF and MEK/ERK pathways
+- Notch and Hedgehog pathways
+- **PI3K/Akt/mTOR and PKA pathways**
+- Wnt/β-catenin and NF-κB pathways
+
+*Explanation: Insulin and glucagon signaling through the PI3K/Akt/mTOR and PKA pathways, respectively, regulate gluconeogenesis and fatty acid metabolism in the liver; dysregulation of these pathways contributes to insulin resistance.*
+
+---
+
+**34. Approximately what percentage of HCC cases associated with NAFLD occur in non-cirrhotic patients?**
+
+- 10%
+- 25%
+- **50%**
+- 75%
+
+*Explanation: Previous data have demonstrated that approximately 50% of HCC cases associated with NAFLD are in patients who are not cirrhotic, highlighting the importance of understanding the mechanisms behind NAFLD.*
+
+---
+
+**35. Which of the following has been shown to contribute to insulin resistance through fatty acid activation in mouse models?**
+
+- PPAR-α
+- mTOR
+- **TLR4**
+- FOXO1
+
+*Explanation: TLRs have been shown to contribute to insulin resistance through fatty acid activation of TLR4 in mouse models.*
+
+---
+
+**36. Decreased expression of which transcription factor was demonstrated in patients with NASH, steatosis, ballooning, and fibrosis on liver biopsy?**
+
+- FOXO1
+- SREBP1
+- **PPAR-α**
+- LXR
+
+*Explanation: Prior data have demonstrated that PPAR-α expression was decreased in patients who had NASH, steatosis, ballooning of hepatocytes, and fibrosis on liver biopsy compared with those who did not.*
+
+---
+
+**37. Which two genes are among the most frequently mutated in pancreatic and biliary cancers?**
+
+- CTNNB1 and CDKN2A
+- IDH1 and IDH2
+- **TP53 and KRAS**
+- ARID1A and SMAD4
+
+*Explanation: TP53 and KRAS are among the most frequently mutated genes in pancreatic and biliary cancers, making the p53 and RAS pathways two commonly altered signaling pathways in HPB cancers.*
+
+---
+
+**38. TP53 alterations in cancer can result in which of the following types of mutations?**
+
+- Only loss-of-function mutations
+- Only gain-of-function mutations
+- Synonymous mutations only
+- **Either gain-of-function or loss-of-function mutations**
+
+*Explanation: TP53 alterations can result in either gain-of-function or loss-of-function mutations of p53, ultimately resulting in uncontrolled cell proliferation and tumor development.*
+
+---
+
+**39. Mutations in the RAS pathway resulting in constitutive activation lead to increased signaling through which downstream pathway?**
+
+- PI3K/PTEN/mTOR
+- Notch/CBF1/Maml
+- **MEK/ERK**
+- Wnt/β-catenin
+
+*Explanation: Mutations in the RAS pathway result in constitutive activation of RAS/RAF and increased signaling through MEK/ERK, resulting in uncontrolled cell proliferation.*
+
+---
+
+**40. Sorafenib targets which signaling pathways and has been FDA-approved for which indication?**
+
+- VEGF/PDGF/mTOR; second-line HCC
+- RAS/RAF/MEK; first-line pancreatic cancer
+- **Raf/VEGF/PDGF pathways; first-line advanced HCC**
+- FGFR2/VEGF; intrahepatic cholangiocarcinoma
+
+*Explanation: Sorafenib, which targets the Raf/VEGF/PDGF pathways, has been shown to improve overall survival in patients with advanced HCC and is FDA-approved for first-line therapy in these patients.*
+
+---
+
+**41. Regorafenib targets which pathway and is approved for which line of therapy in HCC?**
+
+- FGFR2; first-line
+- Raf/VEGF/PDGF; first-line
+- **VEGF2; second-line**
+- MEK/ERK; third-line
+
+*Explanation: Regorafenib, which targets VEGF2, is approved as a second-line agent in patients with HCC.*
+
+---
+
+**42. Pemigatinib is a small molecule inhibitor of which receptor and has demonstrated survival benefit in which cancer?**
+
+- VEGFR2; HCC
+- PDGFR; gallbladder cancer
+- **FGFR2; intrahepatic cholangiocarcinoma**
+- IDH1; pancreatic ductal adenocarcinoma
+
+*Explanation: Pemigatinib, a small molecule inhibitor of FGFR2, has recently demonstrated a survival benefit in patients with intrahepatic cholangiocarcinoma (CC).*
+
+---
+
+**43. What percentage of worldwide HCC cases are attributed to HBV infection?**
+
+- 21%
+- 30%
+- **44%**
+- 60%
+
+*Explanation: HBV and HCV are strongly associated with the development of HCC; approximately 44% of worldwide cases of HCC are attributed to HBV, whereas 21% are attributed to HCV.*
+
+---
+
+**44. What percentage of worldwide HCC cases are attributed to HCV infection?**
+
+- 10%
+- **21%**
+- 35%
+- 44%
+
+*Explanation: Approximately 21% of worldwide cases of HCC are attributed to HCV, compared with 44% attributed to HBV.*
+
+---
+
+**45. What is the primary mechanism of carcinogenesis in HBV infection?**
+
+- Persistent inflammation leading to cirrhosis
+- Viral protein-mediated apoptosis
+- **Genomic instability from HBV viral DNA integration into the host cell genome**
+- Immune evasion through PD-L1 upregulation
+
+*Explanation: Genomic instability from HBV viral DNA integration into the host cell genome is the primary mechanism of carcinogenesis in HBV infection, coupled with the effects of viral proteins, epigenetic regulation, and aberrant cell signaling.*
+
+---
+
+**46. HCV infection results in carcinogenesis primarily through which mechanism?**
+
+- Direct viral DNA integration into host genome
+- Upregulation of oncogenic KRAS
+- **Persistent inflammation leading to cirrhosis**
+- Inhibition of DNA repair mechanisms
+
+*Explanation: HCV infection results in persistent inflammation leading to cirrhosis, which is believed to be a mechanism of carcinogenesis in HCV.*
+
+---
+
+**47. Which proinflammatory cytokines and chemokines are specifically mentioned as being released during chronic liver inflammation?**
+
+- IFN-γ, IL-4, and IL-10
+- TNF-β, IL-8, and IL-12
+- **IL-1β, IL-6, and TNF-α**
+- IL-2, IL-5, and IFN-α
+
+*Explanation: Foreign antigens or self-antigens produced by damaged hepatocytes lead to recruitment of immune cells and release of proinflammatory cytokines and chemokines, such as IL-1β, IL-6, and TNF-α.*
+
+---
+
+**48. According to mouse studies, which cells are the primary source of myofibroblasts in cholestatic, toxin-induced, and fatty liver diseases?**
+
+- Portal fibroblasts
+- Sinusoidal endothelial cells
+- Bone marrow-derived cells
+- **Hepatic stellate cells (HSCs)**
+
+*Explanation: Studies in mice have demonstrated that HSCs are the primary source of myofibroblasts in cholestatic, toxin-induced, and fatty liver diseases.*
+
+---
+
+**49. What process involves myofibroblast-like HSCs depositing extracellular matrix, promoted by matrix metalloproteinases (MMPs)?**
+
+- Hepatocyte regeneration
+- **ECM deposition promoting fibrosis**
+- Ductal proliferation
+- Acinar-to-ductal metaplasia
+
+*Explanation: Myofibroblast-like HSCs deposit extracellular matrix (ECM), a process that is promoted by matrix metalloproteinases (MMPs), and persistent liver inflammation results in continued deposition of collagen and liver fibrosis.*
+
+---
+
+**50. Chronic pancreatitis is associated with an increased risk for which malignancy?**
+
+- Hepatocellular carcinoma
+- Intrahepatic cholangiocarcinoma
+- Gallbladder cancer
+- **Pancreatic adenocarcinoma**
+
+*Explanation: Analogous associations between chronic inflammation and malignancy are also seen in pancreatic cancer because chronic pancreatitis is associated with an increased risk for pancreatic adenocarcinoma.*
+
+---
+
+**51. Which of the following chronic biliary conditions is associated with the development of cholangiocarcinoma (CC)?**
+
+- Primary biliary cirrhosis and autoimmune hepatitis
+- Hepatitis B and hepatitis C
+- **Primary sclerosing cholangitis (PSC) and chronic biliary stasis**
+- Alcoholic liver disease and NAFLD
+
+*Explanation: Long-standing primary sclerosing cholangitis (PSC) and chronic biliary stasis are associated with the development of CC, although immune activation in this case is less well understood.*
+
+---
+
+**52. What is the definition of cellular plasticity as used in the context of HPB disease?**
+
+- The ability of cancer cells to resist chemotherapy
+- The tendency of cells to undergo apoptosis under stress
+- **Changes to lineage specification and cell fate occurring with physiologic stress, most commonly epigenetic or transcriptional in origin**
+- The capacity of stem cells to self-renew
+
+*Explanation: Cellular plasticity refers to changes to lineage specification and cell fate that occur with physiologic stress and are most commonly epigenetic or transcriptional in origin.*
+
+---
+
+**53. What is acinar-to-ductal metaplasia (ADM)?**
+
+- Conversion of ductal cells to acinar cells in the pancreas
+- Transformation of hepatocytes to cholangiocytes
+- **Transition of acinar cells to ductal cells in the setting of chronic inflammation or pancreatitis**
+- Conversion of islet cells to exocrine cells
+
+*Explanation: In the pancreas, acinar-to-ductal metaplasia (ADM) is the transition of acinar cells to ductal cells and occurs in the setting of chronic inflammation or pancreatitis.*
+
+---
+
+**54. ADM is a precursor to which sequence of pancreatic pathology?**
+
+- ADM → NAFLD → HCC
+- **ADM → pancreatic intraepithelial neoplasia (PanIN) → pancreatic ductal adenocarcinoma (PDAC)**
+- ADM → islet hyperplasia → insulinoma
+- ADM → mucinous cystic neoplasm → invasive carcinoma
+
+*Explanation: ADM is a precursor to pancreatic intraepithelial neoplasia (PanIN) and, ultimately, pancreatic ductal adenocarcinoma (PDAC).*
+
+---
+
+**55. In pancreatic tumorigenesis, which oncogene enforces the reprogramming of acinar cells such that redifferentiation cannot occur?**
+
+- TP53
+- CDKN2A
+- SMAD4
+- **KRAS**
+
+*Explanation: In tumorigenesis, the reprogramming of acinar cells is enforced by oncogenic KRAS, such that the acinar compartment cannot undergo the process of redifferentiation.*
+
+---
+
+**56. Which developmental pathways are reactivated during regeneration of the acinar compartment after injury?**
+
+- TGF-β, NF-κB, and PI3K
+- RAS/RAF and MEK/ERK
+- **β-Catenin signaling, Hedgehog signaling, and the Notch pathway**
+- p53 and VEGF pathways
+
+*Explanation: Regeneration of the acinar compartment is dependent on the reactivation of several developmental pathways, including β-catenin signaling, Hedgehog signaling, and the Notch pathway.*
+
+---
+
+**57. What can hepatocytes differentiate into during times of injury or chronic inflammation in the liver?**
+
+- Kupffer cells
+- Hepatic stellate cells
+- **Cholangiocytes**
+- Sinusoidal endothelial cells
+
+*Explanation: In the liver, hepatocytes can differentiate into cholangiocytes at times of injury or chronic inflammation, leading to the development of CC.*
+
+---
+
+**58. Evidence from rodent models using DDC or TAA demonstrates that the hepatocyte compartment can be reconstituted in part by which cells?**
+
+- Hepatic stellate cells
+- Kupffer cells
+- Sinusoidal endothelial cells
+- **Bile duct epithelial cells**
+
+*Explanation: Using lineage-tracing in rodent models of liver injury with either DDC or TAA, the hepatocyte compartment can be reconstituted in part by bile duct epithelial cells.*
+
+---
+
+**59. What is epithelial-mesenchymal transition (EMT)?**
+
+- A process by which mesenchymal cells become epithelial
+- A mechanism of immune tolerance in the liver
+- **A process during which epithelial cells undergo transitions to gain increased mobility, including loss of cell-to-cell adhesion**
+- The differentiation of progenitor cells into mature hepatocytes
+
+*Explanation: EMT is a process during which epithelial cells undergo a series of transitions (e.g., loss of cell-to-cell adhesion, changes in morphology) to gain increased mobility, which is important in tumor metastasis.*
+
+---
+
+**60. In EMT, a mesenchymal cell fate is acquired through internalization or downregulation of which epithelial transcript?**
+
+- Vimentin
+- N-cadherin
+- **E-cadherin**
+- Fibronectin
+
+*Explanation: In EMT, a mesenchymal cell fate is acquired by either internalization or downregulation of epithelial transcripts such as E-cadherin, along with concomitant increases in intermediate filament proteins, such as vimentin.*
+
+---
+
+**61. Which intermediate filament protein increases during EMT in association with mesenchymal cell fate acquisition?**
+
+- Keratin
+- E-cadherin
+- Desmin
+- **Vimentin**
+
+*Explanation: During EMT, along with the loss of E-cadherin, there are concomitant increases in intermediate filament proteins, such as vimentin, reflecting the acquisition of a mesenchymal phenotype.*
+
+---
+
+**62. Why does the liver play an important role in immune tolerance?**
+
+- Due to its production of complement proteins
+- Due to its synthesis of immunoglobulins
+- **Because of first-pass metabolism from the portal vein resulting in significant antigen exposure to liver cells**
+- Because of its role in T-cell maturation
+
+*Explanation: The liver is a lymphoid organ in many respects and plays an important role in immune tolerance. Given first-pass metabolism from the portal vein, there is significant antigen exposure to cells in the liver.*
+
+---
+
+**63. Which of the following are resident immune cells within the liver?**
+
+- Plasma cells and mast cells
+- Eosinophils and basophils
+- **Lymphocytes and Kupffer cells (macrophages)**
+- Neutrophils and natural killer cells
+
+*Explanation: A subset of cells within the liver are resident immune cells, including lymphocytes and Kupffer cells (macrophages).*
+
+---
+
+**64. Which cells in the liver can act as antigen-presenting cells (APCs) during chronic inflammation and express class II MHC?**
+
+- Only Kupffer cells
+- Only hepatic dendritic cells
+- Only sinusoidal endothelial cells
+- **Kupffer cells, hepatic dendritic cells, sinusoidal endothelial cells, hepatocytes, and biliary epithelial cells**
+
+*Explanation: Many cell types in the liver have the potential to act as APCs, including resident immune cells such as Kupffer cells, hepatic dendritic cells, and sinusoidal endothelial cells; even hepatocytes and biliary epithelial cells can act as APCs during chronic inflammation.*
+
+---
+
+**65. Primary biliary cirrhosis (PBC) is characteristically associated with which antibody?**
+
+- Anti-smooth muscle antibody
+- Anti-nuclear antibody
+- **Antimitochondrial antibody**
+- Anti-liver-kidney microsomal antibody
+
+*Explanation: PBC is an autoimmune disorder characterized by disappearance of the intrahepatic bile ducts, and patients are characteristically antimitochondrial antibody–positive.*
+
+---
+
+**66. Primary sclerosing cholangitis (PSC) is characterized by which pathological process?**
+
+- Autoimmune destruction of hepatocytes
+- Disappearance of intrahepatic bile ducts only
+- **Progressive inflammation and fibrosis of the intra- and extrahepatic bile ducts**
+- Accumulation of copper in bile duct epithelium
+
+*Explanation: PSC is characterized by progressive inflammation and fibrosis of the intra- and extrahepatic bile ducts.*
+
+---
+
+**67. Autoimmune hepatitis involves which immunological mechanism?**
+
+- Complement-mediated destruction of bile ducts
+- NK cell-mediated destruction of Kupffer cells
+- **Antibody-mediated destruction of hepatocytes precipitated by environmental triggers**
+- T-cell mediated destruction of sinusoidal endothelial cells
+
+*Explanation: Autoimmune hepatitis involves antibody-mediated destruction of hepatocytes thought to be precipitated by environmental triggers, which results in activation of both the innate and adaptive immune systems.*
+
+---
+
+**68. In the context of viral hepatitis, which infection is more commonly associated with immune evasion leading to chronic infection?**
+
+- HBV
+- HAV
+- HDV
+- **HCV**
+
+*Explanation: HBV and HCV infections both involve activation of the innate immune system, and immune evasion results in a chronic infection, which is more common in HCV.*
+
+---
+
+**69. Which immunotherapy trials in HCC (evaluating pembrolizumab and nivolumab, respectively) failed to demonstrate meaningful survival benefit?**
+
+- KEYNOTE-158 and CheckMate 040
+- KEYNOTE-522 and CheckMate 816
+- **KEYNOTE-240 and CheckMate 459**
+- KEYNOTE-811 and CheckMate 274
+
+*Explanation: Recent trials evaluating pembrolizumab (KEYNOTE-240) and nivolumab (CheckMate 459) in HCC did not demonstrate a meaningful survival benefit compared with best supportive care and sorafenib, respectively.*
+
+---
+
+**70. How is tumor mutational burden (TMB) defined?**
+
+- The ratio of tumor cells to stromal cells in a tumor specimen
+- The total number of chromosomal deletions in a tumor
+- **The number of mutations per coding area of tumor genome**
+- The density of immune cell infiltration in tumor tissue
+
+*Explanation: Tumor mutational burden (TMB) is defined as the number of mutations per coding area of tumor genome and has been shown to correlate with neoantigen expression.*
+
+---
+
+**71. Why are HPB cancers generally considered poorly responsive to immunotherapy?**
+
+- Due to overexpression of PD-L1
+- Due to high mutational burden creating immune exhaustion
+- Due to lack of vascularization
+- **Due to the dearth of neoantigen expression resulting in a lack of immune cell engagement**
+
+*Explanation: HPB cancers are thought to be poorly responsive to immunotherapy secondary to the dearth of neoantigen expression resulting in a lack of immune cell engagement.*
+
+---
+
+**72. Which subset of HPB tumors have an increased TMB and may respond better to immunotherapy?**
+
+- All HCC and all PDAC cases
+- Only liver-fluke associated HCC
+- **Microsatellite stable PDAC, CC, viral-induced HCC, and liver-fluke associated CC**
+- Only IDH1-mutated cholangiocarcinoma
+
+*Explanation: A subset of HPB tumors have an increased TMB, including microsatellite stable PDAC and CC, viral-induced HCC, and liver-fluke associated CC, and immunotherapy has been shown to be more effective in this subset.*
+
+---
+
+**73. In the KEYNOTE-158 trial, what overall response rate was observed for pembrolizumab in patients with MSI-high PDAC and CC, respectively?**
+
+- 5.1% and 15.3%
+- 12.5% and 28.7%
+- **18.2% and 40.9%**
+- 25.4% and 55.2%
+
+*Explanation: KEYNOTE-158 evaluated pembrolizumab in patients with non-colorectal cancers with high microsatellite instability (MSIhi), including PDAC and CC, and demonstrated an overall response rate of 18.2% and 40.9%, respectively.*
+
+---
+
+**74. What are the four well-established driver genes in pancreatic ductal adenocarcinoma (PDAC)?**
+
+- KRAS, TP53, IDH1, and IDH2
+- KRAS, TP53, ARID1A, and PIK3CA
+- **KRAS, TP53, CDKN2A, and SMAD4**
+- KRAS, TP53, CTNNB1, and PTEN
+
+*Explanation: In PDAC, the four well-established driver genes are KRAS, TP53, CDKN2A, and SMAD4.*
+
+---
+
+**75. Which commonly altered genes are found in biliary tract cancers in addition to KRAS and TP53?**
+
+- CTNNB1, SMAD4, and CDKN2A
+- BRCA1, BRCA2, and PARP
+- **IDH1, IDH2, and PIK3CA**
+- ALK, NRG1, and NTRK
+
+*Explanation: Similar drivers such as KRAS and TP53 are noted in biliary tract cancers, as well as additional commonly altered genes such as IDH1, IDH2, and PIK3CA.*
+
+---
+
+**76. In addition to single nucleotide variants, which large-scale genomic abnormalities are noted in CC, gallbladder cancer, and PDAC?**
+
+- Microsatellite instability and point mutations
+- Epigenetic silencing and promoter hypermethylation
+- **Copy number alterations (CNA) and large-scale chromosomal aberrations including chromothripsis**
+- Telomere shortening and centrosome amplification
+
+*Explanation: In addition to single nucleotide variants, copy number alterations (CNA) and large-scale chromosomal aberrations, including chromothripsis, are noted in CC, gallbladder cancer, and PDAC.*
+
+---
+
+**77. HPB cancers are overall characterized by which of the following regarding their mutational profile?**
+
+- High rate of somatic point mutations
+- High tumor mutational burden
+- **A paucity of mutational events (lower rate of somatic point mutations compared with other cancer types)**
+- Predominantly microsatellite instability high (MSIhi) status
+
+*Explanation: Previous studies have demonstrated a lower rate of somatic point mutations in pancreatic and hepatobiliary cancers compared with other cancer types. A lower TMB is associated with fewer neoantigens and a decreased response to immunotherapeutic agents.*
+
+---
+
+**78. HCC is particularly noteworthy for which genomic features that can also be found in cirrhotic regenerative nodules?**
+
+- High tumor mutational burden and MSIhi status
+- KRAS mutations and IDH1 mutations
+- **Profound structural variants and depression of transposable elements**
+- Frequent BRCA1 and BRCA2 germline mutations
+
+*Explanation: HCC in particular is noteworthy for profound structural variants and depression of transposable elements, which can also be found in the regenerative nodules of cirrhotic patients, long before the development of apparent malignancy.*
+
+---
+
+**79. Ivosidenib is a targeted inhibitor of which mutated enzyme, and in which cancer has it recently been shown to improve progression-free survival?**
+
+- IDH2; gallbladder cancer
+- FGFR2; extrahepatic cholangiocarcinoma
+- **IDH1; IDH1-mutated intrahepatic cholangiocarcinoma**
+- VEGFR2; hepatocellular carcinoma
+
+*Explanation: Ivosidenib is a targeted inhibitor of mutated IDH1 and has recently been shown to improve progression-free survival compared with placebo in patients with IDH1-mutated intrahepatic CC.*
+
+---
+
+**80. Patients with PDAC who have germline BRCA1 and BRCA2 mutations have been shown to have improved outcomes when treated with which agents?**
+
+- FGFR2 inhibitors and immunotherapy
+- IDH1 inhibitors and anti-VEGF therapy
+- **Platinum-based chemotherapy and PARP inhibitors**
+- Tyrosine kinase inhibitors and anti-PD-L1 agents
+
+*Explanation: Data suggest that patients diagnosed with PDAC who have germline BRCA1 and BRCA2 mutations treated with platinum-based chemotherapy and poly-ADP ribose polymerase (PARP) inhibitors have improved outcomes.*
+
+---
+
+**81. Which driver alterations in KRAS-wildtype PDAC can be targeted with tyrosine kinase inhibitors?**
+
+- NRG1 rearrangements
+- NTRK fusions
+- **ALK alterations**
+- IDH1 mutations
+
+*Explanation: Additional drivers of tumorigenesis have been identified and successfully targeted in a subset of KRAS-wildtype PDAC, including ALK alterations that can be targeted with tyrosine kinase inhibitors.*
+
+---
+
+**82. NRG1 rearrangements in KRAS-wildtype PDAC have been treated with which type of inhibitors?**
+
+- ALK inhibitors
+- PARP inhibitors
+- IDH1 inhibitors
+- **ERBB inhibitors**
+
+*Explanation: NRG1 rearrangements in KRAS-wildtype PDAC have been treated with ERBB inhibitors as a targeted therapeutic approach.*
+
+---
+
+**83. What do epigenetic alterations involve, as defined in this chapter?**
+
+- Only changes to the DNA sequence coding regions
+- Only gene deletions and duplications
+- **Those exclusive of changes to the DNA sequence itself, including chromatin modification and post-transcriptional regulation**
+- Only promoter methylation changes
+
+*Explanation: Epigenetic alterations involve those exclusive of changes to the DNA sequence itself and include chromatin modification and post-transcriptional regulation.*
+
+---
+
+**84. In PDAC, mutations have been found in which genes encoding proteins responsible for post-translational modifications?**
+
+- KRAS, TP53, and CDKN2A
+- IDH1, IDH2, and PIK3CA
+- ARID1A and SMAD4
+- **MLL2 (KMT2D), MLL3 (KMT2C), and KDM6A**
+
+*Explanation: In PDAC, mutations have been found in the genes that encode MLL2 (KMT2D), MLL3 (KMT2C), and KDM6A, which encode proteins responsible for post-translational modifications.*
+
+---
+
+**85. What is ARID1A, and what is its role in chromatin biology?**
+
+- A kinase involved in cell cycle regulation
+- A transcription factor activating oncogenes
+- **A protein subunit of the SWI/SNF complex that is integral for chromatin remodeling**
+- A histone methyltransferase promoting gene silencing
+
+*Explanation: ARID1A encodes a protein subunit of the SWI/SNF complex that is integral for chromatin remodeling, and mutations in ARID1A appear to confer a basal or squamous transcriptional phenotype to PDAC.*
+
+---
+
+**86. ARID1A and KDM6A mutations in PDAC are associated with which transcriptional phenotype?**
+
+- Progenitor-like phenotype associated with better outcomes
+- Luminal or classical phenotype associated with chemosensitivity
+- **Basal or squamous transcriptional phenotype associated with poorer outcomes and chemoresistance**
+- Exocrine phenotype associated with acinar differentiation
+
+*Explanation: Among epigenetic regulators in PDAC, ARID1A and KDM6A appear to confer a basal or squamous transcriptional phenotype to PDAC, which is associated with poorer outcomes and with chemoresistance.*
+
+---
+
+**87. Chromatin-based enhancer reprogramming in cancer can occur in the absence of which type of event, thereby permitting metastasis?**
+
+- Epigenetic modifications
+- Post-translational modifications
+- Transcriptional changes
+- **A genetic event**
+
+*Explanation: Chromatin-based enhancer reprogramming also occurs in the absence of a genetic event and permits metastasis of established tumors, suggesting epigenetic regulators and chromatin plasticity drive aggressive behavior in PDAC.*
+
+---
+
+**88. In cholangiocarcinoma (CC), mutations to IDH1 and IDH2 result in abnormal production of which oncometabolite?**
+
+- α-Ketoglutarate (α-KG)
+- Succinate
+- Fumarate
+- **2-Hydroxyglutarate (2-HG)**
+
+*Explanation: In CC, mutations to the isocitrate dehydrogenase enzymes IDH1 and IDH2 are common resulting in the abnormal production of the oncometabolite 2-hydroxyglutarate (2-HG).*
+
+---
+
+**89. In IDH-mutated cancers, what happens to α-ketoglutarate (α-KG) levels and what is the downstream epigenetic effect?**
+
+- α-KG is increased, leading to DNA hypomethylation
+- α-KG is increased, leading to histone demethylation
+- **α-KG is diminished, and DNA demethylases that require α-KG are affected, resulting in DNA hypermethylation and altered gene expression**
+- α-KG is diminished, leading to increased histone acetylation
+
+*Explanation: α-KG, a key intermediate in the TCA cycle, is diminished, and histone and DNA demethylases that require α-KG are affected so that there are resultant increases in DNA hypermethylation and altered gene expression.*
+
+---
+
+**90. How does p53 relate to α-KG levels and chromatin modification in cancer?**
+
+- p53 directly methylates histones to promote gene expression
+- p53 inhibits α-KG production through mTOR signaling
+- **p53 preserves α-KG levels, such that p53 mutations represent an alternate means by which cancers hijack chromatin-modifying enzymes**
+- p53 promotes α-KG degradation through the TCA cycle
+
+*Explanation: It has been shown that p53 also preserves α-KG levels such that mutations to this tumor suppressor represent an alternate means by which cancers appear to hijack chromatin-modifying enzymes to alter transcriptional landscapes.*
+
+---
+
+**91. In HCC, when do clonal mutations to chromatin regulators first appear according to elegant studies?**
+
+- Only in full-blown HCC
+- At the stage of dysplastic nodules
+- **First in cirrhosis, accumulating in full-blown HCC**
+- At the stage of early hepatitis
+
+*Explanation: In HCC, chromatin regulators appear central across the spectrum of malignancy, with elegant studies indicating that clonal mutations to these regulators first appear in cirrhosis and accumulate in full-blown HCC.*
+
+---
+
+**92. Which key chromatin regulators are mutated in HCC, with one (ARID1A) displaying distinct oncogenic and tumor suppressive roles?**
+
+- KRAS, TP53, and IDH1
+- MLL2, MLL3, and KDM6A
+- **ARID1A, BAP1, and ARID2**
+- SMAD4, CDKN2A, and PIK3CA
+
+*Explanation: The key chromatin regulators mutated in HCC include ARID1A, BAP1, and ARID2, with ARID1A notably displaying distinct oncogenic and tumor suppressive roles in initiation and progression of HCC.*
+
+---
+
+**93. Which statement best describes why the same signaling pathway may serve multiple functions within the same cell or organ?**
+
+- Due to random genetic mutations altering pathway specificity
+- Due to the number of ligands available at any given time
+- **Due to the stage of development, surrounding microenvironment, or other selective pressure**
+- Due to epigenetic silencing of alternative pathways
+
+*Explanation: The same signaling pathway may serve multiple functions within the same cell or organ, which is dependent on the stage of development, surrounding microenvironment, or other selective pressure.*
+
+---
+
+**94. The MyD88 and TRIF pathways activated by TLRs ultimately result in activation of which transcription factor?**
+
+- β-Catenin
+- GLI1
+- p53
+- **NF-κB**
+
+*Explanation: TLRs activate multiple signaling pathways in immune cells, including the myeloid differentiation primary response (MyD88) and TRIF pathways, resulting in activation of NF-κB and, ultimately, an inflammatory response.*
+
+---
+
+**95. Wnt signaling is initially suppressed during early liver development and later activated; it is critical to which hepatic function?**
+
+- Kupffer cell maturation
+- Portal venous development
+- **Metabolic zonation in the liver**
+- Sinusoidal endothelial cell formation
+
+*Explanation: Wnt is initially suppressed in early liver development and then activated later, and this pathway is critical to metabolic zonation in the liver.*
+
+---
+
+**96. Which of the following best describes why HPB cancers have very few actionable genomic alterations compared to other tumor types?**
+
+- They have too many mutations for targeted therapy
+- They primarily arise through immune evasion mechanisms
+- **They are characterized by a paucity of mutational events and few targetable driver genes**
+- They exclusively harbor germline mutations not amenable to targeting
+
+*Explanation: Unlike other tumor types such as non–small cell lung cancer and colorectal cancer, HPB cancers are characterized by very few actionable genomic alterations, related to the overall paucity of mutational events in these cancers.*
+
+---
+
+**97. Epigenetic mechanisms in metastatic PDAC are critical to defining which two processes?**
+
+- Tumor initiation and immunosuppression
+- Angiogenesis and apoptosis resistance
+- **Organotropism and metabolic rewiring**
+- Invasion and stem cell maintenance
+
+*Explanation: Epigenetic mechanisms are also critical to defining organotropism and metabolic rewiring in metastatic disease.*
+
+---
+
+**98. Which of the following signaling pathways is involved in both normal development and liver/pancreatic injury responses, but is largely absent from the adult liver until reactivated?**
+
+- Wnt/β-catenin
+- NF-κB
+- PI3K/Akt/mTOR
+- **Hedgehog (Hh)**
+
+*Explanation: Hh ligands are largely absent in the adult liver but are reactivated in response to liver injury and at times of liver regeneration, mirroring their role in developmental organogenesis.*
+
+---
+
+**99. In the context of immune cell engagement, PD-L1 expression as a biomarker for immunotherapy response has been shown to have which characteristic in HPB cancers?**
+
+- Strong positive correlation with TMB
+- Predictive of complete response to pembrolizumab
+- Useful for selecting patients for nivolumab therapy in HCC
+- **Poorly correlated with TMB**
+
+*Explanation: There are additional biomarkers that can inform of the response to immunotherapy, including PD-L1 expression, but these have been shown to be poorly correlated with TMB in HPB cancers.*
+
+---
+
+**100. Which of the following statements best summarizes the overall molecular and cellular basis of HPB disease as concluded in Chapter 9A?**
+
+- HPB disease is caused primarily by single gene mutations with predictable consequences
+- Epigenetic changes alone are responsible for the development of HPB malignancies
+- Immune dysregulation is the sole driver of benign and malignant HPB diseases
+- **HPB disease results from a complex interaction between genetic alterations, epigenetic modifications, and immune dysregulations that alter key conserved signaling pathways, broadly disrupting epithelial cell fate and organ homeostasis**
+
+*Explanation: The chapter concludes that the molecular and cellular basis of HPB disease is a complex interaction between genetic alterations, epigenetic modifications, and immune dysregulations that alter several key conserved signaling pathways, serving broadly to disrupt epithelial cell fate and homeostasis of the organ.*

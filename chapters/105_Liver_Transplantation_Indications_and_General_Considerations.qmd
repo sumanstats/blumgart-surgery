@@ -1,0 +1,1361 @@
+# 105 Liver Transplantation: Indications and General Considerations
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+Generated with Claude. 
+
+**1. In what year was the first human orthotopic liver transplant carried out by Starzl?**
+
+- 1958
+- 1960
+- **1963**
+- 1968
+
+*Explanation: The text states "The first human orthotopic liver transplant was carried out by Starzl in 1963."*
+
+**2. How many liver transplants from deceased donors were performed in the United States in 2019?**
+
+- 5,000
+- 6,500
+- **8,372**
+- 10,500
+
+*Explanation: The text states "In 2019, in the United States, there were 8372 liver transplants from deceased donors and 524 from living donors."*
+
+**3. What is the approximate 1-year survival rate currently reported by many centers for elective liver transplantation?**
+
+- 70-75%
+- 80-85%
+- **Greater than 90%**
+- 95-98%
+
+*Explanation: The text states "many centers are currently reporting 1-year survival rates greater than 90% in elective" liver transplantation.*
+
+**4. What is the approximate risk of donor death after living donor liver transplantation?**
+
+- 1 in 50
+- 1 in 100
+- **1 in 250**
+- 1 in 500
+
+*Explanation: The text states "even after careful evaluation, the risk of donor death is approximately 1 in 250 (risk depends on lobe[s] removed)."*
+
+**5. What is the approximate morbidity rate for living liver donors?**
+
+- 10%
+- 20%
+- **30%**
+- 40%
+
+*Explanation: The text states "morbidity is approximately 30%" for living liver donors.*
+
+**6. What MELD score threshold indicates a survival benefit from transplant?**
+
+- Greater than 10
+- Greater than 12
+- **Greater than 17**
+- Greater than 20
+
+*Explanation: The text states "A survival benefit as evidenced by MELD score of greater than 17" is an indication for transplantation.*
+
+**7. Which of the following is NOT listed as an indication for referral for liver transplantation in adult patients with cirrhosis?**
+
+- Recurrent variceal bleeding
+- Spontaneous bacterial peritonitis
+- **Stable compensated cirrhosis without complications**
+- Hepatopulmonary syndrome
+
+*Explanation: The text lists hepatic decompensation, increasing ascites, recurrent variceal bleeding, spontaneous bacterial peritonitis, and hepatopulmonary syndrome as indications. Stable compensated cirrhosis without complications is not an indication for transplant.*
+
+**8. What serum albumin level is listed as a biochemical marker indicating consideration for liver transplantation?**
+
+- Less than 25 g/dL
+- **Less than 30 g/dL**
+- Less than 35 g/dL
+- Less than 40 g/dL
+
+*Explanation: Box 105.1 lists "Serum albumin <30g/dL" as a biochemical marker for referral for liver transplantation.*
+
+**9. For cholestatic disease, what serum bilirubin level indicates consideration for transplantation?**
+
+- Greater than 30 mmol/L
+- Greater than 50 mmol/L
+- Greater than 75 mmol/L
+- **Greater than 100 mmol/L**
+
+*Explanation: Box 105.1 lists "Serum bilirubin >100mmol/L for cholestatic disease" as a biochemical marker.*
+
+**10. Which of the following is an absolute contraindication to liver transplantation?**
+
+- Age over 70 years
+- BMI greater than 35 kg/m²
+- **Active sepsis**
+- Previous abdominal surgery
+
+*Explanation: The text lists "The patient is unlikely to survive the procedure (e.g., active sepsis)" as an absolute contraindication.*
+
+**11. What BMI threshold is associated with poorer outcomes in liver transplantation?**
+
+- Greater than 30 kg/m²
+- Greater than 35 kg/m²
+- **Greater than 40 kg/m²**
+- Greater than 45 kg/m²
+
+*Explanation: The text states "Those with body mass index (BMI) greater than 40kg/m² have a poorer outcome."*
+
+**12. Which malignancy is considered only in highly selected patients with chemotherapy and irradiation protocols?**
+
+- Hepatocellular carcinoma
+- **Cholangiocarcinoma**
+- Metastatic colon cancer
+- Neuroendocrine tumors
+
+*Explanation: The text states "Cholangiocarcinoma: Considered only in highly selected patients in agreed protocols with chemotherapy and irradiation because of early recurrence."*
+
+**13. What proportion of liver transplants in the UK are from donors after circulatory death (DCD)?**
+
+- About 5%
+- About 15%
+- **About 30%**
+- About 50%
+
+*Explanation: The text states "Rates are lower in the United States (about 5%) than in United Kingdom, where the proportion of DCD is about 30%."*
+
+**14. What is the prevalence of malnutrition in end-stage cirrhosis?**
+
+- Up to 30%
+- Up to 45%
+- **Up to 60%**
+- Up to 75%
+
+*Explanation: The text states "Malnutrition is a common finding in end-stage cirrhosis, with a prevalence of up to 60%."*
+
+**15. Which of the following is NOT a cause of malnutrition in patients with cirrhosis?**
+
+- The disease itself
+- Poor intake
+- **Increased protein synthesis**
+- Malabsorption
+
+*Explanation: The text lists the disease itself, poor intake, dietary restrictions, and malabsorption as causes. Increased protein synthesis is not mentioned; rather, there is sarcopenia and muscle wasting.*
+
+**16. What is the recommended dose of ursodeoxycholic acid (UDCA) for primary biliary cholangitis?**
+
+- 5-8 mg/kg/day
+- 10-12 mg/kg/day
+- **13-15 mg/kg/day**
+- 20-25 mg/kg/day
+
+*Explanation: The text states "Ursodeoxycholic acid (UDCA), at a dose of 13 to 15mg/kg/day is associated with a significant delay to the time of transplantation."*
+
+**17. Which frailty assessment tool includes hand grip, balance, and chair stands?**
+
+- Charlson Frailty Index
+- Karnofsky performance scale
+- **Liver Frailty Index**
+- Fried Frailty Phenotype
+
+*Explanation: The text states "simple scores such as the Charlson Frailty Index, Karnofsky performance scale, and the Liver Frailty Index (hand grip, balance, and chair stands) have been used."*
+
+**18. What percentage of liver transplant candidates have psychological health problems?**
+
+- Less than 25%
+- About 35%
+- **More than 50%**
+- About 75%
+
+*Explanation: The text states "More than half of liver transplant candidates have a wide range of psychological health problems."*
+
+**19. Which of the following is NOT a risk factor for poor psychological outcome after liver transplantation?**
+
+- Mood disorders
+- Lack of social support
+- Substance misuse
+- **Higher educational level**
+
+*Explanation: The text lists mood disorders, lack of social support, substance misuse, and alcohol as risk factors. Higher educational level is not mentioned as a risk factor.*
+
+**20. What CD4 count threshold is required for HIV-positive patients to be considered for liver transplantation?**
+
+- Greater than 50 cells/μL
+- Greater than 100 cells/μL
+- **Greater than 200 cells/μL**
+- Greater than 350 cells/μL
+
+*Explanation: The text states indications for HIV-positive patients include "CD4 count greater than 200."*
+
+**21. What percentage of patients with end-stage liver disease have coronary artery disease?**
+
+- 5%
+- 10%
+- **15%**
+- 25%
+
+*Explanation: The text states "Coronary artery disease (CAD) is present in 15% of patients with end-stage liver disease."*
+
+**22. What is the diagnostic mean pulmonary artery pressure (MPAP) threshold for portopulmonary hypertension?**
+
+- Greater than 15 mm Hg
+- Greater than 20 mm Hg
+- **Greater than 25 mm Hg**
+- Greater than 35 mm Hg
+
+*Explanation: The text states "Diagnostic criteria for portopulmonary hypertension (PPH) include presence of liver disease... and an elevation of the mean pulmonary artery pressure (MPAP) greater than 25mm Hg."*
+
+**23. What MPAP level defines severe portopulmonary hypertension?**
+
+- Greater than 25 mm Hg
+- Greater than 35 mm Hg
+- **Greater than 45 mm Hg**
+- Greater than 55 mm Hg
+
+*Explanation: The text states "severe PPH (MPAP >45mm Hg) are predictors of increased mortality after transplant."*
+
+**24. What is the threshold for pulmonary vascular resistance (PVR) in the diagnosis of portopulmonary hypertension?**
+
+- Greater than 120 dyn-s/cm⁵
+- Greater than 180 dyn-s/cm⁵
+- **Greater than 240 dyn-s/cm⁵**
+- Greater than 400 dyn-s/cm⁵
+
+*Explanation: The text states the diagnosis requires "an elevated pulmonary vascular resistance (PVR) greater than 240dyn-s/cm²⁵."*
+
+**25. What serum sodium level is associated with increased risk of central pontine myelinolysis after transplantation?**
+
+- Less than 125 mmol/L
+- **Less than 120 mmol/L**
+- Less than 115 mmol/L
+- Less than 110 mmol/L
+
+*Explanation: The text states "Grafting patients with severe hyponatremia (serum sodium <120mmol/L) has shown that there is an increased risk of central pontine myelinolysis."*
+
+**26. What glomerular filtration rate (GFR) threshold indicates consideration for combined liver and kidney transplantation?**
+
+- Less than 60 mL/min
+- Less than 45 mL/min
+- **Less than 30 mL/min**
+- Less than 15 mL/min
+
+*Explanation: The text states combined transplantation may be considered for "Liver failure and chronic kidney disease, with glomerular filtration rate (GFR) less than 30mL/min."*
+
+**27. How long must renal support be required for acute kidney injury to consider combined liver-kidney transplantation?**
+
+- At least 2 weeks
+- At least 4 weeks
+- **At least 8 weeks**
+- At least 12 weeks
+
+*Explanation: The text states combined transplantation may be considered for "Liver failure and acute kidney injury, with serum creatinine greater than 2.0mg/dL, and renal support for at least 8weeks."*
+
+**28. Which of the following tumors has a high recurrence rate after liver transplantation and should generally be avoided?**
+
+- Testicular carcinoma
+- **Melanoma**
+- Thyroid carcinoma
+- Cervical carcinoma
+
+*Explanation: Box 105.3 lists melanoma under "High Recurrence Rate" tumors, while testicular, thyroid, and cervical carcinomas have low recurrence rates.*
+
+**29. What percentage of patients with hepatocellular carcinoma account for liver transplants?**
+
+- 10%
+- 20%
+- **30%**
+- 40%
+
+*Explanation: The text states HCC "accounts for as many as 30% of transplants."*
+
+**30. According to Milan criteria, what is the maximum size for a single hepatocellular carcinoma to be considered for transplantation?**
+
+- 3 cm
+- 4 cm
+- **5 cm**
+- 6.5 cm
+
+*Explanation: The text states Milan criteria include "a single tumor less than 5cm in diameter."*
+
+**31. According to Milan criteria, what is the maximum number of tumors allowed for liver transplantation in HCC patients?**
+
+- One tumor
+- Two tumors
+- **Three tumors**
+- Five tumors
+
+*Explanation: The text states Milan criteria include "no more than three tumors, all less than 3cm in diameter."*
+
+**32. What serum AFP level is used by many centers as a contraindication to transplantation for HCC?**
+
+- Greater than 100 ng/mL
+- Greater than 400 ng/mL
+- **Greater than 1000 ng/mL**
+- Greater than 2000 ng/mL
+
+*Explanation: The text states "many centers will exclude transplantation in patients with an AFP greater than 1000ng/mL."*
+
+**33. What percentage of patients with acute liver failure requiring transplant account for all liver transplants?**
+
+- Less than 1%
+- **Less than 5%**
+- About 10%
+- About 15%
+
+*Explanation: The text states "FHF requiring transplant accounts for less than 5% of liver transplants."*
+
+**34. What is the mortality rate for patients with severe fulminant hepatic failure and grade IV encephalopathy without transplantation?**
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: The text states "In patients with severe FHF and grade IV hepatic encephalopathy, the mortality approaches 80%."*
+
+**35. Which of the following is NOT a common cause of death in fulminant hepatic failure?**
+
+- Cerebral edema
+- Multiorgan failure
+- **Pulmonary embolism**
+- Sepsis
+
+*Explanation: The text lists cerebral edema, multiorgan failure, sepsis, cardiac arrhythmia or arrest, and respiratory failure as common causes of death. Pulmonary embolism is not mentioned.*
+
+**36. What is the time window for the onset of encephalopathy in fulminant hepatic failure?**
+
+- Within 2 weeks
+- **Within 8 weeks**
+- Within 12 weeks
+- Within 24 weeks
+
+*Explanation: The text defines FHF as "the presence of encephalopathy occurring within 8weeks of the onset of symptoms in a patient with previously normal liver."*
+
+**37. Which King's College Hospital criterion for acetaminophen poisoning includes arterial lactate greater than 5 mmol/L on admission?**
+
+- Category 1
+- Category 2
+- **Category 3**
+- Category 4
+
+*Explanation: Box 105.4 states Category 3 includes "arterial lactate >5mmol/L on admission and >4mmol/L 24hours later in the presence of clinical hepatic."*
+
+**38. What pH threshold is used in Category 1 of UK super-urgent transplantation criteria for acetaminophen poisoning?**
+
+- Less than 7.20
+- **Less than 7.25**
+- Less than 7.30
+- Less than 7.35
+
+*Explanation: Box 105.4 states Category 1 includes "pH <7.25 more than 24hours after overdose and after fluid resuscitation."*
+
+**39. What INR threshold is used in Category 2 for acetaminophen poisoning super-urgent listing?**
+
+- Greater than 3.5
+- Greater than 4.5
+- Greater than 5.5
+- **Greater than 6.5**
+
+*Explanation: Box 105.4 states Category 2 includes "INR >6.5" along with other criteria.*
+
+**40. Which metabolic disease is NOT listed as primarily affecting the liver in Table 105.1?**
+
+- Wilson disease
+- α1-Antitrypsin deficiency
+- **Primary hyperoxaluria**
+- Hemochromatosis
+
+*Explanation: Table 105.1 lists primary hyperoxaluria under "OTHER ORGANS ALSO AFFECTED" rather than "LIVER AFFECTED." Wilson disease, α1-antitrypsin deficiency, and hemochromatosis are listed under "LIVER AFFECTED."*
+
+**41. What percentage of liver transplants in adults are for metabolic diseases?**
+
+- Less than 1%
+- **Less than 5%**
+- About 10%
+- About 15%
+
+*Explanation: The text states "A number of metabolic diseases, accounting for less than 5% of liver transplants in adults, may be corrected by liver transplantation."*
+
+**42. Which of the following conditions may recur after liver transplantation?**
+
+- Wilson disease
+- **Hemochromatosis**
+- Crigler-Najjar syndrome
+- Hemophilia A
+
+*Explanation: The text states "the consequences of genetic hemochromatosis may recur after transplantation." Table 105.1 also marks hemochromatosis with "a" indicating "May recur after."*
+
+**43. What is the annual incidence of cholangiocarcinoma in patients with primary sclerosing cholangitis?**
+
+- Up to 0.5% per year
+- **Up to 1.5% per year**
+- Up to 3% per year
+- Up to 5% per year
+
+*Explanation: The text states "The incidence of cholangiocarcinoma in PSC is up to 1.5% a year."*
+
+**44. What is the lifetime risk of cholangiocarcinoma in patients with primary sclerosing cholangitis?**
+
+- Up to 5%
+- Up to 10%
+- **Up to 20%**
+- Up to 30%
+
+*Explanation: The text states "with a prevalence of 6% to 13% and a lifetime risk of up to 20%."*
+
+**45. Which inflammatory bowel disease is most commonly associated with primary sclerosing cholangitis?**
+
+- Crohn's disease
+- **Ulcerative colitis**
+- Microscopic colitis
+- Indeterminate colitis
+
+*Explanation: The text states "Most cases of PSC are associated with inflammatory bowel disease, usually ulcerative colitis."*
+
+**46. What percentage of patients with PBC have coexisting celiac disease?**
+
+- 1%
+- **3%**
+- 5%
+- 10%
+
+*Explanation: The text states "Celiac disease is found in 3% of patients with PBC."*
+
+**47. What serum bilirubin level does AASLD recommend as an indication for transplantation evaluation in PBC?**
+
+- Greater than 3 mg/dL
+- **Greater than 6 mg/dL**
+- Greater than 10 mg/dL
+- Greater than 15 mg/dL
+
+*Explanation: The text states AASLD Guidelines recommend referral "total bilirubin greater than 6mg/dL."*
+
+**48. What is the range for total bilirubin indication in EASL guidelines for PBC transplantation?**
+
+- 1-2 mg/dL
+- **3-5 mg/dL**
+- 6-8 mg/dL
+- 8-10 mg/dL
+
+*Explanation: The text states EASL guidelines recommend "between 3 and 5mg/dL."*
+
+**49. Which of the following is NOT a recommended indication for liver transplantation in alcoholic liver disease?**
+
+- Severe alcoholic hepatitis unresponsive to medical therapy
+- Decompensated cirrhosis with abstinence
+- **Active alcohol use without attempt at abstinence**
+- Acute alcoholic hepatitis with Lille score >0.45
+
+*Explanation: Active alcohol use is a contraindication. The text states patients should be abstinent and that "Active alcohol use" is listed under relative contraindications.*
+
+**50. What was the 6-month survival rate in Mathurin's landmark study of liver transplantation for severe alcoholic hepatitis?**
+
+- 50%
+- 60%
+- **77%**
+- 85%
+
+*Explanation: The text states "Outcomes after transplantation were reasonable (77% at 6months) compared with 27% in those who were not transplanted."*
+
+**51. How many of the 26 transplanted patients in Mathurin's study returned to alcohol use?**
+
+- None
+- **2**
+- 5
+- 8
+
+*Explanation: The text states "2 of the 26 transplanted patients returned to alcohol."*
+
+**52. Which of the following is NOT a selection criterion used in Mathurin's study for alcoholic hepatitis transplantation?**
+
+- No prior episodes of alcoholic hepatitis
+- Lille scores >0.45
+- Supportive family members
+- **Age less than 40 years**
+
+*Explanation: The selection criteria listed include no prior episodes, Lille scores >0.45, supportive family, no severe coexisting conditions, and commitment to abstinence. Age less than 40 is not mentioned.*
+
+**53. What percentage of liver transplants are currently for hepatitis B virus infection?**
+
+- Less than 1%
+- **Less than 5%**
+- About 10%
+- About 15%
+
+*Explanation: The text states HBV "accounting for less than 5% of transplants."*
+
+**54. Which antiviral agent is NOT currently recommended for pre-transplant treatment of hepatitis B?**
+
+- Entecavir
+- Tenofovir
+- **Pegylated interferon**
+- Tenofovir alafenamide
+
+*Explanation: The text states "Pegylated interferon is contraindicated in patients with decompensated liver disease." Entecavir and tenofovir are recommended, and TAF is mentioned as a possible alternative.*
+
+**55. What has dramatically reduced the need for liver transplantation in patients with hepatitis C infection?**
+
+- Better screening programs
+- **Direct-acting antiviral agents (DAAs)**
+- Improved immunosuppression
+- Better surgical techniques
+
+*Explanation: The text states "The impact of effective direct-acting antiviral agents (DAAs) has dramatically reduced the need for transplantation for those infected with HCV."*
+
+**56. Which of the following is a contraindication to liver transplantation in hepatocellular carcinoma?**
+
+- Single tumor 4 cm
+- Three tumors each 2 cm
+- **Vascular invasion**
+- Tumor within Milan criteria
+
+*Explanation: The text states "Vascular invasion and extrahepatic spread are currently both contraindications."*
+
+**57. What is the maximum total tumor diameter allowed in the San Francisco expanded criteria for HCC?**
+
+- 6 cm
+- 7 cm
+- **8 cm**
+- 10 cm
+
+*Explanation: The text states the San Francisco criteria include "three or fewer nodules with the largest lesion 4.5cm or less and a total tumor diameter of 8cm or less."*
+
+**58. What is the maximum size for a solitary tumor in the San Francisco expanded criteria?**
+
+- 5 cm
+- 5.5 cm
+- 6 cm
+- **6.5 cm**
+
+*Explanation: The text states the San Francisco group suggested "either a solitary tumor 6.5cm or less in diameter."*
+
+**59. Which imaging modality is NOT mentioned for routine HCC surveillance in cirrhotic patients?**
+
+- Ultrasound
+- **PET scan**
+- Multiphasic CT
+- MRI
+
+*Explanation: The text mentions ultrasound, multiphasic CT, and MR examination for evaluation. PET scan is mentioned later in the context of gallium-68 PET/CT for cholangiocarcinoma, not routine HCC surveillance.*
+
+**60. What is the approximate risk of tumor seeding along the needle biopsy track in HCC?**
+
+- 0.1%
+- **1%**
+- 5%
+- 10%
+
+*Explanation: The text states "Because of the risk of tumor seeding (around 1%) along the needle biopsy track."*
+
+**61. Which of the following is NOT part of the Mayo Clinic protocol for hilar cholangiocarcinoma?**
+
+- External beam radiation
+- Transcatheter radiation
+- Intravenous 5-fluorouracil
+- **Surgical resection before transplant**
+
+*Explanation: The text states the Mayo Clinic protocol "consists of a combination of external beam and transcatheter radiation with intravenous 5-fluorouracil." Surgical resection before transplant is not mentioned as part of this protocol.*
+
+**62. What CA19-9 level suggests dropout from the Mayo Clinic protocol for cholangiocarcinoma?**
+
+- Greater than 100 U/mL
+- Greater than 250 U/mL
+- **Greater than 500 U/mL**
+- Greater than 1000 U/mL
+
+*Explanation: The text states "Features suggesting a dropout from the protocol were CA19-9 greater than 500U/mL."*
+
+**63. What was the 5-year overall survival rate in the meta-analysis by Cambridge for perihilar cholangiocarcinoma with neoadjuvant chemoradiation?**
+
+- 32%
+- 48%
+- **65%**
+- 83%
+
+*Explanation: The text states "when neoadjuvant chemoradiation was completed, survival rates were 83%, 66%, and 65% respectively" at 1, 3, and 5 years.*
+
+**64. What Ki-67 proliferation index threshold is recommended by ENETS for neuroendocrine tumor liver transplantation?**
+
+- Less than or equal to 5%
+- **Less than or equal to 10%**
+- Less than or equal to 20%
+- Less than or equal to 30%
+
+*Explanation: The text states ENETS guidelines suggest "Well-differentiated NET with Ki-67 proliferation index less than or equal to 10%."*
+
+**65. What is the minimum time required between primary tumor removal and liver transplantation for neuroendocrine tumors according to ENETS?**
+
+- 3 months
+- **6 months**
+- 12 months
+- 24 months
+
+*Explanation: The text states "Primary tumor removed at least 6months before transplantation."*
+
+**66. What is the most common indication for liver transplantation in children?**
+
+- Metabolic diseases
+- **Biliary atresia**
+- Acute liver failure
+- Hepatocellular carcinoma
+
+*Explanation: The text states "The most common indication for transplantation in children remains disorders of the biliary system, most often biliary atresia."*
+
+**67. After what age does portoenterostomy have limited chance of successful outcome in biliary atresia?**
+
+- 1 month
+- **2 months**
+- 3 months
+- 6 months
+
+*Explanation: The text states "if performed after 2months, the chance of a successful outcome is limited."*
+
+**68. Which of the following is NOT mentioned as a metabolic indication for pediatric liver transplantation?**
+
+- Wilson disease
+- Tyrosinemia
+- **Phenylketonuria**
+- Glycogen storage disease
+
+*Explanation: The text lists Wilson disease, tyrosinemia, glycogen storage disease, galactosemia, and Gaucher disease. Phenylketonuria is not mentioned.*
+
+**69. What is the recommended monitoring frequency for T1 hepatocellular carcinoma while awaiting transplantation?**
+
+- Monthly
+- **Every 3 months**
+- Every 6 months
+- Annually
+
+*Explanation: The text states "those with T1 tumor should be regularly monitored with serum AFP and imaging for at least every 3months."*
+
+**70. Which vaccine should be offered to non-immune patients before liver transplantation?**
+
+- Live measles vaccine
+- **Hepatitis A and B vaccines**
+- Oral typhoid vaccine
+- BCG vaccine
+
+*Explanation: The text states "It is reasonable to offer nonimmune patients immunization with hepatitis A and B vaccines." Live vaccines are contraindicated in immunosuppressed patients.*
+
+**71. Which prophylactic antibiotic is recommended for patients with ascites awaiting transplantation?**
+
+- Metronidazole
+- **Ciprofloxacin**
+- Vancomycin
+- Methenamine
+
+*Explanation: The text states "Patients with ascites should be treated with prophylactic antibiotics, such as ciprofloxacin or amoxicillin/clavulanate."*
+
+**72. What is the concern with using TIPS before liver transplantation?**
+
+- Increased risk of hepatic encephalopathy
+- **Risk of portal vein thrombosis**
+- Worsening of hepatopulmonary syndrome
+- Contraindication with ascites
+
+*Explanation: The text states TIPS insertion "carries the risk not only of sepsis but also of perforation and portal vein thrombosis."*
+
+**73. Which drug class should be avoided in patients awaiting liver transplantation due to risk of gastric hemorrhage and renal failure?**
+
+- Antibiotics
+- **Nonsteroidal anti-inflammatory drugs**
+- Proton pump inhibitors
+- Beta-blockers
+
+*Explanation: The text states "nonsteroidal antiinflammatory drugs should be avoided because of the risks of inducing gastric hemorrhage, renal failure, and fluid retention."*
+
+**74. What is the threshold for oxygen saturation that defines arterial hypoxemia in liver disease?**
+
+- Less than 88%
+- Less than 90%
+- **Less than 92%**
+- Less than 95%
+
+*Explanation: The text states "Arterial hypoxemia (oxygen saturation <92% or arterial oxygen pressure <70mm Hg) may be found in up to 70% of patients with liver disease."*
+
+**75. What percentage of transplant candidates may have hepatopulmonary syndrome?**
+
+- Up to 10%
+- **Up to one-third**
+- Up to 50%
+- Up to 70%
+
+*Explanation: The text states "HPS, which may be detected in up to one-third of transplant candidates."*
+
+**76. What is the threshold for room air alveolar-arterial oxygen gradient in hepatopulmonary syndrome diagnosis for patients over 64 years?**
+
+- Greater than 10 mm Hg
+- Greater than 15 mm Hg
+- **Greater than 20 mm Hg**
+- Greater than 25 mm Hg
+
+*Explanation: The text states "an elevated room air alveolar arterial oxygen gradient (>15mm Hg or >20mm Hg in patients >64years old)."*
+
+**77. What PaO2 level defines severe hepatopulmonary syndrome?**
+
+- Less than 70 mm Hg
+- Less than 60 mm Hg
+- **Less than 50 mm Hg**
+- Less than 40 mm Hg
+
+*Explanation: The text states "Severe HPS characterized by a preoperative PaO2 less than 50mm Hg alone or in combination with an MAA shunt scan of greater than 20% is a good predictor of increased mortality."*
+
+**78. Which of the following is NOT a cause of arterial hypoxemia in liver disease?**
+
+- Ventilation/perfusion mismatch
+- Diffusion limitation
+- **Increased cardiac output**
+- Alveolar hypoventilation
+
+*Explanation: The text lists ventilation/perfusion mismatch, diffusion limitation, alveolar hypoventilation, shunt, and diffusion/perfusion abnormality. Increased cardiac output is not listed as a cause of hypoxemia.*
+
+**79. What percentage of patients with advanced liver disease have pulmonary dysfunction?**
+
+- Up to 1%
+- **Up to 2%**
+- Up to 5%
+- Up to 10%
+
+*Explanation: The text states "pulmonary dysfunction is present in up to 2% of patients with advanced liver disease."*
+
+**80. Which of the following is characteristic of cirrhotic cardiomyopathy?**
+
+- Low output state at rest
+- **Impaired ability to increase contractility at stress**
+- Decreased left ventricular afterload at rest
+- Normal diastolic function
+
+*Explanation: The text states CCM is characterized by "impaired ability to increase contractility at stress, diastolic dysfunction, and electromechanical abnormalities."*
+
+**81. What is the target MPAP for liver transplantation consideration in patients with treated severe portopulmonary hypertension?**
+
+- Less than 25 mm Hg
+- **Less than 35 mm Hg**
+- Less than 45 mm Hg
+- Less than 55 mm Hg
+
+*Explanation: The text states "liver transplant can be considered if the MPAP can be reduced to less than 35mm Hg."*
+
+**82. What target pulmonary vascular resistance should be achieved for transplantation consideration in portopulmonary hypertension?**
+
+- Less than 120 dynes-s/cm⁵
+- Less than 180 dynes-s/cm⁵
+- Less than 240 dynes-s/cm⁵
+- **Less than 400 dynes-s/cm⁵**
+
+*Explanation: The text states "PVR to less than 400dynes-s/cm²⁵" is the target for considering transplantation.*
+
+**83. Which drug is commonly used for vasodilator therapy in portopulmonary hypertension?**
+
+- Nitroglycerin
+- **Sildenafil**
+- Dopamine
+- Norepinephrine
+
+*Explanation: The text states "Sildenafil monotherapy or in combination with prostacyclins is commonly used."*
+
+**84. What percentage of patients awaiting liver transplantation died in the United States in 2019?**
+
+- 5%
+- 10%
+- **1,179 patients**
+- 2,000 patients
+
+*Explanation: The text states "During that year, 1179 died awaiting a graft and 1186 were removed as they had become too sick."*
+
+**85. As of April 30, 2020, how many patients were awaiting liver transplantation in the United States?**
+
+- 8,000
+- 10,000
+- **12,706**
+- 15,000
+
+*Explanation: The text states "As of April 30, 2020, there were 12,706 patients awaiting a transplant in the United States."*
+
+**86. Which of the following diseases is NOT listed as showing a falling proportion of liver transplants?**
+
+- Alcoholic liver disease
+- **Hepatitis C virus infection**
+- Nonalcoholic fatty liver disease
+- Cholestatic diseases
+
+*Explanation: The text states "the number of patients being grafted for hepatitis C virus (HCV) infection is falling because of the success of effective treatment." It also states cholestatic diseases are falling, while alcoholic liver disease and NAFLD are rising.*
+
+**87. What is the concern with using DCD (donation after circulatory death) livers?**
+
+- Primary non-function
+- **Ischemic cholangiopathy**
+- Hyperacute rejection
+- Increased risk of hepatitis B
+
+*Explanation: The text states "These livers may develop ischemic cholangiopathy months after transplantation."*
+
+**88. Which of the following is NOT mentioned as a method to increase the donor pool?**
+
+- Split livers
+- Organs from DCD donors
+- Living donors
+- **Xenotransplantation**
+
+*Explanation: The text mentions split livers, DCD donors, living donors, and machine perfusion. Xenotransplantation is not mentioned.*
+
+**89. What is the main advantage of splitting livers?**
+
+- Reduced rejection rates
+- **Two transplants from a single donor**
+- Better long-term function
+- Reduced surgical time
+
+*Explanation: The text states "Splitting livers allows two transplants from a single donor."*
+
+**90. What has greatly reduced the mortality of patients on the pediatric waiting list?**
+
+- Living donor liver transplantation
+- **Use of split livers**
+- Machine perfusion
+- Better immunosuppression
+
+*Explanation: The text states "Use of split livers has greatly reduced the mortality of patients on the paediatric waiting list."*
+
+**91. Which of the following is NOT mentioned as a factor contributing to improved transplant success?**
+
+- Better surgical techniques
+- Improved anesthesia
+- **Gene therapy**
+- Better immunosuppressive agents
+
+*Explanation: The text mentions better surgical and anesthetic techniques, improved postoperative care, and better immunosuppressive agents. Gene therapy is not mentioned.*
+
+**92. What is the main challenge with allocating organs based on need (MELD score)?**
+
+- Reduced survival after transplantation
+- **Increased resource utilization**
+- Decreased donor pool
+- Higher rejection rates
+
+*Explanation: The text states allocation based on need "has resulted in the reduced mortality of patients awaiting liver transplantation without an appreciable effect on survival after transplantation, although with an increase in resource utilization."*
+
+**93. What is increasingly being considered as an additional measure for organ allocation?**
+
+- Cost-effectiveness
+- **Quality of life (QOL)**
+- Patient age
+- Social status
+
+*Explanation: The text states "those responsible for allocation policies are looking at quality of life (QOL) as an additional measure on which to base allocation."*
+
+**94. What is the definition of futility in liver transplantation?**
+
+- Transplantation in patients over 70 years
+- **When transplantation is unlikely to provide benefit**
+- Use of marginal organs
+- Transplantation in patients with HCC
+
+*Explanation: The text discusses "the need to define futility, that is to identify those patients... when transplantation is futile."*
+
+**95. Which of the following is NOT mentioned as a relative contraindication to liver transplantation?**
+
+- Age
+- Obesity
+- Poor social support
+- **Diabetes mellitus**
+
+*Explanation: Age, obesity, poor social support, ongoing tobacco use, illegal drug use, active alcohol use, and frailty are listed as relative contraindications. Diabetes is discussed as a coexisting disease but not as a contraindication.*
+
+**96. What is the recommended approach for patients with severe hyponatremia before transplantation?**
+
+- Aggressive saline infusion
+- **Water restriction and stopping diuretics**
+- Rapid correction with hypertonic saline
+- Hemodialysis
+
+*Explanation: The text states "Significant hyponatremia should be corrected before transplantation by simple water restriction and, if appropriate, stopping diuretic therapy."*
+
+**97. What is the role of aquaretics in patients awaiting liver transplantation?**
+
+- Treat ascites
+- **May be helpful in correcting hyponatremia**
+- Prevent hepatorenal syndrome
+- Treat encephalopathy
+
+*Explanation: The text states "The role of aquaretics may be helpful in this" regarding correction of hyponatremia.*
+
+**98. Which of the following is NOT a feature of cirrhotic cardiomyopathy?**
+
+- Systolic dysfunction
+- Diastolic dysfunction
+- **Increased contractility at stress**
+- Electrophysiologic abnormalities
+
+*Explanation: The text states CCM is characterized by "systolic and diastolic dysfunction and electrophysiologic abnormalities" with "impaired ability to increase contractility at stress."*
+
+**99. What imaging modality may help in the diagnosis of cirrhotic cardiomyopathy?**
+
+- Chest X-ray
+- **Cardiac magnetic resonance (CMR)**
+- CT angiography
+- Nuclear stress test
+
+*Explanation: The text states "The role of other imaging modalities, such as cardiac magnetic resonance (CMR), may help in the diagnosis of CCM."*
+
+**100. Which of the following is NOT mentioned as a cause of cardiac dysfunction in liver transplant candidates?**
+
+- Valvular disease
+- Cirrhotic cardiomyopathy
+- **Viral myocarditis**
+- Hemochromatosis
+
+*Explanation: The text mentions cardiovascular disease, valvular disease, cardiomyopathies (including cirrhotic cardiomyopathy), metabolic diseases (amyloidosis, hemochromatosis), and toxins (alcohol). Viral myocarditis is not mentioned.*
+
+**101. What is the threshold for significant coronary artery stenosis requiring revascularization before transplantation?**
+
+- Greater than 50%
+- **Greater than 70%**
+- Greater than 80%
+- Greater than 90%
+
+*Explanation: The text states "If there is significant coronary artery stenosis (>70%), then revascularization should be considered before transplantation."*
+
+**102. Which revascularization approach may be preferable in patients with cirrhosis and coronary artery disease?**
+
+- Coronary artery bypass grafting
+- **Stenting**
+- Medical therapy only
+- No intervention needed
+
+*Explanation: The text states "Surgery carries a significant risk in those with cirrhosis and stenting may be a preferable option."*
+
+**103. What is the concern with insulin-dependent diabetes after liver transplantation?**
+
+- Increased risk of rejection
+- **Worse outcome after transplant**
+- Contraindication to surgery
+- Reduced immunosuppression efficacy
+
+*Explanation: The text states "Those with insulin-dependent diabetes have a worse outcome after transplant."*
+
+**104. Which diabetic complication is NOT mentioned as a relative contraindication to transplantation?**
+
+- Proliferative retinopathy
+- Diabetic nephropathy
+- **Diabetic foot ulcers**
+- Autonomic neuropathy
+
+*Explanation: The text lists proliferative retinopathy, diabetic nephropathy, and autonomic neuropathy as relative contraindications. Diabetic foot ulcers are not mentioned.*
+
+**105. What is hepatorenal syndrome characterized by?**
+
+- Structural kidney damage
+- **No structural damage to the kidney**
+- Glomerulonephritis
+- Tubular necrosis
+
+*Explanation: The text states "In hepatorenal syndrome, there is no structural damage to the kidney, and once satisfactory liver function is reestablished, the kidney will function normally."*
+
+**106. Which of the following tumors has an intermediate recurrence rate (11-25%) after liver transplantation?**
+
+- Testicular carcinoma
+- **Colon carcinoma**
+- Melanoma
+- Thyroid carcinoma
+
+*Explanation: Box 105.3 lists colon carcinoma under "Intermediate Recurrence Rates (11%-25%)." Testicular and thyroid carcinomas have low rates, and melanoma has a high rate.*
+
+**107. What is the 5-year recurrence risk for breast carcinoma after liver transplantation?**
+
+- 10%
+- **33%**
+- 50%
+- 75%
+
+*Explanation: The text states "breast carcinoma (33%) are associated with a greater than 10% risk after liver transplantation."*
+
+**108. Which of the following is NOT mentioned as a disease treated by liver transplantation in adults?**
+
+- Acute liver failure
+- Chronic viral hepatitis B
+- **Hepatitis D virus infection alone**
+- Wilson disease
+
+*Explanation: Box 105.2 lists acute liver failure, chronic viral hepatitis B, and Wilson disease. Hepatitis D is mentioned only in the context of coinfection with hepatitis B, not as a standalone indication.*
+
+**109. What is the characteristic time course for subacute liver failure (late-onset hepatic failure)?**
+
+- Within 1 week
+- **Days or weeks after onset of hepatitis-like illness**
+- 3-6 months
+- 6-12 months
+
+*Explanation: The text states subacute liver failure involves "fluctuating encephalopathy that may develop days or weeks after onset of a hepatitis-like illness."*
+
+**110. Which group is most commonly affected by subacute liver failure?**
+
+- Young men
+- **Middle-aged women**
+- Elderly men
+- Children
+
+*Explanation: The text states "This may be seen in middle-aged women and with no obvious precipitating factors."*
+
+**111. What is the response to corticosteroids in fulminant autoimmune hepatitis?**
+
+- Excellent
+- Good
+- **Disappointing**
+- Variable
+
+*Explanation: The text states "response to corticosteroids is disappointing, and the decision to offer transplant should not be delayed."*
+
+**112. Which of the following metabolic diseases affects organs other than the liver?**
+
+- Wilson disease
+- Crigler-Najjar syndrome
+- **Primary hyperoxaluria**
+- α1-Antitrypsin deficiency
+
+*Explanation: Table 105.1 lists primary hyperoxaluria under "OTHER ORGANS ALSO AFFECTED." Wilson disease, Crigler-Najjar syndrome, and α1-antitrypsin deficiency are listed under "LIVER AFFECTED."*
+
+**113. What is the treatment approach for erythropoietic protoporphyria that may delay morbidity after transplantation?**
+
+- Phototherapy
+- **Cholestyramine**
+- Plasmapheresis
+- Liver resection
+
+*Explanation: The text states "the morbidity of disease may be delayed by appropriate treatment with cholestyramine" for erythropoietic protoporphyria.*
+
+**114. What has changed the management of Budd-Chiari syndrome?**
+
+- Better anticoagulants alone
+- **Early use of anticoagulants and interventional radiology, especially TIPS**
+- Routine liver transplantation
+- Surgical shunts
+
+*Explanation: The text states "The early use of anticoagulants and interventional radiology, especially transjugular intrahepatic portosystemic shunting (TIPS), have changed the management of these patients."*
+
+**115. When should transplantation be considered in Budd-Chiari syndrome?**
+
+- As first-line therapy
+- Only with underlying malignancy
+- **When portal decompression has failed or is not feasible**
+- Never, due to high recurrence
+
+*Explanation: The text states "In general, transplantation should be considered only when portal decompression has failed (or is not feasible) or there is established [liver failure]."*
+
+**116. What is the indication for liver transplantation in polycystic liver disease?**
+
+- Any liver cysts detected
+- **Severe and constant pain with liver reaching into the pelvis**
+- Asymptomatic large cysts
+- Family history alone
+
+*Explanation: The text states "transplantation may be considered an option when the enlarged liver results in severe and constant pain... In general, transplantation is indicated when the liver reaches into the pelvis."*
+
+**117. What newer agents might reduce the need for transplantation in transthyretin amyloidosis?**
+
+- Chemotherapy agents
+- **TTR tetramer stabilizers, TTR silencers, and fibril disruptors**
+- Immunosuppressants
+- Antibiotics
+
+*Explanation: The text states "there are newer agents such as TTR tetramer stabilizers, TTR silencers, and fibril disruptors that might reduce the need for transplantation in this group of patients."*
+
+**118. What is the "domino procedure" mentioned in the context of transthyretin amyloidosis?**
+
+- Transplanting two recipients from one donor
+- **Using the resected liver for another recipient**
+- Simultaneous heart-liver transplant
+- Split liver transplantation
+
+*Explanation: The text states "the resected liver is sometimes used in a domino procedure" in transthyretin amyloidosis.*
+
+**119. What is the general threshold for considering transplantation in chronic liver disease regarding estimated survival?**
+
+- 6 months
+- **1 year**
+- 2 years
+- 5 years
+
+*Explanation: The text states "Most centers consider transplantation as appropriate when the estimated length of life in the absence of transplantation is limited to 1year."*
+
+**120. Why is lethargy alone generally NOT considered an indication for liver transplantation?**
+
+- It always improves with transplant
+- **It rarely resolves after transplantation**
+- It is not a symptom of liver disease
+- It is too subjective to measure
+
+*Explanation: The text states "although lethargy improves somewhat after transplantation, it rarely resolves, so lethargy alone, in the absence of other indications, should not be considered an indication for transplant."*
+
+**121. Which test is mentioned as rarely used now for functional assessment of the liver?**
+
+- Liver biopsy
+- **Aminopyrine breath test (MEGX test)**
+- FibroScan
+- Indocyanine green clearance
+
+*Explanation: The text states "although the aminopyrine breath test (MEGX test) and galactosamine elimination clearance have their advocates, none has added greatly to clinical or serologic assessment or has been applied widely, and these tests are now rarely used."*
+
+**122. What is the relationship between ulcerative colitis and outcome after transplantation for PSC?**
+
+- Worse outcome
+- **Better outcome**
+- No effect on outcome
+- Contraindication to transplant
+
+*Explanation: The text states "although we did find that although ulcerative colitis was associated with a better outcome, Crohn disease was associated with an adverse outcome."*
+
+**123. What is the relationship between Crohn's disease and outcome after transplantation for PSC?**
+
+- Better outcome
+- **Adverse outcome**
+- No effect on outcome
+- Protective against recurrent PSC
+
+*Explanation: The text states "Crohn disease was associated with an adverse outcome" in PSC patients undergoing transplantation.*
+
+**124. What is the effect of colectomy on recurrent PSC after transplantation?**
+
+- Increases risk
+- No effect
+- **Confers a protective effect**
+- Contraindicated
+
+*Explanation: The text states "Colectomy either before or during transplantation confers a protective effect against recurrent PSC in subsequent grafts."*
+
+**125. What is the recommended approach for patients with PSC and active colitis?**
+
+- Proceed with transplantation immediately
+- **Treat colitis before transplantation**
+- Perform colectomy in all patients
+- Avoid immunosuppression
+
+*Explanation: The text states "active colitis should be treated before transplantation."*
+
+**126. What is the concern with ERCP in patients with advanced PSC?**
+
+- Risk of pancreatitis
+- **May lead to sudden deterioration from biliary sepsis**
+- Contraindicated with strictures
+- Requires general anesthesia
+
+*Explanation: The text states "ERCP in the presence of advanced PSC may lead to sudden deterioration, presumably caused by the introduction of biliary sepsis."*
+
+**127. What tumor marker is mentioned as relatively nonspecific and insensitive for cholangiocarcinoma?**
+
+- CA19-9
+- **Carcinoembryonic antigen (CEA)**
+- Alpha-fetoprotein
+- CA-125
+
+*Explanation: The text states "serum markers such as carcinoembryonic antigen (CEA) are relatively nonspecific and insensitive."*
+
+**128. What is the significance of a "sick role" in liver transplant candidates?**
+
+- Indicates need for urgent transplant
+- **May persist even after successful transplantation**
+- Contraindication to surgery
+- Indicates malingering
+
+*Explanation: The text states "Some patients do adopt the 'sick role' and, even after successful transplantation, either the patient or the family is reluctant for the sick role to be abandoned."*
+
+**129. What is the rationale for requiring a period of abstinence in alcoholic liver disease?**
+
+- Punitive measure
+- **To ensure liver won't recover and identify reasons for drinking**
+- Required by law
+- Reduces surgical risk only
+
+*Explanation: The text states "A period of abstinence is helpful, in part to ensure that the liver will not recover to such an extent that transplantation is no longer required, but also to identify the reason for the excessive drinking and initiate appropriate measures to reduce the risk of recurrence after transplantation."*
+
+**130. Is there an evidential basis for a fixed period of abstinence before transplantation for alcoholic liver disease?**
+
+- Yes, 6 months is required
+- Yes, 12 months is required
+- **No**
+- Yes, 3 months is required
+
+*Explanation: The text states "There is no evidential basis for a fixed period of abstinence."*
+
+**131. What is the role of liver transplantation in patients with hemophilia and HCV infection?**
+
+- Transplantation is contraindicated
+- **Transplantation corrects hemophilia but is not indicated solely for this reason**
+- Transplantation is indicated solely to correct hemophilia
+- Must be combined with stem cell transplant
+
+*Explanation: The text states "Although liver transplantation will correct the defect in hemophilia, this in itself is not an indication for liver transplantation."*
+
+**132. What is the optimal timing for DAA treatment in HCV-infected patients after liver transplantation?**
+
+- Immediately in the operating room
+- Within 24 hours
+- **Once patient and graft are stable, or awaiting early fibrosis**
+- Never, due to toxicity
+
+*Explanation: The text states "some argue for institution of DAA once the patient and graft are stable and healthy, whereas others advocate awaiting the onset of early fibrosis."*
+
+**133. What is the concern with protease inhibitor-containing regimens in decompensated cirrhosis?**
+
+- Increased risk of rejection
+- **Potential toxicity**
+- Reduced efficacy
+- Drug interactions with immunosuppressants only
+
+*Explanation: The text states "the use of protease inhibitor–containing regimens should be considered with extreme caution due to potential toxicity" in decompensated liver disease.*
+
+**134. What is the role of downstaging in hepatocellular carcinoma management?**
+
+- Never appropriate
+- **Patients with tumors initially outside Milan criteria but reaching criteria after downstaging can be considered**
+- Only for living donor transplants
+- Contraindicated due to tumor spread
+
+*Explanation: The text states "The EASL Guidelines recommended that patients with tumors initially outside the Milan criteria but that reached the criteria after downstaging can be considered for transplantation."*
+
+**135. What is the 3-year disease-free survival rate for colorectal metastases after liver transplantation in the SECA-II study?**
+
+- 15%
+- 25%
+- **35%**
+- 50%
+
+*Explanation: The text states "Kaplan-Meier overall survival at 3years was 83%, and diseasefree survival was 35%."*
+
+**136. What was the overall survival at 3 years in the SECA-II study for colorectal metastases?**
+
+- 60%
+- 70%
+- **83%**
+- 90%
+
+*Explanation: The text states "Kaplan-Meier overall survival at 3years was 83%."*
+
+**137. What is the main site of recurrence after liver transplantation for colorectal metastases?**
+
+- Liver
+- Bone
+- **Lung**
+- Brain
+
+*Explanation: The text states "Recurrence was mainly slow-growing pulmonary metastases amenable to curative resection."*
+
+**138. What is the recommended liver involvement for neuroendocrine tumor transplantation without refractory hormonal symptoms?**
+
+- Less than 25%
+- **Less than 50%**
+- Less than 75%
+- Any degree of involvement
+
+*Explanation: The text states "Less than 50% liver involvement or less than 75% liver involvement in patients with refractory hormonal symptoms."*
+
+**139. What is the maximum liver involvement allowed for neuroendocrine tumor transplantation with refractory hormonal symptoms?**
+
+- 25%
+- 50%
+- **75%**
+- 90%
+
+*Explanation: The text states "Less than 50% liver involvement or less than 75% liver involvement in patients with refractory hormonal symptoms."*
+
+**140. Which of the following is NOT mentioned as part of the routine assessment for liver transplantation?**
+
+- Complete blood count
+- Clotting assessment
+- **Routine colonoscopy in all patients**
+- Liver function tests
+
+*Explanation: While colonoscopy is mentioned for patients with PSC and long-standing colitis, it is not listed as part of routine assessment for all patients. CBC, clotting, and liver function tests are listed as routine.*
+
+**141. What is the recommended approach for patients with possible history of tuberculosis?**
+
+- Routine isoniazid prophylaxis for all
+- **Determine presence of previous infection, consider isoniazid and pyridoxine for 6 months after transplant**
+- Contraindication to transplantation
+- BCG vaccination before transplant
+
+*Explanation: The text states "tests should be directed to determine the presence of previous infection, and in such cases, our practice is to give isoniazid and pyridoxine for the first 6months after transplantation."*
+
+**142. What should be done with carious teeth before transplantation?**
+
+- Monitor only
+- **Usually removed**
+- Treated with antibiotics only
+- No action needed
+
+*Explanation: The text states "A dental examination is usually required, and any carious teeth are usually removed before transplantation."*
+
+**143. What is the purpose of including family in consent discussions for liver transplantation?**
+
+- Legal requirement
+- **Their cooperation and understanding are essential for successful rehabilitation**
+- To obtain financial guarantee
+- Mandatory psychological evaluation
+
+*Explanation: The text states "it is important to include the family in discussions because their cooperation and understanding are essential for successful rehabilitation after transplantation."*
+
+**144. What should patients understand about the increasing use of marginal organs?**
+
+- They can refuse without consequence
+- **They must understand and accept risks of inadvertent transmission of infection, cancers, and metabolic disorders**
+- They are always superior to standard organs
+- They are only used in emergencies
+
+*Explanation: The text states "Patients must understand and accept such risks as inadvertent transmission of infection (viral, bacterial, other), cancers, metabolic disorders, and autoimmune diseases."*
+
+**145. Which of the following is NOT mentioned as a risk of marginal organs?**
+
+- Inadvertent transmission of viral infection
+- Transmission of metabolic disorders
+- **Guaranteed primary non-function**
+- Transmission of autoimmune diseases
+
+*Explanation: The text lists risks including viral, bacterial, and other infections, cancers, metabolic disorders, and autoimmune diseases. Guaranteed primary non-function is not mentioned as a specific risk.*
+
+**146. What is the role of propranolol or carvedilol in patients awaiting transplantation?**
+
+- Treat ascites
+- **Pharmacoprophylaxis for variceal bleeding**
+- Improve renal function
+- Treat encephalopathy
+
+*Explanation: The text states "Patients with grade II or III varices or a prior history of variceal bleeding should be given either pharmacoprophylaxis (with propranolol or carvedilol)."*
+
+**147. What is the alternative to pharmacoprophylaxis for variceal bleeding in transplant candidates?**
+
+- TIPS procedure
+- **Banding program**
+- Surgical shunt
+- Observation only
+
+*Explanation: The text states patients should be given "either pharmacoprophylaxis (with propranolol or carvedilol) or should be in a banding program."*
+
+**148. What is the concern with using opiates in patients awaiting liver transplantation?**
+
+- Risk of addiction
+- **Risk of precipitating encephalopathy**
+- Hepatotoxicity
+- Interactions with immunosuppressants
+
+*Explanation: The text states "Drugs such as opiates that result in constipation and sedative drugs should also be avoided because of the risk of precipitating encephalopathy."*
+
+**149. What monitoring is recommended for patients with alcohol use disorders on the waiting list?**
+
+- Monthly liver function tests
+- **Regular alcohol screening by breath, blood, urine, or hair metabolites**
+- Psychological counseling only
+- Abstinence contracts only
+
+*Explanation: The text states "many centers will adopt a program of regular alcohol screening, by measurement of alcohol in breath, blood or urine, or ethanol metabolites in hair."*
+
+**150. What is the final step in the consent process before liver transplantation?**
+
+- Financial clearance
+- **Confirmation of consent immediately before transplantation**
+- Family approval only
+- Psychological clearance
+
+*Explanation: The text states "Consent should be obtained when the patient is listed and should be confirmed immediately before transplantation."*

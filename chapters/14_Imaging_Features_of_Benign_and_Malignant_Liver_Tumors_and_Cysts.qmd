@@ -1,0 +1,2454 @@
+# 14 Imaging Features of Benign and Malignant Liver Tumors and Cysts
+
+
+Generated with Claude. 
+
+### Section 1: Introduction & General Principles
+
+1. Which imaging modality is preferred for lesion characterization of liver lesions over ultrasound?
+
+- Positron emission tomography (PET)
+- Plain radiograph
+- **Computed tomography (CT) or magnetic resonance imaging (MRI)**
+- Nuclear scintigraphy
+
+*Explanation: Although ultrasound can be useful in screening for and detecting liver lesions, lesion characterization is mostly performed using CT or MRI.*
+
+---
+
+2. Contrast-enhanced ultrasound (CEUS) provides which unique advantage over CT and MRI?
+
+- Better spatial resolution for deep lesions
+- Superior detection of calcifications
+- **Real-time dynamic assessment with high spatial and temporal resolution**
+- Ability to measure liver stiffness
+
+*Explanation: CEUS provides real-time dynamic assessment capability with high spatial and temporal resolution, making it a valuable component of multimodality imaging.*
+
+---
+
+3. US FDA approval of microbubble contrast agents for noncardiac use was granted in:
+
+- 2005
+- 2010
+- **2015**
+- 2018
+
+*Explanation: US FDA approval of microbubble contrast agents for noncardiac use was only granted since 2015, which is why CEUS is more widely used in Europe and Asia.*
+
+---
+
+4. Which of the following is an advantage of MRI over CT in liver lesion evaluation?
+
+- Lower cost
+- Faster acquisition time
+- Better detection of calcifications
+- **Avoidance of ionizing radiation and more sequences available for characterization**
+
+*Explanation: MRI has more advantages than CT, notwithstanding the avoidance of patient exposure to ionizing radiation. The numerous sequences available with MRI mean that many lesions can be accurately diagnosed on imaging.*
+
+---
+
+5. The majority of incidentally discovered liver lesions are:
+
+- Malignant
+- Indeterminate
+- **Benign, even in the oncologic population**
+- Metastatic
+
+*Explanation: The majority of incidentally discovered liver lesions are benign, even in the oncologic population.*
+
+---
+
+### Section 2: Hemangioma
+
+6. The estimated incidence of hepatic hemangiomas ranges from:
+
+- 1%–3%
+- **4%–20%**
+- 25%–35%
+- 40%–50%
+
+*Explanation: Hepatic hemangiomas are benign vascular tumors of the liver with an estimated incidence of anywhere between 4% and 20%.*
+
+---
+
+7. On ultrasound, the classic appearance of a hepatic hemangioma is:
+
+- Hypoechoic with posterior shadowing
+- Anechoic with no wall
+- **Homogeneously hyperechoic, well-circumscribed mass with subtle posterior acoustic enhancement**
+- Heterogeneously echoic with internal vascularity on Doppler
+
+*Explanation: On US, hemangiomas are characteristically homogeneously hyperechoic, well-circumscribed masses with subtle posterior acoustic enhancement.*
+
+---
+
+8. Why does a hemangioma appear hyperechoic on ultrasound?
+
+- Due to calcifications within the lesion
+- Due to fat content
+- **Due to multiple vascular interfaces within hemangiomas**
+- Due to fibrous stroma
+
+*Explanation: Increased echogenicity is because of multiple vascular interfaces within hemangiomas.*
+
+---
+
+9. Although hemangiomas are vascular tumors, flow on Doppler ultrasound is usually:
+
+- Markedly increased
+- Moderately increased
+- Detectable but nonspecific
+- **Not evident, as flow is extremely slow**
+
+*Explanation: Although hemangiomas are vascular, flow is extremely slow, and usually no Doppler signal is evident.*
+
+---
+
+10. When a classic hemangioma is identified on US in a patient with no risk factors or history of malignancy, the recommended management is:
+
+- Six-monthly ultrasound surveillance
+- CT scan for further characterization
+- MRI for confirmation
+- **No follow-up imaging needed**
+
+*Explanation: If a US shows a classic appearance of hemangioma and the patient has no risk factors, history of underlying liver disease, or malignancy, then no follow-up imaging needs to be performed.*
+
+---
+
+11. In a study of 1,982 patients with cirrhosis, US depicted hemangioma-like lesions in 44 patients. On follow-up, what proportion proved to be HCCs?
+
+- One-quarter
+- One-third
+- **Half**
+- Three-quarters
+
+*Explanation: In a study of 1,982 patients with cirrhosis, US depicted hemangioma-like lesions in 44 patients; on follow-up, half of these proved to be HCCs, and half were hemangiomas.*
+
+---
+
+12. Larger hemangiomas may appear heterogeneously hyperechoic on US due to:
+
+- Intratumoral hemorrhage
+- **Central fibrosis, necrosis, and myxomatous degeneration**
+- Fat infiltration
+- Calcification
+
+*Explanation: Larger hemangiomas often lack characteristic features because of central fibrosis, necrosis, and myxomatous degeneration and can appear heterogeneously hyperechoic.*
+
+---
+
+13. When the background liver is hyperechoic due to steatosis, hemangiomas may appear:
+
+- More hyperechoic than usual
+- Unchanged in echogenicity
+- **Hypoechoic relative to liver parenchyma**
+- Anechoic
+
+*Explanation: When the background liver itself becomes hyperechoic as a result of steatosis, hemangiomas may appear hypoechoic to liver parenchyma.*
+
+---
+
+14. On non-contrast CT, hemangiomas are typically:
+
+- Hyperattenuating to surrounding liver
+- Isoattenuating to surrounding liver
+- **Hypoattenuating to surrounding liver**
+- Heterogeneous in attenuation
+
+*Explanation: On CT, hemangiomas are typically hypoattenuating to surrounding liver on noncontrast imaging.*
+
+---
+
+15. Fatty sparing around the rim of a hemangioma in a steatotic liver can result in what CT appearance on noncontrast imaging?
+
+- Hypoattenuating rim
+- No change in appearance
+- **Hyperattenuating rim**
+- Calcified rim
+
+*Explanation: Fatty sparing around the rim of the hemangioma can occur, resulting in the presence of a hyperattenuating rim on noncontrast CT.*
+
+---
+
+16. On T2-weighted MRI, hemangiomas are:
+
+- Hypointense, similar to muscle
+- Isointense to liver
+- Mildly hyperintense to liver
+- **Markedly T2 bright, nearly similar in intensity to cerebrospinal fluid (CSF)**
+
+*Explanation: On T2-weighted imaging, hemangiomas are T2 bright, nearly similar in intensity to cerebrospinal fluid (CSF).*
+
+---
+
+17. On diffusion-weighted imaging (DWI), hemangiomas demonstrate high apparent diffusion coefficient (ADC) values due to a phenomenon known as:
+
+- Pseudowashout
+- Susceptibility artifact
+- **T2 shine-through**
+- Phase cancellation
+
+*Explanation: Hemangiomas appear hyperintense on low b-values and remain hyperintense at higher b-values; they have high ADC values, a phenomenon known as T2 shine-through.*
+
+---
+
+18. The classical enhancement pattern of cavernous hemangiomas on multiphase imaging is:
+
+- Diffuse arterial hyperenhancement with washout
+- **Peripheral, nodular, discontinuous arterial enhancement with centripetal fill-in on portal venous phase and persistent homogenous enhancement on delayed phases**
+- Central arterial enhancement with centrifugal fill-in
+- Rim enhancement persisting on all phases
+
+*Explanation: The classical pattern is peripheral, nodular, discontinuous enhancement on arterial phase, with centripetal fill-in on portal venous phase and persistent homogenous enhancement on later postcontrast phases.*
+
+---
+
+19. The peripheral areas of enhancement in cavernous hemangiomas follow the signal intensity of:
+
+- Hepatic parenchyma
+- Spleen
+- **Blood vessels such as the hepatic artery or portal vein**
+- Aorta only
+
+*Explanation: The peripheral areas of enhancement follow the same attenuation or signal intensity of blood vessels (such as the hepatic artery or portal vein).*
+
+---
+
+20. When using gadoxetate disodium (Gd-EOB-DTPA) for hemangioma characterization, a potential pitfall is:
+
+- Inability to detect hemangiomas
+- Loss of T2 signal
+- **"Pseudowashout" appearance in the late dynamic phase due to hepatobiliary excretion**
+- Overenhancement mimicking HCC
+
+*Explanation: The overlapping extracellular phase and hepatobiliary excretion of gadoxetate disodium may confound the typical hemangioma enhancement pattern and lead to the appearance of "pseudowashout" in the late dynamic phase.*
+
+---
+
+21. Because hemangiomas do not contain hepatocytes, they become on the transitional and hepatobiliary phase:
+
+- Progressively hyperintense
+- Isoenhancing to liver
+- **Gradually hypointense**
+- Heterogeneous in signal
+
+*Explanation: Because hemangiomas do not contain hepatocytes, they become gradually hypointense on the transitional and hepatobiliary phase.*
+
+---
+
+22. The preferred contrast agent for initial liver lesion characterization when using MRI is:
+
+- Gadoxetate disodium (Gd-EOB-DTPA)
+- **A traditional extracellular fluid (ECF) contrast agent such as gadobenate dimeglumine or gadoterate meglumine**
+- Any manganese-based agent
+- No contrast; noncontrast MRI is preferred
+
+*Explanation: The authors prefer not to use gadoxetate disodium as the contrast agent for initial liver lesion characterization and use a traditional extracellular fluid (ECF) agent instead.*
+
+---
+
+23. Flash-filling hemangiomas are typically:
+
+- Large lesions (>5 cm) with centripetal fill-in
+- **Small lesions (under 1 cm) with diffuse hypervascular homogenous arterial enhancement following aortic signal intensity**
+- Lesions with peripheral nodular enhancement only
+- Lesions with no arterial enhancement
+
+*Explanation: Flash-filling hemangiomas are often small lesions (under 1 cm in diameter) and appear as diffusely hypervascular, homogenous lesions, with enhancement density/intensity following that of the aorta in subsequent phases.*
+
+---
+
+24. Calcification in hemangiomas is reported in what percentage of cases?
+
+- Less than 1%
+- 5%
+- **10%–20%**
+- 30%–50%
+
+*Explanation: Calcification in hemangiomas is rare and is reported in 10% to 20% of cases, although the authors note their own experience is much lower than 10%.*
+
+---
+
+25. Calcifications in hemangiomas may correspond to:
+
+- Dystrophic calcification in necrotic areas
+- **Phleboliths, best detected on CT**
+- Ossification of fibrous stroma
+- Biliary microhamartomas
+
+*Explanation: Calcifications may correspond to phleboliths and are most easily detected on CT.*
+
+---
+
+26. Sclerosed hemangiomas are a rare type where:
+
+- Vascular channels become hyperechoic
+- The lesion rapidly enlarges
+- **Degeneration and intralesional fibrosis and hyalinization occurs, causing loss of normal vascular channels**
+- The lesion develops malignant transformation
+
+*Explanation: Sclerosed and sclerosing hemangiomas are a rare type of hemangioma where degeneration and intralesional fibrosis and hyalinization occurs, and they do not exhibit typical appearances on MRI because of loss of normal vascular channels.*
+
+---
+
+27. On MRI, markedly sclerosed hemangiomas:
+
+- Remain markedly T2 bright
+- Enhance avidly in arterial phase
+- **Lack the classic T2 hyperintense signal and may become isointense to liver parenchyma**
+- Show centripetal fill-in identical to classic hemangioma
+
+*Explanation: Markedly sclerosed hemangiomas lack the classic T2 hyperintense signal on MRI and may even become isointense to the liver parenchyma.*
+
+---
+
+28. Additional features that may be seen in sclerosed hemangiomas include:
+
+- Arterial-phase hyperenhancement with washout
+- **Capsular retraction and peritumoral arterial enhancement**
+- Spoke-wheel vascularity on Doppler
+- Central scar with T2 hyperintensity
+
+*Explanation: Additional features that may be seen in sclerosed hemangiomas include capsular retraction and peritumoral arterial enhancement.*
+
+---
+
+29. Sclerosed hemangiomas are easily mistaken for which other liver lesion?
+
+- FNH
+- Hepatocellular adenoma
+- Simple cyst
+- **Metastatic disease**
+
+*Explanation: Sclerosed hemangiomas are easily mistaken for metastatic disease in the liver and may require biopsy for definitive diagnosis.*
+
+---
+
+### Section 3: Focal Nodular Hyperplasia (FNH)
+
+30. FNH is the second most common solid benign liver lesion after:
+
+- Hepatocellular adenoma
+- Simple cyst
+- **Hemangioma**
+- Biliary hamartoma
+
+*Explanation: Focal nodular hyperplasia (FNH) is the second most common solid benign liver lesion after hemangioma.*
+
+---
+
+31. Pathologically, FNH contains:
+
+- Hepatocytes without bile ducts
+- Only fibrous stroma
+- Vascular channels lined by endothelium
+- **All the elements of normal liver, possibly with a central fibrous scar, surrounded by hepatocytes and small bile ducts**
+
+*Explanation: Pathologically, FNH contains all the elements of normal liver, may have a central fibrous scar, and is surrounded by hepatocytes and small bile ducts.*
+
+---
+
+32. The key Doppler ultrasound feature of FNH is:
+
+- Absent internal vascularity
+- Peripheral rim vascularity
+- Internal color Doppler signal without a specific pattern
+- **Central feeding artery with tortuous spoke-wheel vascularity**
+
+*Explanation: A key to US diagnosis of FNH is the characteristic Doppler appearance of a central feeding artery with tortuous spoke-wheel vascularity.*
+
+---
+
+33. On CT, a central scar in FNH is typically seen in what proportion of cases?
+
+- 5%–10%
+- 10%–15%
+- **20%–50%**
+- 70%–80%
+
+*Explanation: Although described as a typical feature, a scar is usually only seen on CT in approximately 20% to 50% of cases.*
+
+---
+
+34. On MRI, most FNHs are:
+
+- Markedly T1 hypointense and T2 hyperintense
+- Markedly T1 hyperintense and T2 hypointense
+- Clearly visible on T1 and T2 sequences
+- **Isointense to normal liver parenchyma and nearly invisible on T1- and T2-weighted images**
+
+*Explanation: On MRI, most FNH are isointense to normal liver parenchyma and nearly invisible on T1- and T2-weighted images.*
+
+---
+
+35. The central scar of FNH on MRI is characteristically:
+
+- Hypointense on both T1 and T2
+- Hyperintense on both T1 and T2
+- **Hypointense on T1-weighted and hyperintense on T2-weighted images**
+- Hyperintense on T1 and hypointense on T2
+
+*Explanation: A central scar can be seen more frequently on MRI and is hypointense on T1-weighted images and hyperintense on T2-weighted images.*
+
+---
+
+36. The typical contrast enhancement pattern of FNH on arterial phase is:
+
+- Peripheral nodular enhancement
+- No enhancement
+- Rim enhancement only
+- **Diffuse homogenous hyperenhancement**
+
+*Explanation: After IV contrast, the typical enhancement pattern of FNH is diffuse homogenous hyperenhancement in the arterial phase, followed by fading to background hepatic attenuation/intensity by the portal venous phase.*
+
+---
+
+37. In FNH, "fading to background" on portal venous phase must be distinguished from "washout," because:
+
+- Fading is more rapid than washout
+- Fading occurs only with ECF contrast agents
+- **Washout means the lesion becomes darker than background liver, while fading means returning to background signal intensity**
+- Fading indicates malignancy
+
+*Explanation: Fading to background hepatic parenchyma signal should be distinguished from "washout," where a lesion becomes darker than background liver.*
+
+---
+
+38. When using ECF contrast agents, the central scar of FNH enhances on delayed phases beginning at approximately:
+
+- 30 seconds
+- 1 minute
+- **3 minutes**
+- 10 minutes
+
+*Explanation: When a central scar is present, it enhances on delayed phases, beginning at approximately 3 minutes when using ECF contrast agents.*
+
+---
+
+39. On hepatobiliary phase using a hepatocyte-specific contrast agent, FNH typically appears:
+
+- Hypointense relative to liver
+- Isointense only in arterial phase
+- **Iso- to hyperintense relative to background hepatic parenchyma**
+- Markedly hypointense (black)
+
+*Explanation: When a hepatocyte-specific contrast agent is used, lesional enhancement similar to or higher-than-normal to background hepatic parenchyma during the delayed hepatobiliary phase is expected in the majority of FNHs.*
+
+---
+
+40. With gadoxetate disodium, the central stellate scar of FNH on later dynamic phases:
+
+- Enhances progressively and appears hyperintense
+- Is indistinguishable from hepatic parenchyma
+- **Does not progressively enhance and appears relatively hypointense, reflecting the absence of hepatocytes**
+- Shows identical enhancement to the FNH itself
+
+*Explanation: With a hepatobiliary-specific agent such as gadoxetate disodium, a central stellate scar does not progressively enhance on later dynamic phases and will appear relatively hypointense, reflecting the absence of hepatocytes and the presence of fibrous tissue within the scar.*
+
+---
+
+41. FNH has been associated with which of the following?
+
+- Anabolic steroid use
+- Hepatitis B infection
+- Wilson's disease
+- **Oral contraceptive use and chemotherapy in the pediatric age group**
+
+*Explanation: FNH has been associated with oral contraceptive use, as well as chemotherapy in the pediatric age group, although the former association is not definitive.*
+
+---
+
+### Section 4: Hepatocellular Adenoma (HCA)
+
+42. Unlike FNH, hepatocellular adenoma (HCA) is described as:
+
+- A non-neoplastic lesion with no risk of complications
+- A benign lesion that never undergoes malignant transformation
+- **A true neoplastic lesion with associated complications including bleeding and malignant degeneration**
+- A lesion exclusively seen in men
+
+*Explanation: HCA is a benign hepatocellular tumor; however, unlike FNH, it is a true neoplastic lesion with associated complications, such as abdominal pain, bleeding, and, rarely, malignant degeneration.*
+
+---
+
+43. HCAs have traditionally been associated with which risk factors?
+
+- Viral hepatitis and cirrhosis
+- **Oral contraceptive use in women and anabolic steroid use in men**
+- Alcohol abuse and NAFLD
+- Hereditary hemochromatosis
+
+*Explanation: HCAs have been traditionally associated with oral contraceptive use in women of childbearing age or anabolic steroid use in men.*
+
+---
+
+44. More recently, which conditions have been recognized as risk factors for HCA?
+
+- Hepatitis C and HIV infection
+- Autoimmune hepatitis and PSC
+- **Metabolic syndrome associations such as diabetes mellitus and obesity**
+- Wilson's disease and hemochromatosis
+
+*Explanation: More recently, metabolic syndrome associations such as diabetes mellitus and obesity have also been recognized as risk factors for HCA.*
+
+---
+
+45. What proportion of HCA cases are multiple (rather than solitary)?
+
+- Less than 5%
+- **Less than 30%**
+- 40%–50%
+- Greater than 60%
+
+*Explanation: Adenomas are usually solitary, with multiple lesions seen in less than 30% of cases.*
+
+---
+
+46. "Adenomatosis" is a term typically reserved for the presence of greater than how many adenomas?
+
+- 3
+- 5
+- **10**
+- 20
+
+*Explanation: Adenomatosis has been a term typically reserved for the presence of greater than 10 adenomas, first described in 1985.*
+
+---
+
+47. The most recent HCA classification in 2017 described how many subtypes?
+
+- 4
+- 6
+- **8**
+- 12
+
+*Explanation: The most recent classification in 2017 describing eight subtypes, adding four additional subtypes to the already described H-HCA, IHCA, β-HCA, and "unclassified" subtypes.*
+
+---
+
+48. Men with adenomas and β-catenin-activated mutations or metabolic syndrome are at higher risk for:
+
+- Spontaneous rupture only
+- Portal hypertension
+- **Malignant degeneration**
+- Infection of the adenoma
+
+*Explanation: Men with metabolic syndrome or anabolic steroid use and adenomas with β-catenin-activated mutations are at a much higher risk for malignant degeneration.*
+
+---
+
+49. On ultrasound, HCAs are often hyperechoic because of:
+
+- Central scar
+- **Intratumoral fat content**
+- Vascular spaces similar to hemangioma
+- Glycogen deposition
+
+*Explanation: On US, HCAs have variable echogenicity but are often hyperechoic because of intratumoral fat content.*
+
+---
+
+50. Internal hemorrhage within adenomas may produce what US appearance?
+
+- Shadowing calcifications
+- **Cystic areas**
+- Absent vascularity
+- Spoke-wheel pattern
+
+*Explanation: Internal hemorrhage within adenomas may produce cystic areas on ultrasound.*
+
+---
+
+51. On CEUS, HCAs demonstrate in the arterial phase:
+
+- No enhancement
+- Peripheral nodular enhancement
+- Rim enhancement with progressive fill-in
+- **Homogenous arterial hyperenhancement with rapid and complete, usually centripetal, filling**
+
+*Explanation: On CEUS, HCAs demonstrate homogenous arterial hyperenhancement, with rapid and complete, usually centripetal, filling.*
+
+---
+
+52. Washout on portal venous or later phases on CT or MRI postcontrast imaging is:
+
+- The hallmark of HCA
+- Required for the diagnosis of HCA
+- **NOT a typical feature of adenoma on CT or MRI**
+- Seen in all HCA subtypes
+
+*Explanation: It should be noted that washout in portal or later phases on postcontrast imaging on CT or MRI is not a typical feature of adenoma.*
+
+---
+
+53. Why does CEUS sometimes show washout in HCA while CT/MRI does not?
+
+- Different timing of image acquisition
+- **Microbubbles remain intravascular compared with ECF contrast agents which diffuse into tumor interstitium**
+- CEUS is less sensitive than CT
+- Adenomas enhance differently at different acoustic pressures
+
+*Explanation: It has been postulated that washout demonstrated on CEUS is because the microbubbles remain intravascular compared with the ECF contrast agents, which may see diffusion across the vascular endothelium into the tumor interstitium.*
+
+---
+
+54. Strong arterial hyperenhancement with persistent enhancement in portal venous and delayed sequences is most typical for which HCA subtype?
+
+- H-HCA (HNF1α-inactivated)
+- β-HCA
+- Unclassified HCA
+- **Inflammatory HCA (I-HCA)**
+
+*Explanation: Strong arterial hyperenhancement with persistent enhancement in portal venous and subsequent delayed sequences is more typical for inflammatory HCA.*
+
+---
+
+55. Which imaging modality is preferred over CT for identification of intracellular fat and better HCA subtype characterization?
+
+- PET-CT
+- CEUS
+- Nuclear scintigraphy
+- **MRI**
+
+*Explanation: MRI is preferred to CT for identification of intracellular fat and for better characterization of HCA, with certain imaging features shown to be associated with different subtypes.*
+
+---
+
+56. H-HCAs (HNF1α-inactivated) are characterized on MRI by:
+
+- T2 hyperintensity with a rim sign
+- No specific MRI features
+- **Diffuse, homogenous intratumoral fat deposition demonstrated by diffuse signal drop-out on out-of-phase compared with in-phase T1-weighted imaging**
+- Marked central arterial enhancement
+
+*Explanation: H-HCAs are more likely to have diffuse, homogenous intratumoral fat deposition compared with other subtypes, demonstrated by diffuse signal drop-out on out-of-phase compared with in-phase T1-weighted imaging.*
+
+---
+
+57. H-HCAs typically enhance in the arterial phase:
+
+- Avidly, similar to I-HCA
+- Very prominently with washout
+- **Less avidly than other HCA subtypes**
+- Not at all
+
+*Explanation: H-HCAs also typically enhance less avidly in the arterial phase and are heterogeneously low in signal in the delayed hepatobiliary phase.*
+
+---
+
+58. The "atoll sign" in I-HCA refers to:
+
+- A spoke-wheel pattern of central vascularity
+- A central scar with T2 hyperintensity
+- Arterial-phase washout
+- **A rim of T2 hyperintensity on T2-weighted images corresponding to marked sinusoidal dilatation**
+
+*Explanation: A specific feature of I-HCAs is the presence of marked sinusoidal dilatation, which manifests as a rim of hyperintensity (known as the "atoll sign") on T2-weighted images.*
+
+---
+
+59. The "crescent sign" in I-HCA is similar to the atoll sign but differs in that:
+
+- It is located centrally rather than peripherally
+- It indicates malignant transformation
+- **The rim of T2 hyperintensity and hyperenhancement is incomplete or crescent-shaped**
+- It is only seen on CT
+
+*Explanation: A "crescent sign" has also been recently proposed, which is similar to the atoll sign, but the rim of T2 hyperintensity and hyperenhancement is incomplete or crescent-shaped.*
+
+---
+
+60. Sonic-hedgehog HCAs (sh-HCAs) account for approximately what percentage of HCAs?
+
+- 1%
+- **4%**
+- 10%
+- 20%
+
+*Explanation: sh-HCAs, which account for approximately 4% of HCAs, have been noted to have a predilection to hemorrhage.*
+
+---
+
+61. β-HCAs differ from FNH in terms of glutamine synthetase expression in that:
+
+- β-HCAs show no glutamine synthetase expression
+- Both show identical expression patterns
+- **β-HCAs show diffuse glutamine synthetase expression, while FNH shows map-like expression adjacent to hepatic veins**
+- FNH shows diffuse expression and β-HCA shows map-like expression
+
+*Explanation: β-HCAs show diffuse glutamine synthetase expression from upregulation, in contradistinction to FNH, which show map-like glutamine synthetase expression distribution adjacent to hepatic veins.*
+
+---
+
+62. Traditionally, HCAs are expected to be on the hepatobiliary phase when using hepatocyte-specific contrast agent:
+
+- Iso- to hyperintense (similar to FNH)
+- Markedly hyperintense
+- **Hypointense, in contrast to FNHs which appear iso- to hyperintense**
+- Identical in signal to simple cysts
+
+*Explanation: Traditionally, HCAs are expected to be hypointense on the hepatobiliary phase when using hepatocyte-specific contrast agent, in contrast to FNHs, which retain the same contrast agent and appear iso- to hyperintense.*
+
+---
+
+63. The iso/hyperintense uptake of hepatocyte-specific contrast by FNH correlates with expression of which hepatocyte proteins?
+
+- Albumin and transferrin
+- AFP and GPC3
+- **OATPB1/B3**
+- HNF1α and HNF4α
+
+*Explanation: Iso/hyperintense uptake by FNH has been shown to correlate to expression of hepatocyte proteins such as OATPB1/B3.*
+
+---
+
+64. Which HCA subtype is most likely to show retention of hepatocyte-specific contrast on delayed hepatobiliary phase imaging?
+
+- H-HCA
+- Unclassified HCA
+- sh-HCA
+- **β-HCA**
+
+*Explanation: Increasing studies have noted the retention of hepatocyte-specific contrast in a small proportion of adenomas, particularly the β-HCA subtype, explained by the expression of OATPB1/B3 hepatocyte transport proteins.*
+
+---
+
+### Section 5: Angiomyolipoma and Other Benign Fat-Containing Tumors
+
+65. Hepatic angiomyolipoma (HAML) is composed of which three elements?
+
+- Hepatocytes, bile ducts, and blood vessels
+- Fat, calcification, and fibrous tissue
+- **Smooth muscle, thick-walled blood vessels, and mature adipose tissue**
+- Kupffer cells, endothelium, and lymphocytes
+
+*Explanation: HAML is generally considered a benign, solitary tumor made up of three elements: smooth muscle, thick-walled blood vessels, and mature adipose tissue.*
+
+---
+
+66. HAML is seen more frequently in:
+
+- Men with cirrhosis
+- **Women**
+- Children
+- Elderly patients with metabolic syndrome
+
+*Explanation: Hepatic angiomyolipoma (HAML) is an uncommon tumor and is seen more frequently in women.*
+
+---
+
+67. Which vascular feature has been specifically associated with HAML on imaging?
+
+- Spoke-wheel vascularity
+- Portal vein invasion
+- **Tortuous vessels and enlarged early draining veins to either portal veins or hepatic veins**
+- Arteriovenous shunting visible on Doppler
+
+*Explanation: Tortuous vessels and enlarged early draining veins to either portal veins or hepatic veins are features that have been associated with HAML.*
+
+---
+
+68. On CT, intralesional fat in HAML is evidenced by tissue with an attenuation value of:
+
+- 0 to –10 HU
+- –10 to –15 HU
+- **Less than –20 HU**
+- Less than –50 HU
+
+*Explanation: On CT, intralesional fat is evidenced by fat density tissue (< −20 HU).*
+
+---
+
+69. Peripheral rim enhancement in HAML must be carefully distinguished from:
+
+- Peripheral enhancement of hemangioma
+- Arterial rim of abscess
+- **Tumor capsule typically seen in HCC**
+- Enhancement of compressed hepatic parenchyma
+
+*Explanation: Peripheral rim enhancement caused by peripheral tumor vessels may also be seen in HAML, a feature which the reader must be careful not to misdiagnose as a tumor capsule typically seen in HCC.*
+
+---
+
+70. On delayed hepatobiliary phase imaging using gadoxetic acid, HAMLs typically appear:
+
+- Markedly hyperintense
+- Isointense to liver
+- **Hypointense**
+- Heterogeneously enhancing
+
+*Explanation: On contrast-enhanced images using gadoxetic acid, HAMLs typically appear hypointense on delayed hepatobiliary phase.*
+
+---
+
+71. HAML should be considered in the differential diagnosis when a liver lesion demonstrates which combination of features?
+
+- T2 hyperintensity, rim enhancement, and spoke-wheel vessels
+- Portal phase washout, capsule, and arterial enhancement
+- Central scar, homogenous arterial enhancement, and hepatobiliary uptake
+- **Well-demarcated, hypervascular, macroscopic fat-containing tumor with peripheral enhancement, no tumor capsule, and early draining veins, particularly in patients without cirrhosis**
+
+*Explanation: If a well-demarcated, hypervascular, macroscopic fat-containing tumor is seen with peripheral enhancement, no tumor capsule, and early draining veins, an angiomyolipoma should be considered, particularly in patients without cirrhosis.*
+
+---
+
+72. Hepatic lipomas show what enhancement pattern on CT or MRI?
+
+- Arterial phase hyperenhancement
+- Progressive delayed enhancement
+- **Minimal to no enhancement**
+- Peripheral nodular enhancement
+
+*Explanation: Lipomas show minimal to no enhancement on CT or MRI, distinguishing them from other fat-containing lesions in the liver.*
+
+---
+
+### Section 6: Hepatic Peliosis
+
+73. Hepatic peliosis is characterized by:
+
+- Multiple solid nodules of varying vascularity
+- **Sinusoidal dilatation and numerous blood-filled spaces within the liver**
+- Biliary epithelial cysts
+- Fat-containing spaces within liver parenchyma
+
+*Explanation: Hepatic peliosis is a rare benign vascular disorder characterized by sinusoidal dilatation and numerous blood-filled spaces within the liver.*
+
+---
+
+74. What proportion of hepatic peliosis cases are idiopathic?
+
+- 10%
+- 25%
+- **Up to 50%**
+- 75%
+
+*Explanation: Numerous etiologies have been associated with hepatic peliosis, but nevertheless, up to 50% of cases are idiopathic.*
+
+---
+
+75. On CEUS, hepatic peliosis demonstrates a characteristic:
+
+- Centripetal fill-in pattern
+- **Transient "fast surge" of central enhancement**
+- Spoke-wheel vascularity
+- Honeycomb pattern of septal enhancement
+
+*Explanation: On CEUS, a transient "fast surge" of central enhancement has been described in hepatic peliosis.*
+
+---
+
+76. The "target sign" in hepatic peliosis on postcontrast CT/MRI refers to:
+
+- A hypointense center with peripheral T2 hyperintensity
+- A hyperintense halo around a hypointense center on DWI
+- **Arterial hyperenhancement with globular central enhancement, corresponding to the "fast surge" seen at CEUS**
+- Rim enhancement with central necrosis
+
+*Explanation: Postcontrast multiphase imaging on CT and MRI typically shows arterial hyperenhancement with globular central enhancement, termed the "target sign," corresponding to the "fast surge" of central enhancement seen at CEUS.*
+
+---
+
+77. Lesions of hepatic peliosis characteristically do NOT demonstrate:
+
+- Arterial hyperenhancement
+- T2 hyperintensity
+- Centrifugal enhancement
+- **Mass effect on adjacent hepatic vessels**
+
+*Explanation: Lesions of hepatic peliosis typically do not demonstrate mass effect on adjacent hepatic vessels, unlike other liver tumors.*
+
+---
+
+### Section 7: Cystic Liver Lesions
+
+78. Simple hepatic cysts have what malignant potential?
+
+- Low malignant potential
+- Moderate malignant potential
+- High malignant potential
+- **No malignant potential**
+
+*Explanation: Simple hepatic or biliary cysts are common benign liver lesions and have no malignant potential.*
+
+---
+
+79. The majority of incidental simple hepatic cysts are seen in patients older than:
+
+- 40 years
+- 50 years
+- **60 years**
+- 70 years
+
+*Explanation: Simple cysts increase in prevalence with age, with the majority of incidental cysts seen in those greater than 60 years of age.*
+
+---
+
+80. Which diseases are associated with the presence of numerous hepatic cysts?
+
+- Hemochromatosis and Wilson's disease
+- PBC and PSC
+- **Autosomal dominant polycystic kidney disease, polycystic liver disease, and von Hippel-Lindau**
+- Budd-Chiari syndrome and Caroli disease only
+
+*Explanation: Certain diseases are associated with the presence of numerous hepatic cysts, such as autosomal dominant polycystic kidney disease, polycystic liver disease, and von Hippel-Lindau.*
+
+---
+
+81. On ultrasound, a simple hepatic cyst is characterized by all of the following EXCEPT:
+
+- Anechoic appearance
+- Well-circumscribed border
+- Posterior acoustic enhancement
+- **Detectable internal Doppler signal**
+
+*Explanation: A simple cyst is typically anechoic and well-circumscribed with posterior acoustic enhancement and no perceptible wall. Internal Doppler signal would suggest a solid or complex lesion.*
+
+---
+
+82. On MRI, simple hepatic cysts are:
+
+- T1 hyperintense and T2 hypointense
+- T1 isointense and T2 slightly hyperintense
+- **Homogenously T1 hypointense and markedly T2 hyperintense, similar to CSF**
+- Heterogeneous on both T1 and T2
+
+*Explanation: At MRI, cysts are homogenously T1 hypointense and markedly T2 hyperintense, similar to CSF. Cysts do not enhance on postcontrast imaging.*
+
+---
+
+83. Intracystic hemorrhage is identified on CT by a density of:
+
+- Less than 10 HU
+- Exactly 0 HU (water density)
+- **Greater than 20 HU**
+- Greater than 50 HU
+
+*Explanation: Intracystic hemorrhage is manifest by density higher than that of simple fluid on CT (>20 HU), and hyperintense signal on T1-weighted MR sequences.*
+
+---
+
+84. Polycystic liver disease (PLD) is arbitrarily defined as greater than how many cysts?
+
+- 5
+- 10
+- **20**
+- 50
+
+*Explanation: Polycystic liver disease is characterized by the presence of multiple fluid-filled liver cysts, arbitrarily defined as greater than 20 cysts.*
+
+---
+
+85. The severity of polycystic liver disease is best assessed by:
+
+- Number of cysts on ultrasound
+- AFP level
+- **Height-adjusted total liver volume (htTLV) using volumetric CT or MRI studies**
+- Presence of biliary communication on MRCP
+
+*Explanation: Volumetric studies can be performed using semi-automated software to estimate height-adjusted total liver volume (htTLV). The greater the htTLV, the greater the disease severity.*
+
+---
+
+86. Biliary hamartomas are also known as:
+
+- Caroli disease
+- Peribiliary cysts
+- **Von Meyenburg complex**
+- Biliary cystadenoma
+
+*Explanation: Biliary hamartomas, also known as von Meyenburg complex, are benign tumors composed of small, dilated biliary structures lined by bland biliary epithelium.*
+
+---
+
+87. The size of biliary hamartomas is usually:
+
+- 2–5 cm
+- 5–10 mm
+- **Less than 1 cm**
+- Greater than 3 cm
+
+*Explanation: Tumors are usually small, measuring less than 1 cm in size.*
+
+---
+
+88. The appearance of numerous biliary hamartomas on heavily T2-weighted MRCP has been described as:
+
+- "Water lily sign"
+- "Central dot sign"
+- "Cluster sign"
+- **"Starry sky"**
+
+*Explanation: The appearance of these numerous lesions on heavily T2-weighted imaging, such as MR cholangiopancreatography (MRCP), has been likened to a "starry sky."*
+
+---
+
+89. Communication with the bile ducts is typically:
+
+- Always present in biliary hamartomas
+- Present in 50% of cases
+- **Not seen in biliary hamartomas, helping to differentiate from Caroli disease**
+- Present only on ERCP
+
+*Explanation: Communication with the bile ducts is typically not seen in biliary hamartomas. The lack of communication with the biliary system helps differentiate biliary hamartomas from Caroli disease.*
+
+---
+
+90. Endocystic mural nodules in biliary hamartomas are better seen on:
+
+- CT than MRI
+- CEUS than any other modality
+- Plain radiograph
+- **MRI than CT**
+
+*Explanation: Endocystic mural nodules are a feature better seen on MRI than on CT, and they are isointense on T1-weighted and intermediate signal on T2-weighted imaging.*
+
+---
+
+91. Caroli disease results in:
+
+- Simple cyst formation from obstruction
+- **Multifocal, saccular, or fusiform dilatation of large intrahepatic bile ducts**
+- Multiple solid nodules from ductal hyperplasia
+- Diffuse biliary strictures as in PSC
+
+*Explanation: Caroli disease is a congenital autosomal recessive disease that results in multifocal, saccular, or fusiform dilatation of large intrahepatic bile ducts.*
+
+---
+
+92. Caroli syndrome is the term used when Caroli disease coexists with:
+
+- Portal hypertension
+- Hepatocellular carcinoma
+- **Congenital hepatic fibrosis**
+- Polycystic kidney disease
+
+*Explanation: Caroli syndrome is the term used when Caroli disease and congenital hepatic fibrosis coexist.*
+
+---
+
+93. In the Todani classification, Caroli disease is classified as:
+
+- Type I
+- Type II
+- Type IV
+- **Type V**
+
+*Explanation: In the Todani classification of biliary cysts, Caroli disease is classified as Type V.*
+
+---
+
+94. The "central dot sign" in Caroli disease on contrast-enhanced imaging refers to:
+
+- A calcified deposit within a cyst
+- A mural nodule in a dilated duct
+- **A portal vein branch or portal radicle protruding into the lumen of a dilated duct, showing strong enhancement**
+- A biliary stone within a dilated duct
+
+*Explanation: The "central dot sign" in Caroli disease corresponds to a portal vein branch or portal radicle that protrudes into the lumen of the dilated duct, showing fibrovascular bundles with strong enhancement.*
+
+---
+
+95. Biliary cystadenoma (BCA) has a strong predilection to occur in:
+
+- Young men
+- Elderly patients of either gender
+- Children
+- **Middle-aged women**
+
+*Explanation: BCA is a rare, slow-growing neoplasm arising from the bile ducts, with a strong predilection to occur in middle-aged women.*
+
+---
+
+96. BCA was reclassified according to the 2010 WHO classification as:
+
+- Biliary intraepithelial neoplasm (BilIN)
+- Intraductal papillary neoplasm of the bile duct (IPNB)
+- **Mucinous cystic neoplasm (MCN) of the liver**
+- Hepatocellular adenoma variant
+
+*Explanation: BCA was reclassified as a mucinous cystic neoplasm (MCN) of the liver according to the 2010 World Health Organization (WHO) classification.*
+
+---
+
+97. BCA has the potential to develop into biliary cystadenocarcinoma in up to what proportion of cases?
+
+- 5%–10%
+- **20%–30%**
+- 40%–50%
+- 60%–70%
+
+*Explanation: Although generally benign, these lesions are considered to be premalignant and have the potential to develop into biliary cystadenocarcinoma (BCAC) in up to 20% to 30% of cases.*
+
+---
+
+98. BCAs are more often seen within which hepatic lobe?
+
+- Right hepatic lobe
+- Caudate lobe
+- **Left hepatic lobe**
+- Bilobar in equal distribution
+
+*Explanation: BCAs are more often solitary cystic lesions and seen within the left hepatic lobe.*
+
+---
+
+99. On CEUS, BCA typically demonstrates:
+
+- No enhancement of septa or nodules
+- Diffuse arterial hyperenhancement similar to HCC
+- **A honeycomb pattern of enhancement of the cyst septations and mural nodules**
+- Central globular enhancement (target sign)
+
+*Explanation: CEUS typically demonstrates a honeycomb pattern of enhancement of the cyst septations and mural nodules, with hyperenhancement more likely to be seen in the arterial phase.*
+
+---
+
+100. In comparing US vs. CT for biliary cystadenoma detection:
+
+- CT is superior for detecting internal septations
+- Both modalities are equally sensitive for septations
+- MRI is the only reliable modality for septations
+- **US is more sensitive than CT in detecting intracystic septations, but CT offers more accurate depiction of cyst size and anatomic location**
+
+*Explanation: US is more sensitive than CT in the detection of intracystic septations; however, CT offers a more accurate depiction of cyst size and anatomic location.*
+
+---
+
+### Section 8: Hepatic Abscess and Infection
+
+101. CT is generally the modality of choice for suspicion of hepatic pyogenic abscess in which clinical setting?
+
+- All patients with fever and right upper quadrant pain
+- Patients with known autoimmune liver disease
+- **Recent postoperative or at-risk patients**
+- Pediatric patients exclusively
+
+*Explanation: CT is generally the modality of choice in recent postoperative or at-risk patients in whom there is a clinical suspicion of a hepatic pyogenic abscess.*
+
+---
+
+102. Pyogenic liver abscesses are found most frequently in which hepatic lobe?
+
+- Left lobe
+- Caudate lobe
+- Bilobar equally
+- **Right lobe**
+
+*Explanation: Abscesses are found more frequently in the right lobe of liver.*
+
+---
+
+103. Pyogenic abscesses infected with Klebsiella pneumoniae may appear on US as:
+
+- Anechoic with thin walls
+- Markedly hyperechoic
+- **Solid in appearance**
+- Containing gas bubbles exclusively
+
+*Explanation: On US, pyogenic abscesses can vary in appearance and may even appear solid, particularly if infected with Klebsiella pneumoniae.*
+
+---
+
+104. The "cluster sign" in hepatic abscess on CT refers to:
+
+- Multiple calcifications within an abscess
+- Gas bubbles clustering centrally
+- A target appearance on postcontrast imaging
+- **The appearance of coalesced smaller abscesses into a larger multiloculated abscess**
+
+*Explanation: The appearance of coalesced smaller abscesses into a larger multiloculated abscess has been called the "cluster sign."*
+
+---
+
+105. Intralesional gas in pyogenic abscesses can be seen as a feature in up to what percentage of cases?
+
+- 5%
+- 10%
+- **20%**
+- 40%
+
+*Explanation: Intralesional gas may be present, either in the form of gas bubbles or an air-fluid level, and can be a feature of up to 20% of abscesses.*
+
+---
+
+106. On MRI, the signal characteristics of gas within an abscess on T1-weighted in-phase gradient echo sequences is:
+
+- High signal (bright)
+- Isointense to liver
+- Variable depending on gas content
+- **Signal voids, most pronounced on T1-weighted in-phase gradient echo sequences due to greater magnetic susceptibility**
+
+*Explanation: If gas is present, it typically manifests as signal voids on all sequences, which is more pronounced on T1-weighted in-phase gradient echo sequences because of greater magnetic susceptibility.*
+
+---
+
+107. The "turquoise sign" in K. pneumoniae liver infection refers to:
+
+- Focal gas bubbles within the abscess
+- Ring enhancement visible on CEUS
+- **Hypointense, thin, septal bands on T2-weighted images resembling the turquoise mineral**
+- Central T1 hyperintensity from blood products
+
+*Explanation: In the case of K. pneumoniae infection, the "turquoise sign" has been described, which refers to the presence of hypointense, thin, septal bands on T2-weighted images that resemble the turquoise mineral.*
+
+---
+
+108. The "double target" sign in hepatic abscess on postcontrast imaging refers to:
+
+- Two rings of T2 hyperintensity
+- Dual-phase enhancement pattern
+- **Hepatic parenchymal enhancement peripheral to the enhancing wall, secondary to increased capillary permeability**
+- Central and peripheral nodular enhancement
+
+*Explanation: A "double target" sign may be seen, which describes the presence of hepatic parenchymal enhancement peripheral to the enhancing wall, secondary to increased capillary permeability.*
+
+---
+
+109. On multiphase postcontrast imaging, arterial rim enhancement that persists into portal venous or transitional phase is typical for:
+
+- HCC
+- Metastases
+- **Abscesses**
+- Cholangiocarcinoma
+
+*Explanation: On multiphase imaging, arterial rim enhancement that persists into portal venous or transitional phase is typical for abscesses, compared with arterially rim-enhancing malignant lesions that fade or wash out by the portal venous or transitional phase.*
+
+---
+
+110. On delayed hepatobiliary phase using hepatocyte-specific contrast, the periphery of a hepatic abscess shows:
+
+- Intense enhancement similar to functioning liver
+- Heterogeneous enhancement
+- **Low signal, corresponding to damaged hepatocytes**
+- No discernible difference from surrounding liver
+
+*Explanation: On the delayed hepatobiliary phase using hepatocyte-specific contrast, the periphery of the abscess is low in signal, corresponding to damaged hepatocytes.*
+
+---
+
+111. On DWI, the periphery of a hepatic abscess shows:
+
+- Peripheral diffusion restriction (low ADC)
+- No DWI signal at the periphery
+- **T2-shine through (high b-value DWI and high ADC), in contrast to malignant tumors which show peripheral diffusion restriction**
+- Identical DWI characteristics to central pus
+
+*Explanation: The abscess periphery typically shows "T2-shine through" (i.e., high b-value on DWI and high ADC) compared with malignant tumors, which typically demonstrate peripheral diffusion restriction.*
+
+---
+
+112. The central pus-filled cavity of a hepatic abscess on DWI demonstrates:
+
+- T2 shine-through (high ADC)
+- No DWI signal
+- **Diffusion restriction (restricted diffusion)**
+- Identical signal to the periphery
+
+*Explanation: Conversely, central abscess pus-filled cavities demonstrate diffusion restriction.*
+
+---
+
+113. Echinococcal cysts (EC) are most commonly seen in which hepatic lobe?
+
+- Left lobe
+- Caudate lobe
+- **Right hepatic lobe**
+- Bilobar equally
+
+*Explanation: EC is most commonly seen in the right hepatic lobe and imaging appearances vary depending on the stage of the cyst.*
+
+---
+
+114. "Hydatid sand" on ultrasound of echinococcal cysts represents:
+
+- Calcified debris in the cyst
+- Inflammatory cells
+- Mucin within the cyst
+- **Parasite larva called protoscolices, seen as multiple floating internal echoes**
+
+*Explanation: Multiple floating, internal echoes termed "hydatid sand" represent parasite larva called protoscolices.*
+
+---
+
+115. Complete membrane detachment of the endocyst from the pericyst in echinococcal cyst has been called the:
+
+- "Central dot sign"
+- "Turquoise sign"
+- "Cluster sign"
+- **"Water lily" sign**
+
+*Explanation: A complete membrane detachment has been called the "water lily" sign.*
+
+---
+
+116. Daughter cysts within an echinococcal "mother cyst" on CT appear as:
+
+- Hyperdense foci
+- Isoattenuating to the mother cyst fluid
+- **Small hypodense peripheral foci, as they are usually lower in density than the mother cyst fluid**
+- Calcified nodules
+
+*Explanation: On CT, daughter cysts are seen as small hypodense, peripheral foci within the mother cyst because they are usually lower in density than the mother cyst fluid.*
+
+---
+
+117. Complete calcification of an echinococcal cyst implies:
+
+- Active infection
+- Need for urgent surgery
+- Superinfection has occurred
+- **Parasite death**
+
+*Explanation: Partial calcification does not always indicate parasite death; however, it is implied when complete calcification occurs.*
+
+---
+
+118. Fungal microabscesses are typically seen in which patient population?
+
+- Elderly diabetics
+- Postoperative patients
+- Patients with viral hepatitis
+- **Immunocompromised patients**
+
+*Explanation: Fungal microabscesses generally manifest in immunocompromised patients as numerous tiny abscesses disseminated throughout the liver.*
+
+---
+
+119. The classical US finding of fungal (candidal) microabscesses is described as:
+
+- "Starry sky" appearance
+- "Central dot sign"
+- **"Bull's eye" appearance: a round hyperechoic lesion with a hypoechoic rim**
+- "Water lily sign"
+
+*Explanation: The classical imaging finding on US describes the "bull's eye" appearance of a round hyperechoic lesion with a hypoechoic rim.*
+
+---
+
+120. On CT, fungal abscesses show increased sensitivity and lesion conspicuity on:
+
+- Portal venous phase CT
+- Delayed equilibrium phase CT
+- **Arterial-phase CT compared with portal venous phase CT**
+- Noncontrast CT
+
+*Explanation: Authors have reported significant increase in sensitivity and lesion conspicuity using arterial-phase CT, compared with portal venous phase CT, when evaluating liver lesions in immunocompromised patients suspected to have hepatosplenic fungal infections.*
+
+---
+
+121. The "dark ring" sign in fungal liver disease on MRI refers to:
+
+- Ring enhancement on postcontrast T1 images
+- T2 hypointense rim around a hyperintense lesion
+- **Susceptibility artifact (signal drop-out) at T1-weighted gradient echo imaging, corresponding to iron accumulation in macrophages at the abscess periphery in patients on antifungal treatment**
+- Absence of T2 signal in treated abscess
+
+*Explanation: The "dark ring" sign describes the emergence of susceptibility artifact at T1-weighted gradient echo imaging, corresponding to iron accumulation in macrophages at the periphery of the abscess in patients on antifungal treatment.*
+
+---
+
+122. A ciliated hepatic foregut duplication cyst (CHFC) carries a risk for transformation into:
+
+- Hepatocellular carcinoma
+- Cholangiocarcinoma
+- **Squamous cell carcinoma**
+- Angiosarcoma
+
+*Explanation: Although considered a benign entity, CHFC carries a risk for transformation into squamous cell carcinoma.*
+
+---
+
+123. CHFC is most commonly located in which segment of the liver?
+
+- Segment 6/7
+- Segment 1 (caudate)
+- Segment 5/6
+- **Subcapsular segment 4**
+
+*Explanation: CHFC is typically solitary, most commonly located in the subcapsular segment 4, and typically measures less than 3 cm in size.*
+
+---
+
+124. On CT, CHFC typically appears:
+
+- Hypodense, similar to a simple cyst
+- Enhancing with thick walls
+- Calcified with a thin rim
+- **Hyperdense due to its thick mucoid content**
+
+*Explanation: CHFC is usually hyperdense on CT because of its thick mucoid content.*
+
+---
+
+125. A biloma is defined as:
+
+- A bile-filled cyst within the liver parenchyma
+- A dilated intrahepatic bile duct
+- **An encapsulated collection of bile outside of the biliary tree**
+- A biliary stricture with upstream dilatation
+
+*Explanation: A biloma is an encapsulated collection of bile outside of the biliary tree. It may occur secondary to trauma, spontaneously, or represent an iatrogenic complication.*
+
+---
+
+126. The diagnosis of a biliary leak on MRCP with hepatobiliary-specific contrast is achieved by demonstrating:
+
+- A filling defect in the bile duct
+- Upstream biliary dilatation
+- Rim enhancement of the biloma
+- **Biliary contrast extravasation on delayed hepatobiliary phase postcontrast imaging**
+
+*Explanation: The diagnosis of a biliary leak is achieved by demonstrating the presence of biliary contrast extravasation on delayed hepatobiliary phase postcontrast imaging.*
+
+---
+
+### Section 9: Malignant Tumors — Hepatocellular Carcinoma (HCC)
+
+127. HCC is the most common primary hepatic malignancy worldwide, and approximately what percentage of HCC tumors develop in cirrhotic livers?
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: Approximately 80% of HCC tumors develop in cirrhotic livers.*
+
+---
+
+128. According to AASLD 2018 revised recommendations, HCC surveillance in at-risk patients should use:
+
+- CT scan every 6 months
+- MRI every 12 months
+- Serum AFP alone
+- **US imaging every 6 months, with or without serum α-fetoprotein (AFP)**
+
+*Explanation: The AASLD issued revised recommendations in 2018, recommending US imaging every 6 months, with or without serum AFP, as the recommended modality used to screen for HCC in at-risk patients.*
+
+---
+
+129. When used as a surveillance test for HCC, ultrasound has a sensitivity of approximately:
+
+- 30%
+- 45%
+- **63%**
+- 85%
+
+*Explanation: When used as a surveillance test, US has a sensitivity of around 63%.*
+
+---
+
+130. CEUS has demonstrated sensitivity and specificity of 0.81 and 0.86 respectively for diagnosing HCC in lesions less than:
+
+- 1 cm
+- **2 cm**
+- 3 cm
+- 5 cm
+
+*Explanation: CEUS has been shown to be useful in the diagnosis of HCC, particularly in small HCCs less than 2 cm in size, where it has a sensitivity and specificity of 0.81 and 0.86, respectively.*
+
+---
+
+131. Despite its diagnostic utility, CEUS for HCC diagnosis is:
+
+- Strongly recommended by AASLD as a first-line tool
+- Used as the gold standard for HCC staging
+- **Not recommended as a diagnostic tool by current AASLD guidelines**
+- Required before any invasive biopsy
+
+*Explanation: However, current AASLD guidelines do not recommend CEUS as a diagnostic tool for HCC.*
+
+---
+
+132. The hallmark enhancement pattern of HCC on multiphasic CT and MRI is:
+
+- Peripheral arterial enhancement with centripetal fill-in on delayed phases
+- Homogenous arterial enhancement with persistent enhancement
+- No arterial enhancement with delayed enhancement
+- **Arterial-phase hyperenhancement with washout appearance in the portal venous or delayed phase**
+
+*Explanation: The hallmark pattern is that of arterial-phase hyperenhancement with washout appearance in the portal venous or delayed phase. Washout refers to the reduction in enhancement of the tumor relative to background liver parenchyma.*
+
+---
+
+133. "Washout" in HCC specifically refers to:
+
+- Contrast leaving the aorta
+- Enhancement that fades to background signal (isoenhancement)
+- **Reduction in enhancement of the tumor relative to background liver parenchyma, becoming darker than background**
+- Loss of contrast in the portal vein
+
+*Explanation: Washout refers to the reduction in enhancement of the tumor relative to background liver parenchyma.*
+
+---
+
+134. Peritumoral capsules in HCC are low in signal intensity on the arterial dominant phase and enhance later. Their absence has been associated with:
+
+- Better prognosis
+- **Microvascular invasion**
+- Lower AFP levels
+- Smaller tumor size
+
+*Explanation: Peritumoral capsules, which are low in signal intensity on the arterial dominant phase and enhance later, are an important feature and their absence has been associated with microvascular invasion.*
+
+---
+
+135. When using hepatocyte-specific contrast agents for HCC assessment, washout should be assessed only on:
+
+- The arterial phase
+- Both arterial and portal venous phases
+- Transitional and hepatobiliary phases
+- **The portal venous phase only**
+
+*Explanation: If using hepatocyte-specific contrast agents, assessment of washout is confined to the portal venous phase and should not be characterized in the transitional or hepatobiliary phases.*
+
+---
+
+136. On hepatobiliary phase with hepatocyte-specific contrast agents, HCC tumors generally show:
+
+- Hyperintensity similar to surrounding liver
+- Enhancement patterns identical to background liver
+- No change from precontrast signal
+- **Hypointensity relative to surrounding liver in the majority of cases**
+
+*Explanation: When using hepatocyte-specific contrast agents, HCC tumors generally show hypointensity in the delayed hepatobiliary phase of imaging compared with surrounding liver in the majority of cases.*
+
+---
+
+137. Intracellular fat in HCC can be detected on MRI by:
+
+- Markedly high T2 signal
+- Hyperintense DWI signal
+- T1 hyperintensity on precontrast images
+- **Signal loss on out-of-phase compared with in-phase T1-weighted imaging**
+
+*Explanation: HCC with intracellular fat can be detected by signal loss on out-of-phase imaging.*
+
+---
+
+138. Fat in HCC is associated with which stage of HCC?
+
+- Advanced HCC with macrovascular invasion
+- Intermediate-stage HCC
+- **Early HCC (also seen in dysplastic nodules)**
+- Metastatic HCC
+
+*Explanation: Fat is associated with early HCC and can also be seen in dysplastic nodules.*
+
+---
+
+139. Intracellular lipid may be an important clue to small HCCs because:
+
+- Large HCCs always contain lipid
+- Lipid is specific to malignancy
+- **Early HCC are sometimes hypovascular in the arterial phase, and fat may be the only clue**
+- Lipid indicates better prognosis
+
+*Explanation: Intracellular lipid may be an important clue to small HCCs, especially those without typical enhancement patterns, because early HCC are sometimes hypovascular in the arterial phase.*
+
+---
+
+140. An infiltrative appearance in HCC has been associated with:
+
+- Better prognosis and lower stage
+- **More aggressive subtypes and macrovascular invasion**
+- Absence of cirrhosis
+- Lower AFP values
+
+*Explanation: An infiltrative appearance has been associated with more aggressive subtypes, as does the presence of macrovascular invasion.*
+
+---
+
+141. The Liver Imaging Reporting and Data System (LI-RADS) is an initiative supported by:
+
+- AASLD alone
+- WHO
+- **The American College of Radiology, with additional guidelines from the Liver and Intestinal Organ Transplant Committee (OPTN)**
+- EASL
+
+*Explanation: The Liver Imaging Reporting and Data System (LI-RADS) is an initiative supported by the American College of Radiology, and the Liver and Intestinal Organ Transplant Committee (OPTN) have also issued guidelines regarding HCC classification.*
+
+---
+
+142. LI-RADS was revised in which year to integrate with the AASLD HCC clinical practice guidelines?
+
+- 2014
+- 2016
+- **2018**
+- 2020
+
+*Explanation: LI-RADS was revised in 2018 to facilitate integration of the diagnostic algorithm into the AASLD 2018 HCC clinical practice guidelines.*
+
+---
+
+143. The LI-RADS diagnostic algorithm is intended for use in which patient population?
+
+- All patients with liver lesions
+- Only patients with known HCC
+- **Patients who are considered high risk for HCC without histologic diagnosis or who have undergone previous treatment**
+- Patients with chronic hepatitis B only
+
+*Explanation: The algorithm is intended for use only in patients who are considered high risk for HCC and are without histologic diagnosis or have undergone previous treatment.*
+
+---
+
+144. LI-RADS categories are designed to have:
+
+- High sensitivity at the expense of specificity
+- Equal sensitivity and specificity
+- Low sensitivity and low specificity
+- **High specificity at the expense of sensitivity**
+
+*Explanation: As a result, LI-RADS categories are designed to have high specificity but at the expense of sensitivity.*
+
+---
+
+145. For LR-5 categorization of HCC in LI-RADS, which major feature is mandatory?
+
+- Washout appearance
+- Enhancing capsule
+- Threshold growth
+- **Non-rim arterial-phase hyperenhancement**
+
+*Explanation: Major features seen in HCC include non-rim arterial-phase hyperenhancement (the presence of this feature is mandatory for LR-5 categorization), non-peripheral "washout," enhancing "capsule," and threshold growth.*
+
+---
+
+146. Ancillary features favoring HCC in LI-RADS include all of the following EXCEPT:
+
+- Nodule-in-nodule or mosaic appearance
+- Intralesional fat
+- Blood products
+- **Targetoid appearance on DWI (which favors cholangiocarcinoma)**
+
+*Explanation: Ancillary features favoring HCC include nodule-in-nodule or mosaic appearance, intralesional fat or blood products. Targetoid appearance on DWI favors non-HCC malignancy and is used to classify lesions as LI-RADS M.*
+
+---
+
+147. The LR-TIV (tumor in vein) category is assigned for:
+
+- Any lesion adjacent to a hepatic vein
+- Portal vein thrombosis on any imaging
+- **Definitely malignant observations with unequivocal enhancing soft tissue in vein**
+- Lesions showing arterial flow on Doppler within thrombus
+
+*Explanation: A separate category of LR-TIV (tumor in vein) is assigned for observations that are definitely malignant, with unequivocal enhancing soft tissue in vein.*
+
+---
+
+148. Although tumor in vein is most frequently associated with HCC, macrovascular invasion can also be seen in:
+
+- Only HCC
+- HCC and metastases
+- **Other non-HCC liver tumors such as intrahepatic cholangiocarcinoma**
+- Only primary hepatic malignancies
+
+*Explanation: Although tumor in vein is most frequently associated with HCC, it is not exclusive to HCC, with macrovascular invasion also seen in other non-HCC liver tumors, such as intrahepatic cholangiocarcinoma.*
+
+---
+
+### Section 10: Intrahepatic Cholangiocarcinoma (IHCC)
+
+149. Intrahepatic cholangiocarcinomas (IHCCs) account for approximately what percentage of biliary duct cancers?
+
+- 2%
+- 5%
+- **10%**
+- 25%
+
+*Explanation: Intrahepatic cholangiocarcinomas (IHCCs) account for approximately 10% of biliary duct cancers.*
+
+---
+
+150. The majority of IHCCs are of which subtype?
+
+- Periductal-infiltrating type
+- Intraductal-growth type
+- Mixed type
+- **Peripheral, mass-forming subtype**
+
+*Explanation: The majority of IHCCs are of the peripheral, mass-forming subtype.*
+
+---
+
+151. The periductal-infiltrating subtype of IHCC appears as:
+
+- A discrete peripheral mass
+- An intraluminal papillary tumor
+- **Thickened bile duct walls with longitudinal tumor extension along the bile ducts**
+- A cystic lesion with septa
+
+*Explanation: A less common intrahepatic subtype is the periductal-infiltrating type, which appears as thickened bile duct walls and longitudinal tumor extension along the bile ducts.*
+
+---
+
+152. On CT, IHCC on precontrast imaging is useful for:
+
+- Detecting arterial supply
+- Measuring tumor washout
+- **Detection of intraductal stones and differentiating stones from tumor**
+- Assessing hepatobiliary excretion
+
+*Explanation: The precontrast phase is useful for the detection of intraductal stones and differentiating stones from tumor.*
+
+---
+
+153. Features described in IHCC but not seen in every case include:
+
+- Low T1 signal on MRI
+- Peripheral arterial enhancement
+- **Capsular retraction and peripheral biliary ductal dilatation**
+- Central fibrous stroma
+
+*Explanation: Capsular retraction and peripheral biliary ductal dilatation have also been described as features of IHCC, but are not seen in every case.*
+
+---
+
+154. The enhancement pattern of IHCC on arterial phase is:
+
+- Diffuse homogenous hyperenhancement
+- No enhancement
+- **Peripheral rim enhancement with gradual centripetal fill-in on delayed phases due to central fibrous stroma**
+- Central arterial enhancement with peripheral washout
+
+*Explanation: Tumors often showing peripheral enhancement in the arterial phase and gradual centripetal fill-in on delayed phases because of the central abundant fibrous stroma.*
+
+---
+
+155. The initial rim of arterial enhancement in IHCC represents histologically:
+
+- Fibrous stroma
+- Necrotic tissue
+- **Viable tumor cells**
+- Inflammatory infiltrate
+
+*Explanation: The initial rim of arterial enhancement, representing viable tumor cells histologically, is typically continuous and can demonstrate washout on later phases of imaging.*
+
+---
+
+156. Non-rim arterial enhancement in small IHCCs in cirrhotic livers can appear similar to:
+
+- FNH
+- Hemangioma
+- **Small HCCs**
+- Metastases
+
+*Explanation: Non-rim arterial enhancement may be seen in smaller lesions, particularly in cirrhotic livers, and can therefore appear similar to small HCCs, making imaging diagnosis difficult.*
+
+---
+
+157. "Pseudo-washout" in IHCC on hepatocyte-specific contrast agents occurs due to:
+
+- Contrast uptake by tumor cells
+- Loss of tumor vascularity
+- **Progressive enhancement of background liver on later transitional phase, making the tumor appear to wash out**
+- Biliary excretion of contrast by IHCC cells
+
+*Explanation: A "pseudo-washout" appearance can be seen on the later transitional phase of imaging because of the progressive enhancement of background liver, which can also mimic the appearance of HCC.*
+
+---
+
+158. The "target sign" of IHCC on DWI refers to:
+
+- Hypointense center on high b-value with peripheral hyperintensity
+- Hypointense lesion on ADC map only
+- **Rim of hyperintensity and central low intensity on high b-value images, with rim of hypointensity on ADC map**
+- Diffuse restricted diffusion throughout the lesion
+
+*Explanation: The target sign on DWI refers to a rim of hyperintensity and central low intensity on high b-value images and a rim of hypointensity on the corresponding ADC map, reflecting peripheral hypercellular tumor cells and central fibrous stroma.*
+
+---
+
+159. A targetoid appearance of a liver lesion on DWI or postcontrast imaging in a patient at risk for HCC classifies that lesion in LI-RADS as:
+
+- LR-3
+- LR-4
+- LR-5
+- **LR-M (probably or definitely malignant, not HCC specific)**
+
+*Explanation: A targetoid appearance of a liver lesion on DWI or postcontrast imaging in a patient at risk for HCC is sufficient to classify that lesion as LI-RADS M.*
+
+---
+
+160. Combined hepatocellular cholangiocarcinoma (cHCC-CC) imaging features more frequently overlap with:
+
+- HCC
+- Hemangioma
+- **IHCC**
+- Metastases
+
+*Explanation: Combined hepatocellular cholangiocarcinoma is a rare primary hepatic malignancy with both HCC and IHCC components, with imaging features more frequently overlapping with IHCC.*
+
+---
+
+161. One study showed that what percentage of cHCC-CC can be misclassified as HCC even when using LI-RADS criteria?
+
+- 1.5%
+- **6.5%**
+- 15%
+- 25%
+
+*Explanation: One study showed that 6.5% of cHCC-CC can be misclassified as HCC, even when using LI-RADS criteria.*
+
+---
+
+### Section 11: Fibrolamellar Carcinoma (FLC)
+
+162. Fibrolamellar carcinoma (FLC) occurs in:
+
+- Elderly patients with cirrhosis
+- Middle-aged patients with hepatitis B
+- **Young adults (average age 25 years) in the absence of cirrhosis or liver disease risk factors**
+- Patients with metabolic syndrome
+
+*Explanation: FLC occurs in young adults, average age of presentation is 25 years, and it occurs in the absence of cirrhosis or risk factors for liver disease.*
+
+---
+
+163. FLC frequently presents as a large mass with a mean diameter greater than:
+
+- 5 cm
+- 8 cm
+- **11 cm**
+- 15 cm
+
+*Explanation: It frequently presents as a large, well-demarcated, solitary mass with a mean diameter of greater than 11 cm.*
+
+---
+
+164. A central scar can be seen in FLC in what proportion of cases?
+
+- 10%–20%
+- 25%–35%
+- **46%–73%**
+- 80%–90%
+
+*Explanation: A central scar can be seen in 46% to 73% of cases of FLC.*
+
+---
+
+165. Calcification in FLC, which helps differentiate it from FNH, can be seen in what proportion of cases on CT?
+
+- 5%–10%
+- 20%–30%
+- **43%–64%**
+- 70%–80%
+
+*Explanation: Calcification, a finding that is used to help differentiate this lesion from FNH, can be seen in 43% to 64% of cases, and when seen is typically associated with a central scar.*
+
+---
+
+166. The central scar of FLC on MRI is characteristically:
+
+- Hypointense on T1 and hyperintense on T2 (same as FNH)
+- Hyperintense on T1 and T2
+- **Low in signal on both T1-weighted and T2-weighted images due to fibrous changes**
+- Isointense to liver on T1 and T2
+
+*Explanation: The central scar, if present, tends to be low in signal on T1-weighted and T2-weighted images because of fibrous changes. This is a distinguishing characteristic from FNH, in which if a central scar is present, it is typically increased in T2 signal.*
+
+---
+
+167. A central scar that is low in T2 signal is:
+
+- Typical of FNH
+- Seen in hemangiomas
+- **Seldom seen in FNH and should raise suspicion for FLC**
+- Characteristic of HCA
+
+*Explanation: A scar that is low in T2 signal, on the other hand, is seldom seen in FNH and should raise the suspicion for FLC.*
+
+---
+
+168. Metastatic disease in FLC at presentation is:
+
+- Uncommon
+- Seen only in late-stage disease
+- Limited to the liver
+- **Common, with adenopathy being prominent in a majority of cases, both in the abdomen and chest**
+
+*Explanation: Metastatic disease is common at presentation in FLC, both in the abdomen and chest, with adenopathy being prominent in a majority of cases.*
+
+---
+
+169. The central scar of FLC on portal venous and later phases of postcontrast imaging tends to:
+
+- Enhance prominently similar to FNH scars
+- Show rapid washout
+- **Not enhance, in contrast to FNH scars which typically do enhance**
+- Disappear on later phases
+
+*Explanation: The central scar tends not to enhance on portal venous and later phases of postcontrast imaging, in contrast to FNH scars, which typically do.*
+
+---
+
+170. On hepatobiliary phase imaging with hepatocyte-specific contrast agents, FLC typically remains:
+
+- Hyperintense relative to liver
+- Isoenhancing to liver
+- **Hypointense relative to background liver**
+- Shows partial uptake equal to FNH
+
+*Explanation: Partial uptake may be seen on hepatobiliary phase of imaging using hepatocyte-specific contrast agents; FLC nonetheless typically remains hypointense relative to background liver.*
+
+---
+
+### Section 12: Epithelioid Hemangioendothelioma (HEH)
+
+171. Hepatic epithelioid hemangioendothelioma (HEH) is considered to be:
+
+- A benign vascular tumor
+- A high-grade malignancy
+- **A low-to-intermediate grade malignancy with variable clinical behavior**
+- A non-vascular mesenchymal tumor
+
+*Explanation: HEH is a rare tumor of vascular origin and is considered to be a low-to-intermediate grade malignancy with variable clinical behavior.*
+
+---
+
+172. HEH tumors are typically located in which hepatic distribution?
+
+- Central, perihilar region
+- Diffusely throughout the liver
+- **Peripheral, subcapsular regions**
+- Exclusively in the right lobe
+
+*Explanation: HEH tumors are typically multifocal and located in the peripheral, subcapsular regions of the liver.*
+
+---
+
+173. As HEH progresses, the nodules tend to:
+
+- Remain discrete and separate
+- Calcify completely
+- **Coalesce to appear as a large infiltrative, peripheral liver mass**
+- Undergo central necrosis
+
+*Explanation: As the disease progresses, these nodules tend to coalesce to appear as a large infiltrative, peripheral liver mass.*
+
+---
+
+174. Capsular retraction is frequently observed in:
+
+- HCC
+- FNH
+- **HEH (and also in IHCC and sclerosed hemangiomas)**
+- Simple hemangioma
+
+*Explanation: Capsular retraction is also frequently observed in HEH.*
+
+---
+
+175. The "target sign" in HEH on T2-weighted imaging refers to:
+
+- Peripheral low signal with central hyperintensity
+- **Central core of high signal (fibrosis stroma) surrounded by a rim of low signal intensity (proliferating tumor cells) possibly with a mildly hyperintense halo**
+- Diffuse T2 hyperintensity throughout the lesion
+- Rim of T2 hyperintensity with central low signal
+
+*Explanation: The target sign typically refers to the target appearance of the lesion on T2-weighted imaging, with a central core of high signal (representing fibrosis stroma) surrounded by a rim of low signal intensity (reflecting proliferating tumor cells), with a possible mildly hyperintense halo.*
+
+---
+
+176. The "lollipop sign" in HEH refers to:
+
+- A round lesion with a central scar
+- Daughter cysts within a mother cyst
+- **A hepatic vein or portal vein branch (the stick) extending toward the tumor (the candy) and terminating at or just within the lesion rim due to vessel branch occlusion**
+- Spoke-wheel vascularity on Doppler
+
+*Explanation: The "lollipop" sign refers to the presence of a hepatic vein or portal vein branch (the stick) extending towards the tumor (the candy of the lollipop) and then terminating at the margin or just within the lesion rim because of the vessel branch occlusion.*
+
+---
+
+177. The "lollipop sign" can be seen in up to what proportion of HEH cases?
+
+- 10%
+- 25%
+- **Up to half (approximately 50%)**
+- 75%
+
+*Explanation: It can be seen in up to half of cases of HEH and, when seen, is considered a characteristic finding.*
+
+---
+
+178. The "T1-weighted-dark-bright-dark ring sign" in HEH describes:
+
+- A concentric ring pattern on T2-weighted sequences
+- Three layers of T1 hyperintensity
+- **Low central signal intensity surrounded by a thin hyperintense ring and a peripheral low signal halo on T1-weighted imaging**
+- T1 hyperintensity throughout with peripheral signal dropout
+
+*Explanation: A small proportion of HEH lesions demonstrate low central signal intensity surrounded by a thin hyperintense ring and a peripheral low signal halo, which has been called the "T1-weighted-dark-bright-dark ring sign."*
+
+---
+
+179. In the "core pattern" of HEH on postcontrast hepatobiliary phase imaging, the lesion shows:
+
+- Diffuse hyperintensity
+- Peripheral rim enhancement only
+- **A central hypointense core surrounded by a rim of mild signal intensity**
+- Complete enhancement equal to liver
+
+*Explanation: In the case of postcontrast hepatobiliary phase imaging, HEH may have a central hypointense core surrounded by a rim of mild signal intensity, also described as a "core pattern."*
+
+---
+
+### Section 13: Hepatic Angiosarcoma
+
+180. Primary hepatic angiosarcoma (HAS) is associated with which environmental exposures?
+
+- Aflatoxin B1 and tobacco
+- Alcohol and hepatitis C
+- **Thorium dioxide (Thorotrast), arsenic, and radiation exposure**
+- NASH and metabolic syndrome
+
+*Explanation: HAS has been associated with a variety of environmental exposures, most notably, thorium dioxide (Thorotrast), arsenic, and radiation exposure.*
+
+---
+
+181. When HAS arises in the setting of thorium dioxide exposure, thorium deposition is seen as high-attenuating foci in which structures?
+
+- Only the liver
+- Liver and gallbladder
+- **Liver, perihepatic lymph nodes, and spleen**
+- Liver and lungs
+
+*Explanation: When arising in the setting of thorium dioxide exposure, thorium deposition can be seen as high-attenuating foci within the liver, perihepatic lymph nodes, and spleen.*
+
+---
+
+182. The median survival of primary hepatic angiosarcoma is reported as:
+
+- Less than 1 month
+- 1–3 months
+- **Less than 6 months**
+- 12–18 months
+
+*Explanation: Primary hepatic angiosarcoma (HAS) is a rare but aggressive hepatic malignancy, with a median survival reported as less than 6 months.*
+
+---
+
+183. On nonenhanced CT, HAS most commonly presents as:
+
+- A solitary lesion only
+- A diffusely infiltrative process
+- **Either multiple bilobar masses (usually with one dominant mass) or a solitary mass**
+- Multiple calcified lesions
+
+*Explanation: On nonenhanced CT, HAS most commonly presents as either multiple, bilobar masses, one of which is usually dominant, or as a solitary mass.*
+
+---
+
+184. On postcontrast multiphase imaging, HAS enhancement tends to:
+
+- Demonstrate arterial washout similar to HCC
+- Show no enhancement
+- **Follow that of blood pool, although the pattern can be highly variable (nodular, rim, branching, or diffuse)**
+- Show uniform arterial hyperenhancement with complete fill-in
+
+*Explanation: On postcontrast imaging, HAS enhancement on multiphase imaging tends to follow that of blood pool, although the pattern of enhancement can be highly variable, including nodular, rim, branching, or diffuse patterns.*
+
+---
+
+185. The absence of washout in HAS can be helpful in distinguishing it from:
+
+- IHCC
+- Metastases
+- **HCC**
+- Epithelioid hemangioendothelioma
+
+*Explanation: Washout is typically not seen in HAS, and its absence can be a helpful factor in distinguishing HAS from HCC.*
+
+---
+
+186. Which finding, if present, offers a helpful diagnostic clue to HAS?
+
+- Hepatic vein involvement
+- Biliary duct dilatation
+- **Splenic metastases**
+- Portal vein thrombus
+
+*Explanation: Splenic metastases are common in HAS and, if present, offer a clue to the diagnosis of HAS.*
+
+---
+
+### Section 14: Primary Hepatic Lymphoma (PHL)
+
+187. Primary hepatic lymphoma (PHL) is defined as lymphoma:
+
+- Involving the liver and spleen simultaneously
+- With secondary hepatic involvement from nodal disease
+- **Confined to the liver without involvement of lymph nodes, bone marrow, spleen, or other lymphomatous structures**
+- Involving the liver with biliary obstruction
+
+*Explanation: PHL refers to liver-confined lymphoma without involvement of lymph nodes, bone marrow, spleen, or other lymphomatous structures.*
+
+---
+
+188. The most common imaging manifestation of primary hepatic lymphoma occurs in about 60% of cases as:
+
+- Multiple lesions without a dominant mass
+- An infiltrative process
+- **A solitary mass**
+- Periportal infiltration
+
+*Explanation: The most common imaging manifestation of PHL is a solitary mass seen in about 60% of cases.*
+
+---
+
+189. The "insinuative" growth pattern described in PHL on MRI refers to:
+
+- Invasion of hepatic veins
+- Peripheral subcapsular spread
+- **Tumor growth without displacement of hepatic vessels or biliary ducts (also called the "vessel penetration sign")**
+- Diffuse infiltration of all liver segments
+
+*Explanation: On MRI, an "insinuative" growth pattern has been described, which is shown by tumor growth without displacement of hepatic vessels or biliary ducts. This appearance has also been described as the "vessel penetration sign."*
+
+---
+
+190. On US, PHL lesions are typically:
+
+- Hyperechoic with posterior enhancement
+- Mixed echogenicity with internal vascularity
+- **Hypoechoic, occasionally appearing anechoic mimicking cysts, but without posterior acoustic enhancement**
+- Isoechoic to liver
+
+*Explanation: On US, lesions are typically hypoechoic with case reports of lesions appearing anechoic and mimicking cysts. Nevertheless, absence of posterior acoustic enhancement should hint as to the presence of a solid lesion.*
+
+---
+
+191. ADC values in primary hepatic lymphoma (PHL) are:
+
+- Similar to benign lesions
+- Higher than all other primary hepatic lesions
+- Variable, with no specific pattern
+- **Significantly lower than both benign liver lesions and other primary hepatic lesions**
+
+*Explanation: Restricted diffusion is typically seen in PHL, with one study noting that ADC values were significantly lower in PHL when compared with both benign liver lesions and other primary hepatic lesions.*
+
+---
+
+### Section 15: Biliary Cystadenocarcinoma
+
+192. Biliary cystadenocarcinoma (BCAC) most commonly arises from:
+
+- De novo malignant transformation
+- Viral infection of bile ducts
+- **Malignant transformation of biliary cystadenoma (BCA)**
+- Metastatic disease to the bile ducts
+
+*Explanation: BCAC is usually a result of malignant transformation of BCA; however, it can also arise de novo.*
+
+---
+
+193. The negative predictive value of "high-risk" imaging features (mural nodularity, solid components, septations, papillary excrescences) for BCAC is:
+
+- 50%
+- 70%
+- **91%**
+- 99%
+
+*Explanation: The presence of "high-risk" features such as mural nodularity, solid components, septations, and papillary excrescences have a high negative predictive value of 91%.*
+
+---
+
+194. The positive predictive value of high-risk imaging features for distinguishing BCAC from BCA is:
+
+- 91%
+- 75%
+- 50%
+- **11%**
+
+*Explanation: Although the negative predictive value is 91%, the positive predictive value is low at 11%, making imaging alone insufficient to distinguish BCAC from BCA definitively.*
+
+---
+
+195. Mural nodules greater than what size are more likely to occur in BCAC compared with BCA?
+
+- 5 mm
+- **1 cm**
+- 2 cm
+- 3 cm
+
+*Explanation: Mural nodules greater than 1 cm in size are more likely to occur in BCAC.*
+
+---
+
+### Section 16: Mixed and Advanced Topics
+
+196. The MRI advantage over CT in evaluating HCC specifically includes better assessment of:
+
+- Lesion calcifications
+- Lymph node involvement
+- Distant metastases
+- **Vascular invasion, signal intensity differences, diffusion, and functional hepatocyte enhancement**
+
+*Explanation: The additional advantage of MRI compared with CT in the evaluation of HCC is that malignancies show differences in signal intensity, diffusion, blood pool, and functional hepatocyte enhancement. MRI also has an advantage over other modalities in assessing vascular invasion.*
+
+---
+
+197. CT angiography with multiphase imaging in IHCC exceeds MRI accuracy when assessing for:
+
+- Arterial enhancement patterns
+- DWI target sign
+- Hepatobiliary phase uptake
+- **Nodal and distant metastases**
+
+*Explanation: CT angiography with multiphase imaging offers improved spatial resolution and similar accuracy to MRI to assess vascular involvement and exceeds MRI accuracy when assessing for nodal and distant metastases in IHCC.*
+
+---
+
+198. Agreement among readers using newer LI-RADS algorithms tends to be:
+
+- Consistently high regardless of reader experience
+- Low for all readers including experts
+- **Moderate to substantial for expert readers but lower among novices**
+- High for novices and low for experts
+
+*Explanation: Agreement among readers using newer algorithms tends to be moderate to substantial for expert readers but lower among novices, suggesting implementation of these criteria may require a learning curve.*
+
+---
+
+199. The number of tumors present in IHCC has been shown to be a significant prognostic indicator because:
+
+- More tumors indicate lower stage
+- Single lesions always indicate better prognosis
+- **Multiple lesions are associated with a poorer outcome**
+- Only lesion size, not number, determines prognosis
+
+*Explanation: The number of tumors present has been shown to be a significant prognostic indicator, with multiple lesions associated with a poorer outcome in IHCC.*
+
+---
+
+200. Undifferentiated embryonal sarcoma (UES) is most commonly seen in which population?
+
+- Elderly adults
+- Middle-aged women
+- **Pediatric population**
+- Young adults with cirrhosis
+
+*Explanation: Undifferentiated embryonal sarcoma (UES) is usually seen in the pediatric population; however, cases have been reported in the adult population.*
+
+---
+
+201. A classical imaging feature of undifferentiated embryonal sarcoma (UES) is:
+
+- Homogenous solid appearance on both US and CT
+- Cystic appearance on both US and CT
+- **Discrepancy between a predominantly solid appearance on US and a cystic appearance on CT**
+- Calcified central scar on CT
+
+*Explanation: Discrepancy between a predominantly solid appearance on US, and cystic appearance on CT has been described as a classical feature of UES.*
+
+---
+
+202. On DWI, hemangiomas demonstrate high ADC values, which differentiates them from metastases because metastases have:
+
+- High ADC values as well
+- No detectable DWI signal
+- Variable ADC values depending on size
+- **Lower ADC values**
+
+*Explanation: The T2 shine-through phenomenon (high ADC) in hemangiomas can be useful when differentiating from metastases, which have lower ADC values.*
+
+---
+
+203. Hepatocyte-specific contrast agents improve detection of small HCCs over extracellular agents because:
+
+- They provide better arterial phase images
+- They improve T2 signal of HCC lesions
+- **HCC typically appears hypointense on hepatobiliary phase, providing better contrast against enhancing liver parenchyma**
+- They improve portal venous phase washout detection
+
+*Explanation: Hepatocyte-specific contrast agents have been shown to be more sensitive in the detection of small HCCs or premalignant lesions than extracellular agents, as HCC generally shows hypointensity in the delayed hepatobiliary phase.*
+
+---
+
+204. In the secondary involvement of the liver by lymphoma (SHL), the main imaging appearances that differentiate it from PHL are:
+
+- Solitary mass with dominant lesion
+- **Multiple lesions without a dominant mass or an infiltrative pattern, with concomitant involvement of other organs and generalized lymphadenopathy**
+- Targetoid appearance on DWI
+- Vessel penetration sign
+
+*Explanation: Multiple lesions without a dominant mass or an infiltrative pattern are the main imaging appearances seen in SHL, with SHL being relatively easier to diagnose because of concomitant involvement of other organs, especially spleen and generalized lymphadenopathy.*
+
+---
+
+205. Hepatic peliosis in a liver with diffuse steatosis may appear on US as:
+
+- Hyperechoic lesions on a hyperechoic background
+- Anechoic with thin walls
+- **Hypoechoic lesions in a steatotic liver**
+- Isoechoic with no detectable lesions
+
+*Explanation: US imaging in hepatic peliosis may demonstrate hyperechoic lesions on a background of normal liver parenchyma or hypoechoic lesions in a steatotic liver.*
+
+---
+
+206. Which benign fat-containing liver tumor is composed entirely of mature adipose tissue?
+
+- Angiomyolipoma
+- Myelolipoma
+- **Lipoma**
+- Myolipoma
+
+*Explanation: Hepatic lipomas are composed entirely of mature adipose tissue with expected imaging features identical to subcutaneous fat.*
+
+---
+
+207. In which clinical scenario does the central scar of FLC appear as low T2 signal (distinguishing it from FNH)?
+
+- When the scar is calcified
+- In patients without cirrhosis
+- **When fibrous changes dominate the scar composition**
+- Only in large lesions (>10 cm)
+
+*Explanation: The central scar of FLC tends to be low in signal on T1-weighted and T2-weighted images because of fibrous changes, distinguishing it from FNH in which a scar is typically increased in T2 signal.*
+
+---
+
+208. When a hepatocyte-specific contrast agent is used, the central scar of FNH appears on later dynamic phases as:
+
+- Progressively enhancing and hyperintense
+- Indistinguishable from the rest of the lesion
+- **Relatively hypointense, reflecting the absence of hepatocytes and the presence of fibrous tissue**
+- More hyperintense than the surrounding FNH
+
+*Explanation: With gadoxetate disodium, the central stellate scar of FNH does not progressively enhance on later dynamic phases and will appear relatively hypointense, reflecting the absence of hepatocytes and the presence of fibrous tissue within the scar.*
+
+---
+
+209. Small lesions of hepatic peliosis may not be detected at all by CT because of:
+
+- Their hyperdense nature
+- Their enhancement pattern
+- Their location in the caudate lobe
+- **Their size**
+
+*Explanation: Small lesions may not be detected at all by CT because of their size.*
+
+---
+
+210. The "honeycomb pattern" of CEUS enhancement seen in biliary cystadenoma refers to enhancement of:
+
+- The entire cyst wall uniformly
+- Internal cyst contents
+- **The cyst septations and mural nodules**
+- Only mural nodules larger than 1 cm
+
+*Explanation: CEUS typically demonstrates a honeycomb pattern of enhancement of the cyst septations and mural nodules in BCA.*
+
+---
+
+211. Biliary ductal dilatation seen adjacent to a biliary cystadenoma is a feature that is:
+
+- Also common in simple hepatic cysts
+- Seen equally in BCA and simple cysts
+- **Rare in simple hepatic cysts, making its presence helpful in distinguishing BCA**
+- Only seen in malignant transformation to BCAC
+
+*Explanation: Occasionally, upstream or downstream biliary ductal dilatation may be seen in BCA, a feature that is rare in simple hepatic cysts.*
+
+---
+
+212. In secondary hepatic involvement by lymphoma (SHL), which organ is most commonly concomitantly involved as a diagnostic clue?
+
+- Kidney
+- Pancreas
+- **Spleen**
+- Lung
+
+*Explanation: SHL is relatively easier to diagnose because of concomitant involvement of other organs, especially spleen and generalized lymphadenopathy.*
+
+---
+
+213. The "spoke-wheel" pattern in the context of hydatid/echinococcal cysts refers to:
+
+- Daughter cysts radiating from a central cavity
+- Spoke-wheel vascularity on Doppler
+- Fibrovascular bundles within dilated ducts
+- **Clustered daughter cysts producing a spoke-wheel appearance**
+
+*Explanation: Numerous daughter cysts, along with detached membranes and hydatid sand, and clustered daughter cysts can produce a "spoke-wheel" pattern in echinococcal cysts.*
+
+---
+
+214. Microscopic fat in HAML on MRI can be identified by:
+
+- T2 hyperintensity
+- Loss of signal on T1-weighted fat-saturated sequences (macroscopic fat)
+- **Signal drop-out on out-of-phase compared with in-phase T1-weighted images (chemical shift)**
+- Loss of signal on T2-weighted fat-saturated sequences
+
+*Explanation: Microscopic fat can also be seen in HAML, seen as signal drop-out on out-of-phase compared with in-phase T1-weighted images.*
+
+---
+
+215. Which sign in HEH indicates hepatic vein or portal vein branch involvement by tumor extending to, but not beyond, the tumor margin?
+
+- Atoll sign
+- Target sign
+- Cluster sign
+- **Lollipop sign**
+
+*Explanation: The "lollipop" sign refers to a hepatic vein or portal vein branch (the stick) extending towards the tumor (the candy) and terminating at the margin or just within the lesion rim because of vessel branch occlusion.*
+
+---
+
+216. Flash-filling hemangiomas can mimic which hepatic lesion on multiphase imaging?
+
+- FNH
+- Metastasis
+- **Hypervascular liver lesions such as HCC or HCA**
+- Biliary cystadenoma
+
+*Explanation: Flash-filling hemangiomas are diffusely hypervascular, homogenous lesions with arterial hyperenhancement that follow aortic signal on subsequent phases, which can mimic other hypervascular lesions. The enhancement pattern of the aorta distinguishing it from HCC or HCA washout is important.*
+
+---
+
+217. In IHCC using hepatobiliary-specific contrast, the "target appearance" on hepatobiliary phase is represented by:
+
+- Central hyperintensity with peripheral hypointensity
+- **A rim of hypointensity and central "cloud-like" hyperintensity**
+- Diffuse hypointensity throughout
+- Peripheral rim of enhancement identical to arterial phase
+
+*Explanation: On hepatobiliary phase, a target appearance has been described in IHCC, which is represented by a rim of hypointensity and central "cloud-like" hyperintensity.*
+
+---
+
+218. Which imaging characteristic definitively differentiates a hepatic lipoma from other fat-containing hepatic lesions?
+
+- High T2 signal
+- Internal vascularity on Doppler
+- Fat attenuation on CT
+- **Minimal to no enhancement on CT or MRI**
+
+*Explanation: Lipomas show minimal to no enhancement on CT or MRI, distinguishing them from other fat-containing lesions in the liver.*
+
+---
+
+219. In the differentiation of hepatic abscesses from malignancy on postcontrast imaging, perilesional hyperemia and patchy liver parenchymal enhancement are:
+
+- Specific for malignancy
+- Never seen in abscesses
+- **Frequently seen in abscesses**
+- Only seen with fungal abscesses
+
+*Explanation: Perilesional hyperemia and patchy liver parenchymal enhancement may also be frequently seen in abscesses, aiding their identification.*
+
+---
+
+220. In polycystic liver disease, cysts can vary in size from:
+
+- 5 mm to 5 cm
+- 2 mm to 8 cm
+- **1 mm to more than 12 cm**
+- 1 cm to 20 cm
+
+*Explanation: In PLD, cysts can vary in size from 1 mm to more than 12 cm.*

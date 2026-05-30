@@ -1,0 +1,1871 @@
+# 09B Molecular and Cell Biology of Liver Carcinogenesis and Hepatitis
+
+Generated with Claude. 
+
+**1. Which of the following best describes the general mechanism by which hepatocellular carcinoma (HCC) develops?**
+
+- It arises suddenly due to a single genetic mutation
+- **It involves a multistep process with chromosomal aberrations, genetic mutations, and epigenetic silencing of tumor suppressor genes**
+- It is caused exclusively by viral infection without genetic changes
+- It results from a single chromosomal rearrangement
+
+*Explanation: Cancer, including HCC, is a genetic disease involving aberrant chromosome rearrangements, genetic mutations, and epigenetic silencing of tumor suppressor genes, reflecting a multistep process of tumorigenesis.*
+
+---
+
+**2. What is the general setting in which HCC typically develops, independent of etiology?**
+
+- Acute liver failure with rapid hepatocyte loss
+- Fatty liver disease without inflammation
+- **Sustained hepatocyte turnover in the setting of injury-inflammation-regeneration**
+- Single-episode viral hepatitis with complete recovery
+
+*Explanation: HCC generally develops where sustained hepatocyte turnover occurs in the setting of injury-inflammation-regeneration, which leads to the accumulation of chromosomal aberrations.*
+
+---
+
+**3. What is the approximate rank of primary liver cancer as a cause of cancer death globally as of 2015?**
+
+- First
+- Second
+- Third
+- **Fourth**
+
+*Explanation: Primary liver cancer was the fourth leading cause of cancer death in 2015 after lung, colorectal, and stomach cancer.*
+
+---
+
+**4. Approximately how many new patients with primary liver cancer were diagnosed in 2012?**
+
+- 200,000
+- 450,000
+- **782,000**
+- 1.2 million
+
+*Explanation: It is estimated that 782,000 new patients with the disease were diagnosed in 2012.*
+
+---
+
+**5. What is the 5-year survival rate for liver cancer in the United States?**
+
+- 5.1%
+- 10.7%
+- **20.3%**
+- 35.6%
+
+*Explanation: The United States has a survival rate of 20.3%, making liver cancer the second most fatal tumor after pancreatic cancer.*
+
+---
+
+**6. What percentage of all hepatic tumors does HCC account for?**
+
+- 40%–55%
+- 55%–65%
+- **70%–85%**
+- 90%–95%
+
+*Explanation: HCC is the most common primary liver cancer, accounting for 70% to 85% of all hepatic tumors.*
+
+---
+
+**7. Approximately what percentage of HCC is caused by chronic infection with HBV or HCV?**
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: Approximately 80% of HCC is caused by chronic infection with HBV or HCV.*
+
+---
+
+**8. Which region accounts for more than 50% of HCC cases worldwide?**
+
+- Sub-Saharan Africa
+- Southeast Asia
+- **China**
+- Japan
+
+*Explanation: The HCC burden is unevenly distributed worldwide, with China alone accounting for more than 50% of the world cases.*
+
+---
+
+**9. In which countries is HCV the leading etiology of HCC?**
+
+- China and sub-Saharan Africa
+- **United States, Europe, Japan, and South America**
+- India and Pakistan
+- Russia and Eastern Europe
+
+*Explanation: HCV is the leading etiology of HCC in the United States, Europe, Japan, and South America, whereas HBV is the major cause in the majority of Asian and African countries.*
+
+---
+
+**10. Why has the incidence of HCC begun to decrease in Hong Kong, Shanghai, Singapore, and Japan?**
+
+- Improved antiviral therapies for HCV
+- Better nutrition and reduced aflatoxin exposure
+- **Vaccination against HBV accomplished in greater than 80% of newborns**
+- Reduced alcohol consumption
+
+*Explanation: The fall in incidence is apparently because of vaccination against HBV, which has been accomplished in greater than 80% of newborns, as chronic HBV infection in those countries is usually acquired through mother-to-newborn or sibling-to-sibling transmission.*
+
+---
+
+**11. As of 2015, how many individuals worldwide were still infected with HBV?**
+
+- 50 million
+- 100 million
+- 180 million
+- **257 million**
+
+*Explanation: Many unvaccinated persons are still infected with HBV (257 million in 2015), mostly in Asia and sub-Saharan Africa.*
+
+---
+
+**12. Which of the following is cited as a reason for increased HCC incidence in Australia, the United States, and the United Kingdom?**
+
+- Increased HBV vaccination failure
+- Decreased alcohol consumption
+- **Chronic HCV infection and nonalcoholic steatohepatitis (NASH)**
+- Aflatoxin B1 contamination of food supply
+
+*Explanation: The incidence of HCC has increased in some countries, such as Australia, the United States, and the United Kingdom, probably as a result of chronic HCV infection and nonalcoholic steatohepatitis (NASH).*
+
+---
+
+**13. What was the annual incidence of liver cancer per 100,000 population in the United States in 2010?**
+
+- 2.6
+- 4.0
+- 6.5
+- **8.0**
+
+*Explanation: The annual incidence of liver cancer increased from 2.6 per 100,000 population for the years 1978 to 1980 to 8 per 100,000 in 2010.*
+
+---
+
+**14. It is estimated that reducing the frequency of chronic HCV infection by 90% would eliminate what percentage of HCC in the United States?**
+
+- 5%
+- 10%
+- **15%**
+- 25%
+
+*Explanation: It has been estimated that reducing the frequency of chronic HCV infection by 90% would eliminate 15% of HCC in the United States.*
+
+---
+
+**15. In Japan, North America, and European countries, what is the median age of onset of HCC?**
+
+- Below 40 years
+- 40–50 years
+- 50–60 years
+- **Above 60 years**
+
+*Explanation: HCC tends to occur later in life in Japan, North America, and European countries, where the median age of onset is above 60 years.*
+
+---
+
+**16. In parts of Asia and most African countries, in what age range is HCC commonly diagnosed?**
+
+- Under 20 years
+- 20–30 years
+- **30–60 years**
+- Over 70 years
+
+*Explanation: In parts of Asia and most African countries, HCC is commonly diagnosed in the age range of 30 to 60 years.*
+
+---
+
+**17. By approximately how much do male rates of HCC exceed female rates?**
+
+- Males have rates equal to females
+- Males have rates 1.5 times that of females
+- Males have rates twice that of females
+- **Males have rates nearly triple that of females**
+
+*Explanation: Significant gender variation in incidence has been found; male rates are nearly triple that of females.*
+
+---
+
+**18. In the United States, which ethnic group has the highest incidence and mortality rates of HCC?**
+
+- Caucasians
+- African Americans
+- **Asians**
+- Hispanic Americans
+
+*Explanation: In the United States, the incidence and subsequent mortality rates are two times greater in Asians than African Americans, which are two times greater than those found in Caucasians.*
+
+---
+
+**19. What percentage of HCC has well-established extrinsic risk factors?**
+
+- 40%
+- 60%
+- **At least 80%**
+- 95%
+
+*Explanation: Unlike most malignancies, HCC has well-established extrinsic risk factors that account for at least 80% of tumors, namely chronic infection with HBV or HCV.*
+
+---
+
+**20. How many HBV carriers are estimated to exist globally?**
+
+- 100–150 million
+- 180–200 million
+- **350–400 million**
+- 500–600 million
+
+*Explanation: Chronic HBV infection is the leading cause of HCC, and it has been estimated that there are 350 to 400 million HBV carriers, which account for 5% of the global population.*
+
+---
+
+**21. What percentage of HCC patients in developing countries are chronically infected with HBV?**
+
+- 23%
+- 33%
+- **59%**
+- 75%
+
+*Explanation: About 59% of HCC patients in developing countries and 23% of HCC patients in developed countries are chronically infected with HBV.*
+
+---
+
+**22. What is the 5-year cumulative incidence rate of HCC from HBV-related cirrhosis in highly endemic areas?**
+
+- 5%
+- 10%
+- **17%**
+- 25%
+
+*Explanation: The 5-year cumulative incidence rates of HCC from HBV-related cirrhosis are 17% in highly endemic areas and 10% in Europe and the United States.*
+
+---
+
+**23. In approximately what percentage of HBV-related HCC cases does disease develop in patients with cirrhosis?**
+
+- 30%–50%
+- 50%–60%
+- **70%–90%**
+- 95%–100%
+
+*Explanation: Although HBV can cause HCC in the absence of cirrhosis, approximately 70% to 90% of HBV-related HCC cases develop in patients with cirrhosis.*
+
+---
+
+**24. Which fungus produces aflatoxin B1 (AFB1)?**
+
+- Aspergillus niger
+- **Aspergillus flavus**
+- Candida albicans
+- Fusarium oxysporum
+
+*Explanation: Aflatoxin B1 (AFB1) is produced by Aspergillus flavus and related fungi that contaminate corn, rice, and peanuts in China and sub-Saharan Africa.*
+
+---
+
+**25. By how much does dietary AFB1 exposure increase the risk for HCC?**
+
+- 2-fold
+- 3-fold
+- **4-fold**
+- 10-fold
+
+*Explanation: High rates of dietary exposure to AFB1 increase the risk for HCC 4-fold.*
+
+---
+
+**26. When people with chronic HBV infections are exposed to AFB1, by how much does the relative risk for HCC increase?**
+
+- 10-fold
+- 30-fold
+- **About 60-fold**
+- 100-fold
+
+*Explanation: When people with chronic HBV infections are exposed to AFB1, the relative risk for HCC dramatically increases to about 60-fold.*
+
+---
+
+**27. How many HCV carriers are estimated to exist worldwide?**
+
+- 100 million
+- **180 million**
+- 257 million
+- 350 million
+
+*Explanation: The estimated number of HCV carriers worldwide is 180 million, which accounts for 2% of the global population.*
+
+---
+
+**28. By how much is HCC risk increased in HCV-infected people compared to the HCV-negative population?**
+
+- 5- to 10-fold
+- **15- to 20-fold**
+- 30- to 40-fold
+- 50- to 60-fold
+
+*Explanation: According to cross-sectional and case-control studies, HCC risk is increased 15- to 20-fold in HCV-infected people compared with the HCV-negative population.*
+
+---
+
+**29. What is the annual incidence of HCC in patients with HCV-induced cirrhosis?**
+
+- 0.1%–0.5%
+- **0.5%–10%**
+- 10%–15%
+- 15%–20%
+
+*Explanation: Patients with HCV-induced cirrhosis are at particularly high risk for the development of HCC, with an annual incidence of HCC ranging from 0.5% to 10%.*
+
+---
+
+**30. What level of daily ethanol consumption is defined as a well-established risk factor for HCC?**
+
+- >10–20 g/day
+- >20–30 g/day
+- >30–40 g/day
+- **>50–70 g/day**
+
+*Explanation: Excessive ethanol consumption (>50–70 g/day) is another well-defined risk factor for HCC.*
+
+---
+
+**31. What is the most common risk factor for HCC in the United States and Europe related to alcohol?**
+
+- Acute alcoholic hepatitis
+- **Alcoholic cirrhosis**
+- Alcoholic fatty liver
+- Alcoholic steatohepatitis without cirrhosis
+
+*Explanation: Alcoholic cirrhosis is the second most common risk factor for HCC in the United States and Europe.*
+
+---
+
+**32. What is the 5-year cumulative HCC incidence in alcoholic cirrhosis without HBV and HCV infection?**
+
+- 2%
+- 5%
+- **8%**
+- 15%
+
+*Explanation: The 5-year cumulative HCC incidence in alcoholic cirrhosis without HBV and HCV infection is 8%.*
+
+---
+
+**33. What is the relative risk for HCC attributable to heavy alcohol consumption combined with chronic HCV infection?**
+
+- 10-fold
+- 20-fold
+- 30-fold
+- **50-fold**
+
+*Explanation: The relative risk for HCC attributable to heavy alcohol consumption alone was only 2.4-fold, whereas in combination with chronic HCV infection, it increased to 50-fold.*
+
+---
+
+**34. What is the range of increased risk for HCC associated with obesity?**
+
+- 1.1- to 1.5-fold
+- **1.5- to 4-fold**
+- 5- to 8-fold
+- 10- to 15-fold
+
+*Explanation: Several large cohort studies revealed that obesity is a definitive risk factor for HCC, with the 1.5- to 4-fold increased risk.*
+
+---
+
+**35. What is the estimated increased HCC risk associated with diabetes mellitus?**
+
+- 1.2- to 1.5-fold
+- **Two- to four-fold**
+- Five- to eight-fold
+- Ten-fold
+
+*Explanation: Diabetes mellitus has also been established as a moderately strong risk factor for HCC, with a two- to four-times higher risk.*
+
+---
+
+**36. Which medication is associated with DECREASED HCC risk in diabetic patients?**
+
+- Insulin
+- Sulfonylureas
+- **Metformin**
+- Glipizide
+
+*Explanation: The use of metformin is associated with decreased risk, and the use of insulin or sulfonylureas may increase HCC risk.*
+
+---
+
+**37. What is the annual incidence of HCC in cirrhosis of any cause?**
+
+- 0.5%–1%
+- **2%–4%**
+- 5%–8%
+- 10%–15%
+
+*Explanation: Cirrhosis of any cause increases the risk for HCC, with an annual incidence between 2% and 4%.*
+
+---
+
+**38. What is the relative risk of HCC for current smokers compared to non-smokers?**
+
+- 1.20
+- 1.39
+- **1.55**
+- 1.80
+
+*Explanation: The HCC risk of current and former smoking was 1.55 and 1.39 times, respectively.*
+
+---
+
+**39. Over how many years does the accumulation of genetic aberrations that induces cellular transformation typically take?**
+
+- 1–5 years
+- 5–10 years
+- 10–15 years
+- **20–40 years**
+
+*Explanation: The accumulation of genetic aberrations that induces cellular transformation may take 20 to 40 years, suggesting that liver carcinogenesis involves a multistep process.*
+
+---
+
+**40. What percentage of HCC tumors originate from cirrhotic liver?**
+
+- 40%
+- 60%
+- **About 80%**
+- 95%
+
+*Explanation: Because about 80% of HCC tumors originate from cirrhotic liver, it is evident that continuous rounds of cellular injury, followed by regeneration, fundamentally contributes to the oncogenic processes.*
+
+---
+
+**41. What percentage of dysplastic peritumoral regions shows hyperploidy?**
+
+- 10%
+- 25%
+- **43%**
+- 65%
+
+*Explanation: Hyperploidy has been observed in 43% of dysplastic peritumoral regions and in about 50% of HCC tumors.*
+
+---
+
+**42. Which of the following is NOT listed as a molecular mechanism underlying genomic instability in HCC?**
+
+- Telomerase dysfunction
+- Defective segregation of chromosomes
+- Impaired DNA damage response
+- **Activation of the mTOR pathway**
+
+*Explanation: The molecular mechanisms underlying genomic instability include telomerase dysfunction, defective segregation of chromosomes, and an impaired DNA damage response — not direct mTOR pathway activation.*
+
+---
+
+**43. What is the function of telomerase in cell biology?**
+
+- Promotes cell apoptosis
+- Repairs double-strand DNA breaks
+- **Prevents telomere shortening and subsequent cellular senescence**
+- Regulates the G2/M cell cycle checkpoint
+
+*Explanation: Telomerase is a key enzyme for cell survival that prevents telomere shortening and the subsequent cellular senescence that is observed after many rounds of cell division.*
+
+---
+
+**44. What percentage of HCCs have recurrent somatic mutations in the TERT promoter region?**
+
+- 20%
+- 35%
+- **59%**
+- 75%
+
+*Explanation: Direct sequencing of the TERT promoter region has revealed that 59% of HCCs have recurrent somatic mutations, which may result in the activation of TERT.*
+
+---
+
+**45. TERT promoter mutations are frequently associated with mutations in which other gene?**
+
+- TP53
+- **CTNNB1**
+- AXIN1
+- ARID1A
+
+*Explanation: TERT promoter mutations are frequently associated with CTNNB1 mutations.*
+
+---
+
+**46. In HBV-induced HCC, where does viral genome integration sometimes occur that results in increased telomerase expression?**
+
+- TP53 locus
+- CTNNB1 locus
+- **TERT locus**
+- CDKN2A locus
+
+*Explanation: In some HBV-induced HCC tumors, the viral genome is integrated into the TERT locus, which results in increased expression of telomerase.*
+
+---
+
+**47. What is the role of the p53 protein encoded by TP53?**
+
+- Promotes cell division and proliferation
+- Activates angiogenesis pathways
+- **Maintains genome integrity by inducing cell-cycle arrest and activating DNA repair systems**
+- Encodes a structural component of chromatin
+
+*Explanation: The p53 protein, encoded by the TP53 gene, is a master molecule that maintains genome integrity by inducing cell-cycle arrest, followed by activation of DNA repair systems.*
+
+---
+
+**48. What is the frequency range of TP53 mutations in HCC?**
+
+- 5%–10%
+- **11%–35%**
+- 40%–55%
+- 60%–75%
+
+*Explanation: TP53 is one of the most mutated genes in HCC, and the mutations often result in loss of function. The frequency ranges between 11% and 35%, depending on the regions of the world.*
+
+---
+
+**49. Which specific TP53 missense mutation is associated with AFB1-related HCC?**
+
+- Codon 175 (R175H)
+- Codon 220 (Y220C)
+- **Codon 249 (R249S)**
+- Codon 273 (R273H)
+
+*Explanation: TP53 missense mutations in codon 249 (R249S) were found in more than 50% of AFB1-related HCC and appeared to be the main cause of AFB1-induced liver cancer.*
+
+---
+
+**50. What is the function of MDM2 in relation to tumor suppressor proteins?**
+
+- It activates p53 directly
+- It promotes DNA repair
+- It inhibits WNT signaling
+- **It is an E3 ubiquitin ligase targeting tumor suppressor proteins, including p53 and RB1**
+
+*Explanation: The MDM2 is an E3 ubiquitin ligase targeting tumor suppressor proteins, including p53 and RB1.*
+
+---
+
+**51. What is gankyrin (encoded by PSMD10) known to do in human HCC?**
+
+- Activate p53 directly
+- Inhibit MDM2
+- **Promote protein degradation by MDM2 and is highly overexpressed in human HCC**
+- Suppress angiogenesis
+
+*Explanation: Gankyrin (encoded by Proteasome 26S Subunit, Non-ATPase 10 [PSMD10]), which promotes protein degradation by MDM2, was highly overexpressed in human HCC.*
+
+---
+
+**52. Which novel tumor suppressor gene in HCC activates the p53 pathway and has loss-of-function mutations frequently and exclusively found in HBV-related HCC?**
+
+- MDM2
+- CDKN2A
+- **IRF2**
+- PTEN
+
+*Explanation: Genome-wide copy number variation analysis identified IFN regulatory factor 2 (IRF2) as a novel tumor suppressor gene in HCC that activates the p53 pathway, and IRF2 loss-of-function mutations were frequently and exclusively found in HBV-related HCC.*
+
+---
+
+**53. The CDKN2A gene encodes for two splice-variant products. Which of the following is correct?**
+
+- p53 and RB1
+- p14ARF and MDM2
+- **p16INK4a and p14ARF**
+- p21 and p27
+
+*Explanation: The CDKN2A gene encodes for two splice-variant products, including p16INK4a and p14ARF, which positively regulate the p53 and RB1 signaling pathways.*
+
+---
+
+**54. In what percentage of human HCC is CDKN2A expression suppressed due to methylation?**
+
+- 5%–15%
+- 15%–25%
+- **30%–70%**
+- 75%–90%
+
+*Explanation: The expression of the CDKN2A gene was suppressed in 30% to 70% of human HCC as a result of methylation of the promoter region.*
+
+---
+
+**55. Loss of heterozygosity of which chromosome, where CDKN2A is located, was found in 15%–20% of HCC tumors?**
+
+- Chromosome 1p
+- Chromosome 5q
+- **Chromosome 9p**
+- Chromosome 17p
+
+*Explanation: Loss of heterogeneity of chromosome 9p, where CDKN2A is located, was found in 15% to 20% of tumors.*
+
+---
+
+**56. What is the frequency of CTNNB1 (β-catenin gene) mutations in HCC?**
+
+- 5%–10%
+- 10%–15%
+- **20%–40%**
+- 50%–60%
+
+*Explanation: CTNNB1 is one of the most frequently mutated genes in HCC, ranging from 20% to 40%.*
+
+---
+
+**57. In which exon of CTNNB1 do activating mutations frequently occur, leading to nuclear accumulation of β-catenin?**
+
+- Exon 1
+- Exon 2
+- **Exon 3**
+- Exon 5
+
+*Explanation: The activating mutations frequently occur in exon 3, which result in the nuclear accumulation of β-catenin, thereby inducing WNT-responsive gene expression.*
+
+---
+
+**58. What is the clinical significance of nuclear accumulation of β-catenin in HCC?**
+
+- Associated with better prognosis
+- No clinical significance
+- **Associated with a more aggressive phenotype and poor prognosis**
+- Associated with response to sorafenib
+
+*Explanation: Nuclear accumulation of β-catenin is associated with a more aggressive phenotype and with poor prognosis in HCC patients.*
+
+---
+
+**59. What is the function of AXIN1 in the canonical WNT pathway?**
+
+- It activates β-catenin transcription
+- It promotes nuclear localization of β-catenin
+- **It negatively regulates WNT signaling by promoting β-catenin degradation**
+- It acts as a ligand for Frizzled receptors
+
+*Explanation: AXIN1 encodes a cytoplasmic protein that negatively regulates WNT signaling. Loss-of-function mutations of AXIN1 lead to a decrease in degradation of β-catenin and to nuclear localization of this protein.*
+
+---
+
+**60. What is the frequency of AXIN1 mutations in HCC?**
+
+- 1%–3%
+- 5%–7%
+- **About 10%**
+- 20%–25%
+
+*Explanation: AXIN1 mutations are found in about 10% of HCC.*
+
+---
+
+**61. The ARID family of genes (ARID1A, ARID1B, and ARID2) was found to be mutated in what percentage of HCC genomes?**
+
+- 1%–5%
+- **6%–17%**
+- 20%–30%
+- 35%–45%
+
+*Explanation: In HCC, the AT-rich interactive domain ARID family, including ARID1A, ARID1B, and ARID2, was found to be mutated in 6% to 17% of HCC genomes.*
+
+---
+
+**62. The ARID family proteins interact with which chromatin-remodeling complex?**
+
+- PRC2 complex
+- NuRD complex
+- **SWI/SNF complex**
+- COMPASS complex
+
+*Explanation: Through the interaction with the switch/sucrose nonfermentable (SWI/SNF) chromatin-remodeling complex, ARID family proteins bind transcription factors and recruit the remodeling activity to a specific gene.*
+
+---
+
+**63. TSC1/TSC2 are negative modulators of which signaling pathway?**
+
+- WNT/β-catenin
+- MAPK/ERK
+- **mTOR cascade**
+- JAK/STAT
+
+*Explanation: TSC1/TSC2 are both negative modulators of mTOR cascade, and their inactivation promotes mTOR signaling.*
+
+---
+
+**64. TSC1/TSC2 mutations are closely associated with which subtype of HCC?**
+
+- Fibrolamellar HCC
+- Hepatoblastoma
+- Mixed HCC-CCA
+- **Scirrhous HCC subtype (defined by marked stromal fibrosis)**
+
+*Explanation: TSC1/TSC2 mutations are closely associated with the scirrhous HCC subtype, defined by marked stromal fibrosis.*
+
+---
+
+**65. What is the role of KEAP1 in regulating NRF2?**
+
+- It activates NRF2 directly
+- It promotes NRF2 transcription
+- **It negatively regulates NRF2 and targets it for proteasomal degradation**
+- It is a co-activator of NRF2
+
+*Explanation: NRF2 is negatively regulated and targeted to proteasomal degradation by Kelch-like ECH-associated protein 1 (KEAP1).*
+
+---
+
+**66. The activating NFE2L2 (NRF2) mutation is identified in what percentage of adult HCC?**
+
+- 1%–2%
+- 3%–5%
+- **6%–7%**
+- 10%–15%
+
+*Explanation: The activating NFE2L2 mutation is identified in 6% to 7% of adult HCC.*
+
+---
+
+**67. Which of the following is a specific gene target for hypermethylation in HCC?**
+
+- TERT
+- CTNNB1
+- **CDKN2A**
+- MYC
+
+*Explanation: Specific gene targets for hypermethylation include CDKN2A, prostaglandin-endoperoxide synthase 2 (PTGS2), CDH1, PYCARD, GADD45B, and DLC1.*
+
+---
+
+**68. At what stage of HCC development has hypermethylation been observed?**
+
+- Only in advanced HCC
+- Only in cirrhotic tissue
+- **At the earliest stages of HCC development**
+- Only in metastatic HCC
+
+*Explanation: Hypermethylation has been observed at the earliest stages of HCC development, and the extent of hypermethylation tends to increase with tumor progression.*
+
+---
+
+**69. How does miRNA contribute to tumor suppression in HCC?**
+
+- By promoting DNA methylation of oncogenes
+- **By downregulating oncogene expression through mRNA instability**
+- By activating p53 directly
+- By blocking angiogenesis
+
+*Explanation: Many miRNAs perform tumor suppressor function by downregulating oncogene expression via hybridizing with complementary target sequences, leading to mRNA degradation.*
+
+---
+
+**70. Which miRNA targets the PTEN tumor suppressor gene and is expressed in human HCC?**
+
+- miR-122
+- miR-26a
+- miR-193a-5p
+- **miR-21**
+
+*Explanation: miR-21 is expressed in human HCC; it targets the phosphatase and tensin (PTEN) tumor suppressor gene.*
+
+---
+
+**71. miR-122, which is abundant in normal hepatocytes, targets which cell-cycle regulator?**
+
+- CDK4
+- p21
+- **Cyclin G1**
+- Cyclin D1
+
+*Explanation: MicroRNA-122, which targets the cyclin G1 cell-cycle regulator, is abundant in normal hepatocytes and is essential for homeostasis of hepatocytes.*
+
+---
+
+**72. What effect does overexpression of exogenous miR-26a have in mice prone to form multiple HCCs?**
+
+- It accelerates tumor formation
+- It has no effect on HCC
+- It promotes fibrosis
+- **It provides substantial protection from disease progression**
+
+*Explanation: When exogenous miR-26a is overexpressed in mice prone to form multiple HCCs, substantial protection from disease progression is observed, indicating a possible therapeutic approach.*
+
+---
+
+**73. Which signaling pathways are described as key pathways commonly dysregulated in human HCC?**
+
+- RAS/RAF/ERK, JAK/STAT, and NOTCH
+- **WNT/β-catenin, ERBB/ERK/PI3K, and IGF/IRS/ERK/PI3K**
+- TGF-β, mTOR, and NF-κB
+- Hedgehog, p53, and VEGF
+
+*Explanation: Key pathways commonly dysregulated in human HCC include the WNT/β-catenin, erythroblastosis (ERB)-B receptor tyrosine kinase (ERBB)/extracellular signal-regulated protein kinase (ERK)/PI3K, and insulin-like growth factor (IGF)/insulin receptor substrate (IRS)/ERK/PI3K cascades.*
+
+---
+
+**74. In the WNT signaling pathway, what is the role of GSK-3β/APC/AXIN kinase destruction complex when WNT ligands are absent?**
+
+- It activates β-catenin transcription
+- It promotes nuclear translocation of β-catenin
+- **It maintains low levels of cytosolic β-catenin through proteolytic degradation**
+- It recruits Frizzled receptors to the cell surface
+
+*Explanation: In the absence of WNT signaling, the amount of cytosolic β-catenin is low as a result of proteolytic degradation produced by the action of glycogen synthetase kinase-3β (GSK-3β)/adenomatosis polyposis coli (APC)/AXIN kinase destruction complex.*
+
+---
+
+**75. Which transcription factor complex does β-catenin bind to in the nucleus to activate target genes?**
+
+- AP-1/JNK complex
+- NF-κB/IκB complex
+- **TCF/LEF transcription factors**
+- STAT3/JAK complex
+
+*Explanation: The β-catenin molecules are then transported into the nucleus and bind to T-cell factor (TCF)/leukocyte enhancer factor (LEF) transcription factors.*
+
+---
+
+**76. Which of the following are target genes activated by the TCF/LEF/β-catenin complex in HCC?**
+
+- VEGF, PDGF, bFGF, and EGF
+- TP53, RB1, CDKN2A, and AXIN1
+- **Cyclin D1 (CCND1), MYC, PTGS2, and JUN**
+- TERT, ARID1A, TSC1, and NFE2L2
+
+*Explanation: The TCF/LEF/β-catenin complex promotes activation of target genes, including cyclin D1 (CCND1), myelocytomatosis viral oncogene (MYC), PTGS2, and JUN, which leads to proliferation of HCC cells.*
+
+---
+
+**77. How many FZD (Frizzled) receptors exist in humans?**
+
+- 4
+- 7
+- **10**
+- 14
+
+*Explanation: There are 10 FZD receptors (FZD1 to FZD10) in humans.*
+
+---
+
+**78. What percentage of HBV-related HCCs overexpress FZD7?**
+
+- 10%–15%
+- **23%–59%**
+- 60%–70%
+- 80%–90%
+
+*Explanation: Studies reveal that 23% to 59% of HBV-related HCCs overexpress the FZD7.*
+
+---
+
+**79. What are the functional consequences of FZD7 overexpression in HCC?**
+
+- Reduced cell proliferation and apoptosis
+- Enhanced differentiation and senescence
+- **Enhanced cell motility and invasion**
+- Suppression of angiogenesis
+
+*Explanation: The functional consequences of FZD7 overexpression are enhanced cell motility and invasion.*
+
+---
+
+**80. Which receptor tyrosine kinases (RTKs) are frequently activated in HCC cells?**
+
+- FGFR, PDGFR, and VEGFR
+- **ERBB family (especially ERBB1), MET proto-oncogene, and IGF-1 receptor**
+- ALK, RET, and ROS1
+- KIT, FLT3, and AXL
+
+*Explanation: The ERBB family (especially ERBB1), MET proto-oncogene, and IGF-1 receptor (IGF-1R) are the RTKs frequently activated in HCC cells.*
+
+---
+
+**81. In what percentage of HCC are ERBB1 and ERBB3 overexpressed, respectively?**
+
+- 30% and 45%
+- 50% and 65%
+- **68% and 84%**
+- 80% and 95%
+
+*Explanation: ERBB1 and ERBB3 were overexpressed in 68% and 84% of HCC, respectively, which correlates with an aggressive phenotype.*
+
+---
+
+**82. TGF-α was upregulated at which stage of HCC tumor formation?**
+
+- Only at late stage
+- Only at metastatic stage
+- **At an earlier stage of tumor formation**
+- Only in cirrhotic tissue
+
+*Explanation: TGF-α was frequently upregulated at an earlier stage of tumor formation, and the upregulation of TGF-α was linked to the oncogenic process.*
+
+---
+
+**83. In approximately what percentage of HCC cases is HB-EGF protein detected?**
+
+- 20%
+- 40%
+- **About 60%**
+- 80%
+
+*Explanation: The HB-EGF protein was a potent mitogen for hepatocytes, detected in about 60% of HCC cases.*
+
+---
+
+**84. What is the role of RKIP (RAF kinase inhibitor protein) in HCC?**
+
+- It promotes cell proliferation by activating RAF
+- It has no role in HCC pathogenesis
+- **Downregulation of RKIP promotes HCC cell proliferation and migration; it acts as a tumor suppressor**
+- It activates the PI3K/AKT pathway
+
+*Explanation: Constitutive MEK/ERK pathway activation may occur via downregulation of RKIP; this event promotes HCC cell proliferation and migration. Downregulation of RKIP was found in 90% of human HCC, suggesting a role as tumor suppressor.*
+
+---
+
+**85. IGF-2R is described as what type of receptor in the IGF signaling pathway?**
+
+- An activating receptor for IGF-1
+- A co-receptor that enhances IGF-2 signaling
+- **A decoy receptor to which IGF-2 exclusively binds without activating downstream molecules**
+- A receptor that activates the MAPK cascade
+
+*Explanation: IGF-2R is a decoy receptor to which IGF-2 exclusively binds, but no activation of downstream molecules occurs.*
+
+---
+
+**86. In what percentage of HCC cases was IGF pathway activation (phosphorylated IGF-1R) found?**
+
+- 5%
+- 10%
+- **21%**
+- 35%
+
+*Explanation: Comprehensive analysis of 104 HCC cases revealed that IGF pathway activation, namely the presence of phosphorylated IGF-1R, was found in 21% of the cases.*
+
+---
+
+**87. What is the most important molecular target in HCC due to its highly vascular nature?**
+
+- WNT/β-catenin pathway
+- PI3K/AKT/mTOR pathway
+- **The angiogenic pathway**
+- The p53/RB1 pathway
+
+*Explanation: The angiogenic pathway is the most important molecular target in HCC because HCC is usually a highly vascular tumor.*
+
+---
+
+**88. Which angiogenic growth factors are described as important regulators of angiogenesis in HCC?**
+
+- TGF-β, IL-6, and TNF-α
+- **VEGF, PDGF, and basic FGF (bFGF)**
+- EGF, HGF, and IGF-1
+- WNT, Notch, and Hedgehog ligands
+
+*Explanation: Angiogenesis is a complex process regulated by many factors, such as vascular endothelial growth factor (VEGF), platelet-derived growth factor (PDGF), and basic fibroblast growth factor (bFGF).*
+
+---
+
+**89. What is sorafenib and what is its mechanism of action in HCC?**
+
+- A monoclonal antibody targeting VEGF
+- An mTOR inhibitor
+- **A small-molecule multikinase inhibitor that inactivates VEGF receptors, PDGF receptors, KIT, and BRAF**
+- A direct cytotoxic chemotherapy agent
+
+*Explanation: Sorafenib is a small-molecule multikinase inhibitor that inactivates VEGF receptors, PDGF receptors, v-Kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog (KIT), and B-Raf proto-oncogene (BRAF). It is the first drug proven to be effective in advanced HCC.*
+
+---
+
+**90. Which transcription factor plays a key role in promoting HCC pathogenesis through the oxidative stress pathway?**
+
+- AP-1
+- NF-κB
+- **NRF2**
+- STAT3
+
+*Explanation: A transcription factor, NRF2, was found to play a key role in promoting HCC pathogenesis. The oxidative stress pathway is altered by activating mutations of NRF2 (coded by NFE2L2) or inactivating KEAP1.*
+
+---
+
+**91. What are cancer stem cells (CSCs) also called?**
+
+- Progenitor cells
+- Differentiated tumor cells
+- **Tumor-initiating cells**
+- Circulating tumor cells
+
+*Explanation: Such undifferentiated tumor cells, called cancer stem cells (CSCs) or tumor-initiating cells, are able to self-renew and produce differentiated cells by asymmetric division.*
+
+---
+
+**92. Why are cancer stem cells (CSCs) clinically important?**
+
+- They are more sensitive to chemotherapy
+- They cannot form metastatic lesions
+- **They are resistant to conventional anticancer agents and radiotherapy and can form metastatic lesions**
+- They are easily identified by surface markers
+
+*Explanation: The clinical importance of CSC theory is that CSCs are generally resistant to conventional anticancer agents and radiotherapy, and when CSCs are brought to distant organs, they can form metastatic lesions.*
+
+---
+
+**93. Which of the following is listed as a liver CSC surface marker?**
+
+- CD4
+- CD8
+- CD20
+- **CD133**
+
+*Explanation: Liver CSC surface markers include CD133, CD90, epithelial cell adhesion molecule (EpCAM), CD13, CD24, OV6, and CD44.*
+
+---
+
+**94. Which signaling pathways are identified as regulatory networks essential for the activation and functions of liver CSCs?**
+
+- WNT, Hedgehog, and RAS
+- **TGF-β, JAK/STAT3, NOTCH, and PI3K/AKT/mTOR**
+- ERK, p38 MAPK, and JNK
+- NRF2, p53, and RB1
+
+*Explanation: The pathways of TGF-β, Janus-activating kinase (JAK)/signal-transducer and activator of transcription 3 (STAT3), NOTCH, and PI3K/AKT/mTOR are identified as regulatory networks essential for the activation and functions of liver CSCs.*
+
+---
+
+**95. To what family does HBV belong?**
+
+- Flaviviridae
+- Retroviridae
+- Picornaviridae
+- **Hepadnaviridae**
+
+*Explanation: HBV is the prototype member of the Hepadnaviridae family.*
+
+---
+
+**96. How many overlapping open reading frames (ORFs) does the HBV genome contain?**
+
+- Two
+- Three
+- **Four**
+- Six
+
+*Explanation: These small, partially double-stranded DNA viruses contain four overlapping open reading frames (ORFs), including preC/core, preS/S, P, and X.*
+
+---
+
+**97. What protein does the PreC/Core ORF of HBV encode?**
+
+- HBsAg and HBcAg
+- Large, middle, and small envelope proteins
+- DNA polymerase and reverse transcriptase
+- **Precore protein (precursor of HBeAg) and core protein (HBcAg)**
+
+*Explanation: PreC/core ORF encodes the precore protein, a precursor of hepatitis B early antigen (HBeAg), and core protein (HBcAg), a component of the nucleocapsid.*
+
+---
+
+**98. What activities does the HBV P gene product (DNA polymerase) possess?**
+
+- Only DNA polymerase activity
+- RNA polymerase and nuclease activities
+- **DNA-dependent DNA polymerase, reverse transcriptase, and RNase H activities**
+- Serine protease and helicase activities
+
+*Explanation: The P gene encodes for a DNA-dependent DNA polymerase, which also has reverse transcriptase and RNase H activities.*
+
+---
+
+**99. What is the approximate length of the HBV genome?**
+
+- 1.0 kb
+- 2.0 kb
+- **3.2 kb**
+- 9.6 kb
+
+*Explanation: The partially double-stranded HBV genome (approximately 3.2 kb in length) exists within a nucleocapsid.*
+
+---
+
+**100. Which protein is encoded by the X region of the HBV genome?**
+
+- HBsAg
+- HBcAg
+- HBeAg
+- **HBx**
+
+*Explanation: The X region encodes for a multifunctional protein, HBx. Although HBx is not a component of HBV particles, it is believed to play a crucial role in viral replication.*
+
+---
+
+**101. What is the identified host cell receptor for HBV entry?**
+
+- CD81
+- SR-BI
+- EGFR
+- **Sodium taurocholate cotransporting polypeptide (NTCP, encoded by SLC10A1)**
+
+*Explanation: A liver bile acids transporter, sodium taurocholate cotransporting polypeptide (NTCP, encoded by SLC10A1) was identified as a functional host cell receptor for HBV entry.*
+
+---
+
+**102. What form does HBV DNA take in the nucleus to serve as a stable template for transcription?**
+
+- Linear double-stranded DNA
+- Single-stranded RNA intermediate
+- **Covalently closed circular DNA (cccDNA)**
+- Episomal plasmid DNA
+
+*Explanation: The partially double-stranded DNA is repaired to form a covalently closed circular DNA (cccDNA) moiety in the nucleus to serve as a stable template for transcription of the pregenomic mRNA and other species required for productive viral replication.*
+
+---
+
+**103. Which of the following is NOT one of the three mechanisms by which HBV promotes carcinogenesis?**
+
+- Insertional mutagenesis with integration of viral DNA into host cancer genes
+- Promotion of genomic instability
+- Ability of viral proteins to activate oncogenic pathways
+- **Direct RNA integration into the host genome**
+
+*Explanation: HBV promotes carcinogenesis by: (1) insertional mutagenesis with viral DNA integration; (2) promotion of genomic instability; and (3) ability of wild-type and mutated viral proteins to affect cell functions. HBV is a DNA virus; RNA integration is not a mechanism.*
+
+---
+
+**104. In approximately what percentage of patients with HBV-related HCC are fragments of viral DNA found integrated into the host genome?**
+
+- 30%
+- 50%
+- 65%
+- **About 80%**
+
+*Explanation: In about 80% of patients with HBV-related HCC, fragments of viral DNA have been found integrated into the host genome.*
+
+---
+
+**105. Into which gene encoding a calcium pump did HBV DNA reportedly insert, disrupting its function?**
+
+- Ryanodine receptor
+- IP3 receptor
+- Calmodulin
+- **SERCA (sarco/endoplasmic reticulum calcium adenosine triphosphatase)**
+
+*Explanation: Studies indicate that HBV DNA had inserted into the gene encoding for SERCA (sarco/endoplasmic reticulum calcium adenosine triphosphatase), which plays a pivotal role in regulating intracellular calcium levels.*
+
+---
+
+**106. How many amino acids does the HBx protein consist of?**
+
+- 100
+- 127
+- **154**
+- 210
+
+*Explanation: HBx is a 154–amino-acid molecule highly conserved among mammalian hepadnaviruses, and it has multifunctional and pleiotropic properties.*
+
+---
+
+**107. Which signaling cascades does cytosolic HBx activate to increase cell proliferation?**
+
+- WNT/β-catenin and Hedgehog
+- **RAS/RAF/MEK/ERK, PI3K/AKT pathway, SRC kinase, and JAK/STAT cascades**
+- TGF-β and SMAD pathways
+- NF-κB and interferon pathways
+
+*Explanation: Cytosolic HBx activates the RAS/RAF/MEK/ERK, PI3K/AKT pathway, SRC kinase, and JAK/STAT cascades, leading to increased cell proliferation.*
+
+---
+
+**108. What is the function of SUZ12 in chromatin remodeling, and what does HBx do to SUZ12?**
+
+- SUZ12 activates gene transcription; HBx overexpresses it
+- **SUZ12 is part of PRC2, which silences genes by H3K27me3; HBx induces downregulation of SUZ12**
+- SUZ12 promotes DNA repair; HBx blocks its activity
+- SUZ12 activates Wnt signaling; HBx increases its expression
+
+*Explanation: SUZ12 is an essential component of the polycomb repressive chromatin remodeling complex 2 (PRC2) that silences target genes by repressive trimethylation of H3 on Lys27, H3K27me3. HBx induces the downregulation of the chromatin remodeling components SUZ12.*
+
+---
+
+**109. How does HBx interact with p53 tumor suppressor protein?**
+
+- HBx activates p53-mediated apoptosis
+- HBx promotes p53 stabilization
+- **HBx binds to p53 in the nucleus, inhibits expression of p53-responsive genes, and blocks p53-mediated apoptosis**
+- HBx increases MDM2 degradation of p53
+
+*Explanation: HBx binds to p53 in the nucleus and inhibits expression of p53-responsive genes. Moreover, HBx expression has been shown to block p53-mediated apoptosis, providing a clonal selective advantage to HBV-infected hepatocytes.*
+
+---
+
+**110. How does HBx cause oxidative stress and DNA damage?**
+
+- By activating NRF2 directly
+- By inhibiting antioxidant enzymes
+- **By triggering calcium ion release from mitochondria, causing ROS production that directly damages DNA**
+- By inducing hypomethylation of oxidative stress genes
+
+*Explanation: HBx can trigger the release of calcium ion from mitochondria, leading to the enhanced replication of HBV DNA through interaction with PYK2 and SRC kinase. Calcium release and localization of HBx in mitochondrial membranes cause oxidative stress, in which ROS are produced. ROS directly damage DNA.*
+
+---
+
+**111. What is the next-generation sequencing finding about recurrent HBV integration points near coding genes?**
+
+- They primarily integrate near tumor suppressor genes
+- They primarily integrate near immune-related genes
+- **They are near coding genes including TERT, MLL4, and CCNE1**
+- They are randomly distributed with no preference for coding regions
+
+*Explanation: Next-generation sequencing of 399 HBV integration breakpoints from 81 HBV-induced HCCs has shown that recurrent HBV integration points are near coding genes, including TERT, MLL4 coding mixed lineage leukemia protein 4, and CCNE1 coding cyclin 1.*
+
+---
+
+**112. Occult HBV infection is defined as fewer than how many virions per mL of serum?**
+
+- 100
+- 1,000
+- **10,000**
+- 100,000
+
+*Explanation: Evidence has accumulated that occult HBV infection, defined as less than 10,000 virions per mL of serum, may be associated with chronic hepatitis and cirrhosis of heretofore unknown origin.*
+
+---
+
+**113. To which family does HCV belong?**
+
+- Hepadnaviridae
+- Retroviridae
+- **Flaviviridae**
+- Picornaviridae
+
+*Explanation: HCV is a member of the Flaviviridae family and is the only member of the genus Hepacivirus.*
+
+---
+
+**114. What is the approximate length of the HCV genome?**
+
+- 3.2 kb
+- 6.0 kb
+- **9.6 kb**
+- 12.0 kb
+
+*Explanation: The HCV genome consists of a single positive-strand RNA of approximately 9.6 kb in length.*
+
+---
+
+**115. How many proteins does the HCV single ORF encode in total, and how are they classified?**
+
+- 5 structural and 5 nonstructural
+- 2 structural and 5 nonstructural
+- **3 structural (core, E1, E2) and 7 nonstructural (NS1–NS5B)**
+- 4 structural and 4 nonstructural
+
+*Explanation: These 10 viral-related molecules include three structural (core [C], E1, and E2) and 7 nonstructural (NS; NS1, NS2, NS3, NS4A, NS4B, NS5A, and NS5B) proteins.*
+
+---
+
+**116. What is the function of NS5B in HCV replication?**
+
+- It is a serine protease
+- It is an RNA helicase
+- It acts as a replicase cofactor
+- **It is an RNA-dependent RNA polymerase essential for replication of the HCV genome**
+
+*Explanation: The NS5B is an RNA-dependent RNA polymerase essential for the replication of the HCV genome.*
+
+---
+
+**117. Through which key proteins does HCV attach and enter hepatocytes?**
+
+- NTCP, EGFR, and occludin
+- **CD81, SR-BI, claudin-1, and occludin**
+- MHC class I and LDLR
+- ASGR1 and TLR7
+
+*Explanation: HCV particles attach to the hepatocyte cell-surface membrane and enter the cell via key proteins such as CD81, SR-BI, claudin-1, and occludin.*
+
+---
+
+**118. Unlike HBV, the HCV genome does NOT integrate into the host's cellular DNA. What is the implication of this for HCC development?**
+
+- HCV cannot cause HCC
+- HCV causes HCC only through immune suppression
+- **All pro-oncogenic events are likely restricted to the cytoplasm, suggesting indirect mechanisms of hepatocarcinogenesis**
+- HCV causes HCC only by inducing cirrhosis
+
+*Explanation: HCV is an RNA virus with a predominantly cytoplasmic life cycle. All potentially pro-oncogenic events are therefore likely to be restricted to the cytoplasm, suggesting indirect mechanisms of hepatocarcinogenesis.*
+
+---
+
+**119. Where is the HCV core protein localized within the cell?**
+
+- Primarily in the nucleus
+- In the cell membrane
+- **At the cytoplasmic surface of the ER, on lipid droplets, and at the outer membrane of mitochondria**
+- Exclusively in the cytosol
+
+*Explanation: The core protein is also localized at the cytoplasmic surface of the ER and on lipid droplets and is localized to the outer membrane of mitochondria, leading to alterations of apoptosis and lipid metabolism.*
+
+---
+
+**120. The HCV core protein promotes fibrosis through which mechanism?**
+
+- Activating stellate cells via NF-κB
+- **Augmenting the TGF-β pathway by upregulating TGF-β expression in hepatic stellate cells**
+- Inhibiting matrix metalloproteinases
+- Directly injuring hepatocytes
+
+*Explanation: The core protein augments the TGF-β pathway by upregulating TGF-β expression in hepatic stellate cells to promote fibrosis.*
+
+---
+
+**121. Enhanced proliferation of HCC cells by overexpression of the HCV core protein was due to upregulation of which molecule?**
+
+- TGF-β
+- VEGF
+- **WNT1 expression, leading to activation of the WNT/β-catenin signaling cascade**
+- EGFR
+
+*Explanation: Enhanced proliferation of HCC cells has been demonstrated by overexpression of the HCV core protein in vitro. This was because of upregulation of WNT1 expression, suggesting a functional link between HCV core expression during active viral replication and subsequent activation of the WNT/β-catenin signaling cascade.*
+
+---
+
+**122. Through what interaction does the HCV core protein induce ROS production?**
+
+- Through NADPH oxidase activation
+- Through cytochrome P450 induction
+- **Through interaction with heat shock protein Hsp60**
+- Through activation of xanthine oxidase
+
+*Explanation: The core has been shown to induce ROS production via interaction with heat shock protein Hsp60.*
+
+---
+
+**123. HCV NS3 protein complexes with which tumor suppressor?**
+
+- RB1
+- CDKN2A
+- MDM2
+- **Wild-type p53 protein**
+
+*Explanation: NS3 has been shown to complex with the wild-type p53 protein. By modulating the activity of p53, NS3 inhibits transcription of the LCMT2 gene, which encodes a cell-cycle regulator, p21WAF1/CIP1.*
+
+---
+
+**124. With which mitochondrial protein does HCV NS3 bind and co-localize?**
+
+- Cytochrome C
+- Bcl-2
+- **Mitochondrial antiviral signaling protein (MAVS)**
+- Apaf-1
+
+*Explanation: The NS3 protein binds and co-localizes with the mitochondrial antiviral signaling protein, MAVS, that activates NF-κB and IFN regulatory factor 3.*
+
+---
+
+**125. What is the functional consequence of NS5A interaction with p53?**
+
+- Activation of p53-mediated apoptosis
+- Increased p53 stability and expression
+- **Inhibition of hepatocyte apoptosis, leading to persistent HCV infection**
+- Promotion of DNA repair
+
+*Explanation: The functional consequences of NS5A interactions with cellular proteins including p53 have been inhibition of hepatocyte apoptosis, leading to persistent HCV infection.*
+
+---
+
+**126. NS5A overexpression induces oxidative stress and activates which signaling pathways, resulting in stabilization of β-catenin?**
+
+- WNT, Hedgehog, and TGF-β
+- **STAT3, PI3K, and NF-κB, through inactivation of GSK-3β**
+- JAK1/2, ERK, and mTOR
+- RAS, RAF, and MEK
+
+*Explanation: Overexpression of NS5A also induces oxidative stress and activates the signaling pathways such as STAT3, PI3K, and NF-κB, resulting in the stabilization and accumulation of β-catenin in the cytoplasm and nucleus through inactivation of GSK-3β.*
+
+---
+
+**127. ROS production in the liver has been found to be increased in which experimental model, implicating oxidative stress in HCV-mediated HCC?**
+
+- HBV-infected woodchuck model
+- NASH mouse model
+- **HCV core transgenic mice**
+- CCl4-treated rat model
+
+*Explanation: ROS production in the liver has been found to be increased in HCV core transgenic mice. Moreover, iron loading in transgenic mice expressing the full-length HCV genome promotes HCC formation, again implicating chronic oxidative stress in the pathogenesis of HCV-mediated HCC.*
+
+---
+
+**128. HCV directly induces lipid accumulation in hepatocytes as a result of ER stress because viral replication occurs on the ER membranes. Which protein mediates this?**
+
+- NS3
+- NS5A
+- NS5B
+- **The core protein**
+
+*Explanation: HCV directly induces lipid accumulation in hepatocytes as a result of ER stress because viral replication occurs on the ER membranes, where the core impedes ER functions.*
+
+---
+
+**129. Through which mechanisms are HCV proteins believed to contribute to hepatocyte transformation during persistent viral infection?**
+
+- Only by inducing immune suppression
+- Only by integrating into the host genome
+- **Stimulation of cell proliferation, increased cell survival, induction of genomic instability, and promotion of immune evasion**
+- Only by inducing fibrosis and cirrhosis
+
+*Explanation: Many of the HCV proteins are believed to contribute to hepatocyte transformation during persistent viral infection through stimulation of cell proliferation, increased cell survival, induction of genomic instability, and promotion of immune evasion.*
+
+---
+
+**130. The HCV life cycle consists of at least how many different stages?**
+
+- Three
+- Four
+- Five
+- **Six**
+
+*Explanation: The life cycle of HCV consists of at least six different stages: attachment/entry, translation, processing, genome replication, assembly, and release into the circulation.*
+
+---
+
+**131. Which of the following is the initiating event for translation of the HCV RNA?**
+
+- Cap-dependent ribosome scanning
+- Ribosomal frameshifting
+- **Internal ribosome entry site (IRES) located in the 5′ UTR**
+- Polyadenylation signal in the 3′ UTR
+
+*Explanation: Translation of the HCV RNA can be initiated by an internal ribosome entry site (IRES) located in the 5′ UTR.*
+
+---
+
+**132. What is the role of the NS4A protein in HCV replication?**
+
+- It is a metalloprotease
+- It acts as an ion channel
+- **It acts as a cofactor for NS3 protease activity**
+- It is an RNA-dependent RNA polymerase
+
+*Explanation: NS4A acts as a cofactor for NS3 activity.*
+
+---
+
+**133. The relative risk of HBV for HCC ranges from 5- to 100-fold. On what does this range depend?**
+
+- Only on HBV genotype
+- Only on patient age and sex
+- **HBV load, presence of cirrhosis, and exposure to aflatoxin B1**
+- Only on geographic location
+
+*Explanation: According to Table 9B.1, the relative risk of HBV for HCC depends on multiple factors, including HBV load, presence of cirrhosis, and exposure to aflatoxin B1.*
+
+---
+
+**134. What is the 5-year cumulative incidence rate of HCC from HCV-related cirrhosis in Japan?**
+
+- 10%
+- 17%
+- **30%**
+- 40%
+
+*Explanation: According to Table 9B.1, the 5-year cumulative incidence rates of HCC from HCV-related cirrhosis are 30% in Japan.*
+
+---
+
+**135. Which HBV-highly prevalent areas are listed alongside Asia?**
+
+- Europe and North America
+- **Sub-Saharan Africa, Melanesia, and Micronesia**
+- South and East Asia, South America
+- Australia and New Zealand
+
+*Explanation: According to Table 9B.1, HBV-highly prevalent areas include Asia, sub-Saharan Africa, Melanesia, and Micronesia.*
+
+---
+
+**136. Which HCV-highly prevalent areas are listed in Table 9B.1?**
+
+- Asia, sub-Saharan Africa, Melanesia
+- Europe and North America
+- **Africa, South and East Asia, South America**
+- Australia and New Zealand
+
+*Explanation: According to Table 9B.1, HCV-highly prevalent areas include Africa, South and East Asia, and South America.*
+
+---
+
+**137. Which of the following genes is involved in chromatin remodeling and has translocations frequently found in infant leukemia?**
+
+- ARID1A
+- SUZ12
+- **MLL**
+- EZH2
+
+*Explanation: MLL and MLL3 are histone methyltransferases that positively regulate gene transcription. The MLL gene translocations are frequently found in infant leukemia, but the significance of loss-of-function mutations of MLL family in HCC remains to be determined.*
+
+---
+
+**138. What is the frequency range of TERT promoter activation in HCC according to Table 9B.2?**
+
+- 5%–15%
+- 10%–30%
+- **20%–60%**
+- 40%–80%
+
+*Explanation: According to Table 9B.2, the frequency of TERT promoter activation in HCC is 20%–60%.*
+
+---
+
+**139. According to Table 9B.2, what is the frequency of IGF2R allelic loss in HCC?**
+
+- 5%–15%
+- 10%–20%
+- 15%–25%
+- **0%–13%**
+
+*Explanation: According to Table 9B.2, IGF2R allelic loss occurs in 0%–13% of HCC cases.*
+
+---
+
+**140. According to Table 9B.2, what is the frequency of TSC2 mTOR signaling alterations in HCC?**
+
+- 1%
+- 2%
+- 3%
+- **5%**
+
+*Explanation: According to Table 9B.2, TSC2 mTOR signaling alterations are found in 5% of HCC cases.*
+
+---
+
+**141. What is the EGF receptor's (EGFR) role in HBV infection?**
+
+- It is the primary receptor for HBV entry
+- It blocks HBV internalization
+- **It plays a role as a cofactor of NTCP for HBV internalization**
+- It promotes cccDNA formation
+
+*Explanation: EGF receptor (EGFR) plays a role as a cofactor of NTCP for HBV internalization.*
+
+---
+
+**142. How long can the cccDNA template persist in the liver?**
+
+- Only during active infection
+- Months after viral clearance
+- **For the lifetime of the individual**
+- Up to 5 years after infection
+
+*Explanation: This cccDNA template remains in the nucleus during chronic viral infection and may persist in the liver for the lifetime of the individual.*
+
+---
+
+**143. How does HBx interact with excision repair cross-complementation group 3 (ERCC3) and transcription factor IIH (TFIIH)?**
+
+- It activates these factors to enhance DNA repair
+- **Nuclear HBx alters the association of p53 with ERCC3 and TFIIH, impairing nucleotide excision repair**
+- It directly degrades these repair factors
+- It has no interaction with these proteins
+
+*Explanation: Nuclear HBx also alters the association of p53 with transcription factors, such as excision repair cross-complementation group 3 (ERCC3) and transcription factor IIH (TFIIH), which are involved in nucleotide excision repair.*
+
+---
+
+**144. EpCAM and DLK1 overexpression are mediated by HBx through demethylation of CpG islands involving a complex containing which enzymes?**
+
+- DNMT1, TET1, and HDAC2
+- **EZH2, TET2, and DNMT3L**
+- SUZ12, EED, and BMI1
+- PCAF, p300, and CBP
+
+*Explanation: EpCAM and DLK1 overexpression is also mediated by HBx demethylation of CpG islands involving a complex containing enhancer of zeste homolog 2 (EZH2), ten-eleven translocation 2 (TET2) enzyme, and DNA methyltransferase (DNMT3L).*
+
+---
+
+**145. What level of serum HBV DNA represents very low levels detectable by advanced diagnostic techniques?**
+
+- <1,000 copies/mL
+- <5,000 copies/mL
+- **<100 copies/mL**
+- <500 copies/mL
+
+*Explanation: With the development of diagnostic techniques sensitive enough to detect very low levels of serum HBV DNA (<100 copies/mL), it has become increasingly apparent that many patients with chronic HCV infection also are infected with low levels of HBV.*
+
+---
+
+**146. What is the approximate size of the HCV open reading frame (ORF)?**
+
+- 3.2 kb
+- 6.0 kb
+- **9.0 kb**
+- 12.0 kb
+
+*Explanation: HCV RNA contains a large (approximately 9.0 kb) ORF in which structural and nonstructural coding regions are located near the 5′ and 3′ ends of the viral genome, respectively.*
+
+---
+
+**147. How is the HCV polyprotein precursor of approximately 3,000 amino acids processed?**
+
+- By a single viral protease
+- By the host ribosome during translation
+- **By the action of several proteases derived from both host and virus**
+- By RNA editing before translation
+
+*Explanation: The single ORF encodes for a polyprotein precursor, consisting of about 3,000 amino acids; it is cleaved into 10 smaller proteins by the action of several proteases derived from both host and virus.*
+
+---
+
+**148. What is the hypothesized function of NS1 (p7) in HCV?**
+
+- Serine protease activity
+- RNA polymerase activity
+- **Transmembrane protein with ion channel activity**
+- RNA helicase activity
+
+*Explanation: The function of NS1 (or called p7) is hypothesized to be a transmembrane protein with ion channel activity.*
+
+---
+
+**149. Where is NS4B located within the cell?**
+
+- In the nucleus
+- In the mitochondrial membrane
+- In the plasma membrane
+- **On the cytoplasmic side of the endoplasmic reticulum**
+
+*Explanation: NS4B is an integral membrane protein located on the cytoplasmic side of endoplasmic reticulum (ER); it has been implicated in the assembly of replicase complex.*
+
+---
+
+**150. What role does NS5A play in evasion of the host's cellular immune response?**
+
+- It directly degrades interferon
+- **It plays a role in evasion of the host's cellular immune response as a component of RNA replicase complex**
+- It blocks MHC class I antigen presentation
+- It inhibits NK cell activation
+
+*Explanation: The NS5A protein is believed to act as a component of RNA replicase complex, and it plays a role in evasion of the host's cellular immune response.*
+
+---
+
+**151. What is the key distinction between HBV and HCV genomic integration into host DNA?**
+
+- Both integrate; HBV integrates more frequently
+- Neither integrates into host DNA
+- **HBV DNA integrates into host chromosomes; HCV RNA does not form a DNA intermediate and does not integrate**
+- HCV integrates; HBV does not
+
+*Explanation: The entire process related to HCV replication is restricted to the cytoplasm; unlike HBV, the viral RNA does not form a DNA intermediate, and thus the HCV genome does not integrate into the host's cellular DNA.*
+
+---
+
+**152. Which of the following HCV proteins has NOT been proposed to have cellular transforming potential?**
+
+- Core
+- NS3
+- NS5A
+- **E1**
+
+*Explanation: At least four HCV proteins, including core, NS3, NS5A, and NS5B, have been proposed to have cellular transforming potential. E1 is a structural envelope protein not described as having transforming potential.*
+
+---
+
+**153. Downregulation of which RAF kinase inhibitor protein was found in 90% of human HCC?**
+
+- BRAF
+- CRAF
+- **RKIP**
+- ARAF
+
+*Explanation: Downregulation of RKIP was found in 90% of human HCC and suggests that it plays a role as a tumor suppressor protein.*
+
+---
+
+**154. The PI3K/AKT/mTOR and RAS/RAF/MAPK pathways are activated in around what percentage of HCC by amplification of the FGF19/CCND1 locus?**
+
+- 1%–2%
+- 3%–4%
+- **5%–10%**
+- 15%–20%
+
+*Explanation: The PI3K/AKT/mTOR and RAS/RAF/mitogen-activated protein kinase pathways are activated in around 5% to 10% of HCC by amplification of the FGF19/CCND1 locus.*
+
+---
+
+**155. Homozygous deletion of PTEN, an inhibitor of PI3K kinase, has been identified in approximately what percentage of HCC?**
+
+- 5%–10%
+- **1%–3%**
+- 10%–15%
+- 20%–25%
+
+*Explanation: Homozygous deletion of PTEN, an inhibitor of the PI3K kinase, has been identified in approximately 1% to 3% of HCC.*
+
+---
+
+**156. What is the clinical implication of HBx activating the androgen signaling pathway?**
+
+- It explains the higher incidence in Asian populations
+- It explains the earlier age of HCC onset in endemic areas
+- **It may explain, in part, the known male predominance of HBV-induced HCC**
+- It explains the association with AFB1 exposure
+
+*Explanation: HBx also influences the androgen signaling pathway, which may explain, in part, the known male predominance of HBV-induced HCC.*
+
+---
+
+**157. In the context of HBV, what does HBx act as in the nucleus regarding transcription?**
+
+- A direct DNA-binding transcription factor
+- A transcriptional repressor through chromatin compaction
+- **A transcriptional coactivator that modulates transcription without directly binding to DNA**
+- An RNA splicing regulator
+
+*Explanation: Nuclear HBx has been reported to act as a transcriptional coactivator, although it does not directly bind to DNA. The mechanism of chromatin remodeling of HBx can be either transcriptional activation or repression of transcription by different mechanisms.*
+
+---
+
+**158. Which transcription factors does HBx bind to regulate transcription in the nucleus?**
+
+- AP-1, NF-κB, and STAT3
+- **CREB, ATF2, AP-2, and CREB-binding protein/p300**
+- E2F, SP1, and YAP
+- TCF, LEF, and β-catenin
+
+*Explanation: HBx binds many nuclear proteins and regulates the transcription, including cyclic adenosine monophosphate (cAMP) response element–binding protein (CREB), activating transcription factor 2 (ATF2), activating enhancer binding protein 2 (AP-2), and CREB-binding protein/p300.*
+
+---
+
+**159. What does constitutive expression of HBx promote in combination with activation of the insulin/IGF-1/IRS-1/MEK/ERK cascade?**
+
+- Apoptosis of infected hepatocytes
+- **Hepatocarcinogenesis**
+- Anti-viral immune response
+- Fibrosis resolution
+
+*Explanation: Constitutive expression of HBx also promotes hepatocarcinogenesis, in combination with activation of the insulin/IGF-1/IRS-1/MEK/ERK cascade.*
+
+---
+
+**160. What future direction is highlighted for HCC treatment in the postgenomic era?**
+
+- Development of HCV vaccines
+- Dietary modification to reduce aflatoxin exposure
+- **Development of drugs targeting key genetic mutations and immune checkpoint inhibitors**
+- Universal HBV vaccination programs
+
+*Explanation: Some novel driver mutations of HCC have been identified and tremendous effort has been applied to the development of drugs that target these key genetic mutations. Furthermore, the benefit of immunotherapy for HCC has been highlighted and the development of immune checkpoint inhibitors are under intense investigation.*
+
+---
+
+**161. Which of the following best describes NAFLD-associated HCC compared to other etiologies?**
+
+- NAFLD-associated HCC is always preceded by cirrhosis
+- NAFLD-associated HCC has a higher incidence than viral hepatitis-associated HCC
+- **NAFLD-associated HCC also occurs frequently in the absence of cirrhosis**
+- NAFLD-associated HCC occurs only in women
+
+*Explanation: NAFLD-associated HCC also occurs frequently in the absence of cirrhosis.*
+
+---
+
+**162. IRS-1 (insulin receptor substrate-1) is overexpressed in what proportion of human HCCs?**
+
+- About 25%
+- About 50%
+- **The majority**
+- About 10%
+
+*Explanation: IRS-1 is overexpressed in the majority of human HCCs.*
+
+---
+
+**163. IGF-2 ligand overexpression was found in what percentage of HCC tumors, suggesting autocrine and/or paracrine mechanisms?**
+
+- 5%–10%
+- **16%–40%**
+- 45%–60%
+- 65%–80%
+
+*Explanation: IGF-2 ligand was overexpressed in 16% to 40% of tumors, as well as in dysplastic tissue, suggesting that IGF-2 may act by autocrine and/or paracrine mechanisms.*
+
+---
+
+**164. What is IGFBP-3 and what is its role in IGF signaling?**
+
+- An activating ligand for IGF-1R
+- A receptor for IGF-1 on the cell surface
+- **A predominant form of IGFBPs; a neutralizing peptide that binds to circulating IGF-1 and IGF-2**
+- An intracellular signaling molecule that activates PI3K
+
+*Explanation: IGFBP-3, a predominant form of IGFBPs, is a neutralizing peptide that binds to circulating IGF-1 and IGF-2.*
+
+---
+
+**165. How does the host's immune response to HBV contribute to HCC development?**
+
+- CTLs directly transform hepatocytes
+- The immune response eliminates HBV without liver injury
+- **Cytotoxic T cells eliminate HBV-infected hepatocytes, inducing sustained cycles of hepatocyte injury and regeneration that contribute to cirrhosis and HCC**
+- Antibodies against HBV surface antigens promote oncogene activation
+
+*Explanation: Several components of the viral particles activate the host's immune response, and cytotoxic T cells (CTLs) eliminate HBV-infected hepatocytes. Such immune responses induce sustained cycles of hepatocyte injury and regeneration that contribute to cirrhosis and HCC tumor formation.*
+
+---
+
+**166. Sustained virologic response (SVR) with DAA agents has emerged as what in patients with HCV?**
+
+- The only risk factor for HCC recurrence
+- A minor modifier of HCC risk
+- A treatment causing increased HCC risk
+- **The most dominant modifier of HCC in patients with HCV**
+
+*Explanation: Sustained virologic response (SVR) with DAA agents has emerged as the most dominant modifier of HCC in patients with HCV.*
+
+---
+
+**167. What percentage of HBV-related HCC overexpress FZD7, and what is the consequence of this?**
+
+- 10%–20%; reduced cell motility
+- **23%–59%; activation of the WNT/β-catenin pathway leading to enhanced cell motility and invasion**
+- 60%–75%; increased apoptosis
+- 80%–90%; improved prognosis
+
+*Explanation: Studies reveal that 23% to 59% of HBV-related HCCs overexpress the FZD7. Through the interaction with a FZD-ligand WNT3, overexpressed FZD7 leads to the activation of this pathway. The functional consequences of FZD7 overexpression are enhanced cell motility and invasion.*
+
+---
+
+**168. NS3 inhibits transcription of the LCMT2 gene, which encodes which cell-cycle regulator?**
+
+- Cyclin D1
+- CDK4
+- **p21WAF1/CIP1**
+- p27Kip1
+
+*Explanation: By modulating the activity of p53, NS3 inhibits transcription of the leucine carboxyl methyltransferase 2 (LCMT2) gene, which encodes a cell-cycle regulator, p21WAF1/CIP1.*
+
+---
+
+**169. What does the MicroRNA 193a-5p appear to do in liver tumorigenesis?**
+
+- Promotes tumor growth by activating oncogenes
+- Has no role in liver cancer
+- **Prevents liver tumorigenesis by reducing levels of nucleolar and spindle-associated protein 1 (NUSAP1)**
+- Promotes angiogenesis in HCC
+
+*Explanation: The MicroRNA 193a-5p appears to prevent liver tumorigenesis by reducing levels of nucleolar and spindle-associated protein 1 (NUSAP1).*
+
+---
+
+**170. What overarching goal do future investigations of the molecular biology of liver carcinogenesis aim to achieve?**
+
+- To develop new surgical techniques for liver resection
+- To discover new HBV and HCV vaccines
+- To eliminate all risk factors for HCC through public health measures
+- **To develop preventive approaches and establish new treatment strategies, potentially resulting in personalized medical approaches for HCC**
+
+*Explanation: The characterization of the molecular biology of liver carcinogenesis and hepatitis may lead to the development of preventive approaches and the establishment of new treatment strategies for HCC. These investigations emphasize the importance of unraveling the molecular mechanisms of liver carcinogenesis, which may ultimately result in "personalized" medical approaches for this devastating disease.*

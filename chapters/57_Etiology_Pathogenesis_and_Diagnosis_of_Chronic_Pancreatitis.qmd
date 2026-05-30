@@ -1,0 +1,1873 @@
+# 57 Etiology, Pathogenesis, and Diagnosis of Chronic Pancreatitis
+
+
+Generated with Claude.
+
+**1. How has chronic pancreatitis been classically defined?**
+
+- As an acute, reversible inflammation of the pancreas
+- As a purely genetic disorder of the pancreatic acinar cells
+- **As progressive and irreversible fibrosis of the pancreas**
+- As a transient inflammatory condition resolving within weeks
+
+*Explanation: Chronic pancreatitis is broadly and classically defined by progressive and irreversible fibrosis of the pancreas, marked by complexity, heterogeneity, and an evolution in understanding of cause, course, and treatment.*
+
+---
+
+**2. What is the primary challenge of using the traditional clinicopathologic framework for defining chronic pancreatitis?**
+
+- It overestimates the role of genetic factors
+- It fails to account for imaging findings
+- **It requires years of delay between symptom onset and diagnosis**
+- It relies too heavily on functional testing
+
+*Explanation: Relying on the "irreversible" component of the traditional definition requires years of delay between symptom onset and diagnosis, poor prediction of the entire clinical course, and a deemphasis on addressing the underlying etiology.*
+
+---
+
+**3. What mechanistic definition of chronic pancreatitis was proposed in 2016?**
+
+- A disease of autoimmune origin restricted to the pancreatic ductal cells
+- A purely hereditary fibroinflammatory syndrome of the exocrine pancreas
+- **A pathologic fibroinflammatory syndrome of the pancreas in individuals with genetic, environmental and/or other risk factors who develop persistent pathologic responses to parenchymal injury or stress**
+- A metabolic syndrome characterized by progressive endocrine dysfunction
+
+*Explanation: In 2016, a new mechanistic definition was proposed defining chronic pancreatitis as "a pathologic fibroinflammatory syndrome of the pancreas in individuals with genetic, environmental and/or other risk factors who develop persistent pathologic responses to parenchymal injury or stress."*
+
+---
+
+**4. Which of the following is listed as a common feature of chronic pancreatitis according to the 2016 mechanistic definition?**
+
+- Portal hypertension
+- **Pancreatic atrophy and fibrosis**
+- Bile duct hyperplasia
+- Gastric outlet obstruction
+
+*Explanation: Common features of chronic pancreatitis include pancreatic atrophy, fibrosis, pain syndromes, duct distortion and strictures, calcifications, pancreatic exocrine dysfunction, pancreatic endocrine dysfunction, and dysplasia.*
+
+---
+
+**5. From which major consensus conferences does the basis for classification of chronic pancreatitis derive?**
+
+- Tokyo, Vienna, and Geneva
+- Boston, Lyon, and Amsterdam
+- **Marseille (1963), Marseille-Rome (1986), Cambridge (1984), the Zurich symposium, and the Manchester classification**
+- Rotterdam, Berlin, and Barcelona
+
+*Explanation: The basis for classification of chronic pancreatitis comes from four major consensus conferences and one study: Marseille in 1963, Marseille-Rome in 1986, Cambridge in 1984, the Zurich symposium, and the Manchester classification.*
+
+---
+
+**6. Which classification systems established discrete categories based on morphologic changes adapted for CT and EUS?**
+
+- TIGAR-O and M-ANNHEIM
+- Manchester and Heidelberg
+- **Cambridge and Rosemont**
+- Zurich and Marseille
+
+*Explanation: The Cambridge and Rosemont classification systems established discrete categories based on morphologic changes adapted for computed tomography (CT) and endoscopic ultrasonography (EUS).*
+
+---
+
+**7. What is a key limitation of the Cambridge and Rosemont classification systems?**
+
+- They do not consider imaging findings
+- They are only applicable to hereditary pancreatitis
+- **The correlation between morphologic changes and clinical symptoms is imperfect, and etiology is not incorporated**
+- They require invasive histologic sampling
+
+*Explanation: The Cambridge and Rosemont systems establish categories based on morphologic changes; however, the correlation between morphologic changes and clinical symptoms is imperfect at best and etiology is not incorporated.*
+
+---
+
+**8. What does the TIGAR-O classification system primarily offer?**
+
+- Severity scoring and prognostic prediction
+- Detailed histopathologic criteria
+- **Consideration of major etiologic sources**
+- A surgical decision-making guide
+
+*Explanation: The TIGAR-O system considers major etiologic sources, but it does not offer clinical severity staging.*
+
+---
+
+**9. Which classification systems classify patients based on discrete clinical features into three severity stages?**
+
+- Cambridge and Rosemont
+- TIGAR-O and Zurich
+- **Manchester and Heidelberg**
+- Marseille and Rome
+
+*Explanation: Others, like the Manchester and Heidelberg systems, classify patients based on discrete clinical features into three severity stages and were conceived as practical clinical tools.*
+
+---
+
+**10. Which classification system is considered the most comprehensive at present and includes severity scoring, diagnostic criteria, and a multifactorial risk factor classification?**
+
+- TIGAR-O
+- Cambridge
+- Heidelberg
+- **M-ANNHEIM**
+
+*Explanation: The M-ANNHEIM system (Multiple risk factors: Alcohol, Nicotine, Nutrition, Hereditary, Efferent duct factors, Immunological, Miscellaneous) is the most comprehensive classification at present, and includes severity scoring and diagnostic criteria in addition to a multifactorial risk factor classification.*
+
+---
+
+**11. What does the acronym M-ANNHEIM stand for?**
+
+- Metabolic, Autoimmune, Nutritional, Nicotinic, Hereditary, Endocrine, Immunological, Metabolic
+- **Multiple risk factors: Alcohol, Nicotine, Nutrition, Hereditary, Efferent duct factors, Immunological, Miscellaneous**
+- Morphologic, Anatomic, Neoplastic, Nutritional, Hereditary, Exocrine, Immunological, Mechanical
+- Markers, Autoimmune, NF-kB, Necrosis, Hereditary, Eosinophilic, Immunologic, Miscellaneous
+
+*Explanation: M-ANNHEIM stands for Multiple risk factors: Alcohol, Nicotine, Nutrition, Hereditary, Efferent duct factors, Immunological, Miscellaneous.*
+
+---
+
+**12. According to the chapter, what are the two main fundamental factors upon which the development of pancreatitis depends?**
+
+- Genetics and imaging findings
+- Smoking and alcohol consumption
+- **Host and environment (e.g., toxin)**
+- Age of onset and family history
+
+*Explanation: Fundamentally, the development of pancreatitis depends on two main factors: host and environment (e.g., toxin).*
+
+---
+
+**13. Why do individuals respond differently to the same amounts of alcohol in terms of developing chronic pancreatitis?**
+
+- Because of differences in pancreatic enzyme levels
+- Because alcohol type determines severity
+- **Because of varying individual susceptibility, genetic makeup, and cofactors**
+- Because imaging techniques differ in diagnostic accuracy
+
+*Explanation: The general concept that pancreatitis depends on host and environment explains why individuals respond differently to the same amounts of a toxin, such as alcohol, or why less amounts of the same toxin produce disease in a susceptible individual.*
+
+---
+
+**14. What percentage of patients with alcoholism develop clinically apparent chronic pancreatitis?**
+
+- 20%–30%
+- 30%–50%
+- **5%–10%**
+- 50%–60%
+
+*Explanation: Notably, clinically apparent chronic pancreatitis develops in only 5% to 10% of patients with alcoholism, pointing to the multifactorial pathophysiology.*
+
+---
+
+**15. What is the most common cause of chronic pancreatitis in most developed countries?**
+
+- Autoimmune pancreatitis
+- Hereditary pancreatitis
+- **Alcohol**
+- Obstructive pancreatitis
+
+*Explanation: Alcohol is the most common cause of chronic pancreatitis in most developed countries, and this association was first described by Comfort and colleagues (1946).*
+
+---
+
+**16. Before the development of clinical alcohol-induced chronic pancreatitis, what duration of heavy alcohol consumption is typically required?**
+
+- 1–3 years
+- 3–5 years
+- 5–8 years
+- **10–15 years**
+
+*Explanation: Although the cumulative toxin dose required for alcohol to cause chronic pancreatitis varies, 60% to 90% of patients will have 10 to 15 years of heavy alcohol consumption before development of clinical disease.*
+
+---
+
+**17. What is the estimated critical threshold of daily alcohol intake for men to develop chronic pancreatitis?**
+
+- 20 g/day
+- 40 g/day
+- 60 g/day
+- **80 g/day**
+
+*Explanation: The critical threshold of daily alcohol intake has been estimated to be approximately 40 g daily for women and 80 g daily for men (four to five drinks a day).*
+
+---
+
+**18. What is the critical threshold of daily alcohol intake for women to develop chronic pancreatitis?**
+
+- **40 g/day**
+- 60 g/day
+- 80 g/day
+- 100 g/day
+
+*Explanation: The critical threshold of daily alcohol intake has been estimated to be approximately 40 g daily for women and 80 g daily for men (four to five drinks a day).*
+
+---
+
+**19. In patients with chronic pancreatitis, which alcohol-induced complication is more likely to develop?**
+
+- Biliary strictures and hepatic fibrosis
+- Pancreatic adenocarcinoma
+- **Necrosis and pseudocysts**
+- Ampullary stenosis
+
+*Explanation: Of patients with chronic pancreatitis, those with alcohol-induced disease may be more likely to develop necrosis and pseudocysts.*
+
+---
+
+**20. What is the odds ratio for smoking as an independent risk factor for chronic pancreatitis, as reported in the chapter?**
+
+- 3.3
+- 8.5
+- 12.6
+- **As high as 17.3**
+
+*Explanation: There is convincing evidence that smoking is independently associated with an increased risk for chronic pancreatitis, with an odds ratio (OR) as high as 17.3.*
+
+---
+
+**21. What is the risk for chronic pancreatitis in individuals smoking less than 1 pack of cigarettes per day?**
+
+- 1.2
+- 1.8
+- **2.4**
+- 3.3
+
+*Explanation: The risk for chronic pancreatitis in individuals smoking less than 1 pack of cigarettes per day is 2.4, increasing to 3.3 in individuals who smoke more than 1 pack per day.*
+
+---
+
+**22. At what pack-year threshold is a major threshold effect of smoking seen in smokers with alcoholic chronic pancreatitis?**
+
+- 10 pack-years
+- 15 pack-years
+- **20 pack-years**
+- 30 pack-years
+
+*Explanation: In smokers with alcoholic chronic pancreatitis, the course was accelerated and a major threshold effect is seen at 20 pack-years.*
+
+---
+
+**23. How does tobacco affect pancreatic juice?**
+
+- It increases bicarbonate secretion and decreases viscosity
+- It has no effect on pancreatic juice composition
+- It stimulates lithostatin production
+- **It decreases juice and bicarbonate secretion and induces inflammation**
+
+*Explanation: Tobacco induces oxidative stress and alters the secretion and composition of pancreatic juice, resulting in decreased juice and bicarbonate secretion and inflammation.*
+
+---
+
+**24. Which gene was analyzed by Ockenga and colleagues (2003) in relation to chronic pancreatitis and tobacco abuse?**
+
+- PRSS1
+- SPINK1
+- CFTR
+- **UGT1A7 (uridine 5'-diphosphate glucuronosyltransferase)**
+
+*Explanation: The genomic DNA for expression of uridine 5'-diphosphate (UDP) glucuronosyltransferase (UGT1A7) genes was analyzed by Ockenga and colleagues (2003). The incidence of this mutation was much more common in patients with chronic pancreatitis and tobacco abuse.*
+
+---
+
+**25. What role does calcium play in the pathogenesis of pancreatitis?**
+
+- It inhibits trypsinogen secretion
+- It reduces acinar cell inflammation
+- **It plays a central role in trypsinogen secretion and trypsin stabilization**
+- It promotes lithostatin production
+
+*Explanation: Calcium plays a central role in trypsinogen secretion and trypsin stabilization. Hypercalcemia as a result of primary or secondary hyperparathyroidism results in recurrent acute pancreatitis, which progresses to chronic pancreatitis.*
+
+---
+
+**26. What total serum calcium level defines hypercalcemia as an etiologic factor in the TIGAR-O classification?**
+
+- >10.0 mg/dL
+- >11.0 mg/dL
+- **>12.0 mg/dL**
+- >13.0 mg/dL
+
+*Explanation: In the TIGAR-O classification, hypercalcemia is defined as total calcium >12.0 mg/dL as an etiologic factor in chronic pancreatitis.*
+
+---
+
+**27. What is the proposed mechanism by which hypercalcemia causes chronic pancreatitis?**
+
+- Direct fibrosis of ductal epithelium
+- Immune-mediated destruction of acinar cells
+- **Trypsinogen activation leading to necrosis and fibrosis of the parenchyma**
+- Obstruction of the main pancreatic duct by calcium deposits
+
+*Explanation: Hypercalcemia results in recurrent acute pancreatitis, likely from trypsinogen activation, which in turn results in necrosis and fibrosis of the parenchyma. Increased serum calcium concentration is also believed to induce direct damage to acinar cells.*
+
+---
+
+**28. What does evidence from animal studies suggest about high-fat and high-protein diets in relation to chronic pancreatitis?**
+
+- They protect against alcohol-induced pancreatic damage
+- They have no significant effect on pancreatic injury
+- **They can induce pancreatic injury and alcohol-induced damage**
+- They inhibit cytochrome P-450 activation
+
+*Explanation: Evidence for the role of diets rich in fat and protein in the development of chronic pancreatitis comes predominantly from animal studies, in which it has been found to induce pancreatic injury and alcohol-induced damage.*
+
+---
+
+**29. What is the primary reason evidence for the causative effect of nutritional factors in chronic pancreatitis is limited?**
+
+- Animal models do not translate to humans
+- Nutritional factors are not included in classification systems
+- **Challenges of retrospectively collecting accurate dietary data**
+- The role of fat is already accounted for under alcohol etiology
+
+*Explanation: The evidence for the causative effect of nutritional factors in the pathogenesis of chronic pancreatitis is limited mostly because of the challenges of retrospectively collecting accurate dietary data.*
+
+---
+
+**30. At what age group is early idiopathic chronic pancreatitis typically seen?**
+
+- Fifth and sixth decades of life
+- Third decade of life
+- Seventh decade of life
+- **During the first two decades of life**
+
+*Explanation: Early idiopathic chronic pancreatitis is seen during the first 2 decades of life, with abdominal pain the predominant clinical feature, whereas pancreatic calcifications and exocrine and endocrine pancreatic insufficiency are rare at the first diagnosis.*
+
+---
+
+**31. What is the predominant clinical feature of early idiopathic chronic pancreatitis?**
+
+- Exocrine pancreatic insufficiency
+- Endocrine pancreatic insufficiency
+- **Abdominal pain**
+- Pancreatic calcifications
+
+*Explanation: Early idiopathic chronic pancreatitis is seen during the first 2 decades of life, with abdominal pain the predominant clinical feature.*
+
+---
+
+**32. During which decade of life does late-onset idiopathic chronic pancreatitis typically occur?**
+
+- Second decade
+- Third decade
+- Fourth decade
+- **Fifth decade**
+
+*Explanation: The clinical presentation of late-onset idiopathic chronic pancreatitis typically occurs in patients during their fifth decade of life.*
+
+---
+
+**33. According to the prospective study by Lewis and colleagues, what was the median age for early-onset idiopathic pancreatitis?**
+
+- 15 years
+- **20 years**
+- 25 years
+- 30 years
+
+*Explanation: A more modern prospective study performed by Lewis and colleagues demonstrated that the median age for early-onset idiopathic pancreatitis was 20, whereas late-onset symptoms started at a median age of 58.*
+
+---
+
+**34. In the Lewis et al. study, what percentage of patients in both early- and late-onset idiopathic pancreatitis groups were predominantly women?**
+
+- 35% and 55%, respectively
+- 50% and 65%, respectively
+- **62% and 81%, respectively**
+- 75% and 90%, respectively
+
+*Explanation: Both groups were predominantly women (62% and 81%, respectively, for early and late onset).*
+
+---
+
+**35. Approximately what proportion of patients with chronic pancreatitis have been labeled as having an idiopathic cause in the past?**
+
+- 10%
+- 20%
+- **30%**
+- 50%
+
+*Explanation: Approximately 30% of patients with chronic pancreatitis have been labeled as having an idiopathic cause in the past, but in many cases risk factors ranging from underreported alcohol and tobacco abuse, undiscovered underlying genetic or hereditary abnormalities, or currently undiscovered factors are the actual stimulants of disease.*
+
+---
+
+**36. What percentage of patients with "idiopathic" chronic pancreatitis have been found to have SPINK1 gene mutations?**
+
+- 5%
+- 10%
+- **Up to 25%**
+- 50%
+
+*Explanation: Mutations of the serine protease inhibitor Kazal type 1 (SPINK1 gene) have been described in up to 25% of patients with "idiopathic" chronic pancreatitis.*
+
+---
+
+**37. In the series by Jalaly and colleagues, what percentage of patients with acute recurrent or chronic idiopathic pancreatitis had variants in PRSS1, CFTR, SPINK1, or CTRC?**
+
+- 20%
+- 30%
+- **47.8%**
+- 65%
+
+*Explanation: In a series published by Jalaly and colleagues, 47.8% of patients with acute recurrent or chronic idiopathic pancreatitis had variants in PRSS1, CFTR, SPINK1, or CTRC.*
+
+---
+
+**38. What is the frequency of CFTR mutations in patients with idiopathic chronic pancreatitis without evidence of cystic fibrosis, compared to patients without mutations?**
+
+- Twice as frequent
+- Three times as frequent
+- Four times as frequent
+- **Six times as frequent**
+
+*Explanation: In patients without evidence of cystic fibrosis, the frequency of CFTR mutations was six times that of patients without mutations.*
+
+---
+
+**39. What fraction of all patients with idiopathic chronic pancreatitis was reported by Cavestro and colleagues to have CFTR mutations?**
+
+- One-tenth
+- One-fifth
+- **One-third**
+- One-half
+
+*Explanation: Subsequently, Cavestro and colleagues reported that one-third of all patients with idiopathic chronic pancreatitis have CFTR mutations.*
+
+---
+
+**40. What was historically implicated in the pathogenesis of tropical pancreatitis?**
+
+- Alcohol and tobacco use
+- High-fat dietary intake
+- **Malnutrition and excess consumption of cyanogenic glycosides in cassava**
+- SPINK1 mutations exclusively
+
+*Explanation: Initial attempts to understand the disease implicated malnutrition and excess consumption of cyanogenic glycosides in cassava.*
+
+---
+
+**41. What proportion of chronic pancreatitis cases in India and China were historically labeled as idiopathic (including tropical pancreatitis)?**
+
+- 10%–20%
+- 20%–40%
+- **60%–70%**
+- 80%–90%
+
+*Explanation: Up to 60% to 70% of chronic pancreatitis in India and China have been labeled idiopathic, which historically included tropical pancreatitis.*
+
+---
+
+**42. Which genetic variants have been found to predict the risk for tropical calcific pancreatitis?**
+
+- PRSS2, CASR, and TRPV6
+- CFTR and PRSS1 only
+- **SPINK1, cathepsin B, CTRC, CFTR, and carboxypeptidase A1**
+- UGT1A7 and GP-2
+
+*Explanation: Several studies have shown that variants in SPINK1, cathepsin B, CTRC, CFTR, and carboxypeptidase A1 predict the risk for tropical calcific pancreatitis.*
+
+---
+
+**43. Which genetic variations have been associated with chronic pancreatitis in the genetic (hereditary) etiology category?**
+
+- Only PRSS1 and CFTR
+- Only SPINK1 and CTRC
+- **PRSS1, PRSS2, SPINK1, CTRC, CASR, and CFTR**
+- TRPV6 and UGT1A7
+
+*Explanation: Several genetic variations have been associated with pancreatitis, including cationic trypsinogen (PRSS1), anionic trypsinogen (PRSS2), SPINK1, CTRC, calcium-sensing receptor (CASR), and CFTR, all of which are closely linked with the trypsin pathway.*
+
+---
+
+**44. What is the classic example of chronic pancreatic insufficiency among genetic causes?**
+
+- Hereditary pancreatitis
+- Tropical pancreatitis
+- **Cystic fibrosis**
+- Autoimmune pancreatitis
+
+*Explanation: Cystic fibrosis is the classic example of chronic pancreatic insufficiency and probably the best studied. Many cases of chronic pancreatitis represent a variable part of the cystic fibrosis syndrome, which is caused by mutations in the gene coding for the CFTR.*
+
+---
+
+**45. With which etiologies is the SPINK1-N34S gene mutation closely associated?**
+
+- Autoimmune and obstructive pancreatitis
+- Idiopathic early and late onset only
+- **Tropical (50%), alcoholic (6%), or idiopathic (20%) chronic pancreatitis**
+- Recurrent acute and hereditary pancreatitis only
+
+*Explanation: Research has focused on the SPINK1-N34S gene mutation, which is also closely associated with tropical (50%), alcoholic (6%), or idiopathic (20%) chronic pancreatitis.*
+
+---
+
+**46. What is the primary function of the SPINK1 protein (PSTI)?**
+
+- Activating trypsinogen in the pancreatic duct
+- Producing digestive enzymes in acinar cells
+- **Inhibiting activated trypsin (major intrapancreatic deactivator of activated trypsinogen)**
+- Regulating bicarbonate secretion
+
+*Explanation: PSTI has the main function of inhibiting activated trypsin. SPINK1 is the major intrapancreatic "deactivator" of activated trypsinogen.*
+
+---
+
+**47. What is the term for the phenomenon when trypsin inhibitory protein malfunctions and trypsin remains active for a longer time?**
+
+- Loss of function of trypsinogen
+- Trypsinogen autoactivation
+- **Gain of function of trypsin**
+- Trypsin hypersecretion
+
+*Explanation: If the trypsin inhibitory protein malfunctions or cannot bind itself to trypsin, then trypsin is not properly deactivated or destroyed, and it remains active for a longer time. This is called a gain of function of trypsin.*
+
+---
+
+**48. What type of hereditary pattern does hereditary chronic pancreatitis associated with trypsinogen gene mutations follow?**
+
+- Autosomal recessive with incomplete penetrance
+- X-linked dominant
+- **Autosomal dominant with 80% penetrance**
+- Mitochondrial inheritance
+
+*Explanation: Associated with trypsinogen gene mutations, hereditary chronic pancreatitis is an autosomal dominant disease that carries an 80% penetrance.*
+
+---
+
+**49. In which patients is the progression of chronic pancreatitis faster?**
+
+- Patients with CFTR mutations
+- Patients with PRSS1 mutations
+- **Patients with SPINK1-N34S mutation**
+- Patients with autoimmune pancreatitis
+
+*Explanation: The progression of chronic pancreatitis is faster in patients with SPINK-N34S mutation than in patients with PRSS1 mutations.*
+
+---
+
+**50. By how much is the risk of pancreatic ductal cancer increased in patients with hereditary pancreatitis?**
+
+- 5-fold
+- 10-fold
+- 20-fold
+- **More than 50-fold**
+
+*Explanation: Patients with hereditary pancreatitis have a more than 50-fold increased risk of pancreatic ductal cancer compared with the general population.*
+
+---
+
+**51. What type of pancreatitis is characterized by periductal infiltration by lymphocytes and plasma cells and granulocytic epithelial lesions?**
+
+- Obstructive pancreatitis
+- Hereditary pancreatitis
+- Toxic-metabolic pancreatitis
+- **Autoimmune pancreatitis (AIP)**
+
+*Explanation: The morphologic hallmarks of autoimmune pancreatitis (AIP) are periductal infiltration by lymphocytes and plasma cells and granulocytic epithelial lesions, with consequent destruction of the duct epithelium and venulitis.*
+
+---
+
+**52. What are the two distinct subtypes of autoimmune pancreatitis (AIP)?**
+
+- Type 1 (IgA-related) and Type 2 (IgM-related)
+- Type 1 (acinar-based) and Type 2 (ductal-based)
+- **Type 1 (IgG4-related, lymphoplasmacytic sclerosing pancreatitis) and Type 2 (granulocytic epithelial lesion, idiopathic duct-centric chronic pancreatitis)**
+- Type 1 (hereditary) and Type 2 (acquired)
+
+*Explanation: Based on etiology, serum markers, histology, and systemic involvement, AIP is classified into two distinct subtypes: type 1, related to immunoglobulin G4 (IgG4) (lymphoplasmacytic sclerosing pancreatitis), and type 2, related to a granulocytic epithelial lesion (idiopathic duct-centric chronic pancreatitis).*
+
+---
+
+**53. What immune cells are involved in the pathogenesis of AIP?**
+
+- NK cells and mast cells
+- Eosinophils and basophils
+- **CD4+ and CD8+ T cells (cellular) and humoral immune response**
+- Neutrophils and monocytes
+
+*Explanation: The pathogenesis of AIP involves both a cellular (CD4+ and CD8+ T cells) and a humoral immune-mediated attack on the ductal cells that results in cytokine-mediated inflammation.*
+
+---
+
+**54. What distinguishes Type 1 AIP from Type 2 AIP?**
+
+- Type 1 is more common in younger patients
+- Type 2 shows elevated serum IgG4 levels
+- **Type 1 is characteristically associated with increasing levels of serum IgG4, positive serum autoantibodies, abundant IgG4-positive plasmacytes, frequent extrapancreatic lesions, and clinical recurrence**
+- Type 2 has a higher rate of malignant transformation
+
+*Explanation: Unlike type 2 AIP, type 1 AIP is characteristically associated with increasing levels of serum IgG4 and positive serum autoantibodies, abundant infiltration of IgG4-positive plasmacytes, frequent extrapancreatic lesions, and clinical recurrence.*
+
+---
+
+**55. With which conditions is Type 1 AIP most frequently associated?**
+
+- Celiac disease and Crohn's disease
+- Hepatitis B and systemic lupus erythematosus
+- **Sjögren's syndrome, primary sclerosing cholangitis (PSC), and inflammatory bowel disease**
+- Rheumatoid arthritis and Graves' disease
+
+*Explanation: AIP, especially type 1, is often associated with other autoimmune diseases, such as Sjögren's syndrome, primary sclerosing cholangitis (PSC), and inflammatory bowel disease.*
+
+---
+
+**56. What is the clinical imaging appearance of autoimmune pancreatitis that may mimic pancreatic malignancy?**
+
+- Multifocal calcifications throughout the pancreas
+- Cystic dilation of the main pancreatic duct
+- **Diffuse enlargement of the pancreas with a sausage-like appearance**
+- Focal parenchymal necrosis with peripancreatic stranding
+
+*Explanation: AIP is clinically characterized by minimal abdominal pain and diffuse enlargement of the pancreas without calcifications or pseudocysts. Magnetic resonance imaging may show a sausage-like and edematous pancreas that may mimic pancreatic cancer.*
+
+---
+
+**57. Which organization was the first in the world to propose diagnostic criteria for autoimmune pancreatitis?**
+
+- The European Pancreatic Society
+- The American Gastroenterological Association
+- **The Japan Pancreas Society (in 2002)**
+- The International Association of Pancreatology
+
+*Explanation: In 2002 the Japan Pancreas Society was the first in the world to propose diagnostic criteria for AIP.*
+
+---
+
+**58. According to the Unifying-Autoimmune-Pancreatitis-Criteria, what is always required for diagnosis?**
+
+- Elevated IgG4 alone
+- Response to steroids alone
+- **A negative workup for pancreatic cancer (A) combined with at least one disease feature (B I, B II, or B III)**
+- Typical histologic features alone
+
+*Explanation: According to the Unifying-Autoimmune-Pancreatitis-Criteria, diagnosis requires A (negative workup for pancreatic cancer) in combination with B I (typical histologic features), B II (typical imaging findings AND elevated IgG4 or ANA), or B III (response to steroids).*
+
+---
+
+**59. What is the most common cause of pancreatic duct obstruction resulting in chronic pancreatitis?**
+
+- Pancreas divisum
+- Sphincter of Oddi dysfunction
+- **Scars of the pancreatic duct, tumors of the ampulla of Vater, mucinous duct ectasia, tumors of the head of the pancreas, and trauma**
+- Ampullary stenosis
+
+*Explanation: The most common causes of pancreatic duct obstruction resulting in chronic pancreatitis include scars of the pancreatic duct, tumors of the ampulla of Vater, mucinous duct ectasia, tumors of the head of the pancreas, and trauma.*
+
+---
+
+**60. What histopathologic characteristics are seen in chronic pancreatitis resulting from main pancreatic duct obstruction?**
+
+- Focal protein plugs with widespread calcifications
+- Periductal lymphocytic infiltration with IgG4-positive cells
+- **Uniform distribution of interlobular and intralobular fibrosis and marked destruction of exocrine parenchyma without significant protein plugs or calcifications**
+- Granulomatous inflammation with giant cells
+
+*Explanation: Histopathologic characteristics of human chronic pancreatitis as a result of obstruction include uniform distribution of interlobular and intralobular fibrosis and marked destruction of the exocrine parenchyma in the territory of obstruction, without significant protein plugs or calcifications.*
+
+---
+
+**61. The TIGAR-O system does not include which etiologic factor that is covered in M-ANNHEIM?**
+
+- Alcohol and tobacco
+- Hereditary factors
+- **Primary hypercalcemia, hyperlipidemia, or hyperthyroidism (miscellaneous)**
+- Obstructive factors
+
+*Explanation: The TIGAR-O system does not contain a letter for miscellaneous forms of chronic pancreatitis, such as primary hypercalcemia, hyperlipidemia, or hyperthyroidism. These etiologic factors are summarized under the second M of MANNHEIM.*
+
+---
+
+**62. Who originally proposed the necrosis-fibrosis hypothesis of chronic pancreatitis?**
+
+- Henri Sarles
+- Cavallini
+- Whitcomb
+- **Comfort and colleagues in 1946**
+
+*Explanation: Originally proposed by Comfort and colleagues in 1946, the necrosis-fibrosis hypothesis proposes that chronic pancreatitis results from recurrent acute pancreatitis, ultimately leading to necrosis and fibrosis.*
+
+---
+
+**63. According to modern studies, what percentage of acute pancreatitis cases can lead to the development of chronic pancreatitis?**
+
+- 5%
+- 10%
+- **Up to 24%**
+- 35%
+
+*Explanation: More modern studies have found that acute pancreatitis can lead to development of chronic pancreatitis in up to 24% of cases, and that recurrent acute pancreatitis is the strongest predictor of future chronic pancreatitis.*
+
+---
+
+**64. What is the strongest predictor of future chronic pancreatitis according to the necrosis-fibrosis hypothesis?**
+
+- Hereditary gene mutations
+- Smoking history
+- **Recurrent acute pancreatitis**
+- Hypercalcemia
+
+*Explanation: Recurrent acute pancreatitis is the strongest predictor of future chronic pancreatitis, supporting the necrosis-fibrosis hypothesis.*
+
+---
+
+**65. In the necrosis-fibrosis hypothesis, where does chronic pancreatitis originate?**
+
+- In the ductal lumen from protein plugs
+- In the periductular inflammatory cells
+- **From parenchymal and periductal fibrosis**
+- In the autoimmune-mediated ductal epithelial damage
+
+*Explanation: In the necrosis-fibrosis hypothesis, chronic pancreatitis is felt to originate from parenchymal and periductal fibrosis.*
+
+---
+
+**66. Who proposed the protein-plug (stone/ductal obstruction) hypothesis?**
+
+- Comfort and colleagues
+- Cavallini
+- **Henri Sarles**
+- Whitcomb
+
+*Explanation: Henri Sarles proposed alternate mechanisms for acute and chronic pancreatitis: acute pancreatitis results from parenchymal autodigestion and fibrosis, whereas chronic pancreatitis results from plugging of the pancreatic duct.*
+
+---
+
+**67. According to the protein-plug hypothesis, where does the origin of chronic pancreatitis lie?**
+
+- In the acinar cell
+- In the periductal fibroblast
+- **Within the lumen of the pancreatic ductules**
+- In the immune system
+
+*Explanation: These investigators proposed that the origin of chronic pancreatitis was within the lumen of the pancreatic ductules, in contrast to the origins of acute pancreatitis, which tend to be in the acinar cell.*
+
+---
+
+**68. What is lithostatin (pancreatic stone protein, PSP) and what is its role?**
+
+- An enzyme that activates trypsinogen in the ductules
+- A calcium-binding protein that promotes calcification
+- **A protein synthesized in the acinar cell that is an important factor in avoiding calcification within the ductules**
+- A bicarbonate transporter in ductal cells
+
+*Explanation: Plugs become rich in calcium and precipitate in the ductules because of deficiency of lithostatin ("lithostathine") or pancreatic stone protein (PSP); this protein is synthesized in the acinar cell and is an important factor in avoiding calcification within the ductules.*
+
+---
+
+**69. How does alcohol affect pancreatic juice composition?**
+
+- It makes juice less viscous and richer in bicarbonate
+- It increases lithostatin production and reduces protein content
+- **It makes juice more viscous, lower in bicarbonate, richer in protein/enzymes/calcium crystals, and deficient in PSP**
+- It has no effect on pancreatic juice composition
+
+*Explanation: Several studies have proved that alcohol decreases the formation and secretion of pancreatic juice, making it more viscous; lower in bicarbonate; richer in protein, enzymes, and calcium crystals; and deficient in PSP or lithostatin.*
+
+---
+
+**70. What is glycoprotein 2 (GP-2) and what role does it play in pancreatitis?**
+
+- A calcium-sensing receptor that promotes calcifications
+- A trypsin inhibitor in the ductules
+- **A major component of zymogen granule cell membranes believed to induce pancreatic plug formation**
+- A cytokine that activates pancreatic stellate cells
+
+*Explanation: Another protein believed to induce pancreatic plug formation is glycoprotein 2 (GP-2), a major component of the zymogen granule cell membranes.*
+
+---
+
+**71. What two-hit hypothesis was postulated to reconcile the necrosis-fibrosis and protein plug hypotheses?**
+
+- (1) Genetic predisposition and (2) environmental toxin exposure
+- (1) Autoimmune attack and (2) duct obstruction
+- **(1) Early formation of protein plugs and (2) postnecrotic fibrosis from acute pancreatitis resulting in ductal obstruction**
+- (1) Oxidative stress and (2) trypsinogen activation
+
+*Explanation: A two-hit hypothesis has been postulated as a means to reconcile the necrosis-fibrosis and protein plug hypotheses: (1) early formation of protein plugs and (2) postnecrotic fibrosis from acute pancreatitis resulting in ductal obstruction.*
+
+---
+
+**72. Who initially postulated the oxidative stress theory of chronic pancreatitis?**
+
+- Comfort and colleagues
+- Henri Sarles
+- Cavallini
+- **Braganza**
+
+*Explanation: Oxidative stress leading to the generation of free radicals and ultimately ending in parenchymal fibrosis was initially postulated by Braganza.*
+
+---
+
+**73. What triggers overactivity of hepatic mixed-function oxidases in the oxidative stress theory?**
+
+- Autoimmune activation of ductal cells
+- Trypsinogen premature activation in acinar cells
+- **High levels of dietary lipids or proteins as substrate for cytochrome P-450, or triggers like alcohol, cigarette smoke, or other xenobiotics**
+- Protein plug formation in pancreatic ductules
+
+*Explanation: This oxidase overactivity may be triggered by high levels of dietary lipids or proteins that act as a substrate for cytochrome P-450, or triggers like alcohol, cigarette smoke, or other xenobiotics that increase stimulation of cytochrome P-450.*
+
+---
+
+**74. In the oxidative stress theory, what is the central area of initial injury?**
+
+- The pancreatic duct epithelium
+- The pancreatic stellate cells
+- **The acinar cell**
+- The periductular fibroblasts
+
+*Explanation: As in the necrosis-fibrosis pathway, the acinar cell is the central area of initial injury in the oxidative stress theory, with "pancreastasis" leading to lysosomal fragility and exocytosis of pancreatic enzymes.*
+
+---
+
+**75. What metabolic pathway is disrupted to trigger pancreatitis in the oxidative stress theory?**
+
+- The urea cycle
+- The Krebs cycle
+- **The methionine-glutathione transulfuration pathway**
+- The hexose monophosphate shunt
+
+*Explanation: Pancreatitis is triggered through interference of the methionine-glutathione transulfuration pathway, resulting in depletion of glutathione, and diversion of free radicals into the pancreatic tissue.*
+
+---
+
+**76. What micronutrient supplementation has been suggested to decrease recurrent attacks and control baseline pain in chronic pancreatitis?**
+
+- Vitamin B12, iron, and zinc
+- Calcium and vitamin D
+- **Selenium, β-carotene, methionine, and other compounds**
+- Vitamin K and folate
+
+*Explanation: Micronutrient supplementation with selenium, β-carotene, methionine, and other compounds have been suggested as a method to buttress tissue methyl and thiol groups. There is some data that suggest this may decrease recurrent attacks and control baseline pain in patients with chronic pancreatitis.*
+
+---
+
+**77. Who proposed the toxic-metabolic hypothesis of chronic pancreatitis?**
+
+- Comfort and colleagues
+- Henri Sarles
+- **Bordalo and colleagues**
+- Braganza
+
+*Explanation: Bordalo and colleagues proposed the toxic-metabolic hypothesis of chronic pancreatitis.*
+
+---
+
+**78. How do alcohol and its toxic metabolites cause damage according to the toxic-metabolic hypothesis?**
+
+- By inducing autoimmune-mediated ductal destruction
+- By activating trypsinogen prematurely in acinar cells
+- **By causing accumulation of intracellular lipids and fatty acid ethyl esters that damage acinar cells, leading to fatty degeneration, apoptosis, and scarring**
+- By depleting pancreatic stone protein (PSP)
+
+*Explanation: Bordalo and colleagues described how alcohol and its toxic metabolites cause accumulation of intracellular lipids and fatty acid ethyl esters, which damage the acinar cell. The alterations of intracellular lipid metabolism then lead to fatty degeneration, apoptosis, and scarring of the pancreatic parenchyma.*
+
+---
+
+**79. Which cells in the pancreas are analogous to Ito cells in the liver in the toxic-metabolic theory of pancreatitis?**
+
+- Ductal epithelial cells
+- Acinar cells
+- **Pancreatic pericytes (fat cells)**
+- Kupffer cells
+
+*Explanation: Several studies have demonstrated that the toxic or metabolic insult to pancreatic pericytes plays an important role in the pathogenesis of pancreatic fibrosis similar to Ito cells in the liver.*
+
+---
+
+**80. Who proposed the primary duct hypothesis of chronic pancreatitis?**
+
+- Henri Sarles
+- Braganza
+- Whitcomb
+- **Cavallini from Italy**
+
+*Explanation: Cavallini from Italy proposed that chronic pancreatitis represents a primary autoimmune or inflammatory condition beginning in the pancreatic duct.*
+
+---
+
+**81. What is the primary pathogenic factor according to the primary duct hypothesis?**
+
+- Recurrent acute pancreatitis damaging acinar cells
+- Activation of trypsinogen with autodigestion
+- **An outflow obstruction likely resulting from duct inflammation, destruction, and fibrosis, caused by an immunologic attack to a specific genetic, structural, or acquired antigen of the periductular epithelium**
+- Oxidative stress-mediated damage to ductal epithelium
+
+*Explanation: The primary pathogenic factor leading to chronic pancreatitis is an outflow obstruction, likely the result of duct inflammation, destruction, and fibrosis, probably caused by an immunologic attack to a specific genetic, structural, or acquired antigen of the periductular epithelium.*
+
+---
+
+**82. To which disease is chronic pancreatitis compared in the primary duct hypothesis?**
+
+- Autoimmune hepatitis
+- Celiac disease
+- **Primary sclerosing cholangitis (PSC)**
+- Sjögren's syndrome
+
+*Explanation: It appears that chronic pancreatitis is an autoimmune or "duct-destroying" disease, analogous to PSC. This is supported by the radiologic and histologic similarity of chronic pancreatitis and PSC.*
+
+---
+
+**83. Who introduced the Sentinel Acute Pancreatitis Event (SAPE) hypothesis?**
+
+- Comfort and colleagues
+- Henri Sarles
+- Cavallini
+- **Whitcomb**
+
+*Explanation: Introduced by Whitcomb, the sentinel acute pancreatitis event (SAPE) hypothesis is fascinating because it incorporates much of the knowledge about the molecular and cellular mechanisms of chronic pancreatitis pathogenesis.*
+
+---
+
+**84. What is the purpose of the SAPE hypothesis?**
+
+- To explain only hereditary forms of pancreatitis
+- To describe the role of protein plugs in chronic pancreatitis
+- **To link previous hypotheses and provide a "final common pathway" for the many etiologies of pancreatitis**
+- To explain the role of NF-κB activation in acute pancreatitis only
+
+*Explanation: SAPE is an effort to link previous hypotheses and provide a "final common pathway" for the many etiologies of pancreatitis.*
+
+---
+
+**85. What is the end result of SAPE according to Whitcomb's hypothesis?**
+
+- Resolution of acute pancreatitis without progression
+- Autoimmune-mediated ductal destruction
+- Protein plug formation and ductal obstruction
+- **Fibrosis and calcification following immunologic activation and stellate cell propagation**
+
+*Explanation: Further activation of the immunologic system and the stellate cells propagates chronic pancreatitis, and the end result is fibrosis and calcification.*
+
+---
+
+**86. What is a key feature of the sustained intraacinar NF-κB activation theory that distinguishes it from other hypotheses?**
+
+- It requires trypsinogen activation as the first step
+- It requires a necrosis-fibrosis sequence
+- **It does not require trypsinogen activation, a necrosis-fibrosis sequence, acute-to-chronic progression, or SAPE**
+- It exclusively applies to autoimmune pancreatitis
+
+*Explanation: This novel paradigm does not require the activation of trypsinogen, a necrosis-fibrosis sequence, acute-to-chronic pancreatitis progression, or SAPE.*
+
+---
+
+**87. What does the sustained NF-κB activation theory propose drives chronic pancreatitis?**
+
+- Repeated sentinel acute pancreatitis events
+- Protein plug accumulation in ductules
+- **Persistence of a stimulus (any recognized etiologic factor) driving sustained intraacinar activation of inflammation pathways**
+- Trypsinogen gain-of-function mutations
+
+*Explanation: Persistence of the stimulus, which may be any of the recognized etiologic factors (e.g., alcohol, nicotine, hereditary, efferent duct effect) may drive the sustained intraacinar activation of the inflammation pathways in chronic pancreatitis.*
+
+---
+
+**88. According to the M-ANNHEIM clinical staging, what characterizes Stage 0 (asymptomatic) chronic pancreatitis?**
+
+- Isolated exocrine insufficiency without pain
+- Recurrent abdominal pain without pancreatic insufficiency
+- **Subclinical chronic pancreatitis, including periods without symptoms determined by chance (e.g., autopsy), or a single episode of acute pancreatitis**
+- Exocrine and endocrine insufficiency with severe complications
+
+*Explanation: Stage 0 represents subclinical chronic pancreatitis — a period without symptoms (determination by chance, e.g., autopsy), acute pancreatitis with a single episode (possible onset of chronic pancreatitis), or acute pancreatitis with severe complications.*
+
+---
+
+**89. In the M-ANNHEIM clinical staging, what characterizes Stage I of symptomatic chronic pancreatitis?**
+
+- Exocrine and endocrine insufficiency with pain
+- Partial pancreatic insufficiency with or without pain
+- **Chronic pancreatitis without pancreatic insufficiency, including recurrent acute pancreatitis or recurrent/chronic abdominal pain**
+- Painless burnout phase
+
+*Explanation: Stage I is characterized by abdominal pain without pancreatic insufficiency. This includes recurrent acute pancreatitis (no pain between episodes) or recurrent/chronic abdominal pain.*
+
+---
+
+**90. What does Stage IV of M-ANNHEIM staging correspond to?**
+
+- Pain with partial pancreatic insufficiency
+- Pain with complete pancreatic insufficiency
+- Pseudocysts and cholestasis
+- **Painless disease (burnout phase) with exocrine and endocrine insufficiency**
+
+*Explanation: Stage IV corresponds with the "burnout" stage, as abdominal pain subsides. It involves exocrine and endocrine insufficiency without pain.*
+
+---
+
+**91. How long may it take for permanent and complete dissolution of pain in chronic pancreatitis?**
+
+- 1–2 years
+- 3–5 years
+- 7–9 years
+- **At least 10 years**
+
+*Explanation: Although permanent and complete dissolution of pain can occur after a period of at least 10 years, this does not reliably occur or may be marked by intermittent/incomplete decrease in pain.*
+
+---
+
+**92. In what percentage of patients with alcohol-related chronic pancreatitis may abdominal pain be absent?**
+
+- 5%
+- **15%**
+- 25%
+- 35%
+
+*Explanation: Abdominal pain is the most common initial symptom, but it may be absent in as many as 15% of patients with alcohol-related chronic pancreatitis and in as many as 23% of patients with nonalcoholic chronic pancreatitis.*
+
+---
+
+**93. Where is abdominal pain usually located in chronic pancreatitis?**
+
+- In the right upper quadrant, radiating to the right shoulder
+- In the left lower quadrant, radiating to the flank
+- **In the epigastrium, radiating to the back**
+- In the periumbilical region, without radiation
+
+*Explanation: Abdominal pain is usually located in the epigastrium and radiates to the back.*
+
+---
+
+**94. What percentage of exocrine function must be lost before steatorrhea develops in chronic pancreatitis?**
+
+- 30%
+- 50%
+- 70%
+- **90%**
+
+*Explanation: Steatorrhea typically occurs later in the disease course because 90% of exocrine function must be lost before steatorrhea develops.*
+
+---
+
+**95. At what percentage of pancreatic function loss may symptoms of exocrine insufficiency (bloating, pain, change in bowel habits) begin?**
+
+- 10%–30%
+- 30%–50%
+- **60%–90%**
+- More than 95%
+
+*Explanation: Symptoms of exocrine insufficiency including bloating, abdominal pain, or a change in bowel habits may occur when 60% to 90% of pancreatic function is lost and can precede steatorrhea.*
+
+---
+
+**96. What are the two factors causing weight loss in chronic pancreatitis?**
+
+- Nausea from medications and malabsorption
+- Pain-induced anorexia and biliary obstruction
+- **Fear of eating due to pain (early) and malabsorption due to pancreatic insufficiency (later)**
+- Alcohol-induced gastritis and protein malnutrition
+
+*Explanation: Weight loss is caused by two factors: at first, patients fear eating because of the accompanying pain, whereas later in the disease process, weight loss results from malabsorption related to pancreatic insufficiency.*
+
+---
+
+**97. In younger patients (under age 20), what should be considered even in the absence of family history?**
+
+- Autoimmune pancreatitis type 2
+- Obstructive pancreatitis from divisum
+- Tropical pancreatitis
+- **Hereditary pancreatitis, with evaluation for PRSS1, CFTR, SPINK1, or other mutations**
+
+*Explanation: In younger patients, particularly pediatric populations and adults under the age of 20, hereditary pancreatitis should be considered even in the absence of family history, and evaluation for PRSS1, CFTR, SPINK1, or other mutations may be informative.*
+
+---
+
+**98. Which is described as the most accurate method of confirming chronic pancreatitis?**
+
+- CT scanning with contrast
+- Secretin-stimulated MRCP
+- EUS with fine-needle aspiration
+- **Histologic diagnosis with typical findings of fibrosis and atrophy of acinar tissue**
+
+*Explanation: Histologic diagnosis, with typical findings of fibrosis and atrophy of the acinar tissue, is the most accurate method of confirming chronic pancreatitis.*
+
+---
+
+**99. Why is histology rarely used as an initial tool for diagnosing chronic pancreatitis?**
+
+- It is too expensive and time-consuming
+- It requires specialized staining not widely available
+- **EUS-guided fine-needle aspiration does not give significant architectural detail, and surgical biopsy is needlessly invasive**
+- It cannot differentiate chronic pancreatitis from pancreatic cancer
+
+*Explanation: Because endoscopic ultrasound–guided fine-needle aspiration does not give significant architectural detail and surgical biopsy of the gland is needlessly invasive, histology is rarely used as an initial tool in diagnosing chronic pancreatitis.*
+
+---
+
+**100. What are the best imaging methods for establishing a diagnosis of chronic pancreatitis?**
+
+- Transabdominal ultrasound and plain abdominal X-ray
+- ERCP and transabdominal ultrasound
+- Plain CT and serum amylase testing
+- **EUS, MRI, and CT**
+
+*Explanation: In general, EUS, magnetic resonance imaging (MRI), and CT are the best imaging methods for establishing a diagnosis of chronic pancreatitis, whereas abdominal ultrasound is the least accurate imaging technique.*
+
+---
+
+**101. What is the current role of ERCP in the management of chronic pancreatitis?**
+
+- It remains the gold standard for diagnosis
+- It is the first-line imaging modality
+- It is used for staging severity of disease
+- **Its role is now predominantly reserved for therapeutic interventions**
+
+*Explanation: Endoscopic retrograde cholangiopancreatography (ERCP) was previously viewed as the standard for pancreatic duct imaging, but because of its invasiveness it has been largely replaced by EUS and MRCP. The role of ERCP is now predominantly reserved for therapeutic interventions in chronic pancreatitis.*
+
+---
+
+**102. What is the sensitivity range of transabdominal ultrasound for detecting chronic pancreatitis?**
+
+- 20%–40%
+- 40%–60%
+- **48%–96%**
+- 75%–95%
+
+*Explanation: The sensitivity of ultrasound to detect chronic pancreatitis is as low as 48%, but with advancing stages of chronic pancreatitis this can increase to 96%.*
+
+---
+
+**103. What is the specificity range of transabdominal ultrasound for chronic pancreatitis?**
+
+- 40%–60%
+- 60%–70%
+- **75%–90%**
+- 90%–100%
+
+*Explanation: The specificity of transabdominal ultrasound for chronic pancreatitis is described between 75% and 90%.*
+
+---
+
+**104. What are the diagnostic criteria for chronic pancreatitis by transabdominal ultrasound?**
+
+- Parenchymal calcifications, focal necrosis, and peripancreatic fluid
+- **Irregular contour (lobulation), pancreatic duct dilation and irregularity, loss of parenchymal echogenicity, cysts or cavities, and pancreatic calcifications**
+- Ductal dilation with mucin secretion, mass lesion, and biliary dilation
+- Periductular fibrosis, increased echogenicity, and protein plugs
+
+*Explanation: Diagnostic criteria for chronic pancreatitis by transabdominal ultrasound are: (1) irregular contour (lobulation), (2) pancreatic duct dilation and irregularity of the main pancreatic duct, (3) loss or reduction of pancreatic parenchyma echogenicity, (4) cysts or cavities, and (5) pancreatic calcifications.*
+
+---
+
+**105. According to international consensus guidelines published in 2018, what is the best initial imaging modality for evaluation of chronic pancreatitis?**
+
+- MRI/MRCP
+- Transabdominal ultrasound
+- EUS
+- **CT**
+
+*Explanation: International consensus guidelines for cross-sectional diagnosis in chronic pancreatitis published in 2018 recommended that CT is the best initial imaging modality for the evaluation of patients with suspected chronic pancreatitis, because it is widely available and can depict most changes in pancreatic morphology.*
+
+---
+
+**106. What are the CT findings of chronic pancreatitis?**
+
+- Periductal lymphocyte infiltration and biliary dilation
+- Acinar cell hyperplasia and neuroendocrine features
+- **Main pancreatic duct and secondary duct dilation, intraductal calcifications, gland atrophy, and cystic lesions**
+- Sausage-shaped pancreatic enlargement without calcifications
+
+*Explanation: The CT findings of chronic pancreatitis include main pancreatic duct and secondary duct dilation, intraductal calcifications, gland atrophy, and cystic lesions.*
+
+---
+
+**107. What is the sensitivity range of CT for the diagnosis of chronic pancreatitis?**
+
+- 30%–55%
+- **56%–95%**
+- 70%–85%
+- 90%–100%
+
+*Explanation: CT has been shown to have a sensitivity of 56% to 95% with a specificity of 85% to 100% for the diagnosis of chronic pancreatitis.*
+
+---
+
+**108. Which imaging features favor chronic pancreatitis over pancreatic cancer on CT?**
+
+- Pancreatic duct dilation with associated mass and vascular invasion
+- Atrophy of the pancreas with metastases
+- **Intraductal or parenchymal calcifications, lack of obstructing mass, irregular dilation of the pancreatic duct, and relatively limited atrophy**
+- Focal mass at the head of the pancreas with biliary dilation
+
+*Explanation: Features that favor chronic pancreatitis are intraductal or parenchymal calcifications, lack of obstructing mass, irregular dilation of the pancreatic duct, and relatively limited atrophy of the gland.*
+
+---
+
+**109. How does MRI/MRCP compare to CT and ultrasound for diagnosing chronic pancreatitis?**
+
+- It is less sensitive but more specific than CT
+- It has equivalent sensitivity to CT for early disease
+- It is equivalent to CT and superior to ultrasound only for ductal changes
+- **It is more sensitive than either CT or ultrasound, particularly for detecting early parenchymal and ductal changes**
+
+*Explanation: Use of MRI/MRCP is more sensitive for the diagnosis of chronic pancreatitis than either CT or ultrasound, and MRI/MRCP is particularly useful in detecting early parenchymal and ductal changes that are typically missed by CT and ultrasound.*
+
+---
+
+**110. When do international consensus guidelines recommend MRI/MRCP in chronic pancreatitis?**
+
+- As the first-line test in all patients
+- Only in patients with elevated IgG4 levels
+- When the patient cannot tolerate CT contrast
+- **In patients where no specific pathologic changes are seen on CT, but where the clinical suspicion of a diagnosis remains high**
+
+*Explanation: The international consensus guidelines recommend MRI/MRCP in patients where no specific pathologic changes are seen on CT, but where the clinical suspicion of a diagnosis remains high.*
+
+---
+
+**111. What does secretin-stimulated MRI/MRCP enable?**
+
+- Detection of gallstones and biliary obstruction
+- Measurement of serum lipase levels
+- Assessment of endocrine pancreatic reserve
+- **Dynamic characterization of the pancreatic duct and parenchyma, with more accurate detection of subtle duct changes**
+
+*Explanation: The use of secretin-stimulated MRI/MRCP provides a dynamic test to characterize the pancreatic duct and pancreatic parenchyma, and can more accurately detect subtle duct changes.*
+
+---
+
+**112. What is the expected change in pancreatic duct diameter after IV secretin administration (pancreatic duct compliance)?**
+
+- Decrease of more than 1 mm with recovery after 5 minutes
+- Increase of more than 2 mm with no recovery
+- No change in diameter
+- **Increase of more than 1 mm with recovery of its size after 10 minutes**
+
+*Explanation: Intravenous (IV) secretin should lead to an increase in the pancreatic duct diameter of more than 1 mm, with recovery of its size after 10 minutes ("pancreatic duct compliance").*
+
+---
+
+**113. In the Trikudanathan et al. study using sMRCP, what combination of findings provided the best balance of sensitivity and specificity to differentiate abnormal from normal pancreatic tissue?**
+
+- Four or more MRI/sMRCP features
+- Any single major MRI feature
+- **Two or more MRI/sMRCP features (sensitivity 65%, specificity 89%, accuracy 68%)**
+- Three or more ductal features only
+
+*Explanation: Using ROC curve analysis, the authors found that two or more MRI/sMRCP features provided the best balance of sensitivity (65%), specificity (89%), and accuracy (68%) to differentiate abnormal from normal pancreatic tissue.*
+
+---
+
+**114. What independent predictors of fibrosis were identified in the Trikudanathan et al. study?**
+
+- Pancreatic head mass, bile duct stricture, and elevated IgG4
+- **Main pancreatic duct irregularity, T1-weighted signal intensity ratio, and duodenal filling after secretin injection**
+- Cystic lesions, calcifications, and gland atrophy
+- Side branch dilation, exocrine insufficiency, and smoking history
+
+*Explanation: A linear regression analysis showed that main pancreatic duct irregularity, T1-weighted signal intensity ratio between pancreas and paraspinal muscle, and duodenal filling after secretin injection were significant independent predictors of fibrosis.*
+
+---
+
+**115. What is the primary disadvantage of MRCP compared to ERCP?**
+
+- MRCP cannot detect main pancreatic duct changes
+- MRCP requires IV contrast and is expensive
+- MRCP cannot detect calcifications
+- **Changes in side branches are not visualized with the same accuracy as in ERCP**
+
+*Explanation: The primary disadvantage of MRCP is that changes in side branches are not visualized with the same accuracy as in ERCP.*
+
+---
+
+**116. What is the sensitivity of endoscopic retrograde pancreatography (ERP) for diagnosing chronic pancreatitis?**
+
+- 40%–60%
+- 55%–75%
+- **68%–100%**
+- 85%–100%
+
+*Explanation: In large multicenter trials, the sensitivity of ERP was described to be 68% to 100%, with a specificity of 89% to 100%.*
+
+---
+
+**117. What is the rate of post-ERP pancreatitis in patients with chronic pancreatitis?**
+
+- Less than 1%
+- 1%–2%
+- **3%–10%**
+- 10%–20%
+
+*Explanation: It must be kept in mind that ERP is an invasive method with a low but important rate of post-ERP pancreatitis in 3% to 10% of patients.*
+
+---
+
+**118. What is the "chain of lakes" appearance seen on ERP?**
+
+- Multiple cystic lesions along the pancreatic tail
+- Side-branch dilation resembling a grape cluster
+- Calcifications distributed throughout the duct
+- **Intermittent points of obstruction in a dilated pancreatic duct, giving a segmented appearance**
+
+*Explanation: These findings may culminate in a "chain of lakes" appearance of the main pancreatic duct with intermittent points of obstruction in a dilated pancreatic duct.*
+
+---
+
+**119. What imaging technique is considered the most appropriate and sensitive for diagnosing parenchymal and ductal changes, particularly in early chronic pancreatitis?**
+
+- CT with contrast
+- Transabdominal ultrasound
+- MRI/MRCP
+- **Endoscopic ultrasonography (EUS)**
+
+*Explanation: EUS is considered to be the most appropriate and sensitive imaging technique to diagnose parenchymal and ductal changes, mainly during the early stage of the disease.*
+
+---
+
+**120. When is EUS indicated in the workup of chronic pancreatitis according to consensus guidelines?**
+
+- As the first-line investigation in all patients
+- Only when hereditary pancreatitis is suspected
+- When IgG4 levels are elevated
+- **When CT (and MRI) are negative in patients with clinical suspicion of chronic pancreatitis**
+
+*Explanation: Hence EUS is indicated when CT (and MRI) are negative in patients with clinical suspicion of chronic pancreatitis.*
+
+---
+
+**121. What is a key limitation of EUS in diagnosing chronic pancreatitis?**
+
+- It cannot detect ductal changes
+- It requires general anesthesia
+- It cannot detect calcifications
+- **It has high sensitivity but poor specificity, with many features not necessarily being pathologic (can occur with normal aging, smoking, obesity)**
+
+*Explanation: EUS has a high sensitivity but poor specificity for diagnosing chronic pancreatitis, and care must be taken before basing the diagnosis only on EUS criteria. Many EUS features of chronic pancreatitis are not necessarily pathologic and may occur as normal aging, smoking, obesity, as a normal variant.*
+
+---
+
+**122. Which classification refined the Milwaukee criteria for EUS-based diagnosis of chronic pancreatitis?**
+
+- Cambridge classification
+- TIGAR-O classification
+- M-ANNHEIM classification
+- **Rosemont classification**
+
+*Explanation: Wiersema and colleagues described diagnostic criteria of chronic pancreatitis detectable by EUS, and these Milwaukee criteria were further refined with the Rosemont classification.*
+
+---
+
+**123. What are the two parenchymal major A criteria in the Rosemont EUS classification?**
+
+- Cysts and stranding
+- Lobularity with honeycombing and ductal calculi
+- Dilated side branches and irregular duct contour
+- **Hyperechoic foci with shadowing and well-circumscribed lobularity**
+
+*Explanation: The two parenchymal major A criteria are hyperechoic foci with shadowing and well-circumscribed lobularity.*
+
+---
+
+**124. What is the only ductal major A criterion in the Rosemont EUS classification?**
+
+- Dilated main pancreatic duct (body ≥3.5 mm)
+- Irregular main pancreatic duct contour
+- Increased duct wall echogenicity
+- **Calculi in the main pancreatic duct**
+
+*Explanation: The only ductal major A criterion is calculi in the main pancreatic duct.*
+
+---
+
+**125. According to the Rosemont classification, when is the diagnosis of chronic pancreatitis considered consistent?**
+
+- When five or more minor criteria are present
+- When one major A feature is present with two minor features
+- When two major B features are present
+- **When one major A feature with ≥3 minor features, one major A with one major B, or two major A features are present**
+
+*Explanation: The diagnosis based on the Rosemont classification is consistent if one of the following is present: (1) one major A feature and three or more minor features, (2) one major A feature and one major B feature, and (3) two major A features.*
+
+---
+
+**126. What is a major disadvantage of EUS for diagnosing chronic pancreatitis?**
+
+- It cannot detect parenchymal changes
+- It has low sensitivity in advanced disease
+- It cannot distinguish chronic pancreatitis from pancreatic cancer
+- **There is often relatively poor interobserver agreement, even among expert endosonographers**
+
+*Explanation: It should be noted that there is often relatively poor interobserver agreement for EUS, even among expert endosonographers, which limits the diagnostic accuracy and overall utility of EUS for diagnosing chronic pancreatitis.*
+
+---
+
+**127. In a study comparing EUS to ERP in patients with chronic alcohol abuse and recurrent abdominal pain, what percentage of patients with normal ERP showed typical changes of chronic pancreatitis on EUS?**
+
+- 30%
+- 45%
+- 55%
+- **68.8%**
+
+*Explanation: After a median follow-up of 18 months, typical changes of chronic pancreatitis by repeat ERP were seen in 68.8% of patients who initially presented with normal ERP but who showed typical changes of chronic pancreatitis on EUS.*
+
+---
+
+**128. Why do function tests play only a relatively minor role in diagnosing chronic pancreatitis?**
+
+- They are too invasive and expensive
+- They are not included in any classification system
+- **Noninvasive tests show high sensitivity only in advanced stages, there is low clinical availability of direct tests, utility is limited to advanced disease, and specificity is low (70%)**
+- They cannot distinguish chronic pancreatitis from pancreatic cancer
+
+*Explanation: There are four main reasons: (1) noninvasive tests show high sensitivity only in advanced stages, (2) there is low clinical availability of most direct tests, (3) utility of function tests is limited to the diagnosis of more advanced disease, and (4) these tests have low specificity (70%).*
+
+---
+
+**129. When does clinical manifestation of exocrine pancreatic insufficiency typically occur?**
+
+- When 30% of the exocrine parenchyma is destroyed
+- When 50% of the exocrine parenchyma is destroyed
+- **When approximately 90% of the exocrine parenchyma has been destroyed**
+- When 60% of the exocrine parenchyma is destroyed
+
+*Explanation: The problem with chronic pancreatitis is that any clinical manifestation of exocrine pancreatic insufficiency occurs late in the course of disease, after approximately 90% of the exocrine parenchyma has been destroyed.*
+
+---
+
+**130. At what level of pancreatic function loss can pancreatic function tests diagnose chronic pancreatitis?**
+
+- 30%–40%
+- 40%–60%
+- **70%–80%**
+- 90%–95%
+
+*Explanation: The majority of these pancreatic function tests are only able to diagnose chronic pancreatitis when approximately 70% to 80% of the pancreatic function has been lost.*
+
+---
+
+**131. What is the most sensitive invasive test to detect exocrine insufficiency in chronic pancreatitis?**
+
+- Fecal elastase-1 (FE-1) measurement
+- Serum trypsinogen levels
+- **The secretin stimulation test (requiring duodenal intubation and aspiration)**
+- Fecal chymotrypsin measurement
+
+*Explanation: One of the most sensitive tests to detect exocrine insufficiency is invasive and requires duodenal intubation and aspiration of duodenal juice after pancreatic stimulation.*
+
+---
+
+**132. What is the reported sensitivity and specificity of the secretin stimulation test?**
+
+- 50%–65% and 60%–75%, respectively
+- 65%–80% and 70%–85%, respectively
+- **75%–95% and 75%–95%, respectively**
+- 80%–90% and 80%–90%, respectively
+
+*Explanation: The secretin stimulation test can be used for the detection of functional impairment in all stages of chronic pancreatitis and has a reported sensitivity and specificity between 75% and 95%.*
+
+---
+
+**133. What bicarbonate level in duodenal fluid is consistent with chronic pancreatitis on the secretin stimulation test?**
+
+- Less than 75 mEq/L
+- 50–75 mEq/L
+- **Less than 50 mEq/L**
+- Less than 30 mEq/L
+
+*Explanation: Bicarbonate levels less than 50 mEq/L are consistent with chronic pancreatitis; levels of 50 to 75 mEq/L are normal.*
+
+---
+
+**134. In which conditions may false-positive results occur with the secretin stimulation test?**
+
+- Hypothyroidism and renal failure
+- Liver cirrhosis and hypercalcemia
+- **Diabetes mellitus, Billroth II gastrectomy, celiac sprue, and cirrhosis**
+- Crohn's disease and autoimmune hepatitis
+
+*Explanation: False-positive results may be seen in the setting of diabetes mellitus, Billroth II gastrectomy, celiac sprue, and cirrhosis.*
+
+---
+
+**135. What does the secretin stimulation test measure?**
+
+- Serum lipase and amylase levels
+- Pancreatic duct diameter changes
+- Fecal fat content and stool weight
+- **The volume of secretion and the concentration of output of bicarbonate and pancreatic enzymes by 60-minute continuous duodenal fluid aspiration in response to IV secretin**
+
+*Explanation: The secretin stimulation test, with or without concomitant CCK-8 or cerulein administration, measures the volume of secretion and the concentration of output of bicarbonate and pancreatic enzymes (by 60-minute continuous duodenal fluid aspiration) in response to IV secretin.*
+
+---
+
+**136. Which indirect test of pancreatic function is considered to have the best accuracy among stool tests?**
+
+- Fecal fat quantification
+- Fecal chymotrypsin measurement
+- Serum trypsinogen level
+- **Fecal elastase-1 (FE-1) measurement**
+
+*Explanation: The best accuracy of all stool tests is obtained by measurement of FE-1.*
+
+---
+
+**137. What is the advantage of the FE-1 test in patients receiving oral pancreatic enzyme supplementation?**
+
+- FE-1 is not affected by food intake
+- FE-1 measures total lipase activity
+- FE-1 can be used to monitor treatment efficacy
+- **The commercial test measures only human elastase, so it is not affected by porcine-origin oral enzyme supplements**
+
+*Explanation: Along with high stability of pancreatic elastase during passage throughout the intestine, the commercial test measures only human elastase. This is an advantage in patients receiving therapeutic oral enzyme supplementation, because this lipase is of porcine origin.*
+
+---
+
+**138. What is the limitation of FE-1 measurement in early chronic pancreatitis?**
+
+- It cannot be measured in stool samples
+- It is affected by porcine enzyme supplementation
+- It is not specific for chronic pancreatitis
+- **Sensitivity and specificity are low in the early stages, with only mild to moderate exocrine insufficiency**
+
+*Explanation: Even if FE-1 measurement is superior to other stool tests, its diagnostic value should not be overrated; sensitivity and specificity are low in the early stages of chronic pancreatitis, with only mild to moderate exocrine insufficiency.*
+
+---
+
+**139. What are the most common etiologies of chronic pancreatitis in adults in Western societies?**
+
+- Autoimmune pancreatitis and hereditary mutations
+- Obstructive pancreatitis and tropical pancreatitis
+- **Long-term alcohol abuse and smoking**
+- Hypercalcemia and hypertriglyceridemia
+
+*Explanation: The most common etiologies of chronic pancreatitis in adults in Western societies are long-term alcohol abuse and smoking.*
+
+---
+
+**140. According to the summary, which hypothesis currently seems to explain the pathogenesis of chronic pancreatitis best?**
+
+- Oxidative stress theory alone
+- Protein plug hypothesis alone
+- Primary duct hypothesis
+- **The two-hit hypothesis: (1) underlying susceptibility with a first attack of acute pancreatitis from an insulting factor, and (2) an inflammatory immunologic process followed by pancreatic recovery or more hits promoting disease progression**
+
+*Explanation: Currently, the two-hit hypothesis seems to explain the process best: (1) a patient with underlying susceptibility has a first attack of acute pancreatitis from an insulting factor (alcohol, nicotine, gallstones), and an inflammatory immunologic process ensues, and (2) the pancreas recovers, or more hits occur, promoting disease progression.*
+
+---
+
+**141. What is the TIGAR-O "T" category in the classification of chronic pancreatitis etiologies?**
+
+- Tumors (neoplastic)
+- Tropical pancreatitis
+- **Toxic-metabolic (including alcohol, cigarette smoking, hypertriglyceridemia, hypercalcemia, medications, metabolic, and chronic renal failure)**
+- Trypsinogen mutations
+
+*Explanation: The "T" in TIGAR-O stands for Toxic-metabolic, which includes alcohol, cigarette smoking, hypertriglyceridemia, hypercalcemia (total calcium >12.0 mg/dL), medications, metabolic (diabetes mellitus or other), and chronic renal failure.*
+
+---
+
+**142. What is the "R" category in the TIGAR-O classification?**
+
+- Recurrent hereditary mutations
+- Rare forms of autoimmune pancreatitis
+- Renal failure-associated pancreatitis
+- **Recurrent/severe acute pancreatitis**
+
+*Explanation: The "R" in TIGAR-O stands for Recurrent/severe acute pancreatitis.*
+
+---
+
+**143. Which obstructive causes are included in the "O" category of TIGAR-O?**
+
+- Only sphincter of Oddi dysfunction and pancreas divisum
+- Only main duct stones and strictures
+- **Pancreas divisum, main pancreatic duct strictures, pancreatic duct scar, main duct pancreatic stones, widespread pancreatic calcifications, localized mass causing duct obstruction, and ampullary stenosis**
+- Only tumors causing external compression
+
+*Explanation: The "O" (Obstructive) category of TIGAR-O includes pancreas divisum, main pancreatic duct strictures, pancreatic duct scar, main duct pancreatic stones, widespread pancreatic calcifications, localized mass causing duct obstruction, and ampullary stenosis.*
+
+---
+
+**144. What is the Cambridge classification Stage described as "Mild"?**
+
+- Normal appearance of side branches and main pancreatic duct
+- Dilation or obstruction of less than three side branches; normal main pancreatic duct
+- **Dilation or obstruction of more than three side branches; normal main pancreatic duct**
+- Additional stenosis and dilation of main pancreatic duct
+
+*Explanation: According to the Cambridge Criteria, the Mild stage is defined as dilation or obstruction of more than three side branches with a normal main pancreatic duct.*
+
+---
+
+**145. What is the Cambridge classification Stage described as "Severe"?**
+
+- Dilation or obstruction of more than three side branches with normal main duct
+- Additional stenosis and dilation of main pancreatic duct only
+- **Additional obstructions, cysts, and stenosis of main pancreatic duct with calculi**
+- Dilation or obstruction of less than three side branches with main duct changes
+
+*Explanation: The Cambridge Criteria "Severe" stage includes additional obstructions, cysts, and stenosis of main pancreatic duct with calculi.*
+
+---
+
+**146. What are the five parenchymal features evaluated in EUS for chronic pancreatitis according to M-ANNHEIM criteria?**
+
+- Calcifications, cysts, ductal dilation, protein plugs, and lobularity
+- Gland size, ductal wall echogenicity, side branches, calcification, and irregularity
+- **Gland size, cysts, echo-poor lesions, echo-rich lesions (>3 mm), and accentuation of lobular patterns**
+- Fibrosis, atrophy, necrosis, pseudocysts, and ductal obstruction
+
+*Explanation: Parenchymal features in EUS criteria include: gland size, cysts, echo-poor lesions, echo-ich lesions (>3 mm), and accentuation of lobular patterns (e.g., echo-poor areas surrounded by hyperechoic strands).*
+
+---
+
+**147. What are the ductal features evaluated in EUS for chronic pancreatitis according to M-ANNHEIM criteria?**
+
+- Side branch morphology, main duct pressure, and bicarbonate secretion
+- Main duct diameter, bile duct changes, and ampullary stenosis
+- **Increased duct wall echogenicity, irregularity of main pancreatic duct, dilation of main pancreatic duct, dilated side branches, and calcification**
+- Protein plugs, stone burden, and ductal stricture length
+
+*Explanation: Ductal features in the EUS criteria include: increased duct wall echogenicity, irregularity of main pancreatic duct, dilation of the main pancreatic duct, dilated side branches, and calcification.*
+
+---
+
+**148. In the M-ANNHEIM staging, what characterizes Stage B (moderate) of chronic pancreatitis?**
+
+- No complications and normal pancreatic function
+- Marked impairment with steatorrhea and diabetes mellitus
+- **Increasing number and intensity of attacks, complications including pseudocysts, cholestasis, and segmental portal hypertension, and impairment of pancreatic function in several degrees**
+- Painless burnout with complete insufficiency
+
+*Explanation: Stage B (Moderate) is characterized by increasing number of attacks and increased intensity, complications (pseudocysts, cholestasis, segmental portal hypertension), progressive morphologic changes, and impairment of pancreatic function in several degrees, but rarely steatorrhea.*
+
+---
+
+**149. What diagnostics are recommended in Stage A (Early) chronic pancreatitis?**
+
+- Transabdominal ultrasound, fasting blood glucose, and oral glucose tolerance test
+- Transabdominal ultrasound, ERP/MRP, and fecal elastase-1
+- **EUS, ERP/MRP, CT, and secretin test**
+- CT, fasting blood glucose, and oral glucose tolerance test
+
+*Explanation: For Stage A (Early) chronic pancreatitis, the recommended diagnostics are EUS, ERP/MRP, CT, and secretin test.*
+
+---
+
+**150. What additional diagnostic parameter is specifically recommended in Stage C (Advanced) chronic pancreatitis?**
+
+- Secretin stimulation test
+- EUS and pancreatography
+- IgG4 levels and autoantibodies
+- **Fecal elastase-1 (FE-1) in addition to transabdominal ultrasound, ERP/MRP, CT, fasting blood glucose, and oral glucose tolerance test**
+
+*Explanation: For Stage C (Advanced) chronic pancreatitis, recommended diagnostics include transabdominal ultrasound, ERP/MRP, CT, FE-1, fasting blood glucose, and oral glucose tolerance test.*
+
+---
+
+**151. What is the "equivocal" finding according to the Cambridge Criteria for chronic pancreatitis?**
+
+- More than three side branches dilated with main duct changes
+- Normal main duct with calcifications
+- **Dilation or obstruction of less than three side branches; normal main pancreatic duct**
+- Mild changes in the main pancreatic duct only
+
+*Explanation: According to the Cambridge Criteria, the Equivocal stage is defined as dilation or obstruction of less than three side branches with a normal main pancreatic duct.*
+
+---
+
+**152. What is the "moderate" finding in the Cambridge Criteria for chronic pancreatitis?**
+
+- Obstructions, cysts, and stenosis of main duct with calculi
+- Normal main duct with more than three dilated side branches
+- **Additional stenosis and dilation of main pancreatic duct**
+- Dilation or obstruction of less than three side branches
+
+*Explanation: According to the Cambridge Criteria, the Moderate stage includes additional stenosis and dilation of the main pancreatic duct (in addition to more than three abnormal side branches).*
+
+---
+
+**153. What is the main advantage of EUS over other imaging modalities in diagnosing chronic pancreatitis?**
+
+- It is less expensive and widely available
+- It allows simultaneous therapeutic intervention
+- It can detect biliary complications more accurately
+- **It can visualize subtle alterations in pancreatic structure before they can be detected using other imaging modalities or pancreatic function tests, and can diagnose both early and advanced disease**
+
+*Explanation: EUS is a common diagnostic tool for evaluating chronic pancreatitis because of its ability to visualize subtle alterations in pancreatic structure before these can be detected using other imaging modalities or pancreatic function tests.*
+
+---
+
+**154. What is the key advantage of CT over other imaging methods in detecting calcifications?**
+
+- CT is the most specific method for calcification detection
+- CT is superior to MRI only in the noncontrast phase
+- **CT is the most sensitive method to detect calculi, and CT with contrast still allows for adequate detection of parenchymal calcifications**
+- CT can detect calcifications missed by all other imaging methods
+
+*Explanation: CT is the most sensitive method to detect calculi, and although it may be technically best evaluated during the noncontrast phase, CT with contrast still allows for adequate detection of parenchymal calcifications.*
+
+---
+
+**155. What is the sensitivity and specificity of endoscopic ultrasound (EUS) for chronic pancreatitis?**
+
+- 60%–80% sensitivity and 70%–85% specificity
+- 70%–85% sensitivity and 75%–90% specificity
+- **85%–100% sensitivity and 85%–100% specificity**
+- 50%–70% sensitivity and 80%–95% specificity
+
+*Explanation: According to Table 57.5 in the chapter, the sensitivity and specificity of endoscopic ultrasound for chronic pancreatitis are both in the range of 85%–100%.*
+
+---
+
+**156. What is the sensitivity and specificity of endoscopic retrograde pancreatography (ERP) for chronic pancreatitis?**
+
+- 50%–70% sensitivity and 75%–90% specificity
+- **68%–100% sensitivity and 89%–100% specificity**
+- 80%–90% sensitivity and 80%–90% specificity
+- 56%–95% sensitivity and 85%–100% specificity
+
+*Explanation: According to Table 57.5, the sensitivity and specificity of endoscopic retrograde pancreatography for chronic pancreatitis are 68%–100% and 89%–100%, respectively.*
+
+---
+
+**157. What is the major disadvantage of transabdominal ultrasound for evaluating the pancreas?**
+
+- It uses ionizing radiation
+- It requires IV contrast
+- It cannot detect calcifications
+- **Difficult examination due to overlying gas-filled bowel loops, obesity, and technical and operator-dependent factors**
+
+*Explanation: With respect to evaluation of the pancreas, a major disadvantage of ultrasound is the difficult examination based on poor visualization of the pancreas, mainly because of overlying gas-filled bowel loops, obesity, and technical and operator-dependent factors.*
+
+---
+
+**158. What does Figure 57.2 in the chapter illustrate about autoimmune pancreatitis on MRI?**
+
+- Multifocal calcifications and pseudocysts
+- Normal-appearing pancreas with ductal dilation
+- **A sausage-like and edematous pancreas that may mimic pancreatic cancer**
+- Focal mass in the pancreatic head with biliary obstruction
+
+*Explanation: According to Figure 57.2 in the chapter, MRI may show a sausage-like and edematous pancreas in autoimmune pancreatitis that may mimic pancreatic cancer.*
+
+---
+
+**159. What differentiates the histopathology of idiopathic chronic pancreatitis from other forms?**
+
+- Prominent protein plug formation with calcifications
+- Periductal IgG4-positive plasma cell infiltration
+- **T-lymphocyte infiltration, ductal obstruction, acinar atrophy, and fibrosis, raising the possibility of autoimmune etiology**
+- Granulomatous inflammation with giant cells
+
+*Explanation: Histologically, many cases of idiopathic chronic pancreatitis have T-lymphocyte infiltration, ductal obstruction, acinar atrophy, and fibrosis, raising the possibility of autoimmune etiology.*
+
+---
+
+**160. What is the role of cholecystokinin (CCK) in the protein plug hypothesis of chronic pancreatitis?**
+
+- CCK inhibits trypsinogen secretion
+- CCK promotes lithostatin production
+- **Alcohol mediates the release of CCK-releasing factor, which affects pancreatic juice formation and flow**
+- CCK activates pancreatic stellate cells
+
+*Explanation: Alcohol has also been shown to mediate the release of gastrointestinal hormones by increasing cholecystokinin (CCK)-releasing factor, which in turn affects pancreatic juice formation and flow.*
+
+---
+
+**161. What calcium ion channel gene has been associated with the development of chronic pancreatitis through dysregulated calcium homeostasis?**
+
+- CFTR
+- CASR
+- **TRPV6**
+- PRSS1
+
+*Explanation: Dysregulated calcium homeostasis has been associated with development of pancreatitis, and mutations in the calcium ion channel gene TRPV6 have been associated with development of chronic pancreatitis.*
+
+---
+
+**162. How did the Zurich group change the understanding of the natural history of alcohol-induced chronic pancreatitis?**
+
+- They showed that fibrosis precedes all acute attacks
+- They demonstrated that calcifications occur before pain
+- **They demonstrated that acute attacks preceded the development of chronic disease, challenging the prior belief that fibrosis and calcifications were present from the first attack**
+- They showed that protein plugs cause all acute attacks
+
+*Explanation: In the past it was believed that at the time of the initial attack, most patients with alcohol-induced chronic pancreatitis already had underlying fibrosis and calcifications, but the Zurich group has demonstrated that acute attacks preceded the development of chronic disease.*
+
+---
+
+**163. What is the "pancreatic duct compliance" concept in secretin-stimulated MRCP?**
+
+- The ability of the duct to maintain normal diameter under pressure
+- The tolerance of the duct to retrograde contrast injection
+- **The increase in pancreatic duct diameter by more than 1 mm after IV secretin, with recovery of its size after 10 minutes**
+- The resistance of the duct to stricture formation
+
+*Explanation: Specifically, intravenous (IV) secretin should lead to an increase in the pancreatic duct diameter of more than 1 mm, with recovery of its size after 10 minutes ("pancreatic duct compliance").*
+
+---
+
+**164. What is the role of pancreatic stellate cells in the pathogenesis of chronic pancreatitis?**
+
+- They produce trypsinogen that undergoes premature activation
+- They form the lymphocytic infiltrate around pancreatic ducts
+- **They can be activated by alcohol and acetaldehyde, transforming into scar-producing cells that deposit collagen**
+- They produce lithostatin to prevent calcification
+
+*Explanation: Fat cells (pericytes) exist in the human pancreas and can migrate into the periacinar spaces, and they are activated by alcohol and acetaldehyde, transforming into scar-producing cells. These cells have been shown to deposit collagen very early in the process of chronic pancreatitis.*
+
+---
+
+**165. What does "pancreastasis" refer to in the oxidative stress theory?**
+
+- Arrest of pancreatic blood flow
+- Cessation of pancreatic enzyme secretion
+- **The process of acinar cell injury where lysosomal fragility and exocytosis of pancreatic enzymes are triggered**
+- Stagnation of pancreatic juice in the ductules
+
+*Explanation: As in the necrosis-fibrosis pathway, the acinar cell is the central area of initial injury in the oxidative stress theory, with "pancreastasis" leading to lysosomal fragility and exocytosis of pancreatic enzymes.*
+
+---
+
+**166. What proportion of patients with AIP do not have other extrapancreatic autoimmune disorders?**
+
+- Less than one-tenth
+- One-fifth
+- One-quarter
+- **More than one-third**
+
+*Explanation: Nevertheless, more than one-third of patients with AIP do not have other extrapancreatic autoimmune disorders.*
+
+---
+
+**167. What are the laboratory findings that may be seen in autoimmune pancreatitis?**
+
+- Elevated serum lipase and amylase only
+- Decreased serum IgG and complement levels
+- Leukocytosis and elevated erythrocyte sedimentation rate
+- **Hypergammaglobulinemia and autoantibodies such as antinuclear and anti-smooth muscle antibodies**
+
+*Explanation: On laboratory examination, patients may have hypergammaglobulinemia and autoantibodies, such as antinuclear and anti–smooth muscle antibodies.*
+
+---
+
+**168. What is the histopathologic pattern seen in AIP that is similar to PSC?**
+
+- Granulomatous inflammation with giant cells
+- Acinar cell necrosis with fatty replacement
+- **Inflammatory infiltration of lymphocytes and plasma cells around the pancreatic duct, as well as fibrosis**
+- Protein plug formation with calcification in ductules
+
+*Explanation: Histopathologic examination of the pancreas reveals inflammatory infiltration of lymphocytes and plasma cells around the pancreatic duct, as well as fibrosis, in a pattern similar to PSC.*
+
+---
+
+**169. What is the "primary duct hypothesis" proposed mechanism through which immune attack occurs on ductal epithelium?**
+
+- Complement-mediated lysis of ductal cells
+- Neutrophil-driven oxidative injury to duct cells
+- **Two channels: aberrant expression of major histocompatibility antigens by ductal epithelium, and infiltration of activated lymphocytes producing a periductular cytotoxic response**
+- B-cell-mediated antibody deposition in duct walls
+
+*Explanation: Cavallini proposed that the immune-type mechanism may occur through two channels: one results from aberrant expression of major histocompatibility antigens by the ductal epithelium, and the other results from infiltration of activated lymphocytes that produce a periductular cytotoxic response.*
+
+---
+
+**170. According to the M-ANNHEIM diagnostic criteria, what defines "probable chronic pancreatitis"?**
+
+- Only a typical history of chronic pancreatitis with normal imaging
+- Only response to steroid therapy in suspected autoimmune cases
+- Genetic testing positive for CFTR or SPINK1 mutations
+- **One or more of: mild ductal alterations (per Cambridge classification), recurrent/persistent pseudocyst, exocrine insufficiency diagnosed by testing, or endocrine insufficiency**
+
+*Explanation: Probable chronic pancreatitis requires one or more of the following: mild ductal alterations (as per Cambridge classification), recurrent/persistent pseudocyst, exocrine insufficiency as diagnosed by testing (e.g., fecal elastase-1 test, secretin test), or endocrine insufficiency.*
+

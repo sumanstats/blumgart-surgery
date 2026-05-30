@@ -1,0 +1,2131 @@
+# 13 Cross-Sectional Imaging of Liver, Biliary, and Pancreatic Disease: Introduction and Basic Principles
+
+
+## Generated with Qwen. 
+
+
+1. Which imaging modalities can be used for cross-sectional imaging of the liver, biliary tree, and pancreas?
+
+- Ultrasound and CT only
+- CT and MRI only
+- Ultrasound, CT, and MRI only
+- **Ultrasound, CT, MRI, and PET**
+
+*Explanation: "Cross-sectional imaging of the liver, biliary tree, and pancreas can be performed with ultrasound, computed tomography (CT), or magnetic resonance imaging (MRI), with PET most often performed in combination with CT or MRI."*
+
+2. What is a key advantage of ultrasound as an imaging modality?
+
+- Superior spatial resolution compared to CT
+- **Real-time capability and portability**
+- Ability to penetrate bone and air
+- Operator-independent interpretation
+
+*Explanation: "Ultrasound as an imaging modality has tremendous versatility, is low-cost, and has real-time capability and portability."*
+
+3. Why are ultrasound waves limited in imaging certain structures?
+
+- They cannot penetrate soft tissue
+- **They are unable to penetrate bone or air**
+- They require ionizing radiation
+- They cannot assess blood flow
+
+*Explanation: "Ultrasound waves are unable to penetrate bone or air, which can obscure lesions and limit the field of view."*
+
+4. What factor primarily influences the quality and interpretation of ultrasound imaging?
+
+- Patient body mass index
+- **Operator skill and experience**
+- Type of contrast agent used
+- Time of day the study is performed
+
+*Explanation: "The quality of ultrasound imaging and its interpretation are also operator dependent, which means they are influenced by skill and experience."*
+
+5. Which transducer frequency is best suited for imaging deeper abdominopelvic structures?
+
+- Higher-frequency transducers
+- **Lower-frequency transducers**
+- Medium-frequency transducers only
+- Frequency does not affect penetration depth
+
+*Explanation: "Lower-frequency transducers have poorer resolution with greater depth of penetration and thus are used to image deeper structures such as abdominopelvic tissues."*
+
+6. What is a characteristic of higher-frequency ultrasound transducers?
+
+- Greater depth of penetration
+- Poorer spatial resolution
+- **Better spatial resolution but poorer tissue penetration**
+- Equal resolution and penetration as lower frequencies
+
+*Explanation: "Higher-frequency transducers have better spatial resolution, but higher-frequency sound attenuates rapidly and has poorer tissue penetration."*
+
+7. On gray scale ultrasound imaging, what does "anechoic" describe?
+
+- Light gray structures
+- Dark gray structures
+- **Uniformly black structures**
+- Structures with mixed echogenicity
+
+*Explanation: "Based on gray scale imaging, a structure on the image display can be characterized as anechoic (uniformly black), hypoechoic (dark gray), or hyperechoic (light gray)."*
+
+8. A liver mass that appears brighter than surrounding liver parenchyma on ultrasound is described as:
+
+- Anechoic
+- Hypoechoic
+- **Hyperechoic**
+- Isoechoic
+
+*Explanation: "Based on gray scale imaging, a structure on the image display can be characterized as anechoic (uniformly black), hypoechoic (dark gray), or hyperechoic (light gray)."*
+
+9. What acoustic artifact is characterized by increased through-transmission of sound waves in fluid-containing structures?
+
+- Acoustic shadowing
+- Comet tail artifact
+- Twinkle artifact
+- **Acoustic enhancement**
+
+*Explanation: "Acoustic enhancement is described when there is increased through-transmission of sound waves in fluid-containing structures, making tissue behind the fluid appear artificially bright, a characteristic of cystic structures."*
+
+10. Acoustic shadowing on ultrasound is most useful for identifying which of the following?
+
+- Liver cysts
+- **Gallstones**
+- Hepatic hemangiomas
+- Pancreatic pseudocysts
+
+*Explanation: "Acoustic shadowing is a feature of gallstones and, in conjunction with mobility, aids in distinction between gallstones and gallbladder polyps."*
+
+11. Which artifact is described as posterior echoes that are parallel, evenly spaced echogenic bands with a triangular tapered shape?
+
+- Acoustic enhancement
+- Acoustic shadowing
+- **Comet tail artifact**
+- Twinkle artifact
+
+*Explanation: "Comet tail artifact is a type of reverberation that occurs when two reflective interfaces are closely spaced, such as within a punctate crystal, producing posterior echoes that are parallel, evenly spaced echogenic bands with a triangular tapered shape."*
+
+12. Comet tail artifact is a characteristic feature of which condition?
+
+- Hepatic cysts
+- **Gallbladder adenomyomatosis**
+- Pancreatic adenocarcinoma
+- Portal vein thrombosis
+
+*Explanation: "Comet tail artifact allows for the identification of surgical clips and is also a feature of gallbladder adenomyomatosis."*
+
+13. What does twinkle artifact on color Doppler ultrasound help detect?
+
+- Blood flow direction
+- **Crystals and calcifications**
+- Liver parenchymal texture
+- Biliary duct dilation
+
+*Explanation: "Twinkle artifact is a color Doppler artifact that helps to detect and verify crystals and calcifications, particularly if a calculus does not demonstrate acoustic shadowing."*
+
+14. How does twinkle artifact appear on color Doppler imaging?
+
+- Uniform blue signal
+- Uniform red signal
+- **Turbulent color with mixed red and blue pixels**
+- Complete absence of color signal
+
+*Explanation: "Twinkle artifact occurs posterior to strong reflectors and appears as turbulent color Doppler flow with a mix of red and blue pixels; however, spectral Doppler tracing demonstrates noise."*
+
+15. What is the typical echogenicity of normal hepatic parenchyma compared to the spleen on ultrasound?
+
+- Hyperechoic
+- **Hypoechoic**
+- Anechoic
+- Isoechoic
+
+*Explanation: "Hepatic parenchyma is hypoechoic to the spleen and either isoechoic or minimally hyperechoic to renal parenchyma."*
+
+16. According to Treece et al., hepatomegaly is present in 75% of patients when the liver measures what size in the midhepatic line?
+
+- 13.5 cm or greater
+- 14.5 cm or greater
+- **15.5 cm or greater**
+- 16.5 cm or greater
+
+*Explanation: "Treece et al. found that when the liver measures 15.5 cm or greater in the midhepatic line, hepatomegaly is present in 75% of patients."*
+
+17. What is the normal mean liver length in the right midclavicular line?
+
+- 8 cm with SD of 1.0 cm
+- **10 cm with SD of 1.5 cm**
+- 12 cm with SD of 2.0 cm
+- 14 cm with SD of 2.5 cm
+
+*Explanation: "In the right midclavicular line, the normal mean length is 10 cm, with a standard deviation of 1.5 cm."*
+
+18. Why might liver appearance on ultrasound differ from standard CT and MRI planes?
+
+- Ultrasound uses ionizing radiation
+- **Images are obtained through available acoustic windows, avoiding bone and air**
+- Ultrasound cannot image the liver in transverse plane
+- Liver position changes during ultrasound examination
+
+*Explanation: "Ultrasound images are obtained through available acoustic windows, avoiding bone and air, which will vary the appearance of the liver compared with the standard transverse planes of CT and MRI."*
+
+19. What does Doppler ultrasound primarily assess in vessels?
+
+- Tissue echogenicity
+- **Blood flow based on backscatter of blood cells**
+- Organ size and volume
+- Presence of calcifications
+
+*Explanation: "Doppler ultrasound is used to identify and evaluate blood flow in vessels based on the backscatter of blood cells."*
+
+20. Which of the following is NOT assessed by Doppler imaging?
+
+- Vessel patency
+- Direction of blood flow
+- Flow velocity
+- **Tissue echogenicity patterns**
+
+*Explanation: "Doppler imaging allows for the assessment of vessel patency, direction of blood flow, flow velocity, and spectral waveforms."*
+
+21. What is a limitation of color Doppler imaging?
+
+- Inability to detect any blood flow
+- **Dependence on angle of insonation**
+- Cannot display spectral waveforms
+- Requires ionizing radiation
+
+*Explanation: "Limitations of color Doppler imaging include dependence on angle of insonation, inability to display the entire Doppler spectrum in the image, and artifacts caused by aliasing and noise."*
+
+22. Which Doppler technique displays total amplitude of the echo signal but not flow direction?
+
+- Color Doppler
+- **Power (amplitude) Doppler**
+- Spectral Doppler
+- Pulse-wave Doppler
+
+*Explanation: "Power (or amplitude) Doppler is a complementary technique that displays total amplitude of the echo signal but not flow direction."*
+
+23. Power Doppler is particularly useful for demonstrating which of the following?
+
+- High-velocity arterial flow
+- **Areas of low flow and slow flow in subtotal occlusion**
+- Calcified structures
+- Fluid-filled cysts
+
+*Explanation: "Power Doppler is most useful in showing areas of low flow, depicting slow flow in an area of subtotal occlusion and demonstrating intralesional vascular patterns."*
+
+24. In spectral Doppler, what does placing a sample volume cursor within a target vessel display?
+
+- Mean velocity only
+- **Waveform of the entire range of velocities during time**
+- Only arterial flow patterns
+- Tissue echogenicity measurements
+
+*Explanation: "In spectral Doppler, a sample volume cursor is placed within the target vessel and displays a waveform of the entire range of velocities during time, rather than the mean velocity as in a color Doppler image."*
+
+25. How are high-resistance arterial waveforms characterized on spectral Doppler?
+
+- Continuous flow during diastole
+- **Limited flow during diastole**
+- Absence of systolic flow
+- Reversed flow during systole
+
+*Explanation: "Arterial waveforms are characterized as high resistance by limited flow during diastole or low resistance by continuous flow during diastole."*
+
+26. What is a major advantage of CT over MRI for hepatopancreatobiliary imaging?
+
+- Superior tissue contrast
+- **Superior in-plane and z-axis (interslice) resolution**
+- No ionizing radiation exposure
+- Better functional imaging capability
+
+*Explanation: "Relative to MRI, CT remains superior at in-plane and z-axis (interslice) resolution."*
+
+27. Which innovation in the late 1980s greatly contributed to the speed of CT image acquisition?
+
+- Multi-detector CT
+- **Helical scanning**
+- Dual-energy CT
+- Iterative reconstruction algorithms
+
+*Explanation: "Key innovations such as helical scanning in the late 1980s and multi-detector (MD) CT beginning in the late 1990s, both contributing to the speed of CT image acquisition."*
+
+28. What benefit resulted from the reduction in CT scanning times to several seconds?
+
+- Increased radiation exposure
+- **Greatly decreased motion artifacts and allowed multiphasic evaluation**
+- Elimination of contrast agent need
+- Reduced image resolution
+
+*Explanation: "The reduction in scanning times (several seconds for the entire study) greatly decreased motion artifacts and allowed multiphasic evaluation (hepatic arterial, portal venous, and delayed phases) of the liver and pancreas."*
+
+29. What resolution can current CT scanners achieve in all planes?
+
+- 5 mm voxels
+- 2 mm voxels
+- 1 mm voxels
+- **Isotropic submillimeter voxels**
+
+*Explanation: "Current CT scanners can obtain images with resolution below 1 mm in all planes (i.e., isotropic submillimeter voxels), yielding smoother images when the data acquired in the axial plane are reformatted in the coronal, sagittal, and oblique planes."*
+
+30. What does maximum intensity projection (MIP) postprocessing depict?
+
+- Only the darkest structures within the data volume
+- **Only the brightest structures within the specified data volume**
+- Average signal intensity across all structures
+- Three-dimensional surface renderings only
+
+*Explanation: "Maximum intensity projection (MIP), where processed images depict only the brightest structures within the specified data volume."*
+
+31. Using portal venous phase source images, MIP images are particularly useful for depicting which anatomy?
+
+- Biliary ductal system
+- **Portal venous and hepatic venous anatomy**
+- Pancreatic ductal anatomy
+- Gastrointestinal tract lumen
+
+*Explanation: "Using portal venous phase source images, MIP images produce a more robust depiction of portal venous and hepatic venous anatomy."*
+
+32. What is a key advantage of volume-rendered reconstructions in CT imaging?
+
+- They reduce radiation dose
+- **They provide a lifelike three-dimensional model of complex anatomy that can be rotated**
+- They eliminate need for contrast agents
+- They improve tissue contrast resolution
+
+*Explanation: "Volume-rendered reconstructions provide a lifelike three-dimensional (3D) model of complex anatomy that can be rotated in any direction, transforming the numerous axial images into an interactive 3D model that may be more intuitive to the surgeon."*
+
+33. Despite MRI's advantages, why does CT remain the most frequently requested modality for liver and pancreas evaluation?
+
+- MRI is contraindicated in most patients
+- **Superior spatial resolution, ease of interpretation, greater availability, and lower cost of CT**
+- CT provides better functional imaging
+- MRI cannot use contrast agents
+
+*Explanation: "Although MRI offers superior tissue contrast and capability for functional imaging (and thus superior lesion characterization), the superior spatial resolution, ease of interpretation, greater availability, and lower cost of CT maintain it as the most frequently requested modality in evaluating the liver and pancreas."*
+
+34. What is a major drawback of CT imaging?
+
+- Inability to perform multiphasic studies
+- **Usage of ionizing radiation**
+- Poor spatial resolution
+- Cannot assess vascular anatomy
+
+*Explanation: "A major drawback remains usage of ionizing radiation, with a trend in past decades toward decreasing exposure of the patient population."*
+
+35. What is a potential limitation of lower-dose CT with new reconstruction algorithms?
+
+- Increased motion artifacts
+- **May reduce the conspicuity of liver metastases**
+- Cannot perform postprocessing
+- Requires longer scanning times
+
+*Explanation: "Lower-dose and new reconstruction algorithms are not without limitations because they may reduce the conspicuity of liver metastases."*
+
+36. What are two approaches used in dual-energy CT (DECT)?
+
+- Single source with constant beam energy or dual source with same energy
+- **Single source with rapid switching beam energies or two sources of differing energies**
+- Single source with variable kVp only or dual source with variable mA only
+- Single source with iterative reconstruction or dual source with filtered back projection
+
+*Explanation: "Dual-energy CT (DECT) is another recent development using either a single radiation source that alternates beam energies ('rapid switching' or rsDECT) or two radiation sources of differing energies ('dual source' or dsDECT) to produce CT images."*
+
+37. In liver imaging, what can "virtual iron images" from DECT be used for?
+
+- Fat quantitation independent of siderosis
+- **Quantitation of hepatic iron deposition without interference from coexisting steatosis**
+- Detection of gallstones
+- Assessment of biliary duct dilation
+
+*Explanation: "In the liver, 'virtual iron images' may be used for quantitation of hepatic iron deposition without interference from coexisting steatosis."*
+
+38. What is the purpose of "virtual non-iron images" in DECT liver imaging?
+
+- Iron quantitation independent of steatosis
+- **Fat quantitation independent of concomitant siderosis**
+- Detection of hypervascular tumors
+- Assessment of portal vein patency
+
+*Explanation: "Whereas 'virtual non-iron images' can be created for fat quantitation independent of concomitant siderosis."*
+
+39. In pancreatic imaging, how can lower kilovolt peak images from virtual monochromatic dsDECT be beneficial?
+
+- Reduce radiation dose significantly
+- **Improve conspicuity of hypovascular tumors, such as typical ductal adenocarcinoma**
+- Eliminate need for oral contrast
+- Improve biliary duct visualization
+
+*Explanation: "In the pancreas, lower kilovolt peak images from 'virtual monochromatic' dsDECT and lower kiloelectron volt images from virtual monochromatic rsDECT have been shown to improve conspicuity of hypovascular tumors, such as typical ductal adenocarcinoma."*
+
+40. What is a benefit of virtual higher-energy images in DECT?
+
+- Improved detection of small liver lesions
+- Better fat quantitation
+- **Less apparent metallic artifact around biliary stents and clips**
+- Enhanced portal venous phase imaging
+
+*Explanation: "Virtual higher-energy images have less apparent metallic artifact around biliary stents and clips."*
+
+41. Which CT phase is typically used for routine liver imaging to evaluate common hypovascular metastases?
+
+- Precontrast phase
+- Early arterial phase
+- **Portal venous phase**
+- Delayed phase only
+
+*Explanation: "Routine CT is usually performed only in the portal venous phase because common liver metastases, such as those from colon cancer, are commonly hypovascular relative to adjacent normal liver parenchyma."*
+
+42. Which type of liver neoplasms generally require a multiphasic CT protocol including precontrast, late arterial, and portal venous images?
+
+- Hypovascular metastases from colon cancer
+- **Hypervascular neoplasms such as hepatocellular adenomas and HCC**
+- Simple hepatic cysts
+- Hemangiomas only
+
+*Explanation: "On the other hand, hypervascular neoplasms such as hepatocellular adenomas and HCC and certain metastases, including neuroendocrine tumors, renal cell carcinoma, melanoma, and thyroid cancer, are generally evaluated using a multiphasic protocol that includes precontrast, late arterial phase, and portal venous images."*
+
+43. For evaluation of hepatocellular carcinoma (HCC), which additional CT phase is typically included?
+
+- Early arterial phase only
+- **Delayed phase images**
+- Noncontrast phase only
+- Venous equilibrium phase only
+
+*Explanation: "With the addition of delayed phase images for HCC."*
+
+44. What is the primary purpose of early arterial phase high-resolution CT images (CT angiography) in liver imaging?
+
+- Evaluate hepatic parenchymal texture
+- **Assess tumor involvement of arteries and evaluate variant celiac axis anatomy**
+- Detect small hypovascular metastases
+- Assess biliary ductal anatomy
+
+*Explanation: "Early arterial phase high-resolution images (CT angiography) are obtained to assess tumor involvement of arteries and evaluate variant celiac axis anatomy."*
+
+45. Why is identification of variant hepatic arterial anatomy crucial?
+
+- For routine liver size measurement
+- **For decisions regarding hepatic arterial embolization and placement of hepatic arterial chemoinfusion pumps**
+- For assessment of liver echogenicity
+- For evaluation of gallbladder pathology
+
+*Explanation: "Identification of variant anatomy is crucial to decisions regarding hepatic arterial embolization and placement of hepatic arterial chemoinfusion pumps."*
+
+46. What advancement has allowed CT angiography to largely supplant invasive direct catheter angiography for planning intraarterial chemoinfusion pumps?
+
+- Development of ultrasound guidance
+- **Gains in image resolution during the MDCT era**
+- Introduction of MRI contrast agents
+- Improved patient positioning techniques
+
+*Explanation: "Gains in image resolution during the MDCT era have allowed CT angiography to largely supplant invasive direct catheter angiography for planning placement of intraarterial chemoinfusion pumps."*
+
+47. In planning hepatic resection, what anatomic landmarks help localize tumors to specific hepatic segments?
+
+- Biliary ducts and gallbladder
+- **Portal and hepatic veins**
+- Gastrointestinal tract and mesentery
+- Diaphragm and abdominal wall
+
+*Explanation: "In planning for surgery and other locoregional therapy, portal and hepatic veins can be identified as anatomic landmarks to localize tumors to specific hepatic segments and to assess the proximity of lesions to the inflow and outflow vessels."*
+
+48. What information from CT imaging helps determine the extent of potential hepatic resection?
+
+- Liver echogenicity patterns
+- **Proximity of lesions to inflow and outflow vessels**
+- Presence of gallstones
+- Pancreatic duct diameter
+
+*Explanation: "This information determines the extent of potential hepatic resection required to achieve clear surgical margins."*
+
+49. When extensive hepatic resection is proposed, what can 3D volume rendering of CT images help identify?
+
+- Gallbladder wall thickness
+- **Segmental or lobar hepatic atrophy and compensatory hypertrophy**
+- Biliary stone burden
+- Pancreatic enzyme levels
+
+*Explanation: "If a proposed operation will be extensive, postprocessing of CT images with 3D volume rendering can also identify segmental or lobar hepatic atrophy and compensatory hypertrophy."*
+
+50. CT imaging of the pancreas relies primarily on what principle for tumor detection?
+
+- Differences in tissue echogenicity
+- **Differential intravenous contrast enhancement between tumor tissue and normal pancreatic parenchyma**
+- Presence of calcifications on noncontrast images
+- Pancreatic duct dilation patterns
+
+*Explanation: "CT imaging of the pancreas relies on the differential intravenous (IV) contrast enhancement between tumor tissue and normal pancreatic parenchyma."*
+
+51. Why is a dedicated CT power injector required for pancreatic CT imaging?
+
+- To reduce radiation dose
+- **For accurate diagnosis requiring precise timing of contrast injection and appropriate volume delivery**
+- To eliminate need for oral contrast
+- To improve spatial resolution
+
+*Explanation: "The use of IV contrast agent is mandatory for accurate diagnosis, and timing of the contrast injection and accurate delivery of the appropriate volume requires the use of a dedicated CT power injector."*
+
+52. What is the purpose of the precontrast scan in pancreatic CT protocol?
+
+- To assess liver parenchyma only
+- **To evaluate pancreatic calcifications and allow localization of the gland and pertinent arteries for subsequent contrast-enhanced phases**
+- To replace need for arterial phase imaging
+- To assess biliary ductal anatomy
+
+*Explanation: "The precontrast scan permits evaluation of pancreatic calcifications and allows for localization of the gland and pertinent arteries in the z-axis for subsequent acquisition of contrast-enhanced phases."*
+
+53. At what flow rate is IV contrast medium typically injected for pancreatic CT imaging?
+
+- 1 to 2 mL per second
+- 2 to 3 mL per second
+- **4 to 6 mL per second**
+- 8 to 10 mL per second
+
+*Explanation: "IV contrast medium is injected at a high flow rate of 4 to 6 mL per second."*
+
+54. When is the late arterial or pancreatic parenchymal phase typically acquired during pancreatic CT?
+
+- 10 to 20 seconds after initiating contrast injection
+- **30 to 40 seconds after initiating contrast injection**
+- 50 to 60 seconds after initiating contrast injection
+- 90 to 120 seconds after initiating contrast injection
+
+*Explanation: "The late arterial or pancreatic parenchymal phase, acquired roughly 30 to 40 seconds after initiating contrast injection, is designed to maximize differences in contrast enhancement between pancreatic neoplasms and adjacent normal pancreatic tissue."*
+
+55. The pancreatic parenchymal phase of CT is also useful for evaluating which of the following?
+
+- Hypervascular liver metastases in patients with pancreatic endocrine neoplasms
+- **Hypervascular liver metastases seen in patients with pancreatic endocrine neoplasms**
+- Biliary duct strictures
+- Gallbladder polyps
+
+*Explanation: "The late arterial or pancreatic parenchymal phase... is also useful in evaluating hypervascular liver metastases seen in patients with pancreatic endocrine neoplasms."*
+
+56. When is the portal venous phase typically acquired during pancreatic CT?
+
+- 30 to 40 seconds from start of IV contrast injection
+- 50 to 60 seconds from start of IV contrast injection
+- **70 to 90 seconds from start of IV contrast injection**
+- 120 to 150 seconds from start of IV contrast injection
+
+*Explanation: "The portal venous phase acquired approximately 70 to 90 seconds from the start of IV contrast injection provides the best evaluation of hepatic metastases from pancreatic ductal adenocarcinoma."*
+
+57. What does the portal venous phase of pancreatic CT provide the best evaluation of?
+
+- Pancreatic calcifications
+- **Hepatic metastases from pancreatic ductal adenocarcinoma**
+- Biliary ductal strictures
+- Gallbladder wall thickening
+
+*Explanation: "The portal venous phase acquired approximately 70 to 90 seconds from the start of IV contrast injection provides the best evaluation of hepatic metastases from pancreatic ductal adenocarcinoma."*
+
+58. What oral contrast agent is used in the dedicated pancreas CT protocol?
+
+- Barium sulfate
+- **Water as a negative contrast agent**
+- Iodinated oral contrast
+- Gas-producing agents
+
+*Explanation: "The dedicated pancreas protocol uses oral water as a negative contrast agent administered before the examination to aid distinction of enhanced vessels from the gastrointestinal tract and to facilitate identification of tumor invasion into the adjacent bowel."*
+
+59. What is the primary purpose of using oral water as negative contrast in pancreatic CT?
+
+- To enhance pancreatic parenchyma
+- **To aid distinction of enhanced vessels from the gastrointestinal tract**
+- To reduce radiation dose
+- To improve biliary duct visualization
+
+*Explanation: "The dedicated pancreas protocol uses oral water as a negative contrast agent administered before the examination to aid distinction of enhanced vessels from the gastrointestinal tract and to facilitate identification of tumor invasion into the adjacent bowel."*
+
+60. What type of imaging technique is MRI?
+
+- Single-plane imaging using ionizing radiation
+- **Cross-sectional multiplanar imaging using magnetic fields and radiofrequency pulses**
+- Real-time imaging using sound waves
+- Nuclear imaging using radioactive tracers
+
+*Explanation: "MRI is a cross-sectional multiplanar imaging technique. MRI uses magnetic fields and radiofrequency pulses to generate images with outstanding tissue contrast and excellent spatial resolution."*
+
+61. What generates the measurable signal in MRI?
+
+- X-ray beam attenuation
+- **Magnetic moment from hydrogen atoms after excitation by radiofrequency pulse**
+- Ultrasound wave reflection
+- Gamma ray emission
+
+*Explanation: "A measurable signal is generated from the magnetic moment after excitation by a radiofrequency (RF) pulse; signal is generated as the excited nuclei return to equilibrium, releasing energy in the form of an electromagnetic field that is captured by a receiver coil."*
+
+62. Which nuclei, besides hydrogen, may be imaged by MRI but are used mostly in research settings?
+
+- Oxygen, nitrogen, hydrogen
+- **Phosphorus (P31), sodium (Na23), and carbon (C13)**
+- Calcium, magnesium, potassium
+- Iron, copper, zinc
+
+*Explanation: "Other nuclei that may be imaged by MRI include phosphorus (P31), sodium (Na23), and carbon (C13), but these are used mostly in the research setting."*
+
+63. What factors determine the precise signal intensity of a tissue in MRI?
+
+- Only proton density
+- **Intrinsic T1, T2, proton density, flow, and the coil itself**
+- Only T1 and T2 relaxation times
+- Only the strength of the magnetic field
+
+*Explanation: "The precise tissue SI depends on several factors, including its intrinsic longitudinal relaxation (T1), transverse relaxation (T2), proton density (the number of nuclei present), flow, and the coil itself."*
+
+64. How are T1-weighted and T2-weighted images created in MRI?
+
+- By varying the strength of the magnetic field only
+- **By manipulating the RF pulse and various electromagnetic fields during imaging**
+- By changing the type of contrast agent used
+- By adjusting patient positioning
+
+*Explanation: "T1w and T2w images are created by manipulating the RF pulse and various electromagnetic fields during imaging."*
+
+65. What is the signal characteristic of free water on standard T1-weighted MRI?
+
+- Markedly high signal
+- **Low signal**
+- Intermediate signal
+- Variable signal depending on flow
+
+*Explanation: "For example, free water is low signal on standard T1w imaging and markedly high signal on T2w imaging."*
+
+66. What is the signal characteristic of free water on T2-weighted MRI?
+
+- Low signal
+- Intermediate signal
+- **Markedly high signal**
+- No signal
+
+*Explanation: "For example, free water is low signal on standard T1w imaging and markedly high signal on T2w imaging."*
+
+67. What is the purpose of heavily T2-weighted imaging sequences such as those used in MRCP?
+
+- To highlight fat-containing structures
+- **To highlight high water content structures like bile and pancreatic ducts while reducing signals of other organs**
+- To assess arterial blood flow
+- To detect calcifications
+
+*Explanation: "Thus so-called heavily T2w imaging sequences (e.g., used in magnetic resonance [MR] cholangiopancreatography) highlight high water content structures, such as bile and pancreatic ducts, while reducing the signals of other organs."*
+
+68. What does diffusion-weighted imaging (DWI) of the liver help detect?
+
+- Gallstones
+- **Hepatic metastases**
+- Biliary strictures
+- Pancreatic calcifications
+
+*Explanation: "DWI of the liver is thus used to help detect hepatic metastases and may also be used to assess changes in the liver parenchyma, such as liver fibrosis."*
+
+69. On T1-weighted MRI, how does normal hepatic parenchyma appear compared to the spleen?
+
+- Hypointense (darker)
+- **Hyperintense (brighter)**
+- Isointense
+- Variable depending on contrast
+
+*Explanation: "Normal hepatic parenchyma is brighter (hyperintense) than the spleen on T1w images, whereas on T2w images, the spleen is relatively brighter than the liver."*
+
+70. On T2-weighted MRI, how does the spleen appear compared to the liver?
+
+- Hypointense (darker)
+- **Relatively brighter than the liver**
+- Isointense
+- Completely anechoic
+
+*Explanation: "Normal hepatic parenchyma is brighter (hyperintense) than the spleen on T1w images, whereas on T2w images, the spleen is relatively brighter than the liver."*
+
+71. Which hepatic lesions generally have the highest T2 signal intensity?
+
+- Hepatocellular adenomas
+- **Cysts and hemangiomas**
+- Metastases from colon cancer
+- Focal nodular hyperplasia
+
+*Explanation: "Although most hepatic lesions are low in signal intensity on T1w images, they have more variable intensity on T2w images, with cysts and hemangiomas having the highest T2 signal intensity in general."*
+
+72. Into which two categories are MRI contrast agents for hepatobiliary imaging divided?
+
+- Ionic and nonionic agents
+- **Extracellular fluid (ECF) and hepatobiliary contrast agents**
+- Gadolinium-based and iodine-based agents
+- Oral and intravenous agents
+
+*Explanation: "MRI contrast agents for hepatobiliary imaging are divided into two categories: extracellular fluid (ECF) and hepatobiliary contrast agents."*
+
+73. How do extracellular fluid (ECF) MRI contrast agents behave after IV injection?
+
+- They are taken up by hepatocytes and excreted in bile
+- **They distribute within the intravascular compartment and rapidly diffuse through the extravascular space**
+- They remain confined to the vascular compartment only
+- They are excreted unchanged by the kidneys immediately
+
+*Explanation: "After IV injection, ECF agents, such as gadopentetate dimeglumine (gadolinium diethylenetriaminepentaacetic acid [Gd-DTPA]), distribute within the intravascular compartment and rapidly diffuse through the extravascular space, similar to the action of iodinated contrast agents in CT imaging."*
+
+74. What is a characteristic behavior of hepatobiliary-specific MRI contrast agents?
+
+- They remain only in the vascular compartment
+- **They are taken up by functioning hepatocellular tissue and excreted in bile over time**
+- They are excreted immediately by the kidneys
+- They cannot be used in patients with renal impairment
+
+*Explanation: "Hepatobiliary-specific contrast agents behave similar to traditional ECF contrast agents when first injected, but they are taken up to varying degrees by functioning hepatocellular tissue and are excreted in bile over time."*
+
+75. Which hepatobiliary contrast agent has become preferred due to its rapid uptake allowing hepatobiliary phase imaging at approximately 20 minutes?
+
+- Gadopentetate dimeglumine
+- Mangafodipir trisodium
+- Gadobenate dimeglumine
+- **Gadoxetic acid disodium (Gd-EOB-DTPA)**
+
+*Explanation: "Gd-EOB-DTPA has become the preferred hepatobiliary contrast agent given its rapid uptake by normal liver parenchyma that allows for hepatobiliary phase imaging at approximately 20 minutes after IV injection."*
+
+76. What is the basic principle of MR cholangiopancreatography (MRCP)?
+
+- Use T1-weighted imaging to highlight fat-containing structures
+- **Use T2-weighted imaging to highlight stationary or slowly moving fluid, including bile, as high signal intensity**
+- Use diffusion-weighted imaging to detect biliary strictures
+- Use contrast-enhanced imaging to visualize biliary ducts
+
+*Explanation: "The basic principle of MRCP is to use T2w imaging to highlight stationary or slowly moving fluid, including bile, as high in signal intensity; surrounding tissues, including retroperitoneal fat and the solid visceral organs, with shorter T2 values, are markedly reduced in signal."*
+
+77. What is a key advantage of MRCP over ERCP or percutaneous transhepatic cholangiography?
+
+- Higher spatial resolution
+- **Noninvasive imaging eliminating potential morbidity associated with invasive procedures**
+- Ability to perform therapeutic interventions
+- Lower cost
+
+*Explanation: "MRCP is a noninvasive imaging tool, eliminating the potential morbidity associated with ERCP or PTC."*
+
+78. In addition to heavily T2-weighted sequences, what other sequences are typically included in MRCP protocols?
+
+- Only T1-weighted sequences
+- **Routine T1w, T2w, and DWI sequences obtained during a liver MRI**
+- Only contrast-enhanced sequences
+- Only arterial phase sequences
+
+*Explanation: "In addition to heavily T2-weighted sequences, MRCP protocols also include routine T1w, T2w, and DWI sequences obtained during a liver MRI."*
+
+79. Why is MRI considered an attractive alternative to CT imaging regarding radiation?
+
+- MRI uses lower doses of ionizing radiation
+- **MRI lacks ionizing radiation entirely**
+- MRI radiation is non-ionizing and harmless
+- MRI radiation exposure is brief and negligible
+
+*Explanation: "MRI is an attractive alternative to CT imaging because of the lack of ionizing radiation and the higher safety profile of MR gadolinium contrast agents."*
+
+80. Unlike iodinated CT contrast, what is true about MRI gadolinium-based contrast agents (GBCAs) regarding renal function?
+
+- They commonly cause contrast-induced nephropathy
+- **They have no association with contrast-induced nephropathy**
+- They are contraindicated in all patients with renal impairment
+- They require dose adjustment based on creatinine clearance
+
+*Explanation: "Unlike iodinated contrast used for CT imaging, MRI gadolinium-based contrast agents (GBCAs) have no association with contrast-induced nephropathy, and contrast-enhanced (CE) MRI is an alternative for patients with moderate to severe renal failure."*
+
+## Old block
+
+
+1. **Which of the following imaging modalities is considered safe at clinical levels with no confirmed harmful biological effects?**  
+    A. Computed tomography  
+    B. Positron emission tomography  
+    C. Magnetic resonance imaging  
+    **D. Ultrasound**  
+    *Correct: D. Ultrasound is considered safe at diagnostic levels with no confirmed harmful biological effects on patients or operators, as stated in the introduction of the chapter.*
+
+2. **What is a major limitation of ultrasound imaging in abdominal evaluation?**  
+    A. High cost and limited availability  
+    B. Use of ionizing radiation  
+    **C. Inability of sound waves to penetrate bone or air**  
+    D. Poor soft tissue contrast compared to MRI  
+    *Correct: C. Ultrasound waves cannot penetrate bone or air, which limits visualization of underlying structures, especially in obese patients or those with bowel gas.*
+
+3. **Which type of ultrasound transducer provides better spatial resolution but poorer tissue penetration?**  
+    A. Low-frequency transducer  
+    **B. High-frequency transducer**  
+    C. Endocavitary transducer  
+    D. Curvilinear transducer  
+    *Correct: B. Higher-frequency transducers offer better spatial resolution but attenuate rapidly, limiting depth of penetration—ideal for superficial tissues like the thyroid.*
+
+4. **What term describes a structure that appears uniformly black on ultrasound due to lack of internal echoes?**  
+    A. Hyperechoic  
+    B. Hypoechoic  
+    **C. Anechoic**  
+    D. Isoechoic  
+    *Correct: C. Anechoic structures (e.g., fluid-filled cysts) appear uniformly black because they do not reflect ultrasound waves.*
+
+5. **Acoustic enhancement is typically seen posterior to which type of structure?**  
+    A. Calcifications  
+    B. Dense tumors  
+    **C. Fluid-filled cysts**  
+    D. Fibrotic tissue  
+    *Correct: C. Acoustic enhancement occurs when sound waves pass easily through fluid, increasing transmission and making tissues behind appear brighter—characteristic of cysts.*
+
+6. **Which artifact is characterized by a dark shadow beyond a structure that strongly attenuates ultrasound waves?**  
+    **A. Acoustic shadowing**  
+    B. Comet tail artifact  
+    C. Twinkle artifact  
+    D. Reverberation artifact  
+    *Correct: A. Acoustic shadowing appears as a dark zone distal to strong reflectors or attenuators like gallstones or calcifications.*
+
+7. **What feature helps differentiate gallstones from gallbladder polyps on ultrasound?**  
+    A. Echogenicity  
+    **B. Mobility and acoustic shadowing**  
+    C. Vascularity on Doppler  
+    D. Size  
+    *Correct: B. Gallstones are typically mobile and cause acoustic shadowing; polyps are fixed and do not shadow, aiding differentiation.*
+
+8. **Which Doppler technique is most sensitive for detecting slow blood flow and less dependent on the angle of insonation?**  
+    A. Color Doppler  
+    **B. Power Doppler**  
+    C. Spectral Doppler  
+    D. Pulsed-wave Doppler  
+    *Correct: B. Power Doppler is more sensitive than color Doppler for low-velocity flow and is less angle-dependent, though it does not show flow direction.*
+
+9. **In spectral Doppler imaging, what does the waveform represent?**  
+    A. Mean velocity only  
+    B. Direction of flow  
+    **C. Entire range of velocities over time**  
+    D. Total amplitude of the echo signal  
+    *Correct: C. Spectral Doppler displays a time-velocity waveform showing the full spectrum of red blood cell velocities within the sample volume.*
+
+10. **Which imaging modality provides superior in-plane and z-axis resolution compared to MRI?**  
+    **A. Computed tomography (CT)**  
+    B. Ultrasound  
+    C. PET-MRI  
+    D. MRI  
+    *Correct: A. CT has better spatial resolution in both in-plane and interslice (z-axis) directions than MRI, making it excellent for detailed anatomical imaging.*
+
+11. **What technological advancement in the late 1980s significantly reduced CT scan times and enabled multiphasic imaging?**  
+    A. Dual-energy CT  
+    B. Iterative reconstruction  
+    **C. Helical scanning**  
+    D. Multi-detector CT  
+    *Correct: C. Helical (spiral) scanning allowed continuous data acquisition during table movement, reducing motion artifacts and enabling faster, multiphasic studies.*
+
+12. **Which phase of CT imaging is most commonly used for routine evaluation of liver metastases from colorectal cancer?**  
+    A. Noncontrast phase  
+    B. Early arterial phase  
+    **C. Portal venous phase**  
+    D. Delayed phase  
+    *Correct: C. Most liver metastases are hypovascular and best seen as hypodense lesions during the portal venous phase when normal liver parenchyma enhances maximally.*
+
+13. **What is the primary advantage of maximum intensity projection (MIP) in CT imaging?**  
+    A. Reduces radiation dose  
+    **B. Highlights brightest structures like vessels and enhancing tumors**  
+    C. Provides functional perfusion data  
+    D. Eliminates motion artifacts  
+    *Correct: B. MIP processing selects the highest attenuation pixels within a volume, enhancing visualization of contrast-filled vessels and hyperdense lesions.*
+
+14. **Which post-processing technique creates a lifelike 3D model of vascular anatomy that can be rotated interactively?**  
+    A. Multiplanar reformation (MPR)  
+    B. Minimum intensity projection (MinIP)  
+    **C. Volume-rendered reconstruction**  
+    D. Curved planar reformation  
+    *Correct: C. Volume rendering generates realistic 3D models from isotropic CT data, useful for surgical planning and visualizing complex vascular relationships.*
+
+15. **Which of the following remains a major drawback of CT imaging?**  
+    A. Poor spatial resolution  
+    B. High cost  
+    **C. Use of ionizing radiation**  
+    D. Long acquisition time  
+    *Correct: C. Despite advances in dose reduction, CT uses ionizing radiation, which carries a cumulative risk, especially in repeated exams.*
+
+16. **Which reconstruction algorithm is used to reduce image noise in low-dose CT scans?**  
+    A. Fourier transform  
+    **B. Adaptive statistical iterative reconstruction (ASIR)**  
+    C. Backprojection  
+    D. Gradient echo  
+    *Correct: B. ASIR and model-based iterative reconstruction help reduce noise in low-dose CT, improving image quality despite lower radiation exposure.*
+
+17. **Dual-energy CT (DECT) allows for which of the following applications in liver imaging?**  
+    A. Real-time blood flow assessment  
+    **B. Virtual non-iron and virtual iron imaging**  
+    C. Functional diffusion mapping  
+    D. MR spectroscopy-like analysis  
+    *Correct: B. DECT enables material decomposition, allowing separate visualization of iron and fat—useful for quantifying hepatic iron without interference from steatosis.*
+
+18. **Which virtual monochromatic energy level improves conspicuity of hypovascular pancreatic adenocarcinoma?**  
+    A. High keV (e.g., 140 keV)  
+    **B. Low keV (e.g., 40–70 keV)**  
+    C. 120 keV equivalent  
+    D. 80 keV only in dual-source systems  
+    *Correct: B. Lower-energy virtual monochromatic images increase iodine contrast, improving detection of hypovascular pancreatic tumors.*
+
+19. **For optimal detection of hypervascular liver tumors like hepatocellular carcinoma (HCC), which CT protocol phase is essential?**  
+    A. Noncontrast  
+    **B. Late arterial phase**  
+    C. Portal venous phase  
+    D. Delayed phase only  
+    *Correct: B. Hypervascular tumors such as HCC enhance early in the late arterial phase, making this phase critical for detection and characterization.*
+
+20. **Which CT phase is used to assess tumor involvement of hepatic arteries and variant celiac anatomy?**  
+    **A. Early arterial (CT angiography) phase**  
+    B. Portal venous phase  
+    C. Delayed phase  
+    D. Pancreatic parenchymal phase  
+    *Correct: A. The early arterial phase (CT angiography) is optimized for visualizing arterial anatomy and tumor vascularity, crucial for surgical or embolization planning.*
+
+21. **What is the normal mean liver length in the right midclavicular line on ultrasound?**  
+    A. 12 cm  
+    B. 13 cm  
+    **C. 10 cm**  
+    D. 15 cm  
+    *Correct: C. The normal mean liver length is 10 cm in the right midclavicular line, with a standard deviation of 1.5 cm, as cited from Niederau et al.*
+
+22. **Which finding on ultrasound suggests hepatomegaly with 75% probability?**  
+    A. Liver length >13 cm  
+    **B. Liver length ≥15.5 cm in the midhepatic line**  
+    C. Irregular liver contour  
+    D. Increased echogenicity  
+    *Correct: B. Treece et al. found that a liver measuring ≥15.5 cm in the midhepatic line correlates with hepatomegaly in 75% of patients.*
+
+23. **On ultrasound, how does normal liver echogenicity compare to the spleen?**  
+    A. Hyperechoic  
+    **B. Hypoechoic**  
+    C. Isoechoic  
+    D. Markedly hyperechoic  
+    *Correct: B. The normal liver is hypoechoic (darker) compared to the spleen, which is relatively more echogenic.*
+
+24. **Which MRI sequence is used to highlight stationary fluid in the bile and pancreatic ducts?**  
+    A. T1-weighted imaging  
+    B. Diffusion-weighted imaging  
+    **C. Heavily T2-weighted imaging**  
+    D. Gradient echo imaging  
+    *Correct: C. MRCP uses heavily T2-weighted sequences to make fluid-filled ducts appear bright while suppressing surrounding tissues.*
+
+25. **Which contrast agent is taken up by functioning hepatocytes and excreted in bile?**  
+    A. Gadopentetate dimeglumine  
+    **B. Gadoxetic acid (Gd-EOB-DTPA)**  
+    C. Iodinated contrast  
+    D. Barium sulfate  
+    *Correct: B. Gadoxetic acid is a hepatobiliary-specific contrast agent taken up by hepatocytes and excreted into bile, allowing delayed hepatobiliary phase imaging.*
+
+26. **At approximately what time post-injection is the hepatobiliary phase acquired with Gd-EOB-DTPA?**  
+    A. Immediately  
+    B. 5 minutes  
+    **C. 20 minutes**  
+    D. 60 minutes  
+    *Correct: C. The hepatobiliary phase with Gd-EOB-DTPA is typically imaged around 20 minutes after IV injection, when normal liver parenchyma shows strong enhancement.*
+
+27. **Which MRI contrast agent category behaves similarly to iodinated CT contrast after injection?**  
+    **A. Extracellular fluid (ECF) agents**  
+    B. Hepatobiliary agents  
+    C. Reticuloendothelial agents  
+    D. Blood pool agents  
+    *Correct: A. ECF agents like Gd-DTPA diffuse into the extravascular space like iodinated CT contrast, providing vascular and interstitial enhancement.*
+
+28. **On T1-weighted MRI, how does normal liver parenchyma appear relative to the spleen?**  
+    **A. Hyperintense (brighter)**  
+    B. Hypointense (darker)  
+    C. Isointense  
+    D. Variable  
+    *Correct: A. Normal liver is brighter than the spleen on T1-weighted images, whereas the spleen is brighter on T2-weighted images.*
+
+29. **On T2-weighted MRI, which liver lesion typically shows the highest signal intensity?**  
+    A. Hepatocellular carcinoma  
+    **B. Hemangioma**  
+    C. Metastasis  
+    D. Abscess  
+    *Correct: B. Hemangiomas and cysts exhibit very high T2 signal intensity, often described as “lightbulb bright,” aiding their diagnosis.*
+
+30. **Which MRI sequence helps detect small liver metastases by showing restricted diffusion?**  
+    A. T1-weighted imaging  
+    B. T2-weighted imaging  
+    **C. Diffusion-weighted imaging (DWI)**  
+    D. In-phase imaging  
+    *Correct: C. DWI highlights areas of restricted water diffusion, commonly seen in hypercellular tumors like metastases, improving detection sensitivity.*
+
+31. **What is the primary clinical role of MR cholangiopancreatography (MRCP)?**  
+    A. Assess liver perfusion  
+    **B. Evaluate biliary and pancreatic duct anatomy noninvasively**  
+    C. Quantify liver iron content  
+    D. Stage hepatic fibrosis  
+    *Correct: B. MRCP provides a noninvasive alternative to ERCP/PTC for visualizing ductal anatomy in both benign and malignant biliary diseases.*
+
+32. **Which of the following is a key advantage of MRCP over ERCP?**  
+    A. Allows therapeutic interventions  
+    **B. Noninvasive with no procedural morbidity**  
+    C. Higher spatial resolution  
+    D. Better for detecting small stones  
+    *Correct: B. MRCP avoids risks associated with endoscopy and contrast injection, making it safer for diagnostic evaluation of ducts.*
+
+33. **Which artifact appears as posterior echogenic bands with a triangular tapered shape and is seen in gallbladder adenomyomatosis?**  
+    A. Acoustic shadowing  
+    **B. Comet tail artifact**  
+    C. Twinkle artifact  
+    D. Edge artifact  
+    *Correct: B. Comet tail artifact results from reverberation between closely spaced reflectors (e.g., cholesterol crystals in adenomyomatosis) and appears as parallel, bright posterior bands.*
+
+34. **Twinkle artifact on color Doppler is useful for detecting what?**  
+    A. Blood flow in small vessels  
+    **B. Calcifications or crystals even without acoustic shadowing**  
+    C. Fat infiltration  
+    D. Fibrosis  
+    *Correct: B. Twinkle artifact—a color Doppler noise posterior to strong reflectors—helps confirm calcifications (e.g., small gallstones) when shadowing is absent.*
+
+35. **Which phase in pancreatic CT imaging is acquired ~30–40 seconds after contrast injection?**  
+    A. Portal venous phase  
+    **B. Late arterial/pancreatic parenchymal phase**  
+    C. Delayed phase  
+    D. Noncontrast phase  
+    *Correct: B. This phase maximizes contrast between hypovascular tumors and normally enhancing pancreatic parenchyma, critical for detecting adenocarcinoma.*
+
+36. **Why is oral water used in dedicated pancreas CT protocols?**  
+    A. To enhance pancreatic secretion  
+    **B. To distinguish enhanced vessels from bowel**  
+    C. To reduce radiation dose  
+    D. To improve patient hydration  
+    *Correct: B. Oral water acts as a negative contrast agent, helping differentiate retroperitoneal vessels from adjacent bowel loops on contrast-enhanced images.*
+
+37. **Which nuclei are primarily imaged in clinical MRI?**  
+    A. Phosphorus-31  
+    B. Sodium-23  
+    **C. Hydrogen-1 (protons)**  
+    D. Carbon-13  
+    *Correct: C. Hydrogen atoms (protons) in water and fat provide the primary signal in clinical MRI due to their abundance in the body.*
+
+38. **What determines the signal intensity of a tissue on MRI?**  
+    A. X-ray attenuation  
+    **B. T1, T2 relaxation times, proton density, and flow**  
+    C. Ultrasound reflection  
+    D. Glucose metabolism  
+    *Correct: B. MRI signal intensity depends on intrinsic tissue properties including T1 and T2 relaxation, proton density, and motion (e.g., blood flow).*
+
+39. **Which MRI safety concern is specifically associated with gadolinium-based contrast agents (GBCAs)?**  
+    A. Ionizing radiation  
+    B. Allergic bronchospasm  
+    **C. Nephrogenic systemic fibrosis (NSF)**  
+    D. Hepatotoxicity  
+    *Correct: C. NSF is a rare but serious complication linked to GBCA use in patients with severe renal impairment, particularly with linear agents.*
+
+40. **In which patient population is the risk of nephrogenic systemic fibrosis (NSF) highest after GBCA administration?**  
+    A. Patients with eGFR >60 mL/min  
+    B. Patients with diabetes  
+    **C. Patients with eGFR <30 mL/min, especially <15 mL/min**  
+    D. Patients with mild hypertension  
+    *Correct: C. The risk of NSF increases significantly in patients with severely reduced renal function (eGFR <30 mL/min), particularly those with end-stage renal disease.*
+
+41. **Which type of gadolinium-based contrast agent is preferred in patients with renal failure due to lower NSF risk?**  
+    A. Linear ionic  
+    B. Linear non-ionic  
+    **C. Macrocyclic**  
+    D. Extracellular  
+    *Correct: C. Macrocyclic GBCAs have greater stability and lower risk of gadolinium release, making them safer in patients with renal insufficiency.*
+
+42. **What is the main reason MRI is considered safer than CT in certain populations?**  
+    A. Faster imaging  
+    **B. Absence of ionizing radiation**  
+    C. Lower cost  
+    D. Greater availability  
+    *Correct: B. MRI uses magnetic fields and radio waves instead of x-rays, eliminating radiation exposure—advantageous for children and repeated imaging.*
+
+43. **Which imaging modality is most frequently requested for evaluating liver and pancreas despite MRI’s superior tissue contrast?**  
+    A. PET-CT  
+    B. Ultrasound  
+    **C. CT**  
+    D. MRI  
+    *Correct: C. CT remains the most frequently used modality due to its high spatial resolution, ease of interpretation, availability, and lower cost.*
+
+44. **Which structure is best evaluated during the portal venous phase of abdominal CT?**  
+    A. Celiac artery  
+    **B. Portal and hepatic veins**  
+    C. Renal arteries  
+    D. Aortic dissection  
+    *Correct: B. The portal venous phase provides optimal opacification of portal and hepatic veins, essential for assessing vascular invasion and surgical planning.*
+
+45. **What is the typical contrast injection rate for pancreatic CT imaging?**  
+    A. 1–2 mL/sec  
+    B. 2–3 mL/sec  
+    **C. 4–6 mL/sec**  
+    D. 8–10 mL/sec  
+    *Correct: C. A high flow rate (4–6 mL/sec) ensures rapid bolus delivery, critical for precise timing of pancreatic parenchymal and portal venous phases.*
+
+46. **Which technique allows creation of 3D arterial models from CT angiography data?**  
+    A. Diffusion tensor imaging  
+    **B. Volume-rendered reconstruction**  
+    C. Time-of-flight imaging  
+    D. Phase-contrast imaging  
+    *Correct: B. Volume rendering transforms axial CT data into interactive 3D models, useful for preoperative planning and teaching.*
+
+47. **Which imaging finding is expected in a liver metastasis on portal venous phase CT?**  
+    A. Hyperenhancement  
+    **B. Hypoenhancement (hypodense)**  
+    C. Isoenhancement  
+    D. Ring enhancement  
+    *Correct: B. Most metastases (e.g., from colon cancer) are hypovascular and appear hypodense relative to enhanced normal liver parenchyma in the portal venous phase.*
+
+48. **Which of the following best describes the appearance of free water on T1- and T2-weighted MRI?**  
+    A. Bright on T1, dark on T2  
+    **B. Dark on T1, bright on T2**  
+    C. Bright on both  
+    D. Dark on both  
+    *Correct: B. Free water (e.g., cysts, CSF) has long T1 and long T2 relaxation times, appearing hypointense on T1 and hyperintense on T2-weighted images.*
+
+49. **What is the primary purpose of using a power injector in CT pancreas protocols?**  
+    A. To reduce contrast volume  
+    **B. To ensure consistent and rapid contrast delivery**  
+    C. To avoid extravasation  
+    D. To warm the contrast agent  
+    *Correct: B. A dedicated CT power injector ensures accurate timing and consistent bolus profile, essential for multiphasic pancreatic imaging.*
+
+50. **Which organization has published guidelines for MRI safety regarding implants?**  
+    A. FDA  
+    **B. American College of Radiology (ACR)**  
+    C. WHO  
+    D. CDC  
+    *Correct: B. The ACR has established comprehensive MRI safety guidelines, including screening for MR-unsafe and MR-conditional devices.*
+
+
+51. **Which imaging modality is most frequently requested for evaluating liver and pancreas despite MRI’s superior soft tissue contrast?**  
+    A. MRI  
+    B. Ultrasound  
+    **C. CT**  
+    D. PET-MRI  
+    *Correct: C. CT remains the most frequently requested modality due to its high spatial resolution, ease of interpretation, availability, and lower cost.*
+
+52. **What is the primary reason CT remains superior to MRI in certain clinical scenarios?**  
+    A. Functional imaging capability  
+    **B. Higher in-plane and z-axis spatial resolution**  
+    C. Lack of ionizing radiation  
+    D. Better tissue characterization  
+    *Correct: B. CT has better in-plane and interslice (z-axis) spatial resolution than MRI, allowing for sharper anatomical detail and more accurate multiplanar reformats.*
+
+53. **Which technological advancement in CT allowed for continuous volume data acquisition and reduced motion artifacts?**  
+    A. Dual-energy CT  
+    **B. Helical scanning**  
+    C. Iterative reconstruction  
+    D. Power Doppler  
+    *Correct: B. Helical (spiral) scanning, introduced in the late 1980s, enabled continuous data acquisition during table movement, reducing motion artifacts and enabling multiphasic imaging.*
+
+54. **What major drawback is associated with CT imaging?**  
+    A. Poor soft tissue contrast  
+    B. High cost  
+    **C. Use of ionizing radiation**  
+    D. Long acquisition time  
+    *Correct: C. CT uses ionizing radiation, which carries a cumulative risk of stochastic effects such as cancer, especially with repeated scans.*
+
+55. **Which reconstruction algorithm is used to reduce image noise in low-dose CT?**  
+    A. Fourier backprojection  
+    **B. Adaptive statistical iterative reconstruction (ASIR)**  
+    C. Gradient echo  
+    D. Spin echo  
+    *Correct: B. ASIR and model-based iterative reconstruction reduce noise in low-dose CT, improving image quality while lowering radiation exposure.*
+
+56. **What is a potential limitation of using lower-dose CT with iterative reconstruction?**  
+    A. Increased scan time  
+    **B. Reduced conspicuity of liver metastases**  
+    C. Greater motion artifacts  
+    D. Poorer z-axis resolution  
+    *Correct: B. Lower-dose CT with iterative reconstruction may reduce the visibility of small liver metastases due to altered image texture and noise patterns.*
+
+57. **Which CT technique allows for material decomposition, such as separating iron from fat in the liver?**  
+    A. Maximum intensity projection  
+    B. Volume rendering  
+    **C. Dual-energy CT (DECT)**  
+    D. Diffusion-weighted imaging  
+    *Correct: C. DECT uses two different energy levels to differentiate materials based on their attenuation profiles, enabling virtual non-iron and virtual iron imaging.*
+
+58. **In dual-energy CT, what is the purpose of “virtual non-iron” imaging?**  
+    A. To enhance tumor vascularity  
+    **B. To quantify hepatic fat independently of iron overload**  
+    C. To improve spatial resolution  
+    D. To reduce metal artifacts  
+    *Correct: B. Virtual non-iron images allow fat quantification in the liver without interference from concomitant siderosis or iron deposition.*
+
+59. **Which DECT application improves detection of hypovascular pancreatic adenocarcinoma?**  
+    A. High keV virtual monochromatic imaging  
+    **B. Low keV virtual monochromatic imaging**  
+    C. Noncontrast imaging  
+    D. Delayed phase imaging only  
+    *Correct: B. Lower-energy virtual monochromatic images increase iodine contrast, improving the conspicuity of hypovascular tumors like pancreatic ductal adenocarcinoma.*
+
+60. **Which phase of CT imaging is essential for detecting hypervascular liver tumors like hepatocellular carcinoma (HCC)?**  
+    A. Noncontrast phase  
+    **B. Late arterial phase**  
+    C. Portal venous phase  
+    D. Delayed phase only  
+    *Correct: B. Hypervascular tumors such as HCC enhance early in the late arterial phase, making this phase critical for detection.*
+
+61. **What is the purpose of the early arterial (CT angiography) phase in liver imaging?**  
+    A. Evaluate portal vein thrombosis  
+    **B. Assess tumor involvement of hepatic arteries and variant celiac anatomy**  
+    C. Detect liver metastases  
+    D. Evaluate biliary obstruction  
+    *Correct: B. The early arterial phase is optimized for visualizing arterial anatomy, crucial for surgical planning, embolization, and chemoinfusion pump placement.*
+
+62. **Which post-processing technique creates a 3D model of vascular anatomy that can be rotated interactively?**  
+    A. Multiplanar reformation (MPR)  
+    B. Minimum intensity projection (MinIP)  
+    **C. Volume-rendered reconstruction**  
+    D. Curved planar reformation  
+    *Correct: C. Volume rendering generates realistic 3D models from isotropic CT data, useful for surgical planning and visualizing complex vascular relationships.*
+
+63. **Why is oral water used in dedicated pancreas CT protocols?**  
+    A. To enhance pancreatic secretion  
+    **B. To distinguish enhanced vessels from bowel**  
+    C. To reduce radiation dose  
+    D. To improve patient hydration  
+    *Correct: B. Oral water acts as a negative contrast agent, helping differentiate retroperitoneal vessels from adjacent bowel loops on contrast-enhanced images.*
+
+64. **Which contrast injection rate is typically used in pancreatic CT imaging?**  
+    A. 1–2 mL/sec  
+    B. 2–3 mL/sec  
+    **C. 4–6 mL/sec**  
+    D. 8–10 mL/sec  
+    *Correct: C. A high flow rate (4–6 mL/sec) ensures rapid bolus delivery, critical for precise timing of pancreatic parenchymal and portal venous phases.*
+
+65. **What is the primary goal of multiphasic CT in pancreatic imaging?**  
+    A. Reduce radiation dose  
+    **B. Maximize contrast difference between tumor and normal pancreas**  
+    C. Evaluate biliary anatomy  
+    D. Assess liver function  
+    *Correct: B. Multiphasic CT enhances the difference in enhancement between hypovascular tumors and normally enhancing pancreatic parenchyma, improving detection.*
+
+66. **Which CT phase is best for evaluating liver metastases from pancreatic ductal adenocarcinoma?**  
+    A. Noncontrast  
+    B. Early arterial  
+    **C. Portal venous phase**  
+    D. Hepatic arterial phase  
+    *Correct: C. Most liver metastases are hypovascular and best seen as hypodense lesions during the portal venous phase when normal liver parenchyma enhances maximally.*
+
+67. **Which nuclei are primarily imaged in clinical MRI?**  
+    A. Phosphorus-31  
+    B. Sodium-23  
+    **C. Hydrogen-1 (protons)**  
+    D. Carbon-13  
+    *Correct: C. Hydrogen atoms (protons) in water and fat provide the primary signal in clinical MRI due to their abundance in the body.*
+
+68. **What determines the signal intensity of a tissue on MRI?**  
+    A. X-ray attenuation  
+    **B. T1, T2 relaxation times, proton density, and flow**  
+    C. Ultrasound reflection  
+    D. Glucose metabolism  
+    *Correct: B. MRI signal intensity depends on intrinsic tissue properties including T1 and T2 relaxation, proton density, and motion (e.g., blood flow).*
+
+69. **Which MRI sequence is used to highlight stationary fluid in the bile and pancreatic ducts?**  
+    A. T1-weighted imaging  
+    B. Diffusion-weighted imaging  
+    **C. Heavily T2-weighted imaging**  
+    D. Gradient echo imaging  
+    *Correct: C. MRCP uses heavily T2-weighted sequences to make fluid-filled ducts appear bright while suppressing surrounding tissues.*
+
+70. **Which contrast agent is taken up by functioning hepatocytes and excreted in bile?**  
+    A. Gadopentetate dimeglumine  
+    **B. Gadoxetic acid (Gd-EOB-DTPA)**  
+    C. Iodinated contrast  
+    D. Barium sulfate  
+    *Correct: B. Gadoxetic acid is a hepatobiliary-specific contrast agent taken up by hepatocytes and excreted into bile, allowing delayed hepatobiliary phase imaging.*
+
+71. **At approximately what time post-injection is the hepatobiliary phase acquired with Gd-EOB-DTPA?**  
+    A. Immediately  
+    B. 5 minutes  
+    **C. 20 minutes**  
+    D. 60 minutes  
+    *Correct: C. The hepatobiliary phase with Gd-EOB-DTPA is typically imaged around 20 minutes after IV injection, when normal liver parenchyma shows strong enhancement.*
+
+72. **Which MRI contrast agent category behaves similarly to iodinated CT contrast after injection?**  
+    **A. Extracellular fluid (ECF) agents**  
+    B. Hepatobiliary agents  
+    C. Reticuloendothelial agents  
+    D. Blood pool agents  
+    *Correct: A. ECF agents like Gd-DTPA diffuse into the extravascular space like iodinated CT contrast, providing vascular and interstitial enhancement.*
+
+73. **On T1-weighted MRI, how does normal liver parenchyma appear relative to the spleen?**  
+    **A. Hyperintense (brighter)**  
+    B. Hypointense (darker)  
+    C. Isointense  
+    D. Variable  
+    *Correct: A. Normal liver is brighter than the spleen on T1-weighted images, whereas the spleen is brighter on T2-weighted images.*
+
+74. **On T2-weighted MRI, which liver lesion typically shows the highest signal intensity?**  
+    A. Hepatocellular carcinoma  
+    **B. Hemangioma**  
+    C. Metastasis  
+    D. Abscess  
+    *Correct: B. Hemangiomas and cysts exhibit very high T2 signal intensity, often described as “lightbulb bright,” aiding their diagnosis.*
+
+75. **Which MRI sequence helps detect small liver metastases by showing restricted diffusion?**  
+    A. T1-weighted imaging  
+    B. T2-weighted imaging  
+    **C. Diffusion-weighted imaging (DWI)**  
+    D. In-phase imaging  
+    *Correct: C. DWI highlights areas of restricted water diffusion, commonly seen in hypercellular tumors like metastases, improving detection sensitivity.*
+
+76. **What is the primary clinical role of MR cholangiopancreatography (MRCP)?**  
+    A. Assess liver perfusion  
+    **B. Evaluate biliary and pancreatic duct anatomy noninvasively**  
+    C. Quantify liver iron content  
+    D. Stage hepatic fibrosis  
+    *Correct: B. MRCP provides a noninvasive alternative to ERCP/PTC for visualizing ductal anatomy in both benign and malignant biliary diseases.*
+
+77. **Which of the following is a key advantage of MRCP over ERCP?**  
+    A. Allows therapeutic interventions  
+    **B. Noninvasive with no procedural morbidity**  
+    C. Higher spatial resolution  
+    D. Better for detecting small stones  
+    *Correct: B. MRCP avoids risks associated with endoscopy and contrast injection, making it safer for diagnostic evaluation of ducts.*
+
+78. **Which artifact appears as posterior echogenic bands with a triangular tapered shape and is seen in gallbladder adenomyomatosis?**  
+    A. Acoustic shadowing  
+    **B. Comet tail artifact**  
+    C. Twinkle artifact  
+    D. Edge artifact  
+    *Correct: B. Comet tail artifact results from reverberation between closely spaced reflectors (e.g., cholesterol crystals in adenomyomatosis) and appears as parallel, bright posterior bands.*
+
+79. **Twinkle artifact on color Doppler is useful for detecting what?**  
+    A. Blood flow in small vessels  
+    **B. Calcifications or crystals even without acoustic shadowing**  
+    C. Fat infiltration  
+    D. Fibrosis  
+    *Correct: B. Twinkle artifact—a color Doppler noise posterior to strong reflectors—helps confirm calcifications (e.g., small gallstones) when shadowing is absent.*
+
+80. **Which phase in pancreatic CT imaging is acquired ~30–40 seconds after contrast injection?**  
+    A. Portal venous phase  
+    **B. Late arterial/pancreatic parenchymal phase**  
+    C. Delayed phase  
+    D. Noncontrast phase  
+    *Correct: B. This phase maximizes contrast between hypovascular tumors and normally enhancing pancreatic parenchyma, critical for detecting adenocarcinoma.*
+
+81. **Why is oral water used in dedicated pancreas CT protocols?**  
+    A. To enhance pancreatic secretion  
+    **B. To distinguish enhanced vessels from bowel**  
+    C. To reduce radiation dose  
+    D. To improve patient hydration  
+    *Correct: B. Oral water acts as a negative contrast agent, helping differentiate retroperitoneal vessels from adjacent bowel loops on contrast-enhanced images.*
+
+82. **Which nuclei are primarily imaged in clinical MRI?**  
+    A. Phosphorus-31  
+    B. Sodium-23  
+    **C. Hydrogen-1 (protons)**  
+    D. Carbon-13  
+    *Correct: C. Hydrogen atoms (protons) in water and fat provide the primary signal in clinical MRI due to their abundance in the body.*
+
+83. **What determines the signal intensity of a tissue on MRI?**  
+    A. X-ray attenuation  
+    **B. T1, T2 relaxation times, proton density, and flow**  
+    C. Ultrasound reflection  
+    D. Glucose metabolism  
+    *Correct: B. MRI signal intensity depends on intrinsic tissue properties including T1 and T2 relaxation, proton density, and motion (e.g., blood flow).*
+
+84. **Which MRI safety concern is specifically associated with gadolinium-based contrast agents (GBCAs)?**  
+    A. Ionizing radiation  
+    B. Allergic bronchospasm  
+    **C. Nephrogenic systemic fibrosis (NSF)**  
+    D. Hepatotoxicity  
+    *Correct: C. NSF is a rare but serious complication linked to GBCA use in patients with severe renal impairment, particularly with linear agents.*
+
+85. **In which patient population is the risk of nephrogenic systemic fibrosis (NSF) highest after GBCA administration?**  
+    A. Patients with eGFR >60 mL/min  
+    B. Patients with diabetes  
+    **C. Patients with eGFR <30 mL/min, especially <15 mL/min**  
+    D. Patients with mild hypertension  
+    *Correct: C. The risk of NSF increases significantly in patients with severely reduced renal function (eGFR <30 mL/min), particularly those with end-stage renal disease.*
+
+86. **Which type of gadolinium-based contrast agent is preferred in patients with renal failure due to lower NSF risk?**  
+    A. Linear ionic  
+    B. Linear non-ionic  
+    **C. Macrocyclic**  
+    D. Extracellular  
+    *Correct: C. Macrocyclic GBCAs have greater stability and lower risk of gadolinium release, making them safer in patients with renal insufficiency.*
+
+87. **What is the main reason MRI is considered safer than CT in certain populations?**  
+    A. Faster imaging  
+    **B. Absence of ionizing radiation**  
+    C. Lower cost  
+    D. Greater availability  
+    *Correct: B. MRI uses magnetic fields and radio waves instead of x-rays, eliminating radiation exposure—advantageous for children and repeated imaging.*
+
+88. **Which imaging modality is most frequently requested for evaluating liver and pancreas despite MRI’s superior tissue contrast?**  
+    A. PET-CT  
+    B. Ultrasound  
+    **C. CT**  
+    D. MRI  
+    *Correct: C. CT remains the most frequently used modality due to its high spatial resolution, ease of interpretation, availability, and lower cost.*
+
+89. **Which structure is best evaluated during the portal venous phase of abdominal CT?**  
+    A. Celiac artery  
+    **B. Portal and hepatic veins**  
+    C. Renal arteries  
+    D. Aortic dissection  
+    *Correct: B. The portal venous phase provides optimal opacification of portal and hepatic veins, essential for assessing vascular invasion and surgical planning.*
+
+90. **What is the typical contrast injection rate for pancreatic CT imaging?**  
+    A. 1–2 mL/sec  
+    B. 2–3 mL/sec  
+    **C. 4–6 mL/sec**  
+    D. 8–10 mL/sec  
+    *Correct: C. A high flow rate (4–6 mL/sec) ensures rapid bolus delivery, critical for precise timing of pancreatic parenchymal and portal venous phases.*
+
+91. **Which technique allows creation of 3D arterial models from CT angiography data?**  
+    A. Diffusion tensor imaging  
+    **B. Volume-rendered reconstruction**  
+    C. Time-of-flight imaging  
+    D. Phase-contrast imaging  
+    *Correct: B. Volume rendering transforms axial CT data into interactive 3D models, useful for preoperative planning and teaching.*
+
+92. **Which of the following best describes the appearance of free water on T1- and T2-weighted MRI?**  
+    A. Bright on T1, dark on T2  
+    **B. Dark on T1, bright on T2**  
+    C. Bright on both  
+    D. Dark on both  
+    *Correct: B. Free water (e.g., cysts, CSF) has long T1 and long T2 relaxation times, appearing hypointense on T1 and hyperintense on T2-weighted images.*
+
+93. **What is the primary purpose of using a power injector in CT pancreas protocols?**  
+    A. To reduce contrast volume  
+    **B. To ensure consistent and rapid contrast delivery**  
+    C. To avoid extravasation  
+    D. To warm the contrast agent  
+    *Correct: B. A dedicated CT power injector ensures accurate timing and consistent bolus profile, essential for multiphasic pancreatic imaging.*
+
+94. **Which organization has published guidelines for MRI safety regarding implants?**  
+    A. FDA  
+    **B. American College of Radiology (ACR)**  
+    C. WHO  
+    D. CDC  
+    *Correct: B. The ACR has established comprehensive MRI safety guidelines, including screening for MR-unsafe and MR-conditional devices.*
+
+95. **Which MRI sequence is used to evaluate liver fibrosis?**  
+    A. T1-weighted imaging  
+    **B. Diffusion-weighted imaging (DWI)**  
+    C. In-phase imaging  
+    D. Gradient echo imaging  
+    *Correct: B. DWI can assess changes in liver parenchyma, including fibrosis, by detecting alterations in water diffusion.*
+
+96. **Which MRI contrast agent is approved in the U.S. for hepatobiliary imaging and allows hepatobiliary phase imaging at ~20 minutes?**  
+    A. Gadobenate dimeglumine  
+    **B. Gadoxetic acid (Eovist/Primovist)**  
+    C. Gadopentetate dimeglumine  
+    D. Mangafodipir trisodium  
+    *Correct: B. Gd-EOB-DTPA (Eovist/Primovist) is widely used and allows hepatobiliary phase imaging at approximately 20 minutes post-injection.*
+
+97. **Which of the following is NOT a hepatobiliary-specific MRI contrast agent?**  
+    A. Gadoxetic acid  
+    B. Gadobenate dimeglumine  
+    **C. Gadopentetate dimeglumine**  
+    D. Mangafodipir trisodium  
+    *Correct: C. Gadopentetate dimeglumine is an extracellular fluid (ECF) agent and does not have hepatobiliary excretion.*
+
+98. **Which imaging technique mimics ERCP without the need for endoscopy?**  
+    A. CT angiography  
+    **B. MR cholangiopancreatography (MRCP)**  
+    C. Ultrasound elastography  
+    D. PET-CT  
+    *Correct: B. MRCP provides noninvasive visualization of bile and pancreatic ducts similar to ERCP but without procedural risks.*
+
+99. **What is the main advantage of MRCP over invasive cholangiography?**  
+    A. Allows stone removal  
+    B. Higher spatial resolution  
+    **C. No procedural morbidity**  
+    D. Real-time imaging  
+    *Correct: C. MRCP is noninvasive and avoids complications associated with ERCP or PTC, such as pancreatitis or bleeding.*
+
+100. **Which MRI sequence is used to generate MRCP images?**  
+    A. T1-weighted  
+    B. Diffusion-weighted  
+    **C. Heavily T2-weighted**  
+    D. Gradient echo  
+    *Correct: C. Heavily T2-weighted sequences highlight fluid in ducts while suppressing surrounding tissues, forming the basis of MRCP.*
+
+101. **Which MRI sequence is used to assess water diffusion in liver tissue for detecting metastases and fibrosis?**  
+    A. T1-weighted imaging  
+    B. T2-weighted imaging  
+    **C. Diffusion-weighted imaging (DWI)**  
+    D. Gradient echo imaging  
+    *Correct: C. DWI detects restricted diffusion in hypercellular tissues like metastases and can also reflect changes in liver parenchyma such as fibrosis.*
+
+102. **What is the typical appearance of a liver metastasis on T2-weighted MRI?**  
+    A. Hypointense  
+    **B. Hyperintense**  
+    C. Isointense  
+    D. Mixed signal  
+    *Correct: B. Most liver metastases appear hyperintense (bright) on T2-weighted images due to increased water content.*
+
+103. **On precontrast T1-weighted MRI, how do most hepatic lesions appear compared to normal liver parenchyma?**  
+    **A. Hypointense**  
+    B. Hyperintense  
+    C. Isointense  
+    D. Variable  
+    *Correct: A. Most hepatic lesions, including metastases and cysts, are hypointense (dark) on precontrast T1-weighted imaging.*
+
+104. **Which phase of MRI is acquired approximately 20 minutes after injection of Gd-EOB-DTPA?**  
+    A. Arterial phase  
+    B. Portal venous phase  
+    **C. Hepatobiliary phase**  
+    D. Transitional phase  
+    *Correct: C. The hepatobiliary phase occurs around 20 minutes post-injection when functioning hepatocytes excrete contrast into bile.*
+
+105. **Why is the hepatobiliary phase useful in liver imaging?**  
+    A. It shows portal vein flow  
+    B. It enhances all tumors equally  
+    **C. It allows detection of lesions lacking hepatocytes (e.g., metastases)**  
+    D. It visualizes gallstones  
+    *Correct: C. Normal liver parenchyma enhances in the hepatobiliary phase due to uptake of Gd-EOB-DTPA, while lesions without hepatocytes (e.g., metastases) remain hypointense.*
+
+106. **Which MRI contrast agent category includes Gd-DTPA?**  
+    **A. Extracellular fluid (ECF) agents**  
+    B. Hepatobiliary agents  
+    C. Blood pool agents  
+    D. Reticuloendothelial agents  
+    *Correct: A. Gd-DTPA is an ECF agent that distributes in the vascular and interstitial spaces but is not taken up by hepatocytes.*
+
+107. **Which of the following is NOT a hepatobiliary-specific MRI contrast agent?**  
+    A. Gadoxetic acid  
+    B. Gadobenate dimeglumine  
+    **C. Gadopentetate dimeglumine**  
+    D. Mangafodipir trisodium  
+    *Correct: C. Gadopentetate dimeglumine is an extracellular agent and does not have significant hepatocyte uptake or biliary excretion.*
+
+108. **Which MRI technique provides noninvasive visualization of bile ducts similar to ERCP?**  
+    A. MR angiography  
+    **B. MR cholangiopancreatography (MRCP)**  
+    C. Perfusion imaging  
+    D. MR spectroscopy  
+    *Correct: B. MRCP uses heavily T2-weighted sequences to visualize fluid-filled bile and pancreatic ducts noninvasively.*
+
+109. **Which sequence is primarily used in MRCP to highlight fluid in ducts?**  
+    A. T1-weighted  
+    B. Diffusion-weighted  
+    **C. Heavily T2-weighted**  
+    D. In-phase imaging  
+    *Correct: C. Heavily T2-weighted sequences make stationary or slow-moving fluid (e.g., bile) appear bright, while suppressing solid tissues.*
+
+110. **What is a major advantage of MRCP over ERCP?**  
+    A. Allows stone removal  
+    **B. Noninvasive with no procedural complications**  
+    C. Higher spatial resolution  
+    D. Real-time imaging  
+    *Correct: B. MRCP avoids risks of pancreatitis, bleeding, or perforation associated with ERCP, making it safer for diagnostic evaluation.*
+
+111. **Which structure appears bright on MRCP due to high fluid content?**  
+    A. Liver parenchyma  
+    B. Pancreatic islets  
+    **C. Common bile duct**  
+    D. Gallbladder wall  
+    *Correct: C. The common bile duct contains bile (fluid), which appears bright on heavily T2-weighted MRCP images.*
+
+112. **Which imaging modality eliminates ionizing radiation exposure?**  
+    A. CT  
+    B. PET-CT  
+    **C. MRI**  
+    D. Fluoroscopy  
+    *Correct: C. MRI uses magnetic fields and radiofrequency pulses instead of x-rays, making it free of ionizing radiation.*
+
+113. **Which MRI safety risk is associated with certain implants in strong magnetic fields?**  
+    A. Allergic reaction  
+    **B. Device displacement or malfunction**  
+    C. Nephrotoxicity  
+    D. Hepatotoxicity  
+    *Correct: B. Ferromagnetic implants (e.g., aneurysm clips) can experience torque or heating in MRI, potentially causing serious injury.*
+
+114. **Which organization provides guidelines for MRI safety regarding implants?**  
+    A. FDA  
+    **B. American College of Radiology (ACR)**  
+    C. WHO  
+    D. CDC  
+    *Correct: B. The ACR has established comprehensive MRI safety guidelines, including classification of MR-safe, MR-conditional, and MR-unsafe devices.*
+
+115. **Which patient group is at highest risk for nephrogenic systemic fibrosis (NSF) after gadolinium administration?**  
+    A. Patients with eGFR >60 mL/min  
+    **B. Patients with eGFR <15 mL/min (end-stage renal disease)**  
+    C. Patients with mild hypertension  
+    D. Patients with diabetes mellitus  
+    *Correct: B. NSF is most commonly reported in patients with severe renal impairment, particularly those on dialysis.*
+
+116. **Which type of gadolinium-based contrast agent has the lowest risk of NSF?**  
+    A. Linear ionic  
+    B. Linear non-ionic  
+    **C. Macrocyclic**  
+    D. Extracellular  
+    *Correct: C. Macrocyclic agents are more stable and less likely to release free gadolinium, reducing the risk of NSF.*
+
+117. **What is the mechanism behind nephrogenic systemic fibrosis (NSF)?**  
+    A. Immune-mediated hypersensitivity  
+    **B. Deposition of free gadolinium in tissues leading to fibrosis**  
+    C. Direct toxicity to renal tubules  
+    D. Oxidative stress in hepatocytes  
+    *Correct: B. NSF is believed to result from dechelation of gadolinium, which deposits in skin and organs, triggering scleroderma-like fibrosis.*
+
+118. **Which of the following is NOT a benefit of MRI over CT?**  
+    A. Superior soft tissue contrast  
+    B. Multiplanar imaging capability  
+    **C. Higher spatial resolution**  
+    D. No ionizing radiation  
+    *Correct: C. CT has higher in-plane and z-axis spatial resolution than MRI, although MRI excels in tissue contrast and functional imaging.*
+
+119. **Which imaging modality is preferred for evaluating liver fibrosis?**  
+    A. Ultrasound  
+    B. CT  
+    **C. MRI with diffusion-weighted imaging (DWI)**  
+    D. X-ray  
+    *Correct: C. DWI can detect changes in water diffusion associated with fibrosis, and MR elastography (not discussed here) is even more specific.*
+
+120. **What is the primary reason for using oral water in pancreatic CT protocols?**  
+    A. To enhance pancreatic secretion  
+    **B. To distinguish retroperitoneal vessels from bowel loops**  
+    C. To reduce radiation dose  
+    D. To improve patient comfort  
+    *Correct: B. Oral water acts as a negative contrast agent, helping radiologists differentiate enhancing vessels from adjacent bowel.*
+
+121. **Which CT phase is optimal for detecting hypovascular pancreatic adenocarcinoma?**  
+    A. Noncontrast  
+    **B. Late arterial (pancreatic parenchymal) phase**  
+    C. Portal venous phase  
+    D. Delayed phase  
+    *Correct: B. The late arterial phase maximizes contrast between the normally enhancing pancreas and the hypovascular tumor.*
+
+122. **Why is a power injector used in pancreatic CT protocols?**  
+    A. To reduce contrast volume  
+    **B. To ensure consistent and rapid contrast delivery**  
+    C. To avoid extravasation  
+    D. To warm the contrast agent  
+    *Correct: B. A power injector delivers contrast at a high, consistent rate (4–6 mL/sec), essential for precise timing of multiphasic imaging.*
+
+123. **Which of the following best describes the appearance of free fluid on T1- and T2-weighted MRI?**  
+    A. Bright on T1, dark on T2  
+    **B. Dark on T1, bright on T2**  
+    C. Bright on both  
+    D. Dark on both  
+    *Correct: B. Free fluid (e.g., cysts, bile) has long T1 and T2 relaxation times, appearing hypointense on T1 and hyperintense on T2.*
+
+124. **Which MRI contrast agent is approved in the U.S. for hepatobiliary imaging and allows hepatobiliary phase imaging at ~20 minutes?**  
+    A. Gadobenate dimeglumine  
+    **B. Gadoxetic acid (Eovist/Primovist)**  
+    C. Gadopentetate dimeglumine  
+    D. Mangafodipir trisodium  
+    *Correct: B. Gd-EOB-DTPA (Eovist/Primovist) is widely used and allows hepatobiliary phase imaging at approximately 20 minutes post-injection.*
+
+125. **Which imaging technique mimics ERCP without endoscopy?**  
+    A. CT angiography  
+    **B. MR cholangiopancreatography (MRCP)**  
+    C. Ultrasound elastography  
+    D. PET-CT  
+    *Correct: B. MRCP provides noninvasive visualization of bile and pancreatic ducts similar to ERCP but without procedural risks.*
+
+126. **What is the main advantage of MRCP over invasive cholangiography?**  
+    A. Allows stone removal  
+    B. Higher spatial resolution  
+    **C. No procedural morbidity**  
+    D. Real-time imaging  
+    *Correct: C. MRCP is noninvasive and avoids complications associated with ERCP or PTC, such as pancreatitis or bleeding.*
+
+127. **Which MRI sequence is used to generate MRCP images?**  
+    A. T1-weighted  
+    B. Diffusion-weighted  
+    **C. Heavily T2-weighted**  
+    D. Gradient echo  
+    *Correct: C. Heavily T2-weighted sequences highlight fluid in ducts while suppressing surrounding tissues, forming the basis of MRCP.*
+
+128. **Which artifact on ultrasound appears as bright posterior bands with a triangular shape and is seen in gallbladder adenomyomatosis?**  
+    A. Acoustic shadowing  
+    **B. Comet tail artifact**  
+    C. Twinkle artifact  
+    D. Edge artifact  
+    *Correct: B. Comet tail artifact results from reverberation between closely spaced reflectors (e.g., cholesterol crystals in adenomyomatosis).*
+
+129. **Twinkle artifact on color Doppler helps detect:**  
+    A. Blood flow in small vessels  
+    **B. Calcifications or crystals even without acoustic shadowing**  
+    C. Fat infiltration  
+    D. Fibrosis  
+    *Correct: B. Twinkle artifact—a color Doppler noise posterior to strong reflectors—helps confirm calcifications (e.g., small gallstones) when shadowing is absent.*
+
+130. **Which phase in pancreatic CT imaging is acquired ~30–40 seconds after contrast injection?**  
+    A. Portal venous phase  
+    **B. Late arterial/pancreatic parenchymal phase**  
+    C. Delayed phase  
+    D. Noncontrast phase  
+    *Correct: B. This phase maximizes contrast between hypovascular tumors and normally enhancing pancreatic parenchyma, critical for detecting adenocarcinoma.*
+
+131. **Why is oral water used in dedicated pancreas CT protocols?**  
+    A. To enhance pancreatic secretion  
+    **B. To distinguish enhanced vessels from bowel**  
+    C. To reduce radiation dose  
+    D. To improve patient hydration  
+    *Correct: B. Oral water acts as a negative contrast agent, helping differentiate retroperitoneal vessels from adjacent bowel loops on contrast-enhanced images.*
+
+132. **Which nuclei are primarily imaged in clinical MRI?**  
+    A. Phosphorus-31  
+    B. Sodium-23  
+    **C. Hydrogen-1 (protons)**  
+    D. Carbon-13  
+    *Correct: C. Hydrogen atoms (protons) in water and fat provide the primary signal in clinical MRI due to their abundance in the body.*
+
+133. **What determines the signal intensity of a tissue on MRI?**  
+    A. X-ray attenuation  
+    **B. T1, T2 relaxation times, proton density, and flow**  
+    C. Ultrasound reflection  
+    D. Glucose metabolism  
+    *Correct: B. MRI signal intensity depends on intrinsic tissue properties including T1 and T2 relaxation, proton density, and motion (e.g., blood flow).*
+
+134. **Which MRI safety concern is specifically associated with gadolinium-based contrast agents (GBCAs)?**  
+    A. Ionizing radiation  
+    B. Allergic bronchospasm  
+    **C. Nephrogenic systemic fibrosis (NSF)**  
+    D. Hepatotoxicity  
+    *Correct: C. NSF is a rare but serious complication linked to GBCA use in patients with severe renal impairment, particularly with linear agents.*
+
+135. **In which patient population is the risk of nephrogenic systemic fibrosis (NSF) highest after GBCA administration?**  
+    A. Patients with eGFR >60 mL/min  
+    B. Patients with diabetes  
+    **C. Patients with eGFR <30 mL/min, especially <15 mL/min**  
+    D. Patients with mild hypertension  
+    *Correct: C. The risk of NSF increases significantly in patients with severely reduced renal function (eGFR <30 mL/min), particularly those with end-stage renal disease.*
+
+136. **Which type of gadolinium-based contrast agent is preferred in patients with renal failure due to lower NSF risk?**  
+    A. Linear ionic  
+    B. Linear non-ionic  
+    **C. Macrocyclic**  
+    D. Extracellular  
+    *Correct: C. Macrocyclic GBCAs have greater stability and lower risk of gadolinium release, making them safer in patients with renal insufficiency.*
+
+137. **What is the main reason MRI is considered safer than CT in certain populations?**  
+    A. Faster imaging  
+    **B. Absence of ionizing radiation**  
+    C. Lower cost  
+    D. Greater availability  
+    *Correct: B. MRI uses magnetic fields and radio waves instead of x-rays, eliminating radiation exposure—advantageous for children and repeated imaging.*
+
+138. **Which imaging modality is most frequently requested for evaluating liver and pancreas despite MRI’s superior tissue contrast?**  
+    A. PET-CT  
+    B. Ultrasound  
+    **C. CT**  
+    D. MRI  
+    *Correct: C. CT remains the most frequently used modality due to its high spatial resolution, ease of interpretation, availability, and lower cost.*
+
+139. **Which structure is best evaluated during the portal venous phase of abdominal CT?**  
+    A. Celiac artery  
+    **B. Portal and hepatic veins**  
+    C. Renal arteries  
+    D. Aortic dissection  
+    *Correct: B. The portal venous phase provides optimal opacification of portal and hepatic veins, essential for assessing vascular invasion and surgical planning.*
+
+140. **What is the typical contrast injection rate for pancreatic CT imaging?**  
+    A. 1–2 mL/sec  
+    B. 2–3 mL/sec  
+    **C. 4–6 mL/sec**  
+    D. 8–10 mL/sec  
+    *Correct: C. A high flow rate (4–6 mL/sec) ensures rapid bolus delivery, critical for precise timing of pancreatic parenchymal and portal venous phases.*
+
+141. **Which technique allows creation of 3D arterial models from CT angiography data?**  
+    A. Diffusion tensor imaging  
+    **B. Volume-rendered reconstruction**  
+    C. Time-of-flight imaging  
+    D. Phase-contrast imaging  
+    *Correct: B. Volume rendering transforms axial CT data into interactive 3D models, useful for preoperative planning and teaching.*
+
+142. **Which of the following best describes the appearance of free water on T1- and T2-weighted MRI?**  
+    A. Bright on T1, dark on T2  
+    **B. Dark on T1, bright on T2**  
+    C. Bright on both  
+    D. Dark on both  
+    *Correct: B. Free water (e.g., cysts, CSF) has long T1 and long T2 relaxation times, appearing hypointense on T1 and hyperintense on T2-weighted images.*
+
+143. **What is the primary purpose of using a power injector in CT pancreas protocols?**  
+    A. To reduce contrast volume  
+    **B. To ensure consistent and rapid contrast delivery**  
+    C. To avoid extravasation  
+    D. To warm the contrast agent  
+    *Correct: B. A dedicated CT power injector ensures accurate timing and consistent bolus profile, essential for multiphasic pancreatic imaging.*
+
+144. **Which organization has published guidelines for MRI safety regarding implants?**  
+    A. FDA  
+    **B. American College of Radiology (ACR)**  
+    C. WHO  
+    D. CDC  
+    *Correct: B. The ACR has established comprehensive MRI safety guidelines, including screening for MR-unsafe and MR-conditional devices.*
+
+145. **Which MRI sequence is used to evaluate liver fibrosis?**  
+    A. T1-weighted imaging  
+    **B. Diffusion-weighted imaging (DWI)**  
+    C. In-phase imaging  
+    D. Gradient echo imaging  
+    *Correct: B. DWI can assess changes in liver parenchyma, including fibrosis, by detecting alterations in water diffusion.*
+
+146. **Which MRI contrast agent is approved in the U.S. for hepatobiliary imaging and allows hepatobiliary phase imaging at ~20 minutes?**  
+    A. Gadobenate dimeglumine  
+    **B. Gadoxetic acid (Eovist/Primovist)**  
+    C. Gadopentetate dimeglumine  
+    D. Mangafodipir trisodium  
+    *Correct: B. Gd-EOB-DTPA (Eovist/Primovist) is widely used and allows hepatobiliary phase imaging at approximately 20 minutes post-injection.*
+
+147. **Which of the following is NOT a hepatobiliary-specific MRI contrast agent?**  
+    A. Gadoxetic acid  
+    B. Gadobenate dimeglumine  
+    **C. Gadopentetate dimeglumine**  
+    D. Mangafodipir trisodium  
+    *Correct: C. Gadopentetate dimeglumine is an extracellular fluid (ECF) agent and does not have hepatobiliary excretion.*
+
+148. **Which imaging technique mimics ERCP without the need for endoscopy?**  
+    A. CT angiography  
+    **B. MR cholangiopancreatography (MRCP)**  
+    C. Ultrasound elastography  
+    D. PET-CT  
+    *Correct: B. MRCP provides noninvasive visualization of bile and pancreatic ducts similar to ERCP but without procedural risks.*
+
+149. **What is the main advantage of MRCP over invasive cholangiography?**  
+    A. Allows stone removal  
+    B. Higher spatial resolution  
+    **C. No procedural morbidity**  
+    D. Real-time imaging  
+    *Correct: C. MRCP is noninvasive and avoids complications associated with ERCP or PTC, such as pancreatitis or bleeding.*
+
+150. **Which MRI sequence is used to generate MRCP images?**  
+    A. T1-weighted  
+    B. Diffusion-weighted  
+    **C. Heavily T2-weighted**  
+    D. Gradient echo  
+    *Correct: C. Heavily T2-weighted sequences highlight fluid in ducts while suppressing surrounding tissues, forming the basis of MRCP.*
+
+---
+
+151. **Which imaging modality is considered safest at diagnostic levels with no confirmed biological harm?**  
+    A. CT  
+    B. PET  
+    C. MRI  
+    **D. Ultrasound**  
+    *Correct: D. Ultrasound is considered safe at clinical levels with no confirmed harmful biological effects on patients or operators.*
+
+152. **Which of the following limits ultrasound imaging in obese patients?**  
+    A. High cost  
+    B. Ionizing radiation  
+    **C. Poor penetration of high-frequency sound waves**  
+    D. Magnetic interference  
+    *Correct: C. High-frequency transducers provide better resolution but poor penetration, limiting imaging in deep or obese patients.*
+
+153. **Which term describes a structure that appears black on ultrasound due to lack of internal echoes?**  
+    A. Hyperechoic  
+    B. Hypoechoic  
+    **C. Anechoic**  
+    D. Isoechoic  
+    *Correct: C. Anechoic structures (e.g., fluid-filled cysts) appear uniformly black because they do not reflect ultrasound waves.*
+
+154. **Acoustic enhancement is typically seen posterior to:**  
+    A. Calcifications  
+    B. Dense tumors  
+    **C. Fluid-filled cysts**  
+    D. Fibrotic tissue  
+    *Correct: C. Acoustic enhancement occurs when sound waves pass easily through fluid, increasing transmission and making tissues behind appear brighter.*
+
+155. **Which artifact appears as a dark shadow beyond a gallstone on ultrasound?**  
+    **A. Acoustic shadowing**  
+    B. Comet tail artifact  
+    C. Twinkle artifact  
+    D. Reverberation  
+    *Correct: A. Acoustic shadowing occurs due to strong attenuation by calcified structures like gallstones.*
+
+156. **What helps differentiate gallstones from gallbladder polyps on ultrasound?**  
+    A. Echogenicity alone  
+    **B. Mobility and acoustic shadowing**  
+    C. Vascularity on Doppler  
+    D. Size  
+    *Correct: B. Gallstones are mobile and cause acoustic shadowing; polyps are fixed and do not shadow.*
+
+157. **Which Doppler technique is most sensitive for detecting slow blood flow?**  
+    A. Color Doppler  
+    **B. Power Doppler**  
+    C. Spectral Doppler  
+    D. Pulsed-wave Doppler  
+    *Correct: B. Power Doppler is more sensitive than color Doppler for low-velocity flow and is less angle-dependent.*
+
+158. **In spectral Doppler, what does the waveform represent?**  
+    A. Mean velocity only  
+    B. Flow direction  
+    **C. Entire range of velocities over time**  
+    D. Total echo amplitude  
+    *Correct: C. Spectral Doppler displays a time-velocity waveform showing the full spectrum of red blood cell velocities within the sample volume.*
+
+159. **Which CT advancement in the late 1980s enabled continuous data acquisition?**  
+    A. Dual-energy CT  
+    **B. Helical scanning**  
+    C. Iterative reconstruction  
+    D. Multi-detector CT  
+    *Correct: B. Helical scanning allowed continuous data acquisition during table movement, reducing motion artifacts.*
+
+160. **Which CT phase is best for evaluating liver metastases from colorectal cancer?**  
+    A. Noncontrast  
+    B. Early arterial  
+    **C. Portal venous phase**  
+    D. Delayed phase  
+    *Correct: C. Most liver metastases are hypovascular and best seen as hypodense lesions during the portal venous phase.*
+
+161. **Which post-processing technique highlights bright structures like vessels?**  
+    A. MinIP  
+    **B. MIP (Maximum Intensity Projection)**  
+    C. Curved reformats  
+    D. Subtraction imaging  
+    *Correct: B. MIP selects the highest attenuation pixels within a volume, enhancing visualization of contrast-filled vessels.*
+
+162. **Which reconstruction algorithm reduces noise in low-dose CT?**  
+    A. Backprojection  
+    **B. Adaptive statistical iterative reconstruction (ASIR)**  
+    C. Fourier transform  
+    D. Gradient echo  
+    *Correct: B. ASIR helps reduce noise in low-dose CT, improving image quality despite lower radiation exposure.*
+
+163. **Which DECT application allows fat quantification independent of iron?**  
+    A. Virtual iodine mapping  
+    B. High keV imaging  
+    **C. Virtual non-iron imaging**  
+    D. Low keV imaging  
+    *Correct: C. Virtual non-iron images allow fat quantification in the liver without interference from concomitant siderosis.*
+
+164. **Which phase is essential for detecting hepatocellular carcinoma (HCC)?**  
+    A. Noncontrast  
+    **B. Late arterial phase**  
+    C. Portal venous phase  
+    D. Delayed phase only  
+    *Correct: B. Hypervascular tumors such as HCC enhance early in the late arterial phase, making this phase critical for detection.*
+
+165. **Which phase assesses variant celiac anatomy?**  
+    **A. Early arterial (CT angiography) phase**  
+    B. Portal venous phase  
+    C. Delayed phase  
+    D. Pancreatic phase  
+    *Correct: A. The early arterial phase is optimized for visualizing arterial anatomy, crucial for surgical planning.*
+
+166. **What is the normal mean liver length in the right midclavicular line?**  
+    A. 12 cm  
+    B. 13 cm  
+    **C. 10 cm**  
+    D. 15 cm  
+    *Correct: C. The normal mean liver length is 10 cm in the right midclavicular line, with a standard deviation of 1.5 cm.*
+
+167. **How does normal liver echogenicity compare to the spleen?**  
+    A. Hyperechoic  
+    **B. Hypoechoic**  
+    C. Isoechoic  
+    D. Markedly hyperechoic  
+    *Correct: B. The normal liver is hypoechoic (darker) compared to the spleen, which is relatively more echogenic.*
+
+168. **Which MRI sequence highlights fluid in ducts?**  
+    A. T1-weighted  
+    B. Diffusion-weighted  
+    **C. Heavily T2-weighted**  
+    D. Gradient echo  
+    *Correct: C. MRCP uses heavily T2-weighted sequences to make fluid-filled ducts appear bright.*
+
+169. **Which contrast agent is taken up by hepatocytes and excreted in bile?**  
+    A. Gadopentetate dimeglumine  
+    **B. Gadoxetic acid (Gd-EOB-DTPA)**  
+    C. Iodinated contrast  
+    D. Barium sulfate  
+    *Correct: B. Gadoxetic acid is a hepatobiliary-specific contrast agent taken up by hepatocytes and excreted into bile.*
+
+170. **When is the hepatobiliary phase acquired with Gd-EOB-DTPA?**  
+    A. Immediately  
+    B. 5 minutes  
+    **C. 20 minutes**  
+    D. 60 minutes  
+    *Correct: C. The hepatobiliary phase with Gd-EOB-DTPA is typically imaged around 20 minutes after IV injection.*
+
+171. **Which MRI contrast agent behaves like iodinated CT contrast?**  
+    **A. Extracellular fluid (ECF) agents**  
+    B. Hepatobiliary agents  
+    C. Reticuloendothelial agents  
+    D. Blood pool agents  
+    *Correct: A. ECF agents like Gd-DTPA diffuse into the extravascular space like iodinated CT contrast.*
+
+172. **On T1-weighted MRI, how does normal liver appear relative to spleen?**  
+    **A. Hyperintense (brighter)**  
+    B. Hypointense (darker)  
+    C. Isointense  
+    D. Variable  
+    *Correct: A. Normal liver is brighter than the spleen on T1-weighted images.*
+
+173. **Which liver lesion shows the highest T2 signal intensity?**  
+    A. HCC  
+    **B. Hemangioma**  
+    C. Metastasis  
+    D. Abscess  
+    *Correct: B. Hemangiomas exhibit very high T2 signal intensity, often described as “lightbulb bright.”*
+
+174. **Which MRI sequence helps detect small liver metastases?**  
+    A. T1-weighted  
+    B. T2-weighted  
+    **C. Diffusion-weighted imaging (DWI)**  
+    D. In-phase imaging  
+    *Correct: C. DWI highlights areas of restricted water diffusion, commonly seen in hypercellular tumors.*
+
+175. **What is the primary role of MRCP?**  
+    A. Assess liver perfusion  
+    **B. Evaluate biliary and pancreatic duct anatomy noninvasively**  
+    C. Quantify liver iron  
+    D. Stage fibrosis  
+    *Correct: B. MRCP provides a noninvasive alternative to ERCP/PTC for visualizing ductal anatomy.*
+
+176. **Which is a key advantage of MRCP over ERCP?**  
+    A. Allows therapeutic interventions  
+    **B. Noninvasive with no procedural morbidity**  
+    C. Higher spatial resolution  
+    D. Better for detecting small stones  
+    *Correct: B. MRCP avoids risks associated with endoscopy and contrast injection.*
+
+177. **Which artifact appears as posterior echogenic bands in adenomyomatosis?**  
+    A. Acoustic shadowing  
+    **B. Comet tail artifact**  
+    C. Twinkle artifact  
+    D. Edge artifact  
+    *Correct: B. Comet tail artifact results from reverberation between closely spaced reflectors.*
+
+178. **Twinkle artifact helps detect:**  
+    A. Blood flow  
+    **B. Calcifications without shadowing**  
+    C. Fat  
+    D. Fibrosis  
+    *Correct: B. Twinkle artifact—a color Doppler noise posterior to strong reflectors—helps confirm calcifications.*
+
+179. **Which phase in pancreatic CT is acquired ~30–40 sec post-contrast?**  
+    A. Portal venous  
+    **B. Late arterial/pancreatic parenchymal phase**  
+    C. Delayed  
+    D. Noncontrast  
+    *Correct: B. This phase maximizes contrast between tumor and normal pancreas.*
+
+180. **Why is oral water used in pancreas CT?**  
+    A. Enhance secretion  
+    **B. Distinguish vessels from bowel**  
+    C. Reduce dose  
+    D. Hydrate patient  
+    *Correct: B. Oral water acts as a negative contrast agent, helping differentiate vessels from bowel.*
+
+181. **Which nuclei are primarily imaged in MRI?**  
+    A. Phosphorus-31  
+    B. Sodium-23  
+    **C. Hydrogen-1 (protons)**  
+    D. Carbon-13  
+    *Correct: C. Hydrogen atoms (protons) in water and fat provide the primary signal in clinical MRI.*
+
+182. **What determines MRI signal intensity?**  
+    A. X-ray attenuation  
+    **B. T1, T2, proton density, flow**  
+    C. Ultrasound reflection  
+    D. Glucose metabolism  
+    *Correct: B. MRI signal intensity depends on intrinsic tissue properties including T1 and T2 relaxation.*
+
+183. **Which MRI safety concern is linked to GBCAs?**  
+    A. Radiation  
+    B. Allergy  
+    **C. NSF**  
+    D. Hepatotoxicity  
+    *Correct: C. NSF is a rare but serious complication linked to GBCA use in patients with severe renal impairment.*
+
+184. **In which patients is NSF risk highest?**  
+    A. eGFR >60  
+    B. Diabetes  
+    **C. eGFR <30, especially <15**  
+    D. Hypertension  
+    *Correct: C. The risk of NSF increases significantly in patients with severely reduced renal function.*
+
+185. **Which GBCA type has the lowest NSF risk?**  
+    A. Linear ionic  
+    B. Linear non-ionic  
+    **C. Macrocyclic**  
+    D. Extracellular  
+    *Correct: C. Macrocyclic GBCAs have greater stability and lower risk of gadolinium release.*
+
+186. **Why is MRI safer than CT in some populations?**  
+    A. Faster  
+    **B. No ionizing radiation**  
+    C. Lower cost  
+    D. More available  
+    *Correct: B. MRI uses magnetic fields and radio waves instead of x-rays, eliminating radiation exposure.*
+
+187. **Which modality is most frequently requested for liver/pancreas?**  
+    A. PET-CT  
+    B. Ultrasound  
+    **C. CT**  
+    D. MRI  
+    *Correct: C. CT remains the most frequently used modality due to its high spatial resolution and availability.*
+
+188. **Which structure is best evaluated in portal venous phase?**  
+    A. Celiac artery  
+    **B. Portal and hepatic veins**  
+    C. Renal arteries  
+    D. Aortic dissection  
+    *Correct: B. The portal venous phase provides optimal opacification of portal and hepatic veins.*
+
+189. **Typical contrast injection rate for pancreatic CT?**  
+    A. 1–2 mL/sec  
+    B. 2–3 mL/sec  
+    **C. 4–6 mL/sec**  
+    D. 8–10 mL/sec  
+    *Correct: C. A high flow rate (4–6 mL/sec) ensures rapid bolus delivery.*
+
+190. **Which technique creates 3D arterial models from CT?**  
+    A. DTI  
+    **B. Volume-rendered reconstruction**  
+    C. TOF  
+    D. PC  
+    *Correct: B. Volume rendering transforms axial CT data into interactive 3D models.*
+
+191. **Appearance of free water on T1/T2 MRI?**  
+    A. Bright T1, dark T2  
+    **B. Dark T1, bright T2**  
+    C. Bright both  
+    D. Dark both  
+    *Correct: B. Free water has long T1 and T2, appearing dark on T1 and bright on T2.*
+
+192. **Purpose of power injector in CT pancreas protocols?**  
+    A. Reduce volume  
+    **B. Ensure consistent and rapid contrast delivery**  
+    C. Avoid extravasation  
+    D. Warm contrast  
+    *Correct: B. A dedicated CT power injector ensures accurate timing and consistent bolus profile.*
+
+193. **Which organization publishes MRI safety guidelines?**  
+    A. FDA  
+    **B. ACR**  
+    C. WHO  
+    D. CDC  
+    *Correct: B. The ACR has established comprehensive MRI safety guidelines.*
+
+194. **Which MRI sequence evaluates liver fibrosis?**  
+    A. T1w  
+    **B. DWI**  
+    C. In-phase  
+    D. GRE  
+    *Correct: B. DWI can assess changes in liver parenchyma, including fibrosis.*
+
+195. **Which MRI contrast agent allows hepatobiliary phase at ~20 min?**  
+    A. Gadobenate  
+    **B. Gadoxetic acid**  
+    C. Gadopentetate  
+    D. Mangafodipir  
+    *Correct: B. Gd-EOB-DTPA allows hepatobiliary phase imaging at ~20 minutes.*
+
+196. **Which is NOT a hepatobiliary-specific agent?**  
+    A. Gadoxetic acid  
+    B. Gadobenate  
+    **C. Gadopentetate dimeglumine**  
+    D. Mangafodipir  
+    *Correct: C. Gadopentetate dimeglumine is an extracellular agent.*
+
+197. **Which technique mimics ERCP without endoscopy?**  
+    A. CTA  
+    **B. MRCP**  
+    C. Elastography  
+    D. PET-CT  
+    *Correct: B. MRCP provides noninvasive visualization of ducts.*
+
+198. **Main advantage of MRCP over ERCP?**  
+    A. Stone removal  
+    B. Higher resolution  
+    **C. No procedural morbidity**  
+    D. Real-time  
+    *Correct: B. MRCP avoids risks associated with endoscopy and contrast injection.*
+
+199. **Which sequence generates MRCP images?**  
+    A. T1w  
+    B. DWI  
+    **C. Heavily T2w**  
+    D. GRE  
+    *Correct: C. Heavily T2-weighted sequences highlight fluid in ducts.*
+
+200. **Which imaging modality is considered safest at diagnostic levels?**  
+    A. CT  
+    B. PET  
+    C. MRI  
+    **D. Ultrasound**  
+    *Correct: D. Ultrasound is considered safe at clinical levels with no confirmed harmful biological effects.*

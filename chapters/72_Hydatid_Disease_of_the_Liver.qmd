@@ -1,0 +1,1359 @@
+# 72 Hydatid Disease of the Liver
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+**1. What is the most common species causing cystic echinococcosis worldwide?**
+
+- Echinococcus multilocularis
+- **Echinococcus granulosus**
+- Echinococcus vogeli
+- Echinococcus oligarthus
+
+*Explanation: Echinococcus granulosus is the most prevalent species, accounting for more than 95% of the estimated 2 to 3 million cases of echinococcosis in the world.*
+
+**2. What percentage of hydatid cysts typically affect the liver?**
+
+- 20%–30%
+- 30%–50%
+- **50%–70%**
+- 70%–90%
+
+*Explanation: Hydatid cysts usually affect the liver in 50%–70% of cases, followed by the lungs in 20%–30% of cases.*
+
+**3. Which organ is the second most commonly affected by hydatid disease after the liver?**
+
+- Spleen
+- Kidney
+- Brain
+- **Lungs**
+
+*Explanation: After the liver (50%–70%), the lungs are the second most commonly affected organ in 20%–30% of hydatid disease cases.*
+
+**4. What proportion of patients with liver hydatid cysts may develop complications?**
+
+- 5%–10%
+- 10%–20%
+- **Up to a third**
+- More than half
+
+*Explanation: Up to a third of affected patients can develop complications such as secondary infection of the cyst cavity, biliary fistula, and rupture into the peritoneal and pleural cavity.*
+
+**5. What is the definitive host for Echinococcus granulosus?**
+
+- Sheep
+- Cattle
+- **Dogs (members of the canid family)**
+- Humans
+
+*Explanation: The definitive hosts of Echinococcus granulosus are usually members of the canid family, such as dogs, which develop the adult worm in the gut following ingestion of the larvae.*
+
+**6. What is the most widely distributed genotype of Echinococcus granulosus sensu stricto globally?**
+
+- G2
+- **G1**
+- G5
+- G6
+
+*Explanation: Genotype 1 (G1) is the most widely distributed species at the global level and accounts for approximately 80% of human cases of hydatid disease.*
+
+**7. How long does the complete life cycle of Echinococcus granulosus typically take?**
+
+- 7–14 days
+- 14–21 days
+- **32–80 days**
+- 3–6 months
+
+*Explanation: A complete life cycle of Echinococcus granulosus requires two hosts and takes 32 to 80 days.*
+
+**8. At what rate do hydatid cysts typically grow?**
+
+- 0.1–0.5 cm/year
+- **1–5 cm/year**
+- 5–10 cm/year
+- 10–15 cm/year
+
+*Explanation: Hydatid cysts grow at a rate of 1 to 5 cm/year and may remain undetected for years, allowing them to reach very large sizes before becoming clinically evident.*
+
+**9. Which lobe of the liver is more frequently affected by hydatid cysts?**
+
+- Left lobe
+- **Right lobe**
+- Caudate lobe
+- Both lobes equally
+
+*Explanation: Hydatid cysts tend to affect the right lobe more frequently than the left lobe due to the nature of the portal blood flow.*
+
+**10. What are the three layers of a hydatid cyst from outermost to innermost?**
+
+- Endocyst, ectocyst, pericyst
+- Ectocyst, endocyst, pericyst
+- **Pericyst, ectocyst, endocyst**
+- Pericyst, endocyst, ectocyst
+
+*Explanation: There are three layers in a hydatid cyst: pericyst (outermost/adventitial layer), ectocyst (middle acellular laminated membrane), and endocyst (innermost germinal epithelium).*
+
+**11. Which layer of the hydatid cyst is the only living component?**
+
+- Pericyst
+- Ectocyst
+- **Endocyst (germinal epithelium)**
+- Adventitial layer
+
+*Explanation: The endocyst or germinal epithelium is the innermost layer and is the only living component, being responsible for the formation of the other layers as well as the hydatid fluid and brood capsules.*
+
+**12. What is the "hydatid sand"?**
+
+- Calcified debris in the cyst
+- **White sediment formed by protoscolices in cyst fluid**
+- Daughter cysts attached to the wall
+- Biliary contents in the cyst
+
+*Explanation: When vesicles rupture within the cyst, protoscolices pass into the cyst fluid and form a white sediment known as hydatid sand.*
+
+**13. In which region is the highest prevalence of both Echinococcus granulosus and Echinococcus multilocularis found?**
+
+- South America
+- Australia
+- **Central Asia**
+- North Africa
+
+*Explanation: Some areas, such as Central Asia, present a high prevalence of both Echinococcus granulosus and Echinococcus multilocularis.*
+
+**14. What is the estimated global burden of hydatid disease at any one time?**
+
+- 100,000 cases
+- 500,000 cases
+- **1 million cases**
+- 5 million cases
+
+*Explanation: The global burden of hydatid disease is estimated at 1 million at any one time.*
+
+**15. What is the estimated annual economic burden of hydatid disease to the global livestock industry?**
+
+- $100 million
+- $500 million
+- **Over $3 billion**
+- $10 billion
+
+*Explanation: The economic burden of hydatid disease to the global livestock industry has been estimated at over $3 billion per annum.*
+
+**16. In which age group were the majority (35%) of CE cases observed in Europe in 2017?**
+
+- 0–24 years
+- **25–44 years**
+- 45–64 years
+- Over 65 years
+
+*Explanation: The majority (35%) of CE cases in Europe in 2017 were observed in the age group 25 to 44 years, followed by the age group 45 to 64 years (25%).*
+
+**17. What is the mean annual incidence of human echinococcosis in Neuquén, Argentina?**
+
+- 2.5 per 10^5 inhabitants
+- 5.0 per 10^5 inhabitants
+- **8.9 per 10^5 inhabitants**
+- 15.0 per 10^5 inhabitants
+
+*Explanation: Despite control programs since 1970, the mean annual incidence of human Echinococcus granulosus in Neuquén is 8.9 per 10^5 inhabitants.*
+
+**18. What is the estimated global burden of hydatid disease in disability-adjusted life years (DALYs) annually?**
+
+- 100,000–500,000 DALYs
+- **1–3 million DALYs**
+- 5–10 million DALYs
+- 10–20 million DALYs
+
+*Explanation: The global burden of hydatid disease has been calculated to be approximately 1 to 3 million disability-adjusted life years (DALYs) annually.*
+
+**19. Which complication occurs in approximately 10% of hydatid cysts?**
+
+- Rupture into peritoneum
+- **Secondary bacterial infection**
+- Intrathoracic rupture
+- Cutaneous fistulization
+
+*Explanation: Secondary bacterial infection occurs in approximately 10% of hydatid cysts but is usually latent and subacute.*
+
+**20. What is the most common complication of liver hydatid disease?**
+
+- Peritoneal rupture
+- **Cystobiliary communication (intrabiliary rupture)**
+- Intrathoracic rupture
+- Portal vein thrombosis
+
+*Explanation: Cystobiliary communication is the most common complication of liver hydatid disease and one of the most serious, occurring in up to 42% of patients in some series.*
+
+**21. What percentage of liver hydatid cysts have some kind of biliary communication during their evolution?**
+
+- 30%
+- 50%
+- **Up to 90%**
+- 100%
+
+*Explanation: It has been reported that up to 90% of the liver hydatid cysts have some kind of communication with the biliary tree during their evolution.*
+
+**22. What is the classic triad of biliary rupture in cystic hydatid disease?**
+
+- Fever, jaundice, abdominal pain
+- **Biliary colic, jaundice, and urticaria**
+- Vomiting, diarrhea, pruritus
+- Hemoptysis, chest pain, dyspnea
+
+*Explanation: The classic triad of biliary rupture in cystic hydatid disease consists of biliary colic, jaundice, and urticaria, eventually associated with fever in case of cholangitis.*
+
+**23. What size cutoff for cyst diameter is most commonly reported as a predictor for cystobiliary communications?**
+
+- 5 cm
+- 7.5 cm
+- **10 cm**
+- 15 cm
+
+*Explanation: A cutoff value in size from 7.5 cm to 14.5 cm was demonstrated in different studies, but the most commonly reported was 10 cm as a predictor for cystobiliary communications.*
+
+**24. What is the third most common complication after intrabiliary rupture and allergic reactions?**
+
+- Portal vein thrombosis
+- **Peritoneal rupture**
+- Intrathoracic rupture
+- Secondary infection
+
+*Explanation: Intraperitoneal rupture of a hydatid cyst is the third most common complication (1%–16%) after intrabiliary rupture and allergic reactions.*
+
+**25. What intracystic pressure threshold may lead to peritoneal rupture?**
+
+- 20 cm H2O
+- 35 cm H2O
+- **More than 50 cm H2O**
+- 100 cm H2O
+
+*Explanation: Intraperitoneal rupture of a hydatid cyst may result when the intracystic pressure increases more than 50 cm H2O.*
+
+**26. What percentage of patients with hydatid cyst rupture develop severe allergic reactions?**
+
+- Less than 0.1%
+- 0.5%–1%
+- **1%–12.5%**
+- 25%–50%
+
+*Explanation: Approximately 16.7% to 25% of patients with hydatid cyst rupture develop minor allergic reactions, and 1% to 12.5% of patients develop more severe allergic reactions such as peripheral edema, syncope, or anaphylaxis.*
+
+**27. What is the frequency range of intrathoracic rupture of liver hydatid cysts in reported cases?**
+
+- 0.5%–1%
+- **2.5%–16%**
+- 20%–30%
+- 40%–50%
+
+*Explanation: The frequency of intrathoracic rupture appears to decline from 16% to 2.5% of the reported cases.*
+
+**28. What is the pathognomonic sign of biliobronchial fistulization?**
+
+- Hemoptysis
+- Hydatid vomica
+- **Bilioptysis**
+- Chest pain
+
+*Explanation: Bilioptysis, the expectoration of bile, is a pathognomonic sign of biliobronchial fistulization, clinically evident in 28.6% to 40.6% of cases.*
+
+**29. What percentage of spontaneous cyst rupture into the gastrointestinal tract occurs?**
+
+- 5%
+- 2%
+- **0.5%**
+- 10%
+
+*Explanation: Spontaneous cyst rupture in the gastrointestinal tract is infrequent, occurring in only 0.5% of cases.*
+
+**30. What is the most common symptom when liver hydatid cysts become symptomatic?**
+
+- Fever
+- Jaundice
+- **Right upper quadrant or epigastric pain**
+- Weight loss
+
+*Explanation: The most common symptom, when it occurs, is right upper quadrant or epigastric pain.*
+
+**31. What is the diagnostic accuracy of ultrasound for hydatid cysts?**
+
+- 70%
+- 80%
+- **90%**
+- 95%
+
+*Explanation: Ultrasound is the screening method of choice and primary diagnostic technique, with a diagnostic accuracy of 90%.*
+
+**32. Which WHO-IWGE cyst type is described as "unilocular, echo-free cyst, often double-walled" with "snowflake effect"?**
+
+- CE2
+- **CE1**
+- CE3A
+- CE4
+
+*Explanation: CE1 is described as unilocular, echo-free cyst, often double-walled, with "snowflake effect" apparent on shifting the patient's position due to free-floating protoscolices.*
+
+**33. Which WHO-IWGE cyst type shows "daughter cysts in solid matrix"?**
+
+- CE3A
+- **CE3B**
+- CE4
+- CE5
+
+*Explanation: CE3B is characterized by daughter cysts in solid matrix and is classified as transitional in activity.*
+
+**34. Which imaging modality has the highest sensitivity (94%–100%) for detecting hydatid cysts?**
+
+- Ultrasound
+- **Multidetector row CT**
+- MRI
+- Plain radiography
+
+*Explanation: Multidetector row CT has the highest sensitivity of imaging of the cyst (94%–100%) and is the best mode to detect the number, size, and location of the cysts.*
+
+**35. Which imaging modality is superior for demonstrating internal composition of cysts and cyst wall defects?**
+
+- CT
+- **MRI**
+- Ultrasound
+- PET scan
+
+*Explanation: MRI is superior to CT in demonstrating the internal composition of cysts, the cyst wall defects, potential biliary involvement, and neural involvement.*
+
+**36. What is the "water lily sign" on ultrasound?**
+
+- Multiple daughter cysts
+- **Separation of membranes due to collapse of germinal layer**
+- Calcified cyst wall
+- Hydatid sand
+
+*Explanation: The "water lily sign" is due to separation of membranes with floating undulating hyperechoic membranes showing the dual wall, caused by partial or total detachment of the laminated layer.*
+
+**37. Which imaging modality is best for identifying cystobiliary fistulas?**
+
+- CT
+- Ultrasound
+- **MRI**
+- Plain radiograph
+
+*Explanation: MRI is also superior in identifying cystobiliary fistulas and changes of the intrahepatic and extrahepatic venous system.*
+
+**38. What is the sensitivity range of ERCP in diagnosing intrabiliary rupture?**
+
+- 50%–70%
+- 70%–85%
+- **86%–100%**
+- 100%
+
+*Explanation: ERCP has a high sensitivity (86% to 100%) in the diagnosis of intrabiliary rupture as it directly demonstrates linear wavy filling defects of laminated hydatid membrane.*
+
+**39. What is the main goal of treatment for liver hydatid cysts?**
+
+- Pain relief only
+- Reduce cyst size
+- **Complete elimination of the parasite and prevention of recurrent disease**
+- Cosmetic improvement
+
+*Explanation: The main goals of treatment are to ensure complete elimination of the parasite (including the destruction or resection of the germinal layer) and the prevention of recurrent disease with a low rate of morbidity.*
+
+**40. Which treatment remains the gold standard for large, active, symptomatic, or complicated hydatid cysts?**
+
+- Medical therapy alone
+- Percutaneous drainage
+- **Surgery**
+- Watchful waiting
+
+*Explanation: Surgery remains the only definitive treatment for large, active, symptomatic, or complicated hydatid cysts.*
+
+**41. What are the four main principles of hydatid surgery?**
+
+- Remove cyst, antibiotics, drainage, chemotherapy
+- **Remove infective components, avoid spillage, address residual cavity, manage biliary communications**
+- Aspiration, injection, reaspiration, sclerotherapy
+- Observation, medical therapy, drainage, resection
+
+*Explanation: The main principles of hydatid surgery are: (1) remove all infective components contained in the cyst; (2) avoid spillage of cyst contents into the abdomen; (3) address the residual cavity; and (4) search for and manage any communication with the biliary tract or adjacent organs.*
+
+**42. What is capitonnage?**
+
+- Complete cyst resection
+- **An obliterative procedure that sutures the cystic wall**
+- Injection of scolicidal agents
+- Laparoscopic approach
+
+*Explanation: Capitonnage is an obliterative procedure that sutures the cystic wall, still used in endemic regions for treatment of the residual cavity.*
+
+**43. What is the recommended scolicidal agent by WHO-IWGE for surgical procedures?**
+
+- Formalin
+- Betadine
+- **20% hypertonic saline**
+- 95% alcohol
+
+*Explanation: WHO-IWGE recommended 20% hypertonic saline as the preferred protoscolecide in surgery and 20% hypertonic saline or 95% alcohol in percutaneous procedures.*
+
+**44. Which scolicidal agents should never be used under any circumstances?**
+
+- Hypertonic saline and alcohol
+- **Formalin and betadine**
+- Chlorhexidine and iodine
+- Hydrogen peroxide and saline
+
+*Explanation: Formalin and betadine should never be used under any circumstances due to serious complications including toxicity to bile duct mucosa.*
+
+**45. When was the first laparoscopic procedure for liver hydatid cyst performed?**
+
+- 1985
+- 1988
+- **1992**
+- 1995
+
+*Explanation: Since the first laparoscopic procedure was performed in 1992, this technique has been confirmed to be feasible and safe, avoiding a laparotomy.*
+
+**46. What is the overall postoperative morbidity range for surgical treatment of liver hydatid cysts?**
+
+- 1%–5%
+- 5%–15%
+- **9%–42%**
+- 50%–70%
+
+*Explanation: Overall postoperative morbidity ranges between 9% and 42%, with surgical complications including biliary fistula, intraabdominal abscess, wound infection, and hemorrhage.*
+
+**47. What is the generally reported postoperative mortality range for liver hydatid cyst surgery?**
+
+- 0%–0.5%
+- **0%–3.2%**
+- 5%–10%
+- 10%–15%
+
+*Explanation: Generally, postoperative mortality ranges from 0% to 3.2% for surgical treatment of liver hydatid cysts.*
+
+**48. What is the recommended surveillance schedule after surgery for liver hydatid cyst?**
+
+- Monthly for 1 year
+- **First month after discharge, every 6 months during first 4 years, then annually**
+- Every 3 months for 5 years
+- Annual follow-up only
+
+*Explanation: It is usually recommended at the first month after discharge, every 6 months during the first 4 years, and then annually thereafter, to detect recurrences.*
+
+**49. What is the recurrence rate range for liver hydatid cysts after surgical treatment?**
+
+- 0%–1%
+- **0%–8.6%**
+- 10%–20%
+- 20%–30%
+
+*Explanation: Recurrence rates of liver hydatid cysts range from 0% to 8.6% according to various studies.*
+
+**50. What does the PAIR technique stand for?**
+
+- Percutaneous Aspiration, Irrigation, and Removal
+- **Puncture, Aspiration, Injection, and Reaspiration**
+- Percutaneous Access, Injection, and Reaspiration
+- Puncture, Aspiration, Irrigation, and Repair
+
+*Explanation: The PAIR technique stands for Puncture, Aspiration, Injection, and Reaspiration, first described in the late 1980s.*
+
+**51. For which WHO cyst types is the PAIR technique most appropriate?**
+
+- CE4 and CE5
+- **CE1 and CE3a**
+- CE2 and CE3b
+- All cyst types
+
+*Explanation: WHO types CE1 and CE3a can be treated either by PAIR or PAIDS. The PAIR technique is used for cysts smaller than 5 to 6 cm in diameter.*
+
+**52. What is the drug of choice for medical treatment of echinococcosis?**
+
+- Mebendazole
+- **Albendazole**
+- Praziquantel
+- Metronidazole
+
+*Explanation: Because of its increased bioavailability and easier administration to patients, albendazole has become the antiinfective treatment of choice for echinococcosis.*
+
+**53. What is the average dosage of albendazole for treating echinococcosis?**
+
+- 5–10 mg/kg/day
+- **10–15 mg/kg/day**
+- 20–25 mg/kg/day
+- 30–40 mg/kg/day
+
+*Explanation: Albendazole is administered at an average dosage of 10 to 15 mg/kg/day for the treatment of echinococcosis.*
+
+**54. What is the active metabolite of albendazole?**
+
+- Albendazole sulfone
+- **Albendazole sulphoxide**
+- Albendazole glucuronide
+- Hydroxy-albendazole
+
+*Explanation: After oral ingestion, albendazole is rapidly metabolized into the active form albendazole sulphoxide, which inhibits tubulin polymerization in the parasite microtubules.*
+
+**55. Which drug has shown efficacy in combination with benzimidazoles for hydatid disease?**
+
+- Metronidazole
+- Ivermectin
+- **Praziquantel**
+- Chloroquine
+
+*Explanation: Praziquantel (40–50 mg/kg/day) has shown efficacy in combination with benzimidazoles and is probably an ideal agent for prophylaxis in the preoperative and postoperative setting.*
+
+**56. For which cyst types is the "watch-and-wait" approach recommended?**
+
+- CE1 and CE2
+- CE2 and CE3
+- CE3 and CE4
+- **CE4 and CE5**
+
+*Explanation: The "watch-and-wait" strategy is recommended for degenerating CE4 cysts and all CE5 type cysts, as these are inactive forms.*
+
+**57. What percentage of patients with CE4–CE5 cysts remained stable without complications when observed for at least 2 years?**
+
+- 75%
+- 85%
+- **98%**
+- 100%
+
+*Explanation: In a recent study, 98% of 53 patients with CE4–CE5 cysts observed for at least 2 years remained stable, without complications.*
+
+**58. How long should patients with hydatid disease be followed up after treatment?**
+
+- 1 year
+- 2 years
+- **At least 5 years**
+- 10 years
+
+*Explanation: A close follow-up of patients with hydatid disease should be undertaken for at least 5 years because of the high rates of relapse after surgery and the uncertainty of complete cure after drug treatment.*
+
+**59. Which animal is the definitive host for Echinococcus multilocularis?**
+
+- Dogs
+- Sheep
+- **Foxes**
+- Cattle
+
+*Explanation: Alveolar echinococcosis is caused by ingestion of eggs of Echinococcus multilocularis, found in the excrement of foxes.*
+
+**60. In which hemisphere is alveolar echinococcosis endemic?**
+
+- Southern Hemisphere
+- **Northern Hemisphere**
+- Both hemispheres equally
+- Only in tropical regions
+
+*Explanation: Alveolar echinococcosis is endemic in the Northern Hemisphere, including North America and several Asian and European countries.*
+
+**61. What is the typical growth pattern of alveolar echinococcosis compared to cystic echinococcosis?**
+
+- Encapsulated growth like CE
+- **Infiltrative neoplastic growth with potential metastasis**
+- Rapid expansive growth
+- No growth, remains static
+
+*Explanation: Compared with encapsulated growth of cystic echinococcosis, alveolar echinococcosis presents an infiltrative neoplastic growth with potential metastasis to adjacent and distant organs.*
+
+**62. What is the diagnostic sensitivity range of serology tests for alveolar echinococcosis?**
+
+- 50%–70%
+- 70%–85%
+- **90%–100%**
+- 100%
+
+*Explanation: Serology tests (ELISA, Western blot) have a high diagnostic sensitivity of 90% to 100%, with a specificity of 95% to 100% for alveolar echinococcosis.*
+
+**63. What is the typical asymptomatic phase duration for alveolar echinococcosis before symptom development?**
+
+- 1–2 years
+- 2–5 years
+- **5–15 years**
+- 15–25 years
+
+*Explanation: Alveolar echinococcosis usually has an asymptomatic phase between 5 and 15 years before the development of symptoms.*
+
+**64. What is the only curative procedure for alveolar echinococcosis?**
+
+- Medical therapy alone
+- **Radical resection**
+- Liver transplantation
+- Percutaneous drainage
+
+*Explanation: Radical resection is the only curative procedure for alveolar echinococcosis, even though it is often difficult to achieve because of echinococcal dissemination.*
+
+**65. How long should antihelminthic therapy continue after radical resection for alveolar echinococcosis?**
+
+- 3 months
+- 6 months
+- 1 year
+- **2 years**
+
+*Explanation: Radical resection should be followed by a 2-year period of antihelminthic therapy (e.g., benzimidazole) and patients should be monitored for at least 10 years.*
+
+**66. What is the average rate of curative resections for alveolar echinococcosis across different series?**
+
+- 25%
+- 40%
+- **63%**
+- 85%
+
+*Explanation: According to different series, the average rate of curative resections is 63% (range, 21%–87%).*
+
+**67. What is the recommended minimum safe distance for surgical margins in alveolar echinococcosis resection?**
+
+- 0.5 mm
+- 1 mm
+- 5 mm
+- **20 mm**
+
+*Explanation: Experts recommend a 20 mm margin-free resection to avoid local recurrence, although data are scarce to support this recommendation.*
+
+**68. What imaging finding on CT characterizes alveolar echinococcosis?**
+
+- Well-defined cystic lesion with thin wall
+- **Tumor-like mass with irregular borders, heterogeneous internal structures and multiple calcifications**
+- Simple fluid-filled cyst
+- Homogeneous solid mass
+
+*Explanation: On unenhanced CT, alveolar echinococcosis lesions appear as tumor-like masses with irregular borders, with heterogeneous internal structures and multiple calcifications.*
+
+**69. Which imaging modality is useful for detecting metabolic activity in alveolar echinococcosis?**
+
+- CT
+- MRI
+- Ultrasound
+- **FDG-PET**
+
+*Explanation: Fluorodeoxyglucose positron emission tomography (FDG-PET) is useful for the detection of metabolic activity in alveolar echinococcosis and for assessment of lesion metabolism.*
+
+**70. When is liver transplantation indicated for alveolar echinococcosis?**
+
+- All cases
+- Early stage disease
+- **Advanced cases with liver failure and inability to achieve radical resection**
+- Only in children
+
+*Explanation: Liver transplantation is indicated in advanced cases with liver failure and inability to achieve a radical resection, with the absence of extrahepatic localizations being mandatory.*
+
+**71. What is the name of the vaccine promoted for sheep to eliminate Echinococcus granulosus transmission?**
+
+- EG50
+- **EG95**
+- Echinovac
+- Hydatidshield
+
+*Explanation: Vaccination of sheep with the EG95 vaccine has been promoted as a complementary intervention to eliminate Echinococcus granulosus transmission.*
+
+**72. What is the most common finding on examination of patients with liver hydatid cysts?**
+
+- Fever and jaundice
+- **Enlarged liver and palpable mass**
+- Ascites and splenomegaly
+- Abdominal tenderness only
+
+*Explanation: The most common findings on examination are an enlarged liver and a palpable mass in patients with liver hydatid cysts.*
+
+**73. What percentage of infected people have multiple cysts?**
+
+- 5%–10%
+- **20%–40%**
+- 50%–60%
+- 70%–80%
+
+*Explanation: Most primary infections consist of a single cyst, but up to 20% to 40% of infected people have multiple cysts.*
+
+**74. What is the "snake sign" on MRI?**
+
+- Cyst wall calcification
+- **Collapsed membranes after damage or degeneration of the hydatid cyst**
+- Daughter cysts arrangement
+- Vascular invasion
+
+*Explanation: Secondary to damage or degeneration of the hydatid cyst, the membranes collapse and MRI shows the typical "snake sign."*
+
+**75. What is the main disadvantage of simple suturing for minor cistobiliary fistulas (<5mm)?**
+
+- Technical difficulty
+- **Risk of prolonged biliary leakage and subphrenic abscess formation**
+- Need for specialized equipment
+- High recurrence rate
+
+*Explanation: The main disadvantage of simple suturing for minor cistobiliary fistulas is the risk of prolonged biliary leakage and subphrenic abscess formation.*
+
+**76. What is the success rate range of preoperative therapeutic ERCP for frank fistula with obstructive jaundice?**
+
+- 50%–70%
+- 70%–80%
+- **80%–100%**
+- 100%
+
+*Explanation: Preoperative therapeutic ERCP has a reported success rate of 80% to 100% and can be used when hydatid membranes and/or daughter cysts that generate biliary obstruction are demonstrated by cholangiography.*
+
+**77. What is the postoperative mortality range for patients with biliary rupture?**
+
+- 0%–0.5%
+- 0.5%–1%
+- **1.25%–7%**
+- 10%–15%
+
+*Explanation: Postoperative mortality in patients with biliary rupture ranges from 1.25% to 7% and is caused mainly by sepsis and liver failure.*
+
+**78. What is the range of postoperative morbidity for patients with biliary rupture compared to those without?**
+
+- Similar rates
+- **16.7%–55% (higher than without rupture)**
+- Lower than without rupture
+- Not reported
+
+*Explanation: Postoperative morbidity is between 16.7% and 55%, higher than observed in patients operated on for liver hydatid cyst without intrabiliary rupture.*
+
+**79. What is the most common postoperative complication in patients with biliary rupture?**
+
+- Wound infection
+- Hemorrhage
+- **Biliary fistula (5%–27%)**
+- Pulmonary complications
+
+*Explanation: The complications reported are biliary fistula (5%–27%), wound infection, pulmonary complications, bilioma, bleeding, and abscess.*
+
+**80. What percentage of calcification is seen at radiography in hydatid cysts?**
+
+- 5%–10%
+- **20%–30%**
+- 40%–50%
+- 60%–70%
+
+*Explanation: Calcification is seen at radiography in 20% to 30% of hydatid cysts and usually manifests with a curvilinear or ring-like pattern.*
+
+**81. What is the "cartwheel or honeycomb" appearance on ultrasound?**
+
+- Calcified cyst
+- **Daughter cysts within a cyst**
+- Detached membrane
+- Solid matrix
+
+*Explanation: Daughter cysts, probably the most characteristic sign, appear as cysts within a cyst, producing a cartwheel or honeycomb appearance on ultrasound.*
+
+**82. What is the classification system currently used as the screening method of choice for hydatid cysts?**
+
+- Gharbi classification only
+- **WHO-IWGE classification**
+- TNM staging
+- CEAP classification
+
+*Explanation: The classification system developed by Gharbi et al in 1981 was revised by the WHO-IWGE and is currently the screening method of choice.*
+
+**83. What does FASE stand for?**
+
+- Fine Aspiration Surgical Excision
+- **Focused Assessment with Sonography for Echinococcosis**
+- Fluoroscopic Aspiration and Sclerotherapy Examination
+- Functional Assessment of Surgical Echinococcosis
+
+*Explanation: FASE stands for Focused Assessment with Sonography for Echinococcosis, a training course implemented in Argentina since 2000.*
+
+**84. What is the most common genotype of Echinococcus canadensis?**
+
+- G6
+- G7
+- G8
+- **G6/G7/G8/G9/G10 (multiple genotypes)**
+
+*Explanation: Echinococcus canadensis includes genotypes G6/G7/G8/G9/G10, with G6 being the camelid strain, G7 the pig strain, and G8 the cervid strain.*
+
+**85. What is the horse strain genotype of Echinococcus granulosus sensu lato?**
+
+- G1
+- G2
+- G3
+- **G4 (Echinococcus equinus)**
+
+*Explanation: The horse strain is G4, now classified as Echinococcus equinus.*
+
+**86. What is the cattle strain genotype of Echinococcus granulosus?**
+
+- G1
+- **G5 (Echinococcus ortleppi)**
+- G6
+- G7
+
+*Explanation: The bovid strains include G3 and G5, with G5 now classified as Echinococcus ortleppi.*
+
+**87. What percentage of patients have no detectable antibodies despite circulating antigens?**
+
+- 5%–10%
+- 10%–20%
+- **30%–40%**
+- 50%–60%
+
+*Explanation: In 30% to 40% of the patients no antibodies are detectable, even with circulating antigens, indicating the presence of different mechanisms for the inhibition of host immune response.*
+
+**88. What is the predominant antibody class in human infection with Echinococcus granulosus?**
+
+- IgM
+- IgA
+- **IgG (predominantly IgG1 and IgG4)**
+- IgE
+
+*Explanation: In humans, infection with Echinococcus granulosus induces an antibody response, most commonly IgG (predominantly IgG1 and IgG4), followed by IgM, IgA, and IgE.*
+
+**89. What is the reported sensitivity range of ELISA for detection of antibodies against Echinococcus granulosus?**
+
+- 50%–70%
+- 70%–85%
+- **88.23%–95%**
+- 95%–100%
+
+*Explanation: The reported sensitivity of ELISA varies from 88.23% to 95% for detection of antibodies against Echinococcus granulosus infection.*
+
+**90. What is the sensitivity range of Western immunoblotting for diagnosis of hydatid disease?**
+
+- 50%–70%
+- 60%–80%
+- **72%–97%**
+- 98%–100%
+
+*Explanation: Sensitivity of 72% to 97% and specificity of 96% to 100% have been reported for Western immunoblotting in diagnosis of hydatid disease.*
+
+**91. What is the main advantage of the catheter technique (PAIDS) over PAIR?**
+
+- Lower cost
+- Shorter procedure time
+- **Easy management in case of obstruction and easy control of fistula**
+- No need for imaging guidance
+
+*Explanation: Advantages of the catheter technique are the easy management in case of obstruction over a needle procedure and the easy control of the fistula in case of the presence of an undetected cystobiliary communication.*
+
+**92. What is the recurrence rate with MoCaT technique for CE2 and CE3b cysts?**
+
+- 32%–61.5%
+- 15%–25%
+- **3.8%**
+- 0%
+
+*Explanation: The MoCaT technique resulted in lower recurrence rate (3.8%) for CE2 and CE3b cysts, although it had a higher complication rate.*
+
+**93. What percentage of medical treatments result in cure for hydatid disease?**
+
+- 10%–20%
+- **About 30%**
+- 50%–60%
+- 70%–80%
+
+*Explanation: Medical treatments can result in significant regression in 30% to 50% and cure in about 30% of cases.*
+
+**94. What is the recommended duration of albendazole administration after interventional procedures?**
+
+- 1 week
+- 1 month
+- **2 to 3 months**
+- 6 months
+
+*Explanation: A reasonable indication would be to administer albendazole from 1 week before to 2 to 3 months after the interventional procedure (surgery or PAIR) whenever the cyst has been opened.*
+
+**95. Which of the following is a contraindication to albendazole chemotherapy?**
+
+- Diabetes mellitus
+- Hypertension
+- **Pregnancy**
+- Asthma
+
+*Explanation: Contraindications to chemotherapy include pregnancy, chronic hepatic diseases, and bone marrow depression.*
+
+**96. What is the incidence rate range of cystic echinococcosis in endemic regions?**
+
+- 1–5 per 100,000 person-years
+- **Exceed 50 per 100,000 person-years**
+- 100–200 per 100,000 person-years
+- 500–1000 per 100,000 person-years
+
+*Explanation: In regions where cystic echinococcosis is endemic, incidence rates in humans can exceed 50 per 100,000 person-years.*
+
+**97. What percentage of CE cases in Europe in 2017 were reported by Bulgaria?**
+
+- 18%
+- 25%
+- **53%**
+- 75%
+
+*Explanation: Bulgaria accounted for 53% of the cases in 2017 and Germany for 18% of reported cystic echinococcosis cases in Europe.*
+
+**98. What is the incidence rate of hydatid disease in Turkey?**
+
+- 1.2 per 10^5 population
+- 2.5 per 10^5 population
+- **5.7 per 10^5 population**
+- 10.0 per 10^5 population
+
+*Explanation: Hydatid disease is a serious health problem in Turkey with 5.7 per 10^5 population and a high prevalence in regions of the Anatolian peninsula.*
+
+**99. How many people in central Asia and western China are at risk for hydatid disease?**
+
+- 50 million
+- 100 million
+- **At least 270 million**
+- 500 million
+
+*Explanation: In central Asia and western China at least 270 million people (58% of the total population) are at risk for hydatid disease.*
+
+**100. What is the highest recorded rate of hydatid disease in rural Australia?**
+
+- 5 per 10^5 population
+- 10 per 10^5 population
+- **23.5 per 10^5 population**
+- 50 per 10^5 population
+
+*Explanation: In Australia, the highest rates recorded have been in rural northeast and southeast New South Wales with 23.5 per 10^5 population.*
+
+**101. What is the incidence rate range in the five South American countries of the Sub-Regional Initiative?**
+
+- 0.001–0.01 per 100,000
+- **0.012–13 per 100,000 inhabitants**
+- 20–50 per 100,000
+- 50–100 per 100,000
+
+*Explanation: In a 5-year period, with an incidence rate range between 0.012 and 13 per 100,000 inhabitants according to the country in the five countries belonging to the Sub-Regional Initiative.*
+
+**102. What is the range of reported incidence in selected areas of South America?**
+
+- 1–3 per 10^5
+- **6–20 per 10^5**
+- 25–50 per 10^5
+- 50–100 per 10^5
+
+*Explanation: In selected areas of other South American countries, hydatid disease has been recorded as 6 to 20 per 10^5, such as in the south of Chile.*
+
+**103. What causes secondary Budd-Chiari syndrome in liver hydatid cysts?**
+
+- Portal vein thrombosis
+- **Compression and displacement of hepatic veins and inferior vena cava**
+- Biliary obstruction
+- Cyst infection
+
+*Explanation: Compression and displacement of hepatic veins and inferior vena cava (IVC) may lead to secondary Budd-Chiari syndrome.*
+
+**104. What is the mechanism of portal vein obstruction in hydatid disease?**
+
+- Tumor invasion
+- **Decreased portal vein inflow and thrombosis with cavernous transformation**
+- Direct cyst compression only
+- Biliary cirrhosis
+
+*Explanation: Portal vein obstruction is generated by a decreased portal vein inflow and thrombosis with cavernous transformation and is commonly associated with presinusoidal portal hypertension.*
+
+**105. What is the first theory regarding pathogenesis of cystobiliary communication?**
+
+- High intracystic pressure causes rupture of biliary radicals
+- **Compression of liver hydatid cyst on bile duct wall causes progressive necrosis**
+- Direct invasion by parasite
+- Congenital communication
+
+*Explanation: The first theory asserts that the compression of the liver hydatid cyst on the wall of the bile duct causes progressive necrosis and finally a communication between the cysts and the biliary tree.*
+
+**106. What is the second theory regarding pathogenesis of cystobiliary communication?**
+
+- Compression necrosis theory
+- **Trapping of small biliary radicals with high intracystic pressure causing atrophy and rupture**
+- Direct parasitic invasion
+- Autoimmune destruction
+
+*Explanation: The second hypothesis states that after the trapping of small biliary radicals in the pericystic wall, high intracystic pressure (35 cm H2O) causes atrophy first and then subsequently the rupture of biliary radicals.*
+
+**107. What percentage of cystobiliary ruptures are located in the right hemiliver?**
+
+- 30%
+- 45%
+- **65%**
+- 80%
+
+*Explanation: From 114 cases of cystobiliary ruptures reported in three studies, 65% were located in the right hemiliver, 21% in the left hemiliver, and 14% presented a bilateral distribution.*
+
+**108. What is the frequency range of major biliary ruptures allowing passage of cyst contents into bile duct?**
+
+- 0.5%–1%
+- 1%–3%
+- **3%–17%**
+- 20%–30%
+
+*Explanation: Major ruptures (3%–17%) allow the passage of the cyst contents (hydatid membrane and daughter cysts) into the bile duct.*
+
+**109. What percentage of patients with communicating rupture develop minor allergic reactions?**
+
+- 5%–10%
+- **16.7%–25%**
+- 30%–40%
+- 50%–60%
+
+*Explanation: Approximately 16.7% to 25% of patients with hydatid cyst rupture develop minor allergic reactions, such as urticaria and macular eruption.*
+
+**110. What is the main risk factor for peritoneal rupture related to patient age?**
+
+- Elderly age
+- **Young age**
+- Middle age
+- No age correlation
+
+*Explanation: Young age is a risk factor for peritoneal rupture because of the greater frequency of traumatic events in this population.*
+
+**111. What is the most frequent symptom of intraperitoneal cyst rupture?**
+
+- Anaphylactic shock
+- **Mild or severe abdominal pain**
+- Fever
+- Jaundice
+
+*Explanation: The most frequent symptoms of intraperitoneal cyst ruptures are mild or severe abdominal pain, nausea, vomiting, and some allergic reactions.*
+
+**112. What is secondary peritoneal echinococcosis?**
+
+- Primary infection of peritoneum
+- **Multiple cysts in peritoneal cavity from insidious rupture releasing brood capsules and scolices**
+- Bacterial infection of cyst
+- Metastatic spread from liver
+
+*Explanation: If the rupture is insidious, the release of brood capsules, scolices, and even daughter cysts from a ruptured hydatid cyst into the peritoneal cavity leads to multiple cysts in the peritoneal cavity, called secondary peritoneal echinococcosis.*
+
+**113. What is the ultimate stage of intrathoracic evolution of liver hydatid cyst?**
+
+- Pleural effusion
+- Hydatid pneumonia
+- Lung abscess
+- **Biliobronchial fistula**
+
+*Explanation: The cyst, after having passed through the diaphragm, can be fistulized in the bronchi, constituting a biliobronchial fistula, the ultimate stage of this severe complication.*
+
+**114. What is the frequency of clinical manifestations of biliobronchial fistulization?**
+
+- Always present
+- **28.6%–40.6%**
+- 50%–60%
+- 70%–80%
+
+*Explanation: Bilioptysis, a pathognomonic sign, is clinically evident in 28.6% to 40.6% of cases of biliobronchial fistulization.*
+
+**115. What is the mortality range for surgical treatment of rupture into the thorax?**
+
+- 0%–2%
+- 2%–5%
+- **8.9%–25%**
+- 30%–50%
+
+*Explanation: Prognosis is severe for intrathoracic rupture, with mortality ranging from 8.9% to 25%.*
+
+**116. What is the most common postoperative complication after surgery for intrathoracic rupture?**
+
+- Bleeding
+- **Pleuropulmonary suppurations**
+- Biliary fistula
+- Wound infection
+
+*Explanation: Postoperative complications (16%) are common after surgery for intrathoracic rupture, most frequently pleuropulmonary suppurations.*
+
+**117. What is the definition of a "possible case" of cystic echinococcosis according to expert consensus?**
+
+- Imaging findings only
+- Serology positive only
+- **Clinical or epidemiologic history, and imaging findings or serology positive**
+- Demonstration of protoscolices only
+
+*Explanation: A "possible case" is defined as any patient with a clinical or epidemiologic history, and imaging findings or serology positive for cystic echinococcosis.*
+
+**118. What is required for a "confirmed case" of cystic echinococcosis?**
+
+- Positive serology alone
+- Typical imaging findings
+- **Demonstration of protoscolices or their components, or characteristic ultrasound changes**
+- Clinical symptoms only
+
+*Explanation: A "confirmed case" requires demonstration of protoscolices or their components using direct microscopy or molecular biology, or characteristic changes in ultrasound.*
+
+**119. What percentage of patients have elevated serum alkaline phosphatase?**
+
+- 10%
+- **One third**
+- 50%
+- 75%
+
+*Explanation: Serum alkaline phosphatase levels are raised in one third of the patients with uncomplicated hydatid cysts.*
+
+**120. What is the typical appearance of daughter cysts on T1-weighted MRI?**
+
+- Hyperintense relative to intracystic fluid
+- **Hypointense relative to intracystic fluid**
+- Isointense to liver parenchyma
+- Not visible
+
+*Explanation: Daughter cysts, if present, are seen as cystic structures attached to the germinal layer that are hypointense relative to the intracystic fluid on T1-weighted images.*
+
+**121. What is the characteristic finding on T2-weighted MRI for hydatid liver cysts?**
+
+- High signal intensity rim
+- **Low signal intensity rim (pericyst rich in collagen)**
+- No specific findings
+- Homogeneous high signal
+
+*Explanation: On T2-weighted MRI, hydatid liver cysts present frequently a low signal intensity rim, represented by the pericyst, rich in collagen.*
+
+**122. What is the role of contrast-enhanced ultrasound in hydatid cyst diagnosis?**
+
+- Detect calcification
+- **Distinguish hydatid cyst from neoplasm by absence of contrast enhancement**
+- Measure cyst size
+- Guide biopsy
+
+*Explanation: Contrast-enhanced ultrasound may be used to distinguish hydatid cyst from neoplasm; the absence of contrast enhancement in the liver hydatid cyst due to fluid-filled avascular cysts may be demonstrated.*
+
+**123. What is the main advantage of intraoperative ultrasonography?**
+
+- Reduce operative time
+- **Important investigation tool during surgery for hydatid cyst of the liver**
+- Replace preoperative imaging
+- Decrease cost
+
+*Explanation: Intraoperative ultrasonography is an important investigation tool during surgery for hydatid cyst of the liver and has a crucial role in guidance for percutaneous treatments.*
+
+**124. What is the main disadvantage of conservative surgical procedures?**
+
+- Technical difficulty
+- Long operative time
+- **Risk for chemical cholangitis and anaphylactic reactions due to spillage**
+- Need for specialized equipment
+
+*Explanation: Disadvantages of conservative techniques are the risk for chemical cholangitis due to the scolicidal agents, especially if there is a biliary fistula, and anaphylactic reactions due to spillage of cystic contents.*
+
+**125. What is pericystectomy?**
+
+- Removal of cyst contents only
+- **Resection of the pericystic membrane and parasitic contents with or without liver resection**
+- Sclerotherapy of cyst wall
+- Drainage procedure only
+
+*Explanation: Pericystectomy (also known as cystopericystectomy, capsulectomy, radical cystectomy, and subadventitial cystectomy) involves resection of the pericystic membrane and the parasitic contents with or without liver resection.*
+
+**126. What is the minimum percentage of cystic wall removal required for subtotal radical pericystectomy?**
+
+- 50%
+- 60%
+- **80%**
+- 90%
+
+*Explanation: A subtotal radical pericystectomy requires at least 80% removal of the cystic wall.*
+
+**127. What is the advantage of pericystectomy over conservative surgery?**
+
+- Shorter operative time
+- Less technically demanding
+- **Preservation of normal liver parenchyma and complete resection of parasite**
+- Lower cost
+
+*Explanation: Advantages of the pericystectomy include the preservation of normal liver parenchyma and the complete resection of the parasite and the pericyst.*
+
+**128. When is liver resection usually performed for hydatid cysts?**
+
+- All cases
+- Small peripheral cysts only
+- **Multiple unilobar cysts, large cysts occupying almost entire lobe, complicated cysts, those near large vascular or biliary structures**
+- Only in children
+
+*Explanation: Liver resection is usually performed in multiple unilobar cysts, large cysts occupying almost the entire lobe, complicated cysts, those near large vascular or biliary structures, and peripherally located cysts.*
+
+**129. What is the most widely accepted approach for hydatid cyst in contact with IVC?**
+
+- Radical surgery always
+- Liver transplantation
+- **Conservative surgery**
+- Observation only
+
+*Explanation: Although the literature is scarce, the most widely accepted approach for hydatid cyst in contact with IVC is conservative surgery.*
+
+**130. What percentage of patients in a meta-analysis did not receive albendazole?**
+
+- 2%
+- 5%
+- **7%**
+- 15%
+
+*Explanation: In a review of 72 publications with more than 10,008 patients treated for cystic echinococcosis, 7% stated that albendazole was not given.*
+
+**131. What percentage of patients in a review did not report any use of prophylaxis?**
+
+- 5%
+- 10%
+- **20%**
+- 30%
+
+*Explanation: In the same review, 20% did not report any use of prophylaxis with albendazole.*
+
+**132. What is the main advantage of laparoscopic pericystectomy?**
+
+- Lower recurrence rate
+- **Combines advantages of radical surgical procedure and minimally invasive surgery**
+- Shorter learning curve
+- Less expensive
+
+*Explanation: Laparoscopic pericystectomy combines the advantages of a radical surgical procedure and those of minimally invasive surgery.*
+
+**133. What is the main limitation of laparoscopic approach for hydatid cysts?**
+
+- Higher recurrence
+- **Deep parenchymal cysts or those close to main vasculature are usually not amenable to radical laparoscopic approach**
+- Longer hospital stay
+- More pain
+
+*Explanation: Deep parenchymal cysts or those close to the main vasculature structures are usually not amenable to a radical laparoscopic approach.*
+
+**134. What is the reported 30-day mortality for ex vivo liver resection with autotransplantation for advanced alveolar echinococcosis?**
+
+- 1%
+- 3%
+- **7%**
+- 15%
+
+*Explanation: A recent case series suggested ex vivo liver resection with autotransplantation, with a 30-day mortality of 7% and an overall mortality of 12% (<90 days).*
+
+**135. What is the overall mortality for ex vivo liver resection with autotransplantation?**
+
+- 5%
+- 7%
+- **12%**
+- 20%
+
+*Explanation: The overall mortality was 12% (<90 days) with a median follow-up of 22 months for ex vivo liver resection with autotransplantation.*
+
+**136. What is the minimum safe distance combined with adjuvant benzimidazole therapy that results in long-term disease-free survival for alveolar echinococcosis?**
+
+- 0.1 mm
+- **At least 1 mm**
+- 5 mm
+- 10 mm
+
+*Explanation: A safe distance of at least 1 mm combined with adjuvant benzimidazole therapy for at least 2 years results in long-term disease-free survival.*
+
+**137. What is the WHO target year for control or elimination of echinococcosis?**
+
+- 2030
+- 2040
+- **2050**
+- 2060
+
+*Explanation: The WHO has listed echinococcosis as one of the 17 neglected diseases targeted for control or elimination by 2050.*
+
+**138. What are the two main pillars of prevention and control of hydatid disease?**
+
+- Vaccination and treatment
+- **Safe animal slaughtering conditions and dosing dogs with praziquantel**
+- Mass screening and chemotherapy
+- Vector control and sanitation
+
+*Explanation: Current prevention and control of hydatid disease relies on the provision of safe animal slaughtering conditions (offal destruction and preventing dogs from feeding on infected organs of ungulates) and on dosing dogs with praziquantel.*
+
+**139. What is the main challenge for widespread application of EG95 vaccine?**
+
+- Vaccine efficacy
+- Safety concerns
+- **Logistics and costs of vaccinating sufficient numbers of animals**
+- Regulatory approval
+
+*Explanation: For most countries where hydatid disease is endemic, the logistics and costs of vaccinating sufficient numbers of animals may preclude widespread application of the vaccine.*
+
+**140. What is the characteristic appearance of alveolar echinococcosis on ultrasound?**
+
+- Simple cyst with thin wall
+- **Mass with irregular limits and scattered calcification, surrounded by hyperechogenic ring and hypoechogenic center**
+- Anechoic lesion with posterior enhancement
+- Homogeneous solid mass
+
+*Explanation: Ultrasound may show a mass with irregular limits and scattered calcification, surrounded by a hyperechogenic ring and a hypoechogenic center with multivesicular appearance.*
+
+**141. What is the appearance of central necrosis in alveolar echinococcosis on imaging?**
+
+- Solid mass
+- **Cystic-like structure**
+- Calcified nodule
+- Vascular lesion
+
+*Explanation: Central necrosis may give the appearance of a cystic-like structure in alveolar echinococcosis.*
+
+**142. What is the enhancement pattern of alveolar echinococcosis on contrast-enhanced CT?**
+
+- Significant intralesional enhancement
+- **No significant intralesional enhancement, mild peripheral enhancement on delayed phase**
+- Homogeneous enhancement
+- Ring enhancement
+
+*Explanation: No significant intralesional enhancement is seen on contrast-enhanced CT, whereas mild enhancement can be seen in the peripheral tissue on delayed phase.*
+
+**143. What is the appearance of alveolar echinococcosis on T2-weighted MRI?**
+
+- Small round cysts only
+- **Large and irregular lesion clearly shown**
+- Homogeneous high signal
+- Not visible
+
+*Explanation: The lesion can be large and irregular, which is clearly shown on T2-weighted imaging in alveolar echinococcosis.*
+
+**144. What does T1-weighted MRI reveal more clearly than CT in alveolar echinococcosis?**
+
+- Calcifications
+- **Hepatic extension, especially to hepatic veins, vena cava, and perihepatic spaces**
+- Cystic components
+- Vascular invasion
+
+*Explanation: T1-weighted images reveal more clearly the hepatic extension than CT, especially to hepatic veins, vena cava, and perihepatic spaces.*
+
+**145. What is the main limitation of FDG-PET for routine evaluation of alveolar echinococcosis?**
+
+- Low sensitivity
+- **Sophisticated equipment and high cost**
+- Radiation exposure
+- Availability of radiotracers
+
+*Explanation: However, sophisticated equipment and high cost widely limit FDG-PET use for routine evaluation of alveolar echinococcosis.*
+
+**146. What is the WHO recommendation regarding reductive surgery for alveolar echinococcosis?**
+
+- Always perform when possible
+- **Avoid reductive surgery and perform curative resections whenever possible**
+- Prefer reductive over curative surgery
+- No specific recommendation
+
+*Explanation: Based on evidence showing no benefit of reductive surgeries compared with medical treatment alone, the WHO recommends to avoid reductive surgery for alveolar echinococcosis and to perform curative resections whenever possible.*
+
+**147. What is the outcome of liver transplantation compared with long-term conservative therapy for alveolar echinococcosis?**
+
+- Superior to conservative therapy
+- **Not shown superior compared with long-term conservative therapy**
+- Only for palliative care
+- Contraindicated
+
+*Explanation: Liver transplantation as an alternative to palliative surgery has not been shown superior compared with long-term conservative therapy.*
+
+**148. What is the main reason for the change from reductive to more curative surgeries in recent years for alveolar echinococcosis?**
+
+- Technical advances only
+- Lower cost
+- **No benefit of reductive surgeries compared with medical treatment alone, some reported worse survival**
+- Patient preference
+
+*Explanation: Most authors showed no benefit of reductive surgeries compared with medical treatment alone, and some reported worse survival due to a higher rate of progression and complications.*
+
+**149. What is the characteristic growth pattern of alveolar echinococcosis vesicles?**
+
+- Rapid expansive growth
+- **Slow growth, able to reach 15–20 cm diameter**
+- No growth
+- Regressive changes
+
+*Explanation: The ingested eggs develop into an alveolar structure composed of small vesicles that grow slowly and are able to reach a diameter of 15 to 20 cm.*
+
+**150. What is the main factor determining treatment decisions for liver hydatid cysts?**
+
+- Cyst size only
+- Patient age only
+- **Status performance of patient, characteristics of cysts, physician expertise, medical resources, patient adherence**
+- Cost only
+
+*Explanation: Decisions should be made according to status performance of the patient, characteristics of the cysts, physician and team expertise, medical resources available, and adherence of patients to long-term monitoring.*

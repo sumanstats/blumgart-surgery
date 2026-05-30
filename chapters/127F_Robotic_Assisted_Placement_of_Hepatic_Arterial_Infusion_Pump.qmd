@@ -1,0 +1,1211 @@
+# 127F Robotic-Assisted Placement of Hepatic Arterial Infusion Pump
+
+Generated with Claude.
+
+**1. How long ago was hepatic arterial infusion first described as a regional treatment for hepatic tumors?**
+
+- About two decades ago
+- About three decades ago
+- About four decades ago
+- **Nearly six decades ago**
+
+*Explanation: The chapter states that hepatic arterial infusion was described nearly six decades ago as a regional treatment of hepatic tumors.*
+
+---
+
+**2. What has driven the increased prevalence of robotic-assisted approaches to HAIP placement?**
+
+- Introduction of new chemotherapy agents
+- **Rise of minimally invasive hepatobiliary techniques over the past 20 years**
+- Increased incidence of colorectal liver metastasis
+- Development of newer pump designs
+
+*Explanation: Robotic-assisted approaches to HAIP placement have become more prevalent following the rise of minimally invasive hepatobiliary techniques over the past 20 years.*
+
+---
+
+**3. Compared to an open approach, robotic-assisted HAIP placement is associated with which of the following?**
+
+- Higher intraoperative blood loss
+- Longer operative time
+- **Lower intraoperative blood loss**
+- Higher conversion rate
+
+*Explanation: The robotic-assisted approach to HAIP placement is associated with lower intraoperative blood loss compared with an open approach.*
+
+---
+
+**4. Compared to a laparoscopic approach, robotic-assisted HAIP placement has which characteristic regarding conversion and operative time?**
+
+- Higher conversion rate and shorter operative time
+- Lower conversion rate and significantly shorter operative time
+- **Lower rate of conversion to open HAIP placement without a significant difference in operative time**
+- Higher conversion rate and longer operative time
+
+*Explanation: The robotic-assisted approach has a lower rate of conversion to open HAIP placement without a significant difference in operative time compared with a laparoscopic approach.*
+
+---
+
+**5. What is the most common indication for HAIP therapy?**
+
+- Hepatocellular carcinoma
+- Cholangiocarcinoma
+- **Adjuvant or induction therapy in colorectal liver metastasis**
+- Pancreatic liver metastasis
+
+*Explanation: The most common indication for HAIP placement is adjuvant or induction therapy in colorectal liver metastasis, though expanding uses are being studied.*
+
+---
+
+**6. What does the literature state about the learning curve for robotic-assisted HAIP placement in surgeons with robotic hepatobiliary experience?**
+
+- It has a long and steep learning curve
+- It cannot be combined with other minimally invasive procedures
+- **It has a short learning curve**
+- It requires a dedicated robotic fellowship
+
+*Explanation: Robotic-assisted HAIP placement has a short learning curve for surgeons with robotic hepatobiliary experience.*
+
+---
+
+**7. How can robotic-assisted HAIP placement be combined with colorectal procedures?**
+
+- It cannot be combined with colorectal resection
+- It requires staged procedures
+- **It can easily be combined with minimally invasive colorectal resection**
+- It requires conversion to open surgery when combined
+
+*Explanation: Robotic-assisted HAIP placement can easily be combined with minimally invasive colorectal resection.*
+
+---
+
+**8. How is the patient positioned for robotic-assisted HAIP placement?**
+
+- Prone with arms extended
+- Left lateral decubitus
+- **Supine on a nonslip pad with a footboard in place**
+- Semi-Fowler position
+
+*Explanation: The patient is positioned supine on a nonslip pad with a footboard in place for robotic-assisted HAIP placement.*
+
+---
+
+**9. Why is reverse Trendelenburg tested before the operation begins?**
+
+- To assess cardiac function
+- To confirm adequate anesthesia depth
+- **To minimize patient movement once the operation has begun**
+- To facilitate liver exposure
+
+*Explanation: Reverse Trendelenburg is tested before beginning the operation to minimize patient movement once it has started.*
+
+---
+
+**10. Where is the ideal pump pocket site typically located?**
+
+- Right hemiabdomen, just below the costal margin
+- Left hemiabdomen, just above the anterior superior iliac spine
+- **Left hemiabdomen, with 2–3 fingerbreadths inferior to the costal margin and superior to the anterior superior iliac spine**
+- Right lower quadrant, below the umbilicus
+
+*Explanation: The ideal pump pocket site is typically in the left hemiabdomen, with adequate space (2–3 fingerbreadths) inferior to the costal margin and superior to the anterior superior iliac spine.*
+
+---
+
+**11. In which direction does the subcutaneous pocket for the pump extend relative to the incision?**
+
+- Superior
+- Lateral
+- Medial
+- **Inferior**
+
+*Explanation: The subcutaneous pocket extends inferior to the incision.*
+
+---
+
+**12. For obese patients, where may the pump pocket need to be situated and why?**
+
+- Right lower quadrant, to avoid subcutaneous fat
+- Left lower quadrant, to improve accessibility
+- **Superior to the costal margin on the chest wall, to minimize pump migration risk and optimize accessibility**
+- Midline, to reduce infection risk
+
+*Explanation: For obese patients, the pump pocket may need to be situated superior to the costal margin on the chest wall to minimize the risk of pump migration and optimize subsequent pump accessibility, as the subcutaneous fat layer is typically thinner in this region.*
+
+---
+
+**13. Why is the ideal pump location identified before trocar placement?**
+
+- To reduce operative time
+- To reduce blood loss
+- **To ensure that port positions do not interfere with the eventual pump pocket**
+- To allow for easier cholecystectomy
+
+*Explanation: Establishment of the ideal pump location before trocar placement ensures that port positions do not interfere with the eventual pump pocket.*
+
+---
+
+**14. How is the abdominal cavity entered at the start of the procedure?**
+
+- Veress needle technique
+- Direct trocar insertion
+- **Open Hasson technique**
+- Single-port technique
+
+*Explanation: The abdominal cavity is entered with open Hasson technique.*
+
+---
+
+**15. What size port is placed in the midline just inferior to the umbilicus?**
+
+- 5-mm port
+- 8-mm port
+- 10-mm port
+- **12-mm balloon port**
+
+*Explanation: A 12-mm balloon port is placed in the midline just inferior to the umbilicus.*
+
+---
+
+**16. What is performed immediately after entering the abdominal cavity with the robotic camera?**
+
+- Cholecystectomy
+- Hepatic artery dissection
+- **Diagnostic laparoscopy with careful inspection for extrahepatic disease**
+- Placement of the pump pocket
+
+*Explanation: Diagnostic laparoscopy is performed using the robotic camera with careful inspection for evidence of extrahepatic disease after entering the abdominal cavity.*
+
+---
+
+**17. What happens to any lesions that are concerning for extrahepatic disease during diagnostic laparoscopy?**
+
+- They are photographed and monitored
+- They are ablated immediately
+- **They are biopsied and submitted for intraoperative frozen section analysis**
+- They are left for postoperative evaluation
+
+*Explanation: Any concerning lesions found during diagnostic laparoscopy are biopsied and submitted for intraoperative frozen section analysis.*
+
+---
+
+**18. What size are the additional robotic trocars inserted after initial port placement?**
+
+- 5 mm
+- 10 mm
+- 12 mm
+- **8 mm**
+
+*Explanation: Additional 8-mm robotic trocars are inserted at specified positions.*
+
+---
+
+**19. Where is one of the 8-mm robotic trocars placed in the left upper quadrant?**
+
+- Below the planned pump pocket incision along the anterior axillary line
+- At the level of the umbilicus along the midclavicular line
+- **Superior to the planned pump pocket incision along the midclavicular line**
+- Just inferior to the xiphoid process
+
+*Explanation: One 8-mm robotic trocar is inserted in the left upper quadrant superior to the planned pump pocket incision along the midclavicular line.*
+
+---
+
+**20. Where is the right lower quadrant 8-mm robotic trocar placed?**
+
+- At the level of the xiphoid along the midclavicular line
+- Below the umbilicus along the anterior axillary line
+- **At the level of the umbilicus along the midclavicular line**
+- At the level of the umbilicus along the midline
+
+*Explanation: The right lower quadrant 8-mm robotic trocar is inserted at the level of the umbilicus along the midclavicular line.*
+
+---
+
+**21. Where is the right hemiabdomen 8-mm robotic trocar placed?**
+
+- At the level of the xiphoid along the midclavicular line
+- Just below the costal margin along the midclavicular line
+- At the level of the umbilicus along the midclavicular line
+- **At the level of the umbilicus along the anterior axillary line**
+
+*Explanation: The right hemiabdomen 8-mm robotic trocar is inserted at the level of the umbilicus along the anterior axillary line.*
+
+---
+
+**22. How much space is recommended between port incisions?**
+
+- Half a fingerbreadth
+- Two fingerbreadths
+- **A full handbreadth**
+- Three centimeters
+
+*Explanation: Care is taken to ensure a full handbreadth between port incisions.*
+
+---
+
+**23. What size is the additional accessory port, and where is it placed?**
+
+- 5 mm, right lower quadrant
+- 8 mm, left upper quadrant
+- **12 mm, left lower quadrant along the midclavicular line**
+- 10 mm, midline above the umbilicus
+
+*Explanation: An additional 12-mm accessory port is placed in the left lower quadrant along the midclavicular line.*
+
+---
+
+**24. What degree of reverse Trendelenburg position is the patient placed in after port placement?**
+
+- 5°
+- 10°
+- 15°
+- **20°**
+
+*Explanation: The patient is placed into steep reverse Trendelenburg position (20°).*
+
+---
+
+**25. Where is the Nathanson liver retractor placed?**
+
+- Right upper quadrant
+- Left lateral area
+- **Subxiphoid area**
+- Umbilical area
+
+*Explanation: A Nathanson liver retractor is placed in the subxiphoid area to retract the left lobe of the liver.*
+
+---
+
+**26. Where is the DaVinci Xi robot docked during this procedure?**
+
+- At the patient's head
+- At the patient's feet
+- On the left side of the patient
+- **On the right side of the patient**
+
+*Explanation: The DaVinci Xi robot is docked on the right side of the patient.*
+
+---
+
+**27. If the DaVinci Si robot is used, where should it be docked?**
+
+- On the right side of the patient
+- On the left side of the patient
+- At the patient's feet
+- **At the patient's head**
+
+*Explanation: If the DaVinci Si robot is being used, it should be docked at the patient's head, with care taken to lower the bed sufficiently for the robotic boom and arms to clear the patient's face and endotracheal tube.*
+
+---
+
+**28. What instrument is inserted in the right lateral trocar?**
+
+- Hook cautery
+- Bipolar cautery
+- Robotic scissors
+- **ProGrasp forceps**
+
+*Explanation: A ProGrasp forceps is inserted in the right lateral trocar.*
+
+---
+
+**29. What instrument is inserted in the right lower quadrant trocar?**
+
+- ProGrasp forceps
+- Bipolar cautery
+- **Hook cautery**
+- Robotic stapler
+
+*Explanation: A hook is inserted in the right lower quadrant trocar.*
+
+---
+
+**30. What instrument is inserted in the left upper quadrant trocar?**
+
+- Hook cautery
+- ProGrasp forceps
+- Harmonic scalpel
+- **Bipolar cautery**
+
+*Explanation: A bipolar cautery is inserted in the left upper quadrant trocar.*
+
+---
+
+**31. Why is a cholecystectomy routinely performed during HAIP placement?**
+
+- To improve visualization of the hepatic hilum
+- To shorten operative time
+- To reduce blood loss
+- **To avoid the risk of chemical cholecystitis**
+
+*Explanation: A cholecystectomy is routinely performed to avoid the risk of chemical cholecystitis.*
+
+---
+
+**32. Where does dissection begin after cholecystectomy?**
+
+- Along the right side of the porta hepatis
+- At the gastroduodenal artery
+- **Along the left side of the porta hepatis by incising the pars flaccida and gastrohepatic ligament**
+- At the level of the common bile duct
+
+*Explanation: Following cholecystectomy, dissection begins along the left side of the porta hepatis by incising the pars flaccida and gastrohepatic ligament.*
+
+---
+
+**33. How is the right lobe of the liver retracted cephalad during dissection?**
+
+- Using a Nathanson retractor
+- Using a laparoscopic fan retractor
+- **Using the ProGrasp forceps on the gallbladder or cystic plate**
+- Using a robotic arm with a paddle retractor
+
+*Explanation: The right lobe of the liver is retracted cephalad with the ProGrasp forceps using the gallbladder or gentle pressure on the cystic plate if the patient has had a prior cholecystectomy.*
+
+---
+
+**34. Which arteries are skeletonized circumferentially during the hepatic artery dissection?**
+
+- Only the proper hepatic artery
+- Only the common hepatic artery
+- Common hepatic artery and proper hepatic artery only
+- **Common hepatic artery, proper hepatic artery, and right and left hepatic arteries**
+
+*Explanation: The common hepatic artery, proper hepatic artery, and right and left hepatic arteries are skeletonized circumferentially.*
+
+---
+
+**35. What is done with the common hepatic artery lymph node?**
+
+- It is left in place
+- It is biopsied only
+- It is clipped and left in situ
+- **It is excised**
+
+*Explanation: The common hepatic artery lymph node is excised during the dissection.*
+
+---
+
+**36. How far is dissection of the left hepatic artery carried toward its branches?**
+
+- 2 cm
+- 3 cm
+- 5 mm
+- **1 cm toward its first-order branches**
+
+*Explanation: Dissection of the left hepatic artery is carried up 1 cm toward its first-order branches.*
+
+---
+
+**37. Why is dissection of the right hepatic artery carried distally for at least 2 cm or until the common bile duct is approached?**
+
+- To allow safe clipping of the right hepatic artery
+- To improve catheter placement
+- **Because extrahepatic perfusion identified postoperatively frequently arises from its proximal small branches**
+- To facilitate ligation of the right gastric artery
+
+*Explanation: Dissection of the right hepatic artery is carried distally for at least 2 cm or until the common bile duct is approached, as extrahepatic perfusion identified postoperatively frequently arises from its proximal small branches.*
+
+---
+
+**38. How is the right gastric artery managed?**
+
+- It is preserved throughout
+- It is ligated with 2-0 silk only
+- It is divided with harmonic scalpel
+- **It is identified and divided between clips**
+
+*Explanation: The right gastric artery is identified and divided between clips.*
+
+---
+
+**39. How is the gastroduodenal artery initially managed during dissection?**
+
+- It is divided immediately
+- It is clipped distally and preserved proximally
+- **It is identified and dissected circumferentially**
+- It is ligated and divided
+
+*Explanation: The gastroduodenal artery is identified and dissected circumferentially.*
+
+---
+
+**40. Which vessels branching from the gastroduodenal artery are identified and divided?**
+
+- Right gastric artery and left gastric artery
+- Superior mesenteric artery branches
+- **Supraduodenal artery and superior posterior pancreaticoduodenal artery**
+- Inferior pancreaticoduodenal artery
+
+*Explanation: The supraduodenal artery and the superior posterior pancreaticoduodenal artery are identified and divided.*
+
+---
+
+**41. Why is a tie placed along the gastroduodenal artery before catheter insertion?**
+
+- To mark the artery for later division
+- To control bleeding
+- **To minimize any barriers to placing the catheter into the artery**
+- To prevent arterial spasm
+
+*Explanation: A tie is placed along the gastroduodenal artery to minimize any barriers to placing the catheter into the artery.*
+
+---
+
+**42. Where are clips placed on the gastroduodenal artery before catheterization?**
+
+- On the proximal side of the vessel
+- On both proximal and distal sides
+- Along the midportion of the vessel
+- **On the distal side of the vessel**
+
+*Explanation: Clips are placed on the distal side of the vessel during preparation of the gastroduodenal artery.*
+
+---
+
+**43. What is the purpose of ligating all small collateral vessels and lymphatics around the gastroduodenal artery space?**
+
+- To prevent postoperative bleeding
+- To reduce pump thrombosis
+- **To prevent extrahepatic perfusion**
+- To facilitate catheter advancement
+
+*Explanation: Care is taken to identify and ligate all small collateral vessels and lymphatics in this space to prevent extrahepatic perfusion.*
+
+---
+
+**44. What is done with accessory or replaced right and/or left hepatic arteries at the time of dissection?**
+
+- They are immediately ligated and divided
+- They are left completely undisturbed
+- **They are identified and dissected circumferentially, then ligated after pump placement is confirmed**
+- They are embolized postoperatively
+
+*Explanation: Accessory or replaced arteries are identified and dissected circumferentially. At the completion of the procedure, once the pump is successfully placed, they are ligated and divided between clips.*
+
+---
+
+**45. How is papaverine applied to the gastroduodenal artery?**
+
+- Via a nasogastric tube
+- Via intravenous infusion
+- Directly applied with a sponge
+- **Introduced percutaneously via a spinal needle**
+
+*Explanation: The gastroduodenal artery is bathed in papaverine introduced percutaneously via a spinal needle.*
+
+---
+
+**46. How is the pump prepared at the back table?**
+
+- Loaded with chemotherapy and sealed
+- Pre-filled with saline and capped
+- **Catheters linked with a coupler, remote activation, and flushing with heparinized saline to expunge gas bubbles**
+- Sterilized in autoclave and refrigerated
+
+*Explanation: The pump is prepared at the back table by linkage of the catheters with a coupler, remote activation of the device, and flushing with heparinized saline to expunge gas bubbles and ensure a good seal at the linkage.*
+
+---
+
+**47. What happens to the abdomen immediately before the pump pocket incision is made?**
+
+- It is irrigated with antibiotic solution
+- The robot is undocked
+- **It is desufflated**
+- The ports are repositioned
+
+*Explanation: The abdomen is desufflated before making the incision for the pump pocket.*
+
+---
+
+**48. What is the length of the incision made at the previously marked pump pocket site?**
+
+- 3 cm
+- 5 cm
+- **7 cm**
+- 10 cm
+
+*Explanation: A 7-cm incision is made at the site previously marked.*
+
+---
+
+**49. To what depth is dissection carried when creating the pump pocket?**
+
+- To the peritoneum
+- To the subcutaneous fat layer only
+- To the posterior fascia
+- **Down to the anterior fascia overlying rectus abdominis and external oblique muscles**
+
+*Explanation: Dissection is carried down to the anterior fascia overlying rectus abdominis and external oblique muscles.*
+
+---
+
+**50. In which direction is fat cleared off the fascia to create the pump pocket?**
+
+- Superiorly
+- Laterally
+- Medially
+- **Caudally**
+
+*Explanation: Fat is cleared caudally off the fascia to create a pocket large enough to comfortably accept the pump.*
+
+---
+
+**51. How is the pump catheter introduced into the abdomen?**
+
+- Through the existing camera port
+- Through a separate trocar site
+- **Through a small fascial defect created at the pump pocket site**
+- Via a percutaneous needle introducer
+
+*Explanation: A small fascial defect is created, and the pump catheter is introduced into the abdomen.*
+
+---
+
+**52. Where is excess extracorporeal catheter length temporarily placed after the pump is secured?**
+
+- Back into the abdomen
+- Coiled within the pump pocket
+- **Temporarily laid on the fascia under the pump**
+- Secured with a separate suture to the skin
+
+*Explanation: Excess extracorporeal catheter length is temporarily laid on the fascia under the pump.*
+
+---
+
+**53. How is the pump secured to the fascia?**
+
+- With staples
+- With 3-0 Prolene sutures
+- With absorbable sutures through the pump body
+- **With 2-0 silk through its four suture loops**
+
+*Explanation: The pump is secured to the fascia at the floor of the pump pocket with 2-0 silk through its four suture loops.*
+
+---
+
+**54. What must be ensured when securing the pump to the fascia?**
+
+- The pump is oriented pump-side down
+- The refill port faces inferiorly
+- **The access port is positioned laterally and the catheter is not kinked or entrapped by the sutures**
+- The pump is flush against the peritoneum
+
+*Explanation: When securing the pump, it must be ensured that the access port is positioned laterally and that the catheter is not kinked or entrapped by the sutures.*
+
+---
+
+**55. After the pump is placed in the pocket, what is re-established?**
+
+- Blood flow to the liver via test injection
+- The robot docking
+- Port placement
+- **Insufflation of the abdomen**
+
+*Explanation: Insufflation is reestablished after the pump is placed in the pocket.*
+
+---
+
+**56. How is the distal gastroduodenal artery ligated, and at what level?**
+
+- With clips alone, at the level of the duodenum
+- With 3-0 Vicryl, at the level of the right hepatic artery
+- **With 2-0 silk and a metal clip, at the level of the pancreatic head**
+- With a stapler, at the level of the hepatic artery
+
+*Explanation: The distal gastroduodenal artery is ligated with 2-0 silk at the level of the pancreatic head, and a metal clip is placed at the same level.*
+
+---
+
+**57. How are accessory or replaced hepatic arteries managed immediately before the arteriotomy?**
+
+- They are divided
+- They are left open
+- **They are temporarily occluded with a bulldog clamp**
+- They are ligated with silk ties
+
+*Explanation: Accessory or replaced right and/or left hepatic arteries, if present, are temporarily occluded with a bulldog clamp.*
+
+---
+
+**58. Where is a vascular bulldog clamp placed to control proximal flow in the gastroduodenal artery?**
+
+- Across the proper hepatic artery
+- Across the right hepatic artery
+- **Across the proximal gastroduodenal artery at its origin from the common hepatic artery**
+- Across the common bile duct
+
+*Explanation: A vascular bulldog clamp is placed across the proximal gastroduodenal artery at its origin from the common hepatic artery.*
+
+---
+
+**59. What is the alternative method to clamp control of the proximal gastroduodenal artery?**
+
+- Placing a Satinsky clamp across the hepatic artery
+- Using intraoperative ultrasound guidance
+- **Placing two vascular bulldog clamps across the common and proper hepatic arteries to isolate the gastroduodenal artery**
+- Applying a vascular loop around the gastroduodenal artery only
+
+*Explanation: Alternatively, two vascular bulldog clamps can be placed across the common and proper hepatic arteries to isolate the gastroduodenal artery origin.*
+
+---
+
+**60. What is placed behind the proximal gastroduodenal artery before the arteriotomy?**
+
+- A vascular clip
+- A bulldog clamp
+- A pledget
+- **A loose 2-0 silk tie**
+
+*Explanation: A loose 2-0 silk tie is laid behind the proximal gastroduodenal artery before the arteriotomy.*
+
+---
+
+**61. What instrument is used to create the arteriotomy in the gastroduodenal artery?**
+
+- Harmonic scalpel
+- Electrocautery hook
+- **A free #11 blade or robotic shears**
+- Robotic scissors with cautery
+
+*Explanation: Using a free #11 blade or robotic shears, an arteriotomy is sharply created in the distal gastroduodenal artery.*
+
+---
+
+**62. What proportion of the vessel circumference does the arteriotomy span?**
+
+- Half
+- Two-thirds
+- One-quarter
+- **One-third**
+
+*Explanation: The arteriotomy is created spanning one-third of the circumference of the vessel just proximal to the silk ligature.*
+
+---
+
+**63. In which direction is the pump catheter inserted into the gastroduodenal artery?**
+
+- Antegrade (toward the pancreas)
+- Laterally
+- Perpendicularly
+- **Retrograde (with its tip toward the common hepatic artery)**
+
+*Explanation: The pump catheter is inserted retrograde into the gastroduodenal artery with its tip positioned at its origin from the common hepatic artery.*
+
+---
+
+**64. After catheter insertion, what is done with the vascular bulldog clamp?**
+
+- It is left in place until the end of the procedure
+- It is replaced with a silk tie
+- It is moved to the proper hepatic artery
+- **It is removed**
+
+*Explanation: The vascular bulldog clamp is removed after the catheter is positioned.*
+
+---
+
+**65. With what tension is the loose silk tie tied adjacent to the catheter's distal bead?**
+
+- Enough to ligate the vessel completely
+- No tension, just looped around
+- **Appropriate tension to appose the vessel wall around the catheter and affix its position, but not occlude the catheter lumen**
+- Maximum tension to prevent catheter dislodgment
+
+*Explanation: The loose silk tie is immediately tied adjacent to the catheter's distal bead with appropriate tension to appose the vessel wall around the catheter and affix its position, but not occlude the catheter lumen.*
+
+---
+
+**66. Where is the second silk tie placed relative to the catheter?**
+
+- At the proximal bead of the catheter
+- At the arteriotomy site
+- **Adjacent to the catheter's second bead**
+- 2 cm distal to the first tie
+
+*Explanation: An additional silk tie is placed adjacent to the catheter's second bead.*
+
+---
+
+**67. Where is the third silk tie placed?**
+
+- At the arteriotomy site
+- Distal to the second bead
+- **Equidistant between the two first ties**
+- At the tip of the catheter
+
+*Explanation: A third tie is placed equidistant between the two first ties.*
+
+---
+
+**68. What is done after each silk tie is placed?**
+
+- Methylene blue is injected to check perfusion
+- Fluoroscopy is used to confirm catheter position
+- **The pump is flushed with heparinized saline to confirm patency**
+- A Doppler probe is used to assess flow
+
+*Explanation: The pump is flushed with heparinized saline after each tie is placed to confirm patency.*
+
+---
+
+**69. What substance is infused through the pump to assess perfusion?**
+
+- Indocyanine green
+- Contrast dye
+- Saline
+- **Methylene blue**
+
+*Explanation: Methylene blue is infused through the pump to assess bilobar hepatic perfusion and extrahepatic perfusion.*
+
+---
+
+**70. Which structures are examined after methylene blue infusion?**
+
+- Liver only
+- Liver and biliary structures only
+- **Liver, stomach, duodenum, pancreas, and portal structures**
+- Liver, spleen, and kidneys
+
+*Explanation: The liver, stomach, duodenum, pancreas, and portal structures are examined to confirm bilobar hepatic perfusion and evaluate sites of extrahepatic perfusion.*
+
+---
+
+**71. What is done if extrahepatic perfusion is identified during methylene blue assessment?**
+
+- The procedure is aborted
+- The pump is removed and repositioned
+- **Further dissection is performed to identify and ligate sources of persistent collateral flow**
+- Additional ties are placed on the catheter
+
+*Explanation: If extrahepatic perfusion is present, it is dissected further to identify and ligate sources of persistent collateral flow.*
+
+---
+
+**72. What is done with redundant catheter length after methylene blue assessment?**
+
+- It is cut to appropriate length
+- It is tucked under the pump
+- **It is pulled from the pump pocket into the abdomen and the excess is placed into the left upper quadrant**
+- It is wound around the pump body
+
+*Explanation: Redundant length of the pump catheter is pulled from the pump pocket into the abdomen, and the excess catheter is placed into the left upper quadrant.*
+
+---
+
+**73. What is done with the robot after the abdominal portion of the procedure is complete?**
+
+- It is repositioned for pump pocket closure
+- It remains docked for visualization
+- It is used for skin closure
+- **It is undocked**
+
+*Explanation: The abdomen is again desufflated, and the robot is undocked.*
+
+---
+
+**74. How are trocars removed at the end of the procedure?**
+
+- Blindly after desufflation
+- With ultrasound guidance
+- With fluoroscopic guidance
+- **Under direct vision**
+
+*Explanation: Trocars are removed under direct vision.*
+
+---
+
+**75. What final check of the catheter is performed before closing the pump pocket?**
+
+- Methylene blue re-injection
+- Fluoroscopic imaging
+- **Confirming patency by flushing heparinized saline**
+- Intraoperative angiography
+
+*Explanation: After again confirming patency of the catheter by flushing heparinized saline, the pump pocket is closed in layers.*
+
+---
+
+**76. What suture material is used for the Scarpa fascia layer during pump pocket closure?**
+
+- 2-0 Prolene
+- 4-0 Vicryl
+- 0 PDS
+- **Running 3-0 Vicryl**
+
+*Explanation: The pump pocket is closed with running 3-0 Vicryl for Scarpa fascia and deep dermal layers.*
+
+---
+
+**77. What suture is used for the deep dermal layer of the pump pocket closure?**
+
+- 4-0 Monocryl
+- 0 Vicryl
+- 2-0 Prolene
+- **Running 3-0 Vicryl**
+
+*Explanation: Running 3-0 Vicryl is used for both Scarpa fascia and deep dermal layers.*
+
+---
+
+**78. What suture is used for the epidermal (subcuticular) layer of the pump pocket closure?**
+
+- Running 3-0 Vicryl
+- Staples
+- 2-0 Prolene
+- **Running subcuticular 4-0 Monocryl**
+
+*Explanation: Running subcuticular 4-0 Monocryl is used for the epidermis during pump pocket closure.*
+
+---
+
+**79. How is the pump pocket incision dressed?**
+
+- Steri-strips only
+- Standard gauze dressing
+- Tegaderm film
+- **Dermabond**
+
+*Explanation: The incision is dressed with Dermabond.*
+
+---
+
+**80. How are fascial defects at 12-mm port sites closed?**
+
+- With staples
+- With running 4-0 Monocryl
+- With 2-0 Vicryl
+- **With 0 Vicryl**
+
+*Explanation: Fascial defects at 12-mm port sites are closed with 0 Vicryl.*
+
+---
+
+**81. How are remaining skin incisions (other than the pump pocket) closed?**
+
+- With staples
+- With 3-0 Vicryl
+- With Steri-strips
+- **With 4-0 Monocryl and dressed with Dermabond**
+
+*Explanation: Remaining skin incisions are closed with 4-0 Monocryl and dressed with Dermabond.*
+
+---
+
+**82. What percentage of patients may have aberrant hepatic artery anatomy?**
+
+- 5% to 10%
+- 10% to 20%
+- 20% to 30%
+- **30% to 50%**
+
+*Explanation: Aberrant anatomy of the hepatic artery may be identified in 30% to 50% of patients.*
+
+---
+
+**83. What challenges can hepatic artery variants present?**
+
+- Only challenges for anesthesia management
+- Only challenges related to pump selection
+- **Challenges for intraoperative dissection as well as delivery of chemotherapy to the entire liver**
+- Challenges only for postoperative recovery
+
+*Explanation: Hepatic artery variants can present challenges for intraoperative dissection as well as delivery of chemotherapy to the entire liver.*
+
+---
+
+**84. What can happen if replaced or accessory arteries are not ligated intraoperatively?**
+
+- Increased blood loss
+- Pump malfunction
+- **They can continue to deliver native blood flow to liver segments, potentially limiting the intended effect of infusional therapy**
+- Increased risk of bile leak
+
+*Explanation: Replaced or accessory arteries that are not ligated intraoperatively can continue to deliver native blood flow to liver segments, potentially limiting the intended effect of infusional therapy.*
+
+---
+
+**85. Is bilobar liver perfusion typically achievable after ligation of a replaced hepatic artery?**
+
+- No, it always results in segmental ischemia
+- No, it requires additional catheter placement
+- Only in selected cases with favorable anatomy
+- **Yes, bilobar liver perfusion is routinely observed even with ligation of a replaced hepatic artery due to interlobar collateral perfusion**
+
+*Explanation: Bilobar liver perfusion is routinely observed even with ligation of a replaced hepatic artery due to interlobar collateral perfusion.*
+
+---
+
+**86. What is associated with more frequent postoperative and pump-related complications in the setting of hepatic artery variants?**
+
+- Using the DaVinci Xi system
+- Using the open approach
+- **Cannulation of vessels other than the gastroduodenal artery**
+- Performing concomitant hepatectomy
+
+*Explanation: Cannulation of vessels other than the gastroduodenal arteries in the setting of variant hepatic arterial anatomy is associated with more frequent postoperative and pump-related complications.*
+
+---
+
+**87. In patients with hepatic artery variants, which artery do the authors routinely cannulate?**
+
+- The right hepatic artery
+- The left hepatic artery
+- The proper hepatic artery
+- **The gastroduodenal artery**
+
+*Explanation: In patients with hepatic artery variants, the authors routinely cannulate the gastroduodenal artery and ligate replaced and accessory hepatic arteries.*
+
+---
+
+**88. If the gastroduodenal artery is not amenable to catheter placement, where can the catheter alternatively be placed?**
+
+- In the superior mesenteric artery
+- In the common hepatic artery only
+- In the splenic artery
+- **Retrograde in either the left or right hepatic artery**
+
+*Explanation: If the gastroduodenal artery is not amenable to a catheter, or a dissection occurs while placing the catheter, the catheter can be placed retrograde in either the left or right hepatic artery.*
+
+---
+
+**89. When the catheter is placed in the left or right hepatic artery due to gastroduodenal artery problems, what typically occurs?**
+
+- The pump fails to function
+- Segmental liver ischemia results
+- Extrahepatic perfusion increases
+- **Cross perfusion within the liver usually leads to a functional pump**
+
+*Explanation: Cross perfusion within the liver usually leads to a functional pump when the catheter is placed retrograde in either the left or right hepatic artery.*
+
+---
+
+**90. For concomitant procedures, when is hepatectomy performed relative to pump placement?**
+
+- After pump placement
+- Simultaneously with pump placement
+- At a separate operative session
+- **Before pump placement**
+
+*Explanation: Any planned robotic hepatectomy is performed before pump placement.*
+
+---
+
+**91. Which of the following is NOT a reason why hepatectomy is performed before pump placement?**
+
+- Technical complications during pump placement could preclude subsequent resection
+- Low central venous pressure is only required for the resection portion
+- **Pump placement before hepatectomy reduces blood loss**
+- Resection after pump placement could result in dislodgement of the catheter
+
+*Explanation: The stated reasons for performing hepatectomy before pump placement include: technical complications during pump placement could preclude subsequent resection; low CVP is only needed for the resection; and resection after pump placement risks catheter dislodgement or other pump malfunction. Reduction of blood loss is not cited as a reason.*
+
+---
+
+**92. For combined colorectal resection and HAIP placement with or without hepatectomy, in what sequence are procedures performed?**
+
+- Colorectal resection first, then pump placement and hepatectomy
+- All simultaneously
+- Colorectal resection, then hepatectomy, then pump placement
+- **Pump placement and hepatectomy first, followed by colorectal resection**
+
+*Explanation: For combined colorectal resection and HAIP placement with or without hepatectomy, the pump placement and hepatectomy portion is performed first, followed by colorectal resection.*
+
+---
+
+**93. Why is the pump placement and hepatectomy portion performed before colorectal resection in combined cases?**
+
+- To reduce blood loss in the colorectal portion
+- To facilitate robot positioning
+- **Because it often requires strict intraoperative volume restriction, and colorectal resection may create an enterostomy that would interfere with trocar placement options**
+- To reduce total anesthesia time
+
+*Explanation: The pump placement and hepatectomy portion is performed first because it often requires strict intraoperative volume restriction, followed by colorectal resection, which often includes creation of an enterostomy that would interfere with options for subsequent trocar placement.*
+
+---
+
+**94. What effect does performing pump placement before the colorectal portion of a combined case have on pump infection rates?**
+
+- Increases infection rates
+- Has no effect on infection rates
+- Depends on antibiotic prophylaxis used
+- **May result in lower pump infection rates**
+
+*Explanation: Pump infection rates may be lower when the pump is placed and the pump pocket closed before the colon portion of the procedure.*
+
+---
+
+**95. In combined liver or colorectal resection cases, how is the specimen extracted?**
+
+- Through a separate Pfannenstiel incision
+- Through the largest trocar site
+- Through the pump pocket incision
+- **The midline camera port is enlarged for use as a specimen extraction site**
+
+*Explanation: In the setting of concomitant liver or colorectal resection, the midline camera port is enlarged for use as a specimen extraction site.*
+
+---
+
+**96. What does HAIP stand for?**
+
+- Hepatic Artery Injection Protocol
+- Hepatic Antegrade Infusion Pump
+- **Hepatic Arterial Infusion Pump**
+- Hepatic Arteriovenous Infusion Pump
+
+*Explanation: HAIP stands for Hepatic Arterial Infusion Pump, a device used for regional delivery of chemotherapy to the liver.*
+
+---
+
+**97. What is the primary function of papaverine applied to the gastroduodenal artery during HAIP placement?**
+
+- To mark the vessel for arteriotomy
+- To seal small collateral vessels
+- To reduce the risk of infection
+- **To reduce arterial spasm and facilitate catheter insertion**
+
+*Explanation: Papaverine is a vasodilator/antispasmodic applied to the gastroduodenal artery to prevent or reduce arterial spasm, facilitating catheter insertion.*
+
+---
+
+**98. What is the purpose of temporarily occluding accessory or replaced hepatic arteries with a bulldog clamp before catheter insertion?**
+
+- To permanently ligate them
+- To reduce hepatic blood flow during arteriotomy
+- **To isolate the gastroduodenal artery and allow for proper catheter positioning and assessment of bilobar perfusion**
+- To prevent embolization of air during the procedure
+
+*Explanation: Temporary occlusion of replaced or accessory hepatic arteries allows isolation and assessment of whether the pump catheter achieves bilobar perfusion through the gastroduodenal artery alone.*
+
+---
+
+**99. What is confirmed when methylene blue infusion reveals no staining of the stomach, duodenum, or pancreas?**
+
+- Adequate pump flow rate
+- Correct catheter depth
+- **Absence of extrahepatic perfusion**
+- Patent common bile duct
+
+*Explanation: Examination of the stomach, duodenum, pancreas, and portal structures after methylene blue infusion is used to evaluate for sites of extrahepatic perfusion; absence of staining in these structures confirms no extrahepatic perfusion.*
+
+---
+
+**100. What is the significance of the three silk ties placed on the gastroduodenal artery around the catheter?**
+
+- They are used for eventual removal of the catheter
+- They reduce the risk of pump infection
+- **They secure the catheter in place while maintaining catheter lumen patency**
+- They ligate the gastroduodenal artery completely
+
+*Explanation: The three silk ties are placed with appropriate tension to appose the vessel wall around the catheter, affix its position, and prevent dislodgment, but not occlude the catheter lumen. Patency is confirmed after each tie by flushing with heparinized saline.*
+
+---
+
+**101. What is the role of heparinized saline in the pump preparation and catheter management throughout the procedure?**
+
+- To prevent bile duct injury
+- To improve visualization during arteriotomy
+- **To expunge gas bubbles, ensure seal at the catheter linkage, and confirm catheter patency at multiple steps**
+- To dilute methylene blue before infusion
+
+*Explanation: Heparinized saline is used during pump preparation to expunge gas bubbles and ensure a good seal at the linkage, and is used repeatedly during the procedure to flush and confirm catheter patency after each silk tie and before closing the pump pocket.*
+
+---
+
+**102. What is the consequence of placing ties on the catheter with excessive tension?**
+
+- Catheter dislodgement
+- Extrahepatic perfusion
+- Vessel laceration
+- **Occlusion of the catheter lumen**
+
+*Explanation: The silk ties are placed with appropriate tension to appose the vessel wall around the catheter and affix its position, but NOT to occlude the catheter lumen. Excessive tension would occlude the lumen.*
+
+---
+
+**103. Why might chemical cholecystitis occur if cholecystectomy is not performed before HAIP therapy?**
+
+- The cystic artery provides collateral hepatic flow
+- The gallbladder obstructs the pump pocket
+- **The cystic artery may carry chemotherapy from the HAIP, causing chemical inflammation of the gallbladder**
+- The gallbladder interferes with pump refill
+
+*Explanation: Chemical cholecystitis is a known risk when the cystic artery carries infusional chemotherapy to the gallbladder; routine cholecystectomy prior to initiating HAIP therapy prevents this complication.*
+
+---
+
+**104. Which of the following best describes the direction of catheter insertion relative to hepatic arterial blood flow?**
+
+- Antegrade, following the direction of blood flow toward the liver
+- Perpendicular to the vessel axis
+- Parallel to the vessel but outside the lumen
+- **Retrograde, against the direction of blood flow, with the tip at the GDA–CHA junction**
+
+*Explanation: The pump catheter is inserted retrograde into the gastroduodenal artery with its tip positioned at its origin from the common hepatic artery, meaning it is directed against the normal direction of blood flow in the GDA.*
+
+---
+
+**105. What does the chapter indicate about the use of HAIP therapy in combination with systemic therapies?**
+
+- It is contraindicated
+- It has been proven superior to systemic therapy alone
+- It is used only in palliative settings
+- **Combinations with systemic therapies are the subject of several active trials**
+
+*Explanation: Expanding uses for HAIP therapy and combinations with systemic therapies are the subject of several active trials.*
+
+---
+
+**106. When the DaVinci Si robot is docked at the patient's head, what special precaution must be taken?**
+
+- The patient must be repositioned to prone
+- The footboard must be removed
+- **The bed must be lowered sufficiently for the robotic boom and arms to clear the patient's face and endotracheal tube**
+- The anesthesiologist must be repositioned to the foot of the bed
+
+*Explanation: If the DaVinci Si robot is being used, it should be docked at the patient's head, with care taken to lower the bed sufficiently for the robotic boom and arms to clear the patient's face and endotracheal tube.*
+
+---
+
+**107. What is the purpose of clearing fat caudally off the fascia during pump pocket creation?**
+
+- To expose the peritoneum
+- To facilitate fascial closure
+- To prevent infection
+- **To create a pocket large enough to comfortably accept the pump**
+
+*Explanation: Fat is cleared caudally off the fascia to create a pocket large enough to comfortably accept the pump.*
+
+---
+
+**108. How does the gastrohepatic ligament play a role in the dissection for HAIP placement?**
+
+- It is used to retract the liver
+- It is preserved to protect the left hepatic artery
+- **It is incised as part of the initial dissection along the left side of the porta hepatis**
+- It is used to identify the gastroduodenal artery
+
+*Explanation: Dissection begins along the left side of the porta hepatis by incising the pars flaccida and gastrohepatic ligament.*
+
+---
+
+**109. According to the chapter, what type of anesthesia monitoring lines and urinary catheter are placed before the operation?**
+
+- Central venous catheter only
+- No special monitoring is required
+- Arterial line only
+- **Monitoring lines are placed and a Foley catheter is inserted**
+
+*Explanation: Before the procedure begins, monitoring lines are placed and a Foley catheter is inserted as part of patient preparation.*
+
+---
+
+**110. Which chapter in the same textbook is cross-referenced for information about aberrant hepatic artery anatomy?**
+
+- Chapter 50
+- Chapter 90
+- Chapter 97
+- **Chapter 2**
+
+*Explanation: The chapter cross-references Chapter 2 for information about aberrant anatomy of the hepatic artery, which may be identified in 30% to 50% of patients.*

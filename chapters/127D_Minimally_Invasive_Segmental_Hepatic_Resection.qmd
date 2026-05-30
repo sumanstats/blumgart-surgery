@@ -1,0 +1,1871 @@
+# 127D Minimally Invasive Segmental Hepatic Resection
+
+Generated with Claude.
+
+**1. Which of the following is NOT listed as a key question hepatobiliary surgeons must answer before deciding on treatment for a liver tumor?**
+
+- What kind of tumor is it?
+- Is the liver remnant sufficient?
+- **What is the patient's insurance status?**
+- Did the patient undergo surgery before?
+
+*Explanation: The chapter lists tumor type, resection margin, liver health, liver remnant sufficiency, number of tumors, and prior surgery as the key questions. Insurance status is not mentioned.*
+
+---
+
+**2. Historically, which operation was the procedure of choice for most liver surgeons?**
+
+- Segmental hepatectomy
+- Non-anatomic resection
+- Ablation
+- **Hemihepatectomy**
+
+*Explanation: The chapter states that historically, hemihepatectomy was the operation of choice for most liver surgeons, as it allowed safe control of inflow and outflow of the part to be resected.*
+
+---
+
+**3. What development allowed surgeons to begin tailoring operations for each patient?**
+
+- Introduction of robotic surgery
+- **Development of imaging, anesthesiology, and surgical techniques**
+- Discovery of chemotherapy
+- Advances in genetic testing
+
+*Explanation: The chapter states that with the development of imaging and anesthesiology and surgical techniques, a range of possibilities opened up and surgeons could begin to tailor operations for each patient.*
+
+---
+
+**4. Why has parenchyma preservation become increasingly important in liver surgery?**
+
+- Because hemihepatectomy is technically difficult
+- **Because oncologic treatments allow better biologic control of disease, opening the door for re-resections**
+- Because laparoscopy is less invasive
+- Because patients now present with smaller tumors
+
+*Explanation: Oncologic treatments evolved to allow better biologic control of disease, opening the door for re-resections in patients who already had parts of the liver removed, making parenchyma preservation increasingly important.*
+
+---
+
+**5. What are the two strategies for parenchyma-sparing liver surgery described in this chapter?**
+
+- Open and laparoscopic
+- Robotic and hand-assisted
+- **Segment-oriented (anatomic) and tumor-oriented (non-anatomic or atypical)**
+- Left lobe and right lobe approaches
+
+*Explanation: The chapter explicitly states that parenchyma-sparing liver surgery can be performed by two strategies: segment-oriented (anatomic) or tumor-oriented (non-anatomic or atypical resections).*
+
+---
+
+**6. In anatomic resections, what is the surgeon's first step?**
+
+- Approach the tumor supplying vessel from the surface
+- **Dissect and divide the vessel supplying the relevant part of the liver from the hilum**
+- Mark the resection line with electrocautery
+- Perform intraoperative ultrasound
+
+*Explanation: In anatomic resections, the surgeon first dissects and divides the vessel supplying the relevant part of the liver from the hilum, then resects the devascularized area.*
+
+---
+
+**7. In atypical resections, how is the tumor supplying vessel approached?**
+
+- From the hilum of the liver
+- Through a retroperitoneal approach
+- Via the hepatic veins
+- **From the surface of the liver**
+
+*Explanation: In atypical resections, the tumor is resected with a necessary margin by approaching the tumor supplying vessel from the surface, which the authors find faster and easier.*
+
+---
+
+**8. According to the authors, which tumor type is atypical resection especially suited for?**
+
+- Hepatocellular carcinoma (HCC)
+- Cholangiocarcinoma
+- **Colorectal liver metastases**
+- Hepatic adenoma
+
+*Explanation: The chapter states that resecting the tumor from the surface is especially suited for colorectal liver metastases, while anatomic resections may be more suitable for HCC because of segmental spread of metastases.*
+
+---
+
+**9. Why may anatomic resections be more suitable for hepatocellular carcinoma (HCC)?**
+
+- Because HCC tumors are always large
+- **Because of segmental spread of metastases**
+- Because HCC has better vascular supply
+- Because atypical resections leave positive margins in HCC
+
+*Explanation: The chapter states that anatomic resections may be more suitable for HCC because of segmental spread of metastases.*
+
+---
+
+**10. When can the atypical approach be suitable for HCC?**
+
+- Never; anatomic resection is always preferred
+- Only in elderly patients
+- **For smaller HCCs and in cases where the future liver remnant is small**
+- Only if the tumor is in segment 5 or 6
+
+*Explanation: The chapter notes that the atypical approach can be suitable also for smaller hepatocellular carcinomas and in cases where the future liver remnant is small.*
+
+---
+
+**11. What is the standard preoperative radiologic work-up described in this chapter?**
+
+- MRI alone
+- PET-CT and ultrasound
+- **Computed tomography (CT) of chest and abdomen**
+- Plain X-ray and ultrasound
+
+*Explanation: The chapter states that standard preoperative radiologic work-up is CT of chest and abdomen.*
+
+---
+
+**12. For colorectal liver metastases, what CT phase is described as sufficient?**
+
+- Arterial phase only
+- Delayed phase
+- **Portal venous phase of high quality**
+- Triple-phase CT
+
+*Explanation: For colorectal liver metastases, the chapter states that it is sufficient with portal venous phase of high quality, while multiple phases are necessary to assess primary tumors.*
+
+---
+
+**13. Why is MRI with a liver-specific contrast agent always performed in this practice?**
+
+- To replace CT imaging
+- To measure liver volume
+- **Because it sometimes finds small metastases not visible on CT**
+- To assess bile duct anatomy
+
+*Explanation: The authors always perform MRI with a liver-specific contrast agent because it sometimes finds small metastases not visible on CT.*
+
+---
+
+**14. In this practice, when is PET-CT mostly used?**
+
+- Routinely in all liver resection patients
+- To replace MRI
+- For intraoperative navigation
+- **To identify extrahepatic disease when in doubt if the patient will benefit from surgery**
+
+*Explanation: PET-CT is in this practice mostly used to identify extrahepatic disease in situations where they are in doubt if the patient will benefit from surgery.*
+
+---
+
+**15. What is the occasional use of contrast-enhanced ultrasound in this practice?**
+
+- Routine preoperative planning
+- Intraoperative guidance
+- Postoperative follow-up
+- **To clarify the diagnosis of a tumor**
+
+*Explanation: The chapter states that contrast-enhanced ultrasound is occasionally used to clarify the diagnosis of a tumor.*
+
+---
+
+**16. What is the described benefit of patient-specific 3D reconstructions?**
+
+- They replace intraoperative ultrasound
+- They reduce operative time
+- **They provide better spatial understanding to create the optimal resection plan**
+- They eliminate the need for MRI
+
+*Explanation: Patient-specific 3D models can provide a better spatial understanding to create the optimal resection plan, and the authors believe they will be used routinely in the future.*
+
+---
+
+**17. Which laparoscope is preferred by the authors and why?**
+
+- 5 mm, 0-degree laparoscope for its small size
+- 12 mm, 45-degree laparoscope for better angles
+- **10 mm, 30-degree laparoscope because it enables parallel visualization without conflicting with working instruments**
+- 5 mm, 30-degree laparoscope for flexibility
+
+*Explanation: The authors prefer a 10 mm, 30-degree laparoscope because it enables parallel visualization from a port placed lateral to the working port ("camera on the shoulder") without conflicting with the working instruments.*
+
+---
+
+**18. What is the described advantage of a flexible laparoscope?**
+
+- Provides 3D visualization
+- Reduces trocar count
+- Allows bigger specimen retrieval
+- **Could further improve visualization, especially in posterior segments**
+
+*Explanation: The chapter states that a flexible laparoscope could further improve visualization, especially in posterior segments.*
+
+---
+
+**19. When is a 3D laparoscope described as particularly useful?**
+
+- For all laparoscopic liver resections
+- Only for posterior segment resections
+- **In specific settings, especially complex tasks like suturing**
+- As a replacement for intraoperative ultrasound
+
+*Explanation: The chapter notes that a 3D laparoscope can be useful in specific settings, especially complex tasks like suturing, but it is not a necessity.*
+
+---
+
+**20. What technology is noted as potentially providing similar or even greater advantages than a 3D laparoscope?**
+
+- Robotic systems
+- Fluorescence imaging
+- **High-quality 4K cameras and large screens**
+- Augmented reality headsets
+
+*Explanation: The chapter states that high-quality 4K cameras and large screens may give similar or even greater advantages than a 3D laparoscope.*
+
+---
+
+**21. What is described as crucial in both open and laparoscopic liver surgery?**
+
+- Use of robotic assistance
+- Fluorescence cholangiography
+- Intraoperative frozen section analysis
+- **Intraoperative ultrasound with color Doppler function**
+
+*Explanation: The use of intraoperative ultrasound with color Doppler function is described as crucial in both open and laparoscopic surgery.*
+
+---
+
+**22. What is stated as mandatory when learning laparoscopic liver surgery?**
+
+- Performing at least 50 open cases first
+- Completing a robotic surgery course
+- **Performing laparoscopic ultrasound**
+- Using a 3D laparoscope
+
+*Explanation: The chapter states that when learning laparoscopic liver surgery, performing laparoscopic ultrasound is mandatory.*
+
+---
+
+**23. What makes ultrasound probe manipulation more difficult in laparoscopic surgery compared to open surgery?**
+
+- Smaller screens
+- Lack of color Doppler
+- Reduced image quality
+- **The laparoscopic approach itself, especially when examining in the posterosuperior segments**
+
+*Explanation: Ultrasound probe manipulation during a laparoscopic procedure is more difficult than in open surgery, especially when examining in the posterosuperior segments.*
+
+---
+
+**24. What facilitates ultrasound probe manipulation during laparoscopic liver surgery?**
+
+- Use of a robotic arm
+- Smaller trocars
+- **Appropriate liver mobilization and moving the probe between different trocars**
+- A flexible laparoscope
+
+*Explanation: Appropriate liver mobilization and moving the probe between different trocars facilitates the task of ultrasound probe manipulation during laparoscopic procedures.*
+
+---
+
+**25. On what principle is the function of bipolar vessel sealing devices based?**
+
+- Ultrasonic vibration
+- Cold cutting
+- Mechanical stapling
+- **Compression pressure and powerful radiofrequency energy causing contraction of collagen and elastin**
+
+*Explanation: The function of bipolar vessel sealing devices is based on compression pressure and powerful radiofrequency energy causing contraction of collagen and elastin between opposing vessel walls.*
+
+---
+
+**26. Which bipolar vessel sealing device tip is preferred by the authors and why?**
+
+- Curved tip for better vessel access
+- Blunt tip for safety
+- **Straight jaw (dolphin tip) because it is very suitable for dissection**
+- Angled tip for posterior segments
+
+*Explanation: The authors prefer a straight jaw bipolar device (e.g., LigaSur dolphin tip) because its tip is very suitable for dissection.*
+
+---
+
+**27. Why are ultrasonic sealer/dissection devices not effective for sealing hepatic veins?**
+
+- They generate too much heat
+- They are too large for laparoscopic use
+- They require dry field conditions
+- **The vibrations might tear the fragile vessel wall apart**
+
+*Explanation: The sealing of vessels with thin walls (e.g., hepatic veins) is not effective with ultrasonic devices because the vibrations might tear the fragile vessel wall apart.*
+
+---
+
+**28. What is monopolar cautery typically used for in laparoscopic liver surgery?**
+
+- Dividing large vessels
+- Closing bile ducts
+- **Marking resection lines on the liver surface**
+- Performing hemostasis of hepatic veins
+
+*Explanation: Monopolar cautery is usually used for marking resection lines on the liver surface, while bipolar cautery is used for performing hemostasis.*
+
+---
+
+**29. How can bipolar forceps be used during parenchyma transection?**
+
+- As a stapler
+- As a clip applier
+- For suturing
+- **For clamp-crushing during parenchyma transection**
+
+*Explanation: Bipolar forceps can be used for clamp-crushing during the parenchyma transection and is described as a very versatile tool frequently used by many liver surgeons.*
+
+---
+
+**30. What is the role of an ultrasonic aspirator in parenchyma transection?**
+
+- To seal large hepatic veins
+- To apply hemostatic patches
+- To mark resection lines
+- **To dissect intrahepatic vessels in addition to the clamp-crush technique**
+
+*Explanation: Ultrasonic aspirators are very useful tools that can be used in addition to the clamp-crush technique to dissect intrahepatic vessels when performing parenchyma transection.*
+
+---
+
+**31. Which type of suture is preferred for laparoscopic liver surgery, especially when suturing in the liver parenchyma?**
+
+- Simple monofilament sutures
+- Silk ties
+- Absorbable braided sutures
+- **Barbed sutures with a pledget as an anchor**
+
+*Explanation: In laparoscopic liver surgery, the authors prefer to use barbed sutures with a pledget as an anchor, especially when suturing in the liver parenchyma.*
+
+---
+
+**32. What are metal clips (endo-clips) described as suitable for in laparoscopic liver surgery?**
+
+- Large vessels only
+- Hepatic veins
+- All vessel sizes
+- **Smaller vessels and bile ducts**
+
+*Explanation: The metal clips are described as suitable for smaller vessels and bile ducts, as they save space and can be used as a secondary security.*
+
+---
+
+**33. Why are polymer clips (Hem-o-Lok) considered safer than metal clips?**
+
+- They are biodegradable
+- They are easier to apply
+- They can be removed if misplaced
+- **They lock tight on the vessel and can therefore be used to ligate larger vessels**
+
+*Explanation: Polymer clips are safer because they lock tight on the vessel and can therefore be used to ligate larger vessels, unlike metal clips.*
+
+---
+
+**34. What is the primary use of endo-staplers (mainly vascular) in laparoscopic liver surgery?**
+
+- Marking resection lines
+- Closing trocar sites
+- **Division of large vessels**
+- Applying hemostatic patches
+
+*Explanation: Endo-staplers (mainly vascular) are described as devices that allow division of large vessels.*
+
+---
+
+**35. What is the risk associated with endo-stapler use for parenchyma transection?**
+
+- Thermal injury to adjacent structures
+- Clip dislodgement
+- CO2 embolism
+- **It is a blinded technique; one must ensure the transection area is free of vessels and bile ducts**
+
+*Explanation: When endo-staplers are used for parenchyma transection, the technique is blinded, and one must always ensure the transection area is free of vessels and bile ducts that supply or drain the remnant liver.*
+
+---
+
+**36. What is stated as necessary to succeed with laparoscopic liver surgery regarding retractors?**
+
+- Using only disposable retractors
+- Having the most advanced retractor available
+- Using a robotic retractor system
+- **Having a retractor that the whole operative team is familiar with**
+
+*Explanation: The chapter states that to succeed with laparoscopic liver surgery, it is necessary to have a retractor that the whole operative team is familiar with.*
+
+---
+
+**37. What is the purpose of the Pringle maneuver in liver surgery?**
+
+- To visualize the bile ducts
+- To control outflow from the liver
+- To retract the liver for better access
+- **To temporarily reduce or stop blood flow to the liver, decreasing blood loss during parenchyma transection**
+
+*Explanation: The Pringle maneuver (hepatoduodenal ligament clamping) is used to temporarily reduce or stop the blood flow to the liver, thus decreasing blood loss during the parenchyma transection.*
+
+---
+
+**38. How often should the anesthesiologist notify surgeons during the Pringle maneuver?**
+
+- Every 10 minutes
+- Every 20 minutes
+- **Every 5 minutes after clamping**
+- Only when the total time reaches 60 minutes
+
+*Explanation: The chapter states that the anesthesiologist should be asked to notify surgeons every five minutes after clamping.*
+
+---
+
+**39. What is the standard clamping protocol described by the authors for the Pringle maneuver?**
+
+- 30 minutes clamping and 10 minutes reperfusion
+- 10 minutes clamping and 10 minutes reperfusion
+- Continuous clamping for up to 60 minutes
+- **15 minutes clamping and 5 minutes reperfusion, avoiding more than 120 minutes total**
+
+*Explanation: The authors usually use 15 minutes clamping and 5 minutes reperfusion and try to avoid clamping more than 120 minutes in total.*
+
+---
+
+**40. In the internal Pringle maneuver, how is the vessel loop fixed after passing behind the hepatic pedicle?**
+
+- With a suture
+- With a metal clip
+- With a rubber band
+- **With a Hem-o-Lok clip**
+
+*Explanation: In the internal Pringle maneuver, the vessel loop is passed behind the hepatic pedicle through the foramen of Winslow and fixed with a Hem-o-Lok clip.*
+
+---
+
+**41. In the external Pringle maneuver, through what structure is the cotton tape passed?**
+
+- Gastrohepatic ligament
+- Falciform ligament
+- Left triangular ligament
+- **The foramen of Winslow, around the porta hepatis**
+
+*Explanation: In the external Pringle maneuver, a cotton tape is passed through the foramen of Winslow, around the porta hepatis.*
+
+---
+
+**42. In the external Pringle maneuver, what replaces the 5 mm trocar after the cotton tape ends are pulled through?**
+
+- A 10 mm trocar
+- A Veress needle
+- A laparoscopic clip applier
+- **A 16-Ch suction catheter pushed inside the abdominal cavity up to the level of the hepatic pedicle**
+
+*Explanation: In the external Pringle maneuver, the 5 mm trocar is replaced by a 16-Ch suction catheter that is pushed inside the abdominal cavity up to the level of the hepatic pedicle, while the external end remains outside.*
+
+---
+
+**43. What is the "cauliflower technique" used to demonstrate in this chapter?**
+
+- Liver anatomy based on cadaveric dissection
+- Standard hemihepatectomy steps
+- **Selective removal of segments and subsegments using the "from surface to the pedicle" technique**
+- The technique of intraoperative ultrasound
+
+*Explanation: The authors performed an MRI of a cauliflower and segmented it to demonstrate selective removal of segments and subsegments using the "from surface to the pedicle" technique.*
+
+---
+
+**44. In which position is the patient placed for resections in anterolateral segments?**
+
+- 45 degrees right side up
+- 30 degrees right side up
+- **Supine position**
+- French position (surgeon between patient's legs)
+
+*Explanation: The patient is placed in the supine position for anterolateral segments, or in 30- to 45-degrees with the right side up for posterosuperior segments.*
+
+---
+
+**45. What degree of tilt is used for posterosuperior segment resections?**
+
+- Supine (0 degrees)
+- 10 to 15 degrees
+- 60 to 90 degrees
+- **30 to 45 degrees with the right side up**
+
+*Explanation: For posterosuperior segments, the patient is placed 30- to 45-degrees with the right side up, which helps achieve gravity-facilitated retraction.*
+
+---
+
+**46. Why is the patient tilted for posterosuperior segment resections?**
+
+- To allow better venous return
+- To reduce blood loss
+- To facilitate trocar placement
+- **To achieve gravity-facilitated retraction, improving visualization**
+
+*Explanation: Tilting the patient 30-45 degrees with the right side up helps achieve gravity-facilitated retraction, which improves visualization by bringing the resection area into the working space.*
+
+---
+
+**47. On which side does the surgeon usually stand during laparoscopic liver resection?**
+
+- Left side of the patient
+- At the patient's feet (French position)
+- Either side, depending on surgeon preference
+- **The patient's right side (in most cases)**
+
+*Explanation: The surgeon usually stands on the patient's right side, in some cases to the left side.*
+
+---
+
+**48. How is pneumoperitoneum established in this practice, and why?**
+
+- Veress needle, as it is faster
+- CO2 insufflation through a trocar site
+- Direct trocar insertion
+- **Open technique, considered safer than Veress needle in their hands**
+
+*Explanation: Pneumoperitoneum is established by open technique, which the authors state is in their hands safer than the Veress needle.*
+
+---
+
+**49. What intra-abdominal carbon dioxide pressure range is used during the procedure?**
+
+- 5 to 8 mm Hg
+- 18 to 20 mm Hg
+- 8 to 10 mm Hg
+- **12 to 15 mm Hg**
+
+*Explanation: The chapter states that intra-abdominal carbon dioxide gas pressure is set in a range from 12 to 15 mm Hg.*
+
+---
+
+**50. What sizes of trocars are used in this technique?**
+
+- 5, 10, and 15 mm trocars
+- 10 and 15 mm trocars only
+- 12 mm trocars only
+- **5 and 12 mm trocars, with a 30-degree laparoscope**
+
+*Explanation: A 30-degree laparoscope and 5 and 12 mm trocars are used in this technique.*
+
+---
+
+**51. What determines the number and placement of trocars used in laparoscopic liver resection?**
+
+- Standard template regardless of patient
+- Surgeon preference only
+- **Lesion location and patient body build**
+- Type of energy device used
+
+*Explanation: The number of trocars depends on the lesion location and patient body build.*
+
+---
+
+**52. How many trocars are usually sufficient, plus one additional for Pringle?**
+
+- Two trocars
+- Three trocars
+- **Four trocars**
+- Six trocars
+
+*Explanation: Usually four trocars and one additional for Pringle are sufficient, but one should not hesitate to place extra trocars if needed.*
+
+---
+
+**53. What is a potential risk of increasing the number of trocars?**
+
+- Increased operative time only
+- Risk of bile leak
+- Longer recovery
+- **Increased risk for intraoperative incidents**
+
+*Explanation: The chapter notes that although extra trocars can be placed when needed, increasing the number of trocars may also increase the risk for intraoperative incidents.*
+
+---
+
+**54. After trocar placement, what is the first step related to intraoperative ultrasound?**
+
+- Immediately begin parenchyma transection
+- Perform Pringle maneuver
+- Mobilize the liver fully
+- **Thoroughly examine the liver with laparoscopic ultrasound to define exact tumor localization and its relation to vascular anatomy**
+
+*Explanation: After establishment of pneumoperitoneum and trocar placement, the liver is thoroughly examined with laparoscopic ultrasound to define exact tumor localization and its relation to the vascular anatomy.*
+
+---
+
+**55. Why is proper liver mobilization particularly important for posterior segment resections?**
+
+- To allow drain placement
+- To prevent bile leak
+- To reduce blood loss
+- **It improves visualization by bringing the resection area into the working space (gravity-facilitated retraction)**
+
+*Explanation: Proper liver mobilization is important, especially when performing resection in the posterior segments and in the upper part of segment 2, as it improves visualization by bringing the resection area into the working space.*
+
+---
+
+**56. During left lobe mobilization, which ligaments are divided first?**
+
+- Round and falciform ligaments
+- Coronary and gastrohepatic ligaments
+- **Left triangular, round, falciform, and coronary ligaments**
+- Hepatoduodenal and falciform ligaments
+
+*Explanation: During left lobe mobilization, the procedure is started by dividing the left triangular, the round, the falciform, and the coronary ligaments.*
+
+---
+
+**57. Until what structures are exposed when dividing the coronary ligament during left lobe mobilization?**
+
+- Right hepatic vein and inferior vena cava
+- Portal vein and hepatic artery
+- **Left hepatic vein and suprahepatic vena cava**
+- Bile duct and caudate lobe
+
+*Explanation: The coronary ligament is divided until the left hepatic vein and the suprahepatic vena cava are exposed during left lobe mobilization.*
+
+---
+
+**58. During right lobe mobilization, how are short hepatic veins to the inferior vena cava handled?**
+
+- They are ligated with metal clips
+- They are stapled with endo-staplers
+- They are left intact
+- **Sealed individually with a bipolar vessel sealer**
+
+*Explanation: Short hepatic veins to the inferior vena cava are sealed individually with a bipolar vessel sealer during right lobe mobilization.*
+
+---
+
+**59. Why is it dangerous to use metal clips on short hepatic veins to the IVC?**
+
+- They are too expensive
+- They cause bile duct injury
+- They increase operative time
+- **They may fall off**
+
+*Explanation: The chapter warns that it can be dangerous to use metal clips on these short vessels because they may fall off.*
+
+---
+
+**60. What is recommended for larger short hepatic veins to the IVC?**
+
+- Metal clip ligation
+- Bipolar cautery alone
+- Suture ligation
+- **Endo-staplers**
+
+*Explanation: The chapter recommends using endo-staplers on larger short veins to the IVC.*
+
+---
+
+**61. During right lobe mobilization, what does the surgeon try to spare?**
+
+- The left hepatic vein
+- The falciform ligament
+- **The round ligament**
+- The pars flaccida
+
+*Explanation: The chapter states that during right lobe mobilization, the falciform ligament is divided but the authors try to spare the round ligament.*
+
+---
+
+**62. What information forms the basis of the resection plan?**
+
+- Surgeon experience and preference only
+- Postoperative imaging
+- **Preoperative liver imaging and intraoperative ultrasound**
+- Frozen section analysis
+
+*Explanation: The resection plan is created based on preoperative liver imaging and intraoperative ultrasound, taking into account tumor size, distance from vessels, possible resection margin, and both inflow and outflow of the resection area.*
+
+---
+
+**63. How is the resection line marked on the liver surface?**
+
+- With laparoscopic ink marking
+- With a sterile pen
+- With laser marking
+- **By electrocautery**
+
+*Explanation: The resection line is marked at the liver surface by electrocautery and followed up with ultrasound examination to clarify the resection margin.*
+
+---
+
+**64. What is the appearance of cautery marks on ultrasound?**
+
+- White hyperechoic shadows
+- Anechoic lines
+- No visible shadow
+- **Black shadows that mark the transection line and show the distance from the tumor**
+
+*Explanation: Cautery marks give black shadows that mark the transection line and show the distance from the tumor when visualized with ultrasound.*
+
+---
+
+**65. What type of laparoscopic ultrasound probe is preferable for resection planning?**
+
+- Curved probe for broader field
+- Side-fire probe for lateral segments
+- Micro-convex probe
+- **Linear probe, as it makes resection planning easier**
+
+*Explanation: A linear laparoscopic ultrasound probe is preferable over a curved probe because the linear probe makes the resection planning easier.*
+
+---
+
+**66. In the described resection plan, how are the lateral lines oriented?**
+
+- Curved to follow tumor contour
+- Perpendicular to the portal tree
+- Diagonal across the liver surface
+- **Straight, parallel with the portal tree and aligned with the surgeon's two trocars**
+
+*Explanation: The authors aim to create straight lateral lines, parallel with the portal tree and aligned with the surgeons' two trocars.*
+
+---
+
+**67. When is the posterior resection line typically marked?**
+
+- Before any transection begins
+- Simultaneously with the anterior line
+- **After transecting the anterior and lateral lines, with the help of ultrasound**
+- Only when bleeding occurs
+
+*Explanation: The posterior line can be marked, with the help of ultrasound, after transecting the anterior and lateral lines, to avoid transecting too much behind the tumor.*
+
+---
+
+**68. What is the purpose of marking the posterior resection line?**
+
+- To improve blood loss control
+- To guide bile duct identification
+- **To avoid transecting too much behind the tumor when passing beneath it**
+- To facilitate specimen extraction
+
+*Explanation: It is useful to mark the posterior line to avoid transecting too much behind the tumor in the liver when passing beneath the tumor.*
+
+---
+
+**69. What instruments are used to transect the parenchyma in the described technique?**
+
+- Endo-stapler alone
+- Ultrasonic dissector only
+- Monopolar cautery and scissors
+- **Bipolar vessel sealer in combination with an ultrasonic aspirator for larger resections**
+
+*Explanation: The chapter states that parenchyma is transected with a bipolar vessel sealer in combination with an ultrasonic aspirator for larger resections.*
+
+---
+
+**70. Why are resections guided by repeated ultrasonography during transection?**
+
+- To monitor blood pressure
+- To reduce operative time
+- **To ensure a tumor-free margin and to look for portal branches, reducing remnant liver ischemia and preventing bile leakage**
+- To guide anesthesia management
+
+*Explanation: Resections are guided by repeated ultrasonography to ensure a tumor-free margin and to look for portal branches, which reduces remnant liver ischemia and prevents bile leakage.*
+
+---
+
+**71. What is stated about peripheral bile ducts during resection?**
+
+- They should always be clipped
+- They can be safely divided
+- They are identified only by fluoroscopy
+- **The surgeon should always try to avoid leaving peripheral bile ducts with no connection to the central bile tree**
+
+*Explanation: The chapter states that the surgeon should always try to avoid leaving peripheral bile ducts with no connection to the central bile tree.*
+
+---
+
+**72. Why should hepatic branches (hepatic veins) be identified and dissected selectively?**
+
+- To improve inflow to the remnant
+- To reduce operative time
+- To facilitate stapling
+- **To avoid outflow occlusion in the liver remnant**
+
+*Explanation: The hepatic branches should be identified and dissected selectively to avoid outflow occlusion in the liver remnant.*
+
+---
+
+**73. What often compensates for outflow occlusion caused by dividing bridge veins?**
+
+- Collateral portal inflow
+- Hepatic artery recruitment
+- **Bridge veins themselves are often present and frequently compensate for outflow occlusion**
+- Regenerative hypertrophy
+
+*Explanation: Bridge veins are often present, and these will frequently compensate for outflow occlusion after they are divided.*
+
+---
+
+**74. On what does the choice of method for dividing vessels in the resection line depend?**
+
+- Surgeon training level
+- Type of tumor
+- Patient's liver function
+- **The size of the vessels (energy device, clips, or laparoscopic linear staplers)**
+
+*Explanation: Vessels in the resection line are divided using the energy device, clips, and laparoscopic linear staplers, depending on the size of the vessels.*
+
+---
+
+**75. What should be done with larger vascular structures before they are divided?**
+
+- Apply clips directly
+- Use endo-stapler immediately
+- Perform Pringle maneuver first
+- **Use the aspirator to skeletonize them**
+
+*Explanation: The aspirator should be used to skeletonize larger vascular structures before they are divided.*
+
+---
+
+**76. What is essential after completing the liver resection?**
+
+- Immediate fascial closure
+- Placement of an abdominal drain
+- Bile culture sampling
+- **Thorough visual examination and hemostasis of the resection bed**
+
+*Explanation: After completing the liver resection, a thorough visual examination and hemostasis of the resection bed is essential to minimize the risk for postoperative hemorrhage and bile leakage.*
+
+---
+
+**77. What may cover the resection bed at the end of the procedure?**
+
+- Laparotomy pads
+- **A hemostatic patch**
+- Fibrin glue only
+- Omentum
+
+*Explanation: The resection bed may be covered by a hemostatic patch after completing the liver resection.*
+
+---
+
+**78. In the modified clamp-crushing technique, what is the purpose of crushing parenchyma without activating the instrument?**
+
+- To reduce bleeding
+- To create thermal injury
+- **To identify vascular structures without damaging them so they can be divided selectively**
+- To mark the resection line
+
+*Explanation: In modified clamp-crushing, the jaws of the energy device are used to crush parenchyma with or without activating it. This allows the identification of vascular structures without damaging them so that they can be divided selectively.*
+
+---
+
+**79. In which part of the transection line can the instrument be activated with cutting in clamp-crushing?**
+
+- Deep in the parenchyma only
+- Never with cutting activated
+- At the posterior line only
+- **Superficial parts of the transection line**
+
+*Explanation: In the superficial parts, activation can be used with cutting, while deeper in the parenchyma, activation should be used with caution and without applying the knife.*
+
+---
+
+**80. What combination is recommended for deep parenchyma where larger vessels and bile ducts are present?**
+
+- Endo-stapler alone
+- Monopolar cautery with clips
+- **An aspirator in combination with a bipolar vessel sealer**
+- Clamp-crushing with metal clips
+
+*Explanation: Deep in the parenchyma where larger vessels and bile ducts are present, the use of an aspirator in combination with a bipolar vessel sealer is recommended.*
+
+---
+
+**81. How are all lesions extracted during laparoscopic liver surgery?**
+
+- Through an enlargement of the camera port
+- Directly through the largest trocar
+- Via a Pfannenstiel incision exclusively
+- **Using an endoscopic retrieval bag**
+
+*Explanation: All lesions are extracted using an endoscopic retrieval bag.*
+
+---
+
+**82. Through what incision are specimens usually removed?**
+
+- A separate Kocher incision
+- The right lateral trocar site
+- Always through a Pfannenstiel incision
+- **An extension of trocar incisions in the midline (usually the first trocar incision)**
+
+*Explanation: Specimens tend to be removed through an extension of trocar incisions in the midline (usually the first trocar incision), though a Pfannenstiel incision is also a good option.*
+
+---
+
+**83. When is a Pfannenstiel incision recommended for specimen extraction?**
+
+- In all cases for better cosmesis
+- When the specimen is too large for any trocar
+- In patients with previous midline surgery
+- **In the absence of adhesions in the lower part of the abdomen**
+
+*Explanation: A Pfannenstiel incision is a good option for specimen extraction in the absence of adhesion in the lower part of abdomen.*
+
+---
+
+**84. Which fascial closures are recommended?**
+
+- All trocar incisions regardless of size
+- No fascial closure is needed
+- Only the Pfannenstiel incision
+- **Fascia of trocar incisions located in the midline and the one used for extraction (and all incisions in thin patients)**
+
+*Explanation: The authors recommend closing the fascia of trocar incisions located in the midline and the one used for extraction. In thin patients, it is recommended to suture the fascia in all incisions.*
+
+---
+
+**85. What is the described practice regarding abdominal drains?**
+
+- Always used after liver resection
+- Used only after right hepatectomy
+- Never used in laparoscopic surgery
+- **Rarely used but preferred when there is a risk for bile leakage (e.g., signs of bile on the resection bed)**
+
+*Explanation: The authors rarely use abdominal drains but prefer to leave one if there is a risk for bile leakage (e.g., signs of bile on the resection bed, or after suturing the bile ducts).*
+
+---
+
+**86. What should be achieved before parenchyma transection to reduce bleeding risk?**
+
+- High central venous pressure
+- General anesthesia with high PEEP
+- Pringle maneuver activation
+- **Low central venous pressure (CVP)**
+
+*Explanation: Low CVP should be achieved before parenchyma transection, which helps reduce the risk for bleeding.*
+
+---
+
+**87. Which methods are described to achieve low CVP?**
+
+- Vasoconstriction and high PEEP
+- Beta-blockade and fluid loading
+- Diuretics and vasoconstrictors
+- **Patient positioning, fluid restriction, ventilation management, and vasodilators**
+
+*Explanation: Low CVP can be achieved by patient positioning, fluid restriction, ventilation management, and vasodilators use.*
+
+---
+
+**88. What pneumoperitoneum pressure is used during the procedure, and what pressure is used in case of venous bleeding?**
+
+- 10 mm Hg standard; 12 mm Hg for bleeding
+- 8 mm Hg standard; 12 mm Hg for bleeding
+- 15 mm Hg standard; 20 mm Hg for bleeding
+- **12 mm Hg standard; increased up to 15 mm Hg (rarely 18 mm Hg) for venous bleeding**
+
+*Explanation: The authors operate with a pneumoperitoneum of 12 mm Hg. In case of venous bleeding, the pressure is increased up to 15 mm Hg and rarely 18 mm Hg.*
+
+---
+
+**89. What is stated about CO2 embolism in laparoscopic liver surgery?**
+
+- It is the most feared complication
+- It always requires immediate surgery
+- It is prevented by low pneumoperitoneum pressure
+- **It is a small clinical problem due to high solubility of CO2, though anesthesiologists should monitor end-tidal CO2**
+
+*Explanation: In the authors' experience, CO2 embolism is a small clinical problem (high solubility of CO2), but anesthesiologists should be aware of the increased intraabdominal pressure and monitor the end-tidal CO2 levels.*
+
+---
+
+**90. How can bleeding be limited by adjusting the respirator settings?**
+
+- By increasing positive end-expiratory pressure (PEEP)
+- By reducing tidal volume
+- By increasing respiratory rate
+- **By reducing airway pressure (usually turning off PEEP), which reduces pressure in hepatic veins**
+
+*Explanation: Reducing the airway pressure of the patient (usually by turning off positive end-expiratory pressure on the respirator) may also limit bleeding by reducing pressure in the hepatic veins.*
+
+---
+
+**91. What technique can help clarify the resection margin when in doubt?**
+
+- Place a marking suture in the tumor
+- Use fluorescence imaging
+- Remove more tissue as a safety measure
+- **Place a Surgicel® or similar hemostat, or a metal instrument, to visualize the shadow between tumor and resection bed with ultrasound**
+
+*Explanation: When in doubt of the resection margin, it can be helpful to place a Surgicel® or similar hemostat, or a metal instrument, to clarify the margins by visualizing shadow between tumor and resection bed with modern ultrasound equipment.*
+
+---
+
+**92. What is stated about unnecessary liver mobilization?**
+
+- It should always be performed for safety
+- It reduces operative time
+- It has no long-term consequences
+- **It can lead to adhesions that may complicate future repeat resections**
+
+*Explanation: The chapter warns that unnecessary mobilization can lead to adhesions that may complicate future repeat resections.*
+
+---
+
+**93. What is the "rule of thumb" described for ensuring adequate liver mobilization?**
+
+- The liver should be completely free from all attachments
+- Both hepatic veins must be visible
+- **Both of the operator's instruments must be able to reach the posterior part of the resection line**
+- The right hepatic vein must be encircled
+
+*Explanation: A rule of thumb is that both of the operator's instruments must be able to reach the posterior part of the resection line.*
+
+---
+
+**94. What is the first step in managing intraoperative bleeding?**
+
+- Immediate blood transfusion
+- Open conversion
+- Apply electrocautery immediately
+- **Performing a Pringle maneuver to control the situation and decide on the best repair option**
+
+*Explanation: A Pringle maneuver is always useful to control the situation and decide what is the best option for repair during intraoperative bleeding.*
+
+---
+
+**95. How are most bleedings during liver resection effectively controlled?**
+
+- By immediate suturing
+- By clip application
+- By using endo-staplers
+- **By compression and patience**
+
+*Explanation: Most bleedings during liver resection will be effectively controlled by compression and patience.*
+
+---
+
+**96. What technique is described for bleeding from larger portal veins?**
+
+- Hemostatic patch application
+- Endovascular embolization
+- Clip application and compression
+- **Suturing, preferably with a barbed suture with a pledget**
+
+*Explanation: Larger bleedings from the portal veins must often be sutured, and the authors prefer a barbed suture with a pledget.*
+
+---
+
+**97. Why can hepatic vein bleedings often be stopped with a hemostatic patch?**
+
+- Because they respond to electrocautery
+- Because they are always small volume bleeds
+- Because patch adhesion is better at high pressure
+- **Because hepatic veins are a low-pressure system**
+
+*Explanation: Hepatic veins can be more difficult to suture and hepatic bleedings can often be stopped with a hemostatic patch because it is a low-pressure system.*
+
+---
+
+**98. What is described as the best way to control a bile leak intraoperatively?**
+
+- Place a drain immediately
+- Apply fibrin glue
+- Pack the area with gauze
+- **A meticulously placed suture**
+
+*Explanation: A meticulously placed suture is described as the best way to control a bile leak in the authors' experience.*
+
+---
+
+**99. What is an alternative to suturing for bile duct control if the duct can be lifted and visualized?**
+
+- Electrocautery
+- Endo-stapler
+- Fibrin sealant
+- **A well-placed clip**
+
+*Explanation: If the bile duct can be lifted and visualized, a well-placed clip is described as a good option for controlling a bile leak.*
+
+---
+
+**100. Which safety checklist is always used in the operating theatres described in this chapter?**
+
+- Joint Commission checklist
+- European Society checklist
+- Local hospital protocol checklist
+- **The World Health Organization (WHO) surgical safety checklist**
+
+*Explanation: The WHO surgical safety checklist is always used in the operating theatres described by the authors.*
+
+---
+
+**101. Why is the "time out" at the beginning of the operation described as important?**
+
+- To document operative start time
+- To confirm instrument sterilization
+- **To collect the focus of the team and address any questions or uncertainty**
+- To verify anesthesia type
+
+*Explanation: The time out at the beginning of the operation is important to collect the focus of the team and address any questions or uncertainty.*
+
+---
+
+**102. Why is left lateral sectionectomy described as a suitable procedure to start learning laparoscopic liver surgery?**
+
+- It is the fastest procedure
+- It does not require mobilization
+- It avoids intraoperative ultrasound use
+- **It gives basic understanding and training before beginning more advanced hepatectomies and experience with laparoscopic instruments**
+
+*Explanation: Left lateral sectionectomy is a very suitable procedure to start learning laparoscopic liver surgery because it gives basic understanding and training before beginning with more advanced hepatectomies.*
+
+---
+
+**103. During a left lateral sectionectomy, where does the expert stand when teaching a less experienced surgeon?**
+
+- On the same side as the trainee
+- At the patient's feet
+- Observing from outside the sterile field
+- **On the left side of the patient, while the trainee performs most of the operation from the right side**
+
+*Explanation: When teaching a less experienced surgeon, the expert can stand on the left side and be in complete control, while the trainee can perform most of the operation from the right side.*
+
+---
+
+**104. During left lateral sectionectomy, which ligaments are divided during left lobe mobilization?**
+
+- Falciform and round ligaments only
+- Coronary and hepatoduodenal ligaments
+- **Triangular and coronary ligaments up to the ligamentum venosum Arantii and the left hepatic vein**
+- Left triangular and gastrohepatic ligaments
+
+*Explanation: During left lateral sectionectomy, the left lobe is mobilized by dividing the triangular and coronary ligaments up to the ligamentum venosum Arantii and the left hepatic vein using a bipolar vessel sealing device.*
+
+---
+
+**105. What is the purpose of dividing the round ligament during left lateral sectionectomy?**
+
+- To improve visualization of segment 4
+- To allow better trocar placement
+- **It can be used as a handle to facilitate the parenchymal transection**
+- To expose the left hepatic vein
+
+*Explanation: The round ligament is divided and can be used as a handle to facilitate the parenchymal transection during left lateral sectionectomy.*
+
+---
+
+**106. Is the Pringle maneuver usually necessary during left lateral sectionectomy?**
+
+- Yes, always required
+- Yes, for more than 30 minutes
+- Only for the final hepatic vein division
+- **No, it is usually not necessary**
+
+*Explanation: The chapter states that the Pringle maneuver is usually not necessary during left lateral sectionectomy.*
+
+---
+
+**107. In which direction is the liver parenchyma transected during left lateral sectionectomy?**
+
+- Perpendicular to the falciform ligament
+- Along the right lobe border
+- Following segment 3 boundaries
+- **Parallel to the falciform ligament ("opening the book")**
+
+*Explanation: The liver parenchyma is then transected ("opening the book") parallel to the falciform ligament with the bipolar vessel sealing device.*
+
+---
+
+**108. What must the surgeon dissect to avoid damaging the portal branch to segment 4 during left lateral sectionectomy?**
+
+- Left hepatic vein
+- Caudate lobe branches
+- Bile duct confluence
+- **Rex recesses**
+
+*Explanation: After dissecting the Rex recesses (to avoid damaging the portal branch to segment 4) and exposing the portal branch to segment 3, it is dissected between clips or with a linear endo-stapler.*
+
+---
+
+**109. How is the left hepatic vein divided at the completion of left lateral sectionectomy?**
+
+- Suture ligation
+- Bipolar vessel sealer
+- Large metal clip
+- **By an endo-stapler**
+
+*Explanation: The resection is continued up to the left hepatic vein, which is sectioned by an endo-stapler during left lateral sectionectomy.*
+
+---
+
+**110. What is the alternative, faster approach for left lateral sectionectomy described in the chapter?**
+
+- Divide all pedicles first before parenchyma transection
+- Use endo-staplers for all parenchyma transection
+- **Divide the pedicle to segments 2 and 3 with one endo-stapler after transecting the liver parenchyma from the surface**
+- Approach through a hand-assisted technique
+
+*Explanation: As an alternative, the pedicle to segments 2 and 3 can be easily divided with one endo-stapler after the liver parenchyma is transected from the liver surface, though this is faster but does not provide the same training for young surgeons.*
+
+---
+
+**111. Which liver segment is considered one of the more difficult segments for laparoscopic liver surgery?**
+
+- Segment 2
+- Segment 5
+- Segment 6
+- **Segment 8**
+
+*Explanation: The chapter states that segment 8 is considered one of the more difficult segments for laparoscopic liver surgery, though the lower parts are more accessible.*
+
+---
+
+**112. What was the initial surgical consideration for the large segment 8 metastasis case presented?**
+
+- Left hepatectomy
+- Ablation
+- Segmental resection
+- **Right hemihepatectomy**
+
+*Explanation: The chapter presents a patient with a large metastasis in segment 8 close to the right hepatic vein, and a right hemihepatectomy was initially considered.*
+
+---
+
+**113. What type of resection was ultimately preferred for the large segment 8 metastasis?**
+
+- Anatomic segment 8 resection
+- Ablation
+- Right hemihepatectomy
+- **Atypical, R1 vascular resection (detaching from the vessel), which is oncologically sufficient**
+
+*Explanation: After re-evaluation, an atypical, R1 vascular resection (detaching from the vessel) was preferred, which is oncologically sufficient.*
+
+---
+
+**114. In the segment 8 resection case, how is the resection planned regarding the feeding portal vein?**
+
+- To avoid the feeding portal vein entirely
+- To ligate it before any transection
+- **So that the feeding portal vein is found in the lower medial part, allowing early control of the pedicle**
+- To approach it from the hilum first
+
+*Explanation: The resection is planned so that the feeding portal vein is found in the lower medial part, which allows early control of the pedicle supplying the resected part.*
+
+---
+
+**115. In the segment 8 case, what is described as crucial when opening the parenchyma?**
+
+- Dividing the anterior line last
+- Avoiding the Pringle maneuver
+- Using endo-staplers for all parenchyma
+- **Opening the parenchyma perpendicularly to the surface by angling the lower jaw of the instrument slightly away from the tumor**
+
+*Explanation: It is crucial that the parenchyma is opened perpendicularly to the surface, most easily achieved by angling the lower jaw of the instrument slightly away from the tumor, otherwise the resection line could come too close to the tumor.*
+
+---
+
+**116. In the segment 8 resection, what is the sequence for opening the parenchyma lines?**
+
+- Posterior first, then lateral and anterior
+- Lateral lines only, then posterior
+- **Two lateral lines first, then the anterior line**
+- Anterior line, then lateral, then posterior
+
+*Explanation: The parenchyma is opened with a bipolar sealer, first the two lateral lines and then the anterior line for the segment 8 resection.*
+
+---
+
+**117. Why is it important to make corners between anterior and lateral lines free during segment 8 resection?**
+
+- To avoid bile duct injury
+- To facilitate drain placement
+- **So that the specimen can be lifted up and the plane beneath the tumor can be created**
+- To allow placement of a Pringle maneuver
+
+*Explanation: It is important to make the corners between anterior and lateral lines free dissected, so that the specimen can be lifted up, and the plane beneath the tumor can be created.*
+
+---
+
+**118. In the segment 8 case, what is described as "useful in this part" to simplify dissection and avoid bleeding during the deep phase?**
+
+- Increasing intra-abdominal pressure
+- Using endo-staplers
+- Switching to open surgery
+- **Double sealing and a Pringle maneuver**
+
+*Explanation: Double sealing and a Pringle maneuver are described as useful in the deep dissection part to simplify the dissection and avoid bleeding.*
+
+---
+
+**119. How is the specimen dissected off the hepatic vein in segment 8 resection?**
+
+- Using endo-staplers close to the vein
+- By sharp scissor dissection
+- By bipolar sealing alone
+- **By dissecting very close to the vein and following it cranially until the tumor is free; the aspirator is very helpful here**
+
+*Explanation: The easiest way to dissect the specimen off the hepatic vein is to dissect very close to it and follow it cranially until the tumor is free. The aspirator is of great value here.*
+
+---
+
+**120. In segment 8 resection, how is the posterior line of the resection divided?**
+
+- With endo-staplers only
+- By approaching from only one side
+- With the Pringle maneuver released
+- **With a combination of sealer and aspirator from both sides, pulling the mobile specimen in the contralateral direction**
+
+*Explanation: The posterior line of the resection is divided with a combination of sealer and aspirator. It is usually beneficial to do this from both sides, pulling the now rather mobile specimen in the contralateral direction.*
+
+---
+
+**121. Which segment is described as technically demanding to approach laparoscopically, requiring significant experience?**
+
+- Segment 5
+- Segment 3
+- Segment 2
+- **Segment 7**
+
+*Explanation: The chapter states that segment 7 is technically demanding to approach laparoscopically and requires significant experience.*
+
+---
+
+**122. For a segment 7 resection, how is the patient positioned?**
+
+- Supine position
+- Left side up 30 degrees
+- **Right side 45 degrees up, right arm across body**
+- Left lateral decubitus
+
+*Explanation: For a segment 7 resection, the patient is placed with right side 45 degrees up, right arm across body.*
+
+---
+
+**123. What maximum tilt can be used for extreme access to posterosuperior segments?**
+
+- 45 degrees right side up
+- 60 degrees right side up
+- 80 degrees right side up
+- **Almost 90 degrees right side up by tilting the table**
+
+*Explanation: If necessary, the table can be tilted until the patient's right side is almost 90 degrees up for extreme access to posterosuperior segments.*
+
+---
+
+**124. Where is pneumoperitoneum established for segment 7 resection?**
+
+- Through the umbilicus
+- Through the right subcostal space
+- Through the epigastrium
+- **Just lateral to the rectus abdominis muscle to avoid accidental damage to the epigastric vessels**
+
+*Explanation: Pneumoperitoneum is established using open technique through an incision just lateral to the rectus abdominis muscle, always avoiding the muscle to prevent accidental damage to the epigastric vessels.*
+
+---
+
+**125. What type of retractor is preferred for segment 7 resection?**
+
+- Straight single-blade retractor
+- Robotic arm retractor
+- J-shaped retractor
+- **Fan-shaped endo-retract with three fingers**
+
+*Explanation: The authors prefer an endo-retract, fan-shaped, with three fingers as the retractor for segment 7 resection.*
+
+---
+
+**126. During segment 7 resection, what is the optimal position of the retractor?**
+
+- Pushing the liver superiorly
+- Placed at the tumor surface directly
+- At the inferior border of the right lobe
+- **Parallel to the superior longitudinal resection line, pressing the liver gently to the left**
+
+*Explanation: The optimal retractor position is usually parallel to the superior longitudinal resection line, pressing the liver gently to the left, which presents the tumor nicely to the surgeon.*
+
+---
+
+**127. Is the Pringle maneuver mandatory for segment 7 resection?**
+
+- No, it is never needed
+- Only if bleeding exceeds 500 mL
+- Optional, based on surgeon preference
+- **Yes, Pringle is mandatory for segment 7 resection**
+
+*Explanation: The chapter states that Pringle is mandatory for segment 7 resection.*
+
+---
+
+**128. What is described as the mechanism by which the tumor "falls out" during segment 7 resection?**
+
+- Gravity alone without any traction
+- Retractor pushing the tumor out
+- Aspirator creating a vacuum effect
+- **Combination of traction of the left instrument and liver retractor when the anterior and lateral lines are opened ("open the book")**
+
+*Explanation: When the anterior line and the lateral lines are opened, the combination of the traction of the left instrument and liver retractor will allow the tumor to gradually "fall out" of the liver ("open the book").*
+
+---
+
+**129. What is routinely placed on resection beds close to the IVC after segment 7 resection?**
+
+- An abdominal drain
+- Fibrin glue
+- Omentum
+- **A hemostatic patch**
+
+*Explanation: Hemostasis is ensured, and a hemostatic patch is usually placed on resection beds close to the IVC after segment 7 resection.*
+
+---
+
+**130. For a segment 7 resection, why is the right hepatic vein never encircled?**
+
+- It is not needed for the Pringle maneuver
+- It increases operative time
+- It risks bile duct injury
+- **It is not stated explicitly — instead, the authors do a double seal on short vessels at a certain distance to the cava and avoid clips due to falling off risk**
+
+*Explanation: The right lobe is completely mobilized to the vena cava and the authors state they never encircle the right hepatic vein, always ensuring a double seal with a certain distance to the cava, avoiding clips on short vessels due to the risk of them falling off.*
+
+---
+
+**131. Where is segment 1 (caudate lobe) located relative to its resection accessibility?**
+
+- Always easily accessible
+- Always inaccessible laparoscopically
+- Only accessible in the supine position
+- **Can be demanding but is usually accessible with the correct approach**
+
+*Explanation: The chapter states that the resection in segment 1 can be demanding but is usually accessible with the correct approach.*
+
+---
+
+**132. In what position is the patient placed for segment 1 (caudate lobe) resection?**
+
+- Right lateral decubitus
+- Left lateral decubitus
+- 30-degree right side up
+- **Supine position**
+
+*Explanation: The patient is placed in a supine position for segment 1 (caudate lobe) resection.*
+
+---
+
+**133. How many trocars are used and where is the camera placed for segment 1 resection?**
+
+- Three trocars; camera in trocar 1
+- Five trocars; camera in trocar 5
+- **Five trocars; camera usually placed in trocar 3 (umbilicus)**
+- Four trocars; camera in trocar 4
+
+*Explanation: The first trocar is placed in the umbilicus (3), then two pararectal trocars on both sides (2 and 4), and an additional trocar laterally on the right side (1). The camera is usually placed in trocar 3.*
+
+---
+
+**134. What is opened first at the start of segment 1 resection?**
+
+- The falciform ligament
+- The round ligament
+- The coronary ligament
+- **The pars flaccida**
+
+*Explanation: The procedure starts with opening the pars flaccida, after which the left portion of segment 1 (Spiegel's lobe) becomes visible and accessible for ultrasound examination.*
+
+---
+
+**135. What anatomic structures must the surgeon pay attention to when mobilizing segment 1?**
+
+- Left triangular ligament and hepatic artery
+- Right portal vein and right hepatic duct
+- **Short veins to the IVC and the portal vein to the left part of segment 1 (entering from the cranial side)**
+- Segment 4 portal branch and bile duct
+
+*Explanation: The surgeon must pay attention to short veins to the cava that will appear when mobilizing the segment, and the portal vein to the left part of segment 1, which will enter the specimen from the cranial side.*
+
+---
+
+**136. What proximity must be considered if the tumor is in the cranial part of segment 1?**
+
+- Proximity to the right hepatic vein
+- Proximity to the gallbladder
+- Proximity to the bile duct confluence
+- **Proximity of the hepatic vein confluence**
+
+*Explanation: If the tumor is situated in the cranial part of segment 1, the person on the resection side must be aware of the proximity of the hepatic vein confluence.*
+
+---
+
+**137. Which part of segment 1 is described as more complex to resect?**
+
+- Spiegel's lobe (left portion)
+- The inferior part of segment 1
+- **Paracaval or right part (caudate lobe) of segment 1**
+- The superior portion of Spiegel's lobe
+
+*Explanation: Tumors in the paracaval or right part (caudate lobe) of segment 1 are described as more complex to resect.*
+
+---
+
+**138. What role can a partial cholecystectomy play in complex caudate lobe resections?**
+
+- It improves bile duct visualization
+- It prevents bile leak
+- **Performing a cholecystectomy without dividing the cystic duct allows the assistant to retract the hepatoduodenal ligament cranially and to the left**
+- It allows better access to the IVC
+
+*Explanation: Performing a cholecystectomy without dividing the cystic duct will allow the assistant to retract the hepatoduodenal ligament cranially and to the left so that the tumor can be safely dissected free from the portal vein confluence.*
+
+---
+
+**139. What fast-track protocol do patients in Oslo follow postoperatively?**
+
+- Prolonged bed rest and NPO for 3 days
+- Routine ICU admission
+- Routine use of nasogastric tube
+- **Preoperative information, early feeding, mobilization, and return to normal life**
+
+*Explanation: In Oslo, patients follow a fast-track protocol focused on preoperative information, early feeding, mobilization, and return to normal life.*
+
+---
+
+**140. What routine postoperative monitoring is performed if the patient follows the fast-track protocol?**
+
+- Continuous cardiac monitoring and arterial line
+- Daily CT scans
+- **Daily measurement of hemoglobin, electrolytes, liver function tests, and inflammation markers**
+- Routine Doppler ultrasound
+
+*Explanation: If the patient can follow the fast-track principles, postoperative monitoring is usually limited to daily measurement of hemoglobin, electrolytes, liver function tests, and inflammation markers.*
+
+---
+
+**141. What analgesic agents are used for pain relief in the described postoperative protocol?**
+
+- Opioids only
+- Epidural analgesia
+- Regional nerve blocks
+- **Paracetamol, nonsteroidal anti-inflammatory drugs, and opioids if needed**
+
+*Explanation: Patients get pain relief with paracetamol, nonsteroidal anti-inflammatory drugs, and opioids (if needed). Optimal pain relief is necessary for compliance to the fast-track protocol.*
+
+---
+
+**142. What prophylactic medications are routinely given postoperatively?**
+
+- Steroids and broad-spectrum antibiotics for 5 days
+- Anticoagulation for 7 days only
+- **Proton pump inhibitors and low-molecular weight heparin for 30 days**
+- Antiemetics and H2-blockers
+
+*Explanation: Patients are routinely given proton pump inhibitors to prevent gastric or duodenal ulcers and low-molecular weight heparin for 30 days to prevent deep venous thrombosis.*
+
+---
+
+**143. What antibiotic prophylaxis is given, and when?**
+
+- IV antibiotics for 3 days postoperatively
+- No antibiotics needed for laparoscopic surgery
+- **A single dose of oral antibiotics preoperatively**
+- IV antibiotics for 24 hours postoperatively
+
+*Explanation: Patients get a single dose of oral antibiotics preoperatively.*
+
+---
+
+**144. What is the most common postoperative complication requiring intervention after laparoscopic atypical resections?**
+
+- Postoperative hemorrhage
+- Bile leak
+- Pulmonary embolism
+- **Infected fluid collections**
+
+*Explanation: The most common complication that requires postoperative intervention is infected fluid collections.*
+
+---
+
+**145. When do infected fluid collections typically occur after laparoscopic liver resection?**
+
+- Within 24 hours
+- At 3 to 5 days
+- After 3 weeks
+- **7 to 10 days after surgery**
+
+*Explanation: Infected fluid collections usually occur in the resection bed after 7 to 10 days.*
+
+---
+
+**146. In the OSLO-COMET trial, how many laparoscopic patients needed a drain due to infected fluid collections?**
+
+- 1 of 129
+- 10 of 129
+- 15 of 129
+- **4 of 129**
+
+*Explanation: In the OSLO-COMET trial, 4 of 129 laparoscopic patients needed a drain because of infected fluid collections.*
+
+---
+
+**147. How long do patients typically stay in hospital after laparoscopic liver resection in this center?**
+
+- 5 to 7 days
+- 7 to 10 days
+- Less than 24 hours
+- **1 to 3 days**
+
+*Explanation: Because patients normally stay in hospital only 1 to 3 days, they are informed that symptoms of infected fluid collections can occur after they come home.*
+
+---
+
+**148. What should a patient do if they develop fever or abdominal pain after discharge?**
+
+- Go to the emergency room immediately
+- Monitor at home and report at the 2-week visit
+- Return to the surgical ward directly
+- **Contact their local doctor; if blood tests indicate infection, they are admitted to hospital for a CT scan**
+
+*Explanation: If patients get fever, abdominal pain, or similar after discharge, they are instructed to contact their local doctor, and if blood tests indicate infection, they are admitted to hospital for a CT scan.*
+
+---
+
+**149. What treatment is used if antibiotic treatment does not resolve an infected fluid collection?**
+
+- Repeat surgery
+- Extended antibiotic course
+- IV antifungals
+- **An ultrasound-guided drain is placed**
+
+*Explanation: If antibiotic treatment does not resolve the infection, an ultrasound-guided drain is placed.*
+
+---
+
+**150. Why is postoperative atrial fibrillation sometimes observed after liver surgery in this protocol?**
+
+- Due to cardiac comorbidities
+- Due to fluid overload
+- Due to pain and stress response
+- **Because patients are kept dry during surgery**
+
+*Explanation: Because patients are kept dry during surgery, postoperative atrial fibrillation is sometimes observed, which usually resolves with fluid therapy.*
+
+---
+
+**151. What monitoring is performed after larger resections?**
+
+- Continuous cardiac monitoring for 72 hours
+- Daily abdominal ultrasound
+- Routine ICU monitoring
+- **Lactate and INR monitored daily, with a low threshold for postoperative CT scan in case of abnormalities**
+
+*Explanation: After larger resections, the liver remnant is monitored with lactate and INR daily, and the threshold is low for a postoperative CT scan in case of abnormalities.*
+
+---
+
+**152. What is described as a "dreaded complication" in patients with previous abdominal surgery?**
+
+- Portal vein thrombosis
+- Bile duct injury
+- Hepatic artery thrombosis
+- **Bowel injury after adhesiolysis**
+
+*Explanation: Many patients have undergone abdominal surgery previously, and bowel injury after adhesiolysis is described as a dreaded complication.*
+
+---
+
+**153. Why is bowel contamination particularly dangerous in the context of liver resection?**
+
+- Because it causes prolonged ileus
+- Because bile and bowel contents are both toxic
+- **Because contamination combined with a raw wound surface on the liver can rapidly evolve into a hard-to-treat sepsis**
+- Because it delays wound healing
+
+*Explanation: Contamination from bowel perforation combined with a raw wound surface on the liver can rapidly evolve to a sepsis that can be hard to treat.*
+
+---
+
+**154. What is the threshold for re-laparoscopy in patients where bowel injury is suspected?**
+
+- High — wait for clear clinical signs first
+- Moderate — only if CT confirms injury
+- Only after 48 hours of observation
+- **Low — the authors have a low threshold to re-laparoscope patients where there is suspicion of bowel injury**
+
+*Explanation: The authors have a low threshold to re-laparoscope patients where there is suspicion of bowel injury.*
+
+---
+
+**155. What is the current status of laparoscopic parenchyma-sparing liver surgery?**
+
+- Experimental, limited to clinical trials only
+- Available only at a few pioneering centers
+- **Documented in randomized controlled trials and well established in expert centers worldwide**
+- Reserved for benign lesions only
+
+*Explanation: The chapter states that at this moment, laparoscopic parenchyma-sparing liver surgery is documented in randomized controlled trials and is well established in expert centers worldwide.*
+
+---
+
+**156. What is identified as the next step for advancing laparoscopic liver surgery?**
+
+- Developing robotic platforms
+- Creating better energy devices
+- Publishing more case series
+- **Providing training programs to young surgeons and liver surgeons not experienced with laparoscopy**
+
+*Explanation: The next step is to provide training programs to young surgeons and liver surgeons not experienced with laparoscopy.*
+
+---
+
+**157. What do recent Dutch data suggest about complex laparoscopic surgery?**
+
+- Results from RCTs are easily reproduced in real-world practice
+- Training is not needed if surgeons are experienced in open surgery
+- **It is difficult to reproduce results from randomized controlled trials on complex laparoscopic surgery in real-world practice**
+- Outcomes are better in community hospitals than expert centers
+
+*Explanation: Recent Dutch data suggest that it is difficult to reproduce results from randomized controlled trials on complex laparoscopic surgery to real-world practice.*
+
+---
+
+**158. What is described as the best way to achieve reproducibility of RCT results in real-world laparoscopic liver surgery?**
+
+- Publishing standardized video atlases
+- Mandating a minimum case volume
+- Performing only simple procedures outside expert centers
+- **Structured training programs, proctoring, and auditing**
+
+*Explanation: Structured training programs, proctoring, and auditing is described as the best way to achieve reproducibility of complex laparoscopic surgery results from RCTs in real-world practice.*
+
+---
+
+**159. What is recommended for the whole surgical team at hospitals starting laparoscopic liver surgery?**
+
+- Complete an online certification course
+- Observe 10 cases before operating
+- Perform simulated laparoscopic drills
+- **Travel to an expert center to learn the setup, from patient positioning to CVP management**
+
+*Explanation: It is also useful if the whole surgical team can travel to an expert center to learn the setup, from patient positioning to central venous pressure. It is vital to the success of the surgery that the whole setup be transferred.*
+
+---
+
+**160. What is the role of mentorship when starting independent laparoscopic liver procedures?**
+
+- Mentors should be present for the first 100 cases
+- Mentorship is optional for experienced surgeons
+- Only needed if complications arise
+- **Close contact with a mentor when planning the first independent procedures is helpful**
+
+*Explanation: Close contact with a mentor when planning the first independent procedures is described as helpful when hospitals are starting laparoscopic liver surgery.*
+
+---
+
+**161. What technology can patient-specific 3D models be created from?**
+
+- Standard 3-mm CT slices
+- MRI only
+- Preoperative ultrasound data
+- **Thin-slice CT images using commercially available software**
+
+*Explanation: Commercially available software can create 3D models from thin slice CT images, and although no optimal solution exists at the moment, the solutions improve steadily.*
+
+---
+
+**162. What future development in the operating theatre is described as necessary to progress the research field of navigated instruments in liver surgery?**
+
+- Advances in robotic platforms
+- Better resolution ultrasound probes
+- AI-based image analysis tools
+- **Hybrid operating theatres with intraoperative imaging equipment**
+
+*Explanation: Hybrid operating theatres with intraoperative imaging equipment is necessary to progress the research field of navigated instruments in liver surgery.*
+
+---
+
+**163. What is the current limitation of segmentation tools for intraoperative liver navigation?**
+
+- They require specialized and expensive hardware
+- They can only be used preoperatively
+- They are too time-consuming intraoperatively
+- **No segmentation tool can currently update the position of the liver in real time while navigating instruments**
+
+*Explanation: At the moment, no segmentation tool can update the position of the liver in real time while navigating instruments, but several research groups are working to solve this issue.*
+
+---
+
+**164. What was the primary benefit of parenchyma-sparing liver surgery described in the chapter?**
+
+- Shorter operative times
+- Lower recurrence rates
+- Better oncologic margins
+- **Fewer postoperative complications, equivalent cancer-related outcomes, and higher feasibility of future resections**
+
+*Explanation: A parenchyma-sparing strategy is associated with fewer postoperative complications, equivalent cancer-related outcomes, and a higher feasibility of future resections.*
+
+---
+
+**165. What is the main rationale for parenchyma-sparing liver resection?**
+
+- To reduce operative time
+- To avoid the need for intraoperative ultrasound
+- To eliminate the need for Pringle maneuver
+- **To remove the tumor in an oncologically adequate way while preserving as much healthy liver parenchyma as possible**
+
+*Explanation: The idea is to remove the tumor in an oncologically adequate way while preserving as much healthy liver parenchyma as possible.*
+
+---
+
+**166. What does the chapter state about the role of anatomic knowledge in parenchyma-sparing resections?**
+
+- Anatomy can be learned intraoperatively
+- General surgical knowledge is sufficient
+- Only radiology expertise is required
+- **In-depth knowledge of liver anatomy and experience in intraoperative ultrasound are required**
+
+*Explanation: Parenchyma-sparing liver resections require in-depth knowledge of liver anatomy and experience in intraoperative ultrasound.*
+
+---
+
+**167. According to the chapter, what is the current global trend in liver resection strategy?**
+
+- Formal hepatectomy remains the gold standard
+- Ablation has replaced most resections
+- Robotic approaches have replaced laparoscopic surgery
+- **Most centers worldwide currently use parenchyma-sparing liver resection whenever possible**
+
+*Explanation: Most centers worldwide currently use parenchyma-sparing liver resection whenever possible.*
+
+---
+
+**168. What additional device may improve intraoperative visualization in the future based on the chapter?**
+
+- Fluorescence imaging glasses
+- Intraoperative PET scanning
+- Robotic vision systems
+- **Head-mounted mixed reality devices**
+
+*Explanation: Head-mounted mixed reality devices can improve visualization further, and are described as an attractive addition that could help see navigated instruments in the model in real time.*
+
+---
+
+**169. In which patient group is segment 8 lower part described as suitable for learning laparoscopic liver surgery?**
+
+- All patients regardless of tumor size
+- Only patients with benign disease
+- Patients with prior open surgery
+- **Surgeons learning laparoscopic liver surgery operating on smaller tumors in the lower parts of segment 8**
+
+*Explanation: The lower parts of segment 8 are easily accessible and smaller tumors in this area are considered suitable for surgeons learning laparoscopic liver surgery.*
+
+---
+
+**170. What is the described "from surface to the pedicle" technique in this chapter?**
+
+- Approaching the hepatic hilum first, then dissecting outward
+- Starting from the IVC and working peripherally
+- Using the hepatic veins as the primary guide
+- **Approaching the tumor supplying vessels from the liver surface rather than from the hilum, which the authors find faster and easier**
+
+*Explanation: In atypical resections, the authors find it faster and easier to approach the tumor supplying vessels from the surface rather than from the hilum of the liver, especially when removing tumors that affect several liver segments. This "from surface to the pedicle" technique is central to the described surgical approach.*

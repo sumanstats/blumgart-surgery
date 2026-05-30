@@ -1,0 +1,1401 @@
+# 86 Budd-Chiari Syndrome and Veno-Occlusive Disease
+
+1. **What is the most common indication for liver transplantation (LT) in Budd-Chiari syndrome (BCS)?**  
+    A. Recurrent variceal bleeding  
+    B. Intractable ascites  
+    C. Hepatic encephalopathy  
+    **D. Cirrhosis with progressive liver failure predicting death within 1 year**  
+    *Correct: D. This is the most common and widely accepted indication for LT in BCS, as stated in the text, and applies similarly to other liver diseases.*
+
+2. **Which of the following is a key noninvasive diagnostic tool used as an initial screening method for BCS?**  
+    A. Magnetic resonance venography  
+    B. Computed tomography (CT)  
+    **C. Real-time and Doppler duplex ultrasonography**  
+    D. Hepatic venography  
+    *Correct: C. US with Doppler is recommended as an initial screening tool due to its accessibility and ability to detect flow abnormalities in hepatic veins and IVC.*
+
+3. **What is the actuarial 1-year survival rate reported in a cohort of 15 early survivors with BCS?**  
+    A. 57%  
+    **B. 76%**  
+    C. 67%  
+    D. 90%  
+    *Correct: B. The text states that actuarial 1-year and 3-year survival rates were 76% and 57%, respectively, in 15 early survivors.*
+
+4. **Which genetic mutation has significantly improved the identification of underlying myeloproliferative disorders in BCS patients?**  
+    A. Factor V Leiden mutation  
+    B. Prothrombin G20210A mutation  
+    **C. JAK2 V617F mutation**  
+    D. MTHFR mutation  
+    *Correct: C. The JAK2 V617F gain-of-function mutation is a reliable, noninvasive marker for chronic myeloproliferative disorders, found in over 50% of BCS cases when combined with bone marrow studies.*
+
+5. **What percentage of BCS patients in a multicenter European study actually underwent TIPS despite eligibility?**  
+    A. 100%  
+    B. 80%  
+    **C. 60%**  
+    D. 40%  
+    *Correct: C. Of 147 eligible patients, only 124 underwent TIPS (approximately 60%), due to contraindications or procedural failure.*
+
+6. **Which imaging finding is characteristic of BCS on Doppler ultrasound?**  
+    A. Hyperechoic hepatic veins  
+    **B. Absence of normal hepatic vein flow with reversed or flat waveform**  
+    C. Diffuse hepatic calcifications  
+    D. Portal vein pulsatility  
+    *Correct: B. Doppler US typically shows absent, flat, or reversed flow in hepatic veins, indicating obstruction.*
+
+7. **What is the primary contraindication to side-to-side portacaval shunt (SSPCS) in BCS?**  
+    A. Ascites  
+    B. Elevated liver enzymes  
+    **C. Obstruction or occlusion of the inferior vena cava (IVC)**  
+    D. Coagulopathy  
+    *Correct: C. SSPCS requires a patent IVC with significantly lower pressure than portal pressure; IVC occlusion is a contraindication.*
+
+8. **Which treatment option is preferred for membranous obstruction of the vena cava (MOVC) when the membrane is thin?**  
+    A. Liver transplantation  
+    **B. Transcardiac membranotomy**  
+    C. Mesocaval shunt  
+    D. TIPS  
+    *Correct: B. Transcardiac membranotomy via the right atrial appendage is commonly used for thin membranes in MOVC, with success rates of 70–90%.*
+
+9. **What is the approximate long-term success rate of direct SSPCS in BCS?**  
+    A. 50–60%  
+    B. 60–70%  
+    C. 70–80%  
+    **D. 85–97%**  
+    *Correct: D. Success rates for direct SSPCS range from 85% to 97%, making it the most durable surgical portal decompression method.*
+
+10. **Which of the following is NOT a predisposing factor for BCS mentioned in the text?**  
+    A. Myeloproliferative disorders  
+    B. Oral contraceptive use  
+    **C. Chronic hepatitis B infection**  
+    D. Paroxysmal nocturnal hemoglobinuria (PNH)  
+    *Correct: C. Hepatitis B is not listed as a risk factor; MPDs, OCs, and PNH are explicitly mentioned as thrombogenic conditions linked to BCS.*
+
+11. **What is the reported survival rate in Khanna et al.’s study of 13 BCS patients?**  
+    A. 90%  
+    **B. 62%**  
+    C. 76%  
+    D. 57%  
+    *Correct: B. Khanna et al. reported a 62% survival rate in 13 patients during follow-up ranging from 2 months to 7.5 years.*
+
+12. **Which imaging modality can differentiate regenerative nodules from hepatocellular carcinoma in BCS patients?**  
+    A. CT scan  
+    **B. MRI with T2-weighted sequences**  
+    C. Plain radiography  
+    D. Nuclear scan  
+    *Correct: B. MRI is useful in differentiating regenerative nodules from HCC based on T2-weighted signal characteristics.*
+
+13. **What is the 10-year actuarial LT-free survival rate in BCS patients treated with TIPS according to Garcia-Pagan et al.?**  
+    A. 50%  
+    B. 60%  
+    **C. 69%**  
+    D. 78%  
+    *Correct: C. The actuarial LT-free survival at 10 years was 69%, as reported in the multicenter European review.*
+
+14. **Which surgical procedure combines portal and caval decompression in patients with IVC occlusion?**  
+    A. Mesocaval shunt  
+    B. Splenorenal shunt  
+    **C. Combined SSPCS and cavoatrial shunt (CAS)**  
+    D. Transjugular intrahepatic shunt  
+    *Correct: C. The combined SSPCS and CAS is used for BCS due to IVC occlusion, providing both portal and caval decompression.*
+
+15. **What is the primary reason for the increased incidence of BCS in recent years?**  
+    A. Rising alcohol consumption  
+    **B. Increased awareness, better diagnostics, and use of thrombogenic agents**  
+    C. Higher rates of viral hepatitis  
+    D. Increased obesity  
+    *Correct: B. The rise is attributed to greater awareness, improved diagnostic methods, and widespread use of agents like oral contraceptives.*
+
+16. **Which of the following is a common finding on CT in chronic BCS?**  
+    A. Microhepatica  
+    **B. Caudate lobe hypertrophy**  
+    C. Portal vein dilation only  
+    D. Hepatic calcifications  
+    *Correct: B. Caudate lobe hypertrophy is a hallmark of chronic BCS due to preserved venous drainage.*
+
+17. **What is the mortality rate in severe veno-occlusive disease (VOD) after bone marrow transplantation (BMT)?**  
+    A. 50%  
+    B. 75%  
+    **C. 98%**  
+    D. 30%  
+    *Correct: C. Severe VOD post-BMT has a reported mortality rate of 98%, highlighting its life-threatening nature.*
+
+18. **Which treatment has shown a 100-day survival rate of 35% in severe VOD?**  
+    A. Corticosteroids  
+    **B. Defibrotide**  
+    C. Anticoagulation  
+    D. TIPS  
+    *Correct: B. Defibrotide has demonstrated a 35% 100-day survival rate in severe VOD, with a 36% complete response rate.*
+
+19. **What is the approximate incidence range of BCS per million population?**  
+    A. 0.01–0.1  
+    **B. 0.2–2**  
+    C. 5–10  
+    D. 20–50  
+    *Correct: B. Contemporary reports estimate the incidence of BCS between 0.2 and 2 per 1 million, though regional variation exists.*
+
+20. **Which of the following is a contraindication to TIPS in BCS?**  
+    A. Ascites  
+    B. Portal hypertension  
+    **C. Technical failure or contraindications such as severe right heart failure**  
+    D. Elevated bilirubin  
+    *Correct: C. While not all lab abnormalities preclude TIPS, technical failures and contraindications excluded 23 of 221 patients in one study.*
+
+21. **Which procedure involves placing a PTFE-covered stent for BCS treatment?**  
+    A. Mesocaval shunt  
+    **B. TIPS**  
+    C. SSPCS  
+    D. Transcardiac membranotomy  
+    *Correct: B. TIPS with PTFE-covered stents has improved shunt patency and outcomes in BCS patients.*
+
+22. **What is the primary hemodynamic goal of surgical shunts in BCS?**  
+    A. Increase hepatic arterial flow  
+    **B. Reduce portal and hepatic venous pressures**  
+    C. Normalize bilirubin levels  
+    D. Reduce ascites production only  
+    *Correct: B. The aim of decompressive shunts is to lower elevated portal and hepatic venous pressures caused by venous outflow obstruction.*
+
+23. **Which of the following is a late sequela of BCS visible on MRI?**  
+    A. Hepatic steatosis  
+    **B. Diffuse nodular disease and intrahepatic collaterals**  
+    C. Biliary dilation  
+    D. Splenic atrophy  
+    *Correct: B. MRI shows diffuse nodular disease, comma-shaped collaterals, and intrahepatic shunts as sequelae of chronic BCS.*
+
+24. **What is the role of liver biopsy in BCS?**  
+    A. First-line diagnostic tool  
+    **B. Confirm histologic features like centrilobular congestion and fibrosis**  
+    C. Rule out hepatitis C  
+    D. Assess for fatty infiltration  
+    *Correct: B. Biopsy reveals centrilobular congestion, necrosis, and fibrosis, supporting the diagnosis when imaging is inconclusive.*
+
+25. **Which patient group showed 100% employment or normal daily activity after SSPCS in Orloff’s series?**  
+    A. Mesoatrial shunt group  
+    B. Combined shunt group  
+    **C. SSPCS group**  
+    D. TIPS group  
+    *Correct: C. 95% of SSPCS patients were employed or doing housekeeping, compared to 25% in the mesoatrial group.*
+
+26. **What is the primary limitation of using synthetic grafts (e.g., Gore-Tex) for mesocaval shunts in BCS?**  
+    A. High cost  
+    **B. Lower success rate (~52%) and higher thrombosis risk**  
+    C. Immune rejection  
+    D. Infection risk  
+    *Correct: B. Synthetic interposition grafts have the lowest success rate (52%) among decompressive procedures due to thrombosis.*
+
+27. **Which of the following is a reported complication of TIPS in BCS?**  
+    A. Hepatic artery thrombosis  
+    **B. Portosystemic encephalopathy (21% within 1 year)**  
+    C. Biliary fistula  
+    D. Pancreatitis  
+    *Correct: B. Encephalopathy developed in 21% of BCS patients within a year of TIPS placement.*
+
+28. **What is the significance of the caudate lobe in BCS?**  
+    A. It is always atrophic  
+    **B. It often hypertrophies due to independent venous drainage**  
+    C. It is the first site of metastasis  
+    D. It produces excess albumin  
+    *Correct: B. The caudate lobe drains directly into the IVC and often enlarges in BCS due to preserved outflow.*
+
+29. **Which of the following is NOT a typical finding on hepatic venography in BCS?**  
+    A. Hepatic vein thrombosis  
+    B. IVC obstruction  
+    **C. Portal vein thrombosis**  
+    D. Delayed hepatic venous opacification  
+    *Correct: C. Portal vein thrombosis is not a primary feature of BCS; the obstruction is in hepatic veins or IVC.*
+
+30. **What is the primary advantage of PTFE-covered stents in TIPS for BCS?**  
+    A. Cheaper cost  
+    **B. Improved shunt patency and reduced failure rate**  
+    C. Easier placement  
+    D. Reduced need for anticoagulation  
+    *Correct: B. PTFE-covered stents reduce TIPS failure rates and improve long-term outcomes in BCS.*
+
+31. **What is the primary reason TIPS is considered attractive in the management of Budd-Chiari syndrome (BCS)?**  
+    A. It permanently cures the underlying thrombophilia  
+    B. It eliminates the need for anticoagulation  
+    **C. It avoids major abdominal surgery in patients with liver disease**  
+    D. It is superior to liver transplantation in all cases  
+    *Correct: C. TIPS is less invasive than surgical shunts and avoids laparotomy, making it suitable for patients with compromised liver function.*
+
+32. **Which of the following is a key finding on MRI in chronic BCS?**  
+    A. Uniform liver atrophy  
+    **B. Diffuse nodular disease and comma-shaped intrahepatic collaterals**  
+    C. Portal vein aneurysm  
+    D. Biliary tree dilation  
+    *Correct: B. MRI shows characteristic intrahepatic collaterals and nodular regeneration patterns due to chronic venous outflow obstruction.*
+
+33. **What is the approximate 5-year survival rate after direct side-to-side portacaval shunt (SSPCS) in BCS patients?**  
+    A. 50%  
+    B. 65%  
+    **C. 93.6%**  
+    D. 78%  
+    *Correct: C. In a series of 32 patients, 5-year survival was 93.6%, and 10-year survival was 81%, indicating excellent long-term outcomes with SSPCS.*
+
+34. **Which surgical shunt is ineffective when there is infrahepatic inferior vena cava (IVC) obstruction?**  
+    A. Mesocaval shunt  
+    **B. Side-to-side portacaval shunt (SSPCS)**  
+    C. Combined SSPCS and cavoatrial shunt  
+    D. TIPS  
+    *Correct: B. SSPCS requires a patent IVC with lower pressure than portal pressure; IVC obstruction prevents effective decompression.*
+
+35. **What is the most common cause of death in patients with mesoatrial shunts?**  
+    A. Graft infection  
+    **B. Graft thrombosis leading to liver failure**  
+    C. Hepatocellular carcinoma  
+    D. Pulmonary embolism  
+    *Correct: B. In one series, 5 of 8 mesoatrial shunt patients developed graft thrombosis and died of progressive liver failure.*
+
+36. **Which procedure involves connecting the superior mesenteric vein to the right atrium using a synthetic graft?**  
+    A. SSPCS  
+    **B. Mesoatrial shunt**  
+    C. Mesocaval shunt  
+    D. Transcardiac membranotomy  
+    *Correct: B. The mesoatrial shunt uses a synthetic graft (e.g., Dacron or Gore-Tex) between the SMV and right atrium to bypass IVC obstruction.*
+
+37. **What is the long-term survival rate of mesoatrial shunt recipients with patent grafts?**  
+    A. 100%  
+    B. 63%  
+    **C. 38%**  
+    D. 25%  
+    *Correct: C. Only 3 of 8 patients (38%) survived long-term with patent grafts and no signs of BCS recurrence.*
+
+38. **Which of the following is a contraindication to transcardiac membranotomy in membranous obstruction of the vena cava (MOVC)?**  
+    A. Presence of ascites  
+    B. Elevated bilirubin  
+    **C. Thick, fibrotic membrane**  
+    D. Coagulopathy  
+    *Correct: C. Transcardiac membranotomy is effective only for thin membranes; thick, fibrotic membranes require surgical resection or angioplasty.*
+
+39. **What is the reported success rate of transcardiac membranotomy in MOVC?**  
+    A. 30–50%  
+    B. 50–70%  
+    **C. 70–90%**  
+    D. 95–100%  
+    *Correct: C. Success rates range from 70% to 90% in short-term follow-up, though long-term patency may be limited.*
+
+40. **Which condition is associated with a higher incidence of hepatocellular carcinoma (HCC)?**  
+    A. Acute viral hepatitis  
+    **B. Membranous obstruction of the vena cava (MOVC)**  
+    C. Fatty liver disease  
+    D. Primary biliary cholangitis  
+    *Correct: B. MOVC is linked to chronic liver injury and cirrhosis, increasing the risk of HCC development.*
+
+41. **What is the median time from diagnosis to development of BCS in patients with myeloproliferative disorders?**  
+    A. 6 months  
+    **B. 2.3 years**  
+    C. 5 years  
+    D. 1 year  
+    *Correct: B. The median time is 2.3 years, indicating a delayed but significant risk of BCS in MPD patients.*
+
+42. **Which of the following is NOT typically included in the laboratory workup for BCS?**  
+    A. JAK2 V617F mutation testing  
+    B. Antithrombin III assay  
+    **C. Hepatitis B surface antigen**  
+    D. Flow cytometry for PNH  
+    *Correct: C. While liver function is assessed, HBsAg is not part of the standard thrombophilia workup for BCS unless clinically indicated.*
+
+43. **What is the role of defibrotide in veno-occlusive disease (VOD)?**  
+    A. Antiviral agent  
+    **B. Endothelial protectant with antithrombotic and fibrinolytic properties**  
+    C. Immunosuppressant  
+    D. Diuretic  
+    *Correct: B. Defibrotide protects endothelial cells and has antithrombotic and profibrinolytic effects, making it effective in severe VOD.*
+
+44. **Which of the following is a common physical finding in BCS?**  
+    A. Splenomegaly  
+    B. Ascites  
+    C. Jaundice  
+    **D. All of the above**  
+    *Correct: D. Splenomegaly, ascites, and jaundice are all common due to portal hypertension and liver dysfunction.*
+
+45. **What is the primary goal of intraoperative pressure measurements during shunt surgery in BCS?**  
+    A. To assess liver synthetic function  
+    **B. To confirm adequate reduction in portal pressure gradient**  
+    C. To measure cardiac output  
+    D. To detect bile duct pressure  
+    *Correct: B. Pressure measurements before and after shunt placement assess hemodynamic success of portal decompression.*
+
+46. **In Orloff’s series, what was the mean pre-shunt portal-to-IVC pressure gradient in patients undergoing SSPCS?**  
+    A. 100 mm saline  
+    B. 150 mm saline  
+    **C. 244 mm saline**  
+    D. 300 mm saline  
+    *Correct: C. The mean pre-shunt PV-IVC gradient was 244 mm saline, which dropped to 5 mm post-shunt, indicating effective decompression.*
+
+47. **What was the post-shunt portal-to-IVC gradient in SSPCS patients in Orloff’s series?**  
+    A. 50 mm saline  
+    B. 25 mm saline  
+    **C. 5 mm saline**  
+    D. 100 mm saline  
+    *Correct: C. The gradient decreased from 244 mm to 5 mm saline, demonstrating successful portal decompression.*
+
+48. **Which shunt procedure resulted in 100% long-term survival in Orloff’s series?**  
+    A. Mesoatrial shunt  
+    **B. Combined SSPCS and cavoatrial shunt (CAS)**  
+    C. SSPCS alone  
+    D. Mesocaval shunt  
+    *Correct: B. All 18 patients with combined SSPCS and CAS were alive at follow-up, with no mortality reported.*
+
+49. **What percentage of SSPCS patients were employed or doing housekeeping post-surgery in Orloff’s series?**  
+    A. 25%  
+    B. 60%  
+    **C. 95%**  
+    D. 75%  
+    *Correct: C. 95% of SSPCS patients resumed normal daily activities, compared to only 25% in the mesoatrial shunt group.*
+
+50. **Which shunt type had the highest rate of portosystemic encephalopathy in Orloff’s series?**  
+    A. SSPCS  
+    **B. Mesoatrial shunt**  
+    C. Combined SSPCS and CAS  
+    D. Mesocaval shunt  
+    *Correct: B. 38% of mesoatrial shunt patients developed encephalopathy, compared to 0% in SSPCS and combined shunt groups.*
+
+51. **What is the 10-year survival rate after SSPCS in the long-term follow-up by Kuniyoshi et al.?**  
+    A. 50%  
+    B. 60%  
+    **C. 81%**  
+    D. 90%  
+    *Correct: C. The 10-year survival rate was 81%, demonstrating durable results with surgical shunting.*
+
+52. **Which factor is associated with poor outcomes after mesoatrial shunt placement?**  
+    A. Young age  
+    B. Minimal ascites  
+    **C. High rate of graft thrombosis (63%)**  
+    D. Normal liver enzymes  
+    *Correct: C. Graft thrombosis occurred in 63% of patients, leading to liver failure and death in most cases.*
+
+53. **What is the primary advantage of the combined SSPCS and CAS procedure?**  
+    A. It avoids the use of synthetic grafts  
+    **B. It provides both portal and caval decompression in IVC occlusion**  
+    C. It is less invasive than TIPS  
+    D. It prevents hepatocellular carcinoma  
+    *Correct: B. This combined approach addresses both portal hypertension and caval obstruction in complex BCS cases.*
+
+54. **Which imaging finding is NOT typically seen in BCS on Doppler ultrasound?**  
+    A. Absent hepatic vein flow  
+    B. Reversed hepatic vein waveform  
+    **C. Portal vein thrombosis**  
+    D. Enlarged caudate lobe  
+    *Correct: C. Portal vein thrombosis is not a hallmark of BCS; the primary obstruction is in hepatic veins or IVC.*
+
+55. **What is the significance of the "comma-shaped" collaterals seen on MRI in BCS?**  
+    A. Indicate biliary obstruction  
+    **B. Represent intrahepatic venous collaterals due to venous outflow obstruction**  
+    C. Suggest portal vein thrombosis  
+    D. Are artifacts from imaging  
+    *Correct: B. These collaterals develop as a compensatory mechanism in response to hepatic venous outflow blockage.*
+
+56. **Which of the following is a late complication of BCS even after successful shunt surgery?**  
+    A. Acute pancreatitis  
+    **B. Hepatocellular carcinoma**  
+    C. Gallstone formation  
+    D. Splenic infarction  
+    *Correct: B. Seven patients in one series developed HCC during follow-up, highlighting the risk of malignancy in chronic BCS.*
+
+57. **What is the primary limitation of synthetic grafts in mesocaval shunts?**  
+    A. High cost  
+    **B. Low success rate (~52%) due to thrombosis**  
+    C. Immune rejection  
+    D. Difficulty in placement  
+    *Correct: B. Synthetic grafts have a success rate of only 52%, significantly lower than autologous or direct shunts.*
+
+58. **Which genetic test is critical in evaluating thrombophilia in BCS patients?**  
+    A. BRCA1 mutation  
+    **B. JAK2 V617F mutation**  
+    C. CFTR gene mutation  
+    D. HFE gene mutation  
+    *Correct: B. JAK2 V617F is a key marker for myeloproliferative disorders, a major cause of thrombotic BCS.*
+
+59. **What is the role of liver biopsy in BCS diagnosis?**  
+    A. First-line diagnostic tool  
+    **B. Confirms centrilobular congestion and fibrosis**  
+    C. Rules out alcohol use  
+    D. Measures liver fat content  
+    *Correct: B. Biopsy shows characteristic centrilobular necrosis, congestion, and fibrosis, supporting the diagnosis.*
+
+60. **Which of the following is a rare indication for liver transplantation in BCS?**  
+    A. Failed TIPS  
+    **B. Unshuntable portal hypertension with patent vessels for allograft vascularization**  
+    C. Mild ascites  
+    D. Elevated transaminases only  
+    *Correct: B. This rare scenario applies when portal and splanchnic veins are thrombosed but hepatic artery and IVC are usable for transplant.*
+
+61. **What is the 1-year survival rate after liver transplantation for BCS according to Mentha et al.?**  
+    A. 69%  
+    **B. 76%**  
+    C. 82%  
+    D. 90%  
+    *Correct: B. The 1-year survival was 76%, with 5-year survival at 71% and 10-year at 68% in registry data.*
+
+62. **Which study reported a 10-year survival of 68% after liver transplantation for BCS?**  
+    A. Segev et al.  
+    **B. Mentha et al.**  
+    C. Ulrich et al.  
+    D. Cruz et al.  
+    *Correct: B. Mentha et al. reported 10-year survival of 68% in 248 patients from the European Liver Transplant Registry.*
+
+63. **What is the impact of prior portosystemic shunt on liver transplantation outcomes in BCS?**  
+    A. Significantly worsens survival  
+    **B. No significant influence in recent studies**  
+    C. Always contraindicates transplantation  
+    D. Increases risk of rejection  
+    *Correct: B. Eleven recent studies show prior shunts do not negatively affect LT outcomes, contrary to earlier concerns.*
+
+64. **Which complication may make subsequent liver transplantation difficult after shunt failure?**  
+    A. Ascites  
+    **B. Thrombosis of the shunt and surrounding vessels**  
+    C. Hepatomegaly  
+    D. Jaundice  
+    *Correct: B. Shunt thrombosis can compromise vascular anatomy, complicating LT surgery.*
+
+65. **What is the 5-year survival rate after TIPS for BCS according to meta-analysis?**  
+    A. 60%  
+    **B. 72.1%**  
+    C. 85%  
+    D. 50%  
+    *Correct: B. A meta-analysis reported 5-year survival of 72.1% in TIPS-treated BCS patients.*
+
+66. **Which factor is NOT a typical indication for liver transplantation in BCS?**  
+    A. Acute fulminant hepatic failure  
+    B. Failed TIPS or surgical shunt  
+    **C. Isolated esophageal varices without other complications**  
+    D. Cirrhosis with progressive liver failure  
+    *Correct: C. Varices alone are managed medically or with shunts; they are not an indication for LT.*
+
+67. **What is the restenosis rate at 1 year in BCS patients treated with TIPS?**  
+    A. 5%  
+    **B. 12%**  
+    C. 25%  
+    D. 40%  
+    *Correct: B. The 1-year restenosis rate is 12% (95% CI 8–16%), especially with PTFE-covered stents.*
+
+68. **Which procedure is preferred for thin membranous obstruction of the IVC?**  
+    A. Liver transplantation  
+    **B. Transcardiac membranotomy**  
+    C. TIPS  
+    D. SSPCS  
+    *Correct: B. Transcardiac membranotomy via the right atrial appendage is effective for thin membranes.*
+
+69. **What is the primary hemodynamic effect of successful TIPS in BCS?**  
+    A. Increases hepatic arterial flow  
+    **B. Reduces portal pressure and hepatic venous gradient**  
+    C. Normalizes bilirubin  
+    D. Reduces splenic size immediately  
+    *Correct: B. TIPS decreases portal pressure by creating a shunt between portal and systemic circulation.*
+
+70. **Which imaging modality can visualize the hepatic vein confluence and IVC anatomy best?**  
+    A. Plain X-ray  
+    B. Ultrasound  
+    **C. CT or MRI with venography**  
+    D. Nuclear scan  
+    *Correct: C. CT and MRI with contrast provide detailed vascular anatomy of hepatic veins and IVC.*
+
+71. **What is the most common symptom duration at diagnosis in BCS patients?**  
+    A. Over 1 year  
+    **B. Less than 6 months in most cases**  
+    C. Less than 1 week  
+    D. 6–12 months  
+    *Correct: B. In Mitchell’s series, 83% had symptoms for ≤6 months; Parker found 71% symptomatic for ≤6 months.*
+
+72. **Which of the following is a sequela of chronic BCS visible on MRI?**  
+    A. Portal vein dilation only  
+    **B. Intrahepatic shunts between portal system and caudate lobe**  
+    C. Biliary tree proliferation  
+    D. Hepatic artery aneurysm  
+    *Correct: B. MRI shows intrahepatic shunts, particularly involving the caudate lobe, due to collateral formation.*
+
+73. **What is the role of anticoagulation in BCS management?**  
+    A. Cure the underlying disease  
+    **B. Prevent thrombus propagation**  
+    C. Reverse liver fibrosis  
+    D. Eliminate ascites  
+    *Correct: B. Anticoagulants prevent extension of existing thrombi but do not dissolve them.*
+
+74. **Which surgical approach is used when both hepatic veins and IVC are obstructed?**  
+    A. SSPCS  
+    B. TIPS  
+    **C. Combined SSPCS and cavoatrial shunt**  
+    D. Splenorenal shunt  
+    *Correct: C. This combined procedure decompresses both portal and caval systems in extensive obstruction.*
+
+75. **What is the primary disadvantage of mesocaval shunts with synthetic grafts?**  
+    A. High infection rate  
+    **B. High thrombosis rate and low patency (52% success)**  
+    C. Difficult surgical access  
+    D. Poor imaging visibility  
+    *Correct: B. Synthetic grafts have the lowest success rate among decompressive procedures due to thrombosis.*
+
+76. **Which patient population has a higher incidence of MOVC?**  
+    A. North Americans  
+    **B. Asians, Indians, and South Africans**  
+    C. Scandinavians  
+    D. Mediterranean populations  
+    *Correct: B. MOVC is more common in Asia, India, and South Africa, with over 600 cases reported from Japan.*
+
+77. **What is the proposed etiology of membranous obstruction of the vena cava (MOVC)?**  
+    A. Congenital malformation only  
+    **B. Acquired thrombosis leading to fibrotic membrane formation**  
+    C. Viral infection  
+    D. Autoimmune destruction  
+    *Correct: B. Evidence suggests MOVC is an acquired condition from prior thrombosis, not purely congenital.*
+
+78. **Which procedure involves stent placement in a recanalized hepatic vein?**  
+    A. TIPS  
+    **B. Percutaneous transluminal angioplasty with stenting**  
+    C. SSPCS  
+    D. Liver transplant  
+    *Correct: B. Angioplasty with stenting is used to maintain patency after recanalization of hepatic veins or IVC.*
+
+79. **What is the recommended follow-up after IVC angioplasty in BCS?**  
+    A. Annual CT  
+    **B. Venography and pressure measurements every 3–6 months initially, then Doppler US**  
+    C. Liver biopsy every 6 months  
+    D. Monthly INR checks only  
+    *Correct: B. Early follow-up includes pressure measurements and venography to detect restenosis.*
+
+80. **Which of the following is a key diagnostic criterion for BCS on Doppler US?**  
+    A. Portal vein pulsatility  
+    **B. Absent or reversed hepatic vein flow**  
+    C. Hepatic artery resistive index <0.5  
+    D. Splenic vein thrombosis  
+    *Correct: B. Absent, flat, or reversed hepatic vein flow is a hallmark Doppler finding in BCS.*
+
+81. **What is the 1-year survival rate after liver transplantation for BCS in the UNOS registry?**  
+    A. 76%  
+    **B. 82%**  
+    C. 90%  
+    D. 68%  
+    *Correct: B. Segev et al. reported 1-year survival of 82% in 510 patients from the UNOS registry.*
+
+82. **Which study reported the longest follow-up period for SSPCS outcomes?**  
+    A. Halff et al.  
+    **B. Orloff et al. (38 years’ experience)**  
+    C. Shaked et al.  
+    D. Jamieson et al.  
+    *Correct: B. Orloff’s 2012 paper summarized 38 years of experience with surgical portal decompression.*
+
+83. **What is the primary cause of death in severe veno-occlusive disease (VOD) post-BMT?**  
+    A. Infection  
+    **B. Multiorgan failure with 98% mortality**  
+    C. Graft-versus-host disease  
+    D. Hemorrhage  
+    *Correct: B. Severe VOD has a 98% mortality rate, often due to liver and renal failure.*
+
+84. **Which treatment has shown a 35% 100-day survival in severe VOD?**  
+    A. Corticosteroids  
+    **B. Defibrotide**  
+    C. TIPS  
+    D. Plasmapheresis  
+    *Correct: B. Defibrotide improves survival in severe VOD, with a 35% 100-day survival rate.*
+
+85. **What is the success rate of autologous vein interposition grafts in BCS?**  
+    A. 52%  
+    **B. 89%**  
+    C. 67%  
+    D. 75%  
+    *Correct: B. Autologous internal jugular vein grafts have a 89% success rate, superior to synthetic grafts.*
+
+86. **Which shunt type is hemodynamically similar to TIPS?**  
+    A. Mesocaval shunt  
+    **B. Side-to-side portacaval shunt (SSPCS)**  
+    C. Splenorenal shunt  
+    D. Cavoatrial shunt  
+    *Correct: B. Both TIPS and SSPCS are side-to-side portacaval shunts that decompress the portal system.*
+
+87. **What is the main advantage of PTFE-covered stents in TIPS?**  
+    A. Lower cost  
+    **B. Improved patency and reduced restenosis**  
+    C. Easier placement  
+    D. No need for anticoagulation  
+    *Correct: B. PTFE-covered stents reduce shunt failure and improve long-term outcomes.*
+
+88. **Which factor contributes to the rising incidence of BCS?**  
+    A. Increased alcohol use  
+    **B. Widespread use of oral contraceptives and better diagnostics**  
+    C. Higher rates of hepatitis C  
+    D. Obesity epidemic  
+    *Correct: B. OC use and improved imaging have increased BCS detection and incidence.*
+
+89. **What is the first case of BCS associated with oral contraceptives reported by?**  
+    A. Virchow  
+    **B. Ecker and McKittrick**  
+    C. Budd and Chiari  
+    D. Senning  
+    *Correct: B. Ecker and McKittrick reported the first case 5 years after OCs became available.*
+
+90. **Which condition is NOT a thrombophilic risk factor for BCS?**  
+    A. Paroxysmal nocturnal hemoglobinuria (PNH)  
+    B. Myeloproliferative disorders  
+    **C. Chronic obstructive pulmonary disease (COPD)**  
+    D. Factor V Leiden mutation  
+    *Correct: C. COPD is not a recognized thrombophilic condition; PNH, MPDs, and Factor V Leiden are.*
+
+91. **What is the primary manifestation of acute BCS?**  
+    A. Chronic fatigue  
+    **B. Rapid-onset ascites and abdominal pain**  
+    C. Weight gain only  
+    D. Diarrhea  
+    *Correct: B. Acute BCS presents with sudden abdominal pain, hepatomegaly, and ascites due to venous congestion.*
+
+92. **Which laboratory test detects PNH clones?**  
+    A. JAK2 mutation  
+    **B. Flow cytometry for CD55 and CD59 deficiency**  
+    C. Antithrombin III level  
+    D. Prothrombin time  
+    *Correct: B. Flow cytometry for CD55/CD59 deficiency on red blood cells confirms PNH.*
+
+93. **What is the role of TIPS in veno-occlusive disease (VOD)?**  
+    A. First-line curative treatment  
+    **B. May improve portal hypertension but survival remains poor**  
+    C. Prevents VOD development  
+    D. Replaces need for defibrotide  
+    *Correct: B. TIPS improves ascites and portal pressure but does not significantly improve survival in severe VOD.*
+
+94. **Which surgical technique requires cardiopulmonary bypass for IVC obstruction removal?**  
+    A. TIPS  
+    B. SSPCS  
+    **C. Senning’s direct hepatic outflow reconstruction**  
+    D. Mesocaval shunt  
+    *Correct: C. Senning’s procedure uses bypass to resect occluded veins and reconstruct outflow.*
+
+95. **What is the actuarial 3-year survival after Senning’s procedure?**  
+    A. 50%  
+    **B. 57%**  
+    C. 76%  
+    D. 90%  
+    *Correct: B. Actuarial 1-year and 3-year survival were 76% and 57%, respectively.*
+
+96. **Which graft material is preferred for mesocaval shunts?**  
+    A. Dacron  
+    **B. Autologous internal jugular vein**  
+    C. PTFE  
+    D. Umbilical vein  
+    *Correct: B. Autologous vein grafts have higher patency (89%) compared to synthetic grafts (52%).*
+
+97. **What is the primary reason for combining SSPCS and CAS?**  
+    A. To reduce surgical time  
+    **B. To decompress both portal and caval systems in IVC occlusion**  
+    C. To prevent encephalopathy  
+    D. To avoid anticoagulation  
+    *Correct: B. This combination addresses both portal hypertension and caval obstruction.*
+
+98. **Which imaging finding suggests chronic BCS?**  
+    A. Normal liver size  
+    **B. Caudate lobe hypertrophy**  
+    C. Portal vein dilation only  
+    D. Splenic atrophy  
+    *Correct: B. Caudate lobe enlargement is a classic sign of chronic BCS due to preserved venous drainage.*
+
+99. **What is the primary limitation of TIPS in BCS?**  
+    A. High cost  
+    **B. Risk of portosystemic encephalopathy (21% within 1 year)**  
+    C. Inability to reduce ascites  
+    D. Immediate mortality >50%  
+    *Correct: B. Encephalopathy develops in 21% of patients within a year of TIPS placement.*
+
+100. **Which study reported 1-year survival of 92% after LT for BCS?**  
+    A. Mentha et al.  
+    **B. Ulrich et al.**  
+    C. Plessier et al.  
+    D. Cruz et al.  
+    *Correct: B. Ulrich et al. reported 1-year survival of 92% in 42 patients.*
+
+101. **What is the 5-year survival rate after liver transplantation for BCS according to Segev et al. using UNOS data?**  
+    A. 65%  
+    B. 71%  
+    **C. 76%**  
+    D. 82%  
+    *Correct: C. Segev et al. reported a 3-year survival of 76% in 510 patients from the UNOS registry.*
+
+102. **Which of the following is a reported late complication in BCS patients after surgical shunt placement?**  
+    A. Acute pancreatitis  
+    **B. Hepatocellular carcinoma (HCC)**  
+    C. Cholangiocarcinoma  
+    D. Splenic rupture  
+    *Correct: B. Seven of 32 patients developed HCC during long-term follow-up, indicating a significant risk of malignancy in chronic BCS.*
+
+103. **What is the primary reason for the high mortality in severe veno-occlusive disease (VOD) after bone marrow transplant (BMT)?**  
+    A. Infection  
+    **B. Multiorgan failure with 98% mortality**  
+    C. Graft-versus-host disease  
+    D. Pulmonary embolism  
+    *Correct: B. Severe VOD has a 98% mortality rate, primarily due to liver and renal failure leading to multiorgan collapse.*
+
+104. **Which agent has shown a 36% complete response rate in treating severe VOD?**  
+    A. Tissue plasminogen activator (tPA)  
+    **B. Defibrotide**  
+    C. Antithrombin III  
+    D. Corticosteroids  
+    *Correct: B. Defibrotide has demonstrated a 36% complete remission rate in severe VOD, making it the most promising pharmacologic agent.*
+
+105. **What is the role of plasminogen activator inhibitor-1 (PAI-1) in VOD?**  
+    A. It enhances fibrinolysis  
+    **B. It is a useful marker and implicated in VOD pathology**  
+    C. It prevents endothelial injury  
+    D. It reduces portal pressure  
+    *Correct: B. Elevated PAI-1 levels post-BMT help distinguish VOD from other liver dysfunctions and contribute to its pathogenesis.*
+
+106. **Which prophylactic agent has shown benefit in reducing both incidence and mortality of VOD?**  
+    A. Low-dose heparin  
+    B. Prostaglandin E1  
+    **C. Ursodeoxycholic acid (UDCA)**  
+    D. Methylprednisolone  
+    *Correct: C. Five trials showed UDCA significantly reduces VOD incidence and mortality, making it a valuable prophylactic option.*
+
+107. **What is the primary mechanism of injury in veno-occlusive disease (VOD)?**  
+    A. Autoimmune destruction of hepatocytes  
+    **B. Subendothelial sclerosis of sinusoids and small hepatic veins due to toxic injury**  
+    C. Viral infection of bile ducts  
+    D. Obstruction of large hepatic veins  
+    *Correct: B. VOD involves endothelial damage leading to subendothelial fibrosis in sinusoids and sublobular veins, typically from toxins like chemotherapy.*
+
+108. **Which drug is most commonly implicated in the development of VOD?**  
+    A. Azathioprine  
+    **B. Busulfan**  
+    C. Cyclophosphamide  
+    D. 6-Mercaptopurine  
+    *Correct: B. Busulfan is one of the most frequently reported drugs associated with VOD, especially in stem cell transplant regimens.*
+
+109. **What is the origin of the term “veno-occlusive disease” (VOD)?**  
+    A. First described in liver transplant recipients  
+    **B. Coined by Bras et al. in 1954 describing Jamaican children consuming bush teas**  
+    C. Named after a European hepatologist  
+    D. Derived from autopsy findings in cirrhotic patients  
+    *Correct: B. Bras et al. introduced the term in 1954 to describe liver disease in Jamaican children exposed to pyrrolizidine alkaloids in herbal teas.*
+
+110. **Which plant genus is associated with pyrrolizidine alkaloid-induced VOD?**  
+    A. Eucalyptus  
+    **B. Crotolaria and Senecio**  
+    C. Digitalis  
+    D. Atropa  
+    *Correct: B. Plants from the Crotolaria and Senecio genera contain hepatotoxic pyrrolizidine alkaloids that cause VOD.*
+
+111. **What is the alternative modern term for VOD?**  
+    A. Hepatic vein thrombosis  
+    **B. Sinusoidal obstruction syndrome (SOS)**  
+    C. Portal vein thrombosis  
+    D. Centrilobular necrosis  
+    *Correct: B. VOD is now often called sinusoidal obstruction syndrome (SOS) to reflect the microvascular pathology.*
+
+112. **Which imaging finding is NOT typically seen in acute BCS?**  
+    A. Ascites  
+    B. Hepatomegaly  
+    **C. Normal liver size with no congestion**  
+    D. Abdominal pain  
+    *Correct: C. Acute BCS presents with hepatomegaly and congestion; a normal liver size is inconsistent with active disease.*
+
+113. **What percentage of BCS patients in Orloff’s series had esophageal varices?**  
+    A. 50%  
+    B. 75%  
+    **C. 91% (29 of 32)**  
+    D. 60%  
+    *Correct: C. 29 of 32 patients (91%) had esophageal varices, reflecting severe portal hypertension.*
+
+114. **Which surgical procedure involves cardiopulmonary bypass for hepatic outflow reconstruction?**  
+    A. TIPS  
+    B. SSPCS  
+    **C. Senning’s operation**  
+    D. Mesocaval shunt  
+    *Correct: C. Senning’s procedure uses cardiopulmonary bypass to resect occluded veins and reconstruct hepatic outflow.*
+
+115. **What is the operative mortality rate in Senning’s operation for BCS?**  
+    A. 0%  
+    B. 5%  
+    **C. 12% (2 of 17 patients died within 2 weeks)**  
+    D. 25%  
+    *Correct: C. In 17 patients, 2 (12%) died within 2 weeks of surgery, indicating significant perioperative risk.*
+
+116. **What is the actuarial 1-year survival rate after Senning’s procedure?**  
+    A. 57%  
+    **B. 76%**  
+    C. 90%  
+    D. 68%  
+    *Correct: B. The actuarial 1-year survival was 76%, with 3-year survival at 57%.*
+
+117. **Which treatment modality is gaining favor over surgery for IVC obstruction in BCS?**  
+    A. Liver transplantation  
+    **B. IR-guided angioplasty with stent placement**  
+    C. Open surgical thrombectomy  
+    D. Mesocaval shunt  
+    *Correct: B. Interventional radiology–guided angioplasty with stenting is increasingly preferred due to lower invasiveness and good outcomes.*
+
+118. **What is the restenosis rate at 1 year for percutaneous angioplasty with stenting in BCS?**  
+    A. 5%  
+    **B. 12%**  
+    C. 25%  
+    D. 40%  
+    *Correct: B. The restenosis rate is 12% (95% CI 8–16%), especially with PTFE-covered stents.*
+
+119. **Which follow-up strategy is recommended after IVC angioplasty?**  
+    A. Annual ultrasound only  
+    **B. Venography and pressure measurements every 3–6 months initially, then Doppler US**  
+    C. Monthly liver biopsies  
+    D. Routine CT scans every 3 months  
+    *Correct: B. Early follow-up includes hemodynamic assessment to detect restenosis; Doppler US is used later for surveillance.*
+
+120. **What is the primary goal of balloon dilation in BCS?**  
+    A. Cure the underlying thrombophilia  
+    **B. Reduce or eliminate the portosystemic pressure gradient**  
+    C. Reverse liver fibrosis  
+    D. Prevent hepatocellular carcinoma  
+    *Correct: B. Balloon angioplasty reduces the pressure gradient across the obstruction, improving venous outflow.*
+
+121. **Which stent type is used in recanalized hepatic veins?**  
+    A. Biliary stent  
+    **B. Expandable metallic stent**  
+    C. Ureteral stent  
+    D. Nasobiliary drain  
+    *Correct: B. Expandable metallic stents are placed in recanalized hepatic veins or IVC to maintain patency.*
+
+122. **What is the long-term survival rate after SSPCS at 10 years according to Kuniyoshi et al.?**  
+    A. 68%  
+    **B. 81%**  
+    C. 93.6%  
+    D. 76%  
+    *Correct: B. The 10-year survival rate was 81%, demonstrating durable results with surgical shunting.*
+
+123. **Which factor is associated with poor long-term outcomes in BCS despite shunt surgery?**  
+    A. Young age  
+    **B. Development of hepatocellular carcinoma (HCC)**  
+    C. Mild ascites  
+    D. Normal INR  
+    *Correct: B. HCC developed in seven patients during follow-up, indicating ongoing risk of malignancy even after successful shunt.*
+
+124. **What is the success rate of autologous internal jugular vein grafts in mesocaval shunts?**  
+    A. 52%  
+    **B. 89%**  
+    C. 67%  
+    D. 75%  
+    *Correct: B. Autologous vein grafts have a significantly higher success rate (89%) compared to synthetic grafts (52%).*
+
+125. **Which anticoagulant does NOT require routine laboratory monitoring?**  
+    A. Warfarin  
+    **B. Apixaban**  
+    C. Heparin  
+    D. Low molecular weight heparin  
+    *Correct: B. Direct oral anticoagulants like apixaban and rivaroxaban do not require INR monitoring, unlike warfarin.*
+
+126. **What is the target INR range for warfarin therapy in BCS?**  
+    A. 1.0–2.0  
+    **B. 2.0–3.0**  
+    C. 3.0–4.0  
+    D. 4.0–5.0  
+    *Correct: B. Warfarin is titrated to maintain INR between 2 and 3 to prevent thrombus propagation.*
+
+127. **Which condition is NOT a typical indication for liver transplantation in BCS?**  
+    A. Failed TIPS  
+    B. Intractable ascites  
+    **C. Isolated mild varices without bleeding**  
+    D. Progressive liver failure  
+    *Correct: C. Mild varices are managed endoscopically or medically; they are not an indication for LT.*
+
+128. **What is the primary limitation of mesoatrial shunts?**  
+    A. High infection rate  
+    **B. High graft thrombosis rate (63%) and poor long-term survival (38%)**  
+    C. Difficult surgical access  
+    D. Incompatibility with anticoagulation  
+    *Correct: B. 5 of 8 patients developed graft thrombosis; only 38% survived long-term, making it a high-risk procedure.*
+
+129. **Which surgical shunt is most effective for isolated hepatic vein occlusion?**  
+    A. Mesoatrial shunt  
+    **B. Side-to-side portacaval shunt (SSPCS)**  
+    C. Mesocaval shunt  
+    D. Combined SSPCS and CAS  
+    *Correct: B. SSPCS is highly effective (85–97% success) for hepatic vein occlusion when the IVC is patent.*
+
+130. **What is the primary hemodynamic measurement used to assess shunt success intraoperatively?**  
+    A. Central venous pressure  
+    **B. Portal-to-IVC pressure gradient**  
+    C. Pulmonary artery pressure  
+    D. Hepatic artery flow  
+    *Correct: B. A significant drop in portal-to-IVC gradient (e.g., from 244 mm to 5 mm saline) confirms effective decompression.*
+
+131. **Which imaging modality can detect intrahepatic collaterals in BCS?**  
+    A. Plain X-ray  
+    **B. MRI with T2-weighted sequences**  
+    C. Ultrasound without Doppler  
+    D. Nuclear scan  
+    *Correct: B. MRI shows comma-shaped intrahepatic collaterals and diffuse nodular disease in chronic BCS.*
+
+132. **What is the median time from diagnosis to BCS development in myeloproliferative disorder patients?**  
+    A. 6 months  
+    **B. 2.3 years**  
+    C. 5 years  
+    D. 1 year  
+    *Correct: B. The median time is 2.3 years, indicating a delayed but significant risk in MPD patients.*
+
+133. **Which laboratory test is critical for diagnosing paroxysmal nocturnal hemoglobinuria (PNH) in BCS?**  
+    A. JAK2 mutation  
+    **B. Flow cytometry for CD55 and CD59 deficiency**  
+    C. Antithrombin III level  
+    D. Prothrombin time  
+    *Correct: B. Flow cytometry detecting CD55/CD59 deficiency on red blood cells is the gold standard for PNH diagnosis.*
+
+134. **What is the role of eculizumab in PNH?**  
+    A. Anticoagulant  
+    **B. Prevents complement-mediated hemolysis and long-term sequelae**  
+    C. Thrombolytic agent  
+    D. Immunosuppressant  
+    *Correct: B. Eculizumab, a complement inhibitor, prevents hemolysis and reduces thrombotic risk in PNH patients.*
+
+135. **Which population has a higher incidence of membranous obstruction of the vena cava (MOVC)?**  
+    A. North Americans  
+    **B. Asians, Indians, and South Africans**  
+    C. Scandinavians  
+    D. Mediterraneans  
+    *Correct: B. MOVC is more common in Asia, India, and South Africa, with over 600 cases reported from Japan.*
+
+136. **What is the proposed pathogenesis of MOVC?**  
+    A. Congenital malformation only  
+    **B. Acquired thrombosis leading to fibrotic membrane formation**  
+    C. Viral infection  
+    D. Autoimmune vasculitis  
+    *Correct: B. Evidence supports MOVC as an acquired condition from prior thrombosis, not purely congenital.*
+
+137. **Which procedure is preferred for thin membranes in MOVC?**  
+    A. Liver transplantation  
+    **B. Transcardiac membranotomy**  
+    C. TIPS  
+    D. SSPCS  
+    *Correct: B. Transcardiac membranotomy via the right atrial appendage is effective for thin membranes, with 70–90% success.*
+
+138. **What is the success rate of transcardiac membranotomy in MOVC?**  
+    A. 30–50%  
+    B. 50–70%  
+    **C. 70–90%**  
+    D. 95–100%  
+    *Correct: C. Short-term success is high (70–90%), though long-term patency may be limited by restenosis.*
+
+139. **Which imaging finding is characteristic of MOVC on venography?**  
+    A. Diffuse hepatic calcifications  
+    **B. Membrane in the infrahepatic IVC with prestenotic dilation**  
+    C. Portal vein thrombosis  
+    D. Biliary dilation  
+    *Correct: B. A thin or thick membrane in the IVC with upstream dilation is a hallmark of MOVC.*
+
+140. **What is the primary treatment for thick, fibrotic membranes in MOVC?**  
+    A. Medical therapy only  
+    **B. Surgical resection or angioplasty with stenting**  
+    C. Transcardiac membranotomy  
+    D. Liver transplant  
+    *Correct: B. Thick membranes are not amenable to membranotomy; angioplasty with stenting or surgery is required.*
+
+141. **Which study reported the highest 1-year survival after LT for BCS?**  
+    A. Mentha et al.  
+    **B. Ulrich et al. (92%)**  
+    C. Cruz et al.  
+    D. Plessier et al.  
+    *Correct: B. Ulrich et al. reported a 1-year survival of 92% in 42 patients, the highest among cited studies.*
+
+142. **What is the 10-year survival rate after LT for BCS according to Ulrich et al.?**  
+    A. 65%  
+    B. 68%  
+    **C. 83.5%**  
+    D. 76%  
+    *Correct: C. Ulrich et al. reported 10-year survival of 83.5%, indicating excellent long-term outcomes.*
+
+143. **Which factor does NOT negatively impact LT outcomes in BCS patients with prior shunts?**  
+    A. Shunt thrombosis  
+    **B. Prior portosystemic shunt (no significant influence in 11 recent studies)**  
+    C. Extensive adhesions  
+    D. Vascular thrombosis  
+    *Correct: B. Eleven recent studies show prior shunts do not affect LT survival, contrary to earlier concerns.*
+
+144. **What is the primary concern with shunt thrombosis before LT?**  
+    A. Increased risk of infection  
+    **B. Compromised vascular anatomy making LT technically difficult**  
+    C. Higher rejection rates  
+    D. Poor graft function  
+    *Correct: B. Thrombosed shunts can obscure vascular landmarks and complicate transplant surgery.*
+
+145. **Which treatment has been used in severe VOD but with limited survival benefit?**  
+    A. Antibiotics  
+    **B. TIPS**  
+    C. Antivirals  
+    D. Diuretics  
+    *Correct: B. TIPS may improve portal hypertension and ascites but does not significantly improve survival in severe VOD.*
+
+146. **What is the 5-year survival rate after TIPS for BCS according to meta-analysis?**  
+    A. 60%  
+    **B. 72.1%**  
+    C. 85%  
+    D. 50%  
+    *Correct: B. A meta-analysis of 29 studies reported 5-year survival of 72.1% in TIPS-treated BCS patients.*
+
+147. **Which complication occurs in 58% of TIPS patients during follow-up?**  
+    A. Hepatic encephalopathy  
+    **B. Shunt occlusion requiring revision**  
+    C. Bile leak  
+    D. Hemorrhage  
+    *Correct: B. 19 of 33 patients (58%) required TIPS revision due to occlusion, highlighting the need for surveillance.*
+
+148. **Which patient required 10 TIPS revisions over 53 months?**  
+    A. A patient with mild BCS  
+    **B. One patient in Rössle et al.’s series**  
+    C. A post-LT patient  
+    D. A child with MOVC  
+    *Correct: B. Rössle et al. reported one patient required 10 revisions, illustrating the potential for recurrent shunt dysfunction.*
+
+149. **What is the secondary patency rate of covered stents in BCS at mean 82 months?**  
+    A. 75%  
+    **B. 99%**  
+    C. 85%  
+    D. 90%  
+    *Correct: B. Secondary patency reaches 99% with covered stents due to high revision success rates.*
+
+150. **Which factor contributes to the rising incidence of BCS globally?**  
+    A. Increased alcohol consumption  
+    **B. Widespread use of oral contraceptives and improved diagnostics**  
+    C. Higher rates of hepatitis B  
+    D. Obesity epidemic  
+    *Correct: B. OC use and better imaging have increased BCS detection and incidence, especially in women.*
+
+151. **Who reported the first case of BCS associated with oral contraceptives?**  
+    A. Virchow  
+    **B. Ecker and McKittrick**  
+    C. Budd and Chiari  
+    D. Senning  
+    *Correct: B. Ecker and McKittrick reported the first case 5 years after OCs became commercially available.*
+
+152. **Which condition is NOT a thrombophilic risk factor for BCS?**  
+    A. Paroxysmal nocturnal hemoglobinuria (PNH)  
+    B. Myeloproliferative disorders  
+    **C. Chronic obstructive pulmonary disease (COPD)**  
+    D. Factor V Leiden mutation  
+    *Correct: C. COPD is not a recognized thrombophilia; PNH, MPDs, and Factor V Leiden are established risk factors.*
+
+153. **What is the primary clinical presentation of acute BCS?**  
+    A. Chronic fatigue  
+    **B. Sudden abdominal pain, hepatomegaly, and ascites**  
+    C. Weight gain only  
+    D. Diarrhea  
+    *Correct: B. Acute BCS presents with rapid-onset pain, liver enlargement, and fluid accumulation due to venous congestion.*
+
+154. **Which physical finding is common in acute BCS?**  
+    A. Splenomegaly  
+    B. Ascites  
+    C. Jaundice  
+    **D. All of the above**  
+    *Correct: D. Hepatomegaly, ascites, splenomegaly, and jaundice are all common due to portal hypertension and liver dysfunction.*
+
+155. **Which imaging modality is best for evaluating the hepatic vein confluence?**  
+    A. Plain X-ray  
+    B. Ultrasound  
+    **C. CT or MRI with contrast**  
+    D. Nuclear scan  
+    *Correct: C. CT and MRI provide detailed visualization of the hepatic vein confluence and IVC anatomy.*
+
+156. **What is the most common duration of symptoms at BCS diagnosis?**  
+    A. Over 1 year  
+    **B. Less than 6 months in most patients**  
+    C. Less than 1 week  
+    D. 6–12 months  
+    *Correct: B. In Mitchell’s and Parker’s series, 71–83% of patients had symptoms for ≤6 months at diagnosis.*
+
+157. **Which finding on liver biopsy supports BCS diagnosis?**  
+    A. Steatosis  
+    **B. Centrilobular congestion, necrosis, and fibrosis**  
+    C. Granulomas  
+    D. Bile duct proliferation  
+    *Correct: B. Biopsy shows characteristic centrilobular damage due to venous outflow obstruction.*
+
+158. **What is the role of anticoagulation in BCS?**  
+    A. Cure the disease  
+    **B. Prevent thrombus extension**  
+    C. Reverse fibrosis  
+    D. Eliminate ascites  
+    *Correct: B. Anticoagulants prevent propagation of existing thrombi but do not dissolve them or reverse liver damage.*
+
+159. **Which surgical approach is used when both hepatic veins and IVC are obstructed?**  
+    A. SSPCS  
+    B. TIPS  
+    **C. Combined SSPCS and cavoatrial shunt (CAS)**  
+    D. Splenorenal shunt  
+    *Correct: C. This combined procedure decompresses both portal and caval systems in extensive obstruction.*
+
+160. **What is the primary disadvantage of synthetic grafts in mesocaval shunts?**  
+    A. High infection rate  
+    **B. High thrombosis rate and low patency (52% success)**  
+    C. Difficult surgical access  
+    D. Poor imaging visibility  
+    *Correct: B. Synthetic grafts have the lowest success rate among decompressive procedures due to thrombosis.*
+
+161. **Which population has a higher incidence of MOVC?**  
+    A. North Americans  
+    **B. Asians, Indians, and South Africans**  
+    C. Scandinavians  
+    D. Mediterranean populations  
+    *Correct: B. MOVC is more common in Asia, India, and South Africa, with over 600 cases reported from Japan.*
+
+162. **What is the proposed etiology of MOVC?**  
+    A. Congenital malformation only  
+    **B. Acquired thrombosis leading to fibrotic membrane formation**  
+    C. Viral infection  
+    D. Autoimmune destruction  
+    *Correct: B. Evidence suggests MOVC is an acquired condition from prior thrombosis, not purely congenital.*
+
+163. **Which procedure involves stent placement in a recanalized hepatic vein?**  
+    A. TIPS  
+    **B. Percutaneous transluminal angioplasty with stenting**  
+    C. SSPCS  
+    D. Liver transplant  
+    *Correct: B. Angioplasty with stenting is used to maintain patency after recanalization of hepatic veins or IVC.*
+
+164. **What is the recommended follow-up after IVC angioplasty in BCS?**  
+    A. Annual CT  
+    **B. Venography and pressure measurements every 3–6 months initially, then Doppler US**  
+    C. Liver biopsy every 6 months  
+    D. Monthly INR checks only  
+    *Correct: B. Early follow-up includes pressure measurements and venography to detect restenosis.*
+
+165. **Which of the following is a key diagnostic criterion for BCS on Doppler US?**  
+    A. Portal vein pulsatility  
+    **B. Absent or reversed hepatic vein flow**  
+    C. Hepatic artery resistive index <0.5  
+    D. Splenic vein thrombosis  
+    *Correct: B. Absent, flat, or reversed hepatic vein flow is a hallmark Doppler finding in BCS.*
+
+166. **What is the 1-year survival rate after liver transplantation for BCS in the UNOS registry?**  
+    A. 76%  
+    **B. 82%**  
+    C. 90%  
+    D. 68%  
+    *Correct: B. Segev et al. reported 1-year survival of 82% in 510 patients from the UNOS registry.*
+
+167. **Which study reported the longest follow-up period for SSPCS outcomes?**  
+    A. Halff et al.  
+    **B. Orloff et al. (38 years’ experience)**  
+    C. Shaked et al.  
+    D. Jamieson et al.  
+    *Correct: B. Orloff’s 2012 paper summarized 38 years of experience with surgical portal decompression.*
+
+168. **What is the primary cause of death in severe VOD post-BMT?**  
+    A. Infection  
+    **B. Multiorgan failure with 98% mortality**  
+    C. Graft-versus-host disease  
+    D. Hemorrhage  
+    *Correct: B. Severe VOD has a 98% mortality rate, often due to liver and renal failure.*
+
+169. **Which treatment has shown a 35% 100-day survival in severe VOD?**  
+    A. Corticosteroids  
+    **B. Defibrotide**  
+    C. TIPS  
+    D. Plasmapheresis  
+    *Correct: B. Defibrotide improves survival in severe VOD, with a 35% 100-day survival rate.*
+
+170. **What is the success rate of autologous vein interposition grafts in BCS?**  
+    A. 52%  
+    **B. 89%**  
+    C. 67%  
+    D. 75%  
+    *Correct: B. Autologous internal jugular vein grafts have a 89% success rate, superior to synthetic grafts.*
+
+171. **Which shunt type is hemodynamically similar to TIPS?**  
+    A. Mesocaval shunt  
+    **B. Side-to-side portacaval shunt (SSPCS)**  
+    C. Splenorenal shunt  
+    D. Cavoatrial shunt  
+    *Correct: B. Both TIPS and SSPCS are side-to-side portacaval shunts that decompress the portal system.*
+
+172. **What is the main advantage of PTFE-covered stents in TIPS?**  
+    A. Lower cost  
+    **B. Improved patency and reduced restenosis**  
+    C. Easier placement  
+    D. No need for anticoagulation  
+    *Correct: B. PTFE-covered stents reduce shunt failure and improve long-term outcomes.*
+
+173. **Which factor contributes to the rising incidence of BCS?**  
+    A. Increased alcohol use  
+    **B. Widespread use of oral contraceptives and better diagnostics**  
+    C. Higher rates of hepatitis C  
+    D. Obesity epidemic  
+    *Correct: B. OC use and improved imaging have increased BCS detection and incidence.*
+
+174. **What is the first case of BCS associated with oral contraceptives reported by?**  
+    A. Virchow  
+    **B. Ecker and McKittrick**  
+    C. Budd and Chiari  
+    D. Senning  
+    *Correct: B. Ecker and McKittrick reported the first case 5 years after OCs became available.*
+
+175. **Which condition is NOT a thrombophilic risk factor for BCS?**  
+    A. Paroxysmal nocturnal hemoglobinuria (PNH)  
+    B. Myeloproliferative disorders  
+    **C. Chronic obstructive pulmonary disease (COPD)**  
+    D. Factor V Leiden mutation  
+    *Correct: C. COPD is not a recognized thrombophilic condition; PNH, MPDs, and Factor V Leiden are.*
+
+176. **What is the primary manifestation of acute BCS?**  
+    A. Chronic fatigue  
+    **B. Rapid-onset ascites and abdominal pain**  
+    C. Weight gain only  
+    D. Diarrhea  
+    *Correct: B. Acute BCS presents with sudden abdominal pain, hepatomegaly, and ascites due to venous congestion.*
+
+177. **Which laboratory test detects PNH clones?**  
+    A. JAK2 mutation  
+    **B. Flow cytometry for CD55 and CD59 deficiency**  
+    C. Antithrombin III level  
+    D. Prothrombin time  
+    *Correct: B. Flow cytometry for CD55/CD59 deficiency on red blood cells confirms PNH.*
+
+178. **What is the role of TIPS in veno-occlusive disease (VOD)?**  
+    A. First-line curative treatment  
+    **B. May improve portal hypertension but survival remains poor**  
+    C. Prevents VOD development  
+    D. Replaces need for defibrotide  
+    *Correct: B. TIPS improves ascites and portal pressure but does not significantly improve survival in severe VOD.*
+
+179. **Which surgical technique requires cardiopulmonary bypass for IVC obstruction removal?**  
+    A. TIPS  
+    B. SSPCS  
+    **C. Senning’s direct hepatic outflow reconstruction**  
+    D. Mesocaval shunt  
+    *Correct: C. Senning’s procedure uses bypass to resect occluded veins and reconstruct outflow.*
+
+180. **What is the actuarial 3-year survival after Senning’s procedure?**  
+    A. 50%  
+    **B. 57%**  
+    C. 76%  
+    D. 90%  
+    *Correct: B. Actuarial 1-year and 3-year survival were 76% and 57%, respectively.*
+
+181. **Which graft material is preferred for mesocaval shunts?**  
+    A. Dacron  
+    **B. Autologous internal jugular vein**  
+    C. PTFE  
+    D. Umbilical vein  
+    *Correct: B. Autologous vein grafts have higher patency (89%) compared to synthetic grafts (52%).*
+
+182. **What is the primary reason for combining SSPCS and CAS?**  
+    A. To reduce surgical time  
+    **B. To decompress both portal and caval systems in IVC occlusion**  
+    C. To prevent encephalopathy  
+    D. To avoid anticoagulation  
+    *Correct: B. This combination addresses both portal hypertension and caval obstruction.*
+
+183. **Which imaging finding suggests chronic BCS?**  
+    A. Normal liver size  
+    **B. Caudate lobe hypertrophy**  
+    C. Portal vein dilation only  
+    D. Splenic atrophy  
+    *Correct: B. Caudate lobe enlargement is a classic sign of chronic BCS due to preserved venous drainage.*
+
+184. **What is the primary limitation of TIPS in BCS?**  
+    A. High cost  
+    **B. Risk of portosystemic encephalopathy (21% within 1 year)**  
+    C. Inability to reduce ascites  
+    D. Immediate mortality >50%  
+    *Correct: B. Encephalopathy develops in 21% of patients within a year of TIPS placement.*
+
+185. **Which study reported 1-year survival of 92% after LT for BCS?**  
+    A. Mentha et al.  
+    **B. Ulrich et al.**  
+    C. Plessier et al.  
+    D. Cruz et al.  
+    *Correct: B. Ulrich et al. reported 1-year survival of 92% in 42 patients.*
+
+186. **What is the 5-year survival after LT for BCS in the European Liver Transplant Registry?**  
+    A. 68%  
+    **B. 71%**  
+    C. 76%  
+    D. 82%  
+    *Correct: B. Mentha et al. reported 5-year survival of 71% in 248 patients from the registry.*
+
+187. **Which factor is associated with poor outcomes after mesoatrial shunt?**  
+    A. Young age  
+    B. Minimal ascites  
+    **C. High graft thrombosis rate (63%)**  
+    D. Normal liver enzymes  
+    *Correct: C. Graft thrombosis occurred in 63% of patients, leading to liver failure and death in most cases.*
+
+188. **What is the significance of the caudate lobe in BCS?**  
+    A. It is always atrophic  
+    **B. It often hypertrophies due to independent venous drainage**  
+    C. It is the first site of metastasis  
+    D. It produces excess albumin  
+    *Correct: B. The caudate lobe drains directly into the IVC and often enlarges in BCS due to preserved outflow.*
+
+189. **Which imaging finding is NOT typical in BCS on hepatic venography?**  
+    A. Hepatic vein thrombosis  
+    B. IVC obstruction  
+    **C. Portal vein thrombosis**  
+    D. Delayed hepatic venous opacification  
+    *Correct: C. Portal vein thrombosis is not a primary feature of BCS; the obstruction is in hepatic veins or IVC.*
+
+190. **What is the advantage of PTFE-covered stents in TIPS for BCS?**  
+    A. Cheaper cost  
+    **B. Improved shunt patency and reduced failure rate**  
+    C. Easier placement  
+    D. Reduced need for anticoagulation  
+    *Correct: B. PTFE-covered stents reduce TIPS failure rates and improve long-term outcomes in BCS.*
+
+191. **Which patient group showed 100% long-term survival after combined SSPCS and CAS?**  
+    A. Mesoatrial shunt group  
+    **B. Combined SSPCS and CAS group (18 patients)**  
+    C. SSPCS alone group  
+    D. TIPS group  
+    *Correct: B. All 18 patients in the combined shunt group were alive at follow-up, with no reported mortality.*
+
+192. **What percentage of SSPCS patients resumed normal activities post-surgery in Orloff’s series?**  
+    A. 25%  
+    B. 60%  
+    **C. 95%**  
+    D. 75%  
+    *Correct: C. 95% of SSPCS patients were employed or doing housekeeping, indicating excellent functional recovery.*
+
+193. **Which shunt type had the lowest rate of encephalopathy in Orloff’s series?**  
+    A. Mesoatrial shunt  
+    **B. SSPCS and combined shunt (0%)**  
+    C. Mesocaval shunt  
+    D. TIPS  
+    *Correct: B. No cases of encephalopathy were reported in SSPCS or combined shunt groups, unlike 38% in mesoatrial shunt.*
+
+194. **What is the 10-year survival after SSPCS in Kuniyoshi et al.’s long-term follow-up?**  
+    A. 50%  
+    B. 60%  
+    **C. 81%**  
+    D. 90%  
+    *Correct: C. The 10-year survival rate was 81%, demonstrating durable results with surgical shunting.*
+
+195. **Which factor is linked to graft thrombosis in mesoatrial shunts?**  
+    A. Low portal pressure  
+    **B. High thrombosis rate (63%) due to synthetic grafts and hemodynamics**  
+    C. Young age  
+    D. Minimal liver disease  
+    *Correct: B. 5 of 8 grafts thrombosed, likely due to graft material and high-flow, low-resistance circuit.*
+
+196. **What is the primary disadvantage of synthetic grafts in mesocaval shunts?**  
+    A. High infection rate  
+    **B. Low success rate (~52%) due to thrombosis**  
+    C. Immune rejection  
+    D. Difficulty in placement  
+    *Correct: B. Synthetic grafts have a success rate of only 52%, significantly lower than autologous or direct shunts.*
+
+197. **Which genetic test is critical in evaluating thrombophilia in BCS patients?**  
+    A. BRCA1 mutation  
+    **B. JAK2 V617F mutation**  
+    C. CFTR gene mutation  
+    D. HFE gene mutation  
+    *Correct: B. JAK2 V617F is a key marker for myeloproliferative disorders, a major cause of thrombotic BCS.*
+
+198. **What is the role of liver biopsy in BCS diagnosis?**  
+    A. First-line diagnostic tool  
+    **B. Confirms centrilobular congestion and fibrosis**  
+    C. Rules out alcohol use  
+    D. Measures liver fat content  
+    *Correct: B. Biopsy shows characteristic centrilobular necrosis, congestion, and fibrosis, supporting the diagnosis.*
+
+199. **Which is a rare indication for liver transplantation in BCS?**  
+    A. Failed TIPS  
+    **B. Unshuntable portal hypertension with patent vessels for allograft vascularization**  
+    C. Mild ascites  
+    D. Elevated transaminases only  
+    *Correct: B. This rare scenario applies when portal and splanchnic veins are thrombosed but hepatic artery and IVC are usable for transplant.*
+
+200. **What is the 1-year survival rate after liver transplantation for BCS according to Mentha et al.?**  
+    A. 69%  
+    **B. 76%**  
+    C. 82%  
+    D. 90%  
+    *Correct: B. The 1-year survival was 76%, with 5-year survival at 71% and 10-year at 68% in registry data.*

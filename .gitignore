@@ -5,7 +5,6 @@ _book/
 presentation/*.html
 presentation/_presentation
 presentation/.quarto
-[0-9]*
 .quarto
 rsconnect
 .DS_Store

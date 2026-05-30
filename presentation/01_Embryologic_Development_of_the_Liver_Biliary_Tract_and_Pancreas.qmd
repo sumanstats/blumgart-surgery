@@ -1,0 +1,568 @@
+---
+title: "Embryologic Development of the Liver, Biliary Tract, and Pancreas"
+format:
+  revealjs:
+    theme: dark
+---
+
+# Introduction
+
+## Overview
+- **Liver**: Layers of metabolically active hepatocytes arrayed along a vascular network carrying nutrient-rich blood from intestinal absorption. Biliary ducts are interleaved within this system.
+- **Pancreas**: Two independent functional units:
+  - Exocrine repository of initially inactive digestive enzymes
+  - Endocrine cells devoted to homeostatic processes and feedback loops
+
+## Developmental Timeline
+- **Fertilization to implantation**: ~7 days (zygote to blastocyst)
+- **Week 3**: Gastrulation generates ectoderm, mesoderm, and endoderm
+- **Embryonic period**: First 8 weeks post-fertilization (major organ formation)
+- **Fetal period**: Growth and maturation extending to birth
+
+## Carnegie Staging
+- Much of the anatomical and timing work was performed by Franklin Mall and George Streeter at the Carnegie Institution in Baltimore.
+- Resulted in the widely-used **Carnegie Stages 1–23**.
+
+---
+
+# Common Progenitors and Specification
+
+## Shared Origin
+- Liver and pancreas initially arise from the **same population of bipotent endodermal cells** expressing:
+  - *Sox17, FoxA, Hhex, Gata*
+- This region also gives rise to the **gallbladder and extrahepatic biliary system**.
+
+## Specification Signals
+- **Pancreas**: Differential expression of *PDX1* and *PTF1A*
+- **Liver**: *HHEX, FOXA1/2, GATA4, HNF1b, HNF4a*
+- **Pioneer factors**: *GATA4* and *FOXA1/2* are pre-assembled at liver-specific genes (e.g., albumin), allowing rapid induction of liver fate.
+
+## Gestational Age Note
+- Gestational age is measured from the last menstrual period, adding ~2 weeks to post-fertilization timelines.
+- Seldom used by embryologists, but clinically valid by the end of gestation.
+
+---
+
+# Development of the Liver and Bile Ducts
+
+## Phases of Liver Development
+1. **Early embryonic phase**: Induction of liver diverticulum from endoderm; formation of hepatoblasts; liver bud growth
+2. **Late embryonic period**: Generation of hepatocytes (bulk of liver) and cholangiocytes (bile ducts) from bipotential hepatoblasts
+3. **Fetal period**: Differentiation, organization into lobules and ducts, maturation, and peripheral expansion
+
+## Figure 1.1 — Bile Duct Development Timeline {.smaller}
+- **20–27 days**: Hepatic diverticulum arises from foregut, protrudes into septum transversum mesenchyme
+- **28–41 days**: "Funnel-like" extrahepatic duct abuts amorphous liver anlage; gallbladder visible later
+- **42–56 days**: Hepatoblasts identifiable; early cholangiocyte transformation
+- **57–70 days**: Formation of ductal plate and intrahepatic bile ducts
+- **12 weeks onward**: Selection and deletion of intrahepatic bile ducts away from porta; formation and transport of bile
+
+---
+
+# Weeks 4–5 Post-Fertilization (Carnegie Stages 10–15)
+
+## Embryonic Context
+- Embryo measures ~2–3 mm; implanted into endometrium
+- Formation of somites; primitive endodermal intestinal tube is blind and occluded at both ends
+- Gut conventionally divided by supplying arteries into **foregut, midgut, and hindgut**
+
+## Formation of the Liver Diverticulum
+- Arises as an **endodermal bud from the distal foregut** within the ventral mesogastrium
+- Projects into mesenchyme of the **septum transversum**
+- Two endodermal origins:
+  - **Two lateral domains** → generate posterior part of liver
+  - **Ventral midline endoderm lip (VMEL)** → generates anterior part of liver
+
+## Morphology
+- Develops into a **funnel-shaped structure** with a lumen evident throughout
+- From ~45 days, the thicker-walled **gallbladder** becomes evident
+
+---
+
+# Molecular Control of Early Liver Induction
+
+## Growth Factor Signals {.smaller}
+| Source | Signal | Role |
+|--------|--------|------|
+| Septum transversum / lateral plate mesoderm | **BMPs** | Specify liver fate in VMEL precursors |
+| Precardiac mesoderm | **FGFs** | Induce liver in lateral endodermal precursors |
+| Surrounding endothelial cells | VEGF / other signals | Support induction |
+
+## Transcription Factor Network
+- Growth factors induce/maintain expression of:
+  - *FOXA1 & 2, HHEX, HNF1b, HNF4a, GATA4 & 6*
+- These specify the **liver primordium** and are needed for **hepatoblast differentiation**
+- **Repression** of canonical Wnt (β-catenin) and Notch pathways is also required
+
+---
+
+# Hepatoblasts and Early Morphogenesis
+
+## Hepatoblast Characteristics
+- **Primordial liver cells** emerging from the cranial aspect of the diverticulum
+- **Bipotential precursors** of both hepatocytes and cholangiocytes
+- Express markers of **both lineages**:
+  - Hepatocyte: α-fetoprotein, albumin, HNF4α, HHEX
+  - Cholangiocyte: HNF1b, CK19 (late differentiation marker)
+
+## Structural Changes
+- Initially **cuboidal cells** lining the invaginating diverticulum
+- Proliferation creates a **multilayered pseudostratified** endodermal structure (*requires HHEX*)
+- **Delamination**: reduced cell–cell contacts, migration into septum transversum
+- Arranged in plates (3–4 cells thick) lining vascular sinusoids
+- **Delamination requires**: PROX1, HNF6 (ONECUT1), and ONECUT2
+
+## Paracrine Support
+- Proliferation and survival controlled by **Wnt, FGF, and HGF** from adjacent mesodermal cells and liver sinusoidal endothelial cells
+
+---
+
+# Hematopoietic Population of the Embryonic Liver
+
+## Origin and Dominance
+- Embryonic liver populated by **hematopoietic cells** from:
+  - Yolk sac
+  - Aorta-gonad-mesenchyme (AGM) region
+  - Placenta
+- Hematopoietic cells form the **bulk of the liver** during the second trimester
+- Hematopoietic maturation becomes the **dominant feature** at this stage
+
+## Oncostatin M (OSM)
+- Produced by hematopoietic cells
+- Increases **hepatoblast proliferation**, contributing to liver growth until late fetal life
+
+---
+
+# Weeks 6–8 Post-Fertilization (Carnegie Stages 16–23)
+
+## The Liver Anlage
+- By now, a large, rounded mass of tissue — the **liver anlage** (rudimentary organ)
+- **Dominant organ by mass** within the abdomen
+- Pushes the embryonic gut into the base of the umbilicus before returning
+- Complete closure of anterior abdominal wall occurs ~12 weeks gestation
+- **Failure of return** → omphalocele (exomphalos); liver can form a major component
+
+## Hepatoblast Differentiation
+- Occurs at or around the **seventh week**
+- Common cellular origin of hepatocytes and cholangiocytes has implications for **malignant disease in adults**
+
+---
+
+# Molecular Control of Cell Fate Decision
+
+## Cholangiocyte Fate
+- **Notch signaling** from portal vein mesenchyme promotes cholangiocyte formation and inhibits hepatocyte development
+- Other required factors: **TGF-β, BMPs, FGFs**
+- Transcription factors: **HNF1b, HNF6, SOX9**
+
+## Hepatocyte Fate
+- Signals from surrounding mesodermal cells: **FGF, HGF, OSM**
+- Sources: hematopoietic precursors and mesothelial cells
+- Transcription factors: **HNF4α, C/EBPα**
+
+## Master Regulator
+- **PROX1** (and TBX3) determines which cell fate develops from the bipotential hepatoblast
+- Absence of PROX1 → fewer hepatocytes, increase in cholangiocytes
+
+---
+
+# Intrahepatic Bile Duct Formation
+
+## Ductal Plate Formation
+- Intrahepatic bile ducts appear distinctly from ~7 weeks gestation
+- Organized by the **portal vein**:
+  - Portal venous network infiltrates liver anlage, surrounded by mesenchyme
+  - Cylindrical **double cell layer** of darkly staining cells emerges adjacent to portal vein: the **ductal (limiting) plate**
+
+## Transient Asymmetry
+- **Portal tract side**: cholangiocyte-like cells expressing *SOX9* and *CK19*
+- **Parenchyma side**: hepatoblast-like cells expressing *HNF4α*
+- After lumen formation, nascent duct becomes symmetrical as hepatoblasts are replaced by cholangiocytes
+
+## Remodeling
+- Double cell layer remodels to **single-cell layer bile duct**
+- Discontinuous along portal vein; selective remodeling generates interconnected network
+- Progression from **hilum to periphery** (controlled by noncanonical Wnt)
+- Unincorporated cholangiocytes **dedifferentiate into hepatocytes**
+
+---
+
+# Hepatic Arteries and Hepatocyte Polarity
+
+## Hepatic Arterial Development
+- Develops in association with bile ducts
+- Thought to be **induced by VEGF signals** from the ductal plate
+
+## Hepatocyte Polarity
+- Onset of **polygonal shape** with distinct domains:
+  - **Basolateral**: abuts blood-containing sinusoids (separated by Space of Disse)
+  - **Apical**: abuts adjacent hepatocytes, forming the **biliary canaliculus** (smallest biliary component)
+  - **Lateral**: gap junctions between cells
+
+## Junctional Structures
+- Canaliculus delineated by **tight junctions (desmosomes)**
+- Remainder of apical surface: **gap junctions** (intercellular conduits)
+- **Microvilli** multiply surface area of both canalicular and basolateral membranes
+- Canaliculus is of **hepatocyte origin**; later connects to intrahepatic bile ducts
+
+---
+
+# The Ninth Week Onwards: The Fetal Phase
+
+## Bile Production and Continuity
+- **Bile acid synthesis** starts ~6 weeks
+- Bile first observed in primitive cholangioles
+- Transported into fetal gut from **12–14 weeks gestation** → implies completion of biliary continuity
+- The historically held **"solid phase"** of biliary development is now considered incorrect
+
+## Other Parenchymal Components
+- **Kupffer cells**: monocyte/macrophage lineage; appear ~5 weeks from yolk sac precursors
+- **Hepatic stellate cells**: apparent by 10 weeks; molecular characteristics of all three germ layers; some arise from septum transversum
+- **Mesodermal cells** from early liver anlage form mesenchymal framework and Ito cell population
+- Fetal stromal tissue expresses epithelial (*Ck-8*), mesenchymal (*vimentin, osteopontin*), and vascular smooth muscle (*aSma*) markers
+
+---
+
+# Fetal Growth and Maturation
+
+## Continued Development
+- Characterized by **maturation, hepatocyte proliferation, and expansion of liver volume**
+- Growth controlled by:
+  - **OSM, glucocorticoids, HGF**
+  - **Canonical Wnt signaling pathway**
+
+## Zonal Differences
+- **Maturation** more advanced in the **center** of the liver
+- **Proliferation** highest at the **periphery** in response to paracrine signals from overlying mesothelial cells
+
+## Bile Duct Network
+- Continues to develop at the periphery in response to **Notch signaling**
+- Until late fetal stage, bile ducts are narrow
+- Late fetal stage: **remodeling and enlargement** of central ducts, potentially in response to onset of bile flow
+
+## Glycogen Metabolism
+- Glycogen granules present ~8 weeks
+- **Zenith** achieved by time of birth
+- Rapid glycogenolysis over 2–3 days postnatal depletes to ~10% of prenatal levels
+
+---
+
+# Vascular Events: Overview
+
+## Dual Vascular Supply
+- **Portal venous system** and **hepatic arterial system**
+- Drain by common hepatic venous channels into the **vena cava and right atrium**
+
+## Embryologic Origins
+Complex origins involving:
+
+1. **Vitelline veins** (paired)
+2. **Umbilical veins** (paired)
+3. **Posterior body wall venous structures** (e.g., cardinal veins) → culminate in the **IVC**
+
+---
+
+# Vitelline and Umbilical Veins
+
+## Vitelline Veins {.smaller}
+- **Paired**; carry blood from gut to evolving sinusoidal plexus
+- Originally from yolk sac (*vitellus*: color of yolk)
+- Outside liver, interconnected like a **stepladder** (connections in front of and behind intestine)
+- Remodeling and loss of some "steps" → final **S-shaped portal vein**
+  - Arises from junction of splenic vein and superior mesenteric vein
+  - Emerges from behind duodenum to run in free edge of lesser omentum
+
+## Umbilical Veins {.smaller}
+- **Paired**; carry oxygenated blood from placenta to sinus venosus
+- **Right umbilical vein** disappears early
+- **Left umbilical vein** enveloped by liver, joins left portal vein
+- **Ductus venosus** (Duct of Arantius): low-pressure channel connecting left portal vein to hepatic vein confluence
+  - ~20–30% of flow shunted through this in fetus
+  - Closes functionally at birth, then anatomically
+  - Entire portal inflow directed into sinusoids; measurable increase in portal venous pressure
+
+---
+
+# Posterior Cardinal Veins and IVC
+
+## Posterior Cardinal Veins
+- Paired structures carrying blood from lower half of body
+- Function declines during gestation
+- Eventually become the **azygous and hemiazygous veins**
+
+## Inferior Vena Cava (IVC)
+- Embryologically a **later structure**
+- Formed from multiple venous precursors:
+  - **Subcardinal veins** → pre-renal portion
+  - **Supracardinal veins** → post-renal portion
+- **Intrahepatic portion**: outgrowth from right subcardinal vein subsumed in evolving liver tissue (~6th week), anastomosing with hepatic vein confluence
+
+---
+
+# Hepatic Arterial Network
+
+## Timing and Pattern
+- Perceived as a **relatively late event**
+- Occurs around the time of formation and expansion of intrahepatic bile ducts from the porta
+
+## Architecture
+- **Peribiliary arteriole plexus** from terminal branches of the hepatic artery at periphery of liver lobule
+- Arterial blood contributes to the **sinusoidal network** thereafter
+
+---
+
+# Clinical Correlates: Neonatal Cholestatic Syndromes
+
+## Alagille's Syndrome
+- Multisystem genetic condition
+- Caused by **loss-of-function mutations of JAG1** (ligand for Notch signaling pathway)
+- Manifestations:
+  - Poor bile duct development (**biliary hypoplasia**)
+  - Cardiac anomalies
+  - Vertebral anomalies ("butterfly" vertebrae)
+  - "Elfin-like" facies
+
+## Biliary Atresia {.smaller}
+- Encompasses distinct variants, some with embryonic origins
+- **Biliary atresia splenic malformation (BASM)**:
+  - Absent or poorly developed common bile duct
+  - Atrophic gallbladder
+  - Polysplenia or asplenia
+  - Vascular anomalies: **pre-duodenal portal vein**, absent IVC
+  - Pre-duodenal portal vein due to impaired vitelline vein development
+  - **Situs inversus** in ~50% (reflects randomness of visceral asymmetry acquisition)
+  - Anomalies date pathology to **20–40 days post-fertilization**
+
+---
+
+# Clinical Correlates: Biliary Atresia (Continued)
+
+## Nonsyndromic Biliary Atresia
+- Timing unknown; presumed during or after organogenesis
+- Independent of mechanisms establishing asymmetry
+- In vast majority, **biliary obstruction biochemically evident by time of birth**
+
+---
+
+# Clinical Correlates: Congenital Portomesenteric Anomalies
+
+## Persistence of Ductus Venosus
+- Normally fibroses and closes anatomically beyond first few weeks postnatally
+- Delayed closure → portomesenteric blood leaks into systemic circulation without passing sinusoids
+- Most close spontaneously within **2 years**; rarely require intervention
+
+## Abernethy Malformation
+- **Permanent interconnection** of portal vein and IVC
+- Typically assumes an **"H" shape** at inferior margin of liver
+- Degree of functional venous bypass dictates clinical consequences
+
+## Consequences of Complete Bypass
+- **Aplasia of intrahepatic portal veins**: liver function maintained (arterial supply)
+- **Predisposition to neoplasia**: benign (focal nodular hyperplasia) and malignant (hepatoblastoma)
+- **Metabolic consequences**: "unfiltered" blood enters systemic circulation
+  - High venous ammonia
+  - Predisposition to encephalopathy
+- **Surgical closure** is warranted and can reverse histologic changes
+
+---
+
+# Pancreas: Overview
+
+## Induction and Timeline
+- Induced within endoderm at **Carnegie Stage 12**
+- Pancreatic precursors arise in **three locations**:
+  1. Ventral endodermal domain
+  2. VMEL (common progenitors with liver)
+  3. Dorsal domain
+
+## Developmental Progression
+- **CS13–CS19**: Multipotent pancreatic progenitors proliferate; exocrine lineage differentiation begins (bipotential duct cells, acini)
+- **CS21**: Generation of endocrine lineage begins
+- **End of embryonic period**: Ventral bud rotates to unite with dorsal pancreatic anlage
+
+---
+
+# Development from Ventral and Dorsal Anlagen
+
+## Initial Formation
+- Arise from foregut **diametrically opposite** each other (~day 26–32)
+- **Ventral duct**: offshoot of bile duct; maintains this connection throughout
+- **Dorsal anlage**: gives rise to head, body, and tail
+- **Ventral bud**: gives rise to the uncinate process (*uncus* = hook)
+
+## Fusion
+- Actual fusion occurs after **rotation of ventral duct** around foregut axis (~50–55 days)
+- Differential heritage still evident histologically by **pancreatic polypeptide (PP) staining**:
+  - PP cells localize to ventral-derived area
+  - Dorsal pancreas has larger lobules, PP-poor
+
+---
+
+# Pancreatic Ductal Anatomy
+
+## Ductal Interconnection
+- Variable degree of interconnection between ventral and dorsal ducts
+- **Ventral duct (Wirsung)**: dominant flow from body, tail, and most of head
+- **Dorsal duct (Santorini)**: usually more proximal entry in duodenum; reputedly drains only uncinate
+
+## Final Arrangement
+- Initially, bile-pancreatic junction is **outside** duodenal wall
+- **Last trimester**: gradual absorption into duodenal wall
+- Final arrangement: **ampulla of Vater** (common chamber)
+  - Each duct empties into it but surrounded by its own sphincter
+  - Maintains separation of bile and pancreatic juice
+
+---
+
+# Pancreatic Lineage Decisions
+
+## Common Precursor
+- Acinar tissue, ducts, and endocrine cells arise from the **same multipotential precursor**
+- Process: layering and clustering of endodermal cells → microlumens → coalescence → tubular gland lumen
+
+## Lineage Sequence
+1. **First decision**: Exocrine fate (bipotential ductal cells and acini)
+2. **Second decision**: Endocrine cells specified within ducts, break through basal membrane into mesenchyme, aggregate as islet tissue
+
+## First Endocrine Cells
+- **Insulin-producing β-cells** are the first to form
+- Insulin and glucagon detectable in fetal circulation by **4th–5th month**
+
+---
+
+# Molecular Control of Pancreatic Induction
+
+## Critical Absences
+- **Absence of BMP signaling** required (contrast with liver, where BMPs induce)
+- **Absence of SHH signaling** required:
+  - Ectopic SHH promotes liver formation while inhibiting pancreatic induction
+
+## Differential Induction
+- Molecularly similar, but ventral and dorsal buds induced by **different growth factor combinations** reflecting their neighbors:
+  - **Ventral**: cardiac mesoderm / septum transversum / lateral plate mesoderm
+  - **Dorsal**: notochord / dorsal aorta
+
+---
+
+# Key Transcription Factors and Signaling
+
+## PDX1
+- Member of ParaHox homeodomain transcription factors
+- Early marker for pancreatic progenitors
+- Later "restricts" to **β-cells**
+- Required for maintenance of β-cell fate and function
+
+## PTF1a
+- Early marker expressed slightly later than PDX1
+- Needed to maintain PDX1 expression → **positive feedback loop**
+
+## SOX9
+- Induces **FGFR3** (receptor for FGFs)
+- Together with Notch, FGF10, BMP, retinoic acid, and EGF → promotes proliferation of pancreatic precursors
+
+## Clinical Correlation
+- Mutations in **PDX1, PTF1A, SOX9, GATA4, GATA6** → pancreatic agenesis or hypoplasia
+
+---
+
+# Endocrine vs. Exocrine Fate
+
+## Notch Signaling
+- **Master regulator** of the fate decision switch
+- Promotes **ductal cell differentiation**
+- Inhibits **endocrine cell differentiation**
+
+## TGF-β and Activin Signaling
+- **TGF-β signaling inhibits endocrine development**
+  - Intricate role of Smad2, Smad3, and inhibitor Smad7
+  - Inactivation of Smad2/3 → expansion of endocrine compartment
+  - Inactivation of Smad7 → decrease in endocrine compartment
+- **Activin signaling promotes proliferation** of endocrine lineage
+
+## NeuroG3 — The Critical Switch
+- All endocrine cells arise from **NeuroG3-expressing precursors**
+- Present from **weeks 7–35**, peaking at week 12
+- **Deletion**: no pancreatic endocrine cells form
+- **Overexpression**: premature commitment to endocrine lineage; timing determines which lineage forms
+
+---
+
+# Endocrine Cell Types and Plasticity
+
+## Lineage Derivation
+- NeuroG3+ cells give rise to:
+  - **α-cells** (glucagon) and **γ-cells** (pancreatic polypeptide)
+  - **β-cells** (insulin) and **δ-cells** (somatostatin)
+
+## Transcription Factor Control
+- Each endocrine cell type characterized by **specific combination of transcription factors**
+- Initially, cells can **co-express** different factors
+- Eventually restricted to one lineage via **antagonistic feedback loops**
+- Loss of one factor → increased cells of another lineage
+
+## Cellular Plasticity
+- **In vivo total ablation of β-cells** (~99%) can lead to **α-cell conversion to β-cells** via a bihormonal stage
+- Ectopic expression of **PDX1** or **PAX4** can induce α-cell or α-cell progenitors to convert to β-cells
+
+---
+
+# Human Genetic Correlates
+
+## Permanent Neonatal Diabetes Mellitus
+- Linked to loss-of-function mutations in:
+  - **NEUROG3, GLIS3, PAX6, MNX1, NEUROD1, NKX2.2**
+
+## Specific Factor Roles
+- **Nkx2.2**: Expressed early, co-expressed with PDX1; marker of multipotent progenitors. Eventually restricted to NeuroG3+ cells (all endocrine except δ-cells). Null mice: no β-cells, reduced PP cells, 80% reduction in α-cells.
+- **Pax6**: Marker of endocrine lineage; not absolutely necessary (null mice still form endocrine cells, albeit reduced).
+
+---
+
+# Clinical Correlates: Pancreatic Anomalies
+
+## Annular Pancreas
+- Imperfect fusion or persistence of anterior anlagen element
+- **Ring of pancreatic tissue** surrounding second part of duodenum
+- Thought relatively benign, but associated with:
+  - Duodenal stenosis or atresia
+  - Recurrent pancreatitis (imperfect duct drainage)
+
+## Pancreas Divisum
+- Failure or imperfect fusion of dorsal and ventral ducts
+- Most parenchyma drains through entire length of **dorsal duct**
+- Complete separation of bile and pancreatic ducts
+- Less efficient drainage; predisposes to **recurrent or chronic pancreatitis** (especially in children)
+
+---
+
+# Clinical Correlates: Pancreatic Ductal Variants
+
+## Common Channel
+- Endoscopically definable in up to ~5% of population
+- Most are asymptomatic
+- Predisposes to **recurrent pancreatitis** (especially children)
+- Suggested etiologic factor for some **choledochal malformations**
+
+## Functional Consequences
+- Allows **free intermixing** of bile and pancreatic secretions before reaching duodenum
+- Reflux into biliary ducts can be quantified (amylase in bile)
+- Hypothetical relationship with predisposition to **neoplastic change in bile duct** (particularly studied in Japan)
+
+---
+
+# Summary: Key Principles
+
+## Shared Origins, Divergent Fates
+- Liver and pancreas share **bipotent endodermal progenitors** (VMEL and lateral domains)
+- **Differential transcription factor expression** and growth factor signaling drive organ specification
+
+## Vascular-Biliary Intimacy
+- Portal vein organizes bile duct development
+- Hepatic arteries develop in association with bile ducts (VEGF signaling)
+- Congenital vascular anomalies reflect specific **developmental timing windows**
+
+## Clinical Relevance
+- **Alagille, biliary atresia, BASM, Abernethy malformation** — all reflect embryologic errors
+- **Pancreas divisum, annular pancreas, common channel** — consequences of imperfect rotation/fusion
+- Understanding embryology is essential for comprehending **congenital disease pathogenesis**
+

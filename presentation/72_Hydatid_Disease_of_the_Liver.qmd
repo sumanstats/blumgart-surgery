@@ -1,0 +1,2293 @@
+---
+title: "Hydatid Disease of the Liver"
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    fontsize: 22pt
+    scrollable: true
+---
+
+
+
+
+## Learning Objectives
+
+By the end of this presentation, you will be able to:
+
+1. Understand the epidemiology and life cycle of *Echinococcus granulosus*
+2. Recognize the pathophysiology and cyst structure of hydatid disease
+3. Identify clinical complications of liver hydatid cysts
+4. Apply appropriate diagnostic imaging and serologic methods
+5. Select optimal treatment strategies based on cyst characteristics
+6. Differentiate cystic from alveolar echinococcosis
+
+---
+
+
+
+## Introduction: Hydatid Disease
+
+#### Cystic Echinococcosis (CE)
+
+- **Definition:** Worldwide parasitic zoonosis caused by larval stages of *Echinococcus granulosus* metacestode
+- **Prevalence:** Accounts for >95% of 2-3 million estimated echinococcosis cases worldwide
+- **Definitive hosts:** Canids (dogs) - develop adult worms in gut after ingesting larvae from intermediate hosts
+- **Intermediate hosts:** Usually sheep; humans are aberrant intermediate hosts
+
+> Humans develop visceral hydatid cysts: fluid-filled structures with parasite-derived membrane containing germinal epithelium
+
+---
+
+## Other Species of Public Health Concern
+
+| Species | Disease | Notes |
+|---------|---------|-------|
+| *E. multilocularis* | Alveolar echinococcosis | Discussed in later section |
+| *E. vogeli* | Polycystic echinococcosis | Rare |
+| *E. oligarthrus* | Polycystic echinococcosis | Rare |
+
+#### Key Point:
+Hydatid disease (CE) is the **most prevalent** form of echinococcosis globally
+
+---
+
+## Organ Distribution of Hydatid Cysts
+
+```
+Liver:     50-70%  ████████████████████
+Lungs:     20-30%  ██████████
+Spleen:     2-5%   ██
+Kidney:     2-3%   ██
+Heart:      1-2%   █
+CNS/Bone:  <1%     █
+Other:      1-2%   █
+```
+
+#### Clinical Significance:
+- Cysts can remain **asymptomatic for years**
+- Growth rate: **1-5 cm/year**
+- Up to **1/3 of patients** develop complications:
+  - Secondary infection
+  - Biliary fistula
+  - Rupture into peritoneal/pleural cavity
+
+---
+
+## Modern Treatment Approaches for Liver Hydatid Cyst
+
+```{mermaid}
+graph LR
+    A[Liver Hydatid Cyst] --> B[Surgical Intervention]
+    A --> C[Percutaneous Drainage]
+    A --> D[Medical Therapy]
+    
+    B --> B1[Open Surgery]
+    B --> B2[Laparoscopic Approach]
+    
+    C --> C1[PAIR Technique]
+    C --> C2[Catheterization Methods]
+    
+    D --> D1[Albendazole]
+    D --> D2[Combination Therapy]
+```
+
+**Surgery remains definitive treatment** for large, active, symptomatic, or complicated cysts
+
+---
+
+## Public Health & Economic Burden
+
+#### Health Costs:
+- Prolonged hospitalizations
+- Loss of quality of life and working days
+- Patient relocation to urban centers for care
+
+#### Economic Losses in Livestock:
+- Seized viscera at slaughter
+- Reduced wool/meat production in infected animals
+
+#### Prevention Strategy:
+> "Prevention is the most effective and efficient way to control hydatid disease, and the development of health education and promotion activities in the community is essential."
+
+---
+
+## Echinococcus granulosus: Taxonomic Complexity
+
+#### EG sensu lato (s.l.) - Multispecies Complex
+
+| Species | Genotypes | Notes |
+|---------|-----------|-------|
+| *EG sensu stricto* | G1/G2/G3 | G1 = most widespread, ~80% of human cases |
+| *E. equinus* | G4 | Horse strain |
+| *E. ortleppi* | G5 | Cattle strain |
+| *E. canadensis* | G6/G7/G8/G9/G10 | Camelid, pig, cervid strains |
+| *E. felidis* | Lion strain | Rare |
+
+#### Key Fact:
+Genotype G1 is the **most widely distributed** globally and accounts for approximately **80% of human cases**
+
+---
+
+## Adult *E. granulosus* Worm Structure
+
+```
+Size: 3-6 mm long
+
+┌─────────────────────────┐
+│ SCOLEX (Head)           │
+│ • Rostellum with hooks  │
+│ • Four suckers          │
+├─────────────────────────┤
+│ NECK (short region)     │
+├─────────────────────────┤
+│ STROBILA (Body)         │
+│ • 1 Immature proglottid │
+│ • 1 Mature proglottid   │
+│ • 1 Gravid proglottid   │
+└─────────────────────────┘
+```
+
+#### Reproductive Capacity:
+- Each gravid proglottid contains **~587 fertile eggs**
+- Eggs eliminated in dog feces
+- Eggs: 30-40 μm, ovoid, extremely resistant to environmental conditions
+
+---
+
+## Life Cycle of Cystic Echinococcosis
+
+#### Figure 72.1: Complete Life Cycle (32-80 days)
+
+#### Definitive Host (Dog):
+1. Adult tapeworm in small intestine
+2. Gravid proglottids release eggs in feces
+
+#### Intermediate Host (Sheep/Herbivore):
+3. Eggs ingested → hatch in small intestine
+4. Oncospheres penetrate intestinal wall
+5. Migrate via circulation to liver/lungs
+6. Develop into thick-walled hydatid cysts
+
+
+## Life Cycle of Cystic Echinococcosis
+
+#### Transmission Back to Definitive Host:
+- Dog ingests cyst-containing organs
+- Protoscolices evaginate, attach to intestinal mucosa
+- Develop into adult stages
+
+#### Human Infection:
+- Aberrant intermediate host
+- Ingest eggs from contaminated dog, water, food, or soil
+
+---
+
+## Hydatid Cyst Development in Human Hosts
+
+#### After Egg Ingestion:
+1. Oncospheres released in intestine
+2. Penetrate intestinal mucosa
+3. Enter portal circulation
+4. Lodge primarily in liver (first capillary bed)
+5. Develop into hydatid cysts
+
+## Hydatid Cyst Development in Human Hosts
+
+::: {.columns}
+:::{.column width="50%"}
+#### Cyst Growth Characteristics:
+- **Growth rate:** 1-5 cm/year
+- **Size range:** 1-20 cm diameter
+- **Pattern:** Expansive concentric enlargement
+- **Location preference:** Right lobe > left lobe (portal blood flow pattern)
+
+:::
+
+:::{.column width="50%"}
+#### Clinical Implications:
+- May remain undetected for years
+- Can reach very large sizes before becoming symptomatic
+- Rupture may cause secondary echinococcosis
+
+
+:::
+:::
+
+
+---
+
+## Hydatid Cyst Anatomy: Three Distinct Layers
+
+#### Figure 72.2: Cyst Structure
+
+```
+┌─────────────────────────────────┐
+│ PERICYST (Adventitial Layer)    │ ← Outermost
+│ • Host tissue response          │
+│ • Fibrous capsule formation     │
+│ • May calcify over time         │
+├─────────────────────────────────┤
+│ ECTOCYST (Laminated Membrane)   │ ← Middle
+│ • Acellular, elastic layer      │
+│ • Egg-white appearance          │
+│ • Physiochemical barrier        │
+│ • Allows nutrient passage       │
+├─────────────────────────────────┤
+│ ENDOCYST (Germinal Epithelium)  │ ← Innermost
+│ • ONLY living parasite component│
+│ • Produces other layers         │
+│ • Generates hydatid fluid       │
+│ • Forms brood capsules          │
+└─────────────────────────────────┘
+```
+
+---
+
+## Internal Cyst Components
+
+#### Hydatid Fluid:
+- Clear or pale yellow
+- Neutral pH
+- Contains: NaCl, proteins, glucose, ions, lipids, polysaccharides
+- **Antigenic properties**
+- May contain protoscolices and hooklets
+
+#### Hydatid Sand:
+- White sediment formed when vesicles rupture
+- Contains: protoscolices, hooklets, debris
+
+
+## Internal Cyst Components
+
+#### Brood Capsules:
+- Formed by invaginations of germinal layer
+- Produce protoscolices
+
+#### Daughter Cysts:
+- Similar structure to mother cyst (laminated + germinative membrane)
+- **Key difference:** No adventitial layer
+- Fill cyst interior as cyst matures
+
+---
+
+## Global Distribution of Cystic Echinococcosis
+
+#### High-Endemic Regions:
+```
+🌍 Mediterranean basin
+🌍 Central Asia & Western China
+🌍 East Africa & North Africa  
+🌍 South America (Argentina, Chile, Uruguay, Peru, Brazil)
+🌍 Parts of Australia (rural NSW)
+```
+
+#### Prevalence Categories:
+| Prevalence (%) | Color Code | Regions |
+|---------------|------------|---------|
+| >50.00 | Darkest | Central Asia, parts of South America |
+| 25.01-50.00 | Dark | Mediterranean, Andean regions |
+| 5.01-25.00 | Medium | Eastern Europe, parts of Africa |
+| 1.01-5.00 | Light | Scattered endemic foci |
+| 0.0001-1.00 | Lightest | Sporadic cases |
+
+> Global burden: ~1 million cases at any time; 1-3 million DALYs annually
+
+---
+
+## Geographic Distribution of Zoonotic Strains
+
+#### Most Frequent Human Pathogen:
+**Sheep strain (G1)** - Widely distributed across all continents
+
+#### Regional Strain Patterns:
+- **Europe:** G1 predominant; annual incidence 4-8/10⁵ in Mediterranean
+- **Turkey:** 5.7/10⁵ population; high prevalence in Anatolia
+- **Central Asia/Western China:** 270 million at risk (58% of population)
+- **China:** Higher female infection rates (domestic activities: feeding dogs, collecting dung, milking)
+- **Australia:** Highest rates in rural NSW (23.5/10⁵); established in native wallabies/kangaroos
+- **South America:** Endemic in Argentina, Uruguay, Chile, Southern Brazil, Peru, Bolivia
+
+---
+
+## Regional Epidemiology Details
+
+
+::: {.columns}
+:::{.column width="50%"}
+#### Europe (2017 Data):
+- 412 confirmed CE cases (11% decrease from 2016)
+- Bulgaria: 53% of cases
+- Germany: 18% of cases
+- Age distribution: 25-44 years (35%), 45-64 years (25%)
+- **Increasing trends:** Austria, Germany, Lithuania, Poland
+- **Decreasing trends:** Slovakia, Spain
+
+:::
+
+:::{.column width="50%"}
+#### Central Asia & Western China:
+- **270 million people at risk** (58% of regional population)
+- **Gender disparity:** Females at higher risk due to:
+  - Feeding dogs
+  - Collecting yak dung for fuel
+  - Milking livestock
+- Nomadic/seminomadic pastoral lifestyle = major risk factor
+
+:::
+:::
+
+
+
+---
+
+## South American Epidemiology
+
+::: {.columns}
+:::{.column width="50%"}
+#### Sub-Regional Initiative Countries:
+Argentina, Brazil, Chile, Peru, Uruguay
+
+#### 5-Year Surveillance Data:
+- **29,556 cases** reported to official authorities
+- Incidence range: **0.012 to 13 per 100,000 inhabitants** (by country)
+
+:::
+
+:::{.column width="50%"}
+#### Argentina - Three High-Incidence Areas:
+```
+1. Patagonia Region (South)
+   • Neuquén & Chubut provinces: highest national rates
+   • Neuquén mean annual incidence: 8.9/10⁵ inhabitants
+   • Control program ongoing since 1970
+
+2. Northwest Region
+   • Catamarca, Santiago del Estero, Salta provinces
+
+3. Eastern Region
+   • Entre Ríos province
+```
+
+#### Other South American Rates:
+- Southern Chile: 6-20/10⁵ population in selected areas
+
+:::
+:::
+
+
+
+---
+
+## Global Economic Impact
+
+::: {.columns}
+:::{.column width="40%"}
+#### Human Health Burden:
+- **1-3 million disability-adjusted life years (DALYs)** annually
+- Significant morbidity from complications and treatment
+
+:::
+
+:::{.column width="60%"}
+#### Livestock Industry Impact:
+- **>$3 billion USD per annum** in economic losses
+- Mechanisms:
+  - Condemnation of infected organs at slaughter
+  - Reduced meat production
+  - Reduced wool quality/yield
+  - Trade restrictions in endemic regions
+
+
+:::
+:::
+
+
+#### Key Challenge:
+> "Despite the substantial socioeconomic impact, echinococcosis remains a neglected zoonosis in certain countries."
+
+---
+
+## Natural History: Two Phases
+
+#### Phase 1: Cyst Growth & Risk of Rupture
+```
+Intracystic pressure ↑ 
+       ↓
+Hydatid liquid pressure > Pericyst resistance
+       ↓
+Risk of cyst rupture
+```
+
+#### Phase 2: Aging & Involution
+```
+Overproduction of scolices & daughter cysts
+       ↓
+Cyst fills with scolices and membranes
+       ↓
+Hydatid fluid replaced by solid components
+       ↓
+Pericyst calcification occurs
+```
+
+#### Clinical Implications:
+- Symptoms result from: compression, distortion of structures, infection, erosion into adjacent spaces
+- **Complications occur in ~1/3 of patients** with liver hydatid disease
+
+---
+
+## Complications: Compressive Effects
+
+### Mass Effect on Adjacent Structures
+
+```
+✓ Biliary tree → obstructive jaundice
+✓ Portal vein → presinusoidal portal hypertension  
+✓ Hepatic veins/IVC → Budd-Chiari syndrome
+✓ Right diaphragm → respiratory symptoms
+✓ Stomach → early satiety, nausea
+✓ Kidney → hydronephrosis (rare)
+```
+
+### Compensatory Changes (Figure 72.5):
+- Atrophy of lobe/segment containing cyst
+- Compensatory hypertrophy of residual parenchyma
+- Especially pronounced in segments II/III with right lobe cysts
+
+---
+
+## Compressive Effects: CT Imaging Example
+
+#### Figure 72.6: Central Liver Cyst with Bile Duct Compression
+
+#### CT Findings:
+```
+• Large central hydatid cyst
+• Compression of intrahepatic bile ducts
+• Dilatation of biliary ducts in left lateral sector
+• Mass effect on adjacent hepatic parenchyma
+```
+
+#### Clinical Manifestations:
+- Abdominal pain (right upper quadrant/epigastric)
+- Jaundice (if biliary obstruction)
+- Lower limb swelling (if IVC compression)
+- Ascites (if portal/venous obstruction)
+
+#### Rare Vascular Complications:
+- Portal vein thrombosis with cavernous transformation
+- Secondary Budd-Chiari syndrome from hepatic vein compression
+
+---
+
+## Complications: Secondary Bacterial Infection
+
+::: {.columns}
+:::{.column width="50%"}
+### Epidemiology:
+- Occurs in **~10% of hydatid cysts**
+- Usually latent and subacute presentation
+
+### Mechanisms:
+1. Hematogenous seeding during bacteremia
+2. Communication with bile duct allowing ascending infection
+
+:::
+
+:::{.column width="50%"}
+### Clinical Presentation:
+```
+✓ Pain in right hypochondrium
+✓ Hepatomegaly  
+✓ Fever
+✓ Leukocytosis
+✓ Elevated inflammatory markers
+```
+
+### Diagnostic Challenge:
+- Imaging findings may mimic liver abscess
+- Differentiation from uninfected ruptured cyst can be difficult
+
+:::
+:::
+
+
+
+---
+
+## Complications: Intrabiliary Rupture
+
+#### Most Common Complication:
+- **Up to 42%** of patients in some series
+- One of the most serious complications
+
+#### Pathogenesis Theories:
+
+| Theory | Mechanism |
+|-----|-----------------------|
+| **Compression Theory** | Cyst compression → bile duct wall necrosis → communication |
+| **Pressure Theory** | High intracystic pressure (35 cm H₂O) → atrophy → rupture of small biliary radicals |
+
+#### Key Statistics:
+- Up to **90% of liver hydatid cysts** have some communication during evolution
+- **65%** of cystobiliary ruptures in right hemiliver
+- **21%** in left hemiliver
+- **14%** bilateral distribution
+
+---
+
+## Intrabiliary Rupture: Minor vs. Major Communications
+
+
+::: {.columns}
+:::{.column width="50%"}
+#### Minor Communications (<5 mm):
+```
+✓ Cystic fluid drainage into bile ducts
+✓ Rarely find hydatid material in bile duct
+✓ May cause transient jaundice relief (pressure reduction)
+✓ Can produce flushing and urticaria
+```
+
+:::
+
+:::{.column width="50%"}
+#### Major Communications (3-17% of cases):
+```
+✓ Passage of cyst contents into bile duct:
+  - Hydatid membranes
+  - Daughter cysts
+  - Protoscolices
+✓ Classic triad: Biliary colic + Jaundice + Urticaria
+✓ May present with fever if cholangitis develops
+✓ Risk of secondary obstruction at duodenal papilla
+✓ Potentially fatal anaphylactic reaction possible
+```
+
+
+:::
+:::
+
+
+---
+
+## Predictors of Cystobiliary Fistula
+
+::: {.columns}
+:::{.column width="50%"}
+#### Cyst Characteristics:
+```
+✓ Size: Most important predictor
+  • Cutoff values: 7.5-14.5 cm (most common: 10 cm)
+✓ Location: Central/hilar cysts > peripheral cysts
+✓ Wall characteristics: Fibrotic or calcified pericyst
+✓ Number: Multiple cysts increase risk
+✓ Gharbi type: Type IV associated with higher risk
+```
+
+:::
+
+:::{.column width="50%"}
+#### Laboratory Predictors:
+```
+✓ Leukocytosis
+✓ Eosinophilia
+✓ Hyperbilirubinemia
+✓ Elevated alkaline phosphatase (ALP)
+✓ Elevated gamma-glutamyl transpeptidase (GGT)
+```
+
+:::
+:::
+
+
+
+#### Clinical Importance:
+> Preoperative and intraoperative identification of predictive factors is crucial due to major morbidity risk from cystobiliary rupture
+
+---
+
+## Surgical Finding: Major Biliary Communication
+
+#### Figure 72.7: Cystobiliary Fistula Visualization
+
+#### Operative Photograph Description:
+```
+• Right liver hydatid cyst treated with partial pericystectomy
+• Surgical explorer passes through major biliary communication
+• Explorer enters residual cyst cavity from bile duct
+• Demonstrates direct cyst-bile duct connection
+```
+
+#### Surgical Implications:
+- Requires careful inspection of residual cavity
+- Biliary fistulas must be identified and managed
+- Options: suturing, biliary decompression, or drainage procedures
+
+---
+
+## Complications: Intraperitoneal Rupture
+
+::: {.columns}
+:::{.column width="50%"}
+### Epidemiology:
+- **Third most common complication** (1-16% of cases)
+- After intrabiliary rupture and allergic reactions
+
+### Mechanisms:
+```
+✓ Spontaneous: Intracystic pressure >50 cm H₂O
+✓ Traumatic: Blunt abdominal trauma
+```
+
+:::
+
+:::{.column width="50%"}
+### Risk Factors:
+```
+✓ Young age (higher trauma frequency)
+✓ Cyst diameter >10 cm
+✓ Superficial cyst location
+```
+
+### Clinical Presentation:
+- Mild to severe abdominal pain
+- Nausea, vomiting
+- Allergic reactions (spectrum from urticaria to anaphylaxis)
+- Peritoneal irritation if purulent/biliary content
+
+:::
+:::
+
+
+
+---
+
+## Allergic Reactions in Peritoneal Rupture
+
+### Pathophysiology:
+```
+Antigenic fluid released into peritoneal cavity
+       ↓
+Absorbed into systemic circulation
+       ↓
+Acute allergic manifestations
+```
+
+### Reaction Spectrum:
+
+| Severity | Frequency | Manifestations |
+|----------|-----------|---------------|
+| **Minor** | 16.7-25% | Urticaria, macular eruption, flushing |
+| **Moderate** | Variable | Peripheral edema, pruritus, bronchospasm |
+| **Severe** | 1-12.5% | Syncope, hypotension, anaphylaxis |
+
+### Secondary Echinococcosis Risk:
+> Insidious rupture → release of brood capsules, scolices, daughter cysts → **multiple peritoneal cysts** (secondary echinococcosis)
+
+---
+
+## Complications: Intrathoracic Rupture
+
+### Epidemiology:
+- Frequency declining: **16% → 2.5%** of reported cases
+- Serious complication involving pleura, lung parenchyma, bronchi
+
+### Predisposing Factors:
+```
+✓ Cyst location at liver dome
+✓ Intimate hepatic dome-diaphragm contact
+✓ Thoracoabdominal pressure gradient (aspirates cyst contents upward)
+✓ Diaphragm erosion by ischemia-necrosis from cyst inflammation/superinfection
+✓ Tissue corrosion by bile
+```
+
+### Progression Sequence:
+```
+Hepatic cyst → Diaphragm erosion → Pleural involvement 
+→ Pulmonary parenchymal cyst → Bronchial fistulization 
+→ Biliobronchial fistula (ultimate stage)
+```
+
+---
+
+## Intrathoracic Rupture: Clinical Features
+
+### Predominant Pulmonary Symptoms:
+```
+✓ Cough
+✓ Expectoration  
+✓ Dyspnea
+✓ Hemoptysis
+✓ Hydatid vomica (expectoration of cyst material)
+```
+
+### Abdominal Symptoms (less frequent):
+```
+✓ Right upper quadrant pain
+✓ Hepatomegaly
+```
+
+### Pathognomonic Sign:
+**Bilioptysis** (bile-stained sputum)
+
+- Clinically evident in **28.6-40.6%** of cases
+- Indicates biliobronchial fistulization
+
+---
+
+## Other Complications (Rare)
+
+### Cutaneous Fistulization:
+- Extremely rare
+- Usually silent presentation
+- More common in elderly patients
+- Spontaneous cyst-to-skin communication
+
+### Gastrointestinal Rupture:
+- Incidence: **~0.5%**
+- Clinical presentations:
+  - **Hydatidemeses:** Hydatid cysts/membranes in vomitus
+  - **Hydatidenteria:** Passage of hydatid membranes in stools
+
+## Other Complications (Rare)
+
+### Cysto-Venous Communication:
+- Subacute chronic fistula to IVC (exceptionally rare)
+- Transit of daughter cysts/membranes → bloodstream → right atrium → pulmonary embolism
+- **Most severe complications:**
+  - Acute exsanguinating hemorrhage
+  - Anaphylactic shock (high mortality)
+- Facilitated by: Intracystic pressure > central venous pressure
+
+---
+
+## Diagnosis of Liver Hydatid Disease
+
+### Clinical Context:
+- Most infections **asymptomatic for prolonged periods**
+- Growth rate: 1-5 mm diameter/year
+- 20-40% of infected people have **multiple cysts**
+
+### Diagnostic Triad:
+
+1. Clinical findings + exposure history
+2. Imaging techniques (US/CT/MRI)
+3. Serologic testing
+
+
+## Diagnosis of Liver Hydatid Disease
+
+### Diagnostic Classification (WHO-IWGE):
+
+| Category | Criteria |
+|----------|----------|
+| **Possible** | Clinical/epidemiologic history + imaging OR serology positive |
+| **Probable** | Clinical + epidemiologic + imaging + serology (2 tests) positive |
+| **Confirmed** | Above + (1) protoscolices demonstrated OR (2) US appearance changes |
+
+---
+
+## Laboratory Tests in Hydatid Disease
+
+#### Routine Laboratory Findings:
+```
+✓ Uncomplicated cysts: Usually normal
+✓ Alkaline phosphatase: Elevated in ~1/3 of patients
+✓ Biliary rupture: Marked transient elevation of cholestatic enzymes
+✓ Associated findings: Hyperamylasemia, eosinophilia
+```
+
+#### Serology - Primary Diagnostic Tool:
+> "CE is one of the few parasitic infections in which the basis for laboratory diagnosis is primarily serology."
+
+#### Important Caveats:
+- **30-40% of patients:** No detectable antibodies (even with circulating antigens)
+- False positives: Other tapeworm infections, cancer, chronic immune disorders
+- Seronegative: Senescent, calcified, or dead cysts
+- Antibody detection depends on: cyst location, integrity, viability
+
+---
+
+## Serologic Diagnostic Methods
+
+### Antigen Targets:
+- **Antigen B** and **Antigen 5 (Ag5)**: Most specific for immunologic diagnosis
+
+
+## Serologic Diagnostic Methods
+
+### Available Techniques:
+
+| Method | Sensitivity | Specificity | Notes |
+|--------|------------|-------------|-------|
+| **Immunoelectrophoresis (IEP)** | 91-95% | High | Post-treatment follow-up; not for screening |
+| **ELISA (IgG)** | 88.23-100% | Variable | Quantitative; crude vs. purified antigens affect specificity |
+| **Western Blot** | 72-97% | 96-100% | Antigen fractionation; higher accuracy |
+| **PCR/DNA detection** | High | High | Species/genotype discrimination; clinical biopsy applications |
+
+
+## Serologic Diagnostic Methods
+
+### Interpretation Considerations:
+- Antigen composition/quality
+- Geographic area (endemic vs. non-endemic)
+- Circulating EG strain
+- Patient clinical data
+
+---
+
+## Imaging: Plain Radiography
+
+::: {.columns}
+:::{.column width="60%"}
+#### Abdominal/Chest X-ray Findings:
+
+- Thin rim of calcification delineating cyst (20-30% of cysts)
+- Curvilinear or ring-like calcification pattern (pericyst)
+- Elevated hemidiaphragm
+- Poorly moving right diaphragm
+- Hepatomegaly
+
+
+#### Limitations:
+- **Nonspecific findings**
+- Low sensitivity for uncomplicated cysts
+- Primarily useful for detecting calcification patterns
+
+:::
+
+:::{.column width="40%"}
+#### Role in Modern Practice:
+- Initial screening in resource-limited settings
+- Complementary to cross-sectional imaging
+- Useful for detecting thoracic complications
+
+:::
+:::
+
+
+
+---
+
+## Ultrasound: First-Line Imaging Modality
+
+### Advantages:
+```
+✓ Diagnostic accuracy: ~90%
+✓ Wide geographic coverage
+✓ Early diagnosis at primary care facilities
+✓ Appropriate for population screening
+✓ Real-time guidance for interventions
+✓ Cost-effective
+```
+
+### Characteristic Findings:
+
+| Feature | Description |
+|---------|-------------|
+| **Simple cyst** | Anechoic univesicular, well-defined borders, posterior enhancement |
+| **Hydatid sand** | Dependent debris moving with position change |
+| **Wall calcification** | Echogenic rim; localized thickening suggests daughter cysts |
+| **Water lily sign** | Separated membranes (collapsed germinal layer); undulating linear echoes |
+| **Daughter cysts** | "Cartwheel" or "honeycomb" appearance; cysts within cyst |
+| **Solid-appearing** | Matrix of membranes/debris/scolices filling cyst cavity |
+
+---
+
+
+## Table 72.1: WHO-IWGE Ultrasound Classification
+
+| Gharbi | WHO-IWGE | Description | Activity |
+|----|-----|---------------------------|-------|
+| **I** | CE1 | Unilocular, echo-free, double-walled; "snowflake effect" with protoscolices | **Active** |
+| **III** | CE2 | Multivesicular, multiseptated; "wheel-like" septations; "rosette/honeycomb" daughter cysts | **Active** |
+| **II** | CE3A | Partial/total detachment of laminated layer; floating undulating membranes; "water lily" sign | **Transitional** |
+| **III** | CE3B | Daughter cysts in solid matrix | **Transitional** |
+| **IV** | CE4 | Heterogeneous; "ball of wool" appearance; no daughter cysts | **Inactive** |
+| **V** | CE5 | Solid matrix with calcified wall; partial to complete calcification | **Inactive** |
+
+### Clinical Relevance:
+- Groups cysts into **active, transitional, inactive** categories
+- Critical for **treatment planning and follow-up**
+- Standardized for global application
+
+---
+
+## Advanced Ultrasound Techniques
+
+#### Contrast-Enhanced Ultrasound (CEUS):
+```
+✓ Distinguishes hydatid cyst from neoplasm
+✓ Avascular cysts: No contrast enhancement
+✓ Perifocal inflammation: Nodular peripheral ring enhancement
+```
+
+#### Intraoperative Ultrasound:
+```
+✓ Essential surgical guidance tool
+✓ Identifies cyst relationships to vessels/bile ducts
+✓ Detects occult cystobiliary communications
+✓ Guides complete cyst evacuation
+```
+
+#### Percutaneous Procedure Guidance:
+```
+✓ Real-time needle/catheter placement
+✓ Monitors scolicidal agent distribution
+✓ Assesses cyst response during treatment
+✓ Detects complications (e.g., leakage)
+```
+
+#### FASE Training:
+> Focused Assessment with Sonography for Echinococcosis - teachable to nonspecialists; implemented in Argentina since 2000
+
+---
+
+## Computed Tomography (CT) Imaging
+
+### Advantages Over Ultrasound:
+```
+✓ Not operator-dependent
+✓ Accurate "roadmap" of cyst locations
+✓ Highest sensitivity: 94-100% (multidetector CT)
+✓ Best for number, size, location assessment
+✓ Detects extrahepatic cysts
+✓ Identifies complications (infection, biliary rupture)
+```
+
+### Characteristic CT Findings:
+```
+✓ Cyst density measurements (parasitic vs. non-parasitic differentiation)
+✓ Calcification patterns (all cyst stages; not conclusive of regression)
+✓ Internal architecture (daughter cysts, membranes, septations)
+✓ Mass effect on adjacent structures
+✓ Contrast enhancement patterns (pericyst, inflammatory changes)
+```
+
+---
+
+## Computed Tomography (CT) Imaging
+
+### Clinical Utility:
+- Cyst staging and activity assessment
+- Surgical planning (cyst relationships, resectability)
+- Treatment response monitoring
+- Complication detection
+
+---
+
+## Magnetic Resonance Imaging (MRI)
+
+### Superior Capabilities:
+
+- Internal cyst composition detail
+- Cyst wall defect visualization
+- Biliary involvement assessment
+- Neural structure evaluation
+- Post-surgical residual lesion evaluation
+- Recurrence detection
+- Venous system changes (obstruction, thrombosis, invasion)
+- Cystobiliary fistula identification
+
+---
+
+## Magnetic Resonance Imaging (MRI)
+
+### Characteristic MRI Findings:
+
+| Sequence | Finding |
+|----------|---------|
+| **T2-weighted** | Low signal intensity rim (collagen-rich pericyst) |
+| **T1-weighted** | Daughter cysts hypointense relative to intracystic fluid |
+| **Post-gadolinium** | Slight pericyst enhancement |
+| **Membrane changes** | "Snake sign" with collapsed/damaged membranes |
+| **Diffusion-weighted** | Differentiates hydatid from simple cysts; cyst type characterization |
+
+## Magnetic Resonance Imaging (MRI)
+
+### MRCP Utility:
+- Evaluates biliary tree involvement
+- Detects cystobiliary communications
+- Identifies biliary dilatations from cyst compression
+
+---
+
+## Table 72.2: Cyst-IVC Contact Classification
+
+| Type | Location | IVC Relationship |
+|------|----------|-----------------|
+| **I** | Segments VIII, I, IVA | Contact behind hepatic veins/right atrial cavity |
+| **II** | Segments VI and/or II/III/IV | Lateral contact with IVC |
+| **III** | Central location | Encasement of IVC; massive involvement |
+
+### Clinical Significance:
+- Guides surgical approach selection
+- Predicts complexity of resection
+- Informs risk of vascular complications
+
+---
+
+## Endoscopic Retrograde Cholangiopancreatography (ERCP)
+
+### Diagnostic Role:
+- Investigates suspected minor cystobiliary communications (after non-invasive methods)
+- Essential for major biliary rupture diagnosis
+- Direct visualization of:
+  - Linear wavy filling defects (laminated membranes)
+  - Hydatid material in common bile duct/duodenum
+  - Material protruding from ampulla of Vater
+  - Direct catheter passage from bile duct into cyst
+
+
+
+## Endoscopic Retrograde Cholangiopancreatography (ERCP)
+
+#### Therapeutic Applications:
+
+
+::: {.columns}
+:::{.column width="50%"}
+- Preoperative: Clearance of CBD before surgery
+  - Sphincterotomy
+  - Balloon/basket extraction of membranes
+  - Nasobiliary drainage
+  - Biliary stenting
+
+:::
+
+:::{.column width="50%"}
+- Postoperative: Management of biliary complications
+  - Persistent biliary fistula
+  - Obstructive jaundice
+  - Sclerosing cholangitis
+  - Sphincter of Oddi stenosis
+
+
+:::
+:::
+
+::: {.callout-note}
+Sensitivity: 86-100% for intrabiliary rupture diagnosis
+:::
+
+---
+
+## Imaging Complications: Intrabiliary Rupture
+
+
+::: {.columns}
+:::{.column width="50%"}
+#### Ultrasound Findings:
+
+- Echogenic cyst with hypoechoic/snowstorm pattern
+- Rounded/linear hyperechoic structures in CBD (no posterior shadowing)
+- Dilated bile ducts with hyperechoic vesicles/membranes
+
+
+#### CT Findings:
+
+- High attenuation content in common bile duct
+- Intracystic fat (bile lipid content)
+- Air content/air-fluid levels (indirect signs)
+
+:::
+
+:::{.column width="50%"}
+#### MRI/MRCP Findings:
+
+- T1: High intensity content in CBD
+- T2/MRCP: Hypointense filling defects
+- Direct fistulous track visualization
+- Hepatobiliary contrast agent leakage into cyst (with liver-specific agents)
+
+
+#### ERCP (if performed):
+
+- Direct demonstration of communication
+- Linear wavy filling defects of membranes
+
+:::
+:::
+
+
+
+---
+
+
+## Treatment Modalities: General Principles
+
+::: {.columns}
+:::{.column width="50%"}
+### Four Major Options:
+
+- Surgery (gold standard for complicated/large cysts)
+- Interventional/Percutaneous approaches
+- Medical therapy (benzimidazoles)
+- Watch-and-wait (selected inactive cysts)
+
+
+:::
+
+:::{.column width="50%"}
+### Decision Factors:
+```
+✓ Patient performance status
+✓ Cyst characteristics (size, location, stage, complications)
+✓ Physician/team expertise
+✓ Available medical resources
+✓ Patient adherence to long-term monitoring
+```
+
+### Treatment Goals:
+```
+✓ Complete parasite elimination (destroy/resect germinal layer)
+✓ Prevent recurrent disease
+✓ Minimize morbidity and mortality
+```
+
+:::
+:::
+
+
+
+> No consensus on optimal treatment due to lack of longitudinal controlled studies or RCTs
+
+---
+
+## Surgical Treatment: Core Principles
+
+::: {.columns}
+:::{.column width="50%"}
+#### Four Fundamental Principles:
+
+- Remove ALL infective cyst components
+- Avoid spillage of cyst contents into abdomen
+- Address the residual cavity appropriately
+- Identify and manage biliary/adjacent structure communications
+
+
+:::
+
+:::{.column width="50%"}
+#### Indications for Surgery:
+```
+✓ Complicated cysts (rupture, infection, biliary communication)
+✓ Large CE2 and CE3b cysts with multiple daughter cysts
+✓ Superficial cysts at risk for spontaneous/traumatic rupture
+✓ Symptomatic cysts causing mass effect
+```
+
+#### Contraindications:
+```
+✓ Diffuse hepatic cysts
+✓ Inaccessible cyst locations
+✓ Dead/inactive cysts (CE4, CE5; partially/totally calcified)
+✓ Very small asymptomatic cysts
+✓ Patients unfit for surgery (comorbidities)
+```
+
+:::
+:::
+
+
+
+---
+
+## Conservative Surgery Technique
+
+#### Definition:
+- Pericyst NOT resected
+- Germinal layer + ectocyst (laminated membrane) resected
+
+#### Procedural Steps (Figure 72.13):
+```
+1. Complete peritoneal exploration
+2. Isolate cyst area with packs (may immerse in scolicidal agent)
+3. Protect surrounding tissues from parasite spread
+4. Puncture/incise cyst at most accessible point
+5. Aspirate all contents; remove germinative membrane
+6. Flush cavity with scolicidal agent
+7. Clean pericyst; remove hidden daughter cysts
+8. Inspect inner surface; peel laminated membrane
+9. Deroof cyst by partial pericyst resection
+10. Examine residual cavity for biliary fistulas
+11. Manage cavity: omentoplasty and/or drainage
+```
+
+#### Advantages:
+- Safe, technically simple, short operative time
+- Feasible regardless of cyst location
+- Suitable for low-complexity centers
+
+---
+
+## Residual Cavity Management
+
+```
+After cyst evacuation + partial pericyst resection
+                    │
+        ┌───────────┴───────────┐
+        ▼                       ▼
+   Capitonnage            Omentoplasty
+        │                       │
+        ▼                       ▼
+• Suturing cystic wall    • Omentum placement
+• Obliterative procedure  • Natural absorptive capacity
+• Still used in endemic  • Decreases infection risk
+  regions                • Minimizes fistula formation
+```
+
+#### Additional Options:
+```
+✓ Simple drainage (with/without suction)
+✓ Marsupialization (rarely used)
+✓ Cystopericystectomy (radical approach)
+```
+
+#### Key Principle:
+> The omentum has natural absorptive capacity that decreases infection risk and minimizes fistula formation
+
+---
+
+## Radical Surgery Techniques
+
+#### Definition:
+- Pericystic membrane resected along with parasitic contents
+- With or without liver resection
+
+#### Technique 1: Pericystectomy
+```
+✓ Also called: Cystopericystectomy, capsulectomy, radical cystectomy, subadventitial cystectomy
+✓ Follows periadventitial plane created by cyst
+✓ Avoids injury to vascular/biliary structures
+✓ Can be "closed" (cyst wall intact) or "open" (cyst opened/sterilized first)
+✓ Total vs. subtotal (≥80% removal) based on vascular proximity
+```
+
+#### Advantages of Pericystectomy:
+```
+✓ Preserves normal liver parenchyma
+✓ Complete parasite + pericyst resection
+✓ Resilient residual cavity (easy to obliterate)
+✓ Adequate treatment of biliary communications
+```
+
+---
+
+## Liver Resection for Hydatid Disease
+
+#### Indications (Selected Cases):
+```
+✓ Multiple unilobar cysts
+✓ Large cysts occupying nearly entire lobe
+✓ Complicated cysts (severe biliary involvement, vascular encasement)
+✓ Cysts near major vascular/biliary structures
+✓ Peripherally located cysts (especially left lateral segment)
+✓ Pedunculated lesions
+✓ Recurrent cysts after suboptimal prior treatment
+✓ Cysts with severe hilar bile duct involvement (no reconstruction possible)
+```
+
+#### Principles:
+```
+✓ Parenchymal-sparing techniques preferred when possible
+✓ Anatomic vs. nonanatomic resection based on cyst distribution
+✓ Major hepatectomy: Higher risk; reserve for specific indications
+✓ Always weigh risks/benefits: Hydatid disease is BENIGN
+```
+
+#### Technical Considerations:
+- Preoperative imaging critical for planning
+- Intraoperative ultrasound guidance valuable
+- Meticulous technique to avoid spillage
+
+---
+
+## Special Challenge: Cysts Contacting Inferior Vena Cava
+
+### Clinical Significance:
+- Usually asymptomatic
+- When symptomatic: Severe manifestations
+  - IVC thrombosis → cavernomatosis
+  - Budd-Chiari syndrome (location-dependent)
+
+### Surgical Approach:
+```
+✓ Most widely accepted: Conservative surgery
+✓ Decision based on:
+  - Cyst location
+  - Length/circumferential IVC contact
+  - Symptoms
+  - Recurrence status
+  - Surgeon expertise
+```
+
+## Special Challenge: Cysts Contacting Inferior Vena Cava
+
+### Classification-Based Approach (Ramia et al., Table 72.2):
+
+| Type | Recommended Approach | Rationale |
+|------|---------------------|-----------|
+| **I** | Conservative | Complexity/morbidity of radical procedures |
+| **II** | Consider total cystectomy | Longer side contact; sometimes feasible |
+| **III** | Conservative | Massive IVC involvement; high risk |
+
+---
+
+## Scolicidal Substances in Surgery
+
+### Purpose:
+
+- Reduce risk of protoscolex-rich fluid dissemination
+- Prevent recurrence from spillage
+- Protect surrounding organs during procedure
+
+
+### WHO-IWGE Recommendations:
+
+- Surgery: 20% hypertonic saline (preferred)
+- Percutaneous: 20% hypertonic saline OR 95% alcohol
+
+## Scolicidal Substances in Surgery
+
+
+::: {.columns}
+:::{.column width="30%"}
+### Agents to AVOID:
+
+- ❌ Formalin - Severe biliary toxicity; never use
+- ❌ Betadine - Toxic complications; never use
+
+:::
+
+:::{.column width="70%"}
+### Important Safety Considerations:
+
+- MUST check for cystobiliary communication BEFORE using ANY scolicidal agent
+- Toxicity to bile duct mucosa can cause chemical cholangitis
+- Other agents (less harmful but still risky): May cause biliary complications, gas embolism, renal toxicity
+
+
+### Research Directions:
+- Plant extracts and physical methods studied in vitro
+- Clinical application details still lacking
+- Need for rigorous comparative studies
+
+:::
+:::
+---
+
+## Laparoscopic Management of Liver Hydatid Cysts
+
+### Historical Context:
+- First procedure: 1992
+- Initial controversy: Spillage/anaphylaxis concerns
+- Current status: Feasible and safe; avoids laparotomy
+
+### Ideal Candidates:
+
+- Uncomplicated cysts
+- Anterior segment location
+- Liver periphery (away from major vessels/ducts)
+- Cysts amenable to radical approach
+
+## Laparoscopic Management of Liver Hydatid Cysts
+
+### Less Suitable for Laparoscopy:
+
+- Deep parenchymal cysts
+- Cysts near main vasculature
+- Complicated cysts (often require open or conservative laparoscopic approach)
+
+
+### Advantages of Laparoscopy:
+
+- 3x magnification: Better visualization of bile duct leaks within cysts
+- Less blood loss
+- Shorter hospital stay
+- Better cosmesis
+- Faster recovery
+- Lower wound infection rates
+
+
+---
+
+## Surgical Results: Morbidity and Mortality
+
+#### Overall Postoperative Morbidity: 9-42%
+
+::: {.columns}
+:::{.column width="50%"}
+#### Common Complications:
+
+- Biliary fistula (most frequent)
+- Intraabdominal abscess
+- Wound infection
+- Hemorrhage
+
+
+:::
+
+:::{.column width="50%"}
+#### Risk Factors for Morbidity:
+
+- Conservative vs. radical approach (conservative = higher risk in some studies)
+- Advanced age
+- Previous hydatid surgery
+- Cyst size >10 cm
+- Multiple cysts
+- Centrohepatic location
+- Presence of cystobiliary communications
+
+:::
+:::
+
+
+
+## Surgical Results: Morbidity and Mortality
+
+#### Mortality: 0-3.2%
+
+#### Evidence-Based Finding:
+> Recent study: Closed surgical resection techniques associated with lower rate of severe complications (Dindo-Clavien III-IV-V) vs. open procedures
+
+#### Table 72.3 Summary (Selected Series, Last 7 Years):
+- Conservative surgery morbidity: 9.68-42%
+- Radical surgery morbidity: 11.7-19% (often lower)
+- Recurrence rates: 0-8.6% (technique- and experience-dependent)
+
+---
+
+## Recurrence After Surgical Treatment
+
+#### Definition:
+
+- Appearance of new/growing hydatid cysts after therapy
+- Local recurrence: Same site as previously treated cyst
+- Distant recurrence: New site (e.g., peritoneum) from spillage
+
+
+#### Epidemiology:
+
+- Recurrence rates: 0-8.6% (see Table 72.3)
+- Time to recurrence: 3 months to 20 years post-op
+- Despite technical advances, remains major management challenge
+
+## Recurrence After Surgical Treatment
+
+#### Causes of Recurrence:
+
+- Conservative surgery: 
+  - Exogenous vesiculation (material on pericyst outer surface)
+  - Peritoneal soiling during cyst evacuation
+- Incomplete cyst evacuation
+- Undetected cystobiliary communications
+- Surgeon experience/skill (critical factor independent of technique)
+
+
+#### Surveillance Recommendations:
+
+- Abdominal ultrasound for ALL patients post-treatment
+- Schedule: 1 month post-discharge, every 6 months × 4 years, then annually
+- If US suspicious for recurrence → abdominal CT
+
+---
+
+## Management of Recurrence:
+
+- Treatment options similar to primary disease
+- Individualized based on cyst characteristics and patient factors
+
+---
+
+## Treatment of Complicated Cysts: Intrabiliary Rupture
+
+### Preoperative Diagnosis (Frank Fistula):
+
+- Presentation: Obstructive jaundice and/or cholangitis
+- Management: ERCP (diagnostic + therapeutic)
+- Success rate: 80-100%
+- Techniques:
+  - Endoscopic sphincterotomy
+  - Balloon/basket extraction of membranes
+  - Nasobiliary drainage
+  - Biliary stenting
+
+## Treatment of Complicated Cysts: Intrabiliary Rupture
+
+### Intraoperative Management Options:
+
+| Fistula Size | Technique | Notes |
+|--------|---------------|---------|
+| **<5 mm** | Simple suturing + drainage | Risk: prolonged leak, subphrenic abscess |
+| **Any size** | Suturing + biliary decompression | Transcystic tube or T-tube via choledochotomy |
+| **Selected cases** | Transfistular internal drainage | Transhepatic-cystic choledochostomy; low fistula rate |
+| **>5 mm + atrophy** | Radical approach (pericystectomy/hepatectomy) | For large communications with upstream atrophy |
+| **Perihilar + no atrophy** | Conservative + Roux-en-Y hepaticojejunostomy | Selected patients |
+
+---
+
+## Treatment of Complicated Cysts: Intrabiliary Rupture
+
+### Outcomes with Biliary Rupture:
+- Mortality: 1.25-7% (sepsis, liver failure)
+- Morbidity: 16.7-55% (higher than uncomplicated cysts)
+- Complications: Biliary fistula (5-27%), infection, bleeding, abscess
+
+---
+
+## Treatment: Peritoneal and Thoracic Rupture
+
+### Intraperitoneal Rupture:
+
+- Life-threatening: Hemodynamic instability + allergic reactions
+- Immediate medical treatment in emergency setting
+- Surgical principles:
+  - Peritoneal lavage with scolicidal solutions
+  - Careful evaluation of perforated cyst cavities
+  - Evacuation of remaining contents
+  - Wide excision of free cyst edges
+  - Treat primary cyst if patient condition allows (usually conservative)
+- Postoperative: Antihelminthic treatment ASAP to prevent recurrence
+
+## Treatment: Peritoneal and Thoracic Rupture
+
+### Intrathoracic Rupture (Biliobronchial Fistula):
+
+::: {.columns}
+:::{.column width="35%"}
+- Treatment objectives:
+  1. Dry up biliobronchial fistula
+  2. Treat underlying etiology
+  3. Correct associated thoracoabdominal lesions
+
+:::
+
+:::{.column width="65%"}
+- Preoperative preparation:
+  - Respiratory physiotherapy
+  - Targeted antibiotic therapy
+  - Blood transfusion if anemic
+  - Caloric/electrolyte optimization
+- Surgical approaches: Thoracotomy, thoraco-phrenolaparotomy, laparotomy ± thoracotomy
+- Often requires pulmonary parenchymal resection (segmental/lobar)
+- Outcomes: Complications 16% (mostly pleuropulmonary suppuration); Mortality 8.9-39%
+
+:::
+:::
+
+
+
+---
+
+## Percutaneous Treatment: PAIR Technique
+
+### Historical Context:
+- Developed late 1980s
+- First described: Puncture, Aspiration, Injection, Reaspiration (PAIR)
+
+### PAIR Procedure Steps:
+
+1. Puncture cyst using Seldinger technique (US/CT guidance)
+2. Aspirate ~20% of cyst volume
+3. Cystography: Inject 10% estimated volume of contrast
+4. If no extravasation: Aspirate as much cyst fluid as possible
+5. Inject scolicidal agent (e.g., 30% hypertonic saline) to ~1/3 cyst volume
+6. Wait 10-15 minutes
+7. Reaspirate all cyst fluid
+
+
+## Percutaneous Treatment: PAIR Technique
+
+### Goal:
+> Destruction of germinal layer to prevent recurrence
+
+### Modifications:
+- Without reaspiration step
+- Repeated procedures at 3-7 day intervals
+
+### Indications (WHO-IWGE Stage-Based):
+
+- CE1 and CE3a cysts: PAIR or PAIDS
+- PAIR preferred for cysts <5-6 cm diameter
+
+
+---
+
+## Advanced Percutaneous Techniques
+
+### PAIDS (Puncture, Aspiration, Injection, Drainage, Sclerosis):
+
+- Standard catheterization approach
+- After aspiration + scolicidal injection: Place 6-8 French catheter
+- Reaspirate fluid through catheter
+- Keep catheter until drainage <10 mL/day
+- Cystogram to exclude cystobiliary communication
+- Sclerose with 95% ethanol (30-50% estimated cyst volume)
+- Wait 15 minutes, reaspirate, remove catheter
+- If drainage persists: Repeat sclerosis before removal
+
+## Advanced Percutaneous Techniques
+
+### MoCaT and PEVAC (Modified Catheterization):
+
+- Use larger catheters (14-16 French)
+- MAJOR ADVANTAGE: Remove cyst contents PLUS solid components:
+  - Degenerated membranes
+  - Pieces of daughter vesicles
+- Particularly useful for larger/complex cysts
+
+## Advanced Percutaneous Techniques
+
+### Indications by Cyst Type:
+
+- CE1/CE3a: PAIR or PAIDS (catheter technique advantages: obstruction management, fistula control)
+- CE2/CE3b: Challenging; PAIR/PAIDS have high recurrence (32-61.5%); MoCaT lower recurrence (3.8%) but higher complications
+
+
+### Evidence:
+- Meta-analysis (2017): PAIR vs. laparoscopic surgery
+  - PAIR: Better cure rate, fewer complications, lower mortality
+  - Laparoscopy: Lower recurrence
+- Further comparative studies needed
+
+---
+
+## Medical Therapy: Benzimidazole Agents
+
+### Primary Agents:
+
+- Albendazole (ABZ) - Drug of choice
+  - Dosage: 10-15 mg/kg/day
+  - Mechanism: Metabolized to albendazole sulfoxide → inhibits tubulin polymerization → disrupts parasite cell division
+  - Bioavailability: Enhanced by fatty meals
+  
+- Mebendazole (MBZ) - Alternative
+  - Reserved for ABZ intolerance/complications
+  - Lower bioavailability than ABZ
+
+## Medical Therapy: Benzimidazole Agents
+
+
+::: {.columns}
+:::{.column width="50%"}
+#### Pharmacokinetics:
+
+- ABZ sulfoxide penetrates hepatic and non-hepatic cysts
+- Intracystic concentrations satisfactory (interpatient variability)
+- Higher concentrations in small/calcified cysts
+- Plasma levels: Prognostic value not yet established
+
+:::
+
+:::{.column width="50%"}
+#### Adjunctive Agent:
+
+- Praziquantel (40-50 mg/kg/day)
+  - Isoquinolone derivative
+  - Synergistic with benzimidazoles
+  - Increases ABZ sulfoxide levels in serum/cyst fluid
+  - Ideal for pre/post-op prophylaxis (prevents protoscolex implantation)
+  - Less active against germinal layer than ABZ
+
+:::
+:::
+
+
+
+
+
+---
+
+## Medical Therapy: Clinical Applications
+
+#### Indications for Medical Treatment Alone:
+
+- Small/medium isolated cysts
+- Multiple inoperable cysts (liver ± other organs)
+- Cyst types CE1 and CE3 ≤5 cm (current recommendations)
+- Disseminated disease
+- Inoperable patients (comorbidities)
+- Adjunct to surgery/percutaneous procedures
+
+## Medical Therapy: Clinical Applications
+
+#### Cyst Characteristics Favoring Medical Response:
+
+- Recent cysts
+- Thin-walled cysts
+- Active cysts (CE1, CE2, CE3)
+
+
+#### Efficacy Data:
+
+- Significant regression: 30-50% of cases
+- Cure rate: ~30% with medical therapy alone
+- Combined approach (interventional + ABZ): Routinely recommended
+
+
+## Medical Therapy: Clinical Applications
+
+#### Perioperative ABZ Benefits:
+
+- Pre-op + post-op use:
+  - Decreases cyst viability at surgery
+  - Significantly reduces recurrence risk
+
+
+#### Practice Gap:
+> Review of 10,008 patients: 7% received no ABZ; 20% did not report prophylaxis use
+
+---
+
+## Medical Therapy: Monitoring and Safety
+
+### Treatment Duration Guidelines:
+
+- Reasonable indication: ABZ from 1 week BEFORE to 2-3 months AFTER intervention
+- Applicable when cyst has been opened (surgery or PAIR)
+- Criteria for stopping treatment: Not clearly established
+
+## Medical Therapy: Monitoring and Safety
+
+### Adverse Effects:
+
+- Common (mild):
+  - Abdominal pain, nausea, vomiting
+  - Pruritus, dizziness, headache
+  - Alopecia, rash
+
+- Less Common (require monitoring):
+  - Leukopenia
+  - Eosinophilia
+  - Icterus
+  - Mild transaminase elevation
+
+
+## Medical Therapy: Monitoring and Safety
+
+### Monitoring Requirements:
+
+- All patients: Regular blood counts + liver function tests
+- First 6 months after starting therapy: Most critical period
+- ABZ sulfoxide levels: Useful for adherence assessment and dose adjustment
+
+
+### Contraindications:
+
+- Pregnancy
+- Chronic hepatic disease
+- Bone marrow depression
+
+
+---
+
+## Watch-and-Wait Strategy
+
+### Rationale:
+
+- Long-term longitudinal studies show:
+  - Spontaneous cyst disappearance possible
+  - Absence or very slow growth in many asymptomatic cases
+  - Evolution demonstrable by serial ultrasound
+
+### Recommended Indications:
+
+- Degenerating CE4 cysts
+- ALL CE5 type cysts (calcified, inactive)
+- Justification: Detachment of laminated membrane + pericyst degenerative changes (thickening/calcification)
+
+## Watch-and-Wait Strategy
+
+#### Supporting Evidence:
+
+- Recent study: 98% of 53 patients with CE4-CE5 cysts followed ≥2 years
+  - Remained stable
+  - No complications
+  - Supports safety of watch-and-wait for inactive asymptomatic cysts
+
+
+#### Potential Expansion:
+
+- May be suitable for other cyst types (e.g., small CE1 cysts)
+- Requires prospective studies for validation
+
+
+#### Clinical Benefit:
+> Avoids overtreatment with attendant risks and costs in patients who would not benefit from intervention
+
+---
+
+## Follow-up, Prevention, and Control
+
+#### Post-Treatment Surveillance:
+
+- Duration: Minimum 5 years (high relapse rates after surgery; uncertainty after drugs/percutaneous)
+- Schedule:
+  - Every 6 months × first 2 years
+  - Then annually (clinical context-dependent)
+- Monitoring:
+  - Blood counts + transaminases (first 6 months of ABZ therapy)
+  - ABZ sulfoxide levels (adherence assessment, dose adjustment)
+
+## WHO Control Strategy (Target: Elimination by 2050) 
+
+- Safe animal slaughtering conditions:
+  - Offal destruction
+  - Prevent dogs from feeding on infected ungulate organs
+- Dog dosing with praziquantel
+- Sheep vaccination with EG95 vaccine (complementary intervention)
+  - Trials in China and South America
+  - Logistics/costs may limit widespread application in endemic countries
+
+
+#### Public Health Infrastructure:
+
+- Investment in equipment + FASE-like training courses
+- Integration into public health policies for hydatid disease
+- Continuous education for health professionals in endemic regions
+
+
+---
+
+## Alveolar Echinococcosis: Echinococcus multilocularis
+
+#### Epidemiology:
+
+- Endemic in Northern Hemisphere:
+  - North America
+  - Asia (China, Central Asia)
+  - Europe (France, Germany, Switzerland, Austria)
+- Transmission: Ingestion of eggs from fox excrement
+
+## Alveolar Echinococcosis: Echinococcus multilocularis
+
+#### Pathology:
+
+- Alveolar structure: Small vesicles growing slowly
+- Size: Can reach 15-20 cm diameter
+- Growth pattern: INFILTRATIVE, neoplastic-like (vs. encapsulated CE)
+- Metastatic potential: Adjacent/distant organs (lungs, spleen, bone, brain)
+- Vesicle wall structure: Same as Echinococcal cyst (EC)
+
+
+#### Clinical Course:
+
+- Asymptomatic phase: 5-15 years
+- Symptoms (when they develop): Mass effect-related
+  - Abdominal pain, weight loss, fatigue
+
+---
+
+## Alveolar Echinococcosis: Diagnosis
+
+#### Serology:
+
+- High diagnostic sensitivity: 90-100%
+- Specificity: 95-100%
+- Methods: ELISA, Western blot
+- Western blot utility: Distinguishes E. granulosus vs. E. multilocularis in 76% of cases
+- Limitation: Cannot distinguish active vs. inactive forms of either echinococcosis
+
+## Alveolar Echinococcosis: Diagnosis
+
+### Imaging Findings:
+
+| Modality | Characteristic Findings |
+|--------|---------------------------|
+| **Ultrasound** | Irregular limits, scattered calcification, hyperechogenic ring, hypoechoic center, multivesicular appearance; central necrosis may mimic cyst |
+| **CT (unenhanced)** | Tumor-like mass, irregular borders, heterogeneous internal structure, multiple calcifications |
+| **CT (enhanced)** | No significant intralésional enhancement; mild peripheral enhancement (delayed phase) |
+| **MRI** | Small round cysts with weak enhanced solid component; large irregular lesions on T2; T1 better shows hepatic extension to veins/IVC/perihepatic spaces |
+| **FDG-PET** | Detects metabolic activity; useful for treatment monitoring; limited by cost/equipment availability |
+
+---
+
+## Alveolar Echinococcosis: Surgical Treatment
+
+### Key Challenge:
+
+- AE grows along biliary tract → infiltrates liver diffusely beyond primary mass
+- Surgical management similar to hepatic malignancy
+
+
+### Curative Approach:
+
+- Radical resection = ONLY curative procedure
+- Often difficult due to echinococcal dissemination
+- Should be followed by:
+  - 2 years antihelminthic therapy (benzimidazole)
+  - ≥10 years monitoring (recurrence risk)
+- Approach: Open or laparoscopic (based on team experience)
+
+## Alveolar Echinococcosis: Surgical Treatment
+
+### Palliative Surgery:
+
+- Typically NOT indicated
+- Rationale: Endoscopic biliary management + long-term benzimidazole = efficient alternatives
+
+
+### Liver Transplantation:
+
+- Indications: Advanced cases with liver failure + unresectable disease
+- Requirement: NO extrahepatic localizations
+- Important caveat: Not shown superior to long-term conservative therapy
+
+## Alveolar Echinococcosis: Surgical Treatment
+
+### Surgical Trends (Salm et al. review):
+
+- Shift from reductive to curative surgeries in recent years
+- Most authors: No benefit of reductive surgery vs. medical therapy alone
+- Some: Worse survival with reductive surgery (higher progression/complications)
+- WHO recommendation: Avoid reductive surgery; perform curative resections when possible
+
+
+---
+
+## Alveolar Echinococcosis: Surgical Outcomes
+
+### Curative Resection Rates:
+
+- Average: 63% (range: 21-87%) across series
+
+
+### Surgical Margins:
+
+- Significantly correlated with local recurrence and overall survival
+- Expert recommendation: 20 mm margin-free resection to avoid local recurrence
+- Data limitations: Scarce evidence to support specific margin width
+- Reported safety margins: 1-20 mm range
+- Practical approach: ≥1 mm safe distance + adjuvant benzimidazole × ≥2 years → long-term disease-free survival
+
+## Alveolar Echinococcosis: Surgical Outcomes
+
+### Extended Resections:
+
+- Some studies recommend combining liver resection with adjacent organs:
+  - Diaphragm, adrenal gland, lung, pancreas, stomach
+- Unclear if such extensive surgery is indicated in AE
+- Ex vivo liver resection with autotransplantation:
+  - Therapeutic alternative for advanced AE
+  - Concerning outcomes: 30-day mortality 7%; overall mortality 12% (>90 days); median follow-up only 22 months
+  - Indication questionable given good results with benzimidazole therapy alone
+
+
+## Alveolar Echinococcosis: Surgical Outcomes
+
+### Laparoscopic AE Resection:
+
+- Feasible and safe for oncologic disease in experienced hands
+- Little known specifically for AE
+- Preliminary results promising; consistent with oncologic laparoscopy outcomes
+
+
+---
+
+## Alveolar Echinococcosis: Treatment Summary
+
+### Key Principles:
+
+1. Complete liver resection + benzimidazole therapy = ONLY curative treatment
+2. Lifelong benzimidazole therapy alone = Significantly improved survival (valid alternative when surgery not feasible)
+3. Treatment should be tailored to patient condition
+4. Ideally performed in high-volume centers (disease specificity/rarity)
+5. Liver transplantation/extensive surgery: Reserve for exceptional cases
+6. When surgery chosen: Achieving R0 resection = ultimate goal
+
+## Alveolar Echinococcosis: Treatment Summary
+
+### Treatment Algorithm Concept:
+
+Resectable AE → Curative resection + 2 years benzimidazole + 10+ years monitoring
+
+Unresectable AE → Lifelong benzimidazole therapy ± palliative interventions
+
+Liver failure + unresectable → Consider transplantation (strict criteria)
+
+
+## Alveolar Echinococcosis: Treatment Summary
+
+### Critical Success Factors:
+
+- Early diagnosis (before extensive infiltration)
+- Multidisciplinary team approach
+- Access to specialized imaging and interventional techniques
+- Long-term patient adherence to medical therapy and surveillance
+
+
+---
+
+## Key Takeaways: Epidemiology & Pathogenesis
+
+### Global Burden:
+- 2-3 million echinococcosis cases worldwide; CE = >95%
+- 1 million prevalent cases; 1-3 million DALYs annually
+- \>$3 billion annual economic impact on livestock
+
+### High-Risk Regions:
+- Mediterranean, Central Asia, Western China, East/North Africa, South America, rural Australia
+
+
+## Key Takeaways: Epidemiology & Pathogenesis
+
+### Transmission Cycle:
+- Definitive hosts: Dogs/canids (adult worms in intestine)
+- Intermediate hosts: Sheep/herbivores (cysts in organs)
+- Humans: Aberrant intermediate hosts (ingest eggs from contaminated environment)
+
+### Cyst Biology:
+- Growth: 1-5 cm/year; may remain asymptomatic for years
+- Structure: Three layers (pericyst-host, ectocyst-laminated, endocyst-germinal)
+- Complications in ~1/3: Rupture (biliary/peritoneal/thoracic), infection, compression
+
+---
+
+## Key Takeaways: Diagnosis
+
+### Clinical Suspicion:
+- Exposure history (endemic area, dog contact, occupational risks)
+- Often incidental finding on imaging for other indications
+
+### Imaging Hierarchy:
+
+1. Ultrasound: First-line; 90% accuracy; WHO-IWGE classification (CE1-CE5)
+2. CT: Best for mapping number/location/size; detects complications
+3. MRI: Superior for internal composition, biliary/vascular involvement, post-op assessment
+4. ERCP: Reserved for suspected major biliary rupture (diagnostic + therapeutic)
+
+## Key Takeaways: Diagnosis
+
+### Serology:
+- Primary laboratory tool (but 30-40% seronegative)
+- Best antigens: Antigen B, Ag5
+- Methods: IEP, ELISA, Western blot, PCR
+- Interpretation requires clinical/imaging correlation
+
+### Diagnostic Classification:
+- Possible → Probable → Confirmed (WHO-IWGE criteria)
+
+---
+
+## Key Takeaways: Treatment Selection Algorithm
+
+#### Decision Framework:
+
+- Cyst Characteristics:
+   - Stage (CE1-CE5): Active vs. transitional vs. inactive
+   - Size: <5 cm vs. 5-10 cm vs. >10 cm
+   - Location: Peripheral vs. central/hilar vs. IVC contact
+   - Complications: None vs. biliary rupture vs. infection vs. other
+
+- Patient Factors:
+  - Symptoms: Asymptomatic vs. symptomatic
+  - Comorbidities: Surgical candidate vs. high-risk
+  - Adherence: Ability to comply with long-term therapy/follow-up
+
+- Resources:
+  - Local expertise (surgical, interventional, medical)
+  - Available technology (imaging, laparoscopy, ERCP)
+
+## Key Takeaways: Treatment Selection Algorithm
+
+
+#### Treatment Matching:
+
+- CE1/CE3a, <5-6 cm, uncomplicated → PAIR or conservative surgery
+- CE2/CE3b, large, complicated → Radical surgery preferred
+- CE4/CE5, asymptomatic → Watch-and-wait
+- Inoperable/multiple/disseminated → Medical therapy ± percutaneous
+- Biliary rupture → ERCP ± surgery
+- IVC contact → Conservative approach usually preferred
+
+
+---
+
+## Key Takeaways: Surgical Management
+
+#### Universal Principles:
+1. Remove ALL infective material
+2. Prevent spillage (anaphylaxis/recurrence risk)
+3. Address residual cavity (omentoplasty/capitonnage/drainage)
+4. Identify/manage biliary communications
+
+
+## Key Takeaways: Surgical Management
+
+#### Approach Selection:
+
+- Conservative Surgery:
+  - Germinal layer + ectocyst resection; pericyst preserved
+  - Advantages: Simpler, shorter OR time, feasible in low-resource settings
+  - Disadvantages: Higher recurrence risk if incomplete; chemical cholangitis risk with scolicides
+
+- Radical Surgery:
+  - Pericystectomy ± liver resection
+  - Advantages: Lower recurrence; complete parasite removal
+  - Disadvantages: Technically demanding; higher morbidity in complex cases
+
+- Laparoscopic Approach:
+  - Feasible for selected cysts (peripheral, anterior, uncomplicated)
+  - Benefits: Less blood loss, shorter stay, faster recovery, better cosmesis
+  - Limitations: Not suitable for deep/central/complicated cysts
+
+## Key Takeaways: Surgical Management
+
+#### Critical Technical Points:
+- Scolicidal agent selection: 20% hypertonic saline preferred; AVOID formalin/betadine
+- ALWAYS check for biliary communication before instilling scolicides
+- Intraoperative ultrasound valuable for guidance
+
+---
+
+## Key Takeaways: Medical Therapy and Long-term Management
+
+### Albendazole (ABZ) Essentials:
+
+- Drug of choice: 10-15 mg/kg/day
+- Mechanism: Inhibits parasite tubulin polymerization
+- Indications: Small/medium cysts, inoperable disease, adjunct to interventions
+- Efficacy: 30-50% regression; ~30% cure as monotherapy
+- Perioperative use: Reduces cyst viability and recurrence risk
+- Monitoring: CBC, LFTs (especially first 6 months); ABZ sulfoxide levels if available
+- Contraindications: Pregnancy, chronic liver disease, bone marrow suppression
+
+## Key Takeaways: Medical Therapy and Long-term Management
+
+### Watch-and-Wait Strategy:
+
+- Indications: CE4 (degenerating), CE5 (calcified/inactive), asymptomatic
+- Evidence: 98% stability at ≥2 years in recent series
+- Benefit: Avoids unnecessary intervention risks/costs
+- Requires: Reliable imaging follow-up capability
+
+
+### Long-term Surveillance:
+
+- Duration: ≥5 years post-treatment (high relapse potential)
+- Schedule: q6mo × 2 years, then annually
+- Modality: Ultrasound first-line; CT if US suspicious
+- Goal: Early detection of recurrence for timely intervention
+
+## Key Takeaways: Medical Therapy and Long-term Management
+
+### Prevention/Public Health:
+
+- Dog praziquantel dosing + safe slaughter practices = cornerstone
+- EG95 sheep vaccine: Promising but logistical challenges
+- Community education + health professional training essential
+- Investment in equipment + FASE training for endemic regions
+
+
+## Appendix: WHO-IWGE Ultrasound Classification Quick Reference
+
+| Stage | Gharbi | Appearance | Activity | Typical Management |
+|-------|--------|------------|----------|-------------------|
+| **CE1** | I | Unilocular, anechoic, double wall, "snowflake" protoscolices | Active | PAIR / Conservative surgery / ABZ |
+| **CE2** | III | Multivesicular, "wheel/rosette/honeycomb" daughter cysts | Active | Radical surgery preferred / MoCaT if percutaneous |
+| **CE3A** | II | Membrane detachment, "water lily" sign | Transitional | Individualized: PAIR/surgery/ABZ based on symptoms |
+| **CE3B** | III | Daughter cysts in solid matrix | Transitional | Surgery preferred; percutaneous challenging |
+| **CE4** | IV | Heterogeneous, "ball of wool", no daughter cysts | Inactive | Watch-and-wait if asymptomatic |
+| **CE5** | V | Calcified wall, solid matrix | Inactive | Watch-and-wait; no treatment needed |
+
+### Activity Definitions:
+- **Active:** Viable germinal layer; potential for growth/complications
+- **Transitional:** Beginning involution; variable management
+- **Inactive:** Degenerated/calcified; no intervention needed if asymptomatic
+
+---
+
+## Appendix: Simplified Treatment Decision Tree
+
+```{r}
+library(DiagrammeR)
+
+# Define the flowchart using Graphviz DOT syntax
+flowchart_dot <- "
+digraph HydatidCystAlgorithm {
+  # Global layout & styling
+  rankdir = TB;
+  node [fontname = 'Helvetica, Arial', fontsize = 11, margin = '0.15,0.1'];
+  edge [fontname = 'Helvetica, Arial', fontsize = 10, penwidth = 1.5];
+
+  # ── NODES ──
+  start [label = 'Liver Hydatid Cyst\nIdentified', 
+         fillcolor = '#2E86AB', fontcolor = 'white', 
+         shape = 'box', style = 'rounded,filled', width = 2.5];
+
+  q1 [label = 'Is cyst symptomatic/\ncomplicated?', 
+      shape = 'box', fillcolor = '#A23B72', fontcolor = 'white', style = 'filled', width = 2.3];
+      
+  q2 [label = 'Is cyst active?\n(CE1-CE3)', 
+      shape = 'box', fillcolor = '#A23B72', fontcolor = 'white', style = 'filled', width = 2.3];
+      
+  q3 [label = 'Is cyst CE4/CE5?', 
+      shape = 'box', fillcolor = '#A23B72', fontcolor = 'white', style = 'filled', width = 2.3];
+      
+  q4 [label = 'Size/Location?', 
+      shape = 'box', fillcolor = '#A23B72', fontcolor = 'white', style = 'filled', width = 2.0];
+
+  act1 [label = 'PAIR/Conservative\nSurgery', 
+        fillcolor = '#F18F01', fontcolor = 'white', 
+        shape = 'box', style = 'rounded,filled', width = 2.0];
+        
+  act2 [label = 'Radical\nSurgery', 
+        fillcolor = '#C73E1D', fontcolor = 'white', 
+        shape = 'box', style = 'rounded,filled', width = 2.0];
+        
+  act3 [label = 'Watch-and-Wait', 
+        fillcolor = '#3B82F6', fontcolor = 'white', 
+        shape = 'box', style = 'rounded,filled', width = 2.0];
+        
+  act4 [label = 'Consider:\n• Watch-and-wait\n• ABZ trial\n• Close monitoring', 
+        fillcolor = '#E9C46A', fontcolor = '#2B2D42', 
+        shape = 'box', style = 'rounded,filled', width = 2.8];
+
+  # ── EDGES ──
+  start -> q1;
+  q1 -> q2 [label = ' YES '];
+  q1 -> q3 [label = ' NO '];
+  q2 -> q4 [label = ' YES '];
+  q2 -> act4 [label = ' NO ']; # Clinically implied path for inactive cysts
+  q3 -> act3 [label = ' CE4/CE5 '];
+  q3 -> act4 [label = ' CE1-CE3 small '];
+  q4 -> act1 [label = ' <10cm '];
+  q4 -> act2 [label = ' ≥10cm '];
+
+  # ── LAYOUT CONSTRAINTS ──
+  {rank = same; q2 q3}
+  {rank = same; act1 act2 act3 act4}
+}
+"
+
+# Render in RStudio Viewer / Browser
+grViz(flowchart_dot)
+
+```
+
+*Note: Always individualize based on patient factors, resources, and expertise*
+
+---
+
+## Appendix: Complications Recognition & Management
+
+| Complication | Key Features | First-Line Imaging | Initial Management |
+|-------------|-------------|-------------------|-------------------|
+| **Biliary rupture** | Jaundice, cholangitis, biliary colic, urticaria | US → MRCP → ERCP if major | ERCP for clearance; surgery if needed |
+| **Peritoneal rupture** | Acute abdomen, allergic reaction, anaphylaxis risk | US/CT for free fluid/cysts | Emergency surgery + scolicidal lavage + ABZ |
+| **Thoracic rupture** | Cough, hemoptysis, bilioptysis, dyspnea | CXR → CT chest/abdomen | Multidisciplinary: thoracic + hepatic surgery |
+| **Infection** | Fever, pain, leukocytosis, elevated inflammatory markers | US/CT for abscess features | Antibiotics ± drainage; treat underlying cyst |
+| **Vascular compression** | Budd-Chiari, portal hypertension, IVC obstruction | Doppler US → CT/MRI venography | Individualized: surgery vs. medical management |
+| **Anaphylaxis** | Urticaria, hypotension, bronchospasm (post-rupture/procedure) | Clinical diagnosis | Epinephrine, supportive care; prevent spillage |
+
+## Appendix: Complications Recognition & Management
+
+#### Red Flags Requiring Urgent Intervention:
+
+- Signs of anaphylaxis
+- Acute cholangitis with sepsis
+- Peritonitis from rupture
+- Respiratory compromise from thoracic involvement
+- Hemodynamic instability

@@ -1,0 +1,1803 @@
+# 12 Clinical Investigation of Hepatopancreatobiliary and Pancreatic Disease
+
+Generated with Claude. 
+
+### Section 1: Introduction & Liver Disease Overview
+
+1. Which of the following best describes the recommended clinical approach to HPB disease?
+
+- Scan first, clinic later
+- **Systematic history and examination before advanced investigations**
+- Proceed directly to endoscopy for all patients
+- Rely primarily on biochemical markers alone
+
+*Explanation: The chapter emphasizes a meticulous, detailed history and physical examination followed by laboratory tests, explicitly warning against a "scan first, clinic later" approach.*
+
+---
+
+2. According to the Global Burden of Diseases Study (2017), how many deaths globally were caused by cirrhosis?
+
+- Approximately 500,000
+- Approximately 899,000
+- **More than 1.32 million**
+- More than 2.5 million
+
+*Explanation: The GBD Study 2017 reported that cirrhosis caused more than 1.32 million deaths globally, compared with less than 899,000 in 1990.*
+
+---
+
+3. What percentage of all global deaths did cirrhosis constitute according to the 2017 GBD Study?
+
+- 1.2%
+- **2.4%**
+- 3.6%
+- 5.1%
+
+*Explanation: The chapter states cirrhosis constituted 2.4% of all deaths, with an age-standardized death rate of 16.5 per 100,000 population.*
+
+---
+
+4. In males globally, what was the leading cause of cirrhosis deaths according to the GBD Study?
+
+- Alcohol-related liver disease
+- Hepatitis C
+- **Hepatitis B**
+- NASH
+
+*Explanation: In males, 31.5% of cirrhosis deaths were caused by hepatitis B, followed by alcohol-related liver disease (27.3%), hepatitis C (25.5%), and NASH (7.7%).*
+
+---
+
+5. In females globally, which was the leading cause of cirrhosis deaths?
+
+- Hepatitis B
+- Alcohol-related liver disease
+- NASH
+- **Hepatitis C**
+
+*Explanation: In females, hepatitis C (26.7%) was the leading cause of cirrhosis deaths, followed by hepatitis B (24.0%) and alcohol-related liver disease (20.6%).*
+
+---
+
+6. What proportion of patients with unexplained liver enzyme elevation have previously unsuspected chronic liver disease?
+
+- 1%–5%
+- **10%–17%**
+- 20%–25%
+- 30%–40%
+
+*Explanation: The chapter states that almost 10% to 17% of patients with unexplained liver enzyme elevation have previously unsuspected CLD.*
+
+---
+
+7. Which liver function tests are considered markers of liver synthetic function?
+
+- AST and ALT
+- GGT and ALP
+- **Prothrombin time/INR, bilirubin, and albumin**
+- Ferritin and transferrin saturation
+
+*Explanation: The chapter specifically identifies PT/INR, bilirubin, and albumin as liver function tests reflecting synthetic capacity, as opposed to aminotransferases which reflect liver injury.*
+
+---
+
+8. What was the average yearly healthcare expense per patient with chronic liver disease in the United States in 2014?
+
+- $9,500
+- $14,200
+- **$19,390**
+- $29,900
+
+*Explanation: In 2014, the average yearly healthcare expense in patients with CLD in the United States was $19,390, with nationwide expenses estimated at $29.9 billion.*
+
+---
+
+9. Which clinical pattern of liver disease is characterized predominantly by liver damage, inflammation, and necrosis?
+
+- Cholestatic
+- Mixed
+- **Hepatocellular**
+- Obstructive
+
+*Explanation: In hepatocellular diseases (e.g., steatosis, alcoholic liver disease, viral hepatitis), the clinical and biochemical scenario is dominated by liver damage, inflammation, and necrosis.*
+
+---
+
+10. The changing epidemiology of CLD in the United States over 30 years shows which trend?
+
+- Hepatitis B is decreasing
+- **NAFLD prevalence is increasing alongside obesity and T2DM**
+- Hepatitis C is stable
+- Alcohol-related liver disease is decreasing
+
+*Explanation: The chapter notes that NAFLD is increasing alongside the epidemic of obesity and type-2 diabetes mellitus, while hepatitis C is actually decreasing.*
+
+---
+
+### Section 2: Clinical History
+
+11. What is described as the most common and characteristic symptom of liver disease?
+
+- Jaundice
+- Abdominal pain
+- **Fatigue**
+- Nausea
+
+*Explanation: The chapter identifies fatigue (described as lethargy, weakness, malaise, increased need for sleep, or loss of energy) as the most common and characteristic symptom of liver disease.*
+
+---
+
+12. Localization of abdominal pain in the right upper quadrant in liver disease is primarily due to:
+
+- Hepatocellular necrosis
+- Portal hypertension
+- **Distension or irritation of the richly innervated Glisson capsule**
+- Biliary obstruction
+
+*Explanation: Right upper quadrant pain results from distention or irritation of the richly innervated Glisson capsule and is usually marked by tenderness over the liver area.*
+
+---
+
+13. Which questionnaire is recommended for assessing alcohol abuse or dependence in patients with liver disease?
+
+- AUDIT questionnaire
+- MAST questionnaire
+- FAST questionnaire
+- **CAGE questionnaire**
+
+*Explanation: The chapter specifically recommends the CAGE questionnaire for focusing on whether alcohol abuse or dependence is present.*
+
+---
+
+14. Jaundice is best detected clinically by examination of:
+
+- The palms of the hands
+- The nail beds
+- **The sclera or mucous membranes below the tongue**
+- The skin of the abdomen
+
+*Explanation: The chapter states that jaundice is best detected by examination of the sclera or the mucous membranes below the tongue.*
+
+---
+
+15. Loss of functioning hepatocellular mass leads to hypoalbuminemia, which can manifest as all of the following EXCEPT:
+
+- Shortness of breath
+- Ankle swelling
+- Abdominal distension and ascites
+- **Hepatic encephalopathy**
+
+*Explanation: Hypoalbuminemia manifests as shortness of breath, ankle swelling, abdominal distension, and ascites. Hepatic encephalopathy results from ammonia accumulation via portosystemic shunts, not directly from hypoalbuminemia.*
+
+---
+
+16. Which of the following is a consequence of increased peripheral conversion to estrogen due to decreased hepatic metabolism?
+
+- Terry nails
+- Koilonychia
+- **Palmar erythema and spider nevi**
+- Asterixis
+
+*Explanation: The increased peripheral conversion to estrogen resulting from decreased hepatic metabolism of androstenedione results in palmar erythema, spider nevi, gynecomastia, decreased body hair, and testicular atrophy.*
+
+---
+
+17. Terry nails (white nails) in CLD are characterized by:
+
+- Yellow discoloration of all nails
+- **Silver-white pallor ranging from proximal to entire nail bed, obscuring the lunula**
+- Pitting of the nail surface
+- Separation of the nail plate from the nail bed
+
+*Explanation: Terry nails are characterized by a silver-white pallor that can range from the proximal to the entire nail bed, obscuring the nail lunula.*
+
+---
+
+18. The patient evaluation path in liver disease should lead to determination of:
+
+- Only the etiology of disease
+- Only the severity of disease
+- **Etiologic diagnosis, severity (grading), and stage of disease**
+- Only imaging findings and biochemical markers
+
+*Explanation: The chapter states the patient evaluation path should lead to the determination of the etiologic diagnosis, severity (grading), and stage of disease.*
+
+---
+
+### Section 3: Physical Examination
+
+19. Jaundice can usually be observed clinically when the bilirubin level is above:
+
+- 17 µmol/L (1.0 mg/dL)
+- 34 µmol/L (2.0 mg/dL)
+- **43 µmol/L (2.5 mg/dL)**
+- 68 µmol/L (4.0 mg/dL)
+
+*Explanation: The chapter states jaundice can usually be observed when the bilirubin level is above 43 µmol/L (2.5 mg/dL).*
+
+---
+
+20. Hyperpigmentation with slate-gray coloration is typical of:
+
+- Primary biliary cirrhosis
+- Alcoholic liver disease
+- **Hemochromatosis**
+- Wilson's disease
+
+*Explanation: The chapter specifies that in hemochromatosis, pigmentation is slate-gray, whereas hyperpigmentation is typical of advanced CLD such as primary biliary cirrhosis and sclerosing cholangitis.*
+
+---
+
+21. Spider nevi are found in which vascular territory?
+
+- Inferior vena cava territory (legs and lower torso)
+- Portal venous territory
+- **Superior vena cava territory (arms, face, and upper torso)**
+- Pulmonary venous territory
+
+*Explanation: Spider nevi are usually found in the vascular territory of the superior vena cava (arms, face, and upper torso), and more than two or three is likely to be abnormal.*
+
+---
+
+22. Fetor hepaticus occurs due to:
+
+- Bilirubin exhalation
+- Ammonia gas directly
+- **Exhaled thiols from a portal-venous shunt**
+- Ketone body formation
+
+*Explanation: When there is a portal-venous shunt, a characteristic fruity, ammoniacal odor called fetor hepaticus occurs because of exhaled thiols.*
+
+---
+
+23. Ascites is best appreciated clinically by:
+
+- Deep palpation of the abdomen
+- Auscultation for fluid thrill
+- **Detecting shifting dullness by careful percussion**
+- Balloting the liver edge
+
+*Explanation: The chapter states ascites is appreciated by detecting shifting dullness by careful percussion.*
+
+---
+
+24. Caput medusae refers to:
+
+- Enlargement of the head of the pancreas
+- Dilated hepatic veins on imaging
+- **Visible collateral veins radiating from the umbilicus due to portal hypertension**
+- A pattern of skin discoloration in cirrhosis
+
+*Explanation: Portal hypertension may present with cutaneous manifestations such as visible collateral veins radiating from the umbilicus called caput medusae.*
+
+---
+
+25. A hard, knobby liver on palpation suggests:
+
+- Cirrhosis
+- Steatohepatitis
+- Veno-occlusive disease
+- **Metastases**
+
+*Explanation: The chapter states a hard, knobby liver often indicates the presence of metastases, whereas smooth enlargement may be due to cirrhosis.*
+
+---
+
+26. Which of the following is a sign of ADVANCED liver disease?
+
+- Spider nevi
+- Palmar erythema
+- Hepatomegaly
+- **Ascites with hepatic encephalopathy**
+
+*Explanation: Ascites, edema, sarcopenia, collateral circulation, hepatic fetor, and encephalopathy are signs of advanced disease, while the others are typical early findings in CLD.*
+
+---
+
+27. Physical signs of CLD are characterized by:
+
+- High sensitivity and high specificity
+- High sensitivity but low specificity
+- **Low sensitivity; signs with higher specificity are associated with decompensated disease**
+- Equal sensitivity and specificity
+
+*Explanation: Physical signs are generally of low sensitivity for the diagnosis, and signs with higher specificity are associated with clinically decompensated disease.*
+
+---
+
+28. Signs related to alcohol abuse on physical examination include all of the following EXCEPT:
+
+- Gynecomastia
+- Parotidomegaly
+- Dupuytren contracture
+- **Koilonychia**
+
+*Explanation: Signs related to alcohol abuse include gynecomastia, parotidomegaly, facial telangiectasia, Dupuytren contracture, and testicular atrophy. Koilonychia is a nail change seen in CLD generally, not specific to alcohol.*
+
+---
+
+### Section 4: Portal Hypertension
+
+29. Normal portal vein pressure ranges from:
+
+- 2–5 mm Hg
+- 5–7 mm Hg
+- **7–12 mm Hg**
+- 12–15 mm Hg
+
+*Explanation: The chapter states portal vein pressure normally ranges from 7 to 12 mm Hg.*
+
+---
+
+30. Portal hypertension is defined as a hepatic venous pressure gradient (HVPG) higher than:
+
+- 3 mm Hg
+- 4 mm Hg
+- **5 mm Hg**
+- 10 mm Hg
+
+*Explanation: Portal hypertension is defined as an HVPG higher than 5 mm Hg; it becomes clinically significant at values ≥10 mm Hg.*
+
+---
+
+31. At what HVPG does variceal bleeding occur?
+
+- 5 mm Hg
+- 8 mm Hg
+- 10 mm Hg
+- **12 mm Hg**
+
+*Explanation: Variceal bleeding may be a life-threatening complication and is seen when the pressure gradient reaches 12 mm Hg, with continuous bleeding when greater than 20 mm Hg.*
+
+---
+
+32. According to Ohm's law analogy, the main determinants of portal pressure are:
+
+- Albumin level and clotting factors
+- Liver volume and portal vein diameter
+- **Blood flow and vascular resistance**
+- Sodium retention and arterial vasodilatation
+
+*Explanation: According to the hydraulic analogy of Ohm's law, the main determinants of portal pressure are blood flow and vascular resistance.*
+
+---
+
+33. Which of the following is the most sensitive sign of portal hypertension on ultrasound?
+
+- Ascites
+- Caput medusae
+- **Splenomegaly**
+- Hepatic vein reversal
+
+*Explanation: The chapter states that splenomegaly is the most sensitive sign of portal hypertension on ultrasound.*
+
+---
+
+34. The gold standard for diagnosis of CLD remains:
+
+- Transient elastography
+- CT scan with contrast
+- FibroTest
+- **Liver biopsy**
+
+*Explanation: Liver biopsy is still the gold standard for the diagnosis of CLD, even though it is an invasive procedure with concerns about complications and sampling variations.*
+
+---
+
+35. Hepatic encephalopathy in portal hypertension results from:
+
+- Decreased bilirubin clearance
+- Hypoalbuminemia causing cerebral edema
+- **Positive ammonia balance via portosystemic shunts metabolized into glutamine causing osmotic cerebral edema**
+- Direct neurotoxicity of bilirubin
+
+*Explanation: Ammonia reaches cerebral astrocytes through hepatic portosystemic shunts and is metabolized into glutamine, providing an osmotic pull toward cerebral edema.*
+
+---
+
+36. Which of the following is a PREHEPATIC cause of portal hypertension?
+
+- Schistosomiasis
+- Cirrhosis
+- Veno-occlusive disease
+- **Portal vein thrombosis**
+
+*Explanation: Portal vein thrombosis is classified as a prehepatic cause of portal hypertension, as listed in Table 12.1 of the chapter.*
+
+---
+
+37. Which of the following is a POSTHEPATIC cause of portal hypertension?
+
+- Nodular regenerative hyperplasia
+- Sarcoidosis
+- Acute hepatitis
+- **Budd-Chiari syndrome**
+
+*Explanation: Budd-Chiari syndrome is listed as a posthepatic cause of portal hypertension in Table 12.1.*
+
+---
+
+38. The definitive diagnosis of portal hypertension requires:
+
+- Liver biopsy
+- CT-measured portal vein diameter
+- Endoscopic detection of varices
+- **Invasive interventional radiology methods measuring HVPG by hepatic vein catheterization**
+
+*Explanation: The definitive diagnosis requires the use of invasive interventional radiology methods to measure the HVPG by hepatic vein catheterization.*
+
+---
+
+### Section 5: Alcoholic Liver Disease
+
+39. Alcoholic liver disease (ALD) affects approximately what percentage of the general population in Western countries?
+
+- 2%
+- 5%
+- **10%**
+- 15%
+
+*Explanation: ALD is a chronic, relapsing disease affecting approximately 10% of the general population in Western countries.*
+
+---
+
+40. An alcohol intake of 60 g per day is associated with hepatic steatosis in what proportion of individuals?
+
+- 20%–30%
+- 40%–50%
+- **60%–90%**
+- 95%–100%
+
+*Explanation: An alcohol intake of 60 g per day is associated with hepatic steatosis in 60% to 90% of individuals.*
+
+---
+
+41. What proportion of heavy drinkers eventually develop cirrhosis?
+
+- Less than 5%
+- **10%–20%**
+- 30%–40%
+- 50%–60%
+
+*Explanation: Less than half of those who continue to drink will develop fibrosis, and only 10% to 20% will eventually develop cirrhosis.*
+
+---
+
+42. Typical laboratory findings in ALD include all of the following EXCEPT:
+
+- AST more than twice ALT
+- Elevated gamma-glutamyltranspeptidase
+- Prolonged prothrombin time
+- **Elevated IgM to IgG ratio**
+
+*Explanation: Typical ALD laboratory findings include an increased IgA to IgG ratio (not IgM), along with AST>2×ALT, elevated GGT, prolonged PT, low albumin, and decreased platelet count.*
+
+---
+
+43. According to major international guidelines (EASL, AASLD, ACG), liver biopsy in suspected ALD is:
+
+- Required in all cases
+- Contraindicated
+- **Not routinely recommended but useful in aggressive forms**
+- Mandatory before treatment initiation
+
+*Explanation: According to EASL, AASLD, and ACG guidelines, liver biopsy is not routinely recommended for all suspected ALD cases, but is useful in cases of aggressive forms.*
+
+---
+
+44. Severe ALD is defined as a MELD score of:
+
+- ≥10
+- ≥14
+- ≥16
+- **≥18**
+
+*Explanation: Severe forms of ALD are defined as a MELD score ≥18, with mortality ranging between 30% and 60% without therapy.*
+
+---
+
+45. According to the Global Burden of Disease 2016 Alcohol Collaborators report, the safest level of alcohol consumption is:
+
+- 1 unit per day
+- Up to 2 units per week
+- Low-risk drinking as defined by national guidelines
+- **None**
+
+*Explanation: A recent study by the Global Burden of Disease 2016 Alcohol Collaborators reported that the safest level of drinking is none.*
+
+---
+
+46. Histologic features of ALD include all of the following EXCEPT:
+
+- Hepatic steatosis
+- Inflammation
+- Mallory-Denk bodies
+- **Copper deposition**
+
+*Explanation: Histologic features of ALD are hepatic steatosis, inflammation, and Mallory-Denk bodies. Copper deposition is characteristic of Wilson's disease, not ALD.*
+
+---
+
+### Section 6: Autoimmune Liver Disease
+
+47. Autoimmune hepatitis (AIH) is how many times more common in females than in males?
+
+- Twice
+- Three times
+- **Four times**
+- Five times
+
+*Explanation: AIH is about four times more common in females than males, with serologic findings including elevated transaminases and polyclonal hypergammaglobulinemia.*
+
+---
+
+48. Which autoimmune liver disease is characterized by autoimmune injury to small bile ducts leading to nonsuppurative cholangitis?
+
+- AIH
+- PSC
+- **PBC**
+- IgG4-related cholangiopathy
+
+*Explanation: Primary biliary cholangitis (PBC) is characterized by autoimmune injury of small bile ducts leading to chronic nonsuppurative cholangitis and subsequent fibrosis.*
+
+---
+
+49. The main serologic finding distinguishing PBC from other autoimmune liver diseases is:
+
+- ANA positivity
+- Anti-smooth muscle antibodies
+- **Anti-mitochondrial antibodies (AMAs)**
+- pANCA positivity
+
+*Explanation: Biochemical signs of cholestasis and the presence of anti-mitochondrial antibodies (AMAs) are the main serologic findings in PBC.*
+
+---
+
+50. Primary sclerosing cholangitis (PSC) has what gender predominance?
+
+- Female predominance (>60%)
+- Equal distribution
+- **Male predominance (>60%)**
+- Male predominance only in young patients
+
+*Explanation: PSC has a male predominance of more than 60%, and diagnosis is confirmed through MRCP or ERCP.*
+
+---
+
+51. In approximately what percentage of PSC patients is inflammatory bowel disease (IBD) also diagnosed?
+
+- 30%
+- 50%
+- **70%**
+- 90%
+
+*Explanation: The chapter states that approximately 70% of PSC patients are diagnosed with IBD, mainly ulcerative colitis.*
+
+---
+
+52. PSC is confirmed diagnostically through which investigations?
+
+- Liver biopsy and ANA testing
+- EUS and cholangioscopy
+- **MRCP or ERCP**
+- CT scan and pANCA testing
+
+*Explanation: PSC diagnosis is confirmed through magnetic resonance cholangiopancreatography (MRCP) or endoscopic retrograde cholangiopancreatography (ERCP).*
+
+---
+
+53. PSC is characterized by:
+
+- Excellent response to immunosuppression
+- Presence of disease-specific autoantibodies
+- **Absence of disease-specific autoantibodies and poor response to immunosuppression**
+- Anti-mitochondrial antibody positivity
+
+*Explanation: PSC is characterized by the absence of any disease-specific autoantibodies and poor response to immunosuppression.*
+
+---
+
+### Section 7: Budd-Chiari Syndrome
+
+54. Budd-Chiari syndrome is characterized by:
+
+- Portal vein thrombosis
+- Hepatic artery occlusion
+- **Partial or complete hepatic venous outflow obstruction**
+- Splenic vein thrombosis
+
+*Explanation: Budd-Chiari syndrome refers to a heterogeneous group of conditions characterized by partial or complete hepatic venous outflow obstruction.*
+
+---
+
+55. The estimated incidence of Budd-Chiari syndrome in Western countries is:
+
+- 1 in 500,000 per person per year
+- 1 in 1,000,000 per person per year
+- **1 in 2.5 million per person per year**
+- 1 in 5 million per person per year
+
+*Explanation: The chapter states the estimated incidence in Western countries is one in 2.5 million cases per person per year.*
+
+---
+
+56. The classic clinical triad of Budd-Chiari syndrome comprises:
+
+- Jaundice, fever, and right upper quadrant pain
+- Ascites, jaundice, and encephalopathy
+- **Abdominal pain, ascites, and hepatomegaly**
+- Fever, ascites, and splenomegaly
+
+*Explanation: The classic triad of Budd-Chiari syndrome comprises abdominal pain, ascites, and hepatomegaly.*
+
+---
+
+57. What proportion of Budd-Chiari syndrome cases can be asymptomatic?
+
+- Up to 5%
+- Up to 10%
+- **Up to 20%**
+- Up to 30%
+
+*Explanation: The clinical presentation ranges from acute failure to asymptomatic (up to 20% of cases), depending on the rapidity and extent of obstruction.*
+
+---
+
+### Section 8: Hemochromatosis
+
+58. The most common form of hereditary hemochromatosis (HH type 1) is caused by:
+
+- Mutations in HAMP gene
+- Mutations in HJV gene
+- **Autosomal-recessive inheritance of C282Y substitution in the HFE gene**
+- Mutations in TFR2 gene
+
+*Explanation: Hemochromatosis is most commonly caused by the autosomal-recessive inheritance of a C282Y substitution in the HFE gene (hereditary hemochromatosis type 1).*
+
+---
+
+59. The frequency of homozygous C282Y mutation is reported to be what percentage in European countries?
+
+- 0.04%
+- 0.1%
+- 0.2%
+- **0.4%**
+
+*Explanation: The frequency of a homozygous C282Y mutation is reported to be 0.4% in European countries.*
+
+---
+
+60. Common presenting symptoms of hemochromatosis include all of the following EXCEPT:
+
+- Fatigue
+- Arthralgia
+- **Jaundice as the primary symptom**
+- Loss of libido
+
+*Explanation: Common presenting symptoms that may lead to clinical diagnosis of HH include fatigue, arthralgia, and loss of libido. Jaundice is a manifestation of chronic iron overload complications, not a primary presenting symptom.*
+
+---
+
+61. Which imaging modality can assess elevated hepatic iron in a quantitative fashion in hemochromatosis?
+
+- CT scan
+- PET scan
+- Ultrasound elastography
+- **Liver MRI**
+
+*Explanation: Liver MRI can be used to assess the presence of elevated hepatic iron in a quantitative fashion in hemochromatosis.*
+
+---
+
+### Section 9: Polycystic Liver Disease
+
+62. Adult polycystic liver disease (PLD) is defined by more than how many fluid-filled cysts in the liver?
+
+- 5
+- 10
+- **20**
+- 50
+
+*Explanation: Adult PLD is a rare inherited autosomal dominant condition characterized by more than 20 fluid-filled biliary epithelial-lined cysts in the liver.*
+
+---
+
+63. What proportion of PLD patients experience symptoms?
+
+- 1 in 10
+- **1 in 5**
+- 1 in 3
+- 1 in 2
+
+*Explanation: Although PLD is most often asymptomatic, one in five patients experience symptoms, with the most common being abdominal pain or distention, early satiety, nausea, dyspnea, and lower back pain.*
+
+---
+
+64. Surgical management options for symptomatic PLD include all of the following EXCEPT:
+
+- Cyst aspiration and sclerosis
+- Laparoscopic fenestration
+- Liver resection with fenestration
+- **Pancreatic duct drainage**
+
+*Explanation: Management options for symptomatic PLD include cyst aspiration and sclerosis, open or laparoscopic fenestration, liver resection with fenestration, and liver transplantation. Pancreatic duct drainage is not a treatment for PLD.*
+
+---
+
+### Section 10: Liver Disease in Pregnancy
+
+65. Pregnancy-associated liver diseases occur in what percentage of pregnant women?
+
+- 1%–2%
+- **3%–5%**
+- 7%–10%
+- 12%–15%
+
+*Explanation: The chapter states pregnancy-associated liver diseases occur in 3% to 5% of pregnant women.*
+
+---
+
+66. Hyperemesis gravidarum causing liver disease typically occurs in which trimester?
+
+- Second trimester
+- Third trimester
+- **First trimester**
+- Can occur in any trimester equally
+
+*Explanation: Pregnancy-related liver disease classified by time of onset includes hyperemesis gravidarum in the first trimester.*
+
+---
+
+67. HELLP syndrome consists of:
+
+- Hemolysis, elevated liver enzymes, and low protein
+- **Hemolysis, elevated liver enzymes, and low platelet count**
+- Hepatitis, elevated lactate, and low platelets
+- Hypertension, elevated liver enzymes, and low platelet count
+
+*Explanation: HELLP syndrome stands for Hemolysis, Elevated Liver enzymes, and Low Platelet count, occurring in the third trimester as part of preeclampsia with hepatic involvement.*
+
+---
+
+68. In cirrhotic women who become pregnant, hepatic decompensation occurs in what percentage?
+
+- 2%
+- 5%
+- **10%**
+- 20%
+
+*Explanation: In cirrhotic women who become pregnant, hepatic decompensation occurs in 10% and this can be predicted by the MELD score.*
+
+---
+
+69. Which physiologic change in pregnancy can mimic findings seen in CLD?
+
+- Elevated transaminases
+- Elevated bilirubin
+- Elevated prothrombin time
+- **Palmar erythema and spider nevi**
+
+*Explanation: Many physiologic changes in pregnancy can mimic those seen in CLD, including hyperdynamic circulation, palmar erythema, spider nevi, gallstones, and increased alkaline phosphatase and alpha fetoprotein.*
+
+---
+
+### Section 11: Acute Liver Failure
+
+70. The incidence of acute liver failure (ALF) in the developed world is:
+
+- Fewer than 1 case per million per year
+- 1–5 cases per million per year
+- **Fewer than 10 cases per million per year**
+- 10–20 cases per million per year
+
+*Explanation: ALF has an incidence of fewer than 10 cases per million persons per year in the developed world.*
+
+---
+
+71. In the developing world, the most common cause of ALF is:
+
+- Acetaminophen toxicity
+- Wilson's disease
+- Budd-Chiari syndrome
+- **Viral causes, particularly hepatitis E**
+
+*Explanation: In the developing world, viral causes predominate, with hepatitis E infection recognized as a common cause of acute liver failure.*
+
+---
+
+72. In the United States and Western Europe, the most common cause of ALF is:
+
+- Viral hepatitis
+- **Drug-induced liver injury, mostly acetaminophen**
+- Budd-Chiari syndrome
+- Wilson's disease
+
+*Explanation: In the United States and western Europe, most cases of ALF arise from drug-induced liver injury, most commonly because of acetaminophen.*
+
+---
+
+73. The MELD score cutoff used for prognosis in ALF is:
+
+- 20
+- 25
+- **30.5**
+- 35
+
+*Explanation: A MELD score of 30.5 (fixed cutoff value) should be used for prognosis in ALF, and higher scores predict a need for liver transplantation.*
+
+---
+
+### Section 12: Benign Liver Masses
+
+74. Hepatic hemangioma has a prevalence of what percentage in the general population?
+
+- 1%
+- 2%
+- **5%**
+- 10%
+
+*Explanation: Hepatic hemangioma is the most frequent benign liver lesion with a prevalence of 5% in the population.*
+
+---
+
+75. The unique radiologic feature of hepatic hemangioma on CT and MRI is:
+
+- Peripheral rim enhancement
+- Arterial-phase hyperenhancement with washout
+- **Centripetal vascularization**
+- Spoke-wheel pattern of vascularity
+
+*Explanation: CT and MRI are extremely reliable in diagnosing hepatic hemangioma because of its unique centripetal vascularization.*
+
+---
+
+76. Surgery for hepatic hemangioma is generally reserved for:
+
+- All lesions >5 cm
+- Lesions with any symptoms
+- **Lesions >10 cm or those symptomatic for compression or recurrent pain**
+- Any lesion with uncertain radiologic diagnosis
+
+*Explanation: Surgery must be considered and is reserved for cases of lesions that have grown beyond 10 cm or in patients symptomatic for compression or recurrent pain.*
+
+---
+
+77. What is the prevalence of focal nodular hyperplasia (FNH)?
+
+- 1%
+- **3%**
+- 5%
+- 8%
+
+*Explanation: FNH is the second most common benign liver lesion, with a prevalence of 3%.*
+
+---
+
+78. FNH originates from:
+
+- Malignant degeneration of hepatocytes
+- **Hepatic stellate cell response to increased blood flow producing a central radial scar**
+- Biliary epithelial cell proliferation
+- Kupffer cell hyperplasia
+
+*Explanation: FNH originates from the hepatic stellate cell response to an irritative stimulus such as increased blood flow, which produces the typical central radial scar.*
+
+---
+
+79. Hepatocellular adenoma (HA) carries a significant risk for complications in lesions greater than:
+
+- 2 cm
+- 3 cm
+- **5 cm**
+- 8 cm
+
+*Explanation: HAs are characterized by a significant risk for complications such as rupture, bleeding, and malignant degeneration in lesions greater than 5 cm.*
+
+---
+
+80. In men with hepatocellular adenoma, surgical treatment is:
+
+- Reserved for symptomatic cases only
+- Not recommended due to low malignant potential
+- Recommended only for lesions >10 cm
+- **Always expected due to non-negligible risk of malignant degeneration**
+
+*Explanation: Surgical treatment is always expected in men because of the non-negligible risk for malignant degeneration.*
+
+---
+
+81. Simple hepatic cysts require further investigation when they exhibit which feature?
+
+- Size less than 1 cm
+- Number less than 5
+- **Internal septa, calcifications, or "daughter" cysts suggesting malignant potential or parasitic infection**
+- Subcapsular location
+
+*Explanation: The presence of multiple cysts (>20), cysts larger than 5 cm, or cysts with internal septa, calcifications, fenestrations, internal loculations, or "daughter" cysts must lead to further investigations because of malignant potential or congenital/parasitic etiology.*
+
+---
+
+### Section 13: Gallbladder and Biliary Tract Disease
+
+82. Cholelithiasis affects more than how many Americans?
+
+- 5 million
+- 10 million
+- 15 million
+- **20 million**
+
+*Explanation: Cholelithiasis is the most common form of gallbladder disease, affecting more than 20 million Americans with an annual direct cost of more than $6.3 billion.*
+
+---
+
+83. Murphy's sign is defined as:
+
+- Palpable gallbladder with obstructive jaundice
+- Percussion tenderness in the right upper quadrant
+- **Right upper quadrant tenderness and guarding exacerbated by inspiration**
+- Rebound tenderness in the right iliac fossa
+
+*Explanation: Upper right quadrant tenderness and guarding exacerbated by inspiration (Murphy's sign) suggest acute cholecystitis.*
+
+---
+
+84. Courvoisier's gallbladder in the presence of obstructive jaundice suggests:
+
+- Acute cholecystitis
+- Cholelithiasis with CBD stone
+- Ascending cholangitis
+- **Malignant obstruction of the biliary tree, mainly due to pancreatic head lesions**
+
+*Explanation: A palpable, distended gallbladder—"Courvoisier's gallbladder"—in the presence of obstructive jaundice may suggest malignant obstruction of the biliary tree mainly because of pancreatic head lesions.*
+
+---
+
+85. What is the overall incidence of gallstone disease in women according to the MICOL study in Europe?
+
+- 9.5%
+- 12.3%
+- **18.8%**
+- 24.6%
+
+*Explanation: According to the Multicenter Italian Study on Cholelithiasis (MICOL), the overall incidence of gallstone disease was 18.8% in women and 9.5% in men.*
+
+---
+
+86. What proportion of symptomatic gallstone patients do not experience further biliary pain?
+
+- 10%–15%
+- 20%–25%
+- **35%–50%**
+- 60%–70%
+
+*Explanation: Nearly 35% to 50% of symptomatic patients do not experience further biliary pain, even if no definitive predictive factor for biliary recurrence has been clearly identified.*
+
+---
+
+87. The accuracy of abdominal ultrasound for detecting gallstones reaches:
+
+- 70%
+- 80%
+- 90%
+- **95%**
+
+*Explanation: With an accuracy for detecting gallstones reaching 95%, abdominal US is the imaging technique of choice for gallstone disease.*
+
+---
+
+88. Biliary colic lasting more than 5 hours most often indicates:
+
+- Gallstone pancreatitis
+- Choledocholithiasis
+- **Acute cholecystitis**
+- Ascending cholangitis
+
+*Explanation: A duration of biliary colic longer than 5 hours most often indicates acute cholecystitis.*
+
+---
+
+89. UDCA (ursodeoxycholic acid) is used as prophylactic treatment in which clinical scenario?
+
+- All patients with asymptomatic gallstones
+- Patients with choledocholithiasis
+- **Gallstone formation prevention after rapid weight reduction, including bariatric surgery**
+- Biliary colic during pregnancy
+
+*Explanation: Lytholytic hydrophilic UDCA has become the standard prophylactic treatment for gallstone formation after rapid weight reduction.*
+
+---
+
+90. What proportion of patients develop gallstones after bariatric surgery?
+
+- 10%
+- 20%
+- **Approximately one-third**
+- One-half
+
+*Explanation: Approximately one-third of patients may develop gallstones after bariatric surgery, with a greater risk after gastric bypass procedure.*
+
+---
+
+91. Acute cholecystitis (AC) is the most common complication of gallstone disease, occurring in what proportion of untreated patients?
+
+- 2%–5%
+- 5%–10%
+- **10%–20%**
+- 25%–30%
+
+*Explanation: AC is the most common complication of gallstone disease and occurs in 10% to 20% of untreated patients.*
+
+---
+
+92. According to the 2018 Tokyo Guidelines, a definite diagnosis of acute cholecystitis requires:
+
+- Murphy's sign alone
+- Fever and right upper quadrant pain
+- Murphy's sign with imaging findings
+- **One item from local inflammation signs + one item from systemic inflammation + imaging findings**
+
+*Explanation: Definite diagnosis per the 2018 Tokyo Guidelines requires one item in A (local signs) + one item in B (systemic inflammation) + C (imaging findings).*
+
+---
+
+93. The first-choice imaging method for morphologic diagnosis of acute cholecystitis is:
+
+- CT scan
+- MRI
+- **Ultrasound (US)**
+- HIDA scan
+
+*Explanation: US is the first-choice imaging method for the morphologic diagnosis of AC because of its low invasiveness, ease of use, cost-effectiveness, and widespread use.*
+
+---
+
+### Section 14: Biliary Obstruction & Cholangitis
+
+94. CA 19-9 as a tumor marker is limited by its elevation in all of the following EXCEPT:
+
+- Cholangiocarcinoma
+- Gastric cancer
+- Acute cholecystitis
+- **Autoimmune hepatitis**
+
+*Explanation: CA 19-9 is elevated in pancreatic cancer, cholangiocarcinoma, gastric/colorectal/esophageal/hepatocellular cancer, and benign processes (AC, AP, biliary obstruction). Autoimmune hepatitis is not listed as a cause of CA 19-9 elevation.*
+
+---
+
+95. Jaundice is the presenting symptom in up to what percentage of pancreatic head cancer and distal cholangiocarcinoma patients?
+
+- 50%
+- 70%
+- **90%**
+- 100%
+
+*Explanation: Jaundice is usually the presenting symptom in up to 90% of pancreatic head cancer and distal cholangiocarcinoma patients.*
+
+---
+
+96. MRCP has what characteristic performance for biliary obstruction?
+
+- Moderate sensitivity, low specificity
+- **Excellent sensitivity and specificity for demonstrating the level and presence of biliary obstruction**
+- Good sensitivity but inferior to ERCP in all cases
+- Low sensitivity, high specificity
+
+*Explanation: MRCP has excellent sensitivity and specificity for demonstrating the level and presence of biliary obstruction.*
+
+---
+
+97. A normal CBD diameter is considered to be:
+
+- 2–4 mm
+- **4–8 mm**
+- 8–12 mm
+- Up to 15 mm
+
+*Explanation: The mean diameter of a normal CBD ranges from 4 to 8 mm, but in most studies, a CBD diameter greater than 7 mm is considered abnormal.*
+
+---
+
+98. What is the most common cause of non-malignant biliary obstruction?
+
+- Choledochal cysts
+- Mirizzi's syndrome
+- Parasitic cholangiopathy
+- **Choledocholithiasis (CBD stones)**
+
+*Explanation: Choledocholithiasis, commonly from gallbladder stones, is the main etiology of nonmalignant biliary obstruction.*
+
+---
+
+99. The sensitivity of transabdominal US for detecting CBD stones ranges from:
+
+- 50%–70%
+- **13%–89%**
+- 80%–95%
+- 5%–10%
+
+*Explanation: Transabdominal US is the most appropriate initial imaging study for choledocholithiasis even though its sensitivity ranges from 13% to 89%.*
+
+---
+
+100. The classic clinical triad of acute cholangitis (Charcot's triad) comprises:
+
+- Jaundice, fever, and right upper quadrant pain
+- **Fever, jaundice, and abdominal pain**
+- Fever, rigors, and hypotension
+- Pain, jaundice, and altered mental status
+
+*Explanation: Acute cholangitis has long been diagnosed on the basis of Charcot's triad of fever, jaundice, and abdominal pain.*
+
+---
+
+101. Reynolds' pentad adds which two features to Charcot's triad in severe cholangitis?
+
+- Nausea and vomiting
+- Rigors and back pain
+- **Hypotension and altered mental status**
+- Pruritus and pale stools
+
+*Explanation: Patients with more severe forms of cholangitis may also have hypotension and altered mental status, a constellation called Reynolds' pentad (adding to Charcot's triad of fever, jaundice, and pain).*
+
+---
+
+102. Poor prognostic factors in acute cholangitis include all of the following EXCEPT:
+
+- WBC count >20,000 cells/mm³
+- Total bilirubin >10 mg/dL
+- Serum albumin <3.0 g/dL
+- **Age >55 years**
+
+*Explanation: Poor prognostic predictive factors include WBC >20,000, total bilirubin >10 mg/dL, temperature >39°C, serum albumin <3.0 g/dL, and age >75 (not 55).*
+
+---
+
+103. The diagnostic accuracy of the Tokyo Guidelines for acute cholangitis shows:
+
+- Sensitivity 75%, specificity 90%
+- **Sensitivity 91.8%, specificity 77.7%**
+- Sensitivity 99%, specificity 50%
+- Sensitivity 60%, specificity 95%
+
+*Explanation: The Tokyo Guidelines for acute cholangitis have moderate diagnostic accuracy with sensitivity 91.8% and specificity 77.7%.*
+
+---
+
+### Section 15: Functional Biliary Pain and Sphincter of Oddi Dysfunction
+
+104. According to the Rome III criteria for functional gallbladder disorder, which of the following is required for diagnosis?
+
+- Presence of gallstones
+- Elevated liver enzymes
+- **Normal liver enzymes, conjugated bilirubin, and amylase/lipase with gallbladder present**
+- Abnormal cholecystokinin infusion test
+
+*Explanation: The Rome III criteria require: criteria for functional gallbladder and sphincter of Oddi disorder, gallbladder present, and normal liver enzymes, conjugated bilirubin, and amylase/lipase.*
+
+---
+
+105. The EPISOD trial demonstrated that SOD type III patients:
+
+- Benefit significantly from endoscopic sphincterotomy
+- **Did not benefit from endoscopic sphincterotomy even after 5 years of follow-up**
+- Benefit from surgical sphincteroplasty
+- Have the best prognosis of all SOD types
+
+*Explanation: The EPISOD trial and EPISOD2 observational study demonstrated that SOD type III patients with a presumed hypertensive and/or dyskinetic sphincter of Oddi did not benefit from endoscopic sphincterotomy even after 5 years of follow-up.*
+
+---
+
+106. SOD type III should now be termed:
+
+- Biliary dyskinesia
+- Papillary stenosis
+- **Functional pain**
+- Sphincter spasm
+
+*Explanation: Based on the EPISOD trial evidence, SOD type III should now be termed functional pain.*
+
+---
+
+107. Laparoscopic cholecystectomy for functional biliary pain (acalculous) results in symptom relief in approximately what proportion of patients?
+
+- 20%
+- 35%
+- **50%**
+- 80%
+
+*Explanation: Laparoscopic cholecystectomy results in only 50% of patients obtaining symptom relief for functional biliary pain, compared with 81% in gallstone disease.*
+
+---
+
+108. The Milwaukee classification scheme for SOD was proposed in:
+
+- 1975
+- 1980
+- **1988**
+- 1995
+
+*Explanation: The most adopted classification system is the Milwaukee classification scheme proposed by Hogan and Geenen in 1988, classifying SOD into biliary types I, II, and III.*
+
+---
+
+### Section 16: Pancreatic Disease — Overview
+
+109. According to the 2018 update, pancreatitis was among how many most common discharge diagnoses overall for GI diseases in the United States?
+
+- The most common
+- **One of the three most common**
+- One of the five most common
+- One of the ten most common
+
+*Explanation: Pancreatitis was one of the three most common discharge diagnoses overall in the 2018 update, and the combined cost of pancreatitis, GI hemorrhage, and gallbladder disease was nearly $12 billion.*
+
+---
+
+110. Benign pancreatic hyperenzymemia is also known as:
+
+- Ranson's syndrome
+- Balthazar syndrome
+- **Gullo's syndrome**
+- Frey's syndrome
+
+*Explanation: Benign pancreatic hyperenzymemia is also known as Gullo's syndrome, and clinicians must be aware of different causes of hyperamylasemia and hyperlipasemia when the clinical diagnosis of pancreatitis is unclear.*
+
+---
+
+111. Which of the following is NOT listed as a cause of hyperamylasemia/hyperlipasemia other than pancreatitis?
+
+- Diabetic ketoacidosis
+- Chronic renal failure
+- Stevens-Johnson syndrome
+- **Viral hepatitis**
+
+*Explanation: The chapter lists causes of hyperamylasemia/hyperlipasemia including Gullo's syndrome, DKA, head injury, trauma, acute liver failure, chronic renal failure, severe burns, shock, abdominal and cardiac surgery, toxic epidermal necrolysis, and Stevens-Johnson syndrome. Viral hepatitis is not specifically listed.*
+
+---
+
+### Section 17: Acute Pancreatitis
+
+112. The global pooled incidence of acute pancreatitis reported by Xiao et al. is:
+
+- 10 cases per 100,000 per year
+- 20 cases per 100,000 per year
+- **34 cases per 100,000 per year**
+- 50 cases per 100,000 per year
+
+*Explanation: A recent systematic review and meta-analysis by Xiao et al. reported a global pooled incidence of AP of 34 cases per 100,000 individuals in the general population per year.*
+
+---
+
+113. What is the most common cause of acute pancreatitis?
+
+- Alcohol abuse alone
+- Hypertriglyceridemia
+- ERCP-induced
+- **Gallstone disease and alcohol abuse (accounting for ~75% of cases)**
+
+*Explanation: The most common causes of AP are gallstone disease and alcohol abuse, which account for almost 75% of recognized cases.*
+
+---
+
+114. After the first episode of acute pancreatitis, what proportion of patients will develop chronic pancreatitis after recurrent AP?
+
+- 10%
+- 21%
+- **36%**
+- 50%
+
+*Explanation: After the first episode of AP, recurrence will develop in 21% of patients and chronic pancreatitis will develop in 36% of patients after recurrent AP.*
+
+---
+
+115. The pooled mortality from an episode of AP per 100,000 individuals in the general population per year is:
+
+- 0.5
+- **1.16**
+- 3.4
+- 5.0
+
+*Explanation: Xiao reported a pooled mortality from an episode of AP of 1.16 per 100,000 individuals in the general population per year.*
+
+---
+
+116. According to the 2012 revised Atlanta classification, the diagnosis of AP requires at least TWO of the following criteria. Which combination is CORRECT?
+
+- Elevated lipase + CT findings + fever
+- **Abdominal pain consistent with AP + serum lipase/amylase ≥3× upper limit + characteristic imaging findings**
+- Abdominal pain + elevated WBC + CT findings
+- Elevated amylase alone + vomiting + imaging
+
+*Explanation: The 2012 Atlanta classification requires at least two of: (1) abdominal pain consistent with the disease, (2) serum lipase or amylase ≥3× upper limit of normal, and (3) characteristic findings from abdominal imaging.*
+
+---
+
+117. Severe acute pancreatitis is defined as persistent organ failure lasting more than:
+
+- 12 hours
+- 24 hours
+- **48 hours**
+- 72 hours
+
+*Explanation: Severe AP is defined as persistent organ failure lasting more than 48 hours, whereas moderately severe AP involves transient organ failure lasting less than 48 hours.*
+
+---
+
+118. The "critical" category of AP introduced in the 2012 determinant-based classification is characterized by:
+
+- Organ failure without necrosis
+- Sterile necrosis with organ failure
+- Local complications without organ failure
+- **Persistent organ failure AND infected pancreatic necrosis**
+
+*Explanation: The determinant-based classification in 2012 introduced a fourth group termed "critical," characterized by persistent organ failure and infected pancreatic necrosis, with higher mortality.*
+
+---
+
+119. Cullen sign in acute pancreatitis refers to:
+
+- Ecchymosis of the flanks
+- **Periumbilical ecchymosis**
+- Bluish discoloration of the scrotum
+- Lace-like purplish skin discoloration
+
+*Explanation: Cullen sign refers to abdominal periumbilical ecchymosis resulting from the diffusion of fat necrosis and inflammation associated with retroperitoneal or intraabdominal bleeding.*
+
+---
+
+120. Grey-Turner sign in acute pancreatitis refers to:
+
+- Periumbilical bruising
+- Mottled skin of the flanks
+- **Ecchymosis of the flank**
+- Purplish livedo reticularis
+
+*Explanation: Grey-Turner sign refers to ecchymosis of the flank, resulting from retroperitoneal bleeding tracking to the flank.*
+
+---
+
+121. According to the American College of Gastroenterology Guidelines, which imaging modality is recommended in ALL patients with suspected AP?
+
+- CT scan
+- MRI
+- **Transabdominal ultrasound**
+- EUS
+
+*Explanation: According to the ACG Guidelines, a transabdominal US is recommended in all patients with suspected AP.*
+
+---
+
+122. When should the initial CT assessment be performed after onset of symptoms of acute pancreatitis?
+
+- Within 6–12 hours
+- Within 24 hours
+- **72–96 hours after onset of symptoms**
+- Only if there is clinical deterioration after 1 week
+
+*Explanation: The initial CT assessment should be performed 72 to 96 hours after the onset of symptoms in acute pancreatitis.*
+
+---
+
+123. ERCP should be performed in patients with acute cholangitis complicating AP within:
+
+- 48 hours
+- 36 hours
+- **Less than 24 hours**
+- 72 hours
+
+*Explanation: ERCP should be performed early (<24 hours) in patients with acute cholangitis complicating AP.*
+
+---
+
+124. Negative MRCP findings in AP do NOT exclude the presence of:
+
+- Large CBD stones (>10 mm)
+- Pancreatic duct disruption
+- Peripancreatic fluid collections
+- **Small CBD stones (<5 mm)**
+
+*Explanation: Negative findings on MRCP do not exclude the presence of small CBD stones (<5 mm), for which EUS is superior.*
+
+---
+
+125. Which drug is among the most strongly associated with drug-induced acute pancreatitis?
+
+- Amoxicillin
+- Ibuprofen
+- Metformin
+- **Azathioprine**
+
+*Explanation: Numerous drugs have been involved in AP pathogenesis; the most strongly associated are azathioprine, 6-mercaptopurine, didanosine, valproic acid, ACE inhibitors, and mesalamine.*
+
+---
+
+126. Hiccoughs in acute pancreatitis occur due to:
+
+- Vagal nerve compression
+- **Diaphragmatic irritation secondary to extension of the inflammatory process via the retroperitoneum**
+- Raised intra-abdominal pressure on the phrenic nerve
+- Metabolic alkalosis
+
+*Explanation: Hiccoughs can occur in AP because of diaphragmatic irritation secondary to the extension of the inflammatory process tracking up via the retroperitoneum.*
+
+---
+
+### Section 18: Chronic Pancreatitis
+
+127. In 2016, an International Working Group redefined chronic pancreatitis as:
+
+- Irreversible fibrosis of the pancreas without infection
+- **A continuing inflammatory disease of the pancreas characterized by irreversible morphologic change, typically causing pain and/or permanent loss of function**
+- Chronic inflammation with reversible exocrine dysfunction
+- Repeated acute pancreatitis episodes
+
+*Explanation: In 2016, an International Working Group defined CP as "a continuing inflammatory disease of the pancreas, characterized by irreversible morphologic change, and typically causing pain and/or permanent loss of function."*
+
+---
+
+128. The global pooled incidence of chronic pancreatitis per Xiao et al. is:
+
+- 5 cases per 100,000 per year
+- **10 cases per 100,000 per year**
+- 20 cases per 100,000 per year
+- 34 cases per 100,000 per year
+
+*Explanation: According to the systematic review by Xiao et al., the global pooled incidence of CP is 10 cases per 100,000 individuals in the general population per year.*
+
+---
+
+129. The prevalence of exocrine pancreatic insufficiency (EPI) in chronic pancreatitis ranges from:
+
+- 10%–20%
+- 20%–40%
+- **40%–75%**
+- 80%–90%
+
+*Explanation: The prevalence of EPI ranges from 40% to 75% in patients with CP, and the risk is highest in those with alcohol and/or tobacco use or fibrocalcific pancreatitis.*
+
+---
+
+130. The TIGAR-O classification system for chronic pancreatitis was most recently updated in:
+
+- 2007
+- 2012
+- 2016
+- **2019**
+
+*Explanation: The TIGAR-O (Toxic-Metabolic, Idiopathic, Genetic, Autoimmune, Recurrent and Severe Acute Pancreatitis and Obstructive) Pancreatitis Risk/Etiology Checklist version 2.0 was updated in 2019.*
+
+---
+
+131. Which investigation should be used in chronic pancreatitis if there is uncertainty after cross-sectional imaging?
+
+- ERCP
+- **EUS**
+- PET scan
+- HIDA scan
+
+*Explanation: EUS should be used if there is uncertainty after cross-sectional imaging in the diagnosis of chronic pancreatitis.*
+
+---
+
+132. Secretin-enhanced MRCP is used in chronic pancreatitis to:
+
+- Detect pancreatic cancer
+- Measure exocrine function directly
+- Visualize peripancreatic vessels
+- **Identify subtle ductal abnormalities when other modalities are not diagnostic**
+
+*Explanation: Secretin-enhanced MRCP should be used if former modalities are not diagnostic, identifying subtle ductal abnormalities that may provide morphologic clues for the diagnosis of CP.*
+
+---
+
+133. Genetic testing in CP should evaluate for mutations in all of the following genes EXCEPT:
+
+- PRSS1 (cationic trypsinogen)
+- SPINK1
+- CFTR
+- **HFE**
+
+*Explanation: Genetic testing in CP evaluates for PRSS1, PRSS2 (anionic trypsinogen), SPINK1, and CFTR gene mutations. HFE gene mutation testing is relevant for hemochromatosis, not CP.*
+
+---
+
+134. Patients with CP typically suffer from all of the following EXCEPT:
+
+- Debilitating abdominal pain
+- Malnutrition
+- **Hepatocellular carcinoma as a primary complication**
+- Pancreatic endocrine failure (type 3c diabetes)
+
+*Explanation: Patients with CP typically suffer from debilitating abdominal pain, malnutrition, osteoporosis, fat-soluble vitamin deficiency, and type 3c diabetes mellitus. Hepatocellular carcinoma is primarily a complication of liver cirrhosis.*
+
+---
+
+### Section 19: Pancreatic Cancer
+
+135. New-onset diabetes is described in pancreatic cancer as:
+
+- A late manifestation
+- An incidental finding unrelated to tumor
+- A consequence of chemotherapy
+- **An early manifestation and unique phenomenon occurring up to 3 years before diagnosis**
+
+*Explanation: Up to 80% of patients lose glycemic control over 3 years before the diagnosis of pancreatic cancer. New-onset diabetes is an early manifestation and a unique phenomenon of pancreatic cancer.*
+
+---
+
+136. Abdominal pain in pancreatic cancer has all of the following characteristics EXCEPT:
+
+- Visceral, gnawing quality
+- Generally epigastric
+- May radiate to flanks and back
+- **Relieved by lying flat (supine position)**
+
+*Explanation: The pain in pancreatic cancer may worsen in the supine position and postprandially, exacerbates at night, and is sleep disturbing. It is not relieved by lying flat.*
+
+---
+
+137. Perineural invasion in pancreatic cancer:
+
+- Is uncommon, occurring in <20% of cases
+- Is unrelated to prognosis
+- **Has a prevalence of ~80%–100% and is related to poor prognosis and local recurrence**
+- Only occurs in body and tail tumors
+
+*Explanation: Perineural invasion is a characteristic of pancreatic cancer with a high prevalence of approximately 80% to 100%, and is strongly associated with local recurrence after curative resection.*
+
+---
+
+138. Approximately what proportion of patients with pancreatic cancer have had three or more consultations for cancer symptoms before referral to an HPB surgeon?
+
+- 10%
+- 25%
+- **50%**
+- 75%
+
+*Explanation: Approximately 50% of patients are more likely to have had three or more consultations for cancer symptoms before referring to the HPB surgeon.*
+
+---
+
+139. Trousseau's syndrome (thrombophlebitis migrans) in pancreatic cancer is:
+
+- A common and highly specific sign
+- Only seen with head tumors
+- **Uncommon and nonspecific systemic sign of neoplastic disease**
+- A skin manifestation unique to pancreatic cancer
+
+*Explanation: Trousseau's syndrome (thrombophlebitis migrans) is a systemic sign of neoplastic disease, but it is uncommon and nonspecific.*
+
+---
+
+140. Multiphasic contrast-enhanced CT (CECT) for pancreatic cancer has a sensitivity of:
+
+- 60%–70%
+- 75%–85%
+- **89%–97% compared with histopathology**
+- 99%–100%
+
+*Explanation: Multiphasic CECT is the most ubiquitous imaging test with a sensitivity of 89% to 97% compared with histopathology, reaching 100% for tumors larger than 2 cm.*
+
+---
+
+141. EUS combined with fine-needle aspiration has a sensitivity of what percentage for detecting pancreatic cancer?
+
+- 70%
+- 80%
+- **90%**
+- 95%
+
+*Explanation: EUS combined with endoscopic-guided fine-needle aspiration has a sensitivity of 90% for detecting pancreatic cancer, but it is not widely available.*
+
+---
+
+142. Jaundice with tumor of the body or tail of the pancreas usually signifies:
+
+- Direct CBD compression
+- Courvoisier's gallbladder
+- **Hilar liver or nodal metastases**
+- Duodenal invasion
+
+*Explanation: When jaundice occurs with tumors of the body or tail of the pancreas, it usually signifies hilar liver or nodal metastases rather than direct biliary compression.*
+
+---
+
+### Section 20: Assessment of Fitness for Major HPB Surgery
+
+143. The median age for HPB cancer diagnosis is:
+
+- 55 years
+- 60 years
+- **66 years**
+- 70 years
+
+*Explanation: The median age for HPB cancer diagnosis is 66 years, and the number of patients will continue to rise, making surgical resections high risk because of age, frailty, and multiple comorbidities.*
+
+---
+
+144. The comprehensive geriatric assessment (CGA) evaluates which aspects of patient health?
+
+- Only physical function
+- Only cognitive function
+- Only nutritional status
+- **Medical, functional, and psychosocial status**
+
+*Explanation: The CGA is a multidimensional diagnostic tool that evaluates the medical, functional, and psychosocial status of elderly patients, helping to identify vulnerable patients at increased risk for poor surgical outcomes.*
+
+---
+
+145. Frailty is defined by the presence of THREE OR MORE of the following criteria. Which is CORRECT?
+
+- Age >70, polypharmacy, cognitive impairment, low albumin, sarcopenia
+- **Unintentional weight loss >10 lbs/year, self-reported exhaustion, weakness by grip strength, slow walking speed, low physical activity**
+- BMI <20, muscle wasting, cognitive decline, depression, falls
+- ASA ≥3, ECOG ≥2, weight loss, polypharmacy, distant metastases
+
+*Explanation: Frailty is defined by the presence of three or more of: unintentional weight loss >10 lbs in the previous year, self-reported exhaustion, weakness measured by grip strength, slow walking speed, and low levels of physical activity.*
+
+---
+
+146. Sarcopenia in the preoperative assessment of HPB patients is best assessed by:
+
+- Six-Minute Walk Test
+- Grip strength measurement
+- **CT-based measurements of skeletal muscle mass**
+- DEXA scan
+
+*Explanation: Sarcopenia describes morphometric data indicating loss of skeletal mass and can be preoperatively assessed by CT-based measurements; its presence has been associated with poorer surgical outcomes.*
+
+---
+
+147. Post-resection liver failure (PLF) is the most important factor associated with postoperative mortality after:
+
+- Pancreatic resection
+- Biliary surgery
+- **Major liver resection**
+- HPB cancer surgery in general
+
+*Explanation: Postresection liver failure (PLF) remains the most important factor associated with postoperative mortality after major liver resections.*
+
+---
+
+148. In a healthy liver, approximately what percentage of liver parenchyma must be preserved to prevent PLF?
+
+- 10%
+- 15%
+- **25%**
+- 40%
+
+*Explanation: In healthy livers, approximately 25% of the liver parenchyma needs to be preserved to prevent PLF. In damaged, post-chemotherapy, or cirrhotic livers, up to 50% needs to be spared.*
+
+---
+
+149. The indocyanine green retention rate at 15 minutes (ICG-R15) in healthy patients is:
+
+- Less than 5%
+- **8%–15%**
+- 15%–22%
+- More than 22%
+
+*Explanation: In healthy patients, the ICG R15 is between 8% and 15%, and the cutoff indicative of the need for a major hepatectomy is between 14% and 17%.*
+
+---
+
+150. Limited hepatectomy may be performed for ICG R15 values up to:
+
+- 17%
+- 22%
+- 30%
+- **40%**
+
+*Explanation: Limited hepatectomies may be performed for ICG R15 values up to 40%, while minor resections may be performed for values reaching 22%.*
+
+---
+
+### Section 21: Mixed and Advanced Topics
+
+151. Which scoring system assesses the severity and prognosis of liver disease?
+
+- APACHE II
+- BISAP
+- **Child-Turcotte-Pugh (CTP) and MELD**
+- HAPS
+
+*Explanation: The Child-Turcotte-Pugh (CTP) score and Model for End-Stage Liver Disease (MELD) assess the severity and prognosis of liver disease, particularly in ALD.*
+
+---
+
+152. Which of the following scoring systems for severity prediction in acute pancreatitis has a HIGH false-positive rate?
+
+- Atlanta classification
+- Ranson criteria only
+- **All of APACHE II, Glasgow, BISAP, HAPS, PANC 3, JSS, POP (all have high false-positive rates)**
+- CT Severity Index only
+
+*Explanation: The chapter states that all these methods (APACHE II, APACHE-O, Glasgow, HAPS, PANC 3, JSS, POP, and BISAP) have a high false-positive rate, are complex, and are not routinely used.*
+
+---
+
+153. The Physiologic and Operative Severity Score for the Enumeration of Mortality and Morbidity (POSSUM) was developed in:
+
+- 1985
+- 1988
+- **1991**
+- 1995
+
+*Explanation: The POSSUM scoring system was developed in 1991 by Copeland et al. and has been evaluated extensively in both general surgery and HPB surgery.*
+
+---
+
+154. Tissue elastography (transient elastography) is a noninvasive method used to:
+
+- Detect gallstones
+- Measure portal pressure
+- **Measure liver stiffness and predict liver fibrosis**
+- Assess hepatic vasculature
+
+*Explanation: Tissue elastography is a noninvasive method of measuring liver stiffness and predicting liver fibrosis, with results expressed in kPa.*
+
+---
+
+155. The serum surrogate markers for cirrhosis include all of the following EXCEPT:
+
+- Aspartate aminotransferase-to-platelet ratio index (APRI)
+- Forns index
+- FibroTest
+- **Indocyanine green clearance**
+
+*Explanation: Serum surrogate markers for cirrhosis include the aspartate aminotransferase-to-platelet ratio index, the Forns index, and the FibroTest. ICG clearance is a functional liver test, not a serum surrogate marker for cirrhosis.*
+
+---
+
+156. According to the M-ANNHEIM classification, its primary purpose in chronic pancreatitis is to:
+
+- Grade severity of AP
+- Assess surgical risk
+- **Categorize etiology and evaluate the impact of various risk factors on the course of disease**
+- Determine ERCP candidacy
+
+*Explanation: The M-ANNHEIM multiple risk factor classification and the TIGAR-O Checklist are used to categorize the etiology and evaluate the impact and interaction of various risk factors on the course of chronic pancreatitis.*
+
+---
+
+157. In the diagnosis of acute cholangitis, the Tokyo Guidelines rely on which three items?
+
+- Pain, fever, and imaging
+- Fever, jaundice, and pain (Charcot's triad)
+- **Systemic inflammation, cholestasis, and imaging**
+- WBC, bilirubin, and ultrasound findings
+
+*Explanation: The diagnostic criteria for acute cholangitis per the Tokyo Guidelines rely on three items: systemic inflammation, cholestasis, and imaging, with moderate diagnostic accuracy.*
+
+---
+
+158. Which genetic mutations have been associated with acute pancreatitis pathogenesis? (Select the most complete answer)
+
+- Only PRSS1
+- PRSS1 and SPINK1
+- PRSS1, SPINK1, and CFTR
+- **PRSS1, SPINK1, CFTR, chymotrypsin C, calcium-sensing receptor, and claudin-2**
+
+*Explanation: AP has been associated with genetic mutations in genes encoding cationic trypsinogen (PRSS1), SPINK1, CFTR, chymotrypsin C, calcium-sensing receptor, and claudin-2.*
+
+---
+
+159. MRI-based T1 relaxometry with Gd-EOB-DTPA is an emerging method for:
+
+- Detecting CBD stones
+- Characterizing hemangiomas
+- Staging pancreatic cancer
+- **Assessing overall and segmental liver function preoperatively**
+
+*Explanation: MRI-based T1 relaxometry with the liver-specific contrast agent gadolinium-ethoxybenzyl diethylene-triaminepentaacetic acid (Gd-EOB-DTPA) is an emerging method for assessing overall and segmental liver function.*
+
+---
+
+160. Transition from first episode of acute pancreatitis to recurrent acute pancreatitis (RAP) was shown to be higher in which etiology?
+
+- Hypertriglyceridemia-induced pancreatitis
+- ERCP-induced pancreatitis
+- **Alcohol-induced versus biliary pancreatitis**
+- Autoimmune pancreatitis
+
+*Explanation: Transition from first episode of AP to RAP and subsequently to CP was higher in patients with alcohol-induced versus biliary pancreatitis, per the systematic review by Sankaran et al. in 2015.*

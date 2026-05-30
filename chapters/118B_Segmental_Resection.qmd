@@ -1,0 +1,1401 @@
+# 118B Segmental Resection
+
+1. **According to Couinaud's classification, how many segments does the liver consist of?**  
+    A. 4 segments  
+    B. 6 segments  
+    **C. 8 segments**  
+    D. 10 segments  
+    *Correct: C. Couinaud determined the liver comprised eight segments, each with independent vascular inflow and outflow, as well as biliary drainage.*
+
+2. **Which hepatic vein separates the right anterior section from the right posterior section?**  
+    A. Left hepatic vein  
+    **B. Right hepatic vein**  
+    C. Middle hepatic vein  
+    D. Inferior hepatic vein  
+    *Correct: B. The right hepatic vein separates the right anterior section (segments V and VIII) from the right posterior section (segments VI and VII).*
+
+3. **What is the boundary between the right and left hemilivers?**  
+    A. The falciform ligament  
+    **B. Cantlie's line marked by the middle hepatic vein**  
+    C. The umbilical fissure  
+    D. The right triangular ligament  
+    *Correct: B. The first-order division into right and left liver is separated by Cantlie's line marked by the path of the middle hepatic vein from the middle of the gallbladder fossa to the IVC.*
+
+4. **Which of the following is a second-order division of the liver?**  
+    A. Segment I  
+    **B. Right anterior section**  
+    C. Segment VIII  
+    D. Left lateral segment  
+    *Correct: B. Second-order divisions include right anterior section, right posterior section, left medial section, and left lateral section.*
+
+5. **The Brisbane 2000 Terminology was developed primarily to:**  
+    A. Standardize surgical techniques for liver resection  
+    **B. Eliminate variation in terminology between America, Europe, and Japan**  
+    C. Create a universal staging system for liver tumors  
+    D. Standardize the use of intraoperative ultrasound  
+    *Correct: B. The Brisbane 2000 Terminology aimed to eliminate variation in liver anatomy terminology between different regions and standardize nomenclature.*
+
+6. **Which segment is known as the caudate lobe?**  
+    A. Segment II  
+    B. Segment IV  
+    **C. Segment I**  
+    D. Segment VIII  
+    *Correct: C. Segment I is the caudate lobe, which lies between the portal vein and the IVC with venous drainage through many small hepatic veins directly into the IVC.*
+
+7. **For hepatocellular carcinoma resection, which anatomical approach is typically preferred?**  
+    A. Hepatic venous outflow approach  
+    **B. Portal pedicle inflow approach**  
+    C. Biliary drainage approach  
+    D. Arterial supply approach  
+    *Correct: B. For hepatocellular carcinoma, which tends to metastasize via tumor seeding along portal veins, the portal pedicle inflow approach is typically preferred.*
+
+8. **What is the purpose of injecting portal venous dye during segmental resection?**  
+    A. To identify arterial variations  
+    B. To assess liver function  
+    **C. To demarcate liver segments intended for resection**  
+    D. To evaluate biliary anatomy  
+    *Correct: C. Portal venous dye (methylene blue or indigo carmine) is injected to demarcate liver segments intended for resection, helping guide parenchymal transection.*
+
+9. **Which of the following is NOT a third-order division of the liver?**  
+    A. Segment II  
+    B. Segment V  
+    **C. Left lateral section**  
+    D. Segment VIII  
+    *Correct: C. Left lateral section is a second-order division (comprising segments II and III), while segments I-VIII represent third-order divisions.*
+
+10. **What is the preferred CVP level during liver parenchymal transection to minimize bleeding?**  
+    A. <2 mm Hg  
+    **B. <5 mm Hg**  
+    C. <10 mm Hg  
+    D. <15 mm Hg  
+    *Correct: B. Maintaining low CVP (<5 mm Hg) is the most important maneuver for minimizing outflow bleeding during liver parenchymal transection.*
+
+11. **Which structure divides the left lateral section from the left medial section?**  
+    A. Middle hepatic vein  
+    **B. Umbilical fissure and falciform ligament**  
+    C. Right hepatic vein  
+    D. Ligamentum venosum  
+    *Correct: B. The left hemiliver is divided into left lateral (segments II and III) and left medial (segments IVa and IVb) sections by the umbilical fissure and falciform ligament.*
+
+12. **Which of the following is a common indication for segmental resection rather than lobectomy?**  
+    A. Large hepatocellular carcinoma  
+    B. Extensive metastatic disease  
+    **C. Underlying hepatocellular dysfunction**  
+    D. Portal vein thrombosis  
+    *Correct: C. Parenchymal preservation is especially important in patients with underlying hepatocellular dysfunction or limited future residual volume.*
+
+13. **Which hepatic vein is found by tracing the right phrenic vein medially on the diaphragm toward the IVC?**  
+    A. Left hepatic vein  
+    B. Middle hepatic vein  
+    **C. Right hepatic vein**  
+    D. Inferior hepatic vein  
+    *Correct: C. The right hepatic vein is found by tracing the right phrenic vein medially on the diaphragm towards the IVC.*
+
+14. **What is the primary advantage of segmental resection over lobectomy?**  
+    A. Shorter operative time  
+    B. Lower risk of bile leak  
+    **C. Maximal conservation of normal liver parenchyma**  
+    D. Better visualization of tumor margins  
+    *Correct: C. Resection of individual segments or sectors rather than an entire lobe allows for maximal conservation of normal liver parenchyma while optimizing oncologic outcomes.*
+
+15. **Which technique involves using a curved Rochester-pean to separate liver parenchyma?**  
+    A. Cavitron Ultrasonic Surgical Aspirator technique  
+    **B. Kelly crush-clamp technique**  
+    C. LigaSure vessel sealer technique  
+    D. Stapler technique  
+    *Correct: B. The Kelly crush-clamp technique involves advancing one jaw of a curved Rochester-pean along the transection line, capturing tissue, and gently closing to separate soft liver parenchyma.*
+
+16. **Which liver segment is most challenging to resect in isolation due to deep vascular pedicles and lack of surface landmarks?**  
+    A. Segment II  
+    B. Segment IV  
+    **C. Segment VIII**  
+    D. Segment VI  
+    *Correct: C. Segments VII and VIII are challenging due to their deep vascular pedicles and relative absence of surface anatomic landmarks.*
+
+17. **When performing a right hepatectomy, what structure follows Cantlie's line?**  
+    A. Right hepatic vein  
+    **B. Middle hepatic vein**  
+    C. Left hepatic vein  
+    D. Portal vein bifurcation  
+    *Correct: B. The middle hepatic vein follows Cantlie's line from the center of the gallbladder bed to the IVC, also known as the "principle plane."*
+
+18. **For which type of liver tumor is the hepatic venous outflow approach typically preferred in Western practice?**  
+    A. Hepatocellular carcinoma  
+    **B. Colorectal liver metastases**  
+    C. Cholangiocarcinoma  
+    D. Neuroendocrine tumor metastases  
+    *Correct: B. In Western practice, where colorectal liver metastases are commonly resected, following hepatic veins during segmental resection is often preferred.*
+
+19. **What is the most common anatomical variation of the intrahepatic portal system?**  
+    A. Absence of right portal vein  
+    B. Left portal vein supplying right lobe  
+    **C. Typical portal anatomy present in approximately two-thirds of patients**  
+    D. Complete absence of portal vein  
+    *Correct: C. Typical portal anatomy is present in approximately two-thirds of patients, with variations present in one-third.*
+
+20. **Which of the following is NOT a component of the Brisbane 2000 Terminology orders of division?**  
+    A. Hemiliver (first-order division)  
+    B. Section (second-order division)  
+    **C. Lobule (third-order division)**  
+    D. Segment (third-order division)  
+    *Correct: C. The Brisbane 2000 Terminology proposed three orders: hemiliver (first-order), section (second-order), and segment (third-order), not lobule.*
+
+21. **Which structure should be preserved during left lateral sectionectomy to maintain caudate lobe blood supply?**  
+    A. Right hepatic artery  
+    **B. Portal branches at the portoumbilical fissure**  
+    C. Middle hepatic vein  
+    D. Right portal pedicle  
+    *Correct: B. The blood supply to the caudate emerges from the portal vein and left hepatic artery at the level of the portoumbilical fissure and should be preserved.*
+
+22. **What is the primary reason for choosing a hepatic venous based resection in patients with neoadjuvant chemotherapy?**  
+    A. To reduce operative time  
+    B. To minimize blood loss  
+    **C. To avoid difficulty distinguishing tumors from fatty liver**  
+    D. To improve oncologic outcomes  
+    *Correct: C. After neoadjuvant chemotherapy, the liver becomes hyperechoic and hyperechoic tumors become indistinguishable from surrounding liver on ultrasound.*
+
+23. **Which instrument is preferred by the authors for liver transection after initial capsule division?**  
+    A. Cavitron Ultrasonic Surgical Aspirator  
+    **B. Electrothermal bipolar vessel sealer**  
+    C. Ultrasonic shears  
+    D. Linear cutting stapler  
+    *Correct: B. The authors' preference is to use cautery through the liver capsule followed by "Kelly crush-clamp" technique and then using the electrothermal bipolar vessel sealer.*
+
+24. **Which of the following best describes the trajectory of the middle hepatic vein?**  
+    A. From the IVC to the right hepatic vein  
+    B. From the left portal vein to the IVC  
+    **C. From the center of the gallbladder bed to the IVC**  
+    D. From the falciform ligament to the right triangular ligament  
+    *Correct: C. The trajectory of the middle hepatic vein follows from the center of the gallbladder bed to the IVC, known as the "principle plane" or Cantlie's line.*
+
+25. **What is the primary purpose of the Pringle maneuver during liver resection?**  
+    A. To control hepatic venous bleeding  
+    **B. To decrease inflow bleeding**  
+    C. To identify segmental boundaries  
+    D. To reduce portal pressure  
+    *Correct: B. Clamping the extrahepatic portal triad (Pringle maneuver) is an effective maneuver for decreasing inflow bleeding from the hepatic artery or portal vein.*
+
+26. **Which segmental resection is performed for tumors directly on the right hepatic vein?**  
+    A. Right anterior sectionectomy  
+    B. Right posterior sectionectomy  
+    **C. Combined resection of segments VII and VIII**  
+    D. Mesohepatectomy  
+    *Correct: C. Combined resection of segments VII and VIII is rarely performed and involves removal of the top of the right liver, indicated for tumors directly on the RHV.*
+
+27. **What is the primary indication for a caudate lobe (segment I) resection?**  
+    A. Metastatic colorectal cancer  
+    **B. Primary tumors of the caudate lobe**  
+    C. Diffuse liver cirrhosis  
+    D. Portal hypertension  
+    *Correct: B. Caudate lobe resection is indicated for primary tumors of the caudate lobe, which lies between the portal vein and the IVC.*
+
+28. **Which of the following is a key step in left lateral sectionectomy?**  
+    A. Division of the right triangular ligament  
+    **B. Division of the left triangular ligament**  
+    C. Mobilization of the right adrenal gland  
+    D. Stapling of the right hepatic vein  
+    *Correct: B. Left lateral sectionectomy requires mobilization of the left liver by division of the falciform ligament and the left triangular ligament.*
+
+29. **What is the primary blood supply to the caudate lobe?**  
+    A. Right hepatic artery only  
+    B. Left hepatic artery only  
+    **C. Both right and left portal veins**  
+    D. Middle hepatic artery  
+    *Correct: C. The caudate lobe's portal inflow is from both the right and left portal veins but typically is primarily via the left portal vein.*
+
+30. **Which structure should be ligated and divided to lengthen the extrahepatic portion of the left hepatic vein during left lateral sectionectomy?**  
+    A. Falciform ligament  
+    B. Ligamentum teres  
+    **C. Ligamentum venosum**  
+    D. Round ligament  
+    *Correct: C. The ligamentum venosum is ligated and divided as it enters the posterior aspect of the left hepatic vein to lengthen its extrahepatic portion.*
+
+31. **Which of the following is a common reason to convert from a left-sided to a right-sided approach during caudate lobe resection?**  
+    A. Bleeding from the middle hepatic vein  
+    **B. Compromised exposure**  
+    C. Injury to the left hepatic artery  
+    D. Portal vein thrombosis  
+    *Correct: B. If during an attempted left-sided approach to a caudate resection there is compromised exposure, the approach should be converted to a right-sided mobilization.*
+
+32. **What is the primary indication for an anterior approach to caudate lobe resection?**  
+    A. Small tumor size  
+    **B. Large, superior tumor close to hepatic veins**  
+    C. Portal vein invasion  
+    D. Multiple metastases  
+    *Correct: B. For large, superior tumors close to the hepatic veins, or in cirrhotic livers that cannot be rotated, the caudate can be approached anteriorly by splitting the liver.*
+
+33. **Which segment is isolated by ligation of the pedicle within the umbilical fissure above the caudate branches?**  
+    A. Segment I  
+    **B. Segment II**  
+    C. Segment III  
+    D. Segment IV  
+    *Correct: B. The segment II portal pedicle should be identified in the umbilical fissure above the caudate branches; ligation delineates segment II for resection.*
+
+34. **Why is isolated segment II resection less commonly performed than combined segment II and III resection?**  
+    A. Higher risk of portal vein thrombosis  
+    **B. Difficulty preserving left hepatic vein drainage**  
+    C. Increased risk of bile duct injury  
+    D. Limited oncologic benefit  
+    *Correct: B. Combined segment II and III resection is safer and more feasible than isolated segment II due to the difficulty of preserving left hepatic vein drainage.*
+
+35. **Which of the following best describes the transection plane for segment IV resection?**  
+    A. Along Cantlie's line to the right of the MHV  
+    **B. Just to the right side of the falciform ligament**  
+    C. Parallel to the right hepatic vein  
+    D. Along the umbilical fissure  
+    *Correct: B. Parenchymal transection for segment IV resection commences just to the right side of the falciform ligament to avoid injury to the umbilical portion of the left portal vein.*
+
+36. **What is the primary venous drainage of segment IV?**  
+    A. Left hepatic vein  
+    **B. Middle hepatic vein**  
+    C. Right hepatic vein  
+    D. Inferior hepatic veins  
+    *Correct: B. Outflow from segment IV is predominantly to the middle hepatic vein, though occasionally a separate draining vein goes directly to the suprahepatic IVC.*
+
+37. **Which structure is visible in 68% to 90% of individuals and helps identify the junction of right anterior and posterior pedicles?**  
+    A. Cantlie's line  
+    **B. Rouviere's sulcus**  
+    C. Ligamentum teres  
+    D. Falciform ligament  
+    *Correct: B. Rouviere's sulcus (fissure of Ganz) is visible in 68% to 90% of individuals, and the junction of right anterior and posterior pedicles usually lies deep within it.*
+
+38. **Which of the following is the preferred approach for isolated segment V resection?**  
+    A. Along the right side of the middle hepatic vein  
+    **B. Along the left side of the right hepatic vein**  
+    C. Parallel to the middle hepatic vein  
+    D. Along the falciform ligament  
+    *Correct: B. Isolated segment V resection involves division of the liver along a plane to the left of the right hepatic vein, extending along the fissure of Gans.*
+
+39. **What is the primary challenge in performing an isolated segment VIII resection?**  
+    A. High risk of bile leak  
+    B. Difficulty controlling the right hepatic vein  
+    **C. No external demarcation and no easy way to control inflow pedicle**  
+    D. Proximity to the portal vein bifurcation  
+    *Correct: C. Segment VIII resection is challenging since there is no external demarcation of this segment and no easy way of controlling the inflow pedicle early.*
+
+40. **Which of the following best describes the plane of transection for right anterior sectionectomy (segments V and VIII)?**  
+    A. To the left of the right hepatic vein  
+    **B. Just to the right of the middle hepatic vein**  
+    C. Along Cantlie's line to the left of the middle hepatic vein  
+    D. Parallel to the left hepatic vein  
+    *Correct: B. The division of hepatic parenchyma for right anterior sectionectomy follows the margin of vascular demarcation just to the right of the middle hepatic vein.*
+
+41. **Which structure is sacrificed during an isolated segment VI resection?**  
+    A. Middle hepatic vein  
+    B. Left hepatic vein  
+    **C. Right hepatic vein**  
+    D. Portal vein bifurcation  
+    *Correct: C. The right hepatic vein can be sacrificed for an isolated segment VI resection.*
+
+42. **Which segment is located most posteriorly in the right liver?**  
+    A. Segment V  
+    **B. Segment VII**  
+    C. Segment VIII  
+    D. Segment VI  
+    *Correct: B. Segment VII is the most posterior segment in the right liver, making isolated resection more difficult due to its location against the right diaphragm.*
+
+43. **What is the primary indication for right posterior sectionectomy (segments VI and VII) instead of formal right hepatectomy?**  
+    A. Tumor size >10 cm  
+    **B. Underlying hepatic dysfunction**  
+    C. Portal vein invasion  
+    D. Extrahepatic metastases  
+    *Correct: B. A right posterior sectionectomy is an alternative to formal right hepatectomy, especially in patients with underlying hepatic dysfunction.*
+
+44. **Which of the following is true about the middle and left hepatic veins?**  
+    A. They are always separate before entering the IVC  
+    **B. They are fused at the IVC in 70% of patients**  
+    C. They drain directly into the portal vein  
+    D. They are always separate structures  
+    *Correct: B. The middle and left hepatic veins are fused at the IVC in 70% of patients.*
+
+45. **Which of the following is a common indication for combined resection of segments V and VI?**  
+    A. Tumor involving the caudate lobe  
+    **B. Tumors in segment VI**  
+    C. Tumors involving the middle hepatic vein  
+    D. Diffuse intrahepatic cholangiocarcinoma  
+    *Correct: B. Resection of segments V and VI is frequently performed for tumors in segment VI, as shown in Figure 118B.12.*
+
+46. **Which imaging modality offers the best detection and characterization of liver lesions regardless of parenchymal liver disease?**  
+    A. Contrast-enhanced CT  
+    **B. MRI**  
+    C. PET scan  
+    D. Ultrasound  
+    *Correct: B. MRI offers the best detection and characterization of liver lesions regardless of parenchymal liver disease, including fatty liver and cirrhosis.*
+
+47. **Which of the following is NOT a standard indication for diagnostic laparoscopy before liver resection?**  
+    A. Cholangiocarcinoma  
+    B. Gallbladder cancer  
+    **C. Colorectal liver metastases**  
+    D. Hepatocellular carcinoma with suspicious features  
+    *Correct: C. Diagnostic laparoscopy has highest diagnostic yield for cholangiocarcinoma and gallbladder cancer, but is less commonly indicated for colorectal liver metastases.*
+
+48. **What is the primary purpose of three-dimensional (3D) reconstructions in preoperative planning for liver resection?**  
+    A. To replace standard CT or MRI  
+    B. To reduce operative time  
+    **C. To better localize liver tumors and identify relationships with vascular structures**  
+    D. To assess liver function  
+    *Correct: C. 3D reconstructions allow surgeons to better localize liver tumors and identify the relationship of the tumor with segmental hepatic venous outflow and portal venous inflow.*
+
+49. **Which software is mentioned as free open-source software for 3D liver reconstructions?**  
+    A. TeraRecon  
+    B. Materialise Mimics  
+    C. Visible Patient  
+    **D. 3D Slicer**  
+    *Correct: D. Products such as 3D Slicer exist as free open-source software for creating 3D graphical liver models.*
+
+50. **Which of the following is a preferred patient position for open segmental liver resections?**  
+    A. Lateral decubitus  
+    **B. Supine with arms tucked**  
+    C. Prone  
+    D. Reverse Trendelenburg  
+    *Correct: B. For open segmental liver resections, the patient should be placed in the supine position with arms tucked for maximum flexibility and to prevent nerve injuries.*
+
+51. **Why are arms tucked during open liver resection?**  
+    A. To improve surgical access  
+    **B. To prevent perioperative upper extremity nerve traction injuries**  
+    C. To reduce blood loss  
+    D. To improve respiratory function  
+    *Correct: B. Arms are tucked primarily to prevent perioperative upper extremity nerve traction injuries through arm hyperabduction during long operations.*
+
+52. **Which incision is usually adequate for left-sided liver lesions?**  
+    A. Right subcostal with midline extension  
+    B. Bilateral subcostal ("Mercedes")  
+    **C. Midline incision**  
+    D. Thoracoabdominal incision  
+    *Correct: C. A midline incision is usually adequate for left-sided lesions and can be extended laterally if needed (L-incision).*
+
+53. **Which retractor is preferred by the authors for liver surgery?**  
+    A. Bookwalter  
+    B. Omni-Tract  
+    **C. Thompson**  
+    D. Balfour  
+    *Correct: C. The authors' preference is a Thompson retractor, which generally has a crossbar across the patient's chest for excellent cephalad retraction.*
+
+54. **Which structure should be divided first during liver mobilization?**  
+    A. Left triangular ligament  
+    **B. Ligamentum teres and falciform ligament**  
+    C. Right triangular ligament  
+    D. Coronary ligament  
+    *Correct: B. After laparotomy, the liver is mobilized by transection of the ligamentum teres and division of the falciform ligament cephalad to the subdiaphragmatic IVC.*
+
+55. **What is the primary purpose of leaving a long silk tie on the ligamentum teres after division?**  
+    A. To control bleeding  
+    **B. To use as a handle for manipulation of the liver**  
+    C. To mark the resection margin  
+    D. To identify the falciform ligament  
+    *Correct: B. A long silk tie should be left on the ligamentum teres to use as a handle for manipulation of the liver or fixed cephalad to the retractor for additional exposure.*
+
+56. **Which structure must be carefully identified and avoided during division of the bare area in the lesser omentum?**  
+    A. Portal vein  
+    B. Common bile duct  
+    **C. Anomalous left hepatic artery from the left gastric artery**  
+    D. Hepatic artery proper  
+    *Correct: C. Care should be taken during this step to identify and avoid an anomalous left hepatic artery, arising from the left gastric artery.*
+
+57. **Which structure is identified by tracing the left phrenic vein on the diaphragm during left liver mobilization?**  
+    A. Portal vein  
+    **B. Left hepatic vein**  
+    C. Middle hepatic vein  
+    D. Right hepatic vein  
+    *Correct: B. As dissection proceeds medially during left liver mobilization, attention should be paid to the takeoff of the left hepatic vein, identified by the left phrenic vein.*
+
+58. **What is the primary risk when dissecting the tendinous portion of the diaphragm?**  
+    A. Hemorrhage  
+    **B. Pneumothorax**  
+    C. Bile leak  
+    D. Nerve injury  
+    *Correct: B. During dissection of the tendinous portion of the diaphragm, errant dissection especially with the Bovie will produce a pneumothorax.*
+
+59. **Which structure is present in 21% of patients and often drains segment VI behind the caudate process?**  
+    A. Middle hepatic vein  
+    B. Left hepatic vein  
+    **C. Large inferior right hepatic vein**  
+    D. Portal vein branch  
+    *Correct: C. If a large inferior right hepatic vein is present (in 21% of patients, often draining segment VI), it usually lies behind the caudate process.*
+
+60. **Which technique is preferred by the authors for ligating vessels near major hepatic veins?**  
+    A. Metal clips  
+    **B. Silk ties**  
+    C. Stapler  
+    D. Electrocautery  
+    *Correct: B. The authors prefer ties over clips in the region of the major hepatic veins since clips may interfere with stapled transections of the hepatic veins.*
+
+61. **Which of the following best describes the Kelly crush technique for liver transection?**  
+    A. Using ultrasonic energy to dissect parenchyma  
+    **B. Using a curved Rochester-pean to separate soft liver parenchyma**  
+    C. Using radiofrequency ablation to divide tissue  
+    D. Using a stapler for continuous transection  
+    *Correct: B. One jaw of a curved Rochester-pean is advanced along the transection line, capturing tissue; the pean is gently advanced and then closed to separate soft liver parenchyma.*
+
+62. **Which of the following devices is NOT mentioned as being used for parenchymal transection?**  
+    A. Aquamantys  
+    B. Harmonic Shears  
+    C. Cavitron Ultrasonic Surgical Aspirator  
+    **D. Argon plasma coagulator**  
+    *Correct: D. The text mentions Aquamantys, Harmonic Shears, and CUSA, but not argon plasma coagulator as devices used for parenchymal transection.*
+
+63. **What is the primary advantage of pretransection occlusion of inflow to segments being resected?**  
+    A. Prevents bile leak  
+    **B. Defines the line of division between ischemic segments and perfused remnant**  
+    C. Reduces risk of portal vein thrombosis  
+    D. Improves visualization of hepatic veins  
+    *Correct: B. Occlusion of the hepatic artery and portal vein to segments being resected facilitates the procedure by defining the line of division between ischemic and perfused liver.*
+
+64. **Which of the following is the authors' preference for controlling intrahepatic portal pedicles?**  
+    A. Metal clips  
+    B. Suture ligation  
+    **C. Stapling**  
+    D. Ultrasonic shears  
+    *Correct: C. It is the authors' preference to staple intrahepatic portal pedicles once they are dissected free and an umbilical tape is passed around them.*
+
+65. **How should hepatic veins be controlled according to the authors?**  
+    A. Using metal clips  
+    **B. Using silk suture**  
+    C. Stapling  
+    D. Ultrasonic energy  
+    *Correct: B. Hepatic veins are more delicate than portal pedicles; for this reason, a silk suture is used instead to encircle the vein once it is dissected out.*
+
+66. **What is the primary reason for dividing small venous branches to the IVC during liver mobilization?**  
+    A. To improve visualization  
+    **B. To prevent future tearing of these veins and difficult-to-control hemorrhage**  
+    C. To reduce blood loss during transection  
+    D. To facilitate liver rotation  
+    *Correct: B. Failure to divide all small venous attachments to the IVC may result in future tearing of these veins and hemorrhage that is difficult to control.*
+
+67. **Which of the following is true about the left hepatic vein?**  
+    A. It is always separate from the middle hepatic vein  
+    **B. It is identified by tracing the left phrenic vein medially on the diaphragm**  
+    C. It drains primarily segments V and VIII  
+    D. It is the largest hepatic vein  
+    *Correct: B. The left hepatic vein is identified by tracing the left phrenic vein medially on the diaphragm toward the IVC.*
+
+68. **Which approach is preferred for minimally invasive liver surgery by the authors?**  
+    A. Standard laparoscopy  
+    **B. Robotic surgical system**  
+    C. Endoscopic  
+    D. NOTES (Natural Orifice Transluminal Endoscopic Surgery)  
+    *Correct: B. When performing minimally invasive liver surgery, the authors' preference is to use a robotic surgical system to overcome some limitations of laparoscopy.*
+
+69. **Which of the following is a contraindication to minimally invasive segmental resection?**  
+    A. Small tumor size  
+    B. Left-sided lesion  
+    **C. Need for major or extended hepatectomy**  
+    D. Previous abdominal surgery  
+    *Correct: C. For patients with disease concentrated in a segment and an additional deep central lesion, minimally invasive segmental resection may be considered to avoid a major hepatectomy.*
+
+70. **Which of the following tumors should be treated with nonanatomic resections?**  
+    A. Hepatocellular carcinoma  
+    B. Colorectal liver metastases  
+    **C. Symptomatic benign liver cysts**  
+    D. Cholangiocarcinoma  
+    *Correct: C. Symptomatic benign liver cysts or tumors of low malignant potential should be addressed with liver-sparing techniques including enucleation.*
+
+71. **Which of the following tumors requires almost no margin and has low local recurrence even when enucleated?**  
+    A. Hepatocellular carcinoma  
+    B. Colorectal metastases  
+    **C. Well-differentiated neuroendocrine tumors**  
+    D. Cholangiocarcinoma  
+    *Correct: C. Well-differentiated neuroendocrine tumors separate well from surrounding liver, require almost no margin, and have low local recurrence even when enucleated.*
+
+72. **What is the primary advantage of the portal venous dye technique for systematic segmentectomy?**  
+    A. Reduces operative time  
+    B. Eliminates need for ultrasound  
+    **C. Demarcates liver segments intended for resection**  
+    D. Prevents bile leaks  
+    *Correct: C. Portal venous dye technique is used to demarcate liver segments intended for resection, with staining visible on the liver surface to guide transection.*
+
+73. **Which of the following is the most sensitive imaging modality for detecting pulmonary metastases?**  
+    A. MRI  
+    B. PET scan  
+    **C. CT of the chest without contrast**  
+    D. Ultrasound  
+    *Correct: C. A CT of the chest even without contrast offers the most sensitive detection of pulmonary metastases.*
+
+74. **Which of the following is true about the relationship between the middle and left hepatic veins?**  
+    A. They are always separate structures  
+    **B. They are fused at the IVC in 70% of patients**  
+    C. The left hepatic vein is larger than the middle in most patients  
+    D. They drain directly into the portal vein  
+    *Correct: B. The middle and left hepatic veins are fused at the IVC in 70% of patients.*
+
+75. **Which of the following is the primary venous drainage for segments II and III?**  
+    A. Right hepatic vein  
+    B. Middle hepatic vein  
+    **C. Left hepatic vein**  
+    D. Inferior hepatic veins  
+    *Correct: C. The left hepatic vein is what divides segments II and III, serving as their primary venous drainage.*
+
+76. **Which segment is resected during a left medial sectionectomy?**  
+    A. Segments II and III  
+    **B. Segment IV**  
+    C. Segments V and VIII  
+    D. Segments VI and VII  
+    *Correct: B. Left medial sectionectomy refers to resection of segment IV (also called segmentectomy 4).*
+
+77. **Which segment is most anterior in the right liver?**  
+    A. Segment VI  
+    **B. Segment V**  
+    C. Segment VII  
+    D. Segment VIII  
+    *Correct: B. Segment V is the most anterior segment in the right liver, making it more accessible for resection than posterior segments.*
+
+78. **Which of the following is the primary indication for mesohepatectomy/central hepatectomy?**  
+    A. Tumor involving the caudate lobe only  
+    B. Diffuse intrahepatic cholangiocarcinoma  
+    **C. Large central tumors where extended right or left hepatectomy leaves insufficient residual liver**  
+    D. Multiple bilobar metastases  
+    *Correct: C. Mesohepatectomy is indicated primarily for large central tumors where a formal extended right or left hepatectomy will not leave enough residual liver.*
+
+79. **Which structure is divided to lower the hilar plate during mesohepatectomy?**  
+    A. Ligamentum teres  
+    **B. Areolar tissue between the bifurcation of the common hepatic duct and the liver**  
+    C. Falciform ligament  
+    D. Ligamentum venosum  
+    *Correct: B. The hilar plate is dropped down from the base of segment IV by dividing the areolar tissue between the bifurcation of the common hepatic duct and the liver.*
+
+80. **Which of the following is a common complication of mesohepatectomy compared to other segmental resections?**  
+    A. Higher risk of portal vein thrombosis  
+    **B. More prone to bleeding and bile leak**  
+    C. Higher incidence of liver failure  
+    D. Increased risk of biliary stricture  
+    *Correct: B. Because of the large surface of the cut liver and proximity to the hilar plate, mesohepatectomies are more prone to bleeding and bile leak and may be covered with an omental flap.*
+
+81. **Which of the following is the primary purpose of early occlusion of hepatic venous outflow during segmental resection?**  
+    A. To reduce blood loss  
+    **B. To reduce the risk of venous tumor emboli**  
+    C. To define the resection margin  
+    D. To improve visualization  
+    *Correct: B. Early occlusion of the hepatic venous outflow of any segments being resected may reduce the risk of venous tumor emboli.*
+
+82. **Which of the following best describes the Pringle maneuver timing as described in the text?**  
+    A. Continuous occlusion until resection is complete  
+    **B. Periods of 15 minutes followed by at least 5 minutes of relief**  
+    C. 20 minutes on, 10 minutes off  
+    D. 30 minutes continuous occlusion  
+    *Correct: B. Ideally, inflow occlusion should be limited to periods of 15 minutes followed by at least 5 minute periods of relief to restore perfusion to the remnant.*
+
+83. **Which of the following is the primary reason for using low CVP anesthesia during liver resection?**  
+    A. To improve cardiac output  
+    B. To reduce portal pressure  
+    **C. To minimize bleeding from hepatic veins**  
+    D. To improve visualization of tumors  
+    *Correct: C. Maintaining low CVP (<5 mm Hg) is the most important maneuver for minimizing outflow bleeding from hepatic veins during parenchymal transection.*
+
+84. **Which of the following is the preferred method for repairing diaphragmatic defects during liver resection?**  
+    A. Absorbable sutures with pledgets  
+    **B. Nonabsorbable running sutures**  
+    C. Stapling  
+    D. Fibrin glue only  
+    *Correct: B. Diaphragmatic repair is performed using nonabsorbable running sutures, typically suturing each corner and running the two sutures to the middle where they are tied.*
+
+85. **Which maneuver is used to test the integrity of a diaphragmatic repair?**  
+    A. Cough test  
+    **B. Valsalva maneuver**  
+    C. Insufflation test  
+    D. Water seal test  
+    *Correct: B. Before tying the suture for diaphragmatic repair, a red rubber catheter is threaded through the defect, and the anesthesiologist is asked to perform a Valsalva maneuver.*
+
+86. **Which of the following is true about the caudate lobe's portal inflow?**  
+    A. Exclusively from the right portal vein  
+    B. Exclusively from the left portal vein  
+    **C. From both right and left portal veins, typically primarily via the left**  
+    D. From the middle hepatic artery  
+    *Correct: C. The caudate lobe's portal inflow is from both the right and left portal veins but typically is primarily via the left portal vein.*
+
+87. **Which structure may completely encircle the IVC in up to 50% of patients?**  
+    A. Ligamentum teres  
+    B. Falciform ligament  
+    **C. Caudate lobe parenchyma**  
+    D. Portal vein  
+    *Correct: C. In up to 50% of patients, the caudate completely encircles the IVC, requiring a right-sided approach for resection of larger tumors.*
+
+88. **Where is the primary caudate portal inflow identified?**  
+    A. At the level of the portal vein bifurcation  
+    **B. At the base of the umbilical fissure**  
+    C. Along Cantlie's line  
+    D. At the right triangular ligament  
+    *Correct: B. The primary caudate portal inflow is identified at the inferior aspect of the caudate lobe; the caudate portal pedicle branch is at the base of the umbilical fissure.*
+
+89. **Which of the following is a key step in the right-sided approach to caudate resection?**  
+    A. Division of the left triangular ligament only  
+    **B. Mobilizing the right liver to ligate retrocaudate vessels entering the vena cava**  
+    C. Stapling the left hepatic vein first  
+    D. Resection of segment IV first  
+    *Correct: B. Mobilizing the right liver allows the safest approach to ligation of retrocaudate vessels entering the vena cava during caudate resection.*
+
+90. **Which of the following is true about the transection line for caudate lobe resection?**  
+    A. Parallel to the right hepatic vein  
+    **B. Slants from the left hepatic vein to the right portal vein**  
+    C. Follows Cantlie's line  
+    D. Parallel to the middle hepatic vein  
+    *Correct: B. The transection line for caudate lobe resection always slants from the left hepatic vein to the right portal vein and will be clear from the vascular demarcation.*
+
+91. **Which of the following is a key structure to identify at the top of the caudate during resection?**  
+    A. Portal vein bifurcation  
+    B. Right hepatic artery  
+    **C. Large venous tributary draining into the left hepatic vein**  
+    D. Cystic duct  
+    *Correct: C. At the top of the caudate, there is usually a large venous tributary draining directly into the left hepatic vein or the left and middle vein junction.*
+
+92. **Which of the following is true about segment IV anatomy?**  
+    A. It is drained by the right hepatic vein  
+    B. It has independent arterial supply from the hepatic artery proper  
+    **C. It is divided into two subsegments based on portal inflow pedicles**  
+    D. It is the largest liver segment  
+    *Correct: C. Segment IV is divided into two subsegments (IVa and IVb) based on portal inflow pedicles.*
+
+93. **Which of the following is the primary outflow for segment IV?**  
+    A. Right hepatic vein  
+    **B. Middle hepatic vein**  
+    C. Left hepatic vein  
+    D. Inferior hepatic veins  
+    *Correct: B. Outflow from segment IV is predominantly to the middle hepatic vein, though occasionally a separate draining vein goes directly to the suprahepatic IVC.*
+
+94. **Which of the following is true about Rouviere's sulcus?**  
+    A. It contains the middle hepatic vein  
+    B. It is visible in all patients  
+    **C. It is visible in 68% to 90% of individuals**  
+    D. It divides the left and right hemilivers  
+    *Correct: C. Rouviere's sulcus (fissure of Ganz) is visible in 68% to 90% of individuals.*
+
+95. **Which of the following best describes the location of the junction of right anterior and posterior pedicles?**  
+    A. Along Cantlie's line  
+    **B. Deep within the medial extent of Rouviere's sulcus**  
+    C. At the level of the portal vein bifurcation  
+    D. Behind the caudate process  
+    *Correct: B. The junction of the right anterior and posterior pedicles usually lies deep within the medial extent of Rouviere's sulcus.*
+
+96. **Which of the following is the primary indication for isolated segment VI resection?**  
+    A. Tumor involving the right hepatic vein  
+    **B. Tumor confined to segment VI**  
+    C. Tumor involving the portal vein bifurcation  
+    D. Diffuse intrahepatic disease  
+    *Correct: B. Segment VI resection is relatively uncomplicated due to its anterior position and is indicated for tumors confined to segment VI.*
+
+97. **Which of the following is the horizontal plane of resection for segment VI?**  
+    A. At the level of the middle hepatic vein  
+    **B. At the level of the portal vein bifurcation**  
+    C. Halfway between the portal vein and diaphragm  
+    D. At the level of the right hepatic vein  
+    *Correct: B. The horizontal plane of resection for segment VI is at the level of the portal vein bifurcation.*
+
+98. **Which of the following is true about isolated segment VII resection?**  
+    A. It is commonly performed as first-line treatment  
+    **B. It is more difficult than segment VI resection due to posterior trajectory**  
+    C. The right hepatic vein is always sacrificed  
+    D. It is preferred over right posterior sectionectomy  
+    *Correct: B. Isolated segment VII resection is more difficult than segment VI resection due to the posterior trajectory of the inflow and location against the right diaphragm.*
+
+99. **Which of the following is the primary venous drainage for segment VII?**  
+    A. Middle hepatic vein  
+    B. Left hepatic vein  
+    **C. Right hepatic vein**  
+    D. Inferior hepatic veins  
+    *Correct: C. Segment VII is drained primarily by the right hepatic vein, though accessory veins may also contribute.*
+
+100. **Which of the following is true about the right posterior section (segments VI and VII)?**  
+    A. It is drained by the middle hepatic vein  
+    **B. It is drained by the right hepatic vein**  
+    C. It has independent arterial supply from the left hepatic artery  
+    D. It is the largest section of the liver  
+    *Correct: B. The right posterior section (segments VI and VII) is drained by the right hepatic vein.*
+
+101. **Which of the following is the primary indication for right posterior sectionectomy?**  
+    A. Tumor involving the middle hepatic vein  
+    B. Tumor in segment V  
+    **C. Underlying hepatic dysfunction where formal right hepatectomy is not appropriate**  
+    D. Tumor involving the portal vein bifurcation  
+    *Correct: C. A right posterior sectionectomy is an alternative to formal right hepatectomy, especially in patients with underlying hepatic dysfunction.*
+
+102. **Which of the following is true about the accessory right hepatic vein?**  
+    A. It is present in 5% of patients  
+    **B. It is present in 25% of patients with direct drainage into the IVC**  
+    C. It always drains segment VI  
+    D. It is larger than the main right hepatic vein  
+    *Correct: B. In 25% of patients, there is an accessory RHV with direct drainage into the IVC.*
+
+103. **Which of the following is a key step in right posterior sectionectomy?**  
+    A. Division of the left triangular ligament  
+    **B. Clamping the right posterior sectional pedicle to demarcate the posterior section**  
+    C. Resection of the caudate lobe first  
+    D. Stapling the middle hepatic vein  
+    *Correct: B. Identification of the right posterior sectional pedicle may be possible extrahepatically, and the pedicle should be clamped to demarcate the posterior section.*
+
+104. **Which of the following is the primary plane of transection for right posterior sectionectomy?**  
+    A. To the right of the middle hepatic vein  
+    **B. Posterior to the right hepatic vein**  
+    C. Along Cantlie's line  
+    D. Parallel to the left hepatic vein  
+    *Correct: B. The plane of transection posterior to the RHV is coronal and results in a relatively large surface area of cut parenchyma.*
+
+105. **Which of the following best describes the vertical plane of transection for combined resection of segments V and VI?**  
+    A. Along the right side of the right hepatic vein  
+    **B. Along Cantlie's line on the right side of the middle hepatic vein**  
+    C. Parallel to the left hepatic vein  
+    D. Along the falciform ligament  
+    *Correct: B. The vertical plane of transection for segments V and VI is along Cantlie's line on the right side of the middle hepatic vein from the gallbladder fossa toward the IVC.*
+
+106. **Which of the following is true about combined resection of segments VII and VIII?**  
+    A. It is commonly performed as first-line treatment  
+    **B. It is rarely performed and involves removal of the top of the right liver**  
+    C. It requires resection of the portal vein bifurcation  
+    D. It is the standard approach for right-sided tumors  
+    *Correct: B. Combined resection of segments VII and VIII is rarely performed and involves removal of the top of the right liver, indicated for tumors directly on the RHV.*
+
+107. **Which of the following is the primary venous drainage for segments VII and VIII?**  
+    A. Left hepatic vein  
+    B. Middle hepatic vein  
+    **C. Right hepatic vein**  
+    D. Inferior hepatic veins  
+    *Correct: C. Segments VII and VIII are primarily drained by the right hepatic vein.*
+
+108. **Which of the following is a key consideration for combined resection of segments VII and VIII?**  
+    A. Portal vein reconstruction is always required  
+    **B. Effective venous drainage of the lower right liver must be preserved**  
+    C. The middle hepatic vein must be sacrificed  
+    D. It requires formal right hepatectomy first  
+    *Correct: B. This resection relies on effective venous drainage of the lower right liver (segments V, VI) directly into the vena cava from short hepatic veins or through large, lower accessory veins.*
+
+109. **Which of the following is true about mesohepatectomy?**  
+    A. It always includes the caudate lobe  
+    **B. It involves removal of segments IV, V, and VIII**  
+    C. It is the standard approach for right-sided tumors  
+    D. It requires formal right hepatectomy first  
+    *Correct: B. Mesohepatectomy involves removal of the gallbladder, segments IV, V, VIII, and hepatic vein en bloc.*
+
+110. **Which of the following is a key step during mesohepatectomy?**  
+    A. Division of the left triangular ligament only  
+    B. Resection of the portal vein bifurcation  
+    **C. Early identification and division of the right anterior portal pedicle**  
+    D. Stapling the left hepatic vein first  
+    *Correct: C. Early identification and division of the right anterior portal pedicle demarcates segments V and VIII and identifies the lines of transection on the right side.*
+
+111. **Which of the following is true about the boundaries of transection in mesohepatectomy?**  
+    A. To the left of the falciform ligament on the left  
+    **B. To the right of the falciform ligament on the left**  
+    C. Along Cantlie's line on the right  
+    D. Parallel to the right hepatic vein on the right  
+    *Correct: B. The boundaries of transection on the left are to the right of the falciform ligament and the umbilical fissure, and on the right is to the left side of the RHV.*
+
+112. **Which of the following is a common complication of mesohepatectomy?**  
+    A. Portal vein thrombosis  
+    **B. Bleeding and bile leak**  
+    C. Hepatic encephalopathy  
+    D. Biliary stricture  
+    *Correct: B. Because of the large surface of the cut liver and proximity to the hilar plate, these resections are more prone to bleeding and bile leak.*
+
+113. **Which of the following is the primary purpose of test clamping before dividing the right anterior sectional portal pedicle?**  
+    A. To assess liver function  
+    **B. To ensure the right posterior portal pedicle is not accidentally encircled**  
+    C. To identify tumor margins  
+    D. To reduce blood loss  
+    *Correct: B. Before division of the right anterior sectional portal pedicle, a test clamping is advisable to ensure that the right posterior portal pedicle is not accidentally encircled.*
+
+114. **Which of the following is the primary reason for maintaining low CVP during liver resection?**  
+    A. To improve cardiac output  
+    B. To reduce portal pressure  
+    **C. To minimize bleeding from hepatic veins**  
+    D. To improve tumor visualization  
+    *Correct: C. Maintaining low CVP (<5 mm Hg) is the most important maneuver for minimizing outflow bleeding during liver parenchymal transection.*
+
+115. **Which of the following is true about the Kelly crush-clamp technique?**  
+    A. It uses ultrasonic energy to divide tissue  
+    **B. It separates soft liver parenchyma, revealing remaining small vessels**  
+    C. It is primarily used for vascular control  
+    D. It requires continuous suction  
+    *Correct: B. In essence, the pean separates the soft liver parenchyma, revealing the remaining small vessels, biliary channels, and larger pedicles.*
+
+116. **Which of the following is the preferred method for controlling portal pedicles according to the authors?**  
+    A. Metal clips  
+    B. Suture ligation  
+    **C. Stapling**  
+    D. Ultrasonic energy  
+    *Correct: C. The authors prefer to staple intrahepatic portal pedicles once they are dissected free and an umbilical tape is passed around them.*
+
+117. **Which of the following is the preferred method for controlling hepatic veins according to the authors?**  
+    A. Metal clips  
+    **B. Silk suture**  
+    C. Stapling  
+    D. Ultrasonic energy  
+    *Correct: B. Hepatic veins are more delicate than portal pedicles; for this reason, a silk suture is used instead to encircle the vein once it is dissected out.*
+
+118. **Which of the following is true about the use of drains after liver resection?**  
+    A. They should always be placed  
+    **B. Multiple studies suggest they should be avoided when possible**  
+    C. High-pressure suction is preferred  
+    D. They reduce the risk of liver failure  
+    *Correct: B. Multiple studies have suggested that hepatic resection should be performed without intraoperative drainage catheter placement when possible.*
+
+119. **In which of the following situations should a drain be considered after liver resection?**  
+    A. Routine cases without complications  
+    **B. Ongoing biliary leakage that cannot be controlled**  
+    C. All minimally invasive procedures  
+    D. All cases of hepatocellular carcinoma  
+    *Correct: B. A drain should be considered for ongoing biliary leakage from the cut surface of the liver that cannot be controlled with clips or sutures.*
+
+120. **Which of the following is true about the use of suction with drainage catheters?**  
+    A. High-pressure suction is preferred  
+    **B. Low-pressure bulb suction should be used if suction is needed**  
+    C. Continuous high suction improves healing  
+    D. Suction should always be used  
+    *Correct: B. If suction is used, a low-pressure bulb suction should be used and not high-pressure suction that may dislodge sutures and ties.*
+
+121. **Which of the following is the primary advantage of using indocyanine green (ICG) during liver resection?**  
+    A. Reduces blood loss  
+    B. Improves liver regeneration  
+    **C. Identifies more and smaller metastases than CT, MRI, or IOUS**  
+    D. Prevents bile leaks  
+    *Correct: C. ICG has been shown to identify more and smaller metastases than CT, MRI, intraoperative palpation, and IOUS, and does not add significant time to the procedure.*
+
+122. **How long after injection does ICG appear in bile?**  
+    A. Immediately  
+    B. 5-10 minutes  
+    **C. Approximately 45 minutes**  
+    D. 2-4 hours  
+    *Correct: C. ICG is selectively taken up by hepatocytes and then excreted unchanged into bile approximately 45 minutes after injection.*
+
+123. **Which of the following best describes the appearance of primary liver tumors with ICG imaging?**  
+    A. They appear dark  
+    **B. They appear bright**  
+    C. They have a dark rim  
+    D. They are indistinguishable from normal liver  
+    *Correct: B. Primary liver tumors appear bright with ICG imaging, as ICG is taken up and retained preferentially by primary hepatic tumors compared with parenchyma.*
+
+124. **Which of the following best describes the appearance of metastases with ICG imaging?**  
+    A. They appear bright  
+    **B. They have a bright rim**  
+    C. They appear dark  
+    D. They are indistinguishable from normal liver  
+    *Correct: B. Metastases have a bright rim with ICG imaging, as ICG is preferentially trapped within CK7-positive hepatocytes compressed by metastatic tumor.*
+
+125. **Which of the following is true about the CAS-One surgical system?**  
+    A. It is the only navigational system available  
+    B. It requires high-pressure suction  
+    **C. It uses CT 3D reconstructed image registration with intraoperatively identified landmarks**  
+    D. It replaces the need for preoperative imaging  
+    *Correct: C. The CAS-One system for intraoperative liver navigation entails CT 3D reconstructed image registration with intraoperatively identified landmarks.*
+
+126. **Which of the following is true about the Explorer Liver system?**  
+    A. It is currently the standard of care  
+    **B. It used CT 3D reconstructed image registration and infrared optically tracked tools**  
+    C. It is superior to all other navigational systems  
+    D. It is required for all liver resections  
+    *Correct: B. The Explorer Liver system used CT 3D reconstructed image registration and infrared optically tracked tools but is no longer available.*
+
+127. **Which of the following is true about the use of 3D reconstructions in liver surgery?**  
+    A. They increase operative time significantly  
+    **B. Surgeons are better able to localize liver tumors on models after viewing 3D reconstructions**  
+    C. They are only useful for right-sided lesions  
+    D. They replace the need for intraoperative ultrasound  
+    *Correct: B. Surgeons are better able to localize liver tumors on models after viewing 3D reconstructions, as compared with 2D scans.*
+
+128. **Which of the following is a benefit of 3D reconstructions for surgical planning?**  
+    A. They eliminate the need for preoperative imaging  
+    **B. They enable faster surgical planning with trainees and greater concordance with staff**  
+    C. They guarantee negative margins  
+    D. They reduce blood loss by 50%  
+    *Correct: B. 3D reconstructions may enable faster surgical planning with trainees and greater concordance with staff on surgical planning.*
+
+129. **Which of the following is true about the relationship between portal venous supply and biliary drainage?**  
+    A. They always follow the same pattern  
+    **B. There is a discrepancy between portal vein supply and biliary drainage**  
+    C. Biliary drainage follows portal venous anatomy exactly  
+    D. Arterial supply determines biliary drainage  
+    *Correct: B. Given the discrepancy between portal vein supply and biliary drainage, combined segment II and III resection is safer than isolated segment II resection.*
+
+130. **Which of the following is the primary reason for performing a left lateral sectionectomy rather than isolated segment II resection?**  
+    A. To reduce operative time  
+    **B. Difficulty preserving left hepatic vein drainage for segment II alone**  
+    C. To improve oncologic outcomes  
+    D. To reduce blood loss  
+    *Correct: B. Given the discrepancy between portal vein supply and biliary drainage, and given the difficulty of preserving LHV drainage, combined segment II and III resection is safer.*
+
+131. **Which of the following is true about the segment II portal pedicle?**  
+    A. It is always a branch of the right portal vein  
+    **B. It should be identified in the umbilical fissure above the caudate branches**  
+    C. It is easier to control than segment III pedicle  
+    D. It is the largest portal pedicle  
+    *Correct: B. The segment II portal pedicle should be identified in the umbilical fissure above the caudate branches for isolated segment II resection.*
+
+132. **Which of the following is true about the segment III portal pedicle?**  
+    A. It is located in the right intersegmental fissure  
+    **B. It can be visualized by splitting the liver parenchyma medial to the left portal pedicle within the umbilical fissure**  
+    C. It is always a branch of the right portal vein  
+    D. It is larger than the segment II pedicle  
+    *Correct: B. Splitting the liver parenchyma medial to the left portal pedicle within the umbilical fissure allows visualization of the segment III pedicle.*
+
+133. **Which of the following is true about the middle hepatic vein?**  
+    A. It divides segments II and III  
+    **B. It separates the right and left lobes of the liver**  
+    C. It is the primary drainage for segments VI and VII  
+    D. It is always separate from the left hepatic vein  
+    *Correct: B. The middle hepatic vein separates the right and left lobes of the liver.*
+
+134. **Which of the following is true about the left hepatic vein?**  
+    **A. It divides segments II and III**  
+    B. It separates the right and left lobes of the liver  
+    C. It is the primary drainage for segments V and VIII  
+    D. It is always separate from the middle hepatic vein  
+    *Correct: A. The left hepatic vein is what divides segments II and III.*
+
+135. **Which of the following is true about the right hepatic vein?**  
+    A. It divides segments II and III  
+    B. It separates the right and left lobes of the liver  
+    **C. It separates the right anterior section from the right posterior section**  
+    D. It is the primary drainage for segment IV  
+    *Correct: C. The right hepatic vein separates the right anterior section from the right posterior section.*
+
+136. **Which of the following is true about the portal veins as borders between segments?**  
+    A. They divide segments II and III  
+    **B. They are used as borders between segments 4A and 4B, 5 and 8, and 6 and 7**  
+    C. They divide all Couinaud segments  
+    D. They are not reliable for segmental demarcation  
+    *Correct: B. The portal veins are used as borders between segments 4A and 4B, between segments 5 and 8, and between segments 6 and 7.*
+
+137. **Which of the following is true about the use of the Pringle maneuver in cirrhotic livers?**  
+    A. It should never be used  
+    B. It can only be used for 5 minutes  
+    **C. It can be applied for over an hour according to the University of Hong Kong**  
+    D. It increases the risk of liver failure  
+    *Correct: C. The University of Hong Kong has found that the Pringle maneuver can be applied even in cirrhotic livers for over an hour.*
+
+138. **Which of the following is true about the management of active bleeding during liver resection?**  
+    A. The first step is to apply direct pressure  
+    **B. The first step is to clamp the extrahepatic portal triad**  
+    C. The first step is to apply argon beam coagulation  
+    D. The first step is to place hemostatic agents  
+    *Correct: B. The practical steps in tracking down and solving an active bleed start with clamping the extrahepatic portal triad.*
+
+139. **If bleeding continues after clamping the extrahepatic portal triad, where is the source likely from?**  
+    A. Hepatic artery  
+    B. Portal vein  
+    **C. Hepatic veins**  
+    D. Biliary tree  
+    *Correct: C. If bleeding continues after clamping the extrahepatic portal triad, the source is likely from the hepatic veins.*
+
+140. **Which of the following is an effective method for controlling venous bleeding from vessels that have retracted into the parenchyma?**  
+    A. Direct suture ligation  
+    **B. Mattress stitches tied on the liver capsule**  
+    C. High-pressure suction  
+    D. Argon beam coagulation only  
+    *Correct: B. Mattress stitches tied on the liver capsule are highly effective in stopping venous bleeding from vessels that have retracted into the parenchyma.*
+
+141. **Which of the following is true about the use of oxidized regenerated cellulose during liver resection?**  
+    A. It should never be used  
+    B. It increases the risk of infection  
+    **C. It can be tied down onto the cut edge to buttress sutures**  
+    D. It replaces the need for sutures  
+    *Correct: C. Oxidized regenerated cellulose can also be tied down onto the cut edge to buttress the suture and to encourage hemostasis.*
+
+142. **Which of the following is appropriate for mild surface bleeding without a clear source?**  
+    A. Immediate suture ligation  
+    B. Application of high-pressure suction  
+    **C. Painting the cut liver edge with monopolar electrocautery**  
+    D. Placement of multiple mattress sutures  
+    *Correct: C. For mild surface bleeding without a clear source, one may choose to paint the cut liver edge with monopolar electrocautery, an argon beam coagulator, or application of a bipolar sealer.*
+
+143. **Which of the following is true about the management of mild bleeding during liver resection?**  
+    A. Immediate surgical intervention is always required  
+    **B. Packing a laparotomy pad and allowing platelets to work often solves the problem**  
+    C. It always requires blood transfusion  
+    D. It indicates the need for reoperation  
+    *Correct: B. For mild bleeding, packing a laparotomy pad and allowing platelets and the coagulation cascade to do their jobs often solves the problem.*
+
+144. **Which of the following is true about the use of the Glissonian pedicle approach?**  
+    A. It is only used for left-sided resections  
+    **B. It involves dissecting out and ligating the portal inflow before parenchymal transection**  
+    C. It follows the hepatic veins during transection  
+    D. It is primarily used for colorectal metastases  
+    *Correct: B. The Glissonian pedicle approach involves identifying the portal inflow by dissecting it out and ligating it, and then parenchymal transection proceeds by following the intersegmental plane.*
+
+145. **Which of the following is true about the use of intraoperative ultrasound (IOUS) during segmental resection?**  
+    A. It is only used for tumor detection  
+    **B. It is used to identify portal veins for segmental injection of dye**  
+    C. It replaces the need for preoperative imaging  
+    D. It is contraindicated in cirrhotic livers  
+    *Correct: B. Intraoperative ultrasound (IOUS) is used to identify the portal veins in question for segmental injection of dye during systematic segmentectomy.*
+
+146. **Which of the following is true about the use of segmental injection of dye during liver resection?**  
+    A. It is used for all types of liver tumors  
+    **B. It is most easily performed when the tumor is fed by a single portal vein branch**  
+    C. It replaces the need for intraoperative ultrasound  
+    D. It is only used for right-sided resections  
+    *Correct: B. Segmental injection of dye is most easily performed when the tumor is fed by a single portal vein branch.*
+
+147. **Which of the following is true about the use of the middle hepatic vein during right anterior sectionectomy?**  
+    A. It is always sacrificed  
+    **B. It is preserved and serves as the medial boundary**  
+    C. It is the primary drainage for segments V and VIII  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. During right anterior sectionectomy, the middle hepatic vein is preserved and serves as the medial boundary of the resection.*
+
+148. **Which of the following is true about the right hepatic vein during right posterior sectionectomy?**  
+    A. It is always preserved  
+    **B. It can be sacrificed if necessary**  
+    C. It must be reconstructed  
+    D. It is the primary indication for the procedure  
+    *Correct: B. The right hepatic vein could be encircled to allow occlusion during parenchymal transection and can be sacrificed if necessary during right posterior sectionectomy.*
+
+149. **Which of the following is true about the use of the right hepatic vein during isolated segment VI resection?**  
+    A. It must be preserved  
+    **B. It can be sacrificed**  
+    C. It must be reconstructed  
+    D. It is not involved in the resection  
+    *Correct: B. The right hepatic vein can be sacrificed for an isolated segment VI resection.*
+
+150. **Which of the following is true about the right hepatic vein during isolated segment VII resection?**  
+    **A. It should be spared unless there is an inferior accessory RHV**  
+    B. It must always be sacrificed  
+    C. It must be reconstructed  
+    D. It is not involved in the resection  
+    *Correct: A. The right hepatic vein should be spared in an isolated segment VII resection to allow for adequate drainage of segment VI unless there is an inferior accessory RHV.*
+
+151. **Which of the following is true about the use of the middle hepatic vein during segment IV resection?**  
+    A. It is always sacrificed  
+    **B. Several tributaries to the MHV will need to be identified and ligated**  
+    C. It serves as the lateral boundary  
+    D. It is not involved in the resection  
+    *Correct: B. During segment IV resection, several tributaries to the MHV, the IVa and IVb veins, will need to be identified and ligated.*
+
+152. **Which of the following is true about the use of the left hepatic vein during left lateral sectionectomy?**  
+    A. It is always preserved  
+    **B. It is the final structure divided after parenchymal transection**  
+    C. It is divided before portal pedicle ligation  
+    D. It is not involved in the resection  
+    *Correct: B. Once the parenchyma is divided during left lateral sectionectomy, only the LHV remains, which can be stapled or oversewn.*
+
+153. **Which of the following is true about the use of the left hepatic vein during caudate lobe resection?**  
+    A. It is always sacrificed  
+    B. It is not involved in the resection  
+    **C. Care must be taken to not injure it posteriorly**  
+    D. It is the primary drainage for the caudate lobe  
+    *Correct: C. A large vein from segment I is often present 1-2 cm below the confluence of the MHV and LHV and must be divided; care must be taken to not injure the MHV posteriorly.*
+
+154. **Which of the following is true about the venous drainage of the caudate lobe?**  
+    A. It drains primarily into the middle hepatic vein  
+    B. It drains primarily into the left hepatic vein  
+    **C. It drains through many small hepatic veins directly into the IVC**  
+    D. It drains through the portal vein  
+    *Correct: C. The caudate lobe lies between the portal vein and the IVC, with venous drainage through many small hepatic veins directly into the IVC.*
+
+155. **Which of the following is true about the arterial supply to the caudate lobe?**  
+    A. It is exclusively from the right hepatic artery  
+    B. It is exclusively from the left hepatic artery  
+    **C. It comes from both right and left hepatic arteries**  
+    D. It is from the gastroduodenal artery  
+    *Correct: C. While the text focuses on portal venous supply, the caudate lobe receives arterial supply from both right and left hepatic arteries.*
+
+156. **Which of the following is true about the relationship between the caudate lobe and the IVC?**  
+    A. It is always completely separate  
+    **B. In up to 50% of patients, the caudate completely encircles the IVC**  
+    C. It never contacts the IVC  
+    D. It is separated by a thick ligament  
+    *Correct: B. When there is significant retrocaval parenchyma, a right-sided approach is often necessary; in up to 50% of patients, the caudate completely encircles the IVC.*
+
+157. **Which of the following is true about the use of the anterior approach to caudate lobe resection?**  
+    A. It is the standard approach for all caudate resections  
+    **B. It enables direct visualization of the major hepatic veins**  
+    C. It is only used for small tumors  
+    D. It requires complete mobilization first  
+    *Correct: B. The anterior approach enables direct visualization of the major hepatic veins, preventing inadvertent injury during caudate lobe resection.*
+
+158. **Which of the following is true about the use of suprahepatic and infrahepatic control of the IVC during caudate resection?**  
+    A. It is always required  
+    **B. Some surgeons advocate for it in certain situations to mitigate bleeding**  
+    C. It is contraindicated  
+    D. It replaces the need for vascular control  
+    *Correct: B. In certain situations, some surgeons advocate obtaining suprahepatic and infrahepatic control of the IVC with vessel loops before parenchymal transection.*
+
+159. **Which of the following is true about the use of the middle hepatic vein during segment VIII resection?**  
+    A. It is the primary drainage for segment VIII  
+    **B. It runs along Cantlie's line and serves as the medial boundary**  
+    C. It is always sacrificed  
+    D. It is not involved in the resection  
+    *Correct: B. The middle hepatic vein runs along Cantlie's line, from the IVC to the center of the gallbladder bed, and serves as the medial boundary for segment VIII resection.*
+
+160. **Which of the following is true about the right hepatic vein during segment VIII resection?**  
+    A. It is not involved in the resection  
+    B. It is the medial boundary  
+    **C. It serves as the lateral boundary**  
+    D. It is always sacrificed  
+    *Correct: C. The lateral parenchymal edge for segment VIII resection will follow the RHV, which can be identified at the apex of the liver.*
+
+161. **Which of the following is true about the segment VIII pedicle?**  
+    A. It is a branch of the right posterior sectional pedicle  
+    **B. It corresponds to the ascending division of the right anterior sectional pedicle**  
+    C. It is always separate from the segment V pedicle  
+    D. It is the largest portal pedicle  
+    *Correct: B. The segment VIII pedicle corresponds to the ascending division of the right anterior sectional pedicle.*
+
+162. **Which of the following is true about the segment V pedicle?**  
+    **A. It emerges anteriorly and runs anteroinferiorly**  
+    B. It emerges posteriorly and runs superiorly  
+    C. It is a branch of the right posterior sectional pedicle  
+    D. It is always separate from the segment VIII pedicle  
+    *Correct: A. The segment V pedicle emerges anteriorly and runs anteroinferiorly, while the segment VIII pedicle emerges posteriorly and runs superiorly.*
+
+163. **Which of the following is true about the segment VIII pedicle?**  
+    A. It emerges anteriorly and runs anteroinferiorly  
+    **B. It emerges posteriorly and runs superiorly**  
+    C. It is a branch of the right posterior sectional pedicle  
+    D. It is always separate from the segment V pedicle  
+    *Correct: B. The segment V pedicle emerges anteriorly and runs anteroinferiorly, and the segment VIII pedicle emerges posteriorly and runs superiorly.*
+
+164. **Which of the following is true about the horizontal plane of transection for isolated segment V or VIII resection?**  
+    A. It is at the level of the middle hepatic vein  
+    **B. It is at the level of the portal vein bifurcation**  
+    C. It is halfway between the portal vein and diaphragm  
+    D. It is at the level of the right hepatic vein  
+    *Correct: B. The horizontal plane of transection for an isolated segment V or VIII resection runs through the liver at the level of the portal vein bifurcation.*
+
+165. **Which of the following is true about the medial and lateral limits of right anterior sectionectomy (segments V and VIII)?**  
+    A. Medial: left hepatic vein; Lateral: middle hepatic vein  
+    **B. Medial: middle hepatic vein; Lateral: right hepatic vein**  
+    C. Medial: right hepatic vein; Lateral: middle hepatic vein  
+    D. Medial: falciform ligament; Lateral: right triangular ligament  
+    *Correct: B. The medial and lateral limits of right anterior sectionectomy are the middle hepatic vein and right hepatic vein, respectively.*
+
+166. **Which of the following is true about the use of the middle hepatic vein during right anterior sectionectomy?**  
+    A. It is always sacrificed  
+    **B. It serves as the medial boundary and is preserved**  
+    C. It is the primary drainage for segments V and VIII  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. During right anterior sectionectomy, the middle hepatic vein serves as the medial boundary and is preserved.*
+
+167. **Which of the following is true about the use of the right hepatic vein during right anterior sectionectomy?**  
+    A. It is always sacrificed  
+    **B. It serves as the lateral boundary and is preserved**  
+    C. It is the primary drainage for segments VI and VII  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. During right anterior sectionectomy, the right hepatic vein serves as the lateral boundary and is preserved.*
+
+168. **Which of the following is true about the use of the middle hepatic vein during segment IV resection?**  
+    A. It is always sacrificed  
+    **B. It serves as the right boundary of the resection**  
+    C. It is the primary drainage for segment IV  
+    D. It is not involved in the resection  
+    *Correct: B. The dissection of the right side for segment IV resection is along Cantlie's line to the left of the MHV, making the MHV the right boundary of the resection.*
+
+169. **Which of the following is true about the use of the left hepatic vein during segment IV resection?**  
+    A. It is always sacrificed  
+    B. It is the primary drainage for segment IV  
+    **C. Care should be taken to identify venous tributaries from segment IV into the LHV**  
+    D. It is not involved in the resection  
+    *Correct: C. During segment IV resection, care should be taken to identify venous tributaries from segment IV into the LHV.*
+
+170. **Which of the following is true about the use of the left hepatic vein during mesohepatectomy?**  
+    A. It is always sacrificed  
+    B. It is the primary drainage for segment IV  
+    **C. Care must be taken to ensure it is not injured or inadvertently divided**  
+    D. It is divided before portal pedicle ligation  
+    *Correct: C. During mesohepatectomy, care must be taken to ensure that the LHV is not injured or inadvertently divided.*
+
+171. **Which of the following is true about the use of the middle hepatic vein during mesohepatectomy?**  
+    A. It is always preserved  
+    B. It is the primary drainage for segment IV  
+    **C. It is divided to complete the resection**  
+    D. It is not involved in the resection  
+    *Correct: C. During mesohepatectomy, the dissection continues until the upper aspect of the left and right transection margins meet, and then the MHV is divided to complete the resection.*
+
+172. **Which of the following is true about the use of the right hepatic vein during mesohepatectomy?**  
+    A. It is always sacrificed  
+    B. It is the primary drainage for segments V and VIII  
+    **C. The right-sided transection plane is to the left of the RHV**  
+    D. It is divided before portal pedicle ligation  
+    *Correct: C. The boundaries of transection on the right are to the left side of the RHV during mesohepatectomy.*
+
+173. **Which of the following is true about the use of the falciform ligament during segment IV resection?**  
+    A. It is always sacrificed  
+    **B. Parenchymal transection commences just to the right side of the falciform ligament**  
+    C. It serves as the transection plane  
+    D. It is divided after parenchymal transection  
+    *Correct: B. Parenchymal transection for segment IV resection commences just to the right side of the falciform ligament to avoid injury to the umbilical portion of the left portal vein.*
+
+174. **Which of the following is true about the use of the falciform ligament during mesohepatectomy?**  
+    A. It is always sacrificed  
+    B. It serves as the transection plane  
+    **C. The boundaries of transection on the left are to the right of the falciform ligament**  
+    D. It is divided after parenchymal transection  
+    *Correct: C. The boundaries of transection on the left during mesohepatectomy are to the right of the falciform ligament and the umbilical fissure.*
+
+175. **Which of the following is true about the use of the umbilical fissure during left lateral sectionectomy?**  
+    A. It is the transection plane  
+    **B. It is used to identify the segment III pedicle**  
+    C. It is always obliterated  
+    D. It is not involved in the resection  
+    *Correct: B. Splitting the liver parenchyma medial to the left portal pedicle within the umbilical fissure allows visualization of the segment III pedicle during left lateral sectionectomy.*
+
+176. **Which of the following is true about the use of the umbilical fissure during isolated segment II resection?**  
+    A. It is the transection plane  
+    **B. The segment II portal pedicle should be identified in the umbilical fissure above the caudate branches**  
+    C. It is always obliterated  
+    D. It is not involved in the resection  
+    *Correct: B. The segment II portal pedicle should be identified in the umbilical fissure above the caudate branches for isolated segment II resection.*
+
+177. **Which of the following is true about the use of the umbilical fissure during segment IV resection?**  
+    A. It is the transection plane  
+    B. It is used to identify the segment III pedicle  
+    **C. The segment IVa and IVb pedicles can be isolated within the umbilical fissure**  
+    D. It is not involved in the resection  
+    *Correct: C. By incising the peritoneal reflection on the right of the falciform ligament, the segment IVa and IVb pedicles can be isolated, encircled, and divided.*
+
+178. **Which of the following is true about the use of the umbilical fissure during mesohepatectomy?**  
+    A. It is the primary transection plane  
+    B. It is used to identify the segment III pedicle  
+    **C. The portal pedicles to segments IVa and IVb are ligated during transection**  
+    D. It is not involved in the resection  
+    *Correct: C. During mesohepatectomy, the portal pedicles to segments IVa and IVb are ligated and divided as they come back from the left-sided portal structures.*
+
+179. **Which of the following is true about the use of the right triangular ligament during right liver mobilization?**  
+    A. It is never divided  
+    B. It is divided after parenchymal transection  
+    **C. Division of the right triangular ligament is performed to mobilize the right liver off the right hemidiaphragm**  
+    D. It is only divided for left-sided resections  
+    *Correct: C. Division of the right triangular ligament is performed to mobilize the right liver off the right hemidiaphragm, exposing the bare area of segments VI and VII.*
+
+180. **Which of the following is true about the use of the left triangular ligament during left liver mobilization?**  
+    A. It is never divided  
+    B. It is divided after parenchymal transection  
+    **C. Division of the left triangular ligament is required for left lateral sectionectomy**  
+    D. It is only divided for right-sided resections  
+    *Correct: C. The left lateral sectionectomy requires mobilization of the left liver by division of the falciform ligament and the left triangular ligament.*
+
+181. **Which of the following is true about the use of the coronary ligament during right liver mobilization?**  
+    A. It is never divided  
+    **B. Both anterior and posterior layers are divided to expose the bare area of segments VI and VII**  
+    C. It is only divided for left-sided resections  
+    D. It is divided after parenchymal transection  
+    *Correct: B. The peritoneal reflection at the edge of the triangular ligament is incised laterally and division of the anterior and posterior layers of the coronary ligament is developed.*
+
+182. **Which of the following is true about the use of the lesser omentum during caudate lobe resection?**  
+    A. It is never divided  
+    **B. It is divided along the inferior edge of segment III to mobilize the left liver**  
+    C. It is only divided for right-sided resections  
+    D. It is divided after parenchymal transection  
+    *Correct: B. The left liver mobilization begins by dividing the lesser omentum along the inferior edge of segment III.*
+
+183. **Which of the following is true about the use of the ligamentum teres during left lateral sectionectomy?**  
+    A. It is always sacrificed  
+    **B. A silk tied to the end is used to retract the liver cranially**  
+    C. It serves as the transection plane  
+    D. It is divided after parenchymal transection  
+    *Correct: B. The liver is retracted cranially using the silk tied to the end of the falciform ligament (which contains the ligamentum teres) during left lateral sectionectomy.*
+
+184. **Which of the following is true about the use of the ligamentum venosum during caudate lobe resection?**  
+    A. It is never divided  
+    **B. It may need to be ligated and divided to visualize the hepatic veins from below**  
+    C. It is only divided for right-sided resections  
+    D. It is divided after parenchymal transection  
+    *Correct: B. To visualize the hepatic veins from below during caudate resection, the ligamentum venosum may need to be ligated and divided in the superior aspect of its fissure.*
+
+185. **Which of the following is true about the use of the ligamentum venosum during left lateral sectionectomy?**  
+    A. It is never divided  
+    **B. It is ligated and divided as it enters the posterior aspect of the LHV**  
+    C. It is only divided for right-sided resections  
+    D. It is divided after parenchymal transection  
+    *Correct: B. The extrahepatic portion of the LHV can be lengthened by dividing the fibrous tissue to the left of the IVC down to the level of the fissure for the ligamentum venosum, which is then ligated and divided.*
+
+186. **Which of the following is true about the use of the caudate process during caudate lobe resection?**  
+    A. It is never divided  
+    **B. The caudate process is divided, and the caudate is retracted toward the left**  
+    C. It is only divided for right-sided resections  
+    D. It is divided after parenchymal transection  
+    *Correct: B. Once the caudate process is divided during caudate resection, the caudate is retracted toward the left, and parenchymal transection proceeds superiorly.*
+
+187. **Which of the following is true about the use of the caudate process during right liver mobilization?**  
+    A. It is never divided  
+    **B. The small bridge of liver between segments I and VI (caudate process) is divided with care to ligate the pedicle**  
+    C. It is only divided for left-sided resections  
+    D. It is divided after parenchymal transection  
+    *Correct: B. The small bridge of liver between segments I and VI (caudate process) is divided with care to ligate the caudate process pedicle as it exits from the right main pedicle.*
+
+188. **Which of the following is true about the use of the middle hepatic vein during right hepatectomy?**  
+    A. It is always preserved  
+    **B. The transection line follows Cantlie's line, just to the right of the middle hepatic vein**  
+    C. It is the primary drainage for the remnant liver  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. During right hepatectomy, the transection line follows Cantlie's line, just to the right of the middle hepatic vein.*
+
+189. **Which of the following is true about the use of the middle hepatic vein during left medial sectionectomy (segment IV resection)?**  
+    A. It is always preserved  
+    **B. The dissection of the right side is along Cantlie's line to the left of the MHV**  
+    C. It is the primary drainage for segment IV  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. The dissection of the right side for segment IV resection is along Cantlie's line to the left of the MHV.*
+
+190. **Which of the following is true about the use of the middle hepatic vein during mesohepatectomy?**  
+    A. It is always preserved  
+    B. It is the primary drainage for segment IV  
+    **C. It is divided to complete the resection**  
+    D. It is not involved in the resection  
+    *Correct: C. During mesohepatectomy, the dissection continues until the upper aspect of the left and right transection margins meet, and then the MHV is divided to complete the resection.*
+
+191. **Which of the following is true about the use of the middle hepatic vein during right anterior sectionectomy?**  
+    A. It is always sacrificed  
+    **B. It serves as the medial boundary and is preserved**  
+    C. It is the primary drainage for segments V and VIII  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. During right anterior sectionectomy, the middle hepatic vein serves as the medial boundary and is preserved.*
+
+192. **Which of the following is true about the use of the middle hepatic vein during right posterior sectionectomy?**  
+    A. It is always sacrificed  
+    B. It serves as the medial boundary  
+    **C. It is not directly involved in the resection**  
+    D. It is divided before portal pedicle ligation  
+    *Correct: C. During right posterior sectionectomy, the plane of transection is posterior to the RHV, so the middle hepatic vein is not directly involved in the resection.*
+
+193. **Which of the following is true about the use of the middle hepatic vein during segment VIII resection?**  
+    A. It is the primary drainage for segment VIII  
+    **B. It runs along Cantlie's line and serves as the medial boundary**  
+    C. It is always sacrificed  
+    D. It is not involved in the resection  
+    *Correct: B. The middle hepatic vein runs along Cantlie's line, from the IVC to the center of the gallbladder bed, and serves as the medial boundary for segment VIII resection.*
+
+194. **Which of the following is true about the use of the middle hepatic vein during segment V resection?**  
+    A. It is the primary drainage for segment V  
+    **B. It serves as the medial boundary**  
+    C. It is always sacrificed  
+    D. It is not involved in the resection  
+    *Correct: B. During segment V resection, the middle hepatic vein serves as the medial boundary of the resection.*
+
+195. **Which of the following is true about the use of the middle hepatic vein during segment VI resection?**  
+    A. It is the primary drainage for segment VI  
+    B. It serves as the medial boundary  
+    **C. It is not directly involved in the resection**  
+    D. It is divided before portal pedicle ligation  
+    *Correct: C. During segment VI resection, the plane of transection follows the posterior side of the RHV, so the middle hepatic vein is not directly involved in the resection.*
+
+196. **Which of the following is true about the use of the middle hepatic vein during segment VII resection?**  
+    A. It is the primary drainage for segment VII  
+    B. It serves as the medial boundary  
+    **C. It is not directly involved in the resection**  
+    D. It is divided before portal pedicle ligation  
+    *Correct: C. During segment VII resection, the plane of transection runs obliquely through the liver lateral and posterior to the RHV, so the middle hepatic vein is not directly involved.*
+
+197. **Which of the following is true about the use of the right hepatic vein during right hepatectomy?**  
+    A. It is always preserved  
+    **B. It is sacrificed**  
+    C. It is the primary drainage for the remnant liver  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. During right hepatectomy, the right hepatic vein is sacrificed as part of the resection.*
+
+198. **Which of the following is true about the use of the right hepatic vein during right anterior sectionectomy?**  
+    A. It is always sacrificed  
+    **B. It serves as the lateral boundary and is preserved**  
+    C. It is the primary drainage for segments VI and VII  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. During right anterior sectionectomy, the right hepatic vein serves as the lateral boundary and is preserved.*
+
+199. **Which of the following is true about the use of the right hepatic vein during right posterior sectionectomy?**  
+    A. It is always preserved  
+    **B. It could be encircled and may be sacrificed if necessary**  
+    C. It is the primary drainage for segments V and VIII  
+    D. It is divided before portal pedicle ligation  
+    *Correct: B. The right hepatic vein could be encircled to allow occlusion during parenchymal transection and can be sacrificed if necessary during right posterior sectionectomy.*
+
+200. **Which of the following is true about the use of the right hepatic vein during segment VIII resection?**  
+    A. It is not involved in the resection  
+    B. It is the medial boundary  
+    **C. It serves as the lateral boundary**  
+    D. It is always sacrificed  
+    *Correct: C. The lateral parenchymal edge for segment VIII resection will follow the RHV, which can be identified at the apex of the liver.*

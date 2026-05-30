@@ -1,0 +1,1653 @@
+# 125 Techniques of Liver Replacement
+
+Generated with Claude.
+
+**1. In what year was the basic liver transplant operation first attempted clinically in humans?**
+
+- 1958
+- **1963**
+- 1969
+- 1972
+
+*Explanation: The basic liver transplant operation was developed in dogs during 1958–1960 and first attempted clinically in humans in 1963 under azathioprine-prednisone immunosuppression.*
+
+---
+
+**2. What immunosuppressive agent became available in the 1980s and led to worldwide acceptance of orthotopic liver transplantation (OLT)?**
+
+- Azathioprine
+- Tacrolimus
+- **Cyclosporine**
+- Mycophenolate mofetil
+
+*Explanation: It was not until the availability of cyclosporine in the 1980s that orthotopic liver transplantation became accepted worldwide as effective therapy.*
+
+---
+
+**3. Which drug, introduced in the 1990s, further improved the results of liver transplantation?**
+
+- Cyclosporine
+- Azathioprine
+- Sirolimus
+- **Tacrolimus**
+
+*Explanation: Results improved again with the advent of tacrolimus in the 1990s, following the earlier success achieved with cyclosporine.*
+
+---
+
+**4. Where and in what year was the world's first human liver transplant performed?**
+
+- Pittsburgh, Pennsylvania, 1965
+- Boston, Massachusetts, 1960
+- **Denver, Colorado, 1963**
+- Chicago, Illinois, 1963
+
+*Explanation: The world's first human liver transplant was performed in Denver, Colorado, in 1963, as documented by the operative report facsimile included in the chapter.*
+
+---
+
+**5. What was the underlying diagnosis of the child who received the world's first human liver transplant?**
+
+- Hepatoblastoma
+- Wilson's disease
+- **Biliary atresia**
+- Alpha-1 antitrypsin deficiency
+
+*Explanation: The operation took place in Denver, Colorado, in 1963 in a child with biliary atresia, as stated in the chapter's historic overview.*
+
+---
+
+**6. Which preservation solutions made storage of hepatic allografts safe for 12 to 18 hours?**
+
+- HTK and Euro-Collins solution
+- UW and Euro-Collins solution
+- **University of Wisconsin (UW) and histidine-tryptophan-ketoglutarate (HTK) solutions**
+- Collins and HTK solutions
+
+*Explanation: The University of Wisconsin (UW) and histidine-tryptophan-ketoglutarate (HTK) preservation solutions made storage of hepatic allografts relatively safe for 12 to 18 hours.*
+
+---
+
+**7. What incision is made in the standard liver procurement technique?**
+
+- Right subcostal incision
+- Bilateral subcostal incision
+- Transverse upper abdominal incision
+- **Midline incision from the suprasternal notch to the pubis**
+
+*Explanation: In the standard procurement technique, a midline incision is made from the suprasternal notch to the pubis to expose the abdominal and thoracic organs of potential interest.*
+
+---
+
+**8. During standard liver procurement, what is done with the gallbladder to protect the biliary tree?**
+
+- It is left intact to preserve the biliary tree
+- It is ligated and divided
+- **It is incised and irrigated with saline**
+- It is removed entirely before perfusion
+
+*Explanation: The gallbladder is incised and irrigated with saline, which avoids autolysis of the extrahepatic and intrahepatic bile duct epithelium during storage.*
+
+---
+
+**9. During standard liver procurement, where is the common bile duct (CBD) transected?**
+
+- At the hepatic hilum
+- At the level of the cystic duct
+- **Near the duodenum**
+- At the bifurcation of the right and left hepatic ducts
+
+*Explanation: The CBD is transected near the duodenum, and the gallbladder is incised and irrigated with saline to avoid autolysis during storage.*
+
+---
+
+**10. What is the dose of heparin used for total-body heparinization during standard liver procurement?**
+
+- 100 IU/kg
+- 200 IU/kg
+- **300 IU/kg**
+- 500 IU/kg
+
+*Explanation: After completing the hilar dissection, the aorta is encircled and, after total-body heparinization with 300 IU/kg, cannulae for infusion are placed into the IMV and distal aorta.*
+
+---
+
+**11. During standard procurement, where are the cannulae for infusion placed?**
+
+- Into the splenic vein and the proximal aorta
+- Into the portal vein and the supraceliac aorta
+- **Into the inferior mesenteric vein (IMV) and the distal aorta**
+- Into the superior mesenteric vein and the distal aorta
+
+*Explanation: After total-body heparinization, cannulae for infusion are placed into the IMV and distal aorta, as described in the standard procurement technique.*
+
+---
+
+**12. During procurement, how is congestion of the various organs prevented?**
+
+- By venting through the portal vein
+- By cross-clamping the inferior mesenteric vein
+- **By incising the suprahepatic IVC at the level of the right atrium**
+- By placing a drain in the peritoneal cavity
+
+*Explanation: Congestion is prevented by an incision in the suprahepatic IVC at the level of the right atrium, which allows blood and perfusate to drain into the pericardium or right chest.*
+
+---
+
+**13. In an adult, how much HTK solution is typically infused through the aorta during standard procurement?**
+
+- 2 L
+- 4 L
+- **8 L**
+- 12 L
+
+*Explanation: In adults, either 8 L of HTK or 3 L of UW solution are infused through the aorta (smaller volumes are used for children).*
+
+---
+
+**14. In an adult, how much UW solution is typically infused through the aorta during standard procurement?**
+
+- 1 L
+- **3 L**
+- 5 L
+- 8 L
+
+*Explanation: Either 8 L of HTK or 3 L of UW solution are infused through the aorta in adults during standard liver procurement.*
+
+---
+
+**15. What is the most common hepatic artery anomaly encountered during liver procurement?**
+
+- Accessory left hepatic artery from the left gastric artery
+- Common hepatic artery originating from the superior mesenteric artery
+- **Aberrant right hepatic artery (RHA) originating from the SMA**
+- Replaced common hepatic artery from the celiac axis
+
+*Explanation: The most common hepatic artery anomaly is an aberrant right hepatic artery (RHA) originating from the SMA, usually within its first 2 cm, traveling posterior to the portal vein.*
+
+---
+
+**16. Where does the aberrant right hepatic artery typically travel in relation to the portal vein?**
+
+- Anterior to the portal vein
+- To the left of the portal vein
+- **Posterior to the portal vein**
+- Superior to the portal vein
+
+*Explanation: The aberrant right hepatic artery originating from the SMA travels posterior to the portal vein, as described in the chapter.*
+
+---
+
+**17. During procurement, where is the infrahepatic vena cava divided?**
+
+- Below the entry of the renal veins
+- At the level of the hepatic veins
+- **Above the entry of the renal veins**
+- At the diaphragm
+
+*Explanation: The vena cava below the liver is transected above the entry of the renal veins, as described in the standard liver procurement technique.*
+
+---
+
+**18. After liver procurement, how is the allograft packaged for transport?**
+
+- In a dry, sterile bag surrounded by dry ice
+- Directly submerged in liquid nitrogen
+- **In a bag filled with chilled preservation solution, surrounded by an outer bag, all packed in ice**
+- In saline-soaked gauze surrounded by standard ice
+
+*Explanation: The liberated liver is immediately placed in a bag filled with chilled preservation solution and surrounded by an outer second bag, all packed in ice.*
+
+---
+
+**19. What is the key difference between the standard and rapid procurement techniques?**
+
+- Rapid technique requires more preservation solution
+- Standard technique is used only for cardiac-death donors
+- **Rapid technique involves little or no preliminary dissection except for aortic encirclement and cannulae placement**
+- Rapid technique does not use portal flush
+
+*Explanation: With the rapid techniques, little or no preliminary dissection is done except for encirclement of the supraceliac aorta and cannulation of the IMV and terminal aorta.*
+
+---
+
+**20. Using the rapid procurement technique, approximately how long does it take to remove multiple organs (heart, liver, pancreas, and both kidneys)?**
+
+- 10–15 minutes
+- 20–30 minutes
+- **Approximately one-half hour**
+- One to two hours
+
+*Explanation: By performing all dissections in a bloodless field using the rapid technique, it is possible to remove multiple organs in approximately one-half hour.*
+
+---
+
+**21. For which type of donor is the super-rapid procurement technique primarily designed?**
+
+- Stable brain-dead donor
+- Living donor
+- Marginal donor with mild hemodynamic instability
+- **Arrested donor or donation after cardiac death (DCD)**
+
+*Explanation: In an arrested donor or donation after cardiac death (DCD), an even quicker procedure can be used to procure satisfactory organs.*
+
+---
+
+**22. In the super-rapid procurement technique, what is done if the donor hospital's DCD protocol does not allow intravenous heparinization before procurement?**
+
+- Heparin is omitted entirely
+- A smaller dose of heparin is given subcutaneously
+- **Heparin is added to the initial bags of preservation solution**
+- Heparin is given after organ procurement
+
+*Explanation: If the donor hospital's DCD protocol does not allow for intravenous heparinization before procurement, the heparin can be added to the initial bags of preservation solution.*
+
+---
+
+**23. In the super-rapid technique, what is the correct order of steps?**
+
+- IMV cannulation → aortic cannulation → sternal split
+- Sternal split → IMV cannulation → aortic cannulation
+- **Aortic cannulation and infusion → sternal split and IVC venting → IMV cannulation**
+- IMV cannulation → sternal split → aortic cannulation
+
+*Explanation: In the super-rapid technique, midline abdominal incision with aortic cannulation and infusion is done first, followed by sternal split and IVC venting, and only then is the IMV cannulated.*
+
+---
+
+**24. Which of the following is NOT part of back-table preparation of the liver allograft?**
+
+- Dissection and removal of extraneous tissue
+- Preparation of vascular cuffs
+- Verification of secure ligatures
+- **Performing the biliary anastomosis to the recipient**
+
+*Explanation: Back-table surgery involves preparing the allograft vascular cuffs, removing extraneous tissue, and verifying ligatures — not performing the actual recipient anastomosis.*
+
+---
+
+**25. Why must the liver be kept cold throughout back-table preparation?**
+
+- To prevent bacterial contamination
+- To slow metabolic processes and minimize reperfusion injury
+- **To preserve the viability of hepatocytes and vascular structures**
+- To facilitate dissection of vascular pedicles
+
+*Explanation: The liver should be kept cold by submerging it in a basin containing ice-cold preservation solution surrounded by an outer bag containing sterile ice slush to preserve organ viability.*
+
+---
+
+**26. A common reason for back-table vascular reconstruction is:**
+
+- Inadequate length of the common bile duct
+- Injury to the left hepatic vein
+- **Presence of an anomalous right hepatic artery originating from the SMA**
+- Torn portal vein at the bifurcation
+
+*Explanation: A common reason for back-table reconstruction is the presence of an anomalous right hepatic artery originating from the SMA, requiring arterial reconstruction before implantation.*
+
+---
+
+**27. When procuring the liver, pancreas, and intestine from the same donor, which of the following must be discussed among all procurement surgeons?**
+
+- Type of anesthesia used
+- Skin incision placement only
+- **Organ priority, preservation solution, aberrant hepatic arteries, and which organ retains the celiac axis or SMA**
+- Postoperative antibiotic selection
+
+*Explanation: Before starting multi-organ procurement, the operation should be discussed among all surgeons regarding organ priority, type and amount of preservation solution, aberrant hepatic arteries, and which organ retains the celiac axis or SMA.*
+
+---
+
+**28. What three phases make up the recipient liver transplant procedure?**
+
+- Induction, hepatectomy, and biliary reconstruction
+- Hilar dissection, hepatectomy, and reperfusion
+- **Native hepatectomy, anhepatic phase with vascular anastomoses, and hemostasis with biliary reconstruction**
+- Venovenous bypass, liver implantation, and closure
+
+*Explanation: The recipient procedure has three phases: (1) removal of the native liver, (2) the anhepatic phase involving vascular anastomoses and implantation of the donor allograft, and (3) achievement of hemostasis and biliary reconstruction.*
+
+---
+
+**29. What is the most commonly used incision for orthotopic liver transplantation in adults?**
+
+- Right subcostal incision
+- Midline incision from xiphoid to pubis
+- **Bilateral subcostal incision with an upper midline extension and excision of the xiphoid process**
+- Left subcostal incision with midline extension
+
+*Explanation: A bilateral subcostal incision is most often used, extending on the right to just beyond the midaxillary line and on the left to the lateral edge of the rectus muscle, with an upper midline extension and excision of the xiphoid process.*
+
+---
+
+**30. During the recipient hilar dissection, why are the right and left hepatic arteries and common hepatic duct ligated as close to the liver as possible?**
+
+- To minimize blood loss
+- To allow for easier bile duct visualization
+- **To retain maximum length for the anastomosis**
+- To prevent injury to the portal vein
+
+*Explanation: The right and left hepatic arteries and cystic and common hepatic ducts are ligated as close to the liver as possible to retain length for the subsequent anastomoses.*
+
+---
+
+**31. During the recipient hilar dissection, when is venovenous bypass cannulation of the portal vein initiated?**
+
+- Immediately after skin incision
+- Only if the IVC is injured
+- **If needed, it can be initiated with cannulation of the portal vein at the time of hilar dissection or later**
+- Always after completing the hepatectomy
+
+*Explanation: If needed, venovenous bypass can be initiated with cannulation of the portal vein at the time of hilar dissection or later, depending on clinical circumstances.*
+
+---
+
+**32. What physiologic consequences result from clamping the portal vein and IVC during the anhepatic phase?**
+
+- Decreased cardiac output and arterial hypotension only
+- Systemic arterial hypertension and bradycardia
+- **Splanchnic and lower body systemic venous hypertension, increased blood loss, hemodynamic instability, and risk of renal insufficiency**
+- Metabolic alkalosis and pulmonary edema
+
+*Explanation: Clamping of the PV and IVC results in splanchnic and lower body systemic venous hypertension, leading to increased blood loss, hemodynamic instability, and posttransplant renal insufficiency, particularly in adults.*
+
+---
+
+**33. The pump-driven venovenous bypass system used in liver transplantation was refined at which institution?**
+
+- Harvard Medical School
+- **University of Pittsburgh**
+- University of Wisconsin
+- Johns Hopkins University
+
+*Explanation: A pump-driven venovenous bypass system, used without recipient heparinization, was refined at the University of Pittsburgh to allow splanchnic and systemic blood to return to the heart.*
+
+---
+
+**34. In the venovenous bypass system, blood is returned to the heart via an inflow cannula placed in which vessel?**
+
+- Internal jugular vein
+- Subclavian vein
+- Femoral vein
+- **Axillary vein**
+
+*Explanation: The venovenous bypass system allows splanchnic and systemic blood to return to the heart by way of an inflow cannula placed in the axillary vein.*
+
+---
+
+**35. Infants and children weighing less than how many kilograms tolerate venous occlusion reasonably well during liver transplantation?**
+
+- 5 kg
+- 10 kg
+- **15 kg**
+- 20 kg
+
+*Explanation: Infants and children weighing less than 15 kg tolerate venous occlusion reasonably well, and therefore typically do not require venovenous bypass.*
+
+---
+
+**36. What is a temporary end-to-side portocaval shunt used for during liver transplantation?**
+
+- To increase hepatic arterial inflow
+- To facilitate biliary anastomosis
+- **To prevent mesenteric congestion as an alternative to venovenous bypass**
+- To improve venous return to the left heart
+
+*Explanation: A temporary end-to-side portocaval shunt can be constructed to prevent mesenteric congestion as an alternative to venovenous bypass.*
+
+---
+
+**37. The "piggyback" method of liver transplantation refers to:**
+
+- Splitting a donor liver for two recipients
+- Using a living donor's left lateral segment
+- **Preserving the host retrohepatic IVC and anastomosing the donor suprahepatic IVC to a cuff of host hepatic veins**
+- Performing hepatectomy from the bottom upward
+
+*Explanation: In the piggyback method, the host retrohepatic IVC is preserved, and the allograft's venous outflow is connected to the stumps of one or more host hepatic veins.*
+
+---
+
+**38. What is the primary advantage of the piggyback method of liver transplantation?**
+
+- Shorter cold ischemia time
+- Simpler biliary anastomosis
+- **Maintaining IVC flow during the anhepatic phase, ensuring hemodynamic stability and potentially eliminating the need for venovenous bypass**
+- Avoiding the need for arterial reconstruction
+
+*Explanation: Maintaining IVC flow during the anhepatic phase using the piggyback method can help ensure hemodynamic stability and eliminate the need for venovenous bypass.*
+
+---
+
+**39. What is the most common currently used method of liver transplantation?**
+
+- Classical orthotopic technique with IVC replacement
+- Super-rapid procurement with standard implantation
+- Living donor right lobe transplantation
+- **The piggyback method**
+
+*Explanation: The piggyback method is by far the most common currently used method and can be performed with or without venovenous bypass.*
+
+---
+
+**40. During the piggyback procedure, which structure is divided from the caudate lobe inferiorly to the main hepatic veins superiorly?**
+
+- The hepatoduodenal ligament
+- The falciform ligament
+- **The short hepatic veins in the retrohepatic space**
+- The gastrohepatic ligament
+
+*Explanation: The piggyback method requires dividing the short hepatic veins in the retrohepatic space from the caudate lobe inferiorly to the main hepatic veins superiorly.*
+
+---
+
+**41. Two of the most challenging components of the piggyback procedure include:**
+
+- Preserving the cystic duct and managing the right adrenal vein
+- Ligating the left triangular ligament and closing the falciform ligament
+- **Dividing the hypertrophied caudate lobe and isolating an accessory right hepatic vein**
+- Performing the portal vein anastomosis and managing bile duct anomalies
+
+*Explanation: Two of the most challenging components of the piggyback procedure are dividing the often hypertrophied caudate lobe superiorly and isolation and division of an accessory right hepatic vein.*
+
+---
+
+**42. In the "splitting hepatectomy" technique, in which direction is the liver split?**
+
+- Transversely across the middle
+- Along the falciform ligament from anterior to posterior
+- **In a superior-inferior direction, exposing the anterior surface of the retrohepatic IVC from inside the liver**
+- From the right lobe toward the left lobe
+
+*Explanation: If adhesions block access to the upper and lower vena cava, the liver can be split in half in a superior-inferior direction, exposing the anterior surface of the retrohepatic IVC from inside the liver.*
+
+---
+
+**43. When is it advantageous to open the central tendon of the diaphragm and clamp the IVC at its junction with the right atrium?**
+
+- In all routine liver transplants
+- When performing pediatric liver transplants
+- **When access to the upper vena cava is difficult, especially in retransplantation**
+- When the piggyback method is used
+
+*Explanation: Access to the upper vena cava can often be difficult, especially in retransplantation. In such cases, it is sometimes advantageous to open the central tendon of the diaphragm and clamp the IVC at its junction with the right atrium.*
+
+---
+
+**44. When performing intrapericardial clamping of the IVC, what direction should the vascular clamp be directed?**
+
+- Perfectly anteroposteriorly
+- From left to right
+- From right to left
+- **Not perfectly anteroposteriorly but more inferosuperiorly**
+
+*Explanation: It is best to use a slightly angled clamp that should be directed not perfectly anteroposteriorly but more inferosuperiorly, as a straight anteroposterior approach rarely gives complete occlusion of the IVC.*
+
+---
+
+**45. What is always the first allograft vessel to be anastomosed during liver implantation?**
+
+- The portal vein
+- The hepatic artery
+- The infrahepatic vena cava
+- **The suprahepatic vena cava**
+
+*Explanation: It is important to have the surgical field as completely prepared as possible before bringing the new liver from the back table. The first allograft vessel to be anastomosed is always the suprahepatic vena cava.*
+
+---
+
+**46. When UW preservation solution is used, why is it imperative to flush the allograft before reperfusion?**
+
+- To reduce the temperature of the liver
+- To prevent air embolism
+- **To rid the liver of high-potassium preservation solution, which can cause hyperkalemic cardiac arrest or dysrhythmias**
+- To confirm vascular integrity of the anastomoses
+
+*Explanation: When UW solution is used, flushing is imperative to rid the liver of high-potassium preservation solution; failure to do so can result in hyperkalemic cardiac arrest or dysrhythmias. This step is not necessary if HTK solution is used.*
+
+---
+
+**47. How are venous anastomoses typically performed during liver transplantation?**
+
+- With interrupted non-absorbable sutures
+- With stapling devices
+- **With continuous suture**
+- With absorbable interrupted sutures
+
+*Explanation: All venous anastomoses are usually performed with continuous suture.*
+
+---
+
+**48. What is the purpose of leaving a "growth factor" when tying the continuous suture in venous anastomoses?**
+
+- To allow for future surgical revision
+- To accommodate suture shrinkage
+- **To allow the anastomosis to expand to its full circumference after flow is restored, preventing stricture**
+- To facilitate removal of the suture postoperatively
+
+*Explanation: A "growth factor" (often equal to at least the diameter of the PV) is left by tying the continuous suture at a considerable distance above the vessel wall. After flow is restored, the excess polypropylene recedes back into the vessel, allowing the anastomosis to expand to its full circumference.*
+
+---
+
+**49. Which suture material is commonly used for venous anastomoses in liver transplantation because it glides freely through tissue?**
+
+- Polyglycolic acid (PGA)
+- Silk suture
+- **Polypropylene (Prolene)**
+- Polyester (Ethibond)
+
+*Explanation: Special techniques were developed because polypropylene (Prolene) suture glides freely through tissue, which is important for the "growth factor" technique in venous anastomoses.*
+
+---
+
+**50. What procedure may be performed when portal vein thrombosis is encountered in the recipient?**
+
+- The transplant is abandoned
+- The portal vein is ligated and the IVC used for portal inflow
+- **Declotting with a clamp or cotton peanut, interposition grafts, or mesoportal jump grafts**
+- Only deceased-donor grafts with long portal veins can be used
+
+*Explanation: Declotting a thrombosed portal vein may be possible by inserting a clamp or cotton peanut retrograde into the PV and extracting the clot. Iliac or other veins from the donor may also be used as interposition grafts or as mesoportal jump grafts.*
+
+---
+
+**51. A mesoportal jump graft is typically tunneled through which structure to reach the hepatic hilum?**
+
+- Through the lesser sac
+- Posterior to the duodenum
+- **Through the transverse mesocolon anterior to the pancreas**
+- Posterior to the stomach
+
+*Explanation: A mesoportal graft may be anastomosed end-to-side to the superior mesenteric vein and tunneled through the transverse mesocolon anterior to the pancreas to reach the hepatic hilum for end-to-end anastomosis to the donor PV.*
+
+---
+
+**52. What is the ideal hepatic artery reconstruction when the allograft and recipient have normal arterial anatomy?**
+
+- End-to-side at the level of the aorta
+- Side-to-side at the level of the celiac trunk
+- **End-to-end at the level of the recipient common hepatic artery**
+- End-to-side at the level of the superior mesenteric artery
+
+*Explanation: The ideal reconstruction when the allograft and recipient have normal arterial anatomy is end-to-end at the level of the recipient common hepatic artery.*
+
+---
+
+**53. When an arterial jump graft is needed for hepatic revascularization, from where does it usually originate?**
+
+- From the celiac trunk
+- From the superior mesenteric artery
+- **From the infrarenal aorta**
+- From the left gastric artery
+
+*Explanation: The arterial graft usually originates from the infrarenal aorta but can be placed on the recipient celiac trunk or supraceliac aorta as well.*
+
+---
+
+**54. When the recipient bile duct is disease-free and size-matched with the donor duct, which biliary reconstruction is preferred?**
+
+- Choledochojejunostomy with Roux-en-Y limb
+- Hepaticojejunostomy with internal stent
+- **End-to-end anastomosis with or without a T-tube**
+- Side-to-side choledochocholedochostomy
+
+*Explanation: If the recipient duct is disease-free and there is a reasonable size match between the donor and recipient ducts, an end-to-end anastomosis is performed with or without a T-tube.*
+
+---
+
+**55. How many sutures are typically used for the biliary end-to-end anastomosis?**
+
+- 3–5 interrupted sutures
+- Continuous running sutures only
+- **8 to 10 interrupted absorbable sutures (6-0 or 7-0 PGA)**
+- 12–15 non-absorbable interrupted sutures
+
+*Explanation: The biliary anastomosis usually is performed with 8 to 10 interrupted absorbable sutures, such as 6-0 or 7-0 polyglycolic acid (PGA), or with a continuous suture if the ducts are large enough.*
+
+---
+
+**56. The integrity of the biliary anastomosis depends primarily on:**
+
+- The number of sutures placed
+- The length of the bile duct
+- The type of suture material used
+- **An adequate arterial blood supply to both the donor and recipient ducts**
+
+*Explanation: Because the integrity of the anastomosis depends primarily on an adequate arterial blood supply to both the donor and recipient ducts, minimal dissection is performed in the periductal tissues.*
+
+---
+
+**57. When is a choledochojejunostomy performed for biliary reconstruction in liver transplantation?**
+
+- In all pediatric patients
+- When the donor duct is too short
+- When a T-tube is unavailable
+- **When the recipient duct is diseased or otherwise inadequate for anastomosis**
+
+*Explanation: If the recipient duct is diseased or otherwise inadequate for anastomosis, a choledochojejunostomy is performed.*
+
+---
+
+**58. What length Roux-en-Y limb of proximal jejunum is typically brought to the hepatic hilum for choledochojejunostomy?**
+
+- 10 cm
+- 20 cm
+- **40 cm**
+- 60 cm
+
+*Explanation: A 40 cm Roux-en-Y limb of proximal jejunum is brought to the hepatic hilum (antecolic or retrocolic) for choledochojejunostomy.*
+
+---
+
+**59. In pediatric liver transplantation, what incision is most commonly used?**
+
+- Midline incision from xiphoid to pubis
+- Right subcostal incision
+- **Bilateral Chevron incision without a midline component**
+- Inverted T-incision
+
+*Explanation: Most pediatric recipients can be transplanted through a bilateral Chevron incision without a midline component, as the pediatric abdominal wall is easily retracted to optimize exposure.*
+
+---
+
+**60. The most common indication for liver transplantation in the pediatric population is:**
+
+- Hepatoblastoma
+- Alpha-1 antitrypsin deficiency
+- Acute liver failure
+- **Biliary atresia**
+
+*Explanation: The pediatric hilar dissection is unique in that the most common indication for transplantation is biliary atresia, and most patients will have had a Kasai procedure within the first 2 months of life.*
+
+---
+
+**61. During the pediatric hilar dissection in a patient with biliary atresia, how is the portoenterostomy (Kasai) handled?**
+
+- It is completely dissected from the liver first
+- It is left in situ and the portal vein is divided proximally
+- It is removed with a separate incision before hepatectomy
+- **It is left attached to the liver, and the Roux limb is divided just distal to the anastomosis with an endovascular stapler**
+
+*Explanation: The portoenterostomy is left attached to the liver, and the Roux limb is divided just distal to the anastomosis with an endovascular stapler, thereby avoiding dissection of the cirrhotic liver.*
+
+---
+
+**62. In the cholestatic pediatric patient, the portal vein is frequently described as:**
+
+- Large and dilated with thin walls
+- Normal in caliber with good flow
+- Thrombosed and calcified
+- **Small, narrowed, and thickened, resulting in minimal flow**
+
+*Explanation: In the cholestatic pediatric patient the portal vein is frequently small, narrowed, and thickened, resulting in minimal flow.*
+
+---
+
+**63. When hilar dissection in a pediatric patient requires dissection to the junction of the splenic and superior mesenteric veins, which artery may be safely divided to gain access?**
+
+- The common hepatic artery
+- The gastroduodenal artery
+- The left gastric artery
+- **The splenic artery**
+
+*Explanation: To reach the celiac trunk where strong arterial inflow is present, it is usually necessary to dissect the hepatic artery proximally to the origin of the splenic artery (which can safely be divided).*
+
+---
+
+**64. In children with congenital heart disease undergoing liver transplantation, what special precaution is taken during reperfusion?**
+
+- The portal vein is cross-clamped for 5 minutes post-reperfusion
+- Heparin is withheld during reperfusion
+- **The clamps are removed in reverse order and the final suprahepatic vena caval sutures are not tied until air and debris have been cleared, to prevent arterial air embolism**
+- The IVC is vented into the chest throughout reperfusion
+
+*Explanation: In the child with congenital heart disease, the air and debris in the donor liver must be vented into the abdomen to avoid it inadvertently entering the arterial circulation. The clamps are removed in reverse order, and the final suprahepatic sutures are not tied until air has been cleared.*
+
+---
+
+**65. After reperfusion in children weighing less than 20 kg or those with metabolic liver disease, what anticoagulation protocol is initiated?**
+
+- Aspirin 5 mg/kg daily
+- Warfarin titrated to an INR of 2–3
+- **Heparin at 5 units/kg/hour titrated to maintain a PTT of 55 to 60 seconds**
+- Low molecular weight heparin subcutaneously once daily
+
+*Explanation: At this point in children less than 20 kg, and in children with metabolic liver disease, heparin is initiated at 5 units/kg/hour titrated to maintain a prothrombin time (PTT) of 55 to 60 seconds to prevent vascular thromboses.*
+
+---
+
+**66. In the pediatric patient receiving a technical variant allograft, what must be done to prevent the allograft from falling into the vacant right upper quadrant?**
+
+- Place a large drain in the right upper quadrant
+- Pack the right upper quadrant with absorbable mesh
+- **Reapproximate the falciform ligament of the donor and recipient, or suture it to the abdominal wall**
+- Perform partial splenectomy to fill the space
+
+*Explanation: In the child receiving a technical variant allograft, it is important to reapproximate the falciform ligament of the donor and recipient to prevent the allograft from falling into the vacant right upper quadrant, causing allograft thrombosis.*
+
+---
+
+**67. What option is available when the pediatric abdominal domain is too small to close primarily after transplantation?**
+
+- Perform immediate retransplantation with a smaller allograft
+- Apply a vacuum-assisted wound closure device
+- **Leave the abdominal wall fascia open or place a patch of Gore-Tex temporarily**
+- Reduce the allograft further ex situ before closure
+
+*Explanation: In some patients the abdominal domain is compromised to the point that the abdominal wall fascia may need to be left open or a patch of Gore-Tex placed temporarily to prevent the abdomen from being too tight.*
+
+---
+
+**68. Since what year has the option of using a partial liver for transplantation been utilized?**
+
+- 1963
+- 1970
+- **1980**
+- 1988
+
+*Explanation: Since 1980 the option of using a partial liver has been utilized at most large transplant centers with results equal to or approaching those achievable with whole-allograft liver transplantation.*
+
+---
+
+**69. What is the goal of performing technical variant procurements of the liver?**
+
+- To obtain multiple biopsy specimens
+- To reduce cold ischemia time
+- **To create two transplantable allografts, thereby maximizing the use of the cadaveric liver**
+- To allow better size matching for a single adult recipient
+
+*Explanation: It is important to keep in mind that the goal of performing technical variant procurements is to create two transplantable allografts thereby maximizing the use of the cadaveric liver.*
+
+---
+
+**70. What is the most common technical variant allograft split?**
+
+- Left lobe and right lobe split
+- Left lateral segment and right lobe split
+- Left lateral segment and left lobe split
+- **Right trisegmental and left lateral segment split**
+
+*Explanation: The most common technical variant allografts are the in situ split right trisegmental and left lateral segment allografts benefiting both a child and an adult.*
+
+---
+
+**71. During the in situ split, the initial parenchymal transection is performed approximately how far to the right of the falciform ligament?**
+
+- 0.5 cm
+- **1 cm**
+- 2 cm
+- 3 cm
+
+*Explanation: When the dissection is completed, the initial parenchymal transection is performed approximately 1 cm to the right of the falciform ligament. This location is chosen with the hope of encountering a single left hepatic duct.*
+
+---
+
+**72. In the umbilical fissure during an in situ split, which branches are ligated and divided?**
+
+- Branches entering segments 2 and 3
+- All branches from the left hepatic artery
+- The main left portal vein
+- **Branches from the left hepatic artery and left PV entering segments 4a and 4b**
+
+*Explanation: In the umbilical fissure the branches from the left hepatic artery and left PV entering segments 4a and 4b are ligated and divided, while the branches entering segments 2 and 3 are preserved.*
+
+---
+
+**73. After an in situ split, how is the left lateral segment allograft separated on the back table?**
+
+- By dividing the right hepatic vein and right hepatic artery
+- By stapling the middle hepatic vein
+- **By dividing the left hepatic vein at its insertion into the vena cava, the right hepatic artery near its origin, and the left PV just distal to its origin at the bifurcation**
+- By dividing the celiac trunk from the aorta
+
+*Explanation: On the back table the two liver allografts are separated by dividing the left hepatic vein at its insertion into the vena cava, the right hepatic artery near its origin from the proper hepatic artery, and the left PV just distal to its origin at the portal vein bifurcation.*
+
+---
+
+**74. If the liver has a replaced left hepatic artery during an in situ split, which structure stays with the right trisegmental allograft?**
+
+- The left gastric artery
+- The superior mesenteric artery
+- The left portal vein
+- **The celiac trunk (left gastric artery is divided and celiac trunk remains with the right trisegmental allograft)**
+
+*Explanation: If the liver has a replaced left hepatic artery, the left gastric artery is divided from the celiac trunk, and the celiac trunk remains with the right trisegmental allograft.*
+
+---
+
+**75. What additional procedure is performed before parenchymal transection during an in situ right-left lobe split to rule out aberrant biliary anatomy?**
+
+- CT cholangiogram
+- MRCP
+- Pre-operative ERCP
+- **Intraoperative cholangiogram after cholecystectomy**
+
+*Explanation: After isolating all vascular structures and determining that the size is appropriate for two adults, the gallbladder is removed and an intraoperative cholangiogram is performed to rule out aberrant biliary anatomy.*
+
+---
+
+**76. In an in situ right-left lobe split, what creates the "hanging liver" to allow parenchymal division along Cantlie's line?**
+
+- Division of the falciform ligament
+- Ligation of the middle hepatic vein
+- **Passing a vessel loop between the right and middle hepatic veins superiorly and between the bifurcation of the right and left hilar structures inferiorly**
+- Division of the short hepatic veins
+
+*Explanation: The space between the right and middle hepatic veins is developed and a vessel loop is passed between the right and middle hepatic veins superiorly and between the bifurcation of the right and left hilar structures inferiorly. This creates the "hanging liver."*
+
+---
+
+**77. When is an accessory right hepatic vein encountered during a right-left lobe split considered significant and requiring preservation?**
+
+- If it is greater than 0.5 cm
+- Always, regardless of size
+- **If it is greater than 1 cm**
+- Only if it drains segment VI
+
+*Explanation: If a large accessory right hepatic vein (usually >1 cm) is encountered during the right-left lobe split, it must be preserved for reimplantation.*
+
+---
+
+**78. For the left lateral segment allograft back-table preparation, what single modification is required?**
+
+- Closure of the right hepatic vein orifice
+- Reconstruction of the hepatic artery with an iliac graft
+- Closure of the left portal vein orifice
+- **Placing an iliac vein extension graft onto the left portal vein**
+
+*Explanation: The left lateral segment allograft only requires a single modification consisting of placing an iliac vein extension graft onto the left PV, making the anastomosis to the proximal recipient PV easier and providing additional length.*
+
+---
+
+**79. For back-table reconstruction of the right trisegmental allograft, what is used to close the defect in the left vena cava without stricturing the middle hepatic vein?**
+
+- Primary suture closure with Prolene
+- A Gore-Tex patch sutured in place
+- **A patch of iliac vein sutured with running Prolene suture**
+- Autologous pericardial patch
+
+*Explanation: The right trisegmental allograft requires that the defect in the left vena cava be closed without stricturing the middle hepatic vein; this utilizes a patch of iliac vein sutured with running Prolene suture.*
+
+---
+
+**80. Which artery is preferred for hepatic artery reconstruction of the right trisegmental allograft?**
+
+- Internal iliac artery
+- Common iliac artery
+- Superior mesenteric artery
+- **External iliac artery, as it is frequently size-matched to the right hepatic artery**
+
+*Explanation: The external iliac artery is preferred for this reconstruction as it frequently is size-matched to the right hepatic artery.*
+
+---
+
+**81. Implantation of the left lateral segment allograft requires the donor left hepatic vein to be anastomosed to:**
+
+- The recipient right hepatic vein
+- The recipient infrahepatic IVC
+- The anterior wall of the recipient IVC
+- **The confluence of the recipient middle and left hepatic veins in an end-to-end fashion**
+
+*Explanation: The left lateral segment allograft requires that the donor left hepatic vein be anastomosed to the confluence of the recipient middle and left hepatic veins in an end-to-end fashion.*
+
+---
+
+**82. In living-donor liver transplantation, which technique is always required for the recipient hepatectomy since live-donor allografts have no native vena cava?**
+
+- Classical orthotopic hepatectomy with IVC excision
+- Super-rapid hepatectomy
+- Splitting hepatectomy
+- **Piggyback technique (sparing the vena cava)**
+
+*Explanation: Because no live-donor allografts have the native vena cava attached, the recipient hepatectomy must spare the vena cava, using the piggyback technique.*
+
+---
+
+**83. What is "small-for-size syndrome" (SFSS) in the context of living-donor liver transplantation?**
+
+- Inability to close the abdomen after transplantation
+- Hepatic artery thrombosis due to small vessel size
+- Bile duct stricture from a small duct anastomosis
+- **Early allograft dysfunction related to insufficient functional liver mass relative to recipient size and portal flow**
+
+*Explanation: Small-for-size syndrome (SFSS) refers to early allograft dysfunction that can occur when the allograft size is insufficient relative to the recipient, particularly when portal pressure and flow are high.*
+
+---
+
+**84. When should "inflow modification" be considered in living-donor liver transplantation?**
+
+- Only after confirmed hepatic artery thrombosis
+- Routinely in all living-donor transplants
+- **When absolute portal pressure exceeds 20 mm Hg, portal venous gradient exceeds 12 mm Hg, hepatic artery flow is less than 100 mL/min, or post-reperfusion portal flow exceeds 2.5 mL/gram allograft weight**
+- When the cold ischemia time exceeds 6 hours
+
+*Explanation: Inflow modifications should be considered when absolute portal pressure is greater than 20 mm Hg, portal venous gradient is greater than 12 mm Hg, hepatic artery flow is less than 100 mL/min, or post-reperfusion portal flow is greater than 2.5 mL/gram allograft weight.*
+
+---
+
+**85. Which of the following is an example of "inflow modification" in living-donor liver transplantation?**
+
+- Hepatic artery ligation
+- Portal vein banding
+- Placement of a biliary stent
+- **Splenic artery ligation, hemiportocaval shunt, or splenectomy**
+
+*Explanation: Inflow modification techniques include splenic artery ligation, hemiportocaval shunt, and splenectomy, which are used to help prevent early allograft dysfunction or small-for-size syndrome.*
+
+---
+
+**86. When performing right lobe live-donor transplantation without the middle hepatic vein, which hepatic segments may require anterior venous outflow reconstruction on the back table?**
+
+- Segments II and III
+- Segments VI and VII
+- Segment IV
+- **Segments V and VIII (significant anterior hepatic venous branches)**
+
+*Explanation: With the approach of leaving the middle hepatic vein with the donor remnant liver, allografts with significant anterior hepatic venous branches (segments V, VIII) may require reconstruction on the back table.*
+
+---
+
+**87. In right lobe live-donor allograft implantation, what is the advantage of performing the hepatic venous anastomosis to an anterior caval venotomy rather than to the recipient RHV orifice?**
+
+- It avoids the need for any vascular clamps
+- It shortens the portal vein anastomosis
+- **It brings the allograft lower in the operative field, closer to the hilar vessels, and avoids cavoplasty**
+- It reduces the risk of hepatic artery thrombosis
+
+*Explanation: The advantage of the anterior caval venotomy is that it brings the allograft lower in the operative field, closer to the hilar vessels, and avoids the need to perform cavoplasty or other remedial procedures.*
+
+---
+
+**88. Before securing the hepatic venous anastomosis in right lobe live-donor transplantation, why is the anastomosis left temporarily untied?**
+
+- To allow measurement of portal venous pressure
+- To facilitate bile duct cannulation
+- **To allow flushing of the allograft to remove preservation solution or stagnant portal blood and to expand the anastomosis before securing it**
+- To prevent air embolism during reperfusion
+
+*Explanation: Leaving this anastomosis temporarily untied before reperfusion allows for flushing of the allograft to remove preservation solution or stagnant portal blood and expands the anastomosis before securing it.*
+
+---
+
+**89. Hepatic artery reconstruction in right lobe live-donor transplantation is best performed with:**
+
+- Continuous Prolene suture under direct vision
+- Stapling device
+- **Interrupted fine suture under high-power loupe magnification or microscope**
+- Continuous absorbable suture
+
+*Explanation: Hepatic artery reconstruction is best performed with interrupted fine suture under high-power loupe magnification, although some prefer to use a microscope.*
+
+---
+
+**90. Recipient hepatic artery thrombosis (HAT) caused by intimal dissection during live-donor liver transplantation can be salvaged with:**
+
+- Retransplantation only
+- Systemic thrombolytic therapy
+- **A recipient arterial conduit such as a redundant loop of splenic artery, gastroduodenal artery, gastroepiploic artery, or an interposition graft**
+- Observation with systemic anticoagulation
+
+*Explanation: Recipient hepatic artery thrombosis caused by intimal dissection can be salvaged with a recipient arterial conduit, such as a redundant loop of splenic artery, gastroduodenal artery, gastroepiploic artery, or an interposition graft.*
+
+---
+
+**91. Dissection of the hepatic artery into the allograft parenchyma during live-donor liver transplantation is generally:**
+
+- Manageable with local repair techniques
+- Treated with systemic thrombolytics
+- Observed conservatively for 24–48 hours
+- **Not salvageable and requires retransplantation**
+
+*Explanation: Dissection of the hepatic artery into the allograft is generally not salvageable and requires retransplantation.*
+
+---
+
+**92. In left lobe live-donor liver transplantation, the left hepatic vein drainage of the allograft is best performed to which recipient vessel?**
+
+- The recipient right hepatic vein
+- The anterior wall of the infrahepatic IVC
+- The recipient infrahepatic IVC
+- **The recipient left hepatic vein, due to closer proximity and better anatomic alignment**
+
+*Explanation: Unlike the right lobe allograft, the left hepatic vein drainage of the allograft is best performed to the LHV of the recipient due to the closer proximity to the hilar vessels and the cephalad angle that lines up more precisely to the recipient middle and left hepatic vein stumps.*
+
+---
+
+**93. What is an important intraoperative check before the patient leaves the operating room in live-donor liver transplantation?**
+
+- Checking liver enzymes in the operating room
+- Confirming biliary anastomosis patency with a cholangiogram
+- **Confirming all vascular anastomoses with intraoperative ultrasound, flow probe, or handheld Doppler probe**
+- Obtaining a post-reperfusion liver biopsy
+
+*Explanation: The patient should not leave the operating room unless the surgeon is satisfied with all vascular anastomoses confirmed by intraoperative ultrasound, flow probe, or handheld Doppler probe.*
+
+---
+
+**94. Which patients may require combined liver transplant and Whipple pancreaticoduodectomy?**
+
+- All patients with primary sclerosing cholangitis
+- Patients with hepatocellular carcinoma
+- **Patients with cholangiocarcinoma or severe dysplasia throughout the biliary tree**
+- Patients with Caroli disease
+
+*Explanation: Patients with cholangiocarcinoma or severe dysplasia throughout the biliary tree may require en bloc resection of the entire biliary tree. In these cases, combined liver transplant and Whipple pancreaticoduodectomy may be required.*
+
+---
+
+**95. To qualify for combined liver transplant and Whipple procedure for cholangiocarcinoma, patients must undergo:**
+
+- Systemic chemotherapy for 6 months
+- Liver-directed embolization therapy
+- **Neoadjuvant chemoradiation**
+- Palliative biliary stenting
+
+*Explanation: To qualify for the combined liver transplant and Whipple pancreaticoduodectomy, patients must undergo neoadjuvant chemoradiation.*
+
+---
+
+**96. Left lateral segment liver transplant is specifically reserved for which patient population?**
+
+- Small adults under 50 kg
+- Children under 10 years old
+- Patients with acute liver failure
+- **Babies**
+
+*Explanation: Left lobe live-donor liver transplantation is useful for smaller adults and/or children, while left lateral segment liver transplant is specifically reserved for babies.*
+
+---
+
+**97. Which of the following statements about subcapsular dissection during recipient hepatectomy is correct?**
+
+- It is the preferred method when adhesions are present
+- It is safer than dissecting outside the liver capsule
+- It reduces blood loss during adhesiolysis
+- **It can result in disastrous hemorrhage and should be avoided; dissection should remain just outside the liver capsule**
+
+*Explanation: Although easier and faster, subcapsular dissection can result in disastrous hemorrhage. This is especially true in retransplantation where vascularized adhesions can cause massive bleeding.*
+
+---
+
+**98. The "hanging liver" technique used in in situ splitting involves dividing the liver parenchyma along which anatomical line?**
+
+- Rex-Cantlie line
+- The Rex shunt
+- Portal scissura
+- **Cantlie's line**
+
+*Explanation: After creating the "hanging liver," the liver parenchyma can then be divided along Cantlie's line.*
+
+---
+
+**99. When an anomalous left hepatic arterial branch originates from the left gastric artery, where is it almost always found?**
+
+- Anterior to the vagus nerve, within the lesser omentum
+- Posterior to the splenic artery
+- **Just posterior to the vagus nerve branch as it courses from the lesser curvature of the stomach through the gastrohepatic ligament to the liver**
+- Within the porta hepatis near the bile duct
+
+*Explanation: When present, this anomalous left hepatic arterial branch is almost always present just posterior to the vagus nerve branch as it courses from the lesser curvature of the stomach through the gastrohepatic ligament to the liver.*
+
+---
+
+**100. What is the purpose of Kocherization of the duodenum during standard liver procurement?**
+
+- To identify the superior mesenteric vein
+- To check for duodenal anomalies
+- To mobilize the pancreas for simultaneous procurement
+- **To allow exposure of the distal aorta and inferior vena cava (IVC)**
+
+*Explanation: Kocherization of the duodenum is performed during standard liver procurement, allowing exposure of the distal aorta and inferior vena cava.*
+
+---
+
+**101. When simultaneous pancreas retrieval is planned during liver procurement, why is the superior mesenteric artery (SMA) encircled with a vessel loop?**
+
+- To divide it for liver procurement
+- To use it as a landmark for portal dissection
+- **To stop the infusion of perfusate to avoid hyperperfusion of the pancreas**
+- To assess its length for reconstruction
+
+*Explanation: If simultaneous pancreas retrieval is planned, the SMA is encircled with a vessel loop that can be used to stop the infusion of the perfusate to avoid hyperperfusion of the pancreas.*
+
+---
+
+**102. During liver procurement, which vessel serves as a landmark to identify the inferior mesenteric vein (IMV)?**
+
+- The right colic artery
+- The ileocolic vein
+- The left colic artery
+- **The ligament of Treitz**
+
+*Explanation: The ligament of Treitz is identified and serves as a landmark to identify the inferior mesenteric vein (IMV), which can easily be dissected from the mesocolon in preparation for aortic cannulation.*
+
+---
+
+**103. When the celiac axis is to be retained with the allograft after hepatectomy, what additional structure should be conserved?**
+
+- The left renal artery
+- The superior mesenteric artery
+- The inferior mesenteric artery
+- **A proximal segment of the splenic arterial branch for potential reconstruction of an anomalous hepatic artery**
+
+*Explanation: If the celiac axis is to be retained with the allograft, a proximal segment of its splenic arterial branch should also be conserved for potential reconstruction of an anomalous hepatic artery.*
+
+---
+
+**104. In the super-rapid procurement technique, where is the sternum split to and what is vented there?**
+
+- The sternum is split to expose the heart; the portal vein is vented
+- **The sternum is split to expose the pericardium and thoracic aorta; the suprahepatic IVC is incised and vented into the chest**
+- The sternum is split to place a bypass cannula; the IVC is vented into the abdomen
+- The sternum is split to allow aortic cross-clamping; the portal vein is flushed
+
+*Explanation: The sternum is split to expose the pericardium and thoracic aorta. The suprahepatic inferior vena cava (IVC) is incised and vented into the chest, and the descending thoracic aorta is cross-clamped.*
+
+---
+
+**105. During standard liver procurement, ligation and division of which arteries renders subsequent portal vein and bile duct dissection relatively bloodless?**
+
+- Right hepatic and left hepatic arteries
+- Splenic and right gastric arteries
+- **Left gastric, right gastric, and gastroduodenal arteries**
+- Superior mesenteric and inferior mesenteric arteries
+
+*Explanation: After ligation of the left gastric, right gastric, and gastroduodenal arteries, the subsequent dissection of the common bile duct and portal vein is rendered relatively bloodless.*
+
+---
+
+**106. Which of the following is a potential complication when the retrohepatic IVC is removed or thrombosed during recipient hepatectomy?**
+
+- Increased risk of portal vein thrombosis
+- Difficulty performing the hepatic artery anastomosis
+- Biliary stricture formation
+- **More severe bleeding from the bare area due to loss of venous drainage**
+
+*Explanation: Bleeding from the bare area is more severe if the retrohepatic cava is removed or thrombosed because of the loss of venous drainage.*
+
+---
+
+**107. In the most desperate cases of portal vein thrombosis preventing adequate portal inflow, how can portal vein inflow be supplied?**
+
+- By using the splenic vein as the portal inflow
+- By ligating the IVC and rerouting all blood through the liver
+- By performing a portosystemic shunt as permanent palliation
+- **By creating an end-to-side portocaval shunt using the IVC, with the vena cava above the anastomosis purposefully narrowed to force antegrade flow**
+
+*Explanation: In the most desperate of cases, the PV inflow can be supplied by a portion of the flow through the IVC by means of an end-to-side portocaval shunt. The vena cava above the anastomosis is typically purposefully narrowed to force antegrade flow through the shunt.*
+
+---
+
+**108. Why must the portocaval shunt be placed as inferiorly as possible on the IVC?**
+
+- To reduce the risk of renal vein injury
+- To maintain adequate hepatic arterial flow
+- To prevent hepatic vein thrombosis
+- **So that its location does not interfere with placement of the vena caval clamp**
+
+*Explanation: The portocaval shunt should be placed on the IVC as inferiorly as possible so that its location does not interfere with placement of the vena caval clamp.*
+
+---
+
+**109. How is the CBD flushed immediately before packaging the liver allograft?**
+
+- With heparinized saline via the portal vein
+- With cold albumin solution via the common hepatic duct
+- **With HTK or UW preservation solution**
+- With normal saline via the gallbladder
+
+*Explanation: The CBD is flushed with HTK or UW preservation solution before packaging the liver.*
+
+---
+
+**110. If the IMV cannot be cannulated during procurement, how can the portal venous system be perfused?**
+
+- Via the splenic artery
+- Via the inferior vena cava
+- Via direct injection into the portal vein at the hilum
+- **Perfusion can be done solely through the aorta, or via the splenic vein if the IMV is inaccessible**
+
+*Explanation: The perfusion can also be done solely through the aorta if the portal venous system cannot be cannulated, or the vein can be flushed ex situ after procurement.*
+
+---
+
+**111. During back-table preparation, which of the following is verified to ensure it is secure?**
+
+- The integrity of the hepatic sinusoids
+- The bile duct epithelium
+- **Ligatures on small retrohepatic caval, portal vein, and hepatic arterial branches**
+- The integrity of the parenchymal cut surface
+
+*Explanation: Back-table preparation includes verification of secure ligatures on small retrohepatic caval, PV, and hepatic arterial branches.*
+
+---
+
+**112. What is the consequence of failing to have the liver completely ready for implantation before the recipient operation?**
+
+- Only minor technical delays result
+- The cold ischemia time is slightly prolonged
+- A second donor liver is automatically requested
+- **It can result in irreversible damage or make it impossible to complete the recipient operation**
+
+*Explanation: Failure to have the liver completely ready for implantation can result in irreversible damage or make it impossible to complete the recipient operation.*
+
+---
+
+**113. In the sequential composite anterior segment reconstruction for right lobe live-donor transplantation, which segments are reconstructed?**
+
+- Segments II and III
+- Segments VI and VII
+- Segments I and IV
+- **Segments V and VIII**
+
+*Explanation: Sequential composite anterior segment reconstruction can be used to create a single outflow conduit when segment V and VIII need to be reconstructed.*
+
+---
+
+**114. What is the advantage of using an artificial conduit (such as PTFE) for anterior segment reconstruction in right lobe live-donor transplantation compared to autologous saphenous vein?**
+
+- Lower risk of graft thrombosis
+- Better long-term patency
+- **Relatively low cost and avoidance of a morbid incision in the recipient to harvest saphenous vein**
+- Reduced immunogenicity
+
+*Explanation: The advantage of using artificial conduit is the relatively low cost and avoidance of the need for a morbid incision in the recipient to harvest saphenous vein.*
+
+---
+
+**115. What is a hemiportocaval shunt (HPCS) in the context of live-donor liver transplantation?**
+
+- A shunt connecting the portal vein to the splenic vein
+- A shunt connecting the hepatic vein to the portal vein
+- A shunt connecting the SMV to the IVC
+- **A shunt using the right branch of the recipient portal vein or a PTFE conduit to connect the portal system to the IVC, to reduce portal pressure**
+
+*Explanation: A hemiportocaval shunt (HPCS) using the recipient right portal vein or a 6-mm PTFE conduit can be performed during hepatectomy to manage excessive portal hypertension in live-donor transplantation.*
+
+---
+
+**116. In right lobe live-donor transplantation, what does a palpable thrill in the hepatic artery indicate?**
+
+- Arteriovenous fistula formation
+- Anastomotic stenosis
+- Turbulent flow requiring revision
+- **Good arterial flow and likely good outcome**
+
+*Explanation: Palpable thrill in the hepatic artery portends good flow and good outcome.*
+
+---
+
+**117. In the first human liver transplant in 1963, the anesthesiologist was:**
+
+- Thomas Starzl
+- P. Horst
+- T. Marchioro
+- **D. LeVine**
+
+*Explanation: According to the operative report facsimile, the anesthesiologist for the world's first liver transplant was D. LeVine, and the anesthetic used was General anesthesia.*
+
+---
+
+**118. The first humans to have prolonged survival after liver transplantation were reported in which year?**
+
+- 1963
+- 1965
+- 1967
+- **1969**
+
+*Explanation: The first humans to have prolonged survival were reported in 1969, as noted in the historic overview.*
+
+---
+
+**119. During the use of venovenous bypass, when are the bypass cannulae often placed percutaneously to avoid cutdowns?**
+
+- In pediatric patients only
+- In patients with prior axillary vein surgery
+- **In adult patients requiring bypass, to avoid cutdowns as previously required**
+- When the axillary vein is not accessible
+
+*Explanation: Currently in adults, experienced surgeons use bypass selectively. When necessary, the cannulae are often placed percutaneously in the femoral and internal jugular veins, thereby obviating the need for cutdowns as previously required.*
+
+---
+
+**120. What is the primary purpose of the "test occlusion" of the IVC and portal vein during liver transplantation?**
+
+- To assess residual hepatic function
+- To measure portal vein pressure
+- **To aid the decision of whether or not to use venovenous bypass, and to evaluate bleeding from raw surfaces**
+- To assess the integrity of the biliary anastomosis
+
+*Explanation: The decision for or against bypass use can be aided by test occlusion of the IVC and PV. If the test is conducted after preliminary dissection of the portal triad and after the triangular and coronary ligaments are divided, it is also possible to evaluate the extent to which bleeding from raw surfaces can be anticipated without bypass.*
+
+---
+
+**121. In the piggyback method, what is the recipient structure that may receive the donor suprahepatic IVC?**
+
+- The recipient infrahepatic IVC only
+- The right hepatic vein only
+- **A cuff of all three hepatic veins, the right hepatic vein alone, or the junction of the middle and left hepatic veins**
+- Only the middle hepatic vein
+
+*Explanation: The recipient structure(s) receiving the donor suprahepatic IVC can be the cuff of all three hepatic veins, the right hepatic vein alone, or the junction of the middle and left hepatic veins.*
+
+---
+
+**122. When using the piggyback technique, what is typically done with the infrahepatic IVC of the allograft before bringing the allograft into the operative field?**
+
+- It is anastomosed to the recipient IVC first
+- It is ligated and divided
+- It is left open for venous venting
+- **It is usually ligated or stapled**
+
+*Explanation: With the piggyback technique, the infrahepatic IVC of the allograft is usually ligated or stapled before bringing the allograft into the operative field (though some surgeons prefer to vent through this structure during reperfusion).*
+
+---
+
+**123. If the recipient caval segment has been excised (non-piggyback), what is the usual sequence of anastomoses?**
+
+- PV → infrahepatic IVC → suprahepatic IVC → hepatic artery
+- Hepatic artery → PV → suprahepatic IVC → infrahepatic IVC
+- Suprahepatic IVC → hepatic artery → PV → infrahepatic IVC
+- **Suprahepatic IVC → infrahepatic IVC → portal vein (then hepatic artery)**
+
+*Explanation: When the host caval segment has been excised, the infrahepatic vena cavae are usually next anastomosed after the suprahepatic IVC, followed by removal of the recipient from the portal bypass and subsequent PV anastomosis.*
+
+---
+
+**124. What is an alternative to T-tube placement that also allows for post-transplant cholangiography?**
+
+- Percutaneous transhepatic cholangiography catheter
+- Endoscopic biliary stent placement
+- **Placement of a transcystic duct tube secured to the cystic duct**
+- A Jackson-Pratt drain placed adjacent to the bile duct
+
+*Explanation: An alternative to T-tube placement that also allows for posttransplant cholangiography is placement of a transcystic duct tube, secured to the cystic duct with an absorbable suture and a sterile hemorrhoid band that closes the cystic duct on removal.*
+
+---
+
+**125. What is done with the common bile duct stent if it is retained and not passed spontaneously after biliary reconstruction?**
+
+- It is removed surgically at laparotomy as the first option
+- It is dissolved with ursodeoxycholic acid
+- **It must be pushed into the bowel by an interventional radiologist or removed by push enteroscopy; rarely does it require laparotomy**
+- It is removed via ERCP routinely at 6 weeks
+
+*Explanation: Occasionally, however, the stent is retained and must be pushed into the bowel by an interventional radiologist or removed by push enteroscopy. Rarely does the stent require removal at laparotomy.*
+
+---
+
+**126. Why is the upper midline extension of the incision usually unnecessary in pediatric liver transplant recipients?**
+
+- The pediatric liver is smaller and requires less exposure
+- Pediatric surgeons use laparoscopic-assisted techniques
+- Portal hypertension is absent in children
+- **The pediatric abdominal wall is easily retracted to optimize exposure without the need for additional incision**
+
+*Explanation: Most pediatric recipients can be transplanted through a bilateral Chevron incision without a midline component as the pediatric abdominal wall is easily retracted to optimize exposure.*
+
+---
+
+**127. In the in situ right trisegmental and left lateral segment split, which structure is left attached to the liver and removed with it at the time of whole liver removal?**
+
+- The gallbladder
+- The cystic duct
+- The portal vein bifurcation
+- **The ligament of Treitz is a landmark; the left hepatic duct is divided sharply with scissors and left with the right trisegmental allograft as oversewn**
+
+*Explanation: When the left hepatic duct is reached it is sharply divided with scissors. The left hepatic duct on the right trisegmental allograft is oversewn.*
+
+---
+
+**128. Which of the following is TRUE regarding biliary reconstruction in pediatric liver transplantation?**
+
+- Duct-to-duct anastomosis is always preferred in children
+- Roux-en-Y is only used in patients with biliary atresia
+- **Roux-en-Y hepaticojejunostomy with internal stent is used in children less than 10 kg, those without a suitable biliary tree, and those receiving technical variant allografts**
+- T-tube placement is standard in all pediatric recipients
+
+*Explanation: The biliary reconstruction is via a Roux-en-Y hepaticojejunostomy with internal stent in children less than 10 kg, in those without a suitable biliary tree, and in the child receiving a technical variant allograft.*
+
+---
+
+**129. According to the chapter, which statement best reflects the philosophy of surgical strategy in orthotopic liver transplantation?**
+
+- All liver transplants should follow a single standardized surgical sequence
+- The same technique should be used for all recipients to ensure reproducible results
+- Surgical variations are discouraged to minimize operating time
+- **There is no single best way to carry out OLT; the surgeon must adapt the approach to the individual patient's intraabdominal pathology**
+
+*Explanation: There is no single best way to carry out OLT. When exposure has been obtained, it is important to assess the intraabdominal pathology and decide on the technical approach that best fits the circumstances.*
+
+---
+
+**130. Why is it important to remove enlarged periportal lymph nodes during pediatric hilar dissection?**
+
+- They harbor infection risk post-transplant
+- They are a source of immunological rejection
+- They are frequently malignant in biliary atresia
+- **They obstruct access to the hepatic arterial circulation and the proximal portal vein**
+
+*Explanation: It is usually beneficial to remove the enlarged periportal lymph nodes, which obstruct access to the hepatic arterial circulation as well as the proximal PV.*
+
+---
+
+**131. What special anatomical variant in children must not be injured or inadvertently ligated during hilar dissection?**
+
+- Replaced right hepatic artery
+- Duplicated portal vein
+- Accessory left hepatic duct
+- **Preduodenal portal vein**
+
+*Explanation: Care must be taken and attention paid to the hepatic hilum and hepatoduodenal ligament of the child, as a small number of children will have a preduodenal portal vein that must not be injured or inadvertently ligated.*
+
+---
+
+**132. Which factors, other than immunosuppression, have contributed to the success of liver transplantation?**
+
+- Advances in laparoscopic surgery and robotic techniques
+- Development of artificial liver support devices
+- Improved HLA tissue typing and recipient selection criteria
+- **Improved patient selection, noninvasive diagnostics, new antibiotics, and advances in anesthetic and perioperative critical care**
+
+*Explanation: Factors other than immunosuppression have contributed to the success of liver replacement, including improved patient selection and pretransplantation management, noninvasive diagnostic techniques, new antibiotics, and advances in anesthetic and perioperative critical care.*
+
+---
+
+**133. In which type of cases was the rapid procurement technique originally applied?**
+
+- Only in DCD donors
+- Only in pediatric donors
+- Only in donors with multiple organ dysfunction
+- **Electively when the standard technique is mastered, or when required by urgent clinical circumstances**
+
+*Explanation: When the standard technique is mastered, faster methods can be applied electively or, if required, by urgent clinical circumstances.*
+
+---
+
+**134. During the standard procurement in the right-left lobe split, what creates the vascular landmark for dividing the two lobes at the level of the hepatic veins?**
+
+- The gallbladder fossa
+- The ligamentum teres
+- The falciform ligament
+- **The space between the right and middle hepatic veins, developed with a vessel loop**
+
+*Explanation: The space between the right and middle hepatic veins is developed and a vessel loop is passed between the right and middle hepatic veins superiorly and between the bifurcation of the right and left hilar structures inferiorly.*
+
+---
+
+**135. In the operative report of the first liver transplant (1963), what complication occurred post-operatively that led to the patient's death?**
+
+- Hyperacute rejection
+- Hepatic artery thrombosis
+- Primary non-function of the graft
+- **Hemorrhagic diathesis with extremely high fibrinolysis and low fibrinogen levels, leading to uncontrolled bleeding and cardiac arrest**
+
+*Explanation: According to the operative report, all raw surfaces were profusely bleeding and the sample sent showed extremely high fibrinolysis and low fibrinogen levels. The next 5–6 hours were spent in a desperate effort to control hemorrhage, but the hemorrhagic diathesis could never be satisfactorily controlled, and the child died following cardiac arrest.*
+
+---
+
+**136. In the first liver transplant operative report, why was a silicone plastic shunt placed in the femoral vein?**
+
+- To measure central venous pressure
+- To infuse blood rapidly
+- To bypass the inferior vena cava
+- **To allow blood to by-pass the occluded part of the cava because of the presence of numerous varices making it not necessary to use the portal vein for bypass**
+
+*Explanation: As stated in the operative report: because of the presence of numerous varices, it was not necessary to do this for the portal vein. Just prior to doing this, a siliconized plastic shunt was placed in the femoral vein.*
+
+---
+
+**137. In living-donor right lobe transplantation, what allograft-to-recipient body weight ratio is typically the threshold below which preemptive inflow modification may be required?**
+
+- Less than 1.5
+- Less than 1.2
+- Less than 1.0
+- **Less than 0.8**
+
+*Explanation: Preemptive inflow modification may be required especially in the setting of an anticipated small allograft (less than 0.8 allograft weight to body weight ratio).*
+
+---
+
+**138. During right lobe live-donor transplantation, why do some surgeons perform a temporary portocaval shunt?**
+
+- To provide portal blood for liver regeneration
+- To prevent hepatic encephalopathy during the anhepatic phase
+- **To minimize blood loss, maintain hemodynamic stability during hepatectomy, and avoid the need for venovenous bypass**
+- To test the adequacy of collateral venous circulation
+
+*Explanation: Some surgeons perform a temporary portocaval shunt to minimize blood loss, maintain hemodynamic stability during hepatectomy, and avoid the need for venovenous bypass.*
+
+---
+
+**139. In bilateral reconstructive options for live-donor right posterior bile duct, the Roux-en-Y limb can be passed in what fashion to avoid compression of the hilum?**
+
+- Antecolic and antegastric
+- Retrocolic and antegastric
+- Antecolic and retrogastric
+- **Retrocolic and retrogastric**
+
+*Explanation: To avoid compression of the hilum, the Roux limb can be passed in a retrocolic and retrogastric fashion.*
+
+---
+
+**140. In the portal vein reconstruction for live-donor transplantation, how is the back wall of the anastomosis typically sewn?**
+
+- With a continuous locking suture
+- With interrupted mattress sutures
+- **From the inside with eversion to create good intima-to-intima apposition**
+- With an outside-in, inside-out technique anteriorly and posteriorly
+
+*Explanation: Generally, the back wall of the anastomosis is sewn from the inside and everted to create good intima-to-intima apposition.*
+
+---
+
+**141. Hypercoagulable states in live-donor liver recipients may be diagnosed using which diagnostic methods?**
+
+- Standard coagulation tests (PT, PTT, fibrinogen)
+- Platelet aggregation studies
+- Factor assays for protein C and S
+- **Thromboelastography or rotational thromboelastometry**
+
+*Explanation: Hypercoagulable states diagnosed in the recipient with thromboelastography or rotational thromboelastometry may benefit from perioperative heparin and/or aspirin therapy.*
+
+---
+
+**142. Which statement is TRUE regarding biliary reconstruction in right lobe live-donor liver transplantation?**
+
+- Only Roux-en-Y is acceptable for right lobe allografts
+- T-tube placement is always required
+- Duct-to-duct anastomosis is contraindicated in live-donor cases
+- **When there are separate anterior and posterior bile ducts, the right anterior duct may be reconstructed duct-to-duct while the right posterior duct undergoes Roux-en-Y hepaticojejunostomy**
+
+*Explanation: In cases where there are separate anterior and posterior bile ducts, the right anterior duct can be reconstructed with a duct-to-duct anastomosis, whereas the right posterior duct can be reconstructed with a Roux-en-Y hepaticojejunostomy.*
+
+---
+
+**143. What is the purpose of quick clamping of the root of the mesentery during the super-rapid procurement technique when the pancreas has not been retrieved?**
+
+- To prevent small bowel injury
+- To identify the superior mesenteric artery
+- To allow bowel preparation before organ procurement
+- **To direct the perfusate to the celiac trunk and renal systems**
+
+*Explanation: Quick clamping of the root of the mesentery should be performed to direct the perfusate to the celiac trunk and renal systems if the pancreas has not been retrieved.*
+
+---
+
+**144. The left lateral segment allograft may need to be further reduced in which recipients?**
+
+- All children under 5 years
+- Children with metabolic liver disease
+- Recipients with congenital heart disease
+- **Very small babies, to accommodate the abdominal compartment**
+
+*Explanation: In very small babies, the left lateral allografts may need to be further reduced to accommodate the abdominal compartment.*
+
+---
+
+**145. Which of the following statements is TRUE about left lobe vs. right lobe live-donor liver transplantation?**
+
+- Right lobe donation has a lower complication rate for the donor
+- Left lobe donation results in better recipient outcomes
+- Both donor and recipient outcomes are identical regardless of lobe selection
+- **Left lobe donation has a lower complication rate for the donor, but may come at the cost of potentially worse outcome in the recipient**
+
+*Explanation: The advantage of left lobe live-donor transplant is the lower complication rate in the donor, but this may come at the cost of potentially worse outcome in the recipient.*
+
+---
+
+**146. The left PV is dissected free of all surrounding tissue during an in situ split, with special attention paid to which small branches?**
+
+- Branches entering segments 5 and 6
+- Branches to the right lobe parenchyma
+- **Small branches entering the caudate lobe and segment 4, which must be ligated and divided**
+- Branches to the hepatic veins
+
+*Explanation: Special attention is paid to the small branches entering the caudate lobe and segment 4 as they must be ligated and divided to free the left PV from these portions of the liver.*
+
+---
+
+**147. In what circumstance can the super-rapid technique also be applied, beyond donation after cardiac death?**
+
+- In hemodynamically unstable brain-dead donors only
+- In all pediatric donors
+- When only the liver is being retrieved
+- **In countries that do not have "brain death" laws or under special legal or religious circumstances**
+
+*Explanation: This method can also be applied in countries that do not have "brain death" laws or under special legal or religious circumstances.*
+
+---
+
+**148. During the in situ split for right trisegmental and left lateral segments, what is done with the left hepatic duct on the right trisegmental allograft?**
+
+- It is left open for anastomosis
+- It is reconstructed with a primary repair
+- It is drained with a biliary stent
+- **It is oversewn**
+
+*Explanation: When the left hepatic duct is reached it is sharply divided with scissors. The left hepatic duct on the right trisegmental allograft is oversewn.*
+
+---
+
+**149. According to the chapter's summary of live-donor liver transplantation, what three elements are required for good outcomes?**
+
+- Proper patient selection, immunosuppression, and postoperative monitoring
+- Adequate graft volume, cold ischemia time less than 6 hours, and experienced anesthesia
+- Optimal preservation solution, short warm ischemia time, and meticulous hemostasis
+- **Technical acumen, sound judgment, and attention to detail**
+
+*Explanation: Like all surgery, good outcomes require technical acumen, sound judgment, and attention to detail.*
+
+---
+
+**150. What is the significance of the world's first liver transplant operative report being included in this chapter?**
+
+- To provide a legal record of the first transplant
+- To show how much has changed technically with no similarities remaining
+- To provide documentation for regulatory bodies
+- **For the sake of historic preservation, demonstrating both the great strides made and the aspects that have not fundamentally changed over the decades**
+
+*Explanation: The operative report from the world's first human liver transplant is included for the sake of historic preservation. It is apparent from the operative description that many great strides have been made in the intervening years; at the same time, in some respects not much has changed.*
+
+

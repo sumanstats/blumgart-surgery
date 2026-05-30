@@ -1,0 +1,1872 @@
+# 128 Minimally Invasive Surgery Techniques in Transplantation
+
+Generated with Claude.
+
+**1. Which field's development paved the way for minimally invasive surgery (MIS) in living donor liver transplantation (LDLT)?**
+
+- Cardiac surgery
+- Pancreatic surgery
+- **Oncologic hepatobiliary surgery**
+- Colorectal surgery
+
+*Explanation: The advent and refinement of MIS techniques within oncologic hepatobiliary surgery paved the way for the development of this field in living donor liver transplantation (LDLT).*
+
+---
+
+**2. Which country published the initial report of laparoscopic donor left lateral segmentectomy?**
+
+- South Korea
+- Japan
+- **France**
+- Germany
+
+*Explanation: The initial report of laparoscopic donor left lateral segmentectomy was published approximately two decades ago as a French report, marking the beginning of MIS in living liver donation.*
+
+---
+
+**3. Which term describes a combined open and laparoscopic approach used in liver donation?**
+
+- Robotic-assisted
+- **Laparoscopic-assisted/hybrid or hand-assisted**
+- Endoscopic
+- Video-assisted thoracoscopic
+
+*Explanation: Following the initial French report, laparoscopic-assisted/hybrid or hand-assisted donor hepatectomy was subsequently described in the literature on MIS living liver donation.*
+
+---
+
+**4. Pure laparoscopic liver donation experience has predominantly been reported from which regions?**
+
+- North America and Australia
+- South America and Africa
+- **Far Eastern nations and Europe**
+- Middle East and South Asia
+
+*Explanation: The predominant experience with pure laparoscopic liver donation has been reported from Far Eastern nations and Europe.*
+
+---
+
+**5. Compared to laparoscopic techniques, the field of robotic living liver donation has been described as:**
+
+- Rapidly growing
+- Equally developed
+- Dominant
+- **Comparatively lacking in traction**
+
+*Explanation: The chapter notes that whereas the vast majority of reports have focused on laparoscopic techniques, the impetus on robotic living liver donation has as yet been comparatively lacking in traction.*
+
+---
+
+**6. What is the fundamental premise of living donation according to this chapter?**
+
+- Recipient outcome optimization
+- Maximal graft volume
+- **Donor safety**
+- Cost efficiency
+
+*Explanation: The fundamental premise of living donation is one of donor safety, as this procedure comes with no physiologic benefit to the donor.*
+
+---
+
+**7. What is the minimum functional liver remnant (FLR) percentage that should be left in the donor?**
+
+- 10%
+- 20%
+- **30%**
+- 40%
+
+*Explanation: Every effort should be made to leave at least 30% functional liver remnant (FLR) in the donor while permitting a minimum graft-recipient weight ratio (GRWR).*
+
+---
+
+**8. What is the minimum acceptable graft-recipient weight ratio (GRWR) in living donor hepatectomy?**
+
+- 0.6
+- 0.7
+- **0.8**
+- 1.0
+
+*Explanation: The minimum graft-recipient weight ratio (GRWR) should be at least 0.8, ensuring the graft is sufficient for the recipient's needs.*
+
+---
+
+**9. What is the minimum acceptable graft volume to standard liver volume (GV/SLV) ratio?**
+
+- 20%–25%
+- 25%–30%
+- **35%–40%**
+- 45%–50%
+
+*Explanation: The minimum graft volume to standard liver volume (GV/SLV) should be 35% to 40% to ensure adequate graft function for the recipient.*
+
+---
+
+**10. Which surgeons are best suited to perform laparoscopic living donor hepatectomy?**
+
+- Surgeons trained only in open liver surgery
+- Surgeons trained only in laparoscopic techniques
+- **Surgeons with proficiency in both laparoscopic oncologic hepatic resections and open liver donation**
+- Surgeons trained in robotic surgery only
+
+*Explanation: Most described series of laparoscopic living donation have been undertaken by surgeons with proficiency in both laparoscopic oncologic hepatic resections and open liver donation, which is of paramount importance for safety.*
+
+---
+
+**11. Which of the following is NOT listed as a benefit of laparoscopic living donor hepatectomy for donors?**
+
+- Less intraoperative blood loss
+- Shorter hospital stay
+- **Complete elimination of postoperative pain**
+- Earlier return to normal activity
+
+*Explanation: The known benefits of MIS include less intraoperative blood loss, shorter hospital stay, reduced postoperative analgesic requirements, and earlier return to normal activity. Complete elimination of pain is not claimed.*
+
+---
+
+**12. When selecting donors for a laparoscopic approach, what type of liver is initially recommended?**
+
+- Larger livers with complex anatomy
+- **Smaller livers with sufficient future remnant volume and favorable anatomy**
+- Livers with early bifurcation of the portal vein
+- Livers with wide Glissonian pedicles
+
+*Explanation: Before the learning curve is accomplished, it is recommended to select donors with smaller livers, sufficient future remnant volume, and favorable anatomy.*
+
+---
+
+**13. What does the presence of unfavorable hilar anatomy (early bifurcation of ipsilateral portal vein or bile duct) usually indicate?**
+
+- Narrower Glissonian pedicles
+- **Wider Glissonian pedicles**
+- Simpler dissection
+- Fewer complications
+
+*Explanation: The presence of unfavorable hilar anatomy as evidenced by early bifurcation of ipsilateral portal vein or bile duct is usually associated with wider Glissonian pedicles, making safe dissection and optimal division more difficult.*
+
+---
+
+**14. What complication is more likely when unfavorable hilar anatomy is present during laparoscopic donor hepatectomy?**
+
+- Vascular thrombosis
+- **Stricture or leakage of the bile duct**
+- Hepatic artery injury
+- Portal vein thrombosis
+
+*Explanation: Wide Glissonian pedicles from unfavorable hilar anatomy can result in increased complications such as stricture or leakage of the bile duct.*
+
+---
+
+**15. What is a recognized adverse effect when applying laparoscopic approach with unfavorable hilar anatomy?**
+
+- Increased graft weight
+- Longer surgical time only
+- **Increased frequency of multiple bile ducts of the graft**
+- Reduced recipient blood loss
+
+*Explanation: The application of a laparoscopic approach with unfavorable anatomy can yield increased frequency of multiple bile ducts of the graft, adversely affecting the recipient outcome.*
+
+---
+
+**16. What patient positioning system is preferred by the authors for laparoscopic donor hepatectomy?**
+
+- Supine flat position
+- Lateral decubitus
+- Prone position
+- **Modified lithotomy ("French" system) with legs abducted in stirrups**
+
+*Explanation: The authors' preference is akin to the "French" system, where the donor is placed in a modified lithotomy position with legs abducted in stirrups to 20° to 30°.*
+
+---
+
+**17. For right hepatectomy, what additional positioning maneuver is beneficial for mobilization of the right lobe?**
+
+- Right tilting of the torso
+- **Left tilting of the torso with a cushion behind the right scapular region**
+- Steep Trendelenburg position
+- Anti-Trendelenburg position only
+
+*Explanation: For right hepatectomy, a degree of left tilting of the torso is beneficial for mobilization of the right lobe and is facilitated by placing a cushion or rolled blanket behind the right scapular region.*
+
+---
+
+**18. Where does the primary surgeon stand during laparoscopic donor hepatectomy using the French system?**
+
+- To the right of the patient
+- To the left of the patient
+- **Between the patient's legs**
+- At the head of the patient
+
+*Explanation: The primary surgeon stands between the patient's legs in the French position setup used for laparoscopic donor hepatectomy.*
+
+---
+
+**19. Where is the camera operator positioned during the procedure?**
+
+- To the right of the patient's right leg
+- At the head of the patient
+- **To the left of the patient's left leg**
+- Between the patient's legs
+
+*Explanation: The camera operator is positioned to the left of the patient's left leg during laparoscopic donor hepatectomy.*
+
+---
+
+**20. Where is the first assistant positioned during laparoscopic donor hepatectomy?**
+
+- Between the patient's legs
+- To the right of the patient's torso
+- **To the left of the patient's torso, right of the camera operator**
+- At the foot of the operating table
+
+*Explanation: The first assistant is positioned to the left of the patient's torso, right of the camera operator.*
+
+---
+
+**21. Why is maintenance of low-volume anesthesia important during liver parenchymal transection?**
+
+- To improve visualization
+- **To curtail intraoperative blood loss**
+- To prevent CO2 retention
+- To reduce operative time
+
+*Explanation: The maintenance of low-volume anesthesia during liver parenchymal transection is key to curtail intraoperative blood loss.*
+
+---
+
+**22. Why is placement of a central venous catheter not uniformly performed in living donors?**
+
+- It is technically impossible laparoscopically
+- To save cost
+- **Reliance on other indices of fluid status such as stroke volume variability can help abrogate interventional risks**
+- Central venous pressure is not monitored
+
+*Explanation: The placement of a central venous catheter is not uniformly performed, and reliance on other indices of fluid status such as stroke volume variability can help further abrogate interventional risks to a living donor.*
+
+---
+
+**23. To prevent kidney injury while maintaining low-volume status during transection, when is the patient refilled with IV bolus?**
+
+- At the start of surgery
+- During parenchymal transection
+- **After parenchymal transection is complete**
+- At the time of vessel ligation
+
+*Explanation: The patient is kept dry throughout the operation until the parenchymal transection is complete, at which point the anesthesia team is informed to refill the depleted volume with IV bolus to reach euvolemic state.*
+
+---
+
+**24. When are colloids given during laparoscopic donor hepatectomy if deemed necessary?**
+
+- Before surgery
+- During hilar dissection
+- **After parenchymal transection is complete**
+- At induction of anesthesia
+
+*Explanation: If colloids are deemed necessary, they are given after the parenchymal transection is complete.*
+
+---
+
+**25. What regional anesthetic technique is routinely used for postoperative pain control as part of the ERAS protocol?**
+
+- Epidural analgesia
+- Intrathecal morphine
+- **Transversus abdominis plane (TAP) block with bupivacaine**
+- Intercostal nerve block
+
+*Explanation: Transversus abdominis plane (TAP) block with bupivacaine is routinely used for better postoperative pain control as part of the enhanced recovery after surgery (ERAS) protocol.*
+
+---
+
+**26. What 3D camera system is the authors' preferred equipment for laparoscopic donor hepatectomy?**
+
+- Karl Storz 3D system
+- **EndoEye Flex 3D (Olympus)**
+- Da Vinci robotic camera
+- Intuitive 3D scope
+
+*Explanation: The use of a three-dimensional (3D) flexible camera system (EndoEye Flex 3D, Olympus) is the authors' preference as it greatly facilitates depth perception and adequate visualization of tight corners.*
+
+---
+
+**27. What specific advantage does the 3D camera system provide during laparoscopic donor hepatectomy?**
+
+- Eliminates the need for intraoperative ultrasound
+- **Facilitates depth perception and visualization of tight corners, enabling safer dissection**
+- Allows robotic-assisted movements
+- Reduces the number of ports needed
+
+*Explanation: The 3D camera greatly facilitates depth perception and adequate visualization of tight corners, thereby enabling safer dissection in the region of the root of the hepatic veins, posterosuperior right lobe, and short hepatic veins.*
+
+---
+
+**28. In addition to depth perception, what other benefit does 3D visualization provide?**
+
+- Eliminates the need for ICG
+- **Hastens spatial bimanual tasks such as intracorporeal suturing and may reduce the learning curve**
+- Provides automatic bile duct identification
+- Replaces intraoperative ultrasound
+
+*Explanation: Spatial bimanual tasks such as intracorporeal suturing are eminently suited to and hastened by 3D visualization, and this technology may reduce the learning curve for laparoscopic hepatectomy.*
+
+---
+
+**29. How should the two 3D monitors be positioned to prevent double vision?**
+
+- Above the patient's head
+- At floor level
+- **Beyond either shoulder of the patient, angled inward toward the surgeon at eye level**
+- Directly above the surgeon
+
+*Explanation: Two 3D monitors are placed beyond either shoulder of the patient angled inward toward the surgeon and should be positioned at eye level to prevent double vision.*
+
+---
+
+**30. What technology is used on the third monitor during laparoscopic donor hepatectomy?**
+
+- CT scan navigation
+- **Indocyanine green (ICG) enabled endoscopic fluorescence imaging of the bile ducts**
+- Intraoperative MRI
+- Laparoscopic ultrasound
+
+*Explanation: The third monitor is used for indocyanine green (ICG) enabled endoscopic fluorescence imaging of the bile ducts (Pinpoint, Stryker).*
+
+---
+
+**31. What advantage does ICG imaging offer compared to conventional cholangiogram?**
+
+- It is less expensive
+- It requires no injection
+- **It allows real-time visualization of the bile ducts, improving accuracy of bile duct division**
+- It eliminates the need for clips on the bile duct
+
+*Explanation: The ICG imaging technology allows real-time visualization of the bile ducts, which greatly facilitates and improves the accuracy of bile duct division compared with conventional cholangiogram.*
+
+---
+
+**32. What laparoscopic insufflation system do the authors prefer and why?**
+
+- Veress needle system, for simplicity
+- High-pressure CO2 system, for better visualization
+- **AirSeal system (ConMed), as it enables stable pneumoperitoneum despite CUSA use and frequent suctioning**
+- Standard CO2 insufflation system for cost savings
+
+*Explanation: The authors' inclination is toward the AirSeal system (ConMed) as this enables a stable degree of pneumoperitoneum despite the use of CUSA and the frequent requirement for suctioning.*
+
+---
+
+**33. What potential risk is associated with the high-flow nature of the AirSeal system?**
+
+- Hypothermia
+- Reduced visualization
+- **Increased CO2 retention**
+- Abdominal compartment syndrome
+
+*Explanation: The high-flow nature of the AirSeal system may cause increased CO2 retention; therefore it is kept at a lower pressure level of 11 cm H2O.*
+
+---
+
+**34. At what pressure level is the AirSeal system maintained to counteract increased CO2 retention?**
+
+- 5 cm H2O
+- 8 cm H2O
+- **11 cm H2O**
+- 15 cm H2O
+
+*Explanation: Because the high-flow nature of the AirSeal system may cause increased CO2 retention, it is kept at a lower pressure level of 11 cm H2O.*
+
+---
+
+**35. What is the ultrasonic shear device used for during laparoscopic donor hepatectomy?**
+
+- Controlling major hepatic vein bleeding
+- **Dissection of hepatic ligaments, hilar dissection, sealing vessels less than 2 mm, and initial transection of the first 1–2 cm superficial liver layer**
+- Division of the bile duct
+- Clipping major vascular structures
+
+*Explanation: The ultrasonic shear device is deployed for dissection of the hepatic ligaments, some parts of hilar dissection, sealing vessels less than 2 mm in diameter, and for initial transection of the first 1 to 2 cm superficial layer of the liver.*
+
+---
+
+**36. What advantage do battery-powered cordless ultrasonic shear devices offer compared to corded versions?**
+
+- Better energy delivery
+- Improved bleeding control
+- **More freedom with instrument handling**
+- Longer battery life
+
+*Explanation: Battery-powered cordless options afford more freedom with the instrument handling, but corded counterparts usually afford better energy delivery with improved bleeding control.*
+
+---
+
+**37. What are the most commonly used methods for parenchymal transection during laparoscopic donor hepatectomy?**
+
+- Laser dissection, water-jet, and stapling
+- **Crush clamp technique, ultrasonic shear device, and CUSA**
+- Bipolar only, CUSA, and monopolar electrocautery
+- Harmonic scalpel, stapler, and monopolar
+
+*Explanation: Crush clamp technique (with or without coagulation function), ultrasonic shear device, and CUSA are the most commonly used methods for transection.*
+
+---
+
+**38. What additional function does adding a monopolar coagulator nosecone to the CUSA handpiece provide?**
+
+- Suction only
+- Irrigation
+- **Electrocautery without the need for instrument change, improving hemostasis**
+- Ultrasonic energy at double intensity
+
+*Explanation: Adding a monopolar coagulator nosecone on the CUSA handpiece provides electrocautery without the need for an instrumental change, which greatly improves hemostasis.*
+
+---
+
+**39. What additional function can the CUSA serve when its laparoscopic mode is turned off?**
+
+- A cutting device
+- An energy delivery instrument
+- **A gentle suction device while transecting the liver**
+- An irrigation device
+
+*Explanation: By turning off the laparoscopic mode, the CUSA can be used as a gentle suction device while transecting the liver.*
+
+---
+
+**40. Why should dissection not be done blindly, especially in deeper parenchyma?**
+
+- Visualization is better superficially
+- The ultrasonic device is less effective deeply
+- **Major bleeding events usually occur in the deeper parenchyma**
+- Bile ducts are only superficial
+
+*Explanation: Irrespective of instruments used, dissection should not be done blindly, especially in the deeper parenchyma, because this is where major bleeding events usually occur.*
+
+---
+
+**41. What is the preferred instrument for bloodless parenchymal transection according to the authors?**
+
+- Monopolar electrocautery
+- Ultrasonic shear device
+- **Bipolar electrocautery**
+- Laser device
+
+*Explanation: Bipolar electrocautery has been the authors' preferred instrument to safeguard bloodless parenchymal transection.*
+
+---
+
+**42. Why is a second bipolar forcep kept in the tray during surgery?**
+
+- As a backup instrument
+- **To allow rapid cycling between instruments while cleaning charred contact plates**
+- To provide redundancy if one fails
+- For the assistant to use simultaneously
+
+*Explanation: A second bipolar forcep in the tray allows rapid cycling of these instruments between cleaning of charred contact plates, which allows parenchymal transection without interference of surgery.*
+
+---
+
+**43. What supplemental instrument, handled by the assistant, offers smoother and more efficient transection?**
+
+- A second CUSA device
+- A hook electrocautery
+- **A soft coagulation instrument**
+- A harmonic scalpel
+
+*Explanation: A supplemental soft coagulation instrument, handled by the assistant providing additional hemostasis, offers a smoother and more efficient transection.*
+
+---
+
+**44. What is the preferred first step in controlling bleeding during laparoscopic donor hepatectomy?**
+
+- Immediate conversion to open surgery
+- Packing with sponge
+- **Use of bipolar electrocautery, energy-assisted coagulative devices, and/or vessel clips**
+- Application of Pringle maneuver
+
+*Explanation: The use of bipolar electrocautery, energy-assisted coagulative devices, and/or vessel clips is typically the first step toward establishing hemostasis and is usually met with success.*
+
+---
+
+**45. What autotransfusion device is available in case significant bleeding occurs?**
+
+- Rapid infuser system
+- **Cell Saver (Haemonetics)**
+- Fresh frozen plasma system
+- Autologous blood bank
+
+*Explanation: The authors prefer to always have the suction device attached to the Cell Saver (Haemonetics, Boston, MA) in case significant bleeding occurs and autotransfusion becomes necessary.*
+
+---
+
+**46. What temporary measure can prove beneficial for minor bleeding before hemostatic control?**
+
+- Immediate suturing
+- Increasing insufflation pressure
+- **Temporary packing with hemostatic agents (e.g., oxidized cellulose derivatives) or sponge and revisiting the area a few minutes later**
+- Decreasing the pneumoperitoneum
+
+*Explanation: Temporary packing of the field with hemostatic agents (e.g., oxidized cellulose derivatives) or sponge and revisiting the area a few minutes later often proves beneficial.*
+
+---
+
+**47. For larger caliber vessel bleeding, what measures can help reduce the rate of bleed?**
+
+- Increasing fluid resuscitation
+- **Ensuring low central venous pressure, 30% reverse-Trendelenburg positioning, and temporary increase of insufflation pressure up to 15 mm Hg**
+- Decreasing insufflation pressure
+- Immediately converting to open surgery
+
+*Explanation: Ensuring low central venous pressure, including the use of 30% reverse-Trendelenburg positioning, with temporary increase of the insufflation pressure up to 15 mm Hg can help reduce the rate of bleed.*
+
+---
+
+**48. What other ventilatory adjustment is proven effective for bleeding control?**
+
+- Increasing tidal volume
+- Adding PEEP
+- **Temporary reduction of the tidal volume**
+- Switching to volume-controlled ventilation
+
+*Explanation: Temporary reduction of the tidal volume is proven to be effective in controlling bleeding during laparoscopic donor hepatectomy.*
+
+---
+
+**49. What serious complications can result from prolonged use of pneumatic pressure to counterbalance bleeding?**
+
+- Pulmonary embolism
+- Deep vein thrombosis
+- **CO2 gas embolism, hypercarbia, significant respiratory acidosis, and hemodynamic instability**
+- Renal failure
+
+*Explanation: CO2 gas embolism and hypercarbia inevitably occur, and although usually clinically insignificant when the duration is short, prolonged use may result in significant respiratory acidosis and hemodynamic instability.*
+
+---
+
+**50. In which recipients can the Pringle maneuver be safely applied without concern for graft outcomes?**
+
+- All recipients
+- Recipients with poor GRWR
+- **Recipients with projected good GRWR**
+- Recipients with small body weight
+
+*Explanation: The application of the Pringle maneuver can provide a summative effect to hemostatic control and can be resorted to without concern for graft outcomes in those recipients with projected good GRWR.*
+
+---
+
+**51. Why must the threshold to convert to open surgery remain low during laparoscopic donor hepatectomy?**
+
+- Open surgery is faster
+- **To ensure donor safety**
+- Laparoscopic equipment is expensive
+- Open surgery produces less bleeding
+
+*Explanation: The threshold to convert to open surgery must remain low to ensure donor safety.*
+
+---
+
+**52. Why must conversion from laparoscopic to open surgery NOT be rushed?**
+
+- It disrupts the team workflow
+- It takes too much time
+- **Loss of pneumoperitoneum will result in increased bleeding**
+- It wastes anesthetic gases
+
+*Explanation: It is crucial that conversion is not rushed through because loss of the pneumoperitoneum will result in increased bleeding.*
+
+---
+
+**53. What laparoscopic instruments should always be available in the operating room for rapid bleeding control?**
+
+- Clip appliers and staplers
+- Standard surgical clamps
+- **Laparoscopic vascular clamps**
+- Bipolar forceps
+
+*Explanation: Laparoscopic vascular clamps should always be prepared and be available in the operating room in case it becomes necessary for rapid bleeding control.*
+
+---
+
+**54. What port is used to establish pneumoperitoneum at the start of laparoscopic right hepatectomy?**
+
+- Right subcostal 5 mm port
+- Subxiphoid 12 mm port
+- Left subcostal 5 mm port
+- **Periumbilical 12 mm port**
+
+*Explanation: Following establishment of pneumoperitoneum via the periumbilical 12 mm port, additional ports are placed for laparoscopic right hepatectomy.*
+
+---
+
+**55. Where is the first 12 mm working port placed after pneumoperitoneum is established in right hepatectomy?**
+
+- Left subcostal region
+- Epigastric midline
+- **Right subcostal region along the right anterior axillary line**
+- Subxiphoid region
+
+*Explanation: A 12 mm port is placed at the right subcostal region along the right anterior axillary line following establishment of pneumoperitoneum.*
+
+---
+
+**56. Where is the 5 mm assistant port placed during laparoscopic right hepatectomy?**
+
+- Right subcostal
+- Epigastric
+- Subxiphoid
+- **Left subcostal anterior axillary line**
+
+*Explanation: A 5 mm (assistant) port is placed next in the left subcostal anterior axillary line during setup for laparoscopic right hepatectomy.*
+
+---
+
+**57. How is the round and falciform ligament sectioned during laparoscopic right hepatectomy?**
+
+- With a stapler
+- With scissors
+- **With an energy device in a caudocranial direction**
+- With monopolar electrocautery alone
+
+*Explanation: The round and falciform ligament is sectioned with an energy device in a caudocranial direction during laparoscopic right hepatectomy.*
+
+---
+
+**58. Where is the 12 mm epigastric midline port placed relative to other ports in right hepatectomy?**
+
+- Before the right subcostal port
+- **After division of the falciform ligament and dissection toward the diaphragm and base of hepatic veins**
+- Before pneumoperitoneum is established
+- Simultaneously with the periumbilical port
+
+*Explanation: The 12 mm epigastric (primary surgeon) midline port is placed after the falciform ligament is sectioned and dissection is carried toward the diaphragm and base of the hepatic veins.*
+
+---
+
+**59. What does the camera position between the right subcostal and epigastric midline ports provide?**
+
+- Access to the left lobe
+- **Good triangulation along the line of Cantlie**
+- Direct access to the bile duct
+- Optimal view of the caudate lobe
+
+*Explanation: The camera positioned between the right subcostal and the epigastric midline port offers good triangulation along the line of Cantlie.*
+
+---
+
+**60. In laparoscopic living donor right hepatectomy, when is right lobe mobilization typically performed and why?**
+
+- After parenchymal division, for technical ease
+- **Before parenchymal division, so the graft can be quickly retrieved in urgent situations**
+- Simultaneously with parenchymal division
+- Only after all vascular structures are divided
+
+*Explanation: In living donors, mobilization is done first because in case of an urgent situation where the liver has to be retrieved during the course of transection, the graft can be quickly taken out.*
+
+---
+
+**61. What is the correct order for right lobe mobilization during laparoscopic donor hepatectomy?**
+
+- Lateral triangular → coronary → inferior triangular
+- Inferior triangular → lateral triangular → coronary
+- **Coronary ligament → inferior aspect of triangular ligament → lateral aspect of triangular ligament**
+- All simultaneously
+
+*Explanation: First, the coronary ligament is divided. Then the dissection of the inferior aspect of triangular ligament follows, and the lateral aspect of the triangular ligament is dissected last.*
+
+---
+
+**62. What traction technique is used during division of the coronary ligament to improve visibility?**
+
+- Grasping the liver edge directly
+- Using a snake retractor
+- Tilting the patient to the right
+- **Caudal traction of the liver by the assistant using the round ligament**
+
+*Explanation: Caudal traction of the liver by the assistant using the round ligament improves visibility and provides countertraction during coronary ligament division.*
+
+---
+
+**63. Which port provides the safest angle of approach for division of the coronary ligament?**
+
+- Right subcostal port
+- Periumbilical port
+- Left subcostal port
+- **Subxiphoid port**
+
+*Explanation: The dissection of the coronary ligament is best carried out through the subxiphoid port because it provides the safest angle of approach and may prevent injury to the diaphragm.*
+
+---
+
+**64. What instrument is placed under the right lobe to lift it during triangular ligament division?**
+
+- Laparoscopic grasper
+- Endoscopic sponge
+- **Snake retractor**
+- Bowel retractor
+
+*Explanation: A snake retractor is placed underneath the right lobe to lift the liver in an anterior-cranial direction during triangular ligament dissection.*
+
+---
+
+**65. What technique helps prevent injury to the adrenal gland during triangular ligament division?**
+
+- Direct visualization of the adrenal gland
+- Medial-to-lateral approach
+- **Posterior-caudal traction of the kidney facilitating exposure**
+- Using blunt dissection only
+
+*Explanation: A posterior-caudal traction of the kidney facilitates the exposure to provide safe division of the ligament and prevent injury to the adrenal gland.*
+
+---
+
+**66. What patient maneuver is essential when dissecting the lateral aspect of the triangular ligament?**
+
+- Right tilt
+- Steep Trendelenburg
+- **Left tilt of the patient**
+- Anti-Trendelenburg
+
+*Explanation: Tilting the patient to the left is essential to facilitate dissection of the lateral aspect of the triangular ligament.*
+
+---
+
+**67. What structure can serve as a retraction tool during lateral triangular ligament dissection?**
+
+- Left portal vein
+- Round ligament
+- **Gallbladder fundus**
+- Falciform ligament
+
+*Explanation: The gallbladder fundus may be used as a retraction tool in addition to gentle traction using the snake retractor during lateral triangular ligament dissection.*
+
+---
+
+**68. When is the caval ligament best divided during right lobe mobilization?**
+
+- At the beginning of mobilization
+- During coronary ligament division
+- During hilar dissection
+- **From a medial side toward the conclusion of parenchymal transection**
+
+*Explanation: The caval ligament, if present in a substantial form, is best left undisturbed initially and can be divided from a medial side toward the conclusion of parenchymal transection.*
+
+---
+
+**69. What is the first step of hilar dissection during laparoscopic right hepatectomy?**
+
+- Division of the right portal vein
+- **Cholecystectomy is completed**
+- Division of the right hepatic artery
+- ICG cholangiogram
+
+*Explanation: Cholecystectomy is completed first during hilar dissection, and the gallbladder will be retrieved later with the graft.*
+
+---
+
+**70. How is the cystic duct stump retracted to provide access to right portal vein and right hepatic artery?**
+
+- Inferiorly
+- To the right
+- **To the left-cranial direction by the assistant**
+- Posteriorly
+
+*Explanation: The cystic duct stump is retracted to the left-cranial direction by the assistant to open up the posterior-lateral aspect of the hilum to provide easy access to the right portal vein (RPV) and right hepatic artery (RHA).*
+
+---
+
+**71. What instruments are used during hilar dissection to identify structures safely?**
+
+- CUSA and stapler
+- Ultrasonic shear and clip applier
+- **Hook electrocautery and bipolar forceps**
+- Scissors and monopolar electrocautery
+
+*Explanation: The use of hook electrocautery and the bipolar forceps is valuable at the stage of hilar dissection.*
+
+---
+
+**72. Once the right hepatic artery is dissected, what is placed around it?**
+
+- Umbilical tape
+- Metal clip
+- Penrose drain
+- **Silastic vessel loop**
+
+*Explanation: The artery is dissected out to an appropriate degree to allow placement of a silastic vessel loop around it, which is then fastened and retracted cranially to open up access to the right portal vein.*
+
+---
+
+**73. What must be positively identified before completing right portal vein dissection?**
+
+- The cystic duct junction
+- **The junction with the main portal vein and the takeoff of the left portal vein**
+- The origin of the hepatic artery
+- The course of the right hepatic duct
+
+*Explanation: The right portal vein is dissected proximally to positively identify its junction with the main portal vein and the takeoff of the left portal vein.*
+
+---
+
+**74. Why may division of caudate tributaries be necessary during hilar dissection?**
+
+- To prevent bile leak
+- To improve visualization of the bile duct
+- **To permit better mobility and length of the right portal vein**
+- To expose the caudate lobe
+
+*Explanation: The division of caudate tributaries is often necessary to permit better mobility and length to the right portal vein.*
+
+---
+
+**75. What is the purpose of lowering the hilar plate during hilar dissection?**
+
+- To divide the right portal vein
+- To expose the caudate lobe
+- **To expose the confluence of right and left bile duct**
+- To ligate the right hepatic artery
+
+*Explanation: The hilar plate is lowered to expose the confluence of right and left bile duct and is marked using electrocautery.*
+
+---
+
+**76. How is ICG used to identify the demarcation line during laparoscopic right hepatectomy?**
+
+- ICG is injected into the portal vein
+- **Bulldog clamps are applied to the right portal vein and hepatic artery, then 2.5 mg of ICG is given intravenously**
+- ICG is applied topically to the liver surface
+- ICG is given orally before surgery
+
+*Explanation: Bulldog clamps are applied to the right portal vein and hepatic artery, and 2.5 mg of ICG is given intravenously by the anesthesiologist to identify the demarcation line.*
+
+---
+
+**77. What technology is used to obtain a sharper image of the ICG demarcation line?**
+
+- Standard white light camera
+- Infrared thermography
+- **Near-infrared camera**
+- Fluorescence microscopy
+
+*Explanation: The line of demarcation is noted but a sharper image can be obtained using a near-infrared camera.*
+
+---
+
+**78. What intraoperative imaging is used to identify the course of the MHV and tributaries during right hepatectomy?**
+
+- CT scan
+- MRI
+- Fluoroscopy
+- **Intraoperative ultrasound**
+
+*Explanation: Intraoperative ultrasound is performed to aid with the identification of the course of the middle hepatic vein (MHV) and the location of the segment 5 (V5) and segment 8 (V8) tributaries.*
+
+---
+
+**79. In conventional right hepatectomy, on which side of the MHV should the resection plane lie?**
+
+- Left side of MHV
+- Directly through the MHV
+- **Right side of the MHV**
+- On the left side of the right hepatic vein
+
+*Explanation: The planned resection plane should lie at the right side of the MHV for conventional right hepatectomy.*
+
+---
+
+**80. If the MHV is included with the graft during right hepatectomy, where should the resection plane be?**
+
+- Right of the MHV
+- Through the MHV
+- **Left side of the MHV**
+- Right of the left hepatic vein
+
+*Explanation: In case MHV is included with the graft, the resection plane is planned to be on the left side of the MHV.*
+
+---
+
+**81. When does parenchymal transection commence in laparoscopic right hepatectomy?**
+
+- After hilar vessel division
+- After ICG administration
+- **Along the line of demarcation at the anterior border of the liver using the energy device**
+- After bile duct division
+
+*Explanation: Division of the hepatic parenchyma commences along the line of demarcation at the anterior border of the liver using the energy device.*
+
+---
+
+**82. What assistance does the first assistant provide during parenchymal transection to align the energy device?**
+
+- Retracts the gallbladder
+- Applies countertraction on the diaphragm
+- **Provides leftward traction using the falciform ligament or gently grabbing the edge of the liver**
+- Operates the camera
+
+*Explanation: Leftward traction by the assistant using the falciform ligament or by gently grabbing the edge of the liver helps align the direction of the energy device parallel with the transection plane.*
+
+---
+
+**83. At what depth of parenchymal division is the CUSA preferred over the energy device?**
+
+- At 5 cm
+- At the surface
+- At the hilar plate
+- **After the first 1 to 2 cm of parenchymal division**
+
+*Explanation: Once the parenchyma is divided to a depth of 1 to 2 cm, the preference is to start using the CUSA, as more delicate dissection of the parenchyma is necessary and sizeable venous vessels will be encountered.*
+
+---
+
+**84. How are small vessels less than 2 mm controlled during parenchymal transection?**
+
+- With Hem-o-lok clips only
+- With suturing
+- **With monopolar electrocautery or energy device**
+- With bipolar electrocautery only
+
+*Explanation: Small vessels less than 2 mm can often be sealed and divided with monopolar electrocautery or energy device, while larger branches require clips.*
+
+---
+
+**85. How many clips are typically applied on the patient side when dividing significant venous branches such as V5 or V8?**
+
+- One clip
+- Three clips
+- **Two clips**
+- No clips (stapler only)
+
+*Explanation: When clipping and dividing significant venous branches such as V5 or V8, two clips are usually applied on the patient side for safety reasons.*
+
+---
+
+**86. What type of clip is used on the graft side for ease of clip removal during back table outflow reconstruction?**
+
+- Two metal clips
+- Titanium staples
+- **Single Hem-o-lok clip**
+- Suture ligation
+
+*Explanation: Single Hem-o-lok may be used on the graft side for ease of clip removal on the back table for reconstruction of the outflow.*
+
+---
+
+**87. After full exposure of the hilar plate confluence, what structure is divided next?**
+
+- Right hepatic artery
+- Right portal vein
+- Right hepatic vein
+- **The caudate lobe is divided inferiorly**
+
+*Explanation: Parenchymal transection is carried out until the hilar plate confluence becomes fully exposed. Then the caudate lobe is divided inferiorly.*
+
+---
+
+**88. What movement of the forceps allows safe dissection between the IVC and the caudate lobe?**
+
+- Rotational twisting
+- Pulling motion
+- Cutting motion
+- **Gentle jaw opening movement and sweeping**
+
+*Explanation: The gentle jaw opening movement of the forceps and sweeping allows safe dissection between the IVC and the caudate lobe.*
+
+---
+
+**89. What provides real-time assessment of the biliary structure to guide accurate bile duct division?**
+
+- Intraoperative ultrasound
+- CT fluoroscopy
+- Standard cholangiogram
+- **ICG cholangiogram**
+
+*Explanation: The ICG cholangiogram allows real-time assessment of the biliary structure and provides a much more accurate division and management of the bile duct.*
+
+---
+
+**90. Why is sufficient ICG available in the bile duct during bile duct division?**
+
+- ICG is given just before division
+- ICG accumulates in the liver parenchyma
+- **More than an hour has passed since ICG administration, allowing sufficient excretion into the bile duct**
+- ICG is directly injected into the bile duct
+
+*Explanation: Because more than an hour has passed since the administration of ICG, a sufficient amount of ICG is excreted into the bile duct and provides good fluorescent imaging.*
+
+---
+
+**91. How many metal clips are placed on the remnant side before dividing the right hepatic duct?**
+
+- One
+- Three
+- **Two**
+- Four
+
+*Explanation: Two metal clips are placed on the remnant side of the duct just beyond the site of proposed division of the right hepatic duct before it is then divided sharply.*
+
+---
+
+**92. Through which port may the clip appliers be approached to provide the best angle for bile duct clipping?**
+
+- Right subcostal port
+- Subxiphoid port
+- Left subcostal port
+- **Umbilical port**
+
+*Explanation: The clip appliers may have to be approached through the umbilical port to provide the best angle for bile duct clipping.*
+
+---
+
+**93. How are small arterial bleeders near the graft duct controlled during bile duct division?**
+
+- With monopolar electrocautery
+- With energy devices
+- **By temporarily applying a bulldog clamp**
+- With bipolar electrocautery
+
+*Explanation: Brisk albeit small arterial bleeders may be encountered in the vicinity of the graft duct, which are controlled by temporarily applying a bulldog clamp.*
+
+---
+
+**94. Why should energy devices or electrocautery NOT be used near the bile duct during division?**
+
+- They cause thermal injury to adjacent vessels
+- They are too imprecise
+- **To mitigate the risk of biliary ischemia and stricture**
+- They cause coagulation of bile
+
+*Explanation: The use of any kind of energy devices or electrocautery is not recommended near the bile duct to mitigate the risk of biliary ischemia and stricture.*
+
+---
+
+**95. How is the remainder of the ipsilateral Glissonian sheath posterior to the divided bile duct sectioned?**
+
+- Sharp dissection with scissors
+- Bipolar electrocautery
+- Energy device
+- **With a stapler fire using a slimmer version cartridge**
+
+*Explanation: The remainder of the ipsilateral Glissonian sheath posterior to the divided bile duct is sectioned with a stapler fire with a slimmer version cartridge to prevent biliary leaks from caudate branches.*
+
+---
+
+**96. After bile duct division, how is the remaining liver dissected from the vena cava?**
+
+- Laterally
+- Inferiorly
+- Superiorly
+- **Medially**
+
+*Explanation: The remainder of the liver can be dissected safely from the vena cava when approached medially.*
+
+---
+
+**97. How is a large accessory right inferior hepatic vein or caval ligament controlled during final right hepatectomy steps?**
+
+- With bipolar electrocautery only
+- With suture ligation
+- **With clips or with a stapler if considered large**
+- With energy device only
+
+*Explanation: Accessory right inferior hepatic vein or the caval ligament is controlled with clips or with a stapler if considered to be large.*
+
+---
+
+**98. What incision is made for graft extraction during laparoscopic right donor hepatectomy?**
+
+- Midline laparotomy
+- Right subcostal incision
+- Umbilical extension incision
+- **10- to 13-cm Pfannenstiel incision in the suprapubic region**
+
+*Explanation: A 10- to 13-cm Pfannenstiel incision is made in the suprapubic region and deepened for graft extraction during laparoscopic right donor hepatectomy.*
+
+---
+
+**99. What is inserted through the peritoneal opening to contain the right lobe before extraction?**
+
+- Standard laparoscopic bag
+- Sterile glove
+- Wound protector
+- **Laparoscopic plastic bag**
+
+*Explanation: A small opening is made in the peritoneum to allow entry of a laparoscopic plastic bag, and the right lobe is teased into it along with the gallbladder.*
+
+---
+
+**100. How much heparin is administered intravenously before inflow vascular occlusion, and for how long is it allowed to circulate?**
+
+- 1000 IU for 5 minutes
+- 5000 IU for 1 minute
+- **3000 IU for 3 minutes**
+- 2000 IU for 2 minutes
+
+*Explanation: 3000 IU of heparin is administered intravenously and allowed to circulate for 3 minutes before inflow vascular occlusion.*
+
+---
+
+**101. How is the right hepatic artery (RHA) divided during final steps of right hepatectomy?**
+
+- Stapled across
+- Divided with energy device
+- **Doubly clipped on the remnant aspect and then sharply divided**
+- Ligated with suture then divided
+
+*Explanation: The RHA is doubly clipped on the remnant aspect and the vessel then sharply divided.*
+
+---
+
+**102. Why is it best to apply the RPV stapler through the subxiphoid port?**
+
+- It is the closest port to the RPV
+- **To provide a perpendicular staple line to maximize portal vein length on the graft and prevent stricture of the remnant vein**
+- To avoid injury to the bile duct
+- It provides the most direct access
+
+*Explanation: It is best to apply the stapler through the subxiphoid port to provide a perpendicular staple line to maximize the length of portal vein on the graft and prevent stricture of the remnant vein.*
+
+---
+
+**103. After graft extraction, what is done to monitor for bile leak or bleeding?**
+
+- A cholangiogram is performed
+- The patient is taken for CT scan
+- **The peritoneum is closed, the abdomen is re-insufflated, and closely monitored**
+- Drain fluid is sent immediately for analysis
+
+*Explanation: The peritoneum is closed, and the abdomen is re-insufflated and closely monitored for any potential bile leak or bleeding.*
+
+---
+
+**104. What drain is inserted at the end of laparoscopic right hepatectomy and through which port site?**
+
+- Open drain through the periumbilical port
+- Jackson-Pratt drain through the subxiphoid port
+- **Closed suction drain via the left-sided 5 mm port site, placed across the resection bed**
+- Penrose drain through the right subcostal port
+
+*Explanation: A closed suction drain is inserted via the left-sided 5 mm port site and placed across the resection bed of the liver.*
+
+---
+
+**105. What is done with the remnant falx on the liver at the end of right hepatectomy and why?**
+
+- It is excised
+- It is left in place
+- **It is sutured to the anterior abdominal wall to prevent postoperative torsion of the remnant**
+- It is clipped to the diaphragm
+
+*Explanation: The remnant falx on the liver is sutured to the anterior abdominal wall to prevent postoperative torsion of the remnant.*
+
+---
+
+**106. What is the authors' preference regarding lobe laterality in adult LDLT and why?**
+
+- Right lobe is always preferred for better GRWR
+- Left lobe is never used in adults
+- **Left lobe donation is preferred when recipient characteristics and GRWR permit, as left-sided hepatectomy carries less risk to the donor**
+- Both lobes are used equally
+
+*Explanation: The authors' preference is always to resort to left lobe donation if recipient characteristics and GRWR permit its feasibility, as left-sided hepatectomy is associated with less risk to the donor.*
+
+---
+
+**107. Compared to right hepatectomy, what complications have been shown to be less frequent with left hepatectomy?**
+
+- Vascular complications
+- **Biliary and Clavien Grade II or above complications**
+- Wound infections
+- Pulmonary complications
+
+*Explanation: Besides leaving more FLR for the donor, the incidences of biliary and Clavien Grade II or above complications are shown to be less with left hepatectomy.*
+
+---
+
+**108. How is the trocar configuration adjusted for laparoscopic left hepatectomy with MHV compared to right hepatectomy?**
+
+- Trocars are moved further right
+- Additional ports are added
+- **The placement of the right subcostal and main working ports is optimal 2 to 3 cm farther left**
+- Port placement is identical
+
+*Explanation: Because dissection along the Arantius ligament and the caudate lobe is necessary, the placement of the right subcostal and the main working ports is optimal when positioned 2 to 3 cm farther left compared to right hepatectomy.*
+
+---
+
+**109. What is the first step in mobilization of the left lobe during laparoscopic left hepatectomy?**
+
+- Division of the lesser omentum
+- **Dissection directed along the left triangular ligament to free the left lateral segment from the diaphragm**
+- Division of the round ligament
+- Division of the falciform ligament
+
+*Explanation: As the bare area of the liver is entered anteriorly, dissection is directed along the left triangular ligament thus freeing up the left lateral segment from the diaphragm.*
+
+---
+
+**110. What assistant maneuver expedites mobilization of the left lobe?**
+
+- Retraction of the right lobe
+- Downward pressure on the left lobe
+- **Traction of the falciform ligament toward the right iliac fossa by the assistant**
+- Lifting the left lateral segment with a snake retractor
+
+*Explanation: Traction of the falciform ligament toward the right iliac fossa by the assistant expedites the step of left lobe mobilization.*
+
+---
+
+**111. What is delineated by dissection of loose areolar tissue over the bare area adjacent to the diaphragm during left hepatectomy?**
+
+- The right hepatic vein base
+- The caudate lobe
+- **The base of the common stem of the middle and left hepatic veins**
+- The left triangular ligament
+
+*Explanation: The base of the common stem of the middle and left hepatic veins is delineated by further dissection of the loose areolar tissue over the bare area adjacent to the diaphragm.*
+
+---
+
+**112. Which hepatic artery is usually long, redundant, and easy to dissect during left hilar dissection?**
+
+- Middle hepatic artery (MHA)
+- Right hepatic artery (RHA)
+- **Left hepatic artery (LHA)**
+- Common hepatic artery
+
+*Explanation: The left hepatic artery (LHA) is usually long, redundant, and easy to dissect during hilar dissection for left hepatectomy.*
+
+---
+
+**113. What is noteworthy about the middle hepatic artery (MHA) to segment 4 during hilar dissection?**
+
+- It is large and easily identified
+- It lies anterior to the bile duct
+- **It is often small in caliber and close to the left hepatic duct, requiring delicate dissection to prevent injury**
+- It is the first structure encountered
+
+*Explanation: The middle hepatic artery (MHA) to segment 4 is often small in caliber and close to the left hepatic duct and requires delicate dissection to prevent injury.*
+
+---
+
+**114. What step can provide extra length and facilitate dissection of the left portal vein?**
+
+- Division of the Arantius ligament
+- Division of the lesser omentum
+- **Division of a caudate branch to the left portal vein (LPV)**
+- Division of the round ligament
+
+*Explanation: Division of a caudate branch to the LPV can provide extra length and facilitate dissection of the portal vein, which is then encircled with vessel loops.*
+
+---
+
+**115. What is the division plane for left hepatectomy relative to the MHV on ultrasonography?**
+
+- Left of the MHV
+- Through the MHV
+- **Right of the MHV**
+- At the left hepatic vein
+
+*Explanation: The division plane for left hepatectomy is almost identical to that of right hepatectomy, and the transection plane should be on the right of the MHV on ultrasonogram evaluation.*
+
+---
+
+**116. What is the inferior border of the resection plane heading toward in left hepatectomy?**
+
+- The gallbladder fossa
+- The left hepatic vein
+- **The bifurcation of the left and right bile duct**
+- The common bile duct
+
+*Explanation: The inferior border of the division plane should be heading toward the bifurcation of the left and right bile duct.*
+
+---
+
+**117. What structure is divided from the left side of the hilum up to the root of the left hepatic vein to expose the caudate lobe?**
+
+- The round ligament
+- The falciform ligament
+- The Arantius ligament
+- **The lesser omentum**
+
+*Explanation: The lesser omentum is divided from the left side of the hilum up to the root of the left hepatic vein (LHV) to expose the caudate lobe.*
+
+---
+
+**118. What patient tilt facilitates caudate lobe mobilization?**
+
+- Left tilt
+- **Right tilt**
+- No tilt needed
+- Steep Trendelenburg
+
+*Explanation: Caudate lobe exposure is facilitated by tilting the patient toward the right and with the use of a snake retractor to lift up the left lateral section.*
+
+---
+
+**119. What mandates additional dissection of the left hepatic artery toward its origin from the left gastric artery?**
+
+- Standard anatomy
+- Adhesions to the hepatoduodenal ligament
+- **Presence of a replaced or accessory LHA**
+- Double left hepatic artery
+
+*Explanation: The presence of a replaced or accessory LHA would mandate dissecting out of this vessel toward its origin from the left gastric artery to garner extra length before its later division close to takeoff.*
+
+---
+
+**120. What part of the Arantius ligament is divided during caudate lobe mobilization for left hepatectomy?**
+
+- The origin of the Arantius ligament
+- The middle portion only
+- **The terminal portion, divided short of its termination on the LHV**
+- The entire length
+
+*Explanation: The terminal portion of the Arantius ligament is seen exiting the groove between the caudate and left lateral segments and is divided short of its termination on the LHV.*
+
+---
+
+**121. What assistant maneuver exposes the lower part of Spiegel's lobe during caudate dissection?**
+
+- Leftward traction of the hepatoduodenal ligament
+- **Gentle traction of the hepatoduodenal ligament to the right**
+- Caudal traction of the liver
+- Anterior traction of the IVC
+
+*Explanation: A gentle traction of the hepatoduodenal ligament to the right by the assistant exposes the lower part of Spiegel's lobe, which is lifted ventrally to expose the plane between the caudate lobe and the vena cava.*
+
+---
+
+**122. What instruments efficiently control small bleedings during cranial mobilization of the caudate lobe?**
+
+- Ultrasonic shear device
+- Stapler
+- Energy device
+- **Bipolar forceps with gentle jaw opening movement**
+
+*Explanation: This mobilization is continued as cranially as possible by gentle jaw opening movement with bipolar forceps, which can also efficiently control small bleedings.*
+
+---
+
+**123. Why should monopolar electrocautery be avoided during caudate lobe mobilization near the IVC?**
+
+- It is too large for the space
+- It cannot reach the area
+- **It can aggravate injury and cause more bleeding**
+- It interferes with ICG imaging
+
+*Explanation: Use of monopolar electrocautery should be avoided in this area because it can aggravate injury and cause more bleeding.*
+
+---
+
+**124. Why should excessive deep dissection of the caudate lobe be avoided when surgical exposure is inadequate?**
+
+- It risks bile duct injury
+- It risks arterial injury
+- **Bleeding from injuries to short hepatic veins may be difficult to control**
+- It risks portal vein injury
+
+*Explanation: Excessive dissection, especially when the surgical exposure is inadequate, should not be done because bleeding from injuries to short hepatic veins may be difficult to control.*
+
+---
+
+**125. When are the deeper areas of the caudate lobe more easily approached during left hepatectomy?**
+
+- Before any parenchymal transection
+- During hilar dissection
+- At the start of caudate lobe dissection
+- **Anterior-medially at the terminal stage of parenchymal transection, after the bile duct is divided**
+
+*Explanation: The deeper areas are often easier to approach anterior-medially at the terminal stage of parenchymal transection, after the bile duct is divided.*
+
+---
+
+**126. After exposing the Glissonian pedicle during left hepatectomy, in which direction is the caudate lobe transected?**
+
+- Craniocaudal direction
+- Lateral to medial
+- **Caudocephalad direction past the Glissonian pedicle along the right side of Spiegel's lobe**
+- Anteroposterior direction
+
+*Explanation: After the Glissonian pedicle is exposed, the caudate lobe is transected along the right side of Spiegel's lobe in the caudocephalad direction past the Glissonian pedicle.*
+
+---
+
+**127. What instrument is used to encircle a tape around the base of MHV/LHV if passing the tape is difficult?**
+
+- Snake retractor
+- Laparoscopic grasper
+- Bulldog clamp
+- **Goldfinger (golden finger instrument)**
+
+*Explanation: In case passing the tape around the MHV/LHV base is difficult, a Goldfinger may come handy.*
+
+---
+
+**128. What is the size of the Pfannenstiel incision used for left hepatectomy graft extraction?**
+
+- 5–7 cm
+- 7–9 cm
+- **9–11 cm**
+- 12–15 cm
+
+*Explanation: A 9 to 11 cm Pfannenstiel incision is made for graft extraction in laparoscopic left hepatectomy, which is slightly smaller than the 10-to-13-cm used for right hepatectomy.*
+
+---
+
+**129. Left lateral section (LLS) grafts are invariably used for which recipients?**
+
+- Adult recipients with large body habitus
+- Recipients with high GRWR requirements
+- **Pediatric recipients and smaller adults**
+- Recipients with previous right hepatectomy
+
+*Explanation: Left lateral section (LLS) grafts or left without the MHV are invariably used for pediatric recipients and smaller adults, in whom an acceptable GRWR can be realized despite the lower mean volume of these grafts.*
+
+---
+
+**130. What determines whether an LLS graft (segments 2 and 3) or a left graft without MHV is obtained?**
+
+- Whether ICG is available
+- The recipient's weight
+- **Whether the plane of transection is along Cantlie's line to include segment 4 or through 0.5–1 cm right of the falciform ligament**
+- Whether the surgeon prefers to include the caudate lobe
+
+*Explanation: Dependent on whether the plane of transection is along the Cantlie's line (to include segment 4) or through 0.5 to 1 cm right of the falciform ligament, an LLS graft (segments 2 and 3) or left graft without MHV is obtained, respectively.*
+
+---
+
+**131. Where should the resection plane start superiorly during left lateral sectionectomy?**
+
+- At the right hepatic vein
+- At the common bile duct bifurcation
+- **From the groove between the MHV and LHV**
+- At the caudate lobe
+
+*Explanation: The resection plane for left lateral sectionectomy should start superiorly from the groove between the MHV and LHV and end at the bifurcation of the main bile ducts inferiorly.*
+
+---
+
+**132. For left lateral sectionectomy, how much is the port site shifted compared to left hepatectomy?**
+
+- No shift needed
+- 1 cm to the right
+- **2 to 5 cm to the left**
+- 5 to 10 cm to the left
+
+*Explanation: Dependent on the location of the transection plane, the port site is shifted 2 to 5 cm left as necessary to maintain the optimal triangulation format.*
+
+---
+
+**133. What is the correct direction of the transection plane during left lateral sectionectomy?**
+
+- Dorsally toward the IVC
+- Directly toward the right hepatic vein
+- **Toward the Arantius ligament, between the LLS and the caudate lobe**
+- Toward the gallbladder fossa
+
+*Explanation: The transection plane should not head dorsally toward the IVC but should head toward the Arantius ligament, between the LLS and the caudate lobe.*
+
+---
+
+**134. What is done with large Glissonian branches feeding segment 4a or 4b during left lateral sectionectomy?**
+
+- Always divided with energy device
+- Always sutured
+- **Clipped or stapled depending on their size**
+- Divided with scissors only
+
+*Explanation: Large Glissonian branches feeding the segment 4a or 4b are usually present and, depending on size, can either be clipped or stapled.*
+
+---
+
+**135. After transecting the parenchyma enough to expose the hilar plate during left lateral sectionectomy, what is divided using ICG cholangiogram?**
+
+- The left portal vein
+- The left hepatic artery
+- **The bile duct**
+- The Arantius ligament
+
+*Explanation: Once the parenchyma is transected enough to expose the hilar plate, the bile duct is divided using the ICG cholangiogram.*
+
+---
+
+**136. What device is used to divide the remaining Glissonian sheath after bile duct division in left lateral sectionectomy?**
+
+- Energy device
+- Bipolar electrocautery
+- Scissors
+- **Stapler applied through a tunnel made toward the Arantius ligament**
+
+*Explanation: A tunnel is made toward the Arantius ligament to encircle the remaining Glissonian sheath, through which a stapler is applied to divide it.*
+
+---
+
+**137. Up to what anatomical landmark is the LHV isolated during parenchymal division in left lateral sectionectomy?**
+
+- At the confluence with the right hepatic vein
+- At the IVC junction
+- **Near its stalk intraparenchymally**
+- At the root of the MHV
+
+*Explanation: The remaining parenchyma is transected cranially until the LHV is isolated near its stalk intraparenchymally and is encircled with an umbilical tape.*
+
+---
+
+**138. What is the first postoperative dietary step for laparoscopic living liver donors?**
+
+- Regular diet immediately
+- NPO for 24 hours
+- **Clear fluids the morning following surgery**
+- Nasogastric tube feeds
+
+*Explanation: Patients are commenced on clear fluids the following morning after surgery as part of the postoperative recovery protocol.*
+
+---
+
+**139. What is actively encouraged in the early postoperative period as part of the ERAS protocol?**
+
+- Prolonged bed rest
+- Delayed mobilization
+- **Early ambulation**
+- Extended opioid use
+
+*Explanation: Early ambulation is actively encouraged as part of the ERAS (enhanced recovery after surgery) protocol.*
+
+---
+
+**140. What is the primary pain control strategy implemented as part of the ERAS protocol post-hepatectomy?**
+
+- Opioid-only PCA
+- Epidural analgesia
+- Intravenous morphine infusion
+- **NSAIDs and acetaminophen-based pain control with PCA opiates for breakthrough pain**
+
+*Explanation: As part of ERAS protocol, nonsteroidal antiinflammatory drugs (NSAIDs) and acetaminophen-based pain control are implemented with addition of patient-controlled analgesia (PCA) using opiates for breakthrough pain.*
+
+---
+
+**141. By which postoperative day is PCA usually no longer necessary after laparoscopic liver donation?**
+
+- Day 1
+- Day 2
+- **Day 3**
+- Day 5
+
+*Explanation: PCA is usually not necessary after the third postoperative day in the majority of patients undergoing laparoscopic living donor hepatectomy.*
+
+---
+
+**142. When is the urinary catheter typically removed after laparoscopic donor hepatectomy?**
+
+- Day of surgery
+- **The day after surgery**
+- Day 3 postoperatively
+- At time of discharge
+
+*Explanation: Under most circumstances, patients have their urinary catheter removed the day after surgery.*
+
+---
+
+**143. By which postoperative day can patients resume a regular diet and when is PCA typically ceased?**
+
+- Day 1
+- Day 2
+- **Day 3**
+- Day 7
+
+*Explanation: Patients are able to resume a regular diet by the third postoperative day, concurrent with cessation of PCA.*
+
+---
+
+**144. By which postoperative day is discharge from hospital usually achieved after laparoscopic donor hepatectomy?**
+
+- Day 3
+- Day 4
+- **Day 5**
+- Day 7
+
+*Explanation: Discharge from the hospital is usually achieved by postoperative day 5, at which point liver enzymes have stabilized.*
+
+---
+
+**145. Under what condition is the surgical drain removed before hospital discharge?**
+
+- Always on day 5
+- After drain culture is negative
+- After CT scan confirms no collection
+- **If there are no concerns with drainage**
+
+*Explanation: The surgical drain is removed before release from the hospital if there are no concerns with drainage.*
+
+---
+
+**146. What dual expertise is required before embarking on a laparoscopic living liver donation program?**
+
+- Transplant immunology and open surgery
+- Robotic surgery and laparoscopy
+- **Living donor hepatectomy and advanced laparoscopic liver surgery**
+- Open hepatectomy and endoscopy
+
+*Explanation: Laparoscopic living donor surgery requires double expertise, both in living donor hepatectomy and in advanced laparoscopic liver surgery.*
+
+---
+
+**147. What type of learning curve is associated with laparoscopic living donor hepatectomy?**
+
+- Minimal learning curve
+- Moderate learning curve
+- Gradual learning curve
+- **Very steep learning curve**
+
+*Explanation: Laparoscopic living donor surgery carries a very steep learning curve in a situation where utmost safety is needed.*
+
+---
+
+**148. What type of transition is preferred when starting a laparoscopic donor hepatectomy program?**
+
+- Immediate switch from open to purely laparoscopic
+- Robotic-assisted transition first
+- **Gradual transition period using a hybrid approach with increasing laparoscopic proportion**
+- No transition period needed if experienced
+
+*Explanation: It is preferable to have a transition period during which a hybrid approach is used with a gradual increase of the proportion done laparoscopically, instead of a sudden transition from open to a purely laparoscopic approach.*
+
+---
+
+**149. Why is a gradual transition from open to laparoscopic donor hepatectomy preferred?**
+
+- It is required by regulatory bodies
+- It reduces operative cost
+- **It allows the surgical team to acquire the necessary learning curve without jeopardizing donor safety**
+- It improves recipient outcomes faster
+
+*Explanation: A gradual transition allows the surgical team to acquire the learning curve necessary during the transition period without jeopardizing the safety of the donor.*
+
+---
+
+**150. What planning is necessary at the institutional level for a safe laparoscopic donor hepatectomy program?**
+
+- Purchasing robotic equipment
+- Training only the lead surgeon
+- Establishing a backup open surgery team
+- **Disaster planning with a readily available crisis management team during surgery and the immediate postoperative period**
+
+*Explanation: Disaster planning needs to be established both within the operating room and at the institutional level. A crisis management team should be readily available during surgery and the immediate postoperative period.*
+
+---
+
+**151. What is the role of a crisis management team in a laparoscopic donor hepatectomy program?**
+
+- To supervise resident training
+- To coordinate recipient surgery
+- To perform intraoperative imaging
+- **To prepare and protect the surgical team when a disaster occurs**
+
+*Explanation: A crisis management team should be readily available during surgery and the immediate postoperative period in order to prepare and protect the surgical team when a disaster occurs.*
+
+---
+
+**152. What is the significance of having step-by-step conversion strategy preplanned in laparoscopic donor hepatectomy?**
+
+- To save operative time
+- To reduce anesthesia costs
+- **To prevent chaos if emergency conversion to open surgery is needed**
+- To improve graft quality
+
+*Explanation: Step-by-step strategy during conversion should be preplanned, and the whole team should be familiar with the process to prevent chaos during emergency conversion.*
+
+---
+
+**153. What is a key difference in right lobe mobilization between living donor hepatectomy and standard oncologic right hepatectomy?**
+
+- Mobilization is not performed in donors
+- Mobilization is performed after parenchymal division in donors
+- **Mobilization is performed before parenchymal division in donors to allow urgent graft retrieval**
+- Mobilization is performed simultaneously with parenchymal division in donors
+
+*Explanation: In living donors, mobilization is done first because in case of an urgent situation where the liver has to be retrieved during transection, the graft can be quickly taken out.*
+
+---
+
+**154. What electrosurgical device can efficiently control both dissection and small bleedings during cranial caudate lobe mobilization?**
+
+- Monopolar electrocautery
+- Ultrasonic shear device
+- CUSA
+- **Bipolar forceps**
+
+*Explanation: Gentle jaw opening movement with bipolar forceps can continue mobilization as cranially as possible and can also efficiently control small bleedings.*
+
+---
+
+**155. Which segment tributaries are specifically identified using intraoperative ultrasound during right hepatectomy?**
+
+- Segments 6 and 7
+- Segments 4a and 4b
+- **Segments 5 (V5) and 8 (V8)**
+- Segments 1 and 2
+
+*Explanation: Intraoperative ultrasound is performed to aid with the identification of the course of the middle hepatic vein (MHV) and the location of the segment 5 (V5) and segment 8 (V8) tributaries.*
+
+---
+
+**156. What is the purpose of the "demarcation line" identified using ICG and bulldog clamps during right hepatectomy?**
+
+- To identify bile duct anatomy
+- To mark the location of the right hepatic vein
+- **To delineate the boundary between the right and left lobe for accurate parenchymal division**
+- To guide portal vein ligation
+
+*Explanation: After ICG is given with bulldog clamps applied, the demarcation line is noted on the liver surface to identify the correct division plane between the right and left lobe.*
+
+---
+
+**157. What is the main concern when expanding donor selection criteria to unfavorable hilar anatomy for laparoscopic donation?**
+
+- Increased operative time
+- Higher conversion rates
+- **Weighing the advantages and disadvantages for both donor and recipient to have optimal results**
+- Increased intraoperative blood loss
+
+*Explanation: Expansion of selection criteria for donors should be done with caution, weighing the advantages and the disadvantages of both the donor and the recipient outcome to have optimal results.*
+
+---
+
+**158. What pressure setting is used when temporarily increasing insufflation pressure to manage major bleeding?**
+
+- 8 mm Hg
+- 11 mm Hg
+- 13 mm Hg
+- **15 mm Hg**
+
+*Explanation: In circumstances of brisk bleeding, temporary increase of the insufflation pressure up to 15 mm Hg can help reduce the rate of bleed.*
+
+---
+
+**159. During laparoscopic right hepatectomy, what is the correct order of vessel division before graft extraction?**
+
+- RPV → RHA → RHV
+- RHV → RHA → RPV
+- **RHA → RPV → RHV**
+- RHV → RPV → RHA
+
+*Explanation: After administering heparin, the RHA is doubly clipped and divided first, the RPV is stapled or clipped second, and finally the RHV is stapled to free the graft.*
+
+---
+
+**160. What is the significance of "favorable anatomy" in the context of laparoscopic donor selection?**
+
+- It allows selection of a larger liver
+- It guarantees a shorter operative time
+- **It reduces the risk of complications such as bile duct stricture or leakage, especially early in the learning curve**
+- It ensures a higher FLR
+
+*Explanation: Favorable anatomy is recommended before the learning curve is accomplished, as unfavorable anatomy (early bifurcation) can lead to increased complications such as stricture or leakage of the bile duct.*
+
+---
+
+**161. During laparoscopic left hepatectomy, what is used to retract the left lateral section and facilitate caudate lobe exposure?**
+
+- Round ligament retraction
+- Bulldog clamp
+- **Snake retractor**
+- Penrose drain
+
+*Explanation: Caudate lobe exposure is facilitated by tilting the patient toward the right and with the use of a snake retractor to lift up the left lateral section (LLS).*
+
+---
+
+**162. What intraoperative finding from the ICG cholangiogram guides clip placement on the right bile duct?**
+
+- Diameter of the common bile duct
+- Flow rate of bile
+- **Real-time visualization of the biliary confluence and the left bile duct to ensure they are not compromised**
+- Pressure within the bile duct
+
+*Explanation: ICG cholangiogram guides real-time clip application on the right bile duct, making sure the confluence and the left bile duct are not compromised.*
+
+---
+
+**163. What is the minimum length of left bile duct stump that should remain after clipping to prevent clip dislodgement?**
+
+- 0.5 mm
+- **1–2 mm**
+- 3–5 mm
+- 5–10 mm
+
+*Explanation: At least 1 to 2 mm length of left bile duct stump needs to remain so the clips will not fall off after right bile duct division.*
+
+---
+
+**164. Which approach during parenchymal division in left hepatectomy exposes the caudate lobe previously transected caudally?**
+
+- Lateral approach
+- Inferior approach
+- **Anteriorly, after parenchymal division proceeds cranially**
+- Posterior approach
+
+*Explanation: Now the previous caudally transected part of the caudate lobe becomes visible anteriorly and the remaining parenchymal division is done in a similar fashion as described for right hepatectomy.*
+
+---
+
+**165. What structure's base is the endpoint of parenchymal division on the medial side during left hepatectomy?**
+
+- The right hepatic vein base
+- The portal vein bifurcation
+- **The base of the MHV and LHV on its medial side**
+- The caudate lobe
+
+*Explanation: Remaining parenchymal division is done until the base of the MHV and LHV on its medial side is reached.*
+
+---
+
+**166. What bilateral technique is used concurrently during final stages of left hepatectomy to free up the left hemigraft?**
+
+- Division of the left hepatic artery and portal vein
+- Division of the falciform and round ligaments
+- **Isolation and division of any further tributaries from the left side of the caudate lobe**
+- Division of the lesser omentum and Arantius ligament
+
+*Explanation: Concurrently, any further tributaries from the left side of the caudate lobe are isolated and divided, thus freeing up the left hemigraft further.*
+
+---
+
+**167. What is the most common graft used in adult LDLT according to this chapter?**
+
+- Left lateral section
+- Left lobe without MHV
+- Caudate lobe alone
+- **Right lobe**
+
+*Explanation: The chapter states that the right lobe is the most frequently used graft in adult LDLT.*
+
+---
+
+**168. What is an important safety principle regarding the whole surgical team during laparoscopic donor hepatectomy programs?**
+
+- Only the primary surgeon needs to know the conversion plan
+- The scrub nurse manages bleeding
+- The anesthesiologist leads disaster planning
+- **The whole team should be familiar with the step-by-step conversion strategy to prevent chaos**
+
+*Explanation: Step-by-step strategy during conversion should be preplanned, and the whole team should be familiar with the process to prevent chaos.*
+
+---
+
+**169. What does stabilization of liver enzymes by postoperative day 5 indicate in the context of donor discharge planning?**
+
+- The donor is ready for a second procedure
+- Full hepatic regeneration is complete
+- **The donor is clinically ready for hospital discharge**
+- The graft is functioning in the recipient
+
+*Explanation: Discharge from the hospital is usually achieved by postoperative day 5, at which point liver enzymes have stabilized.*
+
+---
+
+**170. What is the overarching principle that must guide every decision in laparoscopic living donor hepatectomy, from patient selection to operative technique?**
+
+- Maximizing graft weight for the recipient
+- Minimizing operative time
+- Reducing hospital costs
+- **Ensuring donor safety at every step, given that the procedure offers no physiologic benefit to the donor**
+
+*Explanation: The fundamental premise of living donation is one of donor safety, as this procedure comes with no physiologic benefit to the donor. Every decision—from selection to technique—must prioritize minimizing risk to the donor.*
+

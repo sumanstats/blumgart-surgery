@@ -1,0 +1,1543 @@
+# 127B Minimally Invasive Distal and Central Pancreatectomy
+
+
+Generated with Claude.
+
+
+**1. Which of the following best describes the accepted status of minimally invasive distal and central pancreatectomies?**
+
+- Experimental procedures not yet in routine clinical use
+- **Well-accepted as safe and effective surgical approaches for left-sided pancreatic lesions**
+- Recommended only for benign lesions
+- Inferior to open approaches in all outcome measures
+
+*Explanation: The chapter states that minimally invasive distal and central pancreatectomies are well accepted as safe and effective surgical approaches for the management of left-sided pancreatic lesions.*
+
+---
+
+**2. What are the two most common approaches for pancreatic mobilization in minimally invasive distal pancreatectomy?**
+
+- Anterior and posterior approaches
+- Superior and inferior approaches
+- **Medial and lateral approaches**
+- Retroperitoneal and transperitoneal approaches
+
+*Explanation: The two most common approaches for pancreatic mobilization in minimally invasive distal pancreatectomy are the medial and lateral approaches.*
+
+---
+
+**3. In a retrospective cohort study comparing medial and lateral approaches in laparoscopic distal pancreatectomy, how many patients were studied?**
+
+- 25
+- 35
+- **43**
+- 57
+
+*Explanation: A retrospective cohort study of 43 patients compared the medial and lateral approaches for pancreatic mobilization.*
+
+---
+
+**4. Which approach demonstrated shorter operative times and less blood loss in the retrospective cohort study comparing approaches for laparoscopic distal pancreatectomy?**
+
+- Medial approach
+- **Lateral approach**
+- Both approaches were equivalent
+- The anterior approach
+
+*Explanation: The study demonstrated shorter operative times and less blood loss with the lateral approach.*
+
+---
+
+**5. In the retrospective cohort study comparing medial and lateral approaches, what was found regarding rates of successful splenic preservation and conversion to open procedure?**
+
+- Medial approach had significantly higher splenic preservation rates
+- Lateral approach had significantly higher conversion rates
+- **No significant differences in rate of successful splenic preservation or rate of conversion to an open procedure**
+- Lateral approach had higher conversion rates but better splenic preservation
+
+*Explanation: There were no significant differences in rate of successful splenic preservation or rate of conversion to an open procedure between the two approaches.*
+
+---
+
+**6. What is the most favorable patient positioning for laparoscopic distal pancreatectomy due to its excellent exposure?**
+
+- Supine
+- French position
+- Modified lithotomy
+- **Right lateral decubitus**
+
+*Explanation: The right lateral decubitus position is the most favorable positioning because of its excellent exposure.*
+
+---
+
+**7. For a more centrally located lesion in laparoscopic distal pancreatectomy, what modified position may be used?**
+
+- Full left lateral decubitus
+- Prone position
+- **Modified right lateral decubitus in a 15- to 30-degree decubitus position**
+- Trendelenburg position
+
+*Explanation: The patient may also be secured in a modified right lateral decubitus in a 15- to 30-degree decubitus position for a more centrally located lesion.*
+
+---
+
+**8. What combination of positioning maximizes gravity exposure of the tail and body of the pancreas?**
+
+- Supine with Trendelenburg and left-side down tilt
+- **Bed flexed with right side down tilt combined with Reverse Trendelenburg**
+- French position with left lateral tilt
+- Prone position with right side up tilt
+
+*Explanation: With the bed flexed to expose more of the abdomen and tilted right side down, combined with Reverse Trendelenburg, gravity exposure of the tail and body of the pancreas is maximized.*
+
+---
+
+**9. What effect does left-side down tilting of the bed have during laparoscopic distal pancreatectomy?**
+
+- Maximizes exposure of the tail of the pancreas
+- Improves visualization of the spleen
+- **Flattens the patient to near supine and improves exposure of the neck of the pancreas and access to the portal vein–SMV trunk**
+- Provides the best view of the retroperitoneum
+
+*Explanation: Left-side down tilting of the bed will flatten the patient to near supine and improve exposure of the neck of the pancreas and access to the portal vein–superior mesenteric vein (SMV) trunk.*
+
+---
+
+**10. What is the French position in the context of laparoscopic distal pancreatectomy?**
+
+- Patient placed prone with legs extended
+- Patient in right lateral decubitus with arms outstretched
+- **Patient supine on a split-leg operating table, allowing an assistant to work from between the patient's legs**
+- Patient in steep Trendelenburg with arms tucked
+
+*Explanation: The French position involves the patient being supine on a split-leg operating table, allowing an assistant to work from between the patient's legs.*
+
+---
+
+**11. From which side of the patient does the surgeon work during laparoscopic distal pancreatectomy?**
+
+- Left side
+- Foot of the table
+- Head of the table
+- **Right side**
+
+*Explanation: The surgeon works from the patient's right side.*
+
+---
+
+**12. How many trocars are generally required for laparoscopic distal pancreatectomy?**
+
+- Two to three
+- Three to four
+- **Four to five**
+- Six to seven
+
+*Explanation: The procedure generally requires four to five trocars.*
+
+---
+
+**13. What degree laparoscope is used in laparoscopic distal pancreatectomy?**
+
+- 0-degree
+- 15-degree
+- **30-degree**
+- 45-degree
+
+*Explanation: A 30-degree laparoscope is used in laparoscopic distal pancreatectomy.*
+
+---
+
+**14. Where is the camera port placed during laparoscopic distal pancreatectomy?**
+
+- Umbilicus
+- Right midclavicular line
+- **10-mm supraumbilical port, offset 1 cm to the left and cephalad**
+- Left lateral costal margin
+
+*Explanation: A 10-mm supraumbilical port, offset 1 cm to the left and cephalad, is the camera port.*
+
+---
+
+**15. What size port is placed at the left midclavicular line during laparoscopic distal pancreatectomy?**
+
+- 5 mm
+- 10 mm
+- **12 mm**
+- 15 mm
+
+*Explanation: A 12-mm port is placed at the left midclavicular line, in line with the camera port at the supraumbilical level.*
+
+---
+
+**16. What is the first step in exposing the pancreas during laparoscopic distal pancreatectomy?**
+
+- Dividing the gastrocolic ligament
+- Identifying the splenic artery
+- **Mobilizing the splenic flexure of the colon**
+- Entering the lesser sac
+
+*Explanation: Exposure begins with mobilizing the splenic flexure of the colon to facilitate exposure of the inferior edge of the pancreas.*
+
+---
+
+**17. Along which anatomic line is dissection begun when mobilizing the colon for pancreatic exposure?**
+
+- Linea alba
+- Line of Zahn
+- **White line of Toldt**
+- Line of Hilton
+
+*Explanation: Begin with the lateral attachments of the proximal descending colon, dividing along the white line of Toldt, then around the splenic flexure.*
+
+---
+
+**18. What plane is bluntly separated during colon mobilization in laparoscopic distal pancreatectomy?**
+
+- Between the peritoneum and anterior abdominal wall
+- **Between the mesocolon and Gerota's fascia**
+- Between the stomach and lesser sac
+- Between the colon and Toldt's fascia
+
+*Explanation: Bluntly separate the plane between the mesocolon and Gerota's fascia during colon mobilization.*
+
+---
+
+**19. After complete colon mobilization, gravity retracts the colon in which direction?**
+
+- Up and laterally
+- Up and medially
+- **Down and medially**
+- Down and laterally
+
+*Explanation: Once completely mobilized, gravity will retract the colon down and medially, away from the left upper quadrant.*
+
+---
+
+**20. In which direction are the short gastric vessels divided during laparoscopic distal pancreatectomy?**
+
+- Lateral to medial
+- Medial to lateral
+- **Caudad to cephalad**
+- Cephalad to caudad
+
+*Explanation: Divide short gastric vessels using an energy device, from caudad to cephalad.*
+
+---
+
+**21. How is the gastrocolic ligament divided to facilitate pancreatic exposure?**
+
+- From medial to lateral
+- From cephalad to caudad
+- **From lateral to medial**
+- From inferior to superior
+
+*Explanation: Enter into the lesser sac near the splenic hilum and divide the gastrocolic ligament from lateral to medial, which facilitates the stomach to medialize and the transverse colon to drop down.*
+
+---
+
+**22. What mechanical device can be used for gastric retraction during laparoscopic distal pancreatectomy?**
+
+- Fan retractor
+- **Nathanson liver retractor**
+- Ring retractor
+- Bookwalter retractor
+
+*Explanation: A mechanical retractor, such as the Nathanson liver retractor, can be set up to retract the stomach.*
+
+---
+
+**23. What is the "stomach roll-up technique" used for in laparoscopic distal pancreatectomy?**
+
+- To divide short gastric vessels efficiently
+- To assist in specimen extraction
+- **To provide steady gastric retraction by rotating the stomach on its longitudinal axis and suspending it toward the abdominal wall**
+- To prevent torsion of the stomach during the procedure
+
+*Explanation: The "stomach roll-up technique" provides steady retraction by rotating the stomach on its longitudinal axis and suspending it upwards toward the abdominal wall.*
+
+---
+
+**24. In the stomach roll-up technique, what structure is divided and passed through the lesser sac?**
+
+- Short gastric vessels
+- Gastrosplenic ligament
+- **Falciform ligament and round ligament (ligated with Endoloop)**
+- Gastrohepatic ligament
+
+*Explanation: In this technique, the falciform is divided and an Endoloop is used to ligate the round ligament. The round ligament and Endoloop are passed through the lesser sac, deep to the stomach.*
+
+---
+
+**25. What instrument is used to pass the round ligament through the anterior abdominal wall in the stomach roll-up technique?**
+
+- Laparoscopic needle driver
+- Trocar
+- **Suture passer device**
+- Veress needle
+
+*Explanation: The round ligament and Endoloop are passed out through the anterior abdominal wall with a suture passer device.*
+
+---
+
+**26. In which direction is the peritoneum along the inferior border of the pancreas divided during mobilization?**
+
+- Medial to lateral
+- Posterior to anterior
+- Cephalad to caudad
+- **Lateral to medial**
+
+*Explanation: Begin dividing the peritoneum along the inferior border of the pancreas, from lateral to medial.*
+
+---
+
+**27. Which vascular structure can be identified and followed to aid recognition of the SMV during laparoscopic distal pancreatectomy?**
+
+- Left gastroepiploic vein
+- Inferior mesenteric vein
+- **Right gastroepiploic vein**
+- Middle colic vein
+
+*Explanation: To aid in recognition of the SMV, the right gastroepiploic vein can be identified and followed into the SMV.*
+
+---
+
+**28. What useful tool can be used intraoperatively to identify occult lesions that may not be directly visible during laparoscopic distal pancreatectomy?**
+
+- Fluoroscopy
+- CT scan
+- **Laparoscopic intraoperative ultrasound**
+- MRI
+
+*Explanation: Laparoscopic intraoperative ultrasound is a helpful tool to identify occult lesions. It can also be used to confirm margins of a visible lesion before pancreatic transection.*
+
+---
+
+**29. In the medial approach to laparoscopic distal pancreatectomy, what structure is developed to allow passage of a Penrose drain or vessel loop around the pancreas?**
+
+- Suprapancreatic tunnel
+- Transpancreatic window
+- **Retropancreatic tunnel**
+- Infrapancreatic window
+
+*Explanation: Develop a retropancreatic tunnel, elevating the pancreas off of the retroperitoneum, such that a Penrose drain or vessel loop can be passed through the tunnel, around the pancreas.*
+
+---
+
+**30. If the transection site is to the left of the celiac axis, how can the splenic artery and vein be managed?**
+
+- They must always be divided separately
+- They must always be preserved
+- **They can be transected en-bloc with the pancreas**
+- They must be ligated proximally only
+
+*Explanation: If the transection site is to the left of the celiac axis, the splenic artery and vein can be transected en-bloc with the pancreas.*
+
+---
+
+**31. If the pancreas gland is too thick to accommodate a stapler for en-bloc transection, what can be done?**
+
+- Convert to open surgery
+- Use a vascular stapler only
+- Abandon en-bloc transection entirely
+- **Thin the parenchyma of the pancreas using an energy device to accommodate the stapler**
+
+*Explanation: If the pancreas gland is too thick to accommodate a stapler for en-bloc transection, the parenchyma of the pancreas may be thinned using an energy device to accommodate the stapler fitting across the gland and the vessels.*
+
+---
+
+**32. If transection site is at the neck of the pancreas, where must the retropancreatic tunnel be developed?**
+
+- Between the pancreas and splenic artery
+- Between the pancreas and inferior mesenteric vein
+- Between the pancreas and aorta
+- **Between the pancreas and SMV–portal vein trunk**
+
+*Explanation: If the transection site is at the neck, the tunnel must be developed between the pancreas and SMV–portal vein trunk.*
+
+---
+
+**33. What is crucial to identify when dissecting the splenic artery during laparoscopic distal pancreatectomy?**
+
+- The junction of the splenic artery with the left gastric artery
+- The junction of the splenic artery with the superior mesenteric artery
+- **The junction of the splenic artery with the celiac trunk and hepatic artery**
+- The junction of the splenic artery with the gastroduodenal artery
+
+*Explanation: It is crucial to identify the junction of the splenic artery with the celiac trunk and hepatic artery.*
+
+---
+
+**34. What is the purpose of remaining to the left of the pancreatic staple line when dividing the splenic artery and vein?**
+
+- To preserve the splenic parenchyma
+- **To ensure the hepatic artery is protected**
+- To maintain adequate blood supply to the stomach
+- To protect the left adrenal gland
+
+*Explanation: Visualize the pancreatic transection line and remain to the left of that staple line, to divide the splenic artery and vein with a vascular stapler. This landmarking ensures the hepatic artery is protected.*
+
+---
+
+**35. What additional safety check can be performed before dividing the splenic artery to confirm hepatic artery patency?**
+
+- Fluoroscopic angiography
+- CT scan
+- Direct palpation
+- **Occlude the splenic artery and perform Doppler ultrasound on the porta**
+
+*Explanation: As an additional safety check, the splenic artery can be occluded and a Doppler ultrasound performed on the porta to confirm hepatic artery patency before division of the splenic artery.*
+
+---
+
+**36. After pancreatic transection in the medial approach, the transected distal pancreas is elevated in which direction?**
+
+- Toward the retroperitoneum
+- Inferiorly toward the pelvis
+- Posteriorly
+- **Toward the anterior abdominal wall**
+
+*Explanation: Elevate the transected distal pancreas toward the anterior abdominal wall.*
+
+---
+
+**37. During medial-to-lateral dissection after pancreatic transection, which structure must be preserved in the retroperitoneum?**
+
+- Right adrenal gland
+- Right kidney
+- **Left adrenal gland**
+- Left kidney
+
+*Explanation: Working from medial to lateral, develop the plane between the posterior surface of the pancreas and Gerota's fascia, preserving the left adrenal gland in the retroperitoneum.*
+
+---
+
+**38. Which vessel courses in proximity to the dissection plane during posterior pancreatic dissection and requires caution?**
+
+- Left renal artery
+- Superior mesenteric vein
+- **Left renal vein**
+- Inferior vena cava
+
+*Explanation: The left renal vein will course in proximity to the dissection plane and caution should be exercised to ensure it is not damaged.*
+
+---
+
+**39. What ligaments are divided to liberate the spleen and distal pancreas at the completion of medial approach dissection?**
+
+- Gastrosplenic and splenophrenic ligaments
+- Splenorenal and gastrosplenic ligaments
+- **Splenorenal and splenophrenic ligaments**
+- Gastrocolic and splenorenal ligaments
+
+*Explanation: Progressing laterally, the spleen is reached. Divide the splenorenal and splenophrenic ligaments with an energy device to liberate the spleen and distal pancreas.*
+
+---
+
+**40. In the lateral approach to laparoscopic distal pancreatectomy, if the spleen is to be preserved, where is the tail of the pancreas first identified?**
+
+- At the superior mesenteric vein confluence
+- At the inferior border of the pancreas
+- At the celiac axis
+- **At the splenic hilum**
+
+*Explanation: If spleen is to be preserved, identify the tip of the tail of the pancreas at the splenic hilum, elevate it, and dissect the pancreas off of the splenic vessels.*
+
+---
+
+**41. In the spleen-preserving lateral approach, in which direction is the dissection of the pancreas off the splenic vessels performed?**
+
+- Medial to lateral
+- Cephalad to caudad
+- **Lateral to medial**
+- Posterior to anterior
+
+*Explanation: Dissect the pancreas off of the splenic vessels, dissecting from lateral to medial, dividing small branches of the splenic vessels to the pancreas with an energy device.*
+
+---
+
+**42. If splenectomy is to be performed in the lateral approach, how is the spleen and pancreas elevated?**
+
+- Anterior to the splenic vessels
+- Through the retropancreatic tunnel
+- **Posterior to the splenic vessels**
+- Via the medial approach after lateral mobilization
+
+*Explanation: If splenectomy is to be performed, divide the inferior, lateral, and superior splenic attachments and elevate the pancreas with the spleen, posterior to the splenic vessels, dissecting from lateral to medial.*
+
+---
+
+**43. What staple height is most commonly used for pancreas parenchyma in isolation during pancreatic transection?**
+
+- 2.5 mm
+- 3.5 mm
+- 3.8 mm
+- **4.8 mm**
+
+*Explanation: A 4.8 mm staple height is most commonly used for pancreas parenchyma in isolation.*
+
+---
+
+**44. What staple height is suitable when the parenchyma is thin and vessels are excluded?**
+
+- 4.8 mm
+- 4.1 mm
+- **2.5–3.5 mm**
+- 5.0 mm
+
+*Explanation: Shorter stapler height (e.g., 2.5–3.5 mm) is suitable when the parenchyma is thin and vessels are excluded.*
+
+---
+
+**45. If there are concerns about the seal of the staple line of the pancreatic stump, what can be considered?**
+
+- Convert to open surgery for oversewing
+- Apply fibrin glue alone
+- Close the duct with metal clips
+- **Buttress the staple line with a synthetic sealant patch**
+
+*Explanation: If there are concerns about the seal of the staple line of the pancreatic stump, consider buttressing the staple line with a synthetic sealant patch.*
+
+---
+
+**46. What is an alternative to using a synthetic sealant patch to reinforce the pancreatic staple line?**
+
+- Applying fibrin glue
+- Using a reinforced staple cartridge only
+- Placing drains adjacent to the stump
+- **Oversewing the staple line with transpancreatic sutures**
+
+*Explanation: Alternatively, the staple line can be oversewn with transpancreatic sutures.*
+
+---
+
+**47. How should the stapler be closed during pancreatic transection to avoid shearing through the parenchyma?**
+
+- Rapidly and firmly
+- In two equal steps
+- With moderate, steady pressure
+- **In a very slow, gradual, stepwise fashion**
+
+*Explanation: The stapler should be closed in a very slow, gradual, stepwise fashion to avoid shearing through the parenchyma.*
+
+---
+
+**48. Why are automatic powered linear staplers preferable to manual staplers for pancreatic transection?**
+
+- They provide higher staple heights
+- They are less expensive
+- **They fire at a steady pace while the surgeon holds the stapler still, minimizing sawing motions through the delicate parenchyma**
+- They allow a greater variety of staple cartridges
+
+*Explanation: Automatic powered liner staplers are preferable to manual staplers because they fire at a steady pace while the surgeon holds the stapler still, minimizing any sawing motions through the delicate parenchyma.*
+
+---
+
+**49. How many firings of a 60-mm linear stapler may be required for complete pancreatic transection?**
+
+- Always just one
+- Exactly two
+- **Multiple firings**
+- Never more than three
+
+*Explanation: Multiple firings of a 60-mm linear stapler may be required for complete transection.*
+
+---
+
+**50. When is separate ligation of the splenic artery especially important during pancreatic transection?**
+
+- When transection occurs close to the splenic hilum
+- When performing spleen-preserving surgery
+- **When transection occurs close to the celiac axis**
+- When performing the lateral approach
+
+*Explanation: Splenic vessels are often ligated separately from parenchymal transection, especially the splenic artery when transection occurs close to the celiac axis.*
+
+---
+
+**51. What complication could result from a pancreatic fistula after distal pancreatectomy if the splenic vein is divided en-bloc with the pancreatic parenchyma?**
+
+- Bile leak
+- Portal vein thrombosis
+- Splenic infarction
+- **Enzymatic degradation to the staple line of the splenic vein stump, leading to intraabdominal hemorrhage**
+
+*Explanation: A pancreatic fistula after distal pancreatectomy could result in enzymatic degradation to the staple line of the splenic vein stump, leading to intraabdominal hemorrhage.*
+
+---
+
+**52. What is the name of the ongoing multicenter randomized controlled trial addressing the safety of splenic vein resection with pancreatic parenchyma in distal pancreatectomy?**
+
+- PANVEIN trial
+- SPLENIC-DP trial
+- PRESERVE trial
+- **COSMOS-DP trial**
+
+*Explanation: A multicenter randomized controlled trial is underway to address the safety of splenic vein resection with pancreatic parenchyma, compared with separated resection after isolation of the parenchyma in distal pancreatectomy (COSMOS-DP trial).*
+
+---
+
+**53. How should the specimen be oriented when placing it in an endoscopic retrieval bag during extraction?**
+
+- With the splenic hilum facing the opening
+- With the superior border facing the opening
+- **With the transected border of the pancreas facing the opening of the bag**
+- Orientation does not matter
+
+*Explanation: Place the specimen within an endoscopic retrieval bag, oriented such that the transected border of the pancreas faces the opening of the bag.*
+
+---
+
+**54. In what order should the specimen be extracted from the endoscopic retrieval bag?**
+
+- Spleen first, then pancreas
+- Both simultaneously
+- **Pancreas first, then morcellate and extract the spleen**
+- Spleen is removed separately before placing pancreas in bag
+
+*Explanation: Extract the pancreas first, then morcellate the spleen with a finger fracture technique or using ring or sponge forceps at its hilum to facilitate extraction through a small incision.*
+
+---
+
+**55. What incision may be used to extract larger specimens in laparoscopic distal pancreatectomy?**
+
+- McBurney incision
+- Midline laparotomy
+- **Pfannenstiel incision**
+- Kocher incision
+
+*Explanation: For larger specimens, a Pfannenstiel incision may be used to extract the specimen.*
+
+---
+
+**56. Based on colorectal literature, why might a Pfannenstiel incision be preferable over a midline extraction site?**
+
+- It provides better cosmesis
+- It is associated with less postoperative pain
+- It avoids damage to abdominal wall muscles
+- **It is associated with lower rates of incisional hernia**
+
+*Explanation: In the colorectal literature, the Pfannenstiel is associated with lower rates of incisional hernia than midline extraction sites.*
+
+---
+
+**57. What is the recommended practice regarding routine drain placement after minimally invasive distal pancreatectomy?**
+
+- Drains should always be placed routinely
+- Drains should be placed only when the staple line is reinforced
+- Drains should be placed in all cases and removed on day 5
+- **Routine drain placement is not recommended for most minimally invasive distal pancreatectomies**
+
+*Explanation: Routine drain placement is not recommended for most minimally invasive distal pancreatectomies.*
+
+---
+
+**58. What potential harms are associated with drain placement after distal pancreatectomy?**
+
+- Improved outcomes but longer hospital stay
+- **Increased morbidity, longer hospital stay, higher pancreatic fistula rates, and more readmissions**
+- Lower fistula rates but increased readmissions
+- Decreased morbidity but higher fistula rates
+
+*Explanation: Drains may be associated with increased morbidity, longer hospital stay, higher pancreatic fistula rates, and more readmissions.*
+
+---
+
+**59. If drains are placed after laparoscopic distal pancreatectomy, on which postoperative days should drain fluid amylase concentrations be measured to guide early removal?**
+
+- Days 2 and 4
+- Days 3 and 5
+- **Days 1 and 3**
+- Days 2 and 5
+
+*Explanation: If drains are placed, evidence supports early removal, based on drain fluid amylase concentrations on postoperative days 1 and 3, in addition to the quality of effluent and volume.*
+
+---
+
+**60. In a comparative study of laparoscopic spleen-preserving distal pancreatectomy, in which group was the rate of spleen conservation significantly higher?**
+
+- Warshaw technique group
+- En-bloc resection group
+- **Patients with intention-to-treat splenic vessel preservation**
+- Patients converted from Warshaw technique
+
+*Explanation: The rate of spleen conservation was significantly higher in patients who had intention-to-treat splenic vessel preservation.*
+
+---
+
+**61. When splenic vessel injury occurred or difficulties were encountered during splenic vessel preservation, conversion to what technique resulted in splenic salvage for a large portion of patients?**
+
+- En-bloc resection technique
+- Open splenectomy
+- **Warshaw technique**
+- Retroperitoneal approach
+
+*Explanation: When splenic vessel injury occurred or difficulties were encountered during dissection, conversion to Warshaw technique resulted in splenic salvage for a large portion of the patients.*
+
+---
+
+**62. According to a recent systematic review and meta-analysis, which technique for spleen-preserving distal pancreatectomy is associated with shorter operative time and lower blood loss?**
+
+- Splenic vessel preservation technique
+- **Warshaw technique**
+- Both are equivalent
+- The lateral approach with vessel preservation
+
+*Explanation: A recent systematic review and meta-analysis of the two techniques suggests shorter operative time and lower blood loss with the Warshaw technique.*
+
+---
+
+**63. What is the trade-off of the Warshaw technique compared to splenic vessel preservation in spleen-preserving distal pancreatectomy?**
+
+- Higher rates of splenic vein thrombosis
+- **Higher rates of perigastric varices and splenic infarction**
+- Higher rates of postoperative pancreatic fistula
+- Higher rates of intraabdominal hemorrhage
+
+*Explanation: The Warshaw technique achieves shorter operative time and lower blood loss at the expense of higher rates of perigastric varices and splenic infarction.*
+
+---
+
+**64. The splenic vessel preservation technique, although more technically challenging, assures what benefit to the spleen?**
+
+- Prevention of splenic vein thrombosis
+- **Adequate blood supply to the spleen**
+- Complete preservation of all short gastric vessels
+- Avoidance of perigastric varices
+
+*Explanation: Although more technically challenging, the splenic vessel preservation technique assures adequate blood supply to the spleen.*
+
+---
+
+**65. In the splenic vessel preservation technique, which structures are isolated from the pancreas and dissected off using an energy device?**
+
+- Short gastric and left gastroepiploic vessels
+- Splenic artery only
+- Splenic vein only
+- **Splenic artery and vein**
+
+*Explanation: The splenic artery and vein are isolated from the pancreas and dissected off with an energy device to control small branching vessels that supply the pancreas.*
+
+---
+
+**66. When was the Warshaw technique for spleen-preserving distal pancreatectomy first described?**
+
+- 1978
+- 1983
+- **1988**
+- 1993
+
+*Explanation: The Warshaw technique, first described by Warshaw in 1988, involves ligating the splenic artery and vein with preservation of the short gastric and left gastroepiploic vessels.*
+
+---
+
+**67. In the Warshaw technique, which vessels are preserved to maintain splenic blood supply?**
+
+- Splenic artery and right gastroepiploic vessels
+- Short gastric vessels and splenic vein
+- Left gastric and right gastroepiploic vessels
+- **Short gastric and left gastroepiploic vessels**
+
+*Explanation: The Warshaw technique involves ligating the splenic artery and vein with preservation of the short gastric and left gastroepiploic vessels.*
+
+---
+
+**68. In the Warshaw technique, when are the splenic vessels divided a second time?**
+
+- At the celiac trunk
+- At the inferior border of the pancreas
+- Before transection of the pancreas
+- **As they exit the pancreatic tail to enter the splenic hilum**
+
+*Explanation: The vessels are divided again as they exit the pancreatic tail to enter the splenic hilum.*
+
+---
+
+**69. After completing the Warshaw technique resection, how is splenic perfusion adequacy assessed?**
+
+- Doppler ultrasound of splenic vessels
+- Immediate postoperative CT angiography
+- Intraoperative fluorescein angiography
+- **Inspecting the spleen's colour and quantifying areas of clear demarcation**
+
+*Explanation: Upon completion of the resection, assess adequacy of splenic perfusion by inspecting the spleen's colour and quantifying areas of clear demarcation.*
+
+---
+
+**70. In the Warshaw technique, localized splenic infarction is considered tolerable if it involves what proportion of the spleen surface?**
+
+- Less than one-quarter
+- **Less than half**
+- Less than two-thirds
+- Less than three-quarters
+
+*Explanation: Localized infarction is tolerable if it involves less than half the spleen surface.*
+
+---
+
+**71. In a series of 158 patients over 23 years using the Warshaw technique, what percentage required reoperation for splenectomy?**
+
+- 0.5%
+- **1.9%**
+- 3.2%
+- 5.1%
+
+*Explanation: In a series of 158 patients over 23 years using the Warshaw technique, only 1.9% required reoperation for splenectomy.*
+
+---
+
+**72. What were the long-term adverse events observed in patients who underwent the Warshaw technique over 23 years?**
+
+- Significant rates of perigastric varices requiring treatment
+- Splenic abscess formation in 5% of patients
+- Persistent postoperative splenic infarction in majority
+- **No clinically relevant long-term adverse events**
+
+*Explanation: In the 158-patient series over 23 years, there were no clinically relevant long-term adverse events observed.*
+
+---
+
+**73. How does laparoscopic central pancreatectomy compare with laparoscopic distal pancreatectomy in the literature?**
+
+- Better described and more frequently performed
+- **Less frequently performed and less well-described**
+- Equally described and performed
+- More frequently performed but less well-described
+
+*Explanation: Laparoscopic central pancreatectomy is less frequently performed and less well-described in the literature compared with laparoscopic distal pancreatectomy.*
+
+---
+
+**74. Why is central pancreatectomy more technically challenging than distal pancreatectomy?**
+
+- It requires a more complex resection plane
+- It requires management of more vascular structures
+- It is associated with higher rates of conversion
+- **It requires reconstruction of the pancreatic duct**
+
+*Explanation: Central pancreatectomy requires reconstruction of the pancreatic duct, which is more technically challenging than the resection without reconstruction of a distal pancreatectomy.*
+
+---
+
+**75. For laparoscopic central pancreatectomy, in what position should the patient be placed?**
+
+- Right lateral decubitus
+- Supine with arms extended
+- Modified lithotomy without leg separation
+- **Lithotomy or split legs position**
+
+*Explanation: The patient should be positioned in lithotomy or split legs, so that the surgeon may stand between the patient's legs for the reconstruction.*
+
+---
+
+**76. Why is the lithotomy or split-leg position used for laparoscopic central pancreatectomy?**
+
+- To facilitate trocar placement
+- To improve exposure of the retroperitoneum
+- To allow the assistant to work from the right side
+- **So that the surgeon may stand between the patient's legs for the reconstruction**
+
+*Explanation: The patient should be positioned in lithotomy or split legs, so that the surgeon may stand between the patient's legs for the reconstruction.*
+
+---
+
+**77. What device may be used to improve exposure during laparoscopic central pancreatectomy?**
+
+- Nathanson liver retractor
+- **Laparoscopic fixed liver retractor**
+- Fan retractor
+- Hand-held laparoscopic grasper
+
+*Explanation: A laparoscopic fixed liver retractor may be used to improve exposure during laparoscopic central pancreatectomy.*
+
+---
+
+**78. During central pancreatectomy, what structure is developed medially to expose the confluence of the SMV and splenic vein?**
+
+- Suprapancreatic window
+- Infrapancreatic window
+- Splenic vein tunnel
+- **Retropancreatic window**
+
+*Explanation: Develop a retropancreatic window to expose the confluence of the SMV and splenic vein.*
+
+---
+
+**79. What is placed through the retropancreatic tunnel to aid in retraction during laparoscopic central pancreatectomy?**
+
+- Penrose drain
+- Vessel loop
+- **Umbilical tape**
+- Silicone drain
+
+*Explanation: Place an umbilical tape around the pancreas through the retropancreatic tunnel to aid in retraction.*
+
+---
+
+**80. Which arterial structures must be identified and preserved during laparoscopic central pancreatectomy?**
+
+- Splenic artery and superior mesenteric artery
+- Left gastric and splenic arteries
+- Celiac trunk and superior mesenteric artery
+- **Common hepatic and gastroduodenal artery**
+
+*Explanation: Identify and preserve the common hepatic and gastroduodenal artery during laparoscopic central pancreatectomy.*
+
+---
+
+**81. With what instrument is the medial transection of the pancreas performed in central pancreatectomy?**
+
+- Energy device
+- Scissors
+- **Stapler**
+- Ultrasonic dissector
+
+*Explanation: Perform the medial transection of the pancreas with a stapler in laparoscopic central pancreatectomy.*
+
+---
+
+**82. What are the options for reconstruction after laparoscopic central pancreatectomy?**
+
+- Pancreaticojejunostomy or hepaticojejunostomy
+- Pancreaticogastrostomy or choledochojejunostomy
+- Whipple reconstruction or pancreatic-enteric bypass
+- **Laparoscopic pancreaticojejunostomy or pancreaticogastrostomy**
+
+*Explanation: The options for reconstruction include a laparoscopic pancreaticojejunostomy or pancreaticogastrostomy.*
+
+---
+
+**83. When may pancreaticogastrostomy be necessary in laparoscopic central pancreatectomy?**
+
+- When the patient has a history of prior gastric surgery
+- When the Roux limb cannot be created
+- When there is concern for fistula formation
+- **When the main pancreatic duct is very small or not identified**
+
+*Explanation: Pancreaticogastrostomy is technically simpler to perform and may be necessary when the main pancreatic duct is very small or not identified.*
+
+---
+
+**84. The laparoscopic Blumgart pancreaticojejunostomy is inspired by which open technique?**
+
+- Cattell-Braasch pancreaticojejunostomy
+- Longmire pancreatic anastomosis
+- Frey pancreaticojejunostomy
+- **Open Blumgart pancreaticojejunostomy**
+
+*Explanation: This technique is inspired by the open Blumgart pancreaticojejunostomy, with modifications to facilitate its execution within the constraints of laparoscopy.*
+
+---
+
+**85. What is the goal of the Blumgart-style pancreaticojejunostomy?**
+
+- Create a side-to-side anastomosis between the duct and jejunum
+- Perform an end-to-end anastomosis
+- **Create an invagination within the small bowel that encapsulates the remnant pancreas with a duct-to-mucosa anastomosis on the antimesenteric side of the bowel**
+- Perform a duct-to-mucosa anastomosis without invagination
+
+*Explanation: The goal of the Blumgart style pancreaticojejunostomy is to create an invagination within the small bowel that encapsulates the remnant pancreas with a duct-to-mucosa anastomosis located on the antimesenteric side of the bowel.*
+
+---
+
+**86. In which fashion is the Roux-en-Y jejunal limb brought up to the pancreatic remnant in laparoscopic Blumgart pancreaticojejunostomy?**
+
+- Antecolic, to the left of middle colic vessels
+- Retrocolic, to the left of middle colic vessels
+- Antecolic, to the right of middle colic vessels
+- **Retrocolic, to the right of the middle colic vessels**
+
+*Explanation: Develop a Roux-en-Y jejunal limb and bring it up to the pancreatic remnant in a retrocolic fashion, to the right of the middle colic vessels.*
+
+---
+
+**87. What is the first suture placed in the laparoscopic Blumgart pancreaticojejunostomy?**
+
+- A duct-to-mucosa anastomotic suture
+- A seromuscular-to-seromuscular suture
+- **An interrupted 3-0 braided absorbable transpancreatic suture through the full thickness of the pancreas to the seromuscular layer of the antimesenteric jejunum, parallel to the long axis of the jejunum**
+- A full-thickness jejunal suture to the pancreatic capsule
+
+*Explanation: To begin, place an interrupted 3-0 braided absorbable transpancreatic suture through the full thickness of the pancreas to the seromuscular layer of the antimesenteric jejunum, parallel to the long axis of the jejunum.*
+
+---
+
+**88. Why are full-thickness sutures through the pancreas used in the Blumgart pancreaticojejunostomy?**
+
+- To facilitate duct visualization
+- To provide hemostasis at the pancreatic cut edge
+- To simplify the technical steps of the anastomosis
+- **To prevent tearing of the pancreas and relieve tension on the duct-to-mucosa anastomosis**
+
+*Explanation: Full-thickness suture through the pancreas prevents tearing of the pancreas and relieves tension on the duct-to-mucosa anastomosis.*
+
+---
+
+**89. What is the "turning the corner" stitch in the laparoscopic Blumgart pancreaticojejunostomy?**
+
+- A horizontal mattress suture at the pancreatic duct
+- A running suture along the anterior wall of the anastomosis
+- **An additional seromuscular jejunal stitch placed perpendicular to the long axis of the bowel to buttress the corner of the pancreas gland to the small bowel serosa**
+- A figure-of-eight suture to secure the anastomosis ends
+
+*Explanation: Place an additional seromuscular jejunal stitch perpendicular to the long axis of the bowel to "turn the corner." This helps buttress the corner of the pancreas gland to the small bowel serosa, further securing the outer layer of the anastomosis.*
+
+---
+
+**90. In what direction are additional transpancreatic sutures placed prior to the duct-to-mucosa anastomosis in the laparoscopic Blumgart technique?**
+
+- Lateral to medial
+- Caudad to cranial
+- **Cranial to caudad**
+- Medial to lateral
+
+*Explanation: Proceed with placement of additional transpancreatic sutures, securing the pancreas to the jejunum, from cranial to caudad, until the level of the pancreatic duct.*
+
+---
+
+**91. How does the laparoscopic Blumgart technique differ from the open technique regarding the sequence of posterior wall sutures and the duct-to-mucosa anastomosis?**
+
+- In the laparoscopic technique, posterior wall sutures are placed after the duct anastomosis
+- Both open and laparoscopic techniques use identical sequencing
+- The duct anastomosis is performed at the end in both techniques
+- **In the open technique, all posterior wall sutures are placed first; in the laparoscopic technique, the duct-to-mucosa anastomosis is completed before placement of additional transpancreatic sutures**
+
+*Explanation: In an open procedure, all sutures of the posterior wall would be placed first, followed by the duct-to-mucosa anastomosis. Because of limited exposure and dexterity in a laparoscopic field, the duct-to-mucosa anastomosis is completed before placement of additional transpancreatic sutures.*
+
+---
+
+**92. Where is the enterotomy created in the jejunum for the duct-to-mucosa anastomosis in the Blumgart technique?**
+
+- On the mesenteric side of the bowel, at the level of the pancreatic duct
+- On the antimesenteric side, proximal to the pancreatic duct
+- **Directly opposite to the pancreatic duct**
+- At the apex of the Roux limb
+
+*Explanation: Create an enterotomy in the jejunum, directly opposite to the pancreatic duct.*
+
+---
+
+**93. The duct-to-mucosa anastomosis in the Blumgart technique incorporates which structures?**
+
+- Pancreatic duct and jejunal mucosa only
+- Pancreatic parenchyma and seromuscular jejunum only
+- **Pancreatic duct, parenchyma, and full-thickness of the jejunum**
+- Pancreatic capsule and full-thickness of the jejunum
+
+*Explanation: The duct-to-mucosa anastomosis incorporates the pancreatic duct, parenchyma, and full-thickness of the jejunum.*
+
+---
+
+**94. How many interrupted sutures does the duct-to-mucosa anastomosis typically require in the laparoscopic Blumgart technique?**
+
+- Two to three
+- **Four to six**
+- Seven to eight
+- Eight to ten
+
+*Explanation: The anastomosis typically requires four to six interrupted sutures, placed at 3, 6, 9, and 12 o'clock positions.*
+
+---
+
+**95. What suture material is used for the duct-to-mucosa anastomosis in the laparoscopic Blumgart technique?**
+
+- 3-0 braided absorbable suture
+- 4-0 monofilament suture
+- 3-0 monofilament suture
+- **5-0 monofilament suture**
+
+*Explanation: The anastomosis uses a 5-0 monofilament suture.*
+
+---
+
+**96. In the duct-to-mucosa anastomosis suturing technique, in what direction is the suture driven at the 3, 6, and 9 o'clock positions on the duct side?**
+
+- Out-to-in on the duct
+- **In-to-out on the duct**
+- Horizontal mattress through the duct
+- Running suture from the duct
+
+*Explanation: Drive the suture from in-to-out on the duct, and out-to-in on the jejunum at the 3, 6, and 9 o'clock positions.*
+
+---
+
+**97. How is each suture managed as the duct-to-mucosa anastomosis progresses through the clock positions?**
+
+- Held with a clamp until all are placed, then tied simultaneously
+- Left untied until the anterior wall is completed
+- **Tied and cut as progressing through the anastomosis**
+- Placed as a running suture
+
+*Explanation: Tie and cut each suture as progressing through the duct-to-mucosa anastomosis.*
+
+---
+
+**98. At the completion of the Blumgart pancreaticojejunostomy, what happens to the seromuscular edge of the jejunum?**
+
+- It is excised to reduce bulk
+- It is sutured to the pancreatic capsule anteriorly
+- It is incorporated into the duct anastomosis
+- **It is rolled over onto the pancreatic parenchyma and the anterior wall is completed with transpancreatic interrupted sutures**
+
+*Explanation: The seromuscular edge of the jejunum is rolled over onto the pancreatic parenchyma and the anterior wall is completed with the transpancreatic interrupted sutures, using the saved needles from the posterior wall.*
+
+---
+
+**99. During laparoscopic pancreaticogastrostomy, where are the transpancreatic stay sutures first placed?**
+
+- Along the superior border only
+- Along the inferior border only
+- Along the cut edge of the pancreas
+- **Along the superior and inferior borders of the pancreas**
+
+*Explanation: Place transpancreatic stay sutures along the superior and inferior borders of the pancreas.*
+
+---
+
+**100. What type of gastrotomy is first created during laparoscopic pancreaticogastrostomy?**
+
+- Anterior gastrotomy with energy device
+- Lateral gastrotomy with linear stapler
+- **Posterior gastrotomy with an energy device**
+- Anterior gastrotomy with scissors
+
+*Explanation: Create a posterior gastrotomy with an energy device.*
+
+---
+
+**101. What suture is placed around the posterior gastrotomy during laparoscopic pancreaticogastrostomy?**
+
+- Simple interrupted suture
+- Figure-of-eight suture
+- **Purse-string full-thickness suture**
+- Horizontal mattress suture
+
+*Explanation: Place a purse-string full-thickness suture around the entire gastrotomy.*
+
+---
+
+**102. How is the pancreatic remnant invaginated into the stomach during laparoscopic pancreaticogastrostomy?**
+
+- By pushing it through the posterior gastrotomy directly
+- By suturing it to the gastric mucosa
+- **By introducing a grasping instrument through the anterior then posterior gastrotomies, grasping and pulling the transpancreatic stay sutures**
+- By using a circular stapler through the anterior gastrotomy
+
+*Explanation: Introduce a grasping instrument through the anterior then posterior gastrotomies, then grasp and pull the transpancreatic stay sutures to invaginate the pancreas remnant into the stomach.*
+
+---
+
+**103. After the pancreas is suitably pulled through in laparoscopic pancreaticogastrostomy, what is done with the previously placed purse-string?**
+
+- It is removed and replaced with interrupted sutures
+- It is left loose to prevent ischemia
+- **It is tied down tightly**
+- It is tied loosely to allow drainage
+
+*Explanation: Once the pancreas is suitably pulled through, tie down the previously placed purse-string tightly.*
+
+---
+
+**104. How many additional transpancreatic sutures are placed to further secure the pancreas within the stomach in laparoscopic pancreaticogastrostomy?**
+
+- One
+- **Two**
+- Three
+- Four
+
+*Explanation: Two transpancreatic sutures can be placed to further secure the pancreas within the stomach.*
+
+---
+
+**105. What structure must be avoided when placing the additional transpancreatic sutures during laparoscopic pancreaticogastrostomy?**
+
+- Splenic artery
+- Left gastric vein
+- **Pancreatic duct**
+- Common hepatic artery
+
+*Explanation: Two transpancreatic sutures can be placed to further secure the pancreas within the stomach, taking care to avoid the pancreatic duct.*
+
+---
+
+**106. How is the anterior gastrotomy closed at the end of laparoscopic pancreaticogastrostomy?**
+
+- With a purse-string suture
+- With a circular stapler
+- With a running locked suture only
+- **In the usual fashion**
+
+*Explanation: Close the anterior gastrostomy in the usual fashion.*
+
+---
+
+**107. What potential advantage does a robotic approach offer over the laparoscopic approach in distal and central pancreatectomy?**
+
+- Shorter operative time
+- Lower cost
+- Better visualization of small vessels
+- **Improved dexterity**
+
+*Explanation: A robotic approach may provide improved dexterity compared with the laparoscopic approach.*
+
+---
+
+**108. For which procedure is the improved dexterity of the robotic approach considered most beneficial?**
+
+- Distal pancreatectomy with splenectomy
+- Distal pancreatectomy with splenic preservation
+- Laparoscopic distal pancreatectomy at the neck
+- **Central pancreatectomy, which requires a more technically challenging reconstruction**
+
+*Explanation: This may be more beneficial for central pancreatectomy, which requires a more technically challenging reconstruction.*
+
+---
+
+**109. What is the basis for choosing between robotic and laparoscopic approaches to distal and central pancreatectomy?**
+
+- Patient age and comorbidities
+- Lesion size and location
+- **Surgeon experience and resources**
+- Institutional protocol
+
+*Explanation: The choice of approach should be based on surgeon experience and resources.*
+
+---
+
+**110. Which anatomic structure serves as a landmark for the extent of medial mobilization along the inferior border of the pancreas?**
+
+- Left renal vein
+- Inferior vena cava
+- Aorta
+- **SMV at its confluence with the splenic vein**
+
+*Explanation: Vascular structures, including the inferior mesenteric vein and the SMV at its confluence with the splenic vein, are useful landmarks that are encountered along the inferior border of the pancreas.*
+
+---
+
+**111. What is the purpose of direct visualization of the lesion prior to pancreatic transection during distal pancreatectomy?**
+
+- To confirm clear margins intraoperatively
+- To assess for vascular invasion
+- To plan the type of anastomosis
+- **To guide the choice of site for pancreatic transection**
+
+*Explanation: Direct visualization of the lesion is important to guide the choice of site for pancreatic transection.*
+
+---
+
+**112. In the medial approach to laparoscopic distal pancreatectomy, what happens to the spleen if splenectomy is planned?**
+
+- The spleen is removed before pancreatic transection
+- **The spleen may be medialized en-bloc with the pancreas by dividing its ligamentous attachments**
+- The spleen is preserved regardless of operative plan
+- The spleen is left in situ until after pancreatic transection
+
+*Explanation: The spleen may be medialized en-bloc with the pancreas by dividing its ligamentous attachments.*
+
+---
+
+**113. What is the appropriate action when re-insufflating after closure of the fascial extraction site in laparoscopic distal pancreatectomy?**
+
+- Inspect the mesenteric defect
+- Inspect all port sites
+- Confirm absence of bowel injury
+- **Inspect the pancreatic staple line to ensure adequate hemostasis**
+
+*Explanation: Close the fascia of the extraction site then re-insufflate. Inspect the pancreatic staple line to ensure adequate hemostasis.*
+
+---
+
+**114. If a hematoma is found at the pancreatic staple line on reinspection, what should be done?**
+
+- Convert to open surgery
+- Apply topical hemostatic agents only
+- Ignore if small
+- **Reinforce the staple line with clips or sutures**
+
+*Explanation: Reinforce the staple line with clips or sutures if needed for any hematoma.*
+
+---
+
+**115. Which port size is placed at the xyphoid process for laparoscopic central pancreatectomy?**
+
+- 5 mm
+- 10 mm
+- **12 mm**
+- 15 mm
+
+*Explanation: According to Figure 127B.6, a 12-mm port is placed at the xyphoid process for laparoscopic central pancreatectomy.*
+
+---
+
+**116. Where is the optional port placed for laparoscopic central pancreatectomy according to the port placement diagram?**
+
+- Right axillary line
+- Xyphoid process
+- Umbilicus
+- **Left mid-clavicular line area (optional 5 mm)**
+
+*Explanation: According to Figure 127B.6, an optional 5-mm port is placed in the left mid-clavicular area for laparoscopic central pancreatectomy.*
+
+---
+
+**117. What is the purpose of the duct-to-mucosa anastomosis in reconstruction after central pancreatectomy?**
+
+- To control postoperative pain
+- To prevent postoperative bleeding
+- To provide drainage of the pancreatic remnant
+- **To establish continuity between the main pancreatic duct of the distal pancreas and the alimentary tract**
+
+*Explanation: Anastomosis must be performed to establish continuity between the main pancreatic duct of the distal pancreas and the alimentary tract.*
+
+---
+
+**118. What comparative studies exist on the optimal reconstruction after laparoscopic central pancreatectomy?**
+
+- Multiple prospective randomized controlled trials
+- One large retrospective cohort study
+- One prospective cohort study
+- **No comparative studies exist due to its scarce performance**
+
+*Explanation: Likely because of its scarce performance, no comparative studies exist on the optimal reconstruction after laparoscopic central pancreatectomy.*
+
+---
+
+**119. During the laparoscopic Blumgart technique, in which direction is the suture driven at the 12 o'clock position on the duct side?**
+
+- In-to-out on the duct
+- Horizontal through the duct
+- Running from the duct
+- **Out-to-in on the duct**
+
+*Explanation: Drive the suture from out-to-in on the duct and in-to-out on the jejunum for the final 12 o'clock position.*
+
+---
+
+**120. What is done with the needles from the posterior wall transpancreatic sutures in the laparoscopic Blumgart technique?**
+
+- They are discarded after the posterior wall is completed
+- They are used for the duct-to-mucosa sutures
+- They are used for skin closure
+- **They are saved and reused for the anterior wall completion**
+
+*Explanation: The anterior wall is completed with the transpancreatic interrupted sutures, using the saved needles from the posterior wall.*
+
+---
+
+**121. In the context of the lateral approach during spleen-preserving laparoscopic distal pancreatectomy, small branches of the splenic vessels to the pancreas are controlled with what instrument?**
+
+- Hemostatic clips
+- Vessel loops and ligation
+- Laparoscopic stapler
+- **An energy device**
+
+*Explanation: Dissect the pancreas off of the splenic vessels, dissecting from lateral to medial, dividing small branches of the splenic vessels to the pancreas with an energy device.*
+
+---
+
+**122. What is the recommended action at the completion of laparoscopic distal pancreatectomy regarding hemostasis at the staple line?**
+
+- Always place a drain adjacent to the stump
+- Apply fibrin glue routinely
+- No specific action is required
+- **Inspect the pancreatic staple line to ensure adequate hemostasis and reinforce if needed**
+
+*Explanation: Inspect the pancreatic staple line to ensure adequate hemostasis. Reinforce the staple line with clips or sutures if needed for any hematoma.*
+
+---
+
+**123. Which vascular structure must be carefully identified before dividing the splenic artery to avoid inadvertent injury during laparoscopic distal pancreatectomy?**
+
+- Left gastric artery
+- Superior mesenteric artery
+- Inferior mesenteric artery
+- **Hepatic artery**
+
+*Explanation: This landmarking ensures the hepatic artery is protected when dividing the splenic artery and vein.*
+
+---
+
+**124. In the context of splenectomy during the lateral approach, in which direction is the dissection performed to develop a plane between Gerota's fascia and the posterior surface of the pancreas?**
+
+- From medial to lateral
+- From cephalad to caudad
+- From posterior to anterior
+- **From lateral to medial**
+
+*Explanation: When performing splenectomy, elevate the pancreas with the spleen, posterior to the splenic vessels, dissecting from lateral to medial, to develop a plane between Gerota's fascia and the posterior surface of the pancreas.*
+
+---
+
+**125. What is the rationale for using gravity in patient positioning during laparoscopic distal pancreatectomy?**
+
+- To improve instrument ergonomics
+- To decrease bleeding during mobilization
+- To increase pneumoperitoneum effectiveness
+- **To aid in retraction to facilitate exposure of the pancreas body and tail**
+
+*Explanation: In these positions, gravity aids in retraction to facilitate exposure of the pancreas body and tail.*
+
+---
+
+**126. Which of the following best describes the relationship between the choice of approach (medial vs. lateral) and anatomic factors in laparoscopic distal pancreatectomy?**
+
+- The lateral approach is always superior for all cases
+- The medial approach should always be used for lesions near the neck
+- The choice is made preoperatively based on CT findings alone
+- **The choice of approach may depend on the lesion or anatomic factors intraoperatively, and techniques can be used in conjunction**
+
+*Explanation: The choice of approach may depend on the lesion or anatomic factors intraoperatively. The techniques described can be used in conjunction with one another to facilitate safe and optimal resection.*
+
+---
+
+**127. What approach to the splenic vessels is taken when the transection site is to the left of the celiac axis versus at the neck?**
+
+- Always separate ligation regardless of site
+- En-bloc for both sites
+- **En-bloc with the pancreas if left of the celiac axis; separate encircling of the pancreas if at the neck**
+- Separate ligation if left of celiac axis; en-bloc if at the neck
+
+*Explanation: If the transection site is to the left of the celiac axis, splenic artery and vein can be transected en-bloc with the pancreas. If the transection site is at the neck, the tunnel must be developed between the pancreas and SMV–portal vein trunk, and the pancreas should be encircled independently, separate from any vessels.*
+
+---
+
+**128. What is the purpose of morcellating the spleen during specimen extraction in laparoscopic distal pancreatectomy?**
+
+- To reduce blood loss from the spleen
+- To allow histological assessment of the entire spleen
+- **To facilitate extraction through a small incision**
+- To prevent port site implantation of tumor cells
+
+*Explanation: The spleen is morcellated with a finger fracture technique or using ring or sponge forceps at its hilum to facilitate extraction through a small incision.*
+
+---
+
+**129. What is the significance of the inferior mesenteric vein during mobilization of the inferior border of the pancreas?**
+
+- It must always be ligated before pancreatic transection
+- It identifies the level of the celiac axis
+- It marks the site of pancreatic transection
+- **It is a useful vascular landmark encountered along the inferior border of the pancreas during medial mobilization**
+
+*Explanation: Vascular structures, including the inferior mesenteric vein and the SMV at its confluence with the splenic vein, are useful landmarks that are encountered along the inferior border of the pancreas.*
+
+---
+
+**130. When performing the stomach roll-up technique, what structure is divided as the first step?**
+
+- Round ligament
+- Short gastric vessels
+- **Falciform ligament**
+- Gastrohepatic ligament
+
+*Explanation: In this technique, the falciform is divided and an Endoloop is used to ligate the round ligament.*
+
+---
+
+**131. What is the comparative data situation regarding robotic versus laparoscopic approaches for central pancreatectomy reconstruction?**
+
+- Robotic is clearly superior based on multiple randomized trials
+- Laparoscopic has been shown superior in retrospective studies
+- Both have been shown equivalent in prospective cohort studies
+- **Comparative data is lacking**
+
+*Explanation: A robotic approach may provide improved dexterity, which may be more beneficial for central pancreatectomy, however comparative data is lacking.*
+
+---
+
+**132. What is the role of laparoscopic intraoperative ultrasound beyond identifying occult lesions?**
+
+- To guide port placement
+- To assess lymph node involvement
+- To identify vascular anomalies preoperatively
+- **To confirm margins of a visible lesion before pancreatic transection**
+
+*Explanation: Ultrasound can also be used to confirm margins of a visible lesion before pancreatic transection.*
+
+---
+
+**133. The pancreaticogastrostomy is considered technically simpler than pancreaticojejunostomy for which specific reason?**
+
+- It requires fewer sutures
+- It avoids the need for a Roux limb
+- It provides better blood supply to the anastomosis
+- **It may be necessary and simpler when the main pancreatic duct is very small or not identified**
+
+*Explanation: Pancreaticogastrostomy is technically simpler to perform and may be necessary when the main pancreatic duct is very small or not identified.*
+
+---
+
+**134. In the laparoscopic Blumgart pancreaticojejunostomy, transpancreatic sutures placed after the duct-to-mucosa anastomosis serve which purpose?**
+
+- To provide hemostasis at the pancreatic stump
+- To close the enterotomy
+- **To pull the small bowel posterior to the pancreas, partially creating the small bowel invagination**
+- To anchor the Roux limb to the mesentery
+
+*Explanation: Place additional transpancreatic sutures to pull the small bowel posterior to the pancreas, partially creating the small bowel invagination.*
+
+---
+
+**135. During laparoscopic central pancreatectomy, after medial transection of the pancreas, what is the next step involving the distal pancreas?**
+
+- Immediately perform reconstruction
+- Perform duct-to-mucosa anastomosis
+- Close the staple line
+- **Retract the distal pancreas anteriorly and separate it from the splenic vessels with an energy device for the lateral extent necessary to obtain an adequate margin**
+
+*Explanation: Retract the distal pancreas anteriorly and separate it from the splenic vessels with an energy device for the lateral extent necessary to obtain an adequate margin.*
+
+---
+
+**136. In the laparoscopic Blumgart technique, the "turning the corner" stitch is applied at what locations on the anterior wall?**
+
+- At the midpoint of the anterior wall only
+- At the 3 and 9 o'clock positions only
+- At every third suture of the anterior wall
+- **At the caudad and cranial most stitches of the anterior wall**
+
+*Explanation: The "turning the corner" stitches are again performed at the caudad and cranial most stitches of the anterior wall.*
+
+---
+
+**137. When would additional mobilization of the distal pancreas be required in laparoscopic central pancreatectomy?**
+
+- To facilitate specimen extraction
+- To improve visualization of the duct
+- To assess for vascular involvement
+- **To relieve tension on the pancreatic remnant for reconstruction**
+
+*Explanation: Additional mobilization of the distal pancreas may be required to relieve tension on the pancreatic remnant for reconstruction.*
+
+---
+
+**138. In laparoscopic central pancreatectomy, how is the distal pancreas divided at the end of specimen removal?**
+
+- With a laparoscopic stapler
+- With a linear stapler
+- With ultrasonic shears only
+- **With an energy device or electrocautery**
+
+*Explanation: Divide the distal pancreas with an energy device or electrocautery.*
+
+---
+
+**139. What is the peritoneal incision step during central pancreatectomy that mirrors initial distal pancreatectomy exposure?**
+
+- Entry into the lesser sac via the gastrocolic ligament only
+- Division of the short gastric vessels
+- Mobilization of the right colon
+- **Mobilization of the splenic flexure, division of the gastrocolic ligament, and dissection along the inferior border of the pancreas from lateral to medial**
+
+*Explanation: Initial exposure and mobilization of the pancreas is similar to that previously described for a laparoscopic distal pancreatectomy, with mobilization of the splenic flexure, division of the gastrocolic ligament, and dissection along the inferior border of the pancreas from lateral to medial.*
+
+---
+
+**140. A reinforced staple line may be selected for what type of transection in laparoscopic distal pancreatectomy?**
+
+- Vascular transection
+- Splenic transection
+- Combined pancreatic and vascular transection
+- **Parenchymal transection**
+
+*Explanation: A reinforced staple line may be selected for parenchymal transection. If there are concerns about the seal of the staple line, buttressing with a synthetic sealant patch or oversewing with transpancreatic sutures may also be considered.*

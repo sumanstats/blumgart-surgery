@@ -1,0 +1,1763 @@
+# 49 Tumors of the Gallbladder
+
+Generated with Claude. 
+
+
+**1. What is the approximate prevalence of gallbladder polyps found on abdominal ultrasound examinations?**
+
+- 1%–2%
+- **3%–7%**
+- 10%–15%
+- 20%–25%
+
+*Explanation: Gallbladder polyps are found in approximately 3% to 7% of abdominal ultrasound examinations and 2% to 12% of cholecystectomy specimens.*
+
+---
+
+**2. What proportion of polypoid lesions of the gallbladder are cholesterol polyps?**
+
+- 10%–20%
+- 30%–40%
+- **50%–80%**
+- 85%–95%
+
+*Explanation: The majority (50%–80%) of polypoid lesions of the gallbladder are cholesterol polyps, which carry no malignant potential.*
+
+---
+
+**3. In which demographic are cholesterol polyps most commonly found?**
+
+- Men aged 20–30 years
+- Men aged 50–60 years
+- **Women aged 40–50 years**
+- Women aged 60–70 years
+
+*Explanation: Cholesterol polyps are most commonly found in women aged 40 to 50 years during evaluation for epigastric or right upper quadrant abdominal pain.*
+
+---
+
+**4. What is the malignant potential of cholesterol polyps?**
+
+- High malignant potential
+- Moderate malignant potential
+- Low but non-zero malignant potential
+- **No malignant potential**
+
+*Explanation: Cholesterol polyps carry no malignant potential and are nonneoplastic collections of lipid-laden macrophages covered in normal gallbladder epithelium.*
+
+---
+
+**5. How do cholesterol polyps typically appear on ultrasound?**
+
+- Hypoechoic with posterior shadowing
+- Heterogeneous with internal vascularity
+- **Brightly echogenic without shadowing**
+- Isoechoic with gallbladder wall
+
+*Explanation: Radiographically, cholesterol polyps are brightly echogenic without shadowing on ultrasound.*
+
+---
+
+**6. What percentage of gallbladder polyps are adenomatous polyps (adenomas)?**
+
+- 5%
+- **15%**
+- 30%
+- 50%
+
+*Explanation: Adenomatous polyps, or adenomas, are neoplastic lesions derived from the gallbladder epithelium that make up approximately 15% of gallbladder polyps.*
+
+---
+
+**7. What is the normal gallbladder wall thickness in the setting of a benign adenoma?**
+
+- Less than 1 mm
+- Less than 2 mm
+- **Less than 3 mm**
+- Less than 5 mm
+
+*Explanation: The adjacent gallbladder wall maintains a normal thickness of less than 3 mm in the case of a benign adenoma.*
+
+---
+
+**8. According to SAGES guidelines, what is the recommended management for asymptomatic gallbladder polyps less than 5 mm in size?**
+
+- Immediate cholecystectomy
+- Endoscopic removal
+- **Watchful waiting**
+- Core needle biopsy
+
+*Explanation: SAGES guidelines recommend watchful waiting for asymptomatic polyps less than 5 mm in size.*
+
+---
+
+**9. What polyp size generally warrants cholecystectomy based on classical guidelines?**
+
+- Greater than 5 mm
+- Greater than 8 mm
+- **Greater than 10 mm**
+- Greater than 15 mm
+
+*Explanation: Generally speaking, polyps greater than 10 mm in size should be removed with a cholecystectomy, as this size has been cited as the most reliable indication of malignant potential.*
+
+---
+
+**10. In a study of over 2000 patients by Li and colleagues, what proportion of patients with gallbladder cancer had lesions greater than 10 mm?**
+
+- 50%
+- 70%
+- **90%**
+- 100%
+
+*Explanation: Li and colleagues found that 90% of patients with gallbladder cancer had lesions greater than 10 mm.*
+
+---
+
+**11. According to Zielinski and colleagues, what was the minimum polyp size at which all gallbladder cancers occurred?**
+
+- 3 mm
+- 4 mm
+- **6 mm**
+- 10 mm
+
+*Explanation: Zielinski and colleagues found that 100% of gallbladder cancers occurred in patients with polyps at least 6 mm in size.*
+
+---
+
+**12. Which of the following is an additional characteristic independently associated with malignancy in polypoid gallbladder lesions?**
+
+- Polyp multiplicity
+- Age under 30 years
+- **History of primary sclerosing cholangitis**
+- Female sex
+
+*Explanation: Additional characteristics independently associated with malignancy in polypoid lesions included a history of primary sclerosing cholangitis, local gallbladder wall invasion, and polyp vascularity.*
+
+---
+
+**13. What is the prevalence of adenomyomatosis in cholecystectomy specimens?**
+
+- 1%–2%
+- 3%–5%
+- **8%–10%**
+- 15%–20%
+
+*Explanation: Adenomyomatosis is present in 8% to 10% of cholecystectomy specimens and is associated with chronic inflammation of the gallbladder.*
+
+---
+
+**14. Which variant of adenomyomatosis is the most common?**
+
+- Localized (fundal)
+- Diffuse
+- **Segmental**
+- Multifocal
+
+*Explanation: Adenomyomatosis can present in three variants: localized (30%), segmental (>60%), and diffuse (<5%). Segmental is the most common.*
+
+---
+
+**15. Adenomyomatosis is responsible for approximately what fraction of cases of gallbladder wall thickening?**
+
+- One-tenth
+- One-fifth
+- **One-quarter**
+- One-half
+
+*Explanation: Adenomyomatosis is responsible for approximately one-quarter of cases of gallbladder wall thickening.*
+
+---
+
+**16. What is the characteristic ultrasound finding of adenomyomatosis?**
+
+- Posterior shadowing
+- Ring-down artifact
+- **Comet-tail artifacts**
+- Twinkling artifact
+
+*Explanation: Adenomyomatosis is identified on abdominal ultrasound by the characteristic comet-tail artifacts, resulting from acoustic reverberations from calcium deposits trapped in the Rokitansky-Aschoff sinuses.*
+
+---
+
+**17. What are the intramural cystic spaces in adenomyomatosis called?**
+
+- Brunner glands
+- Crypts of Lieberkühn
+- **Rokitansky-Aschoff sinuses**
+- Aschoff-Tawara sinuses
+
+*Explanation: Adenomyomatosis is characterized by epithelial and smooth muscle proliferation, causing epithelial invaginations or Rokitansky-Aschoff sinuses that form cystic spaces within the gallbladder wall.*
+
+---
+
+**18. Is adenomyomatosis itself considered a malignant precursor?**
+
+- Yes, it has high malignant potential
+- Yes, but only the segmental variant
+- **No, it is considered a benign lesion**
+- No, but it requires immediate cholecystectomy in all cases
+
+*Explanation: Although dysplasia, carcinoma in situ, and invasive adenocarcinoma can form within its epithelium, adenomyomatosis itself is considered a benign lesion and not a malignant precursor.*
+
+---
+
+**19. What percentage of granular cell tumors occur in the biliary tract?**
+
+- 0.1%
+- **1%**
+- 5%
+- 10%
+
+*Explanation: One percent of granular cell tumors occur in the biliary tract, and 4% of these biliary granular cell tumors occur in the gallbladder.*
+
+---
+
+**20. What is the cell of origin of granular cell tumors histologically?**
+
+- Hepatocyte
+- Bile duct epithelium
+- Smooth muscle cell
+- **Schwann cell**
+
+*Explanation: Histologically, granular cell tumors are thought to be of Schwann cell origin and are S-100 positive on immunohistochemical staining.*
+
+---
+
+**21. What is the average age of presentation of granular cell tumors in the gallbladder?**
+
+- 18 years
+- 25 years
+- **34 years**
+- 55 years
+
+*Explanation: The average age of presentation of granular cell tumors is 34 years, and the vast majority (90%) of patients are women.*
+
+---
+
+**22. In which racial/ethnic group do granular cell tumors of the gallbladder predominantly occur?**
+
+- Hispanic Americans
+- Asian Americans
+- **African Americans**
+- Native Americans
+
+*Explanation: Granular cell tumors occur predominantly in African Americans and often present with symptoms of biliary colic or acute cholecystitis.*
+
+---
+
+**23. What is the incidence of gallbladder cancer in India?**
+
+- 1–2 cases per 100,000
+- 2–4 cases per 100,000
+- 5–8 cases per 100,000
+- **10–22 cases per 100,000**
+
+*Explanation: Incidence of gallbladder cancer is highest in India (10–22 cases per 100,000), followed by South America (9–14 per 100,000).*
+
+---
+
+**24. What is the incidence of gallbladder cancer in the United States?**
+
+- Less than 0.5 per 100,000
+- **1–2 cases per 100,000**
+- 3–5 cases per 100,000
+- 5–8 cases per 100,000
+
+*Explanation: Incidence in the United States is comparatively low, with 1 to 2 cases per 100,000 persons.*
+
+---
+
+**25. What is the rank of gallbladder cancer among gastrointestinal malignancies in the United States?**
+
+- Second most common
+- Fourth most common
+- **Sixth most common**
+- Eighth most common
+
+*Explanation: Gallbladder cancer is the sixth most common gastrointestinal malignancy and the most common biliary tract malignancy in the United States.*
+
+---
+
+**26. What percentage of gallbladder cancer cases in India have associated gallstones?**
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: Although gallstones are present in 80% of cases of gallbladder cancer in India, the incidence of gallbladder cancer is higher than expected based on the prevalence of cholelithiasis.*
+
+---
+
+**27. What is the approximate increased risk of gallbladder cancer in women compared to men?**
+
+- Equal risk
+- 1.5-fold
+- 2-fold
+- **3-fold**
+
+*Explanation: There is an approximately 3-fold increased risk of gallbladder cancer in women compared with men, presumably linked to higher incidence of gallstone disease.*
+
+---
+
+**28. Which molecular mutation is more common in Japanese gallbladder cancer patients compared to those in other countries?**
+
+- CDKN2A
+- HER2/neu
+- ERBB2
+- **K-ras mutation, anomalous pancreaticobiliary junction, and TP53 mutations**
+
+*Explanation: In Japan, presence of a K-ras mutation, anomalous pancreaticobiliary junction, and deregulatory mutations in the TP53 gene are more common, which may result in the high incidence in that country.*
+
+---
+
+**29. According to Butte and colleagues, what is the most important predictor of survival in gallbladder cancer from a prognostic standpoint?**
+
+- Geographic region
+- Etiology of disease
+- Histologic subtype
+- **Disease extent at diagnosis (T-stage and lymph node involvement)**
+
+*Explanation: Despite etiologic differences, disease extent at diagnosis is the most important predictor of survival, with higher T-stage and lymph node involvement associated with decreased overall survival.*
+
+---
+
+**30. Which laboratory value has been associated with an increased risk of incidental gallbladder cancer diagnosis?**
+
+- Elevated AST
+- Elevated ALT
+- **Elevated alkaline phosphatase**
+- Elevated bilirubin
+
+*Explanation: Pitt and colleagues found that along with age over 65 years, female sex, and Asian or African American race, elevated alkaline phosphatase was associated with an increased risk of incidental gallbladder cancer diagnosis.*
+
+---
+
+**31. Which tumor markers may be elevated in gallbladder cancer and used to monitor for recurrence?**
+
+- AFP and CA 125
+- **CEA and CA19-9**
+- PSA and CA 19-9
+- CA-125 and CEA
+
+*Explanation: Both carcinoembryonic antigen (CEA) and carbonic anhydrase 19-9 (CA19-9) may be elevated in patients with gallbladder cancer and can be used to monitor for recurrence after treatment.*
+
+---
+
+**32. What is the most common ultrasound appearance of gallbladder cancer?**
+
+- Intraluminal polyp (15%–25%)
+- Irregular wall thickening (20%–30%)
+- **Mass replacing or invading the gallbladder bed (45%–60%)**
+- Diffuse wall calcification
+
+*Explanation: On ultrasound, gallbladder cancer most commonly appears as a mass replacing the gallbladder or invading the gallbladder bed (45%–60% of cases).*
+
+---
+
+**33. What is the sensitivity of standard ultrasonography in advanced gallbladder cancer?**
+
+- 50%
+- 65%
+- 75%
+- **85%**
+
+*Explanation: In cases of advanced disease, standard ultrasonography has a sensitivity of 85%; however, gallbladder cancer can also mimic intramural changes of complicated cholecystitis.*
+
+---
+
+**34. According to Liu and colleagues using CEUS, what was the washout time for malignant lesions compared to benign lesions?**
+
+- Malignant: 58.2 sec; Benign: 41.4 sec
+- **Malignant: 41.4 sec; Benign: 58.2 sec**
+- Malignant: 30.0 sec; Benign: 70.0 sec
+- Malignant: 75.0 sec; Benign: 45.0 sec
+
+*Explanation: Malignant lesions had a faster washout time of 41.4 seconds compared with 58.2 seconds in benign lesions on CEUS.*
+
+---
+
+**35. In Liu and colleagues' CEUS study, which feature had the highest specificity for gallbladder cancer?**
+
+- Gallbladder wall destruction (specificity 92.9%)
+- Heterogeneous enhancement pattern
+- **Branched or linear intralesional vessels (specificity 98%)**
+- Perfusion defects
+
+*Explanation: On multivariable analysis, branched or linear intralesional vessels had a sensitivity of 74.8% and specificity of 98%, making it the most specific CEUS predictor of gallbladder cancer.*
+
+---
+
+**36. Compared to conventional ultrasound, what accuracy did CEUS demonstrate in Zhang and colleagues' study of gallbladder lesions?**
+
+- CEUS: 80.5%; conventional US: 75.3%
+- CEUS: 88.6%; conventional US: 95.2%
+- **CEUS: 95.2%; conventional US: 88.6%**
+- CEUS: 99.1%; conventional US: 91.2%
+
+*Explanation: CEUS was found to have higher accuracy (95.2% vs. 88.6%) compared with conventional ultrasound, although the differences were not statistically significant.*
+
+---
+
+**37. What is the 3-fold purpose of cross-sectional imaging in gallbladder cancer?**
+
+- Define tumor histology, check tumor markers, assess patient fitness
+- Assess polyp size, check biliary anatomy, evaluate liver function
+- **Define local extent of disease, evaluate nodal metastases, evaluate distant metastatic disease**
+- Plan resection margins, assess vascular anatomy, guide biopsy
+
+*Explanation: The purpose of cross-sectional imaging is 3-fold: to define local extent of disease, to evaluate for nodal metastases, and to evaluate for distant metastatic disease.*
+
+---
+
+**38. What percentage of gallbladder cancer patients present with tumors amenable to resection?**
+
+- 50%–60%
+- 40%–50%
+- 30%–40%
+- **20%–30%**
+
+*Explanation: Complete resection is the only possibility for cure in gallbladder cancer, and only 20% to 30% of patients present with tumors amenable to resection.*
+
+---
+
+**39. According to Choi and colleagues, which CT finding combination had a 93.3% specificity for positive resection margin in gallbladder cancer?**
+
+- Tumor size, morphology, and portal vein involvement
+- Peritoneal side involvement and lymph node size
+- **Liver invasion, bile duct invasion, and hepatic artery involvement (two or three criteria)**
+- Gallbladder wall thickening and vascular encasement
+
+*Explanation: Liver invasion, bile duct invasion, and hepatic artery involvement were associated with a positive margin with a specificity of 93.3% when combining two or three criteria.*
+
+---
+
+**40. What was the sensitivity range for CT in identifying lymph node metastases in de Savornin Lohman's systematic review?**
+
+- 10%–50%
+- **25%–93%**
+- 59%–92%
+- 70%–95%
+
+*Explanation: The sensitivity of CT in the included studies varied widely, from 25% to 93%, while MRI ranged from 59% to 92%.*
+
+---
+
+**41. What percentage of patients' disease stage and treatment was changed by FDG-PET staging in Corvera and colleagues' study?**
+
+- 10%
+- 15%
+- **23%**
+- 35%
+
+*Explanation: The results of FDG-PET scans changed the stage and treatment of 23% of patients by identifying occult metastatic disease, rendering operative exploration unnecessary.*
+
+---
+
+**42. What was the sensitivity and specificity of FDG-PET for detecting metastatic disease in Corvera and colleagues' study?**
+
+- Sensitivity 60%, specificity 70%
+- Sensitivity 75%, specificity 80%
+- **Sensitivity 87%, specificity 89%**
+- Sensitivity 95%, specificity 90%
+
+*Explanation: The sensitivity and specificity of FDG-PET were 87% and 89%, respectively, for detecting metastatic disease, both local and distant.*
+
+---
+
+**43. What is the specificity of FDG-PET for diagnosing residual disease in the gallbladder fossa after cholecystectomy?**
+
+- 60.2%
+- 75.0%
+- **89.4%**
+- 95.0%
+
+*Explanation: FDG-PET has been shown to have a high specificity of 89.4% and accuracy of 85.7% in diagnosing residual disease in the gallbladder fossa after cholecystectomy.*
+
+---
+
+**44. What is the sensitivity of FDG-PET for detecting peritoneal disease according to Shukla and colleagues?**
+
+- 60%
+- 50%
+- 40%
+- **28.5%**
+
+*Explanation: It is important to note the poor sensitivity of FDG-PET in detecting peritoneal disease, quantified as 28.5% by Shukla and colleagues.*
+
+---
+
+**45. Why is preoperative tissue diagnosis via fine-needle aspiration generally not recommended in gallbladder cancer?**
+
+- Insufficient sensitivity
+- Risk of bile duct injury
+- **Tendency to seed the peritoneum, biopsy tracts, and surgical wounds**
+- High false-positive rate
+
+*Explanation: Because gallbladder cancer has the tendency and ability to seed the peritoneum, biopsy tracts, and surgical wounds, preoperative tissue diagnosis via fine-needle aspiration or core biopsy is generally not recommended.*
+
+---
+
+**46. What was the sensitivity of fine-needle aspiration for preoperative diagnosis of gallbladder cancer according to Akosa and colleagues?**
+
+- 65%
+- 75%
+- **88%**
+- 95%
+
+*Explanation: Akosa and colleagues determined that fine-needle aspiration had an acceptable sensitivity for preoperative diagnosis of gallbladder cancer of 88%.*
+
+---
+
+**47. What was the sensitivity of exfoliative cytology of bile for diagnosing gallbladder cancer?**
+
+- 20%
+- 35%
+- **50%**
+- 75%
+
+*Explanation: Exfoliative cytology of bile was found to have a sensitivity of 50%; however, two cases of endoscopic brushings evaluated yielded false-negative results.*
+
+---
+
+**48. According to current guidelines, when is biopsy recommended in gallbladder cancer?**
+
+- In all suspected cases before surgery
+- In incidentally found T1 tumors only
+- For all cases after cholecystectomy
+- **Only in the case of unresectable disease**
+
+*Explanation: Current clinical guidelines recommend biopsy only in the case of unresectable disease. Patients with resectable disease should proceed to definitive resection.*
+
+---
+
+**49. What is the most common histologic type of gallbladder cancer?**
+
+- Squamous cell carcinoma
+- Neuroendocrine tumor
+- **Adenocarcinoma**
+- Clear cell carcinoma
+
+*Explanation: The vast majority of gallbladder cancers are adenocarcinomas, making up 90% of malignant gallbladder tumors.*
+
+---
+
+**50. Where do approximately 60% of gallbladder tumors originate?**
+
+- Body
+- Neck
+- Cystic duct
+- **Fundus**
+
+*Explanation: Approximately 60% of tumors originate in the fundus, 30% in the body, and 10% in the neck of the gallbladder.*
+
+---
+
+**51. Which gross morphologic type of gallbladder cancer has the best prognosis due to limited wall invasion?**
+
+- Infiltrative
+- Nodular
+- Combined nodular-infiltrative
+- **Papillary**
+
+*Explanation: The papillary type, with a frond-like, cauliflower appearance, has the best prognosis because of limited invasion into the gallbladder wall.*
+
+---
+
+**52. What percentage of malignant gallbladder tumors are pure squamous cell carcinoma?**
+
+- Less than 1%
+- **2%–3%**
+- 5%–7%
+- 10%–12%
+
+*Explanation: Pure squamous cell carcinoma (SCC) accounts for 2% to 3% of all malignant gallbladder tumors.*
+
+---
+
+**53. What is the approximate 5-year overall survival of pure squamous cell carcinoma of the gallbladder?**
+
+- 15%
+- 10%
+- 5%
+- **1%**
+
+*Explanation: The poor 5-year overall survival of SCC of approximately 1% has been attributed to early direct invasion into the liver and other adjacent organs.*
+
+---
+
+**54. What percentage of malignant gallbladder tumors are primary neuroendocrine tumors?**
+
+- Less than 1%
+- **2%–3%**
+- 5%–7%
+- 10%
+
+*Explanation: Primary neuroendocrine tumors (NET) of the gallbladder account for approximately 2% to 3% of malignant gallbladder tumors.*
+
+---
+
+**55. How does the median overall survival of neuroendocrine gallbladder tumors compare to gallbladder adenocarcinoma according to Ayabe and colleagues?**
+
+- NET: 10 months; Adenocarcinoma: 25 months
+- NET and Adenocarcinoma: equal survival
+- **NET: 25 months; Adenocarcinoma: 17 months**
+- NET: 40 months; Adenocarcinoma: 17 months
+
+*Explanation: Ayabe and colleagues found a longer median overall survival in patients with neuroendocrine gallbladder tumors compared with patients with gallbladder adenocarcinoma (25 months vs. 17 months, P = .001).*
+
+---
+
+**56. According to the AJCC 8th edition staging, what does a T1a tumor designation mean for gallbladder cancer?**
+
+- Invading the muscular layer
+- Invading perimuscular connective tissue
+- **Invading lamina propria only**
+- Perforating serosa
+
+*Explanation: Tumor stage is determined by depth of invasion: T1a tumors are limited to the lamina propria.*
+
+---
+
+**57. According to AJCC 8th edition, how are T2 tumors newly subdivided compared to the 7th edition?**
+
+- By tumor size (≤2 cm vs. >2 cm)
+- By degree of lymph node involvement
+- **By location: T2a (peritoneal side) vs. T2b (hepatic side)**
+- By presence or absence of vascular invasion
+
+*Explanation: An important change from the 7th to the 8th edition was the division of T2 tumors into T2a (invading perimuscular connective tissue on the peritoneal side) and T2b (invading perimuscular connective tissue on the hepatic side).*
+
+---
+
+**58. T3 tumors in the AJCC 8th edition designation for gallbladder cancer are defined as:**
+
+- Invading the muscular layer
+- Invading perimuscular connective tissue on the hepatic side
+- **Perforating serosa or directly invading the liver or one adjacent organ**
+- Invading the main portal vein or hepatic artery
+
+*Explanation: T3 tumors either perforate the serosa in any location or directly invade the liver or other adjacent organs, including the stomach, duodenum, colon, pancreas, omentum, or extrahepatic bile ducts.*
+
+---
+
+**59. What defines a T4 gallbladder cancer according to AJCC 8th edition?**
+
+- Perforation of serosa only
+- Invasion of one adjacent organ
+- Lymph node involvement
+- **Invasion of main portal vein, hepatic artery, or two or more adjacent structures**
+
+*Explanation: T4 tumors invade the main portal vein, hepatic artery, or two or more adjacent structures.*
+
+---
+
+**60. In Shindoh and colleagues' study, what was the 5-year survival for patients with peritoneal-sided T2 tumors versus hepatic-sided T2 tumors?**
+
+- Peritoneal 42.6%; Hepatic 64.7%
+- **Peritoneal 64.7%; Hepatic 42.6%**
+- Peritoneal 52.1%; Hepatic 73.7%
+- Both equal at approximately 55%
+
+*Explanation: 5-year survival was 64.7% for peritoneal-sided tumors versus 42.6% for hepatic-sided tumors, supporting the subdivision of T2 into T2a and T2b.*
+
+---
+
+**61. Anatomically, how many cholecystic veins are present on the hepatic side of the gallbladder according to classic injection studies?**
+
+- 1–2
+- 1–3
+- **2–20**
+- 5–25
+
+*Explanation: A classic injection study identified between 2 and 20 cholecystic veins on the hepatic side of the gallbladder that drain directly into segment IV of the liver after a very short course.*
+
+---
+
+**62. According to the AJCC 8th edition, how is nodal staging for gallbladder cancer defined?**
+
+- By location of positive nodes
+- **By number of positive nodes (N0: none, N1: 1–3, N2: ≥4)**
+- By size of lymph nodes
+- By presence of extracapsular extension
+
+*Explanation: The second notable difference in the 8th edition staging system was the change in nodal status from location of positive nodes to number of positive nodes: N0 (no positive nodes), N1 (1–3 positive regional lymph nodes), and N2 (≥4 positive regional lymph nodes).*
+
+---
+
+**63. How many lymph nodes should be examined for accurate staging according to the AJCC 8th edition guidelines?**
+
+- At least 2
+- At least 3
+- At least 4
+- **At least 6**
+
+*Explanation: The updated edition recommended examination of at least six lymph nodes for accurate staging.*
+
+---
+
+**64. According to Sung and colleagues (patients with adequate lymph node retrieval), what was the 5-year overall survival for N0, N1, and N2 gallbladder cancer?**
+
+- N0: 60%; N1: 25%; N2: 10%
+- N0: 80%; N1: 40%; N2: 15%
+- **N0: 72.2%; N1: 28.8%; N2: 7.1%**
+- N0: 50%; N1: 20%; N2: 5%
+
+*Explanation: In patients with adequate lymph node retrieval, there was a significant difference in 5-year OS by nodal stage: N0: 72.2%; N1: 28.8%; N2: 7.1%, P < .001.*
+
+---
+
+**65. For T1a gallbladder cancer, what is the recommended surgical treatment?**
+
+- Radical resection with hepatic resection
+- Bile duct resection with lymphadenectomy
+- **Simple cholecystectomy**
+- Laparoscopic cholecystectomy with port site resection
+
+*Explanation: For T1a tumors, which invade no further than the lamina propria, simple cholecystectomy is appropriate and curative in approximately 90% of cases.*
+
+---
+
+**66. What is the approximate curative rate of simple cholecystectomy for T1a tumors?**
+
+- 50%
+- 70%
+- 80%
+- **90%**
+
+*Explanation: Simple cholecystectomy is appropriate and curative in approximately 90% of cases for T1a tumors.*
+
+---
+
+**67. What 1-year overall survival did Principe and colleagues find after simple cholecystectomy for T1b tumors?**
+
+- 25%
+- **50%**
+- 75%
+- 100%
+
+*Explanation: Principe and colleagues found a 1-year OS of 50% after simple cholecystectomy for patients with T1b tumors, compared with 100% for patients with T1a tumors.*
+
+---
+
+**68. What is the approximate rate of lymph node metastases found on re-exploration for T1b tumors?**
+
+- 1%–5%
+- 5%–8%
+- **10%–20%**
+- 25%–35%
+
+*Explanation: These tumors have been associated with a 10% to 20% rate of lymph node metastases on re-exploration, supporting a more extensive surgical approach.*
+
+---
+
+**69. According to current NCCN guidelines, what segments of liver should be resected en-bloc for T1b and T2 gallbladder cancers?**
+
+- Segments II and III
+- Segments V and VI
+- **Segments IVb and V**
+- Segments VI and VII
+
+*Explanation: NCCN guidelines recommend a definitive oncologic resection consisting of cholecystectomy and en-bloc resection adjacent liver parenchyma in segments IVb and V and portal lymphadenectomy for T1b and T2 tumors.*
+
+---
+
+**70. In approximately what percentage of all cholecystectomy specimens is incidental gallbladder cancer discovered?**
+
+- 5%–10%
+- 3%–5%
+- **0.2%–3%**
+- 0.01%–0.1%
+
+*Explanation: Incidental gallbladder cancer is discovered in 0.2% to 3% of all cholecystectomy specimens.*
+
+---
+
+**71. According to Fuks and colleagues, what was the improvement in 5-year OS for T2 tumors after re-resection?**
+
+- From 10% to 40%
+- From 5% to 35%
+- **From 0% to 62%**
+- From 15% to 75%
+
+*Explanation: Fuks and colleagues found an increase in 5-year OS from 0% to 62% in patients with T2 tumors who underwent re-resection (P = .001).*
+
+---
+
+**72. According to Pawlik and colleagues, what percentage of T2 tumor patients had residual disease in the liver at re-resection?**
+
+- 0%
+- 5.2%
+- **10.4%**
+- 20.5%
+
+*Explanation: In an analysis of 225 patients, 10.4% of patients with T2 tumors had residual disease in the liver at the time of re-resection.*
+
+---
+
+**73. What percentage of T1 tumor patients had residual disease in the liver at re-resection according to Pawlik and colleagues?**
+
+- 2%
+- 5%
+- 8%
+- **0%**
+
+*Explanation: 0% of patients with T1 tumors had residual disease in the liver at the time of re-resection.*
+
+---
+
+**74. According to Ethun and colleagues, what pathologic factors were associated with increased odds of locoregional residual and distant disease at re-resection?**
+
+- Tumor size, location, and age
+- Margin status and tumor location
+- **T stage, tumor differentiation, lymphovascular invasion, and perineural invasion**
+- Gender, tumor histology, and nodal stage
+
+*Explanation: T stage, tumor differentiation, lymphovascular invasion, and perineural invasion were associated with increased odds of locoregional residual and distant disease, as well as OS.*
+
+---
+
+**75. Despite no evidence of metastatic disease on cross-sectional imaging, what percentage of patients will have radiographically occult metastatic disease at re-exploration?**
+
+- 1%–5%
+- 5%–8%
+- **10%–57%**
+- 60%–75%
+
+*Explanation: Despite no evidence of metastatic disease on high-quality cross-sectional imaging, 10% to 57% of patients will have radiographically occult metastatic disease at re-exploration.*
+
+---
+
+**76. What is the frequency of peritoneal dissemination in gallbladder cancer?**
+
+- 5%–15%
+- 15%–30%
+- **30%–75%**
+- 80%–90%
+
+*Explanation: Peritoneal dissemination is common in gallbladder cancer, occurring in 30% to 75% of patients, with the risk of peritoneal metastasis increasing with increasing tumor stage.*
+
+---
+
+**77. In Weber and colleagues' study of staging laparoscopy in potentially resectable gallbladder cancer, what was the overall yield?**
+
+- 20%
+- 35%
+- **48%**
+- 65%
+
+*Explanation: Twenty-one patients were identified as having unresectable disease on staging laparoscopy, resulting in an overall yield of 48%.*
+
+---
+
+**78. In Weber and colleagues' study, what was the yield of staging laparoscopy specifically for incidentally diagnosed gallbladder cancer?**
+
+- 5%
+- **20%**
+- 36%
+- 56%
+
+*Explanation: In subgroup analysis examining patients with incidentally diagnosed gallbladder cancer after simple cholecystectomy, the yield of staging laparoscopy was only 20%, compared with 56% in patients undergoing staging laparoscopy as an initial step for known gallbladder cancer.*
+
+---
+
+**79. In Butte and colleagues' series of 136 patients with incidental gallbladder cancer, what was the yield of staging laparoscopy?**
+
+- 12%
+- 10%
+- 8%
+- **4.8%**
+
+*Explanation: Of the 44 patients who underwent staging laparoscopy before laparotomy, the yield of staging laparoscopy was 4.8% in this cohort, with an overall accuracy of 20%.*
+
+---
+
+**80. According to current NCCN guidelines, for which T stage and above is staging laparoscopy recommended for consideration in incidental gallbladder cancer?**
+
+- T1a
+- **T1b**
+- T2
+- T3
+
+*Explanation: The current NCCN guidelines recommend consideration of staging laparoscopy for patients with incidental gallbladder cancer of T stage 1b and greater.*
+
+---
+
+**81. What are the three rationale for hepatic resection in gallbladder cancer surgery?**
+
+- Improve lymph node yield, reduce blood loss, ensure negative margins
+- **Achieve R0 resection, prevent local recurrence from micrometastatic disease, and prevent invasion of the hepatoduodenal ligament**
+- Improve staging accuracy, treat synchronous liver metastases, reduce recurrence
+- Achieve negative margins, reduce tumor spillage, improve chemotherapy delivery
+
+*Explanation: Rationale for hepatic resection is 3-fold: (1) to achieve an R0 resection margin, (2) to prevent local recurrence by removing micrometastatic disease, and (3) to prevent potential invasion of the hepatoduodenal ligament.*
+
+---
+
+**82. According to Araida and colleagues in the Japanese Association of Biliary Surgery study, what was the 5-year OS comparing formal segmentectomy to wedge resection in T2 and T3 gallbladder cancer?**
+
+- Segmentectomy 80%; wedge 65%
+- Segmentectomy 50%; wedge 70%
+- **Segmentectomy 72%; wedge 74% (no significant difference)**
+- Segmentectomy 90%; wedge 60%
+
+*Explanation: The authors found no difference in 5-year OS between patients who received a formal segmentectomy and those who underwent a wedge resection (72% vs. 74%, respectively, P = .7713).*
+
+---
+
+**83. According to Horiguchi and colleagues' nationwide Japanese Biliary Tract Registry study, what was the most common mode of hepatic recurrence after wedge resection?**
+
+- Recurrence in remaining segments IVb/V
+- Hepatic hilum recurrence
+- Single lobe recurrence
+- **Distant bilobar disease**
+
+*Explanation: They cited the most common mode of hepatic recurrence in patients who underwent wedge resection as distant bilobar disease, rather than in the remaining portions of segments IVb/V, indicating that wedge resection was oncologically effective for locoregional control.*
+
+---
+
+**84. In Lee and colleagues' study of T2 gallbladder cancer, in patients with hepatic-sided tumors, what was the 5-year OS with versus without hepatic resection?**
+
+- 90% vs. 80%
+- 75% vs. 60%
+- **80.3% vs. 30.0%**
+- 60% vs. 40%
+
+*Explanation: In patients with hepatic-sided tumors, there was a significant difference in OS: hepatic resection 5-year OS 80.3% vs. no hepatic resection 5-year OS 30.0% (P = .032).*
+
+---
+
+**85. According to Pawlik and colleagues' analysis, was major hepatic resection independently associated with decreased overall survival?**
+
+- Yes, significantly associated with worse OS
+- Yes, but only in T3 tumors
+- **No, major hepatic resection was not associated with decreased OS**
+- No, and it was associated with improved OS
+
+*Explanation: On multivariable analysis, major hepatic resection was not associated with decreased OS (HR 1.25, P = .60). Independent predictors of decreased OS included increasing stage and residual carcinoma in the liver bed.*
+
+---
+
+**86. What was the 5-year overall survival for patients receiving curative hepatopancreaticoduodenectomy (HPD) per Araida and colleagues?**
+
+- 15%
+- 10%
+- 8%
+- **4%**
+
+*Explanation: Araida and colleagues demonstrated a 5-year OS after curative HPD of 4%, and the procedure is associated with significant postoperative complications.*
+
+---
+
+**87. According to Ethun and colleagues, what timing of re-resection after the index cholecystectomy was associated with the best prognosis?**
+
+- Less than 4 weeks
+- **4–8 weeks**
+- 8–12 weeks
+- More than 12 weeks
+
+*Explanation: Definitive operation at an interval of 4 to 8 weeks after the index operation was associated with the best prognosis (median OS: 4–8 weeks: 40.4 months vs. <4 weeks: 17.4 months vs. >8 weeks: 22.3 months, P = .03).*
+
+---
+
+**88. Does routine common bile duct excision reliably improve survival in gallbladder cancer surgery?**
+
+- Yes, reliably shown to improve OS in multiple studies
+- Yes, but only in T3 and T4 tumors
+- **No, not reliably shown to be associated with improved survival**
+- No, and it is associated with worse survival
+
+*Explanation: Routine common bile duct excision has not been reliably shown to be associated with improved survival. D'Angelica and colleagues found no difference in DSS, nor did bile duct excision increase lymph node yield.*
+
+---
+
+**89. What was the postoperative complication rate associated with common bile duct resection versus no bile duct resection in Fuks and colleagues' study?**
+
+- 30% vs. 10%
+- 45% vs. 18%
+- **60% vs. 23%**
+- 70% vs. 35%
+
+*Explanation: Fuks and colleagues demonstrated increased postoperative complication rates in the common bile duct resection group (60% vs. 23%, P = .0001) and no difference in R0 resection rates.*
+
+---
+
+**90. What percentage of patients with a positive cystic stump margin had residual ductal disease in Pawlik and colleagues' review?**
+
+- 15%
+- 25%
+- 33%
+- **42%**
+
+*Explanation: 42% of patients with a positive cystic stump margin had residual ductal disease compared with 4% of patients with negative cystic stump margins (P = .01).*
+
+---
+
+**91. What is the approximate rate of lymph node involvement in T1b gallbladder cancer?**
+
+- 5%
+- **12%**
+- 20%
+- 31%
+
+*Explanation: Lymphatic spread is important in gallbladder metastasis; approximately 12% of T1b tumors, 31% of T2, and 45% of T3 tumors have associated lymph node involvement.*
+
+---
+
+**92. In the dye injection study by Shirai and colleagues (1992), what is the initial route of lymphatic drainage from the gallbladder?**
+
+- Directly to celiac nodes
+- Directly to para-aortic nodes
+- **To the cystic and pericholedochal node groups first**
+- To the portal and retroportal nodes first
+
+*Explanation: Lymphatic drainage flows initially to the cystic and pericholedochal node groups, then to the posterosuperior pancreaticoduodenal, celiac, and retroportal nodes.*
+
+---
+
+**93. Who first described the "radical cholecystectomy" for gallbladder cancer in 1954?**
+
+- Pawlik and colleagues
+- Weber and colleagues
+- Jarnagin and colleagues
+- **Glenn and Hays**
+
+*Explanation: In 1954 Glenn and Hays first described the "radical cholecystectomy" for gallbladder cancer, in which at least a 1-cm margin of liver parenchyma and the lymph nodes of the hepatoduodenal ligament were excised.*
+
+---
+
+**94. According to Bartlett and colleagues, what was the only independent predictor of decreased overall survival in a multivariable analysis of gallbladder cancer patients?**
+
+- T stage
+- M stage
+- Level of hepatic involvement
+- **Nodal stage**
+
+*Explanation: In a review of 149 patients, Bartlett and colleagues found nodal stage to be the only independent predictor of decreased OS in multivariable analysis.*
+
+---
+
+**95. According to Liu and colleagues, what was the difference in median DSS for patients without vs. with lymph node metastases after radical gallbladder resection?**
+
+- 20 months vs. 5 months
+- 50 months vs. 10 months
+- **40 months vs. 7 months**
+- 30 months vs. 12 months
+
+*Explanation: Liu and colleagues found significantly better DSS in patients with no lymph node metastases (median DSS 40 months vs. 7 months, P < .001).*
+
+---
+
+**96. According to Benoist and colleagues, what was the 5-year OS in patients with lymph node metastases after gallbladder cancer resection?**
+
+- 5%
+- 10%
+- 15%
+- **0%**
+
+*Explanation: Benoist and colleagues found a significant difference in postoperative OS in patients who had lymph node metastases (5-year OS 0%) and those without (5-year OS 44%, P < .05).*
+
+---
+
+**97. In Jensen and colleagues' SEER database study, what was the median OS for T1b and T2 patients who had at least one lymph node evaluated vs. those who did not?**
+
+- 80 months vs. 15 months
+- 100 months vs. 18 months
+- **123 months vs. 22 months**
+- 60 months vs. 10 months
+
+*Explanation: Patients with T1b and T2 tumors who underwent radical resection with evaluation of at least one lymph node had a median OS of 123 months, compared with 22 months for patients who did not have lymph nodes resected.*
+
+---
+
+**98. Without lymphadenectomy, what were the comparable overall survival rates for radical resection versus simple cholecystectomy in Jensen and colleagues' study?**
+
+- 24 months vs. 18 months
+- 15 months vs. 12 months
+- **7 months vs. 6 months**
+- 10 months vs. 9 months
+
+*Explanation: Without lymphadenectomy, radical resection and simple cholecystectomy conferred similar OS (7 months vs. 6 months, respectively).*
+
+---
+
+**99. According to Negi and colleagues, what lymph node count cutoff was associated with improved DFS in patients without lymph node metastases?**
+
+- 3 or greater
+- 4 or greater
+- 5 or greater
+- **6 or greater**
+
+*Explanation: Negi and colleagues found a total lymph node count of 6 or greater to be associated with improved DFS compared with a lymph node yield of fewer than 6 nodes in patients without lymph node metastases.*
+
+---
+
+**100. What is the incidence of port site metastases after laparoscopic cholecystectomy in incidental gallbladder cancer?**
+
+- 1%–2%
+- 3%–5%
+- **Approximately 10%**
+- 15%–20%
+
+*Explanation: The incidence of port site metastases after laparoscopic cholecystectomy in incidental gallbladder cancer is approximately 10%.*
+
+---
+
+**101. Which port site has the highest incidence of port site recurrence or metastasis?**
+
+- Epigastric port
+- Left lateral port
+- Right lateral port
+- **Extraction port**
+
+*Explanation: Incidence of port site recurrence or metastasis has been shown to increase with gallbladder perforation during cholecystectomy and to be highest at the extraction port.*
+
+---
+
+**102. According to Maker and colleagues, was port site resection associated with improved OS or RFS in gallbladder cancer re-resection?**
+
+- Yes, improved both OS and RFS
+- Yes, improved OS only
+- Yes, improved RFS only
+- **No, port site resection was not associated with improved OS or RFS**
+
+*Explanation: Maker and colleagues found that port site resection was not associated with improved OS or RFS, and the authors concluded that port site resection was not mandatory to improve outcomes during re-resection.*
+
+---
+
+**103. What additional morbidity was associated with port site resection in Fuks and colleagues' study?**
+
+- Bile leak
+- Wound infection
+- **Incisional hernia (8% of patients)**
+- Deep vein thrombosis
+
+*Explanation: Notably, 8% of patients who underwent port site resection developed incisional hernias at the resection site.*
+
+---
+
+**104. Based on available studies, is port site resection currently considered standard of care in incidental gallbladder cancer?**
+
+- Yes, for all patients
+- Yes, only for T2 or higher tumors
+- Yes, if gallbladder perforation occurred
+- **No, it is not considered standard of care for all patients**
+
+*Explanation: Based on available studies, port site resection in incidental gallbladder cancer is not considered standard of care for all patients undergoing re-resection, as reflected in current NCCN guidelines.*
+
+---
+
+**105. What proportion of all gallbladder cancers in the United States and Western countries are nonincidental (per primum)?**
+
+- The majority (>70%)
+- Half (~50%)
+- **The minority (<50%)**
+- Nearly all (>90%)
+
+*Explanation: Nonincidental or per primum gallbladder cancer represents the minority of gallbladder cancer diagnoses in the United States and other Western countries.*
+
+---
+
+**106. According to Mazer and colleagues, which of the following was more common in nonincidentally diagnosed gallbladder cancer compared to incidentally diagnosed?**
+
+- Well-differentiated tumors
+- Lower T-stage tumors
+- Evaluation with ultrasound only preoperatively
+- **Higher T-stage tumors and nodal metastases**
+
+*Explanation: Mazer and colleagues found patients with nonincidentally diagnosed gallbladder cancer to be more likely to present with higher T-stage tumors and nodal metastases and less likely to have well-differentiated tumors.*
+
+---
+
+**107. For suspected nonincidental gallbladder cancer without preoperative tissue diagnosis, what does one expert consensus recommend?**
+
+- Empiric resection without biopsy
+- ERCP with brush cytology
+- FNA under CT guidance
+- **Intraoperative core needle biopsy with immediate frozen-section analysis**
+
+*Explanation: One expert consensus report recommends intraoperative core needle biopsy with immediate frozen-section analysis to confirm the diagnosis before committing to radical resection.*
+
+---
+
+**108. What percentage of gallbladder cancer patients will develop recurrence postoperatively despite appropriate resection?**
+
+- 30%
+- 45%
+- 55%
+- **Almost 70%**
+
+*Explanation: Despite appropriate resection, recurrence rates in gallbladder cancers are high and almost 70% of patients will develop a recurrence postoperatively.*
+
+---
+
+**109. According to Jarnagin and colleagues, what was the most common site of distant recurrence in gallbladder cancer?**
+
+- Liver
+- Lung
+- Abdominal wall
+- **Peritoneum**
+
+*Explanation: Jarnagin and colleagues found that 72% of recurrences were distant, most commonly to the peritoneum, followed by the liver, lung or mediastinum, and abdominal wall/incision.*
+
+---
+
+**110. In the meta-analysis by Horgan and colleagues of adjuvant therapy for biliary tract cancers, what overall survival benefit was seen with adjuvant therapy in institutional studies?**
+
+- HR 0.75, P = .05
+- HR 0.65, P = .01
+- **HR 0.53, P < .001**
+- HR 0.40, P < .001
+
+*Explanation: When large SEER database studies were removed, leaving 17 institutional studies, patients who received adjuvant therapy had an improved OS (HR 0.53, 95% CI 0.39–0.72, P < .001).*
+
+---
+
+**111. In Takada and colleagues' phase III trial, what was the 5-year OS for gallbladder cancer patients receiving adjuvant mitomycin C and 5-FU compared to surgery alone?**
+
+- 40% vs. 25%
+- 35% vs. 20%
+- **26.0% vs. 14.4%**
+- 50% vs. 30%
+
+*Explanation: When analyzing the subset of patients with gallbladder cancer, patients who received adjuvant chemotherapy had a 5-year OS of 26.0% compared with 14.4% in patients receiving surgery alone (P = .0367).*
+
+---
+
+**112. What was the primary endpoint of the ABC-02 trial?**
+
+- Recurrence-free survival
+- **Overall survival**
+- Progression-free survival
+- Disease-specific survival
+
+*Explanation: The ABC-02 trial's primary endpoint was overall survival, comparing gemcitabine/cisplatin doublet therapy vs. gemcitabine alone in locally advanced or metastatic cholangiocarcinoma and gallbladder cancer.*
+
+---
+
+**113. In the ABC-02 trial, what was the median OS for gemcitabine/cisplatin vs. gemcitabine alone?**
+
+- 15 months vs. 10 months
+- 8 months vs. 5 months
+- **11.7 months vs. 8.1 months**
+- 14 months vs. 9 months
+
+*Explanation: The authors found improved OS in patients who received the combination therapy compared with gemcitabine alone (OS: 11.7 vs. 8.1 months, P < .001).*
+
+---
+
+**114. What was the primary endpoint of the PRODIGE-12/ACCORD-18 trial?**
+
+- Overall survival
+- **Recurrence-free survival**
+- Disease-specific survival
+- Progression-free survival
+
+*Explanation: The PRODIGE-12/ACCORD-18 trial compared adjuvant GEMOX to best supportive care, with recurrence-free survival as the primary endpoint.*
+
+---
+
+**115. What was the result of the PRODIGE-12/ACCORD-18 trial regarding recurrence-free survival?**
+
+- Significant improvement with GEMOX
+- **No significant difference (GEMOX 30.4 months vs. surgery alone 18.5 months, P = .48)**
+- Significant improvement with surgery alone
+- Significant improvement only in node-positive patients
+
+*Explanation: The trial found no difference in relapse-free survival (HR 0.88, 95% CI 0.62–1.25, P = .48), making it a statistically negative trial.*
+
+---
+
+**116. The PRODIGE-12/ACCORD-18 trial has been criticized for which major methodological limitation?**
+
+- Too many study sites
+- Inadequate follow-up duration
+- **Underpowered design to detect smaller clinically relevant differences (designed to detect a 40% reduction)**
+- Inclusion of non-gallbladder cancer patients
+
+*Explanation: This statistically negative trial has drawn criticism because of its design to detect a 40% reduction in relapse-free survival, suggesting that it was underpowered to detect smaller, yet clinically relevant differences between the groups.*
+
+---
+
+**117. What was the primary endpoint of the BCAT trial?**
+
+- Recurrence-free survival
+- **Overall survival**
+- Progression-free survival
+- Disease-specific survival
+
+*Explanation: The BCAT trial compared adjuvant gemcitabine with best supportive care in patients with extrahepatic cholangiocarcinoma, with OS as the primary endpoint.*
+
+---
+
+**118. What was the result of the BCAT trial regarding overall survival?**
+
+- Significant improvement with gemcitabine
+- Significant improvement with best supportive care
+- **No significant difference (Gemcitabine 62.3 months vs. surgery alone 63.8 months, P = .96)**
+- Significant improvement only in node-negative patients
+
+*Explanation: The BCAT trial found no significant differences in OS (Gem: 62.3 months vs. Surgery alone: 63.8 months, P = .96).*
+
+---
+
+**119. In the BILCAP trial, what percentage of patients had microscopically positive resection margins?**
+
+- 20%
+- 35%
+- 45%
+- **54%**
+
+*Explanation: In contrast to PRODIGE-12/ACCORD-18, 54% of patients in the BILCAP trial had microscopically positive margins after resection.*
+
+---
+
+**120. What was the primary endpoint result of the BILCAP trial for adjuvant capecitabine?**
+
+- Improved OS in unadjusted intention-to-treat analysis (P < .05)
+- No difference in adjusted or unadjusted analysis
+- **Significantly improved OS in adjusted analysis (HR 0.71, P = .01) but not in unadjusted ITT analysis (HR 0.81, P = .097)**
+- Improved OS only in node-positive patients
+
+*Explanation: The authors found significantly improved OS in intention-to-treat analysis when adjusting for nodal status, disease grade, and sex (HR 0.71, P = .01), although no statistical difference was demonstrated in unadjusted intention-to-treat analysis (P = .097).*
+
+---
+
+**121. What is the current recommended adjuvant therapy duration for capecitabine based on the BILCAP trial?**
+
+- 3 months
+- 4 months
+- **6 months**
+- 12 months
+
+*Explanation: Because of the results of this trial, adjuvant capecitabine for a duration of 6 months is currently one recommended strategy for patients who undergo resection of gallbladder cancer.*
+
+---
+
+**122. What large ongoing European trial is assessing adjuvant gemcitabine/cisplatin vs. capecitabine after curative resection of biliary tract cancer?**
+
+- BILCAP-2
+- PRODIGE-15
+- ABC-06
+- **ACTICCA-1**
+
+*Explanation: A large ongoing European trial (ACTICCA-1) is assessing the value of adjuvant gemcitabine/cisplatin compared with adjuvant capecitabine.*
+
+---
+
+**123. In the SWOG0809 trial, what was the 2-year OS for patients with R0 and R1 resections?**
+
+- R0: 80%; R1: 70%
+- R0: 75%; R1: 55%
+- **R0: 67%; R1: 60%**
+- R0: 85%; R1: 65%
+
+*Explanation: OS was 67% in the R0 group and 60% in the R1 group at 2 years in the SWOG0809 trial.*
+
+---
+
+**124. What was the 2-year local recurrence rate for R0 vs. R1 patients in the SWOG0809 trial?**
+
+- R0: 20%; R1: 30%
+- R0: 15%; R1: 25%
+- **R0: 9%; R1: 16%**
+- R0: 5%; R1: 10%
+
+*Explanation: Local recurrence at 2 years was 9% in the R0 group and 16% in the R1 group in the SWOG0809 trial.*
+
+---
+
+**125. What are the proposed benefits of neoadjuvant therapy in gallbladder cancer?**
+
+- Improve surgical technique and reduce port site recurrence
+- Increase R0 resection rate and improve lymph node harvest
+- **Downstage primary tumor, test chemosensitivity in vivo, treat micrometastatic disease, and optimize patient selection**
+- Reduce anesthesia time and improve immune function
+
+*Explanation: The rationale for neoadjuvant therapy includes downstaging of the primary tumor, providing an in vivo test of chemosensitivity, immediate treatment of micrometastatic disease, and to optimize patient selection for re-resection.*
+
+---
+
+**126. According to Hakeem and colleagues' systematic review of neoadjuvant therapy in gallbladder cancer, what proportion of patients demonstrated progressive disease despite neoadjuvant therapy?**
+
+- 10%
+- 20%
+- **Approximately one-third (30.6%)**
+- 50%
+
+*Explanation: Approximately one-third of patients (30.6%) had progressive disease despite receipt of neoadjuvant therapy, and two-thirds (66.6%) demonstrated clinical benefit.*
+
+---
+
+**127. What proportion of patients were considered suitable for surgical resection after neoadjuvant therapy in Hakeem and colleagues' systematic review?**
+
+- 25%
+- 35%
+- 45%
+- **50.4%**
+
+*Explanation: One-half of patients (50.4%) were considered suitable for surgical resection after neoadjuvant therapy; however, the resectability rate upon exploration in included studies ranged from 13.5% to 66.7%.*
+
+---
+
+**128. What was the overall R0 resection rate for patients included in Hakeem and colleagues' systematic review of neoadjuvant therapy?**
+
+- 50%
+- 45%
+- 40%
+- **35.4%**
+
+*Explanation: The overall R0 resection rate for included patients was 35.4% in Hakeem and colleagues' systematic review.*
+
+---
+
+**129. What phase II/III trial by Maithel and colleagues will evaluate the role of perioperative gemcitabine/cisplatin in T2 or T3 gallbladder cancer?**
+
+- ACTICCA-1
+- BILCAP-2
+- BCAT-2
+- **EA2197**
+
+*Explanation: A recently approved phase II/III trial by Maithel and colleagues, "EA2197: Perioperative Chemotherapy Prior to and After Re-Resection for Incidental Gallbladder Cancer," will evaluate the role of perioperative gemcitabine/cisplatin.*
+
+---
+
+**130. What is the most common mutation identified in gallbladder cancer overall?**
+
+- CDKN2A
+- HER2/neu
+- ERBB2
+- **Tp53 (~55%)**
+
+*Explanation: Overall, the most common mutation is in the Tp53 gene, occurring in approximately 55% of gallbladder cancers.*
+
+---
+
+**131. What is the prevalence of CDKN2A mutations in gallbladder cancer?**
+
+- 10%
+- 15%
+- 20%
+- **26%**
+
+*Explanation: Gallbladder cancer mutations include Tp53 (~55%), followed by CDKN2A in 26%, HER2/neu in 15%, and ERBB2 in 12%.*
+
+---
+
+**132. In Javle and colleagues' retrospective review of patients with advanced gallbladder cancer and HER2/neu mutations receiving directed therapy, what were the outcomes?**
+
+- All patients had disease progression
+- Half had disease stability, half progressed
+- **Three had disease stability, four had partial response, and one had complete response**
+- All patients demonstrated partial response
+
+*Explanation: Of eight patients with gallbladder cancer studied, three demonstrated disease stability, four a partial response, and one a complete response with HER2/neu-directed therapy.*
+
+---
+
+**133. According to Li and colleagues, which ERBB3 tyrosine kinase inhibitor showed significant inhibition of tumor growth in gallbladder cancer cells expressing mutant ERBB2/ERBB3?**
+
+- Trastuzumab
+- Lapatinib
+- Pertuzumab
+- **Sapitinib**
+
+*Explanation: The authors exposed gallbladder cancer cells expressing mutant ERBB2/ERBB3 to the ERBB3 tyrosine kinase inhibitor sapitinib and found significant inhibition of phosphorylation levels and tumor growth.*
+
+---
+
+**134. What was the decrease in cellular viability with combination anti-PDL1 and anti-ERBB therapy vs. individual agents in mutant ERBB2/ERBB3 gallbladder cancer cell lines?**
+
+- Combination 50%; anti-PDL1 20%; anti-ERBB 30%
+- Combination 80%; anti-PDL1 40%; anti-ERBB 55%
+- **Combination 70%; anti-PDL1 30%; anti-ERBB 45%**
+- Combination 60%; anti-PDL1 25%; anti-ERBB 35%
+
+*Explanation: Combination therapy with anti-PDL1 and anti-ERBB therapy decreased cellular viability by 70%, compared with 30% with anti-PDL1, and 45% with anti-ERBB alone.*
+
+---
+
+**135. According to Iyer and colleagues, what mutation may render gallbladder cancers resistant to anti-EGFR therapy?**
+
+- TP53 mutation
+- CDKN2A mutation
+- ERBB2 mutation
+- **Kras mutation (specifically codon 12)**
+
+*Explanation: The authors found that a Kras mutation, specifically on codon 12, may render gallbladder cancers resistant to anti-epidermal growth factor receptor (EGFR) therapy, a differential response that has also been seen in colon cancers.*
+
+---
+
+**136. What surveillance schedule do current NCCN guidelines recommend after radical resection for gallbladder cancer, based on the BILCAP trial protocol?**
+
+- CT chest/abdomen/pelvis every 6 months for 5 years
+- CT chest/abdomen/pelvis every 12 months for life
+- **Imaging every 3–6 months for the first 2 years, then every 6–12 months for up to 5 years**
+- PET-CT every 6 months for 3 years, then annually
+
+*Explanation: Current NCCN guidelines recommend imaging of the chest, abdomen, and pelvis every 3 to 6 months for the first 2 years, then every 6 to 12 months for up to 5 years, or as clinically indicated.*
+
+---
+
+**137. What is the AJCC 8th edition combined stage for TisN0M0 gallbladder cancer?**
+
+- Stage I
+- Stage IIa
+- **Stage 0**
+- Stage IIIa
+
+*Explanation: According to the AJCC 8th edition staging, Stage 0 corresponds to TisN0M0 (carcinoma in situ, no nodal involvement, no distant metastasis).*
+
+---
+
+**138. What combined stage does T2bN0M0 correspond to in the AJCC 8th edition for gallbladder cancer?**
+
+- Stage IIa
+- **Stage IIb**
+- Stage IIIa
+- Stage IIIb
+
+*Explanation: According to the AJCC 8th edition staging table, T2bN0M0 corresponds to Stage IIb.*
+
+---
+
+**139. What combined stage does T3N0M0 correspond to in the AJCC 8th edition gallbladder cancer staging?**
+
+- Stage IIb
+- **Stage IIIa**
+- Stage IIIb
+- Stage IVa
+
+*Explanation: According to the AJCC 8th edition staging, T3N0M0 corresponds to Stage IIIa.*
+
+---
+
+**140. What combined stage does T4N0M0 or T4N1M0 correspond to in the AJCC 8th edition gallbladder cancer staging?**
+
+- Stage IIIb
+- Stage IVb
+- Stage IIIa
+- **Stage IVa**
+
+*Explanation: According to the AJCC 8th edition staging, T4N0M0 or T4N1M0 corresponds to Stage IVa.*
+
+---
+
+**141. What is the AJCC 8th edition M1 designation for gallbladder cancer?**
+
+- Invasion of main portal vein
+- Invasion of two adjacent organs
+- Lymph node metastasis within hepatoduodenal ligament
+- **Distant metastasis including peritoneum, liver beyond direct extension, lungs, pleura, or periaortic/pericaval/SMA/celiac lymph nodes**
+
+*Explanation: M1 designation includes distant metastasis to the peritoneum, liver (beyond direct extension), lungs, pleura, and periaortic, pericaval, superior mesenteric artery, and/or celiac artery lymph nodes.*
+
+---
+
+**142. In the SWOG0809 trial, what was the study design?**
+
+- Randomized phase III
+- Randomized phase II
+- Randomized phase II/III
+- **Single-arm phase II**
+
+*Explanation: The SWOG0809 trial by Ben-Josef and colleagues analyzed a single-arm phase II trial of 105 patients.*
+
+---
+
+**143. Approximately what proportion of incidental gallbladder cancer represents all gallbladder cancers discovered, according to various estimates?**
+
+- 5%–15%
+- 10%–20%
+- 20%–25%
+- **27%–70%**
+
+*Explanation: Estimates of the proportion of incidental gallbladder cancer to all gallbladder cancer vary, from 27% up to 70% of all gallbladder cancers discovered during cholecystectomy or on pathologic review.*
+
+---
+
+**144. According to Fuks and colleagues, what was the improvement in 5-year OS for T3 tumors after re-resection?**
+
+- From 5% to 40%
+- From 10% to 35%
+- **From 0% to 19%**
+- From 0% to 30%
+
+*Explanation: Fuks and colleagues found an increase in 5-year OS from 0% to 19% in patients with T3 tumors who underwent re-resection (P = .04).*
+
+---
+
+**145. In which gallbladder cancer incidence region does incidence remain equal between men and women?**
+
+- India
+- Chile
+- South America
+- **Japan**
+
+*Explanation: In contrast to other regions, the majority of gallbladder cancers diagnosed in Japan are not associated with gallstone disease, and furthermore, incidence is equal between men and women.*
+
+---
+
+**146. According to NCCN guidelines, what is the recommended NCCN principle for T3 and T4 tumor resection?**
+
+- Simple cholecystectomy with lymphadenectomy
+- Wedge resection only with lymphadenectomy
+- **Radical cholecystectomy including segments IVb/V and lymphadenectomy, and extended hepatic or biliary resection as necessary for a negative margin**
+- Right hepatectomy with bile duct resection for all cases
+
+*Explanation: NCCN guidelines state: "radical cholecystectomy including segments IVb and V and lymphadenectomy and extended hepatic or biliary resection as necessary to obtain a negative margin."*
+
+---
+
+**147. According to D'Angelica and colleagues, what drove outcomes in patients who underwent adjacent organ resection for gallbladder cancer?**
+
+- Extent of resection
+- **Disease biology and stage, rather than extent of resection**
+- Type of adjacent organ involved
+- Presence of peritoneal dissemination
+
+*Explanation: The authors found that adjacent organ resection was not associated with DSS and concluded that disease biology and stage, rather than extent of resection, drove outcomes.*
+
+---
+
+**148. What was the disease-free survival comparison in D'Angelica and colleagues' study for patients with residual disease at any site vs. those without?**
+
+- 25 months vs. median not reached
+- 15 months vs. 75 months
+- **11.2 months vs. 93.4 months**
+- 20 months vs. 50 months
+
+*Explanation: The same group demonstrated severely decreased disease-free survival in patients with residual disease at any site (11.2 vs. 93.4 months, P < .001).*
+
+---
+
+**149. According to the Americas Hepatobiliary Association expert consensus, which T3 or T4 patients should seek clinical trials with neoadjuvant therapy rather than aggressive upfront resection?**
+
+- All T3 patients regardless of nodal status
+- T4 patients with N0 disease
+- T3 patients with N0 disease
+- **T3 or T4 patients with N1 disease**
+
+*Explanation: The expert consensus recommends careful assessment of performance status and lymph node metastases, with patients with T3 or T4 N1 disease encouraged to seek clinical trials with neoadjuvant therapy rather than aggressive upfront resection.*
+
+---
+
+**150. Gallbladder cancer is classified as what proportion of all biliary tract malignancies in the United States?**
+
+- The least common
+- One of several equal types
+- Second most common
+- **The most common**
+
+*Explanation: Gallbladder cancer is the sixth most common gastrointestinal malignancy and the most common biliary tract malignancy in the United States.*
+
+---
+
+**151. What is the gallstone disease prevalence in women in Chile?**
+
+- 10%
+- 20%
+- 25%
+- **36%**
+
+*Explanation: Gallstone disease is highly prevalent in Chile, where 36% of women and 16% of men are affected.*
+
+---
+
+**152. Which infectious organisms have been implicated as additional risk factors for gallbladder cancer in specific populations?**
+
+- Helicobacter pylori and Clostridium difficile
+- E. coli and Klebsiella
+- **Chronic Salmonella typhi infection and Helicobacter pylori infection**
+- Campylobacter and Listeria
+
+*Explanation: Additional risk factors including chronic Salmonella typhi infection and Helicobacter pylori infection have been implicated in higher rates of gallbladder cancer in specific populations.*
+
+---
+
+**153. In Pawlik and colleagues' analysis, what percentage of T3 tumor patients had residual disease in the liver at re-resection?**
+
+- 10%
+- 20%
+- 25%
+- **36.4%**
+
+*Explanation: 36.4% of patients with T3 tumors had residual disease in the liver at the time of re-resection (P = .006).*
+
+---
+
+**154. What percentage of T2 tumor patients had locoregional lymph node metastases in Pawlik and colleagues' analysis?**
+
+- 10%
+- 20%
+- 25%
+- **31.2%**
+
+*Explanation: 31.2% of patients with T2 tumors had locoregional lymph node metastases, compared with 12.5% of patients with T1 tumors and 45.5% of patients with T3 tumors.*
+
+---
+
+**155. When reviewing incidental gallbladder cancer patients in Butte and colleagues' series, what was the rate of disseminated disease in T1b tumors?**
+
+- 5%
+- 3%
+- 1%
+- **0%**
+
+*Explanation: The authors redemonstrated the association between disseminated disease and more advanced T stage: 0% of patients with T1b tumors had disseminated disease, compared with 7% of T2 tumors, and 26% of T3 tumors.*
+
+---
+
+**156. What percentage of patients with nonincidental gallbladder cancer from Ethun and colleagues had lower BMI compared to incidental cases?**
+
+- All had lower BMI
+- None differed
+- Most had higher BMI
+- **Patients with nonincidental gallbladder cancer often had lower BMI**
+
+*Explanation: The findings of Ethun and colleagues showed that patients with nonincidental gallbladder cancer often had lower body mass index (BMI) and were less likely to be of non-Hispanic White race.*
+
+---
+
+**157. What is the typical wedge resection margin required around the gallbladder fossa in radical cholecystectomy?**
+
+- 0.5–1 cm
+- 1–1.5 cm
+- **2–3 cm**
+- 4–5 cm
+
+*Explanation: The approach includes nonanatomic wedge resection of visibly normal liver tissue with a 2 to 3 cm margin around the gallbladder fossa.*
+
+---
+
+**158. In Tewari and colleagues' study of 30 patients with T1b, T2, or T3 gallbladder cancer undergoing radical cholecystectomy with wedge resection of at least 2 cm, what was the hepatic recurrence rate during the 43-month follow-up?**
+
+- 5%
+- 10%
+- 2%
+- **0%**
+
+*Explanation: All patients had an R0 resection, and no hepatic recurrences were observed in a follow-up period of 43 months.*
+
+---
+
+**159. In Ethun and colleagues' analysis of 193 patients from the US Extrahepatic Biliary Malignancy Consortium, what was the 3-year OS for patients with vs. without port site resection during re-resection?**
+
+- 80% vs. 60%
+- 55% vs. 40%
+- **65% vs. 43% (P = .07)**
+- 70% vs. 50%
+
+*Explanation: Ethun and colleagues found no significant difference in 3-year OS between patients whose re-resection included resection of previous port sites and those who did not (65% vs. 43%, respectively, P = .07).*
+
+---
+
+**160. What is the overall conclusion regarding the surgical cornerstone of treatment for localized gallbladder cancer?**
+
+- Adjuvant chemotherapy is the cornerstone
+- Radiotherapy combined with surgery
+- Lymphadenectomy alone
+- **Surgical management, specifically with an R0 resection, remains the cornerstone of treatment**
+
+*Explanation: As stated in the chapter summary, surgical management, specifically with an R0 resection, remains the cornerstone of treatment for localized gallbladder cancer, while advances in adjuvant and neoadjuvant therapy will continue to improve outcomes.*
+

@@ -1,0 +1,1873 @@
+# 06 Liver Regeneration: Mechanisms and Clinical Relevance
+
+
+Generated with Claude.
+
+
+**1. In the ancient Greek myth referenced in this chapter, which figure had his liver devoured daily by an eagle?**
+
+- Zeus
+- Ethon
+- **Prometheus**
+- Hercules
+
+*Explanation: Prometheus, the Titan god of forethought, was chained to the Caucasus mountains and had his liver devoured each day by Zeus' eagle Ethon, illustrating the liver's unique regenerative capacity.*
+
+---
+
+**2. Which term is described as the most precise from a cellular standpoint when referring to liver regeneration?**
+
+- Hypertrophy
+- Regeneration
+- **Hyperplasia**
+- Metaplasia
+
+*Explanation: Although regeneration, hyperplasia, and hypertrophy are used synonymously in literature, hyperplasia (increasing in cell number) is the most precise from a cellular standpoint.*
+
+---
+
+**3. What is the clinical term used for transplantations associated with high morbidity and mortality due to insufficient liver volume?**
+
+- Extended donor transplantation
+- **Small-for-size (SFS) transplantation**
+- Marginal graft transplantation
+- Split-liver transplantation
+
+*Explanation: Small-for-size (SFS) transplantations are associated with high morbidity and mortality rates due to insufficient volume of the liver remnant or transplanted graft.*
+
+---
+
+**4. Which technique involves atrophy of the ipsilateral hemiliver and hypertrophy of the contralateral side?**
+
+- Hepatic artery embolization
+- Transjugular intrahepatic portosystemic shunt (TIPS)
+- **Portal vein embolization (PVE)**
+- Biliary drainage
+
+*Explanation: Portal vein embolization (PVE) and portal vein ligation (PVL), along with additional hepatic vein embolization and ALPPS, cause atrophy of the ipsilateral hemiliver and hypertrophy of the contralateral side.*
+
+---
+
+**5. What is the abbreviation for the most extreme surgical technique to increase liver remnant volume mentioned in this chapter?**
+
+- PVE
+- PVL
+- LDLT
+- **ALPPS**
+
+*Explanation: ALPPS stands for Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy and is described as the most extreme technique to increase liver remnant volume.*
+
+---
+
+**6. In deceased donor transplantation, hepatocyte loss primarily occurs in the form of which type of injury?**
+
+- Autoimmune injury
+- Toxic injury
+- **Ischemia/reperfusion (I/R) injury**
+- Biliary injury
+
+*Explanation: In deceased donor transplantation, hepatocyte loss occurs in the form of ischemia/reperfusion (I/R) injury because of the necessary preservation period from procurement to implantation.*
+
+---
+
+**7. Which experimental model of liver regeneration was pioneered in 1931 by Higgins and Anderson?**
+
+- Carbon tetrachloride model
+- Galactosamine model
+- **Two-thirds partial hepatectomy (PHx)**
+- Bile duct ligation model
+
+*Explanation: Liver regeneration is most clearly shown in the experimental model pioneered in 1931 by Higgins and Anderson, in which a simple two-thirds partial hepatectomy (PHx) is performed without damage to the lobes left behind.*
+
+---
+
+**8. After two-thirds partial hepatectomy, how long does it take for residual lobes to enlarge to replace the removed mass in animal models?**
+
+- 1–2 days
+- 3–4 days
+- **5–7 days**
+- 10–14 days
+
+*Explanation: After two-thirds partial hepatectomy, the residual lobes enlarge to make up for the mass of the removed lobes in five to seven days.*
+
+---
+
+**9. Which is the preferred in vivo model to study the regenerative response because it does not damage remaining lobes?**
+
+- Galactosamine model
+- Carbon tetrachloride model
+- **Partial hepatectomy (PHx)**
+- Bile duct ligation model
+
+*Explanation: Since each toxic model injures specific liver cell subpopulations, PHx is the preferred in vivo model to study the regenerative response because it performs the resection without damage to the lobes left behind.*
+
+---
+
+**10. What is the "gold standard" technique for defining cell fate in liver regeneration research?**
+
+- Radioactive labeling
+- Immunohistochemistry
+- **Lineage tracing using Cre recombinase–mediated cell labeling**
+- Single-cell RNA sequencing
+
+*Explanation: Lineage tracing using cyclization recombinase (Cre) recombinase–mediated cell labeling is described as the gold standard for defining cell fate in liver regeneration research.*
+
+---
+
+**11. Which cell type provides the mitogenic stimuli that lead to proliferation of other liver cell types after resection?**
+
+- Kupffer cells
+- Stellate cells
+- Endothelial cells
+- **Hepatocytes**
+
+*Explanation: The kinetics of cell proliferation and the growth factors produced by proliferating hepatocytes suggest that hepatocytes provide the mitogenic stimuli leading to proliferation of the other cells.*
+
+---
+
+**12. The degree of hepatocyte proliferation after liver resection is directly proportional to which factor?**
+
+- Remnant liver volume
+- **Degree of injury**
+- Portal blood flow
+- Patient age
+
+*Explanation: The degree of hepatocyte proliferation is directly proportional to the degree of injury.*
+
+---
+
+**13. At what time point does the first peak of DNA synthesis occur after resection in rodents?**
+
+- 12 hours
+- 24 hours
+- **40 hours**
+- 72 hours
+
+*Explanation: The first peak of DNA synthesis occurs at 40 hours after resection in rodents and at seven to ten days in primates.*
+
+---
+
+**14. In small animals, how long does it take for the regenerative response to return the liver to its pre-resection mass?**
+
+- 24–48 hours
+- 3–4 days
+- **1 week to 10 days**
+- 4–6 weeks
+
+*Explanation: In small animals, the regenerative response returns the liver to the pre-resection mass in one week to 10 days.*
+
+---
+
+**15. Based on clinical studies from living donor transplantation, by when is human liver regeneration nearly complete after resection?**
+
+- 2 weeks
+- 1 month
+- **3 months**
+- 6 months
+
+*Explanation: Clinical studies from living donor transplantation suggest that a significant amount of regeneration occurs within two weeks after resection and is nearly complete at three months after resection.*
+
+---
+
+**16. After resection, where does hepatocyte proliferation begin in the liver lobule?**
+
+- Pericentral areas
+- Centrilobular zones
+- **Periportal areas**
+- Random throughout the lobule
+
+*Explanation: After resection, hepatocyte proliferation starts in the periportal areas of the lobules and then proceeds to the pericentral areas by 36 to 48 hours.*
+
+---
+
+**17. After a 70% hepatectomy, approximately how many proliferative cycles per residual hepatocyte are theoretically required to restore the original number of hepatocytes?**
+
+- 0.5
+- 1.0
+- **1.66**
+- 2.5
+
+*Explanation: After a 70% hepatectomy, restoration of the original number of hepatocytes theoretically requires 1.66 proliferative cycles per residual hepatocyte.*
+
+---
+
+**18. What percentage of hepatocytes in young rats participate in one or two proliferative events after 70% hepatectomy?**
+
+- 50%
+- 75%
+- **95%**
+- 100%
+
+*Explanation: Most of the hepatocytes (95% in young and 75% in very old rats) in the residual lobes participate in one or two proliferative events.*
+
+---
+
+**19. What is the calculated minimum number of doublings by which transplantation of several hundred healthy hepatocytes can repopulate a whole damaged liver?**
+
+- 20
+- 40
+- **69**
+- 100
+
+*Explanation: Hepatocytes have an almost unlimited capacity to regenerate, as transplantation of several hundreds of healthy hepatocytes can repopulate a whole damaged liver in a calculated minimum of 69 doublings.*
+
+---
+
+**20. What population of cells proliferates to replace hepatic parenchyma when hepatocytes are unable to replicate following toxic damage from galactosamine?**
+
+- Kupffer cells
+- Stellate cells
+- **Oval cells**
+- Biliary epithelial cells
+
+*Explanation: In response to toxic liver damage inflicted by agents such as galactosamine, hepatocytes are unable to replicate, and a population of cells known as "oval cells" proliferates to replace the hepatic parenchyma.*
+
+---
+
+**21. In humans, from where do hepatic progenitor cells (HPCs) originate?**
+
+- Portal triads
+- Central veins
+- **Canals of Hering**
+- Bile ducts of Luschka
+
+*Explanation: The human HPCs originate from the canals of Hering and play an important role in acetaminophen-induced injury.*
+
+---
+
+**22. What is the major driver for hepatic progenitor cell (HPC) expansion in the context of liver injury?**
+
+- Portal hypertension
+- Biliary obstruction
+- **Hepatocyte senescence after injury**
+- Steatosis
+
+*Explanation: More recent studies have shown that the contribution of HPCs is very much context dependent, with hepatocyte senescence after injury being a major driver for HPC expansion and their hepatocytic differentiation.*
+
+---
+
+**23. Which type of regeneration stimulus triggers stem cell–dependent proliferation along the central vein?**
+
+- Surgical resection
+- Portal vein ligation
+- **Toxic liver damage**
+- Ischemia-reperfusion injury
+
+*Explanation: After toxic liver damage, stem cell–dependent proliferation is seen along the central vein, whereas homeostatic proliferation is present throughout the whole liver.*
+
+---
+
+**24. How many immediate early genes are activated in remnant hepatocytes within minutes after partial hepatectomy?**
+
+- 10–20
+- 30–50
+- **70–100**
+- 150–200
+
+*Explanation: Within minutes after PHx, specific immediate early genes are activated in remnant hepatocytes, including 70 to 100 genes such as proto-oncogenes that play an important role in normal cell-cycle progression.*
+
+---
+
+**25. Which proto-oncogenes are among the immediate early genes activated after partial hepatectomy?**
+
+- p53, Rb, BRCA1
+- VEGF, HGF, EGF
+- **c-jun, c-fos, c-myc, and K-Ras**
+- TGF-β, activin, IL-10
+
+*Explanation: The 70 to 100 immediate early genes include proto-oncogenes such as c-jun, c-fos, c-myc, and K-Ras, which play an important role in normal cell-cycle progression.*
+
+---
+
+**26. What level of portal hyperperfusion (flow exceeding which rate) completely abolishes the liver regeneration process?**
+
+- 100 mL/100 g/min
+- 150 mL/100 g/min
+- 200 mL/100 g/min
+- **250 mL/100 g/min**
+
+*Explanation: Portal hyperperfusion (flow that exceeds 250 mL/100 g/min) completely abolishes the regeneration process, as demonstrated in a recent experimental partial liver transplant model.*
+
+---
+
+**27. Which two cytokines have been identified as the earliest factors triggering activation of transcription factors during liver regeneration?**
+
+- HGF and EGF
+- TGF-α and TGF-β
+- **IL-6 and TNF-α**
+- VEGF and FGF
+
+*Explanation: Interleukin (IL)-6 and tumor necrosis factor (TNF)-α have been identified as the earliest factors triggering activation of several transcription factors during regeneration.*
+
+---
+
+**28. Which transcription factor is activated by IL-6 through the gp130/IL-6R complex and is crucial for cells to progress from G1 to S phase?**
+
+- NF-κB
+- AP-1
+- C/EBPβ
+- **STAT3**
+
+*Explanation: IL-6 activates the JAK/STAT3 and MAPK signaling pathways via the gp130/IL-6R complex. STAT3 is crucial for cells to progress from G1 to S phase and for activating the c-myc gene.*
+
+---
+
+**29. Which receptor does TNF signal through to initiate liver regeneration after PHx, with IL-6 as the key target?**
+
+- TNFR-II
+- **TNFR-I**
+- IL-6R
+- gp130
+
+*Explanation: TNF signaling through TNF receptor (TNFR)-I initiates liver regeneration after PHx with IL-6 as the key target. Knockout mice lacking TNFR-I showed an almost complete inhibition of NF-κB binding and severe defects in hepatocyte replication.*
+
+---
+
+**30. What is the source of endotoxin lipopolysaccharide (LPS) that triggers Kupffer cells to produce TNF and start the regenerative cascade?**
+
+- Liver stellate cells
+- **Gram-negative bacteria in the gut**
+- Kupffer cells themselves
+- Sinusoidal endothelial cells
+
+*Explanation: Endotoxin lipopolysaccharide (LPS), produced in the gut by Gram-negative bacteria, is an extremely strong signal for Kupffer cells to produce TNF and start the cascade resulting in hepatocyte replication.*
+
+---
+
+**31. Which complement components, when absent in mice, severely impair cytokine activation and DNA replication after partial hepatectomy?**
+
+- C1q and C4
+- C2 and C3
+- **C3a and C5a**
+- C6 and C7
+
+*Explanation: Mice lacking both C3a and C5a have impaired production of TNF and IL-6 after PHx and poor activation of NF-κB and STAT3, demonstrating the importance of these complement components.*
+
+---
+
+**32. Which growth factor pathway is important for sustaining DNA synthesis after injury and activates downstream pathways involving PI3K, ERK, and AKT?**
+
+- EGF/EGFR pathway
+- TGF-α/EGFR pathway
+- **HGF/c-Met pathway**
+- VEGF/VEGFR pathway
+
+*Explanation: The HGF/c-Met pathway is important for sustaining DNA synthesis after injury and activates various downstream pathways that involve PI3K, ERK, and AKT.*
+
+---
+
+**33. Increased levels of HGF result in β-catenin dissociation along with nuclear translocation, which is a cross-talk with which signaling pathway?**
+
+- Notch signaling pathway
+- Hedgehog signaling pathway
+- **Wnt/β-catenin signaling pathway**
+- mTOR signaling pathway
+
+*Explanation: The HGF/c-Met pathway cross-talks with the Wnt/β-catenin signaling pathway. Increased levels of HGF result in β-catenin dissociation along with nuclear translocation and upregulation of downstream targets.*
+
+---
+
+**34. What is the role of urokinase-type plasminogen activator (uPA) in the initiation of HGF during liver regeneration?**
+
+- It directly synthesizes HGF
+- It activates the HGF receptor c-Met
+- **It cleaves the HGF precursor pro-HGF**
+- It inhibits HGF degradation
+
+*Explanation: uPA and its downstream effector, plasminogen, increase within one to five minutes after PHx and rapidly cleave the HGF precursor, pro-HGF, thereby initiating active HGF.*
+
+---
+
+**35. Which extracellular signaling molecule leads to rapid and transient activation of JNK signaling after PHx and has emerged as a rapidly acting signaling molecule?**
+
+- Serotonin
+- **Extracellular ATP**
+- Epinephrine
+- Glucagon
+
+*Explanation: Extracellular adenosine triphosphate (ATP) has emerged as a rapidly acting signaling molecule that after PHx leads to rapid and transient activation of JNK signaling, induction of immediate early genes c-Fos and c-Jun, and AP-1 DNA-binding activity.*
+
+---
+
+**36. Which protein inhibits NF-κB, protecting hepatocytes from apoptosis and ongoing inflammation after partial hepatectomy?**
+
+- SOCS3
+- TGF-β
+- **A20 (tnfaip3)**
+- p21
+
+*Explanation: The NF-κB inhibitory and ubiquitin-editing A20 protein (tnfaip3) plays a key role in the liver's protective response to injury. A20 is significantly upregulated after PHx and protects hepatocytes from apoptosis by inhibiting NF-κB.*
+
+---
+
+**37. Which enzyme's activity is increased by A20, demonstrating its role in metabolic control and energy production after liver regeneration?**
+
+- Alanine aminotransferase
+- Alkaline phosphatase
+- **Cytochrome c oxidase (mitochondrial complex IV)**
+- Glucose-6-phosphatase
+
+*Explanation: A20 allows for proliferation and optimizes metabolic control and energy production after liver regeneration, as demonstrated by increased enzymatic activity of cytochrome c oxidase or mitochondrial complex IV.*
+
+---
+
+**38. What form of cell death is primarily involved in portal vein embolization/ligation–induced atrophy of the ligated lobe?**
+
+- Necrosis
+- Oncosis
+- Pyroptosis
+- **Apoptosis**
+
+*Explanation: The atrophy of the ligated lobe is the result of apoptosis, whereas increased portal flow in the nonembolized lobe induces proliferation and activates several cytoplasmic growth-promoting signal transduction pathways.*
+
+---
+
+**39. What is the ECM composition change that occurs during liver regeneration after PHx?**
+
+- From fibronectin to laminin
+- **From high laminin content to primarily containing fibronectin and collagen types IV and I**
+- From collagen type I to collagen type III
+- From fibronectin to proteoglycans
+
+*Explanation: The hepatic matrix composition changes from high laminin content to primarily containing fibronectin and collagen types IV and I during the regenerative process after PHx.*
+
+---
+
+**40. Which inhibitor of angiogenesis causes delayed and suppressed liver regeneration in mice?**
+
+- Bevacizumab
+- Sorafenib
+- **Angiostatin**
+- Sirolimus
+
+*Explanation: Angiostatin, an inhibitor of angiogenesis, causes delayed and suppressed liver regeneration in mice, highlighting the importance of angiogenesis in liver regeneration.*
+
+---
+
+**41. What interaction potentiates Wnt/β-catenin signaling and promotes proliferation and tissue homeostasis in the context of ECM and liver regeneration?**
+
+- LGR4/5 receptors and their cognate RSPO ligands
+- Integrin receptors and fibronectin
+- EGF receptor and EGF
+- **LGR4/5 receptors and their cognate RSPO ligands**
+
+*Explanation: The interaction between LGR4/5 receptors and their cognate RSPO ligands potentiates Wnt/β-catenin signaling and promotes proliferation and tissue homeostasis.*
+
+---
+
+**42. What key mechanosensor for direct cell–cell tension and pressure, leading to proliferation, is mentioned in the context of ECM mechanosensing?**
+
+- YAP
+- TAZ
+- **α-Catenin**
+- LATS1/2
+
+*Explanation: α-Catenin is now considered a key mechanosensor for direct cell–cell tension and pressure, leading to proliferation. Additionally, the ECM maintains the differentiation state of hepatocytes.*
+
+---
+
+**43. Which important process is rapidly increased after PHx to compensate for the lost glycogen content and to produce sufficient glucose for the whole organism?**
+
+- Glycolysis
+- Lipid oxidation
+- **Gluconeogenesis**
+- Glycogenolysis
+
+*Explanation: Several of the expressed immediate early genes encode enzymes and proteins involved in regulating gluconeogenesis, which is very important after PHx to compensate for the lost glycogen content and produce sufficient glucose.*
+
+---
+
+**44. Which glucose homeostasis genes are notably increased in expression after PHx?**
+
+- Hexokinase, pyruvate kinase, aldolase
+- Glucokinase, GLUT2, insulin receptor
+- **PEPCK, G6Pase, and IGFBP-1**
+- Glycogen synthase, glycogen phosphorylase, GSK-3
+
+*Explanation: There is rapid increased expression of genes involved in glucose homeostasis after PHx, most notably including phosphoenolpyruvate carboxykinase (PEPCK), glucose-6-phosphatase (G6Pase), and hepatic insulin-like growth factor binding protein 1 (IGFBP-1).*
+
+---
+
+**45. What type of fat accumulation occurs as a physiologic process in every regenerating liver during early regeneration?**
+
+- Pathologic steatosis
+- Macrovesicular steatosis
+- **Transient regeneration-associated steatosis**
+- Alcoholic steatohepatitis
+
+*Explanation: During early regeneration, the liver accumulates fat before the major wave of parenchymal growth. Unlike pathologic steatosis, this transient regeneration-associated steatosis in hepatocytes is a physiologic process observed in every regenerating liver.*
+
+---
+
+**46. What is the primary energy source early after hepatectomy, as revealed by indirect calorimetry in mice?**
+
+- Glucose oxidation
+- Protein catabolism
+- **Lipid oxidation**
+- Ketone body utilization
+
+*Explanation: In mice, indirect calorimetry revealed that lipid oxidation is the primary energy source early after hepatectomy, regulated by downregulation of PTEN, a key inhibitor of the PI3K/AKT/mTOR axis.*
+
+---
+
+**47. Which nuclear receptor is the master regulator of bile acid (BA), lipid, and glucose metabolism during liver regeneration?**
+
+- PPARα
+- LXR
+- **FXR (Farnesoid X receptor)**
+- HNF-4α
+
+*Explanation: FXR (NR1H4) is the master regulator of BA, lipid, and glucose metabolism. Through activation of FXR, BAs regulate their hepatic metabolism and also promote hepatocellular proliferation.*
+
+---
+
+**48. Through which receptor do enterocyte-produced FGF15/19 molecules regulate BA synthesis and fine-tune liver regeneration?**
+
+- FGFR1
+- FGFR2
+- FGFR3
+- **FGFR4**
+
+*Explanation: FXR is expressed in enterocytes, where BAs stimulate the expression of FGF15/19, which is released to the portal blood. Through the activation of FGFR4 on hepatocytes, FGF15/19 regulates BA synthesis and finely tunes liver regeneration.*
+
+---
+
+**49. What is the term used for the master regulator of the liver/body mass ratio that controls when liver regeneration stops?**
+
+- Liver volume sensor
+- Growth terminator
+- **Hepatostat**
+- Hepatokine axis
+
+*Explanation: The size of the liver is highly regulated and controlled by the functional needs of the organism, implying the existence of a master regulator of the liver/body mass ratio, termed the "hepatostat."*
+
+---
+
+**50. Which are the most well-known antiproliferative factors within the liver that signal the termination of liver regeneration?**
+
+- HGF and EGF
+- IL-6 and TNF-α
+- **TGF-β and activin**
+- VEGF and angiopoietin
+
+*Explanation: The most well-known antiproliferative factors within the liver are TGF-β and related family members such as activin, which signal the end of proliferation.*
+
+---
+
+**51. Which complex forms in the early phase of regeneration, rendering hepatocytes initially resistant to TGF-β?**
+
+- TGF-β/Smad3 complex
+- TGF-β/TGF-βR complex
+- **TGF-β/SKI and SnoN inhibitory complexes**
+- TGF-β/SOCS3 complex
+
+*Explanation: TGF-β is produced mainly by hepatic stellate cells, but in the early phase it forms inhibitory complexes with SKI proto-oncogene (SKI) and SKI-like proto-oncogene (SnoN), rendering hepatocytes initially resistant to TGF-β.*
+
+---
+
+**52. What role does IL-6 signaling play in the termination of liver regeneration?**
+
+- It directly inhibits hepatocyte DNA synthesis
+- It promotes TGF-β release
+- **It causes rapid upregulation of SOCS3, correlating with downregulation of phosphorylated STAT3**
+- It activates caspase-dependent apoptosis
+
+*Explanation: IL-6 signaling in the liver causes the rapid upregulation of SOCS3, which correlates with a feedback loop and the subsequent downregulation of phosphorylated STAT3, thereby terminating the IL-6 signal.*
+
+---
+
+**53. Which cytokine has been shown to suppress DNA synthesis post-PHx and is involved in the process of cellular atrophy in a shrinking liver lobe?**
+
+- IL-6
+- TNF-α
+- **IL-1β**
+- IFN-γ
+
+*Explanation: The administration of exogenous IL-1β suppressed DNA synthesis post-PHx, and increased expression of IL-1β has also been observed in a shrinking liver lobe of a rat PVL model, indicating that IL-1β is involved in the process of cellular atrophy.*
+
+---
+
+**54. Which pathway do the Hippo signaling downstream effectors YAP and TAZ regulate in the context of liver size control?**
+
+- Apoptosis and cell death
+- Metabolic function and bile acid metabolism
+- **Cell proliferation and organ size**
+- Inflammatory response and immune regulation
+
+*Explanation: The Hippo signaling pathway and its downstream effectors, YAP and transcriptional coactivator with PDZ-binding motif (TAZ), have been identified as key regulators of cell proliferation and organ size.*
+
+---
+
+**55. In a transgenic mouse model, overexpression of YAP leads to massive liver hyperplasia reaching what percentage of body weight?**
+
+- 5%
+- 10%
+- 15%
+- **25%**
+
+*Explanation: Overexpression of YAP in a transgenic mouse model leads to massive liver hyperplasia, reaching 25% of body weight.*
+
+---
+
+**56. In aged mice, increased activity of which Hippo pathway kinases leads to anomalous signaling and non-regenerating livers?**
+
+- LATS1/2 and YAP
+- MST1/2 and LATS1/2
+- **MST1 and LATS1**
+- YAP and TAZ
+
+*Explanation: In aged mice, it was shown that MST1 and LATS1 activity was increased, leading to anomalous Hippo signaling and non-regenerating livers.*
+
+---
+
+**57. Classically, liver atrophy is triggered by which primary cause?**
+
+- Hepatocellular carcinoma
+- Viral hepatitis
+- **Obstruction of portal venous blood flow and/or chronic biliary obstruction**
+- Toxic injury from alcohol
+
+*Explanation: Classically, atrophy is triggered by an obstruction of portal venous blood flow and/or results from chronic obstruction of the bile duct.*
+
+---
+
+**58. In the setting of portal vein embolization/ligation-induced atrophy, which process predominates in the centrilobular areas of the liver in the first three days?**
+
+- Apoptosis
+- Autophagic cell death
+- **Ischemic necrosis**
+- Pyroptosis
+
+*Explanation: Ischemic necrosis of centrilobular areas of the liver predominates in the first three days of cell death after portal vein embolization/ligation.*
+
+---
+
+**59. In biliary-induced hepatic atrophy, toxic bile salts induce apoptosis through which pathway?**
+
+- Intrinsic mitochondrial pathway only
+- TRAIL/DR5 pathway
+- **Fas-mediated pathway**
+- TNF/TNFR pathway only
+
+*Explanation: Cholestasis results in the accumulation of toxic bile salts, which induce apoptosis through the Fas-mediated pathway, where TNF-α and Fas ligand bind to the Fas death receptors.*
+
+---
+
+**60. Which disease is described as a frequent cause of biliary atrophy in the chapter?**
+
+- Gallbladder cancer
+- Primary sclerosing cholangitis
+- **Perihilar cholangiocarcinoma**
+- Hepatocellular carcinoma
+
+*Explanation: Perihilar cholangiocarcinoma is described as a frequent cause of biliary atrophy, induced by progressive occlusion of a major bile duct, occurring with biliary occlusion approximately 20% of the time.*
+
+---
+
+**61. Benign post-cholecystectomy bile duct strictures can lead to hepatic atrophy in what percentage of cases?**
+
+- 1%–5%
+- 5%–8%
+- **10%–15%**
+- 20%–25%
+
+*Explanation: Benign post-cholecystectomy bile duct strictures can also lead to hepatic atrophy 10% to 15% of the time.*
+
+---
+
+**62. Lobar radioembolization with Yttrium-90 or Holmium-166 allows for growth of the contralateral lobe with what median increase after three months?**
+
+- 10%
+- 15%
+- 20%
+- **24%**
+
+*Explanation: "Radiohepatectomy" using lobar radioembolization with Yttrium-90 or Holmium-166 allows for growth of the contralateral lobe with a median increase of 24% after three months, which may enable resection.*
+
+---
+
+**63. Which cellular process, first described by Hayflick in 1961, is attributed to the aging effect on liver regeneration?**
+
+- Apoptosis
+- Necroptosis
+- Autophagy
+- **Cellular senescence**
+
+*Explanation: The aging effect on liver regeneration was attributed to cellular senescence, first introduced by Hayflick in 1961 to describe the limited proliferative ability of human fibroblasts in cell culture.*
+
+---
+
+**64. Which CDK inhibitor is expressed at high levels in old mouse livers, limiting cell cycle progression?**
+
+- p16
+- p18
+- p27
+- **p21**
+
+*Explanation: In old mouse livers, the CDK inhibitor p21 is expressed at high levels, as is cyclin B1. p21Cip1 is the inhibitor of cyclin E/CDK2 complex and promotes cell cycle arrest at the G1/S phase.*
+
+---
+
+**65. What percentage of hepatocytes in a normal liver exist in a senescent state?**
+
+- 1%–2%
+- **3%–7%**
+- 10%–15%
+- 20%–25%
+
+*Explanation: The normal liver contains a basal level of senescent hepatocytes (3%–7%), but in chronic hepatitis and cirrhosis the liver may exhibit 50% to 100% of hepatocytes in senescence.*
+
+---
+
+**66. What is the SASP (senescence-associated secretory phenotype) and what chemokine is notably secreted by senescent hepatocytes?**
+
+- A set of growth-promoting factors; HGF
+- A set of antiproliferative factors; TGF-α
+- **A set of proinflammatory cytokines/chemokines; CCL2**
+- A set of apoptotic signals; FasL
+
+*Explanation: Senescent hepatocytes secrete SASP factors with an abnormal level of proinflammatory cytokine/chemokines, such as CCL2, stimulating the production of TGF-β from hepatic macrophages.*
+
+---
+
+**67. Treatment of old mice with growth hormone can restore hepatocyte proliferation with increased expression of which transcription factor?**
+
+- C/EBPα
+- HNF-4α
+- **Foxm1B**
+- STAT3
+
+*Explanation: Aging has been shown to be associated with a progressive decline in growth hormone secretion and Foxm1B expression. Treatment of old mice with growth hormone can restore hepatocyte proliferation with increased Foxm1B and cyclin B1 expression.*
+
+---
+
+**68. Which signaling pathway's loss of regenerative capacity in old livers could be overcome by exogenous growth hormone substitution?**
+
+- p53/Rb pathway
+- Wnt/β-catenin pathway
+- **Glycogen synthase kinase 3β–cyclin D3 pathway**
+- Hippo/YAP pathway
+
+*Explanation: A critical role of the glycogen synthase kinase 3β–cyclin D3 pathway in the loss of the regenerative capacity in old livers was shown, which could be overcome by exogenous growth hormone substitution.*
+
+---
+
+**69. Which type of biliary drainage is clinically relevant in that it markedly suppresses liver regeneration after PHx?**
+
+- Internal biliary drainage
+- **External biliary drainage**
+- Endoscopic biliary stenting
+- Percutaneous transhepatic biliary drainage
+
+*Explanation: External biliary drainage for obstructive jaundice markedly suppresses liver regeneration after PHx, whereas internal biliary drainage preserves this capacity.*
+
+---
+
+**70. What is one of the most important hepatotrophic factors in portal venous blood, the impaired secretion of which prevents liver regeneration in diabetic patients?**
+
+- Glucagon
+- **Insulin**
+- Growth hormone
+- Somatostatin
+
+*Explanation: Insulin is one of the most important hepatotrophic factors in portal venous blood. Impaired secretion of insulin and IGF in diabetic patients prevents liver regeneration after PHx.*
+
+---
+
+**71. Multiple regression analysis in clinical PVE has shown that which condition is a risk factor for reduced hypertrophy in the nonembolized lobe?**
+
+- Obesity
+- Cirrhosis
+- Steatohepatitis
+- **Diabetes mellitus**
+
+*Explanation: Multiple regression analysis in clinical PVE has shown that diabetes mellitus is a risk factor for reduced hypertrophy in the nonembolized lobe.*
+
+---
+
+**72. What is the preferred method of nutritional support for improving liver regeneration based on animal model data?**
+
+- Total parenteral nutrition
+- Intravenous lipid supplementation
+- **Enteral feeding**
+- Amino acid supplementation only
+
+*Explanation: Enteral feeding should be preferred because rats given enteral nutrition showed much better weight gain after 70% hepatectomy than those given isocaloric nutrition parenterally.*
+
+---
+
+**73. Which supplementation has been shown to promote liver regeneration through its role as a source of DNA and protein synthesis?**
+
+- Branched chain amino acids
+- **Glutamine**
+- Omega-3 fatty acids
+- Vitamin E
+
+*Explanation: Supplementation of glutamine, one of the sources of DNA and protein synthesis, has been shown to promote liver regeneration.*
+
+---
+
+**74. What effect does dextrose supplementation have on liver regeneration?**
+
+- Promotes regeneration
+- No significant effect
+- **Inhibitory effect on liver regeneration**
+- Accelerates only the early phase of regeneration
+
+*Explanation: Dextrose supplementation has an inhibitory effect on liver regeneration, associated with increased expression of C/EBPα, p21, and p27.*
+
+---
+
+**75. What did the most recent preclinical studies show about the effect of short-term starvation (12–23 hours) on liver injury associated with I/R?**
+
+- No effect on liver injury
+- Increased apoptosis and necrosis
+- **Beneficial results in protecting against apoptosis and necrosis**
+- Increased inflammatory response
+
+*Explanation: The most recent preclinical studies investigated the effect of short-term starvation (12–23 hours) and showed beneficial results in protecting against apoptosis and necrosis associated with I/R.*
+
+---
+
+**76. Which steroid hormone is found to have receptors on hepatocytes and is substantially increased after PHx, accelerating liver regeneration?**
+
+- Testosterone
+- Progesterone
+- Cortisol
+- **Estradiol (17β-estradiol)**
+
+*Explanation: Estrogen receptors are found on hepatocytes and serum estradiol is increased substantially after PHx in rodents and humans. Pretreatment of rats with 17β-estradiol induces hepatocyte DNA synthesis in vitro and accelerates liver regeneration in vivo.*
+
+---
+
+**77. Which cytochrome P450 enzyme does estrogen significantly promote, facilitating bilirubin metabolism in regenerating liver?**
+
+- CYP3A4
+- CYP2D6
+- **CYP2A6**
+- CYP1A2
+
+*Explanation: Estrogen was shown to significantly promote Cytochrome P450 (CYP) 2A6, a bilirubin oxidase, facilitating bilirubin metabolism in regenerating liver.*
+
+---
+
+**78. Which condition has become an epidemic that poses significant challenges in the management of patients undergoing liver resection?**
+
+- Alcoholic liver disease
+- Viral hepatitis
+- **Nonalcoholic fatty liver disease (NAFLD) and steatohepatitis (NASH)**
+- Primary biliary cholangitis
+
+*Explanation: Nonalcoholic fatty liver disease (NAFLD) and steatohepatitis (NASH) have become an epidemic that poses significant challenges in the management of patients undergoing liver resection.*
+
+---
+
+**79. In steatotic livers, what signaling abnormality is observed after PHx in ob/ob mice?**
+
+- Upregulation of STAT3 and cyclin D1
+- Decreased AKT and increased PEPCK
+- **Disrupted coordinated induction of Jnks and Erks, with enhanced AKT and inhibition of PEPCK**
+- Normal TNF and IL-6 signaling with reduced DNA synthesis
+
+*Explanation: The coordinated induction of Jnks and Erks is disrupted after PHx in fatty livers of ob/ob mice (a model for steatohepatitis), with enhanced AKT and inhibition of PEPCK. Cyclin D1 induction is abolished along with STAT3 and reduced ATP levels.*
+
+---
+
+**80. What percentage of marked steatosis (≥30%) is associated with a significantly higher rate of complications after major hepatic resection?**
+
+- 10%
+- 20%
+- 25%
+- **≥30%**
+
+*Explanation: The presence of underlying steatosis has a considerable impact on operative morbidity and mortality after major hepatic resection, with a significantly higher rate of complications if marked steatosis (≥30%) is present.*
+
+---
+
+**81. Which factor directly links inflammation to regeneration by acting as the gatekeeper of the mitochondrial calcium uniporter (MCU)?**
+
+- MICU2
+- VDAC
+- **MICU1**
+- ANT
+
+*Explanation: Mitochondrial calcium uptake 1 (MICU1), the gatekeeper of the mitochondrial calcium uniporter (MCU), directly links inflammation to regeneration. Loss of MICU1 leads to an enhanced and sustained proinflammatory response post PHx with a failure of hepatocytes to enter the cell cycle.*
+
+---
+
+**82. Which viral infection delays liver regeneration through a reduced activation of the insulin receptor via NF-E2-related factor 2?**
+
+- Hepatitis C virus (HCV)
+- Cytomegalovirus (CMV)
+- **Hepatitis B virus (HBV)**
+- Epstein-Barr virus (EBV)
+
+*Explanation: In hepatitis B virus (HBV) infection, liver regeneration is delayed through a reduced activation of the insulin receptor. HBV induces expression of the insulin receptor via activation of the NF-E2-related factor 2, leading to intracellular retention that reduces functional surface insulin receptors.*
+
+---
+
+**83. Which chemotherapy agent is associated with sinusoidal obstruction syndrome (SOS)?**
+
+- Irinotecan (Campto)
+- 5-Fluorouracil
+- **Oxaliplatin (Eloxatin)**
+- Cisplatin
+
+*Explanation: Major drawbacks of hepatotoxic chemotherapy include sinusoidal obstruction syndrome (SOS), associated with oxaliplatin (Eloxatin, Sanofi Aventis).*
+
+---
+
+**84. Which chemotherapy agent is associated with chemotherapy-associated steatohepatitis (CASH)?**
+
+- Oxaliplatin
+- Bevacizumab
+- **Irinotecan (Campto)**
+- Sorafenib
+
+*Explanation: Chemotherapy-associated steatohepatitis (CASH) is associated with irinotecan (Campto, Pfizer), which increases postoperative mortality and specifically deaths from postoperative liver failure.*
+
+---
+
+**85. Which monoclonal antibody may prevent sinusoidal obstruction syndrome when administered concomitantly with oxaliplatin-based chemotherapy?**
+
+- Cetuximab
+- Trastuzumab
+- Rituximab
+- **Bevacizumab (Avastin)**
+
+*Explanation: Sinusoidal obstruction impairs liver regeneration after extensive liver resections, but may be prevented by administering concomitant Bevacizumab (Avastin, Hoffmann–LaRoche).*
+
+---
+
+**86. In adult-to-adult living donor liver transplantation (AALDLT), what percentage of the expected liver volume is typically transplanted?**
+
+- 30%–40%
+- 40%–50%
+- **50%–60%**
+- 70%–80%
+
+*Explanation: By transplanting only 50% to 60% of what is the expected liver volume in adults, recipients (and donors) must rely on the rapid regeneration of a partial liver in addition to maintaining the basic metabolic functions required of the liver.*
+
+---
+
+**87. Which NIH-sponsored study investigated the role of numerous donor and recipient factors in regeneration after adult-to-adult living donor liver transplantation?**
+
+- SPLIT study
+- NIDDK LT Database
+- **A2ALL study**
+- UNOS Registry
+
+*Explanation: The National Institutes of Health (NIH)-sponsored study in adult-to-adult living donor transplantation (A2ALL) investigated the role of numerous donor and recipient factors in regeneration. The size of the remnant liver or graft had the greatest impact on rate and quantity of regeneration.*
+
+---
+
+**88. Liver grafts with a graft volume of less than what percentage of calculated standard liver volume are associated with poor graft survival and prolonged hyperbilirubinemia?**
+
+- 20%
+- 30%
+- **40%**
+- 50%
+
+*Explanation: Liver grafts with a graft volume of less than 40% of calculated standard liver volume were associated with poor graft survival and prolonged hyperbilirubinemia.*
+
+---
+
+**89. What is the clinically accepted lower limit of graft-to-recipient body weight ratio for liver transplantation?**
+
+- 0.4%
+- 0.6%
+- **0.8%**
+- 1.0%
+
+*Explanation: Clinical experience with living donor and split grafts has led to an accepted lower limit of 0.8% graft-to-recipient body weight ratio, or 40% of the standard liver volume.*
+
+---
+
+**90. Which transcription factor does lack of blood flow during cold preservation for transplantation downregulate, deteriorating the protective phenotype of liver sinusoidal endothelial cells?**
+
+- NF-κB
+- STAT3
+- **KLF2 (Kruppel-like Factor 2)**
+- HNF-1α
+
+*Explanation: Lack of blood flow during cold preservation for transplantation markedly deteriorates the protective phenotype of liver sinusoidal endothelial cells (LSEC) by downregulating the expression of the transcription factor Kruppel-like Factor 2 (KLF2).*
+
+---
+
+**91. Which immunosuppressive agent, with its antiproliferative action, interferes with hepatocyte replication after liver transplantation?**
+
+- Tacrolimus
+- Cyclosporine
+- Mycophenolate mofetil
+- **Sirolimus**
+
+*Explanation: Sirolimus, with its antiproliferative action, interferes with hepatocyte replication, highlighting the potential conflict between immunosuppression and the need for hepatocyte proliferation after transplantation.*
+
+---
+
+**92. How do AALDLT recipients typically differ from whole graft recipients in terms of early tacrolimus dose requirements?**
+
+- They require higher doses
+- They require similar doses
+- **They require lower doses**
+- They do not require tacrolimus
+
+*Explanation: Preliminary studies have shown that AALDLT recipients require lower doses of tacrolimus in the early postoperative period than patients receiving whole grafts, likely due to the rapid hepatocyte replication and smaller liver mass affecting drug metabolism.*
+
+---
+
+**93. What is the generally recommended upper age limit for living liver donors in many transplant centers?**
+
+- 40–45 years
+- 45–50 years
+- **50–60 years**
+- 65–70 years
+
+*Explanation: Many groups limit the upper age limit of the donor into the 50 to 60 year range, although no definite age has been specified, as age affects the regeneration and recovery of both the living donor and the recipient.*
+
+---
+
+**94. Hepatic regeneration is triggered by shear stress on the sinusoidal endothelium and is associated with more rapid regeneration when portal flow is increased to approximately what level?**
+
+- Baseline level
+- **About two times baseline level**
+- Three times baseline level
+- Four times baseline level
+
+*Explanation: Hepatic regeneration is triggered by shear stress on the sinusoidal endothelium and is implicated in more rapid regeneration and increased recovery if portal flow is increased to about two times baseline level.*
+
+---
+
+**95. In the context of the gut-liver axis, what is the role of LPS (lipopolysaccharide) in liver regeneration?**
+
+- It inhibits hepatocyte DNA synthesis
+- It has no role in liver regeneration
+- **Endotoxin is necessary for liver regeneration and induces hepatic DNA synthesis**
+- It only promotes inflammation without regenerative effects
+
+*Explanation: Although it was initially thought that bacteria negatively influence liver regeneration, evidence indicates that endotoxin is necessary for liver regeneration. Gut-derived endotoxin administered before and after PHx induced hepatic DNA synthesis and release of hepatotrophic factors.*
+
+---
+
+**96. Which beneficial bacteria, when increased, reduced portal LPS levels and Kupffer cell activation in rats after orthotopic liver transplantation?**
+
+- Enterobacteriaceae and Clostridium
+- Fusobacterium and Prevotella
+- **Bifidobacterium, Lactobacillus, Bacteroides, and Eubacterium**
+- Helicobacter and Campylobacter
+
+*Explanation: When Bifidobacterium, Lactobacillus, Bacteroides, and Eubacterium were increased and Enterobacteriaceae was reduced, portal LPS levels and Kupffer cell activation decreased, which was beneficial for preventing liver injury found in rats after orthotopic liver transplantation.*
+
+---
+
+**97. What bacterial enzyme is responsible for converting primary bile acids to secondary bile acids (DCA and LCA)?**
+
+- Bile salt hydrolase
+- Cholesterol 7α-hydroxylase
+- Sterol 27-hydroxylase
+- **7α-dehydroxylase**
+
+*Explanation: The conversion from primary bile acids to the secondary BAs deoxycholic acid (DCA) and lithocholic acid (LCA) is mediated via bacterial enzyme 7α-dehydroxylase. Therefore the composition of BAs depends on the bacterial composition.*
+
+---
+
+**98. In a model of high-fat-diet induced steatosis, supplementation of which fatty acids revealed improvements in I/R injury and regenerative capacity?**
+
+- Saturated fatty acids
+- Monounsaturated fatty acids
+- **Omega-3 fatty acids**
+- Trans fatty acids
+
+*Explanation: In a model of high-fat-diet induced steatosis, supplementation of omega-3 fatty acids revealed improvements in I/R injury and regenerative capacity, interestingly in both lean and fat mice.*
+
+---
+
+**99. Which protein, when administered exogenously, effectively attenuated hepatocyte steatosis and promoted liver regeneration through regulating mitochondrial function via PGC1α?**
+
+- Apolipoprotein E (ApoE)
+- Apolipoprotein C (ApoC)
+- **Apolipoprotein A-1 (ApoA-1)**
+- Apolipoprotein B (ApoB)
+
+*Explanation: Exogenous ApoA-1 administration effectively attenuated hepatocyte steatosis and promoted liver regeneration at day two after major hepatectomy. Because ApoA-1 treatment increased the expressions of PGC1α and its target genes, ApoA-1 may accelerate regeneration of SFS fatty liver grafts.*
+
+---
+
+**100. Which experimental strategy supplemented to promote liver regeneration significantly upregulated SIRT1, which targets PGC1α and mitochondrial biogenesis?**
+
+- Fish oil
+- Vitamin E
+- Glutamine
+- **Nicotinamide**
+
+*Explanation: A study supplemented nicotinamide to promote liver regeneration and restore liver function after PHx in mice. Nicotinamide significantly upregulated the NAD-dependent protein deacetylase sirtuin1 (SIRT1), which also targets PGC1α and mitochondrial biogenesis.*
+
+---
+
+**101. Which key mediator of proliferative bile salt signaling was targeted by obeticholic acid (OCA) to accelerate liver regeneration through induction of intestinal FGF15?**
+
+- PPARα
+- LXR
+- **FXR**
+- HNF-4α
+
+*Explanation: The FXR, as the key mediator of proliferative bile salt signaling, was targeted by the potent obeticholic acid (OCA) in a model of PVE and in partial resection, showing accelerated liver regeneration through induction of intestinal FGF15.*
+
+---
+
+**102. What is considered an accurate assessment of functional hepatic reserve that can help predict mortality before liver resection?**
+
+- Child-Pugh score
+- Bilirubin level
+- **Indocyanine green clearance (ICG)**
+- Platelet count
+
+*Explanation: Indocyanine green clearance (ICG) is regarded as an accurate assessment of functional reserve and can help predict mortality before major liver resection.*
+
+---
+
+**103. The LiMAx (maximum liver function capacity) test is based on the metabolization of which compound by liver-specific enzyme CYP1A2?**
+
+- Indocyanine green
+- Galactose
+- Lidocaine
+- **13C-methacetin**
+
+*Explanation: The LiMAx test is based on the metabolization of 13C-methacetin in the liver acinus by liver-specific enzyme CYP1A2 into acetaminophen and carbon dioxide (13CO2), which can then be determined in the exhaled air.*
+
+---
+
+**104. When is PVE recommended based on the predicted future liver remnant (FLR) in a normal liver?**
+
+- FLR less than 10%–15%
+- **FLR less than 20%–25%**
+- FLR less than 30%–35%
+- FLR less than 40%–45%
+
+*Explanation: PVE is recommended when predicted FLR is less than 20% to 25% in a normal liver and less than 40% in a liver with compromised function.*
+
+---
+
+**105. What percentage of marginal contralateral regeneration after PVE is a strong predictor of liver failure after subsequent liver resection?**
+
+- Less than 10%
+- Less than 8%
+- Less than 7%
+- **Less than 5%**
+
+*Explanation: Marginal contralateral regeneration of less than 5% after PVE is a strong predictor of liver failure after subsequent liver resection.*
+
+---
+
+**106. What is the median volume increase seen in the left lateral segments in ALPPS procedures, allowing for extended right hemihepatectomy?**
+
+- 20%–30%
+- 40%–50%
+- 60%–65%
+- **74% (range 21%–192%)**
+
+*Explanation: Between one week and ten days after the first stage of ALPPS, impressive hypertrophy of the left lateral segments has occurred, with a median volume increase of 74% (range 21%–192%).*
+
+---
+
+**107. What was the initial mortality rate associated with the ALPPS procedure when it was first introduced?**
+
+- 2%–5%
+- 5%–8%
+- **11%–19%**
+- 25%–30%
+
+*Explanation: The ALPPS procedure was initially hampered by high mortality (11%–19%) and high morbidity (up to 40%), but with increasing experience and better patient selection, better results are gained without perioperative mortality.*
+
+---
+
+**108. What is the phenomenon known as I/R injury that impairs liver regeneration after liver resection and transplantation?**
+
+- The inflammatory response to surgical trauma
+- The injury caused by prolonged bile duct obstruction
+- **The injury resulting from prolonged tissue oxygen deprivation followed by reperfusion and restoration of oxygen delivery**
+- The damage caused by immunosuppressive agents
+
+*Explanation: Liver resection, transplantation, and trauma can result in prolonged deprivation of tissue oxygen, converting cellular metabolism to anaerobic pathways. Reperfusion, and consequently the restoration of oxygen delivery, lead to liver injury, known as I/R injury.*
+
+---
+
+**109. What does IPC (ischemic preconditioning) by 10 minutes of portal triad inflow occlusion and 10 minutes of reperfusion involve in terms of protective mechanisms?**
+
+- Induction of apoptosis and cellular clearance
+- Upregulation of TGF-β and growth arrest
+- **Inhibition of apoptosis, preservation of cellular ATP, upregulation of IL-1Ra, iNOS, Bcl-2, and downregulation of TGF-β**
+- Stimulation of complement cascade and neutrophil activity
+
+*Explanation: The protective effect of ischemic preconditioning (IPC) involves inhibition of apoptosis and preservation of cellular ATP content. IPC triggers overexpression of IL-1Ra, iNOS, and Bcl-2, and promotes liver regeneration via upregulation of TNF-α, IL-6, and HSPs, and downregulation of TGF-β.*
+
+---
+
+**110. In patients over 65 years of age, which approach better attenuates liver injury compared to IPC?**
+
+- Pharmacological preconditioning with HSPs
+- Extended total hepatic inflow occlusion
+- **Intermittent clamping (15 minutes ischemia and 5 minutes reperfusion)**
+- Cold perfusion before resection
+
+*Explanation: There was no difference in protecting potential between intermittent clamping (15 minutes ischemia and five reperfusion) or IPC with subsequent inflow occlusion for a maximum of 75 minutes, except for patients over 65 years of age, who benefited more from intermittent clamping to attenuate liver injury.*
+
+---
+
+**111. The deleterious effect of chemotherapy on liver regeneration seems to increase sharply after how many cycles?**
+
+- 2 courses
+- 3 courses
+- 4 courses
+- **5 courses**
+
+*Explanation: The deleterious effect of chemotherapy on regeneration seems to increase with the total number of cycles given and shows a sharp rise after five courses, leading to the recommendation of no more than six cycles before liver resection.*
+
+---
+
+**112. How long before surgery should bevacizumab theoretically be stopped due to its long half-life?**
+
+- 2–3 weeks
+- 4–5 weeks
+- **6–8 weeks**
+- 10–12 weeks
+
+*Explanation: The anti-VEGF monoclonal bevacizumab has a long half-life and theoretically should be stopped six to eight weeks before surgery, necessitating close collaboration with the medical oncologist in the timing of surgery.*
+
+---
+
+**113. During liver regeneration, what role do neutrophils play in promoting repair?**
+
+- They directly proliferate to replace damaged hepatocytes
+- They inhibit stellate cell activation
+- **They promote the phenotypic conversion of proinflammatory monocytes/macrophages to proresolving macrophages**
+- They produce HGF to stimulate hepatocyte proliferation
+
+*Explanation: During normal liver regeneration, neutrophils have crucial functions in liver repair by promoting the phenotypic conversion of proinflammatory monocytes/macrophages to proresolving macrophages, involving ROS, granulocyte colony-stimulating factor, and NADPH oxidase 2 (Nox2).*
+
+---
+
+**114. What are DAMPs (danger-associated molecular patterns) released from necrotic hepatocytes during liver injury that are recognized by Kupffer cells?**
+
+- Cytokines and chemokines
+- Complement factors and antibodies
+- **HMGB-1, HSPs, and DNA fragments**
+- Growth factors and ECM proteins
+
+*Explanation: Upon tissue injury, danger signals (DAMPs) are released from necrotic hepatocytes, such as high-motility group box 1 (HMGB-1), HSPs, and DNA fragments, and recognized via TLR receptors in resident macrophages (Kupffer cells).*
+
+---
+
+**115. What was the observed benefit of single perioperative glucocorticoid administration in the context of liver regeneration and inflammation?**
+
+- Promoted liver regeneration and reduced tumor growth
+- Increased IL-6 and TNF-α levels for better regeneration
+- **Reduced systemic inflammatory cytokine release and showed benefits in postoperative bilirubin levels and complications**
+- Completely abolished liver regeneration
+
+*Explanation: The single perioperative administration of glucocorticoids reduced systemic inflammatory cytokine release (TNF-α and IL-6) and showed benefits in postoperative bilirubin levels and reduced postoperative complications.*
+
+---
+
+**116. Which chemokine receptor is expressed by the major fraction of mobilized bone marrow stem cells relevant to hepatocyte engraftment?**
+
+- CCR5
+- CXCR3
+- **CXCR4**
+- CCR2
+
+*Explanation: The major fraction of mobilized BM stem cells expresses the chemokine receptor CXCR4. At the same time, the mRNA level of its ligand (SDF-1) is increased in the damaged liver tissue, suggesting CXCR4/SDF-1 interaction is important for mobilization of progenitor stem cells to the damaged liver.*
+
+---
+
+**117. BM-derived stem cells have been shown to increase the regeneration of contralateral liver after clinical PVE by how many times?**
+
+- 1.5-fold
+- **2.5-fold**
+- 3-fold
+- 5-fold
+
+*Explanation: BM-derived stem cells increased the regeneration of contralateral liver after clinical PVE 2.5-fold, demonstrating the clinical relevance of stem cell contributions to liver regeneration.*
+
+---
+
+**118. What are the three primary mechanisms by which mesenchymal stem cells (MSCs) exert therapeutic effects in liver injury?**
+
+- Hepatocyte replacement, portal pressure reduction, immune modulation
+- Inflammation control, fibrosis resolution, bile acid regulation
+- **Cell fusion with hepatocytes, soluble factor secretion, and paracrine effects through shed microvesicles (MVs)**
+- Direct hepatocyte differentiation, Kupffer cell replacement, and biliary epithelial reconstitution
+
+*Explanation: The therapeutic effects of MSCs or MSC-derived hepatocytes in liver injury can be explained by three primary mechanisms: (1) MSCs generate cells that function as hepatocytes after fusing with metabolically defective hepatocytes, (2) soluble factors secreted by MSCs in response to acute damage, and (3) paracrine effects through sharing of shed microvesicles (MVs).*
+
+---
+
+**119. What is the strategy used in decellularized hepatic matrix development to create a scaffold for liver tissue engineering?**
+
+- Chemical synthesis of artificial ECM
+- Bioprinting of collagen scaffolds
+- **Removal of cells from an organ leaving intact ECM, then reseeding with appropriate cells**
+- 3D printing of synthetic polymer scaffolds
+
+*Explanation: The strategy is based on removal of cells from an organ, leaving a complex mixture of structural and functional proteins that constitute the ECM, which is then re-seeded with an appropriate population of cells and connected to the blood stream and biliary system.*
+
+---
+
+**120. What is the major obstacle to clinical application of decellularized liver matrix with iPS-derived hepatocytes?**
+
+- High immunogenicity of iPS cells
+- Inability to form vascular structures
+- Insufficient ECM protein composition
+- **Concern about the plasticity of these cells to form bile ducts**
+
+*Explanation: There is concern about the plasticity of iPS-derived cells to form bile ducts, a main hurdle to usefulness in clinically transplantable liver matrix engineering.*
+
+---
+
+**121. Which miRNA was identified in 2002 as an abundant miRNA in the liver and characterized as the most frequent miRNA isolated in the adult liver?**
+
+- miR-21
+- miR-33
+- miR-155
+- **miR-122**
+
+*Explanation: In 2002, miR-122 was identified as an abundant miRNA in the liver and characterized as the most frequent miRNA isolated in the adult liver, with evidence for its overall importance in the regulation of liver metabolism.*
+
+---
+
+**122. What effect did silencing miR-122 in high-fat fed mice have on hepatic metabolism?**
+
+- Increased hepatic steatosis and cholesterol synthesis
+- No effect on steatosis but reduced fatty acid oxidation
+- **Significant reduction of hepatic steatosis with reduced cholesterol synthesis rates and stimulation of fatty-acid oxidation**
+- Increased steatosis with stimulated cholesterol synthesis
+
+*Explanation: Silencing miR-122 in high-fat fed mice resulted in a significant reduction of hepatic steatosis, which was associated with reduced cholesterol synthesis rates and stimulation of hepatic fatty-acid oxidation.*
+
+---
+
+**123. Which miRNA, when inhibited, has been shown to improve liver regeneration after PHx in mice?**
+
+- miR-122
+- miR-21
+- **miR-33**
+- miR-26a
+
+*Explanation: Inhibition of miR-33 improves liver regeneration after PHx in mice, indicating that miRNAs are critical regulators of hepatocyte proliferation during liver regeneration.*
+
+---
+
+**124. In liver transplantation, inhibition of which miRNAs was associated with successful liver regeneration?**
+
+- miR-122, miR-21, miR-33
+- miR-26a, miR-30b, miR-378
+- **miRNA 150, 663, and 503**
+- miR-22a, Let-7f, Let-7g
+
+*Explanation: In liver transplantation, distinct patterns of successful and failed regeneration could be discerned, with inhibition of miRNA 150, 663, and 503 being associated with successful regeneration.*
+
+---
+
+**125. What is the key concern when promoting liver cell proliferation therapeutically in patients with primary or metastatic liver tumors?**
+
+- Risk of immunosuppression
+- Risk of renal failure
+- Risk of bile duct injury
+- **Risk of stimulating tumor growth**
+
+*Explanation: While promoting liver cell proliferation, clinicians must be very cautious not to stimulate tumor growth in patients with primary or metastatic liver tumors as a consequence of the therapy.*
+
+---
+
+**126. Which signaling pathway does STAT3 primarily activate during liver regeneration that is crucial for cell cycle progression from G1 to S phase?**
+
+- Wnt/β-catenin pathway
+- HGF/c-Met pathway
+- PI3K/AKT pathway
+- **JAK/STAT3 pathway via gp130/IL-6R complex, activating the c-myc gene**
+
+*Explanation: STAT3 is crucial for cells to progress from G1 to S phase and for activating the c-myc gene, a gene required for cell-cycle progression. IL-6 activates the JAK/STAT3 and MAPK signaling pathways via the gp130/IL-6R complex.*
+
+---
+
+**127. Which cells are described as the first to reach inflamed liver tissue after injury, facilitated by the lack of common basal lamina and tight junctions of liver sinusoidal endothelial cells?**
+
+- Monocytes
+- Lymphocytes
+- **Neutrophils**
+- Eosinophils
+
+*Explanation: Attracted by the release of chemokines and inflammatory cytokines (TNF-α, IL-1β, and IL-6), neutrophils are the first cells to reach inflamed tissues. They invade the liver, facilitated by the lack of the common basal lamina and tight junctions of liver sinusoidal endothelial cells (LSECs).*
+
+---
+
+**128. What is the recommended minimal functional remnant liver volume after extended hepatectomy in a normal liver?**
+
+- More than 10%
+- More than 20%
+- **More than 25%**
+- More than 30%
+
+*Explanation: Recommended minimal functional remnant LV after extended hepatectomy is greater than 25% in a normal liver and greater than 40% in an "injured" liver, with moderate to severe steatosis, cholestasis, fibrosis, or after chemotherapy.*
+
+---
+
+**129. What is the recommended minimal functional remnant liver volume after extended hepatectomy in an "injured" liver (with steatosis, cholestasis, fibrosis, or after chemotherapy)?**
+
+- More than 25%
+- More than 30%
+- More than 35%
+- **More than 40%**
+
+*Explanation: In an "injured" liver with moderate to severe steatosis, cholestasis, fibrosis, or after chemotherapy, the recommended minimal functional remnant LV after extended hepatectomy is greater than 40%.*
+
+---
+
+**130. What is the important limitation of hepatobiliary scintigraphy as a liver function assessment tool?**
+
+- It cannot measure liver volume accurately
+- It is too expensive and not widely available
+- **It does not give reliable information about liver function in patients with biliary obstruction**
+- It requires radioactive contrast that is nephrotoxic
+
+*Explanation: One of the drawbacks of hepatobiliary scintigraphy is that it does not give reliable information about liver function in patients with biliary obstruction, such as cholangiocarcinoma patients.*
+
+---
+
+**131. What is the role of the SIRT1 deacetylase in liver regeneration and metabolic regulation?**
+
+- It promotes cell death and energy storage
+- It inhibits mTOR and reduces cell proliferation
+- **It regulates BA homeostasis, protein synthesis, and cell proliferation by deacetylating FXR and histones; it is activated in low energy states**
+- It directly synthesizes bile acids and glucose
+
+*Explanation: SIRT1 serves as a key regulator of the regenerative response of the liver, controlling BA homeostasis, protein synthesis, and cell proliferation through deacetylation of FXR and histones, and regulation of mTOR. SIRT1 is activated in situations of low energy availability.*
+
+---
+
+**132. How does mTOR relate to SIRT1 in the regulation of liver regeneration?**
+
+- mTOR and SIRT1 have the same function
+- mTOR is activated in low energy states like SIRT1
+- **Contrary to SIRT1 (activated in low energy), mTOR is activated in high-energy conditions and controls cell growth and proliferation**
+- mTOR inhibits SIRT1 to prevent cell proliferation
+
+*Explanation: Contrary to SIRT1, mTOR is activated in high-energy conditions and controls cell growth and proliferation. mTORC1 promotes protein synthesis, and this axis is essential to regulate the cell cycle during liver regeneration after PHx.*
+
+---
+
+**133. What is the significance of the first peak of DNA synthesis occurring later in primates (7–10 days) compared to rodents (40 hours) after partial hepatectomy?**
+
+- It indicates that primates have less regenerative capacity
+- **It reflects species differences in the kinetics of liver regeneration, with a slower regenerative response in primates including humans**
+- It suggests that primates use a different cellular mechanism for regeneration
+- It means that primate livers require more injury to initiate regeneration
+
+*Explanation: The first peak of DNA synthesis occurs at 40 hours after resection in rodents and at seven to ten days in primates, reflecting important species differences in the kinetics of liver regeneration relevant to clinical translation.*
+
+---
+
+**134. What is the function of plasminogen-activator inhibitor (PAI) in the context of liver regeneration and HGF release?**
+
+- PAI promotes HGF release
+- PAI activates HGF directly
+- **Blocking PAI accelerates the release of HGF and liver regeneration**
+- PAI inhibits HGF receptor activation
+
+*Explanation: Blocking plasminogen-activator inhibitor (PAI) accelerates the release of HGF and liver regeneration, whereas blocking uPA delays the appearance of HGF and thereby delays liver regeneration.*
+
+---
+
+**135. Which cells, located between endothelial cells and hepatocytes, synthesize ECM proteins and TGF-γ1 during liver remodeling?**
+
+- Kupffer cells
+- Oval cells
+- Cholangiocytes
+- **Stellate cells**
+
+*Explanation: To restore normal architecture, stellate cells, which are located between endothelial cells and hepatocytes, synthesize extracellular matrix (ECM) proteins and TGF-γ1, which can regulate the production of hepatic ECM.*
+
+---
+
+**136. Which growth factors are likely involved in the angiogenic process during liver remodeling after hepatectomy?**
+
+- Only VEGF and angiopoietins
+- Only FGF-1 and FGF-2
+- Only TGF-α and HGF
+- **VEGF, angiopoietins 1 and 2, TGF-α, FGF-1, FGF-2, and HGF**
+
+*Explanation: VEGF, angiopoietins 1 and 2, TGF-α, fibroblast growth factor (FGF)-1 and FGF-2, and HGF all are likely involved in the angiogenic process during liver remodeling.*
+
+---
+
+**137. What effect do matrix metalloproteinases (MMPs) have during liver regeneration beyond ECM remodeling?**
+
+- They only degrade collagen and fibronectin
+- They inhibit hepatocyte proliferation
+- **They also regulate immune responses and participate in modulation of vascular integrity at endothelial cell–cell junctions**
+- They only activate TGF-β and inhibit regeneration
+
+*Explanation: MMPs not only remodel the ECM but also regulate immune responses and participate in modulation of vascular integrity at the endothelial cell–cell junctions in steatotic livers after I/R injury.*
+
+---
+
+**138. What appears to signal the end of rapid regeneration based on ECM maturation?**
+
+- The activation of STAT3 and NF-κB
+- The depletion of hepatotrophic growth factors
+- **The maturation and thickening of the ECM seems to have an inhibitory effect on proliferating hepatocytes**
+- The re-establishment of normal portal blood flow
+
+*Explanation: The maturation and thickening of the ECM seems to have an inhibitory effect on proliferating hepatocytes, potentially signaling the end of rapid regeneration.*
+
+---
+
+**139. What is the role of increased ECM rigidity in hepatocyte behavior?**
+
+- It promotes hepatocyte differentiation and reduces proliferation
+- It has no effect on hepatocyte behavior
+- **Increased rigidity favors hepatocyte proliferation, with hepatocytes remaining differentiated on softer support but committing to dedifferentiation on stiffer support**
+- It promotes apoptosis of hepatocytes
+
+*Explanation: Increased rigidity favors hepatocyte proliferation, with hepatocytes remaining differentiated on softer support of fibrillar collagen meshwork and committing into dedifferentiation on stiffer support of monomeric collagen-coated dish.*
+
+---
+
+**140. What is the ALPPS procedure's two-stage approach designed to accomplish?**
+
+- Provide improved blood supply to the tumor before resection
+- Decrease portal hypertension before major liver surgery
+- **Induce rapid hypertrophy of the future liver remnant (FLR) before extended hepatectomy by combining liver parenchymal transection with portal vein ligation**
+- Reduce the size of the tumor through staged tumor resection
+
+*Explanation: In the ALPPS two-step approach, the liver parenchyma is transected between segments 2/3 and 4, with concomitant ligation of the right portal vein. One week to ten days later, impressive hypertrophy of the left lateral segments has occurred, allowing extended right hemihepatectomy.*
+
+---
+
+**141. Which specific downstream target genes of the Wnt/β-catenin pathway are upregulated by increased HGF during liver regeneration?**
+
+- p21, p27, and p53
+- TGF-β, activin, and SOCS3
+- **Cyclin D1, c-myc, uPAR, matrix metalloproteinases (MMPs), and epidermal growth factor receptor**
+- IL-6, TNF-α, and NF-κB
+
+*Explanation: Increased levels of HGF result in β-catenin nuclear translocation and upregulation of downstream targets of this pathway such as cyclin D1, c-myc, uPAR, matrix metalloproteinases (MMPs), and epidermal growth factor receptor.*
+
+---
+
+**142. How does VEGF contribute to HGF production during liver regeneration?**
+
+- VEGF directly stimulates hepatocytes to produce HGF
+- VEGF activates Kupffer cells to release HGF
+- **VEGF interacts with endothelial cells in the liver to increase HGF production from nonparenchymal cells**
+- VEGF has no role in HGF production
+
+*Explanation: Vascular endothelial growth factor (VEGF) interacts with endothelial cells in the liver to increase HGF production from nonparenchymal cells, thereby contributing to the regenerative cascade.*
+
+---
+
+**143. What is the significance of the Debonera finding regarding rat liver transplant models of I/R injury?**
+
+- I/R injury completely abolishes liver regeneration
+- I/R injury and PHx use entirely different signaling pathways
+- **Regenerative signaling observed in a rat liver transplant model of I/R injury is similar to that observed after PHx**
+- I/R injury only activates apoptotic pathways without regenerative signaling
+
+*Explanation: Debonera demonstrated that regenerative signaling observed in a rat liver transplant model of I/R injury is similar to that observed after PHx, validating the relevance of PHx findings to transplant scenarios.*
+
+---
+
+**144. Which transgenic animal models are mentioned as newer experimental models of liver regeneration?**
+
+- GFP reporter mice and CRISPR knockout mice
+- Zebrafish CRISPR models and humanized mice
+- **Transgenic albumin promoter u-PA fusion constructs, Fah/Rag2 knock-out mice, and PHx in zebrafish**
+- ob/ob mice and db/db mice
+
+*Explanation: Newer models include transgenic albumin promoter urokinase-type plasminogen activator (u-PA) fusion constructs, Fah/Rag2 knock-out mice, and PHx in zebrafish, each providing unique insights into liver regeneration.*
+
+---
+
+**145. What is the role of the Cre recombinase activity modulation by the mutated ligand-binding domain of the estrogen receptor in lineage tracing?**
+
+- It allows Cre to be permanently activated
+- It makes Cre sensitive to estrogen for continuous labeling
+- **It makes Cre sensitive to tamoxifen but insensitive to estrogen, allowing temporally controlled cell labeling upon tamoxifen addition**
+- It allows cell-specific labeling without any pharmacological intervention
+
+*Explanation: The Cre activity is modulated by fusing a mutated ligand-binding domain of the estrogen receptor (ER), which is sensitive to tamoxifen but insensitive to estrogen. Upon addition of tamoxifen, CreER eliminates a loxP-flanked stop cassette and induces transcription of the reporter protein.*
+
+---
+
+**146. What are the two transcriptional coactivators in the Hippo pathway that regulate cell proliferation and organ size?**
+
+- MST1/2 and LATS1/2
+- Smad2 and Smad3
+- **YAP and TAZ (transcriptional coactivator with PDZ-binding motif)**
+- NF-κB and AP-1
+
+*Explanation: The Hippo signaling pathway and its downstream effectors, YAP and transcriptional coactivator with PDZ-binding motif (TAZ), have been identified as key regulators of cell proliferation and organ size.*
+
+---
+
+**147. In a rat PHx model, when does YAP return to baseline nuclear levels and target gene expression after hepatectomy?**
+
+- Day 1
+- Day 3
+- Day 5
+- **Day 7**
+
+*Explanation: During regeneration in a rat model, YAP was activated one day after PHx through decreased activation of core kinases MST1/2, as well as LATS1/2 by three days after PHx. At day seven, reaching normal liver size, YAP nuclear levels and target gene expression returned to baseline.*
+
+---
+
+**148. What is the role of C/EBPα in liver regeneration and termination?**
+
+- It promotes hepatocyte proliferation throughout regeneration
+- It has no role in termination of regeneration
+- **It has antiproliferative properties, is downregulated during regeneration, and its complex formation with HDAC1 represses key regulators of liver proliferation during termination**
+- It promotes bile acid metabolism and has no anti-proliferative effects
+
+*Explanation: C/EBPα regulates expression of genes involved in hepatic glucose and lipid homeostasis, has antiproliferative properties, and is downregulated during liver regeneration after hepatectomy. Complex formation of C/EBPα and chromatin remodeling protein HDAC1 represses other key regulators of liver proliferation during the termination stage.*
+
+---
+
+**149. Through which receptor does IL-1 exert its effects on cessation of liver regeneration, and what inhibits it?**
+
+- IL-1 acts through IL-1R2; inhibited by IL-1Ra
+- **IL-1 acts through the IL-1 receptor; its antagonist (IL-1Ra) inhibits facilitated liver regeneration**
+- IL-1 acts through TNF receptors; inhibited by IL-6
+- IL-1 acts through gp130; inhibited by SOCS3
+
+*Explanation: The effect of IL-1 is mediated through the IL-1 receptor, as its antagonist (IL-1Ra), a competitive inhibitor of IL-1α and IL-1β and antiinflammatory protein, inhibits facilitated liver regeneration.*
+
+---
+
+**150. What regulates the secretion of IL-1 by Kupffer cells, and which agents suppress it after PHx?**
+
+- IL-6 regulates it; suppressed by TNF-α
+- TGF-β regulates it; suppressed by STAT3
+- **Prostaglandin E2 (PGE2) regulates it; suppressed by heparin and PGE1 after PHx**
+- NF-κB regulates it; suppressed by IκB
+
+*Explanation: The IL-1 is secreted by Kupffer cells, regulated by prostaglandin E2 (PGE2), and suppressed by heparin and PGE1 after PHx.*
+
+---
+
+**151. What is the "streaming liver" debate that has been refueled by the presence of regenerative stem cells at the portal rim?**
+
+- Whether hepatocytes can migrate through the liver sinusoids
+- Whether bile flows in a specific direction through the liver
+- **A debate about whether hepatocytes continuously stream from the portal to central vein, or whether regeneration occurs from fixed stem cell niches**
+- Whether portal blood flows in a streaming or laminar pattern
+
+*Explanation: The presence of regenerative stem cells at the portal rim has refueled the streaming liver debate, which concerns whether hepatocytes continuously stream from the portal to central vein as part of normal hepatocyte renewal.*
+
+---
+
+**152. What is the difference between necrosis and apoptosis in the context of liver atrophy?**
+
+- Necrosis is regulated and apoptosis is not
+- Both are equally regulated processes
+- **Necrosis is a nonregulated traumatic disruption inducing large inflammation; apoptosis is an inducible, highly orchestrated, energy-dependent cascade without inducing inflammation**
+- Necrosis allows cells to shrink while apoptosis causes cell swelling
+
+*Explanation: Necrosis is a nonregulated traumatic disruption of a cell that occurs when it encounters overwhelming injury, whereas apoptosis is an inducible, highly orchestrated cascade of events that is physiologic. Necrotic cells lose membrane integrity and induce large inflammatory responses; apoptosis allows cells to shrink and die without inducing inflammation.*
+
+---
+
+**153. What happens when the contralateral lobes are resected after PVL in a research environment?**
+
+- The atrophy of the ipsilateral liver is irreversible
+- The contralateral resection accelerates atrophy of the deprived lobe
+- **The regenerative stimulus of a 70% hepatectomy can counteract the atrophy of the ipsilateral liver, leading to a low but prolonged regenerative response**
+- The ipsilateral lobe undergoes rapid necrosis
+
+*Explanation: In a research environment, when the contralateral lobes are resected after PVL, the regenerative stimulus of a 70% hepatectomy can counteract the atrophy of the ipsilateral liver, leading to a low but prolonged regenerative response of the portally deprived liver lobe.*
+
+---
+
+**154. In what context do miRNAs function mechanistically within cells to regulate gene expression?**
+
+- They directly encode proteins that regulate transcription
+- They modify DNA methylation patterns at gene promoters
+- **They post-transcriptionally repress expression of protein-coding genes by base-pairing with the 3' untranslated regions (UTRs) of target messenger RNAs**
+- They directly splice pre-mRNA to regulate alternative splicing
+
+*Explanation: miRNAs are small endogenous noncoding RNAs that post-transcriptionally repress the expression of protein-coding genes by base-pairing with the 3' untranslated regions (UTRs) of the target messenger RNAs.*
+
+---
+
+**155. After partial liver resection, which miRNAs are upregulated?**
+
+- miR-22a and miR-26a
+- Let-7f and Let-7g
+- miR-30b and miR-378
+- **miR-122 and miR-21**
+
+*Explanation: After partial liver resection, miR-122 and miR-21 are upregulated, but other miRs are downregulated: miR-22a, miR-26a, miR-30b, miR378, Let-7f, and Let-7g.*
+
+---
+
+**156. What were the findings in patients with spontaneous recovery from acute liver failure regarding miR-122 levels?**
+
+- Lower serum levels of miR-122 compared with non-recovered patients
+- No difference in miR-122 levels between recovered and non-recovered patients
+- **Significantly higher serum levels of miR-122 and liver tissue levels compared with nonrecovered patients, with strong downregulation of miRNA target genes that impair liver regeneration**
+- Higher levels of miR-21 but not miR-122
+
+*Explanation: Patients with spontaneous recovery from acute liver failure showed significantly higher serum levels of miR-122 and liver tissue levels compared with nonrecovered patients, with strong downregulation of miRNA target genes that impair liver regeneration, including heme oxygenase-1, programmed cell death 4, and CDK inhibitors p21, p27, and p57.*
+
+---
+
+**157. What does the GRBWR (graft weight-to-recipient body weight ratio) measure and what minimum value is generally recommended?**
+
+- Ratio of donor liver weight to total donor body weight; minimum 0.5%
+- Ratio of remnant liver volume to total liver volume; minimum 0.4%
+- **Ratio of graft weight to recipient body weight; minimum 0.8%**
+- Ratio of graft volume to recipient's standard liver volume; minimum 40%
+
+*Explanation: GRBWR (graft weight-to-recipient body weight ratio) greater than 0.8% or a graft weight ratio (graft weight divided by standard liver weight of recipient) greater than 40% have been generally recommended to achieve graft and patient survival greater than 90%.*
+
+---
+
+**158. What is the role of the mechanosensor Yes-associated protein (YAP) in the context of increased shear stress after liver resection?**
+
+- YAP inhibits cell proliferation after shear stress
+- YAP promotes apoptosis in response to mechanical forces
+- **Mechanosensing mechanisms either generate molecular signals that activate downstream signaling pathways such as YAP, or directly transduce mechanical signals via the actomyosin cytoskeleton**
+- YAP has no role in mechanosensing during liver regeneration
+
+*Explanation: Increased shear stress after liver resection is picked up by cells through mechanosensors on their membranes. These mechanosensing mechanisms either generate molecular signals that further activate downstream signaling pathways, such as Yes-associated protein (YAP), or directly transduce mechanical signals by regulating the actomyosin cytoskeleton.*
+
+---
+
+**159. What is the clinical significance of differences between donors and recipients in the percentage reconstitution of standard liver volume at 3 months after LDLT?**
+
+- Both reach 100% at 3 months
+- Recipients achieve more volume than donors
+- **Donors achieve 80% while recipients achieve 93%, probably because recipients need more functional liver mass to compensate for long-standing liver disease**
+- Donors achieve 93% while recipients achieve 80%
+
+*Explanation: Differences exist between donors and recipients in the percentage reconstitution of the standard liver volume (80 vs. 93% at 3 months), which is probably caused by the need for functional liver mass in recipients to compensate for long-standing liver disease.*
+
+---
+
+**160. What is the key finding from microarray analysis of gene expression profiles after LDLT that was mentioned?**
+
+- C/EBPα was upregulated along with HNF-4α
+- PPAR-α was upregulated and C/EBPα downregulated
+- **C/EBPα was downregulated, as was HNF-4α and PPAR-α**
+- All transcription factors were equally upregulated
+
+*Explanation: In a microarray analysis of gene expression profiles after LDLT, it was demonstrated that C/EBPα was downregulated, as was HNF-4α and PPAR-α, highlighting changes in key metabolic regulators during the regenerative process.*
+
+---
+
+**161. From the findings of the ALPPS gene expression profile compared with PVL and PHx, what was unique to ALPPS?**
+
+- ALPPS showed no similarities to either PHx or PVL
+- ALPPS showed a more similar expression pattern to PVL than PHx
+- **ALPPS showed a more similar expression pattern to PHx than PVL at the early phase, with unique differences in IGF1R, ILK, and IL-10 pathways and reduced interferon pathway activity**
+- ALPPS uniquely activated the TNF pathway not seen in PHx or PVL
+
+*Explanation: In an experimental model comparing ALPPS with PVL and PHx, the gene expression profile after ALPPS showed a more similar expression pattern to PHx than PVL at the early phase. Unique differences were found in the IGF1R, ILK, and IL-10 pathways, whereas the activity of the interferon pathway was reduced.*
+
+---
+
+**162. What is the significance of the "point of no return" mentioned in the context of ischemic injury and liver regeneration?**
+
+- It refers to the maximum safe ischemic time of 30 minutes
+- It refers to the threshold at which liver volume cannot recover
+- **It refers to the level of ischemic injury beyond which the damage is too extensive for the liver to maintain functional homeostasis and regenerative capabilities, resulting in failure**
+- It refers to the irreversible hepatocyte necrosis that occurs within 1 hour of ischemia
+
+*Explanation: When ischemic injury is significant, there is a greater magnitude of hepatocellular replication up to a certain "point of no return," after which the damage is too extensive and the liver or allograft is unable to maintain functional homeostasis and regenerative capabilities, resulting in liver dysfunction and graft failure.*
+
+---
+
+**163. What did the bipotential liver organoids discovered by Huch et al. demonstrate in terms of potential for liver bioengineering?**
+
+- They can only differentiate into hepatocytes
+- They are unable to form bile ducts
+- **They can differentiate into both hepatocytes and cholangiocytes (as precursors of bile ducts), and can activate the regenerative program through YAP-Hippo signaling**
+- They can only be used for disease modeling, not transplantation
+
+*Explanation: These organoids are positive for Lgr5 and are able to differentiate into both hepatocytes and cholangiocytes, as precursors of bile ducts. They were shown to activate the regenerative program through the transcriptional regulation of stem-cell genes and regenerative pathways, including the YAP-Hippo signaling pathway.*
+
+---
+
+**164. What was observed in ALPPS regarding accumulation of mitochondria in hepatocytes?**
+
+- Normal mitochondrial maturation and function
+- Decreased total mitochondrial number
+- **Accumulation of immature and malfunctioning mitochondria in hepatocytes during the early phase of liver regeneration, associated with overwhelming inflammatory response interfering with PGC-1α mitochondrial biogenesis pathway**
+- Enhanced mitochondrial biogenesis with increased ATP production
+
+*Explanation: Data from experimental models of liver transection combined with PVL showed an overwhelming inflammatory response that interfered with the PGC-1α mitochondrial biogenesis pathway. This resulted in the accumulation of immature and malfunctioning mitochondria in hepatocytes during the early phase of liver regeneration.*
+
+---
+
+**165. What is the augmenter of liver regeneration (ALR) and what is its role?**
+
+- A bile acid derivative that promotes hepatocyte survival
+- An extracellular matrix protein that provides structural support
+- **A potent hepatotrophic factor that is one of the strongest hepatic cell mitogens and modulates mitochondrial biogenesis and ATP synthesis**
+- An immune modulator that reduces inflammation during regeneration
+
+*Explanation: ALR (augmenter of liver regeneration) is a potent hepatotrophic factor with important regulatory functions in cellular respiration. ALR is one of the strongest hepatic cell mitogens and also modulates mitochondrial biogenesis and ATP synthesis.*
+
+---
+
+**166. What were the early allograft dysfunction (EAD) findings regarding inflammatory markers after liver transplantation?**
+
+- EAD was associated with low levels of all cytokines
+- EAD showed no specific cytokine pattern
+- **EAD was associated with an inflammatory response and higher MCP-1, IL-8, and RANTES chemokine levels, plus higher cytokines associated with T-cell immunity including MIG, IP-10, and IL-2R**
+- EAD showed selectively high IL-6 and low TNF-α levels
+
+*Explanation: The relation between inflammation and poor liver regeneration was confirmed in patients with early allograft dysfunction (EAD). EAD was associated with an inflammatory response, and patients showed higher MCP-1 (CCL2), IL-8 (CXCL8), and RANTES (CCL5) chemokine levels in the early postoperative period, suggesting upregulation of the NF-κB pathway, in addition to higher levels of MIG (CXCL9), IP-10 (CXCL10), and IL-2R.*
+
+---
+
+**167. How does the blockage of the receptor for advanced glycation end-products (RAGE) affect liver regeneration in experimental models?**
+
+- It impairs liver regeneration by preventing glucose uptake
+- It has no effect on liver regeneration
+- **It showed improved survival in a rat hepatectomy model**
+- It promotes tumor growth in the regenerating liver
+
+*Explanation: The blockage of the receptor for advanced glycation end-products (RAGE) showed improved survival in a rat hepatectomy model, suggesting a potential therapeutic strategy to enhance liver regeneration.*
+
+---
+
+**168. What is the clinical recommendation regarding the number of FOLFOX/FOLFIRI chemotherapy cycles before liver resection?**
+
+- No more than 3 cycles
+- No more than 4 cycles
+- **No more than 6 cycles**
+- No more than 8 cycles
+
+*Explanation: The authors advocate no more than six cycles of FOLFOX/FOLFIRI (5-FU, Leukovorin, Oxaliplatin/Irinotecan) containing chemotherapy before liver resection, with three weeks in between, as the deleterious effect shows a sharp rise after five courses.*
+
+---
+
+**169. What is the role of temporary fibrosis observed during normal liver regeneration?**
+
+- It permanently impairs hepatocyte proliferation
+- It represents pathological liver damage during regeneration
+- **It is a physiologic process that occurs during normal liver regeneration and resolves over time, as part of the ECM changes supporting regeneration**
+- It serves to permanently increase ECM rigidity to promote hepatocyte proliferation
+
+*Explanation: It is interesting that temporary fibrosis is seen during normal liver regeneration and resolves over time, representing a physiologic part of the ECM remodeling that supports and accompanies the regenerative process.*
+
+---
+
+**170. What overall conclusion is made in the chapter about the current state of liver regeneration knowledge and future therapeutic challenges?**
+
+- Liver regeneration is fully understood and multiple clinical therapies are established
+- No progress has been made in understanding liver regeneration mechanisms
+- The mechanisms of initiation and termination of liver regeneration are completely known
+- **Although the dynamics and redundant intracellular signaling pathways are better understood, less is known about exact signals initiating and stopping regeneration; there has been little structured therapeutic advance for liver failure caused by insufficient regeneration, and new challenges remain**
+
+*Explanation: The chapter concludes that much has been learned about the dynamics and redundant intracellular signaling pathways, but less is known about the exact signals that initiate and stop liver regeneration. Despite better understanding, there has been little structured advance in therapeutic options for liver failure caused by insufficient liver regeneration, and new challenges lie ahead.*

@@ -1,0 +1,1873 @@
+# 10 Fundamentals of Liver and Pancreas Immunology
+
+
+Generated with Claude.
+
+
+**1. Which two broad strategies of host defense does the immune system employ?**
+
+- Humoral and cellular immunity
+- Primary and secondary immunity
+- **Innate and adaptive immunity**
+- Active and passive immunity
+
+*Explanation: The immune system manifests two strategies of host defense termed innate and adaptive immunity. Innate immunity is the nonspecific first line of defense, while adaptive immunity involves antigen-specific responses.*
+
+---
+
+**2. Which of the following cell types is NOT part of the innate immune repertoire?**
+
+- Natural killer (NK) cells
+- Macrophages
+- Dendritic cells (DCs)
+- **Plasma cells**
+
+*Explanation: The repertoire of innate immune cells includes natural killer (NK) cells, macrophages, and dendritic cells (DCs). Plasma cells are part of adaptive immunity, derived from B cells.*
+
+---
+
+**3. Pattern recognition receptors (PRRs) in the innate immune system primarily bind to which type of molecules?**
+
+- Self-peptides presented on MHC molecules
+- **Well-conserved molecules from microbes such as lipopolysaccharide and pathogen nucleic acids**
+- Immunoglobulins produced by B cells
+- Cytokines secreted by T helper cells
+
+*Explanation: PRRs bind to well-conserved molecules from microbes, including lipopolysaccharide, other bacterial cell wall moieties, and pathogen nucleic acids, triggering a rapid innate immune response.*
+
+---
+
+**4. What is the primary mechanism by which innate immunity can lead to adaptive immunity?**
+
+- Direct killing of pathogens by NK cells
+- **Activation of antigen-presenting cells (APCs) leading to T and B cell activation**
+- Release of antibodies into the bloodstream
+- Negative selection of autoreactive T cells in the thymus
+
+*Explanation: Innate immunity may activate antigen-presenting cells (APCs), leading to the activation of T and B cells and adaptive immunity; such crosstalk bridges the nonspecific initial response to a highly specialized system capable of long-lasting immunologic memory.*
+
+---
+
+**5. What critical "second signal" do APCs provide to T cells during antigen presentation?**
+
+- Cytokine secretion only
+- MHC class I or II molecule expression
+- **Co-stimulatory molecules**
+- Release of lytic granules
+
+*Explanation: In addition to antigen presentation within the context of MHC molecules, APCs provide a critical "second signal" through co-stimulatory molecules, with the response further modulated by secreted cytokines.*
+
+---
+
+**6. Classically, which T cell subset recognizes antigen in the context of MHC class II molecules?**
+
+- CD8+ cytotoxic T cells
+- Regulatory T cells (Tregs)
+- Natural killer T (NKT) cells
+- **CD4+ helper T cells**
+
+*Explanation: Classically, CD4+ helper T cells recognize antigen in the context of MHC II, whereas CD8+ cytotoxic T cells engage antigen loaded onto MHC I molecules.*
+
+---
+
+**7. Which of the following immunoinhibitory receptors modulates T-cell function to prevent autoimmunity?**
+
+- CD28 and B7
+- **PD-1 and CTLA-4**
+- TCR and MHC
+- IL-2 receptor and IL-10 receptor
+
+*Explanation: Immunoinhibitory receptors, including programmed death-1 (PD-1) and cytotoxic T-lymphocyte–associated protein 4 (CTLA-4), modulate T-cell function, working in concert with suppressor cells to regulate immune responses.*
+
+---
+
+**8. Which transcription factor programs the differentiation of regulatory T cells (Tregs)?**
+
+- NF-κB
+- STAT3
+- **FOXP3**
+- T-bet
+
+*Explanation: Differentiation of Tregs is programmed by the FOXP3 transcription factor, which is also useful for identifying Tregs experimentally.*
+
+---
+
+**9. Which of the following best describes the immunologic bias of the liver under normal physiologic conditions?**
+
+- Strongly pro-inflammatory
+- Balanced between tolerance and immunity
+- **Skewed toward tolerance (tolerogenic)**
+- Predominantly adaptive immune activation
+
+*Explanation: Several features of liver immunology point to the skewing of the balance toward tolerance under normal physiologic conditions, including evidence from liver transplantation studies and the liver's susceptibility to metastatic disease.*
+
+---
+
+**10. Which evidence best supports the tolerogenic nature of the liver?**
+
+- The liver rarely develops autoimmune conditions
+- **Liver allografts require less immunosuppression than other solid organ transplants**
+- The liver is resistant to viral hepatitis
+- The liver contains few resident immune cells
+
+*Explanation: Compared with other solid organ transplants, liver allografts do not require immunosuppression in certain strains of mice and require less immunosuppression in humans, supporting the liver's tolerogenic nature.*
+
+---
+
+**11. Why does the liver receive a heavy antigen load?**
+
+- Because it produces large amounts of bile
+- Because it contains many lymph nodes
+- **Because its vascular supply derives principally from the portal venous system draining the gut**
+- Because it is highly vascularized with arterial blood
+
+*Explanation: Because the vascular supply of the liver derives principally from the portal venous system draining the gut, a heavy antigen load is delivered to the liver.*
+
+---
+
+**12. What structural feature of the hepatic sinusoid facilitates efficient antigen capture?**
+
+- Thick basement membrane
+- Tight junctions between endothelial cells
+- **Fenestrated endothelium lacking a basement membrane**
+- Presence of goblet cells
+
+*Explanation: Portal venous blood flows slowly through the vast network of hepatic sinusoids, which are discontinuously lined by fenestrated endothelium lacking a basement membrane, facilitating efficient antigen capture.*
+
+---
+
+**13. What is the liver reticuloendothelial system composed of?**
+
+- Hepatocytes and hepatic stellate cells
+- T cells and B cells
+- **Liver sinusoidal endothelial cells (LSECs) and Kupffer cells (KCs)**
+- NK cells and NKT cells
+
+*Explanation: The liver reticuloendothelial system, comprising liver sinusoidal endothelial cells (LSECs) and Kupffer cells (KCs), is very efficient at extracting antigens from portal blood.*
+
+---
+
+**14. At what level do LSECs capture and process antigens?**
+
+- Below the capacity of professional APCs
+- At a level exclusive to hepatocytes
+- **At levels comparable to professional APCs, such as DCs**
+- Exclusively via phagocytosis
+
+*Explanation: LSECs capture and process antigen at levels comparable to professional APCs, such as DCs.*
+
+---
+
+**15. What happens when antigen presentation occurs in the absence of co-stimulation?**
+
+- T cells become hyperactivated
+- B cells undergo somatic hypermutation
+- **T cells undergo anergy or activation-induced death**
+- NK cells increase their lytic function
+
+*Explanation: Antigens presented in the absence of co-stimulation or presence of immunoinhibitory signals lead to anergy or activation-induced T-cell death, two mechanisms of peripheral tolerance induction and maintenance.*
+
+---
+
+**16. Which type of liver DC subsets were found to be as capable of activating T cells as their splenic counterparts?**
+
+- LSECs and Kupffer cells
+- CD11c+ and CD11b– liver DCs
+- **Myeloid (CD11b+) and lymphoid (CD8α+) liver DCs**
+- FOXP3+ DCs
+
+*Explanation: Myeloid (CD11b+) and lymphoid (CD8α+) liver DCs, which each comprise approximately 10% of the total population of DCs in the liver, were as able to activate T cells as their splenic counterparts.*
+
+---
+
+**17. How do CD11c+ liver DCs compare to splenic DCs in terms of immunostimulatory function?**
+
+- They are equally immunostimulatory
+- They are more immunostimulatory
+- **They are immature and only weakly immunostimulatory**
+- They produce more pro-inflammatory cytokines
+
+*Explanation: When compared with DCs from the spleen, CD11c+ liver DCs were immature and only weakly immunostimulatory.*
+
+---
+
+**18. Which anti-inflammatory cytokine do human liver DCs produce, inducing differentiation of naïve CD4+ T cells into regulatory T cells?**
+
+- IFN-γ
+- TNF-α
+- IL-12
+- **IL-10**
+
+*Explanation: Human liver DCs are weaker stimulators of T cells and produce the anti-inflammatory cytokine interleukin-10 (IL-10), which induces the differentiation of naïve CD4+ T cells into regulatory T cells with suppressive function.*
+
+---
+
+**19. What is the primary function of Kupffer cells in the liver?**
+
+- Synthesis of clotting factors
+- Production of bile acids
+- **Primary phagocytic function (liver macrophages)**
+- Secretion of albumin
+
+*Explanation: Liver macrophages, referred to as Kupffer cells, are the primary phagocytic cells of the liver.*
+
+---
+
+**20. Where are Kupffer cells typically found within the liver?**
+
+- In the bile ducts
+- In the space of Disse only
+- In the portal tracts
+- **In the hepatic sinusoids**
+
+*Explanation: Kupffer cells are typically found in the hepatic sinusoids; however, they can also migrate through the space of Disse to interact with hepatocytes.*
+
+---
+
+**21. What two origins have been identified for Kupffer cells?**
+
+- Thymic precursors and splenic precursors
+- Hepatic stellate cells and portal fibroblasts
+- **Monocytic precursors in the blood and fetal precursors that seed the liver early**
+- Bone marrow–derived NK cells and dendritic cells
+
+*Explanation: Kupffer cells represent the largest pool of macrophages in the body, derived in part from monocytic precursors in the blood and partly from fetal precursors that seed the liver early and maintain themselves by cell division in situ.*
+
+---
+
+**22. Evidence from flow cytometry, lineage-tracing, and single-cell RNA sequencing suggests Kupffer cells consist of how many subsets?**
+
+- One homogeneous population
+- **Two subsets**
+- Three subsets
+- Four subsets
+
+*Explanation: Multiple lines of evidence from flow cytometry, lineage-tracing, and single-cell RNA sequencing suggest that KCs consist of two subsets.*
+
+---
+
+**23. Embryo-derived Kupffer cells remain resistant to irradiation via upregulation of which molecule?**
+
+- FOXP3
+- PD-L1
+- **Cdkn1a (a kinase inhibitor)**
+- TLR4
+
+*Explanation: Recent evidence has shown that embryo-derived KCs remain resistant to irradiation via upregulation of a kinase inhibitor Cdkn1a, which may have implications in understanding radiation-induced liver diseases.*
+
+---
+
+**24. What structural feature distinguishes LSECs from other endothelial cells?**
+
+- Presence of tight junctions
+- Expression of MHC class II molecules
+- Lack of surface receptors
+- **Presence of fenestrations in their cellular membranes**
+
+*Explanation: LSECs are highly specialized cells that line the hepatic sinusoids. They are distinguished by the presence of fenestrations in their cellular membranes.*
+
+---
+
+**25. What is the proposed function of LSEC fenestrations?**
+
+- To prevent antigen passage into the parenchyma
+- To facilitate production of complement proteins
+- **To facilitate selective passage of antigens between the sinusoid and hepatic parenchyma and increase surface area for antigen presentation**
+- To filter red blood cells from portal blood
+
+*Explanation: The fenestrations are believed to facilitate the selective passage of antigens between the sinusoid and the hepatic parenchyma and may also increase the surface area available for antigen presentation.*
+
+---
+
+**26. What did studies show regarding the ability of LSECs to activate T cells in the absence of exogenous co-stimulation?**
+
+- LSECs are more potent T-cell activators than DCs
+- LSECs can fully activate T cells independently
+- **LSECs lack the ability to activate T cells in the absence of exogenous co-stimulation**
+- LSECs suppress T cell activity entirely
+
+*Explanation: Although LSECs are highly capable of capturing various antigens in vivo and in vitro, they lack the ability to activate T cells in the absence of exogenous co-stimulation.*
+
+---
+
+**27. What proportion of intrahepatic T cells are conventional (classical) T cells expressing the αβ T-cell receptor?**
+
+- About 10%
+- About 20%
+- **About one third**
+- About one half
+
+*Explanation: Conventional or classical T cells express the αβ T-cell receptor in association with either CD4 or CD8. These are the most prevalent T cells in the body and account for about one third of the murine liver T-cell population.*
+
+---
+
+**28. What approximate proportion of liver T cells are unconventional T cells expressing NK markers?**
+
+- 10%
+- 20%
+- 33%
+- **50%**
+
+*Explanation: Unconventional T cells expressing NK markers comprise approximately 50% of liver T cells, while γδ T cells comprise approximately 10%.*
+
+---
+
+**29. Which highly inflammatory cytokine can Th17 cells produce, playing an important role in inflammatory and fibrotic liver disorders?**
+
+- IFN-γ
+- IL-10
+- **IL-17**
+- TGF-β
+
+*Explanation: The liver also contains Th17 cells, which are capable of producing the highly inflammatory cytokine IL-17. Th17 cells play an important role in the promotion of inflammatory and fibrotic disorders affecting the liver.*
+
+---
+
+**30. On which MHC molecule do CD8+ T cells respond to peptides presented?**
+
+- MHC class II
+- CD1d
+- **MHC class I**
+- MHC class III
+
+*Explanation: CD8+ T cells respond to peptides presented on MHC class I molecules, which are expressed by nearly every cell in the body, excluding erythrocytes.*
+
+---
+
+**31. What percentage of liver T cells are γδ T cells, compared with their proportion in blood or lymphoid organs?**
+
+- Less than 1% in both liver and blood
+- **10% in liver versus less than 5% in blood or lymphoid organs**
+- 20% in liver versus 10% in blood
+- Equal proportions in both
+
+*Explanation: γδ T cells represent 10% of liver T cells, whereas they comprise only a small proportion (<5%) of T cells in the blood or lymphoid organs.*
+
+---
+
+**32. How can γδ T cells promote anti-tumor immunity?**
+
+- By producing IL-10
+- By differentiating into plasma cells
+- **Through early secretion of interferon-γ (IFN-γ)**
+- By expressing CTLA-4
+
+*Explanation: γδ T cells can promote anti-tumor immunity through their early secretion of interferon-γ (IFN-γ).*
+
+---
+
+**33. Against which type of antigen do most NKT cells react?**
+
+- Peptide antigens presented on MHC class II
+- Viral nucleic acids
+- **Glycolipid antigens in the context of CD1d**
+- Bacterial lipopolysaccharide via TLR4
+
+*Explanation: Most NKT cells react against glycolipid antigens in the context of CD1d, which is an MHC class I–like glycoprotein expressed on APCs and hepatocytes.*
+
+---
+
+**34. What cytokines are activated NKT cells capable of producing?**
+
+- IL-4 and IL-10
+- IL-17 and TGF-β
+- **IFN-γ and IL-4**
+- TNF-α and IL-6
+
+*Explanation: Activated NKT cells are capable of producing IFN-γ and IL-4, which are the prototypical Th1 and Th2 cytokines, respectively.*
+
+---
+
+**35. In murine primary and metastatic tumor models, how can NKT cells mediate tumor rejection?**
+
+- By producing IL-10 to suppress Tregs
+- Through CTLA-4 blockade
+- **In part because of their ability to secrete IFN-γ**
+- By differentiating into cytotoxic B cells
+
+*Explanation: In murine primary and metastatic tumor models, NKT cells can mediate tumor rejection, in part because of their ability to secrete IFN-γ.*
+
+---
+
+**36. How do bulk human liver NK cells compare to autologous blood NK cells in terms of lytic capabilities?**
+
+- They have stronger lytic capabilities
+- They have equal lytic capabilities
+- **They possess weaker lytic capabilities**
+- They have no lytic capabilities at all
+
+*Explanation: Bulk human liver NK cells possess weaker lytic capabilities when compared with autologous blood NK cells because the liver has a greater proportion of NK cell subtypes with weaker cytolytic function.*
+
+---
+
+**37. How do MDSCs in the liver affect hepatic B cells?**
+
+- They enhance B cell antibody production
+- They increase CD80 expression on B cells
+- **They suppress hepatic B cells through downregulation of CD80**
+- They promote B cell differentiation into plasma cells
+
+*Explanation: MDSCs in the liver suppress hepatic B cells through downregulation of CD80, which is a co-stimulatory molecule involved in T-cell activation, contributing toward intrahepatic tolerance.*
+
+---
+
+**38. Compared to the liver, how is the immune cell compartment of the exocrine pancreas characterized in the absence of disease?**
+
+- Richer in antigen-presenting cells
+- Equivalent to the liver
+- **Less conspicuous and less exhaustively studied**
+- Dominated by NKT cells
+
+*Explanation: The immune milieu of the exocrine pancreas is less exhaustively studied than that of the liver, and there is a less conspicuous immune cell compartment in the absence of disease.*
+
+---
+
+**39. What structural feature characterizes pancreatic adenocarcinoma that was initially thought to exclude effector cells from the peritumoral area?**
+
+- Extensive lymphocyte infiltration
+- Rich vascularity
+- **Dense stromal fibrosis**
+- Abundant NK cell presence
+
+*Explanation: Many conditions such as pancreatic adenocarcinoma have been characterized by a dense stromal fibrosis, which was initially thought to exclude components of the effector cells from the peritumoral area.*
+
+---
+
+**40. What are the two checkpoint molecules receiving the most attention in laboratories and clinical trials for immunoinhibitory pathways?**
+
+- IL-10 and TGF-β
+- NK receptors and BCR
+- **CTLA-4 and PD-1**
+- TCR and CD28
+
+*Explanation: The immunoinhibitory receptors receiving the most attention in laboratories and clinical trials are the checkpoint molecules CTLA-4 and PD-1.*
+
+---
+
+**41. What effect does PD-1 engagement by PD-L1 have on T cells?**
+
+- T cell activation and proliferation
+- B cell differentiation
+- **T cell functional exhaustion**
+- NK cell activation
+
+*Explanation: PD-1 engagement by PD-L1 results in T-cell functional exhaustion. Exhausted T cells have a markedly diminished capacity for cytokine production, proliferation, and tumor lysis.*
+
+---
+
+**42. What are the two known ligands for PD-1?**
+
+- CD80 and CD86
+- B7-1 and B7-2
+- **PD-L1 and PD-L2**
+- CTLA-4 and CD28
+
+*Explanation: PD-1 has two known ligands: programmed death ligand-1 (PD-L1) and PD-L2. Many tumors and suppressive immune cells express PD-L1.*
+
+---
+
+**43. On which T cell population is CTLA-4 constitutively expressed?**
+
+- CD8+ cytotoxic T cells
+- γδ T cells
+- NKT cells
+- **Regulatory T cells (Tregs)**
+
+*Explanation: CTLA-4 is expressed on activated T cells and constitutively on Tregs, and blocking the activity of CTLA-4 enables T-cell functional rescue.*
+
+---
+
+**44. From which lineage pathway are MDSCs derived?**
+
+- Lymphoid lineage
+- Erythroid lineage
+- **Myeloid lineage**
+- Stromal lineage
+
+*Explanation: MDSCs are a heterogeneous group of cells derived from a myeloid lineage pathway. Phenotypically, MDSCs have features of immature neutrophils, monocytes, or NK cells.*
+
+---
+
+**45. Which suppressive cytokine do MDSCs produce to promote T-cell suppression?**
+
+- IFN-γ
+- TNF-α
+- IL-12
+- **IL-10**
+
+*Explanation: MDSCs express PD-L1 and promote T-cell suppression through production of suppressive cytokines such as IL-10.*
+
+---
+
+**46. What is the primary role of cytokines in the human immune response?**
+
+- Structural support for tissues
+- Energy production for immune cells
+- **Cell communication through small protein mediators**
+- Physical barrier against pathogens
+
+*Explanation: Cytokines are small proteins that play a primary role in the human response to a variety of stimuli. These nonstructural proteins participate in the communication between cells.*
+
+---
+
+**47. What describes the nature of most cytokines with regard to their effects?**
+
+- Monotropic – producing only pro-inflammatory effects
+- Only anti-inflammatory
+- **Pleiotropic – producing both pro-inflammatory and anti-inflammatory effects depending on context**
+- Exclusively immunosuppressive
+
+*Explanation: Pleiotropic in nature, many cytokines can produce both pro-inflammatory and anti-inflammatory effects, depending on the timing, levels, and context in which they are secreted.*
+
+---
+
+**48. What family of pattern recognition receptors are essential in the development of multiple hepatic diseases?**
+
+- NOD-like receptors
+- RIG-I–like receptors
+- **Toll-like receptors (TLRs)**
+- C-type lectin receptors
+
+*Explanation: An example of essential PRRs in the liver is the family of Toll-like receptors (TLRs). TLRs have been demonstrated to be essential in the development of multiple hepatic diseases and continue to be investigated as potential therapeutic targets.*
+
+---
+
+**49. How many transmembrane TLRs are found in cells throughout the human body?**
+
+- At least 5
+- At least 7
+- **At least 10**
+- At least 15
+
+*Explanation: TLRs are a family of at least 10 transmembrane receptors found in cells throughout the human body.*
+
+---
+
+**50. What is lipopolysaccharide (LPS) and from which bacteria is it derived?**
+
+- A pro-inflammatory cytokine from gram-positive bacteria
+- A structural protein from all bacteria
+- **An endotoxin from gram-negative bacteria that activates pro-inflammatory cytokines**
+- An anti-inflammatory molecule from anaerobic bacteria
+
+*Explanation: Exclusive to gram-negative bacteria, lipopolysaccharide (LPS) is one of the most studied pathogen-associated activators of inflammation. An activator of pro-inflammatory cytokines, LPS plays a large role in tissue damage and development of septic shock, classifying it as an endotoxin.*
+
+---
+
+**51. What is the initial step in the host innate immune response to LPS?**
+
+- Binding of LPS to TLR4 directly
+- Activation of NF-κB
+- **Binding of LPS to LPS-binding protein (LBP) to form the LPS-LBP complex**
+- Phagocytosis by Kupffer cells
+
+*Explanation: Initiation of the host innate immune response to LPS is binding of it to LBP to form the LPS-LBP complex.*
+
+---
+
+**52. What is LBP, and where is it secreted from?**
+
+- A 25 kDa lipid secreted by Kupffer cells
+- A membrane-bound protein from T cells
+- **A 58 kDa glycoprotein secreted by hepatocytes into the bloodstream**
+- A nucleic acid–binding protein from DCs
+
+*Explanation: LBP, a 58 kDa glycoprotein secreted by hepatocytes into the bloodstream, binds the lipid A portion of LPS with high affinity and facilitates transfer to CD14+ cells.*
+
+---
+
+**53. What is the initial signal-transducing component of the LPS signaling pathway?**
+
+- CD14
+- LBP
+- MD-2
+- **TLR4**
+
+*Explanation: The initial signal-transducing component of this pathway is TLR4. Although expressed at low levels in healthy hepatic cells, increasing evidence points to altered LPS-TLR4 complex signaling in the pathogenesis of chronic liver disease.*
+
+---
+
+**54. Which homolog of TLR4 at the cell surface can competitively inhibit the interaction between LPS and TLR4?**
+
+- MD-2
+- CD14
+- **RP 105 (radioprotective 105)**
+- TLR9
+
+*Explanation: At the cell-surface level, RP 105 (radioprotective 105), a homolog of TLR4, can function to competitively inhibit the interaction between LPS and TLR4.*
+
+---
+
+**55. Which E3 ubiquitin-protein ligase inhibitor promotes degradation of TLR4 and downregulation of NF-κB?**
+
+- TRIAD1A
+- TRIM21
+- **TRIAD3A**
+- TRIM5α
+
+*Explanation: At the TIR domain of TLR4, overexpression of TRIAD3A, an E3 ubiquitin-protein ligase inhibitor, functions to promote degradation of TLR4 and downregulation of NF-κB.*
+
+---
+
+**56. The TNF superfamily is primarily composed of which type of proteins?**
+
+- Secreted glycoproteins
+- Intracellular kinases
+- **Type II transmembrane proteins**
+- Nuclear transcription factors
+
+*Explanation: The tumor necrosis factor (TNF) superfamily is composed of more than 20 primarily type II transmembrane proteins with more than 30 receptors.*
+
+---
+
+**57. How does TNF-α induce inflammation via vascular endothelial cells?**
+
+- By activating B cells to produce antibodies
+- By inducing MHC class I upregulation
+- **By producing vasodilation and capillary permeability through alterations of adhesion molecules, increased nitric oxide, and COX production**
+- By triggering CTLA-4 signaling
+
+*Explanation: Induction of the inflammatory response by TNF-α acts on vascular endothelial cells, producing vasodilation and capillary permeability via alterations of adhesion molecules, increased production of nitric oxide, and cyclooxygenase (COX).*
+
+---
+
+**58. Why has systemic use of TNF-α as a chemotherapeutic agent been limited?**
+
+- Lack of anti-proliferation properties
+- Insufficient antitumor activity
+- **Significant side effects**
+- Cost of production
+
+*Explanation: TNF-α has long been investigated as a potential chemotherapeutic agent because of its anti-proliferation properties and effects on vascular permeability. Systemic use has been limited, however, by its significant side effects.*
+
+---
+
+**59. What distinguishes the IL-1 family from other cytokine families?**
+
+- It exclusively promotes inflammation
+- It only acts on lymphocytes
+- **It includes members that actively function in suppression of the innate immune response**
+- It signals exclusively through TLRs
+
+*Explanation: Unlike most other cytokine families, the IL-1 family includes members that actively function in suppression of the innate immune response.*
+
+---
+
+**60. What is the relationship between the cytoplasmic domain of the IL-1 receptor type I and TLRs?**
+
+- They are structurally unrelated
+- They share extracellular domains
+- **The cytoplasmic domain of IL-1 receptor type I is homologous to those of TLRs**
+- The IL-1 receptor is a co-receptor for TLR4
+
+*Explanation: Because the cytoplasmic domain of the IL-1 receptor type I is homologous to those of TLRs, similar activation of pro-inflammatory immune responses would be expected.*
+
+---
+
+**61. Which of the following does IL-1 NOT induce in its primary immune response via gene expression?**
+
+- COX-2
+- Inducible nitric oxide synthase
+- **Immunoglobulin G production**
+- Intercellular adhesion molecule-1
+
+*Explanation: IL-1 primarily produces an immune response via gene expression of multiple inflammatory mediators, including COX-2, inducible nitric oxide synthase, and intercellular adhesion molecule-1 and vascular cell adhesion molecule-1.*
+
+---
+
+**62. To which superfamily does IL-6 belong, and how many members does it have?**
+
+- TNF superfamily with 20+ members
+- IFN superfamily with 3 members
+- **A nine-member superfamily including leukemia inhibitory factor, oncostatin M, cardiotrophin-1, and others**
+- IL-1 superfamily with 11 members
+
+*Explanation: IL-6 belongs to a nine-member superfamily of cytokines, which includes leukemia inhibitory factor, oncostatin M, cardiotrophin-1, neurotrophic factor, and IL-11.*
+
+---
+
+**63. What signal-transducing receptor is shared by all members of the IL-6 superfamily?**
+
+- CD28
+- IL-2 receptor gamma chain
+- **Glycoprotein 130 kDa (gp130)**
+- TLR4
+
+*Explanation: Signal transduction for all members of the IL-6 family uses the signal-transducing receptor glycoprotein 130 kDa (gp130), making this a potential target for future therapies.*
+
+---
+
+**64. What is thought to be a critical factor in the development of multiple autoimmune disorders related to IL-6?**
+
+- IL-6-mediated B cell activation
+- IL-6 suppression of Treg differentiation
+- **IL-6 overproduction and upregulation of Th17 cells**
+- IL-6–induced NK cell exhaustion
+
+*Explanation: IL-6 overproduction and upregulation of Th17 cells is thought to be a critical factor in development of multiple autoimmune disorders.*
+
+---
+
+**65. Which two cytokines, with known effects on cell proliferation, are felt to play a crucial role in hepatocellular carcinoma development?**
+
+- IFN-γ and TNF-α
+- IL-10 and TGF-β
+- **IL-6 and IL-11**
+- IL-1 and IL-2
+
+*Explanation: IL-6 and IL-11, with known effects on cell proliferation, are felt to play a crucial role in the development of hepatocellular carcinoma.*
+
+---
+
+**66. TGF-β is stored as what form intracellularly until activated?**
+
+- An active extracellular form
+- A glycosylated membrane-bound form
+- **An intracellular latent form**
+- A freely circulating peptide
+
+*Explanation: TGF-β is stored as an intracellular latent form until it is activated by several factors, including MMPs, integrins, and thrombospondin 1.*
+
+---
+
+**67. What is the primary signaling mechanism of TGF-β?**
+
+- Through JAK/STAT pathway exclusively
+- Via NF-κB activation
+- **Through phosphorylation of SMAD2 and SMAD3, allowing translocation into the nucleus**
+- Via cyclic AMP second messenger
+
+*Explanation: The primary signaling mechanism of TGF-β is through the phosphorylation of SMAD2 and SMAD3, allowing translocation into the nucleus and resultant gene activation.*
+
+---
+
+**68. In many advanced tumors, what change in SMAD3 phosphorylation is associated with conversion to oncogenic properties?**
+
+- Decreased phosphorylation of the C-terminal region
+- Increased phosphorylation of the C-terminal region
+- **Increased phosphorylation of the linker region of SMAD3 in preference to the C-terminal region**
+- Complete dephosphorylation of SMAD3
+
+*Explanation: In the SMAD-dependent pathway, increased phosphorylation of the linker region of SMAD3, in preference to the C-terminal region, is seen in many advanced tumors and appears to play a role in conversion to oncogenic properties.*
+
+---
+
+**69. SMAD4 inactivation has been specifically implicated in which pancreatic condition?**
+
+- Chronic pancreatitis
+- Type 1 diabetes
+- **Pancreatic carcinoma**
+- Autoimmune pancreatitis
+
+*Explanation: Mutations can also play a role in tumor development, which is seen with increased SMAD4 inactivation in pancreatic carcinoma.*
+
+---
+
+**70. What is a key difference between IFN-α and IFN-β in terms of their cellular source?**
+
+- IFN-α is produced by hepatocytes; IFN-β by T cells
+- **IFN-α is secreted by immune cells; IFN-β is secreted by multiple cell types such as fibroblasts**
+- IFN-α is produced by B cells; IFN-β by NK cells
+- Both are produced exclusively by macrophages
+
+*Explanation: IFN-α is secreted by immune cells, whereas IFN-β is secreted by multiple cell types, such as fibroblasts, in response to viral infection.*
+
+---
+
+**71. Which type of IFN has been used clinically in the treatment of viral hepatitis and as an adjuvant therapy for melanoma?**
+
+- IFN-γ
+- IFN-β
+- **IFN-α**
+- IFN-λ
+
+*Explanation: IFN-α has been used clinically in the treatment of viral hepatitis and as an adjuvant therapy for melanoma.*
+
+---
+
+**72. IFN-γ is classified as which type of interferon?**
+
+- Type I IFN
+- Type III IFN
+- **Type II IFN**
+- Type IV IFN
+
+*Explanation: IFN-γ, a type II IFN, is the archetypal pro-inflammatory cytokine associated with antitumor immune responses.*
+
+---
+
+**73. Which cells produce IFN-γ?**
+
+- Only CD8+ T cells
+- Only NK cells
+- Only macrophages
+- **T cells, B cells, NKT cells, DCs, and macrophages**
+
+*Explanation: IFN-γ is produced by T cells, B cells, NKT cells, DCs, and macrophages.*
+
+---
+
+**74. What is "adaptive resistance" in the context of IFN-γ signaling?**
+
+- Resistance of tumor cells to IFN-γ–mediated killing
+- Decreased IFN-γ production after chronic stimulation
+- **Activation of T cells leads to IFN-γ secretion and activation of genes encoding co-inhibitory molecules, particularly PD-L1**
+- Adaptive immune cells becoming resistant to innate signals
+
+*Explanation: IFN-γ participates in adaptive resistance, a phenomenon whereby the activation of T cells leads to IFN-γ secretion and the activation of genes encoding co-inhibitory molecules, in particular PD-L1.*
+
+---
+
+**75. What clinical finding demonstrated the hepatic contribution of cytokines to systemic circulation?**
+
+- Measurement of portal blood cytokine levels
+- Biopsy of liver tissue during inflammation
+- **Cannulation of the hepatic vein after intravenous endotoxin administration, revealing large amounts of TNF-α and IL-6 derived from the splanchnic bed**
+- Single-cell RNA sequencing of hepatocytes
+
+*Explanation: Hepatic cytokine contribution has been demonstrated in human studies, where cannulation of the hepatic vein after intravenous endotoxin administration revealed that large amounts of both TNF-α and IL-6 in the systemic circulation were derived from the splanchnic bed.*
+
+---
+
+**76. Which cells are involved in recruitment and amplification of the inflammatory response in the liver through infiltrating leukocytes?**
+
+- Hepatocytes
+- Biliary epithelial cells
+- **Hepatic stellate cells**
+- LSEC endothelial cells
+
+*Explanation: Increasing evidence has defined the role of hepatic stellate cells in recruitment and induction of infiltrating leukocytes, amplifying the inflammatory response.*
+
+---
+
+**77. What effect does increasing IL-1 have on pancreatic β-cells?**
+
+- It causes β-cell apoptosis
+- It reduces insulin secretion
+- **It stimulates β-cell proliferation to respond to exogenous stressors**
+- It inhibits β-cell function
+
+*Explanation: Increasing IL-1 levels stimulates β-cell proliferation to respond to exogenous stressors. Nevertheless, prolonged stress has been implicated in islet cell dysfunction and destruction.*
+
+---
+
+**78. What is the relationship between elevated TGF-β levels and chronic pancreatitis?**
+
+- TGF-β prevents fibrosis in chronic pancreatitis
+- **Elevated TGF-β correlates with progression of fibrosis and insulin resistance in chronic pancreatitis**
+- TGF-β reduces inflammation in pancreatitis
+- TGF-β has no role in pancreatic inflammation
+
+*Explanation: Elevated levels of TGF-β are found in patients with chronic pancreatitis, correlating with progression of fibrosis and insulin resistance.*
+
+---
+
+**79. Elevated TGF-β1 and TGF-β2 receptor levels in pancreatic adenocarcinoma have been associated with what clinical outcome?**
+
+- Improved overall survival
+- Response to chemotherapy
+- Better tumor differentiation
+- **Advanced cancers with a trend toward worse overall survival**
+
+*Explanation: Elevated TGF-β1 and TGF-β2 receptor levels have been associated with advanced cancers, with a trend toward worse overall survival.*
+
+---
+
+**80. What is nitric oxide (NO), and how is it produced in hepatocytes?**
+
+- A large structural protein produced by ribosomes
+- A cytokine produced by T cells
+- **A small, hydrophobic molecule with a short half-life, produced by nitric oxide synthase (NOS), greatly increased via inducible NOS (iNOS)**
+- An immunoglobulin secreted by B cells
+
+*Explanation: Central to the balance of redox states in hepatocytes is nitric oxide (NO). NO is a small, hydrophobic molecule with a short half-life. Created by nitric oxide synthase (NOS), NO can be greatly increased via production by inducible NO synthase (iNOS).*
+
+---
+
+**81. What is the role of NO in steady-state low-redox conditions in the liver?**
+
+- It induces apoptosis in hepatocytes
+- It promotes mitochondrial dysfunction
+- **It plays a protective role by inhibiting apoptosis and abating mitochondrial dysfunction**
+- It activates the inflammatory cascade
+
+*Explanation: In steady-state low-redox conditions, NO plays a protective role in the liver, having been demonstrated to inhibit apoptosis and abate mitochondrial dysfunction.*
+
+---
+
+**82. What heat-shock protein expression does NO induce, contributing to liver protection?**
+
+- HSP90
+- HSP40
+- **HSP70**
+- HSP27
+
+*Explanation: NO induces the expression of heat-shock protein 70. These proteins may function by refolding damaged proteins in the liver, modulating caspase activation, and regulating expression of heme oxygenase-1, conferring a protective mechanism from apoptosis.*
+
+---
+
+**83. Under what conditions has iNOS upregulation been associated with deleterious effects in the liver?**
+
+- Low-redox steady state conditions
+- During liver regeneration
+- **Conditions of oxidative stress and altered redox states**
+- During hepatic transplantation
+
+*Explanation: In conditions of oxidative stress and altered redox states, upregulation of iNOS has been associated with deleterious effects because of continued oxidative damage and propagation of inflammation.*
+
+---
+
+**84. Which hepatic condition has been associated with increased iNOS expression, with levels correlating with disease severity?**
+
+- Alcoholic liver disease
+- Autoimmune hepatitis
+- Non-alcoholic fatty liver disease
+- **Viral hepatitis**
+
+*Explanation: Viral hepatitis has also been associated with increased iNOS expression, with several studies suggesting an association between levels of iNOS induction and disease severity.*
+
+---
+
+**85. What is unique about liver transplantation compared to transplantation of other solid organs in terms of immune tolerance?**
+
+- Liver allografts always require maximum immunosuppression
+- Liver transplants are rejected more frequently
+- **The liver can be accepted across MHC barriers in animal models, and systemic donor-specific tolerance often develops in recipients**
+- Liver allografts require the same level of immunosuppression as kidney transplants
+
+*Explanation: Unlike other organs, the liver can be accepted across MHC barriers in animal models of transplantation. In addition, systemic donor-specific tolerance often develops in liver allograft recipients.*
+
+---
+
+**86. What is microchimerism in the context of liver transplantation?**
+
+- Production of micro-sized liver cells post-transplant
+- Rejection of graft by micro-organisms
+- **Persistence of donor cells in allograft recipients**
+- Presence of recipient cells in the donor liver
+
+*Explanation: Defined as the persistence of donor cells in allograft recipients, microchimerism has been postulated to be a prerequisite for organ allograft acceptance.*
+
+---
+
+**87. What role do hepatic stellate cells (HSCs) play in liver T-cell tolerance?**
+
+- HSCs activate cytotoxic T cells
+- HSCs secrete IFN-γ to promote inflammation
+- **HSCs mediate liver T-cell apoptosis via the PD-L1/PD-1 axis and may induce expansion of Tregs**
+- HSCs produce IL-12 to activate NK cells
+
+*Explanation: Hepatic stellate cells (HSCs) have been found to mediate liver T-cell apoptosis via the PD-L1/PD-1 axis. HSCs may also induce expansion of Tregs as another mechanism of influencing T-cell tolerance.*
+
+---
+
+**88. Approximately how many people worldwide are estimated to be infected with hepatitis B or hepatitis C virus?**
+
+- 10 million
+- 50 million
+- 100 million
+- **500 million**
+
+*Explanation: The worldwide burden of disease is immense, with an estimated 500 million people infected with either of these two viruses (HBV and HCV).*
+
+---
+
+**89. Which intrahepatic immune cells produce TNF-α in response to viral antigens in hepatitis, leading to local inflammatory damage?**
+
+- T cells and NK cells
+- Tregs and MDSCs
+- **Kupffer cells and DCs**
+- B cells and plasma cells
+
+*Explanation: The presence of large numbers of KCs and DCs in the liver, which produce TNF-α in response to viral antigens, leads to high local levels of inflammatory cytokines and untoward host cell damage.*
+
+---
+
+**90. Which immunoinhibitory pathway suppresses effective T-cell responses against HBV and HCV?**
+
+- CTLA-4/CD86 axis
+- IL-10/IL-10R axis
+- **PD-1/PD-L1 immunoinhibitory axis and Treg**
+- TGF-β/SMAD pathway
+
+*Explanation: Effective T-cell responses against HBV and HCV are susceptible to suppression by the PD-1/PD-L1 immunoinhibitory axis and Treg.*
+
+---
+
+**91. What experimental tool involves transplanting human hepatocytes into immunodeficient mice to study hepatitis viruses?**
+
+- Organoid culture systems
+- CRISPR knockin mice
+- **Chimeric mice reconstituted with human hepatocytes and immune cells**
+- Xenograft tumor models
+
+*Explanation: Emerging research tools include the development of chimeric mice that are reconstituted with human hepatocytes and immune cells, allowing for large-scale screening of therapeutics against human hepatitis viruses.*
+
+---
+
+**92. Autoimmune hepatitis (AIH) is characterized by elevated levels of which autoantibody?**
+
+- IgA autoantibodies
+- IgM autoantibodies
+- IgE autoantibodies
+- **IgG autoantibodies**
+
+*Explanation: Autoimmune hepatitis (AIH) has a female predominance and is characterized by elevated levels of immunoglobulin G (IgG) autoantibodies.*
+
+---
+
+**93. In the concanavalin A (ConA) mouse model of autoimmune hepatitis, which T cell subset plays the most important role?**
+
+- CD8+ cytotoxic T cells
+- γδ T cells
+- Regulatory T cells
+- **NKT cells**
+
+*Explanation: Further studies showed that NKT cells are the most important subset of CD4+ T cells involved in mediating ConA hepatitis.*
+
+---
+
+**94. What has AIH been linked with in terms of T cell dysfunction?**
+
+- Deficiency of Th2 cells
+- Overactivation of γδ T cells
+- **Dysfunction of Tregs, leading to a hyperfunctional Th17 compartment and excessive inflammation**
+- Loss of CD8+ cytotoxic activity
+
+*Explanation: AIH has also been linked with dysfunction of Tregs, leading to a hyperfunctional Th17 compartment and excessive inflammation.*
+
+---
+
+**95. Primary biliary cirrhosis (PBC) is associated with which types of autoantibodies?**
+
+- Anti-smooth muscle and anti-liver/kidney microsomal antibodies
+- Anti-dsDNA and anti-histone antibodies
+- **Antimitochondrial (95%) and antinuclear (50%) antibodies**
+- Anti-neutrophil cytoplasmic antibodies (ANCA)
+
+*Explanation: Most cases of PBC are associated with antimitochondrial (95%) and antinuclear (50%) antibodies directed against self-antigens.*
+
+---
+
+**96. In primary biliary cirrhosis, which cells are the primary target of injury?**
+
+- Hepatocytes
+- Kupffer cells
+- Portal fibroblasts
+- **Biliary epithelial cells**
+
+*Explanation: Because biliary epithelial cells are the primary target of injury in PBC, their expression of MHC molecules and cytokines likely plays an important role in the pathogenesis of this disease.*
+
+---
+
+**97. What chemokine do biliary epithelial cells from patients with primary biliary cirrhosis use to attract mononuclear cells?**
+
+- CXCL12
+- CCL2
+- **CX3CL1**
+- CXCL10
+
+*Explanation: In addition to pathogenic T-cell function, biliary epithelial cells from patients with primary biliary cirrhosis attract mononuclear cells via the chemokine CX3CL1.*
+
+---
+
+**98. What is the pathogenetic mechanism thought to initiate primary sclerosing cholangitis (PSC)?**
+
+- Autoantibody-mediated destruction of biliary epithelium
+- Viral infection of bile duct cells
+- **Immune activation within the liver after bacteria gain access to the portal circulation via a diseased intestinal epithelium**
+- Ischemic injury to the bile ducts
+
+*Explanation: The pathogenesis of PSC is thought to result from immune activation within the liver after bacteria gain access to the portal circulation via a diseased intestinal epithelium.*
+
+---
+
+**99. Most cases of primary sclerosing cholangitis (PSC) are associated with which underlying condition?**
+
+- Crohn's disease
+- Celiac disease
+- Primary biliary cirrhosis
+- **Inflammatory bowel disease, specifically ulcerative colitis**
+
+*Explanation: Most cases of PSC are associated with underlying inflammatory bowel disease, specifically ulcerative colitis.*
+
+---
+
+**100. What type of malignancy is PSC patients at markedly elevated risk for developing?**
+
+- Hepatocellular carcinoma
+- Pancreatic adenocarcinoma
+- **Cholangiocarcinoma (CCA)**
+- Colorectal cancer
+
+*Explanation: The end result of PSC is biliary cirrhosis and a markedly elevated risk for cholangiocarcinoma (CCA).*
+
+---
+
+**101. What triggers the immune response during liver ischemia/reperfusion (I/R) injury?**
+
+- Viral antigens activating adaptive immunity
+- Tumor antigens stimulating DCs
+- **Endogenous "danger signals" (DAMPs) activating innate immune cells through TLRs**
+- Autoantibodies attacking hepatocytes
+
+*Explanation: During liver I/R, the release of endogenous molecules signal danger to the host by activating innate immune cells through their interaction with TLRs. Such "danger-associated molecular patterns" (DAMPs) can be classified as intracellular proteins, nucleic acids, or components of the extracellular matrix.*
+
+---
+
+**102. In a murine model of segmental liver I/R, which TLR was shown to play a critical role?**
+
+- TLR2
+- TLR4
+- TLR7
+- **TLR9**
+
+*Explanation: In a murine model of segmental liver I/R, hepatic DCs and TLR9 played critical roles in modulating the host immune response. Hepatocyte DNA released during ischemia binds TLR9 in a variety of liver immune cells that then cause liver damage.*
+
+---
+
+**103. How do DCs respond to host DNA released during hepatic ischemia/reperfusion?**
+
+- DCs amplify liver damage by producing IL-12
+- DCs trigger NK cell activation
+- **DCs curtail injury via production of anti-inflammatory IL-10, suppressing inflammatory monocytes**
+- DCs increase TNF-α production
+
+*Explanation: DCs respond to host DNA by curtailing injury via production of anti-inflammatory IL-10, which confers protection by suppressing the function of inflammatory monocytes that migrate to the liver from the bone marrow.*
+
+---
+
+**104. What effect do Th17 cells have during I/R tissue injury?**
+
+- They promote immunosuppression
+- They secrete IL-10 to reduce injury
+- **They promote influx of neutrophils**
+- They induce apoptosis in hepatocytes
+
+*Explanation: T cells also play a role in I/R tissue injury, with Th17 cells promoting influx of neutrophils.*
+
+---
+
+**105. In the setting of liver I/R, what was shown to occur to TNF-α levels after 90 minutes of ischemia followed by 60 minutes of reperfusion?**
+
+- TNF-α levels decreased significantly
+- TNF-α levels remained unchanged
+- **TNF-α levels increased significantly**
+- TNF-α levels were undetectable
+
+*Explanation: Murine models have demonstrated a significant increase in TNF-α levels after 90 minutes of ischemia, followed by 60 minutes of reperfusion.*
+
+---
+
+**106. What is the endothelial isoform of NOS (eNOS) role during hepatic reperfusion?**
+
+- It worsens I/R injury by producing toxic NO
+- It has no role in I/R injury
+- **It is a protective molecule during reperfusion**
+- It activates inflammatory cascades
+
+*Explanation: The endothelial isoform of NOS (eNOS) has most clearly been defined as a protective molecule during reperfusion. eNOS knockout mice demonstrated increased severity of hepatic injury after ischemia compared with their wild-type counterparts.*
+
+---
+
+**107. What two key findings provide evidence for the importance of the hepatic immune system in malignancy?**
+
+- Elevated NK cell function and absence of Tregs in liver cancer
+- Increased B cell infiltration and reduced macrophage numbers
+- **Disproportionately higher percentage of NK cells with reduced antitumor function, and hepatic T-cell infiltrate predicting survival after surgery for metastatic colorectal liver cancer**
+- Elevated DC maturation and increased IFN-γ production
+
+*Explanation: Evidence reveals that (1) human liver specimens from patients with malignancy contain a disproportionately higher percentage of NK cells with reduced antitumor function and (2) the hepatic T-cell infiltrate predicts survival after surgery in patients with metastatic colorectal liver cancer.*
+
+---
+
+**108. What are tumor-infiltrating lymphocytes (TILs)?**
+
+- Lymphocytes trapped in hepatic sinusoids
+- Lymphocytes secreted by the tumor
+- **Lymphocytes that indicate a specific host response to tumor antigens and can be used with therapeutic intent or for prognostic information**
+- Lymphocytes derived from liver-resident NK cells
+
+*Explanation: Tumor-infiltrating lymphocytes (TILs) indicate a specific host response to tumor antigens. TILs may be used with therapeutic intent or studied for prognostic information.*
+
+---
+
+**109. In HCC, how do TIL populations compare to T cells in adjacent normal liver tissue?**
+
+- HCC TILs are more immunologically active
+- HCC TILs have fewer Tregs
+- **HCC TILs reflect a more immunosuppressed state with higher numbers of Tregs**
+- HCC TILs have higher CD8+ T cell counts
+
+*Explanation: HCC TILs have been compared with T cells in adjacent normal liver tissue, and HCC TILs reflect a more immunosuppressed state. HCC TIL populations have been shown to contain a higher number of Tregs compared with normal surrounding liver.*
+
+---
+
+**110. What was the clinical significance of high FOXP3+ to CD8+ TIL ratios in HCC patients?**
+
+- Associated with improved disease-free survival
+- Not significantly associated with any outcome
+- **Associated with shorter overall and disease-free survival times**
+- Associated with better tumor differentiation
+
+*Explanation: High FOXP3+ to CD8+ TIL ratios were associated with shorter overall and disease-free survival times in HCC patients on both univariate and multivariate analysis.*
+
+---
+
+**111. In intrahepatic cholangiocarcinoma (CCA) resections, where were CD8+ TILs most abundant?**
+
+- Within the tumor core
+- In portal tracts
+- In draining lymph nodes
+- **At the tumor margin**
+
+*Explanation: A study of 123 patients with intrahepatic CCA who underwent curative surgical resection revealed that IL-17+ (Th17) and FOXP3+ (Treg) TILs were enriched predominantly within CCA tumors, whereas CD8+ TILs were most abundant at the tumor margin.*
+
+---
+
+**112. What was the independent predictor of decreased patient survival in patients with intrahepatic CCA?**
+
+- High CD8+ TIL counts
+- Low FOXP3+ Treg counts
+- **High IL-17+ TIL counts**
+- High NK cell infiltration
+
+*Explanation: IL-17+ TIL counts were an independent predictor of decreased patient survival, reflecting the importance of the Th17/Treg balance in liver diseases.*
+
+---
+
+**113. What is the most common cause of death from cancer in the United States that includes pancreatic ductal adenocarcinoma?**
+
+- First
+- Second
+- Third
+- **Fourth**
+
+*Explanation: Pancreatic ductal adenocarcinoma (PDA) is the fourth most common cause of cancer death in the United States and has a rising incidence.*
+
+---
+
+**114. In pancreatic ductal adenocarcinoma, what early evidence demonstrated improved survival?**
+
+- Higher Treg density
+- Higher M2 macrophage density
+- **Higher densities of CD8+ T cells and DCs**
+- Higher MDSC infiltration
+
+*Explanation: Early evidence demonstrated improved survival with higher densities of CD8+ T cells and DCs; conversely, myeloid cell types, including MDSCs, and Tregs were enriched in poorly differentiated PDA.*
+
+---
+
+**115. How do immunosuppressive M2 phenotype macrophages suppress tumor killing in pancreatic cancer?**
+
+- By expressing CTLA-4
+- By activating NK cells
+- **By secreting cytokines such as IL-10 and TGF-β**
+- By blocking MHC class I expression
+
+*Explanation: Immunosuppressive M2 phenotype macrophages appear to suppress tumor killing activity by effector T cells via secretion of cytokines such as IL-10 and TGF-β.*
+
+---
+
+**116. What leukocyte adhesion molecule, produced by endothelial cells in the PDA stroma, appears to enhance Treg migration into the tumor microenvironment?**
+
+- CD44
+- ICAM-1
+- **CD166**
+- L-selectin
+
+*Explanation: Higher expression of leukocyte adhesion molecules, such as CD166, produced by endothelial cells in the stroma appear to enhance Treg migration into the PDA microenvironment.*
+
+---
+
+**117. What immunosuppressive shift in CTL phenotype is associated with PDA via IL-10?**
+
+- Shift from Th2 to Th1
+- Shift from Treg to Th17
+- **Shift from effector Th1 to more suppressive Th2 subtype**
+- Shift from Th17 to Th2
+
+*Explanation: The immunosuppressive milieu also tends to shift CTL phenotypes away from the effector Th1 to the more suppressive Th2 subtype via IL-10; higher ratios of the Th2 to Th1 ratio seen in PDA has been associated with worse outcomes.*
+
+---
+
+**118. What is the primary goal of cancer immunotherapy for liver tumors?**
+
+- To enhance fibrosis around tumors
+- To increase MDSCs in the tumor microenvironment
+- **To deliver or induce potent antitumor immunity while reversing intrahepatic suppression**
+- To promote tumor cell apoptosis through chemotherapy
+
+*Explanation: The primary goal of cancer immunotherapy, particularly for liver tumors, is to deliver or induce potent antitumor immunity while reversing intrahepatic suppression.*
+
+---
+
+**119. In a mouse melanoma liver metastasis model, what activates NK cells toward tumor protection?**
+
+- TGF-β produced by Tregs
+- IL-10 from DCs
+- **IL-12 production by DCs**
+- IFN-α from innate immune cells
+
+*Explanation: IL-12 production by DCs activates NK cells toward protection against tumor in a mouse melanoma liver metastasis model.*
+
+---
+
+**120. How can human liver NK cells become potent antitumor cells despite having less lytic potential than blood NK cells?**
+
+- Through IL-10 stimulation
+- Through CTLA-4 blockade alone
+- **When activated in the presence of KCs and TLR3 ligands**
+- When primed with TGF-β
+
+*Explanation: Despite having less lytic potential than blood NK cells, human liver NK cells have the capacity to become potent antitumor cells when activated in the presence of KCs and TLR3 ligands.*
+
+---
+
+**121. What immunosuppressive molecule is expressed by activated monocytes in the peritumoral stroma of HCC, fostering tumor progression?**
+
+- CTLA-4
+- IL-10
+- **PD-L1**
+- TGF-β receptor
+
+*Explanation: Activated monocytes in the peritumoral stroma of HCC have been shown to foster a state of tolerance and promote tumor progression via the expression of an immunosuppressive molecule, PD-L1.*
+
+---
+
+**122. Before immunotherapy, what was the one and only data-driven choice for systemic therapy for advanced HCC?**
+
+- Bevacizumab
+- Nivolumab
+- **Sorafenib (a tyrosine kinase inhibitor)**
+- Pembrolizumab
+
+*Explanation: Before immunotherapy trials, the tyrosine kinase inhibitor sorafenib had been the one and only data-driven choice for systemic therapy for advanced HCC.*
+
+---
+
+**123. Which drug combination demonstrated improved overall and disease-free survival rates compared with sorafenib in unresectable HCC as first-line therapy?**
+
+- Nivolumab plus ipilimumab
+- Pembrolizumab alone
+- Sorafenib plus bevacizumab
+- **Atezolizumab (PD-L1 inhibitor) plus bevacizumab (VEGF inhibitor)**
+
+*Explanation: Most recently, combination atezolizumab (a PD-L1 inhibitor) and bevacizumab (a direct VEGF inhibitor) demonstrated improved overall and disease-free survival rates compared with sorafenib in unresectable HCC as first-line therapy.*
+
+---
+
+**124. What type of tumors are particularly responsive to immune checkpoint inhibition due to higher mutation burden and increased immunogenicity?**
+
+- MSS (microsatellite stable) tumors
+- Low tumor mutation burden tumors
+- **dMMR/MSI-H (deficient mismatch repair/microsatellite instability-high) tumors**
+- PD-L1–negative tumors
+
+*Explanation: dMMR tumors were early on shown to respond to immune checkpoint inhibition across tumor types, likely as a result of higher mutation burden, leading to more immunogenicity.*
+
+---
+
+**125. What is the prevalence of MSI-H phenotypes in colorectal cancer?**
+
+- Less than 1%
+- 1%–5%
+- **6%–20%**
+- 25%–30%
+
+*Explanation: Although hepatobiliary tumors have a low prevalence of MSI-H phenotypes, colorectal cancer has one of the highest rates at 6% to 20%.*
+
+---
+
+**126. What did the phase I HITM trial demonstrate regarding CAR-T cell therapy for colorectal cancer liver metastases (CRCLM)?**
+
+- Significant toxicity limiting clinical use
+- No clinical efficacy signal
+- **Safety and encouraging signals of clinical efficacy of hepatic artery anti-CEA CAR-T infusions**
+- Inferior outcomes compared to standard chemotherapy
+
+*Explanation: A phase I Hepatic Immunotherapy for Metastases (HITM) trial demonstrated the safety and encouraging signals of clinical efficacy of hepatic artery anti-CEA CAR-T infusions in patients with CRCLM.*
+
+---
+
+**127. What combination therapy was shown to release T cells from the stroma in PDA, allowing them to achieve tumor kill?**
+
+- CTLA-4 blockade plus IL-12
+- TGF-β inhibition plus IFN-γ
+- **Combination PD-1 monoclonal antibody and AMD3100 (an FDA-approved CXCR4 inhibitor)**
+- Anti-CD20 plus IL-2
+
+*Explanation: Ex vivo treatment with combination PD-1 monoclonal antibody and AMD3100 (an FDA-approved CXCR4 inhibitor) released T cells from the stroma, allowing them to get adjacent to tumor cells and achieve tumor kill.*
+
+---
+
+**128. What was the disease control rate in the phase II COMBAT trial for metastatic PDA using combination CXCR4 and PD-1 blockade with chemotherapy at 2 years?**
+
+- 45%
+- 55%
+- 65%
+- **77%**
+
+*Explanation: The recent phase II COMBAT trial in metastatic PDA using combination CXCR4 and PD-1 blockade confirmed the increase in CD8 T-cell infiltration while decreasing MDSC and Treg populations; furthermore, it demonstrated a disease control rate of 77% out to 2 years when combined with chemotherapy.*
+
+---
+
+**129. What does CXCR4 serve as a receptor for, and why is it relevant to PDA immunosuppression?**
+
+- A receptor for VEGF, promoting angiogenesis
+- **A chemokine receptor for CXCL12, thought to be immunosuppressive and produced by cancer-associated fibroblasts**
+- A receptor for LPS, activating innate immunity
+- A receptor for IFN-γ, mediating Th1 responses
+
+*Explanation: CXCR4 is a chemokine receptor for CXCL12, thought to be immunosuppressive and produced by cancer-associated fibroblasts. Combination blockade of PD-1 and CXCR4 yielded tumor killing in a synergistic way.*
+
+---
+
+**130. In patients with CRCLM who survived 10 years or longer, what percentage had high levels of CD8+ T cells?**
+
+- 8%
+- 20%
+- **31%**
+- 50%
+
+*Explanation: After hepatic resection, patients with high numbers of CD8+ intratumoral T cells were more likely to survive 10 years or longer. Among patients who survived for 10 years or more, 31% had high levels of CD8+ T cells.*
+
+---
+
+**131. In patients with CRCLM who survived less than 2 years, what percentage had high levels of CD8+ TILs?**
+
+- 31%
+- 20%
+- 15%
+- **8%**
+
+*Explanation: Among patients who survived for 10 years or more, 31% had high levels of CD8+ T cells. In contrast, only 8% of those who survived less than 2 years had a high level of CD8+ TIL.*
+
+---
+
+**132. What is the 5-year overall survival rate for patients with a high FOXP3+ to CD4+ TIL ratio in CRCLM?**
+
+- 51%
+- 46%
+- 40%
+- **34%**
+
+*Explanation: Overall survival at 5 years for patients with a high FOXP3+ to CD4+ TIL ratio was 34% compared with 51% for patients with a low ratio.*
+
+---
+
+**133. What was the 5-year survival for CRCLM patients with a low FOXP3+ to CD8+ TIL ratio?**
+
+- 34%
+- 35%
+- 40%
+- **46%**
+
+*Explanation: Five-year survival was 35% in those with a high FOXP3+ to CD8+ ratio compared with 46% in those with a low FOXP3+ to CD8+ TIL ratio.*
+
+---
+
+**134. What important lymphocyte population in the innate immune system does not possess receptors for specific peptide antigens?**
+
+- CD4+ T cells
+- γδ T cells
+- NKT cells
+- **Natural killer (NK) cells**
+
+*Explanation: NK cells are innate responders and, unlike T cells, do not possess receptors for specific peptide antigens. By expressing a variety of activating and inhibitory receptors, NK cells can bind ligands on their target cells.*
+
+---
+
+**135. How do NK cells kill target cells?**
+
+- By secreting antibodies
+- By presenting antigen on MHC class I
+- **By releasing lytic granules or cytokines such as IFN-γ in an MHC-unrestricted fashion**
+- By activating complement cascade
+
+*Explanation: The resulting activation of NK cells causes the release of lytic granules, or cytokines such as IFN-γ, which kill the infected host or tumor cell in an MHC-unrestricted fashion.*
+
+---
+
+**136. Which of the following best describes the role of B cells in the liver?**
+
+- They are absent from the liver
+- They serve exclusively as structural cells
+- **They mediate adaptive immune responses through antibody production and function as APCs; they play prominent roles in viral and autoimmune liver disease**
+- They primarily produce IL-17
+
+*Explanation: B cells mediate adaptive immune responses, delivering humoral immunity through antibody production. B cells may also function as APCs. They play prominent roles in viral and autoimmune disease affecting the liver.*
+
+---
+
+**137. What proportion of liver non-parenchymal cells (NPCs) are leukocytes?**
+
+- One tenth
+- One fifth
+- **One quarter**
+- One half
+
+*Explanation: Among the liver's non-parenchymal cells (NPCs), one quarter are leukocytes.*
+
+---
+
+**138. What is the three-signal model for APC instruction of T and B cells?**
+
+- Antigen, antibody, complement
+- MHC, co-inhibitory molecule, TLR
+- **Antigen presentation (Signal 1), co-stimulation (Signal 2), and cytokine production (Signal 3)**
+- NK recognition, phagocytosis, cytokine storm
+
+*Explanation: Signals 1 (antigen presentation), 2 (co-stimulation), and 3 (cytokine production) between APCs and naïve T or B cells govern the subsequent adaptive immune response.*
+
+---
+
+**139. Into which four types of T cells can naïve CD4+ T cells differentiate?**
+
+- Th1, Th2, CD8+, Treg
+- NK, NKT, γδ, conventional T
+- **Th1, Th2, Th17, and Treg**
+- CD4, CD8, FOXP3, γδ
+
+*Explanation: Naïve CD4+ T cells can differentiate into four types of T cells—Th1, Th2, Th17, and Treg—each with a distinct cytokine profile and specific effector function.*
+
+---
+
+**140. What cytokines are characteristic of Th1 cells?**
+
+- IL-4 and IL-5
+- IL-17 and TNF
+- IL-10 and TGF-β
+- **IFN-γ and TNF**
+
+*Explanation: Th1 cells produce IFN-γ and TNF, driving pro-inflammatory responses particularly against intracellular pathogens.*
+
+---
+
+**141. Which T cell subset is associated with allergy, asthma, and helminth infections?**
+
+- Th1
+- Th17
+- Treg
+- **Th2**
+
+*Explanation: Th2 cells are associated with allergy, asthma, and helminth infections, producing cytokines including IL-4, IL-5, and IL-13.*
+
+---
+
+**142. What are the cytokines produced by Tregs that mediate immunosuppression?**
+
+- IFN-γ and TNF
+- IL-17 and IL-21
+- IL-4 and IL-5
+- **IL-10 and TGF-β**
+
+*Explanation: Immunosuppression by Tregs is mediated through numerous mechanisms, including secretion of tolerogenic cytokines (IL-10 and TGF-β) and expression of PD-L1.*
+
+---
+
+**143. What is the significance of chronic active hepatitis having a predominantly mononuclear cell infiltrate morphologically?**
+
+- It indicates neutrophil-mediated damage
+- It points to antibody-mediated cytotoxicity
+- It represents granuloma formation
+- **It is morphologically consistent with immune-mediated destruction involving T cells, KCs, NK, and NKT cells**
+
+*Explanation: Consistent with immune cell activation, chronic active hepatitis is morphologically identified by piecemeal necrosis and a predominantly mononuclear cell infiltrate.*
+
+---
+
+**144. What was the clinical implication of pembrolizumab showing superior progression-free survival (16.5 months vs. 8.2 months) as first-line therapy for MSI-H metastatic CRC?**
+
+- It established sorafenib as the preferred treatment
+- It confirmed that MSI-H CRC does not respond to immunotherapy
+- **It further cemented the role of immunotherapy as a mainstay of treatment for unresectable CRCLM**
+- It showed that bevacizumab is superior to pembrolizumab
+
+*Explanation: Pembrolizumab has recently shown superior progression-free survival compared with conventional systemic chemotherapy (16.5 months vs. 8.2 months) as first-line therapy for MSI-H metastatic CRC, further cementing the role of immunotherapy as a mainstay of treatment of unresectable CRCLM.*
+
+---
+
+**145. What is the source of CXCL12 that makes it immunosuppressive in the PDA microenvironment?**
+
+- Tumor-infiltrating T cells
+- MDSCs
+- **Cancer-associated fibroblasts**
+- NK cells
+
+*Explanation: CXCL12 is thought to be immunosuppressive and produced by cancer-associated fibroblasts in the PDA tumor microenvironment.*
+
+---
+
+**146. What is the role of NF-κB in liver ischemia/reperfusion injury?**
+
+- NF-κB activation decreases apoptosis
+- NF-κB is not involved in I/R injury
+- **NF-κB mediates the effects of TNF-α; its inhibition significantly decreases hepatic apoptosis and caspase-3 activity**
+- NF-κB activates anti-inflammatory pathways
+
+*Explanation: Mediation of the effects of TNF-α occurs primarily through activation of NF-κB. Inhibition of NF-κB activation has demonstrated significantly decreased hepatic apoptosis and caspase-3 activity.*
+
+---
+
+**147. What role does heme oxygenase-1 play in liver ischemia/reperfusion injury?**
+
+- It amplifies inflammatory responses
+- It activates complement
+- **It suppresses TNF-α/TNFR1-directed hepatic apoptosis**
+- It induces iNOS expression
+
+*Explanation: Induction of heme oxygenase-1 functions to suppress TNF-α/TNFR1-directed hepatic apoptosis during hepatic I/R injury.*
+
+---
+
+**148. In a patient with CRCLM, what TIL ratio was shown to be an independent predictor of long-term survival after resection?**
+
+- FOXP3+ to total lymphocytes
+- NK to T cell ratio
+- **High CD8+ to CD4+ TIL ratio**
+- Th17 to Treg ratio
+
+*Explanation: In patients with CRCLM, high CD8+ to CD4+ TIL ratios were an independent predictor of long-term survival after resection, after adjusting for multiple variables, including clinical risk score.*
+
+---
+
+**149. The hepatic sinusoidal flow is described as "sluggish" – what immunologic consequence does this have?**
+
+- It reduces antigen capture by immune cells
+- It prevents immune cell migration into the liver
+- **It allows for efficient capture of antigens by leukocytes and endothelial cells lining the sinusoids**
+- It prevents interaction between T cells and APCs
+
+*Explanation: The sluggish flow of blood allows for the efficient capture of antigens by leukocytes traveling in the blood within the sinusoids and by the endothelial cells lining the sinusoids.*
+
+---
+
+**150. What is the clinical implication of FOXP3+ TIL counts being predictors of outcome after resection of neuroendocrine tumor liver metastases?**
+
+- High FOXP3+ TILs indicate better immunity
+- FOXP3+ TILs have no prognostic value
+- **High FOXP3+ Treg infiltration indicates an immunosuppressive microenvironment that portends worse outcome**
+- FOXP3+ TILs improve response to chemotherapy
+
+*Explanation: FOXP3+ TIL counts were also found to be predictors of outcome after resection of neuroendocrine tumor liver metastases, consistent with the pattern seen in other liver tumors where higher Treg infiltration is associated with worse outcomes.*
+
+---
+
+**151. What is the significance of tumor MHC I expression in CRCLM?**
+
+- It has no correlation with immune infiltrates
+- It decreases T cell recognition of tumor cells
+- **It has been correlated with immune infiltrates and outcome**
+- It promotes immune evasion
+
+*Explanation: Tumor MHC I expression has been correlated to immune infiltrates and outcome in colorectal cancer liver metastases.*
+
+---
+
+**152. What protects a simultaneously transplanted kidney allograft from rejection when performed with a liver transplant from the same donor?**
+
+- Cyclosporine immunosuppression
+- CD8+ T cell depletion
+- **The liver transplant itself confers protection for other organs from the same donor**
+- Antibody-mediated tolerance induction
+
+*Explanation: In humans, liver transplants confer protection for other organs from the same donor, and recipients can often be weaned off immunosuppression altogether.*
+
+---
+
+**153. What was the finding of the murine model study using CD11chi DC-depleted transgenic mice regarding CD8+ T cell activation in the liver?**
+
+- Activation of CD8+ T cells increased without DCs
+- Activation occurred independently of DCs via LSECs
+- **Activation of antigen-specific CD8+ T cells in the liver only occurred in the presence of CD11chi DCs**
+- CD8+ T cell activation was dependent on NK cells, not DCs
+
+*Explanation: Using a transgenic mouse in which CD11chi DCs can be depleted selectively, it was found that activation of antigen-specific CD8+ T cells in the liver only occurred in the presence of CD11chi DCs.*
+
+---
+
+**154. What is the phenotypic overlap between Kupffer cells and other intrahepatic cells in humans that complicates their study?**
+
+- KCs overlap with T cells in surface marker expression
+- KCs cannot be distinguished from NK cells
+- **Cell surface markers that clearly distinguish macrophages from DCs in other tissues may not be absolute among liver myeloid cells**
+- KCs phenotypically resemble hepatic stellate cells
+
+*Explanation: The distinction between KC subsets and DCs in human liver is complicated by the concern that cell surface markers that clearly distinguish macrophages from DCs in other tissues may not be absolute among liver myeloid cells.*
+
+---
+
+**155. What is adaptive immunity's key distinguishing feature compared to innate immunity?**
+
+- Speed of response
+- Lack of memory
+- Non-specificity
+- **Antigen-specific responses and long-lasting immunologic memory**
+
+*Explanation: Adaptive immunity involves antigen-specific responses, which occur de novo during an initial immune response or rapidly upon repeat exposure to a particular pathogen, and the system is capable of long-lasting immunologic memory.*
+
+---
+
+**156. What is the role of IL-2 in pancreatic adenocarcinoma tumor microenvironment?**
+
+- IL-2 activates NK cell cytotoxicity
+- IL-2 promotes CD8+ T cell expansion in the tumor
+- **IL-2 mediates increased proliferation and expansion of Treg within the tumor microenvironment to decrease tumor targeting**
+- IL-2 blocks TGF-β signaling
+
+*Explanation: IL-2 mediates increased proliferation and expansion of Treg within the tumor microenvironment to decrease tumor targeting, contributing to the immunosuppressive milieu in PDA.*
+
+---
+
+**157. What is the effect of IL-4 on macrophages in the PDA tumor environment?**
+
+- IL-4 activates macrophages to the pro-inflammatory M1 subtype
+- IL-4 reduces macrophage numbers in the tumor
+- **IL-4 shifts macrophages from activated M1 subtype to immunosuppressive M2 subtype**
+- IL-4 promotes macrophage apoptosis
+
+*Explanation: IL-4 shifts macrophages from activated M1 subtype to immunosuppressive M2 subtype, and may play a role in enhanced activity of the M2 subtype within the PDA tumor milieu.*
+
+---
+
+**158. How does IL-12 modulate T cells from PDA patients in vitro?**
+
+- It shifts T cells toward the Th2 subtype
+- It induces Treg differentiation
+- **It modulates T cells from PDA patients toward Th1 subtype**
+- It suppresses T cell proliferation
+
+*Explanation: Administration of IL-12 in vitro modulated T cells from PDA patients toward Th1 subtype, demonstrating its potential to reverse the immunosuppressive Th2 skewing in PDA.*
+
+---
+
+**159. What is the role of monoclonal antibodies against TNF-α in the context of PDA?**
+
+- They increase Treg migration into PDA
+- They block IL-10 signaling
+- **They demonstrate decreased infiltration of Treg into PDA**
+- They promote M2 macrophage activation
+
+*Explanation: Monoclonal antibodies against TNF-α have demonstrated decreased infiltration of Treg into PDA, suggesting a role for TNF-α in Treg recruitment to the tumor microenvironment.*
+
+---
+
+**160. What was the result of the phase II trial involving ipilimumab (a CTLA-4 inhibitor) in patients with advanced PDA?**
+
+- Significant improvement in overall survival
+- Improved progression-free survival
+- **No demonstrated benefit in survival or outcomes**
+- High response rates but unacceptable toxicity
+
+*Explanation: A phase II trial involving ipilimumab, a CTLA-4 inhibitor, did not demonstrate any benefit in survival or outcomes in patients with advanced PDA.*
+
+---
+
+**161. What is the role of CCR2 in the PDA microenvironment?**
+
+- CCR2 promotes T cell cytotoxicity
+- CCR2 inhibits monocyte chemotaxis
+- **CCR2 appears to mediate recruitment of M2 macrophages into the PDA microenvironment, thereby decreasing immune activation**
+- CCR2 is a co-stimulatory molecule on T cells
+
+*Explanation: CCR2 appears to mediate recruitment of M2 macrophages into the PDA microenvironment, thereby decreasing immune activation.*
+
+---
+
+**162. PDA cells evade the immune response using which checkpoint molecule by expressing PD-L1?**
+
+- CTLA-4
+- LAG-3
+- **PD-1/PD-L1 pathway**
+- TIM-3
+
+*Explanation: PDA cells appear to evade the immune response using checkpoint molecules, including by expressing PD-L1, which engages PD-1 on T cells, leading to decreased T-cell activation.*
+
+---
+
+**163. What does "LPS tolerance" in macrophages refer to?**
+
+- A mechanism that enhances macrophage response to LPS
+- Complete resistance to LPS-induced cytokine production
+- **Reduced responses of macrophages previously exposed to LPS upon repeat stimulation, important for negative regulation of the systemic inflammatory response**
+- A phenotypic change in macrophages after LPS exposure
+
+*Explanation: Macrophages previously exposed to LPS demonstrate reduced responses to repeat stimulation; this LPS tolerance is important for the negative regulation of the systemic inflammatory response.*
+
+---
+
+**164. In the JAK/STAT pathway activated by IL-6, what event initiates signaling upon ligand binding?**
+
+- Phosphorylation of SMAD2 and SMAD3
+- Activation of NF-κB
+- **Formation of gp130 homodimers by ligand binding**
+- Binding of IFN-γ to its receptor
+
+*Explanation: Upon formation of gp130 homodimers by ligand binding, signaling is carried forward primarily by the Janus activating kinase/signal transducer and activator of transcription pathway.*
+
+---
+
+**165. What determines whether a transplanted liver allograft is accepted or rejected in the context of T-cell responses?**
+
+- The MHC mismatch between donor and recipient
+- The number of DCs in the donor liver
+- The level of NK cells in the recipient blood
+- **The overall bias of intrahepatic T-cell responses toward tolerance and apoptosis**
+
+*Explanation: The overall bias of intrahepatic T-cell responses toward tolerance and apoptosis might account for the survival of liver allografts.*
+
+---
+
+**166. How does the role of Th17 cells in PBC disease severity manifest?**
+
+- Th17 cells reduce fibrosis in PBC
+- Th17 cells promote tolerance in PBC
+- **The degree of Th17 activity within the liver of PBC patients is associated with severity of disease, and IL-17 promotes excessive fibrosis**
+- Th17 cells drive the antimitochondrial antibody response
+
+*Explanation: The degree of Th17 activity within the liver of PBC patients has been associated with severity of disease, and IL-17 promotes excessive fibrosis.*
+
+---
+
+**167. What evidence from single-cell RNA sequencing supports the existence of two distinct KC subsets in the liver?**
+
+- Both subsets express identical surface markers
+- Only one subset responds to LPS stimulation
+- **Genes expressed by two clusters of macrophage-like cells identified on the basis of differential gene expression argue for a dichotomy similar to that seen in mice**
+- Single-cell RNA sequencing shows a continuum rather than distinct subsets
+
+*Explanation: In humans, genes expressed by two clusters of macrophage-like cells identified on the basis of differential gene expression argue for the same dichotomy, suggesting two distinct KC subsets as seen in mice.*
+
+---
+
+**168. What is the significance of the liver being the most common site for metastatic disease in the context of liver immunology?**
+
+- The liver has a unique blood supply that traps circulating tumor cells mechanically
+- Metastatic cells produce factors that suppress hepatic immunity
+- **Malignant cells are able to exploit intrahepatic immunosuppression to evade immune destruction**
+- The liver lacks NK cells necessary for tumor surveillance
+
+*Explanation: The fact that the liver is one of the most common sites for metastatic disease suggests that malignant cells are able to exploit intrahepatic immunosuppression.*
+
+---
+
+**169. What is the consequence of T cell exhaustion mediated by PD-1/PD-L1 engagement?**
+
+- Enhanced tumor killing ability
+- Increased cytokine production
+- Increased T cell proliferation
+- **Markedly diminished capacity for cytokine production, proliferation, and tumor lysis**
+
+*Explanation: Exhausted T cells have a markedly diminished capacity for cytokine production, proliferation, and tumor lysis, as a result of PD-1 engagement by PD-L1.*
+
+---
+
+**170. What future therapeutic direction is highlighted in the chapter for advancing treatment of advanced liver and pancreatic malignancies?**
+
+- Development of new chemotherapy regimens
+- Use of radiotherapy targeting the tumor microenvironment
+- Surgical resection combined with stem cell transplant
+- **Translating understanding of the nuanced immune microenvironment into targetable therapies, including combination immunotherapies addressing immune tolerance, evasion, and suppression**
+
+*Explanation: The chapter concludes that recent advances in understanding the nuanced immune microenvironment of complex diseases of the liver and pancreas, and turning these concepts into targetable therapies, give hope that the paradigm-shifting era of immunotherapies will soon make headway into decreasing the mortality of advanced liver and pancreatic malignancies.*

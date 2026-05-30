@@ -1,0 +1,1872 @@
+# 07 Liver Fibrogenesis: Mechanisms and Clinical Relevance
+
+
+Generated with Claude.
+
+**1. What does liver fibrosis fundamentally represent?**
+
+- A regenerative response to acute liver injury only
+- An immune-mediated destruction of hepatocytes
+- **A scarring response to either acute or chronic liver injury**
+- A vascular occlusive process within hepatic sinusoids
+
+*Explanation: Liver fibrosis represents a scarring response to either acute or chronic liver injury, characterized by accumulation of extracellular matrix (ECM).*
+
+---
+
+**2. What happens to parenchymal cells after acute liver injury?**
+
+- They undergo irreversible apoptosis
+- They transform into myofibroblasts
+- **They regenerate to successfully preserve hepatocellular mass and function**
+- They are replaced by fibrous septa
+
+*Explanation: After acute liver injury, parenchymal cells regenerate to successfully preserve hepatocellular mass and function, with limited ECM deposition.*
+
+---
+
+**3. Which of the following best characterizes the difference between acute and chronic liver injury responses?**
+
+- Acute injury leads to fibrosis; chronic injury leads to regeneration
+- **Acute injury results in limited ECM deposition; chronic injury leads to sustained ECM accumulation**
+- Acute injury activates HSCs; chronic injury suppresses them
+- Both acute and chronic injury lead to identical degrees of fibrosis
+
+*Explanation: Prolonged (chronic) liver injury leads to sustained production of growth factors and fibrogenic cytokines, culminating in ECM accumulation, whereas acute injury results in only limited ECM deposition.*
+
+---
+
+**4. What is the late stage of fibrosis, characterized by septa encircling nodules of hepatocytes and altered microvascular structure, termed?**
+
+- Steatosis
+- Cholestasis
+- **Cirrhosis**
+- Hepatitis
+
+*Explanation: The late stage of fibrosis, in which ECM forms septa coalescing into broad bands of scar tissue encircling nodules of hepatocytes, is termed cirrhosis.*
+
+---
+
+**5. Which of the following is NOT listed as a complication of cirrhosis?**
+
+- Ascites
+- Encephalopathy
+- Hepatocellular carcinoma
+- **Pancreatitis**
+
+*Explanation: Cirrhosis leads to portal hypertension and its complications, including ascites, encephalopathy, and hepatocellular carcinoma. Pancreatitis is not a direct complication of cirrhosis described in this context.*
+
+---
+
+**6. Over what typical time frame does progression of fibrosis to cirrhosis evolve before clinical events?**
+
+- Days to weeks
+- Weeks to months
+- Months to a year
+- **Decades**
+
+*Explanation: Typically, progression of fibrosis to cirrhosis evolves for decades before clinical events ensue.*
+
+---
+
+**7. In which condition has rapidly progressive acute hepatitis C virus infection with fibrosis been reported?**
+
+- Men coinfected with hepatitis B virus
+- Women with autoimmune hepatitis
+- **Men coinfected with human immunodeficiency virus (HIV)**
+- Children with Wilson disease
+
+*Explanation: Rapidly progressive acute HCV infection with fibrosis has been reported in men coinfected with HIV, a syndrome that has become much rarer with good HIV control using highly active antiretroviral therapies.*
+
+---
+
+**8. Which toll-like receptor polymorphism has been linked to progression of liver fibrosis in HCV-infected individuals?**
+
+- TLR2
+- TLR3
+- **TLR4**
+- TLR9
+
+*Explanation: Polymorphisms in candidate genes involving the inflammatory response, such as Toll-like receptor 4 (TLR4), may influence the progression of liver fibrosis in HCV-infected humans.*
+
+---
+
+**9. Direct-acting antiviral drugs cure HCV infection in what proportion of patients?**
+
+- Less than 50%
+- Approximately 60–70%
+- Approximately 80–85%
+- **More than 95%**
+
+*Explanation: Direct-acting antiviral drugs cure HCV infection in more than 95% of patients, regardless of disease stage or risk factors.*
+
+---
+
+**10. Why has the development of a genetic risk score for NAFLD been elusive?**
+
+- Because NAFLD is entirely environmentally determined
+- Because no genetic determinants have been found for NAFLD
+- **Because the disease is more heterogeneous than HCV**
+- Because NAFLD does not progress to fibrosis
+
+*Explanation: Development of a similar genetic risk score for NAFLD has been elusive, possibly because the disease is more heterogeneous than HCV.*
+
+---
+
+**11. Which of the following is NOT listed as a main etiology of liver fibrosis in Western countries?**
+
+- Chronic HCV infection
+- Alcohol abuse
+- Nonalcoholic steatohepatitis (NASH)
+- **Parasitic liver infection**
+
+*Explanation: The main etiologies of liver fibrosis in Western countries are chronic HCV and HBV infection, alcohol abuse, and NASH. Parasitic liver infection is not listed among the main Western etiologies.*
+
+---
+
+**12. What proportion of all deaths is reportedly related to some kind of fibrosis?**
+
+- Up to 10%
+- Up to 20%
+- Up to 30%
+- **Up to 45%**
+
+*Explanation: As many as 45% of all deaths are related to some kind of fibrosis, underscoring the importance of this response.*
+
+---
+
+**13. Which cell type has been identified as the central cell type in hepatic fibrogenesis?**
+
+- Kupffer cell
+- Sinusoidal endothelial cell
+- **Hepatic stellate cell (HSC)**
+- Cholangiocyte
+
+*Explanation: Research has identified the hepatic stellate cell (HSC) as the central cell type in fibrogenesis.*
+
+---
+
+**14. What was the historically held view about liver fibrosis prior to modern research?**
+
+- That it was easily reversible with antioxidant therapy
+- That it was primarily driven by viral infection alone
+- **That it was an irreversible disease progressing to cirrhosis**
+- That it was a benign condition without clinical consequences
+
+*Explanation: For decades, fibrosis was considered an irreversible disease that progresses to cirrhosis with greater risk for hepatocellular carcinoma and development of liver failure.*
+
+---
+
+**15. What was the only potential treatment for liver fibrosis when it was considered irreversible?**
+
+- Antiviral therapy
+- Anti-inflammatory drugs
+- Antioxidant supplementation
+- **Liver transplantation once cirrhosis was present**
+
+*Explanation: When fibrosis was considered irreversible, the only potential treatment was liver transplantation once cirrhosis was present.*
+
+---
+
+**16. The liver is composed primarily of which epithelial cells?**
+
+- Stellate cells and Kupffer cells
+- NK cells and NKT cells
+- **Hepatocytes and cholangiocytes**
+- Sinusoidal endothelial cells and dendritic cells
+
+*Explanation: The liver is composed primarily of epithelial cells (hepatocytes and cholangiocytes), as well as resident nonparenchymal cells.*
+
+---
+
+**17. Which cells reside in the hepatic sinusoids and are important components of the innate immune system?**
+
+- Hepatocytes and cholangiocytes
+- Portal fibroblasts and HSCs
+- **Kupffer cells, NK cells, NKT cells, and dendritic cells**
+- Smooth muscle cells and pericytes
+
+*Explanation: Kupffer cells, NK cells, NKT cells, and dendritic cells, all of which are important components of the innate immune system, reside in the hepatic sinusoids.*
+
+---
+
+**18. What structure is the subendothelial space between sinusoidal endothelium and hepatocytes called?**
+
+- Portal triad
+- Disse canal
+- **Space of Disse**
+- Hepatic lacuna
+
+*Explanation: The subendothelial space between the sinusoidal endothelium and hepatocytes is termed the space of Disse.*
+
+---
+
+**19. Where do hepatic stellate cells (HSCs) reside within the liver?**
+
+- In the hepatic lobule center
+- In portal triads
+- **In the space of Disse**
+- In the bile duct wall
+
+*Explanation: HSCs lie in the space of Disse, where they have direct contact with endothelial cells and hepatocytes.*
+
+---
+
+**20. Why are sinusoidal endothelial cells described as "highly fenestrated"?**
+
+- To prevent any movement of plasma
+- To allow selective immunoglobulin transport
+- **To allow unimpeded flow of plasma from sinusoidal blood into the space of Disse**
+- To facilitate bile secretion
+
+*Explanation: Sinusoidal endothelial cells are highly fenestrated, which allows for unimpeded flow of plasma from sinusoidal blood into the space of Disse.*
+
+---
+
+**21. Which of the following is NOT listed among common stress signals for HSC activation?**
+
+- Viral infection
+- Reactive oxygen species (ROS)
+- Bile acids
+- **Insulin**
+
+*Explanation: Common stress signals for the liver include viral infection, ROS, endoplasmic reticulum stress, DAMPs, pathogen-associated molecular patterns, and bile acids. Insulin is not listed as a common stress signal.*
+
+---
+
+**22. How does free cholesterol contribute to fibrogenesis?**
+
+- By directly activating Kupffer cells
+- By increasing bile acid concentration
+- **By indirect activation of HSCs**
+- By directly depositing as ECM
+
+*Explanation: Free cholesterol promotes fibrogenesis by indirect activation of HSCs, which may be relevant to the pathogenesis of NAFLD.*
+
+---
+
+**23. In alcoholic liver disease, ethanol promotes overgrowth of which type of bacteria in the gut?**
+
+- Gram-positive bacteria
+- Anaerobic bacteria
+- Fungal organisms
+- **Gram-negative bacteria**
+
+*Explanation: In alcoholic liver disease, ethanol decreases gut motility, increases epithelial permeability, and promotes overgrowth of gram-negative bacteria.*
+
+---
+
+**24. Through which signaling complex does lipopolysaccharide (LPS) generate ROS via NADPH oxidase in alcoholic liver disease?**
+
+- NF-κB signaling complex
+- MAPK signaling complex
+- **TLR4 signaling complex**
+- JAK-STAT signaling complex
+
+*Explanation: LPS concentration elevated in portal blood through the TLR4 signaling complex generates ROS via reduced nicotinamide adenine dinucleotide phosphate (NADPH) oxidase.*
+
+---
+
+**25. What is the main degradation product of alcohol that activates HSCs?**
+
+- Acetic acid
+- Formic acid
+- **Acetaldehyde**
+- Lactic acid
+
+*Explanation: ROS and acetaldehyde, the main degradation product of alcohol, both activate HSCs and stimulate inflammatory signals.*
+
+---
+
+**26. Which nuclear receptor do bile acids act as ligands for, playing a key role in hepatocellular metabolism?**
+
+- PPAR-γ
+- Liver X receptor
+- **Farnesoid X receptor (FXR)**
+- Vitamin D receptor
+
+*Explanation: Bile acids are ligands for nuclear receptors, in particular the farnesoid X receptor (FXR), which drives an entire cellular program that can alter hepatocellular metabolism and bile secretion and composition.*
+
+---
+
+**27. The therapeutic benefit of vertical sleeve gastrectomy has been ascribed to which signaling pathway?**
+
+- TGF-β signaling
+- TNF-α signaling
+- **FXR signaling**
+- WNT signaling
+
+*Explanation: The therapeutic benefit of vertical sleeve gastrectomy has been ascribed to FXR signaling in an animal model, raising the possibility that intestinal FXR alone may be sufficient to drive weight loss and improve metabolic parameters in NASH.*
+
+---
+
+**28. Which of the following is a common mediator of injury shared across many liver diseases?**
+
+- Acetaldehyde
+- Bile acid accumulation
+- **Oxidant stress mediated by reactive oxygen species (ROS)**
+- Viral replication
+
+*Explanation: Oxidant stress, mediated by ROS, is a common mediator of injury in many liver diseases in which damaged hepatocytes become apoptotic or necrotic.*
+
+---
+
+**29. Which of the following best describes NAFLD in the context of liver transplantation trends?**
+
+- It is a declining indication for liver transplantation
+- It represents a stable minority of transplant indications
+- **Its proportion as a transplant indication is rapidly rising and overtaking viral hepatitis**
+- It is not yet recognized as an indication for liver transplantation
+
+*Explanation: The percentage of liver transplantations performed for NAFLD is rapidly rising and is overtaking viral hepatitis, not only because of curative antiviral therapy for HCV but also because of the rising prevalence of metabolic syndrome.*
+
+---
+
+**30. Which of the following is NOT listed among defects driving disease progression and fibrosis in NASH?**
+
+- Insulin resistance
+- Oxidant stress
+- Lipotoxicity
+- **Hyperthyroidism**
+
+*Explanation: Multiple convergent defects drive disease progression and fibrosis in NASH, including insulin resistance, oxidant stress, altered adipokine balance, lipotoxicity, effects of the microbiome, and enhanced inflammation. Hyperthyroidism is not listed.*
+
+---
+
+**31. In a healthy liver, what does the quiescent HSC store in its cytoplasm?**
+
+- Glycogen granules
+- Lipid droplets of cholesterol
+- **Retinoid droplets representing the major storage site for vitamin A**
+- Iron-containing ferritin complexes
+
+*Explanation: In a healthy liver, the HSC is a quiescent cell type that contains cytoplasmic retinoid droplets, representing the major storage site for vitamin A in the body.*
+
+---
+
+**32. Which markers does the quiescent HSC express?**
+
+- α-smooth muscle actin and vimentin
+- CD68 and F4/80
+- **Desmin and glial fibrillary acidic protein**
+- CD34 and von Willebrand factor
+
+*Explanation: The quiescent HSC expresses the markers desmin and glial fibrillary acidic protein.*
+
+---
+
+**33. Which proangiogenic growth factors stimulate HSC activation during liver injury?**
+
+- EGF and HGF
+- IL-6 and TNF-α
+- **VEGF and angiopoietin**
+- FGF and PDGF
+
+*Explanation: HSCs undergo activation in response to proangiogenic growth factors such as vascular endothelial growth factor (VEGF) and angiopoietin during liver injury.*
+
+---
+
+**34. Which fibrogenic cytokines are implicated in HSC activation?**
+
+- IL-1β and IL-18
+- IFN-γ and IL-12
+- **TGF-β1, CTGF, angiotensin II, and leptin**
+- TNF-α and IL-6
+
+*Explanation: Fibrogenic cytokines that activate HSCs include transforming growth factor-β (TGF-β1), connective tissue growth factor (CTGF), angiotensin II, and leptin.*
+
+---
+
+**35. What technique has uncovered significant heterogeneity among stellate cells in both normal and injured liver?**
+
+- Electron microscopy
+- Western blotting
+- Flow cytometry
+- **Single cell RNA sequencing**
+
+*Explanation: Recent studies using single cell RNA sequencing have uncovered significant heterogeneity among stellate cells in both normal and injured liver in both man and mouse.*
+
+---
+
+**36. What change in HSC phenotype is accompanied by loss of retinoid droplets during activation?**
+
+- Increased expression of desmin
+- Loss of glial fibrillary acidic protein
+- **Accumulation of α-smooth muscle actin**
+- Increased expression of CD68
+
+*Explanation: Activation of HSCs is accompanied by loss of retinoid droplets and accumulation of α-smooth muscle actin, a myogenic filament that confers increased cellular contractility.*
+
+---
+
+**37. What are activated HSCs characteristically called once they become positive for α-smooth muscle actin?**
+
+- Kupffer cells
+- Portal fibroblasts
+- **Hepatic myofibroblasts (MFB)**
+- Ito cells
+
+*Explanation: Activated HSCs are characteristically positive for α-smooth muscle actin and desmin and are called hepatic myofibroblasts (MFB).*
+
+---
+
+**38. In which type of liver disease do biliary portal fibroblasts make an important contribution to MFB formation?**
+
+- Alcoholic liver disease
+- NASH
+- HCV infection
+- **Cholestatic liver disease**
+
+*Explanation: While stellate cells are the dominant source of MFBs in parenchymal liver disease, a contribution from biliary portal fibroblasts is important in cholestatic liver disease.*
+
+---
+
+**39. What are the two conceptual phases of HSC activation?**
+
+- Proliferation and differentiation
+- Migration and infiltration
+- **Initiation and perpetuation**
+- Quiescence and senescence
+
+*Explanation: HSC activation can be divided conceptually into two phases: initiation (early changes in gene expression and phenotype) and perpetuation (maintaining the activated phenotype and generating fibrosis).*
+
+---
+
+**40. Which of the following transcription factors regulates HSC activation within the nucleus?**
+
+- c-Myc and p53
+- STAT3 and STAT6
+- **PPARs, NF-κB, and vitamin D receptor**
+- CREB and AP-1
+
+*Explanation: A growing number of transcription factors regulate HSC activation, including peroxisome proliferator-activated receptors (PPARs), retinoid receptors, liver X receptor, REV-ERBα, NF-κB, FXR, GATA4, vitamin D receptor, JunD, Kruppel-like factor 6, and FOXF1.*
+
+---
+
+**41. In addition to transcriptional control, how else is HSC activation regulated?**
+
+- By microRNA destruction
+- By ubiquitin-mediated protein degradation
+- By mitochondrial fission
+- **By a growing range of epigenetic changes**
+
+*Explanation: Not only is HSC activation under transcriptional control, but a growing range of epigenetic changes further regulates this HSC transdifferentiation into myofibroblasts.*
+
+---
+
+**42. What earlier theory about fibrogenic cell sources in liver has been strongly refuted by recent findings?**
+
+- Portal fibroblast contribution
+- Bone marrow-derived MFB contribution
+- **Epithelial-mesenchymal transition as a source of fibrogenic cells**
+- HSC activation as the primary source
+
+*Explanation: Earlier studies implicated epithelial-mesenchymal transition as a source of fibrogenic cells, but more recent findings strongly refute its importance in liver.*
+
+---
+
+**43. Which cytokine is the major profibrogenic signal in the liver?**
+
+- IL-6
+- TNF-α
+- **TGF-β1**
+- IFN-γ
+
+*Explanation: The major profibrogenic signal in liver is the cytokine TGF-β1.*
+
+---
+
+**44. By which cells is TGF-β1 primarily secreted?**
+
+- Hepatocytes and cholangiocytes
+- Kupffer cells only
+- **MFBs, platelets, and liver macrophages**
+- Sinusoidal endothelial cells
+
+*Explanation: TGF-β1 is secreted mainly by MFBs but also by platelets and liver macrophages.*
+
+---
+
+**45. In the TGF-β1 signaling pathway, which complex translocates to the nucleus to activate profibrogenic transcription factors?**
+
+- SMAD1/SMAD5/SMAD4 complex
+- SMAD6/SMAD7 inhibitory complex
+- **SMAD2/SMAD3/SMAD4 triheteromeric complex**
+- SMAD4/SMAD8 complex
+
+*Explanation: SMAD2 and SMAD3 associate with the TGF-β1 receptor, are phosphorylated, and recruit SMAD4. This triheteromeric complex then translocates to the nucleus, where it activates profibrogenic transcription factors.*
+
+---
+
+**46. Through which pathway does TGF-β stimulate SMAD-independent collagen type 1 synthesis?**
+
+- PI3K/AKT pathway
+- JAK/STAT pathway
+- **MAPK p38 pathway**
+- RAS/RAF pathway
+
+*Explanation: TGF-β also activates the mitogen-activated protein kinase (MAPK) p38 pathway, which stimulates additional SMAD-independent collagen type 1 synthesis.*
+
+---
+
+**47. What is the predominant stimulus to myofibroblast proliferation?**
+
+- TGF-β1
+- EGF
+- VEGF
+- **Platelet-derived growth factor (PDGF)**
+
+*Explanation: The predominant stimulus to MFB proliferation is the mitogen platelet-derived growth factor (PDGF).*
+
+---
+
+**48. Which receptor isoform is the key PDGF receptor in HSCs?**
+
+- α-PDGF receptor
+- γ-PDGF receptor
+- δ-PDGF receptor
+- **β-PDGF receptor**
+
+*Explanation: All pathways downstream of the β-PDGF receptor, the key receptor isoform in HSCs, promote proliferation.*
+
+---
+
+**49. The PI3K pathway downstream of PDGF receptor leads to activation of which kinase?**
+
+- c-Jun N-terminal kinase
+- Extracellular signal-regulated kinase
+- RAS/RAF complex
+- **AKT (protein kinase B)**
+
+*Explanation: The PI3K pathway is activated, leading to AKT (protein kinase B) activation and phosphorylation of the 70S6 kinase.*
+
+---
+
+**50. The liver's microenvironment of diminished immunogenicity is necessary to cope with high antigen exposure from which vessel?**
+
+- Hepatic artery
+- Central vein
+- Hepatic vein
+- **Portal vein**
+
+*Explanation: The liver is a microenvironment of diminished immunogenicity, which is necessary to cope with the high exposure of antigens from the portal vein.*
+
+---
+
+**51. Which T-lymphocyte subtype is described as more fibrogenic toward stellate cells than the other?**
+
+- CD4+ T lymphocytes
+- Regulatory T cells (Treg)
+- **CD8-positive T lymphocytes**
+- Natural killer T cells
+
+*Explanation: CD8-positive T lymphocytes are more fibrogenic toward stellate cells than CD4 T lymphocytes.*
+
+---
+
+**52. In the context of T-helper cells, which subtype is described as profibrogenic in liver injury?**
+
+- Th1 cells
+- Th17 cells
+- **Th2 cells (humoral immunity)**
+- Treg cells
+
+*Explanation: Of the CD4-positive T lymphocytes, the humoral immunity mediated by T-helper 2 cells (Th2) is profibrogenic in liver injury.*
+
+---
+
+**53. Which mediators produced by Th1 cells are antifibrogenic?**
+
+- IL-4 and IL-13
+- IL-5 and IL-10
+- **IFN-γ, TNF-α, and IL-2**
+- IL-17 and IL-22
+
+*Explanation: The cell-mediated immunity by the Th1 cells via IFN-γ, TNF-α, and IL-2 is antifibrogenic.*
+
+---
+
+**54. How does TLR4 signaling in HSCs amplify fibrogenic activity of MFBs?**
+
+- By upregulating SMAD signaling
+- By increasing PDGF secretion
+- **By downregulating a TGF-β pseudoreceptor (BMP and activin membrane-bound inhibitor)**
+- By activating the inflammasome directly
+
+*Explanation: TLR4 signaling leads to downregulation of a TGF-β pseudoreceptor, BMP (bone morphogenic protein), and activin membrane-bound inhibitor, which thereby amplifies fibrogenic activity of MFBs.*
+
+---
+
+**55. Which endogenous ligand for TLR4 has been discovered?**
+
+- Lipopolysaccharide
+- Peptidoglycan
+- **High-mobility group box 1 protein**
+- Flagellin
+
+*Explanation: Signaling through TLR4 may be elicited not only by exogenous ligands including LPS, but also by endogenous ligands, including high-mobility group box 1 protein.*
+
+---
+
+**56. Which intracellular complex transduces signals arising from cellular damage in HSCs and other cells?**
+
+- Spliceosome
+- Proteasome
+- **Inflammasome**
+- Apoptosome
+
+*Explanation: Many cells, including HSCs, possess an intracellular complex known as the inflammasome, which transduces signals arising from cellular damage.*
+
+---
+
+**57. What vasoactive peptide released by MFBs stimulates their contraction through the ETA receptor?**
+
+- Nitric oxide (NO)
+- Angiotensin II
+- VEGF
+- **Endothelin-1 (ET-1)**
+
+*Explanation: The release of endothelin-1 (ET-1) can stimulate MFB contraction through the endothelin type A (ETA) receptor, thereby promoting tissue contraction, increasing portal resistance, and generating portal hypertension.*
+
+---
+
+**58. What is the physiologic antagonist of endothelin-1 (ET-1) secreted by MFBs and endothelial cells?**
+
+- Angiotensin II
+- Prostaglandin E2
+- **Nitric oxide (NO)**
+- Prostacyclin
+
+*Explanation: MFBs and endothelial cells also secrete nitric oxide (NO), which is the physiologic antagonist of ET-1.*
+
+---
+
+**59. By how much is the total amount of collagen increased in hepatic fibrosis?**
+
+- Twofold
+- Threefold
+- Fourfold
+- **Sixfold**
+
+*Explanation: In hepatic fibrosis, the total amount of collagen is increased up to sixfold, whereas the parenchymal mass is progressively diminished.*
+
+---
+
+**60. In fibrotic liver, what collagen replaces type IV collagen in the space of Disse?**
+
+- Type II and type VI collagen
+- Type V collagen alone
+- **Interstitial, or fibrillar, collagens (primarily types I and III)**
+- Type VII and type VIII collagen
+
+*Explanation: Collagen type IV in the space of Disse is replaced by interstitial, or fibrillar, collagens, primarily types I and III.*
+
+---
+
+**61. What term describes the decreased porosity of hepatic sinusoids in fibrosis?**
+
+- Sinusoidal stenosis
+- Perisinusoidal obliteration
+- **Capillarization**
+- Sinusoidal thrombosis
+
+*Explanation: Decreased porosity of sinusoidal fenestrations is also known as capillarization.*
+
+---
+
+**62. Which enzymes are responsible for chemical cross-linking that makes fibrotic scar progressively insoluble?**
+
+- MMPs and TIMPs
+- Collagenases and elastases
+- **Lysyl oxidase 2 (LOXL2), tissue transglutaminase, and ADAMTS2**
+- Hyaluronidase and fibronectin-degrading enzymes
+
+*Explanation: The scar becomes increasingly insoluble through chemical cross-linking by lysyl oxidase 2 (LOXL2), tissue transglutaminase, and ADAMTS2.*
+
+---
+
+**63. An antibody to LOXL2 showed marked antifibrotic effects in animal models but demonstrated what result in clinical trials?**
+
+- Excellent efficacy in all patients
+- Moderate efficacy in early fibrosis only
+- **No efficacy**
+- Significant toxicity requiring early trial termination
+
+*Explanation: Efforts to therapeutically increase the solubility of collagen tested an antibody to LOXL2, which unfortunately showed no efficacy in clinical trials.*
+
+---
+
+**64. Which enzymes are the key enzymes that degrade fibrillar collagens and noncollagenous ECM substrates?**
+
+- TIMPs
+- Hyaluronidases
+- **Matrix metalloproteinases (MMPs)**
+- Serine proteases
+
+*Explanation: MMPs are the key enzymes that degrade fibrillar collagens (collagen types I and III) and noncollagenous ECM substrates.*
+
+---
+
+**65. What is the primary action of tissue inhibitor metalloproteinases (TIMPs)?**
+
+- Stimulating collagen synthesis
+- Activating TGF-β signaling
+- **Antagonizing MMPs by inactivating proteases and inhibiting MFB apoptosis**
+- Promoting ECM degradation
+
+*Explanation: TIMPs are the major antagonists of MMPs by inactivating proteases and by inhibiting MFB apoptosis.*
+
+---
+
+**66. Which interstitial collagenase unwinds the triple-helical collagen type I in humans?**
+
+- MMP-2 and MMP-9
+- MMP-7 only
+- **MMP-1, MT1-MMP, MMP-8, and MMP-13**
+- MMP-3 and MMP-10
+
+*Explanation: The interstitial collagenases MMP-1, MT1-MMP, MMP-8, and MMP-13 in humans unwind the triple-helical collagen type I, which is the principal collagen in the fibrotic liver.*
+
+---
+
+**67. What does MMP-2 degrade in early liver injury?**
+
+- Fibrillar collagen type I
+- Fibrillar collagen type III
+- **The low-density basement membrane in the subendothelial space**
+- Cross-linked mature scar collagen
+
+*Explanation: In early liver injury, MMP-2 degrades the low-density basement membrane present in the subendothelial space.*
+
+---
+
+**68. During progressive fibrosis, how does the expression of TIMP-1 and TIMP-2 change?**
+
+- It decreases
+- It remains unchanged
+- It fluctuates unpredictably
+- **It increases**
+
+*Explanation: During progressive fibrosis, the expression of TIMP-1 and TIMP-2, which inhibit the collagen-degrading MMPs, is increased.*
+
+---
+
+**69. Which subset of macrophages has been implicated in degrading matrix during fibrosis regression?**
+
+- Ly6Chi cells
+- M1 polarized macrophages
+- **Ly6Clo cells**
+- M2 polarized macrophages
+
+*Explanation: There is substantial heterogeneity of macrophages in liver injury and resolution, with a subset known as Ly6Clo cells implicated in degrading matrix during fibrosis regression.*
+
+---
+
+**70. Which MMP do hepatic macrophages produce to hasten matrix degradation during fibrosis resolution in mouse models?**
+
+- MMP-1
+- MMP-2
+- MMP-9
+- **MMP-13**
+
+*Explanation: During resolution, macrophages hasten matrix degradation through increased production of MMP-13.*
+
+---
+
+**71. What remains the gold standard for diagnosing and staging liver fibrosis?**
+
+- CT scan
+- MRI elastography
+- Serum biomarker panel
+- **Liver biopsy**
+
+*Explanation: When chronic liver disease is suspected, the liver biopsy remains the gold standard for diagnosing and staging liver fibrosis.*
+
+---
+
+**72. What proportion of liver biopsies may differ by one fibrosis stage between right and left hepatic lobes in HCV?**
+
+- One tenth
+- One fifth
+- One quarter
+- **At least one third**
+
+*Explanation: At least one third of biopsies may differ by one fibrosis stage between the right and left hepatic lobes in HCV and NAFLD.*
+
+---
+
+**73. What is the effect of smaller biopsy specimens on fibrosis staging?**
+
+- They lead to overstaging of fibrosis
+- They accurately reflect the true fibrosis stage
+- **They are associated with an increase in reported diagnoses of mild and moderate fibrosis at the cost of understaging severe fibrosis**
+- They consistently show higher fibrosis grades
+
+*Explanation: Smaller biopsy specimens are associated with an increase in reported diagnoses of mild and moderate fibrosis at the cost of more severe fibrosis, representing an understaging of fibrosis.*
+
+---
+
+**74. How many stages does the Histology Activity Index score reported by Knodell include?**
+
+- Two stages
+- **Three stages**
+- Four stages
+- Five stages
+
+*Explanation: The Histology Activity Index score reported by Knodell includes three stages.*
+
+---
+
+**75. How many stages does the Ishak score differentiate for liver fibrosis?**
+
+- Three stages
+- Four stages
+- Five stages
+- **Six stages**
+
+*Explanation: The Ishak score differentiates six stages, including two stages of cirrhosis ("incomplete" and "complete" cirrhosis).*
+
+---
+
+**76. The METAVIR scoring system is most commonly used worldwide for staging which condition?**
+
+- NAFLD
+- Alcoholic liver disease
+- Primary biliary cirrhosis
+- **HCV infection**
+
+*Explanation: The METAVIR score is a simple, widely applied five-stage scoring system that is the most commonly used worldwide for staging HCV infection.*
+
+---
+
+**77. What fibrosis scores does the METAVIR system use?**
+
+- G0 to G4
+- S1 to S5
+- **F0 to F4**
+- M1 to M4
+
+*Explanation: The METAVIR score incorporates the fibrosis scores F0 to F4, and the activity scores A0 to A3, which assess the amount of necroinflammation.*
+
+---
+
+**78. In the NAFLD Brunt/Kleiner staging system, what does stage 3 indicate?**
+
+- No fibrosis
+- Perisinusoidal or periportal fibrosis
+- Periportal and perisinusoidal fibrosis
+- **Bridging fibrosis**
+
+*Explanation: In the NAFLD Brunt/Kleiner staging system, stage 3 = bridging fibrosis, while stage 4 = cirrhosis.*
+
+---
+
+**79. NAFLD and NASH fibrosis distribution is primarily in which zone of the liver lobule?**
+
+- Periportal (zone 1)
+- Mid-zonal (zone 2)
+- **Centrilobular (zone 3)**
+- Uniformly distributed
+
+*Explanation: Specifically, NAFLD and NASH, as well as alcoholic liver disease, are primarily centrilobular in distribution rather than periportal like viral liver diseases.*
+
+---
+
+**80. What is an increasingly used method for quantifying collagen content in liver biopsy samples?**
+
+- Visual inspection alone
+- Conventional immunohistochemistry scoring
+- Enzyme-linked immunosorbent assay (ELISA)
+- **Computerized morphometry (collagen proportionate area assessment)**
+
+*Explanation: There is increasing reliance on absolute quantification of collagen in liver biopsy samples as assessed by computerized morphometry, instead of using a discontinuous scoring system.*
+
+---
+
+**81. What does MR elastography assess?**
+
+- Liver fat content specifically
+- Portal venous pressure
+- **Liver stiffness as a measure of fibrosis**
+- Hepatic artery resistance
+
+*Explanation: Advances in MR methods include MR elastography, which assesses liver stiffness as an indicator of fibrosis.*
+
+---
+
+**82. Which biochemical parameters are associated with hepatocyte injury?**
+
+- Bilirubin and alkaline phosphatase
+- Apolipoproteins and albumin
+- **Aspartate aminotransferase (AST) and alanine aminotransferase (ALT)**
+- Coagulation factors and globulins
+
+*Explanation: Biochemical parameters associated with hepatocyte injury include aspartate aminotransferase (AST) and alanine aminotransferase (ALT).*
+
+---
+
+**83. Which of the following is listed as a test of impaired hepatic clearance?**
+
+- AST and ALT
+- Albumin and globulins
+- Coagulation factors
+- **Indocyanine green and ammonia**
+
+*Explanation: Tests of impaired hepatic clearance of endogenous or exogenous substances include bilirubin, bile acid, caffeine, lidocaine metabolites, bromsulphalein, methacetin, indocyanine green, cholate, or ammonia.*
+
+---
+
+**84. Which of the following is among the most studied combination serum tests for predicting fibrosis stage?**
+
+- HepaScore alone
+- Collagen propeptides alone
+- MELD score
+- **AST-to-platelet ratio index and Fibrosis-4 (FIB-4) index**
+
+*Explanation: The most studied combination serum tests are the AST-to-platelet ratio index, the Fibrosis-4 (FIB-4) index, the enhanced liver fibrosis (ELF) test, and the FibroTest.*
+
+---
+
+**85. What is a key limitation of serum-based fibrosis tests in evaluating their utility?**
+
+- They are too expensive to perform widely
+- They require liver biopsy correlation in all cases
+- **The absence of an ideal gold standard due to liver biopsy's significant sampling variability**
+- They only work for HCV-related fibrosis
+
+*Explanation: A further difficulty of serum fibrosis tests is the absence of an ideal gold standard, in view of the liver biopsy's significant sampling variability and interlaboratory differences.*
+
+---
+
+**86. Which device, using vibration-controlled transient elastography, was the first liver stiffness measurement device?**
+
+- SonoVue elastography device
+- Acuson S3000
+- **Fibroscan (FS)**
+- SuperSonic Imagine Aixplorer
+
+*Explanation: The first stiffness measurement device, Fibroscan (FS), uses vibration-controlled transient elastography.*
+
+---
+
+**87. In what unit are Fibroscan results expressed?**
+
+- Megapascals (MPa)
+- Newtons per meter squared (N/m²)
+- Millimeters of mercury (mmHg)
+- **Kilopascals (kPa)**
+
+*Explanation: Results from Fibroscan are expressed in kilopascals (kPa).*
+
+---
+
+**88. How much larger is the virtual cylinder of tissue assessed by Fibroscan compared with a biopsy sample?**
+
+- 10 times larger
+- 50 times larger
+- 100 times larger
+- **At least 200 times larger**
+
+*Explanation: With the Fibroscan, the virtual cylinder of tissue that is assessed is at least 200 times larger than a biopsy sample and therefore is far more representative of the hepatic parenchyma.*
+
+---
+
+**89. In which patients is Fibroscan accuracy limited?**
+
+- Patients with advanced cirrhosis
+- Patients with chronic HCV infection
+- **Patients with obesity, ascites, or acute hepatitis**
+- Patients undergoing antiviral therapy
+
+*Explanation: The accuracy of Fibroscan is limited in patients with obesity, ascites, or acute hepatitis.*
+
+---
+
+**90. What additional technology added to Fibroscan can estimate liver fat content?**
+
+- MR spectroscopy
+- Dual-energy X-ray absorptiometry
+- Acoustic radiation force impulse (ARFI)
+- **Controlled attenuation parameter (CAP score)**
+
+*Explanation: An additional technology called controlled attenuation parameter (CAP score) has been added to FS, which can estimate liver fat content and is especially useful in assessing patients with NAFLD or NASH.*
+
+---
+
+**91. What does the hepatic venous pressure gradient (HVPG) measure?**
+
+- Hepatic artery blood flow velocity
+- Portal vein diameter
+- **The pressure gradient across the liver**
+- Sinusoidal resistance to blood flow
+
+*Explanation: Specifically, the measure of the pressure gradient across the liver, or hepatic venous pressure gradient (HVPG), is highly predictive of clinical deterioration.*
+
+---
+
+**92. What remains the most effective antifibrotic therapy according to the chapter?**
+
+- Anti-TGF-β antibody therapy
+- TIMP antagonism
+- NK cell activation
+- **Removing the causative agent**
+
+*Explanation: Removing the causative agent is still the most effective antifibrotic therapy.*
+
+---
+
+**93. Which of the following interventions can limit fibrosis progression in HBV patients?**
+
+- High-dose corticosteroids
+- Surgical hepatic artery embolization
+- **Decrease in the viral load of HBV**
+- Liver denervation
+
+*Explanation: A decrease in the viral load of HBV patients can limit fibrosis progression experimentally and clinically.*
+
+---
+
+**94. In how many patients with cirrhosis will fibrosis regression occur once the primary etiology is mitigated?**
+
+- Up to 30%
+- Up to 50%
+- **As many as 70%**
+- Virtually all (>95%)
+
+*Explanation: Overall, as many as 70% of patients with cirrhosis will have regression of fibrosis once the primary etiology is mitigated.*
+
+---
+
+**95. What histological feature has been identified as a significant predictor of worse clinical outcomes in fibrosis?**
+
+- Increased lobular inflammation
+- Steatosis grade
+- **Increased septal thickness and smaller nodule size**
+- Degree of cholestasis
+
+*Explanation: Clinically, increased septal thickness and smaller nodule size as assessed by liver biopsy, both of which reflect more advanced stages of fibrosis, are significant predictors of worse clinical outcomes.*
+
+---
+
+**96. In the context of fibrosis regression, what is the key factor that primarily limits reversibility of scar?**
+
+- Duration of liver injury
+- Severity of necroinflammation
+- Number of activated HSCs
+- **The extent of collagen cross-linking**
+
+*Explanation: The reversibility of a scar may be limited primarily by the extent of collagen cross-linking.*
+
+---
+
+**97. What phenomenon may persist even after the primary etiology is cleared in a subset of cirrhotic patients?**
+
+- Biliary duct proliferation
+- Portal venous thrombosis
+- **A positive feedback loop between angiogenesis and fibrogenesis**
+- Hepatocyte regeneration failure
+
+*Explanation: In those in whom the disease still progresses despite cleared etiology, there may be a positive feedback loop between angiogenesis and fibrogenesis, leading to sustained abnormalities of the intrahepatic vasculature.*
+
+---
+
+**98. What is the clinical significance of hepatocyte apoptosis during liver injury?**
+
+- It is purely a protective homeostatic mechanism
+- It prevents fibrosis progression
+- **It is a proinflammatory event associated with Kupffer cell and HSC activation**
+- It only occurs in viral hepatitis
+
+*Explanation: Apoptosis of hepatocytes during liver injury is a proinflammatory event associated with Kupffer cell and HSC activation.*
+
+---
+
+**99. Which of the following best describes the two main pathways of apoptosis?**
+
+- Necrotic and autophagic pathways
+- Direct and indirect apoptotic cascades
+- TGF-β-mediated and TNF-α-mediated pathways
+- **Extrinsic (death ligand-receptor, caspase-8 dependent) and intrinsic (BCL2-mitochondrial, caspase-9 dependent) pathways**
+
+*Explanation: The two main pathways of apoptosis are the extrinsic pathway, which is death ligand-death receptor-mediated and dependent on caspase-8, and the intrinsic pathway, regulated by BCL2-induced mitochondrial dysfunction and downstream activation of caspase-9.*
+
+---
+
+**100. What was a lingering concern about using caspase inhibitors in chronic liver injury?**
+
+- Severe hepatotoxicity of the compounds
+- Risk of immune suppression
+- **Potential promotion of survival of preneoplastic hepatocytes**
+- Increased risk of bleeding complications
+
+*Explanation: Caspase inhibitors were developed to minimize apoptotic death of hepatocytes in chronic liver injury, with the lingering concern that such an approach could promote the survival of preneoplastic hepatocytes.*
+
+---
+
+**101. Which antioxidants are listed as potentially beneficial in fibrosis due to alcohol-induced liver disease and NASH?**
+
+- Beta-carotene and lycopene
+- N-acetylcysteine and glutathione
+- **Vitamin E, silymarin, cysteamine, and S-adenosyl-l-methionine**
+- Ascorbic acid and tocopherol acetate
+
+*Explanation: Antioxidants, including vitamin E, silymarin, cysteamine, or S-adenosyl-l-methionine, may benefit fibrosis, particularly in patients with alcohol-induced liver disease and NASH.*
+
+---
+
+**102. Why is the activity of antioxidants for liver fibrosis difficult to establish in clinical trials?**
+
+- Antioxidants are hepatotoxic at therapeutic doses
+- Antioxidants have no mechanistic basis for fibrosis treatment
+- **Uneven quality of commercially available over-the-counter products whose potency is not monitored**
+- Antioxidants are rapidly metabolized before reaching the liver
+
+*Explanation: Efforts to establish the activity of antioxidants are confounded by the uneven quality of commercially available products, especially as these compounds are typically available over-the-counter and their potency is not monitored.*
+
+---
+
+**103. PPARγ agonists tested in clinical trials for NASH and HCV showed what results?**
+
+- Excellent efficacy with acceptable side effects
+- No efficacy in any indication
+- **Modest activity but associated with unwanted weight gain**
+- Significant antifibrotic activity but cardiotoxicity
+
+*Explanation: The activity of PPARγ agonists is modest and is associated with unwanted weight gain, especially in patients with NASH.*
+
+---
+
+**104. The combined PPARα,δ agonist elafibranor showed promise in phase 2 trials but what happened in phase 3?**
+
+- It received FDA approval for NASH
+- It was withdrawn due to severe side effects
+- It showed superior efficacy in all subgroups
+- **Phase 3 data failed to confirm efficacy in NASH**
+
+*Explanation: A combined PPARα,δ agonist, elafibranor, showed promise in phase 2 trials, but recent phase 3 data failed to confirm efficacy in NASH.*
+
+---
+
+**105. Why might WNT antagonism be deleterious as an antifibrotic strategy?**
+
+- Because WNT promotes HSC apoptosis
+- Because WNT is exclusively anti-inflammatory
+- **Because WNT is a critical signal for liver regeneration**
+- Because WNT antagonism increases portal hypertension
+
+*Explanation: While WNT antagonism may be a useful target in liver fibrosis, on the other hand, WNT is a critical signal for liver regeneration, and thus its antagonism could be deleterious.*
+
+---
+
+**106. Through what signaling mechanism can activated HSCs/MFBs revert to an inactivated state?**
+
+- SMAD7 signaling
+- TGF-β pathway reversal
+- **PPARγ signaling**
+- FXR activation
+
+*Explanation: In addition to apoptosis, activated HSCs/MFBs can also revert to an inactivated state, driven in part by PPARγ signaling.*
+
+---
+
+**107. Which transcriptional regulator was identified as promoting deactivation of stellate cells?**
+
+- FOXF1
+- GATA4
+- **Tcf21**
+- JunD
+
+*Explanation: Recent studies have uncovered specific transcriptional regulators, such as Tcf21, that promotes deactivation of stellate cells, which could be exploited therapeutically to promote HSC quiescence and reduce fibrosis.*
+
+---
+
+**108. What is the rationale for TIMP antagonism as an antifibrotic strategy?**
+
+- TIMP directly activates stellate cells
+- TIMP promotes collagen synthesis
+- **Reduced TIMP expression or neutralization favors MFB apoptosis and enhanced breakdown of scar**
+- TIMP inhibits macrophage-mediated matrix degradation
+
+*Explanation: Because TIMP is antiapoptotic and blocks matrix proteases, reduced expression or neutralization favors clearance of MFBs through increased apoptosis and enhanced breakdown of scar.*
+
+---
+
+**109. What is heat shock protein 47 (hsp47) required for?**
+
+- TGF-β receptor signaling
+- Inflammasome assembly
+- SMAD phosphorylation
+- **Proper collagen folding**
+
+*Explanation: Delivery to stellate cells of an shRNA to block heat shock protein 47 (hsp47), which is required for proper collagen folding, has been reported in an animal model.*
+
+---
+
+**110. What effect does activation of the cannabinoid 1 (CB1) receptor have on fibrosis?**
+
+- It reduces collagen deposition and promotes MFB apoptosis
+- It has no effect on fibrosis
+- **It leads to increased collagen deposition and protects MFBs from apoptosis**
+- It activates NK cells to clear activated HSCs
+
+*Explanation: Activation of the cannabinoid 1 (CB1) receptor leads to increased collagen deposition and protects MFBs from apoptosis.*
+
+---
+
+**111. What effect does cannabinoid 2 (CB2) receptor activation have on MFBs?**
+
+- It promotes collagen deposition
+- It inhibits MFB apoptosis
+- **It is proapoptotic via induction of intracellular oxidative stress**
+- It activates the inflammasome
+
+*Explanation: The CB2 receptor is proapoptotic via induction of intracellular oxidative stress.*
+
+---
+
+**112. Why were trials of a systemic CB1 receptor antagonist for obesity and NASH discontinued?**
+
+- Hepatotoxicity was observed
+- Insufficient antifibrotic effect
+- **Central nervous system (CNS) side effects**
+- Increased risk of portal hypertension
+
+*Explanation: Trials of a systemic CB1 receptor antagonist for obesity and NASH were discontinued because of central nervous system (CNS) effects.*
+
+---
+
+**113. How do MFBs interact with ECM in a positive feedback mechanism?**
+
+- Via TGF-β receptor binding to fibronectin
+- Via PDGF receptor binding to collagen
+- **Via α/β-integrins, thereby decreasing apoptosis and increasing proliferation of MFBs**
+- Via TLR4 binding to matrix proteins
+
+*Explanation: MFBs interact with ECM via α/β-integrins, thereby decreasing apoptosis and increasing proliferation of MFBs.*
+
+---
+
+**114. What approach has been proposed to attenuate TGF-β activation by targeting the stellate cell surface?**
+
+- TGF-β receptor antisense oligonucleotide
+- SMAD pathway inhibitor
+- **Integrin antagonism**
+- Monoclonal antibody to TGF-β1 itself
+
+*Explanation: There has been the proposal to block integrins as a means of attenuating TGF-β activation; such efforts are nearing clinical testing and hold great promise for human studies.*
+
+---
+
+**115. Which drug is described as a clinically approved tyrosine kinase inhibitor that attenuates proliferation, migration, and fibrosis in animal models?**
+
+- Nilotinib
+- Sorafenib
+- Sunitinib
+- **Imatinib mesylate (Gleevec)**
+
+*Explanation: To antagonize PDGF, imatinib mesylate (Gleevec), a clinically approved tyrosine kinase inhibitor, attenuates proliferation and migration and fibrosis in animal models.*
+
+---
+
+**116. Sorafenib is approved for treatment of liver cancer and also shows antifibrotic activity, but why would it be problematic for asymptomatic fibrosis patients?**
+
+- It promotes HSC activation
+- It increases collagen cross-linking
+- It has no efficacy in non-cancer fibrosis
+- **It has adverse effects (rash, diarrhea, hand-foot syndrome) unacceptable to asymptomatic patients**
+
+*Explanation: Sorafenib has adverse effects (e.g., rash, diarrhea, hand-foot syndrome), which may be acceptable to patients with cancer but would not be acceptable to asymptomatic patients with fibrotic liver disease.*
+
+---
+
+**117. Which growth factor inhibits HSC activation but has potential procarcinogenic effects limiting its therapeutic use?**
+
+- TGF-β
+- PDGF
+- **Hepatocyte growth factor (HGF)**
+- VEGF
+
+*Explanation: Hepatocyte growth factor (HGF) inhibits HSC activation; however, potential procarcinogenic effects are probable and would limit its therapeutic use.*
+
+---
+
+**118. In rodent models, what antifibrotic approach involves blockade of the ETA receptor?**
+
+- TGF-β signaling inhibition
+- PDGF receptor blockade
+- TIMP antagonism
+- **Blockade of ETA receptor which mediates ET-1 induced vasoconstriction**
+
+*Explanation: In rodents, the blockade of the ETA receptor, which leads to vasoconstriction or scar-contraction upon binding of ET-1, has antifibrotic qualities.*
+
+---
+
+**119. Pentoxifylline may exert antifibrotic activity by downregulating which signaling mediators?**
+
+- PDGF and EGF signaling
+- IL-6 and IL-1β signaling
+- **TGF-β1 and CTGF signaling**
+- VEGF and angiopoietin signaling
+
+*Explanation: Pentoxifylline may exert its antifibrotic activity by downregulating TGF-β1 and CTGF signaling.*
+
+---
+
+**120. What is a potential unwanted effect of pentoxifylline that reduces its antifibrotic efficacy?**
+
+- It increases PDGF secretion
+- It promotes HSC proliferation
+- **It upregulates TIMP-1, thereby reducing its antifibrotic effect**
+- It stimulates TGF-β receptor expression
+
+*Explanation: Pentoxifylline can upregulate TIMP-1, thereby reducing its antifibrotic effect.*
+
+---
+
+**121. What antiinflammatory strategy is described as more rational due to increasing implication in human liver disease?**
+
+- Corticosteroid therapy
+- IL-6 receptor blockade
+- **Chemokine receptor antagonism**
+- TNF-α blockade
+
+*Explanation: A more rational antiinflammatory strategy may be the antagonism of chemokines because they are increasingly implicated in human liver disease.*
+
+---
+
+**122. What role does angiotensin II play in hepatic fibrosis?**
+
+- It inhibits HSC proliferation
+- It promotes antifibrotic cytokine production
+- **It induces hepatic inflammation and stimulates fibrogenic actions of HSCs**
+- It activates NK cells to clear activated HSCs
+
+*Explanation: Angiotensin II is a vasoconstrictive peptide expressed by activated HSCs in chronically injured livers. It induces hepatic inflammation and stimulates fibrogenic actions of HSCs, including cell proliferation, cell migration, secretion of proinflammatory cytokines, and collagen synthesis.*
+
+---
+
+**123. Ursodeoxycholic acid (UDCA) has a beneficial effect on fibrosis in which condition?**
+
+- NASH
+- Alcoholic liver disease
+- Viral hepatitis B
+- **Primary biliary cirrhosis**
+
+*Explanation: Ursodeoxycholic acid (UDCA) has a beneficial effect on fibrosis in primary biliary cirrhosis.*
+
+---
+
+**124. Which additional receptor does UDCA activate that has antifibrotic properties?**
+
+- Farnesoid X receptor
+- PPARγ receptor
+- Vitamin D receptor
+- **Pregnane X receptor**
+
+*Explanation: Interestingly, UDCA also activates the pregnane X receptor, which has antifibrotic properties.*
+
+---
+
+**125. FXR ligands showed antifibrotic activity in a Phase 3 clinical trial in NASH but what was the regulatory outcome?**
+
+- They received full FDA approval
+- They were approved with restrictions
+- They are still under FDA review
+- **They did not yet earn FDA approval**
+
+*Explanation: Ligands for FXR have been developed, which are also antifibrotic in animal models and in a Phase 3 clinical trial in NASH; however, these promising results did not yet earn FDA approval.*
+
+---
+
+**126. What is the primary theoretical limitation of systemically blocking the TGF-β signaling pathway?**
+
+- It activates compensatory CTGF signaling
+- It only works in early fibrosis
+- It has no clinical-grade inhibitors
+- **TGF-β is also a central inhibitor of uncontrolled inflammation, essential for epithelial differentiation and triggering apoptosis, raising safety concerns**
+
+*Explanation: Systemically blocking the TGF pathway has theoretical limitations because apart from stimulating wound healing and fibrosis, TGF-β is also a central inhibitor of uncontrolled inflammation and essential in inducing epithelial differentiation and in triggering apoptosis.*
+
+---
+
+**127. What is a key problem with autologous stem cell and bone marrow therapies for liver fibrosis?**
+
+- Excessive immune rejection
+- Too low a yield of stem cells
+- **Incomplete characterization such that the exact composition of cells being transplanted is not standardized**
+- High risk of hepatocellular carcinoma induction
+
+*Explanation: A key problem with autologous and stem cell and bone marrow therapies to date has been their incomplete characterization, such that the exact composition of cells being transplanted is not standardized.*
+
+---
+
+**128. What is the hexagonal structural unit of the liver?**
+
+- Acinus
+- Portal tract
+- **Hepatic lobule**
+- Hepatic segment
+
+*Explanation: The liver capsule extends as septae into the liver, delineating hepatic lobules that form the structural units of the liver, forming a hexagonal structure.*
+
+---
+
+**129. What structures are localized in the periphery of the hepatic lobule?**
+
+- Central veins and terminal hepatic veins
+- Sinusoids and Disse spaces
+- **Portal triads (branches of hepatic portal vein, hepatic artery, and bile duct)**
+- NK cells and dendritic cells
+
+*Explanation: The lobule forms a hexagonal structure with portal triads (including branches of the hepatic portal vein, the hepatic artery, and the bile duct) localized in the periphery of the lobule.*
+
+---
+
+**130. What forms the connecting element between branches of the hepatic portal veins and hepatic arteries with the central vein?**
+
+- Bile canaliculi
+- Portal tracts
+- **Sinusoids**
+- Lymphatic vessels
+
+*Explanation: The sinusoids form the connecting element between the branches of the hepatic portal veins and hepatic arteries with the central vein.*
+
+---
+
+**131. Which signaling pathway has been implicated in pulmonary and renal fibrosis and also promotes hepatic fibrosis by enhancing HSC activation and survival?**
+
+- Hedgehog signaling
+- Notch signaling
+- TGF-β signaling
+- **WNT signaling**
+
+*Explanation: WNT signaling has been implicated in pulmonary and renal fibrosis and has also been reported to promote hepatic fibrosis by enhancing HSC activation and survival.*
+
+---
+
+**132. In what form is the space of Disse normally characterized?**
+
+- A dense fibrillar collagen-rich space
+- A space containing fibrinogen and thrombin
+- **A subendothelial space with low-density basement membrane-like matrix**
+- A space filled with inflammatory cells
+
+*Explanation: Sinusoids are separated from hepatocytes by a low-density basement membrane-like matrix confined to the space of Disse, which ensures metabolic exchange.*
+
+---
+
+**133. What is the consequence of ECM deposition in the space of Disse during fibrosis?**
+
+- Increased hepatocyte microvilli formation
+- Enhanced metabolic exchange
+- **Loss of both endothelial fenestrations and hepatocyte microvilli, impairing metabolic exchange**
+- Increased hepatic blood flow
+
+*Explanation: Deposition of ECM in the space of Disse leads to the loss of both endothelial fenestrations and hepatocyte microvilli, which results in both the impairment of normal bidirectional metabolic exchange and the development of portal hypertension.*
+
+---
+
+**134. Fate-tracing studies using genetically engineered reporter mice implicate which cells as the dominant source of MFBs in parenchymal liver disease?**
+
+- Portal fibroblasts
+- Bone marrow-derived cells
+- Sinusoidal endothelial cells
+- **Stellate cells**
+
+*Explanation: Fate-tracing studies using genetically engineered reporter mice implicate stellate cells as the dominant source of MFBs in parenchymal liver disease.*
+
+---
+
+**135. In what way does the liver's immune microenvironment facilitate tolerance of liver transplantation?**
+
+- By reducing MHC class I expression
+- By producing anti-rejection cytokines
+- **By creating a microenvironment of diminished immunogenicity**
+- By depleting donor T cells
+
+*Explanation: The liver is a microenvironment of diminished immunogenicity, which accounts for the tolerance of liver transplantation across ABO barriers.*
+
+---
+
+**136. How do hepatic MFBs ultimately exert immunosuppressive activity despite producing proinflammatory cytokines?**
+
+- By secreting IL-10 in large amounts
+- By reducing antigen presentation
+- **By inducing T-cell apoptosis**
+- By blocking DC maturation
+
+*Explanation: Upon activation, MFBs exert a profound immunosuppressive activity by inducing T-cell apoptosis.*
+
+---
+
+**137. Through which molecule can MFBs induce T-cell apoptosis in the setting of liver transplantation?**
+
+- PD-1 receptor
+- CTLA-4
+- **Programmed death ligand-1**
+- Fas ligand
+
+*Explanation: In the setting of liver transplantation, MFB can induce T-cell apoptosis via programmed death ligand-1 and may foster local immunotolerance of the liver.*
+
+---
+
+**138. When FS has been combined with FibroTest in HCV patients, in what percentage of subjects did both tests agree?**
+
+- 40%–60%
+- 60%–70%
+- **70%–80%**
+- 90%–95%
+
+*Explanation: When FS has been combined with FT in HCV patients, both tests agreed in 70% to 80% of subjects, with increasing concordance in higher stages of liver fibrosis.*
+
+---
+
+**139. Which of the following is described as a chemokine secreted by hepatic MFBs to recruit lymphocytes?**
+
+- IL-6 and TNF-α
+- TGF-β and CTGF
+- **Monocyte chemoattractant protein-1 and IL-8**
+- IFN-γ and IL-2
+
+*Explanation: Hepatic MFBs produce a range of proinflammatory and antiinflammatory cytokines and recruit lymphocytes through secretion of chemokines (monocyte chemoattractant protein-1, interleukin-8 [IL-8], CCL21, RANTES, CCR5).*
+
+---
+
+**140. What is the role of inhibitory surface molecules (B7-H1) upregulated by IFN-γ on HSCs?**
+
+- They enhance HSC proliferation
+- They promote collagen synthesis
+- They increase PDGF receptor expression
+- **They override stimulatory counterparts, resulting in immunosuppression**
+
+*Explanation: The inhibitory molecules are thought to override the stimulatory counterparts (CD80, CD86, CD54), resulting in immunosuppression.*
+
+---
+
+**141. Which of the following fibrosis scoring systems uses the stages F0 to F4 along with activity scores A0 to A3?**
+
+- Knodell Histology Activity Index
+- Ishak scoring system
+- Brunt/Kleiner NAFLD staging
+- **METAVIR score**
+
+*Explanation: The METAVIR score incorporates the fibrosis scores F0 to F4, and the activity scores A0 to A3, which assess the amount of necroinflammation.*
+
+---
+
+**142. In the context of HSC biology, what does the initiation phase of activation primarily result from?**
+
+- Endocrine signals from adipose tissue
+- Direct viral infection of HSCs
+- **Paracrine stimulation from changes in ECM, lipid peroxides, and products of damaged hepatocytes**
+- Autocrine loops of TGF-β
+
+*Explanation: The initiation phase results from paracrine stimulation, primarily because of changes in surrounding ECM, as well as exposure to lipid peroxides and products of damaged hepatocytes.*
+
+---
+
+**143. Which of the following is the principal collagen in the fibrotic liver?**
+
+- Collagen type IV
+- Collagen type V
+- Collagen type III
+- **Collagen type I**
+
+*Explanation: Collagen type I is the principal collagen in the fibrotic liver, unwound by interstitial collagenases.*
+
+---
+
+**144. What is described as a potential complication of advanced fibrosis in which hypoxia plays a role?**
+
+- Increased sensitivity to antifibrotic drugs
+- Spontaneous regression of fibrosis
+- **Secretion of proangiogenic factors by HSCs (VEGF, angiopoietin-1) stimulating proliferation and motility**
+- Upregulation of antifibrotic MMPs
+
+*Explanation: Hypoxia stimulates secretion of proangiogenic factors by HSCs, such as VEGF and angiopoietin-1, which induce proliferation and motility, potentially contributing to the "point of no return."*
+
+---
+
+**145. In fibrosis regression, what happens to activated stellate cells when liver injury subsides?**
+
+- They all undergo immediate necrosis
+- They dedifferentiate into hepatocytes
+- **They can be eliminated by apoptosis, senescence, or reversion to an inactivated phenotype**
+- They transform into Kupffer cells
+
+*Explanation: As liver injury subsides, activated stellate cells can be eliminated by one of three pathways: apoptosis, senescence, or reversion to an inactivated phenotype.*
+
+---
+
+**146. What makes senescent stellate cells more likely to be cleared?**
+
+- Increased susceptibility to apoptosis induced by TGF-β
+- Enhanced phagocytosis by Kupffer cells
+- **Increased NK-cell-mediated cell death**
+- Higher sensitivity to TIMP antagonists
+
+*Explanation: Senescent stellate cells are more likely to be cleared by natural killer (NK)-cell-mediated cell death.*
+
+---
+
+**147. What happens to inactivated HSCs after fibrosis regression?**
+
+- They permanently lose fibrogenic potential
+- They transform into hepatocytes
+- They undergo spontaneous apoptosis
+- **They remain "primed" to respond to further liver injury**
+
+*Explanation: Inactivated stellate cells remain "primed" to respond to further liver injury.*
+
+---
+
+**148. In NAFLD, which of the following defects is explicitly listed as driving disease progression and fibrosis?**
+
+- Increased bile acid synthesis
+- Reduced hepatic blood flow
+- **Altered adipokine balance**
+- Increased CD4 T cell activity
+
+*Explanation: Multiple convergent defects drive disease progression and fibrosis in NASH, including insulin resistance, oxidant stress, altered adipokine balance, lipotoxicity, effects of the microbiome, and enhanced inflammation.*
+
+---
+
+**149. Which molecular technique has most recently reinforced stellate cell heterogeneity beyond earlier immunohistochemistry studies?**
+
+- Bulk RNA sequencing
+- Proteomics
+- **Single cell RNA sequencing**
+- Chromatin immunoprecipitation sequencing (ChIP-seq)
+
+*Explanation: Recent studies using single cell RNA sequencing have uncovered significant heterogeneity among stellate cells in both normal and injured liver in both man and mouse, reinforcing earlier studies.*
+
+---
+
+**150. What is the role of the CTGF monoclonal antibody as an antifibrotic strategy?**
+
+- It directly inhibits PDGF receptor signaling
+- It promotes MFB apoptosis
+- **It blocks an important fibrogenic mediator implicated in liver injury and repair**
+- It degrades cross-linked collagen
+
+*Explanation: In addition to TGF-β1, CTGF has been implicated as an important fibrogenic mediator in liver injury and repair, and its blockade via monoclonal antibody is among the more promising antifibrotic strategies.*
+
+---
+
+**151. Hedgehog signaling has been implicated as an important fibrogenic mediator in which process?**
+
+- ECM cross-linking
+- TIMP upregulation
+- **Liver injury and repair**
+- Portal hypertension development
+
+*Explanation: CTGF and Hedgehog signaling have both been implicated as important fibrogenic mediators in liver injury and repair.*
+
+---
+
+**152. What forms the structural basis of a portal triad?**
+
+- Central vein, sinusoids, and Kupffer cells
+- Hepatocytes, cholangiocytes, and stellate cells
+- **Branches of the hepatic portal vein, hepatic artery, and bile duct**
+- NK cells, NKT cells, and dendritic cells
+
+*Explanation: Portal triads include branches of the hepatic portal vein, the hepatic artery, and the bile duct, localized in the periphery of the hepatic lobule.*
+
+---
+
+**153. What is the significance of the highly fenestrated nature of sinusoidal endothelial cells?**
+
+- It allows selective immunoglobulin filtration
+- It prevents bacterial translocation
+- **It allows hepatocytes and HSCs to be exposed directly to plasma derived from intestinal venous blood**
+- It enables bile secretion into the sinusoid
+
+*Explanation: Through the arrangement of highly fenestrated sinusoidal endothelial cells, hepatocytes and HSCs are exposed directly to plasma derived largely from venous blood draining the intestine.*
+
+---
+
+**154. Fibrillar collagens produced by MFBs interact with MFBs via which receptors?**
+
+- TLR4 and TLR9
+- PDGFR and EGFR
+- **Discoidin domain receptors and integrins**
+- FXR and PPARγ
+
+*Explanation: Fibrillar collagens that are produced by MFBs also interact with MFBs via discoidin domain receptors and integrins, thereby inhibiting apoptosis and increasing MFB proliferation.*
+
+---
+
+**155. What does collagen proportionate area (CPA) assessment offer over traditional fibrosis staging systems?**
+
+- It is faster to perform than histological scoring
+- It requires less tissue
+- **It is far more predictive of clinical outcomes and is objective and quantitative**
+- It can be performed on serum samples
+
+*Explanation: Collagen proportionate area assessment is far more predictive of clinical outcomes, even in NASH, and therefore its use is rapidly gaining popularity because it is objective and quantitative.*
+
+---
+
+**156. What clinical phenomenon may result from acute hepatitis in the context of liver stiffness measurement?**
+
+- Falsely low stiffness values
+- No change in stiffness measurements
+- **Stiffness values comparable to cirrhosis**
+- Reduced accuracy of CAP score
+
+*Explanation: Stiffness can arise from edema or inflammation, not only fibrosis, and acute hepatitis can yield stiffness values comparable to cirrhosis.*
+
+---
+
+**157. The discovery of endogenous TLR4 ligands is part of a broader recognition of which intracellular complex?**
+
+- The apoptosome
+- The proteasome
+- The spliceosome
+- **The inflammasome**
+
+*Explanation: The discovery of endogenous ligands for TLR4 has been part of a larger recognition that many cells, including HSCs, possess an intracellular complex known as the inflammasome, which transduces signals arising from cellular damage.*
+
+---
+
+**158. What is the significance of the inflammasome in NAFLD and NASH?**
+
+- It promotes hepatocyte regeneration
+- It inhibits TGF-β signaling
+- **It is especially pertinent to understanding the pathogenesis of inflammation and fibrosis in NAFLD and NASH**
+- It mediates antiviral immunity
+
+*Explanation: The inflammasome is especially pertinent to understanding the pathogenesis of inflammation and fibrosis in NAFLD and NASH.*
+
+---
+
+**159. Accumulation of ECM in hepatic fibrosis leads to formation of septa that ultimately do what?**
+
+- Dissolve spontaneously after injury resolution
+- Promote hepatocyte regeneration
+- **Coalesce into broad bands of scar tissue encircling nodules of hepatocytes**
+- Create new bile duct channels
+
+*Explanation: ECM accumulation forms septa that coalesce into broad bands of scar tissue encircling nodules of hepatocytes and leading to altered microvascular structure.*
+
+---
+
+**160. Among the noninvasive approaches for fibrosis assessment, what is their major limitation regarding intermediate fibrosis?**
+
+- They consistently overestimate intermediate fibrosis
+- They require patient hospitalization
+- **They are less reliable at discriminating intermediate stages of fibrosis**
+- They cannot assess fibrosis in obese patients at all
+
+*Explanation: All these noninvasive approaches can accurately distinguish between patients with little or no fibrosis and those with advanced disease, but they are less reliable at discriminating intermediate stages of fibrosis.*
+
+---
+
+**161. Despite limitations, what information does liver biopsy histology provide that no single noninvasive test can currently match?**
+
+- Only collagen content
+- Only degree of steatosis
+- Only portal hypertension assessment
+- **Inflammation, fibrosis, steatosis, and hepatic architecture combined**
+
+*Explanation: To date, no single test can match the overall information from liver biopsy histology (inflammation, fibrosis, steatosis, architecture), and thus phase 3 clinical trials testing drugs for fibrosis or NASH still require liver biopsy as an endpoint.*
+
+---
+
+**162. In what type of clinical trials may noninvasive markers be used instead of biopsy?**
+
+- Phase 3 pivotal clinical trials
+- Phase 4 post-marketing surveillance trials
+- All large-scale clinical trials
+- **Phase 2 proof-of-concept trials**
+
+*Explanation: Phase 3 clinical trials testing drugs for fibrosis or NASH still require liver biopsy as an endpoint, although phase 2 proof-of-concept trials may rely on noninvasive markers instead of biopsy.*
+
+---
+
+**163. The NADPH oxidase-mediated ROS pathway in alcoholic liver disease ultimately leads to upregulation of which transcription factor in Kupffer cells?**
+
+- AP-1
+- STAT3
+- **NF-κB**
+- Nrf2
+
+*Explanation: Oxidants upregulate nuclear factor kappa B (NF-κB) in Kupffer cells, which leads to increased TNF-α production.*
+
+---
+
+**164. TNF-α in alcoholic liver disease induces what cellular event in hepatocytes?**
+
+- HSC activation directly
+- Kupffer cell proliferation
+- **Neutrophil infiltration and stimulates mitochondrial oxidant production, sensitizing hepatocytes to apoptosis**
+- Bile acid synthesis
+
+*Explanation: TNF-α induces neutrophil infiltration and stimulates mitochondrial oxidant production in hepatocytes, which are then sensitized to undergo apoptosis.*
+
+---
+
+**165. Which of the following correctly describes the collagen proportionate area (CPA) assessment?**
+
+- A discontinuous staging system using categorical scores
+- A radiological measurement of liver volume
+- A serum-based mathematical formula
+- **An absolute quantification of collagen in liver biopsy samples by computerized morphometry**
+
+*Explanation: For fibrosis staging, there is increasing reliance on absolute quantification of collagen in liver biopsy samples as assessed by computerized morphometry.*
+
+---
+
+**166. What genetic and environmental factors have been specifically shown to influence the risk and severity of NAFLD?**
+
+- TLR4 and TLR9 polymorphisms
+- HLA typing
+- **Genetic determinants (specific genetic variants)**
+- Mitochondrial DNA variants
+
+*Explanation: Genetic determinants have been identified that influence the risk and severity of NAFLD.*
+
+---
+
+**167. What is the relationship between the gut microbiome and NASH?**
+
+- The microbiome has no established role in NASH
+- A specific pathogenic organism causes NASH
+- **Altered microbiome composition and gut mucosal integrity are recognized as determinants of NASH**
+- The microbiome only affects alcoholic liver disease
+
+*Explanation: Many of the same gut defects in alcoholic liver disease are now also implicated in NASH, with additional focus on the nature of the microbiome as well as the integrity of the gut mucosa as determinants of this disease.*
+
+---
+
+**168. For which clinical indication does the enhanced liver fibrosis (ELF) test show sufficient to excellent performance in ruling out significant fibrosis?**
+
+- Distinguishing mild from moderate fibrosis
+- Predicting hepatocellular carcinoma risk
+- **Ruling out significant fibrosis (F3 to F4) when the proper cutoff value is chosen**
+- Monitoring short-term progression in clinical trials
+
+*Explanation: All these biochemical tests range from sufficient to excellent in ruling out significant fibrosis (F3 to F4) when the proper cutoff value is chosen, but they are less useful in distinguishing mild from moderate fibrosis.*
+
+---
+
+**169. What is the key goal of future stem cell therapy studies for liver fibrosis?**
+
+- Increasing the number of transplanted cells
+- Using only allogeneic donors
+- **Fully understanding and controlling the cellular composition to reliably demonstrate efficacy and reproducibility**
+- Combining stem cells with antiviral therapy
+
+*Explanation: A key goal of future studies is to understand and fully control the cellular composition of stem cell therapies to reliably demonstrate efficacy and reproducibility.*
+
+---
+
+**170. According to the chapter, why is the development of effective antifibrotic drugs expected in the near future?**
+
+- Because animal models perfectly predict human outcomes
+- Because liver transplantation is no longer feasible
+- **Because broad and rational development of a range of promising compounds means that success is likely**
+- Because fibrosis has already been proven irreversible
+
+*Explanation: Although no antifibrotic drug is approved for clinical use in patients with liver fibrosis, the broad and rational development of a range of promising compounds means that success is likely in the near future.*

@@ -1,0 +1,2032 @@
+# 17 Imaging Features of Benign and Malignant Pancreatic Disease
+
+Generated with Claude. 
+
+
+### INTRODUCTION TO PANCREATIC IMAGING
+
+1. Which imaging modality is described as noninvasive, inexpensive, and rapid for evaluating morphologic changes in the pancreas?
+
+- Computed tomography (CT)
+- Magnetic resonance imaging (MRI)
+- **Transabdominal ultrasound (US)**
+- Positron emission tomography (PET)
+
+*Explanation: Transabdominal ultrasound (US) is described as a noninvasive, inexpensive, and rapid method for evaluating morphologic changes in the pancreas.*
+
+---
+
+2. Which of the following is a major limitation of transabdominal ultrasound in pancreatic evaluation?
+
+- Radiation exposure
+- **Overlying bowel gas obscuring the pancreas**
+- High cost compared to CT
+- Poor temporal resolution
+
+*Explanation: Overlying bowel gas obscuring the pancreas and limitations related to patient body habitus are the major limitations of transabdominal ultrasound.*
+
+---
+
+3. When a pancreatic mass is identified on ultrasound, what is the recommended next step?
+
+- Endoscopic ultrasound (EUS)
+- PET scan
+- **Contrast-enhanced CT or MRI**
+- Transabdominal ultrasound repeat in 6 months
+
+*Explanation: If a pancreatic mass or parenchymal abnormality is found at US, further assessment with contrast-enhanced CT or MRI should be performed.*
+
+---
+
+4. If CT is performed in the workup of suspected pancreatic ductal adenocarcinoma (PDAC), how should it be performed?
+
+- Single-phase portal venous phase only
+- Non-contrast CT only
+- **Multiphase pancreatic protocol with pancreatic parenchymal/late arterial phase and portal venous phase**
+- Multiphase CT with only arterial phase
+
+*Explanation: CT for suspected PDAC should be performed as a multiphase pancreatic protocol study with imaging in the pancreatic parenchymal/late arterial phase and the portal venous phase.*
+
+---
+
+5. Which imaging technique can improve visualization of the pancreatic ductal system and assess exocrine gland function, though with limited availability?
+
+- Standard MRCP
+- Contrast-enhanced CT
+- Endoscopic retrograde cholangiopancreatography (ERCP)
+- **Secretin-enhanced MRCP**
+
+*Explanation: Secretin-enhanced MRCP is an advanced imaging technique that can improve visualization of the pancreatic ductal system and assess exocrine gland function, though it has limited availability.*
+
+---
+
+6. Which MRI sequence is particularly valuable for assessing the pancreatic duct?
+
+- T1-weighted pre-contrast
+- Fat-suppressed T1
+- Diffusion-weighted imaging (DWI)
+- **T2-weighted sequences / MRCP**
+
+*Explanation: MRI with MRCP is a mainstay of pancreatic imaging providing detailed assessment of the pancreatic and bile ducts, with T2 sequences offering similar visualization to dedicated MRCP sequences.*
+
+---
+
+### CONGENITAL CONDITIONS, VARIANTS, AND BENIGN ALTERATIONS
+
+#### Pancreatic Divisum
+
+7. What is the most common congenital pancreatic ductal anatomic variant?
+
+- Annular pancreas
+- Ectopic pancreatic tissue
+- **Pancreatic divisum**
+- Agenesis of the dorsal pancreas
+
+*Explanation: Pancreatic divisum is the most common congenital pancreatic ductal anatomic variant.*
+
+---
+
+8. Pancreatic divisum results from which embryological failure?
+
+- Failure of rotation of the ventral pancreatic bud
+- Failure of migration of pancreatic tissue
+- **Failure of fusion of the ventral and dorsal pancreatic anlages**
+- Premature regression of the dorsal pancreatic bud
+
+*Explanation: Pancreatic divisum results from failure of fusion of the ventral and dorsal pancreatic anlages.*
+
+---
+
+9. In pancreatic divisum, the majority of pancreatic parenchyma drains via:
+
+- The ventral duct into the major papilla
+- The ventral duct into the minor papilla
+- **The dorsal duct into the minor papilla**
+- The dorsal duct into the major papilla
+
+*Explanation: In pancreatic divisum, the majority of pancreatic parenchyma drains via the dorsal duct into the minor papilla.*
+
+---
+
+10. Which imaging modality is generally superior for visualizing the pancreatic duct in pancreatic divisum?
+
+- CT
+- Ultrasound
+- PET scan
+- **MRI**
+
+*Explanation: MRI is generally superior in visualizing the pancreatic duct compared to CT, with T2 sequences offering similar visualization to dedicated MRCP sequences.*
+
+---
+
+11. On MRI in pancreatic divisum, what finding is characteristically demonstrated?
+
+- The ventral duct emptying into the minor papilla
+- **The dominant dorsal duct emptying into the minor papilla, superior to the level of the bile duct**
+- Both ducts coalescing at the ampulla
+- The dorsal duct emptying into the common bile duct
+
+*Explanation: MRI will demonstrate the dominant dorsal duct emptying into the minor papilla, superior to the level of the bile duct, with the ventral duct sometimes too small to visualize or even absent.*
+
+---
+
+#### Annular Pancreas
+
+12. Annular pancreas is defined as:
+
+- Ectopic pancreatic tissue within the duodenal wall
+- **A complete or incomplete ring of pancreatic tissue encircling the second portion of the duodenum**
+- Pancreatic tissue encircling the jejunum
+- A congenital absence of the pancreatic head
+
+*Explanation: Annular pancreas is present when a complete or incomplete ring of pancreatic tissue encircles the second portion of the duodenum (D2).*
+
+---
+
+13. On MRI, an incomplete ring in annular pancreas is demonstrated by pancreatic tissue extending in which direction(s)?
+
+- Only anterolaterally around the D2
+- Only posterolaterally around the D2
+- **Both posterolateral and anterolateral direction around D2, or only posterolaterally**
+- Circumferentially around the entire duodenum
+
+*Explanation: An incomplete ring is demonstrated by pancreatic tissue extending in both a posterolateral and anterolateral direction around the D2, or in some cases only in the posterolateral direction.*
+
+---
+
+14. Pancreatic tissue extending only in an anterolateral direction around D2 is:
+
+- Highly specific for incomplete annular pancreas
+- Pathognomonic of annular pancreas
+- **Less specific for incomplete annular pancreas**
+- Diagnostic of complete annular pancreas
+
+*Explanation: Pancreatic tissue extending only in an anterolateral direction around the D2 is less specific for incomplete annular pancreas.*
+
+---
+
+#### Fatty Infiltration
+
+15. Focal or diffuse fatty replacement of the pancreas can occur in which group of patients?
+
+- Only patients with cystic fibrosis
+- Young, thin patients
+- **Diabetic, obese, or elderly patients**
+- Only patients with chronic alcohol use
+
+*Explanation: Fatty replacement of pancreatic tissue may be focal or diffuse and can occur in diabetic, obese, or elderly patients.*
+
+---
+
+16. Complete fatty replacement of the pancreas is most commonly seen in patients with:
+
+- Type 2 diabetes and obesity
+- Chronic pancreatitis and alcohol use
+- **Cystic fibrosis or Schwachman-Diamond syndrome**
+- Autoimmune pancreatitis
+
+*Explanation: Complete fatty replacement of the pancreas is seen most commonly in patients with cystic fibrosis or Schwachman-Diamond syndrome.*
+
+---
+
+17. On CT, in severe fatty replacement of the pancreas, the pancreas will appear:
+
+- Hyperdense compared to mesenteric fat
+- With areas of calcification throughout
+- **Isodense to mesenteric fat**
+- As a heterogeneous mass with calcification
+
+*Explanation: In severe cases, the pancreas will be clearly visible and will have the same density (CT) or signal (MRI) as the mesenteric fat.*
+
+---
+
+18. In fatty replacement of the pancreas, what distinguishes the condition from pancreatic agenesis on imaging?
+
+- Presence of calcifications
+- Enhancement of remaining tissue
+- **Presence of the ductal system**
+- Size of the pancreatic remnant
+
+*Explanation: In fatty replacement, the presence of the ductal system differentiates fatty replacement from agenesis.*
+
+---
+
+19. Which region of the pancreatic head is typically more severely affected by nonhomogeneous fatty replacement?
+
+- Posterior pancreatic head peribiliary tissue
+- **Anterior pancreatic head**
+- Uncinate process
+- Pancreatic neck
+
+*Explanation: Fatty replacement may not be homogeneous, with the anterior pancreatic head more severely affected compared with the posterior pancreatic head peribiliary tissue, which can be spared.*
+
+---
+
+20. Nonhomogeneous fatty replacement of the pancreas may mimic which condition on CT?
+
+- Chronic pancreatitis
+- **A mass or neoplasm**
+- Acute pancreatitis
+- Pancreatic divisum
+
+*Explanation: This nonhomogeneous fatty replacement may mimic a mass or neoplasm on CT; however, MRI can usually differentiate fatty replacement changes from neoplasm.*
+
+---
+
+### PANCREATITIS
+
+#### Acute Pancreatitis
+
+21. The 2012 revised Atlanta classification defines which two distinct types of acute pancreatitis?
+
+- Mild and severe pancreatitis
+- Edematous and hemorrhagic pancreatitis
+- **Interstitial edematous pancreatitis (IEP) and necrotizing pancreatitis (NP)**
+- Acute and chronic pancreatitis
+
+*Explanation: The 2012 revised Atlanta classification defines two distinct types of acute pancreatitis: interstitial edematous pancreatitis (IEP) and necrotizing pancreatitis (NP), depending on the absence or presence of necrosis.*
+
+---
+
+22. According to the chapter, when is imaging of the pancreas NOT necessarily required in acute pancreatitis?
+
+- When the patient has severe symptoms
+- When gallstones are suspected
+- **In mild cases where the diagnosis can be based on clinical symptoms and serology**
+- When the patient fails to improve within 24 hours
+
+*Explanation: Imaging of the pancreas is not necessarily required in the setting of mild cases of acute pancreatitis because the diagnosis can be based on clinical symptoms and serology.*
+
+---
+
+23. What is the most common causative factor for acute pancreatitis that can be identified on imaging?
+
+- Alcohol
+- Medications
+- **Gallstones**
+- Trauma
+
+*Explanation: Imaging may be required to assess for a causative factor, the most common being gallstones.*
+
+---
+
+24. Which modality is the most common used for imaging in acute pancreatitis?
+
+- MRI/MRCP
+- Ultrasound
+- PET/CT
+- **Standard contrast-enhanced CT (CECT) abdomen**
+
+*Explanation: Standard contrast-enhanced CT (CECT) abdomen is the most common modality used in acute pancreatitis, and a multiphase pancreatic protocol is typically unnecessary.*
+
+---
+
+25. MRI/MRCP is preferred over CT in acute pancreatitis in which clinical scenario?
+
+- When the patient is obese
+- When CT is equivocal
+- **In the setting of iodinated contrast allergy, renal failure, or suspicion of choledocholithiasis**
+- When the patient is pregnant and over age 40
+
+*Explanation: MRI/MRCP may be used in acute pancreatitis, particularly in the setting of iodinated contrast allergy, renal failure, or suspicion of choledocholithiasis.*
+
+---
+
+26. When should imaging in acute pancreatitis ideally be performed to best assess for necrosis?
+
+- Within the first 24 hours of onset
+- Within 48-72 hours of onset
+- **Five to seven days after pain onset**
+- After 10 days from pain onset
+
+*Explanation: Imaging in pancreatitis should ideally be performed five to seven days after pain onset, when necrosis is clearly definable and local complications have developed.*
+
+---
+
+27. Why does early imaging within the first few days of acute pancreatitis have limitations?
+
+- The pancreas enhances too brightly to assess
+- Peripancreatic fluid is not yet visible
+- **It may miss or be equivocal for necrosis and correlates poorly with clinical severity**
+- There is too much artifact from bowel gas
+
+*Explanation: Earlier imaging within the first few days after pain onset may miss or be equivocal for necrosis and correlates poorly with clinical severity.*
+
+---
+
+28. The CT Severity Index (CTSI) is based on which set of criteria?
+
+- Serum lipase, amylase, and CRP levels
+- Pancreatic duct dilatation and stone burden
+- **Pancreatic changes, presence and amount of necrosis, and peripancreatic fluid collections**
+- Patient age, BMI, and comorbidities
+
+*Explanation: The CTSI score is based on pancreatic changes, the presence and amount of necrosis (none, ≤30%, 30%–50%, and >50%), and peripancreatic fluid collections.*
+
+---
+
+29. What additional findings does the modified CT Severity Index (mCTSI) include compared to the CTSI?
+
+- Bile duct dilatation and portal hypertension
+- Main pancreatic duct caliber and strictures
+- **Extrapancreatic findings such as pleural effusions and ascites**
+- Vascular involvement and lymphadenopathy
+
+*Explanation: The mCTSI includes similar criteria to CTSI but also includes extrapancreatic findings such as pleural effusions and ascites.*
+
+---
+
+30. A study involving almost 400 patients found what when comparing CTSI and mCTSI?
+
+- mCTSI was significantly superior to CTSI
+- CTSI was significantly superior to mCTSI
+- **No significant difference between CTSI and mCTSI in evaluating the severity of acute pancreatitis**
+- mCTSI was only superior in necrotizing pancreatitis
+
+*Explanation: A study involving almost 400 patients demonstrated no significant difference between CTSI and mCTSI in evaluating the severity of acute pancreatitis.*
+
+---
+
+#### Interstitial Edematous Pancreatitis
+
+31. Interstitial edematous pancreatitis (IEP) at imaging usually appears as:
+
+- Focal necrosis with rim enhancement
+- Pancreatic ductal dilatation with calcifications
+- **Diffuse or focal pancreatic enlargement with a small amount of peripancreatic fluid**
+- A heterogeneous mass with central necrosis
+
+*Explanation: IEP is the more common form of acute pancreatitis and at imaging usually appears as diffuse or focal pancreatic enlargement with a small amount of peripancreatic fluid.*
+
+---
+
+32. In IEP, why does the pancreatic parenchyma enhance less than normal on CT?
+
+- Due to vascular thrombosis
+- Due to tumoral invasion
+- **Due to the presence of interstitial edema**
+- Due to pancreatic fibrosis
+
+*Explanation: The pancreatic parenchyma will generally enhance less than a normal pancreas because of the presence of interstitial edema in IEP.*
+
+---
+
+33. If nonenhancing parenchymal regions or peripancreatic necrotic collections are present in acute pancreatitis, what diagnosis should be made?
+
+- Severe IEP
+- Pseudocyst formation
+- Groove pancreatitis
+- **Necrotizing pancreatitis (NP)**
+
+*Explanation: There should be no nonenhancing parenchymal regions or peripancreatic necrotic collections in IEP; if these are present, the diagnosis of NP should be made.*
+
+---
+
+34. According to the 2012 revised Atlanta criteria, a peripancreatic fluid collection occurring within the first 4 weeks of IEP is classified as:
+
+- Walled-off necrosis (WON)
+- Pancreatic pseudocyst
+- Acute necrotic collection (ANC)
+- **Acute peripancreatic fluid collection (APFC)**
+
+*Explanation: According to the 2012 revised Atlanta criteria, any peripancreatic fluid collection occurring within the first 4 weeks of IEP is classified as an "acute peripancreatic fluid collection" (APFC).*
+
+---
+
+35. On CT, an acute peripancreatic fluid collection (APFC) appears as:
+
+- A heterogeneous collection with solid components
+- A thick-walled encapsulated collection
+- **Homogeneous fluid attenuation (0–20 HU) without a well-defined wall**
+- A multiloculated collection with calcifications
+
+*Explanation: The APFC will contain only fluid and appear as homogeneous fluid attenuation (0–20 HU) at CT and fluid signal intensity on T2-weighted MRI, conforming to retroperitoneal structures, and without a well-defined wall.*
+
+---
+
+36. What percentage of peripancreatic collections in IEP persist beyond four weeks and are termed pseudocysts?
+
+- 5%
+- **10%**
+- 25%
+- 50%
+
+*Explanation: In 10% of cases, the peripancreatic collections persist for more than four weeks, and these are termed pancreatic pseudocysts.*
+
+---
+
+37. A pancreatic pseudocyst differs from an APFC in that it:
+
+- Contains solid necrotic debris
+- Is always located within the pancreatic parenchyma
+- Does not communicate with the main pancreatic duct
+- **Has a well-defined enhancing capsule and persists beyond 4 weeks**
+
+*Explanation: Pseudocysts should not include any solid components or debris and will appear as homogeneous fluid attenuation on CT and hyperintense on T2, with a well-defined enhancing capsule.*
+
+---
+
+38. On transabdominal ultrasound, pseudocysts typically appear as:
+
+- A heterogeneous echogenic mass
+- A complex cystic lesion with internal septa
+- **A circumscribed, smooth-walled spherical anechoic lesion with posterior acoustic enhancement**
+- A solid-appearing hypoechoic mass
+
+*Explanation: On transabdominal US, pseudocysts typically appear as a circumscribed, smooth-walled spherical anechoic lesion with posterior acoustic enhancement.*
+
+---
+
+#### Necrotizing Pancreatitis
+
+39. Necrotizing pancreatitis (NP) is defined by necrosis involving:
+
+- Only the pancreatic parenchyma
+- Only the peripancreatic soft tissues
+- **The pancreatic parenchyma and/or the peripancreatic soft tissues**
+- The pancreatic duct exclusively
+
+*Explanation: NP is defined by necrosis involving the pancreatic parenchyma and/or the peripancreatic soft tissues.*
+
+---
+
+40. What is the most common form of necrotizing pancreatitis in terms of tissue involvement?
+
+- Parenchymal necrosis alone (5%)
+- Peripancreatic tissue alone (25%)
+- **Involvement of both parenchyma and peripancreatic soft tissues (75%)**
+- Peripancreatic tissue involvement with ductal disruption (50%)
+
+*Explanation: Involvement of both parenchyma and peripancreatic soft tissues is the most common form, occurring in 75% of cases.*
+
+---
+
+41. Parenchymal necrosis predominantly affects which parts of the pancreas?
+
+- Head and uncinate process
+- Tail only
+- **Neck and body (with the head and tail potentially spared)**
+- Body and tail exclusively
+
+*Explanation: Parenchymal necrosis predominantly affects the neck and body, and the head and tail may be spared.*
+
+---
+
+42. In NP, if there is confluent necrosis extending over 2 cm at the head, neck, or body, what complication may occur?
+
+- Splenic vein thrombosis
+- Biliary obstruction
+- **Disruption of the pancreatic duct with leakage into soft tissues causing fistulas**
+- Pseudoaneurysm formation
+
+*Explanation: If there is confluent necrosis extending over 2 cm at the head, neck, or body, the pancreatic duct may be disrupted and pancreatic fluid from the isolated non-necrotic distal body or tail will leak into soft tissues causing fistulas and collections.*
+
+---
+
+43. What is the best modality to identify a disrupted pancreatic duct in NP?
+
+- Contrast-enhanced CT
+- Transabdominal ultrasound
+- PET/CT
+- **ERCP or secretin MRCP**
+
+*Explanation: The disrupted duct may be best identified with ERCP or secretin MRCP. The isolated duct may not be dilated.*
+
+---
+
+44. A fluid collection present within the first four weeks of NP is termed:
+
+- Acute peripancreatic fluid collection (APFC)
+- Walled-off necrosis (WON)
+- Pancreatic pseudocyst
+- **Acute necrotic collection (ANC)**
+
+*Explanation: A collection present within the first four weeks of NP is termed an "acute necrotic collection" (ANC).*
+
+---
+
+45. On imaging, the debris and necrotic tissue within an ANC will appear as:
+
+- Enhancing solid components
+- Calcified foci
+- **Nonenhancing solid components or fat globules**
+- Hyperenhancing nodules
+
+*Explanation: At imaging, the debris and necrotic tissue will appear as nonenhancing solid components or fat globules.*
+
+---
+
+46. After four weeks in NP, collections become encapsulated and are termed:
+
+- Pseudocysts
+- Acute necrotic collections
+- **Walled-off necrosis (WON)**
+- Organized pancreatic fluid collections
+
+*Explanation: After four weeks, the collections will become encapsulated with a well-defined, thick enhancing wall, termed "walled-off necrosis" (WON).*
+
+---
+
+47. Which imaging modality is superior to CT in demonstrating the internal debris present with WON?
+
+- Ultrasound
+- PET/CT
+- **MRI**
+- Nuclear medicine scintigraphy
+
+*Explanation: MRI is superior to CT in demonstrating the internal debris present with WON.*
+
+---
+
+48. On MRI, the internal debris within WON usually appears as:
+
+- T2 hyperintense, T1 hypointense material
+- T1 hyperintense, T2 hyperintense material
+- **Dependent, nonenhancing T2 hypointense material**
+- Enhancing T1 hyperintense material
+
+*Explanation: The internal debris usually appears as dependent, nonenhancing T2 hypointense material on MRI, and as soft tissue or high attenuation on CT.*
+
+---
+
+49. Infected necrosis in NP has which specific imaging finding?
+
+- Rim enhancement of the collection
+- Thick irregular wall
+- **No specific imaging findings (air may indicate infection but can also be secondary to fistula)**
+- Restricted diffusion on DWI
+
+*Explanation: Infected necrosis does not have specific imaging findings; air within the necrotic areas can indicate infection but may also be secondary to fistula.*
+
+---
+
+50. Leaked pancreatic proteolytic enzymes can cause pseudoaneurysms most commonly involving which vessels?
+
+- Hepatic artery, portal vein, and mesenteric artery
+- Renal artery, celiac axis, and aorta
+- **Splenic, gastroduodenal, and pancreaticoduodenal arteries**
+- Superior mesenteric artery and vein
+
+*Explanation: Leaked pancreatic proteolytic enzymes can cause weakening of vessel walls and formation of pseudoaneurysms, most commonly involving the splenic, gastroduodenal, and pancreaticoduodenal arteries.*
+
+---
+
+51. If hemorrhage is clinically suspected in acute pancreatitis, what imaging should be performed?
+
+- Single-phase CT with portal venous phase
+- MRI with gadolinium
+- **Multiphase CT with both arterial and portal venous phases**
+- Ultrasound with Doppler
+
+*Explanation: If hemorrhage is clinically suspected, a multiphase CT with both arterial and portal venous phases should be performed.*
+
+---
+
+52. On imaging, pseudoaneurysms will show:
+
+- A rim-enhancing avascular mass
+- No enhancement on any phase
+- **A connection to an adjacent vessel and enhancement similar to arteries**
+- Peripheral calcification
+
+*Explanation: On imaging, pseudoaneurysms will show a connection to an adjacent vessel and enhance similar to arteries.*
+
+---
+
+#### Chronic Pancreatitis
+
+53. For chronic pancreatitis, which modality has the lowest accuracy and is not recommended for initial assessment?
+
+- MRI
+- CT
+- **Transabdominal ultrasound**
+- ERCP
+
+*Explanation: Although transabdominal US may be the initial modality used in chronic abdominal pain, it has the lowest accuracy and is not recommended for initial assessment of chronic pancreatitis.*
+
+---
+
+54. CT is best for which feature of chronic pancreatitis, while MRI excels at which other feature?
+
+- CT for ductal changes; MRI for calcification
+- **CT for calcification; MRI for ductal and early parenchymal changes**
+- CT for atrophy; MRI for calcification
+- Both are equal for all features
+
+*Explanation: CT is best for visualization of pancreatic calcification, whereas ductal and early parenchymal changes are better evaluated on MRI.*
+
+---
+
+55. Pancreatic calcification is the most specific CT imaging feature of:
+
+- Acute pancreatitis
+- Pancreatic adenocarcinoma
+- Autoimmune pancreatitis
+- **Chronic pancreatitis**
+
+*Explanation: Pancreatic calcification is commonly seen in chronic pancreatitis and is the most specific CT imaging feature.*
+
+---
+
+56. What is the most common cause of pancreatic calcification in the United States?
+
+- Hyperparathyroidism
+- Tropical pancreatitis
+- **Chronic alcoholic pancreatitis**
+- Gallstone pancreatitis
+
+*Explanation: Chronic alcoholic pancreatitis is the most common cause of pancreatic calcification in the United States.*
+
+---
+
+57. In chronic pancreatitis, the pancreatic head is usually:
+
+- Less affected than the tail
+- Equally affected as the tail
+- Spared from calcifications
+- **More prominently affected than the tail**
+
+*Explanation: The distribution of calcifications may vary from focal to diffuse involvement, with the pancreatic head usually more prominently affected than the tail.*
+
+---
+
+58. Coarse calcifications on CT are considered:
+
+- A suggestive but non-specific sign of chronic pancreatitis
+- Pathognomonic of pancreatic adenocarcinoma
+- **A definite sign of chronic pancreatitis**
+- Only seen in autoimmune pancreatitis
+
+*Explanation: Coarse calcifications are a definite sign of chronic pancreatitis.*
+
+---
+
+59. The degree of pancreatic calcification in chronic pancreatitis is:
+
+- Directly proportional to clinical severity
+- A reliable indicator of exocrine dysfunction severity
+- **Not indicative of clinical severity**
+- Inversely proportional to ductal dilatation
+
+*Explanation: The degree of calcification is not indicative of clinical severity or vice versa. Many patients with severe exocrine dysfunction may have a normal-appearing pancreas on CT.*
+
+---
+
+60. On MRCP, dilatation of the main pancreatic duct with alternating strictures and stenoses causes a classic appearance called:
+
+- Beaded duct sign
+- Double duct sign
+- **Chain of lakes appearance**
+- Crocodile sign
+
+*Explanation: The dilatation of the main duct with alternating strictures and stenoses causes a classic "chain of lakes" appearance.*
+
+---
+
+61. What main pancreatic duct diameter is considered dilated on MRI/MRCP in chronic pancreatitis?
+
+- Greater than 2 mm
+- Greater than 2.5 mm
+- **Greater than 3.5 mm**
+- Greater than 5 mm
+
+*Explanation: Dilatation of the main duct (>3.5 mm) is commonly seen in chronic pancreatitis and the duct may have a variable smooth, beaded, or irregular appearance with strictures.*
+
+---
+
+62. On fat-suppressed T1 MRI, early chronic pancreatitis appears as:
+
+- Diffuse parenchymal fibrosis and atrophy
+- Calcifications within the ductal system
+- **Subtle areas of decreased T1 signal within the pancreas**
+- A focal hypointense mass
+
+*Explanation: Early fibrosis in chronic pancreatitis will appear as subtle areas of decreased T1 signal within the pancreas on fat-suppressed T1 MRI.*
+
+---
+
+63. Features that favor ductal dilatation due to chronic pancreatitis (CP) over PDAC-related obstruction include:
+
+- Discrete mass with upstream duct cutoff
+- Smooth ductal dilatation without calcification
+- **Intraductal or parenchymal calcifications, irregular ductal dilatation, and lack of a discrete mass**
+- Enhancement of duct walls
+
+*Explanation: Features favoring CP over PDAC include the presence of intraductal or parenchymal calcifications, irregular ductal dilatation, relative limited gland atrophy, and the lack of a discrete mass.*
+
+---
+
+64. In chronic pancreatitis, pseudotumors or focal inflammatory masses are reported in approximately what percentage of patients?
+
+- 5%
+- 10%
+- **30%**
+- 50%
+
+*Explanation: Pseudotumors or focal benign inflammatory masses may occur in chronic pancreatitis, with a small series reporting the presence in nearly 30% of patients.*
+
+---
+
+65. On MRI, which sign in an inflammatory mass (pseudotumor) is indicative of a benign process rather than PDAC?
+
+- A well-defined mass with sharp margins
+- Low ADC values on diffusion-weighted imaging
+- **Ductal structures and the duct-penetrating sign within the mass**
+- Peripheral enhancement on arterial phase
+
+*Explanation: On MRI, ductal structures and the duct-penetrating sign in the mass are indicative of an inflammatory mass, whereas these findings are absent in PDAC.*
+
+---
+
+66. On post-contrast T1 sequences, how do inflammatory masses in chronic pancreatitis appear compared to PDAC?
+
+- Both appear as well-defined masses
+- Both appear identical
+- **Inflammatory masses are ill-defined and poorly demarcated, whereas PDAC shows relative demarcation to normal pancreas**
+- Inflammatory masses are hypervascular while PDAC is hypovascular
+
+*Explanation: On postcontrast T1 sequences, inflammatory masses are usually ill-defined and poorly demarcated, whereas PDAC will show relative demarcation to normal pancreas.*
+
+---
+
+#### Groove Pancreatitis
+
+67. Groove pancreatitis involves which anatomic region?
+
+- The pancreatic tail and splenic hilum
+- The pancreatic head and the superior mesenteric vein
+- **The groove between the pancreatic head, duodenum, and common bile duct**
+- The pancreatic neck and portal vein confluence
+
+*Explanation: Groove pancreatitis is an inflammatory plate-like mass involving the groove between the pancreatic head, duodenum, and the common bile duct.*
+
+---
+
+68. Classic imaging features of groove pancreatitis include:
+
+- Pancreatic ductal dilation with upstream atrophy
+- Focal mass with arterial phase hyperenhancement
+- **Loss of fat planes between the pancreatic head and duodenum with arterial phase hypoenhancement and progressive delayed enhancement**
+- Multilocular cystic mass with central calcification
+
+*Explanation: Classic imaging features include loss of fat planes between the pancreatic head and the duodenum with sheet-like soft tissue demonstrating arterial phase hypoenhancement and progressive patchy delayed enhancement because of fibrosis.*
+
+---
+
+69. On T2-weighted MRI, groove pancreatitis signal characteristics change with chronicity in which direction?
+
+- Increases in signal with chronicity
+- Remains constant regardless of chronicity
+- **Decreases in signal with chronicity and increasing fibrosis**
+- Shows alternating high and low signal
+
+*Explanation: Groove pancreatitis is of variable signal intensity on T2-weighted images depending on the acuity of the process, decreasing in signal with chronicity and increasing fibrosis.*
+
+---
+
+70. Cystic components along the thickened duodenal wall in groove pancreatitis are best seen on:
+
+- Pre-contrast T1-weighted MRI
+- Portal venous phase CT
+- Diffusion-weighted MRI
+- **T2-weighted images**
+
+*Explanation: Cystic components of mixed size and complexity are often best seen on T2-weighted images along the thickened duodenal wall, a sign that carries some specificity.*
+
+---
+
+71. Groove pancreatitis is often considered a diagnosis of exclusion because:
+
+- It always requires biopsy for diagnosis
+- It has pathognomonic imaging features
+- **It can be extremely difficult to distinguish from necrotic PDAC**
+- It resolves spontaneously without treatment
+
+*Explanation: Because the entity can be extremely difficult to distinguish from necrotic PDAC, groove pancreatitis is often a diagnosis of exclusion.*
+
+---
+
+#### Autoimmune Pancreatitis
+
+72. Type 1 autoimmune pancreatitis (AIP) is associated with:
+
+- Decreased IgG2 levels
+- Elevated IgG2 levels
+- Normal immunoglobulin levels
+- **Elevated IgG4 levels**
+
+*Explanation: Type 1 AIP is the most recognized type and is a multi-organ disease associated with elevated immunoglobulin G4 (IgG4) levels.*
+
+---
+
+73. Type 2 AIP differs from Type 1 AIP in that Type 2:
+
+- Is associated with elevated IgG4 levels
+- Involves multiple organ systems
+- Is always diffuse in presentation
+- **Is a pancreatic-specific disease not associated with elevated IgG4**
+
+*Explanation: Type 2 AIP is a pancreatic-specific disease not associated with an elevated IgG4.*
+
+---
+
+74. Compared to Type 1 AIP, Type 2 AIP is:
+
+- More diffuse in presentation
+- More commonly associated with extrapancreatic disease
+- **More frequently focal (85% of cases) and will lack extrapancreatic disease**
+- More commonly bilateral
+
+*Explanation: Type 2 is more frequently focal (85% of cases) and will lack extrapancreatic disease.*
+
+---
+
+75. Diffuse AIP is characterized by which classic appearance on imaging?
+
+- A discrete hypoenhancing mass in the head
+- Pancreatic ductal dilatation with calcifications
+- **Sausage-shaped enlargement of the pancreas with loss of normal pancreatic contour lobulations**
+- Multiple cystic lesions throughout the pancreas
+
+*Explanation: Diffuse AIP is characterized by sausage-shaped enlargement of the pancreas with loss of normal pancreatic contour lobulations and clefts.*
+
+---
+
+76. The capsule-like rim or "halo" in AIP on CT appears as:
+
+- Enhancing on arterial phase
+- Hyperintense on T2 MRI
+- **Hypodense on CT, hypointense on T1 and T2 MRI, with delayed postcontrast enhancement**
+- Calcified on non-contrast CT
+
+*Explanation: The characteristic capsule-like rim or "halo" will appear hypodense on CT, hypointense on T1 and T2 MRI, and demonstrate delayed postcontrast enhancement.*
+
+---
+
+77. On CT, how does AIP enhancement pattern differ from PDAC?
+
+- AIP and PDAC are both hypodense in all phases
+- AIP is hyperdense in arterial phase while PDAC is isodense
+- **AIP shows progressive enhancement (hypodense in parenchymal phase, iso/hypodense in portal venous phase, hyperdense in delayed phase), while PDAC is more commonly hypodense in both phases**
+- AIP is always isodense while PDAC is always hypodense
+
+*Explanation: AIP-affected regions demonstrate progressive enhancement — hypodense in pancreatic parenchymal phase, iso/hypodense in portal venous phase, and hyperdense in delayed phase. This contrasts with PDAC, which is more commonly hypodense in both pancreatic parenchymal and portal venous phases.*
+
+---
+
+78. On MRCP, what is characteristic of the pancreatic duct in AIP?
+
+- Smooth dilatation of the main duct
+- Focal stricture with upstream dilatation
+- **Diffuse multifocal irregular narrowing (the duct may not be visualized at all in affected regions)**
+- "Chain of lakes" appearance
+
+*Explanation: On MRCP, there is generally diffuse multifocal irregular narrowing of the pancreatic duct in AIP. The pancreatic duct may not be visualized at all in the affected regions.*
+
+---
+
+79. Extrapancreatic lesions in Type 1 AIP are reported in what percentage of patients?
+
+- 10%-20%
+- 25%-35%
+- **45%-92%**
+- >95%
+
+*Explanation: Extrapancreatic lesions are common in type 1 AIP, reported in 45% to 92% of patients.*
+
+---
+
+80. Renal involvement in AIP is demonstrated in up to what percentage of patients?
+
+- 10%
+- 20%
+- **35%**
+- 50%
+
+*Explanation: Renal involvement, demonstrated in up to 35% of patients, most commonly involves the renal cortex.*
+
+---
+
+81. How do AIP renal lesions respond to corticosteroid treatment?
+
+- They remain unchanged
+- They increase in size
+- They calcify
+- **They decrease with corticosteroid treatment**
+
+*Explanation: Renal lesions in AIP will decrease with corticosteroid treatment.*
+
+---
+
+82. AIP demonstrates restricted diffusion with low ADC. What happens to ADC values with corticosteroid treatment?
+
+- ADC values decrease further
+- ADC values remain unchanged
+- ADC values become heterogeneous
+- **ADC values generally normalize with corticosteroid treatment**
+
+*Explanation: AIP will demonstrate restricted diffusion with low ADC; this generally normalizes with corticosteroid treatment.*
+
+---
+
+### CYSTIC PANCREATIC LESIONS
+
+83. Which of the following is NOT one of the five most common types of cystic pancreatic lesions described in the chapter?
+
+- Pseudocyst
+- IPMN
+- **Lymphangioma**
+- Serous cystadenoma (SCA)
+
+*Explanation: The five most common cystic lesions are pseudocysts, IPMNs, mucinous cystic neoplasms (MCNs), and serous cystadenomas. Lymphangioma is listed separately under "Other Cystic Pancreatic Lesions."*
+
+---
+
+84. Which modalities are the preferred choices for noninvasive characterization of cystic pancreatic lesions?
+
+- Ultrasound and PET/CT
+- ERCP and EUS
+- **MRI and CT**
+- PET/CT and MRI
+
+*Explanation: MRI and CT are the preferred modalities for the noninvasive characterization of cystic lesions.*
+
+---
+
+85. What is the approximate specificity of transabdominal ultrasound in distinguishing cystic neoplasms from pseudocysts?
+
+- 10%-20%
+- 25%-35%
+- **40%-50%**
+- 60%-70%
+
+*Explanation: Transabdominal ultrasound has limited ability to distinguish between cystic neoplasms and pseudocysts (40%–50% specificity).*
+
+---
+
+#### Intraductal Papillary Mucinous Neoplasm (IPMN)
+
+86. IPMNs are defined as:
+
+- Serous fluid-producing neoplasms arising from acinar cells
+- Mucinous neoplasms arising from islet cells
+- **Mucin-producing neoplasms arising from the main pancreatic duct or its branches**
+- Solid tumors with secondary cystic degeneration
+
+*Explanation: IPMNs are mucin-producing neoplasms that arise from the main pancreatic duct or its branches and exhibit a spectrum of dysplasia from low-grade to high-grade to invasive carcinoma.*
+
+---
+
+87. IPMNs represent approximately what percentage of all cystic pancreatic lesions?
+
+- 10%
+- 20%
+- **Up to 30%**
+- 50%
+
+*Explanation: IPMNs are the most common cystic neoplasms and may represent up to 30% of all cystic pancreatic lesions.*
+
+---
+
+88. The prevalence of invasive carcinoma in main duct and mixed-type IPMN compared to branch duct type IPMN is:
+
+- Equal in all types (approximately 30%)
+- Higher in branch duct type (44%-45%) vs main/mixed type (16%)
+- **Higher in main duct/mixed type (44%-45%) vs branch duct type (16.6%)**
+- Lower in main duct type (5%) vs branch duct type (30%)
+
+*Explanation: Among main duct and mixed-type IPMN, prevalence of invasive carcinoma was 44% to 45% versus only 16.6% in the branch duct type.*
+
+---
+
+89. On imaging, what is largely identified in IPMN rather than the neoplastic epithelium itself?
+
+- The enhancing mural nodules
+- The cystic walls
+- **The mucin produced by the tumor**
+- The ductal dilatation pattern
+
+*Explanation: On CT or MRI, it is largely the mucin produced by the tumor that is identified rather than the neoplastic epithelium itself.*
+
+---
+
+90. Enhancing mural solid nodules in IPMN are associated with:
+
+- Benign IPMNs only
+- Low-grade dysplasia only
+- Side branch IPMN exclusively
+- **Invasive cancer and high-grade dysplasia**
+
+*Explanation: Visible enhancing mural solid nodules may represent the cellular elements and are associated with the presence of invasive cancer and high-grade dysplasia.*
+
+---
+
+91. Main duct IPMN is characterized on CT or MRI by:
+
+- Multiple small cysts in the pancreatic head
+- A unilocular cystic mass without duct communication
+- **Diffuse or segmental dilatation of the main pancreatic duct to more than 5 mm caliber without another identifiable cause**
+- A hyperenhancing mass with upstream ductal dilatation
+
+*Explanation: Main duct IPMN is characterized on CT or MRI by diffuse or segmental dilatation of the main pancreatic duct to more than 5 mm caliber, without another identifiable cause of obstruction.*
+
+---
+
+92. Branch duct IPMN most commonly occurs in which location?
+
+- Pancreatic tail
+- Pancreatic body
+- Pancreatic neck
+- **Pancreatic head**
+
+*Explanation: Branch duct IPMN can occur anywhere in the gland, most commonly in the pancreatic head.*
+
+---
+
+93. Branch duct IPMN may be multifocal in approximately what percentage of cases?
+
+- 5%-10%
+- 15%-20%
+- **Approximately 30%**
+- 50%-60%
+
+*Explanation: Branch duct IPMN may be multifocal in approximately 30% of cases.*
+
+---
+
+94. The 2017 Fukuoka guidelines define "high-risk stigmata" in IPMN as which of the following?
+
+- Main duct 5-9 mm and size greater than 3 cm
+- Nonenhancing mural nodules and associated lymphadenopathy
+- Abrupt caliber transition with distal gland atrophy
+- **Main duct caliber greater than 9 mm and enhancing mural nodule greater than 5 mm**
+
+*Explanation: "High-risk stigmata" include main duct caliber greater than 9 mm and enhancing mural nodule greater than 5 mm.*
+
+---
+
+95. Which of the following is classified as a "worrisome feature" in the 2017 Fukuoka guidelines?
+
+- Main duct caliber greater than 9 mm
+- Enhancing mural nodule greater than 5 mm
+- **Main duct 5 to 9 mm caliber and abrupt caliber transition with distal gland atrophy**
+- Obstructive jaundice
+
+*Explanation: "Worrisome features" include main duct 5 to 9 mm caliber, abrupt caliber transition (more dilated upstream) with distal gland atrophy, nonenhancing mural nodules, size greater than 3 cm, associated lymphadenopathy, and change in size greater than 5 mm over two years.*
+
+---
+
+#### Mucinous Cystic Neoplasm (MCN)
+
+96. MCNs are histologically characterized by the presence of:
+
+- Serous-type epithelium with honeycomb architecture
+- Ductal-type epithelium communicating with the main duct
+- **Progesterone and estrogen receptor-positive ovarian-type stroma**
+- Squamous epithelium with keratin pearls
+
+*Explanation: MCNs are characterized histologically by the presence of progesterone and estrogen receptor-positive ovarian-type stroma.*
+
+---
+
+97. MCNs are considered nearly exclusively tumors of:
+
+- Elderly men
+- Young men
+- Postmenopausal women exclusively
+- **Perimenopausal women**
+
+*Explanation: MCNs have been considered nearly exclusively tumors of perimenopausal women.*
+
+---
+
+98. The typical location of MCN within the pancreas is:
+
+- Pancreatic head (90%-95%)
+- Pancreatic neck (90%-95%)
+- Pancreatic head and uncinate (90%-95%)
+- **Pancreatic body or tail (90%-95%)**
+
+*Explanation: The typical appearance of MCN is a loculated cystic lesion occurring most commonly in the pancreatic body or tail (90%–95%).*
+
+---
+
+99. Morphologically, MCN appears as:
+
+- A "grape-like" clustered appearance
+- Numerous tiny cysts in a honeycomb configuration
+- **Round or ovoid "orange-like" appearance with locules or pauciseptate cystic components**
+- A unilocular cyst without septa
+
+*Explanation: MCNs appear as round or ovoid — "orange-like," rather than the more "grape-like" clustered appearance of IPMN, with locules or pauciseptate individual cystic components.*
+
+---
+
+100. Unlike IPMNs, MCNs:
+
+- Always communicate with the main pancreatic duct
+- Occur predominantly in the pancreatic head
+- Are almost exclusively seen in men
+- **Tend to be solitary and only rarely demonstrate communication with the main pancreatic duct**
+
+*Explanation: Unlike IPMN, MCN lesions tend to be solitary and only rarely demonstrate communication with the main pancreatic duct if there is associated fistula formation.*
+
+---
+
+101. CT features associated with malignancy (mucinous cystadenocarcinoma) in MCN include:
+
+- Small size less than 1 cm and thin walls
+- Uniform fluid content without septa
+- **Thick wall (>2 mm), thick septations, and calcification within the wall or septa**
+- Communication with the main pancreatic duct
+
+*Explanation: Features that can be associated with malignancy are a thick wall (>2 mm), thick septations, and calcification within the wall or septa.*
+
+---
+
+102. The presence of internal enhancing soft tissue elements in a mucinous cystic lesion is indicative of:
+
+- High-grade dysplasia only
+- Infection of the cyst
+- Hemorrhage into the cyst
+- **Carcinoma**
+
+*Explanation: In any case, the presence of internal enhancing soft tissue elements is indicative of carcinoma.*
+
+---
+
+#### Serous Cystadenoma (SCA)
+
+103. Pancreatic serous cystic neoplasms represent approximately what percentage of cystic neoplasms?
+
+- 10%
+- 20%
+- **30%**
+- 50%
+
+*Explanation: Pancreatic serous cystic neoplasms represent about 20% of all cystic pancreatic lesions and approximately 30% of cystic neoplasms.*
+
+---
+
+104. Serous cystadenomas are described as:
+
+- Aggressive tumors with high malignant potential
+- Tumors with moderate malignant potential requiring close surveillance
+- **Indolent tumors with extremely rare malignant transformation**
+- Premalignant lesions requiring resection in all cases
+
+*Explanation: SCAs are largely benign serous cystadenoma with extremely rare instances of malignant serous cystadenocarcinoma, which can only be diagnosed on imaging in the presence of metastases.*
+
+---
+
+105. SCA tumors most commonly occur in which part of the pancreas?
+
+- Pancreatic head
+- Pancreatic neck
+- Pancreatic head and uncinate process
+- **Pancreatic body and tail**
+
+*Explanation: SCA tumors most commonly occur in the pancreatic body and tail.*
+
+---
+
+106. The typical appearance of SCA on CT is:
+
+- A unilocular cystic lesion with a thin wall
+- A thick-walled cystic lesion with mural nodules
+- **Numerous tiny cysts (typically <1 cm) with highly vascularized fibrous septa in a honeycomb configuration radiating from a central nidus**
+- A multilocular cystic mass with communication to the main duct
+
+*Explanation: SCA tumors are typically comprised of numerous tiny cysts which appear fluid-attenuation on CT with highly vascularized fibrous septa arranged in a honeycomb configuration radiating from a central nidus.*
+
+---
+
+107. Stellate calcification of the central nidus strongly suggests SCA. However, this feature is seen in approximately what percentage of cases?
+
+- 5%-10%
+- 15%-20%
+- **Approximately 30%**
+- 50%-60%
+
+*Explanation: Stellate calcification of the central nidus strongly suggests the diagnosis of SCA; however, it is only seen in approximately 30% of cases.*
+
+---
+
+108. SCA differs from IPMN in that SCA:
+
+- Communicates frequently with the main pancreatic duct
+- Has higher malignant potential than IPMN
+- Is more commonly found in the pancreatic head
+- **Does not communicate with the pancreatic duct**
+
+*Explanation: In contrast to IPMN, SCA do not communicate with the pancreatic duct.*
+
+---
+
+109. On transabdominal ultrasound, why may SCA appear echogenic or solid?
+
+- Due to calcification of the septa
+- Due to internal hemorrhage
+- **Because numerous tiny cystic spaces may create multiple interfaces and not be resolved individually**
+- Due to mucinous content
+
+*Explanation: Transabdominal US is not well suited as a characterization tool because numerous tiny cystic spaces may create multiple interfaces and not be resolved individually, causing the cystic component to appear echogenic or solid appearing.*
+
+---
+
+### SOLID PANCREATIC LESIONS
+
+#### Pancreatic Ductal Adenocarcinoma (PDAC)
+
+110. The NCCN recommends what initial evaluation for a patient with clinical suspicion of PDAC and evidence of dilated pancreatic or bile duct?
+
+- MRI with MRCP
+- Endoscopic ultrasound (EUS)
+- Transabdominal ultrasound
+- **Pancreatic protocol CT**
+
+*Explanation: The NCCN recommends that any patient with a clinical suspicion of PDAC and evidence of a dilated pancreatic or bile duct or stricture should undergo initial evaluation with a pancreatic protocol CT.*
+
+---
+
+111. The NCCN endorses which CT protocol for PDAC evaluation?
+
+- Single-phase arterial phase CT
+- Non-contrast CT only
+- Triphasic CT with arterial, venous, and delayed phases
+- **Dual-phase pancreatic protocol with pancreatic parenchymal and portal venous phases**
+
+*Explanation: NCCN endorses a dual-phase pancreatic protocol with imaging obtained in the pancreatic parenchymal and portal venous phases.*
+
+---
+
+112. Why does the NCCN recommend CT as the preferred modality for preoperative assessment of PDAC?
+
+- It is more sensitive than MRI for detecting the primary tumor
+- It better characterizes vascular invasion than MRI
+- **It is widely available and can be extended to include the chest and pelvis for staging**
+- It has fewer contraindications than MRI
+
+*Explanation: The NCCN recommends CT as the preferred modality for preoperative assessment because it is widely available and can be extended to include both the chest and pelvis for staging purposes.*
+
+---
+
+113. According to a 2016 meta-analysis, the comparison of CT and MRI for diagnosis and assessment of vascular involvement in PDAC showed:
+
+- CT was significantly superior to MRI
+- MRI was significantly superior to CT
+- **CT and MRI were comparable**
+- MRI was superior only for vascular assessment
+
+*Explanation: A 2016 meta-analysis found that CT and MRI were comparable in diagnosis and assessment of vascular involvement.*
+
+---
+
+114. For what specific purpose is MRI more sensitive than CT in PDAC staging?
+
+- Detection of lymph node metastases
+- Detection of peritoneal metastases
+- Detection of local vascular invasion
+- **Detection of hepatic metastases**
+
+*Explanation: MRI is more sensitive in detecting hepatic metastases.*
+
+---
+
+115. On CT, PDAC typically appears as:
+
+- A hyperattenuating mass in both phases
+- An isoattenuating mass that is indistinguishable from normal pancreas
+- **An ill-defined solid mass, hypoattenuating to normal pancreatic parenchyma in both the pancreatic parenchymal and portal venous phases**
+- A rim-enhancing cystic mass
+
+*Explanation: On CT, PDAC typically appears as an ill-defined solid mass, hypoattenuating to normal pancreatic parenchyma in both the pancreatic parenchymal and portal venous phases.*
+
+---
+
+116. Secondary signs that may accompany PDAC on CT include:
+
+- Hyperenhancement of surrounding parenchyma
+- Pancreatic duct communication with a cystic lesion
+- **Abrupt pancreatic duct cut-off, pancreatic or bile duct obstruction, upstream pancreatic atrophy, and contour abnormality**
+- Multifocal calcifications within the mass
+
+*Explanation: Tumors are often accompanied by secondary signs of abrupt pancreatic duct cut-off, pancreatic or bile duct obstruction, upstream pancreatic atrophy, and/or contour abnormality.*
+
+---
+
+117. Secondary signs of PDAC on CT may be present how long before patients become symptomatic?
+
+- Days before symptoms
+- Weeks before symptoms
+- **Many months before symptoms**
+- Only after symptoms develop
+
+*Explanation: These secondary signs are important clues to the presence of PDAC and may be present on CT many months before patients becoming symptomatic with disease.*
+
+---
+
+118. The "double-duct sign" in PDAC refers to:
+
+- Duplication of the main pancreatic duct
+- Communication between the pancreatic duct and bile duct
+- Dilatation of only the pancreatic duct
+- **Dilatation of both the pancreatic and bile ducts caused by a tumor in the pancreatic head**
+
+*Explanation: Tumors located in the pancreatic head may cause dilatation of both the pancreatic and bile ducts, which is called the "double-duct sign."*
+
+---
+
+119. Approximately what percentage of PDACs are isoattenuating to normal pancreas on dual-phase pancreatic protocol CT?
+
+- Less than 1%
+- 2%-3%
+- **Approximately 5%**
+- 10%-15%
+
+*Explanation: Approximately 5% of PDACs are isoattenuating to normal pancreas on both phases of dual-phase pancreatic protocol CT.*
+
+---
+
+120. In suspected PDAC without visible tumor on pancreatic protocol CT, further assessment should be considered with:
+
+- Repeat CT in 3 months
+- Transabdominal ultrasound
+- MRI only
+- **EUS, MRI, or PET/CT**
+
+*Explanation: In the case of suspected PDAC without visible tumor on pancreatic protocol CT, further assessment should be considered with endoscopic US (EUS), MRI, or positron emission tomography (PET)/CT.*
+
+---
+
+121. According to the PDAC radiology reporting template, tumor vascular contact classified as "abutment" refers to:
+
+- Greater than 180 degrees of contact
+- Less than 90 degrees of contact
+- **At least 180 degrees but not more than 180 degrees of tumor vascular contact**
+- Any detectable contact with the vessel
+
+*Explanation: The template standardizes terminology for tumor vascular involvement, with an at least 180-degree tumor vascular contact classified as abutment and a greater than 180-degree tumor vascular contact classified as encasement.*
+
+---
+
+122. Vessel deformity, narrowing, or occlusion are specific signs of which finding in PDAC?
+
+- Peritumoral fibrosis
+- Inflammatory reaction
+- Post-treatment changes
+- **Vascular invasion**
+
+*Explanation: Vessel deformity, narrowing, or occlusion are specific signs of vascular invasion.*
+
+---
+
+123. On MRI, PDAC generally appears as:
+
+- Hyperintense on precontrast T1 and hypointense on T2
+- Isointense on all sequences
+- Hyperintense on T2 with hypointense on precontrast T1
+- **Hypointense to normal pancreatic parenchyma on precontrast T1 imaging, remaining predominantly hypointense in the arterial/parenchymal phases**
+
+*Explanation: On MRI, PDAC generally appears hypointense to normal pancreatic parenchyma on precontrast T1 imaging and remains predominantly hypointense in the arterial/parenchymal phases.*
+
+---
+
+124. Why can the conspicuity of PDAC be affected on MRI?
+
+- Due to T1 shortening from hemorrhage within the tumor
+- Due to calcifications in the tumor
+- **Due to pancreatic parenchymal changes from upstream obstructive pancreatitis or chronic pancreatitis**
+- Due to post-biopsy changes
+
+*Explanation: The conspicuity of tumors may be affected by pancreatic parenchymal changes related to upstream obstructive pancreatitis, or chronic pancreatitis, which causes decreased T1 and increased T2 parenchymal signal changes.*
+
+---
+
+#### Pancreatic Neuroendocrine Neoplasms (PNETs)
+
+125. According to the 2017 WHO grading system, Grade 1 PNETs are defined by:
+
+- Less than 20 mitoses/10 HPF, Ki-67 less than 20%
+- Less than 5 mitoses/10 HPF, Ki-67 less than 5%
+- Less than 10 mitoses/10 HPF, Ki-67 less than 10%
+- **Less than 2 mitoses/10 HPF, Ki-67 less than 3%**
+
+*Explanation: Grade 1 (<2 mitoses/10 HPF, <3% Ki-67) PNETs are considered low-grade tumors.*
+
+---
+
+126. Grade 3 PNETs differ from poorly differentiated carcinomas (PNECs) in that Grade 3 PNETs are:
+
+- Identical in prognosis to PNECs
+- Only differentiated by Ki-67 index
+- **Well-differentiated tumors with higher mitotic rate (>20/10 HPF) or Ki-67 (>20%), with better prognosis than PNECs**
+- Defined by a Ki-67 index of 3%-20%
+
+*Explanation: Grade 3 PNETs are well-differentiated tumors but have a higher mitotic rate (>20/10 HPF) or Ki-67 index (>20%) and have a worse prognosis compared with low-grade PNETs, but they differ from PNECs which are poorly differentiated.*
+
+---
+
+127. Well-differentiated PNETs are usually solitary except in the setting of which familial syndromes?
+
+- BRCA1/2, Lynch syndrome, and FAP
+- NF-2, tuberous sclerosis, and BRCA1
+- **MEN1, von Hippel-Lindau disease, NF-1, and tuberous sclerosis**
+- Li-Fraumeni syndrome and BRCA2
+
+*Explanation: Well-differentiated PNETs are usually solitary, except in the setting of familial syndromes such as multiple endocrine neoplasia syndrome type 1 (MEN1), von Hippel-Lindau disease (VHL), neurofibromatosis type 1 (NF-1), and tuberous sclerosis (TSC).*
+
+---
+
+128. The most common functional PNET is:
+
+- Gastrinoma
+- Glucagonoma
+- VIPoma
+- **Insulinoma**
+
+*Explanation: PNETs are considered functional or nonfunctional, depending on whether hormones secreted by the tumor cause systemic symptoms. Functional PNET manifests early because of clinical symptoms related to pathologic hormone secretion, with the most common being insulinoma.*
+
+---
+
+129. Functioning PNETs tend to be:
+
+- Large heterogeneous masses with local invasion
+- Large tumors discovered late due to nonspecific symptoms
+- **Small homogeneous masses without local invasion or distant metastases**
+- Diffuse infiltrating tumors
+
+*Explanation: Functioning tumors tend to be small homogeneous masses without local invasion or distant metastases.*
+
+---
+
+130. CT is regarded as first-line imaging for PNETs. Which imaging protocol should be used?
+
+- Single-phase portal venous CT
+- Dual-phase CT (arterial and venous)
+- Non-contrast CT only
+- **Triphasic CT imaging protocol**
+
+*Explanation: CT is regarded as first-line imaging for PNET, and triphasic CT imaging protocol should be used; this not only aids in detection of the primary tumor but also helps to improve visualization of metastatic disease.*
+
+---
+
+131. On the non-contrast CT phase in PNETs, the tumor is typically:
+
+- Hyperdense compared to normal pancreas
+- Hypodense compared to normal pancreas
+- **Isodense to normal pancreas**
+- Calcified in the majority of cases
+
+*Explanation: The tumor is typical isodense to normal pancreas on noncontrast CT.*
+
+---
+
+132. Smaller, well-differentiated PNETs generally show which enhancement pattern on CT and MRI?
+
+- Hypoenhancement in all phases
+- Peripheral rim enhancement
+- Heterogeneous enhancement
+- **Homogeneous enhancement and hypervascularity compared to normal pancreas on arterial and pancreatic parenchymal phases**
+
+*Explanation: Smaller tumors generally show homogeneous enhancement on both CT and MRI and are hypervascular to normal pancreas on arterial and pancreatic parenchymal phases.*
+
+---
+
+133. On MRI, PNETs will generally demonstrate:
+
+- T1 hyperintensity and T2 hypointensity
+- T1 and T2 hyperintensity
+- **T1 hypointensity and moderate T2 hyperintensity on fat-suppressed T2 compared with normal pancreas**
+- Isointensity on all sequences
+
+*Explanation: On MRI, PNETs will generally demonstrate nonspecific signal hypointensity on precontrast T1 and moderate hyperintensity on fat-suppressed T2 compared with normal pancreas.*
+
+---
+
+134. Well-differentiated PNETs are usually avid on which type of functional imaging?
+
+- FDG-PET
+- Bone scintigraphy
+- Thyroid scintigraphy
+- **Somatostatin receptor (SSTR) imaging (e.g., 68Ga-DOTATATE PET)**
+
+*Explanation: Well-differentiated PNETs are usually avid on somatostatin receptor (SSTR) imaging (e.g., 68Ga-DOTATATE PET and 111In-octreotide), and these scans can be useful in demonstrating the extent of disease.*
+
+---
+
+135. What percentage of PNETs may appear as cystic neoplasms?
+
+- 1%-5%
+- 5%-10%
+- **10%-17%**
+- 20%-30%
+
+*Explanation: A PNET may also appear as a cystic neoplasm in 10% to 17% of cases, usually in nonfunctioning tumors.*
+
+---
+
+136. Cystic PNETs most commonly appear in which pancreatic location?
+
+- Pancreatic head
+- Pancreatic neck
+- Pancreatic uncinate
+- **Pancreatic body and tail**
+
+*Explanation: Cystic PNETs most commonly appear in the pancreatic body and tail.*
+
+---
+
+137. Patients with cystic PNETs are how many times more likely to have MEN1?
+
+- 1.5 times
+- 2 times
+- **3.5 times**
+- 5 times
+
+*Explanation: Patients with cystic PNET are 3.5 times more likely to have MEN1.*
+
+---
+
+138. Where do almost all insulinomas arise?
+
+- In the pancreatic head exclusively
+- In the pancreatic tail exclusively
+- In the pancreatic body exclusively
+- **In the pancreas with no site predilection**
+
+*Explanation: Almost all insulinomas arise in the pancreas, with no site predilection.*
+
+---
+
+139. The majority of glucagonomas originate in which part of the pancreas?
+
+- Pancreatic head
+- Pancreatic neck
+- Pancreatic uncinate
+- **Pancreatic body and tail**
+
+*Explanation: Most glucagonomas originate in the pancreatic body and tail and are often large tumors (5–6 cm) because of delayed presentation.*
+
+---
+
+140. VIPomas most frequently occur in which pancreatic location?
+
+- Pancreatic head
+- Pancreatic body
+- Pancreatic neck
+- **Pancreatic tail**
+
+*Explanation: Vasoactive intestinal peptide tumors (VIPomas) most frequently occur in the pancreatic tail, with a 5-cm average size at diagnosis.*
+
+---
+
+141. Most VIPomas at presentation have what clinical characteristic?
+
+- They are confined to the pancreas with no metastases
+- They are small (<2 cm) and easily resectable
+- **They are aggressive, with metastases present in 60% to 80% of cases**
+- They are associated with hypoglycemia
+
+*Explanation: Most VIPomas are aggressive, with metastases present in 60% to 80% of cases at presentation.*
+
+---
+
+142. Poorly differentiated carcinomas (PNECs) typically appear on CT as:
+
+- Small hypervascular homogeneous masses
+- Calcified masses with biliary obstruction
+- Well-defined encapsulated masses with cystic components
+- **Ill-defined, heterogeneous masses with rim enhancement**
+
+*Explanation: Poorly differentiated carcinomas (PNECs) occur most frequently in the pancreatic head and typically appear as ill-defined, heterogeneous masses with rim enhancement.*
+
+---
+
+143. PNECs demonstrate which functional imaging characteristics compared to PNETs?
+
+- More avid on SSTR imaging, less avid on FDG-PET
+- Equal avidity on both SSTR and FDG-PET
+- Not avid on either SSTR or FDG-PET
+- **More typically FDG avid and usually demonstrate little or no uptake on SSTR imaging**
+
+*Explanation: PNECs are more typically FDG avid and usually demonstrate little or no uptake on SSTR imaging.*
+
+---
+
+#### Pancreatic Lymphoma
+
+144. Pancreatic lymphoma most commonly occurs in which form?
+
+- Primary pancreatic lymphoma
+- **Secondary (systemic) lymphoma involving the pancreas**
+- Only diffuse involvement
+- Only solitary nodular disease
+
+*Explanation: Lymphoma can occur in the pancreas in both primary and, more commonly, secondary forms.*
+
+---
+
+145. On CT, pancreatic lymphoma characteristically appears as:
+
+- A calcified mass with biliary obstruction
+- A cystic mass with rim enhancement
+- **A hypodense region without cystic or necrotic areas**
+- A hyperenhancing mass on arterial phase
+
+*Explanation: On CT, the affected region in pancreatic lymphoma will appear hypodense to normal pancreas, without cystic or necrotic areas.*
+
+---
+
+146. On postcontrast imaging, pancreatic lymphoma demonstrates:
+
+- Arterial phase hyperenhancement
+- Heterogeneous enhancement on all phases
+- Progressive delayed enhancement
+- **Homogeneous hypoenhancement to pancreas in both arterial and delayed phases**
+
+*Explanation: On postcontrast imaging, lymphomatous regions demonstrate homogenous hypoenhancement to pancreas in both arterial and delayed phase.*
+
+---
+
+147. How does pancreatic duct obstruction differ between pancreatic lymphoma and PDAC?
+
+- Duct obstruction is more common in lymphoma than PDAC
+- Duct obstruction is equally common in both
+- **Duct obstruction in lymphoma is generally due to ductal displacement/compression rather than invasion (as in PDAC)**
+- Duct obstruction does not occur in lymphoma
+
+*Explanation: Pancreatic duct obstruction can occur in lymphoma, but this is generally because of ductal displacement or compression rather than invasion. This is in contrast to PDAC where duct obstruction is more common and occurs because of tumoral invasion.*
+
+---
+
+148. Lymph node involvement below the level of the renal veins can be seen in which condition?
+
+- PDAC
+- Autoimmune pancreatitis
+- Groove pancreatitis
+- **Pancreatic lymphoma**
+
+*Explanation: Lymph node involvement below the level of the renal veins can be seen with lymphoma, but is rare in PDAC cases.*
+
+---
+
+149. Why is challenging with corticosteroids NOT recommended to differentiate pancreatic lymphoma from autoimmune pancreatitis?
+
+- Because only AIP responds to corticosteroids
+- Because corticosteroids are contraindicated in lymphoma
+- Because only lymphoma responds to corticosteroids
+- **Because enlargement in both pancreatic lymphoma and autoimmune pancreatitis can decrease with treatment**
+
+*Explanation: Challenging with corticosteroid treatment is not recommended because enlargement in both pancreatic lymphoma and autoimmune pancreatitis can decrease with treatment.*
+
+---
+
+#### Acinar Cell Carcinoma
+
+150. Acinar cell carcinoma (ACC) generally appears as:
+
+- A small well-defined mass in the pancreatic head in young patients
+- A diffuse infiltrating tumor without a discrete mass
+- **A large, oval pancreatic mass without site predilection, in older men**
+- A cystic mass with enhancing mural nodules
+
+*Explanation: Acinar cell carcinoma (ACC) generally appears as a large, oval pancreatic mass, without site predilection, in older men.*
+
+---
+
+151. The tumors in ACC are typically:
+
+- Ill-defined with local infiltration
+- Associated with marked pancreatic duct dilatation
+- **Well marginated, encapsulated, and partially or completely exophytic**
+- Multiple and bilateral
+
+*Explanation: The tumors are typically well marginated, encapsulated, and partially or completely exophytic.*
+
+---
+
+152. Intratumoral necrotic regions in ACC are common, particularly in larger tumors, and may be because of:
+
+- Tumoral invasion of vessels
+- Secondary infection
+- **Local necrosis secondary to the release of pancreatic enzymes and impairment of blood supply**
+- Vascular thrombosis from coagulopathy
+
+*Explanation: Intratumoral necrotic regions are common, particularly in larger tumors, and may be because of local necrosis secondary to the release of pancreatic enzymes and impairment of blood supply.*
+
+---
+
+153. ACC rarely shows biliary or pancreatic duct dilatation because:
+
+- The tumor is usually too small to cause obstruction
+- The tumor is located in the pancreatic tail
+- **ACC originates in acinar cells rather than the ductal epithelium**
+- The tumor is always exophytic
+
+*Explanation: ACC rarely shows biliary or pancreatic duct dilatation, which is thought to be because ACC originates in acinar cells of the pancreas rather than the ductal epithelium.*
+
+---
+
+154. Features that help differentiate ACC from PDAC include:
+
+- Presence of biliary obstruction and ductal invasion
+- Small size and ill-defined margins
+- Infiltrative growth pattern
+- **Necrotic regions, well-defined margins, exophytic mass, large size, enhancing capsule, and lack of biliary or pancreatic duct obstruction**
+
+*Explanation: Features helpful in differentiating ACC from PDAC include presence of necrotic regions, well-defined margins, exophytic mass, large size, presence of enhancing capsule, and lack of biliary or pancreatic duct obstruction.*
+
+---
+
+155. How does solid pseudopapillary tumor (SPN) differ from ACC clinically?
+
+- SPN occurs predominantly in older men
+- SPN always has calcifications
+- SPN communicates with the main pancreatic duct
+- **SPN almost exclusively occurs in young females and more commonly demonstrates intratumoral hemorrhage**
+
+*Explanation: Solid pseudopapillary tumor almost exclusively occurs in young females and more commonly demonstrates intratumoral hemorrhage, which distinguishes it from ACC.*
+
+---
+
+#### Solid Pseudopapillary Neoplasm (SPN)
+
+156. SPN are typically described as:
+
+- Small completely cystic lesions
+- Diffusely infiltrating solid tumors
+- **Large solid tumors with cystic areas related to hemorrhage and necrosis (small tumors tend to be completely solid)**
+- Multiple small calcified masses
+
+*Explanation: Solid pseudopapillary neoplasms (SPNs) are typical large solid tumors with cystic areas related to hemorrhage and necrosis; however, small tumors tend to be completely solid.*
+
+---
+
+157. On MRI, a common feature of SPN that distinguishes it from other pancreatic tumors is:
+
+- T2 hyperintensity throughout the lesion
+- Arterial phase hyperenhancement
+- Restricted diffusion on DWI only
+- **Internal hyperintensity on precontrast T1 imaging related to hemorrhagic necrosis**
+
+*Explanation: On MRI, tumors frequently demonstrate internal hyperintensity on precontrast T1 imaging related to hemorrhagic necrosis.*
+
+---
+
+158. A common tumor feature of SPN that is rare in PDAC is:
+
+- Ductal obstruction
+- Vascular invasion
+- **Amorphous or scattered calcification**
+- Biliary obstruction
+
+*Explanation: A common tumor feature is amorphous or scattered calcification, which is rare in PDAC.*
+
+---
+
+159. On multiphase post-contrast imaging, SPN will typically show:
+
+- Homogeneous enhancement throughout all phases
+- Hypoenhancement in all phases without fill-in
+- Central early enhancement with peripheral delayed fill-in
+- **Early peripheral heterogeneous enhancement of solid portions with progressive fill-in on the delayed phase**
+
+*Explanation: On multiphase postcontrast imaging, the tumor will typically show early peripheral heterogeneous enhancement of the solid portions, with progressive fill-in on the delayed phase.*
+
+---
+
+160. The fibrous tumor capsule in SPN on MRI appears as:
+
+- T1/T2 hyperintense with late enhancement
+- T1 hypointense with no enhancement
+- T2 hyperintense with arterial phase enhancement
+- **T1/T2 hypointense rim with early and more hyperintense enhancement compared with the tumor**
+
+*Explanation: The fibrous tumor capsule may be evident as a T1/T2-hypointense rim with some discontinuous regions, and commonly demonstrates early and more hyperintense enhancement compared with the tumor.*
+
+---
+
+#### Pancreatic Metastases
+
+161. In a Japanese autopsy series, what percentage of patients with malignant tumors had pancreatic metastases?
+
+- 5%
+- 10%
+- **15%**
+- 25%
+
+*Explanation: In a Japanese autopsy series involving patients with malignant tumors, 15% had pancreatic metastases (excluding primary pancreatic cancer metastases).*
+
+---
+
+162. The most common primary tumors metastasizing to the pancreas include:
+
+- Melanoma, thyroid carcinoma, and ovarian carcinoma
+- Prostate, colorectal, and bladder carcinoma
+- **Kidney, gastrointestinal tract, lung, lymphoma, and breast**
+- Hepatocellular carcinoma, cervical, and uterine carcinoma
+
+*Explanation: The most common tumors metastasizing to the pancreas are commonly from the kidney, gastrointestinal tract, lung, lymphoma, and breast.*
+
+---
+
+163. Pancreatic metastases from renal cell carcinoma (RCC) are distinctive because:
+
+- They always occur simultaneously with the primary diagnosis
+- They are always multiple and diffuse
+- They are always hypovascular
+- **They are commonly isolated or oligometastatic and may occur several years after the initial RCC diagnosis**
+
+*Explanation: Pancreatic metastases from renal cell carcinoma (RCC) are commonly isolated or oligometastatic and may occur several years after the initial RCC diagnosis.*
+
+---
+
+164. On CT, hypervascular pancreatic metastases show:
+
+- Uniform hypodensity in all phases
+- Enhancement only on delayed phase
+- **Avid enhancement in the arterial or pancreatic parenchymal phase, with wash-out on portal and delayed phase imaging**
+- Progressive enhancement from arterial to delayed phase
+
+*Explanation: Hypervascular metastases show avid enhancement in the arterial or pancreatic parenchymal phase, with wash-out on portal and delayed phase imaging.*
+
+---
+
+165. Why may hypervascular pancreatic metastases not be appreciated on imaging?
+
+- They are too small to detect
+- They enhance only on delayed phase
+- **Unless arterial phase imaging is performed as part of a multiphase pancreatic protocol**
+- Because they are always isodense on portal venous phase
+
+*Explanation: Because of the wash-out feature, such metastases may not be appreciated unless arterial phase imaging is performed as part of a multiphase pancreatic protocol.*
+
+---
+
+166. Differentiating solitary RCC metastases from PNETs is challenging because:
+
+- Both are hypovascular lesions
+- Both appear only as cystic lesions
+- **Both could have an identical appearance on multiphase CT, and SSTR imaging is not pathognomonic of PNET (RCC metastases may show somatostatin expression)**
+- Both occur exclusively in the pancreatic tail
+
+*Explanation: Differentiating solitary RCC metastases from PNET is challenging because both could have an identical appearance on multiphase CT. Additionally, uptake on SSTR imaging is not pathognomonic of PNET because a number of case studies show somatostatin expression in RCC metastases.*
+
+---
+
+167. The "duct-penetrating sign" on MRI in the context of pancreatic metastases indicates:
+
+- The tumor has invaded the pancreatic duct
+- The tumor is a PDAC
+- **The duct is compressed but patent rather than invaded (in contrast to PDAC)**
+- The presence of a pancreatic fistula
+
+*Explanation: Metastases may compress, rather than invade, the duct (as opposed to PDAC), and this is seen as a "duct-penetrating sign" on MRI.*
+
+---
+
+168. Which imaging feature favors a pancreatic metastasis over PDAC?
+
+- Presence of upstream pancreatic duct dilatation
+- Presence of biliary obstruction
+- Infiltration of retropancreatic fat
+- **Lack of vascular invasion**
+
+*Explanation: An additional differentiating imaging feature favoring metastases is a lack of vascular invasion.*
+
+---
+
+#### Intrapancreatic Accessory Spleen (IPAS)
+
+169. Intrapancreatic accessory spleen (IPAS) is reported to occur in what percentage of autopsy series?
+
+- 1%-3%
+- 4%-6%
+- **7%-10%**
+- 12%-15%
+
+*Explanation: IPAS is ectopic spleen tissue within the pancreas, which appears as a mass-like entity, and is reported to occur in 7% to 10% at an autopsy series.*
+
+---
+
+170. IPAS is generally how large and where is it commonly found?
+
+- 3-5 cm, commonly in the pancreatic head
+- 1-2 cm, commonly in the pancreatic body
+- **1-3 cm, commonly in the pancreatic tail**
+- 4-6 cm, commonly in the pancreatic body
+
+*Explanation: IPAS is generally small (1–3 cm) and commonly found in the pancreatic tail.*
+
+---
+
+171. IPAS can occur by which two mechanisms?
+
+- Hereditary splenomegaly and splenic infarction
+- Systemic disease and post-traumatic splenosis only
+- **Congenital presence of accessory spleen OR splenosis after splenectomy or splenic trauma**
+- Metaplastic transformation of pancreatic tissue or embryological error
+
+*Explanation: This may occur by two mechanisms: via congenital presence of accessory spleen or via splenosis after splenectomy or splenic trauma.*
+
+---
+
+172. On CT and MRI, IPAS should demonstrate what enhancement pattern?
+
+- Hypoenhancement in all phases
+- Peripheral rim enhancement
+- Arterial phase hyperenhancement only
+- **Enhancement similar, if not identical, to normal spleen in all postcontrast phases**
+
+*Explanation: On both CT and MRI, the enhancement pattern of IPAS will be similar, if not identical, to normal spleen.*
+
+---
+
+173. On precontrast MRI, the T1 and T2 signal of IPAS should be:
+
+- T1 hyperintense and T2 hypointense to pancreatic parenchyma
+- T1 isointense and T2 isointense to pancreatic parenchyma
+- T1 hyperintense and T2 isointense to pancreatic parenchyma
+- **T1 hypointense and T2 hyperintense to pancreatic parenchyma (identical to normal spleen)**
+
+*Explanation: IPAS should demonstrate identical precontrast T1 and T2 signal to normal spleen on MRI, which is hypointense and hyperintense to pancreas parenchyma, respectively.*
+
+---
+
+174. When conventional CT or MRI are not definitive for IPAS, which confirmatory tests can be used?
+
+- FDG-PET/CT or 68Ga-DOTATATE PET
+- Serum CA 19-9 or CEA levels
+- Core needle biopsy or EUS-FNA
+- **99mTc sulphur colloid or 99mTc heat-damaged red blood cell scintigraphy**
+
+*Explanation: If conventional CT or MRI are not definitive in the diagnosis of IPAS, further confirmation is possible with either technetium-99m (99mTc) sulphur colloid or 99mTc heat-damaged red blood cell scintigraphy.*
+
+---
+
+175. A small increase in the size of IPAS over time can occur because:
+
+- It is a sign of malignant transformation
+- It indicates secondary infection
+- **Splenic size can be variable over time, affected by physiologic factors**
+- It indicates portal hypertension
+
+*Explanation: A small increase in the size of IPAS can occur because splenic size can be variable over time, affected by physiologic factors.*
+
+---
+
+### MIXED TOPICS / COMPREHENSIVE
+
+176. Which cystic pancreatic lesion is most challenging to differentiate from IPMN in the absence of classic features?
+
+- Mucinous cystadenoma
+- Pancreatic pseudocyst
+- **Serous cystadenoma (SCA)**
+- Lymphangioma
+
+*Explanation: In the absence of classic features suggesting SCA (such as multicystic morphology with a central nidus), differentiation from mucinous entities (particularly IPMN) may be challenging, and many cases are still diagnosed only upon resection.*
+
+---
+
+177. Which of the following correctly describes the MRI signal characteristics of a lymphangioma of the pancreas?
+
+- T2 hypointense with enhancing septa
+- T1 hyperintense and T2 hypointense
+- **T2 hyperintense fluid signal with T2 hypointense fibrous septa**
+- Isointense to pancreatic parenchyma on all sequences
+
+*Explanation: At MRI, lymphangiomas have the typical T2 hyperintense signal of fluid with T2 hypointense fibrous septa.*
+
+---
+
+178. Which of the following is a key imaging distinction between AIP and pancreatic lymphoma?
+
+- AIP is more commonly multifocal; lymphoma is always solitary
+- AIP shows vascular invasion; lymphoma does not
+- **Lymphoma is more often bulky in appearance**
+- Lymphoma is more commonly associated with ductal invasion
+
+*Explanation: Differentiating pancreatic lymphoma and AIP can be difficult because both have overlapping imaging appearances; however, lymphoma is more often bulky in appearance.*
+
+---
+
+179. Calcification in nonfunctional PNETs is more commonly associated with:
+
+- Benign behavior and small size
+- Favorable prognosis
+- Isolated pancreatic disease without metastases
+- **Lymph node and liver metastases compared with noncalcified tumors**
+
+*Explanation: Calcification can occur in larger lesions and is more commonly associated with lymph node and liver metastases, compared with noncalcified tumors.*
+
+---
+
+180. The ACR 2017 white paper on incidental pancreatic cysts proposes an algorithmic approach based on which criteria?
+
+- Tumor markers (CA 19-9, CEA) and cyst fluid analysis
+- Patient age, sex, and family history only
+- EUS findings and cyst fluid cytology exclusively
+- **Patient age, lesion size, and presence of discernible communication with the main duct**
+
+*Explanation: The 2017 ACR white paper proposes an algorithmic approach to all incidentally detected cystic lesions lacking solid elements in asymptomatic patients, stratifying the approach with five separate algorithms based on patient age, lesion size, and presence of discernible communication with the main duct.*

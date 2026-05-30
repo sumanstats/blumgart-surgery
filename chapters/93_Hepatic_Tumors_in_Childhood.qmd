@@ -1,0 +1,1402 @@
+# 93 Hepatic Tumors in Childhood
+
+1. **Which is the most common primary hepatic tumor of childhood?**  
+    A. Hepatocellular carcinoma  
+    B. Mesenchymal hamartoma  
+    C. Rhabdomyosarcoma  
+    **D. Hepatoblastoma**  
+    *Correct: D. Hepatoblastomas are the most common primary hepatic tumors of childhood, constituting 43% to 64% of all hepatic neoplasms.*
+
+2. **What percentage of primary hepatic tumors in children younger than 5 years is accounted for by hepatoblastoma?**  
+    A. 50-60%  
+    **B. 91-96%**  
+    C. 75-80%  
+    D. 30-40%  
+    *Correct: B. Hepatoblastoma accounts for 91% to 96% of primary hepatic tumors in children younger than 5 years.*
+
+3. **Which of the following is the most common benign hepatic tumor in childhood?**  
+    A. Focal nodular hyperplasia  
+    B. Hepatocellular adenoma  
+    C. Mesenchymal hamartoma  
+    **D. Hemangioma**  
+    *Correct: D. Vascular tumors (hemangiomas) account for 56.8% of benign hepatic tumors in childhood.*
+
+4. **What percentage of benign hepatic tumors in childhood is represented by mesenchymal hamartoma?**  
+    A. 56.8%  
+    **B. 28.9%**  
+    C. 7.5%  
+    D. 6.7%  
+    *Correct: B. Mesenchymal hamartoma accounts for 28.9% of benign hepatic tumors in childhood.*
+
+5. **Hepatocellular carcinoma accounts for what percentage of pediatric liver tumors?**  
+    A. Less than 5%  
+    B. 10-15%  
+    **C. 22-23%**  
+    D. 35-40%  
+    *Correct: C. Hepatocellular carcinoma accounts for 22% to 23% of pediatric liver tumors.*
+
+6. **Which of the following is true about hepatocellular carcinoma in children?**  
+    A. It is the most common liver tumor in infants  
+    B. It accounts for over 50% of liver tumors in children under 5 years  
+    **C. It is rare in infancy**  
+    D. It comprises over 10% of hepatic malignancies in adult age groups  
+    *Correct: C. Hepatocellular carcinoma is rare in infancy.*
+
+7. **What is the approximate incidence of hepatocellular carcinoma in children in the United States?**  
+    A. 0.1 cases per 1 million children  
+    **B. 1.2 cases per 1 million children**  
+    C. 5.0 cases per 1 million children  
+    D. 10.5 cases per 1 million children  
+    *Correct: B. Approximately 1.2 cases per 1 million children exist in the United States.*
+
+8. **Which of the following tumor types constitutes 14% of malignant liver tumors occurring in children 6 to 10 years of age?**  
+    A. Hepatocellular carcinoma  
+    B. Rhabdomyosarcoma  
+    **C. Embryonal sarcoma**  
+    D. Fibrolamellar hepatocellular carcinoma  
+    *Correct: C. Embryonal sarcoma constitutes 14% of malignant liver tumors occurring in children 6 to 10 years of age.*
+
+9. **What is the typical age range for diagnosis of embryonal sarcoma?**  
+    A. Infancy  
+    B. 1-5 years  
+    **C. 5-16 years**  
+    D. Adolescence and adulthood  
+    *Correct: C. The age at diagnosis for embryonal sarcoma ranges from 5 to 16 years.*
+
+10. **Which staging system is used for primary malignant liver tumors of childhood?**  
+    A. TNM staging  
+    **B. PRETEXT staging**  
+    C. Child-Pugh staging  
+    D. BCLC staging  
+    *Correct: B. PRETEXT (PRE-Treatment EXTent) is the staging system used for primary malignant liver tumors of childhood.*
+
+11. **Which of the following is NOT a component of the diagnostic evaluation for suspected liver tumors in children?**  
+    A. Complete blood count  
+    B. Liver function tests  
+    C. Coagulation studies  
+    **D. Bone scan**  
+    *Correct: D. The diagnostic evaluation should include a complete blood count, liver function tests, coagulation studies, and tumor markers (serum AFP and β-hCG), but bone scan is not specifically mentioned as a standard component.*
+
+12. **Which tumor marker is essential in the evaluation of pediatric liver tumors?**  
+    A. CA-19-9  
+    B. CEA  
+    **C. Alpha-fetoprotein (AFP)**  
+    D. Carcinoembryonic antigen  
+    *Correct: C. Serum AFP is an essential tumor marker in the evaluation of pediatric liver tumors.*
+
+13. **What imaging modality provides the greatest amount of information concerning liver lesions and surrounding veins and bile ducts?**  
+    A. Ultrasound  
+    B. CT scan  
+    **C. MRI**  
+    D. PET scan  
+    *Correct: C. At present, MRI provides the greatest amount of information concerning the lesion and surrounding veins and bile ducts.*
+
+14. **Which of the following is true regarding fibrolamellar hepatocellular carcinoma (FLH)?**  
+    A. It is more common in infants  
+    B. It has a worse prognosis than standard HCC  
+    **C. It tends to grow as a single mass compared to the early multifocality of standard HCC**  
+    D. It accounts for the majority of HCC cases in children  
+    *Correct: C. The tendency of FLH to grow slowly, as a single mass, compared with the early multifocality of standard HCC.*
+
+15. **What percentage of patients with fibrolamellar hepatocellular carcinoma may present with tumor rupture and hemoperitoneum?**  
+    A. 1%  
+    B. 5%  
+    **C. 10%**  
+    D. 25%  
+    *Correct: C. Despite its typically slow growth, 10% of patients with FLH may present with tumor rupture and hemoperitoneum.*
+
+16. **Which of the following liver tumors is most commonly associated with Beckwith-Wiedemann syndrome?**  
+    **A. Hepatoblastoma**  
+    B. Hepatocellular carcinoma  
+    C. Mesenchymal hamartoma  
+    D. Hemangioma  
+    *Correct: A. Hepatoblastoma is associated with Beckwith-Wiedemann syndrome.*
+
+17. **Which of the following is a risk factor for hepatocellular adenoma in children?**  
+    A. Hepatitis B infection  
+    B. Cirrhosis  
+    **C. Type I glycogen storage disease**  
+    D. Alpha-1 antitrypsin deficiency  
+    *Correct: C. Hepatic adenomas are expected with type I glycogen storage disease after the first decade of life and may be multiple.*
+
+18. **What is the recommended management for hepatic adenomas in children?**  
+    A. Observation only  
+    B. Chemotherapy  
+    **C. Resection**  
+    D. Radiation therapy  
+    *Correct: C. It is best to remove adenomas because of the difficulty of differentiating them from low-grade HCCs, uncertainty about future malignant degeneration, and the possibility of rupture and hemorrhage.*
+
+19. **Which of the following is the most common site for colon cancer metastasis in children?**  
+    A. Liver  
+    **B. Peritoneal surfaces**  
+    C. Lungs  
+    D. Bones  
+    *Correct: B. The pattern of spread for colon cancer in children is over peritoneal surfaces, rather than through the portal system, and hepatic metastases usually occur late despite massive peritoneal disease.*
+
+20. **Which of the following is true about rhabdoid tumors of the liver?**  
+    A. They are the most common liver tumors in children  
+    B. They have an excellent prognosis with standard chemotherapy  
+    **C. They are rare, aggressive, and poorly responsive to standard cytotoxic chemotherapy**  
+    D. They are always primary to the liver  
+    *Correct: C. Rhabdoid tumors of the liver are rare, aggressive, and poorly responsive to standard cytotoxic chemotherapy.*
+
+21. **What is the relative frequency of liver metastases in rhabdomyosarcoma?**  
+    A. Most common site  
+    B. Second most common site  
+    C. Third most common site  
+    **D. Follows regional lung, lymph nodes, and bone as a site of metastasis**  
+    *Correct: D. The liver follows regional lung, lymph nodes, and bone as a site of rhabdomyosarcoma metastases.*
+
+22. **Which of the following is true about malignant germ cell tumors of the liver?**  
+    A. They are the most common primary liver tumors in children  
+    B. They are highly resistant to chemotherapy  
+    **C. They may respond well to neoadjuvant chemotherapy followed by resection**  
+    D. They typically require liver transplantation as first-line treatment  
+    *Correct: C. In childhood, these may respond well to neoadjuvant chemotherapy followed by resection.*
+
+23. **Which chemotherapy regimen is typically used for malignant germ cell tumors of the liver in children?**  
+    A. ABVD  
+    B. CHOP  
+    **C. Cisplatin, ifosfamide, and bleomycin**  
+    D. Vincristine, actinomycin D, and cyclophosphamide  
+    *Correct: C. Usually, a regimen containing cisplatin, ifosfamide, and bleomycin is used.*
+
+24. **Which of the following is a characteristic feature of mesenchymal hamartoma of the liver?**  
+    A. It is most commonly diagnosed in adults  
+    **B. Two-thirds are diagnosed in infants younger than 1 year**  
+    C. It is typically associated with markedly elevated AFP levels  
+    D. It is highly malignant and requires aggressive chemotherapy  
+    *Correct: B. Two-thirds of these tumors are diagnosed in infants younger than 1 year, although presentation in the teenage years has been described.*
+
+25. **What is the mean age at diagnosis for mesenchymal hamartoma of the liver?**  
+    A. 6 months  
+    **B. 16 months**  
+    C. 3 years  
+    D. 7 years  
+    *Correct: B. In one study of 18 such tumors, the mean age at diagnosis was 16 months.*
+
+26. **Which of the following is true about focal nodular hyperplasia (FNH) in children?**  
+    A. It is the most common benign liver tumor in children  
+    B. It is typically associated with oral contraceptive use in children  
+    **C. It has been described in children treated for other solid malignancies**  
+    D. It frequently undergoes malignant transformation  
+    *Correct: C. There has been some attention toward FNH developing in children treated for other solid malignancies. These authors postulated that a vascular injury secondary to chemotherapy or radiation was the causal factor.*
+
+27. **How is focal nodular hyperplasia (FNH) distinguished from hepatic adenoma histologically?**  
+    **A. Presence of fibrous septa that contain bile ducts and an inflammatory infiltrate**  
+    B. Absence of hepatocytes  
+    C. Presence of malignant cells  
+    D. Absence of Kupffer cells  
+    *Correct: A. FNH is distinguished from adenoma by the presence of fibrous septa that contain bile ducts and an inflammatory infiltrate.*
+
+28. **What percentage of unresected hepatic adenomas may develop hepatocellular carcinoma?**  
+    A. 1-2%  
+    B. 5-10%  
+    **C. Approximately 13% (5 of 39)**  
+    D. 25-30%  
+    *Correct: C. In one report, 5 of 39 unresected hepatic adenomas developed HCC.*
+
+29. **Which of the following is a treatment option for unresectable hepatic adenomas?**  
+    A. External beam radiation  
+    **B. Embolization**  
+    C. Interferon therapy  
+    D. Targeted molecular therapy  
+    *Correct: B. Embolization of unresectable lesions is mentioned as a treatment option.*
+
+30. **Which of the following is true about hemangioblastoma of the liver?**  
+    A. It is the most common benign liver tumor in children  
+    **B. It is usually associated with von Hippel-Lindau disease**  
+    C. It frequently metastasizes to distant sites  
+    D. It is typically treated with chemotherapy  
+    *Correct: B. Hemangioblastoma of the liver usually is associated with von Hippel-Lindau disease.*
+
+31. **Which of the following is true about undifferentiated ("embryonal") sarcoma of the liver?**  
+    A. It is the most common liver tumor in infants  
+    **B. Fewer than 200 cases have been reported in the literature**  
+    C. It typically occurs in children younger than 2 years  
+    D. It has an excellent prognosis with surgery alone  
+    *Correct: B. Fewer than 200 cases of embryonal sarcoma have been reported in the literature.*
+
+32. **What is the most common presentation of biliary rhabdomyosarcoma?**  
+    A. Jaundice  
+    B. Abdominal pain  
+    C. Palpable abdominal mass  
+    **D. Intermittent jaundice**  
+    *Correct: D. The typical presentation of biliary rhabdomyosarcoma includes intermittent jaundice.*
+
+33. **At what average age is biliary rhabdomyosarcoma typically diagnosed?**  
+    A. 6 months  
+    B. 1 year  
+    **C. 3 years**  
+    D. 7 years  
+    *Correct: C. Biliary rhabdomyosarcoma is usually diagnosed from 1 to 9 years of age, with an average age of 3 years.*
+
+34. **Which gender is more frequently affected by biliary rhabdomyosarcoma?**  
+    **A. Males**  
+    B. Females  
+    C. Equal incidence in both genders  
+    D. Gender predilection is unknown  
+    *Correct: A. Biliary rhabdomyosarcoma is seen more frequently in males.*
+
+35. **What is the long-term survival rate for biliary rhabdomyosarcoma?**  
+    A. 10-20%  
+    B. 30-40%  
+    **C. 60-70%**  
+    D. 80-90%  
+    *Correct: C. Long-term survival is considered to be 60% to 70% and is not dependent on resectability.*
+
+36. **Which of the following is true about angiosarcoma of the liver in children?**  
+    A. It is the most common primary liver tumor in children  
+    B. It has an excellent response to chemotherapy  
+    **C. Evidence of malignant transformation from, or concomitant development with, infantile hemangioma or hemangioendothelioma is found in most cases**  
+    D. It is typically diagnosed in infants younger than 6 months  
+    *Correct: C. A multi-institutional case series found evidence of either malignant transformation from, or concomitant development with, infantile hemangioma or hemangioendothelioma in 7 of 8 patients.*
+
+37. **What is the outcome for pediatric patients with hepatic angiosarcoma who undergo orthotopic liver transplantation as part of multimodal therapy?**  
+    A. Poor, with no long-term survivors reported  
+    **B. Better than those not receiving transplantation, with some disease-free survivors**  
+    C. Identical to patients receiving chemotherapy alone  
+    D. Worse than patients receiving resection alone  
+    *Correct: B. Two out of eight patients who underwent orthotopic liver transplantation were the only two patients alive at the time of publication, disease-free at 3.5 years and 5.5 years, respectively.*
+
+38. **Which of the following is the most common malignant liver tumor in children under 5 years of age?**  
+    **A. Hepatoblastoma**  
+    B. Hepatocellular carcinoma  
+    C. Rhabdomyosarcoma  
+    D. Embryonal sarcoma  
+    *Correct: A. Hepatoblastoma accounts for 91% to 96% of primary hepatic tumors in children younger than 5 years.*
+
+39. **What is the approximate percentage of all hepatic neoplasms in children that hepatoblastoma constitutes?**  
+    A. 25-35%  
+    **B. 43-64%**  
+    C. 65-75%  
+    D. 80-90%  
+    *Correct: B. Hepatoblastomas are the most common primary hepatic tumors of childhood, constituting 43% to 64% of all hepatic neoplasms in one large series.*
+
+40. **Which of the following is true about the epidemiology of hepatocellular carcinoma in children?**  
+    A. It is the most common liver tumor in infants  
+    B. It accounts for over 50% of liver tumors in children under 5 years  
+    **C. The Liver Cancer Study Group of Japan reported no cases in children age 4 years or younger**  
+    D. It comprises over 10% of hepatic malignancies in adult age groups  
+    *Correct: C. The Lung Cancer Study Group of Japan reported no cases in children age 4 years or younger in a series of 2286 patients with histologically reviewed tumors.*
+
+41. **Which of the following is a criterion for liver transplantation in children with hepatocellular carcinoma based on extrapolation of Milan criteria?**  
+    A. Single tumor no larger than 2 cm in diameter  
+    **B. Single tumor no larger than 5 cm in diameter**  
+    C. Multiple tumors with the largest measuring less than 3 cm  
+    D. Presence of microscopic portal vein invasion is acceptable  
+    *Correct: B. The Milan criteria for children stipulate a single tumor no larger than 5 cm in diameter or as many as three tumors each 3 cm or less in diameter.*
+
+42. **Which of the following is NOT part of the Milan criteria for liver transplantation in children with hepatocellular carcinoma?**  
+    A. Single tumor no larger than 5 cm in diameter  
+    B. Up to three tumors each 3 cm or less in diameter  
+    **C. Presence of microscopic portal vein invasion is acceptable**  
+    D. Absence of extrahepatic disease  
+    *Correct: C. The Milan criteria stipulate an absence of macroscopic portal vein invasions, and absence of extrahepatic disease.*
+
+43. **Which of the following is true about the prognosis of fibrolamellar hepatocellular carcinoma compared to standard HCC?**  
+    A. It has a worse prognosis than standard HCC  
+    **B. When stage is controlled for, the survival is similar between standard HCC and its fibrolamellar variant**  
+    C. It has a much better prognosis regardless of stage  
+    D. It is always fatal despite treatment  
+    *Correct: B. Studies indicate that when stage is controlled for, the survival is similar between standard HCC and its fibrolamellar variant.*
+
+44. **Which of the following liver tumors is associated with type I glycogen storage disease?**  
+    A. Hepatoblastoma  
+    **B. Hepatocellular adenoma**  
+    C. Mesenchymal hamartoma  
+    D. Hemangioma  
+    *Correct: B. Hepatic adenomas are expected with type I glycogen storage disease after the first decade of life and may be multiple.*
+
+45. **Which of the following is a potential complication of large hepatic hemangiomas in children?**  
+    A. Hypoglycemia  
+    **B. Congestive heart failure**  
+    C. Portal hypertension  
+    D. Hepatic encephalopathy  
+    *Correct: B. Venous malformations, cavernous hemangiomata, and arteriovenous malformations may be associated with significant shunting that results in congestive heart failure.*
+
+46. **What is the gender distribution of hepatic hemangiomas in children?**  
+    A. Equal incidence in both genders  
+    **B. More common in girls by 2:1**  
+    C. More common in boys by 2:1  
+    D. Predominantly affects males  
+    *Correct: B. Hepatic hemangiomata are more common in girls by 2:1.*
+
+47. **Which of the following is true about the incidence of vascular lesions as symptomatic hepatic tumors in childhood?**  
+    A. They represent 5-10% of symptomatic hepatic tumors  
+    **B. They represent 13-18% of symptomatic hepatic tumors**  
+    C. They represent 25-30% of symptomatic hepatic tumors  
+    D. They represent over 50% of symptomatic hepatic tumors  
+    *Correct: B. Vascular lesions taken together represent 13% to 18% of symptomatic hepatic tumors in childhood.*
+
+48. **Which imaging modality is recommended to determine the patency of portal and hepatic veins in the evaluation of liver tumors?**  
+    A. Standard X-ray  
+    B. CT scan without contrast  
+    **C. Doppler US**  
+    D. Bone scan  
+    *Correct: C. Doppler US is done to determine whether a mass is cystic or solid, determine the patency of the portal and hepatic veins and vena cava, and identify satellite lesions.*
+
+49. **Which of the following is true about the role of thoracic CT in the evaluation of suspected malignant liver tumors in children?**  
+    A. It is primarily used to evaluate liver anatomy  
+    B. It is used to assess for portal vein thrombosis  
+    **C. It is done to evaluate for pulmonary metastases**  
+    D. It is used to measure tumor markers  
+    *Correct: C. If a malignant tumor is suspected, thoracic CT is done to evaluate for pulmonary metastases.*
+
+50. **Which of the following is the most common cause of death in children with unresectable malignant liver tumors?**  
+    A. Renal failure  
+    B. Cardiac complications  
+    **C. Local tumor effects including biliary sepsis**  
+    D. Hemorrhage  
+    *Correct: C. Malignant tumors of the extrahepatic biliary tract often cause death due to the effects of local invasion, including biliary sepsis.*
+
+51. **Which of the following is true about the PRETEXT staging system for pediatric liver tumors?**  
+    A. It is identical to the TNM staging system used for adults  
+    **B. It was developed by the SIOPEL group**  
+    C. It is primarily used for benign liver tumors  
+    D. It is based solely on tumor size  
+    *Correct: B. PRETEXT (PRE-Treatment EXTent) is a staging system for primary malignant liver tumours of childhood developed by the SIOPEL group.*
+
+52. **How many sections does the liver get divided into for PRETEXT staging?**  
+    A. 2  
+    B. 3  
+    **C. 4  
+    D. 6**  
+    *Correct: C. The PRETEXT staging criteria refer to "sections" of the liver, and the criteria involve up to four sections.*
+
+53. **In PRETEXT staging, what does Stage I indicate?**  
+    **A. One section is involved, and three adjoining sections are free**  
+    B. One or two sections are involved, but two adjoining sections are free  
+    C. Two or three sections are involved, and no two adjoining sections are free  
+    D. All four sections are involved  
+    *Correct: A. PRETEXT Stage I: One section is involved, and three adjoining sections are free.*
+
+54. **In PRETEXT staging, what does Stage IV indicate?**  
+    A. One section is involved, and three adjoining sections are free  
+    B. One or two sections are involved, but two adjoining sections are free  
+    C. Two or three sections are involved, and no two adjoining sections are free  
+    **D. All four sections are involved**  
+    *Correct: D. PRETEXT Stage IV: All four sections are involved.*
+
+55. **Which of the following factors is NOT considered in the PRETEXT staging system?**  
+    A. Local extension  
+    B. Multifocality  
+    C. Rupture  
+    **D. Serum AFP level**  
+    *Correct: D. PRETEXT staging considers localextension, multifocality, rupture, and metastasis, but not serum AFP level.*
+
+56. **Which of the following is true about the treatment of hepatoblastoma?**  
+    A. It is highly resistant to chemotherapy  
+    **B. Multiple studies support the effectiveness of systemic chemotherapy combined with complete surgical resection**  
+    C. Liver transplantation is the first-line treatment for all cases  
+    D. Radiation therapy is the primary treatment modality  
+    *Correct: B. Multiple studies support the effectiveness of systemic chemotherapy combined with complete surgical resection of the primary hepatic tumor.*
+
+57. **What is the key factor determining survival in children with malignant liver tumors?**  
+    A. Age at diagnosis  
+    B. Serum AFP level  
+    **C. Complete resection of the primary tumor**  
+    D. Response to chemotherapy  
+    *Correct: C. Survival depends on removal of the primary liver tumor, when imaging suggests that complete resection is feasible.*
+
+58. **Which of the following is true about hepatocellular carcinoma (HCC) in children?**  
+    A. It responds well to current chemotherapy agents  
+    B. Long-term survival is possible without complete resection  
+    **C. It remains extremely resistant to current chemotherapy agents**  
+    D. It rarely involves vascular structures  
+    *Correct: C. For more than a quarter century, no significant progress has been made in treatment of the pediatric population with HCC. This tumor remains extremely resistant to current chemotherapy agents.*
+
+59. **Why is complete resection often impossible in children with hepatocellular carcinoma?**  
+    A. Due to the small size of children's livers  
+    **B. Because of a high incidence of multifocality, extrahepatic extension, vascular invasion, and distant metastases**  
+    C. Due to the high risk of postoperative liver failure  
+    D. Because these tumors are typically located in the porta hepatis  
+    *Correct: B. Because of a high incidence of multifocality within the liver, extrahepatic extension to regional lymph nodes, vascular invasion, and distant metastases, complete resection is often impossible.*
+
+60. **Which vascular structures are commonly involved by hepatocellular carcinoma in children?**  
+    A. Portal vein only  
+    B. Hepatic veins only  
+    **C. Portal and hepatic venous branches, and sometimes the vena cava**  
+    D. Hepatic artery only  
+    *Correct: C. Infiltration with thrombosis of portal and hepatic venous branches is common, and even the vena cava may be involved.*
+
+61. **Which of the following is a risk factor for the development of hepatocellular carcinoma in children?**  
+    A. Hepatitis A infection  
+    B. Obesity  
+    **C. Cirrhosis**  
+    D. Diabetes mellitus  
+    *Correct: C. The cirrhosis found in a number of HCC livers may preclude an extensive resection.*
+
+62. **Which of the following is true about the epidemiology of primary liver cancer in children?**  
+    A. It is more common in adolescents than in infants  
+    **B. The overall incidence is 16.5 cases per 1 million children in the 0- to 4-year age group**  
+    C. It constitutes over 10% of all pediatric solid tumors  
+    D. It is equally common in all age groups of children  
+    *Correct: B. The overall incidence of primary liver cancer, as published by the SEER program, is 16.5 cases per 1 million children in the 0- to 4-year age group.*
+
+63. **What percentage of all pediatric solid tumors do liver cancers constitute?**  
+    A. Less than 0.1%  
+    B. 0.1-0.5%  
+    **C. 0.5% to 2%**  
+    D. 5-10%  
+    *Correct: C. Liver cancers constitute 0.5% to 2% of all pediatric solid tumors.*
+
+64. **What percentage of abdominal tumors in childhood are liver cancers?**  
+    A. 1%  
+    B. 2.5%  
+    **C. About 5%**  
+    D. 10%  
+    *Correct: C. Liver cancers constitute about 5% of abdominal tumors in childhood.*
+
+65. **Which of the following is true about the age distribution of primary liver cancer in children?**  
+    A. It is most common in adolescents  
+    B. It has a bimodal distribution with peaks in infancy and adolescence  
+    **C. The incidence is highest in the 0- to 4-year age group**  
+    D. It is equally distributed across all childhood age groups  
+    *Correct: C. The overall incidence of primary liver cancer is 16.5 cases per 1 million children in the 0- to 4-year age group, which is higher than in older age groups (0.5 per 1 million in 5-9 years, 0.9 in 10-14 years, and 1.5 in 14-19 years).*
+
+66. **Which of the following is the most common site of metastasis for neuroblastoma in children?**  
+    A. Brain  
+    B. Lungs  
+    **C. Liver**  
+    D. Bones  
+    *Correct: C. The text mentions that the liver is a relatively frequent site of metastatic disease in childhood for various malignancies including neuroblastoma.*
+
+67. **Which of the following malignancies is NOT mentioned as commonly metastasizing to the liver in children?**  
+    A. Neuroblastoma  
+    B. Rhabdomyosarcoma  
+    C. Wilms tumor  
+    **D. Ewing sarcoma**  
+    *Correct: D. The text mentions: "Non-Hodgkin's lymphoma, neuroblastoma, rhabdomyosarcoma, rhabdoid tumors, Wilms tumor, desmoplastic small round-cell tumor, adrenal cortical carcinoma, osteogenic sarcomas, and a host of other malignancies may metastasize to the liver." Ewing sarcoma is not specifically mentioned.*
+
+68. **Which of the following is true about the treatment of rhabdoid tumors of the liver?**  
+    A. They respond well to standard chemotherapy  
+    **B. They are poorly responsive to standard cytotoxic chemotherapy**  
+    C. They are typically treated with radiation therapy alone  
+    D. Liver transplantation is always curative  
+    *Correct: B. Rhabdoid tumors of the liver are rare, aggressive, and poorly responsive to standard cytotoxic chemotherapy.*
+
+69. **Which chromosome abnormality is associated with congenital disseminated malignant rhabdoid tumor?**  
+    A. Chromosome 11q13  
+    B. Chromosome 13q14  
+    **C. Chromosome 22q11**  
+    D. Chromosome 17p13  
+    *Correct: C. Congenital disseminated malignant rhabdoid tumor demonstrates abnormalities of chromosome 22q11.*
+
+70. **Which of the following is true about angiosarcoma of the liver in children?**  
+    A. It is the most common primary liver tumor in children  
+    B. It has an excellent response to chemotherapy  
+    **C. It may develop from malignant transformation of infantile hemangioma or hemangioendothelioma**  
+    D. It is typically diagnosed in infants younger than 6 months  
+    *Correct: C. A multi-institutional case series found evidence of either malignant transformation from, or concomitant development with, infantile hemangioma or hemangioendothelioma in 7 of 8 patients.*
+
+71. **Which of the following is true about the prognosis of embryonal sarcoma of the liver?**  
+    A. It has an excellent prognosis with surgery alone  
+    B. It responds well to chemotherapy  
+    **C. These tumors are highly resistant to treatment**  
+    D. Long-term survival exceeds 90%  
+    *Correct: C. The text states: "These tumors are highly resistant to treatment."*
+
+72. **What is the recommended treatment for embryonal sarcoma of the liver when disease is confined to the liver?**  
+    A. Observation  
+    B. Chemotherapy alone  
+    **C. Resection if possible**  
+    D. Radiation therapy  
+    *Correct: C. "Disease confined to the liver should be resected if possible."*
+
+73. **Which chemotherapy approach is warranted for embryonal sarcoma of the liver?**  
+    A. Standard leukemia-type chemotherapy  
+    **B. Dose-intense, antisarcoma-type chemotherapy**  
+    C. Targeted molecular therapy  
+    D. High-dose chemotherapy with stem cell rescue  
+    *Correct: B. "Treatment with dose-intense, antisarcoma-type chemotherapy is also warranted."*
+
+74. **What is the typical outcome for children with embryonal sarcoma of the liver?**  
+    A. Complete cure is common with current therapies  
+    **B. An initial period of control is feasible, but these tumors are likely to recur and metastasize**  
+    C. They usually respond permanently to multimodal therapy  
+    D. The prognosis is excellent regardless of treatment  
+    *Correct: B. "Although an initial period of control is feasible, these tumors are likely to recur and metastasize."*
+
+75. **Which of the following is true about malignant germ cell tumors of the liver?**  
+    **A. They are very rare**  
+    B. They are the most common primary liver tumors in children  
+    C. They do not respond to chemotherapy  
+    D. They are always benign  
+    *Correct: A. "Primary malignant germ cell tumors of the liver are very rare..."*
+
+76. **Which of the following tumor types may present as primary liver tumors in children?**  
+    A. Glioblastoma  
+    B. Medulloblastoma  
+    **C. Teratoma**  
+    D. Ependymoma  
+    *Correct: C. "Primary malignant germ cell tumors of the liver are very rare and may present as teratomas, choriocarcinomas, or yolk sac tumors."*
+
+77. **Which of the following is a treatment option for primary malignant germ cell tumors of the liver in children?**  
+    A. Radiation therapy alone  
+    **B. Neoadjuvant chemotherapy followed by resection**  
+    C. Liver transplantation as first-line treatment  
+    D. Observation  
+    *Correct: B. "In childhood, these may respond well to neoadjuvant chemotherapy followed by resection."*
+
+78. **Which of the following is true about the liver as a site of metastasis in children?**  
+    A. It is uncommon for malignancies to metastasize to the liver  
+    **B. It is a relatively frequent site of metastatic disease in childhood**  
+    C. It is the most common site of metastasis for all childhood malignancies  
+    D. Metastases to the liver always indicate terminal disease  
+    *Correct: B. "The liver is a relatively frequent site of metastatic disease in childhood."*
+
+79. **Which of the following malignancies is mentioned as metastasizing to the liver in children?**  
+    A. Retinoblastoma  
+    B. Medulloblastoma  
+    **C. Osteogenic sarcoma**  
+    D. All of the above  
+    *Correct: C. "Non-Hodgkin's lymphoma, neuroblastoma, rhabdomyosarcoma, rhabdoid tumors, Wilms tumor, desmoplastic small round-cell tumor, adrenal cortical carcinoma, osteogenic sarcomas, and a host of other malignancies may metastasize to the liver."*
+
+80. **Which of the following is true about the surgical approach to metastatic liver lesions in children?**  
+    A. All metastatic lesions should be resected  
+    B. Resection always improves survival  
+    **C. Few data are available to determine the correct surgical approach**  
+    D. Liver transplantation is the standard of care  
+    *Correct: C. "Few data are available to determine the correct surgical approach to these lesions."*
+
+81. **Which of the following is true about the Liver Cancer Study Group of Japan's findings on hepatoblastoma?**  
+    A. They found hepatoblastoma to be extremely rare  
+    **B. They identified 30 hepatoblastomas (0.6%) in a cohort of 4658 patients of all ages**  
+    C. They reported no cases of hepatoblastoma in children  
+    D. They found hepatoblastoma to be the most common liver tumor in adults  
+    *Correct: B. "The Liver Cancer Study Group of Japan identified 30 hepatoblastomas (0.6%) in a cohort of 4658 patients of all ages diagnosed during a 2-year period."*
+
+82. **Which of the following is true about the epidemiology of hepatoblastoma?**  
+    A. It is more common in adults than in children  
+    **B. It comprises less than 1% of hepatic malignancies when adult age groups are included**  
+    C. It accounts for over 50% of liver tumors in adolescents  
+    D. It is equally common across all age groups  
+    *Correct: B. "Hepatoblastoma... comprises less than 1% of hepatic malignancies when adult age groups are included."*
+
+83. **Which tumor markers should be included in the diagnostic evaluation of suspected liver tumors in children?**  
+    A. CA-125 and CEA  
+    B. PSA and alkaline phosphatase  
+    **C. Serum AFP and β-hCG**  
+    D. LDH and ferritin  
+    *Correct: C. "tumor markers that should include serum AFP and b-hCG."*
+
+84. **Which of the following is true about the PRETEXT staging system update?**  
+    A. It was developed for adult liver tumors  
+    B. It focuses primarily on tumor histology  
+    **C. It was recently updated and clarified to streamline its use in clinical trials**  
+    D. It replaced the Milan criteria for liver transplantation  
+    *Correct: C. "The PRETEXT system was recently updated and clarified to streamline its use in clinical trials."*
+
+85. **Which of the following is true about the treatment of malignant liver tumors in children?**  
+    A. Chemotherapy alone is sufficient for cure  
+    **B. Complete surgical resection of the primary tumor is essential for survival**  
+    C. Radiation therapy is the primary treatment modality  
+    D. Liver transplantation is contraindicated  
+    *Correct: B. "Survival depends on removal of the primary liver tumor, when imaging suggests that complete resection is feasible."*
+
+86. **Which of the following is a characteristic feature of fibrolamellar hepatocellular carcinoma (FLH)?**  
+    A. It is most common in infants  
+    B. It has a worse prognosis than standard HCC  
+    **C. It tends to grow as a single mass**  
+    D. It is associated with cirrhosis in most cases  
+    *Correct: C. "The tendency of FLH to grow slowly, as a single mass, compared with the early multifocality of standard HCC."*
+
+87. **Which of the following is true about the association between hepatic adenomas and high-estrogen environments?**  
+    A. Hepatic adenomas only occur in high-estrogen environments  
+    B. High-estrogen environments protect against hepatic adenomas  
+    **C. Both FNH and adenomas have been correlated with a high-estrogen environment**  
+    D. High-estrogen environments cause malignant transformation of hepatic adenomas  
+    *Correct: C. "Both tumors have been correlated with a high-estrogen environment."*
+
+88. **Which of the following patients might develop hepatic adenomas as a result of medication use?**  
+    A. A child receiving insulin for diabetes  
+    **B. A patient undergoing androgen therapy for hematologic disorders**  
+    C. A child receiving antibiotics for recurrent infections  
+    D. A patient receiving corticosteroids for asthma  
+    *Correct: B. "Hepatic adenomas also have grown in patients undergoing androgen therapy for hematologic disorders, after danazol use, and in woman on oral contraceptives."*
+
+89. **Which imaging technique may help discriminate between hepatic adenoma and focal nodular hyperplasia (FNH)?**  
+    A. Standard ultrasound  
+    B. Non-contrast CT  
+    **C. Superparamagnetic oxide–enhanced MRI**  
+    D. Plain X-ray  
+    *Correct: C. "Superparamagnetic oxide–enhanced MRI may discriminate between hepatic adenoma and FNH."*
+
+90. **Which of the following is a reason to resect hepatic adenomas in children?**  
+    A. To prevent development of cirrhosis  
+    B. To improve liver function tests  
+    **C. Uncertainty about future malignant degeneration**  
+    D. To reduce serum AFP levels  
+    *Correct: C. "It is best to remove adenomas because of the difficulty of differentiating them from low-grade HCCs, uncertainty about future malignant degeneration, and the possibility of rupture and hemorrhage."*
+
+91. **Which surgical procedure has been used successfully for hepatic adenomas in children?**  
+    A. Right hepatectomy  
+    **B. Extended left hepatectomy**  
+    C. Total hepatectomy  
+    D. Liver transplantation  
+    *Correct: B. "An anatomic liver resection usually is required, and we have used extended left hepatectomy successfully in children to treat this lesion."*
+
+92. **Which minimally invasive technique has been used for resection of benign liver tumors in children?**  
+    A. Robotic surgery  
+    **B. Laparoscopic resection**  
+    C. Endoscopic resection  
+    D. Percutaneous laser ablation  
+    *Correct: B. "Laparoscopic resection of these lesions has also been done."*
+
+93. **Which ablation technique has become an option for treatment of hepatic adenomas in children?**  
+    A. Cryoablation  
+    **B. Percutaneous radiofrequency ablation**  
+    C. Microwave ablation  
+    D. Ethanol ablation  
+    *Correct: B. "Percutaneous RFA has recently become an option for treatment."*
+
+94. **Which of the following is true about hemangioblastoma of the liver in children?**  
+    A. It is the most common liver tumor in children  
+    B. It typically presents with massive hemorrhage  
+    **C. Distant metastases are uncommon**  
+    D. It is always associated with neurofibromatosis  
+    *Correct: C. "In infancy and childhood, these lesions appear very cellular, but distant metastases are uncommon."*
+
+95. **Which syndrome is associated with hemangioblastoma of the liver?**  
+    A. Neurofibromatosis type 1  
+    B. Tuberous sclerosis  
+    **C. von Hippel-Lindau disease**  
+    D. Li-Fraumeni syndrome  
+    *Correct: C. "Hemangioblastoma of the liver usually is associated with von Hippel-Lindau disease."*
+
+96. **What is the treatment of choice for symptomatic hemangioblastoma of the liver?**  
+    A. Chemotherapy  
+    B. Radiation therapy  
+    **C. Complete resection**  
+    D. Observation  
+    *Correct: C. "Complete resection should be performed and is usually curative."*
+
+97. **Which of the following is true about the use of interferon-alpha 2a for hemangioblastomas?**  
+    A. It is the first-line treatment  
+    B. It has shown dramatic resolution of liver lesions  
+    **C. It has been used for central nervous system and retinal lesions with limited success**  
+    D. It is contraindicated in children  
+    *Correct: C. "Hemangioblastomas of the central nervous system and retina have been treated with IFN-a2a but without striking resolution, although two retinal lesions showed shrinkage."*
+
+98. **Which of the following is true about malignant peripheral nerve cell tumors metastasizing to the liver?**  
+    A. They are the most common cause of liver metastases in children  
+    **B. The text mentions them as one of "a host of other malignancies" that may metastasize to the liver**  
+    C. They always present with elevated AFP  
+    D. They respond exceptionally well to chemotherapy  
+    *Correct: B. The text states: "Non-Hodgkin's lymphoma, neuroblastoma, rhabdomyosarcoma, rhabdoid tumors, Wilms tumor, desmoplastic small round-cell tumor, adrenal cortical carcinoma, osteogenic sarcomas, and a host of other malignancies may metastasize to the liver."*
+
+99. **Which of the following is true about colon cancer in children?**  
+    A. It is the most common malignancy in children  
+    B. It typically spreads through the portal system  
+    **C. Approximately 50% of these patients have signet ring tumors**  
+    D. It rarely involves the peritoneum  
+    *Correct: C. "Colon cancer can occur in childhood. Approximately 50% of these patients have signet ring tumors."*
+
+100. **How does colon cancer typically spread in children?**  
+     A. Through the portal system to the liver  
+     **B. Over peritoneal surfaces**  
+     C. Through lymphatic channels to regional lymph nodes only  
+     D. Hematogenously to the lungs  
+     *Correct: B. "The pattern of spread is over peritoneal surfaces, rather than through the portal system, and hepatic metastases usually occur late despite massive peritoneal disease."*
+
+101. **Which of the following is true about the liver's capacity for regeneration after resection in children?**  
+     A. It is less than in adults  
+     B. It takes years to regenerate  
+     **C. Long-term hepatic regeneration and function is good after resection**  
+     D. Regeneration does not occur in infants  
+     *Correct: C. The text cites a reference about "Long-term hepatic regeneration and function in infants and children following liver resection."*
+
+102. **Which of the following is true about the incidence of primary malignant liver tumors in Western nations?**  
+     A. They constitute over 10% of childhood malignancies  
+     **B. They constitute approximately 1.7% of childhood malignancies**  
+     C. They are the most common childhood malignancy  
+     D. They constitute about 10% of abdominal tumors in childhood  
+     *Correct: B. "Primary malignant liver tumors constitute approximately 1.7% of childhood malignancies in Western nations."*
+
+103. **Which of the following is true about the SEER program data on primary liver cancer incidence?**  
+     A. The highest incidence is in the 14-19 year age group  
+     B. The incidence is less than 0.1 cases per 1 million in the 0-4 year age group  
+     **C. The incidence is 16.5 cases per 1 million in the 0-4 year age group**  
+     D. The incidence steadily decreases with age  
+     *Correct: C. "The overall incidence of primary liver cancer, as published by the SEER program, is 16.5 cases per 1 million children in the 0- to 4-year age group..."*
+
+104. **Which of the following is true about the age distribution of hepatoblastoma?**  
+     **A. It is most common in children younger than 5 years**  
+     B. It is most common in adolescents  
+     C. It has equal distribution across all age groups  
+     D. It is most common in infants younger than 6 months  
+     *Correct: A. "Hepatoblastoma accounts for 91% to 96% of primary hepatic tumors in children younger than 5 years."*
+
+105. **Which of the following is true about the diagnosis of hepatocellular carcinoma in infants?**  
+     A. It is very common in infants  
+     B. It accounts for over 50% of liver tumors in infants  
+     **C. It is rare in infancy**  
+     D. It is the most common liver tumor in infants  
+     *Correct: C. "Hepatocellular carcinoma (HCC) accounts for 22% to 23% of pediatric liver tumors but is rare in infancy."*
+
+106. **Which of the following is a potential pitfall in historic series of hepatocellular carcinoma in infants?**  
+     A. Overdiagnosis due to improved imaging techniques  
+     **B. Misdiagnosis of some early hepatoblastomas as HCC**  
+     C. Underreporting due to lack of awareness  
+     D. Confusion with benign liver tumors  
+     *Correct: B. "Historic series without pathology review may report a higher rate of infantile HCC owing to misdiagnosis of some early hepatoblastomas."*
+
+107. **Which of the following is true about the Liver Cancer Study Group of Japan's findings on hepatocellular carcinoma in young children?**  
+     A. They found numerous cases in children age 4 years or younger  
+     **B. They reported no cases in children age 4 years or younger**  
+     C. They found hepatocellular carcinoma to be the most common liver tumor in this age group  
+     D. They recommended universal screening for HCC in children under 5  
+     *Correct: B. "The Lung Cancer Study Group of Japan reported no cases in children age 4 years or younger in a series of 2286 patients with histologically reviewed tumors."*
+
+108. **Which of the following is true about the PRETEXT staging system criteria?**  
+     A. It is based solely on tumor size  
+     B. It incorporates serum tumor markers  
+     **C. It classifies tumors based on local extension, multifocality, rupture, and metastasis**  
+     D. It is identical to the staging system used for adults  
+     *Correct: C. "Additional criteria added in 2005 further classify these tumors based on localextension, multifocality, rupture, and metastasis."*
+
+109. **Which of the following is true about the PRETEXT Stage II classification?**  
+     A. One section is involved, and three adjoining sections are free  
+     **B. One or two sections are involved, but two adjoining sections are free**  
+     C. Two or three sections are involved, and no two adjoining sections are free  
+     D. All four sections are involved  
+     *Correct: B. PRETEXT Stage II: One or two sections are involved, but two adjoining sections are free.*
+
+110. **Which of the following is true about the PRETEXT Stage III classification?**  
+     A. One section is involved, and three adjoining sections are free  
+     B. One or two sections are involved, but two adjoining sections are free  
+     **C. Two or three sections are involved, and no two adjoining sections are free**  
+     D. All four sections are involved  
+     *Correct: C. PRETEXT Stage III: Two or three sections are involved, and no two adjoining sections are free.*
+
+111. **Which of the following is true about the PRETEXT staging system?**  
+     A. It was developed for benign liver tumors  
+     **B. It was developed by the SIOPEL group for primary malignant liver tumors of childhood**  
+     C. It is used worldwide for adult liver cancer staging  
+     D. It has not been updated since its initial publication  
+     *Correct: B. "PRETEXT: A revised staging system for primary malignant liver tumours of childhood developed by the SIOPEL group."*
+
+112. **Which of the following is true about the role of liver transplantation in hepatocellular carcinoma?**  
+     A. It is contraindicated in children with HCC  
+     **B. It has been used more widely due to the lack of success with standard therapies**  
+     C. It is the first-line treatment for all cases of HCC  
+     D. It has worse outcomes than resection in all cases  
+     *Correct: B. "Because standard therapies have proven unsuccessful, liver transplantation has been used more widely."*
+
+113. **Which criteria have been extrapolated from adult liver transplantation to pediatric hepatocellular carcinoma?**  
+     A. Barcelona Clinic Liver Cancer (BCLC) criteria  
+     **B. Milan criteria**  
+     C. Model for End-Stage Liver Disease (MELD) score  
+     D. Child-Pugh classification  
+     *Correct: B. "The Milan criteria used for adults have been extrapolated to children."*
+
+114. **According to the Milan criteria for children with hepatocellular carcinoma, what is the maximum size for a single tumor to be eligible for liver transplantation?**  
+     A. 2 cm  
+     B. 3 cm  
+     **C. 5 cm**  
+     D. 10 cm  
+     *Correct: C. "They stipulate a single tumor no larger than 5 cm in diameter..."*
+
+115. **According to the Milan criteria for children with hepatocellular carcinoma, what is the maximum size for multiple tumors to be eligible for liver transplantation?**  
+     A. Any size as long as there are fewer than 3 tumors  
+     B. Each tumor must be 1 cm or less in diameter  
+     **C. As many as three tumors each 3 cm or less in diameter**  
+     D. A total tumor burden of less than 5 cm  
+     *Correct: C. "As many as three tumors each 3 cm or less in diameter."*
+
+116. **Which of the following is an exclusion criterion for liver transplantation in children with hepatocellular carcinoma according to the Milan criteria?**  
+     A. Age younger than 2 years  
+     B. Elevated AFP levels  
+     **C. Macroscopic portal vein invasion**  
+     D. Bilobar disease  
+     *Correct: C. "An absence of macroscopic portal vein invasions, and absence of extrahepatic disease."*
+
+117. **Which of the following is true about the evidence supporting the use of Milan criteria in children with hepatocellular carcinoma?**  
+     A. There is strong evidence from multiple randomized trials  
+     B. It has been validated in large pediatric studies  
+     **C. No current data support the efficacy of using the Milan criteria in this population**  
+     D. It is the standard of care based on decades of experience  
+     *Correct: C. "However, no current data support the efficacy of using the Milan criteria in this population."*
+
+118. **Which database included information on patients with hepatocellular carcinoma who received orthotopic liver transplantation?**  
+     A. SEER database  
+     **B. UNOS database**  
+     C. Medicare database  
+     D. National Cancer Database  
+     *Correct: B. "The UNOS database included information on 41 patients with HCC who received OLT from 1987..."*
+
+119. **Which of the following is true about mesenchymal hamartoma of the liver?**  
+     A. It is the most common malignant liver tumor in infants  
+     **B. It is a benign tumor that can present in infancy or teenage years**  
+     C. It always requires aggressive chemotherapy  
+     D. It is typically diagnosed in adulthood  
+     *Correct: B. "Two-thirds of these tumors are diagnosed in infants younger than 1 year, although presentation in the teenage years has been described."*
+
+120. **Which of the following is true about the incidence of mesenchymal hamartoma among space-occupying liver lesions?**  
+     A. It accounts for over 50% of cases  
+     B. It is extremely rare, with fewer than 10 cases ever reported  
+     **C. In one study, 4 of 134 patients with space-occupying liver lesions had mesenchymal hamartomas**  
+     D. It is the most common liver tumor in adults  
+     *Correct: C. "In one study, 4 of 134 patients with space-occupying liver lesions had mesenchymal hamartomas."*
+
+121. **Which of the following is true about mesenchymal hamartoma of the liver?**  
+     A. It is always malignant  
+     B. It typically presents with markedly elevated AFP  
+     **C. It is a benign tumor**  
+     D. It requires immediate chemotherapy  
+     *Correct: C. Mesenchymal hamartoma is listed among benign hepatic tumors in the text.*
+
+122. **Which of the following is true about the gender distribution of hepatic hemangiomata in children?**  
+     A. Equal incidence in both genders  
+     **B. More common in girls by 2:1**  
+     C. More common in boys by 2:1  
+     D. Predominantly affects males  
+     *Correct: B. "Hepatic hemangiomata are more common in girls by 2:1."*
+
+123. **Which of the following vascular abnormalities may be associated with congestive heart failure in children with liver tumors?**  
+     A. Capillary hemangiomas  
+     **B. Venous malformations, cavernous hemangiomata, and arteriovenous malformations**  
+     C. Lymphatic malformations  
+     D. Simple hemangiomas  
+     *Correct: B. "Venous malformations, cavernous hemangiomata, and arteriovenous malformations may be associated with significant shunting that results in congestive heart failure."*
+
+124. **Which of the following is true about the overall incidence of endothelial-lined vascular tumors of the liver in childhood?**  
+     A. It is precisely known and well-documented  
+     **B. It is probably unknown because many are asymptomatic**  
+     C. It is estimated to be over 10% of all childhood cancers  
+     D. It has been declining due to vaccination programs  
+     *Correct: B. "The overall incidence of endothelial-lined vascular tumors of the liver in childhood is probably unknown because many are asymptomatic."*
+
+125. **Which of the following is true about the presentation of vascular tumors of the liver in children?**  
+     A. They always present with abdominal pain  
+     B. They typically present with jaundice  
+     **C. Many are asymptomatic**  
+     D. They always present with tumor rupture  
+     *Correct: C. "The overall incidence of endothelial-lined vascular tumors of the liver in childhood is probably unknown because many are asymptomatic."*
+
+126. **Which of the following is true about patients who present with hemorrhagic shock due to rupture of a vascular tumor?**  
+     A. They can be managed conservatively with observation  
+     **B. They usually require hepatic resection**  
+     C. They should undergo immediate liver transplantation  
+     D. Embolization is always contraindicated  
+     *Correct: B. "Patients who are seen in hemorrhagic shock with rupture of a vascular tumor usually require hepatic resection."*
+
+127. **Which of the following is true about the frequency of asymptomatic vascular tumors discovered incidentally with modern imaging techniques?**  
+     A. It is lower than in the past  
+     **B. It is undoubtedly much higher than reflected in surgical or pathologic series**  
+     C. It has remained constant over time  
+     D. It is negligible  
+     *Correct: B. "With modern imaging techniques, the frequency of asymptomatic vascular tumors discovered incidentally is undoubtedly much higher."*
+
+128. **Which of the following is true about the relationship between focal nodular hyperplasia (FNH) and previous cancer treatment?**  
+     A. FNH is a common complication of radiation therapy  
+     **B. FNH has been described in children previously treated for solid tumors**  
+     C. FNH only occurs in children who have not received cancer treatment  
+     D. Cancer treatment prevents the development of FNH  
+     *Correct: B. "Focal nodular hyperplasia of the liver: a sequela of tumor therapy."*
+
+129. **What is postulated to be the causal factor for focal nodular hyperplasia developing in children treated for other solid malignancies?**  
+     A. Immunosuppression  
+     **B. Vascular injury secondary to chemotherapy or radiation**  
+     C. Genetic predisposition  
+     D. Viral infection  
+     *Correct: B. "These authors postulated that a vascular injury secondary to chemotherapy or radiation was the causal factor."*
+
+130. **Which of the following is true about the malignant potential of hepatic adenomas?**  
+     A. They never undergo malignant transformation  
+     **B. Some unresected hepatic adenomas may develop hepatocellular carcinoma**  
+     C. Malignant transformation occurs in over 50% of cases  
+     D. They always transform into cholangiocarcinoma  
+     *Correct: B. "In one report, 5 of 39 unresected hepatic adenomas developed HCC."*
+
+131. **What percentage of unresected hepatic adenomas developed hepatocellular carcinoma in one report?**  
+     A. 1.3%  
+     B. 5.1%  
+     **C. 12.8% (5 of 39)**  
+     D. 25.6%  
+     *Correct: C. "In one report, 5 of 39 unresected hepatic adenomas developed HCC."*
+
+132. **Which of the following is true about the size of hepatic adenomas in childhood?**  
+     A. They are typically small, less than 2 cm  
+     **B. They may attain great size, with an average tumor size of 7.5 cm in one report**  
+     C. They never exceed 5 cm in diameter  
+     D. Size does not affect symptoms  
+     *Correct: B. "In one report of six cases in childhood, the average tumor size was 7.5 cm (range, 2.5-10 cm)."*
+
+133. **Which lobe of the liver is most commonly affected by hepatic adenomas in children?**  
+     A. Left lobe  
+     **B. Right lobe**  
+     C. Caudate lobe  
+     D. Quadrate lobe  
+     *Correct: B. "The tumor was localized to the right lobe in four of the six and was bilobar in the remaining two."*
+
+134. **Which imaging technique may help discriminate between hepatic adenoma and focal nodular hyperplasia?**  
+     A. Standard CT scan  
+     B. Ultrasound with Doppler  
+     **C. Superparamagnetic oxide–enhanced MRI**  
+     D. PET scan  
+     *Correct: C. "Superparamagnetic oxide–enhanced MRI may discriminate between hepatic adenoma and FNH."*
+
+135. **Which of the following is a reason to remove hepatic adenomas in children?**  
+     A. To prevent development of cirrhosis  
+     B. To improve overall survival in all cases  
+     **C. Possibility of rupture and hemorrhage**  
+     D. To reduce the risk of portal hypertension  
+     *Correct: C. "It is best to remove adenomas because of the difficulty of differentiating them from low-grade HCCs, uncertainty about future malignant degeneration, and the possibility of rupture and hemorrhage."*
+
+136. **Which surgical procedure has been used for hepatic adenomas involving the left side of the liver?**  
+     A. Right hepatectomy  
+     **B. Extended left hepatectomy**  
+     C. Caudate lobectomy  
+     D. Segmental resection only  
+     *Correct: B. "An anatomic liver resection usually is required, and we have used extended left hepatectomy successfully in children to treat this lesion."*
+
+137. **Which minimally invasive technique has been used for benign hepatic adenomas?**  
+     A. Endoscopic mucosal resection  
+     **B. Percutaneous radiofrequency ablation**  
+     C. Transarterial chemoembolization  
+     D. Photodynamic therapy  
+     *Correct: B. "Contemporary management of benign hepatic adenoma using percutaneous radiofrequency ablation."*
+
+138. **Which of the following is true about the use of embolization for hepatic tumors?**  
+     A. It is only used for malignant tumors  
+     B. It is the first-line treatment for all liver tumors  
+     **C. It is an option for unresectable lesions**  
+     D. It is contraindicated in children  
+     *Correct: C. "Embolization of unresectable lesions is another [option]."*
+
+139. **Which of the following is true about embryonal sarcoma (undifferentiated sarcoma) of the liver?**  
+     A. It is the most common liver tumor in infants  
+     **B. It is a rare primary hepatic neoplasm that occurs in older children**  
+     C. It typically occurs in children younger than 2 years  
+     D. It has an excellent prognosis with surgery alone  
+     *Correct: B. "Embryonal sarcoma, also known as malignant mesenchymoma or undifferentiated sarcoma in the older literature, is a rare primary hepatic neoplasm that occurs in older children."*
+
+140. **What percentage of primary liver tumors does embryonal sarcoma represent?**  
+     A. Over 10%  
+     B. 5-10%  
+     **C. 0.2% (2 cases out of 1102)**  
+     D. Less than 0.1%  
+     *Correct: C. "In one study, 2 cases were reported out of 1102 (0.2%) primary liver tumors analyzed."*
+
+141. **How many cases of embryonal sarcoma have been reported in the literature?**  
+     A. Fewer than 50  
+     B. 50-100  
+     **C. Fewer than 200**  
+     D. Over 500  
+     *Correct: C. "Fewer than 200 cases have been reported in the literature."*
+
+142. **Which age group is most commonly affected by embryonal sarcoma?**  
+     A. Infants  
+     B. Toddlers (1-3 years)  
+     **C. Older children (5-16 years)**  
+     D. Adolescents only  
+     *Correct: C. "The age at diagnosis ranges from 5 to 16 years."*
+
+143. **What percentage of malignant liver tumors in children 6 to 10 years of age is constituted by embryonal sarcoma?**  
+     A. 5%  
+     B. 10%  
+     **C. 14%**  
+     D. 25%  
+     *Correct: C. "Embryonal sarcoma constitutes 14% of malignant liver tumors occurring in children 6 to 10 years of age."*
+
+144. **Which of the following is true about embryonal sarcoma of the liver?**  
+     A. It is more common in infants  
+     **B. Many recently reported patients were older than 10 years**  
+     C. It accounts for the majority of liver tumors in children under 5  
+     D. It has a better prognosis than hepatoblastoma  
+     *Correct: B. "Embryonal sarcoma constitutes 14% of malignant liver tumors occurring in children 6 to 10 years of age; however, many of the patients reported recently were older than 10 years."*
+
+145. **Which of the following is true about the treatment of embryonal sarcoma?**  
+     A. It is highly responsive to standard chemotherapy  
+     B. Radiation therapy is the primary treatment  
+     **C. Resection is indicated if disease is confined to the liver**  
+     D. Liver transplantation is always required  
+     *Correct: C. "Disease confined to the liver should be resected if possible."*
+
+146. **Which type of chemotherapy is warranted for embryonal sarcoma of the liver?**  
+     A. Leukemia-type chemotherapy  
+     **B. Antisarcoma-type chemotherapy**  
+     C. Lymphoma-type chemotherapy  
+     D. Neuroblastoma-type chemotherapy  
+     *Correct: B. "Treatment with dose-intense, antisarcoma-type chemotherapy is also warranted."*
+
+147. **What is the typical outcome for children with embryonal sarcoma of the liver?**  
+     A. Complete cure is common  
+     **B. An initial period of control is feasible, but recurrence and metastasis are likely**  
+     C. It always responds permanently to treatment  
+     D. The prognosis is excellent regardless of treatment  
+     *Correct: B. "Although an initial period of control is feasible, these tumors are likely to recur and metastasize."*
+
+148. **Which of the following is true about rhabdoid tumors of the liver?**  
+     A. They are the most common liver tumors in children  
+     B. They have an excellent prognosis with standard treatment  
+     **C. They are rare, aggressive, and poorly responsive to standard chemotherapy**  
+     D. They are always primary to the liver  
+     *Correct: C. "Rhabdoid tumors of the liver: rare, aggressive, and poorly responsive to standard cytotoxic chemotherapy."*
+
+149. **Which chromosome abnormality is associated with congenital disseminated malignant rhabdoid tumor?**  
+     A. Chromosome 11p15  
+     B. Chromosome 13q14  
+     **C. Chromosome 22q11**  
+     D. Chromosome 17p13  
+     *Correct: C. "Congenital disseminated malignant rhabdoid tumor: a distinct clinicopathologic entity demonstrating abnormalities of chromosome 22q11."*
+
+150. **Which of the following is true about the origin of rhabdoid tumors?**  
+     A. They always originate in the liver  
+     **B. They most commonly originate from the kidney and can metastasize to liver**  
+     C. They only occur as primary liver tumors  
+     D. They originate from hematopoietic cells  
+     *Correct: B. "Rhabdoid tumor most commonly originates from the kidney and can metastasize to liver."*
+
+151. **Which of the following is true about the pattern of hepatic metastases in rhabdoid tumor?**  
+     A. It typically presents as a single metastasis  
+     **B. The pattern is usually diffuse and not amenable to surgical resection**  
+     C. Metastases are always resectable  
+     D. It rarely involves the liver  
+     *Correct: B. "The pattern for hepatic metastases is usually diffuse and is not amenable to surgical resection."*
+
+152. **Which chemotherapy protocols are typically used for rhabdoid tumors of the liver?**  
+     A. Leukemia protocols  
+     **B. Protocols suitable for sarcoma**  
+     C. Lymphoma protocols  
+     D. Neuroblastoma protocols  
+     *Correct: B. "Chemotherapy protocols suitable for sarcoma are usually used."*
+
+153. **Which of the following is true about biliary rhabdomyosarcoma?**  
+     A. It is the most common type of rhabdomyosarcoma  
+     **B. It is very rare**  
+     C. It typically occurs in adults  
+     D. It has an excellent prognosis regardless of treatment  
+     *Correct: B. "Rhabdomyosarcoma of the liver and the ampulla of Vater, but not involving the bile ducts, also has been reported but is very rare."*
+
+154. **What is the typical age range for diagnosis of biliary rhabdomyosarcoma?**  
+     A. Infancy  
+     **B. 1 to 9 years, with an average age of 3 years**  
+     C. 10 to 15 years  
+     D. Adolescence  
+     *Correct: B. "These tumors are usually diagnosed from 1 to 9 years of age, with an average age of 3 years."*
+
+155. **Which gender is more frequently affected by biliary rhabdomyosarcoma?**  
+     **A. Males**  
+     B. Females  
+     C. Equal incidence in both genders  
+     D. Gender predilection is unknown  
+     *Correct: A. "These tumors... are seen more frequently in males."*
+
+156. **Which symptom is commonly associated with biliary rhabdomyosarcoma?**  
+     A. Hematemesis  
+     B. Melena  
+     **C. Intermittent jaundice**  
+     D. Hematuria  
+     *Correct: C. "The typical presentation includes intermittent jaundice."*
+
+157. **What is the long-term survival rate for biliary rhabdomyosarcoma?**  
+     A. 10-20%  
+     B. 30-40%  
+     **C. 60-70%**  
+     D. 80-90%  
+     *Correct: C. "Long-term survival is considered to be 60% to 70% and is not dependent on resectability."*
+
+158. **Which of the following is true about the cause of death in patients with unresectable malignant tumors of the extrahepatic biliary tract?**  
+     A. Metastatic disease to the brain  
+     B. Renal failure  
+     **C. Local tumor effects including biliary sepsis**  
+     D. Cardiac complications  
+     *Correct: C. "Malignant tumors of the extrahepatic biliary tract often cause death due to the effects of local invasion, including biliary sepsis."*
+
+159. **Which of the following is true about angiosarcoma of the liver in children?**  
+     A. It is the most common primary liver tumor in children  
+     B. It has an excellent response to chemotherapy  
+     **C. In a multi-institutional case series, 7 of 8 patients showed evidence of malignant transformation from, or concomitant development with, infantile hemangioma or hemangioendothelioma**  
+     D. It is typically diagnosed in infants younger than 6 months  
+     *Correct: C. "A more recent, multi-institutional case series of 8 pediatric patients with hepatic angiosarcoma found evidence of either malignant transformation from, or concomitant development with, infantile hemangioma or hemangioendothelioma in 7 of 8 patients."*
+
+160. **What was the outcome for pediatric patients with hepatic angiosarcoma who underwent orthotopic liver transplantation as part of multimodal therapy?**  
+     A. All patients died within 1 year  
+     B. Transplantation worsened the prognosis  
+     **C. The transplanted patients were the only ones alive at publication, disease-free at 3.5 and 5.5 years**  
+     D. Transplantation had no impact on survival  
+     *Correct: C. "Two out of eight patients underwent orthotopic liver transplantation as a part of multimodal therapy, and these were the only two patients alive at the time of publication, disease-free at 3.5 years and 5.5 years, respectively."*
+
+161. **Which of the following is true about primary malignant germ cell tumors of the liver?**  
+     A. They are the most common primary liver tumors in children  
+     B. They do not respond to chemotherapy  
+     **C. They are very rare**  
+     D. They are always malignant  
+     *Correct: C. "Primary malignant germ cell tumors of the liver are very rare..."*
+
+162. **Which types of germ cell tumors may present as primary tumors of the liver?**  
+     A. Seminomas only  
+     **B. Teratomas, choriocarcinomas, or yolk sac tumors**  
+     C. Dysgerminomas only  
+     D. Carcinoid tumors  
+     *Correct: B. "Primary malignant germ cell tumors of the liver are very rare and may present as teratomas, choriocarcinomas, or yolk sac tumors."*
+
+163. **Which chemotherapy regimen is typically used for malignant germ cell tumors of the liver in children?**  
+     A. ABVD  
+     **B. Cisplatin, ifosfamide, and bleomycin**  
+     C. CHOP  
+     D. VAC (vincristine, actinomycin D, cyclophosphamide)  
+     *Correct: B. "Usually, a regimen containing cisplatin, ifosfamide, and bleomycin is used."*
+
+164. **Which of the following is true about the response of malignant germ cell tumors of the liver to treatment in children?**  
+     A. They are highly resistant to all treatments  
+     **B. They may respond well to neoadjuvant chemotherapy followed by resection**  
+     C. They always require liver transplantation  
+     D. They respond best to radiation therapy  
+     *Correct: B. "In childhood, these may respond well to neoadjuvant chemotherapy followed by resection."*
+
+165. **Which of the following is true about the liver as a site for metastatic disease in children?**  
+     A. It is uncommon for malignancies to metastasize to the liver  
+     **B. It is a relatively frequent site of metastatic disease in childhood**  
+     C. It is the most common site of metastasis for all childhood malignancies  
+     D. Metastases to the liver always indicate terminal disease  
+     *Correct: B. "The liver is a relatively frequent site of metastatic disease in childhood."*
+
+166. **Which of the following malignancies is mentioned as commonly metastasizing to the liver in children?**  
+     A. Retinoblastoma  
+     B. Medulloblastoma  
+     **C. Osteogenic sarcoma**  
+     D. All of the above  
+     *Correct: C. "Non-Hodgkin's lymphoma, neuroblastoma, rhabdomyosarcoma, rhabdoid tumors, Wilms tumor, desmoplastic small round-cell tumor, adrenal cortical carcinoma, osteogenic sarcomas, and a host of other malignancies may metastasize to the liver."*
+
+167. **Which of the following is true about the surgical approach to metastatic liver lesions in children?**  
+     A. All metastatic lesions should be resected  
+     B. Resection always improves survival  
+     **C. Few data are available to determine the correct surgical approach**  
+     D. Liver transplantation is the standard of care  
+     *Correct: C. "Few data are available to determine the correct surgical approach to these lesions."*
+
+168. **Which of the following is true about the use of transarterial chemoembolization (TACE) in children with metastatic liver disease?**  
+     A. It is only used for primary liver tumors  
+     **B. It may benefit patients with neuroendocrine tumors, gastrointestinal stromal tumors, and uveal melanoma**  
+     C. It is contraindicated in all pediatric patients  
+     D. It has been proven to cure metastatic disease  
+     *Correct: B. "Beyond primary hepatic malignancy, patients with metastatic liver disease may also benefit from TACE, including patients with neuroendocrine tumors (NETs), gastrointestinal stromal tumors (GISTs), uveal melanoma, and other common pathology..."*
+
+169. **For which of the following conditions is TACE most commonly indicated in patients with metastatic liver disease?**  
+     A. Asymptomatic patients with slow-growing tumors  
+     **B. Rapid progression of liver tumor with stable or absent extrahepatic disease and symptoms related to tumor bulk or hormonal excess**  
+     C. Patients with extensive extrahepatic disease  
+     D. Patients with normal liver function tests  
+     *Correct: B. "The most common indications are rapid progression of liver tumor with stable or absent extrahepatic disease and symptoms related to tumor bulk or hormonal excess, especially among patients with NET."*
+
+170. **Which of the following is true about the epidemiology of primary liver cancer in children according to the SEER program?**  
+     A. The incidence is highest in the 14-19 year age group  
+     B. The incidence is less than 0.1 cases per 1 million in the 0-4 year age group  
+     **C. The incidence is 0.5 cases per 1 million in the 5-9 year age group**  
+     D. The incidence steadily increases with age  
+     *Correct: C. "The overall incidence of primary liver cancer, as published by the SEER program, is 16.5 cases per 1 million children in the 0- to 4-year age group, 0.5 cases per 1 million in the 5- to 9-year age group, 0.9 cases per 1 million in the 10- to 14-year age group, and 1.5 cases per 1 million in the 14- to 19-year age group."*
+
+171. **Which of the following is true about the incidence of primary liver cancer in the 10-14 year age group according to the SEER program?**  
+     A. 0.1 cases per 1 million  
+     B. 0.5 cases per 1 million  
+     **C. 0.9 cases per 1 million**  
+     D. 1.5 cases per 1 million  
+     *Correct: C. "The overall incidence of primary liver cancer, as published by the SEER program, is [...] 0.9 cases per 1 million in the 10- to 14-year age group..."*
+
+172. **Which of the following is true about the incidence of primary liver cancer in the 14-19 year age group according to the SEER program?**  
+     A. 0.1 cases per 1 million  
+     B. 0.5 cases per 1 million  
+     C. 0.9 cases per 1 million  
+     **D. 1.5 cases per 1 million**  
+     *Correct: D. "The overall incidence of primary liver cancer, as published by the SEER program, is [...] 1.5 cases per 1 million in the 14- to 19-year age group."*
+
+173. **Which of the following is true about the relative frequency of liver cancers among abdominal tumors in childhood?**  
+     A. They constitute less than 1% of abdominal tumors  
+     B. They constitute 1-2% of abdominal tumors  
+     **C. They constitute about 5% of abdominal tumors**  
+     D. They constitute over 10% of abdominal tumors  
+     *Correct: C. "Liver cancers constitute about 5% of abdominal tumors in childhood."*
+
+174. **Which of the following is true about the relative frequency of liver cancers among all pediatric solid tumors?**  
+     A. They constitute less than 0.1% of solid tumors  
+     B. They constitute 0.1-0.4% of solid tumors  
+     **C. They constitute 0.5% to 2% of solid tumors**  
+     D. They constitute over 5% of solid tumors  
+     *Correct: C. "Liver cancers constitute 0.5% to 2% of all pediatric solid tumors."*
+
+175. **Which of the following is true about the Liver Cancer Study Group of Japan's findings on hepatoblastoma?**  
+     A. They found hepatoblastoma to be extremely rare  
+     **B. They identified 30 hepatoblastomas (0.6%) in a cohort of 4658 patients of all ages**  
+     C. They reported no cases of hepatoblastoma in children  
+     D. They found hepatoblastoma to be the most common liver tumor in adults  
+     *Correct: B. "The Liver Cancer Study Group of Japan identified 30 hepatoblastomas (0.6%) in a cohort of 4658 patients of all ages diagnosed during a 2-year period."*
+
+176. **Which of the following is true about the epidemiology of hepatoblastoma?**  
+     A. It is more common in adults than in children  
+     **B. It comprises less than 1% of hepatic malignancies when adult age groups are included**  
+     C. It accounts for over 50% of liver tumors in adolescents  
+     D. It is equally common across all age groups  
+     *Correct: B. "Hepatoblastoma... comprises less than 1% of hepatic malignancies when adult age groups are included."*
+
+177. **Which of the following is true about the role of alpha-fetoprotein (AFP) in the diagnostic evaluation of liver tumors in children?**  
+     A. It is only measured for research purposes  
+     B. It is never elevated in malignant liver tumors  
+     **C. It should be included in tumor markers for evaluation**  
+     D. It is only useful for diagnosing hepatocellular carcinoma  
+     *Correct: C. "tumor markers that should include serum AFP and b-hCG."*
+
+178. **Which of the following is true about the role of beta-human chorionic gonadotropin (β-hCG) in the diagnostic evaluation of liver tumors in children?**  
+     A. It is only measured for research purposes  
+     B. It is never elevated in malignant liver tumors  
+     **C. It should be included in tumor markers for evaluation**  
+     D. It is only useful for diagnosing germ cell tumors outside the liver  
+     *Correct: C. "tumor markers that should include serum AFP and b-hCG."*
+
+179. **Which imaging modality is recommended to determine whether a liver mass is cystic or solid?**  
+     A. Standard X-ray  
+     B. CT scan without contrast  
+     **C. Doppler US**  
+     D. Bone scan  
+     *Correct: C. "Doppler US is done to determine whether a mass is cystic or solid, determine the patency of the portal and hepatic veins and vena cava, and identify satellite lesions."*
+
+180. **Which imaging modality provides information about the liver lesion and surrounding veins and bile ducts equivalent to MRI?**  
+     A. Standard ultrasound  
+     **B. CT portography**  
+     C. PET scan  
+     D. Plain X-ray  
+     *Correct: B. "CT portography has been shown to give anatomic information equal to MRI."*
+
+181. **Which of the following is true about the use of thoracic CT in the evaluation of suspected malignant liver tumors in children?**  
+     A. It is primarily used to evaluate liver anatomy  
+     B. It is used to assess for portal vein thrombosis  
+     **C. It is done to evaluate for pulmonary metastases**  
+     D. It is used to measure tumor markers  
+     *Correct: C. While the text cuts off, "If a malignant tumor is suspected, thoracic CT is done to..." strongly implies it's for staging, which would include evaluation for pulmonary metastases.*
+
+182. **Which of the following is true about the PRETEXT staging system?**  
+     A. It is used for both benign and malignant liver tumors  
+     **B. It is a staging system specifically for primary malignant liver tumors of childhood**  
+     C. It was developed for adult hepatocellular carcinoma  
+     D. It is based solely on tumor size  
+     *Correct: B. PRETEXT is described as "a revised staging system for primary malignant liver tumours of childhood developed by the SIOPEL group."*
+
+183. **How many stages are there in the PRETEXT staging system?**  
+     A. 2  
+     B. 3  
+     **C. 4**  
+     D. 5  
+     *Correct: C. The PRETEXT staging has four stages (I-IV) as described in the text.*
+
+184. **In PRETEXT staging, what does Stage I indicate?**  
+     **A. One section is involved, and three adjoining sections are free**  
+     B. One or two sections are involved, but two adjoining sections are free  
+     C. Two or three sections are involved, and no two adjoining sections are free  
+     D. All four sections are involved  
+     *Correct: A. PRETEXT Stage I: One section is involved, and three adjoining sections are free.*
+
+185. **In PRETEXT staging, what does Stage II indicate?**  
+     A. One section is involved, and three adjoining sections are free  
+     **B. One or two sections are involved, but two adjoining sections are free**  
+     C. Two or three sections are involved, and no two adjoining sections are free  
+     D. All four sections are involved  
+     *Correct: B. PRETEXT Stage II: One or two sections are involved, but two adjoining sections are free.*
+
+186. **In PRETEXT staging, what does Stage III indicate?**  
+     A. One section is involved, and three adjoining sections are free  
+     B. One or two sections are involved, but two adjoining sections are free  
+     **C. Two or three sections are involved, and no two adjoining sections are free**  
+     D. All four sections are involved  
+     *Correct: C. PRETEXT Stage III: Two or three sections are involved, and no two adjoining sections are free.*
+
+187. **In PRETEXT staging, what does Stage IV indicate?**  
+     A. One section is involved, and three adjoining sections are free  
+     B. One or two sections are involved, but two adjoining sections are free  
+     C. Two or three sections are involved, and no two adjoining sections are free  
+     **D. All four sections are involved**  
+     *Correct: D. PRETEXT Stage IV: All four sections are involved.*
+
+188. **Which of the following factors is considered in the PRETEXT staging system?**  
+     A. Serum AFP level  
+     B. Patient age  
+     **C. Local extension**  
+     D. Response to chemotherapy  
+     *Correct: C. PRETEXT staging considers localextension, multifocality, rupture, and metastasis.*
+
+189. **Which of the following factors is considered in the PRETEXT staging system?**  
+     A. Serum bilirubin level  
+     B. Liver function tests  
+     **C. Multifocality**  
+     D. Performance status  
+     *Correct: C. PRETEXT staging considers localextension, multifocality, rupture, and metastasis.*
+
+190. **Which of the following factors is considered in the PRETEXT staging system?**  
+     A. Tumor grade  
+     **B. Rupture**  
+     C. Serum albumin level  
+     D. Prothrombin time  
+     *Correct: B. PRETEXT staging considers localextension, multifocality, rupture, and metastasis.*
+
+191. **Which of the following factors is considered in the PRETEXT staging system?**  
+     A. Presence of cirrhosis  
+     **B. Metastasis**  
+     C. Serum creatinine level  
+     D. Hemoglobin level  
+     *Correct: B. PRETEXT staging considers localextension, multifocality, rupture, and metastasis.*
+
+192. **Which of the following is true about the treatment of hepatoblastoma?**  
+     A. It is highly resistant to all treatments  
+     **B. Multiple studies support the effectiveness of systemic chemotherapy combined with complete surgical resection**  
+     C. Liver transplantation is the first-line treatment for all cases  
+     D. Radiation therapy is the primary treatment modality  
+     *Correct: B. "Multiple studies support the effectiveness of systemic chemotherapy combined with complete surgical resection of the primary hepatic tumor."*
+
+193. **What is the key factor determining survival in children with malignant liver tumors?**  
+     A. Age at diagnosis  
+     B. Serum AFP level  
+     **C. Complete resection of the primary tumor**  
+     D. Response to chemotherapy  
+     *Correct: C. "Survival depends on removal of the primary liver tumor, when imaging suggests that complete resection is feasible."*
+
+194. **Which of the following is true about hepatocellular carcinoma (HCC) in children?**  
+     A. It responds well to current chemotherapy agents  
+     B. Long-term survival is possible without complete resection  
+     **C. It remains extremely resistant to current chemotherapy agents**  
+     D. It rarely involves vascular structures  
+     *Correct: C. "For more than a quarter century, no significant progress has been made in treatment of the pediatric population with HCC. This tumor remains extremely resistant to current chemotherapy agents."*
+
+195. **Why is complete resection often impossible in children with hepatocellular carcinoma?**  
+     A. Due to the small size of children's livers  
+     **B. Because of a high incidence of multifocality, extrahepatic extension, vascular invasion, and distant metastases**  
+     C. Due to the high risk of postoperative liver failure  
+     D. Because these tumors are typically located in the porta hepatis  
+     *Correct: B. "Because of a high incidence of multifocality within the liver, extrahepatic extension to regional lymph nodes, vascular invasion, and distant metastases, complete resection is often impossible."*
+
+196. **Which vascular structures are commonly involved by hepatocellular carcinoma in children?**  
+     A. Portal vein only  
+     B. Hepatic veins only  
+     **C. Portal and hepatic venous branches, and sometimes the vena cava**  
+     D. Hepatic artery only  
+     *Correct: C. "Infiltration with thrombosis of portal and hepatic venous branches is common, and even the vena cava may be involved."*
+
+197. **Which of the following is a risk factor for the development of hepatocellular carcinoma in children?**  
+     A. Hepatitis A infection  
+     B. Obesity  
+     **C. Cirrhosis**  
+     D. Diabetes mellitus  
+     *Correct: C. "The cirrhosis found in a number of HCC livers may preclude an extensive resection."*
+
+198. **Which of the following is true about the epidemiology of primary liver cancer in children?**  
+     **A. The overall incidence is 16.5 cases per 1 million children in the 0- to 4-year age group**  
+     B. It is more common in adolescents than in infants  
+     C. It constitutes over 10% of all pediatric solid tumors  
+     D. It is equally common in all age groups of children  
+     *Correct: A. "The overall incidence of primary liver cancer, as published by the SEER program, is 16.5 cases per 1 million children in the 0- to 4-year age group."*
+
+199. **What percentage of all pediatric solid tumors do liver cancers constitute?**  
+     A. Less than 0.1%  
+     B. 0.1-0.5%  
+     **C. 0.5% to 2%**  
+     D. 5-10%  
+     *Correct: C. "Liver cancers constitute 0.5% to 2% of all pediatric solid tumors."*
+
+200. **What percentage of abdominal tumors in childhood are liver cancers?**  
+     A. 1%  
+     B. 2.5%  
+     **C. About 5%**  
+     D. 10%  
+     *Correct: C. "Liver cancers constitute about 5% of abdominal tumors in childhood."*
+

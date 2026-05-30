@@ -1,0 +1,1653 @@
+# 126 Techniques of Pancreas Transplantation
+
+Generated with Claude.
+
+**1. What percentage of new cases of renal failure per year is attributed to diabetes mellitus?**
+
+- 22%
+- 33%
+- **44%**
+- 55%
+
+*Explanation: The chapter states that diabetes remains the leading cause of renal failure, accounting for 44% of new cases every year.*
+
+---
+
+**2. In which year did William Kelly and Richard Lillehei perform the first human simultaneous pancreas and kidney transplantation?**
+
+- 1956
+- 1960
+- **1966**
+- 1969
+
+*Explanation: In 1966, William Kelly and Richard Lillehei performed the first human simultaneous pancreas and kidney transplantation at The University of Minnesota.*
+
+---
+
+**3. Where was the first human simultaneous pancreas and kidney transplantation performed?**
+
+- The University of Wisconsin
+- The University of Iowa
+- Johns Hopkins University
+- **The University of Minnesota**
+
+*Explanation: The first human simultaneous pancreas and kidney transplantation was performed at The University of Minnesota by William Kelly and Richard Lillehei.*
+
+---
+
+**4. In the first pancreas transplant, the pancreas allograft included the distal segment and was placed in which quadrant?**
+
+- Right lower quadrant
+- Right upper quadrant
+- **Left lower quadrant**
+- Left upper quadrant
+
+*Explanation: The pancreas allograft included the distal segment with ligation of the pancreatic duct and was placed in the left lower quadrant with the kidney on the right.*
+
+---
+
+**5. How long did the first pancreas transplant recipient survive after the procedure before dying of sepsis and rejection?**
+
+- 1 month
+- **2 months**
+- 3 months
+- 6 months
+
+*Explanation: The patient became immediately independent of insulin and dialysis but died after 2 months due to sepsis and rejection.*
+
+---
+
+**6. By 1969, how many grafts did the University of Minnesota team report on in their subsequent series?**
+
+- 7
+- 10
+- **13**
+- 20
+
+*Explanation: By 1969, the same team reported on their subsequent series of 13 grafts.*
+
+---
+
+**7. Collins' solution, a major advance in organ preservation for transplantation, was developed in which year?**
+
+- 1955
+- 1963
+- **1969**
+- 1975
+
+*Explanation: Progress in the field of transplantation was greatly influenced by the development of better organ preservation techniques such as Collins' solution in 1969.*
+
+---
+
+**8. The University of Wisconsin (UW) solution, an important organ preservation solution, was developed in which year?**
+
+- 1979
+- 1983
+- 1986
+- **1989**
+
+*Explanation: The University of Wisconsin (UW) solution was developed in 1989 and represented a major improvement in organ preservation techniques.*
+
+---
+
+**9. Who proposed the concept of draining the exocrine secretions into the urinary system using a duodenal patch technique?**
+
+- Kelly and Lillehei
+- Nghiem and Corry
+- Banting, Best, and Collip
+- **Sollinger et al. at The University of Wisconsin**
+
+*Explanation: The concept of draining the exocrine secretions into the urinary system was proposed by Sollinger et al. at The University of Wisconsin using the duodenal patch technique.*
+
+---
+
+**10. Who developed the "duodenal bubble" technique for urinary drainage in pancreas transplantation?**
+
+- Sollinger et al.
+- Banting et al.
+- **Nghiem and Corry at The University of Iowa**
+- Kelly and Lillehei
+
+*Explanation: The duodenal bubble technique for urinary drainage was developed by Nghiem and Corry at The University of Iowa.*
+
+---
+
+**11. Which of the following is NOT a complication associated with bladder drainage in pancreas transplantation?**
+
+- Cystitis
+- Metabolic acidosis
+- Dehydration
+- **Pulmonary embolism**
+
+*Explanation: Bladder drainage was associated with complications such as cystitis, metabolic acidosis, dehydration, reflux pancreatitis, and urethritis — not pulmonary embolism.*
+
+---
+
+**12. What is the 1-year patient survival rate for simultaneous pancreas and kidney (SPK) transplants?**
+
+- 91.3%
+- 94.0%
+- 95.5%
+- **97.4%**
+
+*Explanation: The 1-year patient survival rate is 97.4% for simultaneous pancreas and kidney transplants.*
+
+---
+
+**13. What is the 1-year pancreas graft function rate for simultaneous pancreas and kidney (SPK) transplants?**
+
+- 85.7%
+- 86.0%
+- 89.5%
+- **91.3%**
+
+*Explanation: The 1-year pancreas graft function rate is 91.3% for simultaneous pancreas and kidney transplants.*
+
+---
+
+**14. What is the 1-year pancreas graft function rate for pancreas after kidney (PAK) transplants?**
+
+- 81.0%
+- 83.5%
+- 85.7%
+- **86.0%**
+
+*Explanation: The 1-year pancreas graft function rate is 86% for pancreas after kidney (PAK) transplants.*
+
+---
+
+**15. What is the 1-year pancreas graft function rate for pancreas transplants alone (PTA)?**
+
+- 83.0%
+- 84.5%
+- **85.7%**
+- 86.0%
+
+*Explanation: The 1-year pancreas graft function rate is 85.7% for pancreas transplants alone (PTA).*
+
+---
+
+**16. What is the international 5-year patient survival rate for simultaneous pancreas-kidney transplant (1984–2009)?**
+
+- 80%
+- 85%
+- **90%**
+- 95%
+
+*Explanation: The international 5-year patient survival rate for simultaneous pancreas-kidney transplant (1984–2009) is 90%.*
+
+---
+
+**17. What is the international 10-year patient survival rate for simultaneous pancreas-kidney transplant (1984–2009)?**
+
+- 65%
+- 70%
+- **76%**
+- 80%
+
+*Explanation: The international 10-year patient survival rate for simultaneous pancreas-kidney transplant (1984–2009) is 76%.*
+
+---
+
+**18. What is the pancreatic allograft survival rate at 5 years (international data, 1984–2009)?**
+
+- 65%
+- 68%
+- 70%
+- **73%**
+
+*Explanation: The pancreatic allograft survival rate is 73% at 5 years according to international data (1984–2009).*
+
+---
+
+**19. What is the pancreatic allograft survival rate at 10 years (international data, 1984–2009)?**
+
+- 48%
+- 50%
+- 54%
+- **56%**
+
+*Explanation: The pancreatic allograft survival rate is 56% at 10 years according to international data (1984–2009).*
+
+---
+
+**20. What is the kidney allograft survival rate at 5 years in SPK transplants (international data, 1984–2009)?**
+
+- 73%
+- 76%
+- 78%
+- **81%**
+
+*Explanation: The kidney survival rate is 81% at 5 years according to international data for SPK transplants (1984–2009).*
+
+---
+
+**21. In which year did Banting, Best, and Collip successfully use pancreatic extracts in the treatment of diabetes mellitus?**
+
+- 1910
+- 1918
+- **1922**
+- 1930
+
+*Explanation: In 1922, the team of Banting, Best, and Collip successfully used pancreatic extracts in the treatment of diabetes mellitus, and the purified substance was called insulin.*
+
+---
+
+**22. Which of the following is TRUE regarding type 1 diabetics and C-peptide levels?**
+
+- They never produce any C-peptide
+- **They may produce a detectable C-peptide level but inadequate insulin to maintain euglycemia**
+- They always have undetectable C-peptide levels
+- Their C-peptide levels are always proportionate to beta-cell mass
+
+*Explanation: Type 1 diabetics may continue to produce a detectable C-peptide level but inadequate insulin in order to maintain euglycemia.*
+
+---
+
+**23. Why are C-peptide levels disproportionately elevated in patients with end-stage renal disease (ESRD)?**
+
+- Increased hepatic production
+- Decreased insulin degradation
+- **C-peptide is primarily metabolized in the kidney, so levels accumulate in ESRD**
+- Increased pancreatic secretion
+
+*Explanation: As C-peptide is primarily metabolized in the kidney, levels in end-stage renal disease (ESRD) patients can be disproportionately high and may not be representative of the actual functioning beta-cell mass.*
+
+---
+
+**24. What is the most frequent form of pancreas transplant?**
+
+- Pancreas transplant alone (PTA)
+- Pancreas after kidney (PAK)
+- Living donor distal pancreas transplantation
+- **Simultaneous pancreas and kidney transplantation (SPK)**
+
+*Explanation: The most frequent form of pancreas transplant is simultaneous pancreas and kidney transplantation (SPK) for ESRD secondary to diabetic nephropathy in a type 1 diabetic patient.*
+
+---
+
+**25. Which of the following is a life-threatening indication for pancreas transplant alone (PTA) in a patient with preserved renal function?**
+
+- Mild hyperglycemia
+- Elevated HbA1c
+- **Hypoglycemic unawareness**
+- Peripheral neuropathy
+
+*Explanation: In diabetic patients with preserved renal function, PTA would be considered only for immediately life-threatening complications such as hypoglycemic unawareness, frequent severe hypoglycemia, hyperglycemia or ketoacidosis, and incapacitating clinical and emotional problems with exogenous insulin therapy.*
+
+---
+
+**26. What type of diabetes is associated with total pancreatectomy for non-malignant disease?**
+
+- Type 1 diabetes
+- Type 2 diabetes
+- **Type 3c diabetes**
+- Gestational diabetes
+
+*Explanation: Following total pancreatectomy for non-malignant disease, candidates typically manifest a particularly brittle form of diabetes (type 3c diabetes), as theirs is a deficiency of all pancreatic hormones, not just insulin.*
+
+---
+
+**27. Which organ transplant combination has been successfully performed in recipients with cystic fibrosis to provide both endocrine and exocrine function?**
+
+- Heart-pancreas
+- **Simultaneous liver-pancreas and simultaneous lung-pancreas**
+- Liver-kidney
+- Kidney-lung
+
+*Explanation: Simultaneous liver-pancreas transplantation and simultaneous lung-pancreas transplantation have been successfully accomplished in recipients with cystic fibrosis, providing both endocrine and exocrine function.*
+
+---
+
+**28. Per current US OPTN policy, which of the following criteria does NOT qualify a candidate for pancreas transplant registration?**
+
+- Diagnosed with diabetes
+- Having pancreatic exocrine insufficiency
+- **Having a BMI greater than 35 kg/m²**
+- Requiring a multivisceral transplant for technical reasons
+
+*Explanation: Per current US OPTN policy, qualifying criteria include being diagnosed with diabetes, having pancreatic exocrine insufficiency, or requiring a pancreas as part of a multiple-organ transplant. BMI alone is not listed as an OPTN qualifying criterion.*
+
+---
+
+**29. What is the maximum glomerular filtration rate (GFR) that qualifies a candidate for the combined kidney-pancreas waiting list?**
+
+- 10 mL/min
+- 15 mL/min
+- **20 mL/min**
+- 25 mL/min
+
+*Explanation: To qualify for a combined kidney-pancreas registration, candidates must have a measured or calculated creatinine clearance or GFR less than or equal to 20 mL/min.*
+
+---
+
+**30. If a patient is on dialysis before listing for a kidney-pancreas transplant, when does their waiting time start?**
+
+- The date of listing
+- The date of ESRD diagnosis
+- **The date of initiation of dialysis**
+- The date of GFR reaching 20 mL/min
+
+*Explanation: If the patient is on dialysis before listing, the start date for waiting time is back-dated to the date of initiation of dialysis.*
+
+---
+
+**31. What percentage of type 2 diabetic recipients in the United States underwent pancreas transplantation in 2015?**
+
+- 2%
+- 7%
+- **11.7%**
+- 15%
+
+*Explanation: The percentage of type 2 diabetic recipients in the United States increased from 2% in 1995 to 7% in 2010 and then 11.7% in 2015.*
+
+---
+
+**32. In type 2 diabetics being considered for pancreas transplantation, what is recommended regarding daily total insulin requirement?**
+
+- Should be greater than 1 unit/kg/day
+- Should be greater than 2 units/kg/day
+- Should be between 0.5–1 unit/kg/day
+- **Should not be excessive (perhaps <1 unit/kg/day)**
+
+*Explanation: Criteria for selection of type 2 diabetics for pancreas transplantation require that daily total insulin requirement should not be excessive (perhaps <1 unit/kg/day), and patients should make efforts to lose weight if they are obese.*
+
+---
+
+**33. How long may it take for the survival advantage of SPK over living donor kidney transplantation alone to become evident?**
+
+- 1 year
+- 2 years
+- 3 years
+- **Up to 4 years**
+
+*Explanation: SPK also prolongs patient survival beyond the survival advantage associated with kidney transplantation alone from either a deceased or living donor, although this may take up to 4 years to become evident.*
+
+---
+
+**34. Which macrovascular disease does SPK transplantation NOT reverse but DOES slow down its progression?**
+
+- Retinopathy
+- Nephropathy
+- **Cerebrovascular disease, cardiovascular disease, and peripheral vascular disease**
+- Autonomic neuropathy
+
+*Explanation: SPK does not reverse macrovascular disease but it does slow down the progression of cerebrovascular disease, cardiovascular disease, and peripheral vascular disease.*
+
+---
+
+**35. What improvements in diabetic neuropathy have been reported following SPK transplantation?**
+
+- Resolution of autonomic neuropathy
+- Improvement in orthostatic hypotension
+- **Improvements in nerve conduction velocities and muscle action potentials**
+- Resolution of gastroparesis
+
+*Explanation: Improvements in diabetic neuropathy, as manifested by improvements in nerve conduction velocities and muscle action potentials, have been reported following SPK.*
+
+---
+
+**36. What ophthalmologic improvements have been reported following SPK transplantation?**
+
+- Complete reversal of retinal lesions
+- Resolution of cataracts
+- **Improved visual acuity and decreased vitreous hemorrhage**
+- Normalization of intraocular pressure
+
+*Explanation: Retinal lesions may improve or normalize after SPK, as manifest by improved visual acuity and decreased vitreous hemorrhage.*
+
+---
+
+**37. What is the primary reason PAK transplantation patient survival is nearly identical to that of SPK recipients, despite requiring two operations?**
+
+- Better donor matching
+- **Shorter operation time; patient is not uremic; already on baseline immunosuppression**
+- Higher-quality pancreas allografts
+- Superior immunosuppression protocols
+
+*Explanation: The PAK transplantation is a shorter operation, the patient is not uremic at the time of surgery, and the patient is already on baseline immunosuppression, which may provide an immunologic advantage.*
+
+---
+
+**38. What percentage of all pancreas transplants are performed as pancreas transplant alone (PTA)?**
+
+- 2%
+- 5%
+- **8%**
+- 12%
+
+*Explanation: Only 8% of all pancreas transplants are performed as PTA.*
+
+---
+
+**39. Which of the following has led to the steady decline in the number of pancreas transplant alone (PTA) procedures?**
+
+- Increased surgical complications
+- Decreased donor availability
+- **Improved insulin therapy options and pump technologies combined with concern regarding outcomes**
+- Stricter OPTN policies
+
+*Explanation: Improved insulin therapy options and pump technologies combined with concern regarding outcomes after PTA has led to a steady decline in the number of PTAs.*
+
+---
+
+**40. Compared with recipients undergoing pancreas transplantation with a kidney, PTA recipients have which of the following characteristics contributing to higher rejection rates?**
+
+- Older age and presence of uremia
+- **Typically younger age and the absence of uremia**
+- Higher BMI and more comorbidities
+- More sensitized immune profile
+
+*Explanation: Potential explanations for higher rejection in PTA include the typically younger age and the absence of uremia in the patient population, both of which may contribute to a more virile immune system.*
+
+---
+
+**41. What is the 1-year graft survival rate for pancreas transplant alone (PTA)?**
+
+- 90%
+- 93%
+- 95%
+- **97%**
+
+*Explanation: PTA graft survival is 97% at 1 year and 85.7% at 5 years, comparable to that for SPKs and PAKs.*
+
+---
+
+**42. Which of the following best describes the advantage of using a living donor for distal pancreas transplantation?**
+
+- Eliminates the need for immunosuppression
+- Lower risk of graft pancreatitis
+- **Allows recipient preconditioning and potentially enables paired donation**
+- Superior long-term graft function compared with deceased donor
+
+*Explanation: Using a living donor allows recipient preconditioning, and increased use of living donor distal pancreas transplantation could even allow for paired donation in certain circumstances.*
+
+---
+
+**43. In the University of Wisconsin's 22-year follow-up study of 1000 kidney-pancreas transplantations, patient survival following SPK was superior to which of the following?**
+
+- Only cadaveric renal transplantation
+- Only dialysis patients
+- Only PAK transplantation
+- **All other options including dialysis, deceased donor kidney, and living donor kidney transplantation**
+
+*Explanation: In this report, patient survival following transplantation of both a kidney and a pancreas was dramatically superior to all other options for type 1 diabetic uremic patients, particularly cadaveric renal transplantation, dialysis, and even living donor renal transplant alone.*
+
+---
+
+**44. Which of the following comorbidities is associated with 20% 1-year mortality in SPK and PAK recipients?**
+
+- Hypertension
+- **Coronary artery disease**
+- Peripheral vascular disease
+- Diabetic retinopathy
+
+*Explanation: Coronary artery disease is associated with 20% 1-year mortality in SPK and PAK recipients.*
+
+---
+
+**45. According to the chapter, which group of pancreas transplant candidates should undergo cardiac catheterization rather than just a noninvasive stress test?**
+
+- All transplant candidates
+- Only those above age 65
+- **Recipients who are older, have had diabetes for more than 25 years, have a smoking history, or are on dialysis**
+- Only those with known coronary artery disease
+
+*Explanation: Recipients who are older, have had diabetes for more than 25 years, have a smoking history, or are on dialysis should undergo cardiac catheterization, as noninvasive stress test results in these patients have a high incidence of being falsely negative.*
+
+---
+
+**46. Which imaging modality is recommended to evaluate calcification and atherosclerosis of the iliac vessels in pancreas transplant candidates?**
+
+- MRI angiography
+- Doppler ultrasound
+- Conventional angiography
+- **Computed tomography angiogram (CTA) of the abdomen and pelvis**
+
+*Explanation: If there are any concerns, calcification and atherosclerosis of the iliac vessels can be evaluated with a computed tomography angiogram (CTA) of the abdomen and pelvis.*
+
+---
+
+**47. Which of the following is an ABSOLUTE contraindication to pancreas transplantation?**
+
+- Age above 65 years
+- BMI above 30 kg/m²
+- **Current active infections**
+- Mild coronary artery disease amenable to revascularization
+
+*Explanation: Absolute contraindications to pancreas transplantation include current active infections, malignancy, substance abuse, uncontrolled psychiatric issues, ongoing noncompliance, and shortened life expectancy.*
+
+---
+
+**48. What FEV1 value represents an absolute pulmonary contraindication to pancreas transplantation?**
+
+- FEV1 <50%
+- FEV1 <40%
+- FEV1 <35%
+- **FEV1 <25%**
+
+*Explanation: Severe chronic obstructive pulmonary disease with FEV1 <25% is listed as an absolute pulmonary contraindication to pancreas transplantation.*
+
+---
+
+**49. Which screening questionnaire is recommended for identifying patients at high risk for obstructive sleep apnea prior to pancreas transplantation?**
+
+- Epworth Sleepiness Scale
+- STOP-BANG questionnaire
+- **Berlin Questionnaire**
+- Pittsburgh Sleep Quality Index
+
+*Explanation: Effective screening tests such as the Berlin Questionnaire should be employed to identify patients at high risk for obstructive sleep apnea; these patients should undergo a sleep study for evaluation.*
+
+---
+
+**50. What is recommended for all pancreas transplant candidates regardless of symptoms, due to its frequent occurrence in this population?**
+
+- Echocardiogram
+- Carotid Doppler ultrasound
+- **Gastric emptying study (for diabetic gastroparesis)**
+- Hypercoagulable workup
+
+*Explanation: All patients should have a gastric emptying study to evaluate for diabetic gastroparesis as this is a very common issue within the diabetic population referred for a pancreas transplant and the most common indication for readmission after transplant.*
+
+---
+
+**51. Why do the authors recommend a hypercoagulable workup for all pancreas transplant recipients?**
+
+- Routine preoperative requirement
+- Risk of deep vein thrombosis from prolonged surgery
+- **Postoperative thrombosis is a major concern in all cases**
+- Requirement by OPTN policy
+
+*Explanation: The authors recommend a hypercoagulable workup for all recipients because postoperative thrombosis is a major concern in all cases.*
+
+---
+
+**52. Which donor characteristic is associated with better long-term graft function in pancreas transplantation?**
+
+- Older donor age
+- Higher BMI
+- Cerebrovascular cause of death
+- **Donation after brain death**
+
+*Explanation: Better long-term graft function is associated with donation after brain death, younger age (between 10 and 40 years), BMI less than 30 kg/m², and cause of brain death other than cerebrovascular event.*
+
+---
+
+**53. What is the optimal donor age range associated with better long-term pancreas graft function?**
+
+- 5–15 years
+- 15–30 years
+- **10–40 years**
+- 20–50 years
+
+*Explanation: Better long-term graft function is associated with younger age between 10 and 40 years of age.*
+
+---
+
+**54. What is the optimal BMI threshold for a pancreas donor associated with better long-term graft function?**
+
+- Less than 25 kg/m²
+- Less than 27 kg/m²
+- **Less than 30 kg/m²**
+- Less than 35 kg/m²
+
+*Explanation: Better long-term graft function is associated with BMI less than 30 kg/m² in the donor.*
+
+---
+
+**55. What does the Pancreas Donor Risk Index (PDRI) include?**
+
+- Only donor age and BMI
+- Only transplant preservation time
+- **10 donor and 1 transplant characteristic**
+- 5 donor and 5 transplant characteristics
+
+*Explanation: The Pancreas Donor Risk Index (PDRI) was developed to better predict pancreas allograft survival after transplant and includes 10 donor and one transplant characteristic.*
+
+---
+
+**56. Which of the following is NOT included in the donor factors of the Pancreas Donor Risk Index (PDRI)?**
+
+- Donor sex and age
+- Black race and Asian race
+- BMI and cause of death
+- **Recipient sensitization level**
+
+*Explanation: The donor factors in PDRI include donor sex, age, black race, Asian race, BMI, cause of death, creatinine, height, and DCD status. Recipient sensitization level is not included.*
+
+---
+
+**57. What P-PASS score threshold classifies a donor as suitable for pancreas transplantation?**
+
+- Less than 10
+- Less than 12
+- **Less than 17**
+- Less than 20
+
+*Explanation: In the P-PASS scoring system, individual factors were given weighted points and a tally of less than 17 was deemed as a suitable donor.*
+
+---
+
+**58. Donors with a P-PASS score ≥17 are considered how much more likely to be declined compared with donors with P-PASS <17?**
+
+- Twice as likely
+- **Three times more likely**
+- Four times more likely
+- Five times more likely
+
+*Explanation: Donors with P-PASS ≥17 were considered suboptimal and three times more likely to be declined.*
+
+---
+
+**59. Which of the following pancreas characteristics on inspection should lead to discarding the organ?**
+
+- Peripancreatic fat
+- Mild edema
+- **Extensive fibrosis/calcification and intralobular fat**
+- Minor surface hematomas
+
+*Explanation: Pancreases with extensive fibrosis/calcification, intralobular fat (as opposed to peripancreatic fat, which is considered acceptable in many cases), obvious trauma or hematomas, and extensive edema should be discarded.*
+
+---
+
+**60. What is the recommended focus regarding pancreatic ischemia reperfusion injury during organ procurement and preservation?**
+
+- Maximizing flush volumes
+- Using high-pressure perfusion
+- **Minimizing cold ischemia times and increasing post-reperfusion blood flow**
+- Prolonged hypothermic storage
+
+*Explanation: There are no reliable markers for pancreatic ischemia reperfusion injury; the focus should be on minimizing cold ischemia times and increasing post-reperfusion blood flow.*
+
+---
+
+**61. What type of incision is used for adequate exposure during pancreas procurement from a deceased donor?**
+
+- Transverse laparotomy
+- Right subcostal incision
+- **Midline incision from suprasternal notch to symphysis pubis**
+- Bilateral subcostal (chevron) incision
+
+*Explanation: Adequate exposure is obtained through a midline incision from the suprasternal notch to the symphysis pubis with either division of the lateral abdominal walls or with a wide Balfour retractor.*
+
+---
+
+**62. What maneuver is performed during deceased donor pancreas procurement to expose the infrahepatic vena cava, renal veins, abdominal aorta, and superior mesenteric artery?**
+
+- Left medial visceral rotation
+- Pringle maneuver
+- **Right medial visceral rotation using Cattell-Braasch and extended Kocher maneuver**
+- Kocher maneuver alone
+
+*Explanation: A right medial visceral rotation through a combination of Cattell-Braasch maneuver and an extended Kocher maneuver is performed to expose the infrahepatic vena cava, renal veins, abdominal aorta, and superior mesenteric artery.*
+
+---
+
+**63. How is mobilization of the pancreas carried out to minimize handling and potential injury?**
+
+- From head to tail using the duodenum as a handle
+- From superior to inferior margin
+- **Using the spleen as a handle, mobilizing from tail toward the head**
+- From uncinate process toward the tail
+
+*Explanation: Mobilization of the spleen by division of lienocolic and lienophrenic ligaments and using the spleen as a handle facilitates careful dissection and subsequent mobilization of the pancreas from the tail toward the head. This technique minimizes handling and potential injury to the pancreas.*
+
+---
+
+**64. At what dose is systemic heparinization administered before aortic cannulation during organ procurement?**
+
+- 50 U/kg
+- 75 U/kg
+- **100 U/kg**
+- 150 U/kg
+
+*Explanation: The infrarenal aorta is then cannulated retrograde after systemic heparinization (100 U/kg) and the supraceliac or thoracic aorta is clamped to isolate the abdominal vasculature.*
+
+---
+
+**65. What is the recommended minimum distance away from the head of the pancreas at which the root of the small bowel mesentery should be divided during procurement?**
+
+- 0.5 cm
+- 1 cm
+- **2 cm**
+- 3 cm
+
+*Explanation: The root of the small bowel mesentery is divided either with a stapler or serial ligation at a good length (at least 2 cm) away from the head of the pancreas so as to avoid injury by inclusion of the inferior pancreaticoduodenal artery into the staple line.*
+
+---
+
+**66. In what percentage of donors is an accessory or aberrant right hepatic artery arising from the SMA identified?**
+
+- 2%–5%
+- 5%–8%
+- **10%–17%**
+- 20%–25%
+
+*Explanation: In cases where an accessory or aberrant right hepatic artery is identified arising from the SMA, this occurs in 10%–17% of donors.*
+
+---
+
+**67. How should the portal vein be divided during organ procurement to ensure adequate length with the pancreas?**
+
+- Divided at the level of the pancreas
+- Divided as close to the liver as possible
+- **Divided midway between the lower margin of the liver and the upper margin of the pancreas, or at least at the level of the coronary (left gastric) vein**
+- Divided at the level of the superior mesenteric vein confluence
+
+*Explanation: It is imperative to divide the portal vein so that an adequate length of the portal vein remains available with the pancreas. This is done ideally by dividing it midway between the lower margin of the liver and the upper margin of the pancreas or at least at the level of the coronary (left gastric) vein.*
+
+---
+
+**68. During pancreas procurement when there is simultaneous intestinal graft procurement, which vessel is vital for maintaining the arterial supply to the head of the pancreas?**
+
+- Splenic artery
+- Gastroduodenal artery
+- **Inferior pancreaticoduodenal artery**
+- Middle colic artery
+
+*Explanation: The inferior pancreaticoduodenal artery is vital for maintaining the arterial supply to the head of the pancreas and must be preserved with the pancreas graft during simultaneous intestinal procurement.*
+
+---
+
+**69. What is a key challenge specific to pancreas procurement during donation after circulatory death (DCD)?**
+
+- Longer flush times
+- Higher risk of infection
+- **Need to achieve cannulation and infusion of cold preservative solution very quickly after declaration of death**
+- Inability to perform en bloc procurement
+
+*Explanation: Procurement of a pancreas during donation after circulatory death (DCD) is a more challenging process due to the need to achieve cannulation and infusion of cold preservative solution very quickly after declaration of death.*
+
+---
+
+**70. During back-table preparation, why is dissection along the superior margin of the pancreas not advocated?**
+
+- Risk of duodenal injury
+- Risk of portal vein injury
+- **The splenic artery is tortuous and frequently extrapancreatic, at risk for inadvertent injury**
+- Risk of bile duct injury
+
+*Explanation: Dissection along the superior margin of the pancreas is not advocated, as the splenic artery (SA), being tortuous in its course and frequently extrapancreatic, is at risk for inadvertent injury.*
+
+---
+
+**71. How long a duodenal segment is typically used for bladder drainage compared with enteric drainage during back-table preparation?**
+
+- Bladder drainage requires a longer segment (8–10 cm)
+- Both require equal lengths (5–7 cm)
+- **Bladder drainage dictates a shorter segment (4–6 cm) than enteric drainage**
+- The length is unrelated to drainage type
+
+*Explanation: The length of the duodenal segment is dependent on the type of exocrine drainage planned. Usually bladder drainage dictates a shorter segment (4–6 cm) of duodenum than enteric drainage.*
+
+---
+
+**72. How is the arterial inflow reconstruction to the pancreas allograft performed on the back table?**
+
+- Using the donor renal artery as an interposition graft
+- Anastomosing the splenic artery to the portal vein
+- **Using donor iliac vessels as a Y-graft, anastomosing the splenic artery and SMA to the internal and external iliac arteries respectively**
+- Direct anastomosis of the celiac trunk to the recipient aorta
+
+*Explanation: The arterial inflow reconstruction to the graft is done using the donor iliac vessels as a Y-graft. The allograft splenic artery (SA) and SMA are anastomosed to the internal and external iliac arteries, respectively.*
+
+---
+
+**73. What are the two main variables in the recipient implantation technique for pancreas transplantation?**
+
+- Arterial reconstruction and organ orientation
+- Cold ischemia time and reperfusion technique
+- **Venous drainage technique and exocrine drainage technique**
+- Immunosuppression protocol and surgical approach
+
+*Explanation: The variables in implantation technique involve the venous and exocrine drainage techniques, both of which have two different options.*
+
+---
+
+**74. Which of the following describes the physiologic difference between portal and systemic venous drainage in pancreas transplantation?**
+
+- Portal drainage results in higher insulin levels
+- Systemic drainage results in normal insulin levels
+- **Portal drainage results in first-pass metabolism of insulin in the liver with normal insulin levels; systemic drainage bypasses the liver initially resulting in higher insulin levels**
+- There is no difference in insulin metabolism
+
+*Explanation: Drainage into the portal circulation results in first-pass metabolism of insulin in the liver resulting in a normal insulin level, whereas systemic drainage bypasses the liver initially and results in higher insulin levels in the circulation.*
+
+---
+
+**75. Has portal drainage shown major benefit over systemic drainage in long-term outcomes of pancreas transplantation?**
+
+- Yes, significantly better graft survival
+- Yes, significantly better patient survival
+- Yes, significantly better metabolic effects
+- **No, long-term graft survival, patient survival, and metabolic effects have not shown any major benefit**
+
+*Explanation: Although portal drainage is more physiologic in theory, long-term graft survival, patient survival, and metabolic effects have not shown any major benefit over systemic drainage.*
+
+---
+
+**76. What percentage of all pancreas transplants currently use enteric drainage?**
+
+- 65%
+- 70%
+- 80%
+- **Almost 85%**
+
+*Explanation: Enteric drainage accounts for almost 85% of all pancreas transplants.*
+
+---
+
+**77. Why is native proximal jejunum preferred over distal jejunum for enteric anastomosis in pancreas transplantation?**
+
+- Proximal anastomosis is technically easier
+- Proximal jejunum has better blood supply
+- **Distal jejunal anastomosis is more prone to diarrhea from poor absorption and is inaccessible to endoscopy**
+- Proximal jejunum allows for better immunologic monitoring
+
+*Explanation: Native proximal jejunum is preferred as distal jejunal anastomosis is more prone to diarrhea from poor absorption of pancreatic secretions and is inaccessible to endoscopy.*
+
+---
+
+**78. At what distance distal to the ligament of Treitz is the commonly used side-to-side enteric anastomosis for exocrine drainage performed?**
+
+- 20 cm
+- 30 cm
+- **About 45 cm**
+- 60 cm
+
+*Explanation: Different variations have been tried such as the commonly used side-to-side anastomosis about 45 cm distal to the ligament of Treitz.*
+
+---
+
+**79. What is the touted advantage of duodenoduodenal or duodenogastric anastomosis for exocrine drainage?**
+
+- Technically simpler
+- Lower risk of anastomotic leak
+- **The allograft is accessible for monitoring and treatment through endoscopy, endoscopic ultrasound, and ERCP**
+- Lower rejection rates
+
+*Explanation: The latter two techniques (duodenoduodenal and duodenogastric anastomosis) are touted to confer the benefit of the allograft being accessible for monitoring and treatment through endoscopy, endoscopic ultrasound, and endoscopic retrograde cholangiopancreatography.*
+
+---
+
+**80. What stapling device technique was developed by Fridell et al. for creating the enteric anastomosis in pancreas transplantation?**
+
+- Linear stapler technique
+- Circular stapler with side-to-side approach
+- **End-to-end anastomotic (EEA) circular stapling device**
+- GIA stapler technique
+
+*Explanation: An alternative way of doing the enteric anastomosis using an end-to-end anastomotic stapling device was developed by Fridell et al. and was shown to be a safe, fast, and easier approach than the classic hand-sewn technique with reduced risk of spillage and contamination.*
+
+---
+
+**81. When the pancreas is placed with head-up orientation, what must be done to prevent internal hernia and volvulus?**
+
+- Place a mesh over the anastomosis
+- Fix the pancreas to the posterior peritoneum with sutures
+- **Close the mesenteric defect behind the anastomosis by approximation of the native peritoneum around the allograft duodenum**
+- Leave the defect open to prevent tension
+
+*Explanation: With a head-up orientation, it is essential that the mesenteric defect created behind the anastomosis be closed by approximation of the native peritoneum around the allograft duodenum in order to prevent internal hernia and volvulus.*
+
+---
+
+**82. Who first reported ipsilateral placement of the pancreas and kidney on the right side in SPK transplantation with systemic venous and enteric exocrine drainage?**
+
+- Sollinger et al.
+- Kelly and Lillehei
+- Sutherland and Gruessner
+- **Fridell et al. in 2004**
+
+*Explanation: Ipsilateral implantation of the pancreas and the kidney on the right side, with systemic venous and enteric exocrine drainage of the pancreas, was first reported in 2004 by Fridell et al.*
+
+---
+
+**83. What is the main advantage of ipsilateral placement of both pancreas and kidney in SPK transplantation?**
+
+- Shorter operative time
+- Better exposure for anastomoses
+- **The left iliac system is preserved as virgin territory for future use should the recipient need another kidney**
+- Lower risk of graft thrombosis
+
+*Explanation: The advantage of this approach is that the left iliac system is preserved as virgin territory for future use were the recipient to require another kidney.*
+
+---
+
+**84. What is the advantage of transplanting the pancreas BEFORE the kidney in SPK transplantation?**
+
+- Reduces total operative time
+- Simplifies the anastomoses
+- **Shortens ischemia time for the more sensitive pancreas, renders the patient euglycemic at time of kidney implantation, and provides better operative exposure**
+- Reduces risk of immunologic rejection
+
+*Explanation: Pancreas followed by kidney shortens the ischemia time for the more sensitive pancreas allograft, renders the patient euglycemic at the time of kidney implantation, and provides better operative exposure for the difficult pancreatic anastomoses.*
+
+---
+
+**85. What is a disadvantage of transplanting the pancreas BEFORE the kidney in SPK transplantation?**
+
+- Prolongs kidney ischemia time
+- Higher risk of portal vein thrombosis
+- **The enteric anastomosis makes the field potentially contaminated for the kidney transplant**
+- Increased need for blood transfusions
+
+*Explanation: Since pancreas transplant involves an enteric anastomosis, it makes the field potentially contaminated for the kidney transplant. Also, the presence of the pancreatic tail in the pelvis adds a degree of complexity to the kidney transplantation.*
+
+---
+
+**86. What is the recommended postoperative monitoring setting after pancreas transplantation?**
+
+- Regular ward with hourly nursing checks
+- Step-down unit with daily blood sugar checks
+- **Intensive care unit with frequent blood sugar checks, urine output monitoring, and fluid/electrolyte replacement**
+- Outpatient setting with daily clinic visits
+
+*Explanation: Postoperative admission to the intensive care unit is preferred for close monitoring with frequent blood sugar checks, urine output monitoring, and adequate fluid and electrolyte replacements as well as for monitoring of induction immunosuppression.*
+
+---
+
+**87. What is considered an early indicator of graft problems after pancreas transplantation?**
+
+- Rising creatinine
+- Elevated amylase
+- Fever
+- **Hyperglycemia**
+
+*Explanation: Hyperglycemia is an early indicator of graft problems, and many surgeons have a low threshold for evaluating the graft for perfusion or thrombosis.*
+
+---
+
+**88. Which imaging modality is most commonly used to evaluate blood flow to transplanted grafts postoperatively?**
+
+- CT angiography
+- MRI
+- Radionucleotide scintigraphy
+- **Ultrasound with Doppler**
+
+*Explanation: Ultrasound with Doppler is most commonly used to evaluate blood flow to the grafts because it is immediately available and portable.*
+
+---
+
+**89. What is the technical failure rate in pancreas transplantation?**
+
+- 1%–3%
+- 4%–6%
+- **7%–9%**
+- 10%–15%
+
+*Explanation: The technical failure rate in pancreas transplantation is 7% to 9%; the reexploration rate is as high as 35%.*
+
+---
+
+**90. What percentage of all early graft losses in pancreas transplantation are due to technical failures?**
+
+- 40%
+- 50%
+- 60%
+- **70%**
+
+*Explanation: Of all early graft losses, 70% are due to technical failures.*
+
+---
+
+**91. What is the reported incidence of pancreas graft thrombosis?**
+
+- 1%–3%
+- **3%–10%**
+- 10%–15%
+- 15%–20%
+
+*Explanation: The incidence of pancreas graft thrombosis is 3% to 10%.*
+
+---
+
+**92. Which of the following is a risk factor for pancreas graft thrombosis?**
+
+- Young donor age
+- Low BMI donor
+- Deceased donor kidney transplantation
+- **Donor death due to cerebrovascular accident**
+
+*Explanation: Risk factors for pancreas graft thrombosis include donor age, donor death due to cerebrovascular accident, donor hemodynamic instability and massive volume resuscitation, suboptimal pancreas organ recovery, and preservation and ischemia reperfusion injury.*
+
+---
+
+**93. What is the most common treatment for pancreas graft thrombosis, particularly with occlusive thrombosis of the donor portal vein?**
+
+- Anticoagulation alone
+- Thrombolysis
+- Thrombectomy
+- **Allograft pancreatectomy**
+
+*Explanation: Treatment is most often allograft pancreatectomy, particularly with occlusive thrombosis of the donor portal vein, to prevent hemodynamic compromise and systemic inflammatory response from the infarcted organ and pulmonary embolism for systemically drained grafts.*
+
+---
+
+**94. What graft salvage rate is achievable with early diagnosis and immediate intervention for complete thrombosis of the pancreas allograft?**
+
+- 20%
+- 30%
+- 38%
+- **45%**
+
+*Explanation: The most important aspect of management of this graft-threatening complication is early diagnosis and immediate intervention, which can allow a graft salvage rate of 45% for complete thrombosis.*
+
+---
+
+**95. Which preference is described for managing the donor portal vein to prevent thrombosis from lateral kinking?**
+
+- Keeping the portal vein as long as possible
+- Using a diamond patch from donor vena cava
+- Fence angioplasty of the portal vein
+- **Keeping the donor portal vein as short as possible by transecting near the confluence of the splenic vein and the superior mesenteric vein**
+
+*Explanation: The preference is to keep the donor portal vein as short as possible by transecting as near as possible to the confluence of the splenic vein and the superior mesenteric vein to prevent any lateral kinking that may predispose to thrombosis.*
+
+---
+
+**96. What lubricating product is described as being placed on the front of the pancreas allograft to help prevent adhesion formation?**
+
+- Hyaluronic acid
+- Fibrin glue
+- **Seprafilm**
+- Oxidized regenerated cellulose
+
+*Explanation: It is the authors' practice to place a lubricating product such as Seprafilm on the front of the pancreas allograft in the retroperitoneum to help prevent adhesion formation.*
+
+---
+
+**97. Approximately what percentage of intraabdominal infections after pancreas transplantation are associated with an anastomotic leak?**
+
+- 10%
+- 20%
+- **30%**
+- 40%
+
+*Explanation: Approximately 30% of intraabdominal infections are associated with an anastomotic leak.*
+
+---
+
+**98. How are leaks in enteric-drained pancreas transplants most frequently managed?**
+
+- Immediate surgical exploration
+- Allograft pancreatectomy
+- Conversion to bladder drainage
+- **Percutaneous drainage, with occasional need for surgical intervention**
+
+*Explanation: Leaks in enteric-drained pancreases frequently resolve with percutaneous drainage but may occasionally need surgical intervention and may even mandate allograft pancreatectomy.*
+
+---
+
+**99. Which of the following is TRUE regarding bleeding after pancreas transplantation?**
+
+- It is the most common cause of graft loss
+- It is responsible for 3%–5% of graft losses
+- **It is the most frequent indication for relaparotomy but is only responsible for 0.3% of graft losses**
+- Bleeding from arterial pseudoaneurysm is the most common type
+
+*Explanation: Bleeding is the most frequent indication for relaparotomy but is only responsible for 0.3% of graft losses.*
+
+---
+
+**100. What is the preferred management approach for arterial pseudoaneurysms complicating pancreas transplantation?**
+
+- Open surgical repair
+- Allograft pancreatectomy
+- Conservative management with anticoagulation
+- **Endovascular management with stent placement**
+
+*Explanation: An endovascular approach with stent placement covering the origin of the donor iliac artery Y graft is potentially lifesaving in these cases of arterial pseudoaneurysm.*
+
+---
+
+**101. Which immunosuppressive agents have led to acute rejection of the pancreas allograft becoming much less common?**
+
+- Mycophenolate mofetil and steroids
+- Sirolimus and everolimus
+- Azathioprine and steroids
+- **Calcineurin inhibitors (CNIs) cyclosporine and tacrolimus**
+
+*Explanation: With the introduction of the CNIs cyclosporine and tacrolimus, acute rejection of the pancreas allograft has become much less common.*
+
+---
+
+**102. Which induction agents have improved short-term survival in pancreas transplantation by depleting lymphocytes?**
+
+- Basiliximab and daclizumab
+- **Rabbit antithymocyte globulin or alemtuzumab**
+- Steroids and mycophenolate
+- Sirolimus and tacrolimus
+
+*Explanation: The use of lymphocyte-depleting antibodies such as rabbit antithymocyte globulin or alemtuzumab for induction has further improved short-term survival.*
+
+---
+
+**103. What percentage of SPK patients receive tacrolimus and mycophenolate mofetil for maintenance therapy?**
+
+- 60%
+- 70%
+- 75%
+- **More than 80%**
+
+*Explanation: For maintenance therapy, more than 80% of SPK patients receive tacrolimus and mycophenolate mofetil.*
+
+---
+
+**104. Approximately what percentage of SPK recipients use steroids as part of their maintenance immunosuppression?**
+
+- 40%
+- 50%
+- **About 60%**
+- 75%
+
+*Explanation: Steroids are used in about 60% of recipients; however, there has been recent interest and an increasing trend toward steroid avoidance.*
+
+---
+
+**105. What is the second most common cause of readmission in the first 3 months after pancreas transplantation?**
+
+- Graft pancreatitis
+- **Infection**
+- Rejection
+- Anastomotic leak
+
+*Explanation: Infection is the second most common cause of readmission in the first 3 months and the most common cause of readmission over the long term.*
+
+---
+
+**106. What percentage of pancreas transplant recipients will have an infection in the first year?**
+
+- 50%
+- 70%
+- 85%
+- **Most (virtually all) recipients**
+
+*Explanation: Most pancreas transplant recipients will have an infection in the first year.*
+
+---
+
+**107. What percentage of cytomegalovirus infections in pancreas transplants are tissue invasive?**
+
+- 10%
+- 15%
+- 20%
+- **24%**
+
+*Explanation: Cytomegalovirus infection in pancreas transplants can be tissue invasive (24%) and have adverse effects on patient and graft survival.*
+
+---
+
+**108. What is BK virus, and why is it clinically significant in SPK or PAK recipients?**
+
+- A retrovirus causing lymphoma
+- A herpesvirus causing rejection
+- **A Polyoma virus that can cause nephropathy of the transplanted kidney, a reversible cause of renal allograft failure when recognized early**
+- A parvovirus causing anemia
+
+*Explanation: BK virus, a type of Polyoma virus, is frequently seen in immunosuppressed patients. BK virus nephropathy of the transplanted kidney in SPK or PAK recipients is a reversible cause of renal allograft failure when recognized early.*
+
+---
+
+**109. What is the cornerstone of management of viral infections in transplant recipients?**
+
+- Prophylactic antiviral therapy
+- Increased immunosuppression
+- **Reduction of immunosuppression**
+- Intravenous immunoglobulin administration
+
+*Explanation: The cornerstone of management of viral infections in transplant recipients involves reduction of immunosuppression.*
+
+---
+
+**110. What are the most common cancers that occur in transplant patients?**
+
+- Lymphomas
+- Leukemias
+- Colorectal cancers
+- **Skin cancers**
+
+*Explanation: The most common cancers that occur in transplant patients are skin cancers.*
+
+---
+
+**111. Which type of cancer represents the second most common malignancy in pancreas transplant recipients?**
+
+- Hepatocellular carcinoma
+- Cervical cancer
+- **Post-transplant lymphoproliferative disorders (PTLDs)**
+- Sarcoma
+
+*Explanation: Post-transplant lymphoproliferative disorders (PTLDs) are the second most common cancers; non-Hodgkin's lymphoma is the most common PTLD.*
+
+---
+
+**112. What is the risk of death from PTLD in SPK transplant recipients?**
+
+- 5%–10%
+- 2%–5%
+- 1%–2%
+- **Less than 0.6%**
+
+*Explanation: PTLDs in SPK may be more common than or comparable with kidney alone transplants; the risk of death is low (<0.6%) because treatment is effective, particularly with the use of rituximab for CD20-positive cancers.*
+
+---
+
+**113. Which drug is particularly effective for treating CD20-positive PTLDs in transplant recipients?**
+
+- Cyclophosphamide
+- Methotrexate
+- **Rituximab**
+- Bortezomib
+
+*Explanation: The risk of death from PTLD is low because treatment is effective, particularly with the use of rituximab for CD20-positive cancers.*
+
+---
+
+**114. Which of the following long-term complications of diabetes may improve with improved glycemic control after pancreas transplantation?**
+
+- Gastroparesis
+- Autonomic neuropathy
+- **Microvascular disease, nephropathy, and retinopathy**
+- Cardiovascular disease
+
+*Explanation: Some complications, such as microvascular disease, nephropathy, and retinopathy, improve with improved glycemic control.*
+
+---
+
+**115. Which prokinetic agent is the primary pharmacological option for managing gastroparesis in pancreas transplant candidates in the United States?**
+
+- Cisapride
+- Domperidone
+- Erythromycin
+- **Metoclopramide**
+
+*Explanation: Medical management with prokinetic agents is limited mostly to metoclopramide as other available agents are either not approved in the United States (cisapride and domperidone) or interact with the immunosuppression medications, particularly tacrolimus (erythromycin).*
+
+---
+
+**116. What analgesic approach is recommended to minimize postoperative narcotic usage after pancreas transplantation?**
+
+- Scheduled intravenous opioids
+- Epidural analgesia
+- **Nonnarcotic analgesic alternatives such as transversus abdominal plane blocks**
+- Oral opioid regimens
+
+*Explanation: Ideally, postoperative narcotic usage should be minimized through use of nonnarcotic analgesic alternatives such as transversus abdominal plane blocks.*
+
+---
+
+**117. Which medications may help mitigate the impact of narcotics on colonic function postoperatively in pancreas transplant recipients?**
+
+- Lactulose and polyethylene glycol
+- **Methylnaltrexone or alvimopan**
+- Metoclopramide and domperidone
+- Bisacodyl and senna
+
+*Explanation: Some of the narcotic impact on colonic function can be mitigated through use of medications such as methylnaltrexone or alvimopan.*
+
+---
+
+**118. What newer endoscopic approach has been reported for successful resolution of symptoms of gastroparesis?**
+
+- Endoscopic balloon dilation
+- Endoscopic pyloric botulinum toxin injection
+- **Gastric per-oral endoscopic (pyloro) myotomy (G-POEM)**
+- Endoscopic stenting of the pylorus
+
+*Explanation: Newer endoscopic approaches such as gastric per-oral endoscopic (pyloro) myotomy (G-POEM) have reported successful resolution of symptoms of gastroparesis, but long-term data are lacking.*
+
+---
+
+**119. How does autonomic neuropathy typically manifest after SPK transplantation?**
+
+- Diabetic diarrhea
+- Neurogenic bladder
+- **Orthostatic hypotension**
+- Erectile dysfunction
+
+*Explanation: Autonomic neuropathy usually manifests as orthostatic hypotension and may be particularly troublesome after SPK where diuresis of the new kidney and high-volume intravenous fluid replacement complicate the picture.*
+
+---
+
+**120. Which of the following pharmacotherapies may be required to control blood pressure fluctuations due to autonomic neuropathy in postoperative pancreas recipients?**
+
+- Amlodipine and metoprolol
+- Furosemide and spironolactone
+- **Midodrine, fludrocortisone, pyridostigmine, methylphenidate, or droxidopa**
+- Hydralazine and isosorbide dinitrate
+
+*Explanation: In order to support their blood pressure, it is not unusual for postoperative pancreas recipients to require additional pharmacotherapy such as midodrine, fludrocortisone, pyridostigmine, methylphenidate, or droxidopa to control blood pressure fluctuations.*
+
+---
+
+**121. When was the first human pancreas transplant performed?**
+
+- 1960
+- 1963
+- **1966**
+- 1970
+
+*Explanation: William Kelly and Richard Lillehei performed the first human simultaneous pancreas and kidney transplantation in 1966 at The University of Minnesota.*
+
+---
+
+**122. Which of the following best describes why most diabetics would NOT qualify for a pancreas transplant without a kidney indication?**
+
+- Age restrictions limit eligibility
+- Surgical mortality is too high
+- **The risk of remaining diabetic is generally less than the risks of immunosuppression**
+- Donor organs are not available for PTA
+
+*Explanation: Generally, the risk of remaining diabetic is less than the risks of immunosuppression, so most diabetics would not qualify for a pancreas transplant. However, candidates for a kidney transplant require immunosuppression anyway, so the trade-off is greatly lessened.*
+
+---
+
+**123. What did David Sutherland and the Minnesota team perform that was also the first successful extrarenal living donor organ transplant?**
+
+- First SPK transplant
+- First DCD pancreas transplant
+- **First successful living donor partial pancreas transplantation**
+- First PTA for hypoglycemic unawareness
+
+*Explanation: David Sutherland and the team from Minnesota performed the first successful living donor partial pancreas transplantation, which was also the first successful extrarenal living donor organ transplant.*
+
+---
+
+**124. What advantage does bladder drainage have over enteric drainage in monitoring pancreas allograft function?**
+
+- Lower complication rate
+- Technically simpler anastomosis
+- **Amount of amylase secreted by the pancreas can be measured in the urine, providing information about allograft function**
+- Better long-term graft survival
+
+*Explanation: The bladder drainage technique had the advantages of eliminating an enteric anastomosis and providing more information about allograft function because the amount of amylase secreted by the pancreas could be measured in the urine.*
+
+---
+
+**125. Which of the following conditions is pancreas transplant alone (PTA) indicated for, beyond diabetes management?**
+
+- Chronic pancreatitis with exocrine insufficiency alone
+- End-stage renal disease in a type 2 diabetic
+- **Following total pancreatectomy for non-malignant disease (type 3c diabetes)**
+- Type 2 diabetes with poorly controlled blood sugars
+
+*Explanation: PTA may also be indicated following total pancreatectomy for nonmalignant disease where candidates typically manifest a particularly brittle form of diabetes (type 3c diabetes), as theirs is a deficiency of all pancreatic hormones, not just insulin.*
+
+---
+
+**126. What resolution of pancreatic exocrine insufficiency occurs following PTA with a proximal enteric drained pancreas allograft after total pancreatectomy?**
+
+- Partial improvement
+- No change
+- **Typically resolves**
+- Worsens initially then improves
+
+*Explanation: These patients (after total pancreatectomy) also exhibit pancreatic exocrine insufficiency, which typically resolves following pancreas transplantation with a proximal enteric drained pancreas allograft.*
+
+---
+
+**127. What is a rare but reported indication for pancreas transplantation beyond diabetes management?**
+
+- Chronic pancreatitis
+- Pancreatic pseudocysts
+- **Treatment of generalized allergy to human insulin**
+- Severe hyperlipidemia
+
+*Explanation: PTA has been reported for treatment of generalized allergy to human insulin.*
+
+---
+
+**128. What condition has been completely reversed by pancreas transplantation in certain cases?**
+
+- Diabetic retinopathy
+- Diabetic nephropathy
+- **Glycogen hepatopathy**
+- Diabetic cardiomyopathy
+
+*Explanation: Pancreas transplantation can achieve complete reversal of glycogen hepatopathy in certain cases.*
+
+---
+
+**129. In PAK transplantation, from what type of donor is the kidney most frequently obtained?**
+
+- Deceased donor
+- DCD donor
+- Marginal criteria donor
+- **Living donor**
+
+*Explanation: PAK transplantation involves kidney transplantation, most frequently from a living donor, followed by subsequent deceased donor pancreas transplantation from a separate donor.*
+
+---
+
+**130. What is a unique challenge of PAK transplantation compared with SPK?**
+
+- Higher rejection rates
+- Longer hospital stay
+- **The kidney and pancreas allografts are from separate donors and may behave independently from an immunologic perspective**
+- More complex surgical technique
+
+*Explanation: In PAK transplantation, the kidney and pancreas allografts will be from separate donors; as a result, the organs may behave independently from an immunologic perspective.*
+
+---
+
+**131. According to the OPTN Pancreas Transplant Committee study, what combination provides the best long-term renal allograft survival?**
+
+- SPK with deceased donor kidney
+- PTA followed by deceased donor kidney
+- Deceased donor kidney followed by PAK
+- **Living donor kidney transplant followed by a pancreas**
+
+*Explanation: A recent study from the OPTN Pancreas Transplant Committee indicated that the best long-term renal allograft survival was achieved with the combination of a living donor kidney transplant followed by a pancreas.*
+
+---
+
+**132. What is a potential benefit of simultaneous living donor kidney transplant and deceased donor pancreas transplant in PAK setting?**
+
+- Eliminates the need for immunosuppression
+- **Eliminates the need for a second course of induction immunosuppression**
+- Reduces the need for back-table preparation
+- Avoids the need for a midline incision
+
+*Explanation: It is possible to entirely eliminate the second surgery by doing both the living donor kidney transplant and the deceased donor pancreas transplant simultaneously; this eliminates the need for a second course of induction immunosuppression and potentially may provide the best results.*
+
+---
+
+**133. Which of the following is NOT a recommended prevention strategy for pancreas graft thrombosis?**
+
+- Atraumatic procurement
+- Decreased ischemia time
+- Low preservation solution flush volumes/pressures
+- **Routine systemic therapeutic anticoagulation (proven beneficial)**
+
+*Explanation: Prevention strategies include atraumatic procurement, low preservation solution flush volumes/pressures, decreased ischemia time, and perhaps low intensity perioperative anticoagulation. The use of systemic anticoagulation is described as controversial, not as a proven benefit.*
+
+---
+
+**134. Which of the following is associated with higher rates of PTLD specifically in PTA recipients?**
+
+- Older recipient age
+- Use of tacrolimus-based regimens
+- Lower lymphocyte counts pretransplant
+- **Typically younger age and absence of uremia contributing to a more virile immune system**
+
+*Explanation: PTA is associated with higher rejection rates, a higher incidence of chronic rejection, and higher rates of PTLD. Potential explanations include the typically younger age and the absence of uremia in the patient population, both of which may contribute to a more virile immune system.*
+
+---
+
+**135. What is the prevalence of type 2 diabetes in nonobese living pancreas donors?**
+
+- Less than 1%
+- **Less than 3%**
+- 5%
+- 8%
+
+*Explanation: The prevalence of type 2 diabetes is less than 3% in nonobese donors, and there is not an increased risk of type 1 diabetes.*
+
+---
+
+**136. The combination of CNI and which mTOR inhibitor appears to be an effective maintenance alternative in pancreas transplantation with rapid steroid withdrawal?**
+
+- Everolimus only
+- **Sirolimus or everolimus**
+- Rapamycin only
+- Temsirolimus
+
+*Explanation: The combination of CNI and mammalian target of rapamycin inhibitors such as sirolimus or everolimus appears also to be an effective alternative, particularly in the setting of rapid steroid withdrawal, with excellent graft survival and low rejection rates.*
+
+---
+
+**137. Which infection is described as potentially causing tissue-invasive disease (24%) in pancreas transplants with adverse effects on patient and graft survival?**
+
+- BK virus
+- EBV
+- **Cytomegalovirus (CMV)**
+- Herpes simplex virus
+
+*Explanation: Cytomegalovirus infection in pancreas transplants can be tissue invasive (24%) and have adverse effects on patient and graft survival.*
+
+---
+
+**138. Which of the following cancers associated with viral infections has been reported in pancreas transplant recipients?**
+
+- Lung cancer due to EBV
+- Renal cell carcinoma due to BK virus
+- **Hepatocellular cancer due to hepatitis B or C and papillomavirus-associated cancers of the cervix/vulva/perineum**
+- Gastric cancer due to H. pylori
+
+*Explanation: Other cancers that have been reported in pancreas transplants include hepatocellular cancer due to hepatitis B or C and papillomavirus-associated cancers of the cervix/vulva/perineum, as well as sarcoma in allograft pancreas.*
+
+---
+
+**139. During procurement, if intestinal graft procurement is also occurring, which vessel must be shared between the pancreas and intestinal grafts?**
+
+- Celiac axis
+- Portal vein
+- **Superior mesenteric artery (SMA)**
+- Inferior mesenteric artery
+
+*Explanation: In situations involving intestinal graft procurement, the SMA is shared between the two grafts. A detailed knowledge of the anatomy of the artery is necessary to recognize the various branches arising from the SMA.*
+
+---
+
+**140. Following the middle colic artery proximally to its origin from the SMA represents the ideal site for which surgical step during combined pancreas and intestinal procurement?**
+
+- Division of the inferior mesenteric vein
+- Ligation of the gastroduodenal artery
+- **Transection of the SMA**
+- Division of the portal vein
+
+*Explanation: One way of preserving the inferior pancreaticoduodenal artery with the pancreas is to follow the middle colic artery proximally to its origin from the SMA, which usually represents the ideal site for transection of the SMA.*
+
+---
+
+**141. In patients undergoing reflux pancreatitis in bladder-drained pancreas transplants, what is the initial management?**
+
+- Immediate conversion to enteric drainage
+- Allograft pancreatectomy
+- **Foley catheter placement and measures to decrease urinary retention**
+- Endoscopic sphincterotomy
+
+*Explanation: Reflux pancreatitis in cases of bladder-drained pancreas transplants is treated with Foley catheter placement and other measures to decrease urinary retention; recurrent pancreatitis in such cases is an indication to convert to enteric drainage.*
+
+---
+
+**142. Which of the following accurately describes graft pancreatitis correlation with serum markers?**
+
+- Amylase and lipase strongly correlate with severity
+- Lipase alone is a reliable marker of severity
+- **Amylase and lipase correlate poorly with severity of allograft pancreatitis**
+- Serum amylase is more reliable than lipase for assessment
+
+*Explanation: Amylase and lipase correlate poorly with severity of allograft pancreatitis and CT scan of the abdomen and pelvis may be necessary for evaluation.*
+
+---
+
+**143. For which type of bleeding after pancreas transplantation is push enteroscopy described as the initial diagnostic approach?**
+
+- Early postoperative bleeding from the anastomosis
+- Arterial pseudoaneurysm bleeding
+- Hematuria in bladder-drained allografts
+- **Late gastrointestinal bleeding**
+
+*Explanation: Late gastrointestinal bleeding may be investigated initially with push enteroscopy with visualization of the enteric anastomosis, but failure to identify a source may indicate a herald bleed from an arterioenteric fistula.*
+
+---
+
+**144. What should be urgently performed if push enteroscopy fails to identify a source of late gastrointestinal bleeding after pancreas transplantation?**
+
+- Angiography of the superior mesenteric artery
+- Capsule endoscopy
+- **Urgent CT or percutaneous arterial angiography of the iliac arterial system**
+- Upper GI endoscopy
+
+*Explanation: Failure to identify a source may indicate a herald bleed from an arterioenteric fistula. Urgent CT or percutaneous arterial angiography of the iliac arterial system is essential to rule out this potentially life-threatening complication.*
+
+---
+
+**145. What measure may be required for patients with autonomic neuropathy and orthostatic hypotension resistant to all other management strategies?**
+
+- Permanent pacemaker implantation
+- Surgical sympathectomy
+- **Home intravenous fluids**
+- Permanent blood pressure monitoring device
+
+*Explanation: If orthostatic hypotension remains resistant to all other management strategies, home intravenous fluids may be warranted.*
+
+---
+
+**146. When managing supine hypertension alongside orthostatic hypotension in post-pancreas transplant patients, what positional intervention may be helpful?**
+
+- Keeping the patient completely flat
+- Placing the patient in Trendelenburg position
+- **30-degree elevation of the head of the bed**
+- Reverse Trendelenburg position greater than 45 degrees
+
+*Explanation: In some cases, a 30-degree elevation of the head of the bed might be indicated if the supine hypertension is too high.*
+
+---
+
+**147. What does the chapter conclude is needed to reinvigorate pancreas transplantation?**
+
+- More funding for basic science research
+- Development of new immunosuppressive agents
+- Relaxation of OPTN eligibility criteria
+- **A national initiative to reinvigorate SPK, PAK, or PTA as the preferred transplant options for type 1 and type 2 diabetics with or without chronic kidney disease stage V or dialysis dependence**
+
+*Explanation: The conclusion states that a national initiative is needed to reinvigorate SPK, PAK, or PTA as the preferred transplant options for both type 1 diabetics and type 2 diabetics with or without chronic kidney disease stage V or dialysis dependence.*
+
+---
+
+**148. What is the advantage of using contrast-enhanced ultrasonography after pancreas transplantation?**
+
+- Detects anastomotic leaks
+- Identifies rejection episodes
+- **Assesses vascular perfusion of the allograft immediately after transplant**
+- Guides percutaneous biopsy
+
+*Explanation: Emerging data have suggested a role for the use of contrast-enhanced ultrasonography to assess vascular perfusion of the allograft immediately after transplant.*
+
+---
+
+**149. Which of the following accurately describes the reexploration rate in pancreas transplantation?**
+
+- 10%–15%
+- 15%–20%
+- 20%–25%
+- **As high as 35%**
+
+*Explanation: The technical failure rate in pancreas transplantation is 7% to 9%; the reexploration rate is as high as 35%.*
+
+---
+
+**150. Following the initial successful series of pancreas transplants in the early era, what did early experience reveal were the primary causes of graft loss?**
+
+- Immune rejection alone
+- Ischemia-reperfusion injury alone
+- **Vascular thrombosis, death with a functioning graft, and lethal complications related to exocrine pancreatic drainage**
+- Infection and malignancy
+
+*Explanation: Pancreas transplantation in the early period was plagued with graft losses due to technical complications such as vascular thrombosis, death with a functioning graft, and lethal complications related to exocrine pancreatic drainage. Immunosuppression and organ preservation were in their infancy, so rejection and ischemia reperfusion injury were common.*
+
+

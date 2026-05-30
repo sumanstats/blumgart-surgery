@@ -1,0 +1,1660 @@
+# 03 Pancreatic Physiology and Functional Assessment
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+Generated with Claude.
+
+
+**1. What is the approximate length of an adult human pancreas?**
+
+- 5 cm
+- 10 cm
+- **15 cm**
+- 20 cm
+
+*Explanation: An adult human pancreas measures approximately 15 cm in length. Its size can vary because of aging or pathologic conditions such as pancreatitis or neoplasia.*
+
+---
+
+**2. What is the normal weight range of an adult human pancreas?**
+
+- 20–40 g
+- 40–60 g
+- **60–100 g**
+- 100–150 g
+
+*Explanation: The adult human pancreas weighs between 60 to 100 g under normal conditions.*
+
+---
+
+**3. What is the embryological origin of the pancreas?**
+
+- Mesodermal
+- Ectodermal
+- **Endodermal**
+- Neural crest
+
+*Explanation: The pancreas is of endodermal origin and arises from two independent primordia: a ventral bud and a dorsal bud.*
+
+---
+
+**4. From which structure does the ventral pancreatic bud arise?**
+
+- Developing stomach
+- Developing jejunum
+- **Hepatic diverticulum**
+- Developing colon
+
+*Explanation: The ventral pancreatic bud is derived from the hepatic diverticulum, while the dorsal bud is derived from the developing duodenum.*
+
+---
+
+**5. From which structure does the dorsal pancreatic bud arise?**
+
+- Hepatic diverticulum
+- Developing stomach
+- Developing jejunum
+- **Developing duodenum**
+
+*Explanation: The dorsal pancreatic bud arises from the developing duodenum, ultimately constituting the majority of the pancreatic gland.*
+
+---
+
+**6. Around which week of gestation does the ventral bud rotate to fuse with the dorsal pancreatic bud?**
+
+- Third week
+- Fourth week
+- **Fifth week**
+- Seventh week
+
+*Explanation: Around the fifth week of gestation, the ventral bud rotates clockwise with the developing duodenum to fuse with the dorsal pancreatic bud.*
+
+---
+
+**7. Which part of the pancreas does the ventral bud ultimately form?**
+
+- Superior pancreatic head, body, and tail
+- Body and tail
+- **Inferior pancreatic head and uncinate process**
+- Minor pancreatic duct only
+
+*Explanation: The ventral bud forms the inferior pancreatic head and the uncinate process, while the dorsal bud forms the superior head, body, and tail.*
+
+---
+
+**8. What is the name of the main pancreatic duct formed by fusion of the ventral and dorsal ductal systems?**
+
+- Duct of Santorini
+- Ampulla of Vater
+- **Duct of Wirsung**
+- Duct of Luschka
+
+*Explanation: During development, the main ducts of the ventral and dorsal pancreatic buds fuse to form the main pancreatic duct, known as the duct of Wirsung.*
+
+---
+
+**9. Through which structure does the main pancreatic duct drain most of the organ's secretions?**
+
+- Minor papilla
+- Pylorus
+- **Major duodenal papilla (ampulla of Vater)**
+- Ileocecal valve
+
+*Explanation: The major pancreatic duct drains most of the organ's secretions through the major duodenal papilla, also known as the ampulla of Vater.*
+
+---
+
+**10. What is the name of the minor pancreatic duct arising from the dorsal pancreatic bud?**
+
+- Duct of Wirsung
+- Ampulla of Vater
+- **Duct of Santorini**
+- Hepatic duct
+
+*Explanation: The minor pancreatic duct, known as the duct of Santorini, arises from the dorsal pancreatic bud and drains a portion of the pancreatic head secretions.*
+
+---
+
+**11. Where is the minor papilla located relative to the major papilla?**
+
+- 2 cm posteroinferior
+- 5 cm anterosuperior
+- **2 cm anterosuperior**
+- At the same level
+
+*Explanation: The minor duct drains into the duodenum through the minor papilla, which is located 2 cm anterosuperior of the major papilla.*
+
+---
+
+**12. What is the primary arterial supply to the pancreas?**
+
+- Branches of the hepatic and inferior mesenteric artery
+- Superior and inferior mesenteric arteries only
+- **Branches of the celiac and superior mesenteric artery**
+- Renal and splenic arteries
+
+*Explanation: The pancreas receives an abundant arterial vascular supply from branches of the celiac and superior mesenteric artery.*
+
+---
+
+**13. Where does the venous drainage of the pancreas ultimately drain?**
+
+- Inferior vena cava
+- Renal vein
+- **Portal vein**
+- Splenic vein only
+
+*Explanation: The venous drainage of the pancreas follows the arterial supply, with venous effluents ultimately draining into the portal vein.*
+
+---
+
+**14. Which nerve provides parasympathetic fibers to the pancreas?**
+
+- Splanchnic nerve
+- Phrenic nerve
+- **Vagus nerve**
+- Sciatic nerve
+
+*Explanation: The pancreas is supplied by parasympathetic fibers from the vagus nerve, sympathetic fibers from the splanchnic nerves, and peptidergic neurons.*
+
+---
+
+**15. Approximately how many islets of Langerhans are present in a healthy adult pancreas?**
+
+- 100,000
+- 500,000
+- **One million**
+- Five million
+
+*Explanation: The pancreas of a healthy adult has approximately one million islets that are evenly distributed throughout the pancreatic gland.*
+
+---
+
+**16. What percentage of the pancreatic organ's mass is accounted for by the islets of Langerhans?**
+
+- 5%–10%
+- 0.1%–0.5%
+- **1%–2%**
+- 10%–15%
+
+*Explanation: The islets of Langerhans account for 1% to 2% of the organ's total mass despite their critical endocrine function.*
+
+---
+
+**17. What is the diameter range of each islet of Langerhans?**
+
+- 5–30 μm
+- 10–50 μm
+- **50–300 μm**
+- 500–1000 μm
+
+*Explanation: Each islet ranges in size from 50 to 300 μm in diameter and contains a few hundred to a few thousand endocrine cells.*
+
+---
+
+**18. How many major cell types are found in each islet of Langerhans?**
+
+- Two
+- Three
+- Four
+- **Five**
+
+*Explanation: There are at least five major cell types in each islet of Langerhans: α, β, δ, F, and ε cells.*
+
+---
+
+**19. What percentage of islet cells do pancreatic α-cells represent in humans?**
+
+- 10%
+- 20%
+- **35%**
+- 55%
+
+*Explanation: In humans, pancreatic α-cells, which principally secrete glucagon, represent approximately 35% of all islet cells.*
+
+---
+
+**20. What percentage of islet cells do pancreatic β-cells represent?**
+
+- 35%
+- 40%
+- **55%**
+- 65%
+
+*Explanation: Pancreatic β-cells, responsible for the production and secretion of insulin and amylin, represent approximately 55% of islet cells.*
+
+---
+
+**21. What is the approximate percentage of δ-cells in the islets of Langerhans?**
+
+- Less than 1%
+- Less than 5%
+- **Less than 10%**
+- About 20%
+
+*Explanation: Pancreatic δ-cells, which principally secrete somatostatin, represent less than 10% of the islet cells.*
+
+---
+
+**22. What percentage of islet cells do pancreatic F cells represent?**
+
+- Less than 1%
+- **Less than 5%**
+- Less than 10%
+- About 15%
+
+*Explanation: Pancreatic F cells, which secrete pancreatic polypeptide (PP), account for less than 5% of islet cells.*
+
+---
+
+**23. What is the approximate percentage of ε cells in human islets?**
+
+- Less than 5%
+- Less than 3%
+- Less than 2%
+- **Less than 1%**
+
+*Explanation: The ε cells, which secrete ghrelin, account for less than 1% of human islet cells.*
+
+---
+
+**24. What hormone is principally secreted by pancreatic α-cells?**
+
+- Insulin
+- Somatostatin
+- **Glucagon**
+- Ghrelin
+
+*Explanation: Pancreatic α-cells principally secrete glucagon, which counteracts insulin's effect by increasing blood glucose concentration.*
+
+---
+
+**25. Which two hormones are produced and secreted by pancreatic β-cells?**
+
+- Glucagon and somatostatin
+- Ghrelin and pancreatic polypeptide
+- **Insulin and amylin**
+- Secretin and CCK
+
+*Explanation: Pancreatic β-cells are responsible for the production and secretion of insulin and amylin.*
+
+---
+
+**26. What hormone is principally secreted by pancreatic δ-cells?**
+
+- Insulin
+- Glucagon
+- **Somatostatin**
+- Pancreatic polypeptide
+
+*Explanation: Pancreatic δ-cells principally secrete somatostatin, which acts primarily as an inhibitory hormone.*
+
+---
+
+**27. What hormone is secreted by pancreatic F cells?**
+
+- Ghrelin
+- Glucagon
+- Insulin
+- **Pancreatic polypeptide (PP)**
+
+*Explanation: Pancreatic F cells secrete pancreatic polypeptide (PP), though its exact physiologic role remains under investigation.*
+
+---
+
+**28. What hormone is secreted by pancreatic ε-cells?**
+
+- Somatostatin
+- Insulin
+- Glucagon
+- **Ghrelin**
+
+*Explanation: The ε cells secrete ghrelin, also known as the "hunger hormone," which participates in metabolic regulation, growth hormone release, and energy balance.*
+
+---
+
+**29. In human islets, how do the majority of α-, β-, and δ-cells reside relative to islet blood vessels?**
+
+- β-cells occupy the core; non-β-cells are at the outside
+- All cells are randomly scattered throughout the islet
+- **Along the islet blood vessels without a specific order**
+- δ-cells occupy the core; α-cells are at the periphery
+
+*Explanation: Recent studies in humans demonstrated a different cytoarchitecture where the majority of α-, β-, and δ-cells reside along the islet blood vessels without a specific order.*
+
+---
+
+**30. Approximately what percentage of human β-cells appear to be in contact with non-γ-islet cells?**
+
+- 30%
+- 50%
+- **70%**
+- 90%
+
+*Explanation: Approximately 70% of human β-cells appear to be in contact with non-γ-islet cells, suggesting a predisposition for paracrine interaction.*
+
+---
+
+**31. Islets located in the body and tail of the pancreas have a higher proportion of which cell type?**
+
+- F cells
+- δ-cells
+- β-cells
+- **α-cells**
+
+*Explanation: Islets located in the body and tail of the pancreas have a higher proportion of α-cells and a lower proportion of F cells, whereas islets in the uncinate process have the opposite pattern.*
+
+---
+
+**32. Islets located in the uncinate process have a higher proportion of which cell type?**
+
+- α-cells
+- β-cells
+- δ-cells
+- **F cells**
+
+*Explanation: Islets in the uncinate process have a higher proportion of F cells and a lower proportion of α-cells. β-cells and δ-cells are present in nearly equal proportions throughout the pancreas.*
+
+---
+
+**33. What percentage of the pancreatic arterial flow do the islets of Langerhans receive?**
+
+- 5%
+- 10%
+- **20%**
+- 40%
+
+*Explanation: The islets of Langerhans receive approximately 20% of the pancreatic arterial flow, with distribution significantly influenced by the different phases of digestion.*
+
+---
+
+**34. In 1923, who were awarded the Nobel Prize in Physiology or Medicine for the discovery of insulin?**
+
+- Fleming and Chain
+- Watson and Crick
+- Pauling and Hodgkin
+- **Banting and McLeod**
+
+*Explanation: In 1923, Banting and McLeod, two Canadian surgeons, were awarded the Nobel Prize in Physiology or Medicine for the discovery of insulin.*
+
+---
+
+**35. How many amino acids does insulin contain?**
+
+- 29
+- 36
+- 44
+- **51**
+
+*Explanation: Insulin is a 51-amino acid polypeptide primarily responsible for maintaining serum glucose between 4 mM and 8 mM during periods of feeding and fasting.*
+
+---
+
+**36. What is the normal serum glucose range that insulin maintains during feeding and fasting?**
+
+- 2–4 mM (35–70 mg/dL)
+- **4–8 mM (70–140 mg/dL)**
+- 8–12 mM (140–216 mg/dL)
+- 10–15 mM (180–270 mg/dL)
+
+*Explanation: Insulin is primarily responsible for maintaining serum glucose between 4 mM and 8 mM (70–140 mg/dL) during periods of feeding and fasting.*
+
+---
+
+**37. On which chromosome is the gene encoding insulin located?**
+
+- Long arm of chromosome 7
+- Short arm of chromosome 7
+- Long arm of chromosome 11
+- **Short arm of chromosome 11**
+
+*Explanation: The gene responsible for encoding insulin is located on the short arm of chromosome 11 and leads to the translation of a preprohormone protein known as preproinsulin.*
+
+---
+
+**38. What is the preprohormone protein translated by the insulin gene?**
+
+- Proinsulin
+- C-peptide
+- **Preproinsulin**
+- ProGlucagon
+
+*Explanation: The insulin gene leads to the translation of a preprohormone protein known as preproinsulin within the β-cell.*
+
+---
+
+**39. How many amino acids make up the leading sequence of preproinsulin?**
+
+- 10
+- 18
+- **24**
+- 31
+
+*Explanation: Preproinsulin consists of a leading sequence of 24 amino acids, followed by three domains named "B," "C," and "A."*
+
+---
+
+**40. Where does cleavage of the leading sequence of preproinsulin occur to form proinsulin?**
+
+- Trans-Golgi apparatus
+- Secretory granules
+- **Endoplasmic reticulum**
+- Cell membrane
+
+*Explanation: Cleavage of the leading sequence in the endoplasmic reticulum leads to the formation of proinsulin.*
+
+---
+
+**41. How many amino acids does the C-peptide contain?**
+
+- 10
+- 20
+- **31**
+- 44
+
+*Explanation: As proinsulin is arranged into secretory granules in the trans-Golgi, additional proteases cleave the central 31 amino acid C-peptide.*
+
+---
+
+**42. How many disulfide bonds hold the A-chain and B-chain of mature insulin together?**
+
+- One
+- **Two**
+- Three
+- Four
+
+*Explanation: The mature insulin peptide is composed of an A-chain and B-chain held together by two disulfide bonds, ready to be released in the secretory vesicle.*
+
+---
+
+**43. What is the plasma half-life of the mature insulin peptide?**
+
+- 30 minutes
+- 15 minutes
+- 10 minutes
+- **4 minutes**
+
+*Explanation: The mature insulin peptide has a plasma half-life of 4 minutes. It is rapidly internalized by target organs expressing its receptor and degraded by the kidneys and liver.*
+
+---
+
+**44. What is the plasma half-life of C-peptide?**
+
+- 4 minutes
+- 10 minutes
+- **30 minutes**
+- 60 minutes
+
+*Explanation: C-peptide has a plasma half-life of 30 minutes and is excreted unchanged by the kidneys, making it a clinically meaningful marker of endogenous insulin secretion.*
+
+---
+
+**45. How frequently does unstimulated (basal) insulin secretion occur?**
+
+- Every 1–2 minutes
+- Every 3–5 minutes
+- **Every 6–8 minutes**
+- Every 15–20 minutes
+
+*Explanation: Unstimulated secretion or basal insulin secretion occurs every 6 to 8 minutes as a baseline pattern.*
+
+---
+
+**46. Which factor is the dominant controller of β-cell function?**
+
+- Arginine concentration
+- Incretin levels
+- Acetylcholine
+- **Extracellular glucose concentration**
+
+*Explanation: Although insulin secretion is stimulated by glucose, amino acids, ACh, glutamate, and incretins, the change in extracellular glucose concentration is the dominant factor controlling β-cell function.*
+
+---
+
+**47. Which glucose transporters are expressed at high levels on human β-cells?**
+
+- GLUT-2 only
+- GLUT-4 and GLUT-5
+- **GLUT-1 and GLUT-3**
+- GLUT-2 and GLUT-4
+
+*Explanation: GLUT-2 is highly expressed in rodents, while GLUT-1 and GLUT-3 are both expressed at high levels on human β-cells.*
+
+---
+
+**48. Above what intracellular glucose concentration do β-cell glucokinase enzymes activate?**
+
+- 2 mmol/L
+- 3 mmol/L
+- **5 mmol/L**
+- 8 mmol/L
+
+*Explanation: If the glucose concentration exceeds 5 mmol/L, the intracellular β-cell glucokinase enzymes activate to allow fine regulation of insulin secretion.*
+
+---
+
+**49. What is the function of glucokinase in β-cells?**
+
+- Converting glucose-6-phosphate back to glucose
+- Transporting glucose across the cell membrane
+- **Phosphorylating glucose to glucose-6-phosphate**
+- Activating ATP-dependent potassium channels
+
+*Explanation: Acting as a "glucose sensor," glucokinase enzymes are responsible for the phosphorylation of glucose to glucose-6-phosphate.*
+
+---
+
+**50. What happens to ATP-dependent potassium channels in β-cells when intracellular ATP increases?**
+
+- They open, causing hyperpolarization
+- They remain unchanged
+- **They undergo closure, causing membrane depolarization**
+- They activate calcium channels directly
+
+*Explanation: The β-cell membrane is rich in ATP-dependent potassium channels, which undergo closure in response to the surge in ATP, resulting in membrane depolarization.*
+
+---
+
+**51. Which type of calcium channel is activated by membrane depolarization in β-cells?**
+
+- T-type calcium channels
+- N-type calcium channels
+- R-type calcium channels
+- **Voltage-gated L-type calcium channels**
+
+*Explanation: Depolarization activates voltage-gated L-type calcium channels, leading to an influx of calcium into the cell, which triggers insulin secretion.*
+
+---
+
+**52. What is the "first phase" of insulin release characterized by?**
+
+- Insulin secreted over 2–3 hours
+- Insulin released from intracellular granules
+- **Rapid insulin secretion within 3–5 minutes of glucose administration, terminating within 10 minutes**
+- Gradual increase in insulin over 30 minutes
+
+*Explanation: The first phase of insulin release is characterized by rapid secretion within 3 to 5 minutes of glucose administration, terminating within 10 minutes.*
+
+---
+
+**53. The loss of the first phase of insulin secretion is one of the earliest metabolic defects identified in which condition?**
+
+- Type 1 diabetes mellitus
+- Cushing's syndrome
+- **Type 2 diabetes mellitus (T2DM)**
+- Acromegaly
+
+*Explanation: The loss of the first phase of insulin secretion is one of the earliest metabolic defects identified in type 2 diabetes mellitus (T2DM).*
+
+---
+
+**54. When does the "second phase" of insulin secretion reach a plateau?**
+
+- Within 10 minutes
+- Within 30 minutes
+- Within 1 hour
+- **After 2–3 hours**
+
+*Explanation: The second phase of insulin secretion is longer lasting, reaching a plateau in insulin secretion after 2–3 hours, and its regulation is not entirely understood.*
+
+---
+
+**55. Through which transporter does arginine (l-arginine) enter β-cells?**
+
+- GLUT-1
+- GLUT-3
+- **Cationic amino-acid transporter (CAT)**
+- Sodium-glucose cotransporter
+
+*Explanation: Arginine (l-arginine) is taken up into the β-cells through a cationic amino-acid transporter (CAT), leading to depolarization of the cell membrane.*
+
+---
+
+**56. What is the incretin effect?**
+
+- The inhibition of insulin secretion by somatostatin
+- The direct effect of glucose on β-cells
+- **The phenomenon whereby nutrients in the duodenal lumen stimulate gut cells to release potent insulin secretagogues**
+- The paracrine inhibition of glucagon by insulin
+
+*Explanation: The incretin effect is the phenomenon whereby the presence of nutrients, especially carbohydrates, in the duodenal lumen stimulates cells in the gut mucosa to release potent insulin secretagogues.*
+
+---
+
+**57. Which cells in the duodenum and jejunum produce and release GIP?**
+
+- L cells
+- S cells
+- I cells
+- **K cells**
+
+*Explanation: The ingestion of nutrients stimulates duodenal and jejunal K cells to produce and release GIP, a well-studied incretin.*
+
+---
+
+**58. Which cells produce and release GLP-1?**
+
+- K cells
+- S cells
+- I cells
+- **L cells (enteroglucagon cells)**
+
+*Explanation: GLP-1 is produced and released by the L cells (also known as enteroglucagon cells), located in the distal small bowel, colon, and rectum.*
+
+---
+
+**59. By approximately how much more can orally administered glucose stimulate insulin secretion compared to intravenous glucose?**
+
+- 5%
+- 10%
+- 15%
+- **25%**
+
+*Explanation: It has been shown that orally administered glucose can stimulate insulin secretion as much as 25% more than intravenously administered glucose, likely through the incretin effect.*
+
+---
+
+**60. Through which intracellular pathway do GIP and GLP-1 primarily act to potentiate insulin secretion?**
+
+- Phospholipase C / IP3 pathway
+- MAPK pathway
+- JAK-STAT pathway
+- **Adenylate cyclase / cAMP / protein kinase A pathway**
+
+*Explanation: GIP and GLP-1 play significant roles in the enteroinsular axis, mainly through activation of adenylate cyclase and subsequent increase in intracellular cAMP, leading to protein kinase A activation.*
+
+---
+
+**61. In human islets, acetylcholine (ACh) acts primarily as what type of signal?**
+
+- Neural signal from parasympathetic nerves
+- Endocrine signal from the bloodstream
+- **Non-neuronal paracrine signal released from α-cells**
+- Neural signal from sympathetic nerves
+
+*Explanation: In human islets, ACh acts primarily as a non-neuronal paracrine signal released from α-cells rather than as a neural signal, as previously described in rodent islets.*
+
+---
+
+**62. Which muscarinic ACh receptors does ACh stimulate on insulin-secreting β-cells?**
+
+- M1 and M2
+- M2 and M4
+- M1 and M5
+- **M3 and M5**
+
+*Explanation: ACh stimulates the insulin-secreting β-cell via the muscarinic ACh receptors M3 and M5, causing insulin release.*
+
+---
+
+**63. Activation of which muscarinic receptor leads to calcium release from intracellular stores via phospholipase C-mediated increase in IP3?**
+
+- M1
+- M2
+- M4
+- **M3**
+
+*Explanation: The activation of the M3 receptor leads to calcium release from intracellular stores through a phospholipase C-mediated increase in inositol-1,4,5-triphosphate (IP3).*
+
+---
+
+**64. Through which receptor does ACh stimulate the somatostatin-secreting δ-cell?**
+
+- M3
+- M5
+- M2
+- **M1**
+
+*Explanation: ACh stimulates the somatostatin-secreting δ-cell via M1 receptors. Since somatostatin inhibits insulin secretion, cholinergic signaling provides both direct stimulatory and indirect inhibitory input to β-cells.*
+
+---
+
+**65. How many amino acids does glucagon contain, and what is its molecular weight?**
+
+- 51 amino acids, 5.8 kDa
+- 36 amino acids, 4.0 kDa
+- **29 amino acids, 3.5 kDa**
+- 14 amino acids, 1.6 kDa
+
+*Explanation: Glucagon is a 29-amino acid peptide with a molecular weight of 3.5 kDa that counteracts insulin's effect by increasing blood glucose concentration.*
+
+---
+
+**66. Through which primary metabolic processes does glucagon increase blood glucose?**
+
+- Glycolysis and lipogenesis
+- Glycogenesis and protein synthesis
+- **Glycogenolysis, gluconeogenesis, and ketogenesis**
+- Oxidative phosphorylation and glycolysis
+
+*Explanation: Glucagon counteracts insulin's effect by increasing blood glucose concentration through stimulation of glycogenolysis, gluconeogenesis, and ketogenesis.*
+
+---
+
+**67. The secretion of glucagon from islet α-cells is mostly in response to which dietary component?**
+
+- Fat ingestion
+- Carbohydrate ingestion
+- **Protein ingestion**
+- Water intake
+
+*Explanation: The secretion from islet α-cells directly into the portal system is mostly in response to protein ingestion.*
+
+---
+
+**68. What are the ketone bodies produced through glucagon's indirect stimulation of fatty oxidation?**
+
+- Citric acid and fumaric acid
+- Lactic acid and pyruvic acid
+- **β-Hydroxybutyric acid and acetoacetic acid**
+- Oxaloacetic acid and malic acid
+
+*Explanation: Glucagon indirectly stimulates fatty oxidation through the carnitine acylcarnitine translocase system (CAT), increasing the ketone bodies β-hydroxybutyric acid and acetoacetic acid.*
+
+---
+
+**69. What causes inhibition of glucagon secretion?**
+
+- Low blood glucose and glucagon
+- Elevated GLP-1 only
+- **Increased blood glucose concentration and paracrine effects of insulin and somatostatin within the islet**
+- Elevated ghrelin levels
+
+*Explanation: Glucagon inhibition is caused by increased blood glucose concentration and by paracrine effects of insulin and somatostatin within the islet.*
+
+---
+
+**70. In addition to the islet δ-cells, where else is somatostatin secreted?**
+
+- Liver and kidneys
+- Stomach and spleen
+- **Hypothalamus and D cells of the GI tract**
+- Adrenal glands and thyroid
+
+*Explanation: Somatostatin is secreted by the islet δ-cell and by several other organs, including the hypothalamus and the D cells of the gastrointestinal (GI) tract.*
+
+---
+
+**71. Which of the following is NOT one of the hormones or substances inhibited by somatostatin?**
+
+- Insulin
+- Glucagon
+- Gastrin
+- **CCK**
+
+*Explanation: Somatostatin inhibits insulin, glucagon, gastrin, and VIP. CCK is not mentioned as a direct target of somatostatin inhibition in this context.*
+
+---
+
+**72. Which pharmacologic analog of somatostatin is used in the treatment of secreting pancreatic neuroendocrine tumors?**
+
+- Pasireotide
+- **Octreotide**
+- Lanreotide
+- Bromocriptine
+
+*Explanation: Somatostatin and its pharmacologic analog octreotide are useful therapeutic agents in the medical management of secreting pancreatic neuroendocrine tumors, such as insulinoma.*
+
+---
+
+**73. Which multi-somatostatin receptor ligand has been shown to significantly decrease pancreatic leak complications after pancreatic surgery?**
+
+- Octreotide
+- Lanreotide
+- Vapreotide
+- **Pasireotide**
+
+*Explanation: Pasireotide, a multi-somatostatin receptor ligand, significantly decreased pancreatic leak complications after pancreatic surgery.*
+
+---
+
+**74. What is the physiologic role of ghrelin produced by ε-cells?**
+
+- Stimulates insulin secretion
+- Inhibits glucagon release
+- Stimulates bicarbonate secretion
+- **Participates in metabolic regulation, growth hormone release, and energy balance**
+
+*Explanation: Ghrelin, produced by ε-cells and also known as the "hunger hormone," is a centrally active neuropeptide that participates in metabolic regulation, growth hormone release, and energy balance.*
+
+---
+
+**75. After hospitalization for the first episode of acute pancreatitis (AP), what is the approximate risk of developing prediabetes or diabetes mellitus?**
+
+- 10%
+- 20%
+- 30%
+- **40%**
+
+*Explanation: Recent studies suggest that after hospitalization for the first episode of AP, there is as much as a 40% risk of prediabetes or diabetes mellitus.*
+
+---
+
+**76. What percentage of newly diagnosed diabetes mellitus occurs within 12 months from the first episode of acute pancreatitis?**
+
+- 5%
+- **15%**
+- 25%
+- 35%
+
+*Explanation: Approximately 15% of newly diagnosed diabetes mellitus occurs within 12 months from the first episode of AP, and the risk remains high, increasing significantly with time.*
+
+---
+
+**77. By approximately how much is the prevalence of endocrine pancreatic insufficiency increased after an episode of necrotizing pancreatitis?**
+
+- No increase
+- 1.5-fold
+- **2-fold**
+- 5-fold
+
+*Explanation: There is an estimated 2-fold increase in the prevalence of endocrine pancreatic insufficiency after an episode of necrotizing pancreatitis.*
+
+---
+
+**78. What is the rate of insulin use within 5 years of the first episode of acute pancreatitis?**
+
+- 5%
+- 10%
+- **14%**
+- 20%
+
+*Explanation: The rate of insulin use within 5 years of the first episode of AP approaches 14%. Pancreatic necrosis and ethanol etiology represent strong risk factors.*
+
+---
+
+**79. How high can the risk for diabetes mellitus be in patients with chronic pancreatitis?**
+
+- 20%
+- 40%
+- 60%
+- **80%**
+
+*Explanation: The risk for diabetes mellitus can be as high as 80% in patients with chronic pancreatitis (CP).*
+
+---
+
+**80. What is the prevalence of diabetes mellitus in pancreatic ductal adenocarcinoma at the time of diagnosis?**
+
+- 20%
+- 30%
+- 40%
+- **50%**
+
+*Explanation: The prevalence of diabetes mellitus in pancreatic ductal adenocarcinoma at the time of diagnosis is approximately 50%.*
+
+---
+
+**81. In pancreatic ductal adenocarcinoma, within how many years before the cancer diagnosis are 75% of patients diagnosed with diabetes mellitus?**
+
+- 6 months
+- 1 year
+- **2 years**
+- 5 years
+
+*Explanation: Importantly, 75% of patients with pancreatic ductal adenocarcinoma are diagnosed with diabetes mellitus within 2 years before the diagnosis of cancer.*
+
+---
+
+**82. What is a distinctive feature of pancreatogenic diabetes (type 3c)?**
+
+- Elevated insulin levels
+- Increased GLP-1 secretion
+- Elevated glucagon levels
+- **Pancreatic polypeptide deficiency**
+
+*Explanation: Pancreatic polypeptide deficiency represents a distinctive feature of pancreatogenic diabetes and has been associated with reduced hepatic sensitivity to insulin.*
+
+---
+
+**83. What percentage of the gland mass does the exocrine pancreas constitute?**
+
+- 30%–50%
+- 50%–70%
+- **80%–90%**
+- 95%–99%
+
+*Explanation: The exocrine pancreas constitutes 80% to 90% of the gland mass and secretes the majority of digestive enzymes.*
+
+---
+
+**84. Approximately how much fluid does the exocrine pancreas secrete daily?**
+
+- 500 mL
+- 1000 mL
+- **2000 mL**
+- 5000 mL
+
+*Explanation: The exocrine pancreas secretes approximately 2000 mL of colorless, odorless, and isosmotic alkaline protein-rich fluid daily.*
+
+---
+
+**85. What is the pH range of the fluid secreted by the exocrine pancreas?**
+
+- 4.0–6.0
+- 6.0–7.0
+- **7.6–9.0**
+- 9.0–11.0
+
+*Explanation: The exocrine pancreas secretes alkaline protein-rich fluid with a pH of 7.6–9.0, which helps neutralize the acidic chyme delivered from the stomach.*
+
+---
+
+**86. What are the two distinct but integrated units of the exocrine pancreas?**
+
+- Acinar cells and centroacinar cells
+- Ductal cells and centroacinar cells
+- **The acinus and the ductal network**
+- Zymogen granules and Golgi apparatus
+
+*Explanation: The exocrine pancreas consists primarily of two distinct but integrated units: the acinus and the ductal network.*
+
+---
+
+**87. How many pyramidal-shaped acinar cells compose each acinus?**
+
+- 1–5
+- 5–15
+- **15–100**
+- 100–200
+
+*Explanation: Each acinus is composed of 15 to 100 pyramidal-shaped cells (as much as 30 μm apical base height) known as acinar cells.*
+
+---
+
+**88. What type of cells are acinar cells, and what is a characteristic feature of their apex?**
+
+- Squamous cells rich in smooth endoplasmic reticulum
+- Columnar cells rich in mitochondria
+- **Polarized epithelial cells rich in rough endoplasmic reticulum with an abundance of secretory zymogen granules at the apex**
+- Cuboidal cells with high nuclear-to-cytoplasm ratio
+
+*Explanation: The acinar cells are polarized epithelial cells rich in rough endoplasmic reticulum and characterized by an abundance of secretory zymogen granules within the apex.*
+
+---
+
+**89. What are the two critical functions of the ductal network?**
+
+- Producing digestive enzymes and storing hormones
+- Synthesizing bicarbonate and degrading nutrients
+- **Transporting exocrine secretions from acini to duodenum and producing a bicarbonate-rich solution**
+- Secreting insulin and glucagon into portal blood
+
+*Explanation: The ductal network serves two critical functions: transporting exocrine secretions from the acini to the duodenum and producing a solution rich in bicarbonate and electrolytes.*
+
+---
+
+**90. What is the correct order of the ductal network from smallest to largest?**
+
+- Main duct → interlobular duct → intralobular duct → intercalated duct
+- Intercalated duct → main duct → intralobular duct → interlobular duct
+- Intralobular duct → intercalated duct → interlobular duct → main duct
+- **Intercalated duct → intralobular duct → interlobular duct → main pancreatic duct**
+
+*Explanation: The ductal network starts with small intercalated ducts that join to form intralobular ducts, which then drain into interlobular ducts, which empty into the main pancreatic duct.*
+
+---
+
+**91. What morphology characterizes cells of the intercalated duct?**
+
+- Cuboidal with abundant mitochondria
+- Columnar with abundant supranuclear cytoplasm
+- **Minimal cytoplasm with squamous-shaped appearance**
+- Pyramidal with abundant zymogen granules
+
+*Explanation: Cells of the intercalated duct are characterized by minimal cytoplasm and a squamous-shaped appearance.*
+
+---
+
+**92. What enzyme do ductal cells contain that is necessary for bicarbonate production?**
+
+- Amylase
+- Lipase
+- Trypsinogen
+- **Cytoplasmic carbonic anhydrase**
+
+*Explanation: Ductal cells contain substantial levels of cytoplasmic carbonic anhydrase, an enzyme necessary for bicarbonate production.*
+
+---
+
+**93. Where are centroacinar cells located?**
+
+- Within the core of the islet of Langerhans
+- Along the main pancreatic duct
+- **At the junction between the acinus and the ductal cells of the intercalated duct**
+- Surrounding the intralobular ducts
+
+*Explanation: Cuboidal-shaped centroacinar cells are present at the junction between the acinus and the ductal cells of the intercalated duct.*
+
+---
+
+**94. What is the approximate diameter of centroacinar cells?**
+
+- ~1 μm
+- ~5 μm
+- **~10 μm**
+- ~30 μm
+
+*Explanation: Centroacinar cells are smaller than acinar cells, with a diameter of approximately 10 μm, and have a high nuclear-to-cytoplasm ratio.*
+
+---
+
+**95. What potential role have some authors suggested for centroacinar cells?**
+
+- Regulating blood flow to the islets
+- Producing glucagon under stress conditions
+- Synthesizing enterokinase
+- **Representing multipotent progenitor pancreatic cells that could be involved in malignant transformation**
+
+*Explanation: Some authors suggest that centroacinar cells could represent multipotent progenitor pancreatic cells and potentially be involved in malignant transformation.*
+
+---
+
+**96. What are ductal epithelial compartments (pancreatic duct glands) believed to contribute to?**
+
+- Normal acinar enzyme secretion
+- Islet cell regeneration
+- Portal blood insulin delivery
+- **Mucinous metaplasia and pancreatic intraepithelial neoplasia**
+
+*Explanation: Some authors have hypothesized that cells in the ductal epithelial compartment could contribute, at least in part, to the development of mucinous metaplasia and pancreatic intraepithelial neoplasia.*
+
+---
+
+**97. During the interdigestive period, which complex is responsible for cyclic stimulation of the exocrine pancreas?**
+
+- Migrating electrical complex (MEC)
+- Vasovagal enteropancreatic reflex
+- Neurohumoral reflex
+- **Intestinal migrating myoelectric complex (MMC)**
+
+*Explanation: Between meals, the intestinal migrating myoelectric complex (MMC) is responsible for the cyclic stimulation of the exocrine pancreas during the interdigestive period.*
+
+---
+
+**98. How often does the interdigestive cyclic pancreatic secretion of bicarbonate-rich fluid occur?**
+
+- Every 10–20 minutes
+- Every 30–45 minutes
+- **Every 60–120 minutes**
+- Every 3–4 hours
+
+*Explanation: The cholinergic stimuli that regulate the MMC cause cyclic pancreatic secretion of a fluid rich in bicarbonate every 60–120 minutes.*
+
+---
+
+**99. How many distinct phases characterize the digestive secretion period?**
+
+- One (intestinal)
+- Two (gastric and intestinal)
+- **Three (cephalic, gastric, and intestinal)**
+- Four (oral, cephalic, gastric, intestinal)
+
+*Explanation: The digestive secretion period begins after the ingestion of a meal bolus and is characterized by three distinct phases: cephalic, gastric, and intestinal.*
+
+---
+
+**100. What stimulates exocrine secretion during the cephalic phase?**
+
+- Gastric distention
+- Entry of chyme into the duodenum
+- CCK release from I cells
+- **Anticipation of food, smell, taste, and chewing, via the vagus nerve**
+
+*Explanation: The cephalic phase, elicited by the anticipation of food, smell, taste, and chewing act, stimulates exocrine secretion via the vagus nerve.*
+
+---
+
+**101. What is the primary neurotransmitter responsible for acinar secretion in the cephalic phase?**
+
+- GIP
+- Secretin
+- VIP
+- **Acetylcholine (ACh)**
+
+*Explanation: In the cephalic phase, ACh is the primary neurotransmitter, although acinar cells also express G protein-coupled receptors for gastrin-releasing peptide (GRP) and VIP.*
+
+---
+
+**102. What initiates the gastric phase of pancreatic secretion?**
+
+- Chyme entering the duodenum
+- Hydrogen ions in the duodenum
+- **Gastric distention once the meal reaches the stomach**
+- Nutrient absorption in the jejunum
+
+*Explanation: The gastric phase is initiated once the meal reaches the stomach and is stimulated by gastric distention, characterized by a low volume of enzyme-rich secretion.*
+
+---
+
+**103. At what duodenal pH do hydrogen ions stimulate S cells to release secretin?**
+
+- pH ≤ 7.0
+- pH ≤ 6.0
+- pH ≤ 5.0
+- **pH ≤ 4.5**
+
+*Explanation: During the intestinal phase, hydrogen ions (pH ≤ 4.5) stimulate duodenal S cells to release secretin into the bloodstream.*
+
+---
+
+**104. How does secretin act on ductal cells?**
+
+- Through nicotinic receptors to stimulate enzyme secretion
+- Through IP3 to release intracellular calcium
+- **Through its GPCR receptor, causing release of fluid and bicarbonate**
+- Through MAPK pathway to stimulate zymogen exocytosis
+
+*Explanation: Secretin acts primarily on ductal cells through its receptor GPCR, causing the release of fluid and bicarbonate and, to a lesser extent, acinar secretion.*
+
+---
+
+**105. What is the maximum concentration of sodium bicarbonate (NaHCO3) in pancreatic secretions?**
+
+- 40–60 mM
+- 80–100 mM
+- 110–130 mM
+- **140–150 mM**
+
+*Explanation: The concentration of sodium bicarbonate in pancreatic secretions can reach up to 140 to 150 mM, and chloride secretion varies inversely to bicarbonate concentration.*
+
+---
+
+**106. How does chloride secretion relate to bicarbonate concentration in pancreatic secretions?**
+
+- They increase together
+- Chloride is independent of bicarbonate
+- **They vary inversely, keeping [HCO3−] + [Cl−] constant at approximately 160 mM**
+- Chloride inhibits bicarbonate release
+
+*Explanation: Chloride secretion varies inversely to bicarbonate concentration, keeping [HCO3−] + [Cl−] constant at approximately 160 mM.*
+
+---
+
+**107. How much does pancreatic blood flow increase during a meal?**
+
+- From 0.1 to 1 mL/min
+- From 0.5 to 2 mL/min
+- **From 0.2–0.3 to 4 mL/min**
+- From 1 to 10 mL/min
+
+*Explanation: Secretin promotes an increase of blood flow to the entire organ. During a meal, the blood flow to the pancreas increases as much as 4 mL/min from a baseline of 0.2 or 0.3 mL/min.*
+
+---
+
+**108. Which neurotransmitter receptors are predominantly expressed on acinar cells and involved in regulating exocrine function?**
+
+- Nicotinic receptors N1 and N2
+- Adrenergic receptors α1 and β2
+- **Muscarinic receptors M1 and M3**
+- Dopaminergic receptors D1 and D2
+
+*Explanation: Evidence suggests that muscarinic receptors (M1 and M3) are predominantly expressed on acinar cells and are involved in regulating exocrine function, making ACh the principal neurotransmitter.*
+
+---
+
+**109. Where are CCK receptors primarily found in the human pancreas?**
+
+- On human acinar cells at high density
+- Exclusively on ductal cells
+- On islet α-cells
+- **On intrapancreatic vagal nerve terminals (not on human acinar cells)**
+
+*Explanation: Although only low levels of CCK receptor protein have been identified on human acinar cells, intrapancreatic vagal nerve terminals express CCK receptors, suggesting the cholinergic pathway regulates exocrine function.*
+
+---
+
+**110. Which drug can prevent and almost abolish the effect of CCK on pancreatic exocrine secretion?**
+
+- Metoclopramide
+- Ondansetron
+- **Atropine**
+- Ranitidine
+
+*Explanation: The effect of CCK on pancreatic exocrine secretion can be prevented and almost abolished by atropine administration, supporting the role of the cholinergic pathway.*
+
+---
+
+**111. Which amino acids are potent stimulants of exocrine pancreatic secretion?**
+
+- Glycine, alanine, serine, and threonine
+- Aspartate, glutamate, asparagine, and glutamine
+- Lysine, histidine, arginine, and proline
+- **Phenylalanine, valine, methionine, and tryptophan**
+
+*Explanation: Amino acids, especially phenylalanine, valine, methionine, and tryptophan, are potent stimulants of exocrine pancreatic secretion.*
+
+---
+
+**112. What are the main factors involved in feedback inhibitory regulation of the exocrine pancreas?**
+
+- Insulin, glucagon, and amylin
+- Gastrin, secretin, and VIP
+- **Monitor peptide, LCRF, secretin-releasing factors, and PYY**
+- GIP, GLP-1, and GLP-2
+
+*Explanation: The main factors identified in feedback regulation are monitor peptide, luminal CCK-releasing factor (LCRF), secretin-releasing factors (e.g., phospholipase A2), and peptide tyrosine tyrosine (PYY).*
+
+---
+
+**113. How does intraluminal trypsin affect monitor peptide and LCRF?**
+
+- It activates them to stimulate CCK release
+- It has no effect on them
+- **It inactivates them, thereby preventing augmentation of CCK release from the I cell**
+- It converts them into active proteases
+
+*Explanation: Evidence suggests that trypsin inactivates monitor peptide and LCRF, therefore preventing augmentation of CCK release from the I cell.*
+
+---
+
+**114. Which substance stimulates neuroendocrine L cells in the ileum and colon to release PYY?**
+
+- Glucose
+- Amino acids
+- **Intraluminal oleic acid**
+- Bile acids
+
+*Explanation: Neuroendocrine L cells present in ileum and colon are stimulated by intraluminal oleic acid to release PYY, which decreases vagal cholinergic mediation of CCK-stimulated pancreatic secretion.*
+
+---
+
+**115. How are most digestive enzymes stored in zymogen granules?**
+
+- As fully active enzymes
+- As permanently inactivated forms
+- As membrane-bound precursors
+- **As proenzymes (inactive precursors)**
+
+*Explanation: The exocrine pancreas releases digestive enzymes stored in zymogen granules either as proenzymes (e.g., trypsinogen, chymotrypsinogen) or as active enzymes (e.g., α-amylase, lipase).*
+
+---
+
+**116. What is pancreatic secretory trypsin inhibitor (PSTI) and what is its function?**
+
+- An enzyme that activates trypsinogen
+- A proenzyme that requires activation
+- **A trypsin inhibitor molecule that forms a stable complex with trypsin near its catalytic site, preventing undesired activation**
+- A cofactor needed for lipase activity
+
+*Explanation: Zymogen granules contain a trypsin inhibitor molecule known as PSTI, which forms a stable complex with trypsin near its catalytic site, preventing its undesired activation.*
+
+---
+
+**117. Which brush-border glycoprotein peptidase activates trypsinogen in the duodenal lumen?**
+
+- Pepsin
+- Chymotrypsin
+- Elastase
+- **Enterokinase**
+
+*Explanation: A brush-border glycoprotein peptidase present on the duodenal lumen, known as enterokinase, activates trypsinogen by removing its N-terminal hexapeptide fragment.*
+
+---
+
+**118. What is the major event that stimulates acinar cells to release secretory granules containing digestive enzymes?**
+
+- Decrease in intracellular ATP
+- Opening of ATP-dependent potassium channels
+- Activation of adenylate cyclase
+- **An increase in the intracellular concentration of calcium**
+
+*Explanation: An increase in the intracellular concentration of calcium is the major event that stimulates the acinar cells to release the secretory granules containing the digestive enzymes.*
+
+---
+
+**119. Which substances act through the activation of phospholipase C and the production of IP3 to stimulate acinar cell secretion?**
+
+- Secretin and VIP
+- GIP and GLP-1
+- **CCK, ACh, bombesin/GRP, PAR-2-activating protease, and substance P**
+- Glucagon and somatostatin
+
+*Explanation: CCK, ACh, bombesin/GRP, PAR-2-activating protease, and substance P bind to their respective GPCRs, ultimately acting through the activation of phospholipase C and the production of IP3.*
+
+---
+
+**120. What channel on the apical membrane of ductal cells is also known as the cystic fibrosis transmembrane conductance regulator (CFTR)?**
+
+- Sodium-potassium ATPase
+- Chloride-bicarbonate exchanger
+- Aquaporin channel
+- **cAMP-activated Cl− channel**
+
+*Explanation: The apical membrane of ductal cells is equipped with cAMP-activated Cl− channels, also known as the cystic fibrosis transmembrane conductance regulator (CFTR).*
+
+---
+
+**121. What is the chloride-bicarbonate exchanger present on the apical membrane of ductal cells?**
+
+- CFTR
+- AQP5
+- NHE1
+- **SLC26A3/A6**
+
+*Explanation: The apical membrane of ductal cells contains a Cl−-HCO3− exchanger known as SLC26A3/A6, which exchanges Cl− for HCO3− to secrete bicarbonate into the ductal lumen.*
+
+---
+
+**122. What is the role of K+ channels in the ductal cell membrane?**
+
+- Directly transporting bicarbonate into the duct
+- Activating the Na+-H+ exchanger
+- Closing the CFTR channel
+- **Generating and maintaining the electrochemical driving force for anion secretion**
+
+*Explanation: Several K+ channels are present in the ductal cell membrane and appear to have an essential role in generating and maintaining the electrochemical driving force for anion secretion.*
+
+---
+
+**123. In addition to GI hormones and cholinergic nerves, what luminal factors influence ductal HCO3− secretion?**
+
+- Blood glucose levels and insulin
+- Pancreatic enzyme concentrations
+- **Intraductal pressure, calcium concentration, and pathologic activation of protease and bile reflux**
+- Somatostatin levels and VIP
+
+*Explanation: Ductal HCO3− secretion is not only regulated by GI hormones and cholinergic nerves but is also influenced by luminal factors: intraductal pressure, calcium concentration, and pathologic activation of protease and bile reflux.*
+
+---
+
+**124. What three categories of assessment should be considered when evaluating β-cell endocrine function?**
+
+- Fasting glucose, random glucose, and HbA1c
+- Glucagon response, C-peptide level, and insulin-to-glucose ratio
+- **Capacity to produce insulin, response to secretagogue stimuli, and peripheral tissue resistance to insulin**
+- Fasting insulin, proinsulin/insulin ratio, and incretin response
+
+*Explanation: Assessments of β-cell function should consider the capacity of the β-cell to produce insulin, the response of the β-cells to secretagogue stimuli, and the peripheral tissue resistance to insulin.*
+
+---
+
+**125. Which of the following are considered the simplest evaluation methods of β-cell function?**
+
+- OGTT and MTT
+- Hyperglycemic glucose clamp and IV tolerance test
+- **Basal measurements of fasting insulin, fasting C-peptide, fasting proinsulin/insulin ratio, and the homeostatic model assessment test**
+- Arginine stimulation test and graded glucose infusion
+
+*Explanation: The simplest evaluation methods of β-cell function require basal measurement of plasma concentration of fasting insulin, fasting C-peptide, fasting proinsulin/insulin ratio, and the homeostatic model assessment test.*
+
+---
+
+**126. Which tests are more commonly used in clinical practice for assessing β-cell function?**
+
+- IV tolerance test and hyperglycemic glucose clamp
+- Graded glucose infusion and arginine stimulation test
+- Proinsulin/insulin ratio and homeostatic model assessment test
+- **Oral glucose tolerance test (OGTT) and mixed meal tolerance test (MTT)**
+
+*Explanation: The oral stimulation tests, including the OGTT and the MTT, are more commonly used in clinical practice and provide a more physiologic stimulus to insulin secretion by eliciting the full incretin effect.*
+
+---
+
+**127. How much oral glucose is administered in the standard OGTT?**
+
+- 50 g
+- 100 g
+- 25 g
+- **75 g**
+
+*Explanation: After an overnight fast, subjects are administered an oral glucose load of approximately 75 g in the OGTT. Blood samples are collected at baseline and at subsequent intervals.*
+
+---
+
+**128. How is impaired glucose tolerance defined on the OGTT?**
+
+- Fasting glucose > 7.0 mmol/L
+- 2-hour glucose value < 7.8 mmol/L
+- 2-hour glucose value ≥ 11.1 mmol/L
+- **2-hour glucose value of 7.8 mmol/L to 11.0 mmol/L**
+
+*Explanation: Impaired glucose tolerance is defined by a 2-hour glucose value during the OGTT of 7.8 mmol/L to 11.0 mmol/L, whereas overt T2DM presents values ≥ 11.1 mmol/L.*
+
+---
+
+**129. What glucose value at 2 hours on the OGTT is diagnostic for overt T2DM?**
+
+- ≥ 7.8 mmol/L
+- ≥ 10.0 mmol/L
+- ≥ 10.5 mmol/L
+- **≥ 11.1 mmol/L**
+
+*Explanation: Overt T2DM is diagnosed when the 2-hour glucose value during the OGTT is greater than or equal to 11.1 mmol/L.*
+
+---
+
+**130. In adults, exocrine pancreatic insufficiency is most commonly a result of what condition?**
+
+- Acute appendicitis
+- Celiac disease
+- Liver cirrhosis
+- **Pancreatic inflammatory processes (e.g., chronic pancreatitis) and pancreatic or gastric surgery**
+
+*Explanation: Exocrine pancreatic insufficiency in adults is often the result of pancreatic inflammatory processes, especially chronic pancreatitis, and is often a clinical problem after pancreatic or gastric surgery.*
+
+---
+
+**131. How much fecal fat per 24 hours is the threshold for diagnosing steatorrhea?**
+
+- 3 g
+- 5 g
+- **7 g**
+- 10 g
+
+*Explanation: Exocrine pancreatic insufficiency leads to steatorrhea, defined as greater than 7 g of fecal fat in 24 hours, along with weight loss and eventually malnutrition.*
+
+---
+
+**132. What percentage of pancreatic parenchyma must be lost before overt steatorrhea becomes evident?**
+
+- 30%
+- 50%
+- 70%
+- **More than 90%**
+
+*Explanation: The human pancreatic gland has a significant functional reserve; therefore more than 90% of pancreatic parenchyma must be lost before overt steatorrhea becomes evident.*
+
+---
+
+**133. Into which two major categories can pancreatic function tests (PFTs) be grouped?**
+
+- Enzymatic and hormonal tests
+- Blood and fecal tests
+- Structural and functional tests
+- **Indirect tests and direct tests**
+
+*Explanation: Pancreatic function tests (PFTs) can be grouped into two major categories: indirect tests and direct tests.*
+
+---
+
+**134. What is the principle behind indirect pancreatic function tests?**
+
+- Measuring serum secretin levels after hormonal stimulation
+- Quantifying bicarbonate output in pancreatic juice
+- Collecting and analyzing pure pancreatic fluid from the duct
+- **Evaluating the consequences resulting from diminished or absent digestive enzymes (e.g., steatorrhea)**
+
+*Explanation: Indirect PFTs are noninvasive tests that focus on evaluating the consequences resulting from diminished or absent digestive enzymes, such as steatorrhea.*
+
+---
+
+**135. What dietary fat intake is required for the fecal fat quantification test, and for how many days is stool collected?**
+
+- 50 g/day fat for 3 days, stool collected for 1 day
+- 80 g/day fat for 3 days, stool collected for 2 days
+- 150 g/day fat for 7 days, stool collected for 5 days
+- **100 g/day fat for 5 days, stool collected for 3 days (starting on day 3)**
+
+*Explanation: Patients are required to assume a diet of 100 g/day fat for 5 days and to collect the complete volume of feces for 3 days, starting on day 3.*
+
+---
+
+**136. What is the 13C-mixed triglyceride breath test used to evaluate?**
+
+- Pancreatic bicarbonate secretion
+- Fasting serum insulin levels
+- Islet cell autoantibodies
+- **Fat malabsorption as an alternative to the fecal fat test**
+
+*Explanation: The 13C-mixed triglyceride breath test is an alternative to the fecal fat test, which relies on the presence of intestinal pancreatic lipase activity to hydrolyze the 13C-marked substrate and release 13CO2.*
+
+---
+
+**137. What serum trypsinogen concentration is considered a reasonable cutoff for the diagnosis of pancreatic insufficiency?**
+
+- Less than 50 ng/mL
+- Less than 40 ng/mL
+- Less than 30 ng/mL
+- **Less than 20 ng/mL**
+
+*Explanation: A serum trypsinogen concentration of less than 20 ng/mL is considered a reasonable cutoff for the diagnosis of pancreatic insufficiency.*
+
+---
+
+**138. Why is chymotrypsin not considered an ideal fecal marker for pancreatic insufficiency?**
+
+- It is only secreted in very small quantities
+- It is not specific to the pancreas
+- **It is degraded during intestinal transit and can be diluted in the presence of diarrhea, leading to false-positive results**
+- It cannot be measured in stool samples
+
+*Explanation: Chymotrypsin is not an ideal marker because it is degraded during intestinal transit and can be diluted in the presence of diarrhea, leading to false-positive results.*
+
+---
+
+**139. What is the advantage of fecal elastase-1 over fecal chymotrypsin as a test of pancreatic insufficiency?**
+
+- Elastase-1 is influenced by exogenous pancreatic enzyme administration
+- Chymotrypsin is more stable during intestinal transit
+- **Elastase-1 is not influenced by exogenous pancreatic enzyme administration and is more stable during intestinal transit**
+- Elastase-1 is exclusively secreted by ductal cells
+
+*Explanation: Fecal elastase-1 appears to be a more reliable test because it is not influenced by exogenous pancreatic enzyme administration and is more stable than chymotrypsin during intestinal transit.*
+
+---
+
+**140. What level of fecal elastase-1 is diagnostic for pancreatic insufficiency in patients with chronic pancreatitis?**
+
+- ≤ 50 μg/g of stool
+- ≤ 30 μg/g of stool
+- ≤ 20 μg/g of stool
+- **≤ 15 μg/g of stool**
+
+*Explanation: A level of fecal elastase-1 less than or equal to 15 μg/g of stool (enzyme-linked immunosorbent assay on spot fecal sample) is diagnostic for pancreatic insufficiencies in patients with chronic pancreatitis.*
+
+---
+
+**141. Why is the fecal elastase-1 test often unreliable after pancreatic resection?**
+
+- The test is invalidated by the presence of abdominal scars
+- Surgical drainage alters fecal elastase transport
+- **Pancreatic insufficiency after resection results from a combination of factors including abnormal hormonal stimulation, abnormal mixing of food, and acidic intraluminal pH**
+- Elastase-1 production increases after surgery
+
+*Explanation: Fecal elastase-1 tests are often unreliable after pancreatic resection because pancreatic insufficiency results from a combination of factors not solely dependent on decreased pancreatic function.*
+
+---
+
+**142. What type of tube is required for invasive direct pancreatic function tests?**
+
+- Single-lumen nasogastric tube
+- Triple-lumen nasojejunal tube
+- Nasobiliary drainage tube
+- **Double-lumen gastroduodenal tube**
+
+*Explanation: Invasive direct PFTs require the use of a double-lumen collection tube, with one lumen terminating in the duodenum to collect pancreatic secretions and one lumen resting in the gastric antrum to prevent gastric fluid from entering the duodenum.*
+
+---
+
+**143. In the Lundh test, what is the composition of the standardized meal used to stimulate pancreatic secretion?**
+
+- 500 mL solution containing 20% carbohydrate, 10% fat, and 5% protein
+- 200 mL solution containing 10% carbohydrate, 5% fat, and 5% protein
+- **300 mL solution containing 15% carbohydrate, 6% fat, and 5% protein**
+- 400 mL solution containing 25% carbohydrate, 8% fat, and 8% protein
+
+*Explanation: In the Lundh test, a physiologic stimulus to pancreatic secretion is obtained through the administration of a standardized meal composed of 300 mL of solution containing 15% carbohydrate, 6% fat, and 5% protein.*
+
+---
+
+**144. What hormone-stimulated tests are considered the cornerstone of direct invasive pancreatic tests?**
+
+- GIP test and GLP-1 test
+- Gastrin test and pentagastrin test
+- **Secretin test, CCK test, and secretin-CCK test**
+- Glucagon test and somatostatin test
+
+*Explanation: The hormone-stimulated tests are the cornerstone of the direct invasive pancreatic tests. These tests use the exogenous administration of secretin, CCK, or a combination of secretin-CCK as a reliable method of pancreatic stimulation.*
+
+---
+
+**145. What is the standard IV dose of synthetic secretin used in the secretin test?**
+
+- 0.5 μg/kg
+- 1.0 μg/kg
+- 0.5 mg/kg
+- **0.2 μg/kg**
+
+*Explanation: The secretin test requires IV administration of a synthetic secretin bolus of 0.2 μg/kg, followed by a continuous collection of duodenal fluid in four aliquots of 15-minute intervals each.*
+
+---
+
+**146. In the secretin test, what bicarbonate concentration in all four aliquots indicates exocrine insufficiency?**
+
+- Less than 120 mEq/L
+- Less than 100 mEq/L
+- Less than 50 mEq/L
+- **Less than 80 mEq/L**
+
+*Explanation: Exocrine insufficiency is evident when bicarbonate concentrations less than 80 mEq/L are recorded in each of the four aliquots of the secretin test.*
+
+---
+
+**147. What bicarbonate concentration in the secretin test is diagnostic for severe exocrine insufficiency?**
+
+- Less than 80 mEq/L
+- Less than 70 mEq/L
+- Less than 60 mEq/L
+- **Less than 50 mEq/L**
+
+*Explanation: Severe exocrine insufficiency is diagnosed when bicarbonate concentration is less than 50 mEq/L in the secretin test.*
+
+---
+
+**148. In the purely endoscopic secretin test (ePFT), at what time intervals are duodenal aspirates collected after secretin stimulation?**
+
+- At 5, 10, 20, and 30 minutes
+- At 10, 20, 40, and 60 minutes
+- At 20, 40, 60, and 80 minutes
+- **At 0, 15, 30, 45, and 60 minutes**
+
+*Explanation: In the ePFT, duodenal aspirates are obtained through an endoscope at 0, 15, 30, 45, and 60 minutes after secretin stimulation and analyzed for bicarbonate concentration.*
+
+---
+
+**149. In a simplified version of the CCK test, what cutoff lipase value in duodenal fluid collected over 80 minutes is used?**
+
+- 200 IU/L
+- 400 IU/L
+- 600 IU/L
+- **780 IU/L**
+
+*Explanation: A simplified version of the CCK test measures lipase concentration from duodenal fluid collected over an 80-minute period and uses a cutoff lipase value of 780 IU/L.*
+
+---
+
+**150. What are two emerging imaging-based tests that combine secretagogues with imaging techniques for evaluating exocrine pancreatic function?**
+
+- CT-guided secretin test and PET-CCK test
+- Endoscopic ultrasound-secretin test and ERCP-CCK test
+- X-ray fluoroscopy-secretin test and scintigraphy-CCK test
+- **Secretin-enhanced MRI and secretin-enhanced MRCP**
+
+*Explanation: Tests combining secretagogues with imaging techniques include secretin-enhanced MRI, which evaluates increase in pancreatic capillary blood flow and secretion, and secretin-enhanced MRCP, which allows evaluation of duodenal filling as a function of pancreatic secretion.*

@@ -1,0 +1,1401 @@
+# 90 Hepatic Metastasis from Colorectal Cancer
+
+1. **What is the third leading cause of cancer-related mortality worldwide?**  
+    A. Lung cancer  
+    B. Breast cancer  
+    C. Pancreatic cancer  
+    **D. Colorectal cancer**  
+    *Correct: D. Colorectal cancer (CRC) is the third leading cause of cancer-related mortality worldwide.*
+
+2. **Through which main mechanisms does colorectal cancer spread?**  
+    A. Direct invasion and lymphatic spread only  
+    B. Hematogenous spread and transcoelomic spread only  
+    **C. Metastasis to regional lymph nodes and portal venous drainage to liver**  
+    D. Neural spread and hematogenous spread only  
+    *Correct: C. CRC spreads via two main mechanisms: metastasis to regional lymph nodes and then through central lymphatics into systemic circulation, or directly to the liver via portal venous drainage.*
+
+3. **Approximately what percentage of patients with colorectal cancer present with synchronous liver metastases?**  
+    A. 5-10%  
+    **B. 15-25%**  
+    C. 30-40%  
+    D. 45-55%  
+    *Correct: B. Approximately 15% to 25% of patients with CRC present with synchronous liver metastases.*
+
+4. **What is the median survival of untreated colorectal cancer with synchronous liver metastases?**  
+    A. 1-3 months  
+    **B. 5-10 months**  
+    C. 12-18 months  
+    D. 24-30 months  
+    *Correct: B. The median survival of untreated CRC with synchronous liver metastases is only 5 to 10 months.*
+
+5. **What is considered the only potentially curative treatment option for colorectal liver metastases?**  
+    A. Chemotherapy alone  
+    B. Radiation therapy  
+    C. Ablation techniques  
+    **D. Liver resection**  
+    *Correct: D. Liver resection is the mainstay of treatment for colorectal liver metastases (CLM) and represents the only potentially curative treatment option.*
+
+6. **What is the 5-year overall survival rate associated with surgical resection of colorectal liver metastases?**  
+    A. 35%  
+    B. 45%  
+    **C. 58%**  
+    D. 72%  
+    *Correct: C. Surgical resection of CLM is associated with a 5-year overall survival (OS) rate of 58%.*
+
+7. **What percentage of patients with colorectal liver metastases present with resectable disease?**  
+    A. 5-10%  
+    **B. 10-20%**  
+    C. 25-35%  
+    D. 40-50%  
+    *Correct: B. Only 10% to 20% of patients present with resectable disease.*
+
+8. **What is the recurrence rate after liver resection for patients eligible for the procedure?**  
+    A. 25-35%  
+    B. 40-50%  
+    **C. Up to 66%**  
+    D. 75-85%  
+    *Correct: C. For patients eligible for liver resection, disease recurrence rates of up to 66% are reported.*
+
+9. **Historically, what was the median survival of patients receiving palliative treatment with 5-fluorouracil alone?**  
+    A. 3-6 months  
+    **B. 6-12 months**  
+    C. 12-18 months  
+    D. 18-24 months  
+    *Correct: B. Historically, median survival of patients receiving palliative treatment with 5-fluorouracil (5-FU) alone was limited to 6 to 12 months.*
+
+10. **What is the median survival rate achieved with first-line combination therapy regimens with oxaliplatin or irinotecan?**  
+    A. 12 months  
+    B. 18 months  
+    **C. 30 months**  
+    D. 36 months  
+    *Correct: C. First-line combination therapy regimens with oxaliplatin or irinotecan have led to median survival rates of 30 months.*
+
+11. **What is the mechanism by which leucovorin enhances the activity of 5-fluorouracil?**  
+    A. It increases drug delivery to tumor cells  
+    **B. It stabilizes binding of 5-FU to thymidylate synthase**  
+    C. It inhibits DNA repair mechanisms  
+    D. It enhances immune recognition of tumor cells  
+    *Correct: B. Leucovorin (LV), also known as folinic acid, enhances the activity of 5-FU by stabilizing binding of 5-FU to its target, thymidylate synthase.*
+
+12. **Which drug is a topoisomerase inhibitor approved by the FDA in 2000 for first-line treatment of metastatic colorectal cancer?**  
+    A. Oxaliplatin  
+    **B. Irinotecan**  
+    C. Capecitabine  
+    D. Bevacizumab  
+    *Correct: B. Irinotecan, a topoisomerase inhibitor, was approved by the United States Food and Drug Administration (FDA) in 2000 for first-line treatment of metastatic CRC.*
+
+13. **What is oxaliplatin?**  
+    A. A monoclonal antibody  
+    B. A topoisomerase inhibitor  
+    **C. A platinum derivative**  
+    D. An oral fluoropyrimidine  
+    *Correct: C. Oxaliplatin is a platinum derivative that exerts synergistic cytotoxicity with 5-FU and received FDA approval in 2004 for first-line treatment of metastatic CRC.*
+
+14. **Which regimen has demonstrated objective response rates greater than 50% in the first-line treatment of metastatic colorectal cancer?**  
+    A. 5-FU alone  
+    B. Capecitabine alone  
+    **C. FOLFOX or FOLFIRI**  
+    D. FOLFOXIRI alone  
+    *Correct: C. Regimens with a backbone of infusional 5-FU/LV, combined with oxaliplatin (FOLFOX) or irinotecan (FOLFIRI), have demonstrated objective response rates greater than 50% in the first-line treatment of metastatic CRC.*
+
+15. **What is the difference between FOLFOX and FOLFIRI regimens?**  
+    A. FOLFOX contains bevacizumab while FOLFIRI does not  
+    B. FOLFOX is oral while FOLFIRI is intravenous  
+    **C. FOLFOX contains oxaliplatin while FOLFIRI contains irinotecan**  
+    D. FOLFOX is used for second-line therapy while FOLFIRI is for first-line  
+    *Correct: C. FOLFOX contains oxaliplatin while FOLFIRI contains irinotecan as the key cytotoxic agents in these regimens.*
+
+16. **What is XELOX?**  
+    A. 5-FU/LV plus bevacizumab  
+    B. FOLFOX plus cetuximab  
+    **C. Capecitabine combined with oxaliplatin**  
+    D. Irinotecan plus capecitabine  
+    *Correct: C. Capecitabine is an oral fluoropyrimidine that is converted to 5-FU in tumor tissues that can be combined with oxaliplatin (XELOX) or irinotecan (XELIRI).*
+
+17. **What was the finding of the Gruppo Oncologico Nord Ovest phase III RCT comparing FOLFOXIRI with FOLFIRI?**  
+    A. FOLFIRI had superior response rates  
+    **B. FOLFOXIRI had significantly higher response rates, PFS, and OS**  
+    C. Both regimens had identical outcomes  
+    D. FOLFIRI had fewer toxicities  
+    *Correct: B. FOLFOXIRI was associated with significantly higher response rates, progression-free survival (PFS), and OS compared to FOLFIRI, though with greater toxicity.*
+
+18. **What is bevacizumab?**  
+    A. A monoclonal antibody against EGFR  
+    **B. A monoclonal antibody against vascular endothelial growth factor**  
+    C. A BRAF inhibitor  
+    D. A MEK inhibitor  
+    *Correct: B. Bevacizumab is a monoclonal antibody against vascular endothelial growth factor.*
+
+19. **When added to irinotecan or oxaliplatin-based regimens, what effect does bevacizumab have?**  
+    A. Decreases response rates  
+    B. Increases neuropathy  
+    **C. Improves survival**  
+    D. Reduces liver toxicity  
+    *Correct: C. Bevacizumab is associated with improved survival when added to irinotecan or oxaliplatin-based regimens in the first-line metastatic setting.*
+
+20. **What is the target of cetuximab?**  
+    A. VEGF  
+    **B. EGFR**  
+    C. BRAF  
+    D. MEK  
+    *Correct: B. Cetuximab is a monoclonal antibody directed against epidermal growth factor receptor (EGFR).*
+
+21. **Why do KRAS mutations affect response to cetuximab?**  
+    A. KRAS is upstream of EGFR in the signaling pathway  
+    **B. KRAS lies downstream in the EGFR signaling pathway**  
+    C. KRAS mutations increase EGFR expression  
+    D. KRAS mutations cause rapid drug metabolism  
+    *Correct: B. Mutations in KRAS, which lies downstream in the EGFR signaling pathway, are associated with resistance to cetuximab.*
+
+22. **For which type of tumors is cetuximab effective when added to chemotherapy?**  
+    A. KRAS mutant tumors  
+    **B. KRAS wild-type tumors**  
+    C. BRAF mutant tumors  
+    D. SMAD4 mutant tumors  
+    *Correct: B. For KRAS wild-type tumors, the addition of cetuximab to FOLFIRI or FOLFOX is associated with improved response rates and PFS.*
+
+23. **What is the median overall survival for metastatic CRC patients with BRAF V600E mutations after failure of initial treatment?**  
+    A. 1-3 months  
+    **B. 4-6 months**  
+    C. 8-10 months  
+    D. 12-15 months  
+    *Correct: B. Metastatic CRC patients with BRAF V600E mutations have particularly poor outcomes, with median OS of only 4 to 6 months after failure of initial treatment.*
+
+24. **What did the BEACON trial demonstrate for patients with BRAF V600E mutations?**  
+    A. No benefit from targeted therapy  
+    B. Superiority of single-agent BRAF inhibitors  
+    **C. Improved OS and response rates with triplet therapy of encorafenib, binimetinib, and cetuximab**  
+    D. Better outcomes with immunotherapy  
+    *Correct: C. The BEACON trial showed improved OS and response rates with triplet therapy of encorafenib, binimetinib, and cetuximab, over the control group of cetuximab and irinotecan.*
+
+25. **What was the finding of the EORTC intergroup trial 40983 (EPOC) regarding perioperative chemotherapy?**  
+    A. It decreased overall survival  
+    **B. It improved progression-free survival**  
+    C. It increased surgical complications  
+    D. It had no effect on recurrence  
+    *Correct: B. Among 342 eligible patients, median PFS was 20.9 months in the perioperative chemotherapy arm, compared with 12.5 months in the surgery alone arm (P=.035). OS rates were similar between the two arms.*
+
+26. **What did the New EPOC study demonstrate about adding cetuximab to perioperative chemotherapy?**  
+    A. It improved overall survival  
+    B. It increased resection rates  
+    **C. It had a detrimental effect on survival**  
+    D. It reduced recurrence rates  
+    *Correct: C. The New EPOC study showed a detrimental effect on survival with the addition of cetuximab to perioperative chemotherapy for patients with KRAS exon 2 wild-type, resectable CLM.*
+
+27. **What was the finding of the RCT comparing adjuvant 5-FU/LV versus surgery alone?**  
+    A. Significant improvement in overall survival  
+    **B. Improved 5-year disease-free survival but no statistically significant benefit in OS**  
+    C. No benefit in disease-free survival  
+    D. Increased complication rates  
+    *Correct: B. An RCT of adjuvant 5-FU/LV versus surgery alone showed improved 5-year disease-free survival (33.5% vs. 26.7%, P=.028) but no statistically significant benefit in OS.*
+
+28. **What percentage of patients with initially unresectable colorectal liver metastases achieved sufficient downsizing with systemic therapy to undergo hepatic resection in a 2004 study?**  
+    A. 5%  
+    **B. 12.5%**  
+    C. 25%  
+    D. 37.5%  
+    *Correct: B. A study published in 2004 of over 1000 CLM patients showed that 12.5% of patients with initially unresectable CLM achieved sufficient downsizing with systemic therapy to undergo hepatic resection.*
+
+29. **What was the 5-year overall survival after hepatectomy for patients with initially unresectable disease who underwent resection?**  
+    A. 15%  
+    B. 22%  
+    **C. 33%**  
+    D. 45%  
+    *Correct: C. Among patients with initially unresectable disease who underwent hepatectomy, 5-year OS was 33%.*
+
+30. **Which regimen has been shown in RCTs to improve resectability rates over FOLFOX or FOLFIRI?**  
+    A. XELOX  
+    B. FOLFIRI plus cetuximab  
+    **C. FOLFOXIRI**  
+    D. FOLFOX plus bevacizumab  
+    *Correct: C. FOLFOXIRI has been shown in RCTs to improve resectability rates over FOLFOX or FOLFIRI.*
+
+31. **In a recent RCT of 241 patients with unresectable, RAS-mutated CLM, what was the R0 resection rate with FOLFOX plus bevacizumab compared to FOLFOX alone?**  
+    A. 5.8% vs. 22.3%  
+    **B. 22.3% vs. 5.8%**  
+    C. 15.2% vs. 8.7%  
+    D. 30.5% vs. 15.4%  
+    *Correct: B. In a recent RCT, 22.3% of patients underwent R0 resection after FOLFOX plus bevacizumab, compared with 5.8% of patients after FOLFOX alone (P<.01).*
+
+32. **What is the rationale for hepatic arterial infusion (HAI) chemotherapy?**  
+    A. It targets cancer stem cells specifically  
+    B. It avoids systemic toxicity completely  
+    **C. Metastases are perfused predominantly via the hepatic artery while normal liver receives portal blood supply**  
+    D. It enhances the effect of immunotherapy  
+    *Correct: C. The rationale for infusion of chemotherapy directly into the hepatic artery is the liver's dual blood supply, with metastases perfused predominantly via the hepatic artery, in contrast to portal blood supply to normal liver.*
+
+33. **Which drug has been extensively studied for hepatic arterial infusion because of its high first-pass extraction in the liver?**  
+    A. Oxaliplatin  
+    B. Irinotecan  
+    **C. Floxuridine (FUDR)**  
+    D. Capecitabine  
+    *Correct: C. Floxuridine (FUDR), a metabolite of 5-FU, has been extensively studied for HAI because of its high first-pass extraction in the liver, thereby minimizing systemic exposure.*
+
+34. **What did the RCT of adjuvant 5-FU plus HAI-FUDR compared with 5-FU alone demonstrate?**  
+    A. No difference in outcomes  
+    B. Worse survival with HAI-FUDR  
+    **C. Significantly higher 2-year OS in the HAI-FUDR group (86% vs. 72%, P=.03)**  
+    D. Higher complication rates with HAI-FUDR  
+    *Correct: C. An RCT demonstrated significantly higher 2-year OS in the HAI-FUDR group (86% vs. 72%, P=.03). Two-year hepatic recurrence-free survival (RFS) was also significantly higher with HAI-FUDR (90% vs. 60%, P<.001).*
+
+35. **What is a disadvantage of hepatic arterial infusion chemotherapy?**  
+    A. It causes severe peripheral neuropathy  
+    **B. It can cause biliary toxicity**  
+    C. It increases risk of pulmonary embolism  
+    D. It causes severe bone marrow suppression  
+    *Correct: B. Disadvantages of HAI chemotherapy include biliary toxicity, which can be mitigated with the concurrent infusion of dexamethasone and avoidance of systemic administration of bevacizumab.*
+
+36. **What type of liver injury is associated with oxaliplatin?**  
+    A. Steatohepatitis  
+    **B. Sinusoidal injury**  
+    C. Cholestatic injury  
+    D. Acute hepatitis  
+    *Correct: B. A study demonstrated associations between oxaliplatin and sinusoidal injury and between irinotecan and steatohepatitis.*
+
+37. **What type of liver injury is associated with irinotecan?**  
+    **A. Steatohepatitis**  
+    B. Sinusoidal injury  
+    C. Cholestatic injury  
+    D. Fibrosis  
+    *Correct: A. Irinotecan is associated with steatohepatitis, while oxaliplatin is associated with sinusoidal injury.*
+
+38. **What are splenomegaly and thrombocytopenia surrogates for?**  
+    A. Irinotecan-induced steatohepatitis  
+    **B. Oxaliplatin-induced sinusoidal injury**  
+    C. Bevacizumab-related hypertension  
+    D. Cetuximab-related skin toxicity  
+    *Correct: B. Splenomegaly and thrombocytopenia are surrogates for oxaliplatin-induced sinusoidal injury.*
+
+39. **Which condition was associated with higher mortality after CLM resection in the MDACC study?**  
+    A. Sinusoidal injury  
+    **B. Steatohepatitis**  
+    C. Cholestasis  
+    D. Fibrosis  
+    *Correct: B. In the MDACC study, steatohepatitis, but not sinusoidal injury, was associated with higher mortality after CLM resection (14.7% vs. 1.6%, P=.001).*
+
+40. **What is recommended regarding the duration of preoperative chemotherapy to minimize complications?**  
+    A. No more than 3 cycles  
+    **B. No more than 6 cycles**  
+    C. No more than 9 cycles  
+    D. No more than 12 cycles  
+    *Correct: B. Strategies to mitigate chemotherapy-associated hepatotoxicity include limiting preoperative chemotherapy to up to six cycles.*
+
+41. **What is the recommended interval between chemotherapy and CLM resection to minimize complications?**  
+    A. 1-2 weeks  
+    **B. 5 weeks**  
+    C. 8-10 weeks  
+    D. 12 weeks  
+    *Correct: B. An interval of 5 weeks is recommended between chemotherapy and surgery. The risk of postoperative complications is reportedly twice as high among patients with interval between chemotherapy and CLM resection of up to 4 weeks, compared with 5 to 8 weeks.*
+
+42. **What is the recommended timing for administering bevacizumab before hepatectomy?**  
+    A. 2 weeks  
+    B. 3 weeks  
+    **C. 5 weeks**  
+    D. 8 weeks  
+    *Correct: C. Despite its antiangiogenic effects, bevacizumab can be administered 5 weeks before hepatectomy without an increase in postoperative complications.*
+
+43. **What is the definition of technical resectability of intrahepatic disease?**  
+    A. Complete removal of all visible tumor  
+    **B. Margin-negative resection while preserving adequate biliary drainage and vascular inflow/outflow with sufficient future liver remnant**  
+    C. Ability to remove all tumor with at least 2 cm margins  
+    D. Complete removal of tumor with negative lymph nodes  
+    *Correct: B. Technical resectability of intrahepatic disease is defined as the ability to achieve a margin-negative resection while preserving adequate biliary drainage and vascular inflow and outflow, and sparing at least two contiguous hepatic segments with future liver remnant (FLR) volume of more than 20% with normal liver, more than 30% after extensive chemotherapy, and more than 40% with cirrhosis.*
+
+44. **What is the minimum future liver remnant volume required for resection with normal liver parenchyma?**  
+    A. 10%  
+    B. 15%  
+    **C. 20%**  
+    D. 25%  
+    *Correct: C. Technical resectability requires future liver remnant (FLR) volume of more than 20% with normal liver parenchyma.*
+
+45. **What is the minimum future liver remnant volume required after extensive chemotherapy?**  
+    A. 20%  
+    **B. 30%**  
+    C. 35%  
+    D. 40%  
+    *Correct: B. After extensive chemotherapy, the minimum future liver remnant volume required is more than 30%.*
+
+46. **What is the primary imaging modality for staging patients with metastatic colorectal cancer?**  
+    A. MRI  
+    **B. Contrast-enhanced CT**  
+    C. PET-CT  
+    D. Ultrasound  
+    *Correct: B. Contrast-enhanced computed tomography (CT) of the chest, abdomen, and pelvis is the primary imaging modality for staging patients with metastatic CRC.*
+
+47. **Which CT phase is most important for identifying colorectal liver metastases?**  
+    A. Precontrast phase  
+    B. Arterial phase  
+    **C. Portal venous phase**  
+    D. Delayed phase  
+    *Correct: C. The portal venous phase is the most important for identifying CLM because they are not typically well-vascularized.*
+
+48. **What is the sensitivity advantage of MRI over CT in detection of CLM dependent on?**  
+    A. Patient age  
+    B. Tumor size only  
+    **C. Imaging techniques, protocols, use of hepatobiliary contrast agents, and underlying liver disease**  
+    D. Type of chemotherapy received  
+    *Correct: C. The sensitivity of MRI versus CT in detection of CLM depends on imaging techniques and protocols, use of hepatobiliary contrast agents with MRI, and underlying liver disease, particularly steatosis.*
+
+49. **What is a limitation of PET-CT for staging colorectal cancer?**  
+    A. It cannot detect liver metastases  
+    **B. Lack of adequate specificity with false-positive results in inflammation**  
+    C. It causes significant radiation exposure  
+    D. It is too expensive for routine use  
+    *Correct: B. A limitation of PET is lack of adequate specificity, with false-positive results in the setting of inflammation.*
+
+50. **In an RCT of patients with metachronous, resectable CLM, what did PET-CT compared with CT alone NOT affect?**  
+    A. Detection of metastases  
+    **B. Surgical planning or long-term patient outcomes**  
+    C. Diagnosis of primary tumor  
+    D. Assessment of tumor response  
+    *Correct: B. In an RCT of patients with metachronous, resectable CLM, PET-CT compared with CT alone did not affect surgical planning or long-term patient outcomes.*
+
+51. **For patients with synchronous colorectal cancer and liver metastases, what is the traditional staged approach?**  
+    A. Liver resection first, then primary tumor resection  
+    **B. Primary tumor resection, followed by systemic therapy and hepatectomy**  
+    C. Simultaneous resection of primary tumor and liver metastases  
+    D. Systemic therapy only without surgery  
+    *Correct: B. The traditional staged approach entails primary tumor resection, followed by systemic therapy and hepatectomy.*
+
+52. **What is the liver-first, reverse approach for synchronous colorectal cancer with liver metastases?**  
+    **A. Systemic therapy first, followed by hepatectomy and subsequently primary tumor resection**  
+    B. Primary tumor resection first, followed by immediate hepatectomy  
+    C. Simultaneous resection of primary tumor and liver metastases  
+    D. Hepatectomy first without systemic therapy  
+    *Correct: A. In a liver-first sequence, patients whose primary tumors are asymptomatic receive systemic therapy first, followed by hepatectomy and subsequently primary tumor resection.*
+
+53. **Which patients are NOT candidates for the liver-first, reverse approach?**  
+    A. Patients with asymptomatic primary tumors  
+    B. Patients with small primary tumors  
+    **C. Patients whose primary tumors cannot be traversed with a pediatric colonoscope or have perforation**  
+    D. Patients with good performance status  
+    *Correct: C. Patients whose primary tumors cannot be traversed with a pediatric colonoscope or have perforation are not candidates for the reverse approach.*
+
+54. **What did a recent multicenter trial from France find regarding simultaneous versus delayed liver resection for synchronous CLM?**  
+    A. Simultaneous resection had higher complication rates  
+    B. Delayed resection had better survival  
+    **C. After 2 years, a trend toward improved OS and DFS was observed in the simultaneous resection group**  
+    D. Simultaneous resection was not feasible in most patients  
+    *Correct: C. After 2 years, a trend toward improved OS and DFS was observed in the simultaneous resection group (P=.05). In the delayed resection group, 8 patients did not undergo hepatectomy, mainly because of disease progression.*
+
+55. **What is the rate of radiologically disappearing liver metastases after chemotherapy?**  
+    A. 1-3%  
+    B. 3-5%  
+    **C. 5-24%**  
+    D. 25-35%  
+    *Correct: C. The rate of radiologically disappearing liver metastases (DLMs) after chemotherapy ranges from 5% to 24%, depending on the size of CLM.*
+
+56. **What is the purpose of preoperative fiducial placement for disappearing liver metastases?**  
+    A. To deliver targeted radiation  
+    **B. To enable intraoperative localization and targeted parenchymal-sparing resection**  
+    C. To assess tumor response to chemotherapy  
+    D. To guide ablation procedures  
+    *Correct: B. For metastases at risk of disappearing with chemotherapy, percutaneous placement of a fiducial marker before chemotherapy enables intraoperative localization and targeted parenchymal-sparing resection.*
+
+57. **When is fiducial marker placement NOT necessary?**  
+    A. When the lesion is large  
+    B. When the lesion is in the right lobe  
+    **C. If the lesion is located within the field of planned resection or is subcapsular**  
+    D. If the patient has cirrhosis  
+    *Correct: C. Fiducial marker placement is not necessary if the lesion at risk of disappearing is located within the field of planned resection or is subcapsular and likely to be identified by visualization or palpation.*
+
+58. **What is essential for delineating intrahepatic anatomy during liver resection?**  
+    A. Preoperative MRI only  
+    B. Intraoperative CT  
+    **C. Intraoperative ultrasound (IOUS)**  
+    D. Laparoscopic visualization only  
+    *Correct: C. Intraoperative ultrasound (IOUS) is essential to delineate intrahepatic anatomy, particularly hepatic vein tributaries and portal vein branches, and can be performed before liver mobilization.*
+
+59. **What has been reported to improve the accuracy of intraoperative detection of colorectal liver metastases?**  
+    A. Standard IOUS only  
+    **B. Contrast-enhanced IOUS**  
+    C. Intraoperative MRI  
+    D. Fluorescence imaging  
+    *Correct: B. Although not widely available, contrast-enhanced IOUS has been reported to improve detection. In a series of 60 patients, the accuracy of preoperative MRI/CT, standard IOUS, and contrast-enhanced IOUS was 74%, 79%, and 96%, respectively.*
+
+60. **For parenchymal-sparing resections, what is IOUS indispensable for?**  
+    A. Determining surgical approach  
+    **B. Marking the intended line of transection**  
+    C. Assessing lymph node involvement  
+    D. Measuring tumor size  
+    *Correct: B. For parenchymal-sparing resections, IOUS is indispensable for marking the intended line of transection, particularly for lesions located deep in the liver parenchyma.*
+
+61. **Which surgical approach is generally preferred for liver metastasectomy requiring nonanatomic planes?**  
+    A. Staplers only  
+    B. Vessel-sealing devices only  
+    **C. Parenchymal transection techniques with visualization of intrahepatic structures**  
+    D. Laser ablation  
+    *Correct: C. Given the frequent need to complete parenchymal-sparing and extended hepatectomies along nonanatomic planes, most surgeons prefer the parenchymal transection techniques that entail a dissection with visualization of the intrahepatic structures.*
+
+62. **What device allows for curvilinear transection planes and individual control of small intrahepatic structures?**  
+    A. Stapler  
+    B. LigaSure  
+    **C. Cavitron ultrasonic surgical aspirator**  
+    D. Harmonic scalpel  
+    *Correct: C. Instruments such as the Cavitron ultrasonic surgical aspirator allow for curvilinear transection planes, individual control of small intrahepatic structures, and minimal damage to the remnant liver.*
+
+63. **What has been shown to reduce the risk of clinically significant bile leak after major hepatectomy?**  
+    A. Prophylactic drains  
+    **B. Interrogation of the security of bile duct closure on the transection surface**  
+    C. Topical coagulants  
+    D. Routine biliary stenting  
+    *Correct: B. After major hepatectomy, interrogation of the security of bile duct closure on the transection surface has been shown to reduce the risk of clinically significant bile leak and nonbilious collections (deep organ space infection).*
+
+64. **What has NOT been shown to reduce postoperative bleeding or bile leak?**  
+    A. Careful surgical technique  
+    B. Air leak testing  
+    **C. Topical coagulant agents**  
+    D. Proper bile duct closure  
+    *Correct: C. Topical coagulant agents have not been shown to reduce postoperative bleeding or bile leak.*
+
+65. **What did the OSLO-COMET and LapOpHuva trials compare?**  
+    A. Open versus laparoscopic primary colorectal resection  
+    **B. Minimally invasive versus open liver resection for resectable CLM**  
+    C. Different chemotherapy regimens  
+    D. Ablation versus resection  
+    *Correct: B. Two recent RCTs have compared minimally invasive and open liver resection for resectable CLM. Both the OSLO-COMET and LapOpHuva trials were single-center studies that excluded major hepatectomy.*
+
+66. **What was the finding of the OSLO-COMET and LapOpHuva trials regarding minimally invasive resection?**  
+    A. Higher complication rates  
+    **B. Lower postoperative complication rates and hospital length of stay**  
+    C. Lower resection rates  
+    D. Worse long-term survival  
+    *Correct: B. In both trials, postoperative complication rates and hospital length of stay were lower in the minimally invasive arm.*
+
+67. **What is the contemporary reported morbidity rate after resection of colorectal liver metastases?**  
+    A. 15-20%  
+    B. 20-25%  
+    **C. Up to one-third of patients**  
+    D. 40-45%  
+    *Correct: C. Contemporary series report that up to one-third of patients will experience a complication after resection of colorectal liver metastases.*
+
+68. **What is the most dangerous liver-related complication after major hepatectomy?**  
+    A. Bile leak  
+    B. Perihepatic abscess  
+    **C. Liver insufficiency and liver failure**  
+    D. Hemorrhage  
+    *Correct: C. Liver insufficiency and liver failure remain the most dangerous liver-related complications and occur in 3% to 8% of patients after major hepatectomy.*
+
+69. **What is the reported incidence of bile leak after colorectal liver metastases resection?**  
+    A. 1-2%  
+    **B. 4%**  
+    C. 8-10%  
+    D. 12-15%  
+    *Correct: B. Other hepatobiliary complications include bile leak in 4% of patients and perihepatic abscess in 2% to 10%.*
+
+70. **What has contributed to the decreased mortality associated with elective liver resection for CLM?**  
+    A. Use of more simple procedures  
+    **B. Advances in understanding of liver anatomy, surgical techniques, and perioperative care**  
+    C. Better patient selection with fewer comorbidities  
+    D. Increased use of neoadjuvant therapy  
+    *Correct: B. Mortality associated with an elective liver resection for CLM has decreased significantly because of advances in the understanding of liver anatomy, surgical techniques, diagnostic and interventional radiology, and anesthesia.*
+
+71. **What is the current reported mortality rate for major series of CLM resection?**  
+    A. Less than 1%  
+    **B. Less than 3%**  
+    C. 4-6%  
+    D. 7-10%  
+    *Correct: B. In the past decade, major series of CLM resection report mortality rates of less than 3%.*
+
+72. **What are the majority of posthepatectomy deaths due to?**  
+    A. Cardiac complications  
+    **B. Perioperative hemorrhage or liver failure**  
+    C. Pulmonary embolism  
+    D. Sepsis  
+    *Correct: B. The majority of posthepatectomy deaths occur from perioperative hemorrhage or liver failure.*
+
+73. **What does two-stage hepatectomy (TSH) entail?**  
+    A. Resection of primary tumor followed by liver resection  
+    B. Resection of liver metastases followed by ablation  
+    **C. Sequential resection for bilateral CLM that cannot be resected in a single procedure**  
+    D. Resection followed by adjuvant chemotherapy and re-resection  
+    *Correct: C. TSH entails a sequential strategy for bilateral CLM that cannot be resected in a single procedure. In the first stage, metastases in the FLR are resected, typically with partial hepatectomy.*
+
+74. **What is performed between the two stages of a two-stage hepatectomy when indicated?**  
+    A. Systemic chemotherapy  
+    **B. Portal vein embolization (PVE)**  
+    C. Radiofrequency ablation  
+    D. Radiation therapy  
+    *Correct: B. If indicated, PVE is performed between the two stages to ensure adequate FLR volume.*
+
+75. **What is the dropout rate between the first and second stages in two-stage hepatectomy?**  
+    A. 3-5%  
+    B. 6-10%  
+    **C. 11%**  
+    D. 15-20%  
+    *Correct: C. TSH carries a risk of dropout between the first and second stages in 11% of patients, most from disease progression.*
+
+76. **What is the 5-year overall survival rate for patients who complete two-stage hepatectomy?**  
+    A. 20-30%  
+    B. 30-40%  
+    **C. Up to 51%**  
+    D. 60-70%  
+    *Correct: C. Despite the presence of multiple, bilateral metastases, patients who complete TSH have 5-year OS rates of up to 51%, partly because of the test of time between the two stages to select patients with favorable tumor biology.*
+
+77. **What is completion ablation?**  
+    A. Ablation of all metastases without resection  
+    **B. Resecting all but one to two small metastases and treating the remaining with percutaneous ablation**  
+    C. Ablation after failed resection  
+    D. Ablation as primary treatment  
+    *Correct: B. For patients with otherwise unresectable disease, completion ablation is a strategy to safely resect all but one to two small metastases and preserve liver parenchyma. After hepatectomy, the remaining one to two metastases are treated with percutaneous ablation under CT guidance.*
+
+78. **What is associated with lower rates of postoperative complications and local tumor progression compared to intraoperative ablation?**  
+    A. Simultaneous resection and ablation  
+    B. Preoperative ablation  
+    **C. Completion ablation**  
+    D. Radiofrequency ablation alone  
+    *Correct: C. Completion ablation is associated with lower rates of postoperative complications and local tumor progression than intraoperative ablation.*
+
+79. **Historically, what was considered a contraindication to hepatic resection?**  
+    A. Age over 70  
+    **B. At least four CLM and/or tumor diameter greater than 5 cm**  
+    C. Synchronous primary tumor  
+    D. History of abdominal surgery  
+    *Correct: B. Historically, patients with at least four CLM and/or tumor diameter greater than 5 cm were not considered for hepatic resection because of poor outcomes.*
+
+80. **What is the current view on number and size of CLM as contraindications to surgery?**  
+    A. They remain absolute contraindications  
+    B. Only size matters, not number  
+    **C. They are no longer contraindications to surgery**  
+    D. Only number matters, not size  
+    *Correct: C. Because of safer surgery, effective systemic therapies, and improved understanding of tumor biology, number and size of CLM are no longer contraindications to surgery.*
+
+81. **What was previously considered a contraindication to CLM resection?**  
+    A. Age over 65  
+    B. History of heart disease  
+    **C. Presence of nonpulmonary extrahepatic disease**  
+    D. Single liver metastasis  
+    *Correct: C. Previously, the presence of nonpulmonary EHD was considered a contraindication to CLM resection.*
+
+82. **What is the 5-year overall survival for patients undergoing resection of CLM and lung metastases?**  
+    A. 15-20%  
+    B. 24-32%  
+    **C. 32-50%**  
+    D. 55-65%  
+    *Correct: C. Lung metastases are associated with the best outcomes, with 5-year OS of 32% to 50%.*
+
+83. **What is the 5-year overall survival for patients undergoing resection of CLM and retroperitoneal lymph nodes or multiple anatomic sites of extrahepatic disease?**  
+    A. 1-5%  
+    B. 7-14%  
+    C. 20-25%  
+    D. 30-40%  
+    *Correct: B. Retroperitoneal lymph nodes and multiple anatomic sites of EHD have particularly poor 5-year OS rates of 7% to 14%.*
+
+84. **What is the most recognized and widely used scoring system for estimating prognosis in CLM resection?**  
+    A. MDACC score  
+    **B. MSKCC clinical risk score**  
+    C. EORTC score  
+    D. Nordlinger score  
+    *Correct: B. The most recognized and widely used scoring system is the clinical risk score from MSKCC published in 1999.*
+
+85. **How many points are assigned in the MSKCC clinical risk score for each risk factor?**  
+    A. 0.5 points  
+    **B. 1 point**  
+    C. 2 points  
+    D. 5 points  
+    *Correct: B. The MSKCC clinical risk score assigns one point to each of the following factors: (1) node-positive primary, (2) disease-free interval of less than 12 months, (3) CEA greater than 200 ng/mL, (4) more than one liver metastasis, and (5) CLM size greater than 5 cm.*
+
+86. **Which factors are included in the MSKCC clinical risk score?**  
+    A. Age, performance status, tumor grade  
+    **B. Node status, disease-free interval, CEA, number and size of metastases**  
+    C. Primary tumor location, molecular markers, response to chemotherapy  
+    D. Liver function tests, comorbidities, surgical complexity  
+    *Correct: B. The MSKCC clinical risk score includes: (1) node-positive primary, (2) disease-free interval of less than 12 months, (3) CEA greater than 200 ng/mL, (4) more than one liver metastasis, and (5) CLM size greater than 5 cm.*
+
+87. **What is the 5-year overall survival for low-risk versus high-risk patients according to the MSKCC clinical risk score?**  
+    A. 75% vs. 30%  
+    **B. 60% vs. 14%**  
+    C. 50% vs. 10%  
+    D. 40% vs. 5%  
+    *Correct: B. The MSKCC clinical risk score reports 5-year OS of 60% vs. 14% for low-risk versus high-risk patients.*
+
+88. **What has emerged as a significant prognostic and predictive factor in localized and metastatic CRC?**  
+    A. Patient age  
+    B. Tumor grade  
+    **C. Primary tumor location (right vs. left colon)**  
+    D. Surgical approach  
+    *Correct: C. The location of the primary tumor in the right (cecum to hepatic flexure) versus left colon (splenic flexure to rectum) is emerging as a significant prognostic and predictive factor in localized and metastatic CRC.*
+
+89. **Which primary tumor location is associated with worse survival after CLM resection?**  
+    A. Left colon  
+    **B. Right colon**  
+    C. Rectum  
+    D. Transverse colon  
+    *Correct: B. Right-sided tumors are associated with worse survival after CLM resection and higher prevalence of BRAF mutations.*
+
+90. **What predicts response to anti-EGFR therapy in metastatic CRC?**  
+    A. BRAF mutation status  
+    B. SMAD4 mutation status  
+    **C. Primary tumor location and RAS mutation status**  
+    D. Response to chemotherapy  
+    *Correct: C. Primary tumor location also predicts response to anti-EGFR therapy. In clinical trials of RAS wild-type metastatic CRC, anti-EGFR therapy was not beneficial for patients with right-sided primary tumors.*
+
+91. **What is the impact of primary tumor location on the efficacy of bevacizumab?**  
+    A. Right-sided tumors respond better  
+    B. Left-sided tumors respond better  
+    **C. Primary tumor location does not affect the efficacy of bevacizumab**  
+    D. Rectal tumors respond better  
+    *Correct: C. Primary tumor location did not affect the efficacy of bevacizumab.*
+
+92. **How is pathologic response to systemic therapy stratified?**  
+    A. By tumor shrinkage percentage only  
+    **B. By percent of viable tumor cells (complete, major, minor response)**  
+    C. By RECIST criteria only  
+    D. By imaging characteristics only  
+    *Correct: B. Pathologic response can be stratified by the percent of viable tumor cells, with at least 50% viable tumor cells classified as minor response; 1% to 49% viable tumor cells, major response; and 0% viable tumor cells, complete response.*
+
+93. **What were the 5-year OS rates with complete, major, and minor pathologic response in a study from MDACC?**  
+    A. 85%, 65%, 45%  
+    **B. 75%, 56%, 33%**  
+    C. 65%, 45%, 25%  
+    D. 55%, 35%, 15%  
+    *Correct: B. In a study from MDACC of 305 patients undergoing CLM resection, 5-year OS rates were 75%, 56%, and 33% with complete, major, and minor pathologic response, respectively (P<.05).*
+
+94. **What is the conventional method for assessing response to systemic therapy?**  
+    A. Pathologic examination only  
+    **B. RECIST criteria based on reduction in tumor size**  
+    C. Molecular markers only  
+    D. Patient symptoms  
+    *Correct: B. Response to systemic therapy is conventionally assessed radiologically using the Response Evaluation Criteria in Solid Tumors (RECIST), which is based on reduction in tumor size.*
+
+95. **For patients receiving chemotherapy with bevacizumab, what correlates better with pathologic response and survival?**  
+    A. RECIST criteria  
+    **B. Morphologic changes in liver metastases seen on CT**  
+    C. Serum CEA levels  
+    D. Patient symptoms  
+    *Correct: B. For patients receiving chemotherapy with bevacizumab, morphologic changes in liver metastases seen on CT correlate better than RECIST with pathologic response and survival.*
+
+96. **What defines an optimal morphologic response to bevacizumab-containing therapy?**  
+    A. Complete tumor disappearance  
+    **B. Homogeneous attenuation, sharp tumor-liver interface, absence of peripheral enhancement**  
+    C. Reduction in tumor size by 50%  
+    D. Decreased vascularity on Doppler ultrasound  
+    *Correct: B. An optimal morphologic response is defined as homogeneous attenuation of metastases, sharp tumor-liver interface, and absence of peripheral enhancement.*
+
+97. **What percentage of patients undergoing CLM resection have MSI-H tumors?**  
+    A. Less than 0.5%  
+    **B. Less than 2%**  
+    C. 5-10%  
+    D. 15-20%  
+    *Correct: B. MSI-H tumors affect less than 2% of patients undergoing CLM resection.*
+
+98. **Which somatic gene mutations have emerged as important predictive and prognostic biologic factors in CLM?**  
+    A. TP53 and APC  
+    **B. RAS and BRAF**  
+    C. PIK3CA and PTEN  
+    D. HER2 and MET  
+    *Correct: B. Somatic gene mutations, particularly RAS and BRAF, have emerged as important predictive and prognostic biologic factors in CLM.*
+
+99. **Where is RAS located in relation to EGFR in the MAPK signaling pathway?**  
+    A. Upstream of EGFR  
+    **B. Downstream of EGFR**  
+    C. Parallel pathway  
+    D. Not in the same pathway  
+    *Correct: B. RAS mutations lead to constitutive activation of the Ras protein, resulting in resistance to therapies that target EGFR, which lies upstream of Ras in the MAPK pathway.*
+
+100. **What was the 3-year overall survival for patients with RAS mutation versus RAS wild type in a 2013 study?**  
+    A. 40.5% vs. 70%  
+    **B. 52.2% vs. 81%**  
+    C. 65.3% vs. 88%  
+    D. 72.1% vs. 92%  
+    *Correct: B. A study published in 2013 demonstrated significantly lower 3-year OS of 52.2% with a RAS mutation, compared with 81% RAS wild type (P=.002).*
+
+101. **What did a meta-analysis of 1181 patients undergoing CLM resection confirm regarding KRAS mutations?**  
+    A. No effect on survival  
+    B. Improved survival  
+    **C. Worse overall survival**  
+    D. Better response to chemotherapy  
+    *Correct: C. A meta-analysis of 1181 patients undergoing CLM resection confirmed worse OS with KRAS mutations.*
+
+102. **What percentage of patients with metastatic CRC have BRAF mutations?**  
+    A. 1-3%  
+    B. 4-6%  
+    **C. 8-12%**  
+    D. 15-20%  
+    *Correct: C. BRAF mutations, identified in 8% to 12% of all patients with metastatic CRC, are associated with aggressive disease and poor survival.*
+
+103. **What was the median overall survival for patients with BRAF mutation versus BRAF wild-type in a multicenter study?**  
+    A. 12 vs. 48 months  
+    **B. 40 vs. 81 months**  
+    C. 24 vs. 60 months  
+    D. 18 vs. 45 months  
+    *Correct: B. Median OS rates were significantly shorter with a BRAF mutation (OS, 40 vs. 81 months; both P<.001).*
+
+104. **What is the most common BRAF mutation in colorectal cancer?**  
+    A. V600K  
+    **B. V600E**  
+    C. K601E  
+    D. G469A  
+    *Correct: B. The most common BRAF mutation is V600E, leading to an amino acid change from valine (V) to glutamic acid (E) at codon 600.*
+
+105. **What percentage of BRAF mutations in CRC are non-V600 mutations?**  
+    A. 5-10%  
+    B. 10-15%  
+    **C. Up to 25%**  
+    D. 30-40%  
+    *Correct: C. Up to a quarter of BRAF mutations in CRC encode non-V600 mutations.*
+
+106. **How are BRAF mutations categorized based on kinase activity and signaling mechanisms?**  
+    A. Two classes  
+    **B. Three classes**  
+    C. Four classes  
+    D. Five classes  
+    *Correct: B. Recently, BRAF mutations have been categorized into three classes based on kinase activity and signaling mechanisms.*
+
+107. **Which class of BRAF mutants results in 500-fold to 700-fold increased kinase activity?**  
+    A. Class II  
+    **B. Class I**  
+    C. Class III  
+    D. Class IV  
+    *Correct: B. Class I mutants are V600 mutations, which result in 500-fold to 700-fold increased kinase activity and greater activation of the MAPK pathway than RAS mutations.*
+
+108. **What is the median overall survival for metastatic CRC patients with non-V600E BRAF mutations?**  
+    A. 11.4 months  
+    B. 25.3 months  
+    **C. 60.7 months**  
+    D. 82.5 months  
+    *Correct: C. A large, pooled analysis demonstrated that non-V600E BRAF mutations are associated with excellent prognosis, with median OS rate of 60.7 months, compared with 11.4 and 43.0 months with V600E mutation and BRAF wild-type, respectively (P<.001).*
+
+109. **What is SMAD4?**  
+    A. An oncogene  
+    **B. A tumor suppressor gene central to TGF-β signaling**  
+    C. A receptor tyrosine kinase  
+    D. A DNA repair enzyme  
+    *Correct: B. SMAD4 is a tumor suppressor gene central to transforming growth factor-β signaling that is associated with chemoresistance and poor prognosis in stages I to IV CRC.*
+
+110. **What percentage of patients with CLM have SMAD4 mutations?**  
+    A. 5%  
+    B. 8%  
+    **C. 13%**  
+    D. 22%  
+    *Correct: C. SMAD4 mutations are identified in 13% of patients with both resectable and unresectable CLM.*
+
+111. **What was the 3-year overall survival for patients with SMAD4 mutation versus wild-type after CLM resection?**  
+    A. 45% vs. 75%  
+    **B. 62% vs. 82%**  
+    C. 50% vs. 70%  
+    D. 35% vs. 55%  
+    *Correct: B. SMAD4 mutations are associated with worse 3-year OS after CLM resection (62% vs. 82%, P<.001).*
+
+112. **Which gene is the most frequently mutated in CLM?**  
+    A. KRAS  
+    B. BRAF  
+    **C. TP53**  
+    D. SMAD4  
+    *Correct: C. TP53, the most frequently mutated gene in CLM, does not affect prognosis when considered in isolation.*
+
+113. **What is the 5-year overall survival for patients with double mutation in both TP53 and RAS versus without double mutation?**  
+    A. 35.2% vs. 75.0%  
+    **B. 20.6% vs. 60.0%**  
+    C. 12.4% vs. 45.0%  
+    D. 8.7% vs. 30.0%  
+    *Correct: B. Double mutation in both TP53 and RAS is associated with significantly worse 5-year OS after CLM resection of 20.6%, compared with 60.0% without double mutation (P<.001).*
+
+114. **What has been shown to be associated with significantly worse survival than single or double mutation of RAS, TP53, and SMAD4?**  
+    A. Quadruple mutation  
+    **B. Triple mutation**  
+    C. No mutation  
+    D. Single mutation only  
+    *Correct: B. A recent study from MDACC showed that triple mutation in RAS, TP53, and SMAD4 is associated with significantly worse survival than single or double mutation of these genes.*
+
+115. **What percentage of patients undergoing CLM resection die from recurrent disease?**  
+    A. 30-40%  
+    B. 40-50%  
+    **C. Most patients**  
+    D. 70-80%  
+    *Correct: C. Although the cure rate for liver metastasectomy is considered to be about 20%, most patients undergoing CLM resection die from recurrent disease.*
+
+116. **Where do recurrences occur in 60% of patients after CLM resection?**  
+    A. Lungs  
+    **B. Liver**  
+    C. Peritoneum  
+    D. Lymph nodes  
+    *Correct: B. Recurrences occur in the liver in 60% of patients and exclusively in the liver in up to 40%.*
+
+117. **When do most recurrences develop after CLM resection?**  
+    A. Within the first 6 months  
+    **B. Within the first 2 years**  
+    C. Between 2-4 years  
+    D. After 5 years  
+    *Correct: B. Most recurrences develop within the first 2 years of CLM resection.*
+
+118. **What is a typical follow-up regimen after CLM resection for the first 2 years?**  
+    A. Annual imaging only  
+    B. Physical examination only  
+    **C. Physical examination, serum CEA level, and CT every 3-4 months**  
+    D. Monthly blood tests only  
+    *Correct: C. A typical follow-up regimen is physical examination, serum CEA level, and CT of the chest, abdomen, and pelvis every 3 to 4 months for the first 2 years and every 6 months for the next 2 to 3 years.*
+
+119. **When does the risk of recurrence peak after CLM resection?**  
+    A. Immediately after surgery  
+    **B. Approximately 1 year after resection**  
+    C. 2 years after resection  
+    D. 3 years after resection  
+    *Correct: B. The risk of recurrence peaks approximately 1 year after CLM resection, declines from 1 to 4 years, and remains stable after 4 years.*
+
+120. **What remains the sole risk factor for recurrence in patients who remain disease-free at 2 years?**  
+    A. Number of liver metastases  
+    B. Size of liver metastases  
+    **C. RAS mutation**  
+    D. Primary tumor location  
+    *Correct: C. In patients who remain disease-free at 2 years, RAS mutation remains the sole risk factor for recurrence.*
+
+121. **For patients with recurrent CLM, what procedure may be considered if they have good performance status and adequate hepatic reserve?**  
+    A. Radiation therapy  
+    B. Systemic chemotherapy only  
+    **C. Repeat hepatectomy**  
+    D. Liver transplantation  
+    *Correct: C. For patients with recurrent CLM who have a good performance status and adequate hepatic reserve, repeat hepatectomy may be considered.*
+
+122. **What is the survival rate after repeat hepatectomy for recurrent CLM?**  
+    A. Significantly worse than first hepatectomy  
+    **B. Similar to those after the first hepatectomy**  
+    C. Better than after the first hepatectomy  
+    D. Only 10-15% at 5 years  
+    *Correct: B. In carefully selected patients, repeat hepatectomy is associated with survival rates similar to those after the first hepatectomy.*
+
+123. **Which factor is associated with adverse outcomes after re-resection for recurrent CLM?**  
+    A. Age over 65  
+    B. Female gender  
+    **C. Recurrence less than 6 months after initial resection**  
+    D. Left-sided primary tumor  
+    *Correct: C. Factors associated with adverse outcomes after re-resection include recurrence less than 6 months after initial resection, RAS mutation, and positive margins at the first or repeat resection.*
+
+124. **What is the operative mortality rate reported in contemporary series of repeat liver resections?**  
+    A. 1-2%  
+    **B. 0%**  
+    C. 3-5%  
+    D. 6-8%  
+    *Correct: B. Contemporary series of repeat liver resections report an operative mortality rate of 0% and a perioperative complication rate that is similar to initial resections.*
+
+125. **What does ALPPS stand for?**  
+    A. Advanced Liver Parenchymal Preservation Strategy  
+    B. Assisted Liver Parenchymal Preservation System  
+    **C. Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy**  
+    D. Accelerated Liver Parenchymal Preservation Surgery  
+    *Correct: C. ALPPS stands for Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy.*
+
+126. **What is the main advantage of ALPPS over conventional two-stage hepatectomy?**  
+    A. Lower complication rates  
+    B. Better long-term survival  
+    **C. Accelerated FLR hypertrophy enabling completion within 1-2 weeks**  
+    D. No need for portal vein embolization  
+    *Correct: C. ALPPS triggers accelerated FLR hypertrophy and enables two-stage completion within a short period of 1 to 2 weeks, compared to the typical 8 weeks for conventional two-stage hepatectomy.*
+
+127. **What was the finding of the Scandinavian multicenter LIGRO trial comparing ALPPS versus conventional two-stage hepatectomy?**  
+    A. ALPPS had higher mortality  
+    B. Conventional approach had better survival  
+    **C. ALPPS had higher resection rate of all visible disease (92% vs. 57%)**  
+    D. Conventional approach had fewer complications  
+    *Correct: C. In the ALPPS arm, 44 of 48 (92%) patients underwent resection of all grossly visible disease, compared with 28 of 49 (57%) patients after portal vein occlusion (P<.001).*
+
+128. **What is the historical 5-year overall survival after liver transplantation for CLM?**  
+    A. 18%  
+    **B. 18%**  
+    C. 35%  
+    D. 45%  
+    *Correct: B. Historically, 5-year OS after liver transplantation for CLM was dismal, only 18%, and was largely abandoned.*
+
+129. **What was the 5-year overall survival in the initial report of the SECA protocol from Oslo University Hospital?**  
+    A. 35%  
+    B. 45%  
+    **C. 60%**  
+    D. 75%  
+    *Correct: C. The initial report included 21 patients. After median follow-up after transplant of 27 months, estimated 5-year OS of 60% was reported.*
+
+130. **What was the disease-free survival at 3 years in the SECA-II study?**  
+    A. 15%  
+    B. 25%  
+    **C. 35%**  
+    D. 45%  
+    *Correct: C. In SECA-II, after median follow-up of 36 months, 5-year OS of 83% was reported, but DFS was significantly lower, 35% at 3 years.*
+
+131. **What is the goal of CLM resection regarding margin status?**  
+    A. At least 1 cm margin  
+    B. At least 5 mm margin  
+    **C. Microscopically negative margin**  
+    D. No specific margin requirement  
+    *Correct: C. Based on current data, the goal of CLM resection is a microscopically negative margin.*
+
+132. **What did a more recent multi-institutional study of over 500 patients demonstrate about resection margin width?**  
+    A. Margins less than 1 cm were associated with worse survival  
+    **B. Width of negative margin from 1 mm to 1 cm or greater did not affect recurrence or survival rates**  
+    C. Only margins greater than 2 cm improved survival  
+    D. Margins less than 5 mm were acceptable  
+    *Correct: B. A more recent multi-institutional study of over 500 patients undergoing CLM resection demonstrated that the width of negative margin, from 1 mm to 1 cm or greater, did not affect recurrence or survival rates.*
+
+133. **What did a 2008 study of 436 patients demonstrate regarding R0 and R1 resection?**  
+    A. R1 resection had significantly better survival  
+    **B. Similar OS rates after R0 and R1 resection**  
+    C. R1 resection was not feasible in most patients  
+    D. R1 resection had much higher complication rates  
+    *Correct: B. A 2008 study of 436 patients undergoing CLM resection demonstrated similar OS rates after R0 and R1 resection. R1 resection was associated with higher rate of overall intrahepatic recurrence, but not with marginal recurrence.*
+
+134. **How is R1 resection typically defined?**  
+    A. Tumor-free margin of less than 5 mm  
+    **B. Tumor-free margin of less than 1 mm**  
+    C. Tumor cells at the cut surface  
+    D. Margin less than 2 cm  
+    *Correct: B. Most studies define R1 resection as tumor-free margin of less than 1 mm.*
+
+135. **What is the survival for patients with resection margins between 0.1 and 0.9 mm compared to those with at least 1 mm?**  
+    A. Better survival  
+    **B. Worse survival than those with at least 1 mm but better than those with tumor cells at the margin**  
+    C. Same survival  
+    D. Much worse survival  
+    *Correct: B. Patients with resection margins between 0.1 and 0.9 mm are reported to have survival that is worse than patients with resection margin of at least 1 mm but better than those with tumor cells at the margin.*
+
+136. **What does the prognostic impact of a positive margin depend on?**  
+    A. Patient age only  
+    B. Surgical approach only  
+    **C. Other factors such as response to systemic therapy**  
+    D. Tumor size only  
+    *Correct: C. Multiple studies demonstrate that the prognostic impact of a positive margin is contingent upon other factors such as response to systemic therapy, suggesting that a microscopically positive margin is a surrogate marker of aggressive tumor biology.*
+
+137. **What is the standard of care for medically fit patients with metastatic CRC to the liver?**  
+    A. Systemic chemotherapy alone  
+    B. Ablation therapy  
+    **C. Hepatic resection**  
+    D. Liver transplantation  
+    *Correct: C. For medically fit patients with metastatic CRC to the liver, hepatic resection is the standard of care and is associated with 5-year OS rates approaching 60%.*
+
+138. **What is the main determinant of survival in patients with isolated hepatic metastases?**  
+    A. Primary tumor characteristics  
+    B. Patient age  
+    **C. Extent of liver disease**  
+    D. Response to chemotherapy  
+    *Correct: C. In patients with isolated hepatic metastases, the extent of liver disease is the main determinant of survival.*
+
+139. **What is the likelihood of presenting with or developing metastases associated with?**  
+    A. Patient age and gender  
+    **B. Primary tumor T and N stage and presence of lymphovascular invasion**  
+    C. Tumor grade and differentiation  
+    D. Primary tumor location only  
+    *Correct: B. The likelihood of presenting with or developing metastases is associated with primary tumor T and N stage and the presence of lymphovascular invasion.*
+
+140. **What percentage of patients with colorectal cancer will develop metachronous liver metastases?**  
+    A. 5-10%  
+    B. 10-15%  
+    **C. 20-30%**  
+    D. 35-45%  
+    *Correct: C. An additional 20% to 30% will develop metachronous liver metastases.*
+
+141. **What is the recommended maximum number of preoperative chemotherapy cycles to minimize complications?**  
+    A. 3 cycles  
+    **B. 6 cycles**  
+    C. 9 cycles  
+    D. 12 cycles  
+    *Correct: B. Limiting preoperative chemotherapy to up to six cycles is recommended to minimize complications.*
+
+142. **What is associated with higher rates of severe sinusoidal injury, postoperative major morbidity, and mortality?**  
+    A. 3-4 cycles of preoperative chemotherapy  
+    B. 6-8 cycles of preoperative chemotherapy  
+    **C. Twelve or more cycles of preoperative chemotherapy**  
+    D. No preoperative chemotherapy  
+    *Correct: C. Twelve or more cycles of preoperative chemotherapy are associated with significantly higher rates of severe sinusoidal injury, postoperative major morbidity, and mortality.*
+
+143. **What is the recommended interval between chemotherapy and CLM resection to minimize complications?**  
+    A. 1-2 weeks  
+    **B. 5 weeks**  
+    C. 8-10 weeks  
+    D. 12 weeks  
+    *Correct: B. An interval of 5 weeks is recommended between chemotherapy and surgery. The risk of postoperative complications is reportedly twice as high among patients with interval between chemotherapy and CLM resection of up to 4 weeks, compared with 5 to 8 weeks.*
+
+144. **What is the optimal duration of chemotherapy before resection of CLM according to MSKCC?**  
+    A. 1-2 months  
+    **B. 2-4 months**  
+    C. 6-8 months  
+    D. Until maximum response is achieved  
+    *Correct: B. In a study from Memorial Sloan-Kettering Cancer Center (MSKCC), maximum radiologic response in CLM was observed after 2 to 4 months of chemotherapy; if continued beyond 4 months, there was little gain in therapeutic benefit.*
+
+145. **What is the rationale for hepatic arterial infusion (HAI) chemotherapy?**  
+    A. It targets cancer stem cells specifically  
+    B. It avoids systemic toxicity completely  
+    **C. Metastases are perfused predominantly via the hepatic artery while normal liver receives portal blood supply**  
+    D. It enhances the effect of immunotherapy  
+    *Correct: C. The rationale for infusion of chemotherapy directly into the hepatic artery is the liver's dual blood supply, with metastases perfused predominantly via the hepatic artery, in contrast to portal blood supply to normal liver.*
+
+146. **What is a disadvantage of hepatic arterial infusion chemotherapy?**  
+    A. It causes severe peripheral neuropathy  
+    **B. It can cause biliary toxicity**  
+    C. It increases risk of pulmonary embolism  
+    D. It causes severe bone marrow suppression  
+    *Correct: B. Disadvantages of HAI chemotherapy include biliary toxicity, which can be mitigated with the concurrent infusion of dexamethasone and avoidance of systemic administration of bevacizumab.*
+
+147. **What is associated with oxaliplatin-related sinusoidal injury progression?**  
+    A. Steatohepatitis  
+    **B. Nodular regenerative hyperplasia and clinically significant portal hypertension**  
+    C. Biliary cirrhosis  
+    D. Acute liver failure  
+    *Correct: B. Oxaliplatin-related sinusoidal injury can progress to nodular regenerative hyperplasia and clinically significant portal hypertension.*
+
+148. **What is associated with steatohepatitis in the MDACC study?**  
+    A. Sinusoidal injury  
+    **B. Higher mortality after CLM resection**  
+    C. Better response to chemotherapy  
+    D. Lower recurrence rates  
+    *Correct: B. In the MDACC study, steatohepatitis, but not sinusoidal injury, was associated with higher mortality after CLM resection (14.7% vs. 1.6%, P=.001).*
+
+149. **What is associated with higher rates of reversible postoperative complications in the EPOC trial?**  
+    A. Surgery alone  
+    **B. Six cycles of preoperative FOLFOX**  
+    C. Adjuvant chemotherapy only  
+    D. Neoadjuvant radiation  
+    *Correct: B. In the EPOC trial, patients who received six cycles of preoperative FOLFOX had higher rates of reversible postoperative complications than those who underwent surgery alone (25% vs. 16%, P=.0401).*
+
+150. **What is the recommended approach for patients with baseline splenomegaly?**  
+    A. Oxaliplatin-based chemotherapy  
+    **B. Avoid oxaliplatin due to risk for severe sinusoidal injury**  
+    C. Higher dose of bevacizumab  
+    D. Irinotecan with increased dosing  
+    *Correct: B. Patients with baseline splenomegaly are at risk for severe sinusoidal injury with oxaliplatin, whereas patients with hepatic steatosis, obesity, and diabetes are at risk for developing steatohepatitis with irinotecan.*
+
+151. **What is the recommended approach for patients with hepatic steatosis, obesity, and diabetes?**  
+    A. Oxaliplatin-based chemotherapy  
+    B. Higher dose of bevacizumab  
+    **C. Avoid irinotecan due to risk for steatohepatitis**  
+    D. Increased cycle number of chemotherapy  
+    *Correct: C. Patients with baseline splenomegaly are at risk for severe sinusoidal injury with oxaliplatin, whereas patients with hepatic steatosis, obesity, and diabetes are at risk for developing steatohepatitis with irinotecan.*
+
+152. **What is a commonly used first-line regimen that provides improved pathologic response and protective effect on oxaliplatin-associated sinusoidal injury?**  
+    A. FOLFIRI alone  
+    **B. FOLFOX plus bevacizumab**  
+    C. FOLFOXIRI  
+    D. XELOX  
+    *Correct: B. Given the improved pathologic response with bevacizumab and its protective effect on oxaliplatin-associated sinusoidal injury, FOLFOX plus bevacizumab is a commonly used first-line regimen.*
+
+153. **What is the primary purpose of portal vein embolization (PVE)?**  
+    A. To shrink liver metastases  
+    B. To improve response to chemotherapy  
+    **C. To induce hypertrophy of the future liver remnant**  
+    D. To reduce tumor vascularity  
+    *Correct: C. Portal vein embolization (PVE) is used to induce hypertrophy of the future liver remnant to allow for safe resection.*
+
+154. **What is the minimum future liver remnant volume required with cirrhosis?**  
+    A. 20%  
+    B. 30%  
+    **C. 40%**  
+    D. 50%  
+    *Correct: C. Technical resectability requires future liver remnant (FLR) volume of more than 40% with cirrhosis.*
+
+155. **What is the advantage of contrast-enhanced IOUS over standard IOUS?**  
+    A. Better visualization of blood vessels  
+    B. Reduced procedure time  
+    **C. Higher accuracy in detecting liver metastases (96% vs. 79%)**  
+    D. Lower cost  
+    *Correct: C. In a series of 60 patients, the accuracy of preoperative MRI/CT, standard IOUS, and contrast-enhanced IOUS was 74%, 79%, and 96%, respectively.*
+
+156. **What is the benefit of interrogating bile duct closure security after major hepatectomy?**  
+    A. Reduces need for blood transfusion  
+    **B. Reduces risk of clinically significant bile leak**  
+    C. Improves long-term survival  
+    D. Reduces hospital stay  
+    *Correct: B. After major hepatectomy, interrogation of the security of bile duct closure on the transection surface has been shown to reduce the risk of clinically significant bile leak and nonbilious collections (deep organ space infection).*
+
+157. **What has been shown to obviate the need for prophylactic transperitoneal drains?**  
+    A. Careful surgical technique  
+    **B. Testing bile duct closure security**  
+    C. Use of topical coagulants  
+    D. Minimally invasive approach  
+    *Correct: B. After major hepatectomy, interrogation of the security of bile duct closure on the transection surface has been shown to reduce the risk of clinically significant bile leak and nonbilious collections (deep organ space infection). These tests obviate the need for prophylactic transperitoneal drains.*
+
+158. **What is the reported incidence of perihepatic abscess after CLM resection?**  
+    A. 0.5-1%  
+    B. 2-3%  
+    **C. 2-10%**  
+    D. 12-15%  
+    *Correct: C. Other hepatobiliary complications include bile leak in 4% of patients and perihepatic abscess in 2% to 10%.*
+
+159. **What is the reported incidence of pulmonary complications after CLM resection?**  
+    A. 2.5%  
+    **B. 7.5%**  
+    C. 12.5%  
+    D. 18.5%  
+    *Correct: B. Pulmonary complications, reported in 7.5% of patients, are related to the large upper abdominal incisions, postsurgical sympathetic pleural effusions, and failure to mobilize patients early.*
+
+160. **What is the reported incidence of cardiovascular and thrombotic complications after CLM resection?**  
+    **A. About 5%**  
+    B. 10-15%  
+    C. 20-25%  
+    D. 30-35%  
+    *Correct: A. The incidence of cardiovascular and thrombotic complications is about 5%, most commonly arrhythmia.*
+
+161. **What is the reported major morbidity rate in the Tamandl 2015 study of CLM resection?**  
+    A. 6.5%  
+    B. 10.5%  
+    **C. 17.3%**  
+    D. 37%  
+    *Correct: C. The Tamandl 2015 study reported a major morbidity rate of 17.3%.*
+
+162. **What is the reported mortality rate in the Wiseman 2019 study of CLM resection?**  
+    A. 0.5%  
+    **B. 0.7%**  
+    C. 2.3%  
+    D. 6.2%  
+    *Correct: B. The Wiseman 2019 study reported a mortality rate of 0.7%.*
+
+163. **What is the reported mortality rate in the Lordan 2017 study of CLM resection?**  
+    A. 0.5%  
+    B. 0.7%  
+    **C. 2.3%**  
+    D. 6.2%  
+    *Correct: C. The Lordan 2017 study reported a mortality rate of 2.3%.*
+
+164. **What is the reported morbidity rate in the Elfrink 2020 study of CLM resection?**  
+    A. 6.2%  
+    B. 10.5%  
+    **C. 6.2%**  
+    D. 32.8%  
+    *Correct: A. The Elfrink 2020 study reported a morbidity rate of 6.2%.*
+
+165. **What is the reported major morbidity rate in the Olthof 2020 study of CLM resection?**  
+    A. 6.5%  
+    **B. 10.5%**  
+    C. 17.3%  
+    D. 33%  
+    *Correct: B. The Olthof 2020 study reported a major morbidity rate of 10.5%.*
+
+166. **What is the reported morbidity rate in the Lordan 2017 study of CLM resection?**  
+    A. 6.2%  
+    **B. 32.8%**  
+    C. 37%  
+    D. 6.5%  
+    *Correct: B. The Lordan 2017 study reported a morbidity rate of 32.8%.*
+
+167. **What is the reported morbidity rate in the Tamandl 2015 study of CLM resection?**  
+    **A. 37%**  
+    B. 32.8%  
+    C. 33%  
+    D. 6.2%  
+    *Correct: A. The Tamandl 2015 study reported a morbidity rate of 37%.*
+
+168. **What is the reported morbidity rate in the Wiseman 2019 study of CLM resection?**  
+    A. 6.2%  
+    B. 10.5%  
+    **C. 33%**  
+    D. 32.8%  
+    *Correct: C. The Wiseman 2019 study reported a morbidity rate of 33%.*
+
+169. **What is the advantage of the simultaneous resection approach for synchronous colorectal and liver metastases?**  
+    A. Better survival outcomes  
+    B. Lower complication rates  
+    **C. Resection of all disease under one general anesthesia and lower cost**  
+    D. Better response to chemotherapy  
+    *Correct: C. Benefits of simultaneous resection include resection of all disease under one general anesthesia and lower cost.*
+
+170. **What is a potential drawback of the traditional staged approach (primary tumor resection first)?**  
+    A. Higher complication rates  
+    **B. Delayed treatment of metastatic disease**  
+    C. Worse overall survival  
+    D. Increased risk of liver failure  
+    *Correct: B. A potential drawback of the traditional approach is delayed treatment of metastatic disease, particularly if the patient suffers a complication after colorectal surgery.*
+
+171. **What is the risk of primary tumor-related complications with the liver-first, reverse approach?**  
+    A. High risk requiring frequent interventions  
+    **B. Low risk**  
+    C. Moderate risk requiring close monitoring  
+    D. Very high risk contraindicating the approach  
+    *Correct: B. The risk of primary tumor-related complications with the reverse approach is low. Bleeding from the primary tumor can be managed with transfusion and chemotherapy and does not pose a contraindication to the reverse approach.*
+
+172. **What is the rate of radiologically disappearing liver metastases after chemotherapy for small CLM?**  
+    A. 1-5%  
+    B. 5-10%  
+    **C. 5-24%**  
+    D. 25-35%  
+    *Correct: C. The rate of radiologically disappearing liver metastases (DLMs) after chemotherapy ranges from 5% to 24%, depending on the size of CLM.*
+
+173. **When is fiducial marker placement necessary for CLM?**  
+    A. For all lesions  
+    B. Only for lesions >5 cm  
+    **C. For metastases at risk of disappearing with chemotherapy**  
+    D. Only for lesions in the right lobe  
+    *Correct: C. For metastases at risk of disappearing with chemotherapy, percutaneous placement of a fiducial marker before chemotherapy enables intraoperative localization and targeted parenchymal-sparing resection.*
+
+174. **What is the accuracy of contrast-enhanced intraoperative ultrasound in detecting CLM?**  
+    A. 74%  
+    B. 79%  
+    **C. 96%**  
+    D. 99%  
+    *Correct: C. In a series of 60 patients, the accuracy of contrast-enhanced IOUS was 96%.*
+
+175. **What is the accuracy of standard intraoperative ultrasound in detecting CLM?**  
+    A. 74%  
+    **B. 79%**  
+    C. 96%  
+    D. 85%  
+    *Correct: B. In a series of 60 patients, the accuracy of standard IOUS was 79%.*
+
+176. **What is the accuracy of preoperative MRI/CT in detecting CLM?**  
+    **A. 74%**  
+    B. 79%  
+    C. 96%  
+    D. 85%  
+    *Correct: A. In a series of 60 patients, the accuracy of preoperative MRI/CT was 74%.*
+
+177. **What is the purpose of scoring the liver capsule along transection planes during parenchymal-sparing resections?**  
+    A. To improve hemostasis  
+    B. To reduce operation time  
+    **C. To confirm adequate margin from the transection line to the tumor**  
+    D. To identify vascular structures  
+    *Correct: C. For parenchymal-sparing resections, IOUS is indispensable for marking the intended line of transection, particularly for lesions located deep in the liver parenchyma. After scoring the liver capsule along these planes, a properly positioned US probe perpendicular to the capsular mark will confirm an adequate margin from the transection line to the tumor.*
+
+178. **What is the advantage of the Cavitron ultrasonic surgical aspirator for liver transection?**  
+    A. Faster procedure time  
+    **B. Curvilinear transection planes and individual control of small intrahepatic structures**  
+    C. Reduced blood loss  
+    D. Better visualization  
+    *Correct: B. Instruments such as the Cavitron ultrasonic surgical aspirator allow for curvilinear transection planes, individual control of small intrahepatic structures, and minimal damage to the remnant liver.*
+
+179. **What is the benefit of minimally invasive liver resection compared to open resection?**  
+    A. Better long-term survival  
+    **B. Lower postoperative complication rates and hospital length of stay**  
+    C. Higher resection rates  
+    D. Better margin status  
+    *Correct: B. In both trials, postoperative complication rates and hospital length of stay were lower in the minimally invasive arm.*
+
+180. **What is the dropout rate in two-stage hepatectomy primarily due to?**  
+    A. Insufficient FLR hypertrophy  
+    **B. Disease progression**  
+    C. Patient refusal  
+    D. Postoperative complications  
+    *Correct: B. In contrast, most published series of TSH with PVE report disease progression, not insufficient hypertrophy, as the primary reason for drop-out.*
+
+181. **What is liver venous deprivation?**  
+    A. Portal vein ligation only  
+    B. Hepatic vein embolization only  
+    **C. Combined hepatic vein embolization and PVE**  
+    D. Complete portal vein occlusion  
+    *Correct: C. Liver venous deprivation (combined hepatic vein embolization and PVE) has been recently reported as a safe approach leading to a superior degree of hypertrophy and kinetic growth rate compared with PVE alone.*
+
+182. **What is the advantage of liver venous deprivation over PVE alone?**  
+    A. Lower complication rates  
+    **B. Superior degree of hypertrophy and kinetic growth rate**  
+    C. Shorter procedure time  
+    D. Lower cost  
+    *Correct: B. Liver venous deprivation (combined hepatic vein embolization and PVE) has been recently reported as a safe approach leading to a superior degree of hypertrophy and kinetic growth rate compared with PVE alone.*
+
+183. **What was the finding of the phase II RCT (CLOCC) comparing chemotherapy plus local ablation versus chemotherapy alone?**  
+    A. No difference in outcomes  
+    B. Worse survival with ablation  
+    **C. Significantly higher 5-year OS with ablation (43.1% vs. 30.3%, P=.01)**  
+    D. Higher complication rates with ablation  
+    *Correct: C. A phase II RCT assigned patients with unresectable, liver-only metastases to chemotherapy plus local ablation or chemotherapy alone (CLOCC). Patients in the ablation arm had significantly higher 5-year OS (43.1% vs. 30.3%, P=.01).*
+
+184. **What is the local recurrence rate for ablation compared to hepatectomy for resectable CLM?**  
+    A. 11% for ablation vs. 4% for hepatectomy  
+    **B. 37% for ablation vs. 11% and 4% for hepatectomy with or without positive margin**  
+    C. 25% for ablation vs. 15% for hepatectomy  
+    D. 45% for ablation vs. 20% for hepatectomy  
+    *Correct: B. For resectable CLM, ablation is associated with higher local recurrence rate of 37%, compared with 11% and 4% after hepatectomy, with or without a positive margin, respectively.*
+
+185. **What is the benefit of completion ablation over intraoperative ablation?**  
+    A. Better local control  
+    **B. Lower rates of postoperative complications and local tumor progression**  
+    C. Higher resection rates  
+    D. Shorter hospital stay  
+    *Correct: B. Completion ablation is associated with lower rates of postoperative complications and local tumor progression than intraoperative ablation.*
+
+186. **What is the 5-year overall survival for patients undergoing resection of CLM and limited peritoneal disease?**  
+    A. 5-10%  
+    B. 15-20%  
+    **C. 24-42%**  
+    D. 50-60%  
+    *Correct: C. Portal lymph nodes or limited peritoneal disease reportedly has intermediate 5-year OS rates after resection of 24% to 42%, although patient populations in published series are heterogeneous with small sample sizes.*
+
+187. **What molecular factor was found to be an independent predictor of survival after resection of CLM and various extrahepatic sites?**  
+    A. BRAF mutation  
+    **B. RAS/TP53 co-mutation**  
+    C. SMAD4 mutation  
+    D. MSI-H status  
+    *Correct: B. Among 109 patients undergoing resection of CLM and various extrahepatic sites of disease, 28% of patients had co-mutation of RAS/TP53, which was an independent predictor of OS (5-year OS 25% vs. 50%, with and without RAS/TP53 co-mutation, P=.02).*
+
+188. **What is the 5-year overall survival for patients with RAS/TP53 co-mutation versus without after resection of CLM and extrahepatic disease?**  
+    A. 15% vs. 40%  
+    **B. 25% vs. 50%**  
+    C. 35% vs. 65%  
+    D. 45% vs. 75%  
+    *Correct: B. Among patients undergoing resection of CLM and extrahepatic disease, 5-year OS was 25% vs. 50% with and without RAS/TP53 co-mutation, respectively (P=.02).*
+
+189. **What is the most common BRAF mutation class in colorectal cancer?**  
+    A. Class II  
+    **B. Class I**  
+    C. Class III  
+    D. Class IV  
+    *Correct: B. Class I mutants are V600 mutations, which are the most common BRAF mutations in CRC.*
+
+190. **What characterizes Class II BRAF mutants?**  
+    A. High kinase activity like Class I  
+    **B. Kinase activity less than V600 mutants**  
+    C. Low or no kinase activity  
+    D. Enhanced binding to Ras protein  
+    *Correct: B. Class II mutants, which include mutations in codons 464, 469, 597, and 601, have kinase activity that is less than V600 mutants.*
+
+191. **What characterizes Class III BRAF mutants?**  
+    A. High kinase activity  
+    B. Kinase activity less than V600 mutants  
+    **C. Low or no kinase activity but increase MAPK signaling via enhanced binding to Ras protein**  
+    D. No effect on MAPK signaling  
+    *Correct: C. Class III mutants, which include mutations in codons 594 and 596, have low or no kinase activity but increase MAPK signaling via enhanced binding to the Ras protein.*
+
+192. **What is the median overall survival for metastatic CRC patients with V600E BRAF mutation?**  
+    A. 11.4 months  
+    **B. 11.4 months**  
+    C. 43.0 months  
+    D. 60.7 months  
+    *Correct: B. A large, pooled analysis demonstrated that V600E BRAF mutations are associated with median OS rate of 11.4 months.*
+
+193. **What is the median overall survival for metastatic CRC patients with BRAF wild-type?**  
+    A. 11.4 months  
+    B. 40 months  
+    **C. 43.0 months**  
+    D. 60.7 months  
+    *Correct: C. A large, pooled analysis demonstrated that BRAF wild-type is associated with median OS rate of 43.0 months.*
+
+194. **What is the median overall survival for metastatic CRC patients with non-V600E BRAF mutations?**  
+    A. 11.4 months  
+    B. 43.0 months  
+    **C. 60.7 months**  
+    D. 82.5 months  
+    *Correct: C. A large, pooled analysis demonstrated that non-V600E BRAF mutations are associated with median OS rate of 60.7 months.*
+
+195. **What is the 5-year overall survival after resection of CLM with complete pathologic response?**  
+    **A. 75%**  
+    B. 56%  
+    C. 33%  
+    D. 20%  
+    *Correct: A. In a study from MDACC of 305 patients undergoing CLM resection, 5-year OS rates were 75%, 56%, and 33% with complete, major, and minor pathologic response, respectively (P<.05).*
+
+196. **What is the 5-year overall survival after resection of CLM with major pathologic response?**  
+    A. 75%  
+    **B. 56%**  
+    C. 33%  
+    D. 20%  
+    *Correct: B. In a study from MDACC of 305 patients undergoing CLM resection, 5-year OS rates were 75%, 56%, and 33% with complete, major, and minor pathologic response, respectively (P<.05).*
+
+197. **What is the 5-year overall survival after resection of CLM with minor pathologic response?**  
+    A. 75%  
+    B. 56%  
+    C. 33%  
+    **D. 33%**  
+    *Correct: C. In a study from MDACC of 305 patients undergoing CLM resection, 5-year OS rates were 75%, 56%, and 33% with complete, major, and minor pathologic response, respectively (P<.05).*
+
+198. **What is the risk factor for recurrence at time of resection for CLM?**  
+    A. Age  
+    B. Gender  
+    **C. Primary lymph node metastasis, multiple liver metastases, CLM diameter >5 cm, and RAS mutation**  
+    D. Performance status only  
+    *Correct: C. Risk factors for recurrence at time of resection are primary lymph node metastasis, multiple liver metastases, CLM diameter greater than 5 cm, and RAS mutation.*
+
+199. **What is the sole risk factor for recurrence in patients who remain disease-free at 2 years after CLM resection?**  
+    A. Number of liver metastases  
+    B. Size of liver metastases  
+    **C. RAS mutation**  
+    D. Primary tumor location  
+    *Correct: C. In patients who remain disease-free at 2 years, RAS mutation remains the sole risk factor for recurrence.*
+
+200. **What is the 5-year overall survival after liver transplantation for CLM in the SECA-II study?**  
+    A. 35%  
+    B. 50%  
+    **C. 83%**  
+    D. 95%  
+    *Correct: C. In SECA-II, after median follow-up of 36 months, 5-year OS of 83% was reported, but DFS was significantly lower, 35% at 3 years.*

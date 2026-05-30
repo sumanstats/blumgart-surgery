@@ -1,0 +1,2548 @@
+# 58 Management of Chronic Pancreatitis: Conservative, Endoscopic, Surgical
+
+
+Generated with Qwen.
+
+**1. What percentage of all chronic pancreatitis (CP) patients have Autoimmune Pancreatitis (AIP)?**
+
+- 1% to 2%
+- **5% to 6%**
+- 15% to 20%
+- 30% to 35%
+
+*Explanation: "AIP is found in approximately 5% to 6% of all CP patients and has gained increasing attention since the early 2000s as an important and distinctly different entity of CP."*
+
+**2. What is the threshold for developing chronic pancreatitis in terms of alcohol intake?**
+
+- 50 g/day for 6 months
+- **70 g/day for more than 12 months**
+- 100 g/day for 24 months
+- 30 g/day for 18 months
+
+*Explanation: "A persistent alcohol intake of 70 g/day for a duration of more than 12 months is the threshold for developing CP."*
+
+**3. What is the most common cause of chronic pancreatitis accounting for 70% of all cases?**
+
+- Genetic mutations
+- **Chronic alcohol consumption**
+- Gallstones
+- Tropical factors
+
+*Explanation: "Etiology of CP includes chronic alcohol consumption as the most common cause with an increasing impact accounting for 70% of all CP cases."*
+
+**4. What percentage of all CP patients is estimated to have hereditary CP?**
+
+- 5% to 10%
+- **20% to 30%**
+- 40% to 50%
+- 60% to 70%
+
+*Explanation: "Today, the proportion of hereditary CP is estimated at 20% to 30% of all CP patients."*
+
+**5. Which gene mutation is NOT associated with hereditary chronic pancreatitis?**
+
+- PRSS1
+- SPINK1
+- CFTR
+- **BRCA1**
+
+*Explanation: "Genetic mutations include mainly mutations in gene loci of cationic trypsinogen (PRSS1), serine protease inhibitor Kazal-type 1 (SPINK1), carboxypeptidase A1 (CPA1), as well as cystic fibrosis transmembrane conductance regulator (CFTR), chymotrypsinogen C (CTRC), and carboxyesterlipase (CEL)."*
+
+**6. What percentage of CP cases is currently classified as idiopathic after exclusion of all other risk factors?**
+
+- **Approximately 10%**
+- Approximately 25%
+- Approximately 40%
+- Approximately 60%
+
+*Explanation: "Idiopathic CP may account for approximately 10% of all cases today after exclusion of all other risk factors."*
+
+**7. What is the reported incidence of chronic pancreatitis per 100,000 inhabitants?**
+
+- 1 to 3
+- **5 to 15**
+- 25 to 50
+- 75 to 100
+
+*Explanation: "The reported rates show an incidence of approximately 5 to 15 per 100,000 and prevalence of 40 to 120 per 100,000 inhabitants."*
+
+**8. What is the reported prevalence of chronic pancreatitis per 100,000 inhabitants?**
+
+- 10 to 25
+- **40 to 120**
+- 150 to 200
+- 250 to 300
+
+*Explanation: "The reported rates show an incidence of approximately 5 to 15 per 100,000 and prevalence of 40 to 120 per 100,000 inhabitants calculated on the basis of an estimated median survival time of 20 years."*
+
+**9. Which vitamin deficiency is observed in up to 75% of all CP patients?**
+
+- Vitamin C
+- Vitamin B12
+- **Fat-soluble vitamins (A, D, E)**
+- Vitamin K only
+
+*Explanation: "Deficiency in fat-soluble vitamins, especially vitamin A, D and E, is observed in up to 75% of all CP patients."*
+
+**10. What percentage of CP patients develop clinically manifest osteoporosis?**
+
+- 5%
+- 15%
+- **25%**
+- 50%
+
+*Explanation: "Fat-soluble vitamin deficiency may lead to clinically manifest osteoporosis, as observed in approximately 25% of CP patients."*
+
+**11. What type of diabetes mellitus is CP-related endocrine pancreatic insufficiency defined as?**
+
+- Type 1
+- Type 2
+- **Type 3c**
+- Type 4
+
+*Explanation: "CP-related endocrine pancreatic insufficiency is defined as DM type 3c, which is characterized by deficiency of insulin and glucagon as well as pancreatic polypeptide."*
+
+**12. What percentage of all diabetes patients worldwide have DM type 3c?**
+
+- 1% to 2%
+- **5% to 10%**
+- 15% to 20%
+- 25% to 30%
+
+*Explanation: "DM type 3c accounts for 5% to 10% of all DM patients worldwide."*
+
+**13. What is the recommended first-line therapy for DM type 3c in CP patients?**
+
+- Insulin
+- Sulfonylureas
+- **Metformin**
+- GLP-1 agonists
+
+*Explanation: "Metformin is recommended as first-line therapy of DM type 3c for CP patients but in most patients an additional therapy with insulin is unavoidable."*
+
+**14. What is the approximate dose of lipase per gram of fat ingested for PEP therapy?**
+
+- 500 IU
+- 1000 IU
+- **2000 IU**
+- 5000 IU
+
+*Explanation: "The dose of PEPs follows fat intake, with approximately 2000 international units (IU) of lipase per gram of fat ingested."*
+
+**15. What is the typical dose range of lipase units that must be provided during a meal for optimal PEP treatment?**
+
+- 5,000 to 15,000 units
+- **25,000 to 75,000 units**
+- 100,000 to 150,000 units
+- 200,000 to 250,000 units
+
+*Explanation: "Dose ranges from 25,000 to 75,000 units of lipase, depending on the fat content of the meal, that must be provided during the meal to achieve an optimal treatment effect."*
+
+**16. What is the typical age cohort of CP patients?**
+
+- 20 to 35 years old
+- **35 to 60 years old**
+- 60 to 75 years old
+- 75 to 90 years old
+
+*Explanation: "Social re-integration and professional rehabilitation are important therapy aims in the typically young (35–60 years old) cohort of CP patients."*
+
+**17. Which step of the WHO pain ladder includes mild opioids like tramadol?**
+
+- First step
+- **Second step**
+- Third step
+- Fourth step
+
+*Explanation: "The next step of the WHO ladder includes mild opioids (i.e., tramadol) in addition to the ongoing basic medication."*
+
+**18. What is the first step of the WHO pain ladder for CP pain management?**
+
+- Strong opioids
+- Mild opioids
+- **Nonopioid peripheral analgesics**
+- Nerve blocks
+
+*Explanation: "The first step is represented by nonopioid peripheral analgesics (i.e., acetaminophen, nonsteroidal antiinflammatory drugs [NSAIDs]) supported by adjuvant medication."*
+
+**19. How long does any beneficial effect of neurolysis last in CP patients?**
+
+- Less than 1 month
+- **Less than 3 months**
+- 6 to 12 months
+- More than 12 months
+
+*Explanation: "Any beneficial effect lasts for less than 3 months and after the neurolysis any neuropathic pain will worsen."*
+
+**20. Which intervention is included in the fourth step of the WHO ladder for pain management?**
+
+- Acetaminophen
+- Tramadol
+- **EUS-guided plexus block**
+- Physical therapy
+
+*Explanation: "A currently added fourth step of the WHO ladder includes interventional approaches of pain management such as endoscopic ultrasound (EUS)–guided plexus block, splanchnic nerve block, spinal cord stimulation."*
+
+**21. What is the histologic feature of AIP type 1?**
+
+- Duct-destructive pathology
+- **Storiform fibrosis with lymphoplasmacytic infiltrates**
+- Neutrophil infiltration only
+- Calcifications
+
+*Explanation: "AIP type 1 with histologic features of dense periductal lymphoplasmacytic immune cell infiltrates, so-called storiform fibrosis, and obliterative venulitis."*
+
+**22. Which serum marker is mostly associated with AIP type 1?**
+
+- CA 19-9
+- **IgG4**
+- CEA
+- Amylase
+
+*Explanation: "AIP type 1 is mostly associated with increased serum levels of IgG4, which underlines the theory that the pancreas is only one target organ of a systemic autoimmune disease."*
+
+**23. What is the initial corticosteroid dose for AIP conservative management?**
+
+- 0.1–0.2 mg/kg/day
+- 0.3–0.4 mg/kg/day
+- **0.6–0.8 mg/kg/day**
+- 1.0–1.2 mg/kg/day
+
+*Explanation: "The conservative management of AIP starts with high-dosage corticosteroid therapy (0.6–0.8 mg/kg body weight/day orally prednisone equivalent) for 4 weeks to induce remission."*
+
+**24. After how many weeks should response to initial AIP treatment be assessed?**
+
+- 1 week
+- **2 to 4 weeks**
+- 8 to 10 weeks
+- 12 to 16 weeks
+
+*Explanation: "Response to initial treatment should be assessed at week 2 to 4 with clinical, biochemical, and morphologic markers (i.e., MRI)."*
+
+**25. What percentage of AIP patients show the typical diffusely swollen pancreas (sausage) on imaging?**
+
+- 25%
+- **50%**
+- 75%
+- 90%
+
+*Explanation: "AIP imaging morphology shows typical features of a diffusely swollen pancreas (sausage) in only 50% of patients."*
+
+**26. What percentage of EUS-guided core biopsies show typical IgG4 positivity in AIP?**
+
+- 10%
+- **20%**
+- 50%
+- 80%
+
+*Explanation: "EUS-guided core biopsies may not result in a definite diagnosis in all patients because typical (i.e., IgG4 positivity) findings are present in only 20% of biopsies."*
+
+**27. If there is no change in AIP disease activity within how many months should the diagnosis be re-evaluated?**
+
+- 1 month
+- **3 months**
+- 6 months
+- 12 months
+
+*Explanation: "If there is no change in disease activity and symptoms within 3 months, the diagnosis of AIP should be critically re-evaluated and surgery must be strongly considered."*
+
+**28. What was the success rate of endoscopic treatment for bile duct stenosis in CP patients without calcifications?**
+
+- 8%
+- 30%
+- **60%**
+- 90%
+
+*Explanation: "An early trial showed a success rate of 60% for patients without calcifications of the pancreas but only 8% when calcifications were present."*
+
+**29. What was the success rate of endoscopic treatment for bile duct stenosis in CP patients with calcifications?**
+
+- **8%**
+- 25%
+- 50%
+- 75%
+
+*Explanation: "An early trial showed a success rate of 60% for patients without calcifications of the pancreas but only 8% when calcifications were present."*
+
+**30. What is the overall operation rate after one year of endoscopic treatment for bile duct stenosis in CP?**
+
+- 10%
+- 25%
+- **50%**
+- 75%
+
+*Explanation: "An early trial with 61 patients with CP-associated bile duct stenosis and 1 year of endoscopic treatment showed an overall operation rate of 50% after one year."*
+
+**31. What percentage of patients initially treated by endoscopy ultimately underwent surgery in the Dutch RCT?**
+
+- 25%
+- **50%**
+- 75%
+- 90%
+
+*Explanation: "Furthermore, half of the patients initially treated by endoscopy ultimately underwent surgery."*
+
+**32. What was the complete pain relief rate after surgery versus endoscopy in the Dutch RCT?**
+
+- 25% surgery vs. 50% endoscopy
+- 50% surgery vs. 25% endoscopy
+- **75% surgery vs. 32% endoscopy**
+- 90% surgery vs. 10% endoscopy
+
+*Explanation: "This study demonstrated the superiority of surgical drainage in terms of more complete pain relief (75% surgery vs. 32% endoscopy)."*
+
+**33. After how many months should plastic stents be exchanged in endoscopic treatment of CP?**
+
+- 1 to 2 months
+- **3 to 4 months**
+- 6 to 8 months
+- 12 months
+
+*Explanation: "It should be generally performed using plastic stents, which need to be exchanged in most patients after 3 to 4 months."*
+
+**34. What is the maximum time frame for endoscopic therapy before surgery should be considered?**
+
+- 6 months
+- **12 months**
+- 18 months
+- 24 months
+
+*Explanation: "If endoscopic therapy is not successful after a maximum treatment of 12 months, surgery should be strongly considered as the definitive treatment."*
+
+**35. What percentage of complete or partial pain relief was observed in the early surgery group versus endoscopy-first group?**
+
+- 39% early surgery vs. 58% endoscopy
+- **58% early surgery vs. 39% endoscopy**
+- 70% early surgery vs. 30% endoscopy
+- 50% early surgery vs. 50% endoscopy
+
+*Explanation: "Patients undergoing early surgery showed higher rates of complete or partial pain relief (58% early surgery group vs. 39% endoscopy-first group)."*
+
+**36. What percentage of CP patients develop pancreatic pseudocysts as a late complication?**
+
+- 5% to 10%
+- **20% to 40%**
+- 50% to 60%
+- 70% to 80%
+
+*Explanation: "Pancreatic pseudocysts occur as a late complication of CP in 20% to 40% of all patients."*
+
+**37. What is the spontaneous regression rate of pseudocysts in CP patients?**
+
+- 50%
+- 30%
+- **10%**
+- 70%
+
+*Explanation: "In CP patients, only 10% of pseudocysts regress spontaneously, in contrast to pseudocysts in AP which show approximately 50%."*
+
+**38. What size of pseudocyst without regression over 3 to 6 months is an indication for treatment?**
+
+- >2 cm
+- >3 cm
+- **>5 cm**
+- >10 cm
+
+*Explanation: "Large cysts (>5 cm) without regression over 3 to 6 months are indications for pseudocyst treatment."*
+
+**39. What percentage of pseudocyst patients have a duct connection allowing transpapillary stent insertion?**
+
+- 10%
+- 25%
+- **50%**
+- 75%
+
+*Explanation: "A duct connection can be found in up to 50% of all patients, allowing a transpapillary stent insertion as the simplest approach to decompress the pseudocyst."*
+
+**40. What is the technical success rate of endoscopic pseudocyst drainage?**
+
+- 50%
+- 65%
+- **80%**
+- 95%
+
+*Explanation: "A number of studies have shown technical success rates of endoscopic pseudocyst drainage of 80%."*
+
+**41. What is the recurrence rate after endoscopic pseudocyst drainage?**
+
+- 2%
+- **8%**
+- 20%
+- 35%
+
+*Explanation: "Studies have shown recurrence rates of approximately 8% after endoscopic pseudocyst drainage."*
+
+**42. What is the procedure-related complication rate for endoscopic pseudocyst drainage?**
+
+- 2% to 5%
+- **10% to 15%**
+- 25% to 30%
+- 40% to 45%
+
+*Explanation: "Procedure-related complications occur in 10% to 15% with very low mortality rates for endoscopic pseudocyst drainage."*
+
+**43. What is the minimum diameter of pancreatic duct stones for ESWL indication?**
+
+- 2 mm
+- 3 mm
+- **5 mm**
+- 10 mm
+
+*Explanation: "The indication for ESWL can occur in calcified radiopaque stones of the main pancreatic duct measuring more than 5 mm in diameter."*
+
+**44. What percentage of patients achieved ductal clearance with ESWL according to meta-analysis?**
+
+- 40%
+- 55%
+- **70%**
+- 85%
+
+*Explanation: "Data from a meta-analysis pooling 27 mainly retrospective studies with nearly 3200 patients showed ductal clearance in 70%."*
+
+**45. What percentage of patients achieved complete pain control with ESWL?**
+
+- 25%
+- **53%**
+- 70%
+- 85%
+
+*Explanation: "Meta-analysis showed complete pain control by ESWL in 53% of the patients."*
+
+**46. What percentage of patients showed improvement in quality of life after ESWL?**
+
+- 50%
+- 65%
+- **88%**
+- 95%
+
+*Explanation: "ESWL resulted in an improvement in quality of life in 88% of the reported patients."*
+
+**47. What is the rate of ESWL-associated pancreatitis as a morbidity?**
+
+- 1% to 2%
+- **4% to 5%**
+- 10% to 15%
+- 20% to 25%
+
+*Explanation: "Morbidity includes ESWL-associated pancreatitis in 4% to 5% and secondary surgery because of therapeutic failure in 4% to 5%."*
+
+**48. What is the most frequent indication for surgery in CP?**
+
+- Bile duct stenosis
+- **Intractable pain**
+- Suspicion of malignancy
+- Pseudocysts
+
+*Explanation: "Pain is the most frequent indication for surgery in CP, accounting for 80% of surgical indications."*
+
+**49. What percentage of surgical indications in CP is due to intractable pain?**
+
+- 50%
+- 65%
+- **80%**
+- 95%
+
+*Explanation: "Table 58.2 shows intractable pain accounts for 80% of indications for surgery in chronic pancreatitis."*
+
+**50. What percentage of surgical indications in CP is due to bile duct stenosis?**
+
+- 5%
+- **15%**
+- 30%
+- 45%
+
+*Explanation: "Bile duct stenosis accounts for 15% of indications for surgery in chronic pancreatitis."*
+
+**51. What is the elevated risk of developing malignancy in sporadic CP according to recent investigations?**
+
+- 2-fold to 3-fold
+- **4-fold to 5-fold**
+- 10-fold to 15-fold
+- 20-fold to 25-fold
+
+*Explanation: "In more recent investigations, the risk is currently assumed to be about only a 4-fold to 5-fold increase in sporadic CP."*
+
+**52. What is the cancer risk in hereditary CP compared to the normal population?**
+
+- 5 to 10 times higher
+- 15 to 20 times higher
+- **40 to 50 times higher**
+- 100 to 150 times higher
+
+*Explanation: "Cancer risk in hereditary CP is approximately 40 to 50 times higher than the normal risk of the average population."*
+
+**53. What is the lifetime probability of hereditary CP patients to suffer from pancreatic cancer?**
+
+- 10%
+- 20%
+- **40%**
+- 70%
+
+*Explanation: "Hereditary CP patients have a lifetime probability of 40% to suffer from pancreatic cancer."*
+
+**54. After how long of endoscopic therapy without success should surgical consultation be achieved?**
+
+- 3 months
+- 6 months
+- **1 year**
+- 2 years
+
+*Explanation: "After 1 year of endoscopic therapy without persisting success, a surgical consultation and decision about a potential operative therapy should be achieved."*
+
+**55. What is the minimum pancreatic duct diameter required for latero-lateral pancreatojejunostomy (Partington-Rochelle)?**
+
+- >3 mm
+- >5 mm
+- **>7 mm**
+- >10 mm
+
+*Explanation: "Latero-lateral pancreatojejunostomy is indicated for duct dilation >7 mm without inflammatory mass."*
+
+**56. What is the surgical morbidity rate for drainage procedures like Partington-Rochelle?**
+
+- **<10%**
+- 15% to 20%
+- 25% to 30%
+- 35% to 40%
+
+*Explanation: "This procedure shows very low surgical morbidity (<10%) and mortality (<1%)."*
+
+**57. What is the surgical mortality rate for drainage procedures like Partington-Rochelle?**
+
+- **<1%**
+- 2% to 3%
+- 5% to 7%
+- 10% to 12%
+
+*Explanation: "This procedure shows very low surgical morbidity (<10%) and mortality (<1%) and preserves nearly all pancreatic tissue."*
+
+**58. What is the long-term success rate of surgical pseudocyst-jejunostomy?**
+
+- 50%
+- 70%
+- **90%**
+- 99%
+
+*Explanation: "Results after surgical pseudocyst-jejunostomy show a long-term success rate of approximately 90%."*
+
+**59. Where should the draining site be located for surgical pseudocyst-jejunostomy?**
+
+- Most cranial point of the cyst
+- **Most caudal point of the cyst**
+- Middle of the cyst
+- Any point is acceptable
+
+*Explanation: "The draining site should be located at the most caudal point of the cyst to ensure optimal drainage."*
+
+**60. How far distal to the ligament of Treitz should the jejunum be transected for cystojejunostomy?**
+
+- 10 cm
+- 20 cm
+- **40 cm**
+- 60 cm
+
+*Explanation: "A side-to-side cystojejunostomy is performed after transection of the jejunum approximately 40 cm distal to the ligament of Treitz."*
+
+**61. Who described the original pancreaticoduodenectomy for pain relief in the 1940s?**
+
+- Beger
+- Frey
+- **Allan Whipple**
+- Partington
+
+*Explanation: "Historical approaches in CP surgery included total pancreatoduodenectomy for pain relief as described by Allan Whipple in the 1940s."*
+
+**62. In which year was the original Beger procedure introduced?**
+
+- 1960
+- **1972**
+- 1985
+- 1995
+
+*Explanation: "The original method introduced by Beger in 1972 consists of a transection of the pancreas on the porto-mesenteric axis."*
+
+**63. Which DPPHR modification was introduced in the late 1990s?**
+
+- Beger
+- Frey
+- **Berne**
+- Whipple
+
+*Explanation: "The third type of DPPHR is the Berne modification, which was introduced in the late 1990s."*
+
+**64. Which DPPHR modification is technically easier and possible in portal vein thrombosis?**
+
+- Beger
+- Frey
+- **Berne**
+- Whipple
+
+*Explanation: "DPPHR Berne is technically easier than DPPHR Beger, also possible in portal vein thrombosis/collateralization."*
+
+**65. Which procedure combines circumscript excision in the pancreatic head with longitudinal dissection of the pancreatic duct?**
+
+- Beger
+- **Frey**
+- Berne
+- Whipple
+
+*Explanation: "The Frey procedure combines a circumscript excision in the pancreatic head with longitudinal dissection of the pancreatic duct toward the tail."*
+
+**66. What is the surgical morbidity rate for DPPHR and PD procedures?**
+
+- **10% to 15%**
+- 20% to 25%
+- 30% to 35%
+- 40% to 45%
+
+*Explanation: "All DPPHR and PD procedures are comparable with respect to surgical morbidity and mortality, which is low (10%–15% and 0%–2%, respectively)."*
+
+**67. What is the surgical mortality rate for DPPHR and PD procedures?**
+
+- **0% to 2%**
+- 5% to 7%
+- 10% to 12%
+- 15% to 20%
+
+*Explanation: "All DPPHR and PD procedures are comparable with respect to surgical morbidity and mortality, which is low (10%–15% and 0%–2%, respectively)."*
+
+**68. What percentage of patients are pain-free after DPPHR or PD procedures?**
+
+- 30% to 50%
+- 50% to 60%
+- **70% to 90%**
+- 95% to 100%
+
+*Explanation: "A high level of pain control is achieved, with a 70% to 90% proportion of patients who are pain-free."*
+
+**69. What percentage of patients show major improvement in quality of life after DPPHR or PD?**
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: "Major improvement in quality of life is seen in up to 80% of patients after DPPHR or PD procedures."*
+
+**70. What percentage of patients achieve occupational rehabilitation after DPPHR or PD?**
+
+- 30% to 40%
+- 50% to 60%
+- **70% to 80%**
+- 90% to 95%
+
+*Explanation: "Improvement in quality of life is associated with occupational rehabilitation in 70% to 80% of patients."*
+
+**71. In the CHROPAC RCT, how many patients were included in total?**
+
+- 115
+- 111
+- **226**
+- 300
+
+*Explanation: "The multicenter CHROPAC RCT included a total number of 226 patients (DPPHR n=115, PD n=111)."*
+
+**72. What was the rehospitalization rate for CP-associated problems in DPPHR patients in the CHROPAC trial?**
+
+- 11%
+- **27%**
+- 45%
+- 60%
+
+*Explanation: "DPPHR patients underwent rehospitalization for CP-associated problems significantly more often (27% vs. 11%)."*
+
+**73. What was the rehospitalization rate for CP-associated problems in PD patients in the CHROPAC trial?**
+
+- **11%**
+- 27%
+- 40%
+- 55%
+
+*Explanation: "PD patients had rehospitalization for CP-associated problems at 11% compared to 27% in DPPHR patients."*
+
+**74. What percentage of patients in the CHROPAC trial had portal venous hypertension making PD technically impossible?**
+
+- 5%
+- **12%**
+- 25%
+- 40%
+
+*Explanation: "Portal venous hypertension and collateralization was observed in 12% of all patients included in the CHROPAC trial."*
+
+**75. What is the risk of new-onset insulin-dependent DM after distal pancreatectomy in CP patients?**
+
+- 15%
+- 25%
+- **40%**
+- 60%
+
+*Explanation: "The risk of new-onset insulin-dependent DM after distal pancreatectomy increases to 40% in CP patients."*
+
+**76. What is the risk of new-onset insulin-dependent DM after distal pancreatectomy for other indications?**
+
+- **15%**
+- 25%
+- 40%
+- 60%
+
+*Explanation: "In distal pancreatectomy for other indications, this risk is approximately 15%, it increases to 40% in CP patients."*
+
+**77. What percentage of the gland should not be exceeded during resection when possible?**
+
+- 20% to 30%
+- **40% to 50%**
+- 60% to 70%
+- 80% to 90%
+
+*Explanation: "The amount of resected tissue should, whenever possible, not exceed 40% to 50% of the gland."*
+
+**78. What is the rate of pancreatic fistula after distal pancreatectomy?**
+
+- 10%
+- 20%
+- **30%**
+- 50%
+
+*Explanation: "The occurrence of a pancreatic fistula is observed in approximately 30% of all patients after distal pancreatectomy."*
+
+**79. In which year was TPIAT first reported?**
+
+- 1965
+- **1978**
+- 1985
+- 1995
+
+*Explanation: "Total pancreatectomy with islet autotransplantation (TPIAT) was reported in 1978."*
+
+**80. What percentage of patients show overall improvement in quality of life after TPIAT at 2 years?**
+
+- 50%
+- 70%
+- **90%**
+- 99%
+
+*Explanation: "Outcomes of TPIAT show an overall improvement in quality of life in 90% of patients after 2 years."*
+
+**81. What percentage of patients show overall improvement in quality of life after TPIAT at 5 years?**
+
+- 60%
+- 75%
+- **85%**
+- 95%
+
+*Explanation: "Outcomes of TPIAT show an overall improvement in quality of life in 85% of patients after 5 years."*
+
+**82. What percentage of pediatric CP patients achieve complete pain relief with TPIAT?**
+
+- 50% to 60%
+- 70% to 80%
+- **95% to 100%**
+- 100% to 110%
+
+*Explanation: "Especially in children, complete pain relief is reported in 95% to 100% of cases with TPIAT."*
+
+**83. What percentage of adult patients achieve pain relief with opioid independency after TPIAT in the long-term?**
+
+- 25%
+- **50%**
+- 75%
+- 90%
+
+*Explanation: "In adult patients, pain relief with opioid independency is achieved in approximately 50% in the long-term course."*
+
+**84. What percentage of patients achieve complete insulin independency after TPIAT?**
+
+- 10%
+- **33% (one third)**
+- 50%
+- 75%
+
+*Explanation: "After TPIAT, complete insulin independency is achieved in only one third of patients."*
+
+**85. Which etiology of CP results in worse outcomes after TPIAT?**
+
+- Hereditary CP
+- Idiopathic CP
+- **Alcoholic CP**
+- Post-traumatic CP
+
+*Explanation: "Alcoholic CP results in worse outcomes than CP of other causes after TPIAT."*
+
+**86. Where are islet cells reinfused after harvesting in TPIAT?**
+
+- Pancreas
+- **Liver**
+- Kidney
+- Spleen
+
+*Explanation: "Islet cells are reinfused into the liver, either unselectively via the splenic vein stump or selectively to the left liver lobe."*
+
+**87. What is the typical CP morphology characterized by?**
+
+- Atrophy only
+- **Inflammatory tumorous mass, pseudocysts, calcifications**
+- Cystic lesions only
+- Normal appearance
+
+*Explanation: "The morphologic macroscopic correlate of CP is characterized by an inflammatory tumorous mass, pseudocysts, calcifications, and dilation of the main pancreatic duct."*
+
+**88. Which vein can be obstructed by enlarged pancreatic head causing left-sided portal hypertension?**
+
+- Inferior vena cava
+- **Portal, superior mesenteric, or splenic vein**
+- Renal vein
+- Hepatic vein
+
+*Explanation: "Depending on the enlargement of the inflammatory mass, signs of local compression can be found with a stenosis or occlusion of the portal, superior mesenteric, or splenic vein."*
+
+**89. What can cavernous transformation affect in CP?**
+
+- Hepatic artery
+- **Proximal portal vein**
+- Inferior vena cava
+- Renal vein
+
+*Explanation: "This may result in a mostly left-sided portal hypertension and can cause a cavernous transformation of the proximal portal vein."*
+
+**90. What obstruction can enlarged pancreatic head cause leading to reduced oral intake?**
+
+- Esophageal obstruction
+- **Duodenal and gastric outlet obstruction**
+- Colonic obstruction
+- Biliary obstruction only
+
+*Explanation: "The enlarged pancreatic head may result in duodenal and gastric outlet obstruction with subsequent reduction of oral intake."*
+
+**91. Which smoking and alcohol cessation sequence is preferable if not achieved synchronously?**
+
+- Alcohol abstinence before smoking cessation
+- **Smoking cessation before alcohol abstinence**
+- Both must be simultaneous
+- Order does not matter
+
+*Explanation: "If not achieved synchronously, the preferable sequence may be smoking cessation before alcohol abstinence."*
+
+**92. What psychological risk are CP patients at higher risk for?**
+
+- Anxiety only
+- Depression only
+- **Attempted and completed suicide**
+- No psychological risks
+
+*Explanation: "CP patients seem to be at a higher risk of attempted and completed suicide, which underlines the importance of accompanying CP therapy with psychological support."*
+
+**93. What is no longer recommended for treating steatorrhea in CP?**
+
+- Enzyme supplementation
+- **Fat restricting diet**
+- Vitamin supplementation
+- Small frequent meals
+
+*Explanation: "A fat restricting diet to treat steatorrhea is no longer recommended."*
+
+**94. What should be prescribed in addition to enteric-coated PEP if PEP alone is not effective?**
+
+- Antibiotics
+- **Proton pump inhibitors**
+- Antacids only
+- Laxatives
+
+*Explanation: "The supportive prescription of proton pump inhibitors in addition to an enteric-coated PEP is often necessary in surgical CP patients."*
+
+**95. What should primarily judge the success of PEP therapy?**
+
+- Laboratory values only
+- **Improvement of clinical symptoms (weight gain, abdominal symptoms)**
+- Imaging findings
+- Patient age
+
+*Explanation: "The success of PEP therapy should primarily be judged by the improvement of clinical symptoms (weight gain, improvement of abdominal symptoms)."*
+
+**96. Which three main criteria are mandatory for diagnosis of DM type 3c?**
+
+- **Exocrine insufficiency, morphologic abnormalities, absence of autoimmune markers**
+- High glucose, low insulin, positive antibodies
+- Weight loss, polyuria, polydipsia
+- Family history, age, BMI
+
+*Explanation: "Three main criteria for the diagnosis of DM type 3c are mandatory: exocrine pancreatic insufficiency, consistent morphologic pancreatic abnormalities on imaging, and absence of related autoimmune markers of DM type 1."*
+
+**97. What test is used for exocrine pancreatic insufficiency in DM type 3c diagnosis?**
+
+- Serum amylase
+- **Monoclonal fecal elastase-1 testing**
+- Serum lipase
+- Glucose tolerance test
+
+*Explanation: "Exocrine pancreatic insufficiency is tested by monoclonal fecal elastase-1 testing or direct function tests."*
+
+**98. Which imaging modalities can show morphologic pancreatic abnormalities for DM type 3c diagnosis?**
+
+- X-ray only
+- **EUS, MRI, or CT scan**
+- Ultrasound only
+- PET scan only
+
+*Explanation: "Consistent morphologic pancreatic abnormalities on imaging (endoscopic ultrasound, magnetic resonance imaging [MRI], or computed tomography [CT] scan) are required."*
+
+**99. What is a major goal in DM type 3c management due to high risk?**
+
+- Hyperglycemia prevention
+- **Hypoglycemia avoidance**
+- Weight gain only
+- Insulin resistance development
+
+*Explanation: "CP patients show a high risk of hypoglycemia. Consequently, the avoidance of hypoglycemia must be a major goal."*
+
+**100. What explains the high risk of hypoglycemia in CP patients?**
+
+- Excessive insulin production
+- **Lack of compliance, persisting alcohol consumption, co-existing autonomous neuropathy**
+- High carbohydrate intake
+- Exercise intolerance
+
+*Explanation: "High risk of hypoglycemia can be explained by a lack of compliance, persisting alcohol consumption, and a co-existing autonomous neuropathy."*
+
+**101. What application route of pain drugs should be preferred in CP?**
+
+- Intravenous
+- Intramuscular
+- **Oral**
+- Transdermal only
+
+*Explanation: "In all of the steps, oral application of drugs should be preferred to increase compliance and reduce injection-associated complications."*
+
+**102. Why should chronic opioid dependency be avoided in CP patients?**
+
+- Cost concerns
+- **CP patients should not reach chronic opioid dependency as long as other solutions can be achieved**
+- Legal restrictions
+- Insurance limitations
+
+*Explanation: "CP patients—in contrast to palliative cancer patients—should not reach a state of chronic opioid dependency as long as other solutions can be achieved."*
+
+**103. What are potential severe side effects of nerve destruction in CP?**
+
+- Nausea and vomiting
+- **Hypotension, hemorrhage, infections, neurologic complications**
+- Weight gain
+- Constipation
+
+*Explanation: "There are potential severe side effects, such as hypotension, hemorrhage, infections, and neurologic complications with nerve destruction."*
+
+**104. Which guidelines do not support the use of neurolysis in CP?**
+
+- WHO Guidelines
+- **International (IAP/APA/JPS/EPC) Consensus Guidelines**
+- CDC Guidelines
+- FDA Guidelines
+
+*Explanation: "The use of neurolysis in CP is not supported by the International (IAP/APA/JPS/EPC) Consensus Guidelines."*
+
+**105. What is the other affected organ in AIP type 1 systemic disease besides pancreas?**
+
+- Heart
+- **Bile duct, kidneys, salivary glands, retroperitoneum**
+- Lungs
+- Brain
+
+*Explanation: "Other affected organs include bile duct, kidneys, salivary glands, and the retroperitoneum in AIP type 1."*
+
+**106. What imaging feature is most reliable for AIP diagnosis?**
+
+- Early-phase CT enhancement
+- **Late-phase contrast-enhanced MRI (late enhancement)**
+- Plain X-ray
+- PET scan
+
+*Explanation: "The most reliable imaging feature is found in late-phase contrast-enhanced MRI (late enhancement)."*
+
+**107. What should be considered if conservative AIP treatment shows rapid regression?**
+
+- Cancer diagnosis
+- **Confirms AIP diagnosis**
+- Need for surgery
+- Infection
+
+*Explanation: "If conservative treatment is started, a rapid regression of the characteristic swelling and mass formation supports AIP diagnosis."*
+
+**108. What is the differential diagnosis that must always be considered in AIP?**
+
+- Acute pancreatitis
+- **Pancreatic ductal adenocarcinoma (PDAC)**
+- Gallstones
+- Peptic ulcer
+
+*Explanation: "The differential diagnosis of PDAC has always to be considered in AIP cases."*
+
+**109. What percentage of endoscopic success rates were reported in the multicenter trial with more than 1000 patients?**
+
+- 20% to 30%
+- **46% to 76%**
+- 80% to 90%
+- 95% to 100%
+
+*Explanation: "Another multicenter trial with more than 1000 patients resulted in endoscopic success rates of 46% to 76%."*
+
+**110. What was the secondary operation rate in the multicenter endoscopic trial?**
+
+- 5% to 10%
+- **24% to 48%**
+- 60% to 70%
+- 80% to 90%
+
+*Explanation: "The multicenter trial showed a secondary operation rate of 24% to 48% depending on CP morphology."*
+
+**111. What was the complete absence of pain rate after 5 years in surgery versus endoscopy in the first RCT?**
+
+- 14% surgery vs. 37% endoscopy
+- **37% surgery vs. 14% endoscopy**
+- 50% surgery vs. 50% endoscopy
+- 75% surgery vs. 25% endoscopy
+
+*Explanation: "Long-term observation after 5 years revealed that complete absence of pain was more frequent after surgery (37% vs. 14% endoscopy)."*
+
+**112. What percentage greater increase in body weight was observed in surgical patients versus endoscopic?**
+
+- 5% to 10%
+- **20% to 25%**
+- 40% to 50%
+- 60% to 70%
+
+*Explanation: "A 20% to 25% greater increase in body weight was observed in surgical patients."*
+
+**113. What were the postinterventional new-onset diabetes rates in surgery versus endoscopy?**
+
+- 10% vs. 50%
+- 20% vs. 40%
+- **34% to 43% (comparable in both groups)**
+- 60% vs. 30%
+
+*Explanation: "Postinterventional new-onset diabetes rates were comparable in both groups (34%–43%)."*
+
+**114. What was the median follow-up in the Dutch RCT on timing of surgery?**
+
+- 6 months
+- 12 months
+- **18 months**
+- 36 months
+
+*Explanation: "After a median of 18 months follow-up, patients undergoing early surgery showed lower pain scores."*
+
+**115. What were treatment complications in early surgery versus endoscopy-first group?**
+
+- 10% vs. 30%
+- **27% vs. 25% (not significantly different)**
+- 50% vs. 40%
+- 5% vs. 15%
+
+*Explanation: "Treatment complications (27% vs. 25%), mortality (0% vs. 0%), hospital admissions, pancreatic function, and quality of life were not significantly different between both groups."*
+
+**116. What was the mortality rate in both early surgery and endoscopy-first groups?**
+
+- 5%
+- 2%
+- **0%**
+- 10%
+
+*Explanation: "Mortality was 0% vs. 0% in both early surgery and endoscopy-first groups."*
+
+**117. What classification is used for pancreatic pseudocysts?**
+
+- Chicago classification
+- **Atlanta classification**
+- Paris classification
+- Tokyo classification
+
+*Explanation: "Pancreatic pseudocysts are classified according to the Atlanta classification as acute or chronic pseudocysts."*
+
+**118. What can superinfected pseudocysts lead to?**
+
+- Cyst resolution
+- **Pancreatic abscesses**
+- Spontaneous healing
+- No complications
+
+*Explanation: "Pseudocysts can be potentially superinfected, leading to pancreatic abscesses."*
+
+**119. What wall thickness of pseudocyst is an indication for treatment?**
+
+- >1 mm
+- >3 mm
+- **>5 mm**
+- >10 mm
+
+*Explanation: "Solid wall (>5 mm) is an indication for pseudocyst treatment."*
+
+**120. What access routes can be used for endoscopic pseudocyst management?**
+
+- Transhepatic only
+- **Transgastric, transduodenal, or transpapillary**
+- Transcolonic only
+- Transrenal only
+
+*Explanation: "Endoscopic pseudocyst management can be achieved by transgastric, transduodenal, or transpapillary access to the pseudocyst."*
+
+**121. What temporary measure decreases recurrence rates after pseudocyst drainage?**
+
+- Antibiotics
+- **Temporary stent placement**
+- Surgical drainage
+- Radiation
+
+*Explanation: "A temporary stent placement after initial evacuation of the cyst allows for a prolonged drainage and decreases recurrence rates."*
+
+**122. When should surgery be considered for pseudocysts?**
+
+- First-line treatment
+- **If endoscopic treatment fails or if a cystic tumor is suspected**
+- Only in emergency
+- Never
+
+*Explanation: "Surgery should be considered if endoscopic treatment fails or if a cystic tumor is suspected."*
+
+**123. What stones are preferably targeted for ESWL?**
+
+- Multiple stones in tail
+- **Single stones within the pancreatic head**
+- Stones in bile duct
+- Gallstones
+
+*Explanation: "To ensure technical success, preferably single stones within the pancreatic head should be targeted because they allow an endoscopic extraction more easily."*
+
+**124. What percentage of patients showed reduced use of narcotics after ESWL?**
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: "ESWL resulted in reduced use of narcotics in 80% of the reported patients."*
+
+**125. What percentage of patients showed stable or increasing body weight after ESWL?**
+
+- 50%
+- 65%
+- **81%**
+- 95%
+
+*Explanation: "ESWL resulted in stable or increasing body weight in 81% of the reported patients."*
+
+**126. What is the secondary surgery rate because of ESWL therapeutic failure?**
+
+- 1% to 2%
+- **4% to 5%**
+- 15% to 20%
+- 30% to 35%
+
+*Explanation: "Secondary surgery because of therapeutic failure occurs in 4% to 5% after ESWL."*
+
+**127. What are uncommon indications for surgery in CP?**
+
+- Pain
+- **Acute complications such as pseudocyst rupture, bleeding, organ perforation**
+- Bile duct stenosis
+- Suspicion of malignancy
+
+*Explanation: "Acute complications such as pseudocyst rupture, bleeding, or organ perforation are uncommon indications for surgery in CP."*
+
+**128. What two major groups of surgical procedures are differentiated in CP?**
+
+- Open and laparoscopic
+- **Drainage procedures and resection procedures**
+- Emergency and elective
+- Partial and total
+
+*Explanation: "There are two major groups of surgical procedures that have to be differentiated: drainage procedures alone and resection procedures."*
+
+**129. What is the only indication for TPIAT according to expert consensus?**
+
+- Exocrine insufficiency
+- **Complete pain relief**
+- Diabetes management
+- Weight gain
+
+*Explanation: "To achieve complete pain relief—the only indication for TPIAT—patients should be chosen for this procedure before reaching a stage of long-standing opioid intake."*
+
+**130. What is the major determinant of long-term mortality in CP patients?**
+
+- Age at diagnosis
+- Gender
+- **Persistent chronic risk factor exposition (especially ongoing alcohol consumption)**
+- Initial pain severity
+
+*Explanation: "Persistent chronic risk factor exposition (especially ongoing alcohol consumption) is associated with progression of the disease and consequently represents the major determinant of long-term mortality in CP patients."*
+
+
+## OLD MCQs
+
+## Background and Epidemiology
+
+**1. What is the reported incidence of chronic pancreatitis (CP) per 100,000 inhabitants?**
+
+- 1 to 3 per 100,000
+- **5 to 15 per 100,000**
+- 20 to 30 per 100,000
+- 50 to 75 per 100,000
+
+*Explanation: The reported rates show an incidence of approximately 5 to 15 per 100,000 and prevalence of 40 to 120 per 100,000 inhabitants calculated on the basis of an estimated median survival time of 20 years.*
+
+**2. What is the reported prevalence of chronic pancreatitis per 100,000 inhabitants?**
+
+- 10 to 25 per 100,000
+- 25 to 35 per 100,000
+- **40 to 120 per 100,000**
+- 150 to 200 per 100,000
+
+*Explanation: The reported rates show an incidence of approximately 5 to 15 per 100,000 and prevalence of 40 to 120 per 100,000 inhabitants calculated on the basis of an estimated median survival time of 20 years.*
+
+**3. What is the most common cause of chronic pancreatitis?**
+
+- Hereditary factors
+- **Chronic alcohol consumption**
+- Autoimmune disease
+- Gallstones
+
+*Explanation: Etiology of CP includes chronic alcohol consumption as the most common cause with an increasing impact accounting for 70% of all CP cases.*
+
+**4. What percentage of all chronic pancreatitis cases are attributed to alcohol consumption?**
+
+- 40%
+- 55%
+- **70%**
+- 85%
+
+*Explanation: Chronic alcohol consumption accounts for 70% of all CP cases.*
+
+**5. What is the threshold alcohol intake for developing chronic pancreatitis?**
+
+- 30 g/day for more than 6 months
+- 50 g/day for more than 9 months
+- **70 g/day for more than 12 months**
+- 100 g/day for more than 18 months
+
+*Explanation: A persistent alcohol intake of 70 g/day for a duration of more than 12 months is the threshold for developing CP.*
+
+**6. What proportion of chronic pancreatitis is estimated to be hereditary?**
+
+- 5% to 10%
+- 10% to 15%
+- **20% to 30%**
+- 40% to 50%
+
+*Explanation: Today, the proportion of hereditary CP is estimated at 20% to 30% of all CP patients.*
+
+**7. Which gene mutation is NOT typically associated with hereditary chronic pancreatitis?**
+
+- PRSS1 (cationic trypsinogen)
+- SPINK1 (serine protease inhibitor Kazal-type 1)
+- **BRCA1**
+- CFTR (cystic fibrosis transmembrane conductance regulator)
+
+*Explanation: The underlying genetic mutations include mainly mutations in gene loci of cationic trypsinogen (PRSS1), serine protease inhibitor Kazal-type 1 (SPINK1), carboxypeptidase A1 (CPA1), as well as cystic fibrosis transmembrane conductance regulator (CFTR), chymotrypsinogen C (CTRC), and carboxyesterlipase (CEL). BRCA1 is not mentioned.*
+
+**8. What percentage of chronic pancreatitis cases are currently classified as "idiopathic" after exclusion of other risk factors?**
+
+- 1% to 5%
+- **Approximately 10%**
+- 20% to 25%
+- 30% to 40%
+
+*Explanation: "Idiopathic" CP is only accepted as a terminology after exclusion of all other risk factors and may account for approximately 10% of all cases today.*
+
+**9. Why is the term "tropical pancreatitis" falling into disuse?**
+
+- It has been replaced by "alcoholic pancreatitis"
+- **It is actually strongly associated with genetic mutations/polymorphisms**
+- It only occurs in temperate countries
+- It has been proven to be caused by infectious agents
+
+*Explanation: The term "tropical CP" is now falling into disuse as it has become evident that an aggressive form of idiopathic CP reported from India and other tropical countries is actually strongly associated with genetic mutations/polymorphisms in multiple genes.*
+
+**10. What percentage of chronic pancreatitis patients have autoimmune pancreatitis (AIP)?**
+
+- 1% to 2%
+- **5% to 6%**
+- 10% to 15%
+- 20% to 25%
+
+*Explanation: Autoimmune pancreatitis (AIP) is found in approximately 5% to 6% of all CP patients.*
+
+**11. When was autoimmune pancreatitis first described?**
+
+- 1985
+- **1995**
+- 2005
+- 2010
+
+*Explanation: Autoimmune pancreatitis (AIP) was first described in 1995.*
+
+**12. Which type of pancreatitis is considered a presumed systemic IgG4-related sclerosing disease?**
+
+- Alcoholic pancreatitis
+- Hereditary pancreatitis
+- **Autoimmune pancreatitis**
+- Tropical pancreatitis
+
+*Explanation: As a presumed systemic IgG4-related sclerosing disease, AIP is addressed in different guidelines and recommendations than CP.*
+
+**13. What is the primary functional impairment in chronic pancreatitis?**
+
+- Endocrine function
+- **Exocrine function**
+- Both equally affected initially
+- Neither is primarily affected
+
+*Explanation: These changes primarily affect exocrine function by acinar cell destruction followed by late symptoms of endocrine failure in most patients.*
+
+**14. Which clinical symptom is NOT associated with exocrine failure in chronic pancreatitis?**
+
+- Steatorrhea
+- Weight loss
+- **Hyperglycemia**
+- Vitamin deficiency
+
+*Explanation: The clinical symptoms of exocrine failure include steatorrhea, weight loss, and maldigestion with intolerance of fatty food and malabsorption with vitamin deficiency; endocrine failure leads to symptoms of diabetes mellitus.*
+
+**15. What is the key feature and most important symptom in nearly all chronic pancreatitis patients?**
+
+- Jaundice
+- **Pain**
+- Fever
+- Nausea
+
+*Explanation: Pain is a key feature of CP and clinically the most important symptom in nearly all patients.*
+
+**16. What characterizes the pain in chronic pancreatitis in its later stages?**
+
+- Acute, severe episodes only
+- Completely reversible with treatment
+- **Stimulus-independent autonomous pain**
+- Only responsive to NSAIDs
+
+*Explanation: An increasing and stimulus-independent pain sensation develops with characteristics of an autonomous pain caused by neural plasticity and memory function.*
+
+**17. What morphologic feature is often focused on the head of the pancreas in chronic pancreatitis?**
+
+- Cystic degeneration
+- **Inflammatory tumorous mass**
+- Atrophy only
+- Fatty infiltration
+
+*Explanation: The morphologic macroscopic correlate of CP is characterized by an inflammatory tumorous mass, which is often focused on the head of the gland.*
+
+**18. What percentage of patients with chronic pancreatitis develop pseudocysts as a late complication?**
+
+- 5% to 10%
+- 10% to 15%
+- **20% to 40%**
+- 50% to 60%
+
+*Explanation: Pancreatic pseudocysts occur as a late complication of CP in 20% to 40% of all patients.*
+
+**19. What is the spontaneous regression rate of pseudocysts in chronic pancreatitis?**
+
+- 50%
+- 30%
+- **10%**
+- 75%
+
+*Explanation: In CP patients, only 10% of pseudocysts regress spontaneously (compared to approximately 50% in acute pancreatitis).*
+
+**20. What complication can result from portal vein occlusion in chronic pancreatitis?**
+
+- Right-sided portal hypertension
+- **Left-sided portal hypertension**
+- Superior mesenteric vein thrombosis only
+- Hepatic artery occlusion
+
+*Explanation: This may result in a—mostly left-sided—portal hypertension with collateral circulation via the short gastric veins.*
+
+## Conservative Therapy
+
+**21. What is the principal step in managing alcoholic chronic pancreatitis?**
+
+- Immediate surgery
+- **Stopping alcohol intake and nicotine use**
+- Starting high-dose corticosteroids
+- Pancreatic enzyme replacement only
+
+*Explanation: In alcoholic CP, stopping alcohol intake and nicotine use with sustained abstinence are principal steps in management.*
+
+**22. Which should be achieved first in alcoholic chronic pancreatitis patients: smoking cessation or alcohol abstinence?**
+
+- Alcohol abstinence
+- **Smoking cessation**
+- Both simultaneously is required
+- Neither is more important
+
+*Explanation: If not achieved synchronously, the preferable sequence may be smoking cessation before alcohol abstinence.*
+
+**23. What is the typical age range of chronic pancreatitis patients?**
+
+- 15-25 years
+- 25-35 years
+- **35-60 years**
+- 60-75 years
+
+*Explanation: Social re-integration and professional rehabilitation are important therapy aims in the typically young (35–60 years old) cohort of CP patients.*
+
+**24. What is the recommended lipase dose per gram of fat ingested for pancreatic enzyme replacement?**
+
+- 500 IU
+- 1000 IU
+- **2000 IU**
+- 5000 IU
+
+*Explanation: The dose of PEPs follows fat intake, with approximately 2000 international units (IU) of lipase per gram of fat ingested.*
+
+**25. What is the typical dose range of lipase units for pancreatic enzyme replacement therapy?**
+
+- 5,000 to 15,000 units
+- 10,000 to 30,000 units
+- **25,000 to 75,000 units**
+- 100,000 to 150,000 units
+
+*Explanation: This results in dose ranges from 25,000 to 75,000 units of lipase, depending on the fat content of the meal.*
+
+**26. What percentage of chronic pancreatitis patients have deficiency in fat-soluble vitamins?**
+
+- 25%
+- 50%
+- **Up to 75%**
+- 90%
+
+*Explanation: Deficiency in fat-soluble vitamins, especially vitamin A, D and E, is observed in up to 75% of all CP patients.*
+
+**27. What percentage of chronic pancreatitis patients develop clinically manifest osteoporosis?**
+
+- 5%
+- 10%
+- **Approximately 25%**
+- 50%
+
+*Explanation: This may lead to clinically manifest osteoporosis, as observed in approximately 25% of CP patients.*
+
+**28. What type of diabetes is chronic pancreatitis-related endocrine pancreatic insufficiency defined as?**
+
+- Type 1 diabetes
+- Type 2 diabetes
+- **Type 3c diabetes**
+- Gestational diabetes
+
+*Explanation: CP-related endocrine pancreatic insufficiency is defined as DM type 3c, which is characterized by deficiency of insulin and glucagon as well as pancreatic polypeptide.*
+
+**29. What percentage of all diabetes patients worldwide have type 3c diabetes?**
+
+- 1% to 2%
+- **5% to 10%**
+- 15% to 20%
+- 25% to 30%
+
+*Explanation: DM type 3c accounts for 5% to 10% of all DM patients worldwide.*
+
+**30. What is recommended as first-line therapy for type 3c diabetes in chronic pancreatitis patients?**
+
+- Insulin only
+- Sulfonylureas
+- **Metformin**
+- GLP-1 agonists
+
+*Explanation: Metformin is recommended as first-line therapy of DM type 3c for CP patients.*
+
+**31. What is the major goal in managing diabetes in chronic pancreatitis patients?**
+
+- Achieving HbA1c below 6%
+- **Avoidance of hypoglycemia**
+- Weight reduction
+- Complete insulin independence
+
+*Explanation: Especially in alcoholic CP, this is associated with a high risk of mortality. Consequently, the avoidance of hypoglycemia must be a major goal.*
+
+**32. What is the backbone of pain medication in chronic pancreatitis?**
+
+- NSAIDs only
+- Opioids from the start
+- **WHO recommendation for analgesic therapy**
+- Antidepressants alone
+
+*Explanation: The backbone of pain medication in CP is the current World Health Organization (WHO) recommendation for analgesic therapy.*
+
+**33. What is the first step of the WHO analgesic ladder for chronic pancreatitis pain?**
+
+- Strong opioids
+- **Nonopioid peripheral analgesics**
+- Mild opioids
+- Interventional approaches
+
+*Explanation: The first step is represented by nonopioid peripheral analgesics (i.e., acetaminophen, NSAIDs) supported by adjuvant medication.*
+
+**34. What is the second step of the WHO analgesic ladder for chronic pancreatitis pain?**
+
+- Strong opioids
+- **Mild opioids (e.g., tramadol)**
+- Interventional approaches
+- NSAIDs only
+
+*Explanation: The next step of the WHO ladder includes mild opioids (i.e., tramadol) in addition to the ongoing basic medication.*
+
+**35. What is the third step of the WHO analgesic ladder for chronic pancreatitis pain?**
+
+- NSAIDs
+- Mild opioids
+- **Strong opioid drugs**
+- Antidepressants
+
+*Explanation: This is followed by an escalation to strong opioid drugs, if needed, as the third step of the WHO scheme.*
+
+**36. What is considered the "fourth" step of the WHO ladder in chronic pancreatitis pain management?**
+
+- Higher doses of strong opioids
+- **Interventional approaches**
+- Surgical resection only
+- Palliative care
+
+*Explanation: A currently added "fourth" step of the WHO ladder includes interventional approaches of pain management.*
+
+**37. How long does any beneficial effect of neurolysis typically last in chronic pancreatitis?**
+
+- 6 months
+- **Less than 3 months**
+- 1 year
+- 2 years
+
+*Explanation: Any beneficial effect lasts for less than 3 months and after the neurolysis any neuropathic pain will worsen.*
+
+**38. What is the recommended initial corticosteroid dosage for autoimmune pancreatitis type 1?**
+
+- 0.1-0.2 mg/kg/day
+- 0.3-0.5 mg/kg/day
+- **0.6-0.8 mg/kg/day**
+- 1.0-1.2 mg/kg/day
+
+*Explanation: The conservative management of AIP starts with high-dosage corticosteroid therapy (0.6–0.8 mg/kg body weight/day orally prednisone equivalent) for 4 weeks.*
+
+**39. How long should corticosteroid therapy be continued for autoimmune pancreatitis before tapering?**
+
+- 1 week
+- 2 weeks
+- **4 weeks**
+- 8 weeks
+
+*Explanation: High-dosage corticosteroid therapy is given for 4 weeks to induce remission and then be tapered within 2 additional months.*
+
+**40. When should response to initial treatment for autoimmune pancreatitis be assessed?**
+
+- At day 3-5
+- **At week 2 to 4**
+- At week 8-12
+- At month 6
+
+*Explanation: Response to initial treatment should be assessed at week 2 to 4 with clinical, biochemical, and morphologic markers.*
+
+## Endoscopic Therapy
+
+**41. What was the success rate of endoscopic treatment for CP-associated bile duct stenosis without calcifications in an early trial?**
+
+- 30%
+- 45%
+- **60%**
+- 80%
+
+*Explanation: An early trial showed a success rate of 60% for patients without calcifications of the pancreas but only 8% when calcifications were present.*
+
+**42. What was the success rate of endoscopic treatment for CP-associated bile duct stenosis WITH calcifications?**
+
+- 30%
+- 15%
+- **8%**
+- 2%
+
+*Explanation: An early trial showed a success rate of 60% for patients without calcifications of the pancreas but only 8% when calcifications were present.*
+
+**43. After how many months should plastic stents be exchanged in endoscopic therapy for chronic pancreatitis?**
+
+- 1 to 2 months
+- **3 to 4 months**
+- 6 to 8 months
+- 12 months
+
+*Explanation: It should be generally performed using plastic stents, which need to be exchanged in most patients after 3 to 4 months.*
+
+**44. What is the maximum recommended duration of endoscopic therapy before considering surgery?**
+
+- 3 months
+- 6 months
+- **12 months**
+- 24 months
+
+*Explanation: If endoscopic therapy is not successful after a maximum treatment of 12 months, surgery should be strongly considered.*
+
+**45. What percentage of patients initially treated with endoscopy ultimately underwent surgery in the Dutch study?**
+
+- 25%
+- 35%
+- **50%**
+- 75%
+
+*Explanation: Furthermore, half of the patients initially treated by endoscopy ultimately underwent surgery.*
+
+**46. What was the rate of complete pain relief after surgical drainage versus endoscopic drainage in the Dutch study after 2 and 5 years?**
+
+- 50% surgery vs. 40% endoscopy
+- **75% surgery vs. 32% endoscopy**
+- 60% surgery vs. 55% endoscopy
+- 90% surgery vs. 70% endoscopy
+
+*Explanation: This study demonstrated the superiority of surgical drainage with more complete pain relief (75% surgery vs. 32% endoscopy).***47. What percentage of early surgery patients showed complete or partial pain relief compared to endoscopy-first group in a Dutch RCT?**
+
+- 40% early surgery vs. 35% endoscopy-first
+- 45% early surgery vs. 40% endoscopy-first
+- **58% early surgery vs. 39% endoscopy-first**
+- 70% early surgery vs. 50% endoscopy-first
+
+*Explanation: After a median of 18 months follow-up, patients undergoing early surgery showed lower pain scores and higher rates of complete or partial pain relief (58% early surgery group vs. 39% endoscopy-first group).*
+
+**48. What percentage of pseudocysts in chronic pancreatitis show spontaneous regression?**
+
+- 50%
+- 30%
+- **10%**
+- 5%
+
+*Explanation: In contrast to pseudocysts in AP, which show a spontaneous regression rate of approximately 50%, in CP patients, only 10% of pseudocysts regress spontaneously.*
+
+**49. What percentage of patients have a duct connection allowing transpapillary stent insertion for pseudocyst drainage?**
+
+- 10% to 20%
+- 30% to 40%
+- **Up to 50%**
+- 70% to 80%
+
+*Explanation: A duct connection can be found in up to 50% of all patients, allowing a transpapillary stent insertion as the simplest approach.*
+
+**50. What is the technical success rate of endoscopic pseudocyst drainage?**
+
+- 50%
+- 65%
+- **80%**
+- 95%
+
+*Explanation: A number of studies have shown technical success rates of endoscopic pseudocyst drainage of 80%.*
+
+**51. What is the recurrence rate after endoscopic pseudocyst drainage?**
+
+- 2% to 3%
+- **Approximately 8%**
+- 15% to 20%
+- 25% to 30%
+
+*Explanation: Studies have shown recurrence rates of approximately 8% after endoscopic pseudocyst drainage.*
+
+**52. What is the procedure-related complication rate for endoscopic pseudocyst drainage?**
+
+- 2% to 5%
+- **10% to 15%**
+- 20% to 25%
+- 30% to 35%
+
+*Explanation: Procedure-related complications occur in 10% to 15% with very low mortality rates.*
+
+**53. What is the minimum diameter of calcified radiopaque stones in the main pancreatic duct for ESWL indication?**
+
+- 2 mm
+- 3 mm
+- **5 mm**
+- 10 mm
+
+*Explanation: The indication for ESWL can occur in calcified radiopaque stones of the main pancreatic duct measuring more than 5 mm in diameter.*
+
+**54. What percentage of ductal clearance is achieved with ESWL according to a meta-analysis?**
+
+- 40%
+- 55%
+- **70%**
+- 85%
+
+*Explanation: Data from a meta-analysis pooling 27 mainly retrospective studies showed ductal clearance in 70%.*
+
+**55. What percentage of patients achieve complete pain control with ESWL?**
+
+- 30%
+- 40%
+- **53%**
+- 70%
+
+*Explanation: The meta-analysis showed complete pain control by ESWL in 53%.*
+
+**56. What percentage of patients have mild to moderate persistent pain after ESWL?**
+
+- 15%
+- 25%
+- **34%**
+- 50%
+
+*Explanation: The meta-analysis showed mild to moderate persistent pain in 34% of the patients.*
+
+**57. What percentage of patients show stable or increasing body weight after ESWL?**
+
+- 60%
+- 70%
+- **81%**
+- 90%
+
+*Explanation: This resulted in stable or increasing body weight in 81% of the reported patients.*
+
+**58. What is the rate of ESWL-associated pancreatitis?**
+
+- 1% to 2%
+- **4% to 5%**
+- 8% to 10%
+- 15% to 20%
+
+*Explanation: Morbidity includes ESWL-associated pancreatitis in 4% to 5%.*
+
+## Surgical Therapy - Indications
+
+**59. What is the most frequent indication for surgery in chronic pancreatitis?**
+
+- Bile duct stenosis
+- **Pain**
+- Suspicion of malignancy
+- Pseudocysts
+
+*Explanation: Pain is the most frequent indication for surgery in CP.*
+
+**60. What is the relative proportion of intractable pain as an indication for surgery in chronic pancreatitis?**
+
+- 50%
+- 65%
+- **80%**
+- 90%
+
+*Explanation: According to Table 58.2, intractable pain accounts for 80% of indications for surgery in CP.*
+
+**61. What is the relative proportion of bile duct stenosis as an indication for surgery in chronic pancreatitis?**
+
+- 5%
+- **15%**
+- 25%
+- 35%
+
+*Explanation: According to Table 58.2, bile duct stenosis accounts for 15% of indications for surgery in CP.*
+
+**62. What is the relative proportion of suspicion of malignancy as an indication for surgery in chronic pancreatitis?**
+
+- Less than 1%
+- **5%**
+- 10%
+- 20%
+
+*Explanation: According to Table 58.2, suspicion of malignancy accounts for 5% of indications for surgery in CP.*
+
+**63. What is the lifetime probability of developing pancreatic cancer in hereditary chronic pancreatitis?**
+
+- 5% to 10%
+- 15% to 20%
+- **40%**
+- 60% to 70%
+
+*Explanation: In hereditary CP, cancer risk is approximately 40 to 50 times higher than the normal risk, with a lifetime probability of 40% to suffer from pancreatic cancer.*
+
+**64. What is the estimated increased risk of developing pancreatic cancer in sporadic chronic pancreatitis?**
+
+- 2-fold to 3-fold
+- **4-fold to 5-fold**
+- 10-fold to 12-fold
+- 16-fold
+
+*Explanation: In sporadic CP, this is currently assumed to be about only a 4-fold to 5-fold increase (compared to up to 16 times in older studies).*
+
+**65. What is the cancer risk in hereditary CP compared to the normal population?**
+
+- 5 to 10 times higher
+- 15 to 20 times higher
+- **40 to 50 times higher**
+- 100 times higher
+
+*Explanation: Cancer risk in hereditary CP is approximately 40 to 50 times higher than the normal risk of the average population.*
+
+**66. After how long should surgical consultation be considered if endoscopic therapy is not successful?**
+
+- 3 months
+- 6 months
+- **1 year**
+- 2 years
+
+*Explanation: After 1 year of endoscopic therapy without persisting success, a surgical consultation and decision about potential operative therapy should be achieved.*
+
+## Drainage Procedures
+
+**67. Who described the procedure approaching the dilated pancreatic duct from the left side in the 1950s?**
+
+- Whipple
+- **Duval and Puestow-Gillesby**
+- Partington and Rochelle
+- Beger
+
+*Explanation: In the 1950s, two procedures approaching the dilated pancreatic duct from the left side were described by Duval and Puestow and Gillesby.*
+
+**68. What modification did Partington and Rochelle make to the drainage procedure in 1960?**
+
+- Added pancreatic tail resection
+- **Abandoned the tail resection and opened the pancreatic duct throughout the entire aspect of the gland**
+- Introduced the Roux-en-Y reconstruction
+- Added bile duct drainage
+
+*Explanation: In 1960 this approach was modified by Partington and Rochelle, who abandoned the tail resection and opened the pancreatic duct throughout the entire aspect of the gland.*
+
+**69. What is the minimum duct dilation required for a Partington-Rochelle procedure?**
+
+- 3 mm
+- 5 mm
+- **7 mm**
+- 10 mm
+
+*Explanation: Today, these procedures are performed in patients showing diffuse enlargement of the pancreatic duct > 7 mm, no accompanying mass-forming fibrosis.*
+
+**70. What is the surgical morbidity rate for the Partington-Rochelle procedure?**
+
+- 10% to 15%
+- **Less than 10%**
+- 20% to 25%
+- 30% to 35%
+
+*Explanation: This procedure shows very low surgical morbidity (<10%) and mortality (<1%).*
+
+**71. What is the surgical mortality rate for the Partington-Rochelle procedure?**
+
+- 2% to 3%
+- **Less than 1%**
+- 5% to 7%
+- 10%
+
+*Explanation: This procedure shows very low surgical morbidity (<10%) and mortality (<1%).*
+
+**72. What is the long-term success rate of surgical pseudocyst-jejunostomy?**
+
+- 60%
+- 75%
+- **Approximately 90%**
+- 95%
+
+*Explanation: Results after surgical pseudocyst-jejunostomy show a long-term success rate of approximately 90%.*
+
+## Resection Procedures - Pancreaticoduodenectomy
+
+**73. Who first described total pancreatoduodenectomy for pain relief in chronic pancreatitis?**
+
+- Beger
+- Frey
+- **Allan Whipple**
+- Partington
+
+*Explanation: Historical approaches in CP surgery included total pancreatoduodenectomy for pain relief as described by Allan Whipple in the 1940s.*
+
+**74. What is the most common procedure for chronic pancreatitis patients with inflammatory pancreatic head mass?**
+
+- Distal pancreatectomy
+- **Pancreaticoduodenectomy (PD)**
+- Total pancreatectomy
+- Frey procedure
+
+*Explanation: Later, pancreaticoduodenectomy (PD) has been the most common procedure for CP patients, with the typical finding of an inflammatory pancreatic head mass.*
+
+**75. What is the main disadvantage of pancreaticoduodenectomy in chronic pancreatitis?**
+
+- High mortality rate
+- **Relatively great loss of tissue by removal of the entire head**
+- Poor pain relief
+- High recurrence rate
+
+*Explanation: The potential disadvantages of PD in CP are the relatively great loss of tissue by removal of the entire head.*
+
+**76. What makes pancreaticoduodenectomy technically challenging in chronic pancreatitis?**
+
+- Small pancreatic size
+- **Inflammatory changes in the surrounding tissue of the pancreatic head**
+- Lack of surgical expertise
+- Patient's young age
+
+*Explanation: Especially dissection along the portal vein and tunneling the pancreas before transection of the pancreatic neck is often challenging due to inflammatory changes.*
+
+## Duodenum-Preserving Pancreatic Head Resection (DPPHR)
+
+**77. When was the Beger procedure (original DPPHR) introduced?**
+
+- 1960
+- **1972**
+- 1980
+- 1990
+
+*Explanation: The original method introduced by Beger in 1972 consists of a transection of the pancreas on the porto-mesenteric axis.*
+
+**78. What is the key feature of all DPPHR modifications?**
+
+- Complete removal of the pancreatic head
+- **Partial resection of the pancreatic head and preservation of the physiologic gastroduodenal passage**
+- Total pancreatectomy with islet autotransplantation
+- Resection of the duodenum
+
+*Explanation: The common features of all DPPHR modifications are the partial resection of the pancreatic head and the preservation of the physiologic gastroduodenal passage.*
+
+**79. What is the main difference between the Beger and Frey procedures?**
+
+- Beger removes more tissue
+- **Frey has a smaller excavation of the pancreatic head and longitudinal opening of the duct without transecting the pancreatic neck**
+- Beger preserves the duodenum, Frey does not
+- Frey is only for cancer patients
+
+*Explanation: The Frey modification describes a smaller excavation of the pancreatic head and a longitudinal opening of the main pancreatic duct toward the tail without transecting the pancreatic neck above the portal vein.*
+
+**80. When was the Frey modification introduced?**
+
+- 1970s
+- **1980s**
+- 1990s
+- 2000s
+
+*Explanation: The Frey modification of DPPHR has been introduced in the 1980s.*
+
+**81. When was the Berne modification introduced?**
+
+- 1970s
+- 1980s
+- **Late 1990s**
+- 2010s
+
+*Explanation: The third type of DPPHR is the Berne modification, which was introduced in the late 1990s.*
+
+**82. What is the main advantage of the Berne modification over the Beger procedure?**
+
+- More tissue is removed
+- **Technically easier because preparation of the portal vein is not required**
+- Better long-term pain relief
+- Lower cost
+
+*Explanation: This procedure offers the advantage of a tissue-sparing resection and is often technically easier to perform than PD or the Beger procedure because the preparation of the portal vein and tunneling of the pancreas is not required.*
+
+**83. What is the surgical morbidity rate for DPPHR and PD procedures?**
+
+- 5% to 8%
+- **10% to 15%**
+- 20% to 25%
+- 30% to 35%
+
+*Explanation: Basically, all DPPHR and PD procedures are comparable with respect to surgical morbidity and mortality, which is low (10%–15% and 0%–2%, respectively).*
+
+**84. What is the mortality rate for DPPHR and PD procedures?**
+
+- 0%
+- **0% to 2%**
+- 3% to 5%
+- 5% to 10%
+
+*Explanation: Basically, all DPPHR and PD procedures are comparable with respect to surgical morbidity and mortality, which is low (10%–15% and 0%–2%, respectively).*
+
+**85. What percentage of patients are pain-free after DPPHR or PD?**
+
+- 40% to 50%
+- 55% to 65%
+- **70% to 90%**
+- 95% to 100%
+
+*Explanation: A high level of pain control is achieved, with a 70% to 90% proportion of patients who are pain-free.*
+
+**86. What percentage of patients show major improvement in quality of life after DPPHR or PD?**
+
+- 50%
+- 65%
+- **Up to 80%**
+- 90%
+
+*Explanation: A major improvement in quality of life in up to 80% is achieved.*
+
+**87. What percentage of patients achieve occupational rehabilitation after DPPHR or PD?**
+
+- 40% to 50%
+- 55% to 65%
+- **70% to 80%**
+- 85% to 90%
+
+*Explanation: This is associated with occupational rehabilitation in 70% to 80% of patients.*
+
+**88. How many patients were included in the CHROPAC RCT comparing DPPHR and PD?**
+
+- 100
+- 150
+- **226**
+- 300
+
+*Explanation: Including a total number of 226 patients (DPPHR n = 115, PD n = 111), quality of life after 24 months was analyzed.*
+
+**89. What was the only surgical parameter significantly different between DPPHR and PD in the CHROPAC trial?**
+
+- Blood loss
+- Need for transfusion
+- **Operation time**
+- Length of hospital stay
+
+*Explanation: Operation time was the only surgical parameter that was significantly different (DPPHR < PD), whereas all short-term outcomes were similar in both groups.*
+
+**90. What percentage of DPPHR patients underwent rehospitalization for CP-associated problems compared to PD patients after 24 months?**
+
+- 15% DPPHR vs. 10% PD
+- 20% DPPHR vs. 15% PD
+- **27% DPPHR vs. 11% PD**
+- 35% DPPHR vs. 20% PD
+
+*Explanation: After 24 months, DPPHR patients underwent rehospitalization for CP-associated problems significantly more often (27% vs. 11%).*
+
+**91. What percentage of patients in the CHROPAC trial had portal venous hypertension making PD technically impossible?**
+
+- 5%
+- **12%**
+- 20%
+- 30%
+
+*Explanation: DPPHR represents an alternative procedure especially important in CP patients who show portal venous hypertension, which was observed in 12% of all patients included in the CHROPAC trial.*
+
+## Distal Pancreatectomy
+
+**92. What is the most important postoperative complication after distal pancreatectomy?**
+
+- Bleeding
+- Infection
+- **Pancreatic fistula**
+- Bile leak
+
+*Explanation: The most important postoperative complication after distal pancreatectomy is the occurrence of a pancreatic fistula.*
+
+**93. What percentage of patients develop pancreatic fistula after distal pancreatectomy?**
+
+- 10%
+- 20%
+- **Approximately 30%**
+- 50%
+
+*Explanation: Pancreatic fistula is observed in approximately 30% of all patients, regardless of synchronous splenectomy.*
+
+**94. What is the risk of new-onset insulin-dependent diabetes after distal pancreatectomy for chronic pancreatitis?**
+
+- 15%
+- 25%
+- **40%**
+- 60%
+
+*Explanation: Although in distal pancreatectomy for other indications, this risk is approximately 15%, it increases to 40% in CP patients.*
+
+**95. What is the maximum recommended percentage of pancreatic tissue that should be resected during distal pancreatectomy?**
+
+- 20% to 30%
+- **40% to 50%**
+- 60% to 70%
+- 80% to 90%
+
+*Explanation: Therefore the amount of resected tissue should, whenever possible, not exceed 40% to 50% of the gland.*
+
+## Total Pancreatectomy with Islet Autotransplantation (TPIAT)
+
+**96. When was total pancreatectomy with islet autotransplantation first reported?**
+
+- 1968
+- **1978**
+- 1988
+- 1998
+
+*Explanation: Total pancreatectomy with islet autotransplantation (TPIAT) was reported in 1978.*
+
+**97. What is the main concept behind TPIAT?**
+
+- To preserve pancreatic function completely
+- **Complete removal of pancreas for pain relief while avoiding brittle diabetes through islet autotransplantation**
+- To avoid surgery entirely
+- To treat pancreatic cancer
+
+*Explanation: The concept is that complete removal of the pancreas leads to complete relief of intractable pain in CP and islet cell autotransplantation can avoid brittle DM.*
+
+**98. What percentage of children achieve complete pain relief after TPIAT?**
+
+- 70% to 80%
+- 85% to 90%
+- **95% to 100%**
+- 100%
+
+*Explanation: Especially in children, complete pain relief is reported in 95% to 100% of cases.*
+
+**99. What percentage of adult patients achieve pain relief with opioid independency after TPIAT in the long-term?**
+
+- 20% to 30%
+- **Approximately 50%**
+- 70% to 80%
+- 90%
+
+*Explanation: In adult patients, pain relief with opioid independency is achieved in approximately 50% in the long-term course.*
+
+**100. What percentage of patients achieve complete insulin independency after TPIAT?**
+
+- 5% to 10%
+- **One third**
+- 50%
+- 70%
+
+*Explanation: After TPIAT, complete insulin independency is achieved in only one third of patients.*
+
+**101. What percentage of patients show overall improvement in quality of life after TPIAT at 2 years?**
+
+- 70%
+- 80%
+- **90%**
+- 95%
+
+*Explanation: Outcomes of TPIAT show an overall improvement in quality of life in 90% of patients after 2 years.*
+
+**102. What percentage of patients show overall improvement in quality of life after TPIAT at 5 years?**
+
+- 70%
+- **85%**
+- 90%
+- 95%
+
+*Explanation: Outcomes show 85% improvement in quality of life after 5 years.*
+
+**103. Which type of chronic pancreatitis results in worse outcomes after TPIAT?**
+
+- Hereditary CP
+- Idiopathic CP
+- **Alcoholic CP**
+- Autoimmune pancreatitis
+
+*Explanation: Pain relief depends on the underlying etiology of CP, with alcoholic CP resulting in worse outcomes than CP of other causes.*
+
+**104. What is a contraindication for TPIAT in adults with chronic pancreatitis?**
+
+- Young age
+- **End-stage disease with exocrine and complete endocrine failure**
+- Recent onset of disease
+- Mild pain only
+
+*Explanation: Adults with CP who have end-stage disease with exocrine and complete endocrine failure are not suitable for TPIAT if there are few or no functioning islets present.*
+
+## Minimally Invasive and Robotic Surgery
+
+**105. What factor may limit successful minimally invasive resection in chronic pancreatitis?**
+
+- Patient age
+- **Portal hypertension with collateral circulation**
+- Small pancreatic size
+- Gender
+
+*Explanation: Portal hypertension with collateral circulation may limit successful minimally invasive resection and require conversion to open surgery.*
+
+**106. Have any RCTs addressed minimally invasive surgery in chronic pancreatitis?**
+
+- **No**
+- Yes, several
+- Yes, one major trial
+- Yes, multiple meta-analyses
+
+*Explanation: No RCTs have addressed this topic to date and potential advantages compared with standard open surgery remain speculative.*
+
+## General Questions on Management
+
+**107. What are the major aims of therapy in chronic pancreatitis?**
+
+- Cure the disease completely
+- **Prevention of acute pain attacks, long-lasting pain relief, prevention of disease progression, correction of metabolic consequences**
+- Surgical removal of the entire pancreas only
+- Long-term opioid use
+
+*Explanation: The major aims of therapy in CP are prevention of acute pain attacks, long-lasting pain relief, prevention of disease progression, correction of metabolic consequences, and restoration of a good quality of life.*
+
+**108. What interdisciplinary expertise is required for chronic pancreatitis management?**
+
+- Surgery only
+- Gastroenterology only
+- **Gastroenterologic, radiologic, pathologic, psychological and surgical expertise**
+- Radiology only
+
+*Explanation: This requires an interdisciplinary management team that includes gastroenterologic, radiologic, pathologic, psychological and surgical expertise.*
+
+**109. What is the typical median survival time used for calculating prevalence of chronic pancreatitis?**
+
+- 10 years
+- **20 years**
+- 30 years
+- 40 years
+
+*Explanation: Prevalence of 40 to 120 per 100,000 inhabitants is calculated on the basis of an estimated median survival time of 20 years.*
+
+**110. What is the characteristic imaging finding of autoimmune pancreatitis in only 50% of patients?**
+
+- Atrophic pancreas
+- **Diffusely swollen pancreas ("sausage")**
+- Calcified pancreas
+- Normal appearance
+
+*Explanation: AIP imaging morphology shows typical features of a diffusely swollen pancreas ("sausage") in only 50% of patients.*
+
+**111. What is the most reliable imaging feature of autoimmune pancreatitis?**
+
+- Early-phase contrast enhancement
+- **Late-phase contrast-enhanced MRI ("late enhancement")**
+- CT calcifications
+- Ultrasound findings
+
+*Explanation: The most reliable imaging feature is found in late-phase contrast-enhanced MRI ("late enhancement").*
+
+**112. What percentage of EUS-guided core biopsies show typical IgG4 positivity findings in AIP?**
+
+- 5%
+- 10%
+- **20%**
+- 50%
+
+*Explanation: EUS-guided core biopsies may not result in a definite diagnosis in all patients because typical (i.e., IgG4 positivity) findings are present in only 20% of biopsies.*
+
+**113. If there is no change in disease activity in AIP within how many months should the diagnosis be critically re-evaluated?**
+
+- 1 month
+- 2 months
+- **3 months**
+- 6 months
+
+*Explanation: If there is no change in disease activity and symptoms within 3 months, the diagnosis of AIP should be critically re-evaluated.*
+
+**114. What is the success rate of endoscopic therapy for pancreatic duct stenosis in patients WITH calcifications?**
+
+- 30%
+- 20%
+- **8%**
+- 45%
+
+*Explanation: An early trial showed a success rate of 60% for patients without calcifications but only 8% when calcifications were present.*
+
+**115. What is the endoscopic success rate range for more than 1000 patients in a multicenter trial?**
+
+- 20% to 35%
+- **46% to 76%**
+- 80% to 90%
+- 90% to 95%
+
+*Explanation: Another multicenter trial with more than 1000 patients resulted in endoscopic success rates of 46% to 76%.*
+
+**116. What was the secondary operation rate in the multicenter trial of endoscopic therapy?**
+
+- 5% to 10%
+- 10% to 15%
+- **24% to 48%**
+- 50% to 60%
+
+*Explanation: A secondary operation rate of 24% to 48% was observed depending on CP morphology.*
+
+**117. In the first RCT comparing endoscopic vs surgical therapy, what was the rate of complete absence of pain after 5 years in surgical patients?**
+
+- 15%
+- 25%
+- **37%**
+- 50%
+
+*Explanation: After initially similar success rates, long-term observation after 5 years revealed that complete absence of pain was more frequent after surgery (37% vs. 14% endoscopy).*
+
+**118. In the first RCT comparing endoscopic vs surgical therapy, what was the rate of complete absence of pain after 5 years in endoscopic patients?**
+
+- 5%
+- 10%
+- **14%**
+- 25%
+
+*Explanation: Complete absence of pain was more frequent after surgery (37% vs. 14% endoscopy).*
+
+**119. What was the rate of partial pain relief in both surgical and endoscopic groups after 5 years?**
+
+- 30% to 35%
+- **49% to 51%**
+- 60% to 65%
+- 70% to 75%
+
+*Explanation: With a similar rate of partial pain relief (49% vs. 51%).*
+
+**120. What was the new-onset diabetes rate in both groups after endoscopic or surgical therapy?**
+
+- 15% to 20%
+- 25% to 30%
+- **34% to 43%**
+- 50% to 60%
+
+*Explanation: Postinterventional new-onset diabetes rates were comparable in both groups (34%–43%).*
+
+**121. What percentage of patients in the Dutch pancreatic drainage study received surgical drainage?**
+
+- 15
+- **20**
+- 30
+- 44
+
+*Explanation: The Dutch study group included 19 patients receiving endoscopic drainage versus 20 patients with surgical drainage.*
+
+**122. What is the indication for cystojejunostomy?**
+
+- Pancreatic cancer
+- **Pseudocysts after failure of endoscopic therapy**
+- Acute pancreatitis
+- Chronic pancreatitis without pseudocysts
+
+*Explanation: According to Table 58.3, cystojejunostomy is indicated for pseudocysts after failure of endoscopic therapy.*
+
+**123. What is the indication for partial pancreaticoduodenectomy?**
+
+- Duct dilation > 7 mm without inflammatory mass
+- **Suspected malignancy, irreversible duodenal stenosis**
+- Pseudocysts only
+- Mild pain only
+
+*Explanation: According to Table 58.3, partial pancreaticoduodenectomy is indicated for suspected malignancy, irreversible duodenal stenosis, procedure of choice when technically possible.*
+
+**124. What is the indication for DPPHR Beger procedure?**
+
+- Duct dilation > 7 mm without mass
+- **Inflammatory head mass, no suspected malignancy, portal vein axis technically accessible**
+- Pseudocysts only
+- Distal pancreatic disease
+
+*Explanation: According to Table 58.3, DPPHR Beger is indicated for inflammatory head mass, no suspected malignancy, portal vein axis technically accessible.*
+
+**125. What is the indication for DPPHR Frey procedure?**
+
+- Inflammatory head mass with suspected malignancy
+- **Long segment obstruction of the pancreatic duct, no prominent inflammatory head mass**
+- Pseudocysts only
+- Acute pancreatitis
+
+*Explanation: According to Table 58.3, DPPHR Frey is indicated for long segment obstruction of the pancreatic duct, no prominent inflammatory head mass.*
+
+**126. What is the indication for distal/segmental pancreatectomy?**
+
+- Inflammatory head mass
+- **Rare indication for isolated left-sided inflammation (i.e., post-traumatic)**
+- Pseudocysts only
+- Duct dilation throughout the gland
+
+*Explanation: According to Table 58.3, distal/segmental pancreatectomy is a rare indication for isolated left-sided inflammation (i.e., post-traumatic).*
+
+**127. What is the indication for total pancreatectomy?**
+
+- Mild chronic pancreatitis
+- **Rare indication in patients with severe chronic pancreatitis changes in the entire gland, preexisting IDDM**
+- Pseudocysts only
+- Early-stage disease
+
+*Explanation: According to Table 58.3, total pancreatectomy is a rare indication in patients with severe chronic pancreatitis changes in the entire gland, preexisting IDDM.*
+
+**128. What is the indication for total pancreatectomy with islet cell autotransplantation?**
+
+- All chronic pancreatitis patients
+- **Indication for selected patients (i.e., pediatric patients)**
+- Only adult patients
+- Patients with suspected malignancy
+
+*Explanation: According to Table 58.3, total pancreatectomy with islet cell autotransplantation is indicated for selected patients (i.e., pediatric patients).*
+
+**129. What is the indication for papillotomy in endoscopic therapy?**
+
+- Pseudocysts only
+- **Pancreas divisum, sphincter of Oddi dysfunction**
+- Malignancy
+- Acute pancreatitis only
+
+*Explanation: According to Table 58.1, papillotomy is indicated for pancreas divisum, sphincter of Oddi dysfunction.*
+
+**130. What is an indicator of poor outcome for endoscopic therapy?**
+
+- Proximal short segment stenosis
+- **Distal/long segment stenosis of pancreatic duct**
+- Single small stone
+- Recent onset of symptoms
+
+*Explanation: According to Table 58.1, indicators of poor outcome include distal/long segment stenosis of pancreatic duct.*
+
+**131. What is another indicator of poor outcome for endoscopic therapy?**
+
+- Non-calcifying chronic pancreatitis
+- **Calcifying chronic pancreatitis (CP)**
+- Young patient age
+- Short disease duration
+
+*Explanation: According to Table 58.1, calcifying chronic pancreatitis is an indicator of poor outcome.*
+
+**132. What is the third indicator of poor outcome for endoscopic therapy?**
+
+- Therapy for less than 3 months
+- **Unsuccessful therapy > 12 months**
+- Single intervention
+- Small pseudocysts
+
+*Explanation: According to Table 58.1, unsuccessful therapy > 12 months is an indicator of poor outcome.*
+
+**133. What is the indication for internal drainage (cysto-gastrostomy/cystoduodenostomy)?**
+
+- Pancreatic cancer
+- **Treatment of pseudocysts, no RCs with comparison to surgery**
+- Acute pancreatitis without pseudocysts
+- Bile duct stenosis only
+
+*Explanation: According to Table 58.1, internal drainage is for treatment of pseudocysts.*
+
+**134. What is the indication for endoscopic ductal drainage with papillotomy and dilation/stenting?**
+
+- Pseudocysts
+- **Proximal short segment stenosis of pancreatic duct**
+- Distal long segment stenosis
+- Malignancy
+
+*Explanation: According to Table 58.1, papillotomy + dilation/stenting is for proximal short segment stenosis of pancreatic duct.*
+
+**135. What is the indication for papillotomy with lithotripsy and stone extraction?**
+
+- Pseudocysts
+- Bile duct stenosis
+- **Pancreatolithiasis in the proximal duct segment**
+- Distal duct stones only
+
+*Explanation: According to Table 58.1, papillotomy + lithotripsy and stone extraction is for pancreatolithiasis in the proximal duct segment.*
+
+**136. What is the indication for papillotomy with bile duct stenting?**
+
+- Pancreatic duct stones
+- Pseudocysts
+- **Bile duct stenosis**
+- Pancreas divisum
+
+*Explanation: According to Table 58.1, papillotomy + bile duct stenting is for bile duct stenosis.*
+
+**137. What percentage of CP patients are insufficiently treated for exocrine pancreatic failure even in high-standard healthcare countries?**
+
+- 10%
+- 25%
+- **Many patients (implied high percentage)**
+- 5%
+
+*Explanation: Even in countries with high-standard healthcare, many patients with CP-related exocrine pancreatic failure are insufficiently treated.*
+
+**138. What is the role of proton pump inhibitors in PEP therapy?**
+
+- Replace PEP entirely
+- **Supportive prescription in addition to enteric-coated PEP if PEP alone is not effective**
+- Contraindicated in all CP patients
+- Only for patients without surgery
+
+*Explanation: The supportive prescription of proton pump inhibitors in addition to an enteric-coated PEP is often necessary in surgical CP patients if PEP alone is not effective.*
+
+**139. What is the risk of attempted and completed suicide in chronic pancreatitis patients?**
+
+- Lower than general population
+- Same as general population
+- **Higher risk**
+- No documented risk
+
+*Explanation: Despite such approaches, CP patients seem to be at a higher risk of attempted and completed suicide.*
+
+**140. What is the risk factor for postoperative fistula development in chronic pancreatitis patients after distal pancreatectomy?**
+
+- **History of CP has been controversially described but not confirmed in recent meta-analysis**
+- Age over 60
+- Female gender
+- Diabetes mellitus
+
+*Explanation: A history of CP has been controversially described as a patient-related risk factor for postoperative fistula development but could not be confirmed in a recent meta-analysis.*
+
+**141. What is the Puestow operation?**
+
+- Pancreaticoduodenectomy
+- **Caudal drainage procedure**
+- Total pancreatectomy
+- Distal pancreatectomy
+
+*Explanation: According to Table 58.3, caudal drainage (Puestow operation) is a drainage procedure.*
+
+**142. What is the Partington-Rochelle operation?**
+
+- Resection procedure
+- **Latero-lateral pancreatojejunostomy**
+- Total pancreatectomy
+- Cystojejunostomy only
+
+*Explanation: According to Table 58.3, the Partington-Rochelle operation is a latero-lateral pancreatojejunostomy.*
+
+**143. What is the main technical aim of chronic pancreatitis surgery?**
+
+- Complete removal of the pancreas
+- **Decompression of the obstructed pancreatic and, if necessary, the bile duct**
+- Creation of a permanent fistula
+- Only pain nerve ablation
+
+*Explanation: The major technical aim of CP surgery is the decompression of the obstructed pancreatic and, if necessary, the bile duct.*
+
+**144. What happens to pancreatic function if surgery is performed in an early disease stage?**
+
+- Always worsens
+- **Can be prolonged or even stopped**
+- No effect
+- Only endocrine function improves
+
+*Explanation: The progression of exocrine and endocrine failure during the natural course of CP can be prolonged or even stopped, especially if surgery is performed in an early disease stage.*
+
+**145. What is the major determinant of long-term mortality in chronic pancreatitis patients?**
+
+- Surgical complications
+- **Persistent chronic risk factor exposition (especially ongoing alcohol consumption)**
+- Age at diagnosis
+- Gender
+
+*Explanation: Persistent chronic risk factor exposition (especially ongoing alcohol consumption) is associated with progression of the disease and consequently represents the major determinant of long-term mortality in CP patients.*
+
+**146. What percentage of patients achieve pain control or complete absence of pain as the major aim of CP therapy?**
+
+- 50%
+- 60%
+- **4 out of 5 patients (80%)**
+- 90%
+
+*Explanation: Pain control and even complete absence of pain as the major aim of CP therapy is achieved in 4 out of 5 patients.*
+
+**147. What is the Warshaw procedure?**
+
+- Total pancreatectomy
+- Distal pancreatectomy with splenectomy
+- **Distal pancreatectomy with resection of splenic vessels but preservation of the spleen**
+- Pancreaticoduodenectomy
+
+*Explanation: In the case of strong inflammatory adhesion, the Warshaw procedure involves resection of the splenic artery and vein, even if the spleen is not removed.*
+
+**148. What is the main advantage of resection over drainage alone in chronic pancreatitis surgery?**
+
+- Lower cost
+- Shorter operation time
+- **Large portion of fibrosclerotic and calcified tissue can be removed**
+- Less expertise required
+
+*Explanation: Resection offers the advantage that a large portion of the fibrosclerotic and calcified tissue can be removed in combination with the restoration of free drainage.*
+
+**149. What is the recommended approach for standard resections in chronic pancreatitis?**
+
+- Only open surgery
+- Only laparoscopic surgery
+- **Both laparoscopic and robotic techniques**
+- Only robotic surgery
+
+*Explanation: Surgery for CP can be performed using a minimally invasive approach that includes both laparoscopic and robotic techniques.*
+
+**150. What is the conclusion regarding endoscopic therapy duration for chronic pancreatitis?**
+
+- Should continue indefinitely
+- Should be limited to 3 months
+- **Should be limited to a maximum time frame of 1 year**
+- Should be the only treatment option
+
+*Explanation: Endoscopic treatment often requires frequent re-interventions and should be limited to a maximum time frame of 1 year.*
+

@@ -1,0 +1,1871 @@
+# 127E Laparoscopic Major and Complex Liver Resection
+
+Generated with Claude.
+
+**1. When was laparoscopic cholecystectomy introduced, marking the beginning of the laparoscopic surgery era?**
+
+- 1980
+- 1985
+- **1988**
+- 1992
+
+*Explanation: Laparoscopic cholecystectomy was introduced in 1988 and was almost universally adopted within 2 years, marking the beginning of the widespread use of laparoscopic procedures.*
+
+---
+
+**2. What was a significant consequence of the rapid adoption of laparoscopic cholecystectomy?**
+
+- Decreased operative times
+- Reduced need for anesthesia
+- **Transient increase in bile duct injuries**
+- Improved oncologic outcomes
+
+*Explanation: The transient increase in bile duct injuries emphasized the learning curve and the paramount importance of proper training with innovative procedures when laparoscopic cholecystectomy was rapidly adopted.*
+
+---
+
+**3. Why has laparoscopic liver resection been adopted more slowly than other laparoscopic procedures?**
+
+- Lack of patient demand
+- Insufficient laparoscopic equipment
+- **Perceived risks of uncontrollable bleeding and oncologic inadequacy**
+- High cost of the procedure
+
+*Explanation: Laparoscopic liver resection faced slower adoption due to perceived risks of uncontrollable bleeding and oncologic inadequacy, including tumor seeding and margin concerns.*
+
+---
+
+**4. According to a comprehensive review of the literature cited in the chapter, approximately how many laparoscopic liver resection (LLR) cases have been reported?**
+
+- More than 3000
+- More than 5000
+- **More than 9000**
+- More than 15,000
+
+*Explanation: A recent comprehensive review of the literature compiled more than 9000 reported cases of laparoscopic liver resections.*
+
+---
+
+**5. How many centers worldwide have reported series of more than 100 laparoscopic liver resections (LLRs)?**
+
+- Less than 5
+- Less than 10
+- **Less than 20**
+- Less than 50
+
+*Explanation: Less than 20 centers worldwide have reported series of more than 100 LLRs, indicating that this remains a specialized procedure.*
+
+---
+
+**6. What percentage of reported laparoscopic resections were pure laparoscopic, according to the international review by Nguyen and colleagues?**
+
+- 55%
+- 65%
+- **75%**
+- 85%
+
+*Explanation: According to the comprehensive international review by Nguyen and colleagues, 75% of reported laparoscopic resections were pure laparoscopic.*
+
+---
+
+**7. What percentage of reported laparoscopic resections used the hand-assisted technique, according to Nguyen and colleagues?**
+
+- 5%
+- 10%
+- **17%**
+- 25%
+
+*Explanation: According to the comprehensive review by Nguyen and colleagues, 17% of reported laparoscopic resections were hand-assisted procedures.*
+
+---
+
+**8. What percentage of cases were conversions to laparotomy or hand-assisted procedures, according to Nguyen and colleagues?**
+
+- 1%
+- 2%
+- 3%
+- **4%**
+
+*Explanation: According to the review by Nguyen and colleagues, 4% of cases were conversions to laparotomy or hand-assisted procedures.*
+
+---
+
+**9. According to comprehensive reviews, what was the proportion of major resections in laparoscopic liver surgery in 2009?**
+
+- 5%
+- 10%
+- **15%**
+- 20%
+
+*Explanation: Comprehensive reviews of the literature showed a rise in the proportion of major resection from 15% in 2009 to 30% in 2015.*
+
+---
+
+**10. According to comprehensive reviews, what was the proportion of major resections in laparoscopic liver surgery in 2015?**
+
+- 20%
+- 25%
+- **30%**
+- 35%
+
+*Explanation: Comprehensive reviews showed a rise in the proportion of major resection from 15% in 2009 to 30% in 2015, indicating the growing adoption of complex laparoscopic liver surgery.*
+
+---
+
+**11. When was the first laparoscopic major hepatectomy reported?**
+
+- 1990
+- 1993
+- **1997**
+- 2001
+
+*Explanation: Laparoscopic major hepatectomy remains a relatively challenging operation since it was first reported in 1997, and its development has been slow.*
+
+---
+
+**12. When were the first documented series with more than 10 cases of laparoscopic major hepatectomy published?**
+
+- Before 1998
+- Between 1998 and 2000
+- Between 2000 and 2002
+- **After 2004**
+
+*Explanation: The first documented series with more than 10 cases of laparoscopic major hepatectomy were not published until after 2004, reflecting the slow development of this complex procedure.*
+
+---
+
+**13. According to the Second International Consensus on Laparoscopic Liver Resection, laparoscopic major hepatectomy is classified at what IDEAL stage?**
+
+- IDEAL 1
+- **IDEAL 2b**
+- IDEAL 3
+- IDEAL 4
+
+*Explanation: The Second International Consensus still considers laparoscopic major hepatectomy an innovative procedure that is in an "exploration or learning phase (IDEAL 2b)" with incompletely defined risks.*
+
+---
+
+**14. Where was the first European Guidelines Meeting on laparoscopic liver surgery held?**
+
+- Paris
+- Amsterdam
+- **Southampton**
+- London
+
+*Explanation: The first European Guidelines Meeting on laparoscopic liver surgery was held in Southampton in 2017.*
+
+---
+
+**15. According to the European Guidelines Meeting (2017), laparoscopic left hepatectomy is associated with which of the following compared to open approach?**
+
+- Increased blood loss
+- Longer hospital stay
+- **Reduced blood loss and morbidity**
+- Inferior completeness of resection
+
+*Explanation: For left hepatectomy, the laparoscopic approach appears to be associated with reduced blood loss, morbidity, and hospital length of stay, with comparable operative times, completeness of resection, and mortality.*
+
+---
+
+**16. According to the European Guidelines Meeting (2017), laparoscopic right hepatectomy in experienced hands is associated with which benefit compared to open surgery?**
+
+- Lower mortality rates
+- Shorter operative times
+- **Reduced hospital LOS and blood loss**
+- Improved completeness of resection
+
+*Explanation: For right hepatectomy, in experienced hands, a laparoscopic approach appears to be associated with reduced hospital LOS and blood loss with comparable mortality and completeness of resection.*
+
+---
+
+**17. In the Louisville Statement (2008), which term describes complete mobilization and resection through laparoscopic ports with an incision for specimen extraction only?**
+
+- Hand-assisted laparoscopy
+- Hybrid technique
+- **Pure laparoscopy**
+- Thoracoscopic approach
+
+*Explanation: Pure laparoscopy applies to complete mobilization and resection through laparoscopic ports, with an incision for specimen extraction only, as defined in the Louisville Statement.*
+
+---
+
+**18. In the Louisville Statement (2008), what does "hybrid technique" refer to?**
+
+- Complete laparoscopic resection
+- Hand-assisted mobilization and resection
+- **Laparoscopy for mobilization with resection under direct vision through a small incision**
+- Combination of thoracoscopic and laparoscopic approaches
+
+*Explanation: The hybrid technique refers to a procedure in which laparoscopy (with or without hand assistance) is used for liver mobilization, whereas resection is performed under direct vision through a small incision.*
+
+---
+
+**19. According to the Couinaud and Brisbane 2000 terminology, which liver segments are most amenable to laparoscopic resection?**
+
+- Segments I, IVa, VII, and VIII
+- Segments I, II, III, and IV
+- **Segments II, III, IVb, V, and VI**
+- Segments V, VI, VII, and VIII
+
+*Explanation: Based on Couinaud and Brisbane 2000 terminology, segments II, III, IVb, V, and VI are most amenable to laparoscopic resection.*
+
+---
+
+**20. Which liver segments are considered to be in "posterosuperior" locations that are technically challenging for laparoscopic resection?**
+
+- Segments II, III, and IVb
+- Segments V, VI, and VII
+- Segments III, IV, and V
+- **Segments I, IVa, VII, and VIII**
+
+*Explanation: Isolated resection of tumors located in the posterosuperior liver (segments I, IVa, VII, and VIII) and major hepatectomy are technically more challenging and should be reserved for expert surgeons.*
+
+---
+
+**21. In the comprehensive review by Ciria and colleagues, what percentage of laparoscopic liver resections were minor resections?**
+
+- 50%
+- 60%
+- **70%**
+- 80%
+
+*Explanation: In the comprehensive review by Ciria and colleagues, the majority (70%) were minor resections, consisting of two segments or less, including nonanatomic wedge resections and left lateral sectionectomies.*
+
+---
+
+**22. In the Ciria review, what percentage of cases were anatomic segmentectomies?**
+
+- 5%
+- 8%
+- 10%
+- **13%**
+
+*Explanation: Anatomic segmentectomies, classified as minor by the amount of resected liver but complex resections reported mainly by Asian surgeons, accounted for 13% of cases.*
+
+---
+
+**23. According to the Ciria review, what percentage of laparoscopic liver resections were major resections (three or more segments)?**
+
+- 14%
+- 18%
+- 20%
+- **24%**
+
+*Explanation: Major resections consisting of three or more segments accounted for 24% of cases, with right and left hepatectomies representing 13% and 11%, respectively.*
+
+---
+
+**24. What is the most favorable tumor size for laparoscopic liver resection?**
+
+- Less than 3 cm
+- Less than 8 cm
+- **Less than 5 cm**
+- Less than 10 cm
+
+*Explanation: The most favorable lesions for laparoscopic resection are solitary tumors less than 5 cm and located in peripheral liver segments II to VI.*
+
+---
+
+**25. According to Table 127E.1, which factor is associated with "easy" laparoscopic liver resection regarding surgeon experience?**
+
+- Less than 10 cases
+- Less than 15 cases
+- Less than 20 cases
+- **Less than 25 cases**
+
+*Explanation: According to the predictors of difficulty table, a surgeon experience of less than 25 cases is associated with relatively easier laparoscopic liver resection.*
+
+---
+
+**26. According to Table 127E.1, what distance from the hepatic hilum, proximal hepatic veins, or inferior vena cava is considered "difficult" for laparoscopic resection?**
+
+- Less than 2 cm
+- Less than 3 cm
+- Less than 5 cm
+- **Less than 1 cm**
+
+*Explanation: According to the predictors of difficulty table, a distance of less than 1 cm from the hepatic hilum, proximal hepatic veins, or inferior vena cava is considered a difficult factor for laparoscopic resection.*
+
+---
+
+**27. Which preoperative liver function score must be achieved before performing laparoscopic major hepatectomy?**
+
+- Child B
+- Child C
+- MELD score < 10
+- **Child A**
+
+*Explanation: A Child A score must be achieved preoperatively, as patients with decompensated liver function are often associated with a vulnerable body condition which may lead to intraoperative bleeding and anesthetic accident.*
+
+---
+
+**28. What percentage of patients with hepatocellular carcinoma (HCC) have a background of chronic liver injury?**
+
+- 70%
+- 75%
+- 80%
+- **90%**
+
+*Explanation: About 90% of patients with hepatocellular carcinoma (HCC) have a background of chronic liver injury, with chronic hepatitis B or C infection, alcohol, and nonalcoholic steatohepatitis being the most common causes.*
+
+---
+
+**29. Which condition is listed as an absolute contraindication for laparoscopic major hepatectomy?**
+
+- Lesions near the inferior vena cava
+- Coagulopathy
+- Lesions greater than 10 cm
+- **Hilar cholangiocarcinoma**
+
+*Explanation: Hilar cholangiocarcinoma is listed as an absolute contraindication for laparoscopic major hepatectomy, along with advanced gallbladder cancer, advanced intrahepatic cholangiocarcinoma, and vascular reconstruction required.*
+
+---
+
+**30. Which condition is listed as a relative contraindication (not absolute) for laparoscopic major hepatectomy?**
+
+- Advanced gallbladder cancer
+- Vascular reconstruction required
+- **Early gallbladder cancer**
+- Hilar cholangiocarcinoma
+
+*Explanation: Early gallbladder cancer and early intrahepatic cholangiocarcinoma are relative contraindications that can be considered in selected cases, unlike advanced forms which are absolute contraindications.*
+
+---
+
+**31. What is the lesion size threshold listed as an indication (not contraindication) for laparoscopic major hepatectomy?**
+
+- Less than 5 cm
+- Less than 7 cm
+- Less than 8 cm
+- **Less than 10 cm**
+
+*Explanation: Lesions less than 10 cm are listed under indications for laparoscopic major hepatectomy, while lesions greater than 10 cm are listed as a relative contraindication.*
+
+---
+
+**32. Which of the following is an absolute contraindication for laparoscopic major hepatectomy?**
+
+- Previous upper abdominal surgery
+- Thrombocytopenia
+- Early intrahepatic cholangiocarcinoma
+- **Patient unable to tolerate pneumoperitoneum**
+
+*Explanation: Patient unable to tolerate pneumoperitoneum is listed as an absolute contraindication for laparoscopic major hepatectomy, as pneumoperitoneum is essential for the procedure.*
+
+---
+
+**33. Why is bilobar colorectal liver metastasis generally considered a contraindication to laparoscopic approach?**
+
+- Increased anesthesia risk
+- Longer operative time
+- **Risk of missing lesions or performing inadequate oncologic procedure**
+- Higher conversion rate to open surgery
+
+*Explanation: Bilobar disease, especially in colorectal liver metastases, is considered a contraindication to the laparoscopic approach by most teams because of the risk of missing some lesions or performing an inadequate oncologic procedure.*
+
+---
+
+**34. HCC represents what proportion of laparoscopic liver resection cases for malignancy?**
+
+- Less than 20%
+- 30-40%
+- 40-50%
+- **More than 50%**
+
+*Explanation: HCC is the most common single reported indication for LLR, representing more than 50% of those for malignancy, whereas in most open liver resection series, colorectal liver metastases form the majority.*
+
+---
+
+**35. What was a notable finding regarding laparoscopic liver resection in cirrhotic patients?**
+
+- Increased postoperative liver failure
+- Similar postoperative ascites as open surgery
+- **Less postoperative ascites than after open surgery**
+- Higher mortality rates
+
+*Explanation: The authors observed that LLR was very well tolerated by cirrhotic patients. In particular, they observed less postoperative ascites than previously experienced after open surgery, probably because the abdominal wall and its collateral venous drainage are better preserved.*
+
+---
+
+**36. What cumulative mortality rate was reported by Ciria and colleagues in their review of 463 published articles on LLR?**
+
+- 0.1%
+- 0.2%
+- 0.3%
+- **0.4%**
+
+*Explanation: In their review of 463 published articles on LLR, Ciria and colleagues concluded a cumulative mortality rate of 0.4%, which compares favorably to the 0% to 5.4% reported in the open-resection literature from high-volume centers.*
+
+---
+
+**37. What was the overall morbidity rate reported in the Ciria review of LLR?**
+
+- 5.5%
+- 7.5%
+- 9.0%
+- **10.5%**
+
+*Explanation: A 10.5% morbidity rate was reported in the Ciria review, with a range of 0% to 50% across studies.*
+
+---
+
+**38. What percentage of morbidity in LLR was attributed to liver-specific complications such as bile leaks and transient liver failure?**
+
+- 2%
+- 3%
+- **4%**
+- 6%
+
+*Explanation: Liver-specific complications accounted for 4% and included bile leaks, transient liver failure and ascites, and abdominal collections.*
+
+---
+
+**39. What was the name of the first single-center RCT demonstrating the safety of laparoscopic liver surgery for colorectal liver metastases?**
+
+- ORANGE II PLUS trial
+- LAPLACE trial
+- **OSLO-COMET study**
+- MIRROR study
+
+*Explanation: Fretland et al. reported the first single-center RCT (OSLO-COMET study) in patients with colorectal liver metastases who underwent minor parenchyma sparing liver resection, demonstrating the safety of laparoscopic liver surgery.*
+
+---
+
+**40. What was the NCT number of the ORANGE II PLUS trial comparing laparoscopic versus open right and left hepatectomy?**
+
+- NCT01234567
+- NCT01338456
+- **NCT01441856**
+- NCT01552967
+
+*Explanation: The ORANGE II PLUS trial comparing the early outcomes of right and left hepatectomy either by laparoscopy or open route has the clinical trial number NCT01441856.*
+
+---
+
+**41. What is a potential advantage of quicker recovery after laparoscopic approach specifically related to cancer treatment?**
+
+- Reduced need for postoperative imaging
+- Earlier return to normal diet
+- **Increased and earlier access to chemotherapy**
+- Reduced risk of port-site metastases
+
+*Explanation: Another potential advantage of quicker recovery after the laparoscopic approach is the possibility of increased and earlier access to chemotherapy.*
+
+---
+
+**42. Using cumulative sum analysis (CUSUM) based on conversion rate in minor hepatectomies, at how many cases did the learning curve reach a statistical plateau?**
+
+- 30 cases
+- 45 cases
+- 50 cases
+- **60 cases**
+
+*Explanation: The authors used the technique of CUSUM to determine when the learning curve reached a statistical plateau based on conversion rate in minor hepatectomies, and this was found to be at 60 cases.*
+
+---
+
+**43. According to Cai et al., how many cases of left hepatectomy are needed to overcome the learning curve?**
+
+- 5–10 cases
+- 10–15 cases
+- **15–30 cases**
+- 30–45 cases
+
+*Explanation: Cai et al. showed that on average, 15 to 30 cases for left hepatectomy were necessary to achieve proficiency in this procedure.*
+
+---
+
+**44. According to Hasegawa et al., how many minor laparoscopic liver resections should a surgeon have performed before safely introducing major laparoscopic liver resection?**
+
+- At least 20
+- At least 30
+- At least 45
+- **At least 60**
+
+*Explanation: Hasegawa et al. demonstrated that a major laparoscopic liver resection could be safely introduced for a surgeon with an experience level of at least 60 minor laparoscopic liver resections.*
+
+---
+
+**45. According to Nomi et al., how many major laparoscopic liver resections were required before operating times were reduced?**
+
+- 20
+- 30
+- 40
+- **45**
+
+*Explanation: Nomi et al. reported that 45 major laparoscopic liver resections were required before operating times were reduced.*
+
+---
+
+**46. According to Chan et al., at which case number was the learning curve for laparoscopic major hepatectomy overcome?**
+
+- 15th case
+- 20th case
+- **25th case**
+- 30th case
+
+*Explanation: For Chan et al., by overcoming the learning curve at the 25th laparoscopic major hepatectomy, more pure laparoscopic hepatectomies could be performed with reduced operative time and blood loss.*
+
+---
+
+**47. According to a literature review cited in the chapter, what is the steep learning curve required for laparoscopic major hepatectomy?**
+
+- 20–30 cases
+- 30–40 cases
+- **45–60 cases**
+- 60–80 cases
+
+*Explanation: In a literature review, a steep learning curve of 45 to 60 cases is necessary for laparoscopic major hepatectomy.*
+
+---
+
+**48. In the authors' experience comparing early and late groups, what was the reduction in blood loss between groups?**
+
+- From 500 to 300 mL
+- From 400 to 300 mL
+- **From 300 to 200 mL**
+- From 250 to 150 mL
+
+*Explanation: When comparing early and late groups, the authors found statistically significant reductions in blood loss from 300 to 200 mL, along with reductions in operative time, conversion rate, and morbidity.*
+
+---
+
+**49. In the authors' experience, what was the reduction in morbidity from early to late groups?**
+
+- From 25% to 8%
+- From 20% to 5%
+- **From 17.2% to 3.4%**
+- From 15% to 5%
+
+*Explanation: When comparing early and late groups, the authors found a statistically significant reduction in morbidity from 17.2% to 3.4%.*
+
+---
+
+**50. In the authors' experience, what was the reduction in conversion rate from early to late groups?**
+
+- From 25% to 5%
+- From 20% to 5%
+- **From 16.9% to 2.4%**
+- From 10% to 3%
+
+*Explanation: The authors found statistically significant reductions in conversion rate from 16.9% to 2.4% when comparing early and late groups.*
+
+---
+
+**51. What is the laparoscopic approach advantage related to the hemostatic effect during liver parenchymal transection?**
+
+- Enhanced visualization with 3D imaging
+- Better electrosurgical devices
+- **Pneumoperitoneum pressure above CVP reduces venous bleeding**
+- Reduced need for Pringle maneuver
+
+*Explanation: An advantage of the laparoscopic approach is the hemostatic effect of pneumoperitoneum, the pressure of which is usually above central venous pressure (CVP), helping decrease bleeding during liver parenchymal transection.*
+
+---
+
+**52. According to the oncologic outcomes section, what was found regarding port-site metastases in laparoscopic liver resection?**
+
+- Port-site metastases occurred in 2% of cases
+- Port-site metastases were reduced compared to open surgery
+- Port-site metastases occurred only with HCC
+- **Port-site metastases have not occurred with the use of closed-bag methods**
+
+*Explanation: Port-site metastases and peritoneal dissemination have not occurred with the use of closed-bag methods for specimen extraction in laparoscopic liver resection.*
+
+---
+
+**53. In the meta-analysis by Parks and colleagues involving 446 laparoscopic and 556 open hepatectomies, what was found regarding oncologic outcomes?**
+
+- Laparoscopic resection had inferior disease-free survival
+- Laparoscopic resection had superior overall survival
+- Open resection had better tumor-free margin status
+- **No difference in tumor-free margin status, disease-free survival, and overall survival**
+
+*Explanation: Parks and colleagues found no difference in tumor-free margin status, disease-free survival, and overall survival between laparoscopic and open liver resection for liver malignancies.*
+
+---
+
+**54. What laparoscope size and angle is preferred by the authors for laparoscopic liver resection?**
+
+- 5-mm, 0-degree
+- 10-mm, 0-degree
+- 5-mm, 30-degree
+- **10-mm, 30-degree**
+
+*Explanation: The authors prefer a 10-mm, 30-degree laparoscope for its versatile imaging. A flexible laparoscope is also helpful for better view, especially in posterior areas of the liver.*
+
+---
+
+**55. What pneumoperitoneum pressure is typically used during laparoscopic liver resection?**
+
+- 8 mm Hg
+- 10 mm Hg
+- **12 mm Hg**
+- 15 mm Hg
+
+*Explanation: A carbon dioxide (CO2) insufflator to maintain a pneumoperitoneum of approximately 12 mm Hg is used during laparoscopic liver resection.*
+
+---
+
+**56. What anesthetic approach is recommended to reduce hepatic vein bleeding during liver parenchymal transection?**
+
+- High central venous pressure
+- Fluid loading strategy
+- **Low central venous pressure (CVP) with low tidal volume**
+- Epidural anesthesia
+
+*Explanation: As in open surgery, low central venous pressure (CVP) anesthesia along with a low tidal volume is recommended to reduce hepatic vein bleeding during transection.*
+
+---
+
+**57. What is the Airseal device used for in laparoscopic liver resection?**
+
+- Ultrasonic dissection
+- Vessel sealing
+- **Maintaining stable pneumoperitoneum and removing smoke**
+- Laparoscopic ultrasonography
+
+*Explanation: Optimized CO2 insufflation systems (Airseal) maintain a stable pneumoperitoneum pressure by providing an adapted debit response to a slight change in intra-abdominal pressure. This device also improves the visual field by constantly removing smoke.*
+
+---
+
+**58. For left-sided resections, in what position is the patient placed?**
+
+- Full left lateral decubitus
+- Right lateral decubitus
+- Prone position
+- **Supine with lower limbs apart on a split-leg table (French position)**
+
+*Explanation: For left-sided resections, the patient is placed in a supine position with the lower limbs apart on a split-leg table, sometimes referred to as the "French position."*
+
+---
+
+**59. For right-sided resections (except isolated segment VII), in what position is the patient placed?**
+
+- Supine split-leg position
+- Full left lateral decubitus
+- Prone position
+- **Hybrid lateral decubitus (left lateral decubitus with right arm elevated and split leg)**
+
+*Explanation: For right-sided resections except isolated resections of segment VII, the patient is placed in a hybrid lateral decubitus (left lateral decubitus position with right arm elevated and split leg).*
+
+---
+
+**60. For tumors in segment VII, what patient position and surgeon stance are recommended?**
+
+- Supine position with surgeon at patient's right
+- Right lateral decubitus with surgeon at patient's front
+- **Full left lateral decubitus with surgeon standing behind the patient's back**
+- Prone position with surgeon on either side
+
+*Explanation: For tumors in segment VII, the authors recommend a full left lateral decubitus with the surgeon standing behind the patient's back to obtain a better view and direction to operate.*
+
+---
+
+**61. What is the recommended method for gaining access to the peritoneal cavity in laparoscopic liver resection?**
+
+- Veress needle technique
+- Direct trocar insertion
+- **Open technique**
+- Optical trocar technique
+
+*Explanation: The open technique is preferred to the Veress needle in gaining access to the peritoneal cavity. For the patient with liver cirrhosis, special attention should be paid to the collateral veins around the umbilicus.*
+
+---
+
+**62. Which structure is divided close to the abdominal wall to prevent obstruction of the laparoscopic view?**
+
+- Falciform ligament
+- Hepatogastric ligament
+- Left coronary ligament
+- **Round ligament**
+
+*Explanation: The round ligament is divided close to the abdominal wall. This prevents a dangling remnant that might obstruct the view or soil the tip of the scope.*
+
+---
+
+**63. Why is the falciform ligament divided during laparoscopic liver resection?**
+
+- To access segment VII
+- To place the Pringle maneuver
+- **Along its length to the insertion of the hepatic veins into the vena cava**
+- To expose the right hepatic vein
+
+*Explanation: The falciform ligament is divided along its length to the insertion of the hepatic veins into the vena cava. The round ligament, along with the gallbladder remnant, can be used as handles for manipulation of the liver.*
+
+---
+
+**64. What structure is encircled with a tape to prepare for the Pringle maneuver?**
+
+- Inferior vena cava
+- Left portal vein
+- **Hepatoduodenal ligament**
+- Right hepatic artery
+
+*Explanation: To anticipate hepatic hilum occlusion, the pars flaccida is opened, and an instrument is passed behind the hepatoduodenal ligament to encircle it with a tape for the Pringle maneuver.*
+
+---
+
+**65. What is the preferred Pringle maneuver approach by the authors?**
+
+- Intracorporeal Pringle maneuver
+- **Extracorporeal Pringle maneuver**
+- No Pringle maneuver
+- Selective hepatic artery clamping only
+
+*Explanation: The authors currently prefer the extracorporeal Pringle maneuver, where the tape is externalized and passed through a catheter.*
+
+---
+
+**66. When the Pringle maneuver (pedicle clamping) is used, what is the authors' preferred clamping protocol?**
+
+- 30 minutes of clamping with 10 minutes of release
+- 20 minutes of clamping with 5 minutes of release
+- 10 minutes of clamping with 5 minutes of release
+- **15 minutes of clamping interrupted by 5 minutes of release**
+
+*Explanation: If pedicle clamping is to be used, the authors favor 15 minutes of clamping the pedicle flow interrupted by 5 minutes of release.*
+
+---
+
+**67. What is the recommended approach for structures less than 5 mm in size during liver parenchymal transection?**
+
+- Locking clips only
+- Linear stapler
+- **Coagulation and transection using energy device or bipolar diathermy, or clips**
+- Suture ligation
+
+*Explanation: Vascular and biliary structures less than 5 mm are coagulated and transected using an energy device or bipolar diathermy, or closed by clips.*
+
+---
+
+**68. What type of instruments are used for vascular and biliary structures between 5 and 10 mm in size?**
+
+- Energy devices only
+- Suture ligation
+- **Plastic locking clips (Hem-o-lok, Lapro-Clip)**
+- Bipolar diathermy only
+
+*Explanation: Vessels and bile ducts 5 to 10 mm in size are ligated with plastic locking clips (Hem-o-lok, Lapro-Clip) and then divided.*
+
+---
+
+**69. What instruments are used for larger vessels (greater than 10 mm) during laparoscopic liver resection?**
+
+- Hem-o-lok clips only
+- Energy devices at high power
+- Bipolar vessel sealant only
+- **Laparoscopic linear staplers**
+
+*Explanation: Laparoscopic linear staplers (Endo GIA, Echelon Endopath) are used for larger vessels. The stapler can be applied to segmental portal pedicles or to isolated large portal or hepatic veins.*
+
+---
+
+**70. Which of the following is NOT one of the three main classes of energy devices used in laparoscopic liver resection?**
+
+- Ultrasonic shears
+- Bipolar vessel sealant
+- Combined ultrasonic and bipolar device
+- **Monopolar high-frequency device**
+
+*Explanation: The energy devices are mainly divided into three classes: (1) ultrasonic shears, (2) bipolar vessel sealant, and (3) combined ultrasonic and bipolar device. Monopolar high-frequency alone is not listed as one of these three main classes.*
+
+---
+
+**71. What is the Thunderbeat device (Olympus) classified as?**
+
+- Ultrasonic shears only
+- Bipolar vessel sealant only
+- Monopolar electrosurgical device
+- **Combined ultrasonic and bipolar device**
+
+*Explanation: Thunderbeat (Olympus, Tokyo) is a combined ultrasonic and bipolar device, representing one of the three main classes of energy devices used in laparoscopic liver resection.*
+
+---
+
+**72. What depth of liver parenchyma can be effectively managed by energy devices?**
+
+- Superficial 1 cm
+- **Superficial 2 cm**
+- Superficial 3 cm
+- Entire depth
+
+*Explanation: The energy devices are effective for transecting the superficial 2 cm of liver parenchyma. For dissection of deeper parenchyma, prior identification and selective hemostasis of larger vessels is recommended.*
+
+---
+
+**73. What ultrasonic aspirator device is recommended by the authors for dissection of deeper parenchyma?**
+
+- Harmonic ACE
+- Sonicision
+- LigaSure
+- **CUSA (Cavitron Ultrasonic Surgical Aspirator)**
+
+*Explanation: The authors recommend the use of an ultrasonic aspirator (e.g., CUSA, Integra, Plainsboro, NJ) for dissection of deeper parenchyma.*
+
+---
+
+**74. All lesions extracted during laparoscopic liver resection should be removed using what method?**
+
+- Direct extraction through extended trocar site
+- Morcellation for large specimens
+- Hand-assisted extraction
+- **Endoscopic-protective plastic bag without fragmentation**
+
+*Explanation: All lesions should be extracted without fragmentation using an endoscopic-protective plastic bag to prevent port-site metastases and peritoneal dissemination.*
+
+---
+
+**75. Through which incision are larger specimens typically removed during laparoscopic liver resection?**
+
+- Extended umbilical incision
+- Right subcostal incision
+- **5- to 8-cm suprapubic Pfannenstiel incision without muscle section**
+- Midline laparotomy incision
+
+*Explanation: Larger specimens are usually removed through a 5- to 8-cm suprapubic Pfannenstiel incision without muscle section. Specimens can also be removed through preexisting McBurney or midline incision or through hand-port incision.*
+
+---
+
+**76. In which patients should abdominal drainage be avoided after major liver resection?**
+
+- Patients with HCC
+- Patients undergoing right hepatectomy
+- Patients with colorectal metastases
+- **Cirrhotic patients**
+
+*Explanation: The use of abdominal drainage depends on surgeon preference. It is often used in case of major resections and should be avoided in cirrhotic patients.*
+
+---
+
+**77. What is the most commonly cited reason for conversion to laparotomy during laparoscopic liver resection?**
+
+- Poor progress of operation
+- Oncologic uncertainty
+- Adhesions
+- **Hemorrhage**
+
+*Explanation: The most cited reasons for conversion are hemorrhage, poor progress of operation, oncologic or margin uncertainty, adhesions, and anatomic difficulties. Bleeding is the most common cause.*
+
+---
+
+**78. What was the open conversion rate reported by Dagher et al. in 1184 laparoscopic major hepatectomies from 18 world centers?**
+
+- 5%
+- **10%**
+- 15%
+- 20%
+
+*Explanation: Dagher et al. reported 1184 laparoscopic major hepatectomies carried out from 1996 through 2014 in 18 world centers, with an open conversion rate of 10%.*
+
+---
+
+**79. What was the conversion rate to open surgery in the Korean multicenter study by Hwang et al. involving 265 laparoscopic major hepatectomies?**
+
+- 3.2%
+- 5.0%
+- **6.4%**
+- 8.9%
+
+*Explanation: Hwang et al. reported data from 265 laparoscopic major hepatectomies from 12 surgical centers in Korea, with open conversion necessary in 17 patients (6.4%).*
+
+---
+
+**80. According to Cauchy et al., which factors define patients at risk for conversion during laparoscopic major hepatectomy?**
+
+- Small lesions and normal BMI
+- Prior laparoscopic experience and normal liver
+- **High BMI, large lesions, and biliary reconstruction**
+- Cirrhosis and portal hypertension only
+
+*Explanation: Cauchy et al. investigated conversion rate during laparoscopic major hepatectomies and defined patients at risk as those with high body mass index (BMI), large lesions, and biliary reconstruction.*
+
+---
+
+**81. What is the most common source of hemorrhage during laparoscopic liver resection?**
+
+- Arterial bleeding from hepatic artery branches
+- Inferior vena cava injury
+- Portal vein injury
+- **Hepatic venous branches**
+
+*Explanation: Hepatic venous branches are the most common source of hemorrhage, and bleeding from these veins may be more difficult to manage because of vessel fragility and retraction.*
+
+---
+
+**82. During laparoscopic left hepatectomy, how many ports are used and what sizes?**
+
+- Three 12-mm ports and one 5-mm port
+- Two 12-mm ports and three 5-mm ports
+- Four 12-mm ports and one 5-mm port
+- **Three 12-mm ports and two 5-mm ports**
+
+*Explanation: The patient is positioned supine in a split-leg table in a reverse Trendelenburg position with five upper abdominal ports: three 12-mm ports and two 5-mm ports.*
+
+---
+
+**83. During laparoscopic left hepatectomy, what is checked first in the lesser omentum?**
+
+- Left gastric vein anatomy
+- Presence of lymph nodes
+- **Presence of an accessory or replaced left hepatic artery originating from the left gastric artery**
+- Status of the common bile duct
+
+*Explanation: The lesser omentum is checked to verify the presence of an accessory or replaced left hepatic artery originating from the left gastric artery, and then sectioned close to the Arantius groove.*
+
+---
+
+**84. During laparoscopic left hepatectomy, after cholecystectomy, the gallbladder is left partially attached to the liver for what purpose?**
+
+- To perform intraoperative cholangiography
+- To mark the liver's midplane
+- **To be grasped and retracted superiorly and to the right**
+- To identify the cystic duct remnant
+
+*Explanation: A cholecystectomy is performed, but the gallbladder is left partially attached to liver so that it may be grasped and retracted superiorly and to the right during the procedure.*
+
+---
+
+**85. During laparoscopic left hepatectomy, what structure is divided to mobilize the left lobe from segment I?**
+
+- Left triangular ligament
+- Falciform ligament
+- Left coronary ligament
+- **Arantius fissure using a linear stapler**
+
+*Explanation: To mobilize the left lobe from segment I, a linear stapler is used for dividing the Arantius fissure.*
+
+---
+
+**86. At what point during left hepatectomy is the left hepatic vein divided?**
+
+- Before parenchymal transection begins
+- After hilar dissection only
+- After identifying the demarcation line
+- **When parenchymal transection reaches the insertion of the left hepatic vein into the vena cava**
+
+*Explanation: Parenchymal transection continues cranially, until it reaches the insertion of the left hepatic vein into the vena cava, at which point it is divided with the linear stapler.*
+
+---
+
+**87. During laparoscopic left hepatectomy, what is the preferred method for dividing the left bile duct?**
+
+- Clip and divide
+- Stapler division
+- Energy device division
+- **Sharp division with scissors**
+
+*Explanation: The next step is the dissection and division of the left bile duct. The authors prefer to divide the duct with scissors (sharp division). The biliary stump is closed using clip or suture.*
+
+---
+
+**88. What hemostatic clip size threshold guides the use of clips during laparoscopic left hepatectomy?**
+
+- Vessels larger than 3 mm
+- Vessels larger than 5 mm
+- **Vessels larger than 7 mm**
+- Vessels larger than 10 mm
+
+*Explanation: The authors use hemostatic clips if the vessels are larger than 7 mm during laparoscopic left hepatectomy.*
+
+---
+
+**89. Why is exposing the middle hepatic vein on the cutting plane during left hepatectomy considered important?**
+
+- It is required oncologically
+- It reduces bleeding risk
+- It prevents bile leak
+- **It serves as a useful landmark to prevent disorientation during dissection**
+
+*Explanation: Although exposing the middle hepatic vein on the cutting plane is not absolutely required oncologically, it is very useful as a landmark to perform appropriate and safe hepatectomy without disorientation during dissection of liver parenchyma.*
+
+---
+
+**90. During laparoscopic left hepatectomy, what is the potential complication related to the left inferior phrenic vein?**
+
+- Pneumothorax
+- Pleural effusion
+- Bile leak
+- **Postoperative hemorrhage if accidentally injured**
+
+*Explanation: Accidental injury to the left inferior phrenic vein, which may cause postoperative hemorrhage, should be detected intraoperatively and be reliably controlled.*
+
+---
+
+**91. What is considered a prerequisite before performing laparoscopic right hepatectomy?**
+
+- At least 10 open hepatectomies
+- Completion of a fellowship in HPB surgery
+- **Previous mastery of limited laparoscopic resections**
+- At least 5 laparoscopic left hepatectomies
+
+*Explanation: Right hepatectomy is technically more challenging than left, and previous mastery of limited laparoscopic resections is a prerequisite.*
+
+---
+
+**92. During laparoscopic right hepatectomy, what is done with the gallbladder after cholecystectomy?**
+
+- Fully removed and placed in extraction bag
+- Used to mark the cystic duct location
+- **Left partially attached to liver to be grasped for exposing the right glissonian pedicle**
+- Sutured closed and left in situ
+
+*Explanation: A cholecystectomy is performed, but the gallbladder is left partially attached to liver so that it may be grasped and retracted for exposing the extrahepatic right glissonian pedicle.*
+
+---
+
+**93. Before occluding the right portal vein branch, what must be confirmed for safety?**
+
+- Adequate liver remnant volume
+- Status of the common bile duct
+- Absence of liver cirrhosis
+- **Identification of the origin of the left branch of the portal vein**
+
+*Explanation: Identification of the origin of the left branch of the portal vein should be assured before occluding the right portal branch, as inadvertent occlusion of the left portal vein would compromise the liver remnant.*
+
+---
+
+**94. What is the "anterior approach" in laparoscopic right hepatectomy?**
+
+- Starting dissection from the front of the hepatoduodenal ligament
+- Approaching the right lobe from the anterior abdominal wall
+- **Parenchymal dissection without initial mobilization of the right lobe**
+- Dissection starting anteriorly at the right triangular ligament
+
+*Explanation: The parenchymal dissection can be done with or without initial mobilization of the right lobe; the latter is referred to as the anterior approach in open surgery and is the authors' preferred method.*
+
+---
+
+**95. What is the "caudal approach" advantage specifically mentioned for laparoscopic right hepatectomy?**
+
+- Better visualization of the hepatic hilum
+- Reduced operating time
+- Improved access to segment VIII
+- **Easier view of the infrahepatic and retrohepatic IVC**
+
+*Explanation: An advantage of the laparoscopic approach is the easier view of the infrahepatic and retrohepatic IVC, referred to as the caudal approach.*
+
+---
+
+**96. What are two main advantages of the anterior approach (without prior right liver mobilization) in right hepatectomy?**
+
+- Reduced operative time and better cosmesis
+- Better hemostasis and reduced bile leak
+- **Avoids squeezing tumor cells into circulation and avoids parenchymal tears in large HCC**
+- Easier access to the right hepatic vein and reduced blood loss
+
+*Explanation: The absence of compression and manipulation of the tumor-bearing hemiliver before vascular control avoids squeezing of tumor cells into the systemic circulation and avoids hepatic parenchymal tears, especially for large and soft HCC.*
+
+---
+
+**97. During laparoscopic right hepatectomy, how is the right hepatic vein divided?**
+
+- Between locking clips
+- With energy devices
+- With bipolar diathermy
+- **With a linear stapler**
+
+*Explanation: The right hepatic vein is identified at its insertion into the vena cava and is transected with a linear stapler.*
+
+---
+
+**98. After completion of right hepatectomy, how is the remnant left liver fixed in orthotopic position?**
+
+- With a drain placed under the liver
+- By leaving the falciform ligament intact
+- With adhesive agents applied to the liver
+- **By suturing falciform and round ligaments to the anterior peritoneum and diaphragm**
+
+*Explanation: The remnant left liver is fixed in an orthotopic position by suturing falciform and round ligaments to the anterior peritoneum and diaphragm.*
+
+---
+
+**99. In the extrahepatic glissonian approach for right hepatectomy, what instrument is used to isolate the right glissonian pedicle?**
+
+- Right-angled forceps
+- Laparoscopic scissors
+- **A blunt instrument called "Goldfinger"**
+- Laparoscopic hook
+
+*Explanation: A Goldfinger instrument is meticulously extended between the hepatic parenchyma and the bifurcation of the right and left glissonian pedicles so that the tip of the instrument is visualized for safe isolation.*
+
+---
+
+**100. During extrahepatic glissonian approach for right hepatectomy, why should the left glissonian pedicle be encircled left to the Spiegel branch?**
+
+- To include segment I in the resection
+- To improve visualization
+- To avoid the right hepatic artery
+- **To avoid right bile duct injury during en bloc transection**
+
+*Explanation: The posterior sectional bile duct is sometimes joined to the left hepatic duct. Therefore the left glissonian pedicle should be encircled left to the Spiegel branch to avoid right bile duct injury during en bloc transection.*
+
+---
+
+**101. Laparoscopic right anterior sectionectomy is classified as one of the most challenging procedures because it involves:**
+
+- A single hepatic transection plane
+- Division of only hepatic veins
+- Resection of only one liver segment
+- **Transection of two hepatic parenchymal planes with numerous vessels from both hepatic veins and pedicles**
+
+*Explanation: Right anterior sectionectomy is one of the most challenging procedures because it involves transection of two hepatic parenchymal planes, in addition to controlling numerous branches coming from the right and middle hepatic veins and from the glissonian pedicles in the operative field.*
+
+---
+
+**102. Who first performed laparoscopic right anterior sectionectomy?**
+
+- Cherqui et al.
+- **Hwang et al.**
+- Cho et al.
+- Gumbs et al.
+
+*Explanation: Laparoscopic right anterior sectionectomy has been first performed by Hwang et al. It is one of the most challenging procedures because it involves transection of two hepatic parenchymal planes.*
+
+---
+
+**103. For laparoscopic right anterior sectionectomy, how many ports are used?**
+
+- Three ports
+- Four ports
+- **Five ports**
+- Six ports
+
+*Explanation: Five ports are used in laparoscopic right anterior sectionectomy, as in right hepatectomy.*
+
+---
+
+**104. After temporarily clamping the right anterior pedicle, what ischemic area is visualized?**
+
+- Segments VI and VII
+- Segments IV and V
+- **Segments V and VIII**
+- Segments VI, VII, and VIII
+
+*Explanation: After temporarily clamping the right anterior pedicle, the ischemic area shows the territory of segments V and VIII, confirming the resection boundaries.*
+
+---
+
+**105. What technology is mentioned as helpful for identifying tumor margins and confirming appropriate transection planes during right anterior sectionectomy?**
+
+- 3D laparoscopy
+- Near-infrared imaging
+- Contrast-enhanced ultrasound
+- **ICG fluorescence navigation system**
+
+*Explanation: During parenchymal transection, the use of an ICG (indocyanine green) fluorescence navigation system is helpful for identifying the tumor margins and confirming the appropriate transection planes.*
+
+---
+
+**106. Who first performed laparoscopic central bisectionectomy (anatomic resection of segments IV, V, and VIII)?**
+
+- Hwang et al.
+- Cho et al.
+- Cherqui et al.
+- **Gumbs et al.**
+
+*Explanation: Laparoscopic central bisectionectomy (anatomic resection of segments IV, V, and VIII) has been first performed by Gumbs et al.*
+
+---
+
+**107. In laparoscopic central bisectionectomy, along what two planes is resection performed?**
+
+- Along the right portal fissure and along the right intersectional plane
+- Along the left intersectional plane and along the Cantlie's line
+- **Along the right side of the umbilical fissure and along the right hepatic vein**
+- Along the left coronary ligament and along the right triangular ligament
+
+*Explanation: In central bisectionectomy, the first resection plane is along the right side of the umbilical fissure and the second resection plane is along the right hepatic vein.*
+
+---
+
+**108. During laparoscopic central bisectionectomy, how is the specimen removed?**
+
+- Through an extended umbilical incision
+- Through a right subcostal mini-incision
+- **By dividing the middle hepatic vein with a vascular stapler and retrieving through a Pfannenstiel incision**
+- Through the largest port site incision
+
+*Explanation: The specimen is removed by dividing the middle hepatic vein using a vascular stapler and retrieved through a Pfannenstiel incision.*
+
+---
+
+**109. For laparoscopic right posterior sectionectomy, what anatomic landmark is present in 78% of patients and serves as an easily identifiable guide?**
+
+- Hepatic vein confluence
+- Rouvière's sulcus
+- **Sulcus of Rouvière**
+- Cantlie's line
+
+*Explanation: The advantage in laparoscopic right posterior sectionectomy is that the sulcus of Rouvière, apparent in 78% of patients, serves as the easily identifiable anatomic landmark, because it contains the right posterior pedicle.*
+
+---
+
+**110. For laparoscopic right posterior sectionectomy, where are the two hepatotomies made?**
+
+- Both above the right hepatic vein
+- Both below the hilum
+- **One above and one beneath Rouvière's sulcus**
+- One at the inferior edge and one at the superior edge of segment VII
+
+*Explanation: Two hepatotomies are made, one above and one beneath Rouvière's sulcus, to allow identification of the right posterior glissonian pedicle.*
+
+---
+
+**111. What percentage of the authors' laparoscopic experience has involved patients with chronic liver disease?**
+
+- 30%
+- 40%
+- **Almost 50%**
+- 60%
+
+*Explanation: Almost 50% of the authors' laparoscopic experience has been with patients who have chronic liver disease. These patients typically require longer operations and more pedicle clamping, but globally they have a better recovery than their open counterparts.*
+
+---
+
+**112. Which of the following statements about laparoscopic left hepatectomy compared to laparoscopic right hepatectomy is correct?**
+
+- Left hepatectomy has a higher risk of IVC bleeding
+- Left hepatectomy has a larger parenchymal transection area
+- Both have similar risk of IVC bleeding
+- **Left hepatectomy has lower potential risk of bleeding from the inferior vena cava**
+
+*Explanation: Laparoscopic left hepatectomy has a lower potential risk of bleeding from the inferior vena cava than laparoscopic right hepatectomy because dissection between the inferior vena cava and the liver is not needed.*
+
+---
+
+**113. What classification system divides laparoscopic liver resection into grades I, II, and III based on surgical difficulty?**
+
+- Louisville classification
+- Brisbane 2000 classification
+- Lee et al. classification
+- **Kawaguchi et al. classification**
+
+*Explanation: Kawaguchi et al. proposed a classification system of laparoscopic liver resection according to surgical difficulty, providing levels of difficulty: grade I (beginning/least complex), grade II (intermediate), and grade III (advanced).*
+
+---
+
+**114. In the Kawaguchi classification, which procedures are classified as Grade I (beginning level)?**
+
+- Left hepatectomy and anterolateral segmentectomy
+- Right hepatectomy and right posterior sectionectomy
+- Posterosuperior segmentectomy and central hepatectomy
+- **Wedge resection and left lateral sectionectomy**
+
+*Explanation: In the Kawaguchi classification, grade I (the beginning and least complex level) includes wedge resection and left lateral sectionectomy.*
+
+---
+
+**115. In the Kawaguchi classification, which procedures are classified as Grade III (advanced level)?**
+
+- Left hepatectomy and anterolateral segmentectomy
+- Wedge resection and left lateral sectionectomy
+- Left hepatectomy and left lateral sectionectomy
+- **Posterosuperior segmentectomy, right posterior sectionectomy, right hepatectomy, central hepatectomy, and extended hepatectomy**
+
+*Explanation: Grade III (the advanced level) in the Kawaguchi classification includes posterosuperior segmentectomy, right posterior sectionectomy, right hepatectomy, central hepatectomy, and extended left/right hepatectomy.*
+
+---
+
+**116. Which of the following describes the Lee et al. classification for complexity of open liver resections?**
+
+- Based only on whether resection is major or minor
+- Based on the number of liver segments resected
+- Based on tumor pathology and location
+- **Based on the extent of the liver resection, dividing into low, medium, and high complexity groups**
+
+*Explanation: Lee et al. reported that the complexity of open liver resections should not be classified as major or minor but instead based on the extent of the liver resection. The classification divides procedures into three complexity groups: low, medium, and high.*
+
+---
+
+**117. In the Lee et al. classification, which procedures are considered "high complexity"?**
+
+- Left lateral sectionectomy and wedge resection
+- Left and right hepatectomy
+- Posterior sectionectomy and segmentectomy
+- **Right anterior sectionectomy and central bisectionectomy**
+
+*Explanation: In the Lee et al. classification, right anterior sectionectomy and central bisectionectomy are considered high complexity, while left hepatectomy, right hepatectomy, and right posterior sectionectomy are medium complexity.*
+
+---
+
+**118. What is the present rate of laparoscopic liver resection at the authors' center as a proportion of all liver resections?**
+
+- 10%
+- 20%
+- 25%
+- **35%**
+
+*Explanation: Proportion of resections using the laparoscopic approach varies among centers and ranges from 10% to over 90%; the present rate at the authors' center is 35% of all liver resections.*
+
+---
+
+**119. According to the national clinical database in Japan, which laparoscopic major liver resection is considered a good option for standard practice?**
+
+- Right hepatectomy
+- Right anterior sectionectomy
+- Right posterior sectionectomy
+- **Left hepatectomy**
+
+*Explanation: The report from the national clinical database in Japan concluded that among the major laparoscopic liver resection procedures, a left hepatectomy could be a good option for a standard practice.*
+
+---
+
+**120. What is the key principle of the glissonian pedicle approach for anatomic resection?**
+
+- Parenchymal transection first, then pedicle division
+- Hepatic vein control first
+- **Dissecting and clamping the pedicle corresponding to the segment to be resected first, then confirming the ischemic territory**
+- Identifying the tumor margin first
+
+*Explanation: The key of the glissonian pedicle approach is dissecting and clamping the pedicle corresponding to the segment or section to be resected first, then confirming the ischemic territory which includes the tumor, and finally dissecting the liver parenchyma along the anatomic segmental border.*
+
+---
+
+**121. Why is anatomic hepatectomy with the glissonian pedicle approach preferred for HCC?**
+
+- It reduces operative time
+- It allows for a larger liver remnant
+- It prevents ascites formation
+- **It is designed to remove possible microvascular invasion of HCC that spreads along the portal vein, improving disease-free survival**
+
+*Explanation: This procedure is designed to remove possible microvascular invasion of HCC, which spreads along the portal vein and improves disease-free survival.*
+
+---
+
+**122. Why is anatomic right anterior sectionectomy preferred over right hepatectomy when the HCC tumor is limited to the right anterior section?**
+
+- It has a shorter operative time
+- It is technically easier
+- It has fewer complications
+- **Because patients with HCC often have hepatic dysfunction and minimizing resection volume leaves more liver volume**
+
+*Explanation: Because patients with HCC usually have concomitant hepatic dysfunction or liver cirrhosis, minimizing the volume of resection and leaving as much liver volume as possible are usually recommended. Therefore anatomic right anterior sectionectomy would be more appropriate than right hepatectomy if the tumor is limited to the right anterior section.*
+
+---
+
+**123. What is one major advantage of an initial laparoscopic resection regarding future reoperations?**
+
+- Reduced risk of tumor recurrence
+- Better visualization during reoperation
+- Enhanced immunologic response
+- **Decreased adhesions, making repeat hepatectomy and liver transplantation easier with less blood loss**
+
+*Explanation: As a consequence of decreased adhesions formed after an initial laparoscopic resection, reoperations such as repeat hepatectomy and liver transplantation can often be performed more easily with less blood loss, reduced transfusion requirements, and reduced operation time.*
+
+---
+
+**124. Which study by Ciria et al. (systematic review and meta-analysis) concluded about laparoscopic liver resection for HCC with Child-Pugh A cirrhosis?**
+
+- Inferior short-term outcomes but better long-term survival
+- Similar short-term and long-term outcomes to open surgery
+- **Improved short-term outcomes with comparable long-term outcomes (5-year overall and disease-free survival)**
+- Better long-term outcomes but similar short-term morbidity
+
+*Explanation: Ciria et al. reported that laparoscopic liver resection for HCC is feasible and offers improved short-term outcomes for patients with Child-Pugh A cirrhosis, solitary tumors, and minor resections, with comparable long-term outcomes as the open approach.*
+
+---
+
+**125. What does laparoscopic 3D video equipment offer compared to 2D equipment, according to Kawai et al.?**
+
+- Reduced blood loss and complications
+- Longer operative time but fewer complications
+- Improved oncologic outcomes
+- **Shorter total operative time and right hepatic pedicle dissection time**
+
+*Explanation: Kawai et al. reported that total operative time and right hepatic pedicle dissection time was significantly shorter in the 3D group among 75 consecutive laparoscopic right hepatectomy cases.*
+
+---
+
+**126. What is a key risk of temporarily increasing pneumoperitoneum pressure to control venous bleeding?**
+
+- Hypothermia
+- Decreased visualization
+- Bowel ischemia
+- **Increased risk of gas embolism**
+
+*Explanation: Some authors recommend temporarily increasing pneumoperitoneum up to 15 mm Hg or higher in case of bleeding. This may help with controlling venous bleeding but may increase the risk of gas embolism.*
+
+---
+
+**127. Why is the risk of clinically relevant gas embolism relatively low during CO2 pneumoperitoneum?**
+
+- Because CO2 is administered at low pressure
+- Because CO2 is filtered by the liver
+- **Because of the high solubility of CO2**
+- Because laparoscopic procedures are short in duration
+
+*Explanation: Because of high solubility of CO2, the risk of clinically relevant gas embolism is low, but surgeons and anesthesiologists should remain vigilant, especially in the context of low CVP.*
+
+---
+
+**128. The intracorporeal Pringle maneuver tape is passed through which structure to serve as a tourniquet?**
+
+- A laparoscopic clip applier
+- A trocar port
+- **A short rubber tube**
+- The umbilical port
+
+*Explanation: The tape is then extracorporeally inserted through a short rubber tube to serve as a tourniquet, and it is returned to the abdomen (intracorporeal Pringle maneuver).*
+
+---
+
+**129. What is a main disadvantage of using laparoscopic liver surgery compared with open surgery?**
+
+- Higher morbidity rates
+- Inferior oncologic outcomes
+- Worse surgical margins
+- **Longer operating time**
+
+*Explanation: Multiple studies have consistently shown that the disadvantage of laparoscopy was the longer operating time, while other outcomes including blood loss, LOS, and morbidity are improved.*
+
+---
+
+**130. What does meta-analysis evidence show about surgical margins and long-term survival in laparoscopic versus open liver resection?**
+
+- Laparoscopic resection achieves superior margins
+- Open resection achieves superior long-term survival
+- Laparoscopic resection has inferior survival outcomes
+- **Surgical margins and long-term survivals are not inferior with the laparoscopic approach**
+
+*Explanation: Meta-analyses of retrospective comparative series have suggested several short-term advantages of the laparoscopic approach, and surgical margins and long-term survivals were not inferior.*
+
+---
+
+**131. In which liver segment does the Rouvière's sulcus serve as a key landmark for the right posterior glissonian pedicle?**
+
+- Segment V
+- Segment VI
+- Segment VIII
+- **Segment VII (right posterior section)**
+
+*Explanation: The Rouvière's sulcus, apparent in 78% of patients, serves as the easily identifiable anatomic landmark because it contains the right posterior pedicle, which supplies segments VI and VII (right posterior section).*
+
+---
+
+**132. How should conversion to laparotomy be viewed according to the chapter's authors?**
+
+- As a failure that should be avoided at all costs
+- As a rare occurrence in experienced hands only
+- As an emergency-only procedure
+- **Not as a failure; it should be performed without hesitation when a patient's well-being is at risk**
+
+*Explanation: Conversion should not be considered a failure and should be performed without hesitation when a patient's well-being is at risk. Early elective conversion leads to better outcomes than emergency conversion.*
+
+---
+
+**133. Which statement is correct about patients who require intraoperative conversion to open surgery?**
+
+- Elective and emergency conversions have similar outcomes
+- Emergency conversions have better outcomes than elective ones
+- **Patients with elective conversion had better outcomes than those with emergency conversion**
+- Conversion always leads to worse mortality regardless of indication
+
+*Explanation: Halls et al. reported that patients who had an elective conversion for an unfavorable intraoperative finding had better outcomes than patients who had an emergency conversion secondary to an unfavorable intraoperative event.*
+
+---
+
+**134. According to the chapter, what is the laparoscopic approach's role in multidisciplinary treatment of liver cancers?**
+
+- It is currently limited to benign lesions only
+- It is replacing open liver surgery entirely
+- It is limited to palliative procedures
+- **It is likely to play an increasing role in the multidisciplinary approach to primary and secondary liver cancers**
+
+*Explanation: The chapter concludes that laparoscopic liver surgery is an expanding and exciting field and is likely to play an increasing role in the multidisciplinary approach to primary and secondary liver cancers.*
+
+---
+
+**135. What is the primary role of laparoscopic ultrasonography during laparoscopic liver resection?**
+
+- To measure blood loss
+- To guide biopsy
+- To confirm diagnosis
+- **It is crucial for liver anatomy knowledge and accurate resection, requiring both B-mode and Doppler ultrasonography**
+
+*Explanation: Laparoscopic ultrasound is crucial, and a thorough knowledge of liver anatomy and both B-mode and Doppler ultrasonography is mandatory for accurate laparoscopic liver resections.*
+
+---
+
+**136. What is the recommended incision type for gaining access to the peritoneal cavity in patients with liver cirrhosis?**
+
+- Veress needle technique to avoid collaterals
+- Optical trocar technique
+- Hasson cannula at the most lateral site
+- **Open technique, with attention to collateral veins around the umbilicus**
+
+*Explanation: For the patient with liver cirrhosis, special attention should be paid to the collateral veins around the umbilicus, which should be sought on preoperative imaging, with shifting of port placement away from these collaterals when present, using the open technique.*
+
+---
+
+**137. What is the significance of reverse Trendelenburg positioning in all laparoscopic liver resection cases?**
+
+- Reduces pneumoperitoneum requirements
+- Prevents venous air embolism
+- Improves hemostasis
+- **Allows the bowel to drop into the lower abdomen, helping vision and exposure**
+
+*Explanation: In all cases, reverse Trendelenburg position allows the bowel to drop into the lower abdomen and can help vision and exposure during laparoscopic liver resection.*
+
+---
+
+**138. Which surgical principle is paramount in laparoscopic liver resection regarding bleeding?**
+
+- Treatment of bleeding is easier laparoscopically
+- Compression can effectively manage hepatic vein bleeding
+- Suturing is easier in laparoscopy than open surgery
+- **Prevention rather than treatment of bleeding is paramount**
+
+*Explanation: Continuous suction interferes with pneumoperitoneum pressure, and bleeding control by compression or suture is more difficult than in open surgery. Consequently, prevention rather than treatment of bleeding is paramount in laparoscopic surgery.*
+
+---
+
+**139. What should be done if there is concern that an adequate margin cannot be obtained laparoscopically but is feasible by open approach?**
+
+- Perform a wider resection laparoscopically
+- Perform adjuvant ablation instead
+- Accept a positive margin and plan for re-resection
+- **Indicate the open approach**
+
+*Explanation: If there is concern that an adequate margin cannot be obtained laparoscopically, but it is technically feasible by an open approach, the open approach should be indicated, as principles of oncologic resection are essential.*
+
+---
+
+**140. What is the recommended approach for resection of incidental, asymptomatic benign lesions (cysts, hemangiomas, focal nodular hyperplasia)?**
+
+- Laparoscopic resection since it has low morbidity
+- Watchful waiting with annual imaging
+- Percutaneous ablation
+- **The laparoscopic approach should NOT be used to resect these lesions**
+
+*Explanation: The laparoscopic approach should not be used to resect incidental, asymptomatic lesions convincingly recognized by patient history, imaging, and tumor markers to be benign and without harmful potential, including cysts, hemangiomas, and focal nodular hyperplasia.*
+
+---
+
+**141. Under what condition should laparoscopic resection NOT be performed for diagnostic purposes?**
+
+- When the lesion is greater than 5 cm
+- When the lesion is in segment VII
+- When HCC is suspected
+- **When lesions are safely amenable to percutaneous biopsy**
+
+*Explanation: Laparoscopic resection should not be performed for the purpose of diagnosis when lesions are safely amenable to percutaneous biopsy.*
+
+---
+
+**142. In a meta-analysis comparing laparoscopic and open hepatectomy by Hong et al., what was a significant finding regarding intraoperative blood loss in right hepatectomy?**
+
+- No significant difference in blood loss
+- Open surgery had lower blood loss
+- Both groups had equivalent blood loss
+- **Intraoperative blood loss was significantly lower in the laparoscopic group**
+
+*Explanation: In the meta-analysis by Hong et al. comparing clinical outcomes of laparoscopic versus open right hepatectomy for liver tumors, intraoperative blood loss was significantly lower and LOS was shorter in the laparoscopic group.*
+
+---
+
+**143. Tozzi et al. compared laparoscopic versus open major hepatectomy using propensity score matching and found what regarding complication rates?**
+
+- Laparoscopic had higher complication rates
+- Open surgery had lower complication rates
+- Laparoscopic had superior complication rates
+- **Similar complication rates with shorter LOS and diminished postoperative pain with laparoscopic approach**
+
+*Explanation: Tozzi et al. concluded that laparoscopic major hepatectomies are safe and feasible procedures allowing a similar complication rate with a shorter LOS and diminished postoperative pain with respect to the standard approach.*
+
+---
+
+**144. What does the chapter state about the advantages of laparoscopy related to the abdominal wall?**
+
+- It weakens the abdominal wall musculature
+- It leads to more frequent incisional hernias
+- It increases abdominal wall pain
+- **Better cosmesis and improved maintenance of the sensorimotor integrity of the abdominal wall**
+
+*Explanation: Additional benefits of laparoscopy include better cosmesis and improved maintenance of the sensorimotor integrity of the abdominal wall.*
+
+---
+
+**145. What is the key finding regarding disease-free survival in Takahara et al.'s multi-institutional Japanese study comparing laparoscopic versus open liver resection for HCC?**
+
+- Laparoscopic resection had superior disease-free survival
+- Open resection had superior disease-free survival
+- Laparoscopic resection had inferior disease-free survival
+- **No significant differences in overall survival and disease-free survival between laparoscopic and open liver resection**
+
+*Explanation: Takahara et al. showed that there were no significant differences in overall survival and disease-free survival between laparoscopic and open liver resection for HCC.*
+
+---
+
+**146. What is the role of 3D reconstructions in preoperative planning for laparoscopic liver resection?**
+
+- They are only useful for open liver surgery
+- They are mandatory for all cases
+- They replace intraoperative ultrasonography
+- **They are very useful for understanding hepatic arterial, portal, and venous vascular anatomy**
+
+*Explanation: High-quality imaging with vascular reconstruction is necessary to understand a patient's hepatic arterial, portal, and venous vascular anatomy. Three-dimensional (3D) reconstructions are also very useful in that setting.*
+
+---
+
+**147. According to the chapter, why does laparoscopy seem to offer protection from postoperative decompensation in cirrhotic patients?**
+
+- Higher intraoperative fluid administration
+- Better portal flow preservation
+- Use of vasoconstrictors during surgery
+- **Less fluid requirement, avoidance of long incisions with muscle division, better collateral preservation, less manipulation**
+
+*Explanation: Reasons for protection from postoperative decompensation may include less fluid requirement, avoidance of long abdominal incisions with muscle division, better collateral preservation, less manipulation, and less respiratory impairment.*
+
+---
+
+**148. What does the chapter state about evidence supporting the real benefits of laparoscopy given that hepatic studies are largely nonrandomized?**
+
+- The benefits remain unproven
+- Only the OSLO-COMET trial confirms the benefits
+- Expert opinion alone supports laparoscopy
+- **These benefits can be inferred from the colorectal and bariatric literature**
+
+*Explanation: Despite favorable results from mostly nonrandomized studies, it can be inferred from the colorectal and bariatric literature that these benefits are real.*
+
+---
+
+**149. Regarding the comparison of laparoscopic versus open right hepatectomy in Yoh et al., which outcomes were significantly lower in the laparoscopic group?**
+
+- Operative time, blood loss, and complications
+- **Perioperative blood loss, transfusion rates, pulmonary complications, and hospital LOS**
+- Only operative time and LOS
+- Overall survival and disease-free survival
+
+*Explanation: Yoh et al. found that perioperative blood loss and transfusion rates, overall and symptomatic pulmonary complication rates, and hospital LOS were significantly lower in the laparoscopic group, but operation time was significantly longer.*
+
+---
+
+**150. What is the role of high-quality imaging for preoperative planning specifically mentioned for laparoscopic liver resection?**
+
+- It is needed only for major hepatectomies
+- It is used to plan chemotherapy
+- It is used to determine anesthetic approach
+- **Review of recent MRI, CT, and angiography is essential for planning the operation**
+
+*Explanation: Review of recent magnetic resonance imaging (MRI), computed tomography (CT), and angiography is essential for planning the operation, along with 3D reconstructions for understanding vascular anatomy.*
+
+---
+
+**151. Which statement describes Guro et al.'s comparison of major laparoscopic versus open liver resection for HCC?**
+
+- Laparoscopic resection had lower 5-year survival
+- Open resection had better disease-free survival
+- Laparoscopic resection had improved 5-year survival
+- **The 5-year overall survival rate and 5-year disease-free survival rate were similar in both groups**
+
+*Explanation: Guro et al. compared the surgical outcomes of major laparoscopic liver resection (67 patients) and open liver resection (110 patients) for HCC; the 5-year overall survival rate and the 5-year disease-free survival rate were similar in both groups.*
+
+---
+
+**152. Which of the following approaches does the chapter recommend for tumor-bearing liver parenchyma with laparoscopy?**
+
+- Aggressive mobilization before vascular control
+- Complete mobilization before any dissection
+- Early vascular control before any dissection
+- **Parenchymal-sparing procedures to anticipate future repeat operative needs**
+
+*Explanation: As such, parenchyma-sparing procedures should be promoted in anticipation of repeat operative needs, particularly for HCC as a bridge to future transplantation.*
+
+---
+
+**153. What does the chapter recommend regarding lesions that would require a more extensive laparoscopic resection than necessary compared to open surgery?**
+
+- Accept the more extensive resection for better laparoscopic access
+- Convert to hand-assisted technique
+- Use ablation instead
+- **A more extensive resection by laparoscopic approach than would otherwise be necessary through open approach should be avoided**
+
+*Explanation: For each patient, the surgeon must weigh the risks and benefits. A more extensive resection by laparoscopic approach than would otherwise be necessary through an open approach should be avoided.*
+
+---
+
+**154. What happens to the proportion of laparoscopic resections for malignant tumors at the authors' center over time?**
+
+- It decreases gradually
+- It remains stable
+- It varies unpredictably
+- **It continues to increase gradually**
+
+*Explanation: The percentage of resections for benign lesions has remained stable over the authors' experience, whereas the percentage of resections for malignant tumors continues to increase gradually.*
+
+---
+
+**155. What is the advantage of using a gas-tight hand port in hand-assisted laparoscopy?**
+
+- It eliminates the need for pneumoperitoneum
+- It reduces operative time significantly
+- It improves oncologic outcomes
+- **It allows the incision to later be used for specimen extraction and provides quick access in case of bleeding**
+
+*Explanation: A gas-tight hand port is placed and the incision is later used for extraction of the specimen. Some experts suggest introducing the hand port in advance at the site of the future extraction so that in case of bleeding, the surgeon can put a hand inside to fix the problem without delay.*
+
+---
+
+**156. Transthoracic trocars at the right lateral intercostal space are proposed for which specific surgical situation?**
+
+- General visualization of the liver
+- Left lateral sectionectomy
+- Segment V resection
+- **Manipulation of the liver dome area, especially the junction of the right hepatic vein and IVC**
+
+*Explanation: Transthoracic trocars at the right lateral intercostal space are proposed by some surgeons for manipulation of the liver dome area, especially the junction of right hepatic vein and inferior vena cava (IVC).*
+
+---
+
+**157. What is the concern regarding parenchymal transection with repeated application of linear staplers?**
+
+- It is too slow a technique
+- It requires too many staplers
+- It damages the bile ducts
+- **Although quicker, it lacks precision and may lead to severe bleeding; blind application is risky**
+
+*Explanation: Some surgeons perform parenchymal transection with repeated application of linear staplers, but the authors do not favor this technique, which although quicker, lacks precision and may lead to severe bleeding. Meticulous parenchymal dissection to completely visualize intrahepatic vessels and bile ducts is preferred.*
+
+---
+
+**158. What is an important precaution before stapling the right or left portal vein branch near the bifurcation?**
+
+- Confirming tumor margins
+- Checking liver function
+- Performing intraoperative cholangiography
+- **Confirming flow to the opposite pedicle for safety**
+
+*Explanation: Before stapling the right or left portal vein branch near the bifurcation, flow to the opposite pedicle should be confirmed for safety.*
+
+---
+
+**159. What is the recommended size for the extraction incision during laparoscopic liver resection?**
+
+- Smaller than the specimen to reduce wound complications
+- Standard 5 cm regardless of specimen size
+- As small as possible for best cosmesis
+- **Should fit the size of the specimen to allow easy extraction and avoid rupture of the protective bag**
+
+*Explanation: The extraction incision should fit the size of the specimen to retrieve. It should not be underestimated, so as to allow easy extraction and avoid rupture of the protective bag.*
+
+---
+
+**160. What is performed after specimen extraction to ensure complete hemostasis and biliostasis?**
+
+- Application of fibrin glue to the raw liver surface
+- Placement of an omental patch
+- Irrigation with antibiotics
+- **The abdomen is reinsufflated and the operative site is lavaged and examined for hemostasis and possible bile leak**
+
+*Explanation: After the extraction incision is closed, the pneumoperitoneum is reintroduced, and the operative site is lavaged and examined for hemostasis and possible bile leak.*
+
+---
+
+**161. When performing laparoscopic right posterior sectionectomy, what is done with the patient position during the peritoneum division step?**
+
+- Patient remains in supine position throughout
+- Patient is placed in full right lateral decubitus
+- Patient is placed in prone position
+- **A forced left lateral position is adopted by turning the table to a full left tilt**
+
+*Explanation: At this stage (after dividing the upper part of the falciform ligament and peritoneum), a forced left lateral position is adopted by turning the table to a full left tilt. By doing this, the trocars on the right side become anterior.*
+
+---
+
+**162. In laparoscopic right posterior sectionectomy, what structure is divided to offer excellent visualization of the right hepatic vein?**
+
+- Right triangular ligament
+- Hepatocaval ligament
+- Coronary ligament
+- **Cavo-caval ligament**
+
+*Explanation: The cavo-caval ligament is divided during laparoscopic right posterior sectionectomy, thus offering excellent visualization and exposition of the right hepatic vein.*
+
+---
+
+**163. In Nitta et al.'s study comparing early versus late laparoscopic-assisted major liver resections using the hanging technique, what improvements were seen in the later group?**
+
+- Only reduced operative time
+- Only reduced complications
+- **Decreased estimated blood loss, shorter LOS, and no difference in complications**
+- Improved oncologic outcomes
+
+*Explanation: Nitta et al. compared outcomes between the first 21 and second 21 cases of laparoscopic-assisted major liver resections using the hanging technique and found a decrease in estimated blood loss, shorter LOS, and no difference in complications.*
+
+---
+
+**164. What percentage of laparoscopic liver resections used less common techniques such as a thoracoscopic approach, according to Nguyen and colleagues?**
+
+- 0%
+- 1%
+- **2%**
+- 5%
+
+*Explanation: According to the international review by Nguyen and colleagues, the remaining 2% used less common techniques, such as a thoracoscopic approach.*
+
+---
+
+**165. According to the authors, what is the role of intraoperative laparoscopic ultrasonography for middle hepatic vein in right hepatectomy?**
+
+- It is optional and used only when anatomy is unclear
+- It confirms tumor-free margins
+- It guides the Pringle maneuver
+- **It ensures the middle hepatic vein is completely avoided during parenchymal transection**
+
+*Explanation: Laparoscopic ultrasonography ensures that the middle hepatic vein is completely avoided during right hepatectomy, as damage to the middle hepatic vein because of deviation is a major concern.*
+
+---
+
+**166. According to the chapter, which statement is correct about 3D laparoscopy in hepatic surgery based on current evidence?**
+
+- It has been proven to improve outcomes in RCTs
+- It has no advantage over 2D laparoscopy
+- It is standard of care in all major centers
+- **It has not yet been shown to improve outcomes in prospective RCTs, but supporters report enhanced vision quality**
+
+*Explanation: Although it has not yet been shown to improve outcomes in prospective RCTs, its supporters report enhanced quality of vision and suturing, recognition of dissection plane, and liver parenchymal transection.*
+
+---
+
+**167. According to the chapter, what factor is stated to improve operative safety and postoperative morbidity in laparoscopic hepatic surgery?**
+
+- Use of robotics
+- Use of 3D laparoscopy
+- Improved stapler technology
+- **Experience**
+
+*Explanation: Studies have consistently demonstrated that operative safety and postoperative morbidity improve with experience. The learning curve shows significant reductions in operative time, blood loss, conversion rates, and morbidity over time.*
+
+---
+
+**168. What is the Cantlie's line referenced during parenchymal transection in left hepatectomy?**
+
+- The line between segment II and III
+- The line along the falciform ligament
+- The line between segment VI and VII
+- **The line of demarcation between left and right liver (intersecting the gallbladder and IVC fossae)**
+
+*Explanation: The inflow occlusion of the left liver delimits the plane that intersects the gallbladder and IVC fossae, known as the midplane of the liver (Cantlie's line), along which parenchymal transection is performed.*
+
+---
+
+**169. According to the chapter, what is the minimum required to have an adequate backup supply for laparoscopic liver surgery equipment?**
+
+- A second operating room on standby
+- A robotic backup system
+- Immediate access to open instruments only
+- **Adequate backup cameras, monitors, insufflators, electrical generators, cables, tubings, laparoscopic instruments, and open instruments for conversion**
+
+*Explanation: The center should have an adequate backup supply of cameras, monitors, insufflators, electrical surgery generators, cables, tubings, and laparoscopic instruments. A set of conventional instruments for open surgery should be readily available in case of need for conversion.*
+
+---
+
+**170. What is the overall conclusion of Chapter 127E regarding laparoscopic major and complex liver resection?**
+
+- It remains experimental and should only be done in research settings
+- It should replace open surgery for all liver tumors
+- It is only appropriate for benign liver disease
+- **It is safe and feasible for select patients in experienced hands, offering perioperative benefits with equivalent oncologic outcomes and requiring high levels of expertise**
+
+*Explanation: The chapter concludes that laparoscopic liver resection is a safe and feasible procedure for select patients when performed by appropriately trained surgeons. In well-selected patients, it offers considerable perioperative benefits compared with open hepatectomy, with equivalent oncologic outcomes. Laparoscopic major and complex hepatectomies require high levels of expertise.*

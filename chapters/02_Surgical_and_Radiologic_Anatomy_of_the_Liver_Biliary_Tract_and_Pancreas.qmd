@@ -1,0 +1,1881 @@
+# 02 Surgical and Radiologic Anatomy of the Liver, Biliary Tract, and Pancreas
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+Generated with Claude.
+
+
+**1. Where does most of the liver bulk lie in relation to the midline?**
+
+- To the left of the midline
+- **To the right of the midline**
+- Equally on both sides
+- Centrally behind the sternum
+
+*Explanation: Most of the liver bulk lies to the right of the midline, where the lower border lies near the right costal margin. The liver extends as a wedge to the left of the midline.*
+
+---
+
+**2. To which intercostal space does the surface projection of the upper surface of the liver extend on the right side?**
+
+- Second intercostal space
+- Third intercostal space
+- **Fourth intercostal space**
+- Sixth intercostal space
+
+*Explanation: The surface projection of the liver on the anterior body wall extends up to the fourth intercostal space on the right and to the fifth intercostal space on the left.*
+
+---
+
+**3. On which surface of the liver is peritoneum absent, forming the "bare area"?**
+
+- Anterior surface
+- Inferior surface
+- **Posterior surface**
+- Superior surface
+
+*Explanation: The liver is invested with peritoneum except on the posterior surface, where the peritoneum reflects onto the diaphragm, forming the right and left triangular ligaments. The posterior surface of the liver between the upper and lower "leaves" of the triangular ligaments is bare and devoid of peritoneum.*
+
+---
+
+**4. What structure lies beneath the peritoneal reflection on the right posterior liver from the medial aspect of Gerota's fascia?**
+
+- Right kidney
+- **Right adrenal gland**
+- Right renal vein
+- Inferior vena cava
+
+*Explanation: The peritoneum reflects onto the right posterior liver from the medial aspect of Gerota's fascia, which is associated with the right kidney. The right adrenal gland lies beneath this reflection.*
+
+---
+
+**5. What is the relationship of the IVC to the aorta as it courses upward?**
+
+- Runs to the left of the aorta
+- **Runs to the right of the aorta, diverging from it as it passes upward**
+- Runs anterior to the aorta
+- Runs parallel and lateral to the aorta without divergence
+
+*Explanation: The IVC runs to the right of the aorta on the bodies of the lumbar vertebrae, diverging from the aorta as it passes upward.*
+
+---
+
+**6. At what vertebral level does the IVC pierce the central tendon of the diaphragm?**
+
+- T6
+- T7
+- **T8**
+- T10
+
+*Explanation: The IVC extends to the central tendon of the diaphragm, which it pierces on a level with the body of T8, behind and higher than the beginning of the abdominal aorta.*
+
+---
+
+**7. Which structure separates the IVC from the right crus of the diaphragm as it courses upward?**
+
+- Left celiac ganglion
+- Left phrenic artery
+- **Right celiac ganglion and right phrenic artery**
+- Right adrenal vein
+
+*Explanation: While the IVC courses upward, it is separated from the right crus of the diaphragm by the right celiac ganglion and, higher up, by the right phrenic artery.*
+
+---
+
+**8. Where does the right adrenal vein enter the IVC?**
+
+- Anterior to the bare area
+- **Behind the bare area**
+- Below the renal veins
+- At the level of L2
+
+*Explanation: The right adrenal vein is a short vessel that enters the IVC behind the bare area.*
+
+---
+
+**9. Which hepatic vein is the largest?**
+
+- Left hepatic vein
+- Middle hepatic vein
+- **Right hepatic vein**
+- Umbilical vein
+
+*Explanation: The right hepatic vein, which is larger than the left and middle hepatic veins, has a short extrahepatic course of approximately 1 to 2 cm.*
+
+---
+
+**10. What is the approximate extrahepatic course length of the right hepatic vein?**
+
+- 0.5 cm
+- **1 to 2 cm**
+- 3 to 4 cm
+- 5 cm
+
+*Explanation: The right hepatic vein has a short extrahepatic course of approximately 1 to 2 cm.*
+
+---
+
+**11. How long is the common venous channel typically formed by the joined left and middle hepatic veins?**
+
+- 0.5 cm
+- 1 cm
+- **Approximately 2 cm**
+- 4 cm
+
+*Explanation: The left and middle hepatic veins are usually joined, after a short extrahepatic course, to form a common venous channel approximately 2 cm in length that traverses to the left part of the anterior surface of the IVC below the diaphragm.*
+
+---
+
+**12. Into which structure does the umbilical vein (not the fetal umbilical vein) typically empty?**
+
+- Middle hepatic vein
+- Directly into the IVC
+- **Terminal portion of the left hepatic vein**
+- Right hepatic vein
+
+*Explanation: The umbilical vein runs beneath the falciform ligament between the middle and left hepatic veins; it empties into the terminal portion of the left hepatic vein, although rarely it drains into the middle hepatic vein or directly into the confluence.*
+
+---
+
+**13. In approximately what percentage of patients is an accessory right hepatic vein present inferiorly?**
+
+- 5%
+- 10%
+- **15%**
+- 25%
+
+*Explanation: In approximately 15% of patients, an accessory right hepatic vein is present inferiorly.*
+
+---
+
+**14. Which segment of the liver has its hepatic venous drainage directly into the IVC?**
+
+- Segment IV
+- Segment VII
+- Segment VIII
+- **Caudate lobe (Segment I)**
+
+*Explanation: Hepatic venous drainage of the caudate lobe is directly into the IVC, making it unique among all hepatic segments.*
+
+---
+
+**15. Who described the functional anatomy of the liver based on internal segments and scissurae in 1957?**
+
+- Bismuth
+- Healey and Schroy
+- Goldsmith and Woodburne
+- **Couinaud**
+
+*Explanation: The internal architecture of the liver composed of a series of segments separated by scissurae containing the hepatic veins was described by Couinaud in 1957.*
+
+---
+
+**16. How many sectors does the liver contain according to Couinaud's nomenclature, as divided by the three main hepatic veins?**
+
+- Two
+- Three
+- **Four**
+- Eight
+
+*Explanation: The three main hepatic veins within the scissurae divide the liver into four sectors, each of which receives a portal pedicle.*
+
+---
+
+**17. What structure runs within the main portal scissura?**
+
+- Right hepatic vein
+- Left hepatic vein
+- **Middle hepatic vein**
+- Portal vein
+
+*Explanation: The main portal scissura contains the middle hepatic vein and progresses from the middle of the gallbladder bed anteriorly to the left of the vena cava posteriorly.*
+
+---
+
+**18. What is "Cantlie's line"?**
+
+- The line of the right portal scissura
+- The left portal scissura within the umbilical fissure
+- **The main portal scissura dividing the right and left liver**
+- The line of the left triangular ligament
+
+*Explanation: The internal architecture of the liver consists of two hemilivers, the right and the left liver, separated by the main portal scissura, also known as Cantlie's line.*
+
+---
+
+**19. In Couinaud's nomenclature, what are the subdivisions of the liver produced by the portal scissurae called?**
+
+- Segments
+- Sections
+- Subsegments
+- **Sectors**
+
+*Explanation: In Couinaud's nomenclature (1957), the four subdivisions are termed sectors, whereas in the description by Goldsmith and Woodburne (1957) they are referred to as segments.*
+
+---
+
+**20. According to Brisbane 2000 terminology, what are Couinaud's sectors now referred to as?**
+
+- Lobes
+- Segments
+- **Sections**
+- Subsegments
+
+*Explanation: The main difference in the Brisbane 2000 alternative terminology is that Couinaud's sectors are now referred to as sections.*
+
+---
+
+**21. Which segments constitute the right hemiliver according to Brisbane terminology?**
+
+- Segments 1–4
+- Segments 2–4
+- Segments 2–8
+- **Segments 5–8**
+
+*Explanation: According to Brisbane terminology, the right hemiliver/right liver corresponds to Couinaud segments 5–8, and the surgical resection is termed right hepatectomy.*
+
+---
+
+**22. Which segments constitute the left hemiliver according to Brisbane terminology?**
+
+- Segments 1–3
+- **Segments 2–4**
+- Segments 5–8
+- Segments 1–4
+
+*Explanation: According to Brisbane terminology, the left hemiliver/left liver corresponds to Couinaud segments 2–4, and the surgical resection is termed left hepatectomy.*
+
+---
+
+**23. Which Couinaud segments make up the right anterior section?**
+
+- Segments 6 and 7
+- Segments 2 and 3
+- **Segments 5 and 8**
+- Segments 4a and 4b
+
+*Explanation: According to Brisbane terminology, the right anterior section is composed of Couinaud segments 5 and 8, and the surgical resection is termed right anterior sectionectomy.*
+
+---
+
+**24. Which Couinaud segments make up the right posterior section?**
+
+- Segments 5 and 8
+- **Segments 6 and 7**
+- Segments 2 and 3
+- Segments 1 and 4
+
+*Explanation: According to Brisbane terminology, the right posterior section is composed of Couinaud segments 6 and 7, and the surgical resection is termed right posterior sectionectomy.*
+
+---
+
+**25. Which Couinaud segment constitutes the left medial section?**
+
+- Segment II
+- Segment III
+- Segments II and III
+- **Segment IV**
+
+*Explanation: The left medial section in the Strasberg (2005) terminology is composed of one segment — segment IV.*
+
+---
+
+**26. Which segments constitute the left lateral section according to Brisbane terminology?**
+
+- Segments IV and III
+- Segments I and II
+- **Segments II and III**
+- Segments V and VI
+
+*Explanation: The left lateral section corresponds to Couinaud segments 2 and 3, and the surgical resection is termed left lateral sectionectomy or bisectionectomy 2,3.*
+
+---
+
+**27. Which segments are resected in a right trisectionectomy (extended right hepatectomy)?**
+
+- Segments 1, 2, 3, 4
+- Segments 5, 6, 7, 8
+- Segments 2, 3, 4, 5, 8
+- **Segments 4, 5, 6, 7, 8**
+
+*Explanation: A right trisectionectomy (extended right hepatectomy) involves resection of segments 4, 5, 6, 7, and 8.*
+
+---
+
+**28. Which segments are removed in a left trisectionectomy (extended left hepatectomy)?**
+
+- Segments 4, 5, 6, 7, 8
+- Segments 1, 2, 3, 4
+- **Segments 2, 3, 4, 5, 8**
+- Segments 1, 2, 3, 4, 5
+
+*Explanation: A left trisectionectomy (extended left hepatectomy) involves resection of segments 2, 3, 4, 5, and 8.*
+
+---
+
+**29. What is the approximate length of the right portal triad's extrahepatic course before entering the right liver substance?**
+
+- 0.5 cm
+- **1 to 1.5 cm**
+- 2 to 3 cm
+- 4 to 5 cm
+
+*Explanation: At the hilum of the liver, the right portal triad pursues a short course of approximately 1 to 1.5 cm before entering the substance of the right liver.*
+
+---
+
+**30. How far does the left portal triad cross beneath segment IV before entering the umbilical fissure?**
+
+- 1 to 2 cm
+- **3 to 4 cm**
+- 5 to 6 cm
+- 7 to 8 cm
+
+*Explanation: On the left side, the portal triad crosses over approximately 3 to 4 cm beneath segment IV (formerly called the quadrate lobe), embraced in a peritoneal sheath at the upper end of the gastrohepatic ligament.*
+
+---
+
+**31. What connective tissue separates the left portal pedicle from the undersurface of segment IV?**
+
+- Glisson capsule
+- Falciform ligament
+- **Hilar plate**
+- Lesser omentum
+
+*Explanation: The left portal triad crosses beneath segment IV, separated from the undersurface of segment IV by connective tissue known as the hilar plate.*
+
+---
+
+**32. In what order does the left portal pedicle give branches as it turns anteriorly and caudally within the umbilical fissure?**
+
+- Segment III first, then segment II, then segment IV
+- Segment IV first, then segment III, then segment II
+- **Segment II first, then segment III, then recurrent branches to segment IV**
+- Segment IV first, then segment II, then segment III
+
+*Explanation: The prolongation of the left portal pedicle turns anteriorly and caudally within the umbilical fissure, giving branches of supply to segment II first and then segment III and recurrent branches ("feedback vessels") to segment IV.*
+
+---
+
+**33. Which lobe of the liver is the dorsal portion that embraces the retrohepatic IVC?**
+
+- Quadrate lobe
+- Right lobe
+- Left lobe
+- **Caudate lobe (Segment I)**
+
+*Explanation: The caudate or segment I is the dorsal portion of the liver lying posteriorly; it embraces the retrohepatic IVC.*
+
+---
+
+**34. In what percentage of patients does the venal caval ligament contain hepatic tissue rather than fibrous tissue, allowing the caudate to completely encircle the IVC?**
+
+- 10%
+- 25%
+- **Up to 50%**
+- 75%
+
+*Explanation: In up to 50% of patients, the venal caval ligament is replaced by hepatic tissue, in whole or in part, and the caudate may completely encircle the IVC and may contact segment VII on the right side.*
+
+---
+
+**35. In what percentage of cases is the papillary process of the caudate lobe bulky enough to be mistaken for an enlarged lymph node on CT?**
+
+- 10%
+- 15%
+- 20%
+- **27%**
+
+*Explanation: The caudal margin of the caudate lobe can have a papillary projection that is bulky in 27% of cases and can be mistaken for an enlarged lymph node on computed tomography (CT) scan.*
+
+---
+
+**36. What percentage of the caudate lobe's portal venous supply on the right side comes from the right portal vein or bifurcation of the main portal vein?**
+
+- 25%
+- 50%
+- **Predominantly from the right portal vein**
+- Predominantly from the left portal vein
+
+*Explanation: The right portion of the caudate, including the caudate process, predominantly receives portal venous blood from the right portal vein or from the bifurcation of the main portal vein.*
+
+---
+
+**37. Which structure drains segments II, III, and IV of the left liver?**
+
+- Right hepatic duct
+- Common bile duct
+- **Left hepatic duct**
+- Common hepatic duct
+
+*Explanation: The left hepatic duct drains the three segments — II, III, and IV — that constitute the left liver.*
+
+---
+
+**38. What is the course of the left hepatic duct relative to the left branch of the portal vein?**
+
+- Below and in front of the portal vein
+- **Beneath the left liver at the base of segment IV, just above and behind the left branch of the portal vein**
+- Above and to the right of the portal vein
+- Posterior to the portal vein at the hilum
+
+*Explanation: The left hepatic duct traverses beneath the left liver at the base of segment IV, just above and behind the left branch of the portal vein; it crosses the anterior edge of that vein and joins the right hepatic duct to constitute the hepatic ductal confluence.*
+
+---
+
+**39. Which segments are drained by the right hepatic duct?**
+
+- Segments I, II, III, IV
+- Segments II, III, IV, V
+- **Segments V, VI, VII, and VIII**
+- Segments I, V, VI, VII
+
+*Explanation: The right hepatic duct drains segments V, VI, VII, and VIII and arises from the junction of two main sectional duct tributaries.*
+
+---
+
+**40. What is the course of the right posterior sectional duct?**
+
+- Vertical descent
+- **Almost horizontal**
+- Oblique downward and lateral
+- Curved superiorly
+
+*Explanation: The right posterior sectional duct has an almost horizontal course and constitutes the confluence of the ducts of segments VI and VII.*
+
+---
+
+**41. What is the course of the right anterior sectional duct?**
+
+- Almost horizontal
+- Oblique and lateral
+- **Vertical (descending) manner**
+- Curved posteriorly
+
+*Explanation: The right anterior sectional duct descends in a vertical manner and is formed by the confluence of the ducts draining segments V and VIII.*
+
+---
+
+**42. In what percentage of cases does the caudate lobe drain into both the right and left hepatic ducts?**
+
+- 44%
+- 63%
+- **78%**
+- 92%
+
+*Explanation: In 78% of cases, drainage of the caudate lobe is into the right and left hepatic ducts, but in 15%, drainage is by the left hepatic ductal system only, and in about 7%, the drainage is into the right hepatic system.*
+
+---
+
+**43. In what percentage of individuals does the caudate lobe drain exclusively into the left hepatic ductal system?**
+
+- 5%
+- 7%
+- **15%**
+- 22%
+
+*Explanation: In 15% of cases, drainage of the caudate lobe is by the left hepatic ductal system only.*
+
+---
+
+**44. In what percentage of individuals does the caudate lobe drain exclusively into the right hepatic system?**
+
+- 2%
+- 5%
+- **7%**
+- 15%
+
+*Explanation: In about 7% of cases, the caudate lobe drainage is into the right hepatic system.*
+
+---
+
+**45. In how many parts is the caudate lobe divided, and what are its drainage patterns?**
+
+- Two parts; drainage into right duct only
+- Two parts; drainage into left duct only
+- **Three parts (right, left portions, and caudate process); variable drainage patterns**
+- Four parts; each with independent drainage
+
+*Explanation: The caudate lobe is divided into right and left portions and a caudate process. In 44% of individuals, three separate ducts drain these three parts.*
+
+---
+
+**46. Where does the confluence of the right and left hepatic ducts occur in relation to the portal venous bifurcation?**
+
+- Posterior to the portal venous bifurcation
+- To the left of the portal venous bifurcation
+- Inferior to the portal venous bifurcation
+- **Anterior to the portal venous bifurcation and overlying the origin of the right branch of the portal vein**
+
+*Explanation: The confluence of the right and left hepatic ducts occurs at the right of the hilar fissure of the liver, anterior to the portal venous bifurcation and overlying the origin of the right branch of the portal vein.*
+
+---
+
+**47. Which hepatic duct has the longer extrahepatic course?**
+
+- Right hepatic duct
+- **Left hepatic duct**
+- Both have equal extrahepatic courses
+- Neither has an extrahepatic course
+
+*Explanation: The extrahepatic segment of the right duct is short, but the left duct has a much longer extrahepatic course.*
+
+---
+
+**48. What is the hilar plate composed of?**
+
+- Only Glisson capsule
+- Portal vein and biliary connective tissue only
+- **Fusion of connective tissue enclosing the biliary and vascular elements with the Glisson capsule**
+- Peritoneal folds at the base of segment IV
+
+*Explanation: The biliary confluence is separated from the posterior aspect of segment IVB of the liver by the hilar plate, which is the fusion of connective tissue enclosing the biliary and vascular elements with the Glisson capsule.*
+
+---
+
+**49. What is the approximate mean diameter of the main bile duct?**
+
+- 3 mm
+- 4 mm
+- **6 mm**
+- 10 mm
+
+*Explanation: The main bile duct, the mean diameter of which is approximately 6 mm, is divided into two portions: the common hepatic duct (above the cystic duct) and the common bile duct.*
+
+---
+
+**50. In what percentage of cases does the right branch of the hepatic artery cross the main bile duct anteriorly?**
+
+- 5%
+- 10%
+- **Approximately 20%**
+- 35%
+
+*Explanation: The right branch of the hepatic artery crosses the main bile duct usually posteriorly, although in approximately 20% of cases, it crosses anteriorly.*
+
+---
+
+**51. What are the three boundaries of the triangle of Calot as commonly accepted in surgical practice?**
+
+- Cystic duct, cystic artery, and right hepatic artery
+- Common hepatic duct, right hepatic artery, and gallbladder
+- **Common hepatic duct (left border), cystic duct (lower border), inferior surface of right lobe of liver (upper border)**
+- Common bile duct, cystic duct, and portal vein
+
+*Explanation: The commonly accepted working definition of the triangle of Calot recognizes the inferior surface of the right lobe of the liver as the upper border and the cystic duct as the lower border, with the common hepatic duct forming the left border.*
+
+---
+
+**52. What is the lumen diameter of the cystic duct?**
+
+- 0.5 mm
+- **Approximately 1 to 3 mm**
+- 5 to 6 mm
+- 8 to 10 mm
+
+*Explanation: The cystic duct lumen usually measures approximately 1 to 3 mm, and its length varies depending on the type of union with the common hepatic duct.*
+
+---
+
+**53. What structures form the valves of Heister?**
+
+- Smooth muscle folds in the gallbladder neck
+- Transverse folds in the common bile duct
+- **Spiral mucous folds within the cystic duct**
+- Peritoneal folds at the cystic duct opening
+
+*Explanation: The mucosa of the cystic duct is arranged in spiral folds known as the valves of Heister.*
+
+---
+
+**54. In what percentage of cases does the cystic duct join the common hepatic duct in its supraduodenal segment?**
+
+- 50%
+- 65%
+- **80%**
+- 95%
+
+*Explanation: Although the cystic duct joins the common hepatic duct in its supraduodenal segment in 80% of cases, it may extend downward to the retroduodenal or retropancreatic area.*
+
+---
+
+**55. What is the reported prevalence of the normal biliary confluence (union of right and left hepatic ducts) in patients?**
+
+- 55%
+- 62%
+- **72%**
+- 85%
+
+*Explanation: The constitution of a normal biliary confluence by union of the right and left hepatic ducts is reported in only 72% of patients.*
+
+---
+
+**56. What percentage of individuals have a triple confluence of the right anterior and posterior sectional ducts and the left hepatic duct?**
+
+- 6%
+- **12%**
+- 18%
+- 22%
+
+*Explanation: There is a triple confluence of the right anterior and posterior sectional ducts and the left hepatic duct in 12% of individuals.*
+
+---
+
+**57. In what percentage of patients does a right sectional duct join the main bile duct directly?**
+
+- 10%
+- 15%
+- **20%**
+- 25%
+
+*Explanation: A right sectional duct joins the main bile duct directly in 20% of patients. In 16%, it is the right anterior sectional duct, and in 4%, it is the right posterior sectional duct.*
+
+---
+
+**58. In what percentage of patients is there an absence of the hepatic duct confluence?**
+
+- 1%
+- **3%**
+- 5%
+- 8%
+
+*Explanation: In 3%, there is an absence of the hepatic duct confluence, and the right posterior sectional duct may join the neck of the gallbladder, or it may be entered by the cystic duct in 2%.*
+
+---
+
+**59. In what percentage of cases is there ectopic drainage of segment VIII to an alternative location?**
+
+- 5%
+- 9%
+- 14%
+- **20%**
+
+*Explanation: The main right intrahepatic duct variations include ectopic drainage of segment V in 9%, of segment VI in 14%, and of segment VIII in 20%.*
+
+---
+
+**60. In what percentage of cases is a subvesical duct present?**
+
+- 5–10%
+- 10–15%
+- **20–50%**
+- 60–70%
+
+*Explanation: A subvesical duct has been described in 20% to 50% of cases. This duct, sometimes deeply embedded in the cystic plate, joins either the common hepatic duct or the right hepatic duct.*
+
+---
+
+**61. In what percentage of patients does a classic distribution of the main left intrahepatic biliary ductal system exist?**
+
+- 50%
+- 57%
+- **67%**
+- 78%
+
+*Explanation: In 67% of patients, a classic distribution of the main left intrahepatic biliary ductal system exists.*
+
+---
+
+**62. What is the most common mode of union between the cystic duct and the common hepatic duct?**
+
+- Parallel
+- Spiral
+- **Angular**
+- Perpendicular
+
+*Explanation: An angular union is the most frequent and is found in 75% of patients.*
+
+---
+
+**63. Into how many segments is the bile duct divided for purposes of describing its blood supply?**
+
+- Two
+- **Three (hilar, supraduodenal, retropancreatic)**
+- Four
+- Five
+
+*Explanation: The bile duct may be divided into three segments: hilar, supraduodenal, and retropancreatic.*
+
+---
+
+**64. What is the general pattern of the blood supply of the supraduodenal bile duct?**
+
+- Predominantly from the hepatic artery descending downward
+- Perpendicular from portal vein branches
+- Nonaxial from the main hepatic artery trunk
+- **Essentially axial**
+
+*Explanation: The blood supply of the supraduodenal duct is essentially axial, with most vessels arising from the superior pancreaticoduodenal artery, right branch of the hepatic artery, cystic artery, gastroduodenal artery, and retroduodenal artery.*
+
+---
+
+**65. What are the two most important arterial vessels supplying the supraduodenal bile duct called?**
+
+- 6 o'clock and 12 o'clock arteries
+- **3 o'clock and 9 o'clock arteries**
+- 2 o'clock and 8 o'clock arteries
+- Superior and inferior marginal arteries
+
+*Explanation: The most important vessels run along the lateral and medial borders of the supraduodenal duct and have been called the 3 o'clock and 9 o'clock arteries.*
+
+---
+
+**66. What percentage of arteries vascularizing the supraduodenal duct run upward from major inferior vessels?**
+
+- 38%
+- 50%
+- **60%**
+- 75%
+
+*Explanation: Of the blood vessels vascularizing the supraduodenal duct, 60% run upward from the major inferior vessels, and only 38% of arteries run downward from the right branch of the hepatic artery and other vessels.*
+
+---
+
+**67. What is the source of blood supply to the retropancreatic common bile duct?**
+
+- Gastroduodenal artery
+- Right hepatic artery
+- Superior mesenteric artery
+- **Retroduodenal artery**
+
+*Explanation: The source of blood supply to the retropancreatic CBD is from the retroduodenal artery, which provides multiple small vessels running around the duct to form a mural plexus.*
+
+---
+
+**68. The gallbladder is a reservoir located on the undersurface of which part of the liver?**
+
+- Left lobe
+- Caudate lobe
+- Quadrate lobe
+- **Right lobe**
+
+*Explanation: The gallbladder is a reservoir located on the undersurface of the right lobe of the liver, within the cystic fossa.*
+
+---
+
+**69. What separates the gallbladder from the hepatic parenchyma?**
+
+- Hilar plate
+- Glisson capsule only
+- Peritoneum
+- **Cystic plate**
+
+*Explanation: The gallbladder is separated from the hepatic parenchyma by the cystic plate, which is composed of connective tissue that extends to the left as the hilar plate.*
+
+---
+
+**70. What is the technique of "lowering of the hilar plate"?**
+
+- Dividing the common hepatic duct to expose the right duct
+- Removing segment III to expose biliary ducts
+- **Lifting segment IV upward after incising the Glisson capsule at the inferior border of segment IV to expose the biliary confluence and left hepatic duct**
+- Opening the umbilical fissure to expose segment II ducts
+
+*Explanation: The technique of lowering of the hilar plate is described by Hepp and Couinaud: lifting segment IV upward and incising the Glisson capsule at its base offers good exposure of the hepatic hilar structures including the biliary confluence and left hepatic duct.*
+
+---
+
+**71. In what percentage of cases is there major vascular interposition between the hilar plate and the inferior aspect of the liver, making the lowering of the hilar plate technique hazardous?**
+
+- 5%
+- 3%
+- 2%
+- **1%**
+
+*Explanation: The lowering of the hilar plate technique can be carried out safely because only exceptionally (in 1% of cases) is there any major vascular interposition between the hilar plate and the inferior aspect of the liver, although tiny venules are common.*
+
+---
+
+**72. The classic description of the arterial blood supply of the liver, biliary system, and pancreas is found in what percentage of patients?**
+
+- 40%
+- 50%
+- **Approximately 60%**
+- 75%
+
+*Explanation: The usual classic description of the arterial blood supply of the liver, biliary system, and pancreas is found in only approximately 60% of patients.*
+
+---
+
+**73. From which artery does the celiac trunk divide, giving rise to the left gastric, common hepatic, and splenic arteries?**
+
+- Superior mesenteric artery
+- Inferior mesenteric artery
+- **Aorta**
+- Left renal artery
+
+*Explanation: The celiac trunk is a short, thick artery originating from the aorta just below the aortic hiatus of the diaphragm and extends horizontally and forward above the pancreas, where it divides into the left gastric, common hepatic, and splenic arteries.*
+
+---
+
+**74. What is the continuation of the common hepatic artery beyond the origin of the gastroduodenal and right gastric arteries called?**
+
+- Common hepatic artery
+- **Proper hepatic artery**
+- Left hepatic artery
+- Middle hepatic artery
+
+*Explanation: The continuation of the common hepatic artery, beyond the origin of the gastroduodenal artery and right gastric artery, is known as the proper hepatic artery, which usually soon divides into a right and a left branch.*
+
+---
+
+**75. Which artery supplies segment IV of the liver?**
+
+- Left hepatic artery directly
+- Right hepatic artery
+- **Middle hepatic artery**
+- Gastroduodenal artery
+
+*Explanation: The left branch of the proper hepatic artery usually gives off a branch known as the middle hepatic artery (MH), which is directed toward the right of the umbilical fissure and is destined to supply segment IV of the liver.*
+
+---
+
+**76. In approximately what percentage of individuals does the right hepatic artery arise partially or completely from the superior mesenteric artery?**
+
+- 10%
+- 15%
+- 20%
+- **Approximately 25%**
+
+*Explanation: In approximately 25% of individuals, the right hepatic artery arises partially or completely from the superior mesenteric artery.*
+
+---
+
+**77. When the right hepatic artery arises from the SMA (replaced right hepatic artery), what is its course in the hepatoduodenal ligament?**
+
+- Anterior to the portal vein; medial to the CBD
+- Anterior to the CBD; to the right of the portal vein
+- **Posterior and then lateral to the portal vein; posterolateral to the CBD**
+- Medial to the CBD; anterior to the portal vein
+
+*Explanation: When the hepatic artery is replaced by a common hepatic artery from the SMA, it passes posterior and then lateral to the portal vein while it ascends and lies posterolateral to the CBD in the hepatoduodenal ligament, where it is susceptible to operative injury if not recognized.*
+
+---
+
+**78. In approximately what percentage of patients may the left hepatic artery be partially or completely replaced by a branch arising from the left gastric artery?**
+
+- 10%
+- 15%
+- 20%
+- **Approximately 25%**
+
+*Explanation: In a similar proportion of patients (approximately 25%), the left hepatic artery may be partially or completely replaced by a branch arising from the left gastric artery, coursing through the gastrohepatic omentum to enter the liver at the base of the umbilical fissure.*
+
+---
+
+**79. In what percentage of individuals does an accessory right hepatic artery course upward in the groove posterolateral to the CBD and appear on the medial side of the triangle of Calot?**
+
+- 10%
+- 15%
+- 20%
+- **About 25%**
+
+*Explanation: The accessory right hepatic artery usually courses upward in the groove posterolateral to the CBD, appearing on the medial side of the triangle of Calot, usually running just behind the cystic duct. This common variation occurs in about 25% of individuals.*
+
+---
+
+**80. Where is the portal vein formed?**
+
+- In front of the neck of the pancreas
+- To the right of the duodenum
+- **Behind the neck of the pancreas, by confluence of the superior mesenteric and splenic veins**
+- Behind the head of the pancreas
+
+*Explanation: The portal vein is formed behind the neck of the pancreas by confluence of the superior mesenteric and splenic veins.*
+
+---
+
+**81. Into which vessel do the left gastric vein and inferior mesenteric vein usually drain?**
+
+- Directly into the portal vein
+- Superior mesenteric vein
+- **Splenic vein**
+- Inferior vena cava
+
+*Explanation: The left gastric vein and the inferior mesenteric vein (IMV) usually drain into the splenic vein, but they can drain directly into the portal vein.*
+
+---
+
+**82. Which vessel provides important access to the anterior surface of the portal vein when divided during pancreatic surgery?**
+
+- Right gastric artery
+- Left hepatic artery
+- Splenic artery
+- **Gastroduodenal artery**
+
+*Explanation: Surgical division of the gastroduodenal artery just at its origin from the common hepatic artery gives much greater access to the anterior surface of the portal vein at this site, and this step is necessary to assess tumor involvement of the proximal portal vein.*
+
+---
+
+**83. The portal vein bifurcates into which two branches at the liver hilum?**
+
+- Right anterior and right posterior portal veins
+- Left lateral and left medial portal veins
+- **Larger right portal vein (RPV) and smaller left portal vein (LPV)**
+- Anterior and posterior segmental portal veins
+
+*Explanation: As the portal vein ascends and approaches the hilus of the liver, it bifurcates into two branches: a larger right (RPV) and a smaller left portal vein (LPV).*
+
+---
+
+**84. What does the uncinate process of the pancreas generally extend behind?**
+
+- Inferior vena cava
+- Aorta
+- Splenic vein
+- **Superior mesenteric vein (SMV), adjacent to the SMA**
+
+*Explanation: The uncinate process generally extends behind the SMV to a position adjacent to the SMA.*
+
+---
+
+**85. In which direction does the superior mesenteric artery run relative to the superior mesenteric vein?**
+
+- In front of and to the right of the SMV
+- Behind and to the right of the SMV
+- Behind and to the left of the SMV
+- **In front of and to the left of the SMV**
+
+*Explanation: The superior mesenteric artery (SMA) arises from the aorta posteriorly behind the pancreas and runs forward and upward to run first behind and then to the left of the superior mesenteric vein (SMV).*
+
+---
+
+**86. What is the most common origin of the dorsal pancreatic artery?**
+
+- Common hepatic artery
+- Superior mesenteric artery
+- **Splenic artery**
+- Gastroduodenal artery
+
+*Explanation: The dorsal pancreatic artery is a major branch, usually arising from the splenic artery, but it can arise directly from the hepatic artery.*
+
+---
+
+**87. What structure does the pancreatic head form in front of the superior mesenteric and splenic vein confluence?**
+
+- Body
+- Uncinate process
+- Tail
+- **Neck**
+
+*Explanation: The head of the pancreas forms a narrow neck in front of the superior mesenteric and splenic vein confluence.*
+
+---
+
+**88. What is the duct of Wirsung?**
+
+- An accessory pancreatic duct
+- The biliary duct within the pancreas
+- **The main pancreatic duct running through the body to the head of the pancreas**
+- The duct of Santorini
+
+*Explanation: The duct of Wirsung, beginning in the distal tail as a confluence of small ductules, runs through the body to the head of the pancreas, where it usually passes downward and backward in close juxtaposition to the CBD.*
+
+---
+
+**89. In what percentage of patients does the duct of Wirsung join the CBD within the sphincter segment?**
+
+- 30–40%
+- 50–60%
+- **70–85%**
+- 90–95%
+
+*Explanation: The duct of Wirsung runs downward and parallel to the CBD for approximately 2 cm and joins it within the sphincter segment in 70% to 85% of patients.*
+
+---
+
+**90. What is "pancreas divisum"?**
+
+- Agenesis of the pancreatic head
+- Division of the pancreas by tumor
+- **Separate duct of Santorini and duct of Wirsung that do not communicate**
+- Bifid main pancreatic duct
+
+*Explanation: Rarely, the duct of Santorini and the duct of Wirsung are separate, which is known as pancreas divisum.*
+
+---
+
+**91. What is an annular pancreas?**
+
+- Deficiency of pancreatic tissue around the biliary duct
+- Absence of the pancreatic body
+- Cystic dilatation of the pancreatic duct
+- **Development of a ring of pancreatic tissue that surrounds and often embraces the duodenum**
+
+*Explanation: Annular pancreas is the development of a ring of pancreatic tissue that surrounds and often embraces the duodenum. This ring may contain a large duct and can be firmly affixed to the duodenal musculature.*
+
+---
+
+**92. What procedure is commonly applied to relieve strictures caused by annular pancreas?**
+
+- Pancreaticoduodenectomy
+- Division of the annulus alone
+- Gastrojejunostomy
+- **Duodenojejunostomy**
+
+*Explanation: Dividing the annular ring does not always relieve chronic duodenal obstruction. This accounts for the common process of applying duodenojejunostomy to relieve strictures caused by such an annulus.*
+
+---
+
+**93. What is the primary lymphatic drainage destination for the liver and gallbladder?**
+
+- Celiac nodes only
+- Superior mesenteric nodes
+- Splenic hilar nodes
+- **Nodes in the hepatoduodenal ligament and along the hepatic artery**
+
+*Explanation: The lymphatic drainage of the liver and gallbladder is mainly to nodes in the hepatoduodenal ligament and along the hepatic artery.*
+
+---
+
+**94. What is the nerve supply to the liver and pancreas derived from?**
+
+- Vagus nerve alone
+- Splanchnic nerves only
+- Lumbar plexus
+- **Branches of the celiac ganglion, composed of sympathetic and parasympathetic elements**
+
+*Explanation: The nerve supply to the liver and pancreas is from branches of the celiac ganglion. It is composed of sympathetic and parasympathetic elements.*
+
+---
+
+**95. What is the right portal scissura used to separate?**
+
+- Left liver into two sectors
+- The caudate lobe from the right liver
+- **The right liver into anteromedial (anterior) and posterolateral (posterior) sectors**
+- The right liver from the left liver
+
+*Explanation: The right portal scissura separates the right liver into two sectors: anteromedial (anterior) and posterolateral (posterior). With the body supine, this scissura is almost in the frontal plane.*
+
+---
+
+**96. Which hepatic vein runs within the right portal scissura?**
+
+- Middle hepatic vein
+- Left hepatic vein
+- Accessory right hepatic vein
+- **Right hepatic vein**
+
+*Explanation: The right hepatic vein runs within the right scissura (the right portal scissura).*
+
+---
+
+**97. What is the relationship of the left portal scissura to the umbilical fissure?**
+
+- They are synonymous structures
+- The left portal scissura is anterior to the umbilical fissure
+- The left portal scissura is within the umbilical fissure
+- **The left portal scissura is not within the umbilical fissure because the fissure contains a portal pedicle, not a scissura; the left portal scissura lies posterior to the ligamentum teres along the left hepatic vein**
+
+*Explanation: The left portal scissura divides the left liver into two sectors, but the left portal scissura is not within the umbilical fissure because this fissure is not a portal scissura but instead contains a portal pedicle. The left portal scissura is located posterior to the ligamentum teres and within the left liver, along the course of the left hepatic vein.*
+
+---
+
+**98. According to the summary of liver anatomy, which segment lies posteriorly and embraces the IVC, with its intraparenchymal anterior surface abutting the posterior surface of segment IV?**
+
+- Segment VII
+- Segment VIII
+- Segment VI
+- **Segment I (caudate lobe)**
+
+*Explanation: Segment I, the caudate lobe, lies posteriorly and embraces the IVC, its intraparenchymal anterior surface abutting the posterior surface of segment IV and merging with segments VI and VII on the right.*
+
+---
+
+**99. Bile ducts are usually located in what position relative to the corresponding portal branches within portal triads?**
+
+- Below the portal branches
+- Posterior to the portal branches
+- Anterior to the portal branches
+- **Above the portal branches**
+
+*Explanation: Bile ducts are usually located above the corresponding portal branches, whereas hepatic arterial branches are situated inferiorly to the veins.*
+
+---
+
+**100. The umbilical fissure divides the left liver between which two segments?**
+
+- Segments II and IV
+- Segments I and IV
+- Segments II and III
+- **Segments III and IV**
+
+*Explanation: The umbilical fissure divides the left liver, passing between segments III and IV, which may be bridged by a tongue of liver tissue.*
+
+---
+
+**101. What structure passes through the umbilical fissure to join the left branch of the portal vein?**
+
+- Left hepatic duct
+- Middle hepatic vein
+- Round ligament only
+- **Ligamentum teres**
+
+*Explanation: The ligamentum teres passes through the umbilical fissure to join the left branch of the portal vein.*
+
+---
+
+**102. Which segment's duct is located slightly behind the left horn of the umbilical recess?**
+
+- Segment II
+- Segment IV
+- **Segment III**
+- Segment I
+
+*Explanation: The duct that drains segment III is located slightly behind the left horn of the umbilical recess.*
+
+---
+
+**103. In the right anterior sectional duct, where is its main trunk located relative to the right anterior sectional branch of the portal vein?**
+
+- To the right of the portal vein branch
+- Posterior to the portal vein branch
+- Anterior to the portal vein branch
+- **To the left of the right anterior sectional branch of the portal vein**
+
+*Explanation: The right anterior sectional duct is formed by the confluence of the ducts draining segments V and VIII. Its main trunk is located to the left of the right anterior sectional branch of the portal vein.*
+
+---
+
+**104. The junction of the two main right biliary channels (anterior and posterior sectional ducts) usually occurs in what position relative to the right branch of the portal vein?**
+
+- Below the right branch of the portal vein
+- At the level of the right branch of the portal vein
+- **Above the right branch of the portal vein**
+- Posterior to the right branch of the portal vein
+
+*Explanation: The junction of the two main right biliary channels usually occurs above the right branch of the portal vein. The right hepatic duct is short and joins the left hepatic duct to constitute the confluence lying in front of the right portal vein.*
+
+---
+
+**105. In approximately what percentage of individuals are three separate ducts present draining the three parts of the caudate lobe?**
+
+- 26%
+- 32%
+- **44%**
+- 58%
+
+*Explanation: In 44% of individuals, three separate ducts drain the three parts (right portion, left portion, and caudate process) of the caudate lobe.*
+
+---
+
+**106. What is the round ligament a remnant of?**
+
+- Fetal ductus venosus
+- Fetal portal vein
+- Fetal ductus arteriosus
+- **Obliterated umbilical vein**
+
+*Explanation: The round ligament, which is the remnant of the obliterated umbilical vein, runs through the umbilical fissure to connect with the left branch of the portal vein.*
+
+---
+
+**107. Where are the bile ducts of the left lobe of the liver located relative to the left branch of the portal vein?**
+
+- Below the portal vein
+- Posterior to the portal vein
+- At the same level as the portal vein
+- **Above the left branch of the portal vein**
+
+*Explanation: The bile ducts of the left lobe of the liver are located above the left branch of the portal vein and lie behind the elongations of the portal system.*
+
+---
+
+**108. Which artery is situated below the portal vein within the left liver portal pedicle?**
+
+- Left hepatic duct
+- Umbilical vein
+- **Left hepatic artery (corresponding artery situated below the vein)**
+- Left branch of portal vein
+
+*Explanation: The bile ducts of the left lobe lie above the left branch of the portal vein and behind the elongations, whereas the corresponding artery is situated below the vein.*
+
+---
+
+**109. Which right intrahepatic ductal approach is described where the liver scissura containing the right branch of the portal vein is opened through a short distance to display the anterior sectional duct?**
+
+- Segment III duct bypass
+- Hilar plate lowering
+- **Anterior sectional approach**
+- Segment IV mobilization
+
+*Explanation: In the anterior sectional approach, the end of the liver scissura containing the right branch of the portal vein is opened through a short distance. The anterior sectional duct is displayed on the left aspect of the vein, and the dilated duct is opened longitudinally.*
+
+---
+
+**110. What is the most common variant in the left intrahepatic biliary ductal system?**
+
+- Common union between segment II and III ducts only
+- Independent joining of segment IV duct to common hepatic duct
+- **Common union between the ducts of segments III and IV (25%)**
+- Drainage of segment II directly into common hepatic duct
+
+*Explanation: The main variation in the left intrahepatic biliary ductal system is represented by a common union between the ducts of segments III and IV in 25%, and in only 2% does the duct of segment IV join the common hepatic duct independently.*
+
+---
+
+**111. What portion of the pancreas averages 56.4% of the total weight?**
+
+- The head
+- The body
+- The uncinate process
+- **The portion lateral to the portal vein**
+
+*Explanation: The portion of the pancreas lateral to the portal vein averages 56.4% of the total weight.*
+
+---
+
+**112. Which of the following correctly describes the relationship of the pancreatic tail?**
+
+- It lies adjacent to the right kidney
+- It rests between the aorta and IVC
+- It surrounds the duodenum
+- **It rests in the splenic hilum**
+
+*Explanation: The pancreas is composed of a head, neck, body, and tail. The head is encompassed by the duodenum, whereas the tail rests in the splenic hilum.*
+
+---
+
+**113. What is the relationship of the pancreatic capsule to the mesocolon?**
+
+- Completely separate from the mesocolon
+- Fused only at the uncinate process
+- Contiguous only at the superior border
+- **Contiguous with the anterior layer of the mesocolon such that they can be dissected in continuity**
+
+*Explanation: The pancreatic capsule is loosely attached to the surface of the pancreas and is contiguous with the anterior layer of the mesocolon such that it can be dissected in continuity if necessary.*
+
+---
+
+**114. The papilla of Vater is described as what type of structure?**
+
+- A large, flat mucosal plaque within the duodenum
+- A groove within the second part of the duodenum
+- **A small, nipple-like structure that protrudes into the duodenal lumen, marked by a longitudinal fold of duodenal mucosa**
+- A sphincter visible only by endoscopy
+
+*Explanation: The papilla of Vater at the termination of the CBD is a small, nipple-like structure that protrudes into the duodenal lumen and is marked by a longitudinal fold of duodenal mucosa.*
+
+---
+
+**115. In what percentage of patients does the duct of Wirsung enter the duodenum independently without joining the CBD?**
+
+- 1–3%
+- 5–7%
+- **10–13%**
+- 15–20%
+
+*Explanation: The duct of Wirsung enters the duodenum independently in 10% to 13% of patients.*
+
+---
+
+**116. In what percentage of patients is the duct of Wirsung replaced by the duct of Santorini?**
+
+- 1%
+- **2%**
+- 5%
+- 8%
+
+*Explanation: The duct of Wirsung is replaced by the duct of Santorini in 2% of patients.*
+
+---
+
+**117. The splenic artery is which of the following celiac branches?**
+
+- Smallest of the three celiac branches
+- Medium-sized celiac branch
+- Equal in size to the common hepatic artery
+- **The largest of the three celiac branches**
+
+*Explanation: The splenic artery, the largest of the three celiac branches, takes a tortuous course to the left, behind and along the upper border of the pancreas and at the hilus of the spleen, where it splits into numerous terminal branches.*
+
+---
+
+**118. Where does the common hepatic artery typically course after leaving the celiac axis?**
+
+- Directly posterior to the portal vein
+- To the left, toward the spleen
+- **Forward into the retroperitoneum, then curves right to enter the right margin of the lesser omentum above the pancreas**
+- Directly downward behind the duodenum
+
+*Explanation: The common hepatic artery passes forward into the retroperitoneum, then curves to the right to enter the right margin of the lesser omentum, just above the pancreas, and ascends; it approaches the CBD on its left side and runs usually anterior to the portal vein.*
+
+---
+
+**119. Which artery descends to supply the anterior, superior, and posterior surfaces of the first inch of the duodenum?**
+
+- Superior mesenteric artery
+- Right gastric artery
+- Left gastric artery
+- **Gastroduodenal artery**
+
+*Explanation: The gastroduodenal artery descends to supply the anterior, superior, and posterior surfaces of the first inch of the duodenum. It also may originate from the right hepatic artery.*
+
+---
+
+**120. Which two arteries form arcades along the anterior and posterior aspects of the head of the pancreas?**
+
+- Splenic and hepatic arteries
+- Left gastric and gastroduodenal arteries
+- **Superior and inferior pancreaticoduodenal arteries**
+- Dorsal pancreatic and gastroduodenal arteries
+
+*Explanation: The superior pancreaticoduodenal arteries (SPDAs) arise from the gastroduodenal artery (GDA) and join the inferior pancreaticoduodenal arteries (IPDAs) from the superior mesenteric artery, forming two arcades along the anterior and posterior aspects of the head of the pancreas.*
+
+---
+
+**121. What is the effect of congenital absence of the left portal vein on the right branch?**
+
+- The right branch is also absent
+- No functional consequence
+- The right branch supplies only the right liver
+- **The right branch courses through the right lobe and curves within the liver substance to supply the left lobe, which is usually smaller than normal**
+
+*Explanation: In a congenital absence of the left branch of the portal vein as described by Couinaud, the right branch courses through the right lobe of the liver, supplying it, and curves within the liver substance to supply the left lobe, which in such instances is usually smaller than normal.*
+
+---
+
+**122. Agenesis of the right branch of the portal vein is associated with which finding?**
+
+- Left liver hypoplasia
+- Isolated biliary anomalies only
+- Normal liver anatomy
+- **Agenesis of the right hemiliver and left liver hypertrophy**
+
+*Explanation: Agenesis of the right branch of the portal vein is associated with agenesis of the right hemiliver and left liver hypertrophy, which may also be associated with biliary and hepatic venous anatomic anomalies.*
+
+---
+
+**123. The right gastroepiploic vein most commonly drains into which vessel?**
+
+- Splenic vein
+- Portal vein
+- Inferior mesenteric vein
+- **Anterior surface of the SMV just at the inferior border of the pancreas**
+
+*Explanation: The right gastroepiploic vein commonly drains into the anterior surface of the SMV just at the inferior border of the pancreas; this can often be involved by tumor.*
+
+---
+
+**124. According to the plate system of biliary anatomy, which plate lies above the gallbladder?**
+
+- Hilar plate
+- Umbilical plate
+- **Cystic plate**
+- Glissonian plate
+
+*Explanation: The plate system includes the hilar plate above the biliary confluence, the cystic plate related to the gallbladder (above the gallbladder), and the umbilical plate situated above the umbilical portion of the left portal vein.*
+
+---
+
+**125. Which plate in the biliary anatomy is situated above the umbilical portion of the left portal vein?**
+
+- Cystic plate
+- Hilar plate
+- Glisson's plate
+- **Umbilical plate**
+
+*Explanation: The plate system includes the umbilical plate situated above the umbilical portion of the left portal vein.*
+
+---
+
+**126. The superior mesenteric vein (SMV) at the root of the lesser omentum is usually which of the following?**
+
+- Two separate trunks
+- Three separate trunks
+- **A single trunk (occasionally two or three branches may unite as it enters the tunnel beneath the neck of the pancreas)**
+- Always multiple branches
+
+*Explanation: The superior mesenteric vein at the root of the lesser omentum is usually a single trunk; two, or sometimes even three, branches may unite as the vessel enters the tunnel beneath the neck of the pancreas to form a superior mesenteric trunk.*
+
+---
+
+**127. In what percentage of patients does ectopic drainage of segment VI occur in the right intrahepatic ductal system?**
+
+- 5%
+- 9%
+- **14%**
+- 20%
+
+*Explanation: The main right intrahepatic duct variations include ectopic drainage of segment V in 9%, of segment VI in 14%, and of segment VIII in 20%.*
+
+---
+
+**128. In what percentage of patients does ectopic drainage of segment V occur in the right intrahepatic ductal system?**
+
+- 5%
+- **9%**
+- 14%
+- 20%
+
+*Explanation: The main right intrahepatic duct variations include ectopic drainage of segment V in 9%, of segment VI in 14%, and of segment VIII in 20%.*
+
+---
+
+**129. The anterior sectional duct and its branches run on which side of the corresponding portal vein?**
+
+- Right side
+- Posterior side
+- Anterior side
+- **Left side**
+
+*Explanation: Anatomically, the anterior sectional duct and its branches run on the left side of the corresponding portal vein.*
+
+---
+
+**130. In the normal common arrangement, which vein is formed posterior to the common bile duct and hepatic artery within the lesser omentum?**
+
+- Superior mesenteric vein
+- Splenic vein
+- Coronary vein
+- **Portal vein**
+
+*Explanation: As the portal vein ascends behind the common bile duct and common hepatic duct, it approaches the hilus of the liver, lying behind the bile duct and the hepatic artery within the free edge of the lesser omentum.*
+
+---
+
+**131. In what percentage of patients does a right sectional duct join the left hepatic duct (ectopic drainage)?**
+
+- 3%
+- 4%
+- **6%**
+- 8%
+
+*Explanation: In 6%, a right sectional duct may join the left hepatic duct (the posterior duct in 5% and the anterior duct in 1%).*
+
+---
+
+**132. What does the term "sectors" in Couinaud's nomenclature correspond to in Brisbane 2000 terminology?**
+
+- Lobes
+- Segments
+- Subsegments
+- **Sections**
+
+*Explanation: The main difference in the Brisbane 2000 alternative terminology is that Couinaud's sectors are now referred to as sections.*
+
+---
+
+**133. What is the clinical significance of the subvesical duct in relation to cholecystectomy?**
+
+- It is always ligated during routine cholecystectomy
+- It communicates with the gallbladder lumen
+- It has no surgical significance
+- **If the cystic plate is not preserved during cholecystectomy, injury may occur and lead to postoperative biliary leak**
+
+*Explanation: Although not of major anatomic significance, injury to the subvesical duct may occur during cholecystectomy if the cystic plate is not preserved. This may lead to a postoperative biliary leak.*
+
+---
+
+**134. The posterior surface of the liver is described as having what shape in outline?**
+
+- Oval
+- Circular
+- Rectangular
+- **Triangular, with base to the right**
+
+*Explanation: The posterior surface of the liver is triangular in outline with its base to the right, and here the liver lying between the upper and lower "leaves" of the triangular ligaments is bare and devoid of peritoneum.*
+
+---
+
+**135. The upper surface of the liver is described as what type of shape?**
+
+- Flat
+- Concave
+- **Boldly convex and molded to the diaphragm**
+- Irregular and lobulated
+
+*Explanation: The upper surface of the liver is boldly convex and molded to the diaphragm, and the surface projection on the anterior body wall extends up to the fourth intercostal space on the right.*
+
+---
+
+**136. To what level does the surface projection of the liver extend on the left side?**
+
+- Third intercostal space
+- Fourth intercostal space
+- **Fifth intercostal space**
+- Sixth intercostal space
+
+*Explanation: The surface projection on the anterior body wall extends up to the fourth intercostal space on the right and to the fifth intercostal space on the left.*
+
+---
+
+**137. The anterior surface of the liver is attached to the diaphragm by which structures?**
+
+- Right triangular ligament and round ligament
+- Round ligament and gastrohepatic ligament
+- **Falciform ligament, left triangular ligament, and upper layer of the right triangular ligament**
+- Hepatoduodenal ligament and falciform ligament
+
+*Explanation: Anteriorly, the convex surface of the liver lies against the concavity of the diaphragm and is attached to it by the falciform ligament, left triangular ligament, and upper layer of the right triangular ligament.*
+
+---
+
+**138. In what percentage of cases does the cystic duct run a parallel course to the common hepatic duct, with connective tissue ensheathing both ducts?**
+
+- 5%
+- **20%**
+- 30%
+- 40%
+
+*Explanation: The cystic duct may run a parallel course to the common hepatic duct in 20%, with connective tissue ensheathing both ducts.*
+
+---
+
+**139. Congenital absence of the cystic duct most likely represents which acquired condition?**
+
+- Iatrogenic bile duct injury
+- Primary sclerosing cholangitis
+- **Cholecystocholedochal fistula**
+- Biliary atresia
+
+*Explanation: The absence of a cystic duct is probably an acquired anomaly, representing a cholecystocholedochal fistula.*
+
+---
+
+**140. Which part of the gallbladder creates "Hartmann's pouch" and may obscure the common hepatic duct?**
+
+- Body
+- Fundus
+- Cystic duct junction
+- **Neck (fundus creates an angle with the body, forming Hartmann's pouch)**
+
+*Explanation: The neck of the gallbladder makes an angle with the fundus and creates Hartmann's pouch, which may obscure the common hepatic duct and constitute a real danger point during cholecystectomy.*
+
+---
+
+**141. What is the position of the anterior border of the liver in relation to the right rectus abdominis muscle?**
+
+- Medial to the right rectus abdominis
+- **Lateral to the right rectus abdominis**
+- Overlying the right rectus abdominis
+- Posterior to the right rectus abdominis
+
+*Explanation: The anterior border of the liver lies under cover of the right costal margin, lateral to the right rectus abdominis muscle, but it slopes upward to the left across the epigastrium.*
+
+---
+
+**142. The IVC below the liver lies behind which structures as a retroperitoneal structure?**
+
+- Behind the stomach and pancreatic tail
+- Behind the hepatic hilum only
+- **Behind the duodenum and head of the pancreas, then behind the foramen of Winslow posterior to the right hilar structures**
+- Behind the gallbladder and right lobe of the liver
+
+*Explanation: Below the liver, the IVC lies behind the duodenum and head of the pancreas as a retroperitoneal structure passing upward behind the foramen of Winslow posterior to the right hilar structures of the liver.*
+
+---
+
+**143. The ligament of the vena cava (fibrous tissue layer around the IVC) must be divided on which side to allow surgical exposure of the IVC and right hepatic vein?**
+
+- Left side only
+- **Right side**
+- Both sides equally
+- Posteriorly only
+
+*Explanation: The layer of fibrous tissue, sometimes called the ligament of the vena cava, must be divided on the right to allow surgical exposure of the IVC and the right hepatic vein, and on the left to allow mobilization of the caudate lobe.*
+
+---
+
+**144. What does the gastrohepatic omentum's attachment to the ligamentum venosum accomplish anatomically?**
+
+- Attaches the liver to the stomach
+- Suspends the caudate lobe anteriorly
+- **Places the caudate lobe within the lesser sac of the peritoneum**
+- Separates segment IV from segment III
+
+*Explanation: The gastrohepatic omentum is attached to the ligamentum venosum, placing the caudate lobe within the lesser sac of the peritoneum.*
+
+---
+
+**145. Where does the left branch of the portal vein give off a major caudate vein (segment I) just before entering the umbilical fissure?**
+
+- After entering the umbilical fissure
+- At the level of the right portal bifurcation
+- At the hepatic hilum (main portal vein level)
+- **Just before its entry into the umbilical fissure, giving off a branch that runs posteriorly and laterally to the left**
+
+*Explanation: The left branch of the portal vein courses below the left hepatic duct to enter the umbilical fissure in company with the left hepatic artery, and just before its entry into the umbilical fissure, it gives off a major caudate vein (segment I) which runs posteriorly and laterally to the left.*
+
+---
+
+**146. What is the coronary vein (left gastric vein) and how does it relate to the portal vein?**
+
+- A direct branch of the splenic vein
+- A direct tributary of the SMV
+- A tributary of the inferior mesenteric vein
+- **A vessel communicating with esophageal venous collaterals and the gastric vein that drains into the portal vein in the lesser omentum**
+
+*Explanation: During its course, the portal vein receives blood through the coronary vein (CV), which communicates with esophageal venous collaterals that connect with the gastric vein and the esophageal plexus.*
+
+---
+
+**147. What critical complication can result from performing right hepatic resection in a patient with congenital absence of the left portal vein?**
+
+- Postoperative bile leak
+- Residual liver ischemia only
+- Portal hypertension
+- **Fatal outcome, as the "right portal vein" in this case actually supplies both liver lobes**
+
+*Explanation: Performance of right hepatic resection with division of what appears to be the right portal vein in a patient with absence of the left portal vein can be fatal, as the right branch curves within the liver substance to also supply the left lobe.*
+
+---
+
+**148. During which surgical scenario is it most important to establish the site of origin of the dorsal pancreatic artery?**
+
+- During portal vein reconstruction
+- During liver transplantation
+- During Whipple procedure
+- **During splenectomy, to avoid distal pancreatic ischemia**
+
+*Explanation: When splenectomy is performed, it is important to establish the site of origin of the dorsal pancreatic artery to avoid distal pancreatic ischemia, since it usually arises from the splenic artery but can arise directly from the hepatic artery.*
+
+---
+
+**149. The right anterior and posterior portal sectional veins may arise independently from the portal venous trunk in what anatomic variant?**
+
+- This is the most common arrangement
+- This never occurs
+- This only occurs with biliary atresia
+- **This is one of several described variants of portal vein division; the usual arrangement is for the right portal vein to divide into these branches at the hilus**
+
+*Explanation: While the right portal vein usually bifurcates at the extremity of the hilus into right anterior (RAS) and posterior (RPS) sectional branches, variants exist where the division of the portal vein may arise more proximally, and the right anterior and posterior sectional portal veins may arise independently from the portal venous trunk.*
+
+---
+
+**150. How is the anterior surface of the pancreas covered?**
+
+- By the parietal peritoneum
+- By Glisson's capsule
+- By the transverse mesocolon from above
+- **By the posterior layer of the omental bursa (lesser peritoneal sac), which can often be obliterated by adhesions**
+
+*Explanation: The anterior surface of the pancreas, covered by the posterior layer of the omental bursa or lesser peritoneal sac, can often be obliterated by adhesions.*
+
+---
+
+**151. What is the relationship of the transverse mesocolon to the pancreas?**
+
+- Arises from the superior border of the pancreas
+- Arises from the anterior surface of the pancreatic head
+- Wraps around the pancreatic tail
+- **Arises from the lower border of the pancreas and envelops the middle colic vessels**
+
+*Explanation: The transverse mesocolon arises from the lower border of the pancreas and envelops the middle colic vessels as they arise from the superior mesenteric vessels just beneath the pancreatic neck.*
+
+---
+
+**152. Where does the right anterior sectional duct typically join the right hepatic duct relative to the right branch of the portal vein?**
+
+- Below the right branch of the portal vein
+- At the level of the right branch of the portal vein
+- Posterior to the right portal vein
+- **Above the right branch of the portal vein**
+
+*Explanation: The junction of the two main right biliary channels usually occurs above the right branch of the portal vein. The right hepatic duct is short and joins the left hepatic duct to constitute the confluence lying in front of the right portal vein.*
+
+---
+
+**153. What is the significance of the "hilar plate lowering" technique for bile duct injuries?**
+
+- Allows access to segment III duct for repair
+- Exposes the retropancreatic bile duct
+- Is mainly used for right hepatic duct exposure
+- **Allows identification of proximal biliary mucosa for bile duct repair after injury, since it always exposes the extrahepatic hepatic duct convergence**
+
+*Explanation: The hilar plate lowering technique is of major importance for the identification of proximal biliary mucosa during bile duct repair after injury. The upper surface of the hilar plate can be separated from the hepatic parenchyma and, by lifting segment IV upward, displays the hepatic duct convergence, which is always extrahepatic.*
+
+---
+
+**154. The sphincter of Oddi consists of what type of tissue?**
+
+- Striated muscle fibers continuous with the duodenal wall
+- Elastic fibrous tissue only
+- Mucous glandular tissue
+- **A unique cluster of smooth muscle fibers distinguishable from the adjacent smooth muscle of the duodenal wall**
+
+*Explanation: The sphincter of Oddi has been thoroughly studied and consists of a unique cluster of smooth muscle fibers distinguishable from the adjacent smooth muscle of the duodenal wall.*
+
+---
+
+**155. How far distal to the pylorus does the duct of Wirsung enter the duodenum at the papilla of Vater?**
+
+- 2 to 3 cm
+- 4 to 5 cm
+- **7 to 10 cm**
+- 12 to 15 cm
+
+*Explanation: The duct of Wirsung courses from left to right within the pancreas, curves downward approaching the CBD, and runs parallel with it to enter the duodenum 7 to 10 cm distal to the pylorus, at the papilla of Vater after traversing the sphincter of Oddi.*
+
+---
+
+**156. The islets of Langerhans are distributed in what pattern within the pancreas?**
+
+- Concentrated in the head of the pancreas
+- Concentrated in the tail of the pancreas
+- Present only in the body and tail
+- **Scattered throughout the pancreas**
+
+*Explanation: The islets of Langerhans, which provide the endocrine component of the gland, are scattered throughout the pancreas.*
+
+---
+
+**157. Which structure separates the duct of Wirsung from the common bile duct as they run parallel for approximately 2 cm?**
+
+- Sphincter of Boyden
+- Pancreatic parenchyma
+- **Transampullary septum**
+- Common sphincter of Oddi
+
+*Explanation: The duct of Wirsung runs downward and parallel to the CBD for approximately 2 cm and runs parallel with it, but separated from it by the transampullary septum, to enter the duodenum.*
+
+---
+
+**158. The duct of Santorini primarily drains which parts of the pancreas?**
+
+- Head and uncinate process
+- Only the uncinate process
+- Tail and distal body only
+- **Body and tail of the organ**
+
+*Explanation: The duct of Santorini drains the body and tail of the organ, whereas the duct of Wirsung drains the head and the uncinate process.*
+
+---
+
+**159. The renal veins lie in what position relative to the renal arteries?**
+
+- Behind the arteries
+- At the same level as the arteries
+- To the right of the arteries
+- **In front of the arteries**
+
+*Explanation: The renal veins lie in front of the arteries and join the IVC at almost a right angle on the left and obliquely on the right.*
+
+---
+
+**160. Above the level of the renal veins, what is typically present posteriorly in the IVC?**
+
+- Lumbar veins draining into the IVC
+- Adrenal vein tributaries
+- **Usually no vena caval tributaries posteriorly**
+- Multiple small venous tributaries
+
+*Explanation: The lumbar veins drain posterolaterally into the IVC below the level of the renal veins, but above this level, there are usually no vena caval tributaries posteriorly.*
+
+---
+
+**161. For all methods of precise partial hepatectomy, what three elements must be controlled?**
+
+- Portal vein, IVC, and bile duct
+- Hepatic artery, portal vein, and IVC
+- Hepatic veins, bile duct, and IVC
+- **Inflow vasculature and draining bile ducts, and outflow hepatic veins of the portion of liver to be excised**
+
+*Explanation: All methods for precise partial hepatectomy depend on control of the inflow vasculature and draining bile ducts and the outflow hepatic veins of the portion of liver to be excised, which may be a segment, a subsegment, or an entire lobe.*
+
+---
+
+**162. What must the remnant liver be provided with after partial hepatectomy?**
+
+- Adequate peritoneal coverage only
+- Blood transfusion and drainage only
+- Adequate drainage only
+- **Excellent portal venous inflow, hepatic arterial supply, biliary drainage, and unimpeded hepatic venous outflow**
+
+*Explanation: The remnant remaining after partial hepatectomy must be provided with an excellent portal venous inflow, hepatic arterial supply, and biliary drainage and unimpeded hepatic venous outflow.*
+
+---
+
+**163. What is the posterior surface of the liver's bare area directly in contact with?**
+
+- Peritoneum only
+- Right kidney
+- **Diaphragm**
+- Right adrenal gland
+
+*Explanation: The remainder of the bare area of liver is directly in contact with the diaphragm.*
+
+---
+
+**164. The "ligamentum venosum" demarcates which structure on the left side of the caudate lobe?**
+
+- The boundary between the left and caudate lobes as a separate peritoneal fold
+- The position of the left portal vein
+- The left triangular ligament
+- **A fissure within which it lies, demarcating the caudate lobe on the left side**
+
+*Explanation: To the left of the IVC, the caudate lobe slopes upward from the inferior to the posterior surface of the liver and is demarcated on the left by a fissure, within which lies the ligamentum venosum.*
+
+---
+
+**165. What is the relationship of the left portal vein to the left hepatic duct within the hepatoduodenal region?**
+
+- The portal vein is anterior to the left hepatic duct
+- The portal vein is lateral to the left hepatic duct
+- The portal vein is posterior to the left hepatic duct
+- **The left portal vein branch courses below the left hepatic duct to enter the umbilical fissure**
+
+*Explanation: The branch of the portal vein on the left courses below the left hepatic duct to enter the umbilical fissure, in company with the left hepatic artery, and subsequently branches to supply the left liver segments (II–IV).*
+
+---
+
+**166. Beneath segment IV, the left portal pedicle is composed of which structures?**
+
+- Left hepatic artery and left hepatic vein
+- Left hepatic duct and left hepatic vein
+- Left hepatic artery, left hepatic duct, and portal vein
+- **Left branch of the portal vein and left hepatic duct (joined by the left hepatic artery at the base of the umbilical fissure)**
+
+*Explanation: Beneath segment IV, the pedicle is composed of the left branch of the portal vein and the left hepatic duct, but it is joined at the base of the umbilical fissure by the left branch of the hepatic artery.*
+
+---
+
+**167. What is the anatomic significance of dividing the CBD (usually above the cystic duct) during access to the portal vein in pancreatic surgery?**
+
+- It exposes the SMA
+- It provides access to the posterior surface of the IVC
+- It exposes the SMV inferiorly
+- **It can provide excellent access to the right lateral aspect and anterior surface of the portal vein when difficulty is encountered in accessing the superior portal vein**
+
+*Explanation: If difficulty is encountered in accessing the proximal portal vein, division of the CBD, usually above the cystic duct, can provide excellent access to the right lateral aspect and anterior surface of the portal vein.*
+
+---
+
+**168. What is the anatomic arrangement of the caudate lobe in the most common circumstance regarding the venal caval ligament?**
+
+- The caudate completely encircles the IVC in all patients
+- The caudate has no fibrous attachment to the diaphragm
+- The caudate is fully separated from the IVC by peritoneum
+- **The posterior edge of the caudate on the left has a fibrous component that fans out to the diaphragm and extends posteriorly behind the vena cava, connecting with similar fibrous tissue from segment VII**
+
+*Explanation: In the most common circumstance, the posterior edge of the caudate lobe on the left has a fibrous component, which fans out and attaches lightly to the crural area of the diaphragm, but it extends posteriorly, behind the vena cava, to link with a similar component of fibrous tissue (called the venal caval ligament) that protrudes from the posterior surface of segment VII and embraces the vena cava.*
+
+---
+
+**169. The duct of Santorini typically terminates in the duodenum at what structure?**
+
+- The papilla of Vater (main papilla)
+- The sphincter of Oddi
+- The transampullary septum
+- **An accessory papilla more proximally in the head of the pancreas**
+
+*Explanation: An accessory duct, the duct of Santorini, runs more proximally in the head of the pancreas and usually terminates in the duodenum at an accessory papilla.*
+
+---
+
+**170. What is the surgical importance of knowledge of hepatic artery variations during hepatic resection, liver transplantation, and hepatic arterial infusion device placement?**
+
+- Variations are so uncommon they are rarely significant
+- Only the left hepatic artery variations are clinically important
+- They affect only intraoperative hemorrhage risk
+- **Variations are of considerable importance in controlling arterial blood supply, as the hepatic artery may be entirely replaced by a common hepatic artery from the SMA, altering its course relative to the portal vein and CBD where it is susceptible to injury if not recognized**
+
+*Explanation: These arterial variations are of considerable importance in controlling the arterial blood supply to the liver during hepatic resection, liver transplantation, devascularization of the liver, placement of intraarterial hepatic infusion devices, and in the resection of the head of the pancreas. Failure to recognize them may seriously mislead the surgeon or interventional radiologist.*

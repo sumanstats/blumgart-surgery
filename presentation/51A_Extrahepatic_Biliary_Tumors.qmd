@@ -1,0 +1,1217 @@
+---
+title: "Extrahepatic Biliary Tumors"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+
+## Overview 
+
+- Extrahepatic biliary tumors are **rare** but aggressive neoplasms, predominantly cholangiocarcinoma.  
+- Management is complex and requires an **experienced multidisciplinary team**.
+
+---
+
+## Chapter scope:
+
+- Epidemiology & risk factors  
+- Histopathology & molecular profiling  
+- Clinical presentation & diagnostic workup  
+- Preoperative staging & resectability assessment  
+- Biliary drainage & portal vein embolization  
+- Surgical resection techniques  
+- Adjuvant & palliative therapies  
+- Outcomes
+
+---
+
+## Epidemiology — Subtypes & Incidence {.smaller}
+
+**Cholangiocarcinoma = 3% of all digestive cancers**
+
+| Subtype | Abbreviation | Proportion |
+|---|---|---|
+| Intrahepatic | ICC | 20% |
+| Perihilar (Klatskin) | HC | 50–60% |
+| Distal | DC | 20–30% |
+
+- Equal sex distribution  
+- Blacks & whites: rising incidence; Hispanics: stable  
+- **~20% diagnosed before age 60**; largest rise in ages **18–44**
+
+:::{.callout}
+EHC incidence **increased 20%** from 1973–2012  
+(1.6 → 2.3 per 100,000 individuals)  
+~**2,500 new cases/year** in the United States
+:::
+---
+
+## Risk Factors {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+
+**Cholestatic / Structural**
+
+- Primary sclerosing cholangitis (PSC)
+- Choledochal cysts
+- Recurrent pyogenic cholangiohepatitis
+- Hepatolithiasis
+- Biliary parasites
+- Caroli disease / congenital hepatic fibrosis
+
+*Common pathway: cholestasis + chronic inflammation*
+:::
+
+::: {.column width="50%"}
+**Metabolic / Other**
+
+- Type 2 diabetes  
+  (RR 1.60 cholangiocarcinoma; RR 1.63 EHC; RR 1.97 ICC)
+- Non-alcoholic fatty liver disease
+- Obesity, dyslipidemia, hypertension
+- Lynch syndrome *(rare genetic disorder)*
+- Bile salt transporter protein gene defects
+:::
+:::
+
+::: {.callout}
+*Most Western cases: **sporadic**, no obvious risk factor*
+:::
+
+
+---
+
+## Tumor Location {.smaller}
+
+**EHC arises from first-order bile ducts → ampulla of Vater**
+
+- **Perihilar (Klatskin) HC:** first described 1965; arises in right/left hepatic duct or confluence  
+- **Distal DC:** arises in common bile duct distal to cystic duct takeoff
+
+:::{.callout}
+Any extrahepatic biliary strictures are **highly suggestive of malignancy**  
+Brush/biopsy: high specificity but **limited sensitivity**  
+"Malignant masquerade" (benign strictures can mimic cancer)
+:::
+
+**Benign strictures (Causes)**
+
+- Autoimmune cholangiopathy
+- Autoimmune pancreatitis
+- Choleodcholithiasis
+- PSC
+
+
+---
+
+## Tumor Histopathology
+
+**Dominant histology:** Adenocarcinoma **>75%**
+
+**Precancerous lesions:**
+
+- Biliary intraepithelial neoplasia (BilIN)
+- Intraductal papillary neoplasm of the biliary tract (IPNB)
+- Intraductal tubular papillary neoplasm (ITPN)
+- Mucinous cystic neoplasm
+
+---
+
+## Adenocarcinoma Subtypes {.smaller}
+
+:::{.columns}
+::: {.column width="30%"}
+**Sclerosing**  
+
+- Most common.  
+- Thickened bile duct walls with proximal dilation.  
+- Dense fibrous stroma.  
+- Worst prognosis.
+:::
+
+:::{.column width="30%"}
+**Nodular**  
+
+- Discrete mass-like lesion.  
+- Mixed features.  
+- Intermediate prognosis.
+:::
+
+
+:::{.column width="30%"}
+**Papillary**  
+
+- Up to **25%** of EHCs.  
+- Expands duct lumen.  
+- **Best prognosis** among subtypes.  
+- Friable — can cause intermittent jaundice.
+:::
+:::
+
+
+:::{.callout}
+
+**Immunohistochemical markers of EHC:**  
+
+:::{.columns}
+:::{.column width="50%"}
+
+- Mucin
+- MUC5AC
+- MUC6
+:::
+
+:::{.column width="50%"}
+
+- S100P
+- SMAD4 loss
+- BAP1
+:::
+:::
+:::
+---
+
+## Molecular Profiling {.smaller}
+
+:::{.columns}
+:::{.column width="30%"}
+**Perihilar HC**
+
+- KRAS mutations: **55%**
+- TP53 mutations: **40%**
+- SMAD4
+- MMR deficiency: **~5%** (immunotherapy potential)
+:::
+:::{.column width="30%"}
+**Extrahepatic (EHC)**
+
+- PRKACA / PRKACB fusions
+- Mutations in ELF3, ERBB2, ARID1B
+- HER2 amplification: **~20%** of EHC
+
+*Targetable mutations: **rare** in EHC*
+:::
+
+
+:::{.column width="30%"}
+**Intrahepatic (ICC)**
+
+- IDH mutations
+- EPHA2 mutations
+- BAP1 mutations
+- FGFR2 fusions *(targetable)*
+
+*Richer targetable landscape in ICC than EHC*
+:::
+:::
+
+:::{.callout}
+ALK and TP53 mutations → worse prognosis in EHC  
+Molecular testing of EHC is **recommended**.
+:::
+
+---
+
+## Clinical Presentation {.smaller}
+
+**Determined by tumor size and location**
+
+:::{.columns}
+:::{.column width="50%"}
+**Perihilar Cholangiocarcinoma (HC)**
+
+- Jaundice in **90%** at presentation
+- Early HC: unilateral obstruction → no jaundice  
+  → isolated ↑ ALP may be the only clue
+- Papillary hilar tumors: **intermittent jaundice** (ball-valve effect)
+- Jaundice often a **late finding** in HC
+:::
+
+:::{.column width="50%"}
+**Distal Cholangiocarcinoma (DC)**
+
+- Presentation similar to periampullary tumors
+- Classic **painless obstructive jaundice**
+- Earlier detection due to complete obstruction
+:::
+:::
+
+
+---
+
+## Clinical Presentation {.smaller}
+
+:::{.columns}
+:::{.column width="50%"}
+**Systemic symptoms:** 
+
+- abdominal pain 
+- weight loss 
+- nausea 
+- pruritus 
+- acholic stools 
+- choluria
+:::
+:::{.column width="50%"}
+**Labs:** 
+
+- ↑ Total bilirubin 
+- ↑ Direct bilirubin
+- ↑ ALP 
+- ↑ GGT  
+:::
+:::
+**Tumor markers:** 
+
+- CA19-9 (often markedly ↑ in jaundice) 
+- CEA
+
+---
+
+## Bilirubin Levels & Differential Diagnosis {.smaller}
+
+
+**Bilirubin as a diagnostic clue:**
+
+| Level | Suggests |
+|---|---|
+| **> 10 mg/dL** | Malignant obstruction |
+| **2–4 mg/dL** | Choledocholithiasis (significant overlap) |
+
+
+**Cholangitis at presentation:**
+
+- Rare without prior biliary manipulation (no bactibilia in uninstrumented tree)
+- **100% bactibilia** after biliary instrumentation compromising the sphincter of Oddi
+
+---
+
+## Bilirubin Levels & Differential Diagnosis 
+
+**Physical examination:**
+
+- Jaundice is the dominant finding
+- Enlarged gallbladder → obstruction **distal** to or involving cystic duct
+- Collapsed gallbladder → **proximal** biliary obstruction (HC)
+- Portal hypertension signs in long-standing disease
+
+---
+
+## Differential Diagnosis of Hilar Strictures {.smaller}
+
+**10–15% of patients with hilar strictures do NOT have cholangiocarcinoma**
+
+| Alternative Diagnosis | Distinguishing Features |
+|---|---|
+| Gallbladder carcinoma | Thickened irregular GB wall; infiltration segments IV/V; right portal pedicle involvement; cystic duct occlusion on ERCP |
+| Mirizzi syndrome | Stone at cystic duct; no mass lesion |
+
+
+---
+
+## Differential Diagnosis of Hilar Strictures {.smaller}
+
+| Alternative Diagnosis | Distinguishing Features |
+|---|---|
+| Autoimmune cholangitis | Smooth tapered stricture; serum IgG4 ↑; steroid response |
+| Lymphoplasmacytic sclerosing pancreatitis | Associated pancreatic changes |
+| PSC | Known history; multifocal strictures |
+| Granulomatous disease | Systemic features; tissue diagnosis |
+
+:::{.callout}
+Benign strictures account for **10–15%** of resected specimens — surgical resection may be required for definitive diagnosis
+:::
+
+---
+
+## Diagnostic Imaging — Ultrasound {.smaller}
+
+**Abdominal ultrasound: first-line evaluation**
+
+- Noninvasive and cost-effective
+- Findings often **nonspecific**: biliary dilatation
+- Low sensitivity for level of obstruction
+
+:::{.callout}
+**Duplex Ultrasonography** (in experienced hands):
+
+- Accurately predicts **vascular involvement**
+- Portal vein invasion prediction: **93% sensitivity, 99% specificity, 97% PPV** (MSKCC, n=63)
+- Particularly useful when vascular involvement is questionable
+:::
+
+With widespread multiphasic CT and MRI/MRCP availability, ultrasound is less used preoperatively but remains a **valuable adjunct**
+
+---
+
+## Diagnostic Imaging — CT & MRI {.smaller}
+
+:::{.columns}
+:::{.column width="50%"}
+**Multidetector Multiphasic CT**
+
+- 1 mm thin cuts: arterial + portal venous phases
+- Evaluates:
+  - Level of biliary obstruction
+  - Vascular involvement (PV, HA)
+  - Hepatic lobar atrophy
+  - Metastatic disease
+  - 3D CT arteriography in single session
+- **Preferred:** Quadruple-phase liver CT + chest/pelvis
+:::
+
+:::{.column width="50%"}
+**MRI with MRCP**
+
+- Depicts level of obstruction & biliary anatomy
+- Identifies obstructed/isolated ducts not seen on ERCP/PTC
+- Assesses vascular involvement, lobar atrophy, nodal/distant disease
+- **Has replaced direct cholangiography** for initial staging
+- Comparable to CT for assessing resectability
+:::
+:::
+
+:::{.callout}
+*Imaging should be performed **before biliary decompression** to assess resectability — stents cause inflammation and distortion*
+:::
+
+---
+
+## Diagnostic Imaging — PET/CT & Direct Cholangiography {.smaller}
+
+:::{.columns}
+:::{.column width="50%"}
+**PET/CT (18FDG-PET)**
+
+Role is **limited** in EHC
+
+| Application | Sensitivity | Specificity |
+|---|---|---|
+| Primary tumor | 91.7% | 51.3% |
+| Lymph node | 88.4% | 69.1% |
+| Distant mets | 85.4% | 89.7% |
+| Relapse after resection | 90.1% | 83.5% |
+
+Best as a **problem-solving tool** for equivocal findings; routine preoperative use unproven
+:::
+
+:::{.column width="50%"}
+**ERCP / PTC (Direct Cholangiography)**
+
+- Sensitivity/specificity ~**70–75%** for tissue diagnosis
+- Allows biopsy + biliary drainage
+- **No longer needed for staging** (replaced by MRCP)
+- Now limited to: biliary decompression + tissue sampling
+- Tissue diagnosis **not mandatory** before resection when clinical suspicion is high
+:::
+:::
+
+---
+
+## Preoperative Evaluation — Goals {.smaller}
+
+**When EHC is suspected, focus on:**
+
+1. **Resectability assessment**
+2. **Hepatic reserve evaluation**
+3. **Overall performance status**
+
+:::{.callout}
+Contraindications to surgery: 
+
+- portal hypertension
+- cirrhosis 
+- poor performance status
+- metastatic disease
+:::
+
+---
+
+## Preoperative Evaluation {.smaller}
+
+**Resectability: 4 key criteria (Table 51A.1)**
+
+| Criterion | Assessment |
+|---|---|
+| 1. Biliary tree involvement | Cross-sectional imaging (extent of ductal involvement) |
+| 2. Lobar atrophy | CT/MRI (shrunken, hypoperfused lobe with crowded ducts) |
+| 3. Vascular involvement | PV contour change/occlusion; hepatic artery encasement |
+| 4. Metastatic disease | CT chest/abdomen/pelvis; diagnostic laparoscopy |
+
+---
+
+## Criteria for Non-Resectability in HC {.smaller}
+
+| Category | Criteria |
+|---|---|
+| **Patient Factors** | Medically unfit for major operation · Cirrhosis with portal hypertension |
+| **Local Tumor Extent** | Bilateral hepatic duct involvement to secondary radicles · Main portal vein encasement/occlusion · Ipsilateral PV branch encasement + contralateral atrophy · Bilateral secondary radicle involvement + contralateral atrophy |
+| **Distant Spread** | Positive nodes **outside** hepatoduodenal ligament · Metastases to liver, lung, peritoneum, or other distant organs |
+
+:::{.callout}
+**Lobar atrophy** = critical finding:  
+- Long-standing biliary obstruction → moderate atrophy  
+- Concomitant ipsilateral PV compromise → **rapid, severe atrophy**
+:::
+
+---
+
+## Pretreatment Biliary Drainage {.smaller}
+
+**Key principle: selective, appropriately planned drainage of the future liver remnant (FLR)**
+
+
+:::{.columns}
+:::{.column width="50%"}
+**Immediate decompression required for:**
+
+- Cholangitic patients
+- Jaundiced patients needing systemic chemotherapy
+- Hyperbilirubinemia-induced malnutrition
+- Hepatic insufficiency
+- Jaundiced patients undergoing PVE
+:::
+
+:::{.column width="50%"}
+**HC vs DC drainage:**
+
+- DC: **single** catheter/stent sufficient
+- HC: **multiple** biliary drainage catheters of the FLR often necessary
+:::
+:::
+
+**Internal drainage preferred** over external — prevents bile loss, malabsorption, dehydration, and intestinal barrier dysfunction
+
+---
+
+## Biliary Drainage — FLR Volume Thresholds {.smaller}
+
+**Kennedy et al. (MSKCC, n=60) — Impact of FLR on outcomes:**
+
+| FLR | Drainage | Operative Mortality | Hepatic Insufficiency |
+|---|---|---|---|
+| < 30% | Not drained | **33%** | 33% |
+| < 30% | Drained | 0% | 0% |
+| ≥ 30% | Not drained | 0% | 0% |
+| ≥ 30% | Drained | 9.1% | 0% |
+
+:::{.callout}
+**Conclusion:**
+
+- FLR ≥ 30–40%: surgery without drainage is safe; drainage may introduce risk
+- FLR < 30–40%: preoperative biliary drainage **improves outcomes**
+- Large FLR (>50%): drainage associated with **increased mortality** (12% vs 0%)
+:::
+
+---
+
+## Biliary Drainage — Approach Comparison {.smaller}
+
+:::{.columns}
+:::{.column width="30%"}
+
+**EBD (Endoscopic)**
+
+✅ No external drains  
+❌ Stent misplacement common  
+❌ High cholangitis risk when multiple ducts opacified but not drained  
+❌ Up to 50% require crossover to PTBD
+:::
+
+:::{.column width="30%"}
+**PTBD (Percutaneous)**
+
+✅ Precise FLR catheter placement  
+✅ Delineates biliary tumor extent  
+✅ Internal drainage above ampulla → better patency  
+✅ Preferred by authors  
+❌ Catheter discomfort  
+❌ Rare tract seeding (associated with distant mets)
+:::
+
+:::{.column width="30%"}
+**ENBD (Nasobiliary)**
+
+✅ Lower biliary re-intervention rate (OR 0.26)  
+❌ Significant patient discomfort  
+❌ E-POD study: no advantage over EBD as initial approach  
+Used mainly in **Asian centers**
+:::
+:::
+
+---
+
+## Biliary Drainage — Approach Comparison
+
+:::{.callout}
+RCT (Netherlands, n=54): stopped early; PTBD showed higher mortality vs EBD (41% vs 11%) — but significant crossover and type I error concerns. PTBD remains acceptable and authors' preferred approach.
+:::
+
+---
+
+## Portal Vein Embolization (PVE) {.smaller}
+
+**Goal: induce hypertrophy of the planned FLR before major hepatectomy**
+
+**Indications:**
+
+- FLR < 25% (normal liver)
+- FLR < 30% (chemotherapy-induced liver toxicity)
+- FLR < 40% (cirrhosis / underlying liver dysfunction)
+- **Authors' threshold: FLR < 40%** (given cholestatic liver failure + neoadjuvant chemo needs)
+
+**Approach:** Percutaneous transhepatic (most common) — no general anesthesia required
+
+:::{.callout}
+**Outcomes of PVE:**
+
+- FLR increase: absolute **8–37.9%**
+- Morbidity: 2–2.5% · Mortality: 0.1%
+- **Kinetic Growth Rate (KGR)** = % hypertrophy / weeks since PVE  
+  KGR > 2.66%/week → no postoperative liver insufficiency (n=153)
+:::
+
+---
+
+## Preoperative Staging Systems
+
+**Bismuth-Corlette Classification**
+
+| Type | Extent |
+|---|---|
+| I | Distal to biliary confluence |
+| II | Involves confluence |
+| IIIA | Extends to right hepatic duct |
+| IIIB | Extends to left hepatic duct |
+| IV | Involves confluence + bilateral ducts |
+
+❌ Does not describe vascular involvement, resectability, or prognosis
+
+---
+
+## Preoperative Staging Systems {.smaller}
+
+**MSKCC T-Staging (Jarnagin et al.)**
+
+*Predicts resectability & R0 likelihood*
+
+| Stage | Criteria |
+|---|---|
+| T1 | Confluence ± unilateral 2nd-order radicles |
+| T2 | T1 + ipsilateral PV involvement ± ipsilateral lobar atrophy |
+| T3 | T1 + contralateral PV involvement or contralateral lobar atrophy; or bilateral PV involvement |
+
+✅ Significantly associated with overall survival
+
+---
+
+## AJCC Staging (8th Edition) — Perihilar Bile Duct {.smaller}
+
+**Primary Tumor (T)**
+
+| T | Description |
+|---|---|
+| T1 | Confined to bile duct wall (muscle/fibrous tissue) |
+| T2a | Invades periductal adipose tissue |
+| T2b | Invades adjacent hepatic parenchyma |
+| T3 | Invades unilateral portal vein or hepatic artery branches |
+| T4 | Invades main PV bilaterally, common HA, or unilateral 2nd-order radicles + contralateral PV/HA |
+
+
+---
+
+## AJCC Staging (8th Edition) — Perihilar Bile Duct {.smaller}
+
+**Regional Nodes (N)**
+
+| N | Description |
+|---|---|
+| N0 | No regional nodal metastasis |
+| N1 | 1–3 positive hilar/CBD/HA/portal vein nodes |
+| N2 | ≥4 positive nodes |
+
+---
+
+## AJCC Staging (8th Edition) — Perihilar Bile Duct {.smaller}
+
+
+**Prognostic Groups**
+
+| Stage | T | N | M |
+|---|---|---|---|
+| 0 | Tis | N0 | M0 |
+| I | T1 | N0 | M0 |
+| II | T2a/b | N0 | M0 |
+| IIIA | T3 | N0 | M0 |
+| IIIB | T4 | N0 | M0 |
+| IIIC | Any T | N1 | M0 |
+| IVA | Any T | N2 | M0 |
+| IVB | Any T | Any N | M1 |
+
+*Based on pathologic findings — **no utility in preoperative management***
+
+---
+
+## Diagnostic Laparoscopy {.smaller}
+
+**Despite improved imaging, up to 50% of patients have unresectable disease at exploration**
+
+:::{.callout}
+**Value of staging laparoscopy:**
+
+- Avoids non-therapeutic laparotomy in **~25%** of patients
+- UK retrospective review (2010–2015): **27.2%** spared futile laparotomy
+- MSKCC review (n=56 radiographically resectable): **25% (14 patients)** found to have metastatic disease
+- Yield increases to **36%** in T2/T3 tumors
+:::
+
+
+---
+
+## Diagnostic Laparoscopy {.smaller}
+
+:::{.callout}
+**Particularly indicated in:**  
+
+Locally advanced, potentially resectable HC (Blumgart T2/T3)
+:::
+
+Findings at laparoscopy that preclude resection:
+- Intrahepatic metastases
+- Peritoneal implants
+- Distant lymph node metastases
+
+---
+
+## Management Algorithm for Hilar Cholangiocarcinoma {.smaller}
+
+```
+Hilar biliary obstruction
+│
+├── Quadruple-phase liver CT + chest/pelvis (MRCP, duplex US)
+│
+├── Selective biliary decompression* (*mandatory if cholangitis)
+│
+├─ RESECTABLE (Blumgart T1–2)
+│   ├── FLR > 40% → Resect
+│   └── FLR < 40% → PVE + biliary decompression → Resect
+│
+├─ LOCALLY ADVANCED (Blumgart T3)
+│   ├── Biliary decompression
+│   ├── Neoadjuvant therapy (systemic ± XRT)
+│   ├── Restage + volumetrics + selective PVE
+│   ├── Resectable → Resect
+│   └── Unresectable → Definitive systemic therapy (Gem/Cis)
+│
+└─ METASTATIC
+    └── Biliary stent → Definitive systemic therapy
+```
+
+---
+
+## Resection of Hilar Cholangiocarcinoma — Principles {.smaller}
+
+**Primary objective: complete tumor extirpation (R0) + biliary-enteric continuity**
+
+:::{.callout}
+**Operative approach by location:**
+
+- **Distal bile duct:** pancreaticoduodenectomy
+- **Hilar tumors:** major hepatectomy + en bloc bile duct excision ± caudate lobectomy
+:::
+
+**Why caudate lobectomy?**
+
+- Main caudate lobe ducts drain into the **left hepatic duct**
+- Left hepatic duct tumors frequently involve caudate ducts
+- Dilated caudate duct on pre-drainage imaging = tumor involvement
+
+---
+
+## Resection of Hilar Cholangiocarcinoma — Principles {.smaller}
+
+**Margin status and survival:**
+
+| Margin | Median DSS |
+|---|---|
+| Wide negative (R0) | **56 months** |
+| Narrow negative | 38 months |
+| Positive (R1) | 32 months |
+| Locally advanced (explored, unresectable) | 16 months |
+
+---
+
+## Resection — Key Technical Steps {.smaller}
+
+**Access:** Right subcostal incision ± proximal xiphoid extension ("hockey stick") or midline
+
+1. **Inspect peritoneal cavity** — rule out metastatic disease; frozen section of suspicious nodes
+2. **Intraoperative ultrasound** — unsuspected hepatic masses
+3. **Assess vascular involvement** — critical for planned left-sided resections (right hepatic artery)
+4. **Transect common bile duct** above duodenum → turn upward
+
+---
+
+## Resection — Key Technical Steps {.smaller}
+
+5. **Expose liver hilum** — take down gallbladder, lower hilar plate (incise Glisson capsule at segment IV base)
+6. **Expose left hepatic duct** — divide segment IV/left lateral segment bridge of liver
+7. **Dissect portal vein** — develop plane between bile duct tumor and portal vein
+8. **Assess proximal extent** — palpation ± biopsy
+9. If hepatectomy needed: ligate/transect ipsilateral PV branch and hepatic artery; divide ipsilateral hepatic vein before parenchymal transection
+
+---
+
+## Biliary-Enteric Reconstruction {.smaller}
+
+**Hepaticojejunostomy to Roux-en-Y loop of jejunum** (retrocolic fashion, end-to-side)
+
+:::{.callout}
+**Managing multiple duct orifices after tumor removal:**
+
+- Right anterior and posterior sectoral ducts may become discontinuous
+- Caudate ducts may separate from left hepatic duct
+- Approximate adjacent duct sidewalls with sutures → treat as single duct
+- Usually achievable with ≤ 2–3 separate anastomoses
+:::
+
+---
+
+## Biliary-Enteric Reconstruction {.smaller}
+
+**Suture technique for multiple disconnected ducts:**
+
+1. Place entire **anterior row** of sutures to all exposed ducts
+2. Place entire **posterior row** to ducts and jejunum
+3. Railroad jejunum on posterior sutures
+4. Tie posterior layer first (back wall flush with jejunum)
+5. Pass anterior sutures sequentially through anterior jejunal wall
+
+**CVP:** Keep < 5 mmHg during retrohepatic and parenchymal dissection to minimize blood loss
+
+---
+
+## Local Resection vs. En Bloc Hepatectomy {.smaller}
+
+
+- **Bile duct resection alone (local resection) is rarely adequate**
+
+
+- **Indications for local resection (very select):**
+
+    - No intrahepatic extension
+    - No portal vein involvement
+    - Must include: entire supraduodenal bile duct + gallbladder + cystic duct + extrahepatic hepatic ducts + supraduodenal tissue clearance + portal lymphadenectomy
+
+- **MSKCC data (n=106):**
+
+    - 19 local resections performed; 9 were R0
+    - **Zero R0 local-resection patients were among 5-year survivors**
+
+:::{.callout}
+**Conclusion:** Local resections are associated with worse survival even with clear margins; en bloc hepatectomy is the preferred approach when technically feasible
+:::
+
+---
+
+## ALPPS in Hilar Cholangiocarcinoma {.smaller}
+
+**Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy**
+
+- Two-stage: liver partition + portal vein ligation (stage 1) → rapid FLR hypertrophy → hepatectomy (stage 2)
+- Perioperative morbidity: **80%** · Mortality: **12%**
+
+:::{.callout-note}
+**ALPPS is generally NOT recommended for HC:**
+
+| Registry/Study | 90-Day Mortality |
+|---|---|
+| International ALPPS Registry (HC subset) | **27%** |
+| ALPPS Italian Registry (biliary tumors) | **40%** |
+| Matched case-control vs. standard resection | 48% vs. 24% |
+
+Median survival: **6 months** (ALPPS) vs. **29 months** (standard resection)
+
+Most HC patients have bactibilia → ↑ infectious risk + intraabdominal collections
+:::
+
+---
+
+## Liver Transplantation for Hilar Cholangiocarcinoma {.smaller}
+
+- **Historical results: dismal (2-yr OS ~48%; 50% recurrence within 2 years)**
+
+- **Modern approach — Mayo Clinic HC Transplant Protocol:**
+
+    - Neoadjuvant chemo + radiation + staging laparoscopy + lymph node assessment
+
+- **Eligibility criteria:**
+
+    - Mass lesion at biliary stricture, OR
+    - Endoluminal tissue diagnosis, OR  
+    - CA19-9 > 100
+	
+	
+---
+
+## Liver Transplantation for Hilar Cholangiocarcinoma {.smaller}
+
+- **Contraindications:**
+
+    - Tumor > 3 cm 
+	- Positive nodes/metastases
+	- Prior resection attempt
+	- Transperitoneal biopsy
+	- Previous malignancy
+
+**Outcomes (Mayo, n=148 enrolled → 90 transplanted):**  
+→ **75% 5-year overall survival**
+
+:::{.callout-note}
+**US EBM Consortium (n=304):** Transplant vs resection 5-yr OS: **64% vs 18%** (P<0.001)  
+**TRANSPHIL trial (NCT02232932):** Ongoing RCT: transplant vs resection in resectable HC without PSC
+:::
+
+---
+
+## Transplant vs. Resection — Current Guidance {.smaller}
+
+
+- **When to resect:**
+    - Resectable tumors where R0 is feasible → **resect**
+    - No level 1 data demonstrating transplant superiority in resectable HC
+    - Organ availability remains limited
+
+- **When to refer for transplant:**
+    - Unresectable locally advanced HC
+    - HC in the setting of PSC
+    - Highly selected patients meeting Mayo protocol criteria
+
+---
+
+## Transplant vs. Resection — Current Guidance
+
+- **Caveats:**
+    - ~1/3 of transplant candidates drop out pre-transplant (disease progression/death)
+    - High incidence of occult lymph node and distant metastases limits applicability
+    - Mayo group: no OS difference between transplant vs resection after adjusting for confounders
+
+---
+
+## Resection of Distal Cholangiocarcinoma{.smaller}
+
+**Standard operation: Pancreatoduodenectomy (Whipple)**
+
+:::{.callout-note}
+**DC vs. pancreatic head adenocarcinoma:**
+
+| Feature | Distal Cholangiocarcinoma | Pancreatic Adenocarcinoma |
+|---|---|---|
+| Resectability rate | **Higher** | Lower |
+| Positive margins | **Less frequent** | More frequent |
+| Lymph node involvement | **Less frequent** | More frequent |
+:::
+
+
+---
+
+## Resection of Distal Cholangiocarcinoma{.smaller}
+
+**Key prognostic factor:** Lymph node status
+
+- Ethun et al.: lymph node involvement = **only independent predictor** of long-term survival in resected DC
+- Positive nodes: **1.63× greater likelihood of death**
+
+**Imaging clue for DC:** Dilated extrahepatic bile duct terminating abruptly at its distal aspect **without** a concomitantly dilated pancreatic duct → distal bile duct carcinoma
+
+---
+
+## Outcomes After Resection {.smaller}
+
+- **5-Year survival after HC resection: 11–44%**  
+- **Postoperative mortality: 4–17%**
+
+| Study | n | Morbidity (%) | Mortality (%) | 5-yr Survival (%) |
+|---|---|---|---|---|
+| Nakeeb 1996 | 109 | 47 | 4 | 11 |
+| Klempnauer 1997 | 151 | NR | 10 | 28 |
+| Neuhaus 1999 | 80 | 55 | 8 | 22 |
+| Jarnagin 2005 | 106 | 50 | 7.5 | 40 |
+| Igami 2010 | 298 | 43 | 2 | 42 |
+| Nagino 2013 | 574 | 57 | 4.7 | 33 |
+| Komaya 2018 | 402 | NR | NR | 43.7 |
+
+---
+
+## Outcomes After Resection {.smaller}
+
+
+**Prognostic factors**:
+
+- Margin status 
+- Lymph node involvement 
+- Tumor grade 
+- Histology (papillary > nodular sclerosing)
+
+
+---
+
+## Recurrence After Resection {.smaller} 
+
+
+- Recurrence occurs in **up to 75–76%** of patients after resection of HC
+
+
+- **MSKCC single-institution review (n=404 R0 resections):**
+    - 60% developed recurrence; recurrence ~50% at **10 years**
+
+- **Multi-institutional analysis (n=306):**
+    - 76% recurred after resection
+    - \>25% recurred after **5 years of recurrence-free survival**
+    - Node-positive disease → no recurrence-free survival beyond **7 years**
+
+- **Pattern of recurrence:**
+    - Distant metastases > locoregional recurrence after R0 resection
+    - Isolated locoregional recurrence: up to **27%**
+    - Common sites: locoregional, peritoneum, liver
+
+---
+
+## Adjuvant Therapy — Key Trials {.smaller}
+
+:::{.columns}
+:::{.column width="50%"}
+
+**[BILCAP Trial]{.underline}** (UK, phase III)  
+Adjuvant capecitabine vs. observation after R0/R1 resection
+
+- n=447 (HC 29%, DC 35%, GB 18%, ICC 19%)
+- Intention-to-treat: no significant difference (HR 0.81; P=0.097)
+- **Per-protocol analysis:**  
+  OS HR 0.75 (P=.03) · RFS HR 0.70 (P=.009) ✅
+- **Practice-changing:** 6 months adjuvant capecitabine now standard
+:::
+
+:::{.column width="50%"}
+**[PRODIGE 12 Trial]{.underline}** (France)  
+GEMOX vs. surveillance (n=196, R0/R1)
+
+- No difference in relapse-free survival  
+  (HR 0.88; P=.48)
+- Only 37% node-positive — may explain lack of benefit
+- GEMOX not recommended
+
+**BCAT Trial** (Japan, phase III)  
+Adjuvant gemcitabine vs. observation (DC+HC, n=225)
+
+- No significant difference in OS or RFS
+:::
+:::
+
+---
+
+## Adjuvant Therapy — Radiation & Ongoing Trials {.smaller}
+
+**Adjuvant Radiation Therapy:**
+    - Johns Hopkins reports: **no benefit** for adjuvant external beam or intraluminal radiation
+    - Other series: possible benefit with positive hepatic duct margins
+
+**SWOG S0809 (phase II, single arm):**
+    - Adjuvant gem + cape → concurrent cape + RT (45 Gy to nodes; 54–59.4 Gy tumor bed)
+    - 2-yr OS: **65%** (R0: 67%; R1: 60%)
+    - Met prespecified endpoint but lacks comparison arm
+
+---
+
+## Adjuvant Therapy — Radiation & Ongoing Trials {.smaller}
+
+
+**Ongoing Trials:**
+
+| Trial | Design | Primary Endpoint |
+|---|---|---|
+| ACTICCA-1 (NCT02548195) | Gem+Cis vs. capecitabine (switched from observation after BILCAP) | OS |
+| NCT03079427 (Asia) | Cape vs. Gem+Cis in node-positive resected EHC | 2-yr DFS |
+| ASCOT (Japan, n=440) | S-1 vs. observation | OS |
+
+
+---
+
+## Palliative Therapy — Biliary Decompression {.smaller} 
+
+- **Most HC patients are NOT suitable for resection**
+
+- **Indications for palliative biliary decompression:**
+
+    - Intractable pruritus
+    - Cholangitis
+    - Lowering bilirubin for chemotherapy eligibility
+    - Recovering hepatic parenchymal function
+
+:::{.callout}
+**Jaundice alone (without pruritus or cholangitis) is NOT necessarily an indication for decompression in pure palliation setting**
+:::
+
+
+---
+
+## Palliative Therapy — Biliary Decompression {.smaller}
+
+**Stent comparison:**
+
+| Type | Median Patency | Notes |
+|---|---|---|
+| Plastic stents | **1.4–3 months** | Initial approach; easier to exchange |
+| Self-expanding metal stents (SEMS) | **~6 months** | Higher technical + functional success; fewer reinterventions |
+
+- SEMS: technical success 98.8% vs plastic 88.3% (P<0.001)
+- SEMS functional success: 97.9% vs 84.8% (P<0.001)
+
+---
+
+## Palliative Therapy — Segment III Bypass {.smaller}
+
+**For patients found unresectable at exploration:**
+
+:::{.callout}
+**Segment III Bypass:**
+
+- Most accessible intrahepatic biliary bypass
+- Anastomosis placed at a distance from tumor → less prone to occlusion than SEMS
+- Resolves jaundice in **~2/3** of HC patients
+- Relief of jaundice in **70%** if functioning parenchyma is adequately drained
+- Series of 55 bypasses: **80% 1-year patency; zero perioperative deaths** in HC group (n=20)
+:::
+
+---
+
+## Palliative Therapy — Segment III Bypass
+
+- **Caveats:**
+    - Bypass to atrophic lobe or heavily tumor-involved lobe is **ineffective**
+    - If undrained lobe has been percutaneously contaminated → risk of persistent biliary fistula and cholangitis
+    - Right anterior or posterior sectoral ducts are alternatives to segment III
+
+---
+
+## Palliative Therapy — Systemic Chemotherapy {.smaller}
+
+**ABC-02 Trial (n=410):**  
+
+Cisplatin + gemcitabine vs. gemcitabine alone for locally advanced/metastatic biliary tract cancer
+
+| Arm | Median OS |
+|---|---|
+| Gemcitabine alone | 8.2 months |
+| Cisplatin + Gemcitabine | **11.7 months** |
+
+:::{.callout}
+**Gemcitabine + cisplatin = first-line standard of care** for unresectable/metastatic biliary tract cancers
+:::
+
+---
+
+## Palliative Therapy — Systemic Chemotherapy {.smaller}
+
+**Second-line chemotherapy:**
+
+- Systematic review (n=761): insufficient evidence to recommend a specific regimen
+- Further prospective randomized trials needed
+
+**Radiation therapy:**
+
+- External beam RT / SBRT: safe in well-selected patients
+- Locally advanced without widespread disease
+- Inappropriate in widespread metastatic disease
+
+---
+
+## Photodynamic Therapy (PDT) {.smaller}
+
+**For unresectable hilar cholangiocarcinoma**
+
+**Mechanism:**
+
+1. Inject photosensitizing drug
+2. Direct illumination via cholangioscopy with specific-wavelength light
+3. Activation → reactive oxygen species → **tumor cell death**
+
+**Evidence:**
+
+- Two randomized studies: biliary stenting + PDT vs. biliary stenting alone  
+  → **Improved survival** with combined approach
+
+---
+
+## Photodynamic Therapy (PDT) {.smaller}
+
+:::{.callout}
+**Why does PDT improve survival?**  
+Likely due to **better biliary decompression** and avoidance of early segmental duct isolation/cholangitis — rather than significant tumor reduction
+:::
+
+Also used for: 
+
+- esophagus 
+- colon 
+- stomach 
+- bronchus 
+- bladder 
+- brain
+
+---
+
+## Targeted Therapy & Immunotherapy — Emerging Data {.smaller}
+
+**Molecular drivers in EHC:**
+
+- KRAS 55% · TP53 40% — common but not currently targetable
+- **HER2 amplification: ~20%** of EHC → potential target
+- ALK/TP53 mutations → worse prognosis
+- **MMR deficiency: ~5%** → potential role for **immunotherapy** (pembrolizumab, etc.)
+- Targetable mutations are **rare** in EHC vs. ICC (FGFR2, IDH in ICC are actionable)
+
+:::{.callout}
+**Current recommendations:**
+- Molecular testing of EHC is **recommended** in all patients
+- Genomic profiling to identify rare actionable alterations
+- Growing interest in immune checkpoint inhibitors in MMR-deficient tumors
+- Future: combination targeted therapy + immunotherapy
+:::
+
+---
+
+## Summary & Key Takeaways {.smaller}
+
+:::{.columns}
+:::{.column width="50%"}
+
+**Diagnosis & Staging**
+
+- MRCP has replaced direct cholangiography for initial staging
+- Imaging **before** biliary decompression for accurate resectability assessment
+- Tissue diagnosis not mandatory if clinical picture is clear
+- Diagnostic laparoscopy avoids futile laparotomy in **~25%**
+:::
+
+:::{.column width="50%"}
+**Treatment**
+
+- Resection = only curative option; requires R0 + en bloc hepatectomy ± caudate lobectomy
+- Adjuvant capecitabine (6 months) — current standard post-resection
+- Transplantation in selected unresectable HC or PSC-associated HC
+- Gem + cisplatin: first-line palliation
+:::
+:::
+
+:::{.callout}
+**Future Directions:**
+
+· Adjuvant strategies · Genomics · Epigenetics · Targeted therapies · Immunotherapy
+
+— Interdisciplinary approach remains essential
+:::
+

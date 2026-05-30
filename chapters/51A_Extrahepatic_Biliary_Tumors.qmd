@@ -1,0 +1,3332 @@
+# 51A Extrahepatic Biliary Tumors
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+Generated with Qwen.
+
+**1. What percentage of all digestive cancers does cholangiocarcinoma account for?**
+
+- 1%
+- **3%**
+- 5%
+- 10%
+
+*Explanation: "Cholangiocarcinoma accounts for 3% of all digestive cancers according to the epidemiology data."*
+
+**2. What percentage of all cholangiocarcinomas in the United States are intrahepatic cholangiocarcinoma (ICC)?**
+
+- 10%
+- **20%**
+- 50%
+- 80%
+
+*Explanation: "Intrahepatic cholangiocarcinoma (ICC) comprises 20% of all cholangiocarcinoma in the United States."*
+
+**3. What percentage of cholangiocarcinomas are perihilar cholangiocarcinoma (HC)?**
+
+- 20%-30%
+- **50%-60%**
+- 70%-80%
+- 90%-95%
+
+*Explanation: "Perihilar cholangiocarcinoma (HC) comprises 50%-60% of all cholangiocarcinomas."*
+
+**4. What percentage of cholangiocarcinomas are distal cholangiocarcinoma (DC)?**
+
+- **20%-30%**
+- 40%-50%
+- 60%-70%
+- 80%-90%
+
+*Explanation: "Distal cholangiocarcinoma (DC) comprises 20%-30% of all cholangiocarcinomas."*
+
+**5. By what percentage did the incidence of extrahepatic cholangiocarcinoma (EHC) increase from 1973 to 2012?**
+
+- 10%
+- **20%**
+- 30%
+- 50%
+
+*Explanation: "The incidence of EHC increased 20% from 1973 to 2012, from 1.6 per 100,000 individuals to 2.3 per 100,000."*
+
+**6. What was the incidence of EHC per 100,000 individuals in 1973 to 1975?**
+
+- 0.6
+- **1.6**
+- 2.3
+- 3.6
+
+*Explanation: "The incidence of EHC was 1.6 per 100,000 individuals in 1973 to 1975."*
+
+**7. What was the incidence of EHC per 100,000 individuals in 2011 to 2012?**
+
+- 1.6
+- **2.3**
+- 3.2
+- 4.1
+
+*Explanation: "The incidence of EHC increased to 2.3 per 100,000 in 2011 to 2012."*
+
+**8. Approximately how many new cases of EHC occur annually in the United States?**
+
+- 1500
+- **2500**
+- 3500
+- 5000
+
+*Explanation: "In the United States, there are approximately 2500 new cases of EHC annually."*
+
+**9. What percentage of EHCs are diagnosed before the age of 60?**
+
+- 10%
+- **20%**
+- 40%
+- 60%
+
+*Explanation: "Approximately 20% of EHCs are diagnosed before the age of 60."*
+
+**10. Which age group has seen the largest rise in incidence of EHC?**
+
+- 45-60 years
+- 60-75 years
+- **18-44 years**
+- 75-90 years
+
+*Explanation: "The largest rise in incidence is seen in 18- to 44-year-olds."*
+
+**11. What is the relative risk of cholangiocarcinoma in individuals with type 2 diabetes?**
+
+- 1.20
+- **1.60**
+- 2.00
+- 2.50
+
+*Explanation: "Individuals with type 2 diabetes had an increased risk of cholangiocarcinoma with relative risk (RR) of 1.60."*
+
+**12. What is the relative risk of EHC in individuals with type 2 diabetes?**
+
+- 1.23
+- **1.63**
+- 1.97
+- 2.46
+
+*Explanation: "For EHC, the relative risk in individuals with type 2 diabetes is 1.63 (95% CI, 1.29-2.05)."*
+
+**13. What is the relative risk of ICC in individuals with type 2 diabetes?**
+
+- 1.60
+- 1.63
+- **1.97**
+- 2.57
+
+*Explanation: "For ICC, the relative risk in individuals with type 2 diabetes is 1.97 (95% CI, 2.57-2.46)."*
+
+**14. Who first described perihilar cholangiocarcinoma (Klatskin tumors)?**
+
+- Bismuth in 1960
+- **Klatskin in 1965**
+- Jarnagin in 1970
+- Corlette in 1975
+
+*Explanation: "Perihilar cholangiocarcinoma (HC or Klatskin tumors) was first described in 1965 by Klatskin."*
+
+**15. What percentage of all cholangiocarcinomas are perihilar cholangiocarcinoma?**
+
+- 25%
+- **50%**
+- 75%
+- 90%
+
+*Explanation: "Perihilar cholangiocarcinoma comprises 50% of all cholangiocarcinomas."*
+
+**16. What is the dominant histologic group of extrahepatic biliary tumors?**
+
+- Squamous cell carcinoma
+- **Adenocarcinoma**
+- Neuroendocrine tumor
+- Sarcoma
+
+*Explanation: "Adenocarcinoma is the dominant histologic group, comprising more than 75% of extrahepatic biliary tumors."*
+
+**17. What percentage of extrahepatic biliary tumors are adenocarcinoma?**
+
+- 50%
+- 65%
+- **More than 75%**
+- 90%
+
+*Explanation: "Adenocarcinoma comprises more than 75% of extrahepatic biliary tumors."*
+
+**18. Which subtype of adenocarcinoma is associated with improved survival?**
+
+- Sclerosing
+- Nodular
+- **Papillary**
+- Mucinous
+
+*Explanation: "Papillary tumors are associated with improved survival compared with nodular sclerosing lesions."*
+
+**19. What percentage of EHCs are papillary tumors?**
+
+- 10%
+- **Up to 25%**
+- 50%
+- 75%
+
+*Explanation: "Papillary tumors are seen in up to 25% of EHCs."*
+
+**20. What percentage of HC patients present with jaundice?**
+
+- 50%
+- 70%
+- **90%**
+- 100%
+
+*Explanation: "HC presents with jaundice in 90% of patients."*
+
+**21. What bilirubin level suggests malignant obstruction?**
+
+- 2-4 mg/dL
+- 4-6 mg/dL
+- 6-10 mg/dL
+- **Greater than 10 mg/dL**
+
+*Explanation: "Significantly elevated bilirubin levels (>10 mg/dL) suggests malignant obstruction."*
+
+**22. What bilirubin level is typically associated with choledocholithiasis?**
+
+- **2-4 mg/dL**
+- 6-8 mg/dL
+- 10-12 mg/dL
+- 15-20 mg/dL
+
+*Explanation: "Obstruction from choledocholithiasis is often associated with lower bilirubin levels typically ranging from 2 to 4 mg/dL."*
+
+**23. What is the incidence of bactibilia after biliary instrumentation that compromises the sphincter of Oddi?**
+
+- 50%
+- 75%
+- 90%
+- **100%**
+
+*Explanation: "The incidence of bactibilia is 100% after biliary instrumentation that compromises the sphincter of Oddi."*
+
+**24. What percentage of patients with hilar strictures and jaundice have alternative diagnoses?**
+
+- 5%-10%
+- **10%-15%**
+- 20%-25%
+- 30%-35%
+
+*Explanation: "Alternative diagnoses are possible in 10% to 15% of patients with hilar strictures and jaundice."*
+
+**25. What is the sensitivity and specificity of ERCP and PTC for obtaining a tissue diagnosis?**
+
+- 50%-55%
+- **70%-75%**
+- 85%-90%
+- 95%-100%
+
+*Explanation: "Both ERCP and PTC have a sensitivity and specificity of approximately 70% to 75% for obtaining a tissue diagnosis."*
+
+**26. What percentage of resected strictures are benign?**
+
+- 5%-10%
+- **10%-15%**
+- 20%-25%
+- 30%-35%
+
+*Explanation: "Benign strictures account for 10% to 15% of resected strictures."*
+
+**27. What is the sensitivity of 18FDG-PET for diagnosis of primary tumor in EHC?**
+
+- 71.7%
+- 81.7%
+- **91.7%**
+- 98.7%
+
+*Explanation: "The sensitivity of 18FDG-PET for the diagnosis of primary tumor was 91.7% (95% CI, 89.8-93.2)."*
+
+**28. What is the specificity of 18FDG-PET for diagnosis of primary tumor in EHC?**
+
+- 31.3%
+- 41.3%
+- **51.3%**
+- 61.3%
+
+*Explanation: "The specificity of 18FDG-PET for the diagnosis of primary tumor was 51.3% (95% CI, 46.4-56.2)."*
+
+**29. What is the sensitivity of 18FDG-PET for lymph node involvement?**
+
+- 68.4%
+- 78.4%
+- **88.4%**
+- 98.4%
+
+*Explanation: "For lymph node involvement, sensitivity was 88.4% (95% CI, 82.6-92.8)."*
+
+**30. What is the specificity of 18FDG-PET for lymph node involvement?**
+
+- 49.1%
+- 59.1%
+- **69.1%**
+- 79.1%
+
+*Explanation: "For lymph node involvement, specificity was 69.1% (95% CI, 63.8-74.1)."*
+
+**31. What is the sensitivity of 18FDG-PET for distant metastases?**
+
+- 65.4%
+- 75.4%
+- **85.4%**
+- 95.4%
+
+*Explanation: "For distant metastases, sensitivity was 85.4% (95% CI, 79.5-90.2)."*
+
+**32. What is the specificity of 18FDG-PET for distant metastases?**
+
+- 69.7%
+- 79.7%
+- **89.7%**
+- 99.7%
+
+*Explanation: "For distant metastases, specificity was 89.7% (95% CI, 86.0-92.7)."*
+
+**33. What is the sensitivity of 18FDG-PET in identifying relapse after resection?**
+
+- 70.1%
+- 80.1%
+- **90.1%**
+- 95.1%
+
+*Explanation: "In identifying relapse after resection, sensitivity was 90.1% (95% CI, 84.4-94.3)."*
+
+**34. What is the specificity of 18FDG-PET in identifying relapse after resection?**
+
+- 63.5%
+- 73.5%
+- **83.5%**
+- 93.5%
+
+*Explanation: "In identifying relapse after resection, specificity was 83.5% (95% CI, 74.4-90.4)."*
+
+**35. In a series from MSKCC, what percentage of cases did duplex US predict portal vein involvement?**
+
+- 73%
+- 83%
+- **93%**
+- 98%
+
+*Explanation: "Duplex US predicted portal vein involvement in 93% of cases."*
+
+**36. What is the specificity of duplex US for predicting portal vein involvement?**
+
+- 89%
+- 94%
+- **99%**
+- 100%
+
+*Explanation: "Duplex US had a specificity of 99% for predicting portal vein involvement."*
+
+**37. What is the positive predictive value of duplex US for portal vein involvement?**
+
+- 87%
+- 92%
+- **97%**
+- 99%
+
+*Explanation: "Duplex US had a positive predictive value of 97% for portal vein involvement."*
+
+**38. What percentage of patients will have unresectable disease at exploration despite imaging?**
+
+- 25%
+- **50%**
+- 75%
+- 90%
+
+*Explanation: "Up to 50% of patients will have unresectable disease at exploration."*
+
+**39. What percentage of patients can diagnostic laparoscopy spare from nontherapeutic laparotomy?**
+
+- 15%
+- **25%**
+- 35%
+- 45%
+
+*Explanation: "Diagnostic laparoscopy can avoid a nontherapeutic laparotomy in approximately 25% of patients."*
+
+**40. In a UK retrospective review, what percentage of patients were spared nontherapeutic laparotomy?**
+
+- 17.2%
+- **27.2%**
+- 37.2%
+- 47.2%
+
+*Explanation: "In a retrospective review in the United Kingdom, 27.2% of patients were spared a nontherapeutic laparotomy."*
+
+**41. What is the yield of diagnostic laparoscopy in patients with T2/T3 tumors?**
+
+- 26%
+- **36%**
+- 46%
+- 56%
+
+*Explanation: "The yield of diagnostic laparoscopy increased to 36% in patients with T2/T3 tumors."*
+
+**42. What percentage of patients with radiographically resectable HC had metastatic disease at MSKCC?**
+
+- 15%
+- **25%**
+- 35%
+- 45%
+
+*Explanation: "At MSKCC, 14 (25%) of 56 patients with radiographically resectable HC were found to have metastatic disease."*
+
+**43. What is the general indication for PVE in normal healthy liver?**
+
+- FLR less than 15%
+- **FLR less than 25%**
+- FLR less than 35%
+- FLR less than 45%
+
+*Explanation: "General indications for PVE consist of a FLR less than 25% in normal healthy liver."*
+
+**44. What is the indication for PVE in a setting of chemotherapy-induced liver toxicity?**
+
+- FLR less than 20%
+- **FLR less than 30%**
+- FLR less than 40%
+- FLR less than 50%
+
+*Explanation: "PVE indication is FLR less than 30% in a setting of chemotherapy-induced liver toxicity."*
+
+**45. What is the indication for PVE in patients with cirrhosis?**
+
+- FLR less than 30%
+- **FLR less than 40%**
+- FLR less than 50%
+- FLR less than 60%
+
+*Explanation: "PVE indication is FLR less than 40% in patients with cirrhosis and underlying liver dysfunction."*
+
+**46. What KGR value predicts no postoperative liver insufficiency?**
+
+- Greater than 1.66% per week
+- **Greater than 2.66% per week**
+- Greater than 3.66% per week
+- Greater than 4.66% per week
+
+*Explanation: "No patients with a KGR greater than 2.66% per week experienced postoperative liver insufficiency."*
+
+**47. What is the morbidity rate of PVE?**
+
+- **2%-2.5%**
+- 5%-7.5%
+- 10%-12.5%
+- 15%-17.5%
+
+*Explanation: "PVE is safe with a low morbidity (2%-2.5%) rate."*
+
+**48. What is the mortality rate of PVE?**
+
+- **0.1%**
+- 1%
+- 2%
+- 5%
+
+*Explanation: "PVE has a mortality rate of 0.1%."*
+
+**49. By what absolute value does PVE increase FLR?**
+
+- 3%-15%
+- **8%-37.9%**
+- 40%-50%
+- 55%-65%
+
+*Explanation: "PVE increases FLR by an absolute value of 8% to 37.9%."*
+
+**50. What percentage of patients drop out pretransplant in the Mayo HC transplant protocol?**
+
+- 15%
+- **Approximately one third**
+- 50%
+- 75%
+
+*Explanation: "Approximately one third of patients will drop out pretransplant because of disease progression or death."*
+
+**51. What is the 5-year overall survival for patients who received liver transplant in the Mayo clinic series?**
+
+- 55%
+- 65%
+- **75%**
+- 85%
+
+*Explanation: "Rosen et al. reported 90 patients who received liver transplant with a 75% 5-year overall survival."*
+
+**52. What is the 5-year overall survival for transplant versus resection in the US Extrahepatic Biliary Malignancy Consortium?**
+
+- 54% vs. 18%
+- **64% vs. 18%**
+- 74% vs. 28%
+- 84% vs. 38%
+
+*Explanation: "Transplant was associated with 64% vs. 18% 5-year overall survival compared with resection."*
+
+**53. What is the 2-year overall survival after orthotopic liver transplantation in Meyer et al. series?**
+
+- 28%
+- 38%
+- **48%**
+- 58%
+
+*Explanation: "The 2-year overall survival was 48% in Meyer et al. series of 207 patients."*
+
+**54. What percentage of recurrences occurred within 2 years of transplantation in Meyer et al. series?**
+
+- 54%
+- 64%
+- 74%
+- **84%**
+
+*Explanation: "84% of recurrences occurred within 2 years of transplantation."*
+
+**55. What is the tumor size contraindication for liver transplant in HC?**
+
+- Greater than 1 cm
+- Greater than 2 cm
+- **Greater than 3 cm**
+- Greater than 4 cm
+
+*Explanation: "Contraindication to transplant includes tumors larger than 3 cm."*
+
+**56. What CA19-9 level makes patients eligible for transplant in the Mayo protocol?**
+
+- Greater than 50
+- **Greater than 100**
+- Greater than 150
+- Greater than 200
+
+*Explanation: "Patients are eligible for transplant with CA19-9 greater than 100."*
+
+**57. What is the median survival in the ALPPS group versus matched control group?**
+
+- 3 months vs. 19 months
+- **6 months vs. 29 months**
+- 9 months vs. 39 months
+- 12 months vs. 49 months
+
+*Explanation: "The median survival was 6 months in the ALPPS group versus 29 months in the matched control group."*
+
+**58. What is the mortality rate in the ALPPS group versus non-ALPPS group?**
+
+- 28% vs. 14%
+- 38% vs. 19%
+- **48% vs. 24%**
+- 58% vs. 29%
+
+*Explanation: "The mortality rate in the ALPPS group was twice as high (48% vs. 24%)."*
+
+**59. What is the 90-day mortality rate for ALPPS in patients with HC in the international ALPPS registry?**
+
+- 17%
+- **27%**
+- 37%
+- 47%
+
+*Explanation: "The international ALPPS registry reported a 90 day-mortality rate of 27% in patients with HC."*
+
+**60. What is the 90-day mortality rate for ALPPS in the Italian registry group?**
+
+- 20%
+- 30%
+- **40%**
+- 50%
+
+*Explanation: "The ALPPS Italian registry group reported a 40% 90-day mortality rate for ALPPS performed for biliary tumors."*
+
+**61. What is the perioperative morbidity rate of ALPPS?**
+
+- 50%
+- 60%
+- 70%
+- **80%**
+
+*Explanation: "ALPPS has perioperative morbidity rates of 80%."*
+
+**62. What is the perioperative mortality rate of ALPPS?**
+
+- 2%
+- 7%
+- **12%**
+- 17%
+
+*Explanation: "ALPPS has perioperative mortality rates of 12%."*
+
+**63. What percentage of patients in the EBD group crossed over to PTBD in the Netherlands RCT?**
+
+- 25%
+- **Over half**
+- 75%
+- 90%
+
+*Explanation: "Over half of the patients in the EBD group crossed over to PTBD."*
+
+**64. What percentage of patients in the PTBD group crossed over to EBD in the Netherlands RCT?**
+
+- **4%**
+- 14%
+- 24%
+- 34%
+
+*Explanation: "Just 4% of the PTBD group crossed over to EBD."*
+
+**65. What was the mortality rate in the PTBD group versus EBD group in the Netherlands RCT?**
+
+- 21% vs. 11%
+- 31% vs. 11%
+- **41% vs. 11%**
+- 51% vs. 11%
+
+*Explanation: "Mortality was increased in the PTBD group versus EBD (41% vs. 11%)."*
+
+**66. What is the overall complication rate with PTBD versus EBD?**
+
+- 43% vs. 47%
+- 53% vs. 57%
+- **63% vs. 67%**
+- 73% vs. 77%
+
+*Explanation: "The overall complication rate was the same with both approaches (63% vs. 67%)."*
+
+**67. What is the odds ratio for biliary reintervention with ENBD compared to EBD?**
+
+- 0.16
+- **0.26**
+- 0.36
+- 0.46
+
+*Explanation: "ENBD was associated with a lower risk of biliary reintervention (odds ratio 0.26)."*
+
+**68. What percentage of the 447 randomized patients in BILCAP trial were evaluable?**
+
+- 330
+- 380
+- **430**
+- 440
+
+*Explanation: "Of the 447 randomized patients, 430 were evaluable for the primary end point."*
+
+**69. What percentage of patients in BILCAP trial had node-positive disease?**
+
+- 30%
+- 40%
+- **50%**
+- 60%
+
+*Explanation: "Approximately 50% of patients had node-positive disease in the BILCAP trial."*
+
+**70. What percentage of patients in BILCAP trial had an R1 resection?**
+
+- 28%
+- **38%**
+- 48%
+- 58%
+
+*Explanation: "38% of patients had an R1 resection in the BILCAP trial."*
+
+**71. What is the hazard ratio for overall survival in BILCAP intention-to-treat analysis?**
+
+- 0.61
+- 0.71
+- **0.81**
+- 0.91
+
+*Explanation: "By intention-to-treat analysis, the hazard ratio was 0.81 (95% CI, 0.63-1.04)."*
+
+**72. What is the hazard ratio for overall survival in BILCAP per-protocol analysis?**
+
+- 0.55
+- **0.75**
+- 0.85
+- 0.95
+
+*Explanation: "Per-protocol analysis showed HR of 0.75 (95% CI, 0.58-0.97) for overall survival."*
+
+**73. What is the hazard ratio for recurrence-free survival in BILCAP per-protocol analysis?**
+
+- 0.50
+- **0.70**
+- 0.80
+- 0.90
+
+*Explanation: "Per-protocol analysis showed HR of 0.70 (95% CI, 0.54-0.92) for recurrence-free survival."*
+
+**74. How many patients were randomized in the PRODIGE 12-Accord 18 trial?**
+
+- 96
+- **196**
+- 296
+- 396
+
+*Explanation: "The PRODIGE 12-Accord 18 trial randomized 196 patients."*
+
+**75. How many patients were evaluable for the primary end point in PRODIGE 12-Accord 18 trial?**
+
+- 105
+- **155**
+- 175
+- 185
+
+*Explanation: "155 patients were evaluable for the primary end point of relapse-free survival."*
+
+**76. What is the hazard ratio for relapse-free survival in PRODIGE 12-Accord 18 trial?**
+
+- 0.68
+- 0.78
+- **0.88**
+- 0.98
+
+*Explanation: "The hazard ratio was 0.88 (95% CI, 0.62-1.25) for relapse-free survival."*
+
+**77. What percentage of patients in PRODIGE 12-Accord 18 trial had lymph node-positive disease?**
+
+- 27%
+- **37%**
+- 47%
+- 57%
+
+*Explanation: "Only 37% of patients in this study had lymph node-positive disease."*
+
+**78. How many patients were in the BCAT trial?**
+
+- 125
+- **225**
+- 325
+- 425
+
+*Explanation: "The BCAT trial evaluated 225 resected patients with DC or HC."*
+
+**79. What is the hazard ratio for overall survival in the BCAT trial?**
+
+- 0.81
+- 0.91
+- **1.01**
+- 1.11
+
+*Explanation: "There was no significant difference in overall survival (HR, 1.01; 95% CI, 0.7-1.45)."*
+
+**80. How many patients were in the SWOG S0809 trial?**
+
+- 59
+- **79**
+- 99
+- 119
+
+*Explanation: "The SWOG S0809 trial reported on 79 patient cohort."*
+
+**81. What was the 2-year overall survival in the SWOG S0809 trial?**
+
+- 45%
+- 55%
+- **65%**
+- 75%
+
+*Explanation: "The 2-year overall survival for the entire 79 patient cohort was 65%."*
+
+**82. What radiation dose was given to regional lymphatics in SWOG S0809 trial?**
+
+- 35 Gy
+- **45 Gy**
+- 55 Gy
+- 65 Gy
+
+*Explanation: "The radiation protocol called for 45 Gy to regional lymphatics."*
+
+**83. What radiation dose was given to the tumor bed in SWOG S0809 trial?**
+
+- 44-49.4 Gy
+- **54-59.4 Gy**
+- 64-69.4 Gy
+- 74-79.4 Gy
+
+*Explanation: "The radiation protocol called for 54 to 59.4 Gy to the tumor bed."*
+
+**84. What percentage of HC patients develop recurrence after R0 resection?**
+
+- 40%
+- 50%
+- **60%**
+- 70%
+
+*Explanation: "60% of patients developed a recurrence after R0 resection of HC."*
+
+**85. What percentage of patients recur at 10 years after resection?**
+
+- 30%
+- 40%
+- **Nearly 50%**
+- 60%
+
+*Explanation: "Recurrence reached nearly 50% at 10 years after resection."*
+
+**86. What percentage of patients recurred after resection in the multi-institutional analysis of 306 patients?**
+
+- 56%
+- 66%
+- **76%**
+- 86%
+
+*Explanation: "In a multi-institutional analysis of 306 consecutive patients, 76% of patients recurred after resection."*
+
+**87. What percentage of patients recurred after 5 years of recurrence-free survival?**
+
+- 15%
+- **Over 25%**
+- 35%
+- 45%
+
+*Explanation: "Over 25% of patients recurred after 5 years of recurrence-free survival."*
+
+**88. After how many years does node-positive disease preclude recurrence-free survival?**
+
+- 5 years
+- **7 years**
+- 9 years
+- 10 years
+
+*Explanation: "Node-positive disease precluded recurrence-free survival beyond 7 years."*
+
+**89. What percentage of patients have isolated locoregional recurrence after R0 resection?**
+
+- 17%
+- **Up to 27%**
+- 37%
+- 47%
+
+*Explanation: "Isolated locoregional recurrence can be seen in up to 27% of patients."*
+
+**90. What percentage of extrahepatic cholangiocarcinoma have HER2 gene amplification?**
+
+- 10%
+- **Nearly 20%**
+- 30%
+- 40%
+
+*Explanation: "HER2 gene amplification can be seen in nearly 20% of extrahepatic cholangiocarcinoma."*
+
+**91. What percentage of HC have mismatch repair deficiency?**
+
+- 1%
+- **Up to 5%**
+- 10%
+- 15%
+
+*Explanation: "Mismatch repair deficiency is seen in up to 5% of HC."*
+
+**92. What percentage of HC have KRAS mutations?**
+
+- 35%
+- 45%
+- **55%**
+- 65%
+
+*Explanation: "KRAS (55%) mutations in HC are common."*
+
+**93. What percentage of HC have TP53 mutations?**
+
+- 20%
+- 30%
+- **40%**
+- 50%
+
+*Explanation: "TP53 (40%) mutations in HC are common."*
+
+**94. What is the median patency of plastic stents?**
+
+- 0.4-1.3 months
+- **1.4-3 months**
+- 4-6 months
+- 7-9 months
+
+*Explanation: "The median patency of plastic stents is only 1.4 to 3 months."*
+
+**95. What is the median patency of self-expandable metallic stents (SEMs)?**
+
+- 3 months
+- 4 months
+- **Approximately 6 months**
+- 9 months
+
+*Explanation: "SEMs have a median patency of approximately 6 months."*
+
+**96. What was the median patency time for plastic stents in Raju et al. study?**
+
+- 0.86 months
+- **1.86 months**
+- 2.86 months
+- 3.86 months
+
+*Explanation: "The median patency times were 1.86 months in the plastic stent group."*
+
+**97. What was the median patency time for SEMs in Raju et al. study?**
+
+- 2.56 months
+- 3.56 months
+- 4.56 months
+- **5.56 months**
+
+*Explanation: "The median patency times were 5.56 months in the SEM group."*
+
+**98. What was the mean number of reinterventions in the SEM group in Raju et al. study?**
+
+- 0.53
+- **1.53**
+- 2.53
+- 3.53
+
+*Explanation: "A mean of 1.53 reinterventions were performed in the SEM group."*
+
+**99. What was the mean number of reinterventions in the plastic stent group in Raju et al. study?**
+
+- 2.60
+- 3.60
+- **4.60**
+- 5.60
+
+*Explanation: "A mean of 4.60 reinterventions were performed in the plastic group."*
+
+**100. What is the technical success rate for SEM versus plastic stents in Liberato and Canena study?**
+
+- 88.8% vs. 78.3%
+- **98.8% vs. 88.3%**
+- 99.8% vs. 89.3%
+- 100% vs. 90.3%
+
+*Explanation: "Technical success was 98.8% vs. 88.3% for SEM versus plastic stents."*
+
+**101. What is the functional success rate for SEM versus plastic stents in Liberato and Canena study?**
+
+- 87.9% vs. 74.8%
+- **97.9% vs. 84.8%**
+- 99.9% vs. 86.8%
+- 100% vs. 88.8%
+
+*Explanation: "Functional success was 97.9% vs. 84.8% for SEMs versus plastic stents."*
+
+**102. What percentage of functional hepatic parenchyma drainage is required for resolution of jaundice?**
+
+- 15%-20%
+- **25%-30%**
+- 35%-40%
+- 45%-50%
+
+*Explanation: "Satisfactory drainage of only 25% to 30% of functional hepatic parenchyma is required for resolution of jaundice."*
+
+**103. What percentage of HC patients have jaundice resolved with segment III bypass?**
+
+- 50%
+- 60%
+- **Approximately two thirds**
+- 80%
+
+*Explanation: "Segment III bypass resolves jaundice in approximately two thirds of HC patients."*
+
+**104. What is the 1-year bypass patency for segment III bypass in HC patients?**
+
+- 60%
+- 70%
+- **80%**
+- 90%
+
+*Explanation: "The 1-year bypass patency in segment III bypass group was 80%."*
+
+**105. What percentage of patients achieve relief of jaundice with adequate drainage?**
+
+- 50%
+- 60%
+- **70%**
+- 80%
+
+*Explanation: "Relief of jaundice is achieved in 70% of patients if the functioning hepatic parenchyma is adequately drained."*
+
+**106. What was the median overall survival in Moureau-Zabotto et al. retrospective review?**
+
+- 8 months
+- 10 months
+- **12 months**
+- 14 months
+
+*Explanation: "Median overall survival in the cohort was 12 months."*
+
+**107. What was the 1-year progression-free survival in Moureau-Zabotto et al. study?**
+
+- 28%
+- **38%**
+- 48%
+- 58%
+
+*Explanation: "The 1-year progression-free survival was 38%."*
+
+**108. What was the 3-year progression-free survival in Moureau-Zabotto et al. study?**
+
+- 6%
+- **16%**
+- 26%
+- 36%
+
+*Explanation: "The 3-year progression-free survival was 16%."*
+
+**109. How many patients were in the ABC-02 trial?**
+
+- 310
+- **410**
+- 510
+- 610
+
+*Explanation: "The ABC-02 trial randomized 410 patients."*
+
+**110. What was the median survival with gemcitabine alone in ABC-02 trial?**
+
+- 6.2 months
+- **8.2 months**
+- 10.2 months
+- 12.2 months
+
+*Explanation: "Median survival was 8.2 months for patients receiving gemcitabine alone."*
+
+**111. What was the median survival with cisplatin plus gemcitabine in ABC-02 trial?**
+
+- 9.7 months
+- **11.7 months**
+- 13.7 months
+- 15.7 months
+
+*Explanation: "Median survival improved to 11.7 months for patients receiving cisplatin plus gemcitabine."*
+
+**112. What percentage of patients in the Netherlands RCT died in the PTBD group?**
+
+- 21
+- **11**
+- 16
+- 26
+
+*Explanation: "Of the 11 deaths in the PTBD cohort, there was increased mortality."*
+
+**113. What percentage of patients in the Netherlands RCT died in the EBD group?**
+
+- 1
+- **6**
+- 11
+- 16
+
+*Explanation: "Mortality was 11% in the EBD group (approximately 6 of 54 patients)."*
+
+**114. What percentage of unresectable patients had metastases to regional lymph nodes or distant sites at MSKCC?**
+
+- 30%
+- 40%
+- **50%**
+- 60%
+
+*Explanation: "73 (50%) of 145 unresectable patients had metastases to regional lymph nodes or distant sites."*
+
+**115. What is the median disease-specific survival for patients with wide margins?**
+
+- 36 months
+- 46 months
+- **56 months**
+- 66 months
+
+*Explanation: "The median DSS for patients with wide margins was 56 months."*
+
+**116. What is the median disease-specific survival for patients with narrow margins?**
+
+- 28 months
+- **38 months**
+- 48 months
+- 58 months
+
+*Explanation: "The median DSS was 38 months for patients with narrow margins."*
+
+**117. What is the median disease-specific survival for margin-positive patients?**
+
+- 22 months
+- **32 months**
+- 42 months
+- 52 months
+
+*Explanation: "The median DSS was 32 months for margin-positive patients."*
+
+**118. What is the median survival for R0 resection?**
+
+- 33 months
+- **43 months**
+- 53 months
+- 63 months
+
+*Explanation: "R0 resection has median survival of 43 months."*
+
+**119. What is the median survival for R1 resection?**
+
+- 14 months
+- **24 months**
+- 34 months
+- 44 months
+
+*Explanation: "R1 resection has median survival of 24 months."*
+
+**120. What is the median survival for locally advanced tumors found at exploration?**
+
+- 6 months
+- **16 months**
+- 26 months
+- 36 months
+
+*Explanation: "Locally advanced tumors have median survival of 16 months."*
+
+**121. What percentage of patients had misleading interpretation of proximal bile duct margin on frozen section?**
+
+- 5%
+- **Nearly 10%**
+- 15%
+- 20%
+
+*Explanation: "Nearly 10% of patients had a misleading interpretation of proximal bile duct margin on frozen section."*
+
+**122. How many resections at MSKCC were local resections?**
+
+- 9
+- **19**
+- 29
+- 39
+
+*Explanation: "In 106 resections at MSKCC, 19 were local resections."*
+
+**123. How many of the local resections at MSKCC were R0?**
+
+- 4
+- **9**
+- 14
+- 19
+
+*Explanation: "Of 19 local resections, 9 were R0."*
+
+**124. What is the 5-year survival rate range after resection of hilar cholangiocarcinoma?**
+
+- 1%-11%
+- **11%-44%**
+- 45%-75%
+- 76%-95%
+
+*Explanation: "After resection of hilar cholangiocarcinoma, 5-year survival rates range from 11% to 44%."*
+
+**125. What is the postoperative mortality range after resection of hilar cholangiocarcinoma?**
+
+- 1%-4%
+- **4%-17%**
+- 18%-25%
+- 26%-35%
+
+*Explanation: "Postoperative mortality ranges from 4% to 17%."*
+
+**126. What percentage of patients have recurrences after resection?**
+
+- 55%
+- 65%
+- **Up to 75%**
+- 85%
+
+*Explanation: "Recurrences are seen in up to 75% of patients."*
+
+**127. In the Nakeeb et al. (1996) study, what was the 5-year survival?**
+
+- 6%
+- **11%**
+- 16%
+- 21%
+
+*Explanation: "Nakeeb et al. (1996) reported 11% 5-year survival."*
+
+**128. In the Klempnauer et al. (1997) study, what was the 5-year survival?**
+
+- 18%
+- **28%**
+- 38%
+- 48%
+
+*Explanation: "Klempnauer et al. (1997) reported 28% 5-year survival."*
+
+**129. In the Neuhaus et al. (1999) study, what was the 5-year survival?**
+
+- 12%
+- **22%**
+- 32%
+- 42%
+
+*Explanation: "Neuhaus et al. (1999) reported 22% 5-year survival."*
+
+**130. In the Lee et al. (2000) study, what was the 5-year survival?**
+
+- 25%
+- **35%**
+- 45%
+- 55%
+
+*Explanation: "Lee et al. (2000) reported 35% 5-year survival."*
+
+**131. In the Jarnagin et al. (2005) study, what was the 5-year survival?**
+
+- 30%
+- **40%**
+- 50%
+- 60%
+
+*Explanation: "Jarnagin et al. (2005) reported 40% 5-year survival."*
+
+**132. In the Igami et al. (2010) study, what was the 5-year survival?**
+
+- 32%
+- **42%**
+- 52%
+- 62%
+
+*Explanation: "Igami et al. (2010) reported 42% 5-year survival."*
+
+**133. In the Komaya et al. (2018) study, what was the 5-year survival?**
+
+- 33.7%
+- **43.7%**
+- 53.7%
+- 63.7%
+
+*Explanation: "Komaya et al. (2018) reported 43.7% 5-year survival."*
+
+**134. In the Nakeeb et al. (1996) study, what was the mortality rate?**
+
+- 2%
+- **4%**
+- 6%
+- 8%
+
+*Explanation: "Nakeeb et al. (1996) reported 4% mortality."*
+
+**135. In the Klempnauer et al. (1997) study, what was the mortality rate?**
+
+- 5%
+- **10%**
+- 15%
+- 20%
+
+*Explanation: "Klempnauer et al. (1997) reported 10% mortality."*
+
+**136. In the Neuhaus et al. (1999) study, what was the mortality rate?**
+
+- 4%
+- **8%**
+- 12%
+- 16%
+
+*Explanation: "Neuhaus et al. (1999) reported 8% mortality."*
+
+**137. In the Launois et al. (2000) study, what was the mortality rate?**
+
+- 12%
+- **17%**
+- 22%
+- 27%
+
+*Explanation: "Launois et al. (2000) reported 17% mortality."*
+
+**138. In the Lee et al. (2000) study, what was the mortality rate?**
+
+- 5%
+- **10%**
+- 15%
+- 20%
+
+*Explanation: "Lee et al. (2000) reported 10% mortality."*
+
+**139. In the Gerhards et al. (2000) study, what was the mortality rate?**
+
+- 12%
+- **17%**
+- 22%
+- 27%
+
+*Explanation: "Gerhards et al. (2000) reported 17% mortality."*
+
+**140. In the Nishio et al. (2005) study, what was the mortality rate?**
+
+- 5.6%
+- **7.6%**
+- 9.6%
+- 11.6%
+
+*Explanation: "Nishio et al. (2005) reported 7.6% mortality."*
+
+**141. In the Jarnagin et al. (2005) study, what was the mortality rate?**
+
+- 5.5%
+- **7.5%**
+- 9.5%
+- 11.5%
+
+*Explanation: "Jarnagin et al. (2005) reported 7.5% mortality."*
+
+**142. In the Igami et al. (2010) study, what was the mortality rate?**
+
+- 1%
+- **2%**
+- 3%
+- 4%
+
+*Explanation: "Igami et al. (2010) reported 2% mortality."*
+
+**143. In the Unno et al. (2010) study, what was the mortality rate?**
+
+- 4%
+- **8%**
+- 12%
+- 16%
+
+*Explanation: "Unno et al. (2010) reported 8% mortality."*
+
+**144. In the Matsuo et al. (2012) study, what was the mortality rate?**
+
+- 5%
+- **7%**
+- 9%
+- 11%
+
+*Explanation: "Matsuo et al. (2012) reported 7% mortality."*
+
+**145. In the Nagino et al. (2013) study, what was the mortality rate?**
+
+- 2.7%
+- **4.7%**
+- 6.7%
+- 8.7%
+
+*Explanation: "Nagino et al. (2013) reported 4.7% mortality."*
+
+**146. In the Wiggers et al. (2016) study, what was the mortality rate?**
+
+- 9%
+- **14%**
+- 19%
+- 24%
+
+*Explanation: "Wiggers et al. (2016) reported 14% mortality."*
+
+**147. What percentage of HC tumors are Type I in Bismuth-Corlette classification?**
+
+- Tumors distal to confluence
+- Tumors involving confluence
+- Tumors extending to right hepatic duct
+- Tumors involving bilateral hepatic ducts
+
+*Explanation: "Type I tumors are distal to the biliary confluence."*
+
+**148. What percentage of HC tumors are Type II in Bismuth-Corlette classification?**
+
+- Tumors distal to confluence
+- **Tumors involving confluence**
+- Tumors extending to right hepatic duct
+- Tumors involving bilateral hepatic ducts
+
+*Explanation: "Type II tumors involve the confluence."*
+
+**149. What defines Type IIIA tumors in Bismuth-Corlette classification?**
+
+- Tumors distal to confluence
+- Tumors involving confluence
+- **Tumors extending past confluence to right hepatic duct**
+- Tumors involving bilateral hepatic ducts
+
+*Explanation: "Type IIIA tumors extend past the confluence to the right hepatic duct."*
+
+**150. What defines Type IIIB tumors in Bismuth-Corlette classification?**
+
+- Tumors distal to confluence
+- Tumors involving confluence
+- Tumors extending to right hepatic duct
+- **Tumors involving confluence and left hepatic duct**
+
+*Explanation: "Type IIIB tumors involve the confluence and left hepatic duct."*
+
+**151. What defines Type IV tumors in Bismuth-Corlette classification?**
+
+- Tumors distal to confluence
+- Tumors involving confluence
+- Tumors extending to right hepatic duct
+- **Tumors involving confluence and bilateral hepatic ducts**
+
+*Explanation: "Type IV tumors involve the confluence and bilateral hepatic ducts."*
+
+**152. What T stage describes tumor confined to bile duct with extension up to muscle layer?**
+
+- T0
+- Tis
+- **T1**
+- T2a
+
+*Explanation: "T1 describes tumor confined to the bile duct, with extension up to the muscle layer or fibrous tissue."*
+
+**153. What T stage describes tumor invading beyond bile duct wall to surrounding adipose tissue?**
+
+- T1
+- **T2a**
+- T2b
+- T3
+
+*Explanation: "T2a describes tumor invades beyond the wall of the bile duct to surrounding adipose tissue."*
+
+**154. What T stage describes tumor invading adjacent hepatic parenchyma?**
+
+- T1
+- T2a
+- **T2b**
+- T3
+
+*Explanation: "T2b describes tumor invades adjacent hepatic parenchyma."*
+
+**155. What T stage describes tumor invading unilateral branches of portal vein or hepatic artery?**
+
+- T2a
+- T2b
+- **T3**
+- T4
+
+*Explanation: "T3 describes tumor invades unilateral branches of the portal vein or hepatic artery."*
+
+**156. What T stage describes tumor invading main portal vein or its branches bilaterally?**
+
+- T2b
+- T3
+- **T4**
+- Tis
+
+*Explanation: "T4 describes tumor invades main portal vein or its branches bilaterally, or the common hepatic artery."*
+
+**157. What N stage describes one to three positive lymph nodes?**
+
+- N0
+- **N1**
+- N2
+- NX
+
+*Explanation: "N1 describes one to three positive lymph nodes."*
+
+**158. What N stage describes four or more positive lymph nodes?**
+
+- N0
+- N1
+- **N2**
+- NX
+
+*Explanation: "N2 describes four or more positive lymph nodes."*
+
+**159. What stage describes Tis N0 M0?**
+
+- Stage 0
+- Stage I
+- Stage II
+- Stage III
+
+*Explanation: "Stage 0 describes Tis N0 M0."*
+
+**160. What stage describes T1 N0 M0?**
+
+- Stage 0
+- **Stage I**
+- Stage II
+- Stage III
+
+*Explanation: "Stage I describes T1 N0 M0."*
+
+**161. What stage describes T2a, T2b N0 M0?**
+
+- Stage I
+- **Stage II**
+- Stage IIIA
+- Stage IIIB
+
+*Explanation: "Stage II describes T2a, T2b N0 M0."*
+
+**162. What stage describes T3 N0 M0?**
+
+- Stage II
+- **Stage IIIA**
+- Stage IIIB
+- Stage IIIC
+
+*Explanation: "Stage IIIA describes T3 N0 M0."*
+
+**163. What stage describes T4 N0 M0?**
+
+- Stage IIIA
+- **Stage IIIB**
+- Stage IIIC
+- Stage IVA
+
+*Explanation: "Stage IIIB describes T4 N0 M0."*
+
+**164. What stage describes Any T N1 M0?**
+
+- Stage IIIA
+- Stage IIIB
+- **Stage IIIC**
+- Stage IVA
+
+*Explanation: "Stage IIIC describes Any T N1 M0."*
+
+**165. What stage describes Any T N2 M0?**
+
+- Stage IIIC
+- **Stage IVA**
+- Stage IVB
+- Stage III
+
+*Explanation: "Stage IVA describes Any T N2 M0."*
+
+**166. What stage describes Any T Any N M1?**
+
+- Stage IVA
+- **Stage IVB**
+- Stage IIIC
+- Stage IIIB
+
+*Explanation: "Stage IVB describes Any T Any N M1."*
+
+**167. What T stage in MSKCC describes tumor involving biliary confluence with unilateral extension to second-order biliary radicles?**
+
+- **T1**
+- T2
+- T3
+- T4
+
+*Explanation: "T1 describes tumor involving biliary confluence ± unilateral extension to second-order biliary radicles."*
+
+**168. What T stage in MSKCC describes tumor with ipsilateral portal vein involvement?**
+
+- T1
+- **T2**
+- T3
+- T4
+
+*Explanation: "T2 describes tumor with ipsilateral portal vein involvement ± ipsilateral hepatic lobar atrophy."*
+
+**169. What T stage in MSKCC describes tumor with contralateral portal vein involvement?**
+
+- T1
+- T2
+- **T3**
+- T4
+
+*Explanation: "T3 describes unilateral extension with contralateral portal vein involvement or contralateral hepatic lobar atrophy."*
+
+**170. What is the most common cause of death in unresectable bile duct cancer?**
+
+- Hemorrhage
+- **Liver failure and infectious complications**
+- Cardiac failure
+- Respiratory failure
+
+*Explanation: "The most common causes of death are liver failure and infectious complications related to biliary obstruction."*
+
+**171. Within what time do most patients with unresectable bile duct cancer die?**
+
+- 6 months
+- **1 year**
+- 2 years
+- 3 years
+
+*Explanation: "Most patients with unresectable bile duct cancer die within 1 year of diagnosis."*
+
+**172. What is the preferred approach for biliary drainage in resectable HC when FLR is less than 30%?**
+
+- No drainage needed
+- **Preoperative biliary drainage**
+- Immediate resection
+- Palliative care only
+
+*Explanation: "Small FLR requires preoperative biliary drainage to improve postoperative liver regeneration."*
+
+**173. What is the mortality rate for FLR less than 30% without drainage?**
+
+- 13%
+- 23%
+- **33%**
+- 43%
+
+*Explanation: "OP mortality was 33% for FLR not drained with FLR less than 30%."*
+
+**174. What is the hepatic insufficiency rate for FLR less than 30% without drainage?**
+
+- 13%
+- 23%
+- **33%**
+- 43%
+
+*Explanation: "Hepatic insufficiency was 33% for FLR not drained with FLR less than 30%."*
+
+**175. What is the mortality rate for FLR greater than or equal to 30%?**
+
+- 0%
+- **5.1%**
+- 10.1%
+- 15.1%
+
+*Explanation: "FLR ≥30% had mortality of 5.1%."*
+
+**176. What is the hepatic insufficiency rate for FLR greater than or equal to 30%?**
+
+- **0%**
+- 5%
+- 10%
+- 15%
+
+*Explanation: "FLR ≥30% had hepatic insufficiency of 0%."*
+
+**177. What percentage of patients with large FLR had increased mortality after biliary drainage?**
+
+- 2%
+- **12%**
+- 22%
+- 32%
+
+*Explanation: "Patients with large FLR (>50%) had 12% mortality after biliary drainage compared with 0% without drainage."*
+
+**178. What is the preferred type of biliary drainage to limit bile loss?**
+
+- External drainage
+- **Internal drainage**
+- Nasobiliary drainage
+- No drainage
+
+*Explanation: "Internal drainage is preferred to limit bile loss, malabsorption, and dehydration."*
+
+**179. What is the main objective in HC resection?**
+
+- Tumor debulking
+- **Complete tumor extirpation and reconstitution of biliary enteric continuity**
+- Palliative drainage
+- Biopsy only
+
+*Explanation: "The main objective in HC resection is complete tumor extirpation and reconstitution of biliary enteric continuity."*
+
+**180. What is the standard of care for unresectable locally advanced and metastatic biliary tract cancers?**
+
+- 5-FU alone
+- **Gemcitabine and cisplatin**
+- Capecitabine alone
+- Radiation therapy
+
+*Explanation: "The ABC-02 trial established gemcitabine and cisplatin as the standard of care for unresectable locally advanced and metastatic biliary tract cancers."*
+
+## Next lot of MCQs (GitHub Copilot)
+
+**1. Which subtype comprises approximately 50% to 60% of cholangiocarcinomas?**
+
+- 20%–30% distal cholangiocarcinoma  
+- **Perihilar cholangiocarcinoma (HC)**  
+- Intrahepatic cholangiocarcinoma (ICC)  
+- Ampullary carcinoma  
+
+*Explanation: *Perihilar cholangiocarcinoma (HC) comprises about 50%–60% of cholangiocarcinomas, while distal cholangiocarcinoma accounts for about 20%–30% and ICC about 20%.*
+
+
+**2. What is the approximate annual number of extrahepatic cholangiocarcinoma (EHC) cases in the United States?**
+
+- 500  
+- **2500**  
+- 10,000  
+- 50,000  
+
+*Explanation: *The chapter reports approximately 2,500 new cases of extrahepatic cholangiocarcinoma annually in the United States.*
+
+
+**3. Which clinical presentation is classically associated with extrahepatic biliary tumors?**
+
+- Severe abdominal pain and fever  
+- **Painless jaundice**  
+- Hematemesis  
+- Acute pancreatitis  
+
+*Explanation: *Patients with extrahepatic biliary tumors classically present with painless jaundice due to biliary obstruction.*
+
+
+**4. Which risk factor is strongly associated with cholangiocarcinoma and involves chronic cholestasis and inflammation?**
+
+- Hepatitis A infection  
+- **Primary sclerosing cholangitis (PSC)**  
+- Acute cholecystitis  
+- Peptic ulcer disease  
+
+*Explanation: *Primary sclerosing cholangitis (PSC) is a well-recognized risk factor for cholangiocarcinoma because it causes chronic cholestasis and inflammation.*
+
+
+**5. Which metabolic condition has been associated with an increased risk of extrahepatic cholangiocarcinoma?**
+
+- Type 1 diabetes  
+- **Type 2 diabetes**  
+- Hypothyroidism  
+- Celiac disease  
+
+*Explanation: *Type 2 diabetes has been associated with an increased risk of cholangiocarcinoma and extrahepatic cholangiocarcinoma in meta-analyses.*
+
+
+**6. What histologic type comprises more than 75% of extrahepatic biliary tumors?**
+
+- Squamous cell carcinoma  
+- Neuroendocrine tumor  
+- **Adenocarcinoma**  
+- Lymphoma  
+
+*Explanation: *Adenocarcinoma is the dominant histologic group, comprising over 75% of extrahepatic biliary tumors.*
+
+
+**7. Papillary-type extrahepatic cholangiocarcinomas are associated with which prognostic feature?**
+
+- Worse survival than nodular lesions  
+- Higher rate of vascular invasion  
+- **Improved survival compared with nodular sclerosing lesions**  
+- More frequent metastasis to bone  
+
+*Explanation: *Papillary tumors (seen in up to 25% of EHCs) are associated with improved survival compared with nodular sclerosing lesions.*
+
+
+**8. Which molecular alterations are commonly found in perihilar cholangiocarcinoma (HC)?**
+
+- IDH and FGFR2 fusions  
+- **KRAS and TP53 mutations**  
+- BRAF V600E only  
+- ALK rearrangements only  
+
+*Explanation: *KRAS (≈55%) and TP53 (≈40%) mutations are common in perihilar cholangiocarcinoma.*
+
+
+**9. Which tumor marker is often markedly elevated in the setting of jaundice but is not specific?**
+
+- Alpha-fetoprotein (AFP)  
+- **CA19-9**  
+- PSA  
+- Chromogranin A  
+
+*Explanation: *CA19-9 is often elevated in cholangiocarcinoma but can be markedly raised in the setting of jaundice and is not specific.*
+
+
+**10. What bilirubin level (> value) suggests malignant obstruction rather than choledocholithiasis?**
+
+- >2 mg/dL  
+- >4 mg/dL  
+- **>10 mg/dL**  
+- >20 mg/dL  
+
+*Explanation: *Significantly elevated bilirubin levels (>10 mg/dL) suggest malignant obstruction, whereas choledocholithiasis often has lower bilirubin levels (commonly 2–4 mg/dL).*
+
+
+**11. Which noninvasive imaging modality has largely replaced direct cholangiography for initial assessment of biliary malignancy?**
+
+- Plain abdominal X-ray  
+- **MRI with MRCP**  
+- Endoscopic ultrasound (EUS)  
+- Hepatobiliary iminodiacetic acid (HIDA) scan  
+
+*Explanation: *MRI with MRCP, including biliary tree reconstruction, has replaced direct cholangiography for initial assessment of biliary malignancy.*
+
+
+**12. What is the approximate sensitivity and specificity of 18FDG-PET for detecting primary extrahepatic cholangiocarcinoma, per the cited meta-analysis?**
+
+- Sensitivity 50%, specificity 90%  
+- Sensitivity 70%, specificity 70%  
+- **Sensitivity ~92%, specificity ~51%**  
+- Sensitivity 30%, specificity 30%  
+
+*Explanation: *The meta-analysis reported sensitivity ≈91.7% and specificity ≈51.3% for 18FDG-PET in diagnosis of primary tumor, lymph node invasion, distant metastases, and relapsed disease.*
+
+
+**13. What is the approximate sensitivity and specificity of ERCP or PTC for obtaining a tissue diagnosis in biliary strictures?**
+
+- 30%–40%  
+- **70%–75%**  
+- 90%–95%  
+- 100%  
+
+*Explanation: *Both ERCP and PTC have a sensitivity and specificity of approximately 70%–75% for obtaining a tissue diagnosis.*
+
+
+**14. In patients with a bile duct stricture and clinical presentation consistent with cholangiocarcinoma, when is histologic confirmation generally unnecessary?**
+
+- When planning palliative therapy only  
+- **When proceeding with attempted resection**  
+- When CA19-9 is normal  
+- When MRCP is inconclusive  
+
+*Explanation: *Histologic confirmation is generally unnecessary before proceeding with attempted resection if clinical suspicion is high; negative biopsies do not rule out malignancy.*
+
+
+**15. Which four criteria are assessed to determine resectability of hilar cholangiocarcinoma?**
+
+- Tumor grade, CA19-9, age, sex  
+- **Extent of biliary involvement, lobar atrophy, vascular involvement, presence of metastatic disease**  
+- Presence of jaundice, pruritus, weight loss, pain  
+- Number of prior ERCPs, PTCs, stents, and biopsies  
+
+*Explanation: *Resectability is determined by extent of biliary tree involvement, lobar atrophy, vascular involvement, and presence of metastatic disease.*
+
+
+**16. For a predicted future liver remnant (FLR) less than which percentage does preoperative biliary drainage of the FLR appear to improve outcomes?**
+
+- <10%  
+- **<30%**  
+- <50%  
+- <70%  
+
+*Explanation: *Preoperative biliary drainage of the FLR appears to improve outcomes when predicted FLR is less than 30%.*
+
+
+**17. Which drainage approach allows precise placement of catheters into the future liver remnant and delineation of biliary anatomy for operative planning?**
+
+- Endoscopic biliary drainage (EBD)  
+- **Percutaneous transhepatic biliary drainage (PTBD)**  
+- Endoscopic nasobiliary drainage (ENBD) only  
+- Laparoscopic cholecystostomy  
+
+*Explanation: *PTBD allows precise placement of drainage catheters in the FLR and delineation of tumor extent, aiding operative planning.*
+
+
+**18. Which biliary drainage method is preferred to limit bile loss, malabsorption, and dehydration?**
+
+- External percutaneous drainage only  
+- **Internal drainage (endoscopic or internalized PTBD)**  
+- Nasogastric suction  
+- Total parenteral nutrition  
+
+*Explanation: *Internal biliary drainage is preferred to limit bile loss, malabsorption, and dehydration compared with prolonged external drainage.*
+
+
+**19. Which randomized trial comparing PTBD versus EBD for preoperative drainage was stopped early due to increased mortality in which arm?**
+
+- Stopped early due to EBD mortality  
+- **Stopped early due to PTBD mortality**  
+- Stopped early due to equal mortality  
+- No trial was stopped early  
+
+*Explanation: *A Dutch RCT was stopped early after accruing 54 patients because of increased mortality in the PTBD group versus EBD (41% vs 11%), though interpretation is limited by early termination and crossovers.*
+
+
+**20. Which drainage method is associated with patient discomfort due to nasal tubing but may reduce reintervention rates in some series?**
+
+- PTBD  
+- EBD with plastic stent  
+- **Endoscopic nasobiliary drainage (ENBD)**  
+- Surgical biliary-enteric bypass  
+
+*Explanation: *ENBD can be associated with lower reintervention rates in some studies but causes significant nasal discomfort for patients.*
+
+
+**21. What is the general indication threshold FLR for portal vein embolization (PVE) in a normal healthy liver?**
+
+- <10%  
+- **<25%**  
+- <40%  
+- <60%  
+
+*Explanation: *General indications for PVE include FLR <25% in a normal healthy liver, <30% after chemotherapy injury, and <40% in cirrhosis.*
+
+
+**22. What metric measures the rate of hypertrophy after PVE and predicts postoperative liver failure risk?**
+
+- MELD score  
+- Child-Pugh score  
+- **Kinetic growth rate (KGR)**  
+- APRI score  
+
+*Explanation: *Kinetic growth rate (KGR), the degree of hypertrophy per week after PVE, predicts postoperative liver insufficiency risk.*
+
+
+**23. Which classification stratifies biliary tumors by extent of biliary involvement but does not account for vascular invasion?**
+
+- AJCC staging  
+- **Bismuth-Corlette classification**  
+- MSKCC staging system  
+- TNM for pancreatic cancer  
+
+*Explanation: *The Bismuth-Corlette classification stratifies tumors by biliary involvement (Type I–IV) but does not describe vascular involvement or prognosis.*
+
+
+**24. Diagnostic laparoscopy can avoid a nontherapeutic laparotomy in approximately what proportion of patients with potentially resectable hilar cholangiocarcinoma?**
+
+- 5%  
+- 10%  
+- **25%**  
+- 75%  
+
+*Explanation: *Diagnostic laparoscopy can avoid a nontherapeutic laparotomy in about 25% of patients undergoing resection for HC.*
+
+
+**25. What is the primary surgical objective when resecting hilar cholangiocarcinoma?**
+
+- Maximal lymph node harvest only  
+- Palliative biliary drainage only  
+- **Complete tumor extirpation with biliary-enteric continuity**  
+- Liver transplant in all cases  
+
+*Explanation: *The main objective is complete tumor removal (R0 resection) and restoration of biliary-enteric continuity.*
+
+
+**26. Which additional liver structure is often resected en bloc with hilar tumors to achieve negative margins?**
+
+- Left lateral segment only  
+- Gallbladder only  
+- **Caudate lobe (selectively)**  
+- Spleen  
+
+*Explanation: *Caudate lobectomy is often performed en bloc with major hepatectomy for centrally located hilar tumors when caudate ducts are involved.*
+
+
+**27. What margin status is most strongly associated with improved long-term survival after HC resection?**
+
+- R2 (macroscopic residual)  
+- **R0 (histologically negative margins)**  
+- R1 (microscopic positive)  
+- No margin status effect  
+
+*Explanation: *Negative resection margins (R0) are strongly associated with improved disease-specific survival compared with R1 or R2 resections.*
+
+
+**28. Which vascular invasion pattern generally precludes resection for hilar cholangiocarcinoma?**
+
+- Ipsilateral portal vein branch involvement with contralateral intact vasculature  
+- Limited portal vein branch involvement amenable to reconstruction  
+- **Unreconstructible main portal vein encasement or bilateral main portal vein branch occlusion**  
+- Isolated hepatic artery involvement that can be reconstructed  
+
+*Explanation: *Unreconstructible main portal vein encasement or bilateral involvement is a contraindication to resection.*
+
+
+**29. Which operative incision is commonly used for exploration and resection of hilar cholangiocarcinoma?**
+
+- Left subcostal incision only  
+- Midline incision only  
+- **Right subcostal with extension to xiphoid ("hockey stick") or midline**  
+- Thoracotomy  
+
+*Explanation: *A right subcostal incision with proximal extension to the xiphoid ("hockey stick") or a midline incision is commonly used for exploration.*
+
+
+**30. When multiple exposed intrahepatic duct orifices remain after tumor removal, what reconstruction is typically used?**
+
+- End-to-end bile duct anastomosis only  
+- **Roux-en-Y hepaticojejunostomy**  
+- Choledochoduodenostomy  
+- T-tube drainage only  
+
+*Explanation: *A Roux-en-Y hepaticojejunostomy is used to restore biliary-enteric continuity when multiple duct orifices are present.*
+
+
+**31. What is ALPPS primarily designed to achieve in liver surgery?**
+
+- Decrease blood loss during resection  
+- Replace portal vein embolization entirely  
+- **Rapid hypertrophy of the future liver remnant for staged hepatectomy**  
+- Avoid biliary-enteric anastomosis  
+
+*Explanation: *ALPPS (associating liver partition and portal vein ligation for staged hepatectomy) induces rapid FLR hypertrophy but has high morbidity and mortality.*
+
+
+**32. Why is ALPPS rarely used for hilar cholangiocarcinoma?**
+
+- It is ineffective at inducing hypertrophy  
+- It is too inexpensive and not widely available  
+- **High perioperative morbidity and mortality, especially with infected biliary trees**  
+- It prevents later chemotherapy  
+
+*Explanation: *ALPPS has high complication and mortality rates in HC patients, many of whom have bactibilia and are prone to infectious complications.*
+
+
+**33. Which protocol includes neoadjuvant chemoradiation followed by strict assessment and liver transplantation for selected unresectable HC?**
+
+- ABC-02 protocol  
+- BILCAP protocol  
+- **Mayo Clinic transplant protocol**  
+- PRODIGE protocol  
+
+*Explanation: *The Mayo Clinic protocol uses neoadjuvant chemoradiation and strict selection criteria before liver transplantation for unresectable HC.*
+
+
+**34. Which of the following is a contraindication to the Mayo transplant protocol for HC?**
+
+- CA19-9 >100  
+- Tumor ≤3 cm  
+- **Positive regional lymph nodes or metastatic disease**  
+- Tissue diagnosis obtained by endoluminal biopsy  
+
+*Explanation: *Positive nodal or metastatic disease is a contraindication to transplant under the Mayo protocol.*
+
+
+**35. In comparative analyses, liver transplantation for selected HC patients has shown what effect on 5-year overall survival versus resection in some series?**
+
+- No difference in any study  
+- Worse survival with transplant in all studies  
+- **Improved 5-year survival with transplant in some retrospective series**  
+- Transplant is universally superior and standard for all HC  
+
+*Explanation: *Some retrospective analyses reported improved 5-year survival with transplant versus resection in selected patients, though selection bias and limited applicability exist.*
+
+
+**36. What operation is typically required for resection of distal cholangiocarcinoma?**
+
+- Left hepatectomy  
+- **Pancreaticoduodenectomy (Whipple)**  
+- Right hepatectomy  
+- Total gastrectomy  
+
+*Explanation: *Distal bile duct cancers are typically resected with pancreaticoduodenectomy.*
+
+
+**37. Which factor was identified as the only independent predictor of long-term survival in resected distal bile duct cancer in the cited study?**
+
+- Tumor size  
+- Resection margin status only  
+- **Lymph node involvement**  
+- Patient age  
+
+*Explanation: *Lymph node involvement was the only independent predictor of long-term survival in resected distal bile duct cancer in the referenced analysis.*
+
+
+**38. What is the reported range of 5-year survival after resection of hilar cholangiocarcinoma across series?**
+
+- 0%–5%  
+- **11%–44%**  
+- 60%–80%  
+- 90%–100%  
+
+*Explanation: *Reported 5-year survival rates after HC resection range from about 11% to 44% across series.*
+
+
+**39. Which outcome is most strongly associated with survival after HC resection?**
+
+- Preoperative CA19-9 level only  
+- Type of biliary drainage used preoperatively  
+- **Pathologic margin status (R0 vs R1)**  
+- Patient sex  
+
+*Explanation: *Margin status (R0 vs R1) is one of the strongest associations with survival after HC resection.*
+
+
+**40. What proportion of patients recur after resection of hilar cholangiocarcinoma in many series?**
+
+- <10%  
+- 20%–30%  
+- **Up to 75%**  
+- 100%  
+
+*Explanation: *Recurrence rates after HC resection are high, reported up to about 75% in some series.*
+
+
+**41. Which adjuvant chemotherapy agent was shown in the BILCAP trial (per-protocol analysis) to improve overall survival after resection?**
+
+- Gemcitabine alone  
+- **Capecitabine**  
+- Oxaliplatin alone  
+- Mitomycin C  
+
+*Explanation: *The BILCAP per-protocol analysis showed improved overall and recurrence-free survival with adjuvant capecitabine after biliary tract cancer resection.*
+
+
+**42. Which adjuvant regimen failed to show benefit over surveillance in the PRODIGE 12 trial?**
+
+- Capecitabine  
+- **GEMOX (gemcitabine + oxaliplatin)**  
+- Gemcitabine + cisplatin  
+- S-1  
+
+*Explanation: *The PRODIGE 12 trial comparing adjuvant GEMOX versus surveillance showed no difference in relapse-free survival.*
+
+
+**43. Which trial established gemcitabine plus cisplatin as standard first-line therapy for unresectable biliary tract cancer?**
+
+- BILCAP  
+- BILCAP-2  
+- **ABC-02**  
+- PRODIGE 12  
+
+*Explanation: *The ABC-02 trial established gemcitabine plus cisplatin as the standard of care for unresectable locally advanced and metastatic biliary tract cancers.*
+
+
+**44. Which adjuvant approach is considered for patients with positive resection margins despite limited randomized evidence?**
+
+- Observation only  
+- **Adjuvant radiation (with or without chemotherapy)**  
+- Immediate re-resection in all cases  
+- High-dose systemic antibiotics  
+
+*Explanation: *Adjuvant radiation therapy (often with concurrent chemotherapy) may be considered for patients with positive margins, though evidence is limited.*
+
+
+**45. What percentage of resected hilar cholangiocarcinoma patients developed recurrence in a single-institution R0 cohort?**
+
+- 10%  
+- 25%  
+- **60%**  
+- 90%  
+
+*Explanation: *In one single-institution R0 cohort, about 60% of patients developed recurrence during long-term follow-up.*
+
+
+**46. Which molecular feature is present in up to about 5% of hilar cholangiocarcinomas and suggests potential benefit from immunotherapy?**
+
+- HER2 amplification  
+- FGFR2 fusion  
+- **Mismatch repair deficiency (MMR deficiency)**  
+- IDH1 mutation  
+
+*Explanation: *Mismatch repair deficiency is seen in up to ~5% of HC, suggesting potential responsiveness to immunotherapy in that subset.*
+
+
+**47. For palliation of unresectable hilar obstruction, what minimum proportion of functional hepatic parenchyma needs satisfactory drainage to resolve jaundice?**
+
+- 5%–10%  
+- **25%–30%**  
+- 50%–60%  
+- 80%–90%  
+
+*Explanation: *Satisfactory drainage of approximately 25%–30% of functional hepatic parenchyma is typically required to resolve jaundice.*
+
+
+**48. Which stent type has longer median patency for malignant biliary obstruction?**
+
+- Plastic stents (PS)  
+- **Self-expandable metal stents (SEMS)**  
+- T-tube drains  
+- Nasobiliary drains  
+
+*Explanation: *SEMS have wider diameter and longer median patency (~6 months) compared with plastic stents (~1.4–3 months).*
+
+
+**49. In hilar obstruction, how many major hilar ducts often require drainage for adequate palliation?**
+
+- One duct only  
+- **Two or more (often all three major ducts)**  
+- None, only systemic therapy  
+- Four or more ducts  
+
+*Explanation: *Hilar tumors often isolate multiple major ducts (left, right anterior, right posterior), and two or more stents may be required for adequate drainage.*
+
+
+**50. Which palliative surgical bypass is often used for unresectable hilar tumors discovered at operation?**
+
+- Choledochojejunostomy to the distal common bile duct only  
+- **Segment III hepaticojejunostomy (segment III bypass)**  
+- Cholecystostomy tube only  
+- Total pancreatectomy  
+
+*Explanation: *Segment III bypass is commonly used to restore biliary-enteric continuity in unresectable hilar tumors and provides good palliation with acceptable morbidity.*
+
+
+**51. Which complication is common after biliary instrumentation and an important source of perioperative morbidity?**
+
+- Pulmonary embolism  
+- **Cholangitis and infectious complications**  
+- Deep vein thrombosis only  
+- Acute myocardial infarction  
+
+*Explanation: *Cholangitis and infectious complications are common after biliary instrumentation and are significant sources of perioperative morbidity.*
+
+
+**52. Which imaging modality is particularly useful in assessing portal venous invasion preoperatively?**
+
+- Plain radiography  
+- **Duplex ultrasonography (in experienced hands)**  
+- HIDA scan  
+- Bone scan  
+
+*Explanation: *Duplex ultrasound can accurately predict portal vein involvement and was reported to predict portal vein involvement in 93% of cases in a series.*
+
+
+**53. Which finding on ERCP suggests gallbladder carcinoma rather than hilar cholangiocarcinoma?**
+
+- Smooth tapered proximal stricture only  
+- **Nonfilling/occlusion of the cystic duct with mid-bile duct obstruction and irregular gallbladder wall**  
+- Dilated pancreatic duct only  
+- Normal cystic duct filling  
+
+*Explanation: *Nonfilling of the cystic duct, irregular thickened gallbladder wall with infiltration into segments IV/V, and mid-bile duct obstruction suggest gallbladder carcinoma.*
+
+
+**54. What proportion of resected proximal bile duct strictures are benign (malignant masquerade)?**
+
+- 0%  
+- **10%–15%**  
+- 50%–60%  
+- 90%  
+
+*Explanation: *Benign strictures account for about 10%–15% of resected strictures and can be difficult to distinguish from malignancy preoperatively.*
+
+
+**55. Which serum test can help diagnose IgG4-related autoimmune cholangiopathy?**
+
+- CA19-9  
+- CEA  
+- **Serum IgG4 level**  
+- Alpha-fetoprotein  
+
+*Explanation: *Elevated serum IgG4 levels can help identify IgG4-related cholangiopathy, which may respond to steroids.*
+
+
+**56. Which preoperative imaging protocol is recommended for high-quality assessment of biliary tumors?**
+
+- Single-phase CT only  
+- Noncontrast MRI only  
+- **Multidetector multiphasic CT (thin 1 mm arterial and portal venous phases) and MRI/MRCP**  
+- Abdominal X-ray and ultrasound only  
+
+*Explanation: *High-quality preoperative imaging includes multidetector multiphasic CT with thin cuts in arterial and portal venous phases and MRI/MRCP for biliary anatomy.*
+
+
+**57. Which of the following is NOT a common precancerous lesion of the biliary tract?**
+
+- Biliary intraepithelial neoplasia  
+- Intraductal papillary neoplasm of the biliary tract  
+- Mucinous cystic neoplasm  
+- **Hepatic adenoma**  
+
+*Explanation: *Hepatic adenoma is not listed as a biliary precancerous lesion; biliary intraepithelial neoplasia, intraductal papillary neoplasm, intraductal tubular papillary neoplasm, and mucinous cystic neoplasm are precursors.*
+
+
+**58. Which immunohistochemical marker is commonly associated with extrahepatic cholangiocarcinoma?**
+
+- TTF-1  
+- **MUC5AC**  
+- Chromogranin A only  
+- Synaptophysin only  
+
+*Explanation: *MUC5AC (a mucin) is among common immunohistochemical markers for EHC.*
+
+
+**59. Which genetic syndrome is mentioned as a rare genetic risk factor for EHC?**
+
+- BRCA1 mutation syndrome  
+- **Lynch syndrome**  
+- Familial adenomatous polyposis (FAP)  
+- MEN1  
+
+*Explanation: *Lynch syndrome is noted as a rare genetic disorder associated with increased risk of extrahepatic cholangiocarcinoma.*
+
+
+**60. Which imaging finding suggests lobar atrophy due to ipsilateral portal vein compromise?**
+
+- Enlarged lobe with increased perfusion  
+- **Shrunken, hypoperfused lobe with crowding of dilated bile ducts and contralateral hypertrophy**  
+- Diffuse fatty infiltration only  
+- Multiple cysts in the lobe  
+
+*Explanation: *Lobar atrophy from portal vein compromise appears as a shrunken, hypoperfused lobe with crowding of dilated ducts and compensatory contralateral hypertrophy.*
+
+
+**61. What is the typical role of PET/CT in evaluation of extrahepatic cholangiocarcinoma?**
+
+- Routine staging for all patients  
+- Replacement for MRCP  
+- **Problem-solving tool for equivocal findings on cross-sectional imaging**  
+- Primary modality for assessing biliary anatomy  
+
+*Explanation: *PET/CT is best used as a problem-solving tool when cross-sectional imaging findings are equivocal; routine preoperative use is unproven.*
+
+
+**62. Which biopsy approaches have high false-negative rates in biliary strictures?**
+
+- Percutaneous core biopsy only  
+- **Endoscopic brushings, EUS-FNA, and PTC endobiliary forceps biopsy**  
+- Open surgical biopsy only  
+- Skin punch biopsy  
+
+*Explanation: *Endoscopic brushings, EUS-FNA, and PTC endobiliary forceps biopsy have high false-negative rates for biliary strictures.*
+
+
+**63. Which of the following is a key preoperative management goal for patients with suspected extrahepatic cholangiocarcinoma?**
+
+- Immediate resection without imaging  
+- **Determine resectability, hepatic reserve, and performance status**  
+- Start high-dose steroids in all patients  
+- Routine liver transplant for all patients  
+
+*Explanation: *Preoperative evaluation focuses on resectability, hepatic reserve, and overall performance status to guide management.*
+
+
+**64. Which patient factor listed in Table 51A.1 can render hilar cholangiocarcinoma nonresectable?**
+
+- Young age only  
+- **Cirrhosis with portal hypertension**  
+- Prior appendectomy only  
+- Controlled diabetes  
+
+*Explanation: *Patient factors such as being medically unfit for major operation and cirrhosis with portal hypertension are criteria for nonresectability.*
+
+
+**65. Which local tumor extent feature listed in Table 51A.1 indicates nonresectability?**
+
+- Single segmental duct involvement only  
+- **Bilateral hepatic duct involvement up to secondary biliary radicles**  
+- Small distal bile duct lesion amenable to Whipple  
+- Isolated cystic duct tumor  
+
+*Explanation: *Bilateral involvement up to secondary biliary radicles is a local tumor extent criterion for nonresectability.*
+
+
+**66. Which distant tumor spread finding makes hilar cholangiocarcinoma nonresectable?**
+
+- Regional hepatoduodenal ligament nodes only  
+- **Positive lymph nodes outside the hepatoduodenal ligament or distant metastases**  
+- Isolated resectable lung nodule only  
+- Small peritoneal implants amenable to resection  
+
+*Explanation: *Positive nodes outside the hepatoduodenal ligament or metastases to liver, lung, peritoneum, or other organs indicate nonresectability.*
+
+
+**67. When is biliary decompression mandatory in unresectable or metastatic cases?**
+
+- Only if CA19-9 is elevated  
+- **In jaundiced patients to allow systemic therapy and palliation**  
+- Never; always avoid drainage in unresectable disease  
+- Only after liver transplant  
+
+*Explanation: *In unresectable or metastatic cases, biliary decompression in jaundiced patients is warranted to start systemic therapy and palliate symptoms.*
+
+
+**68. Which approach is preferred when preoperative biliary drainage is indicated for resectable HC with small FLR?**
+
+- Drain all obstructed ducts indiscriminately  
+- **Selective drainage limited to the future liver remnant (FLR)**  
+- External drainage of all ducts only  
+- No drainage regardless of FLR size  
+
+*Explanation: *When drainage is indicated in resectable HC with small FLR, drainage should be selective and limited to the FLR to optimize outcomes.*
+
+
+**69. What adverse effect is associated with biliary drainage procedures that violate the sphincter of Oddi in unresected supra-ampullary cholangiocarcinoma?**
+
+- Decreased cholangitis rates  
+- Improved survival always  
+- **Increased rates of cholangitis**  
+- Immediate tumor regression  
+
+*Explanation: *Procedures that violate the sphincter of Oddi were associated with increased cholangitis rates in SEER-Medicare analyses.*
+
+
+**70. Which drainage modality allows internal drainage of proximal strictures with termination above the ampulla, improving catheter patency?**
+
+- Endoscopic plastic stent across the ampulla  
+- **Percutaneous transhepatic biliary drainage (PTBD) with internalization**  
+- Nasogastric tube drainage  
+- External biliary fistula only  
+
+*Explanation: *PTBD can be internalized with the stent/catheter terminating above the ampulla, improving patency and reducing contamination.*
+
+
+**71. Which trial compared PTBD versus EBD and had high crossover from EBD to PTBD?**
+
+- ABC-02  
+- BILCAP  
+- **Dutch randomized controlled trial in potentially resectable HC**  
+- PRODIGE 12  
+
+*Explanation: *The Dutch RCT comparing PTBD vs EBD had significant crossover from EBD to PTBD and was stopped early due to higher mortality in PTBD arm.*
+
+
+**72. Which drainage approach is the authors' preferred method for preoperative biliary drainage in resectable HC?**
+
+- ENBD only  
+- EBD only  
+- **PTBD**  
+- No drainage at all  
+
+*Explanation: *Despite mixed trial data, the authors prefer PTBD for precise FLR drainage and operative planning.*
+
+
+**73. What is a potential drawback of PTBD that may concern clinicians?**
+
+- Inability to target specific ducts  
+- **Catheter-associated discomfort and theoretical tract seeding**  
+- Guaranteed lower infection rates than EBD  
+- Immediate liver failure  
+
+*Explanation: *PTBD drawbacks include catheter discomfort and concerns about tract seeding, though tract seeding is rare and associated with distant disease.*
+
+
+**74. In the context of preoperative biliary drainage, what FLR percentage did a multi-institutional study define as "small" where drainage reduced postoperative liver failure risk?**
+
+- ≤10%  
+- **≤50%**  
+- ≤80%  
+- ≤5%  
+
+*Explanation: *A multi-institutional study suggested biliary drainage reduced postoperative liver failure risk in patients with a small FLR defined as ≤50%.*
+
+
+**75. What is the recommended management when segmental cholangitis develops after biliary drainage?**
+
+- Observe only and delay intervention  
+- **Urgent decompression of the affected ducts**  
+- Start high-dose steroids only  
+- Immediate liver transplant  
+
+*Explanation: *If segmental cholangitis develops after drainage, urgent decompression of the affected ducts is required.*
+
+
+**76. Which of the following is TRUE regarding internal versus external biliary drainage?**
+
+- External drainage preserves intestinal barrier function better  
+- **Internal drainage preserves bile flow and intestinal barrier function better**  
+- Both are equivalent for intestinal barrier function  
+- External drainage is always preferred for resection candidates  
+
+*Explanation: *Internal drainage is preferred because prolonged external drainage impairs intestinal barrier function; bile replacement can restore barrier function.*
+
+
+**77. What is the typical morbidity and mortality reported for portal vein embolization (PVE)?**
+
+- Morbidity 50%, mortality 10%  
+- **Morbidity 2%–2.5%, mortality ~0.1%**  
+- Morbidity 0%, mortality 0%  
+- Morbidity 30%, mortality 5%  
+
+*Explanation: *PVE is generally safe with low morbidity (2%–2.5%) and very low mortality (~0.1%).*
+
+
+**78. What absolute increase in FLR volume can PVE achieve according to series?**
+
+- 0%–2%  
+- **8%–37.9%**  
+- 50%–80%  
+- >100%  
+
+*Explanation: *PVE increases FLR by an absolute value reported between about 8% and 37.9% in series.*
+
+
+**79. Which staging system was proposed to address prognosis, resectability, and need for hepatic resection in HC?**
+
+- Bismuth-Corlette only  
+- AJCC only  
+- **MSKCC (Jarnagin) staging system**  
+- Child-Pugh staging  
+
+*Explanation: *The MSKCC staging system describes T stage by biliary extent, vascular involvement, and lobar atrophy to predict resectability and R0 likelihood.*
+
+
+**80. What is the yield of diagnostic laparoscopy in patients with T2/T3 tumors for detecting unresectable disease at exploration?**
+
+- 0%  
+- 10%  
+- **Up to 36%**  
+- 100%  
+
+*Explanation: *In one series, the yield of diagnostic laparoscopy increased to 36% in patients with T2/T3 tumors, sparing nontherapeutic laparotomy.*
+
+
+**81. Which of the following is NOT a component of the AJCC 8th edition staging for perihilar bile duct tumors?**
+
+- T stage based on invasion depth and vascular involvement  
+- N stage based on number of positive regional nodes  
+- **Kinetic growth rate (KGR)**  
+- M stage for distant metastasis  
+
+*Explanation: *KGR is not part of AJCC staging; AJCC includes T, N, and M classifications.*
+
+
+**82. What is the recommended central principle when deciding between resection and transplant for HC?**
+
+- Always transplant if any tumor is present  
+- **Resect when an R0 resection is feasible; transplant for unresectable locally advanced disease or PSC-associated HC**  
+- Never resect; always use chemotherapy  
+- Always perform ALPPS first  
+
+*Explanation: *Resection is preferred when R0 resection is feasible; transplant is considered for unresectable locally advanced HC or HC in PSC under strict protocols.*
+
+
+**83. Which of the following is a common cause of death in unresectable bile duct cancer?**
+
+- Cardiac arrhythmia only  
+- **Liver failure and infectious complications related to biliary obstruction/instrumentation**  
+- Stroke only  
+- Pulmonary embolism only  
+
+*Explanation: *Most unresectable bile duct cancer patients die from liver failure and infectious complications related to biliary obstruction and instrumentation.*
+
+
+**84. What is the typical perioperative mortality range reported after resection of hilar cholangiocarcinoma?**
+
+- 0%–1%  
+- **4%–17%**  
+- 30%–50%  
+- >50%  
+
+*Explanation: *Postoperative mortality after HC resection ranges from about 4% to 17% in reported series.*
+
+
+**85. Which surgical strategy is associated with improved R0 resection rates and long-term survival over time?**
+
+- Local bile duct excision only  
+- **En bloc partial hepatectomy with bile duct excision (often including caudate resection)**  
+- No surgery, chemotherapy only  
+- Simple cholecystectomy  
+
+*Explanation: *Implementation of en bloc partial hepatectomy and caudate resection has improved R0 rates and long-term survival for HC.*
+
+
+**86. What is the median disease-specific survival for patients with R0 resection compared with R1 resection in the cited series?**
+
+- R0 10 months, R1 9 months  
+- **R0 ~43–56 months, R1 ~24–32 months (varies by series)**  
+- R0 100 months, R1 90 months  
+- No difference between R0 and R1  
+
+*Explanation: *Median survival for R0 patients was reported around 43–56 months versus 24–32 months for R1 in cited analyses, showing significant benefit for R0.*
+
+
+**87. Which intraoperative measure helps minimize blood loss during hepatic parenchymal transection?**
+
+- Keep central venous pressure (CVP) high (>15 mm Hg)  
+- **Keep central venous pressure (CVP) <5 mm Hg**  
+- Use no vascular control at all  
+- Maintain systolic BP >200 mm Hg  
+
+*Explanation: *Keeping CVP low (<5 mm Hg) reduces hepatic venous bleeding during parenchymal transection.*
+
+
+**88. What is the typical technique for biliary-enteric reconstruction after resection with multiple duct orifices?**
+
+- Multiple separate end-to-end duct-to-duct anastomoses only  
+- **Single or combined hepaticojejunostomy using posterior then anterior suture rows to multiple ducts**  
+- T-tube drainage only  
+- External biliary drainage only  
+
+*Explanation: *When multiple ducts are present, the posterior row of sutures to all ducts is tied first, then anterior sutures are completed to create a hepaticojejunostomy to a Roux-en-Y loop.*
+
+
+**89. What is the reported 90-day mortality rate for ALPPS in patients with hilar cholangiocarcinoma from the international registry?**
+
+- 0%  
+- 5%  
+- **27%**  
+- 90%  
+
+*Explanation: *The international ALPPS registry reported a 90-day mortality rate of 27% for HC patients undergoing ALPPS.*
+
+
+**90. Which of the following is a major limitation to widespread use of liver transplantation for HC?**
+
+- Lack of any selection criteria  
+- **Limited organ availability and strict selection criteria with high dropout rates**  
+- Universal excellent outcomes making it unnecessary to study  
+- Transplant is contraindicated in all HC  
+
+*Explanation: *Transplant applicability is limited by strict selection criteria, organ scarcity, and pretransplant dropout due to progression.*
+
+
+**91. In the Mayo transplant protocol, what tumor size is considered a contraindication?**
+
+- Any size is acceptable  
+- **Tumors larger than 3 cm**  
+- Tumors smaller than 1 cm only  
+- Tumors exactly 3 cm only  
+
+*Explanation: *Tumors larger than 3 cm are contraindications to the Mayo transplant protocol.*
+
+
+**92. What proportion of patients enrolled in the Mayo transplant protocol typically proceed to transplant?**
+
+- Nearly 100%  
+- **About two-thirds drop out; roughly one-third proceed (approximate)**  
+- None proceed to transplant  
+- All proceed immediately without neoadjuvant therapy  
+
+*Explanation: *Approximately one-third of patients enrolled proceed to transplant; many drop out due to progression or death during neoadjuvant therapy.*
+
+
+**93. Which adjuvant trial’s per-protocol analysis supported routine use of 6 months of capecitabine after biliary tract cancer resection?**
+
+- ABC-02  
+- PRODIGE 12  
+- **BILCAP**  
+- BCAT  
+
+*Explanation: *The BILCAP per-protocol analysis showed benefit with capecitabine, prompting its routine use as adjuvant therapy.*
+
+
+**94. Which adjuvant regimen did the BCAT trial evaluate and find no survival benefit?**
+
+- Capecitabine  
+- **Gemcitabine**  
+- Gemcitabine + cisplatin  
+- S-1  
+
+*Explanation: *The BCAT trial evaluated adjuvant gemcitabine versus observation and found no significant difference in overall survival.*
+
+
+**95. Which single-arm phase II trial combined adjuvant gemcitabine and capecitabine followed by chemoradiation and met its prespecified 2-year survival endpoint?**
+
+- ABC-02  
+- PRODIGE 12  
+- **SWOG S0809**  
+- BILCAP  
+
+*Explanation: *SWOG S0809 used adjuvant gemcitabine + capecitabine followed by capecitabine with radiotherapy and met its prespecified 2-year overall survival endpoint in a single-arm trial.*
+
+
+**96. What is the typical median survival benefit of gemcitabine + cisplatin over gemcitabine alone in ABC-02?**
+
+- No benefit  
+- **Increase from ~8.2 to ~11.7 months**  
+- Increase from 2 to 3 months  
+- Increase from 50 to 60 months  
+
+*Explanation: *ABC-02 showed median survival improved from about 8.2 to 11.7 months with gemcitabine + cisplatin.*
+
+
+**97. Which ablative palliative therapy uses a photosensitizer and light delivered via cholangioscopy?**
+
+- Radiofrequency ablation (RFA)  
+- Cryoablation  
+- **Photodynamic therapy (PDT)**  
+- Microwave ablation  
+
+*Explanation: *Photodynamic therapy involves a photosensitizing drug followed by light activation via cholangioscopy to ablate tumor tissue.*
+
+
+**98. Randomized studies of photodynamic therapy plus stenting versus stenting alone suggested what effect?**
+
+- Worse survival with PDT  
+- **Improved survival with PDT plus stenting**  
+- No difference in pruritus control only  
+- Immediate cure in all patients  
+
+*Explanation: *Two randomized studies suggested improved survival with PDT combined with biliary stenting versus stenting alone, likely due to better biliary decompression.*
+
+
+**99. Which palliative stent type showed higher technical success and functional success in some series for HC?**
+
+- Plastic stents only  
+- **Self-expandable metal stents (SEMS)**  
+- T-tube only  
+- Nasobiliary drains only  
+
+*Explanation: *SEMS demonstrated higher technical and functional success compared with plastic stents in some studies for HC palliation.*
+
+
+**100. Which factor makes percutaneous drainage through an atrophic lobe ineffective for relieving jaundice?**
+
+- Atrophic lobe drains too well  
+- **Atrophic lobe has little functioning parenchyma, so drainage does not relieve jaundice**  
+- Atrophic lobe always has no ducts  
+- Atrophic lobe is always infected  
+
+*Explanation: *Draining an atrophic lobe does not relieve jaundice because it contributes little functional hepatic parenchyma.*
+
+
+**101. What is the median patency time reported for plastic stents in malignant biliary obstruction?**
+
+- 6–12 months  
+- **1.4–3 months**  
+- 12–24 months  
+- >24 months  
+
+*Explanation: *Plastic stents have a median patency of about 1.4 to 3 months in malignant biliary obstruction.*
+
+
+**102. What is the median patency time reported for self-expandable metal stents (SEMS)?**
+
+- 1 month  
+- **Approximately 6 months**  
+- 24 months  
+- 10 years  
+
+*Explanation: *SEMS typically have a median patency of around 6 months, longer than plastic stents.*
+
+
+**103. In palliative settings, when should operative biliary-enteric bypass be considered?**
+
+- For all patients regardless of prognosis  
+- **For patients expected to survive longer than 6 months or when endoscopic/percutaneous approaches fail**  
+- Only if SEMS are contraindicated  
+- Never; always use stents  
+
+*Explanation: *Operative bypass is reserved for patients expected to survive >6 months or when less invasive drainage fails.*
+
+
+**104. Which palliative approach is inappropriate for patients with widespread metastatic disease?**
+
+- Systemic chemotherapy  
+- **Definitive radiation therapy as sole modality for widespread disease**  
+- Best supportive care  
+- Biliary stenting for symptom control  
+
+*Explanation: *Radiation therapy is inappropriate as definitive therapy for patients with widespread disease; systemic therapy or supportive care is indicated.*
+
+
+**105. What is the main benefit of segment III bypass in unresectable hilar tumors found at operation?**
+
+- Immediate cure of cancer  
+- **Excellent biliary drainage with lower occlusion risk and minimal perioperative mortality**  
+- Guaranteed prevention of cholangitis forever  
+- Avoids need for any further interventions  
+
+*Explanation: *Segment III bypass provides effective drainage, resolves jaundice in many patients, and has relatively low perioperative morbidity and mortality.*
+
+
+**106. Which of the following is TRUE about locoregional versus distant recurrence after R0 resection of HC?**
+
+- Locoregional recurrence is far more common than distant recurrence  
+- **Distant metastases are more common than locoregional recurrence after R0 resection**  
+- No recurrences occur after R0 resection  
+- Only peritoneal recurrence occurs  
+
+*Explanation: *Distant metastases are more common than locoregional recurrence after R0 resection of HC.*
+
+
+**107. Which targeted molecular alteration is more common in intrahepatic cholangiocarcinoma (ICC) than in extrahepatic disease?**
+
+- PRKACA fusions  
+- **FGFR2 fusions and IDH mutations**  
+- ERBB2 amplification only in EHC  
+- KRAS mutations only in ICC  
+
+*Explanation: *FGFR2 fusions and IDH mutations are more common in ICC, whereas PRKACA/PRKACB fusions and certain mutations are more typical of EHC.*
+
+
+**108. Which gene amplification can be seen in nearly 20% of extrahepatic cholangiocarcinomas and may be targetable?**
+
+- EGFR only  
+- **HER2 (ERBB2)**  
+- BRAF only  
+- ALK only  
+
+*Explanation: *HER2 (ERBB2) amplification can be seen in up to ~20% of EHC and may be targetable.*
+
+
+**109. What is the recommended approach to tissue diagnosis when a patient is clearly resectable and clinical suspicion is high?**
+
+- Require multiple repeat biopsies until positive  
+- **Proceed to resection without mandatory histologic confirmation**  
+- Never resect without positive cytology  
+- Start chemotherapy immediately without resection  
+
+*Explanation: *When clinical suspicion is high and resection is planned, histologic confirmation is not mandatory because biopsies have high false-negative rates.*
+
+
+**110. Which of the following is a common immunohistochemical loss seen in EHC?**
+
+- Loss of TTF-1  
+- **SMAD4 loss**  
+- Loss of chromogranin A only  
+- Loss of synaptophysin only  
+
+*Explanation: *SMAD4 loss is among immunohistochemical features reported in extrahepatic cholangiocarcinoma.*
+
+
+**111. What is the clinical significance of papillary tumors in the biliary tree?**
+
+- They always metastasize early  
+- **They may cause intermittent jaundice due to tumor fragments and are associated with better prognosis**  
+- They are resistant to all therapies  
+- They are never resectable  
+
+*Explanation: *Papillary hilar tumors can cause intermittent jaundice from tumor fragments and are associated with improved survival compared with sclerosing lesions.*
+
+
+**112. Which diagnostic test can depict obstructed or isolated ducts not always appreciated on percutaneous or endoscopic evaluations?**
+
+- ERCP only  
+- **MRCP (magnetic resonance cholangiopancreatography)**  
+- Plain ultrasound only  
+- Bone scan  
+
+*Explanation: *MRCP accurately depicts the level of obstruction and can show obstructed or isolated ducts not always seen on percutaneous or endoscopic studies.*
+
+
+**113. What is the positive predictive value reported for duplex ultrasound predicting portal vein involvement in the MSKCC series?**
+
+- 10%  
+- 50%  
+- **97%**  
+- 100%  
+
+*Explanation: *In the MSKCC series, duplex ultrasound predicted portal vein involvement with a positive predictive value of 97%.*
+
+
+**114. Which of the following is a common presenting laboratory pattern in cholangiocarcinoma?**
+
+- Isolated elevated AST only  
+- **Elevated total and direct bilirubin, alkaline phosphatase, and GGT**  
+- Low alkaline phosphatase only  
+- Elevated amylase only  
+
+*Explanation: *Laboratory tests consistent with biliary obstruction include elevated total/direct bilirubin, alkaline phosphatase, and gamma-glutamyl transferase (GGT).*
+
+
+**115. Which benign condition can mimic hilar cholangiocarcinoma and account for resected benign strictures?**
+
+- Acute appendicitis  
+- **IgG4-related cholangiopathy (autoimmune cholangitis)**  
+- Simple hepatic cyst only  
+- Hemangioma only  
+
+*Explanation: *IgG4-related cholangiopathy and other benign strictures can mimic malignancy and account for 10%–15% of resected strictures.*
+
+
+**116. What is the recommended imaging sequence before biliary decompression?**
+
+- Immediate ERCP before any cross-sectional imaging  
+- **High-quality cross-sectional imaging (CT/MRI/MRCP) before biliary decompression**  
+- PET/CT only  
+- No imaging required  
+
+*Explanation: *Imaging for staging and resectability should be performed before biliary decompression to avoid inflammation and misinterpretation.*
+
+
+**117. Which of the following is TRUE about lymphadenopathy on preoperative imaging?**
+
+- Always indicates metastatic disease  
+- **Often reactive, particularly after biliary instrumentation, and not always metastatic**  
+- Never seen in cholangiocarcinoma  
+- Always precludes surgical exploration  
+
+*Explanation: *Enlarged regional nodes on imaging are often reactive and not necessarily metastatic, so exploration can still be considered.*
+
+
+**118. Which of the following is a limitation of endoscopic brushings for tissue diagnosis?**
+
+- Too sensitive and yields false positives only  
+- **High false-negative rate**  
+- Always causes tumor seeding  
+- Always definitive for malignancy  
+
+*Explanation: *Endoscopic brushings have a high false-negative rate and may not provide definitive diagnosis despite high specificity when positive.*
+
+
+**119. Which of the following is an advantage of PTBD over EBD in preoperative planning?**
+
+- Avoids external drains always  
+- **Precise catheter placement into FLR and delineation of biliary anatomy**  
+- No risk of infection  
+- Always less discomfort than EBD  
+
+*Explanation: *PTBD allows precise placement into the FLR and better delineation of biliary anatomy for operative planning.*
+
+
+**120. Which of the following statements about biliary drainage and FLR is supported by the chapter?**
+
+- Drainage is always harmful regardless of FLR size  
+- **Drainage benefits patients with small FLR but may add morbidity in patients with large FLR**  
+- Drainage is only useful for distal tumors  
+- Drainage eliminates need for PVE  
+
+*Explanation: *Studies indicate preoperative drainage improves outcomes when FLR is small, but in patients with large FLR it may introduce morbidity without benefit.*
+
+
+**121. Which of the following is a common cause of misleading proximal bile duct margin interpretation on frozen section?**
+
+- Sampling error and tumor multifocality  
+- **Frozen section limitations leading to ~10% misleading interpretations**  
+- Always perfect accuracy  
+- Only occurs with papillary tumors  
+
+*Explanation: *Frozen section can be misleading in about 10% of cases, affecting proximal bile duct margin interpretation.*
+
+
+**122. What is the role of intraoperative ultrasound during exploration for HC?**
+
+- Not useful at all  
+- **Rule out unsuspected liver masses and assess intrahepatic disease**  
+- Replace palpation entirely  
+- Only used for vascular mapping  
+
+*Explanation: *Intraoperative ultrasound helps detect unsuspected liver masses and assess intrahepatic disease during exploration.*
+
+
+**123. Which of the following best describes the typical physical exam in early HC?**
+
+- Marked hepatosplenomegaly and ascites always present  
+- **Often unremarkable aside from jaundice; gallbladder may be enlarged if obstruction is distal**  
+- Always a palpable mass in the right upper quadrant  
+- Always signs of portal hypertension early  
+
+*Explanation: *Physical exam is often unremarkable except for jaundice; an enlarged gallbladder suggests distal obstruction.*
+
+
+**124. Which of the following is a reason to avoid draining an atrophic lobe percutaneously?**
+
+- It causes immediate tumor regression  
+- **It does not relieve jaundice because the lobe contributes little function**  
+- It always causes portal vein thrombosis  
+- It is technically impossible  
+
+*Explanation: *Percutaneous drainage of an atrophic lobe is ineffective for jaundice relief because the lobe has little functional parenchyma.*
+
+
+**125. Which of the following is TRUE about biliary stent choice in palliative HC?**
+
+- Plastic stents have longer patency than SEMS  
+- **SEMS have longer patency and fewer reinterventions than plastic stents**  
+- Plastic stents never require reintervention  
+- SEMS are always contraindicated in HC  
+
+*Explanation: *SEMS generally have longer patency (~5–6 months) and fewer reinterventions compared with plastic stents.*
+
+
+**126. Which of the following is a common site of recurrence after HC resection?**
+
+- Brain only  
+- **Peritoneum and liver (distant sites more common than locoregional)**  
+- Bone only  
+- Skin only  
+
+*Explanation: *Common recurrence sites include peritoneum and liver; distant metastases are more common than locoregional recurrence after R0 resection.*
+
+
+**127. Which of the following adjuvant trials used capecitabine as the experimental arm?**
+
+- ABC-02  
+- PRODIGE 12  
+- **BILCAP**  
+- BCAT  
+
+*Explanation: *BILCAP randomized patients to adjuvant capecitabine versus observation.*
+
+
+**128. Which of the following is a limitation of the BILCAP trial interpretation?**
+
+- No patients had node-positive disease  
+- **Intention-to-treat analysis was not statistically significant; benefit seen in per-protocol analysis**  
+- Trial only included pancreatic cancer  
+- Trial used outdated imaging only  
+
+*Explanation: *BILCAP’s ITT analysis did not reach statistical significance, but per-protocol analysis showed benefit, complicating interpretation.*
+
+
+**129. Which of the following is TRUE about adjuvant GEMOX in resected biliary tract cancer per PRODIGE 12?**
+
+- It significantly improved relapse-free survival  
+- **It showed no significant difference in relapse-free survival versus surveillance**  
+- It was superior in all subgroups including node-positive disease  
+- It was never tested in a randomized trial  
+
+*Explanation: *PRODIGE 12 found no difference in relapse-free survival between adjuvant GEMOX and surveillance.*
+
+
+**130. Which of the following is a potential benefit of photodynamic therapy in unresectable HC?**
+
+- Cure in all patients  
+- **Improved biliary decompression and possibly survival when combined with stenting**  
+- Eliminates need for stents entirely  
+- Prevents distant metastases always  
+
+*Explanation: *PDT combined with stenting may improve biliary decompression and has been associated with improved survival in randomized studies, likely via better drainage.*
+
+
+**131. Which of the following is a common reason for failure of endoscopic biliary drainage in hilar obstruction?**
+
+- Lack of endoscopists only  
+- **Inability to traverse complex hilar strictures and isolate ducts leading to inadequate drainage**  
+- Always due to patient refusal  
+- Always due to stent malfunction only  
+
+*Explanation: *Endoscopic drainage can fail in hilar obstruction because complex anatomy and isolated ducts make adequate drainage difficult.*
+
+
+**132. Which of the following best describes the role of systemic second-line chemotherapy in advanced biliary cancer?**
+
+- Well-established standard regimen exists  
+- **Insufficient evidence to recommend a specific second-line regimen; further trials needed**  
+- Always curative  
+- Never used  
+
+*Explanation: *A systematic review concluded there is insufficient evidence to recommend a specific second-line chemotherapy regimen for advanced biliary cancer.*
+
+
+**133. Which of the following is a common technical requirement when performing hepaticojejunostomy to multiple ducts?**
+
+- Perform sequential separate anastomoses for each duct always  
+- **Place posterior sutures to all ducts first, tie them, then complete anterior sutures to the jejunum**  
+- Use only continuous sutures for all ducts  
+- Avoid Roux-en-Y configuration  
+
+*Explanation: *The recommended technique is to place posterior sutures to all exposed ducts, tie them, then complete anterior sutures to the jejunum to create a reliable anastomosis.*
+
+
+**134. Which of the following is TRUE about tract seeding after PTBD?**
+
+- It is common and occurs in most patients  
+- **It is rare and usually associated with distant metastatic disease**  
+- It never occurs  
+- It always precludes future transplant  
+
+*Explanation: *Tract seeding after PTBD is rare and typically associated with existing distant metastatic disease.*
+
+
+**135. Which of the following is a reason to perform diagnostic laparoscopy before laparotomy in HC?**
+
+- To perform definitive resection laparoscopically in all cases  
+- **To detect occult metastatic disease and avoid nontherapeutic laparotomy**  
+- To replace preoperative imaging entirely  
+- To perform PVE  
+
+*Explanation: *Diagnostic laparoscopy can detect occult metastases and spare patients a nontherapeutic laparotomy in a significant proportion of cases.*
+
+
+**136. Which of the following is a common preoperative imaging sign suggesting portal vein involvement?**
+
+- Smooth portal vein contour only  
+- **Change in contour or occlusion of the portal vein**  
+- Increased portal vein diameter only  
+- Portal vein always appears normal in invasion  
+
+*Explanation: *Portal vein involvement is suggested by contour changes or occlusion on imaging.*
+
+
+**137. Which of the following is a typical indication for immediate biliary decompression?**
+
+- Asymptomatic mild bilirubin elevation only  
+- **Cholangitis, need for systemic chemotherapy, hyperbilirubinemia-induced malnutrition, hepatic insufficiency, or planned PVE**  
+- Routine drainage for all patients regardless of FLR  
+- Only when CA19-9 is >1000  
+
+*Explanation: *Immediate decompression is indicated for cholangitis, to enable chemotherapy, for malnutrition from hyperbilirubinemia, hepatic insufficiency, and before PVE.*
+
+
+**138. Which of the following best describes the relationship between FLR size and need for preoperative biliary drainage?**
+
+- Larger FLR always requires drainage  
+- **Small FLR benefits from drainage; large FLR may not and drainage can add morbidity**  
+- FLR size is irrelevant to drainage decisions  
+- Drainage is only based on CA19-9  
+
+*Explanation: *Studies indicate small FLR benefits from preoperative drainage to improve regeneration, while large FLR patients may not benefit and may incur added morbidity.*
+
+
+**139. Which of the following is a common cause of misleading benign strictures mimicking malignancy?**
+
+- Autoimmune cholangiopathy and IgG4-related disease  
+- **Autoimmune cholangiopathy, IgG4-related cholangiopathy, autoimmune pancreatitis, and stone-related disease**  
+- Only viral hepatitis  
+- Only peptic ulcer disease  
+
+*Explanation: *Benign strictures from autoimmune cholangiopathy, IgG4 disease, autoimmune pancreatitis, and stones can mimic malignancy.*
+
+
+**140. Which of the following is TRUE about frozen section assessment of proximal bile duct margins?**
+
+- It is always 100% accurate  
+- **It can be misleading in about 10% of cases**  
+- It is never performed intraoperatively  
+- It always prevents R1 resections  
+
+*Explanation: *Frozen section assessment can be misleading in a minority (~10%) of cases, affecting margin interpretation.*
+
+
+**141. Which of the following best characterizes papillary hilar tumors’ clinical behavior?**
+
+- Always cause continuous severe jaundice  
+- **May cause intermittent jaundice due to friable tumor fragments causing a ball-valve effect**  
+- Never cause jaundice  
+- Always present with cholangitis only  
+
+*Explanation: *Papillary tumors can detach fragments causing intermittent jaundice or a ball-valve effect at the confluence.*
+
+
+**142. Which of the following is a recommended preoperative imaging protocol element for CT?**
+
+- Thick 10 mm cuts only  
+- **Thin (1 mm) cuts in arterial and portal venous phases**  
+- Noncontrast only  
+- Single-phase delayed imaging only  
+
+*Explanation: *Appropriate CT protocols include thin (1 mm) cuts in arterial and portal venous phases to allow high-quality 3D reconstructions.*
+
+
+**143. Which of the following is a reason to prefer internalization of PTBD when possible?**
+
+- To increase external bile loss  
+- **To improve catheter patency and decrease biliary contamination**  
+- To prevent any need for future imaging  
+- To make the catheter visible externally  
+
+*Explanation: *Internalization of PTBD improves catheter patency and reduces biliary contamination compared with external drainage.*
+
+
+**144. Which of the following is TRUE regarding the role of PET/CT in detecting lymph node involvement?**
+
+- PET/CT has 100% specificity for nodes  
+- **PET/CT sensitivity ~88% and specificity ~69% for lymph node involvement per meta-analysis**  
+- PET/CT cannot detect nodal disease at all  
+- PET/CT is the gold standard for nodal staging  
+
+*Explanation: *Meta-analysis reported PET/CT sensitivity ≈88.4% and specificity ≈69.1% for lymph node involvement.*
+
+
+**145. Which of the following is a major determinant of resectability in HC?**
+
+- Patient hair color  
+- **Invasion of the main portal vein or its branches**  
+- Presence of gallstones only  
+- Prior appendectomy  
+
+*Explanation: *Invasion of the main portal vein or its branches is a major determinant of resectability.*
+
+
+**146. Which of the following best describes the recommended approach to predrainage imaging?**
+
+- Skip imaging and drain immediately  
+- **Perform high-quality cross-sectional imaging before drainage to determine resectability and plan drainage**  
+- Only perform ultrasound after drainage  
+- Only perform PET/CT before drainage  
+
+*Explanation: *Predrainage imaging is critical to determine resectability and to plan selective drainage of the FLR.*
+
+
+**147. Which of the following is TRUE about outcomes after R1 resection compared with exploration-only (locally advanced unresectable) patients?**
+
+- R1 survival is much better than locally advanced exploration-only patients always  
+- **Survival after R1 resection is similar to survival in patients explored but found unresectable due to local invasion**  
+- R1 resection guarantees cure  
+- R1 resection always worse than no surgery  
+
+*Explanation: *Survival after R1 resection appears similar to that of patients found to have unresectable locally advanced tumors at exploration.*
+
+
+**148. Which of the following is a common technical challenge when reconstructing multiple small ducts after HC resection?**
+
+- Always easy to approximate ducts sequentially  
+- **Multiple disconnected ducts may require combining sidewalls and creating a single anastomosis to the jejunum**  
+- Only one duct is ever present after resection  
+- Always perform end-to-end duct-to-duct anastomosis  
+
+*Explanation: *Multiple small ducts may be sutured together or approximated so that no more than two or three separate anastomoses are needed to the jejunum.*
+
+
+**149. Which of the following is TRUE about postoperative recurrence timing after HC resection?**
+
+- Recurrence never occurs after 5 years  
+- **Recurrence can occur late; over 25% recurred after 5 years in some series**  
+- Recurrence only occurs within 3 months  
+- Recurrence is always locoregional only  
+
+*Explanation: *Recurrence can be late, with >25% of patients recurring after 5 years in some analyses.*
+
+
+**150. Which of the following is a common reason for preoperative biliary drainage to increase morbidity in patients with large FLR?**
+
+- It always prevents liver regeneration  
+- **Instrumentation increases risk of cholangitis and infectious complications without improving FLR function**  
+- It causes immediate tumor shrinkage leading to bleeding  
+- It always causes portal vein thrombosis  
+
+*Explanation: *In patients with large FLR, preoperative drainage may introduce infectious morbidity (e.g., cholangitis) without improving outcomes.*
+
+
+**151. Which of the following best describes the role of endoscopic nasobiliary drainage (ENBD) in HC?**
+
+- Universally preferred in all centers worldwide  
+- **Used mainly in some Asian centers; may reduce reintervention but causes nasal discomfort**  
+- Always superior to PTBD in randomized trials  
+- Never used clinically  
+
+*Explanation: *ENBD is used mainly in some Asian centers and may reduce reintervention but is associated with patient discomfort; evidence of superiority is mixed.*
+
+
+**152. Which of the following is TRUE about the use of PET/CT for detecting distant metastases in EHC?**
+
+- PET/CT sensitivity ~85% and specificity ~90% for distant metastases per meta-analysis  
+- **PET/CT sensitivity ~85.4% and specificity ~89.7% for distant metastases in the cited meta-analysis**  
+- PET/CT cannot detect distant metastases at all  
+- PET/CT is 100% accurate for distant disease  
+
+*Explanation: *Meta-analysis reported PET/CT sensitivity ≈85.4% and specificity ≈89.7% for distant metastases detection.*
+
+
+**153. Which of the following is a common preoperative step to assess for occult metastases before major resection?**
+
+- Immediate resection without exploration  
+- **Diagnostic laparoscopy with peritoneal inspection and biopsies as indicated**  
+- Only PET/CT without laparoscopy  
+- No assessment needed  
+
+*Explanation: *Diagnostic laparoscopy can detect occult metastases and avoid nontherapeutic laparotomy in a significant proportion of patients.*
+
+
+**154. Which of the following best summarizes the chapter’s recommendation for resectable tumors?**
+
+- Always perform transplant instead of resection  
+- **Attempt complete resection with intent to cure when R0 resection is feasible**  
+- Never operate; always use chemotherapy  
+- Always perform ALPPS first  
+
+*Explanation: *For potentially resectable tumors, the primary goal is complete resection with negative margins and intent to cure.*
+
+
+**155. Which of the following is TRUE about biliary instrumentation and bactibilia?**
+
+- Bactibilia is never present after instrumentation  
+- **Bactibilia incidence is 100% after biliary instrumentation that compromises the sphincter of Oddi**  
+- Bactibilia prevents cholangitis always  
+- Bactibilia is unrelated to instrumentation  
+
+*Explanation: *The incidence of bactibilia is 100% after biliary instrumentation that compromises the sphincter of Oddi.*
+
+
+**156. Which of the following is a common reason to perform portal vein resection and reconstruction during HC surgery?**
+
+- To avoid any hepatic resection  
+- **To achieve tumor clearance when limited portal vein involvement is present and reconstruction is feasible**  
+- To always increase operative time unnecessarily  
+- To prevent need for biliary-enteric anastomosis  
+
+*Explanation: *Segmental portal vein resection and reconstruction can be performed to achieve tumor clearance when feasible and when a tumor-free remnant can be preserved.*
+
+
+**157. Which of the following best describes the role of neoadjuvant therapy in transplant protocols for HC?**
+
+- Not used at all  
+- **Integral to selection and control of disease before transplant (chemoradiation)**  
+- Only used after transplant  
+- Always contraindicated  
+
+*Explanation: *Neoadjuvant chemoradiation is integral to transplant protocols (e.g., Mayo) to control disease and select appropriate candidates.*
+
+
+**158. Which of the following is TRUE about the international ALPPS registry experience for biliary tumors?**
+
+- ALPPS had excellent outcomes with minimal mortality  
+- **ALPPS had high mortality (e.g., 90-day mortality ~27% for HC) and is generally discouraged for biliary tumors**  
+- ALPPS is standard of care for HC  
+- ALPPS always prevents recurrence  
+
+*Explanation: *Registry data showed high mortality with ALPPS in biliary tumors, prompting recommendations against routine use in HC.*
+
+
+**159. Which of the following is a common reason for failure of biliary stenting to relieve jaundice?**
+
+- Stent always works in all cases  
+- **Isolated ducts, atrophic lobes, or extensive hepatic dysfunction from portal vein occlusion**  
+- Only because of operator inexperience always  
+- Because stents dissolve immediately  
+
+*Explanation: *Failure to relieve jaundice can be due to isolated ducts not drained, atrophic lobes, or hepatic dysfunction from portal vein occlusion rather than mechanical obstruction alone.*
+
+
+**160. Which of the following best describes the recommended use of adjuvant radiation after R0 resection?**
+
+- Routinely recommended for all R0 resections  
+- **Not routinely used after R0 resection; may be considered for positive margins**  
+- Always contraindicated after R0 resection  
+- Required for all node-negative patients  
+
+*Explanation: *Adjuvant radiation is not routinely used after R0 resection but may be considered for patients with positive margins.*
+
+
+**161. Which of the following is TRUE about the SWOG S0809 trial results?**
+
+- It was a randomized phase III trial showing no benefit  
+- **Single-arm phase II trial met its prespecified 2-year overall survival endpoint with adjuvant gemcitabine/capecitabine followed by chemoradiation**  
+- It compared capecitabine vs observation only  
+- It was stopped early for futility  
+
+*Explanation: *SWOG S0809 was a single-arm phase II trial that met its prespecified 2-year survival endpoint using adjuvant chemotherapy followed by chemoradiation.*
+
+
+**162. Which of the following is TRUE about the role of molecular testing in EHC?**
+
+- Not useful at all  
+- **Recommended, as genomic alterations (e.g., HER2, MMR deficiency) may guide targeted or immunotherapy**  
+- Only useful for ICC, not EHC  
+- Always contraindicated  
+
+*Explanation: *Molecular testing is recommended because certain alterations (e.g., HER2 amplification, MMR deficiency) may inform targeted or immunotherapy approaches.*
+
+
+**163. Which of the following best describes the typical survival after unresectable biliary tract cancer treated with gemcitabine alone historically?**
+
+- >5 years  
+- **~8 months median survival historically; improved with gemcitabine + cisplatin**  
+- 20 years  
+- Immediate cure  
+
+*Explanation: *Historically median survival with gemcitabine alone was limited (~8 months), improved to ~11.7 months with gemcitabine + cisplatin in ABC-02.*
+
+
+**164. Which of the following is TRUE about the use of SEMS versus plastic stents in HC palliation?**
+
+- Plastic stents have longer patency and fewer reinterventions  
+- **SEMS have longer patency and fewer reinterventions, with similar complication rates in some studies**  
+- SEMS are always more toxic  
+- Plastic stents never occlude  
+
+*Explanation: *Studies show SEMS have longer patency and fewer reinterventions compared with plastic stents, with similar complication rates in some series.*
+
+
+**165. Which of the following is TRUE about the role of external biliary drainage and bile replacement?**
+
+- External drainage has no physiologic effects  
+- **Prolonged external drainage impairs intestinal barrier function; bile replacement can restore it**  
+- External drainage always improves nutrition  
+- Bile replacement is never recommended  
+
+*Explanation: *Prolonged external biliary drainage disrupts intestinal barrier function; bile replacement can restore mucosal integrity and is recommended in some settings.*
+
+
+**166. Which of the following best describes the recommended management for patients with unresectable HC and cholangitis?**
+
+- Observation only  
+- **Drain all infected ductal systems promptly**  
+- Start steroids only  
+- Immediate transplant  
+
+*Explanation: *In cholangitis, all infected ductal systems must be drained promptly to control infection and sepsis.*
+
+
+**167. Which of the following is TRUE about the role of neoadjuvant therapy in resectable HC?**
+
+- Always required for all resectable HC  
+- **Neoadjuvant therapy is used in transplant protocols and selected unresectable cases; routine use in resectable HC is not standard**  
+- Neoadjuvant therapy is contraindicated in all HC  
+- Neoadjuvant therapy cures HC without surgery  
+
+*Explanation: *Neoadjuvant therapy is integral to transplant protocols and used selectively; routine neoadjuvant therapy for resectable HC is not standard practice.*
+
+
+**168. Which of the following best describes the typical pattern of presentation for distal cholangiocarcinoma?**
+
+- Presents with early liver failure only  
+- **Painless jaundice similar to other periampullary tumors**  
+- Always presents with severe pancreatitis  
+- Presents only with weight gain  
+
+*Explanation: *Distal cholangiocarcinoma typically presents with painless jaundice, similar to other periampullary tumors.*
+
+
+**169. Which of the following is TRUE about the use of diagnostic laparoscopy yield over time?**
+
+- Yield is negligible and never recommended  
+- **Yield is significant, especially in locally advanced tumors, and can spare nontherapeutic laparotomy in ~25% of patients**  
+- Always replaces cross-sectional imaging  
+- Only useful for transplant candidates  
+
+*Explanation: *Diagnostic laparoscopy has a significant yield, particularly in locally advanced disease, and can avoid nontherapeutic laparotomy in about 25% of patients.*
+
+
+**170. Which of the following best summarizes the chapter’s final recommendation for future research directions in extrahepatic cholangiocarcinoma?**
+
+- Focus only on surgical techniques and ignore systemic therapy  
+- **Focus on adjuvant strategies and implementation of genomics, targeted therapies, and immunotherapy**  
+- Stop all research because outcomes cannot improve  
+- Only study palliative stenting  
+
+*Explanation: *The chapter recommends future studies focus on adjuvant strategies and integrating genomics, targeted therapies, and immunotherapy to improve outcomes.*

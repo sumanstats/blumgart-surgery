@@ -1,0 +1,1652 @@
+# 04 Assessment of Hepatic Function: Implications for Perioperative Outcome and Recovery
+
+Generated with Claude.
+
+
+**1. What is the minimum threshold of hepatic parenchyma traditionally considered sufficient for safe liver resection?**
+
+- One segment with adequate vascular inflow
+- **Two contiguous segments with adequate vascular inflow/outflow and biliary drainage**
+- Three non-contiguous segments with biliary drainage
+- Four segments regardless of vascular supply
+
+*Explanation: The conventional definition required two contiguous segments of hepatic parenchyma having adequate vascular inflow/outflow and biliary drainage as the minimum threshold for safe resection.*
+
+---
+
+**2. Which of the following techniques allows more extensive liver resection by inducing hypertrophy of the future liver remnant (FLR)?**
+
+- Wedge resection
+- Anatomic segmentectomy
+- **Portal vein embolization (PVE)**
+- Laparoscopic hepatectomy
+
+*Explanation: Portal vein embolization (PVE) is one of the techniques developed to induce hypertrophy of the future liver remnant, allowing more extensive resections than the conventional two-segment minimum.*
+
+---
+
+**3. What does the abbreviation ALPPS stand for?**
+
+- Anatomic Left-Portal Parenchymal Separation
+- **Associating Liver Partition and Portal vein Ligation for Staged hepatectomy**
+- Augmented Liver Parenchyma and Portal Shunting
+- Accelerated Liver Preparation and Partial Staging
+
+*Explanation: ALPPS stands for Associating Liver Partition and Portal vein Ligation for Staged hepatectomy, a technique developed to induce rapid hypertrophy of the future liver remnant.*
+
+---
+
+**4. In patients receiving preoperative chemotherapy, why is the conventional two-segment minimum for resection considered insufficient?**
+
+- Chemotherapy increases liver volume
+- **Chemotherapy causes background liver injury that impairs regeneration**
+- Chemotherapy enhances hepatic vascular flow
+- Chemotherapy reduces biliary obstruction risk
+
+*Explanation: Patients selected for partial hepatectomy increasingly treated with preoperative chemotherapy have risk factors for background liver injury; in these patients, the minimal requirement of two contiguous segments is likely too liberal and puts patients at unacceptable risk for post-hepatectomy liver failure.*
+
+---
+
+**5. Which factor is described as more predictive of postoperative outcome than the number of liver segments resected?**
+
+- Total liver weight
+- **Volume of liver remaining (FLR)**
+- Tumor size
+- Number of portal vein branches
+
+*Explanation: It is actually the volume of liver remaining (i.e., the FLR) that is more predictive of outcome than the extent of liver resection, and thus critical to accurately measure.*
+
+---
+
+**6. What is the reported range of the right side of the liver as a proportion of total liver volume (TLV)?**
+
+- 30% to 60%
+- 40% to 70%
+- **49% to 82%**
+- 55% to 90%
+
+*Explanation: In most patients, the right side of the liver represents more than half of the total liver volume; however, there is a broad range, from 49% to 82%.*
+
+---
+
+**7. For which type of liver resection is formal radiologic volumetric assessment required?**
+
+- Any resection involving one segment
+- Resections involving two non-adjacent segments
+- **Major (more than four segments) liver resection**
+- Wedge resections only
+
+*Explanation: Formal radiologic assessment of volumetrics is required to accurately assess the FLR for anticipated major (i.e., >4 segments) liver resection due to substantial variability among patients in segmental anatomy and liver volume.*
+
+---
+
+**8. Which imaging modalities are most commonly used for formal measurement of liver volumes?**
+
+- Ultrasound and PET scan
+- X-ray and fluoroscopy
+- **Computed tomography (CT) or magnetic resonance imaging (MRI)**
+- Nuclear scintigraphy and SPECT
+
+*Explanation: Formal measurement of liver volumes is most commonly accomplished by using computed tomography (CT) or magnetic resonance imaging (MRI), as they are commonly obtained in patient care for characterization of lesions and operative planning.*
+
+---
+
+**9. How is liver volume calculated from cross-sectional CT or MRI images?**
+
+- By measuring the longest liver diameter only
+- By water displacement technique
+- **By sequentially marking the planned resection line, deriving surface area, and multiplying by slice thickness**
+- By estimating from body weight alone
+
+*Explanation: Cross-sectional images obtained from CT or MRI are sequentially marked with the planned resection line, following which the surface area is derived and multiplied by the slice thickness.*
+
+---
+
+**10. Why is tumor volume problematic when calculating total liver volume (TLV) by direct measurement?**
+
+- Tumors increase blood flow to the liver
+- Tumors are too small to measure accurately
+- **Tumor volume does not contribute to hepatic function, causing a falsely elevated TLV and falsely diminished FLR ratio**
+- Tumors improve liver regeneration capacity
+
+*Explanation: Because the tumor volume does not contribute to hepatic function, including it in the measurement of TLV provides a falsely elevated value and hence a falsely diminished anticipated FLR ratio.*
+
+---
+
+**11. Who first proposed the total estimated liver volume (TELV) method?**
+
+- Vauthey and colleagues in the United States
+- Heinemann and colleagues in Germany
+- **Urata and colleagues in Japan**
+- Kubota and colleagues in Japan
+
+*Explanation: The alternative method referred to as the total estimated liver volume (TELV) was first proposed by Urata and colleagues in Japan for use in liver transplantation.*
+
+---
+
+**12. On what basis does the TELV method estimate total liver volume?**
+
+- Based on age and sex
+- Based on total body weight only
+- **Based on body surface area (BSA)**
+- Based on serum albumin level
+
+*Explanation: Rather than measuring the TLV directly and subtracting tumor volumes, the TELV technique estimates the TLV based on body surface area (BSA).*
+
+---
+
+**13. By how much did Urata's original TELV formula underestimate liver volume in Western patients?**
+
+- 100 cm³
+- 200 cm³
+- **323 cm³**
+- 500 cm³
+
+*Explanation: Urata's formula underestimated TELV in Western patients by an average of 323 cm³, leading to a modified formula for application to Western patients.*
+
+---
+
+**14. What is the modified TELV equation developed for Western patients?**
+
+- TELV = 1000 + 1500 × BSA
+- TELV = 500 + 2000 × BSA
+- **TELV = −794 + 1267 × BSA**
+- TELV = 1267 − 794 × BSA
+
+*Explanation: The resulting equation modified for Western patients is TELV = −794 + 1267 × BSA, which has been extensively studied and found to yield a precise estimate of TLV across institutions.*
+
+---
+
+**15. What is the term for the FLR ratio calculated using TELV as the denominator?**
+
+- Adjusted FLR
+- Corrected FLR
+- Normalized FLR
+- **Standardized FLR (sFLR)**
+
+*Explanation: When the TELV is used as the denominator to calculate the FLR ratio (FLR/TELV), the resultant ratio is referred to as the standardized FLR (sFLR).*
+
+---
+
+**16. In the study comparing measured TLV with TELV in 243 patients, which patient group showed a significantly higher TELV?**
+
+- Patients with cirrhosis
+- Elderly patients
+- **Overweight patients (BMI > 25)**
+- Patients with steatohepatitis
+
+*Explanation: In overweight patients (BMI > 25), TELV was significantly higher than measured TLV, yielding a lower sFLR in these patients.*
+
+---
+
+**17. In the TLV vs. TELV comparison study, how many patients were deemed to have insufficient liver volume for resection using TELV compared with TLV?**
+
+- 47 vs. 30
+- 60 vs. 47
+- **73 vs. 47**
+- 90 vs. 73
+
+*Explanation: Based on the surgeons' thresholds, 47 patients were deemed to have insufficient liver volume for resection using TLV compared with 73 patients using TELV.*
+
+---
+
+**18. What conclusion was drawn from the study comparing TLV and TELV for predicting post-hepatectomy outcomes?**
+
+- TLV is the better measure of postoperative hepatic insufficiency risk
+- Both measures are equally predictive
+- **TELV (i.e., sFLR) is a better measure of postoperative hepatic insufficiency risk**
+- Neither measure predicts outcomes reliably
+
+*Explanation: The subset of patients who had insufficient volume based on TELV had significantly higher rates of post-hepatectomy liver failure and mortality, leading the authors to conclude that TELV (sFLR) is a better measure.*
+
+---
+
+**19. What is the current status of semi-automated and fully automated software for liver segmentation?**
+
+- They are experimental and not yet validated
+- They are accurate but more time-consuming than manual volumetry
+- **They have been shown to be very accurate and time-efficient compared with manual volumetry**
+- They are only applicable to CT, not MRI
+
+*Explanation: A number of studies have shown semi-automated and fully automated segmentation packages to be very accurate and time-efficient when compared with the gold standard of manual volumetry for TLV and individual liver segment volumes.*
+
+---
+
+**20. For which type of resection is manual volumetry still required?**
+
+- Standard right hepatectomy
+- Left lateral sectionectomy
+- Extended right hepatectomy
+- **A resection not following a standard anatomic plane**
+
+*Explanation: Measuring the FLR for a resection not following a standard anatomic plane still requires manual volumetry, even with the availability of sophisticated automated software.*
+
+---
+
+**21. According to the 2006 expert consensus statement, what is the recommended minimum FLR for major hepatic resection in a patient with a healthy liver?**
+
+- 10%
+- 15%
+- **20%**
+- 30%
+
+*Explanation: A 2006 expert consensus statement recommended a minimum of 20% FLR for major hepatic resection in a patient with a healthy liver and to consider PVE for any FLR less than that.*
+
+---
+
+**22. What is the reported optimal FLR cutoff range for patients with a normal background liver?**
+
+- 10% to 20%
+- 15% to 25%
+- **20% to 30%**
+- 30% to 40%
+
+*Explanation: Allowing for differences across studies, the optimal cutoff for patients with a normal background liver appears to be between 20% and 30%.*
+
+---
+
+**23. What two optimal FLR thresholds were reported by studies using formal ROC curve analyses in patients with background liver injury from preoperative chemotherapy?**
+
+- 20% and 35%
+- 25% and 40%
+- **31% and 48.5%**
+- 35% and 50%
+
+*Explanation: Two studies that examined this question and performed formal ROC curve analyses reported optimal thresholds of 31% and 48.5%, respectively, for patients with background liver injury from preoperative chemotherapy.*
+
+---
+
+**24. In the largest study of extended right hepatectomy patients, how was "long-duration chemotherapy" defined?**
+
+- More than 6 weeks
+- More than 8 weeks
+- More than 10 weeks
+- **More than 12 weeks**
+
+*Explanation: The largest study of 194 patients undergoing extended right-sided hepatectomy defined long-duration chemotherapy as greater than 12 weeks.*
+
+---
+
+**25. What was the optimal FLR cutoff for preventing postoperative liver insufficiency in patients who received extensive preoperative chemotherapy, according to the largest study?**
+
+- 20%
+- 25%
+- **30%**
+- 40%
+
+*Explanation: Using a minimum P-value approach, the authors of the largest study concluded that the optimal cutoff value of FLR for preventing postoperative liver insufficiency in patients treated with extensive preoperative chemotherapy was 30%.*
+
+---
+
+**26. In patients with extensive chemotherapy and an sFLR between 30% and 40%, what is recommended?**
+
+- Proceed with resection without further workup
+- Delay surgery by at least 3 months
+- **Investigate closely for underlying liver dysfunction and consider PVE**
+- Abandon surgical plans entirely
+
+*Explanation: Patients who have received extensive chemotherapy and have an sFLR between 30% and 40% should be investigated closely for any suggestion of underlying liver dysfunction and could be considered for PVE.*
+
+---
+
+**27. What is the conservative FLR threshold that some authors apply in patients with documented underlying liver disease?**
+
+- 20%
+- 25%
+- 30%
+- **40%**
+
+*Explanation: Some authors apply a conservative FLR threshold as high as 40% for patients with documented underlying liver disease.*
+
+---
+
+**28. How is the degree of hypertrophy (DH) after PVE defined?**
+
+- Percentage increase in FLR volume
+- Ratio of post-PVE to pre-PVE FLR
+- **Absolute difference between FLR before and after PVE**
+- Post-PVE FLR divided by TELV
+
+*Explanation: The degree of hypertrophy (DH) is defined as the absolute difference between FLR before and after PVE.*
+
+---
+
+**29. For patients without cirrhosis undergoing PVE, what combined criteria were recommended for safe hepatectomy?**
+
+- sFLR ≥ 15% and DH ≥ 3%
+- sFLR ≥ 25% and DH ≥ 3%
+- sFLR ≥ 15% and DH ≥ 10%
+- **sFLR ≥ 20% and DH ≥ 5%**
+
+*Explanation: The study recommended that patients without cirrhosis undergoing PVE should have both an sFLR of at least 20% and a DH of at least 5% to undergo safe hepatectomy.*
+
+---
+
+**30. To what diagnostic test is PVE compared in terms of its role as a functional test?**
+
+- Liver biopsy
+- **Cardiac stress test**
+- Pulmonary function test
+- Renal scan
+
+*Explanation: In addition to its therapeutic intent, PVE functions as a diagnostic test analogous to a cardiac stress test; patients who do not experience substantial growth in the FLR after PVE should be suspected of harboring background liver disease.*
+
+---
+
+**31. How is the kinetic growth rate (KGR) calculated?**
+
+- Post-PVE FLR divided by pre-PVE FLR
+- DH multiplied by the number of weeks since PVE
+- **DH divided by the number of weeks elapsed since PVE**
+- sFLR minus pre-PVE FLR, divided by body weight
+
+*Explanation: The kinetic growth rate (KGR) may be calculated by dividing the degree of hypertrophy (DH) by the number of weeks elapsed since PVE.*
+
+---
+
+**32. In the study of 107 patients with colorectal liver metastases and sFLR > 20%, what was the AUC of KGR for predicting postoperative hepatic insufficiency?**
+
+- 0.650
+- 0.720
+- 0.780
+- **0.830**
+
+*Explanation: In the study of 107 patients, KGR was a more accurate predictor of postoperative hepatic insufficiency than absolute sFLR or DH, with an area under the curve (AUC) of 0.830.*
+
+---
+
+**33. In the KGR study, what was the hepatic insufficiency rate in patients with a KGR less than 2% per week?**
+
+- 5.4%
+- 10.2%
+- **21.6%**
+- 35.0%
+
+*Explanation: Patients with a KGR less than 2% per week suffered a 21.6% hepatic insufficiency rate and an 8.1% 90-day mortality rate.*
+
+---
+
+**34. In patients with KGR greater than 2% per week in the KGR study, what were the hepatic insufficiency and 90-day mortality rates?**
+
+- 5% hepatic insufficiency and 2% mortality
+- 10% hepatic insufficiency and 1% mortality
+- **No hepatic insufficiency and no 90-day mortality**
+- 3% hepatic insufficiency and 0.5% mortality
+
+*Explanation: No hepatic insufficiency or 90-day mortality was observed in patients with a KGR greater than 2% per week.*
+
+---
+
+**35. In the study of 153 patients who underwent major hepatectomy after PVE, what were the AUCs for DH and KGR as predictors of liver failure?**
+
+- AUC 0.70 and 0.65
+- AUC 0.75 and 0.72
+- **AUC 0.80 and 0.79**
+- AUC 0.90 and 0.88
+
+*Explanation: In the study of 153 patients, both DH and KGR were good predictors of liver failure with AUCs of 0.80 and 0.79, respectively.*
+
+---
+
+**36. In the 153-patient PVE study, what KGR threshold was associated with zero incidence of post-hepatectomy liver failure?**
+
+- > 1% per week
+- > 2% per week
+- **> 2.66% per week**
+- > 3% per week
+
+*Explanation: Post-hepatectomy liver failure did not develop in any patients with a KGR greater than 2.66% per week in the 153-patient study.*
+
+---
+
+**37. What is the recommended approach to interpreting post-PVE FLR?**
+
+- Evaluate post-PVE FLR alone
+- Use KGR alone without FLR measurement
+- **Interpret post-PVE FLR in combination with some measure of extent of hypertrophy (DH or KGR)**
+- Compare post-PVE FLR only against volumetric thresholds
+
+*Explanation: Post-PVE FLR should be interpreted in combination with some measure of extent of hypertrophy (either DH or KGR) to optimally predict a patient's risk for post-hepatectomy liver insufficiency.*
+
+---
+
+**38. What is described as the gold standard for preoperative assessment of hepatic function?**
+
+- ICG clearance testing
+- Child-Pugh scoring
+- **Volumetric-based assessment of the FLR with cross-sectional imaging (CT or MRI)**
+- Nuclear scintigraphy
+
+*Explanation: According to the chapter's conclusion, the gold standard remains volumetric-based assessment of the FLR with cross-sectional imaging (CT or MRI).*
+
+---
+
+**39. What are the five characteristics of an ideal method to assess hepatic function?**
+
+- Fast, cheap, non-radioactive, portable, and validated
+- Invasive, specific, quantitative, reproducible, and inexpensive
+- **Accurate, noninvasive, inexpensive, specific to the remnant portion of the liver, and widely reproducible**
+- Sensitive, specific, fast, widely available, and automated
+
+*Explanation: The optimal method to assess hepatic function would be accurate, noninvasive, inexpensive, specific to the remnant portion of the liver, and widely reproducible.*
+
+---
+
+**40. Which clinical scoring system was originally developed to predict the risk of death in patients undergoing surgical management of portal hypertension?**
+
+- MELD score
+- ALBI score
+- **Child-Turcotte-Pugh scoring system**
+- APACHE II score
+
+*Explanation: The Child-Turcotte-Pugh scoring system was developed to predict the risk of death in patients undergoing surgical management of portal hypertension.*
+
+---
+
+**41. What three laboratory tests are included in the Child-Pugh score?**
+
+- ALT, AST, and alkaline phosphatase
+- Creatinine, sodium, and bilirubin
+- **Bilirubin, albumin, and INR**
+- Albumin, creatinine, and INR
+
+*Explanation: The Child's score is easily calculated from three readily available laboratory tests (bilirubin, albumin, and INR) and two clinical findings (ascites and encephalopathy).*
+
+---
+
+**42. What are the two clinical findings incorporated into the Child-Pugh score?**
+
+- Jaundice and hepatomegaly
+- Spider nevi and palmar erythema
+- **Ascites and encephalopathy**
+- Splenomegaly and varices
+
+*Explanation: In addition to three laboratory tests, the Child's score incorporates two clinical findings: ascites and encephalopathy.*
+
+---
+
+**43. In which class of Child-Pugh cirrhosis should surgery generally be avoided?**
+
+- Class A
+- Class B
+- **Class C**
+- Class D
+
+*Explanation: In general, surgery is reasonable to consider in patients with class A cirrhosis, should be approached cautiously in patients with class B cirrhosis, and should be avoided in patients with class C cirrhosis.*
+
+---
+
+**44. Why is the Child-Pugh score less useful in patients without cirrhosis?**
+
+- It cannot be calculated without liver biopsy
+- It requires advanced imaging
+- **It will almost always be normal even when there is substantial background liver dysfunction**
+- It overestimates liver function in non-cirrhotic patients
+
+*Explanation: In patients without cirrhosis, the Child's score will almost always be normal even when there is substantial background liver dysfunction; in this setting, it does not predict postoperative liver dysfunction.*
+
+---
+
+**45. What important finding about portal hypertension should clinicians recognize even in Child's A cirrhosis?**
+
+- Portal hypertension is absent in Child's A cirrhosis
+- Portal hypertension requires Child's C cirrhosis to occur
+- **Significant portal hypertension may exist even in Child's A cirrhosis**
+- Portal hypertension in Child's A cirrhosis is benign
+
+*Explanation: It is important to recognize that significant portal hypertension may exist even in Child's A cirrhosis.*
+
+---
+
+**46. What is the MELD score primarily used for in clinical practice?**
+
+- Predicting surgical mortality after hepatectomy
+- Assessing response to chemotherapy
+- **Allocating organs in liver transplantation**
+- Diagnosing hepatocellular carcinoma
+
+*Explanation: The MELD score is a mathematical equation frequently used in liver transplantation to allocate organs.*
+
+---
+
+**47. Which three laboratory values are incorporated into the MELD score?**
+
+- Bilirubin, albumin, and ALT
+- Albumin, INR, and creatinine
+- **Serum bilirubin, creatinine, and INR**
+- ALT, AST, and bilirubin
+
+*Explanation: The MELD score incorporates simple laboratory investigations, including serum bilirubin, creatinine, and INR.*
+
+---
+
+**48. In patients with cirrhosis undergoing partial hepatectomy, what MELD score threshold is a strong predictor of perioperative mortality?**
+
+- Greater than 5
+- Greater than 6
+- Greater than 7
+- **Greater than 8**
+
+*Explanation: In patients with cirrhosis undergoing partial hepatectomy, a MELD score greater than 8 is a strong predictor of perioperative mortality and decreased long-term survival.*
+
+---
+
+**49. In patients without documented background liver injury, how does the MELD score perform as a predictor?**
+
+- It strongly predicts inferior outcomes
+- It moderately predicts complications
+- **It is not strongly associated with inferior outcomes**
+- It is only useful for long-term survival prediction
+
+*Explanation: In contrast to its utility in cirrhotic patients, in patients without documented background liver injury, a MELD score is not strongly associated with inferior outcomes.*
+
+---
+
+**50. In what year was the albumin-bilirubin (ALBI) score first described?**
+
+- 2010
+- 2012
+- 2013
+- **2015**
+
+*Explanation: First described in 2015, the albumin-bilirubin (ALBI) score categorizes patients into three risk groups based only on their serum albumin and bilirubin.*
+
+---
+
+**51. How many risk groups does the ALBI score categorize patients into?**
+
+- Two
+- **Three**
+- Four
+- Five
+
+*Explanation: The ALBI score categorizes patients into three risk groups: A1, A2, or A3 (from best to worst).*
+
+---
+
+**52. In how many patients with hepatocellular carcinoma was the ALBI score originally developed?**
+
+- 500
+- 800
+- 1000
+- **1313**
+
+*Explanation: The ALBI model was developed from 1313 patients with hepatocellular carcinoma (HCC) in Japan and was validated in patients from other geographic regions.*
+
+---
+
+**53. Compared with the Child-Pugh score, the ALBI score was shown to be better at predicting which outcomes after hepatectomy?**
+
+- Tumor recurrence and overall survival
+- **Post-hepatectomy liver failure (PHLF) and survival**
+- Operative blood loss and length of stay
+- Wound complications and readmission rates
+
+*Explanation: Further studies showed ALBI was better able to predict both PHLF and survival after hepatectomy when compared with Child-Pugh and MELD scores.*
+
+---
+
+**54. In which subgroup of Child-Pugh patients can the ALBI score add further precision in predicting PHLF risk?**
+
+- Child-Pugh B patients
+- Child-Pugh C patients
+- All Child-Pugh patients equally
+- **Child-Pugh A patients**
+
+*Explanation: Within the group of Child-Pugh A patients, use of the ALBI score can add further precision in predicting the risk for PHLF.*
+
+---
+
+**55. What is the primary limitation of clinical scoring systems (Child-Pugh, MELD, ALBI) in non-cirrhotic patients?**
+
+- They require invasive testing
+- They are too complex to calculate
+- They are not validated in Western populations
+- **They are not sensitive enough to detect background liver injury and predict postoperative liver dysfunction**
+
+*Explanation: Clinical scoring systems are not sensitive enough to detect background liver injury and subsequent risk of postoperative liver dysfunction in patients without cirrhosis; other methods of functional liver assessment are needed in these patients.*
+
+---
+
+**56. What type of dye is indocyanine green (ICG)?**
+
+- Fat-soluble fluorescent dye
+- Radioactive iodine-labeled compound
+- **Water-soluble tricarbocyanine dye**
+- Gadolinium-based contrast agent
+
+*Explanation: ICG is a water-soluble tricarbocyanine dye that binds to albumin and distributes rapidly and uniformly in the blood after intravenous injection.*
+
+---
+
+**57. How is ICG eliminated from the body?**
+
+- Renally in unchanged form
+- Metabolized by the liver and excreted in urine
+- **Exclusively cleared by the liver and excreted unchanged into bile**
+- Metabolized by the cytochrome P450 system
+
+*Explanation: ICG is exclusively cleared from the bloodstream by the liver in a similar manner to bilirubin and toxins and then excreted unchanged into bile.*
+
+---
+
+**58. What three physiological processes does ICG clearance reflect?**
+
+- Sinusoidal perfusion, Kupffer cell activity, and biliary drainage
+- Portal venous flow, arterial flow, and lymphatic drainage
+- **Blood flow–dependent clearance, hepatocyte uptake, and biliary excretion**
+- Hepatocyte synthesis, metabolism, and secretion
+
+*Explanation: ICG clearance tests reflect blood flow–dependent clearance, hepatocyte uptake, and biliary excretion.*
+
+---
+
+**59. In the conventional ICG clearance test, how is blood collected after IV injection?**
+
+- Continuously via arterial line for 30 minutes
+- At 10-minute intervals for 30 minutes
+- **At 5-minute intervals for 15 minutes**
+- At 15-minute intervals for 60 minutes
+
+*Explanation: The conventional measurement of ICG clearance involves IV injection of ICG, followed by serial collection of venous blood at 5-minute intervals for 15 minutes.*
+
+---
+
+**60. What non-invasive method allows real-time monitoring of ICG clearance?**
+
+- Hepatobiliary scintigraphy
+- Contrast-enhanced ultrasound
+- **Pulse-spectrophotometry**
+- Near-infrared fluorescence imaging
+
+*Explanation: ICG clearance can also be measured noninvasively by pulse-spectrophotometry, which allows for real-time monitoring of liver function.*
+
+---
+
+**61. What does ICG-R15 represent?**
+
+- ICG clearance rate at 15 seconds
+- ICG plasma disappearance rate over 15 minutes
+- **Percentage of ICG retained in the circulation 15 minutes after injection**
+- ICG elimination rate constant at 15 minutes
+
+*Explanation: The results of ICG tests may be expressed as the percentage of ICG retained in the circulation 15 minutes after injection (ICG-R15).*
+
+---
+
+**62. What is the proposed threshold range for ICG-R15 associated with post-hepatectomy complications?**
+
+- 5% to 10%
+- 10% to 14%
+- **14% to 20%**
+- 20% to 25%
+
+*Explanation: Several studies have identified an association between elevated ICG-R15 and post-hepatectomy complications, with proposed threshold values of ICG-R15 ranging from 14% to 20%.*
+
+---
+
+**63. In which patient group are ICG clearance test results unreliable?**
+
+- Patients with elevated ALT
+- Patients on anticoagulation therapy
+- **Patients with hyperbilirubinemia or intrahepatic shunting or sinusoidal capillarization**
+- Patients with thrombocytopenia
+
+*Explanation: The results of ICG clearance tests are not reliable in patients with hyperbilirubinemia or in patients with intrahepatic shunting or sinusoidal capillarization.*
+
+---
+
+**64. What is a key limitation of ICG clearance in relation to the extent of resection?**
+
+- It cannot be performed in outpatient settings
+- It requires contrast injection
+- **It measures global liver function and does not incorporate the extent of resection or volume of remnant**
+- It requires arterial blood sampling
+
+*Explanation: ICG clearance testing is a measure of global liver function and does not incorporate the extent of resection, or conversely, the volume of the remnant that will remain.*
+
+---
+
+**65. In one study of patients with cirrhosis, what combination predicted safety for hepatectomy?**
+
+- sFLR > 20% and ICG-R15 < 10%
+- sFLR > 30% and ICG-PDR > 15%
+- **sFLR > 25% and sFLR/ICG-R15 ratio > 1.9**
+- sFLR > 35% and ICG-R15 < 14%
+
+*Explanation: In one study of patients with cirrhosis, a combination of sFLR greater than 25% and an sFLR/ICG-R15 ratio greater than 1.9 predicted safety to undergo hepatectomy.*
+
+---
+
+**66. What are the two most widely used radiopharmaceutical imaging methods for liver functional assessment?**
+
+- PET-CT and SPECT
+- 18F-FDG and 99mTc-sulfur colloid
+- **99mTc-GSA scintigraphy and hepatobiliary scintigraphy (HBS) with 99mTc-IDA derivatives**
+- 99mTc-DTPA and 99mTc-MIBI
+
+*Explanation: The most widely used radiopharmaceutical imaging methods for liver functional assessment are technetium-99m–labeled galactosyl serum albumin (GSA) scintigraphy and hepatobiliary scintigraphy (HBS) with 99mTc-labeled iminodiacetic acid (IDA) derivatives.*
+
+---
+
+**67. What is 99mTc-GSA an analogue of?**
+
+- Bilirubin
+- Albumin
+- **A glycoprotein (ascites sialoglycoprotein) that binds to receptors on the hepatocyte cell membrane**
+- Bile acid
+
+*Explanation: 99mTc-GSA is an analogue of a glycoprotein (ascites sialoglycoprotein) that binds to receptors on the hepatocyte cell membrane and is taken up by the hepatocytes.*
+
+---
+
+**68. What effect does chronic liver disease have on hepatocyte glycoprotein receptors?**
+
+- Increases their expression
+- Has no effect on receptor density
+- **Diminishes the receptors and leads to accumulation of plasma glycoproteins**
+- Converts them to fibrotic tissue
+
+*Explanation: Chronic liver disease results in diminished hepatocyte glycoprotein receptors and subsequent accumulation of plasma glycoproteins.*
+
+---
+
+**69. What does LHL15 represent in 99mTc-GSA scintigraphy?**
+
+- Liver half-life at 15 minutes
+- **Hepatic uptake ratio: uptake ratio of the liver to the liver plus heart at 15 minutes (receptor index)**
+- Liver-to-heart ratio at 15 seconds
+- Liver hypertrophy level at 15 minutes
+
+*Explanation: The hepatic uptake ratio (LHL15) is the receptor index defined as the uptake ratio of the liver to the liver plus heart at 15 minutes.*
+
+---
+
+**70. What does HH15 represent in 99mTc-GSA scintigraphy?**
+
+- Heart-to-hepatocyte ratio at 15 minutes
+- Hepatic hypertrophy index at 15 minutes
+- **Blood clearance index: uptake ratio of the heart at 15 minutes to that at 3 minutes**
+- Heart-to-liver ratio at 15 minutes
+
+*Explanation: The blood clearance ratio (HH15) is the blood clearance index defined as the uptake ratio of the heart at 15 minutes to that at 3 minutes.*
+
+---
+
+**71. How does 99mTc-GSA uptake compare to ICG clearance in patients with cirrhosis?**
+
+- It is inferior to ICG clearance
+- They are equivalent
+- **It corresponds well with ICG clearance and predicts histologic severity better than ICG in a substantial proportion of patients**
+- It is only useful for pre-transplant assessment
+
+*Explanation: In patients with cirrhosis, 99mTc-GSA uptake corresponds well with other conventional liver function tests, including ICG clearance, and predicts histologic severity of disease better than ICG clearance in a substantial proportion of patients.*
+
+---
+
+**72. What is the main limitation of 99mTc-GSA uptake as a liver function test?**
+
+- It requires intravenous contrast
+- It uses ionizing radiation
+- **Inter-operator and inter-institutional differences, and it does not provide a measure of regional liver function**
+- It cannot be combined with CT imaging
+
+*Explanation: 99mTc-GSA uptake is limited by inter-operator and inter-institutional differences and does not provide a measure of regional liver function.*
+
+---
+
+**73. How can the limitation of regional liver function measurement in 99mTc-GSA scintigraphy be addressed?**
+
+- By using a different radiopharmaceutical
+- By increasing the dose of 99mTc-GSA
+- **By combining it with SPECT-CT for three-dimensional measurement of uptake**
+- By performing the test twice and averaging the results
+
+*Explanation: To address this limitation, 99mTc-GSA scintigraphy may be combined with static single-photon emission computed tomography–CT (SPECT-CT) to allow a three-dimensional measurement of 99mTc-GSA uptake.*
+
+---
+
+**74. In the single-arm prospective trial of 185 patients undergoing hepatectomy with 99mTc-GSA SPECT-CT, what was the PHLF rate?**
+
+- 2%
+- 5%
+- **8%**
+- 12%
+
+*Explanation: The single-arm prospective trial of 185 consecutive patients undergoing hepatectomy demonstrated a PHLF rate of 8% and 90-day mortality of 0.5%.*
+
+---
+
+**75. In the 185-patient SPECT-CT trial, what happened to the 7 patients who did not meet criteria for resection based on overall ICG-R15 × FLR?**
+
+- They were excluded from surgery
+- They developed PHLF after surgery
+- **They underwent hepatectomy without PHLF**
+- They required portal vein embolization first
+
+*Explanation: 7 patients who would not have met their criteria for resection based on the overall ICG-R15 × FLR underwent hepatectomy without PHLF, demonstrating the heterogeneity of liver function and the importance of measuring FLR-specific function.*
+
+---
+
+**76. What are the properties of 99mTc-mebrofenin that are similar to ICG?**
+
+- High hepatic uptake, high urinary excretion, and low bilirubin displacement
+- Low hepatic uptake, low urinary excretion, and low bilirubin displacement
+- **High hepatic uptake, low displacement by bilirubin, and low urinary excretion**
+- High urinary excretion, high bilirubin displacement, and moderate hepatic uptake
+
+*Explanation: 99mTc-mebrofenin is an organic IDA derivative with similar properties to ICG: it has high hepatic uptake, low displacement by bilirubin, and low urinary excretion.*
+
+---
+
+**77. How is the uptake ratio in 99mTc-mebrofenin HBS adjusted compared to 99mTc-GSA?**
+
+- By multiplying by the total liver weight
+- By correcting for serum bilirubin level
+- **By dividing by the patient's BSA to compensate for differences in metabolic requirements**
+- By adjusting for age and sex
+
+*Explanation: The uptake ratio in 99mTc-mebrofenin HBS is divided by the patient's BSA to compensate for differences in metabolic requirements.*
+
+---
+
+**78. What FLR function cutoff value in 99mTc-mebrofenin HBS combined with SPECT-CT was associated with an NPV of 97.6% for PHLF?**
+
+- 1.5%/min/m²
+- 2.0%/min/m²
+- **2.7%/min/m²**
+- 3.5%/min/m²
+
+*Explanation: An FLR function cutoff value of 2.7%/min/m² was shown to have a negative predictive value (NPV) of 97.6% and a positive predictive value (PPV) of 57.1% for PHLF.*
+
+---
+
+**79. What is the PPV of the 2.7%/min/m² FLR function cutoff in 99mTc-mebrofenin HBS for PHLF?**
+
+- 80.0%
+- 70.5%
+- **57.1%**
+- 40.2%
+
+*Explanation: An FLR function cutoff value of 2.7%/min/m² was shown to have a negative predictive value (NPV) of 97.6% and a positive predictive value (PPV) of 57.1% for PHLF.*
+
+---
+
+**80. What is the main limitation shared by both 99mTc-GSA scintigraphy and 99mTc-mebrofenin HBS?**
+
+- High radiation dose
+- Cost and limited availability
+- **Inter-observer and inter-institution variability**
+- Inability to assess regional liver function
+
+*Explanation: The main limitation of HBS is, again, inter-observer and inter-institution variability, which is shared with 99mTc-GSA scintigraphy.*
+
+---
+
+**81. To what is lidocaine primarily metabolized in the liver?**
+
+- Codeine
+- MEGX-2
+- **Monoethylglycinexylidide (MEGX)**
+- N-acetyl lidocaine
+
+*Explanation: Lidocaine is metabolized to monoethylglycinexylidide (MEGX) primarily in the liver.*
+
+---
+
+**82. In which clinical settings has the MEGX test been studied?**
+
+- Preoperative liver assessment and oncology
+- Pediatric hepatology and trauma
+- **Transplantation and critical care medicine**
+- Gastroenterology and pulmonology
+
+*Explanation: The MEGX test has been studied in transplantation and critical care medicine and appears to correlate with other measures of hepatic metabolism.*
+
+---
+
+**83. Why is the MEGX test considered investigational only in preoperative liver function assessment?**
+
+- It requires liver biopsy for validation
+- It uses a radioactive compound
+- **It is limited by poor reliability and the need for frequent monitoring**
+- It cannot detect mild liver dysfunction
+
+*Explanation: The MEGX test is limited by poor reliability and the need for frequent monitoring; therefore its present application in preoperative assessment of liver function is investigational only.*
+
+---
+
+**84. What metabolic function does the galactose elimination capacity test reflect?**
+
+- Biliary excretion capacity
+- Hepatic blood flow
+- **Metabolic function of the liver**
+- Hepatocyte regeneration capacity
+
+*Explanation: Galactose elimination capacity accurately reflects metabolic function of the liver but is similarly limited by practical constraints and alterations due to environmental conditions.*
+
+---
+
+**85. What is the hepatobiliary excretion rate of Gd-EOB-DTPA in a normal liver?**
+
+- Up to 10%
+- Up to 25%
+- Up to 35%
+- **Up to 50%**
+
+*Explanation: Gadolinium ethoxybenzyl dimeglumine (Gd-EOB-DTPA) is a liver-specific contrast agent that has as much as 50% hepatobiliary excretion in a normal liver.*
+
+---
+
+**86. Compared with CT, how does MRI perform for detection of liver neoplasms?**
+
+- MRI is less sensitive but more specific
+- MRI is equivalent to CT
+- **MRI is more sensitive and specific than CT for detection of primary and metastatic liver neoplasms**
+- MRI is more sensitive but less specific than CT
+
+*Explanation: MRI is more sensitive and specific than CT for the detection of primary and metastatic liver neoplasms and is used routinely at most centers before liver resection.*
+
+---
+
+**87. What is the first advantage of using Gd-EOB-DTPA–enhanced MRI for liver function assessment?**
+
+- It avoids radiation exposure
+- It is cheaper than nuclear scintigraphy
+- **MRI is routinely available and frequently used in preoperative assessment, so no additional testing is required**
+- It provides better spatial resolution than CT
+
+*Explanation: First, MRI is routinely available and frequently used in the preoperative assessment of these patients, so no additional testing is required.*
+
+---
+
+**88. What is the second advantage of Gd-EOB-DTPA–enhanced MRI for FLR assessment?**
+
+- It measures global liver function more accurately
+- **Functional assessment may be focused on the planned FLR in cases of heterogeneous uptake**
+- It has better inter-observer reproducibility than scintigraphy
+- It requires no patient preparation
+
+*Explanation: Functional assessment may be focused on the planned FLR in cases of heterogeneous uptake, rather than calculating uptake for the whole liver as is the case in most other functional quantitative tests.*
+
+---
+
+**89. What additional information does MRI provide that assists preoperative decision making?**
+
+- Doppler flow measurements
+- Precise segmental bile duct anatomy
+- **Visual assessment of background liver injury, including steatosis and fibrosis**
+- Real-time hepatic blood pressure measurements
+
+*Explanation: MRI provides visual assessment of background liver injury, including steatosis and fibrosis, which may further assist in preoperative decision making.*
+
+---
+
+**90. What does the abbreviation RLE stand for in MRI liver assessment?**
+
+- Remnant Liver Enhancement
+- Regional Liver Estimate
+- **Relative Liver Enhancement (difference in signal intensity between the unenhanced and hepatobiliary phases)**
+- Residual Liver Evaluation
+
+*Explanation: The most precise predictors for PHLF use a combination of relative liver enhancement (RLE, defined as the difference in signal intensity between the unenhanced and hepatobiliary phases) specific to the FLR.*
+
+---
+
+**91. What does the hepatocellular uptake index (HUI) measure in MRI assessment?**
+
+- Hepatocyte volume fraction
+- Contrast clearance rate
+- **Difference in signal intensity between liver parenchyma and the spleen**
+- Hepatic arterial blood flow
+
+*Explanation: The hepatocellular uptake index (HUI) is defined as the difference in signal intensity between liver parenchyma and the spleen.*
+
+---
+
+**92. In the study by Asenbaum et al., what AUC was calculated for predicting PHLF using functional FLR?**
+
+- 0.75
+- 0.80
+- 0.85
+- **0.90**
+
+*Explanation: Asenbaum et al. calculated an AUC of 0.9 for predicting PHLF for their outcome of functional FLR, which equals (FLR × remnant RLE)/weight.*
+
+---
+
+**93. How is functional FLR calculated in the Asenbaum et al. study?**
+
+- FLR divided by total liver volume multiplied by RLE
+- sFLR multiplied by post-PVE enhancement ratio
+- **(FLR × remnant RLE) divided by body weight**
+- FLR plus HUI divided by TELV
+
+*Explanation: Asenbaum et al. calculated functional FLR as (FLR × remnant RLE)/weight, which had an AUC of 0.9 for predicting PHLF.*
+
+---
+
+**94. In MRI studies post-PVE, at what time point does the increase in RLE from baseline best predict PHLF?**
+
+- Baseline to 7 days post-PVE
+- **Baseline to 14 days post-PVE**
+- Baseline to 28 days post-PVE
+- Baseline to 10 days post-hepatectomy
+
+*Explanation: Studies have shown that the increase in RLE from baseline to 14 days post-PVE is an excellent predictor of PHLF, and that beyond 14 days there is minimal improvement in FLR, KGR, and RLE.*
+
+---
+
+**95. What is transient elastography (TE) used to estimate?**
+
+- Liver volume
+- Portal venous pressure
+- **Extent of liver fibrosis**
+- Hepatic arterial flow
+
+*Explanation: Ultrasound transient elastography (TE) has been reported as a test to estimate the extent of liver fibrosis.*
+
+---
+
+**96. What are the main advantages of ultrasound transient elastography?**
+
+- High PPV and wide availability
+- Low cost and high specificity
+- **Noninvasive and fast**
+- High NPV and low inter-observer variability
+
+*Explanation: Ultrasound TE has the clear advantages of being noninvasive and fast but is limited by significant inter-observer variability and anatomic variations.*
+
+---
+
+**97. What NPV was found for ultrasound TE in two studies of HCC patients undergoing hepatectomy?**
+
+- 80%
+- 85%
+- 92%
+- **98%**
+
+*Explanation: Two studies of patients with HCC undergoing hepatectomy found ultrasound TE to have a high NPV of 98% but relatively poor PPV.*
+
+---
+
+**98. What is the practical role of transient elastography in pre-hepatectomy assessment?**
+
+- Definitive preoperative risk stratification
+- Replacement for volumetric assessment
+- **Screening patients at low risk for PHLF; a positive test should prompt further investigations**
+- Replacing ICG clearance testing in cirrhotic patients
+
+*Explanation: Therefore ultrasound TE may have a role in screening patients at low risk for PHLF, but a positive test should prompt further investigations and not necessarily preclude resection.*
+
+---
+
+**99. What is CT texture analysis based on?**
+
+- Automated segmentation of liver volume
+- Measurement of liver enhancement ratios
+- **Characterization of regions of interest in an image based on spatial variations in pixel intensity**
+- Doppler-based assessment of hepatic blood flow
+
+*Explanation: Texture analysis is an established technique that characterizes regions of interest in an image based on spatial variations in pixel intensity.*
+
+---
+
+**100. In what types of studies have CT texture analysis variables shown promise for predicting postoperative hepatic failure?**
+
+- Only retrospective single-center studies
+- Only case reports and case series
+- **Single-institution and multi-institution studies**
+- Only randomized controlled trials
+
+*Explanation: Texture variables of preoperative CT scans show promise for predicting postoperative hepatic failure in single-institution and multi-institution studies.*
+
+---
+
+**101. Which imaging technique is described as potentially emerging as a "complete package" for liver assessment?**
+
+- Contrast-enhanced CT
+- Nuclear scintigraphy with SPECT-CT
+- Ultrasound elastography
+- **MRI**
+
+*Explanation: MRI in particular seems poised to emerge as a complete package to diagnose occult metastases, assess FLR volumetry and FLR-specific function, and assess both the volumetric and functional response to PVE.*
+
+---
+
+**102. What background liver conditions should prompt thorough hepatic function assessment before major resection?**
+
+- Only hepatocellular carcinoma
+- Only alcoholic liver disease
+- **Heavy alcohol consumption, hepatitis, cirrhosis, nonalcoholic steatohepatitis, and chemotherapy-associated liver injury**
+- Only documented cirrhosis
+
+*Explanation: This is particularly important in patients at risk for or documented evidence of background liver disease, including heavy alcohol consumption, hepatitis, cirrhosis, nonalcoholic steatohepatitis, and chemotherapy-associated liver injury, such as sinusoidal obstruction syndrome, steatosis, and chemotherapy-associated steatohepatitis.*
+
+---
+
+**103. What is sinusoidal obstruction syndrome associated with?**
+
+- Viral hepatitis B infection
+- Non-alcoholic fatty liver disease
+- **Chemotherapy-associated liver injury**
+- Portal vein thrombosis
+
+*Explanation: Chemotherapy-associated liver injury includes sinusoidal obstruction syndrome, steatosis, and chemotherapy-associated steatohepatitis, which impair liver regeneration after partial hepatectomy.*
+
+---
+
+**104. What are the two critical components of FLR assessment reviewed in this chapter?**
+
+- FLR volume and tumor size
+- FLR function and patient age
+- **FLR volume and FLR quality (function)**
+- FLR volume and portal venous anatomy
+
+*Explanation: The chapter reviews two critical components of FLR assessment: the quantity (volume) and quality (function) of the future liver remnant.*
+
+---
+
+**105. Which statement about FLR assessment using number of segments is correct?**
+
+- Segment count is the most accurate predictor of outcomes
+- **Assessment of number of segments remaining is insufficient due to substantial variability in segmental anatomy and liver volume**
+- Segment count correlates precisely with liver volume
+- Each segment represents exactly 10–12% of total liver volume
+
+*Explanation: Assessment of number of segments remaining is not sufficient because of substantial variability among patients in segmental anatomy and liver volume.*
+
+---
+
+**106. What does the left side of the liver represent in terms of total liver volume range?**
+
+- 5% to 25%
+- 10% to 35%
+- **17% to 49%**
+- 25% to 55%
+
+*Explanation: The left side of the liver conversely ranges from 17% to 49% of total liver volume, reflecting substantial inter-patient variability.*
+
+---
+
+**107. In the conventional manual measurement of TLV, what is the main limitation regarding the parenchyma surrounding tumors?**
+
+- It underestimates liver volume in cirrhotic patients
+- It overestimates FLR in healthy patients
+- **Parenchyma beyond tumors may be abnormal because of biliary or vascular obstruction**
+- It cannot be performed without specialized software
+
+*Explanation: The direct measurement technique of TLV is further limited by the fact that the parenchyma beyond tumors may be abnormal because of biliary or vascular obstruction.*
+
+---
+
+**108. In which patient population was the TELV formula originally validated for use?**
+
+- Western adults with cirrhosis
+- European pediatric patients
+- **Liver transplantation patients in Japan**
+- Asian patients with hepatocellular carcinoma
+
+*Explanation: The total estimated liver volume (TELV) was first proposed by Urata and colleagues in Japan for use in liver transplantation.*
+
+---
+
+**109. What condition contingent on timing must be considered when interpreting DH after PVE?**
+
+- The patient's nutritional status at time of imaging
+- The type of chemotherapy received before PVE
+- **DH is contingent on the duration from PVE to reimaging**
+- The method of portal vein embolization used
+
+*Explanation: Recognizing that the DH is contingent on the duration from PVE to reimaging, surgeons have proposed incorporating some measure of growth rate into consideration, leading to the KGR metric.*
+
+---
+
+**110. For what type of lesion does heterogeneous liver function make global ICG testing potentially misleading?**
+
+- Diffuse hepatitis B
+- Alcoholic cirrhosis
+- **Liver with tumors or biliary obstruction causing heterogeneous uptake**
+- Fatty infiltration
+
+*Explanation: ICG clearance testing measures global liver function, so if there is heterogeneous uptake in the liver (e.g., the portion being resected does not function as well because of tumor, biliary obstruction, etc.), the results may be misleading.*
+
+---
+
+**111. In the study of 243 patients undergoing major liver resection, what was the correlation between measured TLV and TELV across the entire population?**
+
+- Weak correlation
+- Moderate correlation
+- **Strong correlation**
+- No significant correlation
+
+*Explanation: In the study of 243 patients, there was a strong correlation between the two measures (measured TLV and TELV) across the population.*
+
+---
+
+**112. Which enzyme measurements are used as markers of hepatocyte injury in routine liver laboratory tests?**
+
+- Bilirubin and INR
+- Albumin and prothrombin time
+- **Alanine aminotransferase (ALT), aspartate aminotransferase (AST), and alkaline phosphatase**
+- Creatinine and lactate dehydrogenase
+
+*Explanation: Clinicians are familiar with conventional liver laboratory tests including enzymatic measures of hepatocyte injury (alanine aminotransferase, aspartate aminotransferase, and alkaline phosphatase).*
+
+---
+
+**113. What are the markers of hepatic metabolism and synthetic function measured in routine liver labs?**
+
+- ALT and AST
+- Creatinine and urea
+- Alkaline phosphatase and GGT
+- **Bilirubin and albumin/INR**
+
+*Explanation: Markers of hepatic metabolism include bilirubin, and markers of synthetic function include albumin and international normalized ratio (INR).*
+
+---
+
+**114. What is the fundamental principle behind using hepatic uptake and elimination tests to assess liver function?**
+
+- The liver produces measurable proteins that can be quantified
+- Liver volume correlates linearly with clearance rates
+- **Compounds metabolized exclusively by the liver reflect hepatic function when their clearance is measured**
+- The liver's electrical activity changes with dysfunction
+
+*Explanation: Several compounds are metabolized almost exclusively by the liver and have been investigated as potential markers of hepatic function; poor clearance of these compounds indicates underlying liver dysfunction.*
+
+---
+
+**115. What surgical procedure, in addition to PVE, is mentioned as a technique to achieve FLR hypertrophy?**
+
+- Selective hepatic arterial embolization
+- Portal vein stenting
+- **ALPPS procedure**
+- Hepatic vein reconstruction
+
+*Explanation: Other techniques to achieve hypertrophy, such as the ALPPS procedure or radioembolization with yttrium-90, are discussed in other chapters of the book.*
+
+---
+
+**116. How long after PVE is cross-sectional imaging typically repeated?**
+
+- 1 week
+- **2 to 6 weeks**
+- 8 to 10 weeks
+- 12 weeks
+
+*Explanation: Cross-sectional imaging is typically repeated 2 to 6 weeks after PVE, and the FLR (or sFLR) may be recalculated.*
+
+---
+
+**117. For what purpose can Gd-EOB-DTPA–enhanced MRI be used in addition to tumor detection?**
+
+- To measure portal venous pressure
+- To assess bile duct anatomy
+- **To provide functional assessment of the background liver**
+- To quantify hepatic arterial flow
+
+*Explanation: Given the hepatic uptake and elimination of Gd-EOB-DTPA, contrast-enhanced MRI may also provide functional assessment of the background liver.*
+
+---
+
+**118. Which radiopharmaceutical method is described as applicable for calculating both function and volume of the FLR when combined with SPECT-CT?**
+
+- 99mTc-sulfur colloid
+- 18F-FDG PET
+- **99mTc-mebrofenin HBS combined with SPECT-CT**
+- 99mTc-DTPA renal scan
+
+*Explanation: HBS (99mTc-mebrofenin) may also be combined with SPECT-CT to allow for the calculation of both the function and volume of the FLR.*
+
+---
+
+**119. What does the ability of a patient's liver to hypertrophy in response to PVE indicate about residual liver function?**
+
+- It confirms that the FLR is above the threshold for safe resection
+- It indicates that no background liver disease is present
+- **Failure to hypertrophy should raise suspicion for background liver disease and calls for cautious management**
+- It means the patient has an abnormally large liver
+
+*Explanation: Patients who do not experience substantial growth in the FLR after PVE should be suspected of harboring background liver disease and approached with caution.*
+
+---
+
+**120. What does the phrase "parenchymal-sparing resection" refer to?**
+
+- Resections limited to the caudate lobe
+- Resections that preserve the gallbladder
+- **Nonanatomic resections designed to preserve as much functional liver parenchyma as possible**
+- Resections using only blunt dissection techniques
+
+*Explanation: Nonanatomic parenchymal-sparing resections are among the techniques developed to allow more extensive tumor clearance while maintaining adequate postoperative liver function.*
+
+---
+
+**121. What is the purpose of combining FLR volume measurement with functional liver assessment?**
+
+- To reduce the number of imaging tests required
+- To shorten operative time
+- **To comprehensively assess both the quantity and quality of the liver that will remain after resection**
+- To replace laboratory tests with imaging
+
+*Explanation: Optimal assessment of fitness for liver resection would ideally incorporate some measure of FLR volume and function, particularly in patients at risk for background liver disease.*
+
+---
+
+**122. What is the significance of the ALBI score being able to better discriminate between Child-Pugh A patients?**
+
+- Child-Pugh A patients rarely need liver surgery
+- Child-Pugh A is not a valid category in current practice
+- **Child-Pugh A is a heterogeneous group, and the ALBI can identify those at higher risk within this group**
+- All Child-Pugh A patients have similar surgical risk
+
+*Explanation: The ALBI was better able to predict survival than the Child-Pugh score and could better discriminate between Child-Pugh A patients, who represent a heterogeneous group in terms of hepatic reserve.*
+
+---
+
+**123. Which enzyme system is responsible for metabolizing compounds used in "other measures of metabolic function" tests such as lidocaine and galactose?**
+
+- CYP2D6 isoenzyme specifically
+- The urea cycle enzymes
+- Mitochondrial oxidative phosphorylation enzymes
+- **The liver cytochrome P450 system**
+
+*Explanation: Several other compounds are metabolized almost exclusively by the liver cytochrome P450 system and have been investigated as potential markers of hepatic function.*
+
+---
+
+**124. In what context was the MEGX test shown to have clinical relevance after hepatectomy?**
+
+- Predicting long-term cancer recurrence
+- Assessing response to systemic chemotherapy
+- **A small study showed higher rates of postoperative liver insufficiency in Child-Pugh A patients with a low MEGX value**
+- Monitoring liver function in critically ill patients post-hepatectomy
+
+*Explanation: A small study demonstrated higher rates of postoperative liver insufficiency among Child-Pugh A patients who had a low MEGX value.*
+
+---
+
+**125. What characteristic about Gd-EOB-DTPA makes it particularly useful for liver assessment compared with conventional contrast agents?**
+
+- It distributes uniformly throughout the body
+- It has a longer half-life than gadolinium-DTPA
+- **It is specifically taken up and cleared by hepatocytes, providing hepatocyte-specific information**
+- It does not require intravenous injection
+
+*Explanation: Gd-EOB-DTPA is a liver-specific contrast agent that is taken up and cleared by hepatocytes, allowing it to provide functional assessment of the liver beyond simple anatomic imaging.*
+
+---
+
+**126. According to the chapter, what is the main reason formal volumetric assessment is required before major liver resection?**
+
+- To plan the surgical incision
+- To determine operative time requirements
+- To assess bile duct anatomy
+- **Due to substantial variability among patients in segmental anatomy and liver volume**
+
+*Explanation: Formal radiologic assessment of volumetrics is required to accurately assess the FLR because of substantial variability among patients in segmental anatomy and liver volume.*
+
+---
+
+**127. What key advantage does nuclear scintigraphy offer compared with ICG clearance in liver assessment?**
+
+- It is faster and less expensive
+- It requires no intravenous injection
+- **It provides anatomic and functional information and may be specific to the remnant liver when combined with CT**
+- It is not affected by environmental conditions
+
+*Explanation: Nuclear scintigraphy provides anatomic and functional information and may be specific to the remnant liver by combining with CT, unlike ICG which only measures global liver function.*
+
+---
+
+**128. What is described as a potential "new means of preoperative risk stratification" in the chapter?**
+
+- Serum microRNA profiling
+- Liver biopsy with fibrosis scoring
+- **CT texture analysis**
+- Hepatic venous pressure gradient measurement
+
+*Explanation: CT texture analysis texture variables of preoperative CT scans may represent a new means of preoperative risk stratification for predicting post-hepatectomy hepatic failure.*
+
+---
+
+**129. What is the relationship between post-PVE absolute FLR and liver failure in the 153-patient study?**
+
+- Strong positive correlation
+- Moderate positive correlation
+- **Post-PVE absolute FLR correlated poorly with liver failure**
+- Strong negative correlation
+
+*Explanation: In the study of 153 patients who underwent major hepatectomy after PVE, post-PVE absolute FLR correlated poorly with liver failure.*
+
+---
+
+**130. In the context of preoperative liver assessment, what does a "two-stage hepatectomy" refer to?**
+
+- Two sequential tumor resections at separate liver lobes
+- **A staged approach to liver resection to allow regeneration between stages, one of the techniques to induce FLR hypertrophy**
+- Two concurrent surgeries performed by two surgical teams
+- A hepatectomy performed in two halves in the same operative session
+
+*Explanation: Two-stage hepatectomy is mentioned as one of the techniques developed that allows more extensive resection than the conventional two-segment minimum by inducing hypertrophy of the future liver remnant.*
+
+---
+
+**131. What does "FLR" stand for?**
+
+- Final Liver Ratio
+- Functional Liver Reserve
+- **Future Liver Remnant**
+- Functional Liver Remnant
+
+*Explanation: FLR stands for Future Liver Remnant, referring to the volume (and quality) of liver that will remain after a planned hepatic resection.*
+
+---
+
+**132. What is "PHLF" an abbreviation for?**
+
+- Partial Hepatectomy Liver Function
+- Post-Hepatic Liver Fibrosis
+- **Post-Hepatectomy Liver Failure**
+- Perioperative Hepatic Liver Function
+
+*Explanation: PHLF stands for Post-Hepatectomy Liver Failure, a major complication of liver resection that surgeons aim to prevent through careful preoperative assessment.*
+
+---
+
+**133. What is the underlying rationale for all quantitative functional liver tests described in the chapter?**
+
+- To measure liver size as a surrogate for function
+- To detect occult malignancy in the liver
+- **Compounds metabolized or taken up by the liver can quantify hepatic function; impaired clearance or uptake reflects liver dysfunction**
+- To provide a standardized score for organ transplant listing
+
+*Explanation: All quantitative functional tests are based on the rationale that the liver metabolizes, takes up, or clears specific compounds, and poor performance on these tests reflects underlying liver dysfunction.*
+
+---
+
+**134. Which background liver condition is specifically mentioned as arising from heavy alcohol consumption?**
+
+- Nonalcoholic steatohepatitis
+- Sinusoidal obstruction syndrome
+- Primary biliary cholangitis
+- **Alcoholic hepatitis/cirrhosis (heavy alcohol consumption leading to background liver disease)**
+
+*Explanation: Background liver disease risk factors include heavy alcohol consumption, hepatitis, cirrhosis, nonalcoholic steatohepatitis, and chemotherapy-associated liver injury.*
+
+---
+
+**135. What is the described relationship between KGR after PVE and the concept of using KGR as a measure of liver function after PVE by MRI?**
+
+- They are unrelated concepts
+- KGR replaces the need for MRI
+- **Contrast-enhanced MRI can compare RLE and HUI before and after PVE, analogous to KGR as a dynamic measure of liver function response**
+- MRI-based KGR is inferior to volumetric KGR
+
+*Explanation: Similar to using KGR as a measure of liver function after PVE, contrast-enhanced MRI can compare RLE and HUI before and after PVE to assess the liver's functional response.*
+
+---
+
+**136. What is the implication when post-PVE MRI shows minimal improvement in FLR, KGR, and RLE beyond 14 days?**
+
+- Surgery should be delayed further to allow continued growth
+- Additional PVE should be performed
+- Patients should receive chemotherapy before re-evaluation
+- **Reassessment beyond 14 days post-PVE provides little additional information; 14 days is the key time point**
+
+*Explanation: Studies show that the increase in RLE from baseline to 14 days post-PVE is an excellent predictor of PHLF, and that beyond 14 days there is minimal improvement in FLR, KGR, and RLE.*
+
+---
+
+**137. What is the major limitation of the TELV formula when applied to patients with obesity?**
+
+- It overestimates FLR in obese patients
+- It cannot be calculated without advanced software
+- **TELV may be significantly higher in overweight patients, yielding a lower sFLR that may more accurately reflect the risk of insufficient FLR**
+- It consistently underestimates liver volume in obese patients
+
+*Explanation: In overweight patients (BMI > 25), TELV was significantly higher, yielding a lower sFLR; this was shown to more accurately reflect postoperative hepatic insufficiency risk, as patients with insufficient volume based on TELV had significantly higher PHLF rates.*
+
+---
+
+**138. According to the chapter, what should surgeons do before embarking on major hepatectomy in patients with significant background liver disease?**
+
+- Perform liver biopsy before resection
+- Delay surgery until liver function normalizes
+- Limit resection to two segments regardless of tumor extent
+- **Consider additional functional tests to assess the liver remnant beyond volumetric assessment alone**
+
+*Explanation: Given the importance of background liver function, additional functional tests to assess the liver remnant should be considered before embarking on major hepatectomy in the setting of significant background liver disease.*
+
+---
+
+**139. What type of correlation has been demonstrated between the planned FLR and the actual post-operative FLR?**
+
+- Poor correlation
+- Moderate correlation
+- **Excellent correlation**
+- Variable correlation depending on imaging modality
+
+*Explanation: Excellent correlation has been demonstrated between the planned FLR and the actual FLR radiologically, as well as between the calculated resected liver volume and the surgical specimen.*
+
+---
+
+**140. Why is the conventional minimum of two contiguous liver segments considered "too liberal" for patients with preoperative chemotherapy?**
+
+- Chemotherapy reduces liver regeneration capacity
+- Chemotherapy increases portal venous pressure
+- Chemotherapy alters hepatic blood flow patterns
+- **All of the above; chemotherapy-associated liver injury impairs regeneration and reduces the safety margin**
+
+*Explanation: Patients who have received preoperative chemotherapy are at risk for background liver injury that impairs regeneration after partial hepatectomy, making the two-segment minimum insufficient and putting patients at unacceptable risk for PHLF.*
+
+---
+
+**141. How does the response of the liver to PVE serve a dual role?**
+
+- As both a surgical rehearsal and a prognostic test
+- As a volumetric measurement and a biopsy surrogate
+- **As both a therapeutic intervention (to induce hypertrophy) and a diagnostic test (to assess the liver's regenerative capacity)**
+- As both a portal decompression procedure and a staging tool
+
+*Explanation: In addition to its therapeutic intent, PVE functions as a diagnostic test analogous to a cardiac stress test; the degree of FLR hypertrophy reflects the underlying hepatic functional reserve.*
+
+---
+
+**142. What does "sFLR" stand for?**
+
+- Segmental Future Liver Ratio
+- Surgical Future Liver Reserve
+- **Standardized Future Liver Remnant**
+- Sequential Functional Liver Ratio
+
+*Explanation: When the TELV is used as the denominator to calculate the FLR ratio (i.e., FLR/TELV), the resultant ratio is referred to as the standardized FLR (sFLR).*
+
+---
+
+**143. What is the advantage of using SPECT-CT over standard planar scintigraphy for liver functional assessment?**
+
+- SPECT-CT uses less radiation
+- SPECT-CT is faster to perform
+- **SPECT-CT provides three-dimensional measurement of tracer uptake, allowing more precise regional and FLR-specific functional assessment**
+- SPECT-CT is less subject to environmental conditions
+
+*Explanation: 99mTc-GSA scintigraphy may be combined with static SPECT-CT to allow a three-dimensional measurement of 99mTc-GSA uptake, which helps predict postoperative liver failure and assess FLR-specific function.*
+
+---
+
+**144. What is the key message of the chapter's conclusion regarding quantitative functional tests (ICG, scintigraphy, MRI contrast agents)?**
+
+- These tests should replace volumetric assessment in all patients
+- These tests are only useful for post-operative monitoring
+- **These tests may have a role in assessing patients with borderline FLR volume or background liver disease, in addition to the gold standard volumetric assessment**
+- These tests are not yet sufficiently validated for clinical use
+
+*Explanation: Quantitative measures of hepatic uptake, metabolism, and elimination, including ICG clearance, nuclear scintigraphy, and MRI hepatic-specific contrast agents, may have a role in assessment of patients with borderline FLR volume or background liver disease.*
+
+---
+
+**145. Which radioembolization agent is mentioned as a technique to achieve FLR hypertrophy?**
+
+- Iodine-131
+- Technetium-99m microspheres
+- Iodine-125 seeds
+- **Yttrium-90**
+
+*Explanation: Other techniques to achieve hypertrophy, such as the ALPPS procedure or radioembolization with yttrium-90, are discussed in other chapters.*
+
+---
+
+**146. In assessing liver function, why is it important that assessment methods be "specific to the remnant portion of the liver"?**
+
+- Because the resected portion contains tumors that distort global measurements
+- Because global tests may overestimate FLR function when the resected portion is dysfunctional
+- Because the FLR may function differently from the portion to be removed
+- **All of the above; heterogeneity of liver function means global tests may not accurately predict FLR-specific function**
+
+*Explanation: The optimal method to assess hepatic function should be specific to the remnant portion of the liver; global tests can be misleading when the portion being resected is functionally compromised (due to tumor, biliary obstruction, etc.), leading to overestimation of FLR function.*
+
+---
+
+**147. What is "TLV" as used in liver volumetry?**
+
+- Tissue Liver Volume
+- **Total Liver Volume**
+- Transected Liver Volume
+- Threshold Liver Volume
+
+*Explanation: TLV stands for Total Liver Volume, which is used as the denominator in calculating the FLR ratio to standardize for differences in patient body habitus.*
+
+---
+
+**148. What does the chapter suggest is needed for further development of preoperative hepatic assessment?**
+
+- More liver biopsies in research studies
+- Wider adoption of manual volumetry
+- Simpler laboratory-based scoring systems
+- **Further refinement of techniques to develop algorithms or decision aids that provide more precise prediction of postoperative hepatic insufficiency**
+
+*Explanation: The chapter concludes that further refinement of these techniques may allow for the development of algorithms or decision aids that provide more precise prediction of postoperative hepatic insufficiency, ultimately decreasing postoperative morbidity and mortality.*
+
+---
+
+**149. Which of the following is NOT listed as a limitation of standard clinical scoring systems (Child-Pugh, MELD) for preoperative liver assessment?**
+
+- They are not sensitive enough for background liver dysfunction in non-cirrhotic patients
+- They may be normal even with substantial background liver dysfunction
+- **They require liver biopsy for accurate calculation**
+- They may not correlate with postoperative liver dysfunction in non-cirrhotic patients
+
+*Explanation: Standard clinical scoring systems require only readily available laboratory tests and clinical findings; they do not require liver biopsy. Their key limitation is insufficient sensitivity for detecting background liver injury in non-cirrhotic patients.*
+
+---
+
+**150. What is the overall conclusion of the chapter regarding the current state of preoperative hepatic assessment?**
+
+- Liver volumetry alone is sufficient for all patients
+- No current technique adequately predicts PHLF
+- Clinical scoring systems are sufficient for all patients including those with background liver disease
+- **A variety of tools are available; volumetric FLR assessment remains the gold standard, and functional tests add value in selected patients with borderline volumes or background liver disease, with MRI showing the most promise as a comprehensive assessment tool**
+
+*Explanation: The chapter concludes that hepatobiliary surgeons have a variety of tools available; the gold standard remains volumetric FLR assessment, functional tests play a complementary role in high-risk patients, and MRI seems poised to emerge as a comprehensive tool for volume, function, and treatment response assessment.*

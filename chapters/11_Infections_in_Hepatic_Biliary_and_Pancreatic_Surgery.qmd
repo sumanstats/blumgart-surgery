@@ -1,0 +1,1651 @@
+# 11 Infections in Hepatic, Biliary, and Pancreatic Surgery
+
+Generated with Claude.
+
+**1. What is the reported range of surgical-site infection (SSI) rates after hepatopancreatobiliary (HPB) procedures?**
+
+- 5%–10%
+- **20%–40%**
+- 50%–60%
+- 10%–15%
+
+*Explanation: SSI rates after HPB procedures can be as high as 20% to 40%, with an added substantial risk of intraabdominal infections.*
+
+---
+
+**2. Which of the following is a long-term, rather than short-term, consequence of infection after HPB surgery?**
+
+- Increased hospital stay
+- Increased operative times
+- Increased readmission rates
+- **Worse oncologic outcomes**
+
+*Explanation: Increased hospital stay, operative times, transfusions, blood loss, ICU use, and readmission rates are short-term sequelae. Worse oncologic outcomes are the noted long-term consequence.*
+
+---
+
+**3. What are the two main categories of risk factors for the development of a postoperative SSI?**
+
+- Microbial factors and environmental factors
+- **Patient-specific factors and surgery-related factors**
+- Anesthetic factors and surgical technique factors
+- Nutritional factors and immune factors
+
+*Explanation: Both patient-specific factors and surgery-related factors combine to yield varying degrees of risk for SSI development.*
+
+---
+
+**4. Which cell type is the liver's principal mechanism for clearing portal inflow of enteric microorganisms?**
+
+- Hepatocytes
+- **Kupffer cells**
+- Sinusoidal endothelial cells
+- Stellate cells
+
+*Explanation: Hepatic resection removes Kupffer cell mass, which is the liver's principal mechanism for clearing the portal inflow of enteric microorganisms and their associated toxins.*
+
+---
+
+**5. How does hepatic resection with biliary reconstruction or stenting predispose patients to cholangitis?**
+
+- By increasing bile production
+- By enhancing sphincter of Oddi tone
+- **By bypassing the sphincter of Oddi, leading to bilioenteric reflux**
+- By reducing portal venous pressure
+
+*Explanation: Resection with biliary reconstruction or biliary stenting bypasses the sphincter of Oddi and predisposes patients to bilioenteric reflux and cholangitis.*
+
+---
+
+**6. According to Yang and colleagues (2014), which preoperative conditions were independent risk factors for postoperative SSIs after hepatic resection?**
+
+- Obesity and hypoalbuminemia
+- Advanced age and diabetes
+- **Cirrhosis and hepatolithiasis**
+- Portal hypertension and coagulopathy
+
+*Explanation: Yang and colleagues (2014) found cirrhosis and hepatolithiasis to be independent preoperative risk factors for the development of postoperative SSIs.*
+
+---
+
+**7. Garwood and colleagues (2004) showed that which factors are associated with postoperative infectious complications after hepatic resection?**
+
+- Nutritional status and tumor histology
+- **Extent of hepatic resection, age, and comorbidity**
+- Tumor size and intraoperative blood loss alone
+- Surgeon experience and operative approach
+
+*Explanation: Garwood and colleagues (2004) showed that the extent of hepatic resection, age, and comorbidity is associated with postoperative infectious complications.*
+
+---
+
+**8. What relationship did Schindl and colleagues (2005) establish regarding postoperative infection after hepatic resection?**
+
+- A relationship between tumor histology and infection
+- A relationship between operative time and infection
+- A relationship between patient age and infection type
+- **A relationship among extent of resection, residual liver volume, and development of infection**
+
+*Explanation: Schindl and colleagues (2005) established a relationship among the extent of resection, residual liver volume, and the development of infection.*
+
+---
+
+**9. What percentage of future liver remnant (FLR) should be maintained in patients older than 69 years to minimize postoperative complications including sepsis, according to a recent study?**
+
+- More than 25%
+- More than 30%
+- More than 35%
+- **More than 45%**
+
+*Explanation: A recent study proposed that the future liver remnant (FLR) should be more than 45% in patients older than 69 to minimize postoperative complications including sepsis.*
+
+---
+
+**10. Which of the following is an example of a parenchymal-sparing technique that may be used when formal resection carries prohibitive risk?**
+
+- Total hepatectomy
+- **Segmental hepatectomy**
+- Extended right hepatectomy
+- Trisectionectomy
+
+*Explanation: Parenchymal-sparing techniques such as segmental hepatectomy, ablation, or arterial-based modalities may be required when the risk of postoperative hepatic dysfunction is deemed too high for formal resection.*
+
+---
+
+**11. In which patients is preoperative portal vein embolization considered?**
+
+- All patients undergoing liver resection
+- Patients with hepatitis B cirrhosis
+- **Patients in whom the FLR volume is too low and/or of poor quality**
+- Patients with colorectal liver metastases only
+
+*Explanation: Preoperative portal vein embolization can be considered in certain patients in whom the FLR volume is too low and/or of poor quality.*
+
+---
+
+**12. Which nonoperative strategy is noted in the chapter to carry a risk of infectious complications?**
+
+- Systemic chemotherapy alone
+- External beam radiation therapy
+- **Yttrium-90 radioembolization**
+- Targeted molecular therapy
+
+*Explanation: Nonoperative strategies such as yttrium-90 radioembolization are also associated with infectious complications.*
+
+---
+
+**13. What was the perioperative chemotherapy regimen studied by Nordlinger and colleagues (2008) for colorectal liver metastases?**
+
+- FOLFIRI
+- Capecitabine plus oxaliplatin
+- Gemcitabine plus cisplatin
+- **FOLFOX4 (5-fluorouracil plus leucovorin and oxaliplatin)**
+
+*Explanation: Perioperative chemotherapy was defined as six cycles of 5-fluorouracil plus leucovorin and oxaliplatin (FOLFOX4) before and after surgery.*
+
+---
+
+**14. How many patients were in each arm of the Nordlinger and colleagues (2008) randomized trial?**
+
+- 100
+- 150
+- **182**
+- 200
+
+*Explanation: There were 182 patients within each arm of the study comparing liver resection with and without perioperative chemotherapy.*
+
+---
+
+**15. What was the conclusion of Nordlinger and colleagues regarding chemotherapy before hepatectomy for resectable colorectal cancer liver metastases?**
+
+- It significantly increases infectious complications and should be avoided
+- It doubles the rate of wound infections
+- It requires mandatory postoperative antibiotic prophylaxis
+- **It is safe from a postoperative infectious standpoint and remains indicated for optimal oncologic outcomes**
+
+*Explanation: In the setting of resectable colorectal cancer liver metastasis, chemotherapy before hepatectomy is safe from a postoperative infectious standpoint and remains indicated overall to achieve optimal oncologic outcomes.*
+
+---
+
+**16. Which of the following is NOT listed as a preoperative contributor to postoperative infectious complications after hepatic resection?**
+
+- Advanced age and diabetes mellitus
+- Hypoalbuminemia and elevated serum bilirubin
+- Hepatic steatosis and repeat hepatectomy
+- **Female gender**
+
+*Explanation: The chapter lists advanced age, diabetes mellitus, obesity, open wound, hypernatremia, hypoalbuminemia, elevated serum bilirubin, dialysis, comorbid conditions, repeat hepatectomy, and hepatic steatosis — not female gender.*
+
+---
+
+**17. Which of the following are identified as operative risk factors for postoperative infectious complications after hepatic resection?**
+
+- Tumor histology and margin status
+- Age and BMI alone
+- Preoperative stent placement and antibiotic type
+- **Bile leaks, surgery duration, increased blood loss, and iatrogenic bowel perforation**
+
+*Explanation: Bile leaks, surgery duration, increased blood loss, and iatrogenic bowel perforation are operative risk factors associated with postoperative infectious complications.*
+
+---
+
+**18. Which substance is NOT mentioned as a strategy for intraoperative identification of bile leaks?**
+
+- Indocyanine green
+- Methylene blue
+- Hydrogen peroxide
+- **Methylene tetrazolium**
+
+*Explanation: Strategies proposed for intraoperative identification of bile leaks include indocyanine green, methylene blue, hydrogen peroxide, or air — methylene tetrazolium is not mentioned.*
+
+---
+
+**19. In the intraoperative air leak test, how is air introduced into the biliary system?**
+
+- Via a percutaneous transhepatic catheter
+- Via direct injection into the hepatic duct
+- Via a nasobiliary tube
+- **Via a transcystic catheter after submerging the upper abdomen in saline with the distal CBD occluded**
+
+*Explanation: The air leak test involves placement of a transcystic catheter to inject air into the biliary tree after the upper abdomen is submerged in saline and the distal common bile duct is occluded.*
+
+---
+
+**20. What were the rates of postoperative bile leaks in the air leak–tested group versus the control group?**
+
+- 5.0% vs. 15.0%
+- 3.0% vs. 8.0%
+- **1.9% vs. 10.8%**
+- 7.0% vs. 20.0%
+
+*Explanation: The authors noted a significantly lower rate of postoperative bile leaks in the air leak–tested group (1.9% vs. 10.8%, P = .001).*
+
+---
+
+**21. What does the chapter recommend regarding the choice of parenchymal transection technique in hepatic resection?**
+
+- Use energy devices exclusively
+- Use clamp-crush as the gold standard
+- Prefer ultrasonic dissectors for all cases
+- **Use the technique most familiar to the surgeon while limiting necrotic liver parenchyma left behind**
+
+*Explanation: It is recommended that the surgeon use the technique that is most familiar, while limiting the amount of necrotic liver parenchyma left behind.*
+
+---
+
+**22. What is the recommended first-line antimicrobial agent for biliary tract procedures according to the Clinical Practice Guidelines for Antimicrobial Prophylaxis?**
+
+- Ampicillin-sulbactam
+- Metronidazole
+- Ciprofloxacin
+- **Cefazolin**
+
+*Explanation: The recommended antimicrobial agent for biliary tract procedures from the Clinical Practice Guidelines for Antimicrobial Prophylaxis is cefazolin.*
+
+---
+
+**23. Within what timeframe must prophylactic antibiotics be administered before skin incision?**
+
+- Within 30 minutes
+- **Within 60 minutes**
+- Within 90 minutes
+- Within 2 hours
+
+*Explanation: Whatever agent is used, it should be given within 60 minutes of skin incision and re-administered appropriately intraoperatively to maintain adequate tissue levels.*
+
+---
+
+**24. What does the chapter state regarding routine use of postoperative antibiotics after hepatic resection?**
+
+- They should be continued for 24 hours
+- They should be continued for 48 hours
+- They are recommended in high-risk patients
+- **There is no evidence to support their routine use**
+
+*Explanation: There is no evidence to support routine use of postoperative antibiotics after hepatic resection.*
+
+---
+
+**25. What is the primary rationale for leaving an intraabdominal drain after hepatic resection?**
+
+- To reduce postoperative pain
+- To prevent hematoma formation
+- To facilitate early enteral nutrition
+- **To detect and prevent biloma formation in the event of bile leakage**
+
+*Explanation: The rationale for leaving an intraabdominal drain is to detect and prevent biloma formation in the event of bile leakage after hepatic resection.*
+
+---
+
+**26. What grade recommendation was assigned by Petrowsky and colleagues (2004) regarding prophylactic drainage in elective hepatic resection?**
+
+- Grade B in favor of drainage
+- Grade C against drainage
+- Grade B against drainage
+- **Grade A against prophylactic drainage**
+
+*Explanation: Petrowsky and colleagues concluded that many GI operations can be safely performed without the use of drains, and a grade A recommendation was given against prophylactic drainage in elective hepatic resection.*
+
+---
+
+**27. Which of the following high-risk case scenarios may justify prophylactic drain placement despite evidence against routine drainage?**
+
+- Patient preference and surgeon experience
+- Tumor size greater than 5 cm
+- Preoperative biliary stenting alone
+- **Central resections, complex nonanatomical resections, and high bilioenteric anastomosis**
+
+*Explanation: Individual high-risk cases such as central resections, complex nonanatomical resections, and high bilioenteric anastomosis may warrant prophylactic drain placement.*
+
+---
+
+**28. In the Pessaux and colleagues (2007) randomized trial on nasogastric decompression after elective hepatectomy, how many patients were enrolled?**
+
+- 100
+- 150
+- **200**
+- 250
+
+*Explanation: Pessaux and colleagues randomized 200 patients to nasogastric tube use versus no nasogastric tube after elective hepatectomy.*
+
+---
+
+**29. What was the main finding of Pessaux and colleagues (2007) regarding nasogastric tube use after elective hepatectomy?**
+
+- It significantly reduced pneumonia rates
+- It reduced ileus duration and length of stay
+- It reduced overall surgical complications
+- **It was associated with increased pneumonia and atelectasis without reducing overall complications or hospital stay**
+
+*Explanation: The use of a nasogastric tube was significantly associated with an increased rate of pneumonia and atelectasis but did not reduce overall surgical complications, medical morbidity, or length of hospital stay.*
+
+---
+
+**30. What did Richter and colleagues (2006) conclude about early enteral nutrition following open liver resection?**
+
+- It increases the risk of postoperative complications
+- It should be delayed until the third postoperative day
+- It is equivalent to parenteral nutrition in outcomes
+- **It is safe and decreases the incidence of postoperative complications compared with parenteral nutrition**
+
+*Explanation: Richter and colleagues (2006) conducted a systematic review concluding that early enteral nutrition following open liver resection is safe and decreases the incidence of postoperative complications compared with parenteral nutrition.*
+
+---
+
+**31. In the Richter et al. systematic review, which specific infectious complications were significantly reduced with early enteral feeding versus parenteral nutrition?**
+
+- Pneumonias and intraabdominal abscesses
+- Urinary tract infections and bacteremia
+- Cholangitis and biliary infections
+- **Wound infections and catheter-related infections**
+
+*Explanation: The authors noted a statistically significant lower rate of wound infections and catheter-related infections with early enteral feeding versus parenteral nutrition.*
+
+---
+
+**32. How long before hepatic resection does the ERAS pathway recommend continuing nutrition?**
+
+- 6 hours
+- 4 hours
+- 3 hours
+- **2 hours**
+
+*Explanation: Important components of ERAS pathways include continuing nutrition as long as 2 hours before hepatic resection.*
+
+---
+
+**33. What does tight glycemic control after hepatectomy primarily help prevent?**
+
+- Bile leakage
+- Portal hypertension
+- Hepatic artery thrombosis
+- **Surgical-site infections**
+
+*Explanation: Ambiru and colleagues (2008) and Li and associates (2017) demonstrated an increase in SSI in HPB surgery patients with poor postoperative blood glucose control, making tight glycemic control paramount after hepatectomy.*
+
+---
+
+**34. According to Table 11.4, what postoperative blood glucose level should be maintained on postoperative days 1 and 2?**
+
+- Less than 110 mg/dL
+- Less than 140 mg/dL
+- Less than 180 mg/dL
+- **Less than 200 mg/dL**
+
+*Explanation: General postoperative interventions recommend maintaining serum glucose levels below 200 mg/dL on postoperative days 1 and 2.*
+
+---
+
+**35. What did Liu and colleagues (2011) conclude regarding preoperative biliary drainage before hepatic resection for hilar cholangiocarcinoma?**
+
+- It is mandatory for all patients
+- It is safe with no infectious consequences
+- It improves postoperative liver function
+- **It should not be routinely performed if it can be avoided**
+
+*Explanation: Liu and colleagues (2011) concluded that preoperative drainage should not be routinely performed if it can be avoided.*
+
+---
+
+**36. In which specific patient scenario is preoperative biliary decompression considered reasonable before hilar cholangiocarcinoma resection?**
+
+- All patients with jaundice regardless of FLR
+- Patients over 70 years of age
+- Patients with tumor diameter greater than 3 cm
+- **Patients with a very small FLR, via ERCP or PTC combined with portal vein embolization**
+
+*Explanation: It is reasonable to consider biliary drainage via endoscopic retrograde cholangiography or percutaneous transhepatic cholangiography and portal vein embolization in patients with a very small FLR.*
+
+---
+
+**37. What are the two most commonly performed pancreatic resections discussed in this chapter?**
+
+- Central pancreatectomy and enucleation
+- Total pancreatectomy and segmental resection
+- Enucleation and distal pancreatectomy
+- **Pancreaticoduodenectomy and distal pancreatectomy**
+
+*Explanation: The most commonly performed resections include pancreaticoduodenectomy and distal pancreatectomy (typically with splenectomy when performed for cancer).*
+
+---
+
+**38. Besides SSI and organ/deep space infections, what remote-site infections can develop after pancreatic resection?**
+
+- Only wound and urinary infections
+- Only cholangitis and biloma
+- Only respiratory infections
+- **Bloodstream infections, cholangitis, respiratory tract infections, urinary tract infections, and Clostridioides difficile infections**
+
+*Explanation: These patients can develop infections in remote sites, including bloodstream infections, cholangitis, respiratory tract infections, urinary tract infections, and Clostridium difficile infections.*
+
+---
+
+**39. Why may elderly patients undergoing pancreatic resection have worse outcomes when they develop complications?**
+
+- Because they have more antibiotic-resistant organisms
+- Because elderly patients always refuse postoperative care
+- Because elderly patients require longer operative times
+- **Because they are more likely to experience greater functional decline and higher mortality, suggestive of diminished physiologic reserve**
+
+*Explanation: Elderly patients are more likely to experience a greater decline in function and higher mortality if they have a complication, suggestive of diminished physiologic reserve.*
+
+---
+
+**40. According to House and colleagues (2008), what BMI threshold was significantly associated with higher wound infection rates after pancreaticoduodenectomy?**
+
+- BMI ≥ 25
+- BMI ≥ 27
+- BMI ≥ 35
+- **BMI ≥ 30**
+
+*Explanation: Wound infection rates were significantly higher in those patients with a BMI greater than or equal to 30 (P = .03).*
+
+---
+
+**41. In House and colleagues (2008), what were the three most common pancreatic complications after pancreaticoduodenectomy for pancreatic adenocarcinoma?**
+
+- Bile leaks, hemorrhage, and delayed gastric emptying
+- Anastomotic leak, wound dehiscence, and sepsis
+- Pancreatic fistula, cholangitis, and bile leak
+- **Fistula/abscess, wound infection, and delayed gastric emptying**
+
+*Explanation: The most common pancreatic complications were fistula/abscess, wound infection, and delayed gastric emptying.*
+
+---
+
+**42. How many patients were studied by House and colleagues (2008) in their pancreaticoduodenectomy study?**
+
+- 100
+- 200
+- **356**
+- 500
+
+*Explanation: House and colleagues (2008) studied postoperative complications in 356 patients who underwent pancreaticoduodenectomy for pancreatic adenocarcinoma.*
+
+---
+
+**43. According to Greenblatt and colleagues (2011), what were the three most frequent complications after pancreaticoduodenectomy in the ACS-NSQIP database?**
+
+- Wound infection, bile leak, and delayed gastric emptying
+- Pancreatic fistula, hemorrhage, and bowel obstruction
+- DVT, pneumonia, and urinary tract infection
+- **Sepsis (15.3%), SSI (13.1%), and respiratory complications (9.5%)**
+
+*Explanation: The authors found that the most frequent complications after pancreaticoduodenectomy included sepsis (15.3%), SSI (13.1%), and respiratory complications (9.5%).*
+
+---
+
+**44. What was the overall complication rate found by Greenblatt and colleagues (2011) in 1342 pancreaticoduodenectomy patients?**
+
+- 15.2%
+- 20.5%
+- **27.1%**
+- 35.4%
+
+*Explanation: The overall complication rate in 1342 patients was 27.1%.*
+
+---
+
+**45. According to Kelly and colleagues (2011), what was the overall 30-day complication rate in distal pancreatectomy patients?**
+
+- 15.3%
+- 20.0%
+- 35.6%
+- **28.1%**
+
+*Explanation: In 2322 patients undergoing distal pancreatectomy, the overall 30-day complication and mortality rates were 28.1% and 1.2%, respectively.*
+
+---
+
+**46. According to La Torre and colleagues (2013), malnutrition was found to be an independent risk factor for which outcome after pancreatic surgery?**
+
+- Pancreatic fistula only
+- Anastomotic leak only
+- Mortality only
+- **Overall morbidity, including SSI**
+
+*Explanation: Malnutrition was an independent risk factor for overall morbidity, which included SSI, in 143 patients undergoing pancreatic resection for cancer.*
+
+---
+
+**47. In the study by Shinkawa and colleagues (2013), what nutritional risk index (NRI) value was identified as an independent risk factor for SSI after pancreaticoduodenectomy?**
+
+- NRI ≤ 85
+- NRI ≤ 90
+- NRI ≤ 95
+- **NRI ≤ 97.5**
+
+*Explanation: Using multivariate logistic regression, the authors identified pancreatic fistula and an NRI of 97.5 or less as independent risk factors for SSI.*
+
+---
+
+**48. What term describes the presence of bacteria in the biliary system?**
+
+- Cholangitis
+- Bacteremia
+- Sepsis
+- **Bacterobilia**
+
+*Explanation: The presence of bacteria in the biliary system is known as bacterobilia.*
+
+---
+
+**49. How does critically elevated bacterobilia lead to systemic sepsis (cholangitis)?**
+
+- Through direct invasion of liver parenchyma
+- Through bile reflux into the pancreatic duct
+- Through hematogenous spread from a distant site
+- **By overwhelming normal host defense mechanisms, allowing pathogenic enteric organisms to reach the systemic circulation through the liver**
+
+*Explanation: When normal host defense mechanisms are overwhelmed by a critical level of bacterobilia and the biliary tree is not adequately drained, pathogenic enteric organisms may reach the systemic circulation through the liver, causing sepsis (i.e., cholangitis).*
+
+---
+
+**50. According to the Tokyo Guidelines as cited in this chapter, what is the required treatment for cholangitis?**
+
+- Antibiotics alone
+- Biliary drainage alone
+- Surgical resection
+- **Antibiotics with biliary drainage**
+
+*Explanation: Should cholangitis develop, the required treatment is antibiotics with biliary drainage as described in the Tokyo Guidelines.*
+
+---
+
+**51. What did a multicenter randomized trial conclude regarding routine preoperative biliary drainage in patients with resectable pancreatic disease?**
+
+- It reduces postoperative complications
+- It is safe and recommended for all patients
+- It has no effect on outcomes
+- **It increases the rate of postoperative complications in general**
+
+*Explanation: A multicenter, randomized trial showed routine preoperative biliary drainage increases the rate of postoperative complications in general.*
+
+---
+
+**52. In the study by Howard and colleagues (2006), what percentage of 138 patients had preoperative biliary stenting?**
+
+- 38%
+- 45%
+- 50%
+- **62%**
+
+*Explanation: Eighty-six (62%) patients had preoperative biliary stenting, whereas 52 (38%) did not.*
+
+---
+
+**53. In the Howard and colleagues (2006) study, which specific infectious complications were significantly higher in stented patients on subset analysis?**
+
+- Pneumonia and urinary tract infections
+- Cholangitis and intraabdominal abscess
+- Bile leaks and pancreatic fistula
+- **Wound infection (P = .03) and bacteremia (P = .04)**
+
+*Explanation: Stented patients did have a significantly higher rate of wound infection (P = .03) and bacteremia (P = .04) on subset analysis.*
+
+---
+
+**54. According to the Clinical Practice Guidelines for Antimicrobial Prophylaxis, what is the recommended antibiotic for pancreatic resections?**
+
+- Piperacillin-tazobactam
+- Cefoxitin
+- Ampicillin-sulbactam
+- **A single preoperative dose of cefazolin**
+
+*Explanation: The current Clinical Practice Guidelines for Antimicrobial Prophylaxis recommend a single preoperative dose of cefazolin.*
+
+---
+
+**55. According to clinical guidelines, how long after pancreatic resection should antimicrobial coverage be continued?**
+
+- 48 hours
+- 72 hours
+- 5 days
+- **Not beyond 24 hours postoperatively**
+
+*Explanation: The guidelines do not recommend continuing antimicrobial coverage beyond 24 hours postoperatively.*
+
+---
+
+**56. According to Donald and colleagues (2013), which antibiotic was suggested for broadened perioperative coverage in pancreaticoduodenectomy?**
+
+- Vancomycin
+- Clindamycin
+- Meropenem
+- **Piperacillin-tazobactam**
+
+*Explanation: Donald and colleagues (2013) presented an argument for broadening perioperative antibiotic coverage with piperacillin-tazobactam for patients undergoing pancreaticoduodenectomy.*
+
+---
+
+**57. What did the study by Bressan and colleagues (2018) demonstrate regarding dual-ring wound protectors in pancreaticoduodenectomy?**
+
+- No significant benefit in SSI reduction
+- Increased SSI rates with wound retractors
+- Reduction only in anastomotic leak rates
+- **A significant decrease in SSI (21% vs. 44%) in patients randomized to wound retractors; all patients had preoperative biliary stents**
+
+*Explanation: The study by Bressan et al. (2018) showed a significant decrease in SSI (21% vs. 44%) in patients randomized to receiving wound retractors, all of whom had preoperative biliary stents.*
+
+---
+
+**58. What did the study by De Pastena and colleagues (2020) find regarding wound protectors in pancreaticoduodenectomy?**
+
+- A significant reduction in SSI rates
+- Wound protectors doubled SSI rates
+- Wound protectors reduced anastomotic leaks
+- **No improvement in SSI rates (7% in both groups, P = .59)**
+
+*Explanation: The trial by De Pastena et al. (2020) did not demonstrate any improvement in SSI in patients randomized to receiving wound protectors (7% in both groups, P = .59).*
+
+---
+
+**59. According to Behrman and colleagues (2008), approximately what percentage of pancreatectomy patients developed an infected intraabdominal fluid collection?**
+
+- 5%
+- 10%
+- **Approximately 16%**
+- 25%
+
+*Explanation: Approximately 16% of 196 pancreatectomy patients developed an infected intraabdominal fluid collection, and overt pancreatic fistula as well as soft pancreatic remnants were found to be statistically significant factors.*
+
+---
+
+**60. In the study by Sugiura and colleagues (2012), how many patients underwent pancreaticoduodenectomy?**
+
+- 196
+- 300
+- **408**
+- 500
+
+*Explanation: Sugiura and colleagues (2012) retrospectively examined risk factors for SSI in 408 patients who underwent pancreaticoduodenectomy.*
+
+---
+
+**61. According to Sugiura and colleagues (2012), what was the odds ratio for pancreatic fistula as a risk factor for organ/space SSI?**
+
+- OR 2.18
+- OR 3.04
+- OR 3.68
+- **OR 7.56**
+
+*Explanation: Pancreatic fistula had an odds ratio of 7.56 as the strongest significant risk factor for the development of organ/space SSI on multivariate analysis.*
+
+---
+
+**62. What main pancreatic duct diameter was identified as a risk factor for both incisional SSI and organ/space SSI by Sugiura et al.?**
+
+- ≤ 1 mm
+- ≤ 2 mm
+- ≤ 5 mm
+- **≤ 3 mm**
+
+*Explanation: Main pancreatic duct diameter less than or equal to 3 mm was identified as a risk factor for both incisional SSI (OR 2.18) and organ/space SSI (OR 2.21).*
+
+---
+
+**63. What operative time threshold was identified as a risk factor for incisional SSI in Sugiura and colleagues (2012)?**
+
+- Greater than 360 minutes
+- Greater than 420 minutes
+- Greater than 600 minutes
+- **Greater than 480 minutes (OR 3.22)**
+
+*Explanation: Length of operation greater than 480 minutes (OR, 3.22) was identified as a significant risk factor for incisional SSI on multivariate analysis.*
+
+---
+
+**64. According to Schmidt and colleagues (2009), which two preoperative/operative factors were protective against pancreatic fistula after pancreaticoduodenectomy?**
+
+- High BMI and preoperative drainage
+- Invaginated anastomosis and closed suction drainage
+- Neoadjuvant chemotherapy and robotic approach
+- **Chronic pancreatitis and preoperative biliary stenting**
+
+*Explanation: Multivariate analysis showed that chronic pancreatitis and preoperative biliary stenting were protective of a pancreatic fistula.*
+
+---
+
+**65. What class of drug is pasireotide?**
+
+- A proton pump inhibitor
+- An antibiotic
+- A prokinetic agent
+- **A somatostatin analogue with a longer half-life than octreotide**
+
+*Explanation: Pasireotide is a somatostatin analogue with a longer half-life than octreotide.*
+
+---
+
+**66. How many patients were randomly assigned in the pasireotide versus placebo perioperative trial?**
+
+- 100
+- 200
+- **300**
+- 400
+
+*Explanation: The authors randomly assigned 300 patients undergoing either pancreaticoduodenectomy or distal pancreatectomy to either perioperative pasireotide or placebo.*
+
+---
+
+**67. What was the primary endpoint in the pasireotide randomized trial?**
+
+- 30-day mortality
+- Wound infection rate
+- Hospital length of stay
+- **Occurrence of pancreatic fistula, leak, or abscess of grade 3 or higher**
+
+*Explanation: The primary end point was the occurrence of pancreatic fistula, leak, or abscess of grade 3 or higher.*
+
+---
+
+**68. What were the primary endpoint results in the pasireotide trial?**
+
+- No significant difference between groups
+- Pasireotide increased the complication rate
+- The endpoint was lower at 3% vs. 12%
+- **Significantly lower in the pasireotide group (9% vs. 21%, P = .006)**
+
+*Explanation: This end point was significantly lower in those patients treated with pasireotide (9% vs. 21%, P = .006).*
+
+---
+
+**69. In Hamilton and colleagues (2012), how many patients were assigned to mesh reinforcement versus non-mesh reinforcement for stapled closure of the distal pancreas?**
+
+- 50 vs. 50
+- 60 vs. 40
+- 46 vs. 54
+- **54 vs. 46**
+
+*Explanation: The authors randomly assigned 54 patients to mesh reinforcement and 46 patients to non-mesh reinforcement.*
+
+---
+
+**70. What was the primary outcome measure in the Hamilton et al. (2012) mesh reinforcement trial?**
+
+- Wound infection rate
+- Mortality
+- Hospital length of stay
+- **Clinically significant pancreatic leak**
+
+*Explanation: The primary outcome was clinically significant pancreatic leak.*
+
+---
+
+**71. What was the rate of ISGPF grade B and C leaks in patients without mesh reinforcement in Hamilton et al.?**
+
+- 5%
+- 10%
+- 1.9%
+- **20%**
+
+*Explanation: ISGPF grade B and C leaks occurred more frequently in patients without mesh reinforcement (20% vs. 1.9%, P = .0007).*
+
+---
+
+**72. How many patients were randomized in the trial on intraperitoneal drains in pancreaticoduodenectomy that was stopped early?**
+
+- 100
+- 120
+- 200
+- **137**
+
+*Explanation: This most recent study randomized 137 patients undergoing pancreaticoduodenectomy, half with and half without an intraperitoneal drain.*
+
+---
+
+**73. What was the mortality rate in the undrained group in the intraperitoneal drain randomized trial?**
+
+- 3%
+- 5%
+- 8%
+- **12%**
+
+*Explanation: The drained patients had a mortality of 3%, whereas the undrained group experienced a 12% mortality rate.*
+
+---
+
+**74. What was the rate of intraabdominal abscess in pancreaticoduodenectomy patients without versus with intraperitoneal drainage?**
+
+- 10% vs. 25%
+- 15% vs. 5%
+- 30% vs. 15%
+- **25% vs. 10% (P = .027)**
+
+*Explanation: Pancreaticoduodenectomy without intraperitoneal drainage was associated with a higher rate of intraabdominal abscess (25% vs. 10%, P = .027).*
+
+---
+
+**75. According to the chapter, when is it reasonable to remove a drain after pancreaticoduodenectomy based on amylase levels?**
+
+- On postoperative day 7 regardless of amylase
+- When drain output is less than 50 mL/day
+- After 2 weeks if no complications
+- **On day 3 if drain amylase is less than 30 and outputs are acceptable in an otherwise well patient**
+
+*Explanation: A reasonable strategy is to measure daily drain amylase for the first 3 postoperative days and remove the drain on day 3 if drain amylase is less than 30 and outputs are acceptable.*
+
+---
+
+**76. Which surgical approach has been shown to improve short-term outcomes and decrease infectious complications in distal pancreatectomy?**
+
+- Open surgery with extended incision
+- Robotic pancreaticoduodenectomy
+- Hand-assisted laparoscopic approach
+- **Laparoscopic (minimally invasive) distal pancreatectomy**
+
+*Explanation: Laparoscopic distal pancreatectomy has been shown to be associated with improved short-term outcomes, decreased blood loss, and decreased infectious complications.*
+
+---
+
+**77. In Ambiru and colleagues (2008), what was the SSI rate in HPB surgery patients with blood glucose below 200 versus those without insulin infusion therapy?**
+
+- 5% vs. 15%
+- 10% vs. 35%
+- 30% vs. 60%
+- **20% vs. 52%**
+
+*Explanation: The rate of SSI was 20% in those patients with blood glucose levels below 200 versus 52% in those without insulin infusion therapy (P < .01).*
+
+---
+
+**78. Why do postoperative infectious complications worsen long-term oncologic outcomes?**
+
+- Due to increased microbial burden on tumor cells
+- Due to opioid analgesic use alone
+- Due to surgical scarring affecting tumor access
+- **Partly due to inability to receive adjuvant therapy and postoperative immune modulation adversely impacting tumor biology**
+
+*Explanation: This may be partly due to an inability to receive adjuvant therapy but also has to do with postoperative immune modulation adversely impacting tumor biology.*
+
+---
+
+**79. According to Table 11.1, which immunologic defense mechanism is unique to the hepatobiliary system and absent from the pancreatic column?**
+
+- Immunoglobulin A
+- Complement
+- Mucus
+- **Kupffer cells and fibronectin**
+
+*Explanation: Table 11.1 lists Kupffer cells and fibronectin as immunologic defense mechanisms specific to the hepatobiliary system; these are not listed for the pancreas.*
+
+---
+
+**80. According to Table 11.2, what hemoglobin A1c level is targeted preoperatively to reduce SSI risk?**
+
+- Less than 6.0%
+- Less than 6.5%
+- Less than 8.0%
+- **Less than 7%**
+
+*Explanation: General preoperative interventions recommend reducing hemoglobin A1c levels to less than 7% before operation.*
+
+---
+
+**81. How long before operation should smoking cessation be achieved according to general preoperative SSI prevention guidelines?**
+
+- 7 days
+- 14 days
+- 60 days
+- **30 days**
+
+*Explanation: Smoking cessation 30 days before operation is recommended as a preoperative intervention to prevent SSI.*
+
+---
+
+**82. For patients at severe nutritional risk, for how many days preoperatively should specialized nutritional supplements or enteral nutrition be administered?**
+
+- 3–5 days
+- 5–7 days
+- 14–21 days
+- **7–14 days**
+
+*Explanation: Guidelines recommend administering specialized nutritional supplements or enteral nutrition to patients at severe nutritional risk for 7–14 days preoperatively.*
+
+---
+
+**83. According to Table 11.3, how should preoperative hair removal be performed?**
+
+- Shave the night before surgery
+- Wax 1 week before surgery
+- No hair removal under any circumstances
+- **By clipping immediately before the operation or with depilatories; no preoperative or perioperative shaving**
+
+*Explanation: Hair removal should be by clipping immediately before the operation or with depilatories; no preoperative or perioperative shaving of the surgical site is recommended.*
+
+---
+
+**84. According to Table 11.4, for how long after HPB procedures (excluding cardiac surgery and liver transplant) should prophylactic antibiotics be continued?**
+
+- Within 12 hours
+- Within 48 hours
+- Within 72 hours
+- **Within 24 hours**
+
+*Explanation: Prophylactic antibiotics should be discontinued within 24 hours after the procedure (48 hours for cardiac surgery and liver transplant).*
+
+---
+
+**85. When should vancomycin be used as a prophylactic agent according to perioperative SSI guidelines?**
+
+- Routinely for all HPB procedures
+- In patients with penicillin allergy only
+- In all patients with Gram-positive colonization
+- **Only when there is a significant risk of MRSA infection**
+
+*Explanation: Vancomycin should be used as a prophylactic agent only when there is a significant risk of MRSA infection.*
+
+---
+
+**86. Under which circumstance should cefazolin be re-dosed intraoperatively?**
+
+- Every 2 hours regardless of operative duration
+- Only if the patient develops an intraoperative fever
+- If operation exceeds 2 hours
+- **If operation exceeds 3 hours or if there is extensive blood loss**
+
+*Explanation: Prophylactic antibiotics with short half-lives should be redosed if operation is prolonged (for cefazolin if operation >3 hr) or if there is extensive blood loss.*
+
+---
+
+**87. What level of evidence supports the use of higher doses of prophylactic antibiotics in morbidly obese patients?**
+
+- Strong Class I data
+- Class II data
+- Class III data
+- **Limited Class II data**
+
+*Explanation: The use of higher dosages of prophylactic antibiotics for morbidly obese patients is supported by limited Class II data.*
+
+---
+
+**88. What recommendation is given regarding "flash" sterilization of surgical instruments?**
+
+- Encourage it for efficiency in emergencies
+- Use only for laparoscopic instruments
+- Acceptable when standard sterilization is unavailable
+- **Avoid flash sterilization**
+
+*Explanation: Avoiding "flash" sterilization is a recommended perioperative intervention to prevent SSI.*
+
+---
+
+**89. What evidence supports maintaining intraoperative normothermia to reduce SSI?**
+
+- Only Class III data
+- Strong Class II data
+- No evidence exists
+- **Class I data (with some contradictory Class II data)**
+
+*Explanation: Maintaining intraoperative normothermia is recommended based on Class I data, although some contradictory Class II data exist.*
+
+---
+
+**90. According to Table 11.1, what physical defense mechanisms are shared by both the hepatobiliary system and the pancreas?**
+
+- Only bile flow and pancreatic juice flow
+- Only sphincters
+- Kupffer cells and immunoglobulin A
+- **Sphincter, tight junctions, secretion flow, mucus, and cilia**
+
+*Explanation: Table 11.1 lists biliary/pancreatic sphincters, tight junctions, bile flow/pancreatic juice flow, mucus, and cilia as physical defense mechanisms present in both the hepatobiliary system and the pancreas.*
+
+---
+
+**91. What is the chemical defense mechanism listed for the hepatobiliary system in Table 11.1?**
+
+- Pancreatic fluid
+- Immunoglobulin A
+- Fibronectin
+- **Bile salts**
+
+*Explanation: Table 11.1 lists bile salts as the chemical defense mechanism in the hepatobiliary system.*
+
+---
+
+**92. What did the chapter state regarding liver-directed chemotherapy via hepatic artery infusion pumps and infection risk?**
+
+- It significantly increases the risk of infectious complications
+- It doubles the rate of SSI
+- It is contraindicated before resection
+- **It does not seem to increase the risk of infectious complications**
+
+*Explanation: Liver-directed chemotherapy via hepatic artery infusion pumps does not seem to increase the risk of infectious complications.*
+
+---
+
+**93. What liver injury is associated with neoadjuvant chemotherapy that may increase postoperative infection risk?**
+
+- Hepatocellular carcinoma
+- Biliary cirrhosis
+- Hepatic vein thrombosis
+- **Steatosis, steatohepatitis, and sinusoidal obstruction syndrome**
+
+*Explanation: Neoadjuvant chemotherapy may increase the risk of infection due to its negative effects on the liver, including steatosis, steatohepatitis, and sinusoidal obstruction syndrome.*
+
+---
+
+**94. What did Scilletta and colleagues (2014) suggest about neoadjuvant chemotherapy and SSI risk in patients undergoing liver resection for colorectal metastases?**
+
+- It significantly increases SSI
+- It doubles the wound infection rate
+- It reduces SSI rates
+- **It was not a significant risk factor for SSIs**
+
+*Explanation: Scilletta and colleagues (2014) suggested that neoadjuvant chemotherapy was not a significant risk factor for SSIs in patients undergoing liver resection for colorectal hepatic metastases.*
+
+---
+
+**95. For which circumstance is preoperative adjunctive assessment including liver biopsy and portal venous pressure measurement necessary?**
+
+- Routinely in all patients
+- Only for transplantation evaluation
+- Only in patients with hepatitis B
+- **When there is uncertainty concerning the health of the liver**
+
+*Explanation: Adjunctive assessments such as liver biopsy and measurement of portal venous pressures may be necessary when there is uncertainty concerning the health of the liver.*
+
+---
+
+**96. Which of the following is a patient-related risk factor for SSI listed in the chapter?**
+
+- Intraoperative blood transfusion
+- Surgeon experience
+- Type of anesthesia
+- **Colonization with microorganisms**
+
+*Explanation: Patient-related risk factors include age, nutritional status, diabetes, smoking, obesity, coexisting infections at a remote body site, colonization with microorganisms, altered immune response, and length of preoperative stay.*
+
+---
+
+**97. What was found regarding the overall infectious morbidity of preoperative biliary stenting in the Howard and colleagues (2006) study?**
+
+- It significantly increased overall infectious morbidity
+- It tripled the rate of overall complications
+- It increased mortality and hospital stay
+- **It did not increase overall infectious morbidity, noninfectious morbidity, mortality, or hospital length of stay**
+
+*Explanation: The authors noted that preoperative stenting does not increase overall infectious morbidity, noninfectious morbidity, mortality, or hospital length of stay.*
+
+---
+
+**98. What strategy does the chapter recommend for the "window of opportunity" during neoadjuvant therapy in borderline resectable pancreatic cancer patients?**
+
+- Proceed to surgery immediately after one cycle
+- Use the time only for chemotherapy administration
+- Avoid any lifestyle modifications to reduce stress
+- **Modify BMI, improve nutritional and functional status, control hypertension, and quit smoking**
+
+*Explanation: Those patients receiving neoadjuvant therapy should take advantage of this time as a "window of opportunity" to modify BMI, improve nutritional/functional status, control hypertension, and/or quit smoking.*
+
+---
+
+**99. What proportion of patients about to undergo pancreaticoduodenectomy can be considered borderline candidates from a medical standpoint?**
+
+- Less than 10%
+- About 20%
+- About 25%
+- **More than one-third**
+
+*Explanation: More than one-third of patients about to undergo pancreaticoduodenectomy can be considered borderline candidates from a medical standpoint.*
+
+---
+
+**100. What does the chapter advise when the risk of postoperative complications from hepatic surgery is prohibitive?**
+
+- Proceed with resection regardless of risk
+- Use only ablation as an alternative
+- Immediately refer to palliative care
+- **Not operating or ablating may be the prudent course of action**
+
+*Explanation: When the risk of postoperative complications is prohibitive, then not operating or ablating may be the prudent course of action.*
+
+---
+
+**101. Which patients with an obstructing pancreatic head mass may routinely require preoperative biliary drainage?**
+
+- All patients with jaundice
+- Only patients with T1 tumors
+- Patients with bilirubin less than 10 mg/dL
+- **Borderline resectable patients receiving neoadjuvant therapy, and symptomatic jaundiced patients waiting more than 1 week for surgical referral**
+
+*Explanation: Patients with borderline resectable pancreatic head cancers receiving neoadjuvant therapy and symptomatic patients with significant jaundice expected to wait more than 1 week for surgical referral routinely undergo preoperative biliary drainage.*
+
+---
+
+**102. What overall complication rate developed in the 356-patient pancreaticoduodenectomy cohort studied by House and colleagues (2008)?**
+
+- 15%
+- 25%
+- **38%**
+- 50%
+
+*Explanation: Complications developed in 38% of this patient population, with the most common pancreatic complications being fistula/abscess, wound infection, and delayed gastric emptying.*
+
+---
+
+**103. According to the chapter, what is the significance of visceral fat on preoperative axial imaging for pancreaticoduodenectomy patients?**
+
+- Visceral fat is protective against infection
+- Only subcutaneous fat predicts complications
+- Visceral fat only predicts delayed gastric emptying
+- **The degree of visceral fat correlates with higher rates of overall complications and pancreatic fistula**
+
+*Explanation: The degree of visceral fat as seen on preoperative axial imaging correlated with higher rates of overall complications and pancreatic fistula.*
+
+---
+
+**104. Why is a soft, fat-replaced pancreas considered at higher risk for postoperative pancreatic fistula?**
+
+- Due to impaired ductal drainage
+- Because it has increased exocrine secretion
+- Because it is more vascular
+- **Because of the inherent poor tissue quality that predisposes to anastomotic complications**
+
+*Explanation: A soft, fat-replaced pancreas is likely to be at increased risk of postoperative pancreatic fistula, related to the quality of the pancreatic tissue.*
+
+---
+
+**105. According to Nanashima and colleagues (2014), what was significantly associated with deep SSIs after hepatic resection?**
+
+- High BMI
+- Preoperative stenting
+- Increased operative time
+- **Liver failure**
+
+*Explanation: Nanashima and colleagues (2014) demonstrated that liver failure was significantly associated with deep SSIs.*
+
+---
+
+**106. What two factors did Schindl and colleagues (2005) identify as predictors of severe hepatic dysfunction postoperatively?**
+
+- Advanced age and female gender
+- Preoperative stenting and tumor size
+- Cirrhosis and portal hypertension
+- **Small residual liver volume and high BMI**
+
+*Explanation: Severe hepatic dysfunction could be predicted by small residual liver volume and high body mass index (BMI).*
+
+---
+
+**107. What is the recommended drainage strategy type when placing a drain posterior to the pancreaticojejunostomy?**
+
+- Closed suction Jackson-Pratt drain
+- Active suction Blake drain
+- T-tube drain
+- **Non-suction drain**
+
+*Explanation: A reasonable strategy would be to leave a non-suction drain posterior to the pancreaticojejunostomy and measure daily drain amylase for the first 3 postoperative days.*
+
+---
+
+**108. In the Greenblatt and colleagues (2011) ACS-NSQIP study, besides elevated BMI, what other preoperative predictors of morbidity were identified after pancreaticoduodenectomy?**
+
+- Female gender and young age
+- Low BMI and malnutrition alone
+- Preoperative biliary stenting and tumor size
+- **Older age, male gender, dependent functional status, COPD, steroid use, bleeding disorder, leukocytosis, elevated creatinine, and hypoalbuminemia**
+
+*Explanation: Other predictors of morbidity identified included older age, male gender, dependent functional status, chronic obstructive pulmonary disease, steroid use, bleeding disorder, leukocytosis, elevated serum creatinine, and hypoalbuminemia.*
+
+---
+
+**109. Which of the following was identified as a quality indicator for pancreaticoduodenectomy by Ball and colleagues (2010)?**
+
+- Wound infection rate and length of stay
+- Bile leak rate and readmission rate
+- Pancreatic fistula rate and anastomotic leak rate
+- **Blood transfusion and operative time**
+
+*Explanation: Ball and colleagues (2010) suggested blood transfusion and operative time as quality indicators for pancreaticoduodenectomy.*
+
+---
+
+**110. How many general surgical procedures were included in the retrospective ACS-NSQIP analysis by Procter and colleagues (2010)?**
+
+- 50,000
+- 100,000
+- 500,000
+- **299,359**
+
+*Explanation: Procter and colleagues (2010) performed a retrospective analysis of 299,359 general surgical procedures (including pancreatectomy) identified through the ACS-NSQIP database.*
+
+---
+
+**111. What independent risk factor for infectious complications and longer hospital stay did Procter and colleagues (2010) identify?**
+
+- BMI and preoperative stenting
+- Age and comorbidity
+- Blood transfusion and BMI
+- **Increased operative duration**
+
+*Explanation: Their multivariate analysis suggested that increased operative duration is an independent risk factor for infectious complications and hospital length of stay.*
+
+---
+
+**112. What relationship between preoperative RBC transfusion and 30-day morbidity was found in Ball and colleagues (2010)?**
+
+- Inversely proportional
+- No significant relationship
+- Exponential relationship
+- **Linear relationship**
+
+*Explanation: There was a linear relationship between preoperative RBC transfusion and 30-day morbidity in pancreaticoduodenectomy patients.*
+
+---
+
+**113. What conclusion did Schoellhammer and associates (2014) reach about pancreatic anastomotic techniques?**
+
+- Invagination anastomosis is clearly superior
+- Duct-to-mucosa anastomosis is best
+- Fibrin glue significantly reduces fistula risk
+- **No one pancreatic anastomosis is superior and more studies are needed to identify the best anastomotic technique**
+
+*Explanation: Schoellhammer and associates (2014) have suggested that no one pancreatic anastomosis is superior and that more studies are needed to identify the best anastomotic technique.*
+
+---
+
+**114. What does the chapter note about externalized pancreatic duct stents?**
+
+- They increase fistula rates
+- They have no effect on fistula rates
+- They are contraindicated in high-risk anastomoses
+- **They may decrease pancreatic fistulae in high-risk anastomoses**
+
+*Explanation: Recent work has suggested that externalized pancreatic duct stents may decrease pancreatic fistulae in high-risk anastomoses.*
+
+---
+
+**115. What did Huo and colleagues (2003) demonstrate in diabetic patients undergoing hepatic resection for hepatocellular carcinoma?**
+
+- Increased wound infection rates
+- Increased bile leak rates
+- No significant difference in outcomes
+- **Increased hepatic decompensation**
+
+*Explanation: Huo and colleagues (2003) demonstrated increased hepatic decompensation in diabetic patients undergoing hepatic resection for hepatocellular carcinoma.*
+
+---
+
+**116. What did Little and colleagues (2002) show in diabetic patients undergoing hepatectomy for colorectal cancer metastasis?**
+
+- Increased bile leak rates
+- Increased wound infection rates
+- No significant difference in outcomes
+- **Association with increased mortality**
+
+*Explanation: Little and colleagues (2002) showed an association with increased mortality in diabetic patients undergoing hepatectomy for colorectal cancer metastasis.*
+
+---
+
+**117. What did Russell and colleagues (2019) conclude from their trial evaluating immunonutrition in patients undergoing elective hepatectomy?**
+
+- Immunonutrition significantly reduced SSI
+- Immunonutrition doubled wound infection rates
+- Immunonutrition was harmful in non-malnourished patients
+- **The majority of patients did not have malnutrition and there were no differences in outcome between the groups**
+
+*Explanation: The majority of patients did not have malnutrition and there were no differences in outcome between the two groups.*
+
+---
+
+**118. According to Walcott-Sapp et al. (2018), what approach to preoperative nutritional optimization is recommended?**
+
+- Use parenteral nutrition for all malnourished patients
+- Always delay surgery for nutritional optimization
+- Administer only enteral tube feeding
+- **Recognize malnutrition early, consider high-calorie high-protein oral supplementation, and avoid unnecessary preoperative fasting**
+
+*Explanation: A recent review by Walcott-Sapp et al. (2018) expanded on the importance of recognizing malnutrition before hospital admission and considering oral supplementation with high-calorie, high-protein drinks and avoiding unnecessary preoperative fasting.*
+
+---
+
+**119. What abdominal wall thickness was identified as a risk factor for incisional SSI after pancreaticoduodenectomy in Sugiura et al.?**
+
+- Greater than 5 mm
+- Greater than 7 mm
+- Greater than 15 mm
+- **Greater than 10 mm (OR 2.16)**
+
+*Explanation: Abdominal wall thickness greater than 10 mm (OR, 2.16) was identified as a significant risk factor for incisional SSI on multivariate analysis.*
+
+---
+
+**120. According to Sugiura and colleagues (2012), which type of drainage system was associated with increased organ/space SSI risk?**
+
+- Open drainage system
+- Non-suction drainage
+- Jackson-Pratt drain
+- **Semi-closed drainage system (OR 3.68)**
+
+*Explanation: Use of a semi-closed drainage system (OR, 3.68) was identified as a significant risk factor for the development of organ/space SSI.*
+
+---
+
+**121. What is the BMI threshold identified as a risk factor for organ/space SSI by Sugiura and colleagues (2012)?**
+
+- BMI > 20
+- BMI > 25
+- BMI > 30
+- **BMI > 23.5 (OR 3.04)**
+
+*Explanation: BMI greater than 23.5 (OR, 3.04) was identified as a significant risk factor for the development of organ/space SSI.*
+
+---
+
+**122. According to the chapter, in which scenario should preoperative parenteral nutrition be considered?**
+
+- In all patients undergoing major hepatectomy
+- In all patients with cancer
+- In patients who prefer it over oral nutrition
+- **Selectively, only in patients with severe underlying malnutrition**
+
+*Explanation: Preoperative parenteral nutrition should not be routinely used, except selectively in patients with severe underlying malnutrition.*
+
+---
+
+**123. In the Richter et al. systematic review, how and when was enteral nutrition typically started after open liver resection?**
+
+- Via nasogastric tube on postoperative day 1
+- Immediately postoperatively via oral route
+- On postoperative day 3 via nasojejunal tube
+- **On the second postoperative day via an operative jejunal tube**
+
+*Explanation: It should be noted that enteral nutrition in this review was, in general, started on the second postoperative day via an operative jejunal tube.*
+
+---
+
+**124. What is the chapter's position on placement of jejunal feeding catheters in an otherwise healthy liver resection patient?**
+
+- It should be routinely performed
+- It is recommended in all malnourished patients
+- It reduces infectious complications
+- **It is not to be encouraged**
+
+*Explanation: Placement of jejunal feeding catheters in the otherwise healthy liver resection patient is not to be encouraged.*
+
+---
+
+**125. What was the likely explanation given in the chapter for why no statistically significant difference in infectious complications was found despite decreased overall complications in a recent ERAS randomized trial?**
+
+- ERAS only benefits non-infectious complications
+- ERAS has no effect on infection
+- ERAS increases infection risk
+- **Likely due to a small sample size**
+
+*Explanation: A recent randomized trial showed decreased overall complications, although there was no statistically significant difference in infectious complications, likely due to a small sample size.*
+
+---
+
+**126. How many HPB surgery patients were prospectively studied by Ambiru and colleagues (2008) for SSI development?**
+
+- 138
+- 196
+- **265**
+- 408
+
+*Explanation: Two hundred and sixty-five HPB surgery patients were studied by Ambiru and colleagues (2008) and were prospectively evaluated for the development of SSI.*
+
+---
+
+**127. What was the overall 30-day mortality rate found by Kelly and colleagues (2011) in distal pancreatectomy patients?**
+
+- 0.5%
+- 5.0%
+- 3.0%
+- **1.2%**
+
+*Explanation: In 2322 patients undergoing distal pancreatectomy, the overall 30-day complication and mortality rates were 28.1% and 1.2%, respectively.*
+
+---
+
+**128. What did a recent network meta-analysis suggest regarding parenchymal transection techniques for hepatic resection?**
+
+- Clamp-crush is definitively superior
+- Water-jet dissection is most effective
+- Ultrasonic devices should be preferred
+- **Energy devices may be best in reducing overall complications, but with significant caveats**
+
+*Explanation: A recent network meta-analysis has suggested (with significant caveats) that energy devices may be best in reducing overall complications.*
+
+---
+
+**129. What end-of-operation step is specifically recommended in the chapter after hepatic resection?**
+
+- Placement of a drain in all cases
+- Administration of topical antibiotics
+- Placement of a feeding jejunostomy
+- **Suction of any pooled blood and bile**
+
+*Explanation: It is also important to suction any pooled blood and bile at the end of the operation.*
+
+---
+
+**130. What does the concept of "failure-to-rescue" mean in the context of post-pancreatectomy care?**
+
+- Failure of the surgical team to respond to emergencies
+- Inadequate surgical technique leading to leaks
+- Failure to treat pancreatic fistula medically
+- **Failure to detect and treat deviations from the normal postoperative course early, leading to worse patient outcomes**
+
+*Explanation: Remaining vigilant to avoid "failure-to-rescue" scenarios requires early detection of deviation from the normal postoperative course with prompt diagnosis and treatment of complications.*
+
+---
+
+**131. According to Table 11.3, how should contaminated or dirty infected wounds be managed?**
+
+- Closed primarily in all cases
+- Closed primarily with antibiotic irrigation
+- Closed with delayed primary closure in all cases
+- **Left open, with the possible exception of wounds following perforated appendicitis**
+
+*Explanation: Leave contaminated or dirty infected wounds open, with the possible exception of wounds following operations for perforated appendicitis.*
+
+---
+
+**132. What early pattern of presentation was noted by Behrman et al. regarding infected fluid collections after pancreatectomy?**
+
+- They present 4–6 weeks postoperatively
+- They only present after hospital discharge
+- They always present with fever and leukocytosis
+- **They may occur relatively early in the postoperative course, requiring a low threshold to image and drain them**
+
+*Explanation: The authors observed that infected fluid collections may occur relatively early in the postoperative course, and surgeons should have a low threshold to image and drain these collections.*
+
+---
+
+**133. What did Petrowsky and colleagues (2004) study in their systematic review and meta-analysis?**
+
+- The value of ERAS in liver surgery
+- The use of prophylactic antibiotics in HPB surgery
+- Minimally invasive versus open liver resections
+- **The value of prophylactic drainage in gastrointestinal surgery**
+
+*Explanation: Petrowsky and colleagues (2004) studied the value of prophylactic drainage in GI surgery in a systematic review and meta-analysis, concluding that many GI operations can be safely performed without the use of drains.*
+
+---
+
+**134. What statement best reflects the overall conclusion of the chapter regarding HPB surgery and infectious complications?**
+
+- Infectious complications are rare after HPB surgery
+- Infectious complications only affect short-term outcomes
+- Nothing can be done to prevent SSI in HPB surgery
+- **Infectious complications are a major contributor to morbidity and mortality but can be addressed throughout the perioperative period to improve perioperative and oncologic outcomes**
+
+*Explanation: The summary states that infectious complications are a major contributor to morbidity and mortality but can be addressed throughout the perioperative period using patient-specific and institutional interventions to mitigate risk and improve perioperative and oncologic outcomes.*
+
+---
+
+**135. What is the significance of using preoperative bile culture results to guide perioperative antibiotic selection in pancreaticoduodenectomy?**
+
+- Cultures are not useful for antibiotic selection
+- Standard cefazolin covers all biliary pathogens
+- Culture results increase operative time
+- **Some authors advocate selecting perioperative antimicrobial prophylaxis based on preoperative bile cultures obtained at the time of preoperative biliary drainage**
+
+*Explanation: Other authors have advocated for the selection of perioperative antimicrobial prophylaxis that is based on preoperative bile cultures obtained at the time of preoperative biliary drainage.*
+
+---
+
+**136. What does the chapter recommend as the general approach to perioperative blood glucose management after pancreatectomy?**
+
+- Accept mild hyperglycemia to reduce hypoglycemia risk
+- Use oral hypoglycemics only
+- Tight control is not necessary unless pre-existing diabetes
+- **Tight glycemic control is of particular concern, achievable using sliding scales and continuous insulin infusions; some non-diabetic patients may require insulin therapy postoperatively**
+
+*Explanation: Blood glucose control in the postoperative setting is of particular concern in the post-pancreatectomy patient, especially because some patients who were not previously diabetic may eventually require insulin therapy.*
+
+---
+
+**137. What does the chapter identify as a reasonable pragmatic approach to the use of wound protectors in pancreaticoduodenectomy?**
+
+- Routine use in all cases
+- Avoid use entirely given conflicting evidence
+- Use only in robotic procedures
+- **Consider use based on individual SSI risk (e.g., preoperative stents), the additional retraction benefit, and the institutional baseline SSI incidence**
+
+*Explanation: A pragmatic approach may be to consider the use of wound protectors depending on the patient's individual risk of SSI, the additional exposure provided in terms of retraction, and the institutional incidence of SSI.*
+
+---
+
+**138. What is the conclusion of the chapter regarding the use of intraperitoneal drains at the time of pancreaticoduodenectomy?**
+
+- Drains should never be placed
+- Evidence definitively supports omitting drains
+- Drains should always be placed and kept for 10 days
+- **Most surgeons use drains especially after pancreaticoduodenectomy, but the best approach remains unclear and should be individualized to the specific patient**
+
+*Explanation: The best approach to peritoneal drainage remains unclear and should be individualized to the specific patient; most surgeons use drains especially after pancreaticoduodenectomy.*
+
+---
+
+**139. In the context of minimally invasive pancreaticoduodenectomy, what was found in one US study evaluating the last decade of outcomes?**
+
+- Decreased infectious complications were formally reported
+- Increased mortality compared to open approach
+- No difference in any outcomes compared to open surgery
+- **Association with decreased pulmonary complications, although no formal data on infectious complications were reported**
+
+*Explanation: In one study evaluating the last decade of outcomes across the United States, laparoscopic pancreaticoduodenectomy was associated with decreased pulmonary complications although no formal data on infectious complications were reported.*
+
+---
+
+**140. What does the chapter state about minimally invasive pancreaticoduodenectomy compared to distal pancreatectomy?**
+
+- Both have equivalent evidence supporting their use
+- Minimally invasive pancreaticoduodenectomy has more evidence
+- Minimally invasive distal pancreatectomy is still experimental
+- **Minimally invasive techniques confer established benefit in distal pancreatectomy and remain under evaluation for pancreaticoduodenectomy**
+
+*Explanation: Minimally invasive techniques confer benefit in distal pancreatectomy and remain under evaluation for pancreaticoduodenectomy.*
+
+---
+
+**141. Why is it especially challenging to modify preoperative risk factors before pancreatectomy for cancer?**
+
+- Patients with cancer are always medically optimized
+- Nutritional supplements are contraindicated in cancer
+- Cancer patients are usually young and healthy
+- **Proceeding to the operating room expeditiously may be prudent, especially in clearly resectable, otherwise healthy candidates, because delaying surgery may compromise oncologic outcomes**
+
+*Explanation: Modification of preoperative risk factors may be difficult or even impossible before pancreatectomy, particularly when the indication for resection is cancer or suspicion of cancer. Proceeding expeditiously may be the prudent course of action.*
+
+---
+
+**142. How does the chapter describe the role of ERAS pathways in hepatic surgery?**
+
+- They are only experimental
+- They have not been shown to affect outcomes
+- They increase infectious complication rates
+- **They have shown promise in improving postoperative outcomes, and should be considered for patients undergoing routine hepatectomy**
+
+*Explanation: Enhanced recovery after surgery (ERAS) pathways have shown promise in improving postoperative outcomes in patients undergoing liver surgery. ERAS pathways should therefore be considered for those patients undergoing routine hepatectomy.*
+
+---
+
+**143. What did the updated systematic review on ERAS in hepatic surgery show?**
+
+- No trials demonstrated benefit
+- All four trials showed decreased complications
+- ERAS increased infectious complications
+- **Decreased overall complications in two of four trials**
+
+*Explanation: An updated systematic review similarly shows decreased overall complications in two of four trials.*
+
+---
+
+**144. When is preoperative biliary drainage considered for borderline resectable pancreatic cancer patients receiving neoadjuvant chemotherapy?**
+
+- It is contraindicated in this group
+- Only if bilirubin exceeds 20 mg/dL
+- Only via the percutaneous route
+- **It appears relatively safe; with increasing use of neoadjuvant therapy and EUS-guided tissue diagnosis, most patients will likely undergo preoperative stenting**
+
+*Explanation: With the increasing use of neoadjuvant chemotherapy and the requirement for tissue diagnosis via endoscopic ultrasound, it is likely that most patients will undergo preoperative stenting.*
+
+---
+
+**145. According to the chapter, what is the rationale behind administering antimicrobial prophylaxis for all elective hepatic resections regardless of anticipated bilioenteric reconstruction?**
+
+- All patients are colonized with resistant organisms
+- Hepatic resection always results in biliary contamination
+- Bilioenteric reconstruction is always planned
+- **To prevent SSI given the risks associated with bile colonization, reduced Kupffer cell mass, and impaired bile salts after resection**
+
+*Explanation: A reasonable approach to the prevention of SSI in the setting of hepatic resection would be to administer antimicrobial prophylaxis for all elective hepatic resections regardless of anticipated bilioenteric reconstruction, given the multiple risk factors inherent to hepatic resection.*
+
+---
+
+**146. What does the chapter recommend regarding perioperative management of the jaundiced patient with pancreatic cancer awaiting referral to a surgical center?**
+
+- Proceed directly to surgery without any drainage
+- Stenting is absolutely contraindicated
+- Stenting should only be performed at the surgical center
+- **Preoperative biliary drainage is not unreasonable in the jaundiced patient awaiting referral to an appropriate surgical center**
+
+*Explanation: The authors ultimately state that preoperative biliary drainage is not unreasonable in the jaundiced patient awaiting referral to an appropriate surgical center.*
+
+---
+
+**147. What specific drain characteristic is recommended for placement after pancreaticoduodenectomy according to the chapter's reasonable strategy?**
+
+- High-pressure closed suction drain
+- T-tube for biliary decompression
+- Sump drain for high-output collections
+- **A non-suction drain placed posterior to the pancreaticojejunostomy with daily amylase measurement**
+
+*Explanation: A reasonable strategy would be to leave a non-suction drain posterior to the pancreaticojejunostomy and measure daily drain amylase for the first 3 postoperative days.*
+
+---
+
+**148. According to the chapter, what alternative technique is mentioned alongside hepatic vein embolization to facilitate liver resection?**
+
+- Transarterial embolization
+- Selective internal radiotherapy
+- Percutaneous ablation
+- **ALPPS (Associating Liver Partition and Portal vein ligation for Staged hepatectomy)**
+
+*Explanation: There is increasing enthusiasm in facilitating resection by using hepatic vein embolization or ALPPS.*
+
+---
+
+**149. According to the chapter, what is the key message about infectious complications and oncologic outcome in HPB malignancy?**
+
+- Infectious complications have no impact on tumor biology
+- Infectious complications only delay surgery timing
+- Preventing infection is important only for short-term recovery
+- **Decreasing the burden of infectious complications is paramount from both a perioperative and oncologic standpoint, as complications worsen long-term oncologic outcomes**
+
+*Explanation: An increasing body of evidence shows that postoperative complications not only delay immediate recovery but also worsen long-term oncologic outcome. Decreasing the burden of infectious complications is thus paramount from both a perioperative and oncologic standpoint.*
+
+---
+
+**150. How is the chapter's summary population for HPB surgery described?**
+
+- Mostly young patients with benign disease
+- Predominantly immunocompetent patients with localized tumors
+- Patients with low comorbidity and early-stage disease
+- **Increasingly elderly patients often with advanced malignancy**
+
+*Explanation: The summary states that HPB surgery is increasingly carried out in elderly patients often with advanced malignancy, making infectious complication prevention all the more critical.*

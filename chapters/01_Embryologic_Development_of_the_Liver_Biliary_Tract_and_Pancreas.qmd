@@ -1,0 +1,1661 @@
+# 01 Embryologic Development of the Liver, Biliary Tract, and Pancreas
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+Generated with Claude.
+
+
+**1. During which embryonic period does the liver diverticulum first arise from the endoderm?**
+
+- Weeks 1 to 3 post-fertilization
+- **Weeks 4 to 5 post-fertilization**
+- Weeks 6 to 8 post-fertilization
+- Weeks 9 to 12 post-fertilization
+
+*Explanation: The liver and biliary tract arise initially as an endodermal bud from the distal foregut during weeks 4 to 5 post-fertilization (Carnegie Stages 10–15).*
+
+---
+
+**2. What is the approximate size of the embryo at the start of weeks 4 to 5 post-fertilization?**
+
+- Less than 1 mm
+- **Two to three mm**
+- Five to six mm
+- Ten mm
+
+*Explanation: At the start of weeks 4 to 5, the embryo measures about two to three mm and has implanted into the endometrial layer of the uterine wall.*
+
+---
+
+**3. From which structure does the liver and biliary tract initially arise?**
+
+- Dorsal mesogastrium
+- **Ventral mesogastrium**
+- Lateral plate mesoderm
+- Notochord
+
+*Explanation: The liver and biliary tract arise initially as an endodermal bud from the distal foregut within the ventral mesogastrium, projecting into the mesenchyme of the septum transversum.*
+
+---
+
+**4. Into the mesenchyme of which structure does the hepatic diverticulum project?**
+
+- Notochord
+- Dorsal aorta
+- **Septum transversum**
+- Cardinal veins
+
+*Explanation: The endodermal bud projects into the mesenchyme of the septum transversum.*
+
+---
+
+**5. The endodermal bud of the liver is formed from which two endodermal origins?**
+
+- Dorsal midline and lateral domains
+- **Two lateral domains and the ventral midline of endoderm lip (VMEL)**
+- Anterior intestinal portal and dorsal foregut
+- Hindgut and midgut endoderm
+
+*Explanation: The endodermal bud is formed from two lateral domains and the ventral midline of endoderm lip (VMEL), where the endoderm folds into the anterior intestinal portal.*
+
+---
+
+**6. Which part of the liver do the lateral endodermal domains generate?**
+
+- Anterior part of the liver
+- **Posterior part of the liver**
+- Left lobe of the liver
+- Right lobe of the liver
+
+*Explanation: The lateral endodermal domains generate the posterior parts of the liver, while the VMEL generates the anterior parts.*
+
+---
+
+**7. Which growth factors from the septum transversum and lateral plate mesoderm control induction of the liver diverticulum?**
+
+- Fibroblast growth factors (FGFs)
+- Vascular endothelial growth factors (VEGFs)
+- **Bone morphogenetic proteins (BMPs)**
+- Sonic hedgehog (SHH)
+
+*Explanation: BMPs from the septum transversum and lateral plate mesoderm, together with FGFs from precardiac mesoderm and signals from surrounding endothelial cells, control induction of the liver diverticulum.*
+
+---
+
+**8. BMPs specifically specify liver fate in which precursors?**
+
+- Lateral endodermal hepatic precursors
+- **VMEL precursors**
+- Dorsal endodermal precursors
+- Hematopoietic precursors
+
+*Explanation: BMPs specifically specify liver fate in the VMEL precursors, whereas FGFs induce liver formation in the lateral endodermal hepatic precursors.*
+
+---
+
+**9. Which transcription factors are induced or maintained by growth factors during liver induction?**
+
+- PDX1, PTF1A, and SOX9
+- **FOXA1&2, HHEX, HNF1b, HNF4a, and GATA4&6**
+- NEUROG3, PAX6, and NKX2.2
+- LGR-4, WNT, and SHH
+
+*Explanation: The growth factors induce or maintain the expression of transcription factors FOXA1&2, HHEX, HNF1b, HNF4a, and GATA4&6, which specify the liver primordium and are needed for hepatoblast differentiation.*
+
+---
+
+**10. Which signaling pathways must be repressed for liver induction to occur?**
+
+- FGF and BMP pathways
+- VEGF and HGF pathways
+- **β-catenin (canonical Wnt) and Notch signaling pathways**
+- TGF-β and activin pathways
+
+*Explanation: Repression of the β-catenin (canonical Wnt) and Notch signaling pathways are required for liver induction.*
+
+---
+
+**11. What are hepatoblasts?**
+
+- Mature hepatocytes only
+- Precursors of cholangiocytes only
+- **Precursors of both hepatocytes and cholangiocytes**
+- Hematopoietic stem cells
+
+*Explanation: Hepatoblasts are the precursors of both hepatocytes and cholangiocytes and express markers of both lineages.*
+
+---
+
+**12. Which marker is expressed by hepatoblasts as a hepatocyte lineage marker?**
+
+- CK19
+- HNF1b
+- SOX9
+- **α-fetoprotein**
+
+*Explanation: Hepatoblasts express markers of both lineages including hepatocyte markers such as α-fetoprotein, albumin, HNF4a, and HHEX.*
+
+---
+
+**13. Which marker is expressed by hepatoblasts as a cholangiocyte lineage marker?**
+
+- Albumin
+- HNF4a
+- **HNF1b and CK19**
+- HHEX
+
+*Explanation: Hepatoblasts express cholangiocyte markers including HNF1b and CK19 (a late differentiation marker).*
+
+---
+
+**14. Proliferation of hepatoblasts into a "multilayered" pseudostratified endodermal structure requires which transcription factor?**
+
+- PROX1
+- HNF6
+- **HHEX**
+- ONECUT2
+
+*Explanation: Proliferation of hepatoblasts results in a "multilayered" pseudostratified endodermal structure and requires HHEX.*
+
+---
+
+**15. Which transcription factors are required for the delamination phase of hepatoblasts?**
+
+- HHEX and HNF4a
+- **PROX1, HNF6 (ONECUT1), and ONECUT2**
+- GATA4 and FOXA1/2
+- PDX1 and PTF1A
+
+*Explanation: The delamination phase — where hepatoblasts reduce cell-cell contacts and migrate into the septum transversum — requires the transcription factors PROX1, HNF6 (ONECUT1), and ONECUT2.*
+
+---
+
+**16. What are the ingrowing columns of hepatoblasts known as?**
+
+- Trabeculae
+- Sinusoids
+- **Cords (sometimes "chords")**
+- Lobules
+
+*Explanation: The ingrowing columns of cells are known as "cords" (sometimes "chords") and have an intimate relationship with mesenchymal-derived endothelial cells lining primitive vascular sinusoids.*
+
+---
+
+**17. Which signaling molecules control hepatoblast proliferation and cell survival?**
+
+- BMP and SHH
+- TGF-β and activin
+- **Paracrine Wnt, FGF, and hepatocyte growth factor (HGF)**
+- Notch and PDX1
+
+*Explanation: Proliferation and cell survival of hepatoblasts are controlled by paracrine Wnt, FGF, and hepatocyte growth factor (HGF) signaling from adjacent mesodermal cells.*
+
+---
+
+**18. From where are the hematopoietic cells that populate the embryonic liver originally derived?**
+
+- Bone marrow
+- **Yolk sac and then aorta-gonad-mesenchyme region and placenta**
+- Liver sinusoidal endothelial cells
+- Septum transversum mesenchyme
+
+*Explanation: The embryonic liver is populated by hematopoietic cells originally derived from the yolk sac and then from the aorta-gonad-mesenchyme region and placenta.*
+
+---
+
+**19. What does Oncostatin M (OSM), produced by hematopoietic cells, do in the liver?**
+
+- Promotes cholangiocyte differentiation
+- Inhibits hepatoblast proliferation
+- **Increases hepatoblast proliferation**
+- Induces bile acid synthesis
+
+*Explanation: Hematopoietic cells produce Oncostatin M (OSM), which increases hepatoblast proliferation, contributing to liver growth until late fetal development.*
+
+---
+
+**20. What is the German term "liver anlage" used to describe?**
+
+- The gallbladder primordium
+- The biliary canaliculi
+- **The large, rounded mass of liver tissue (rudimentary organ or part)**
+- The septum transversum
+
+*Explanation: By weeks 6 to 8, the liver is a large, rounded mass of tissue called the liver anlage (German for "rudimentary organ or part") and is the dominant organ by mass within the abdomen.*
+
+---
+
+**21. Failure of the embryonic gut to return from the base of the umbilicus leads to which condition?**
+
+- Biliary atresia
+- Pancreas divisum
+- **Omphalocele (exomphalos)**
+- Annular pancreas
+
+*Explanation: Later, the liver pushes the embryonic gut into the base of the umbilicus before it returns. Failure of this return phase leads to an omphalocele (or exomphalos), of which the liver can form a major part.*
+
+---
+
+**22. At approximately which week do hepatoblasts begin to differentiate into hepatocytes and cholangiocytes?**
+
+- Week 4
+- Week 5
+- **Week 7 (around the seventh week)**
+- Week 12
+
+*Explanation: Differentiation of hepatoblasts into hepatocytes and cholangiocytes occurs at or around the seventh week.*
+
+---
+
+**23. Which signaling from the portal vein mesenchyme promotes cholangiocyte formation?**
+
+- BMP signaling
+- FGF signaling
+- Wnt signaling
+- **Notch signaling**
+
+*Explanation: Notch signaling from the portal vein mesenchyme promotes cholangiocyte formation, and hence ductal development, while inhibiting hepatocyte development.*
+
+---
+
+**24. Which transcription factors are required for cholangiocyte differentiation?**
+
+- HNF4a and C/EBPα
+- PROX1 and TBX3
+- **HNF1b, HNF6, and SOX9**
+- HHEX and FOXA1/2
+
+*Explanation: Cholangiocyte differentiation requires the HNF1b, HNF6, and SOX9 transcription factors.*
+
+---
+
+**25. Which transcription factors are required for hepatocyte fate determination?**
+
+- HNF1b and HNF6
+- SOX9 and CK19
+- **HNF4a and C/EBPα**
+- HHEX and GATA4
+
+*Explanation: Hepatocyte fate requires the transcription factors HNF4a and C/EBPα.*
+
+---
+
+**26. Which transcription factor determines which cell fate develops from the bipotential hepatoblasts?**
+
+- HNF4a
+- SOX9
+- **PROX1 (and TBX3)**
+- GATA6
+
+*Explanation: The transcription factor PROX1 (and TBX3) determines which cell fate develops from the bipotential hepatoblasts; in the absence of PROX1, fewer hepatocytes are formed.*
+
+---
+
+**27. What is the consequence of PROX1 absence in hepatoblasts?**
+
+- More hepatocytes and fewer cholangiocytes
+- Complete absence of both cell types
+- **Fewer hepatocytes with an increase in cholangiocyte number**
+- No change in cell fate
+
+*Explanation: In the absence of PROX1, fewer hepatocytes are formed, which is associated with an increase in cholangiocyte number.*
+
+---
+
+**28. From about which week of gestation do intrahepatic bile ducts appear distinctly?**
+
+- Four weeks
+- Five weeks
+- **Seven weeks**
+- Twelve weeks
+
+*Explanation: Intrahepatic bile ducts only appear distinctly from about seven weeks gestation, and formation is organized by the portal vein.*
+
+---
+
+**29. What is the term for the cylindrical double cell layer of cells adjacent to the portal vein that gives rise to bile ducts?**
+
+- Liver sinusoid
+- Portal tract mesenchyme
+- **Ductal (or limiting) plate**
+- Biliary canaliculus
+
+*Explanation: A cylindrical double cell layer of darkly staining cells adjacent to the portal vein emerges, which is termed the ductal (or limiting) plate.*
+
+---
+
+**30. What is the unique process by which bile ducts are generated from the ductal plate?**
+
+- Symmetric division
+- **Transient asymmetry**
+- Epithelial-mesenchymal transition
+- Apoptosis and reformation
+
+*Explanation: The bile ducts are generated from the dual-layer by a unique process of so-called transient asymmetry, whereby ductal plate cells on the portal tract side express cholangiocyte markers, and those on the parenchymal side express hepatoblast markers.*
+
+---
+
+**31. Which markers do ductal plate cells facing the portal tract express?**
+
+- HNF4a
+- α-fetoprotein
+- **SOX9 and CK19**
+- Albumin
+
+*Explanation: Ductal plate cells resembling cholangiocytes on the side facing the portal tract express SOX9 and CK19.*
+
+---
+
+**32. Which marker do ductal plate cells facing the parenchyma express?**
+
+- CK19
+- SOX9
+- **HNF4α**
+- HNF1b
+
+*Explanation: Ductal plate cells resembling hepatoblasts on the side facing the parenchyma express HNF4α.*
+
+---
+
+**33. What controls ductal progression and elongation in intrahepatic bile duct formation?**
+
+- Canonical Wnt pathway
+- BMP signaling
+- **Noncanonical Wnt pathway**
+- SHH signaling
+
+*Explanation: Ductal progression and elongation proceeds from the hilum to the periphery and appears to be controlled by the noncanonical Wnt pathway.*
+
+---
+
+**34. What happens to cholangiocytes not incorporated into bile ducts?**
+
+- They undergo apoptosis
+- They become hematopoietic cells
+- They remain as ductal plate cells
+- **They dedifferentiate into hepatocytes**
+
+*Explanation: Cholangiocytes that are not incorporated into the bile ducts dedifferentiate into hepatocytes.*
+
+---
+
+**35. What induces development of hepatic arteries during bile duct formation?**
+
+- FGF signals from hepatoblasts
+- BMP signals from the septum transversum
+- Notch signals from portal mesenchyme
+- **VEGF signals from the ductal plate**
+
+*Explanation: Hepatic arteries develop in association with the developing bile ducts and are thought to be induced by VEGF signals from the ductal plate.*
+
+---
+
+**36. What is the biliary canaliculus?**
+
+- The largest component of the biliary network
+- The gallbladder
+- **The smallest component of the biliary network, located between adjacent hepatocytes**
+- The common bile duct
+
+*Explanation: The apical aspect of the hepatocyte abuts onto adjacent hepatocytes, within which is the biliary canaliculus, the smallest component of the biliary network.*
+
+---
+
+**37. What structures delineate the biliary canaliculus?**
+
+- Gap junctions
+- Microvilli
+- **Tight junctions (desmosomes)**
+- Bile acid transporters
+
+*Explanation: The biliary canaliculi are delineated by tight junctions (desmosomes), with the remainder of the apical surface given over to gap junctions.*
+
+---
+
+**38. At approximately what week does bile acid synthesis begin?**
+
+- Week 4
+- **Week 6**
+- Week 10
+- Week 14
+
+*Explanation: Bile acid synthesis starts at about six weeks.*
+
+---
+
+**39. From approximately which weeks of gestation is bile first transported into the fetal gut?**
+
+- 6 to 8 weeks
+- 8 to 10 weeks
+- 10 to 12 weeks
+- **12 to 14 weeks**
+
+*Explanation: Bile is first observed in primitive cholangioles and then transported into the fetal gut from about 12 to 14 weeks gestation, implying completion of biliary continuity.*
+
+---
+
+**40. The "solid phase" of biliary development is now considered to be:**
+
+- The basis of biliary atresia
+- Confirmed by recent imaging studies
+- A recent discovery
+- **An erroneous, formerly widely held belief**
+
+*Explanation: The so-called "solid phase" of biliary development, formerly a widely held belief and an obvious corollary of biliary atresia, now appears erroneous.*
+
+---
+
+**41. Kupffer cells are of which lineage?**
+
+- Endodermal lineage
+- **Monocyte/macrophage lineage**
+- Mesothelial lineage
+- Hematopoietic stem cell lineage directly from bone marrow
+
+*Explanation: Kupffer cells are of a monocyte/macrophage lineage and appear at about five weeks gestation from fetal yolk sac precursors.*
+
+---
+
+**42. At approximately which week of gestation do hepatic stellate cells first appear?**
+
+- Week 5
+- Week 7
+- **Week 10**
+- Week 14
+
+*Explanation: Hepatic stellate cells are apparent by 10 weeks.*
+
+---
+
+**43. Fetal liver stromal tissue consists of cells that express features of which tissue types?**
+
+- Only epithelium and mesenchyme
+- Only mesenchyme and vascular smooth muscle
+- **Epithelium (Ck-8), mesenchyme (vimentin and osteopontin), and vascular smooth muscle actin (aSma)**
+- Only epithelium and vascular smooth muscle
+
+*Explanation: Fetal liver stromal tissue consists of cells that express features of epithelium (Ck-8), mesenchyme (vimentin and osteopontin), and vascular smooth muscle actin (aSma).*
+
+---
+
+**44. During the fetal stage, liver growth is controlled by which factors?**
+
+- BMPs and SHH
+- PDX1 and PTF1A
+- **OSM, glucocorticoids, HGF, and canonical Wnt signaling**
+- FGF and TGF-β
+
+*Explanation: Growth is controlled by OSM, glucocorticoids, HGF, and the canonical Wnt signaling pathway.*
+
+---
+
+**45. Where is hepatocyte maturation most advanced during the fetal stage?**
+
+- At the periphery of the liver
+- In the left lobe
+- **In the center of the liver**
+- In the caudate lobe
+
+*Explanation: Hepatocyte maturation is more advanced in the center of the liver, while proliferation is highest at the periphery.*
+
+---
+
+**46. At approximately what week are glycogen granules first present in fetal hepatocytes?**
+
+- Week 4
+- Week 6
+- **Week 8**
+- Week 12
+
+*Explanation: Glycogen granules are present in fetal hepatocytes at about eight weeks, with the zenith of glycogen reserve achieved by the time of birth.*
+
+---
+
+**47. What happens to hepatocyte glycogen reserves in the first few days after birth?**
+
+- They increase significantly
+- They remain stable for weeks
+- **Rapid glycogenolysis depletes them to about 10% of prenatal levels over two to three days**
+- They are replaced by lipid stores
+
+*Explanation: Rapid onset of glycogenolysis over two to three days then depletes glycogen to about 10% of prenatal levels.*
+
+---
+
+**48. The liver has a dual vascular supply consisting of which two systems?**
+
+- Inferior vena cava and hepatic veins
+- Umbilical veins and vitelline veins
+- **Portal venous system and the hepatic arterial system**
+- Cardinal veins and subcardinal veins
+
+*Explanation: The liver has a dual vascular supply — the portal venous system and the hepatic arterial system — which then drains by common hepatic venous channels into the vena cava and right atrium.*
+
+---
+
+**49. Vitelline veins carry blood from which structure to the sinusoidal plexus?**
+
+- The placenta
+- **The gut (originally from the yolk sac)**
+- The lower limbs
+- The heart
+
+*Explanation: Vitelline veins carry blood from the gut to an evolving sinusoidal plexus and are originally from the yolk sac — hence the name (vitellus = color of yolk in Latin).*
+
+---
+
+**50. The final arrangement of the portal vein arises from the junction of which vessels?**
+
+- Superior and inferior mesenteric veins
+- Hepatic veins and IVC
+- **Splenic vein and superior mesenteric veins**
+- Umbilical and vitelline veins
+
+*Explanation: Remodeling leads to the final arrangement of the S-shaped portal vein, which arises from the junction of the splenic vein and superior mesenteric veins anterior to the third part of the duodenum.*
+
+---
+
+**51. What happens to the right umbilical vein during development?**
+
+- It becomes the ductus venosus
+- It joins the left portal vein
+- **It disappears early in gestation**
+- It becomes part of the IVC
+
+*Explanation: The right umbilical vein disappears early in gestation, leaving the left umbilical vein to be enveloped by the liver.*
+
+---
+
+**52. What is the ductus venosus (Duct of Arantius)?**
+
+- A connection between the splenic and portal veins
+- **A low-pressure venous channel connecting the left portal vein and the hepatic vein confluence**
+- A shunt between the systemic and pulmonary circulations
+- A remnant of the cardinal veins
+
+*Explanation: The ductus venosus (or Duct of Arantius) is a low-pressure venous channel that connects the left portal vein and the hepatic vein confluence.*
+
+---
+
+**53. Approximately what proportion of umbilical venous flow is shunted through the ductus venosus in the fetus?**
+
+- 5% to 10%
+- **20% to 30%**
+- 40% to 50%
+- 60% to 70%
+
+*Explanation: About 20% to 30% of umbilical venous flow is shunted through the ductus venosus in the fetus, with progressive diminution as gestational age progresses.*
+
+---
+
+**54. What happens to the ductus venosus at the time of birth?**
+
+- It enlarges to handle increased blood flow
+- It becomes the ligamentum teres
+- **It closes functionally and later anatomically so portal venous inflow is directed into the sinusoids**
+- It connects to the IVC permanently
+
+*Explanation: By the time of birth, the ductus closes functionally and later anatomically so the entire portal venous inflow is directed solely into the sinusoids.*
+
+---
+
+**55. Oxygen saturation levels of approximately what percentage can be observed in fetal umbilical venous blood during the last trimester?**
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: Oxygen saturation levels of about 80% can be observed during the last trimester.*
+
+---
+
+**56. What do posterior cardinal veins eventually become?**
+
+- Portal veins
+- Inferior vena cava
+- **Azygous and hemiazygous veins**
+- Subcardinal veins
+
+*Explanation: The posterior cardinal veins are paired structures that originally carry blood from the lower half of the body. Their function declines during gestation, although they eventually will become the azygous and hemiazygous veins.*
+
+---
+
+**57. From which venous precursors does the pre-renal portion of the IVC form?**
+
+- Posterior cardinal veins
+- Supracardinal veins
+- Right umbilical vein
+- **Subcardinal veins**
+
+*Explanation: The IVC is formed from many different venous precursors; the subcardinal veins form the pre-renal portion and supracardinal veins form the post-renal portion.*
+
+---
+
+**58. Which gene mutation causes Alagille's syndrome?**
+
+- NOTCH2
+- HNF1b
+- SOX9
+- **JAG1**
+
+*Explanation: Alagille's syndrome is a multisystem genetic condition caused by loss of function mutations of the JAG1 gene, a ligand for the Notch signaling pathway.*
+
+---
+
+**59. Alagille's syndrome leads to which biliary abnormality?**
+
+- Biliary hyperplasia
+- Cholangiocarcinoma
+- Biliary cysts
+- **Biliary hypoplasia (poor bile duct development)**
+
+*Explanation: Alagille's syndrome leads to poor bile duct development (biliary hypoplasia), as well as cardiac anomalies, vertebral anomalies, and an unusual elfin-like facies.*
+
+---
+
+**60. The biliary atresia splenic malformation (BASM) is characterized by which vascular anomaly?**
+
+- Absent splenic artery
+- Double hepatic artery
+- Persistent ductus venosus
+- **Pre-duodenal portal vein and absent IVC**
+
+*Explanation: The biliary atresia splenic malformation can be characterized as having an absent or poorly developed common bile duct and often an atrophic gallbladder in association with either polysplenia or asplenia and vascular anomalies, such as a pre-duodenal portal vein and an absent IVC.*
+
+---
+
+**61. The pre-duodenal position of the portal vein in BASM is due to what?**
+
+- Absent ductus venosus
+- Excess vitelline vein development
+- **Impaired development of the vitelline veins**
+- Abnormal umbilical vein persistence
+
+*Explanation: The pre-duodenal position of the portal vein is because of impaired development of the vitelline veins.*
+
+---
+
+**62. Key anomalies in BASM are speculated to date the pathology to which period post-fertilization?**
+
+- 5 to 10 days
+- 10 to 20 days
+- **20 to 40 days**
+- 50 to 60 days
+
+*Explanation: It is speculated that the key anomalies in BASM date the pathology to 20 to 40 days post-fertilization during the establishment of asymmetry in the embryo.*
+
+---
+
+**63. What proportion of infants with BASM have situs inversus?**
+
+- About one quarter
+- About one third
+- **About half**
+- Almost all
+
+*Explanation: Situs inversus is present in about half of these infants, presumably reflecting randomness of the acquisition of visceral asymmetry.*
+
+---
+
+**64. What is the Abernethy malformation?**
+
+- Absence of the portal vein
+- A hepatic arteriovenous malformation
+- **An interconnection of the portal vein and IVC**
+- Atresia of the hepatic veins
+
+*Explanation: The Abernethy malformation is an interconnection of the portal vein and IVC, typically assuming an "H" shape at the inferior margin of the liver.*
+
+---
+
+**65. Which neoplastic conditions are predisposed to by the Abernethy malformation?**
+
+- Only hepatocellular carcinoma
+- Cholangiocarcinoma and gastric cancer
+- **Focal nodular hyperplasia (benign) and hepatoblastoma (malignant)**
+- Pancreatic cancer and cholangiocarcinoma
+
+*Explanation: Because of differing oxygen saturations within the sinusoids, there is a predisposition to focal nodular hyperplasia (benign) and hepatoblastoma (malignant) in the Abernethy malformation.*
+
+---
+
+**66. What is persistence of the ductus venosus the commonest example of?**
+
+- A biliary anomaly
+- A hepatic arterial anomaly
+- **An aberrant portosystemic connection**
+- A venous thrombosis
+
+*Explanation: The commonest aberrant portosystemic connection is probably persistence of the ductus venosus.*
+
+---
+
+**67. Most cases of persistent ductus venosus close spontaneously within how many years?**
+
+- 6 months
+- 1 year
+- **2 years**
+- 5 years
+
+*Explanation: Most cases of persistent ductus venosus close spontaneously within 2 years and rarely require surgical or endovascular closure.*
+
+---
+
+**68. At which Carnegie Stage is the pancreas induced within the endoderm?**
+
+- Carnegie Stage 10
+- **Carnegie Stage 12**
+- Carnegie Stage 15
+- Carnegie Stage 19
+
+*Explanation: The pancreas is induced within the endoderm at Carnegie Stage (CS) 12.*
+
+---
+
+**69. Pancreatic precursors arise within how many locations in the endoderm?**
+
+- One location
+- Two locations
+- **Three locations**
+- Four locations
+
+*Explanation: The pancreatic precursors arise within three locations: the ventral endodermal domain, the VMEL, and a dorsal domain to give rise to the dorsal and ventral pancreatic buds.*
+
+---
+
+**70. By which Carnegie Stage have exocrine lineage cells begun to differentiate in the developing pancreas?**
+
+- CS13
+- CS15
+- CS17
+- **CS19**
+
+*Explanation: Between CS13 and CS19, the multipotent pancreatic progenitors proliferate, and by CS19, cells of the exocrine lineage, the bipotential duct cells and acini cells, have started to differentiate.*
+
+---
+
+**71. At which Carnegie Stage does generation of the endocrine lineage in the pancreas begin?**
+
+- CS15
+- CS19
+- **CS21**
+- CS23
+
+*Explanation: Generation of the endocrine lineage starts at CS21.*
+
+---
+
+**72. From about which post-fertilization days are the ventral and dorsal pancreatic anlagen distinct?**
+
+- Days 20 to 25
+- **Days 26 to 32**
+- Days 35 to 40
+- Days 45 to 50
+
+*Explanation: The pancreas is derived from ventral and dorsal anlagen, which arise from the foregut diametrically opposite each other and are distinct from about day 26 to 32.*
+
+---
+
+**73. The ventral pancreatic duct is an off-shoot of which structure?**
+
+- The duodenum
+- The dorsal pancreatic duct
+- **The bile duct**
+- The stomach
+
+*Explanation: The ventral duct is an off-shoot of the bile duct and maintains this bile duct connection throughout.*
+
+---
+
+**74. The dorsal anlage of the pancreas gives rise to which parts?**
+
+- Only the uncinate process
+- **The head, body, and tail of the pancreas**
+- Only the body and tail
+- The uncinate process and the head
+
+*Explanation: The dorsal anlage will give rise to the head, body, and tail of the pancreas, whereas the ventral bud gives rise to the uncinate process.*
+
+---
+
+**75. What does "uncinate" mean in Latin?**
+
+- Shaped like a hook
+- Shaped like a hook
+- **Shaped like a hook**
+- Shaped like a ring
+
+*Explanation: The uncinate process derives from the ventral bud. "Uncinate" comes from the Latin meaning "shaped like a hook."*
+
+---
+
+**76. At approximately which post-fertilization days does fusion of the pancreatic parenchyma occur?**
+
+- Days 30 to 35
+- Days 40 to 45
+- **Days 50 to 55**
+- Days 60 to 65
+
+*Explanation: Actual fusion of pancreatic parenchyma occurs after a rotation of the ventral duct around the axis of the foregut at about 50 to 55 days.*
+
+---
+
+**77. How can the differential heritage of the ventral and dorsal pancreatic anlagen be identified histologically?**
+
+- By staining for insulin
+- By staining for glucagon
+- **By staining for pancreatic polypeptide (PP)**
+- By staining for somatostatin
+
+*Explanation: The differential heritage can still be evident histologically by staining for pancreatic polypeptide (PP). PP cells localize to the area derived from the ventral anlage, while the dorsal pancreas has larger lobules with PP-poor islets.*
+
+---
+
+**78. Through which duct is the dominant flow of pancreatic secretions from the body and tail preferentially directed?**
+
+- Duct of Santorini (dorsal duct)
+- Accessory pancreatic duct
+- Common hepatopancreatic duct
+- **Duct of Wirsung (ventral duct)**
+
+*Explanation: The dominant flow of pancreatic secretions from the body, tail, and most of the head is preferentially directed through the ventral duct (of Wirsung).*
+
+---
+
+**79. What does the dorsal duct (of Santorini) reputedly drain?**
+
+- The entire pancreas
+- The head and body only
+- The tail of the pancreas only
+- **Only the uncinate process**
+
+*Explanation: The entry of the smaller dorsal duct (of Santorini) is usually more proximal in the final duodenum and reputedly drains only the uncinate process.*
+
+---
+
+**80. What is the final common chamber formed by the bile duct and pancreatic duct called?**
+
+- Duct of Wirsung
+- Duct of Santorini
+- Sphincter of Oddi
+- **Ampulla of Vater**
+
+*Explanation: The final arrangement is a common chamber (the ampulla of Vater), with each duct emptying into it but surrounded by its own sphincter to maintain bile and pancreatic juice separation.*
+
+---
+
+**81. What is the first lineage decision in pancreatic development?**
+
+- Endocrine fate
+- **Exocrine fate, with generation of bipotential ductal cells and acini**
+- Islet cell differentiation
+- Endothelial cell differentiation
+
+*Explanation: The first lineage decision is exocrine fate, with the generation of the bipotential ductal cells and the acini.*
+
+---
+
+**82. What are the first endocrine cells to form in the developing pancreas?**
+
+- Alpha cells (glucagon-producing)
+- Delta cells (somatostatin-producing)
+- PP cells
+- **Beta cells (insulin-producing)**
+
+*Explanation: The first endocrine cells to form are the insulin-producing β-cells.*
+
+---
+
+**83. By which month of fetal development can both insulin and glucagon be detected in the fetal circulation?**
+
+- Second month
+- Third month
+- **Fourth or fifth month**
+- Sixth month
+
+*Explanation: Both insulin and glucagon can be detected in the fetal circulation by the fourth or fifth month of fetal development.*
+
+---
+
+**84. In contrast to liver induction, development of the pancreas requires what regarding BMP signaling?**
+
+- Increased BMP signaling
+- Ectopic BMP signaling
+- Sustained BMP signaling
+- **An absence of BMP signaling**
+
+*Explanation: In contrast to induction of the liver, where BMP signaling is required, development of the pancreas requires an absence of BMP signaling.*
+
+---
+
+**85. What is the effect of ectopic SHH signaling on pancreatic development?**
+
+- It promotes pancreatic differentiation
+- It has no effect on the pancreas
+- **It promotes liver formation while inhibiting pancreatic induction**
+- It induces endocrine cell formation
+
+*Explanation: The absence of SHH signaling is required for pancreatic fate: ectopic SHH promotes liver formation while inhibiting pancreatic induction.*
+
+---
+
+**86. PDX1 is a member of which group of homeodomain transcription factors?**
+
+- LIM homeodomain group
+- POU homeodomain group
+- NK homeodomain group
+- **ParaHox group**
+
+*Explanation: The developing pancreas is defined by PDX1, a member of the ParaHox group of homeodomain transcription factors.*
+
+---
+
+**87. To which cells does PDX1 expression eventually "restrict" in the mature pancreas?**
+
+- Alpha cells
+- Delta cells
+- Ductal cells
+- **Beta cells**
+
+*Explanation: PDX1 is an early marker for pancreatic progenitors that later "restricts" to the β-cells and is required for maintenance of β-cell fate and function.*
+
+---
+
+**88. What is the relationship between PTF1a and PDX1 expression?**
+
+- PTF1a represses PDX1
+- PTF1a is expressed before PDX1
+- They are expressed simultaneously with no interaction
+- **PTF1a is needed to maintain PDX1 expression, providing a positive feedback loop**
+
+*Explanation: PTF1a is also an early marker of pancreatic progenitor cells, expressed slightly later than PDX1, and is needed to maintain PDX1 expression, providing a positive feedback loop.*
+
+---
+
+**89. SOX9 induces expression of FGFR3, which promotes what together with Notch signaling?**
+
+- Endocrine differentiation
+- Acinar cell formation
+- **Proliferation of pancreatic precursors**
+- Apoptosis of ductal cells
+
+*Explanation: SOX9 induces expression of FGFR3, a receptor for FGFs which, together with Notch (and FGF10, BMP, retinoic acid, and epidermal growth factor) signaling promotes proliferation of the pancreatic precursors.*
+
+---
+
+**90. Mutations in which genes are associated with pancreatic agenesis or hypoplasia?**
+
+- JAG1 and HNF6
+- SOX17 and FOXA2
+- **PDX1, PTF1A, and SOX9**
+- NEUROG3 and PAX6
+
+*Explanation: Mutations in PDX1, PTF1A, and SOX9 are all associated with pancreatic agenesis or hypoplasia.*
+
+---
+
+**91. Why do mutations in GATA4 and GATA6 result in pancreatic agenesis?**
+
+- Because they directly suppress PDX1 expression
+- Because they activate PTF1A degradation
+- **Because GATA4/6 normally repress Shh expression in the ventral pancreatic endoderm; their loss leads to ectopic Shh signaling**
+- Because they block Notch signaling
+
+*Explanation: Mutations in GATA4 and 6 can result in pancreatic agenesis because GATA4/6 normally repress Shh expression within the ventral pancreatic endoderm. Their loss leads to ectopic Shh signaling and expansion of the hepatogenic domain.*
+
+---
+
+**92. Which signaling pathway has been identified as the master regulator of the endocrine vs. exocrine lineage fate decision in the pancreas?**
+
+- BMP signaling
+- Wnt signaling
+- TGF-β signaling
+- **Notch signaling**
+
+*Explanation: Notch signaling has been identified as a master regulator of the endocrine/exocrine fate decision switch. Notch promotes ductal cell differentiation while inhibiting endocrine cell differentiation.*
+
+---
+
+**93. What is the effect of TGF-β signaling on pancreatic endocrine development?**
+
+- It promotes endocrine differentiation
+- It promotes beta cell specifically
+- **It inhibits endocrine development**
+- It has no effect on endocrine cells
+
+*Explanation: TGF-β signaling inhibits endocrine development, mediated through intracellular mediators Smad2, Smad3, and their inhibitor Smad7.*
+
+---
+
+**94. Genetic inactivation of Smad2 and Smad3 in the pancreas leads to which result?**
+
+- A reduction in the endocrine compartment
+- Absence of islet cells
+- **A significant expansion of the embryonic endocrine compartment**
+- Increased exocrine cell formation only
+
+*Explanation: Genetic inactivation of Smad2 and Smad3 led to both a significant expansion of the embryonic endocrine compartment and a more robust islet proliferation in adult mouse pancreas after partial pancreatectomy.*
+
+---
+
+**95. All pancreatic endocrine cells arise from which precursor cell?**
+
+- PDX1-expressing cell
+- SOX9-expressing cell
+- **NeuroG3-expressing precursor cell**
+- PTF1a-expressing cell
+
+*Explanation: All the endocrine cells arise from a NeuroG3-expressing precursor cell, which is generated from the ductal tree.*
+
+---
+
+**96. From which weeks and at which peak week is the NeuroG3-expressing cell present in the developing pancreas?**
+
+- Weeks 5 to 25, peaking at week 8
+- Weeks 10 to 40, peaking at week 15
+- **Weeks 7 to 35, peaking at week 12**
+- Weeks 4 to 20, peaking at week 10
+
+*Explanation: The NeuroG3-expressing precursor cell is present from weeks 7 to 35, with numbers peaking at week 12.*
+
+---
+
+**97. Which endocrine cell type do NeuroG3-expressing cells give rise to that produces glucagon?**
+
+- β-cells
+- δ-cells
+- PP cells
+- **α-cells**
+
+*Explanation: The NeuroG3-expressing cells give rise to α-cells (which produce glucagon) and γ-cells (which produce pancreatic polypeptides), as well as β-cells (insulin) and δ-cells (somatostatin).*
+
+---
+
+**98. What is the consequence of deleting NeuroG3 from pancreatic cells?**
+
+- Only beta cells are lost
+- Exocrine cells are also lost
+- Only alpha cells are lost
+- **No pancreatic endocrine cells form**
+
+*Explanation: When NeuroG3 is deleted from cells, no pancreatic endocrine cells form.*
+
+---
+
+**99. In vivo total ablation of β-cells (about 99%) can lead to which phenomenon?**
+
+- Permanent diabetes with no recovery
+- Conversion of ductal cells to β-cells
+- Conversion of δ-cells to β-cells
+- **α-cell conversion to β-cells via a bihormonal cell stage**
+
+*Explanation: In vivo total ablation of β-cells (about 99%) can lead to α-cell conversion to β-cells via a bihormonal cell stage (glucagon positive/insulin positive).*
+
+---
+
+**100. Loss of function mutations in NEUROG3, GLIS3, PAX6, MNX1, NEUROD1, and NKX2.2 in humans are linked to which condition?**
+
+- Type 2 diabetes mellitus
+- Pancreatic agenesis
+- **Permanent neonatal diabetes mellitus**
+- Pancreas divisum
+
+*Explanation: In humans, loss of function mutations in NEUROG3, GLIS3, PAX6, MNX1, NEUROD1, and NKX2.2 are linked to permanent neonatal diabetes mellitus.*
+
+---
+
+**101. What does the word "azygous" mean etymologically?**
+
+- Without a partner
+- Double vessel
+- **Without a yoke (not one of a pair)**
+- Single vessel
+
+*Explanation: Azygous comes from the Greek azugos, from a- "without" + zugon "yoke," referring to the vein not being one of a pair.*
+
+---
+
+**102. What clinical condition results from imperfect pancreatic fusion or persistence of an anterior element of the anlagen?**
+
+- Pancreas divisum
+- Ectopic pancreas
+- **Annular pancreas**
+- Common channel anomaly
+
+*Explanation: Imperfect pancreatic fusion or persistence of an anterior element of the anlagen may lead to an annular pancreas, where there is a ring of tissue surrounding the second part of the duodenum.*
+
+---
+
+**103. Annular pancreas can be associated with which duodenal abnormality?**
+
+- Duodenal duplication
+- Duodenal diverticulum
+- **Duodenal stenosis or atresia**
+- Duodenal web only
+
+*Explanation: Although annular pancreas is thought to be relatively benign, it can be associated with duodenal stenosis or even atresia.*
+
+---
+
+**104. What is pancreas divisum?**
+
+- Absent pancreas
+- Annular pancreas with duodenal stenosis
+- **Failure or imperfect fusion of dorsal and ventral pancreatic ducts leading to most parenchyma draining through the dorsal duct**
+- Ectopic pancreatic tissue in the stomach wall
+
+*Explanation: Failure or imperfect fusion of dorsal and ventral pancreatic ducts leaves most of the parenchyma draining through the entire length of the dorsal duct with complete separation of bile and pancreatic ducts, known as pancreas divisum.*
+
+---
+
+**105. In approximately what proportion of the population can a common channel of bile and pancreatic ducts be defined endoscopically?**
+
+- Less than 1%
+- 1% to 2%
+- **Approximately 5%**
+- 10% to 15%
+
+*Explanation: A common channel can be defined endoscopically in quite a high proportion of the population (~5%), most of whom are asymptomatic.*
+
+---
+
+**106. What is the embryonic period conventionally defined as?**
+
+- First three weeks post-fertilization
+- First four weeks post-fertilization
+- **First eight weeks post-fertilization**
+- First twelve weeks post-fertilization
+
+*Explanation: The first eight weeks post-fertilization are conventionally described as the embryonic period. They involve the formation of the major organs of the body.*
+
+---
+
+**107. During week three of embryonic development, which process generates the three tissue layers?**
+
+- Organogenesis
+- Implantation
+- **Gastrulation**
+- Fertilization
+
+*Explanation: Gastrulation in week three generates the three embryonic tissue layers: the ectoderm, mesoderm, and endoderm.*
+
+---
+
+**108. The liver and pancreas initially arise from the same population of bipotent endodermal cells expressing which markers?**
+
+- PDX1, PTF1A, and HNF4a
+- FOXA1/2, HNF4a, and CK19
+- **Sox17, FoxA, Hhex, and Gata**
+- BMP, FGF, and VEGF
+
+*Explanation: Despite their different functions, the liver and pancreas initially arise from the same population of bipotent endodermal cells (Sox17, FoxA, Hhex, Gata-expressing).*
+
+---
+
+**109. Which transcription factors specify development toward the pancreas lineage?**
+
+- HHEX and FOXA1/2
+- GATA4 and HNF4a
+- **PDX1 and PTF1A**
+- HNF1b and SOX9
+
+*Explanation: Specification into the two different organs is dependent on the differential expression of transcription factors — PDX1 and PTF1A for the pancreas and HHEX, FOXA1/2, GATA4, HNF1b, and HNF4a for the liver.*
+
+---
+
+**110. GATA4 and FOXA1/2 are known as which type of transcription factors?**
+
+- Repressor transcription factors
+- Late differentiation transcription factors
+- Inducible transcription factors
+- **"Pioneer" transcription factors**
+
+*Explanation: GATA4 and FOXA1/2 are known as "pioneer" transcription factors that are pre-assembled at liver-specific genes such as albumin, allowing a rapid induction of liver fate.*
+
+---
+
+**111. What is the difference between gestational age and post-fertilization age?**
+
+- Gestational age adds one week
+- They are exactly the same
+- **Gestational age adds two weeks (measured from the last menstrual period)**
+- Gestational age subtracts one week
+
+*Explanation: Gestational age is measured from the last menstrual period, which effectively adds two weeks to the post-fertilization timeline.*
+
+---
+
+**112. Who performed much of the work detailing anatomy and timing of embryologic events in the Carnegie Institution?**
+
+- Gregor Mendel and Charles Darwin
+- William Harvey and Thomas Willis
+- **Franklin Mall and George Streeter**
+- Louis Pasteur and Robert Koch
+
+*Explanation: Much of the work detailing anatomy and timing of embryologic events was performed by Franklin Mall and later George Streeter in the Carnegie Institution in Baltimore, MD during the first part of the 20th century.*
+
+---
+
+**113. The widely-used Carnegie Staging system covers how many stages?**
+
+- Stages 1 to 10
+- Stages 1 to 15
+- **Stages 1 to 23**
+- Stages 1 to 30
+
+*Explanation: The Carnegie Staging system covers stages 1 to 23, and was developed from work at the Carnegie Institution in Baltimore.*
+
+---
+
+**114. From which aspect of the endodermal diverticulum do hepatoblasts emerge?**
+
+- Caudal aspect
+- Lateral aspect
+- Dorsal aspect
+- **Cranial aspect**
+
+*Explanation: From the cranial aspect of the endodermal diverticulum emerge the primordial liver cells, known as the hepatoblasts.*
+
+---
+
+**115. The liver primordia develops into which type of structure?**
+
+- A spherical structure without a lumen
+- A flat plate of cells
+- **A funnel-shaped structure with a lumen evident throughout**
+- A tubular structure with blind ends
+
+*Explanation: The liver primordia develops into a funnel-shaped structure with a lumen evident throughout, and from about 45 days the thicker-walled gallbladder also becomes evident.*
+
+---
+
+**116. From approximately which post-fertilization day does the thicker-walled gallbladder become evident?**
+
+- Day 28
+- Day 35
+- **Day 45**
+- Day 56
+
+*Explanation: From about 45 days, the thicker-walled gallbladder also becomes evident as part of the developing liver primordia.*
+
+---
+
+**117. What is the basolateral surface of the hepatocyte separated from blood-containing sinusoids by?**
+
+- Tight junctions
+- Bile canaliculi
+- **The cell-free space of Disse**
+- Gap junctions
+
+*Explanation: The basolateral surface abuts the blood-containing sinusoids, but is separated from them by the cell-free space of Disse.*
+
+---
+
+**118. What purpose do gap junctions serve in the hepatocyte apical surface?**
+
+- They form tight seals
+- They transport bile
+- They anchor cells to the extracellular matrix
+- **They can act as conduits between cells**
+
+*Explanation: Gap junctions on the apical surface of hepatocytes can be conduits between cells.*
+
+---
+
+**119. The surface area of both the canaliculus and basolateral surfaces of hepatocytes are increased by the presence of which structures?**
+
+- Tight junctions
+- Desmosomes
+- Gap junctions
+- **Microvilli**
+
+*Explanation: The surface area of both the canaliculus and basolateral surfaces are multiplied by the presence of microvilli.*
+
+---
+
+**120. The bile ductal network continues to develop at the periphery of the liver in the fetal stage in response to which signaling?**
+
+- Wnt signaling
+- BMP signaling
+- FGF signaling
+- **Notch signaling**
+
+*Explanation: The bile ductal network also continues to develop at the periphery of the liver in response to Notch signaling.*
+
+---
+
+**121. Until the late fetal stage, what is characteristic of the bile ducts?**
+
+- They are wide and capacious
+- They show irregular caliber
+- **They are all narrow**
+- They are absent at the periphery
+
+*Explanation: Until the late fetal stage, the bile ducts are all narrow. Then, there is remodeling and enlargement of the ducts at the center of the liver, potentially in response to the onset of bile flow.*
+
+---
+
+**122. What is the intrahepatic portion of the IVC formed from?**
+
+- Left subcardinal vein
+- Vitelline veins
+- **An outgrowth from the right subcardinal vein**
+- Cardinal veins
+
+*Explanation: The intrahepatic portion of the IVC is an outgrowth from the right subcardinal vein subsumed in the evolving liver tissue (from about the sixth week) to anastomose with the hepatic vein confluence.*
+
+---
+
+**123. The development of the hepatic arterial network is considered to occur at what relative time?**
+
+- Very early, before the portal vein
+- Simultaneously with the portal vein
+- Before bile duct formation
+- **A relatively late event, around the time of formation of intrahepatic bile ducts**
+
+*Explanation: The ingrowth and timing of the hepatic arterial network is perceived as a relatively late event around about the time of the formation and expansion from the porta of the intrahepatic bile ducts.*
+
+---
+
+**124. What is the space of Disse?**
+
+- The space within the bile canaliculus
+- The space within the gallbladder
+- A space in the portal tract
+- **The cell-free space between hepatocytes and the sinusoidal wall**
+
+*Explanation: The basolateral surface of hepatocytes abuts the blood-containing sinusoids, but is separated from them by the cell-free space of Disse.*
+
+---
+
+**125. Which growth factors are needed for cholangiocyte cell fate in addition to Notch signaling?**
+
+- Only FGF
+- Only BMP
+- Only Wnt
+- **TGF-β, BMPs, and FGFs**
+
+*Explanation: Other growth factors needed for cholangiocyte cell fate include transforming growth factor (TGF)-β, BMPs, and FGFs.*
+
+---
+
+**126. Which signaling induces hepatocyte induction in contrast to cholangiocyte differentiation?**
+
+- Notch and TGF-β
+- BMP and SHH
+- **FGF, HGF, and OSM signaling**
+- Wnt and VEGF
+
+*Explanation: In contrast to cholangiocyte differentiation, hepatocyte induction requires FGF, HGF, and OSM signaling from surrounding mesodermal cells, including hematopoietic precursors and mesothelial cells.*
+
+---
+
+**127. What is the common origin that has implications for malignant disease in adults, as stated in the chapter?**
+
+- The common origin of hepatocytes and Kupffer cells
+- The common origin of the liver and spleen
+- **The common cellular origin of hepatocytes and cholangiocytes from the bipotential hepatoblast**
+- The common origin of the liver and the adrenal gland
+
+*Explanation: Hepatoblasts are the parental cells for both hepatocytes and cholangiocytes, and this common cellular origin has implications for malignant disease in adults.*
+
+---
+
+**128. During which trimester does hematopoietic maturation become the dominant feature of the liver?**
+
+- First trimester
+- **Second trimester**
+- Third trimester
+- After birth
+
+*Explanation: Hematopoietic cells will form the bulk of the liver, and hematopoietic maturation becomes the dominant feature during the second trimester.*
+
+---
+
+**129. What happens to hematopoiesis in the liver as development progresses toward birth?**
+
+- It increases continuously
+- It stays constant throughout
+- It shifts from bone marrow to the liver
+- **It shifts from the liver to the bone marrow**
+
+*Explanation: The hepatocyte differentiation phase is most pronounced during the fetal stages and is linked to the reducing hematopoietic cell number as hematopoiesis shifts to the bone marrow.*
+
+---
+
+**130. Where is hepatocyte proliferation highest during the fetal stage?**
+
+- In the center of the liver
+- In the left lobe
+- In the caudate lobe
+- **At the periphery, in response to paracrine signals from overlying mesothelial cells**
+
+*Explanation: Proliferation is highest at the periphery in response to paracrine signals from the overlying mesothelial cells.*
+
+---
+
+**131. Genetic inactivation of Smad7 in the pancreas leads to which result?**
+
+- Expansion of the endocrine compartment
+- Increased beta cell proliferation
+- **A significant decrease in the endocrine compartment with little β-cell proliferation after pancreatectomy**
+- No effect on endocrine cells
+
+*Explanation: Genetic inactivation of Smad7 led to a significant decrease in the endocrine compartment with little β-cell proliferation after pancreatectomy in the adult mouse pancreas.*
+
+---
+
+**132. What does activin signaling do in the context of pancreatic endocrine development?**
+
+- It inhibits endocrine cell proliferation
+- It promotes exocrine cell differentiation
+- It has no effect on endocrine cells
+- **It promotes proliferation of the endocrine lineage**
+
+*Explanation: In contrast to TGF-β, activin signaling promotes proliferation of the endocrine lineage.*
+
+---
+
+**133. Which endocrine cell type in the pancreas produces somatostatin?**
+
+- α-cells
+- β-cells
+- γ-cells (PP cells)
+- **δ-cells**
+
+*Explanation: The NeuroG3-expressing cells give rise to β-cells (which secrete insulin) and δ-cells (which secrete somatostatin).*
+
+---
+
+**134. Which endocrine cell type produces pancreatic polypeptides?**
+
+- α-cells
+- β-cells
+- **γ-cells (PP cells)**
+- δ-cells
+
+*Explanation: NeuroG3-expressing cells give rise to α-cells (glucagon) and γ-cells (pancreatic polypeptides).*
+
+---
+
+**135. Forced overexpression of NeuroG3 in the pancreas leads to which consequence?**
+
+- Absence of endocrine cells
+- Increased exocrine differentiation
+- **Cells prematurely committing to an endocrine lineage**
+- Formation only of alpha cells
+
+*Explanation: Forced overexpression of NeuroG3 leads to cells prematurely committing to an endocrine lineage. Which endocrine lineage is formed is dependent on the timing of NeuroG3 overexpression.*
+
+---
+
+**136. What is the result of ectopic expression of PDX1 or PAX4 in alpha cells?**
+
+- They convert to delta cells
+- They convert to PP cells
+- **They convert to β-cells**
+- They undergo apoptosis
+
+*Explanation: Ectopic expression of PDX1 or PAX4 has been shown to induce α-cells or α-cell progenitors to convert to β-cells.*
+
+---
+
+**137. Nkx2.2-null mutant mice develop with which endocrine cell deficiency?**
+
+- No α-cells
+- No δ-cells
+- No PP cells
+- **No β-cells, reduced PP cells, 80% reduction in α-cells**
+
+*Explanation: Nkx2.2-null mutant mice develop with no β-cells, reduced PP cells, an 80% reduction in α-cells, and no effect on δ-cells.*
+
+---
+
+**138. In what way is Pax6 different from NeuroG3 regarding endocrine cell formation?**
+
+- Pax6 is expressed earlier than NeuroG3
+- Pax6 is required for all endocrine cell types
+- Pax6 is not expressed in the pancreas
+- **Pax6 is not absolutely necessary for endocrine formation; null-mutant mice still form endocrine cells, albeit at a reduced rate**
+
+*Explanation: Pax6 is another marker of endocrine lineage, but unlike NeuroG3, it is not absolutely necessary for endocrine formation because null-mutant mice for Pax6 still form endocrine cells, albeit at a reduced rate.*
+
+---
+
+**139. The common channel between bile and pancreatic ducts can predispose to which condition, particularly in Japan?**
+
+- Portal hypertension
+- Pancreatic fistula
+- Duodenal ulcer
+- **Neoplastic change in the bile duct and specifically the gallbladder**
+
+*Explanation: There is a hypothetical relationship between the common channel (allowing reflux of bile and pancreatic secretions) and a predisposition to neoplastic change in the bile duct and specifically the gallbladder, a relationship particularly developed in Japan.*
+
+---
+
+**140. In the Abernethy malformation, what happens when the entire portomesenteric venous flow bypasses the liver?**
+
+- Liver function is severely compromised
+- Hepatic cirrhosis develops rapidly
+- **Liver "function" is preserved because blood supply is entirely derived from arterial sources**
+- Hepatic failure occurs in infancy
+
+*Explanation: When the entire portomesenteric venous flow bypasses the liver, with aplasia of the intrahepatic portal veins, this actually has no real consequence on liver "function" because blood supply is then entirely derived from arterial sources.*
+
+---
+
+**141. What is the metabolic consequence of the Abernethy malformation regarding ammonia?**
+
+- Ammonia levels are low due to hepatic bypass
+- Ammonia is not affected
+- **Venous ammonia levels are usually high with predisposition to encephalopathy**
+- Ammonia is excreted renally in normal amounts
+
+*Explanation: In the Abernethy malformation, venous ammonia levels are usually high, and there is a predisposition to encephalopathy in later life due to "unfiltered" blood entering the systemic venous system.*
+
+---
+
+**142. The initial hepatoblasts are described as what type of cells lining the invaginating diverticulum?**
+
+- Columnar cells
+- Squamous cells
+- **Cuboidal cells**
+- Pseudostratified cells
+
+*Explanation: Initially hepatoblasts are cuboidal cells lining the invaginating diverticulum before they proliferate into a multilayered pseudostratified endodermal structure.*
+
+---
+
+**143. Hepatoblasts ultimately become arranged in plates of how many cells thick that line the vascular sinusoids?**
+
+- One to two cells thick
+- **Initially three to four cells thick**
+- Five to six cells thick
+- Seven to eight cells thick
+
+*Explanation: After delamination, the hepatoblasts migrate into the septum transversum to become arranged in plates, initially three to four cells thick, which line the vascular sinusoids.*
+
+---
+
+**144. Which chromosome is the SOX-9 gene located on?**
+
+- Chromosome 9
+- Chromosome 11
+- Chromosome 15
+- **Chromosome 17**
+
+*Explanation: According to Table 1.1, SOX-9 (SRY-box 9) is located on chromosome 17 and forms DNA-binding proteins needed for cholangiocyte differentiation.*
+
+---
+
+**145. What is the chromosomal location of PDX1?**
+
+- Chromosome 7
+- Chromosome 10
+- **Chromosome 13**
+- Chromosome 15
+
+*Explanation: According to Table 1.1, PDX1 (Pancreas/duodenum homeobox protein 1) is located on chromosome 13 and is a transcription factor for pancreas development.*
+
+---
+
+**146. What is the function of HNF-6 (ONECUT-1) in liver development?**
+
+- Needed for hepatocyte formation
+- Needed for Kupffer cell differentiation
+- Needed for hepatoblast proliferation
+- **Needed for cholangiocyte formation**
+
+*Explanation: According to Table 1.1, HNF-6 (ONECUT-1) is a transcription factor needed for cholangiocyte formation, located on chromosome 15.*
+
+---
+
+**147. LGR-4 (Leucine-rich repeat containing G protein-coupled receptor) is involved in which developmental process?**
+
+- Hepatocyte maturation
+- Hepatoblast differentiation
+- **Gallbladder maturation**
+- Cholangiocyte formation
+
+*Explanation: According to Table 1.1, LGR-4 is involved in gallbladder maturation and is located on chromosome 11.*
+
+---
+
+**148. NOTCH 1-4 receptors regulate interactions between which types of cells?**
+
+- Distant cells via hormonal signaling
+- Immune cells and hepatocytes
+- **Physically adjacent cells**
+- Endocrine and exocrine cells
+
+*Explanation: According to Table 1.1, NOTCH 1-4 are receptors for a signaling network that regulates interactions between physically adjacent cells. The name comes from the mutation producing irregular "notches" in wing tips of Drosophila.*
+
+---
+
+**149. In the bile duct development timeline, the formation of the ductal plate and intrahepatic bile ducts occurs at which post-fertilization period?**
+
+- 20 to 27 days
+- 28 to 41 days
+- 42 to 56 days
+- **57 to 70 days**
+
+*Explanation: According to Figure 1.1, formation of the ductal plate and intrahepatic bile ducts occurs at 57 to 70 days post-fertilization.*
+
+---
+
+**150. What is the role of the canonical Wnt pathway in bile duct and liver development?**
+
+- It promotes ductal plate formation
+- It inhibits hepatocyte proliferation
+- It is required for liver induction
+- **It must be repressed for liver induction; in postnatal liver, it controls growth via cell proliferation and survival**
+
+*Explanation: Repression of the β-catenin (canonical Wnt) pathway is required for liver induction. According to Table 1.1, the canonical Wnt pathway is involved in cell proliferation and survival, while the planar cell polarity aspect coordinates cell polarity and behavior.*

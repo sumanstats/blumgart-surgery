@@ -1,0 +1,1652 @@
+# 09D Advances in the Molecular Characterization of Pancreatic Cancer and Pre-malignant Lesions
+
+Generated with Claude.
+
+**1. Pancreatic ductal adenocarcinoma (PDA) is ranked what number among the most common causes of cancer in both men and women?**
+
+- First
+- Second
+- **Fourth**
+- Sixth
+
+*Explanation: According to the chapter, PDA is the fourth most common cause of cancer in both men and women.*
+
+---
+
+**2. What is the overall survival rate for pancreatic ductal adenocarcinoma (PDA)?**
+
+- No greater than 5%
+- **No greater than 10%**
+- No greater than 20%
+- No greater than 30%
+
+*Explanation: The chapter states that PDA remains a devastating diagnosis with an overall survival rate of no greater than 10%.*
+
+---
+
+**3. Approximately how many Americans were projected to be diagnosed with PDA in 2020?**
+
+- 37,600
+- 47,050
+- **57,600**
+- 67,000
+
+*Explanation: In 2020, approximately 57,600 Americans were expected to be diagnosed with PDA.*
+
+---
+
+**4. Approximately how many Americans were projected to die from PDA in 2020?**
+
+- 27,600
+- 37,050
+- **47,050**
+- 57,600
+
+*Explanation: The chapter states that approximately 47,050 Americans were projected to die from PDA in 2020.*
+
+---
+
+**5. What is the only known cure for pancreatic ductal adenocarcinoma?**
+
+- Chemotherapy
+- Radiation therapy
+- **Surgical resection**
+- Immunotherapy
+
+*Explanation: The chapter clearly states that currently the only cure for PDA is surgical resection.*
+
+---
+
+**6. Approximately what percentage of PDA patients present with resectable disease?**
+
+- 5%
+- 10%
+- 15%
+- **20%**
+
+*Explanation: Unfortunately, only approximately 20% of the patient population is seen with resectable disease.*
+
+---
+
+**7. What are the precursor lesions in the stepwise progression model of pancreatic ductal adenocarcinoma?**
+
+- Intraductal papillary mucinous neoplasms (IPMNs)
+- **Pancreatic intraepithelial neoplasia (PanIN) lesions**
+- Intraductal tubulopapillary neoplasms (ITPNs)
+- Mucinous cystic neoplasms (MCNs)
+
+*Explanation: The progression model of PDA follows a multistep model with definable pathologic markers known as pancreatic intraepithelial neoplasia (PanIN) lesions.*
+
+---
+
+**8. The stepwise progression model of PDA follows a similar model originally developed in which cancer?**
+
+- Gastric carcinogenesis
+- Breast carcinogenesis
+- **Colon carcinogenesis**
+- Lung carcinogenesis
+
+*Explanation: The multistep progression model of PDA follows a similar model first developed in colon carcinogenesis.*
+
+---
+
+**9. Which PanIN grade is characterized as a flat lesion with columnar cells, basally located benign-appearing nuclei, and supranuclear mucin — without cytologic dysplasia?**
+
+- **PanIN-1**
+- PanIN-2
+- PanIN-3
+- PanIN-4
+
+*Explanation: PanIN-1 is a low-grade lesion without cytologic dysplasia, composed of columnar cells with basally located benign-appearing nuclei and supranuclear mucin.*
+
+---
+
+**10. Which PanIN grade is characterized by cytologic abnormalities such as pseudostratification, crowding, or nuclear enlargement?**
+
+- PanIN-1
+- **PanIN-2**
+- PanIN-3
+- PanIN-4
+
+*Explanation: PanIN-2 are intermediate lesions with cytologic abnormalities such as pseudostratification, crowding, or nuclear enlargement.*
+
+---
+
+**11. Which PanIN grade consists of full-thickness dysplasia/carcinoma in situ?**
+
+- PanIN-1
+- PanIN-2
+- **PanIN-3**
+- PanIN-4
+
+*Explanation: PanIN-3 are high-grade lesions consisting of full-thickness dysplasia/carcinoma in situ.*
+
+---
+
+**12. KRAS mutations are frequently found in which PanIN lesions?**
+
+- PanIN-3 only
+- PanIN-2 and PanIN-3 only
+- **Early PanIN lesions, including PanIN-1**
+- Only in invasive PDA, not in PanINs
+
+*Explanation: KRAS mutations are frequently found in early PanIN lesions, including PanIN-1.*
+
+---
+
+**13. Which genes involved in DNA repair mechanisms or TGF-β signaling are altered in the latter stages of the PanIN progression model?**
+
+- KRAS and CDKN2A
+- BRCA2 and FANCC
+- **TP53 and SMAD4**
+- MYC and EGFR
+
+*Explanation: Genes involved in DNA repair or TGF-β signaling, such as TP53 and SMAD4, are altered in the latter stages of the progression model.*
+
+---
+
+**14. On average, how many years does it take for a parental PDAC clone to give rise to a metastatic lesion?**
+
+- 2.5 years
+- 4.2 years
+- **6.8 years**
+- 10.3 years
+
+*Explanation: It has been estimated that it takes an average of 6.8 years for a parental PDAC clone to give rise to a given metastatic lesion.*
+
+---
+
+**15. What does intratumoral heterogeneity in PDA refer to?**
+
+- Multiple primary tumors
+- Different histologic grades within a tumor
+- **Subclones created by additional genetic changes after PDA formation**
+- Variation in tumor stroma composition
+
+*Explanation: Once a PDA has formed, additional genetic changes continue to occur with time, thereby creating subclones (intratumoral heterogeneity) that seed metastases.*
+
+---
+
+**16. Which type of IPMN is more likely to involve the head and uncinate process of the pancreas and is associated with lower-grade dysplasia?**
+
+- Main duct type IPMN
+- Mixed type IPMN
+- **Branch duct type IPMN**
+- Colloid type IPMN
+
+*Explanation: Branch duct type IPMNs are more likely to involve the head and uncinate process of the pancreas and are associated with lower-grade dysplasia and fewer invasive carcinomas.*
+
+---
+
+**17. Approximately what percentage of resected IPMNs harbor an invasive adenocarcinoma?**
+
+- 10%–20%
+- 20%–25%
+- **30%–40%**
+- 50%–60%
+
+*Explanation: Approximately 30% to 40% of resected IPMNs harbor an invasive adenocarcinoma.*
+
+---
+
+**18. Adenocarcinoma arising within IPMNs is most strongly associated with which type of IPMN?**
+
+- Branch duct type IPMN
+- **Main duct type IPMN**
+- Mixed type IPMN
+- Intestinal type IPMN
+
+*Explanation: Adenocarcinoma is most strongly associated with main duct IPMNs.*
+
+---
+
+**19. Approximately what proportion of invasive carcinomas arising within IPMNs are colloid (mucinous) carcinomas?**
+
+- One-quarter
+- One-third
+- **One-half**
+- Two-thirds
+
+*Explanation: Approximately half of invasive carcinomas arising within IPMNs are so-called colloid (mucinous) carcinomas.*
+
+---
+
+**20. What is the 5-year survival rate of colloid carcinomas associated with IPMNs?**
+
+- 20%
+- 40%
+- **60%**
+- 80%
+
+*Explanation: Colloid carcinomas associated with IPMNs have a relatively good prognosis with a 5-year survival of 60%.*
+
+---
+
+**21. What is an important size-based feature that distinguishes PanINs from IPMNs?**
+
+- PanINs are larger than IPMNs
+- Both are macroscopic lesions
+- **PanINs are microscopic lesions and IPMNs are macroscopic**
+- PanINs are macroscopic and IPMNs are microscopic
+
+*Explanation: An important feature distinguishing the two lesions is that PanINs are microscopic lesions while IPMNs are macroscopic.*
+
+---
+
+**22. Activating mutations in GNAS have been found in what percentage of IPMNs?**
+
+- More than 30%
+- More than 50%
+- **More than 70%**
+- More than 90%
+
+*Explanation: Activating mutations in GNAS have been found in more than 70% of IPMNs.*
+
+---
+
+**23. In contrast to PanINs, IPMNs harbor KRAS mutations in what proportion of analyzed cases?**
+
+- All cases
+- Two-thirds of cases
+- **Only half of cases**
+- Less than 10% of cases
+
+*Explanation: In contrast to PanINs, IPMNs harbor KRAS mutations in only half of analyzed cases.*
+
+---
+
+**24. Abnormalities in SMAD4 are present in what percentage of PDA?**
+
+- 15%
+- 30%
+- **55%**
+- 70%
+
+*Explanation: Abnormalities in SMAD4, which are present in 30% of PanIN-3 and 55% of PDA, are rare in IPMNs.*
+
+---
+
+**25. GNAS mutations in IPMNs are more common in which subtypes?**
+
+- Pancreaticobiliary and oncocytic types
+- Tubular and pancreaticobiliary types
+- **Gastric and intestinal types**
+- Oncocytic and tubular types
+
+*Explanation: GNAS mutations are more common in gastric and intestinal type IPMNs than in pancreaticobiliary type IPMNs.*
+
+---
+
+**26. Which marker of intestinal differentiation is expressed by most IPMNs, particularly those associated with an invasive colloid carcinoma?**
+
+- MUC1
+- MUC2
+- **CDX2**
+- MUC5AC
+
+*Explanation: Most IPMNs express CDX2, a marker of intestinal differentiation, in particular IPMNs associated with an invasive colloid carcinoma.*
+
+---
+
+**27. CDX2 expression in IPMNs is generally associated with expression of which mucin?**
+
+- MUC1
+- **MUC2**
+- MUC5AC
+- MUC6
+
+*Explanation: CDX2 expression in IPMNs is generally associated with expression of MUC2, an intestinal epithelial apomucin.*
+
+---
+
+**28. Absence of CDX2 expression in IPMNs is usually associated with expression of which mucin?**
+
+- MUC2
+- MUC5AC
+- MUC6
+- **MUC1**
+
+*Explanation: The absence of CDX2 expression is usually associated with expression of MUC1, a biliary apomucin, and concomitant lack of expression of MUC2.*
+
+---
+
+**29. In the intestinal pathway of pancreatic carcinogenesis, CDX2- and MUC2-expressing IPMNs progress to which type of carcinoma?**
+
+- Tubular adenocarcinomas with poor prognosis
+- **Colloid carcinomas with better prognosis**
+- Conventional ductal adenocarcinomas with poor prognosis
+- Mucinous cystic neoplasms with variable prognosis
+
+*Explanation: The intestinal pathway gives rise to CDX2- and MUC2-expressing IPMNs that progress to colloid carcinomas, which have a better prognosis.*
+
+---
+
+**30. MUC5AC overexpression in PDAC is associated with what prognosis?**
+
+- Improved prognosis
+- Neutral/no effect on prognosis
+- **Poorer prognosis**
+- Better response to chemotherapy
+
+*Explanation: Overexpression of MUC5AC relays a poorer prognosis in PDAC.*
+
+---
+
+**31. When were ITPNs first described as a distinct diagnostic entity in the WHO classification?**
+
+- 2005
+- 2009
+- **2010**
+- 2015
+
+*Explanation: ITPNs were first described in 2009 and included as a distinct diagnostic entity in the 2010 WHO classification of tumors of the gastrointestinal tract.*
+
+---
+
+**32. What percentage of intraductal neoplasms of the pancreas do ITPNs account for?**
+
+- 1%
+- **3%**
+- 5%
+- 10%
+
+*Explanation: ITPNs account for 3% of intraductal neoplasms of the pancreas.*
+
+---
+
+**33. Invasive carcinoma is identified in what percentage of ITPN cases?**
+
+- Up to 30%
+- Up to 50%
+- **Up to 70%**
+- Up to 90%
+
+*Explanation: An invasive carcinoma is identified in up to 70% of ITPN cases.*
+
+---
+
+**34. What is the 5-year overall survival rate for ITPN with invasive carcinoma?**
+
+- 21%
+- 45%
+- **71%**
+- 90%
+
+*Explanation: The prognosis of ITPNs with invasive carcinoma is better overall than ductal adenocarcinoma, with a 5-year overall survival rate of 71% in ITPN compared to 21% in PDAC.*
+
+---
+
+**35. KRAS mutations are seen in what percentage of ITPNs?**
+
+- 27%
+- 50%
+- 80%
+- **7.1%**
+
+*Explanation: Mutations in KRAS are seen in 7.1% of ITPNs, whereas they are observed in 80% of IPMNs.*
+
+---
+
+**36. Somatic mutations in which gene have been described in 27% of ITPNs but are typically absent in IPMNs?**
+
+- KRAS
+- GNAS
+- **PIK3CA**
+- TP53
+
+*Explanation: Somatic mutations in PIK3CA have been described in 27% of ITPNs, whereas these alterations are typically absent in IPMNs.*
+
+---
+
+**37. What percentage of all intraductal neoplasms of the pancreas do IOPNs account for?**
+
+- 1.5%
+- 3%
+- **4.5%**
+- 7%
+
+*Explanation: IOPNs account for 4.5% of all intraductal neoplasms of the pancreas.*
+
+---
+
+**38. In which WHO classification were IOPNs reclassified as a distinct diagnostic entity separate from IPMNs?**
+
+- 2010 WHO classification
+- 2012 WHO classification
+- 2015 WHO classification
+- **2018 WHO classification**
+
+*Explanation: Advancements in understanding of the molecular and immunophenotypic features of IOPNs led to their reclassification as a distinct diagnostic entity in the 2018 WHO classification.*
+
+---
+
+**39. What novel oncogenic fusion has been found in a mutated subset of intraductal pancreatic neoplasms with oncocytic morphology?**
+
+- SND1-BRAF
+- EML4-ALK
+- **DNAJB1-PRKACA**
+- BCR-ABL
+
+*Explanation: The novel DNAJB1-PRKACA oncogenic fusion has been found in a mutated subset of intraductal pancreatic neoplasms with oncocytic morphology.*
+
+---
+
+**40. The DNAJB1-PRKACA fusion was first described in which type of cancer?**
+
+- Pancreatic ductal adenocarcinoma
+- Cholangiocarcinoma
+- **Fibrolamellar variant of hepatocellular carcinoma**
+- Acinar cell carcinoma of the pancreas
+
+*Explanation: The novel DNAJB1-PRKACA fusion was first described in the fibrolamellar variant of hepatocellular carcinoma and had previously been considered diagnostic of this entity.*
+
+---
+
+**41. What percentage of IOPNs exhibit diffuse labeling for MUC1?**
+
+- 29%
+- 40%
+- **50%**
+- 61%
+
+*Explanation: IOPNs exhibit diffuse labeling for MUC1 in 50% of cases.*
+
+---
+
+**42. What percentage of IOPNs label for HepPar-1, a marker of hepatocellular differentiation?**
+
+- 29%
+- 50%
+- **61%**
+- 80%
+
+*Explanation: Interestingly, 61% of IOPNs label for HepPar-1, a marker of hepatocellular differentiation.*
+
+---
+
+**43. Invasive carcinoma is associated with IOPNs in approximately what percentage of cases?**
+
+- 10%
+- 20%
+- **30%**
+- 70%
+
+*Explanation: Invasive carcinoma is associated with IOPNs in about 30% of cases.*
+
+---
+
+**44. What is the 5-year survival rate for invasive carcinoma associated with IOPNs?**
+
+- 40%
+- 60%
+- 80%
+- **Approaching 100%**
+
+*Explanation: Invasive carcinoma associated with IOPNs has a relatively good prognosis with a 5-year survival approaching 100%.*
+
+---
+
+**45. On average, how many genetic alterations does an individual pancreatic tumor contain?**
+
+- 12
+- 30
+- **63**
+- 120
+
+*Explanation: An individual pancreatic tumor contains on average 63 genetic alterations, primarily point mutations.*
+
+---
+
+**46. Which of the following is NOT one of the most common numeric chromosomal abnormalities in pancreatic cancer?**
+
+- Loss of chromosome 6
+- Loss of chromosome 18
+- **Loss of chromosome 7**
+- Loss of chromosome 12
+
+*Explanation: The most common numeric abnormalities in pancreatic cancer include losses of chromosomes 6, 12, 13, and 18 and gains (not losses) of chromosomes 7 and 20.*
+
+---
+
+**47. What technique identifies areas of gross chromosomal loss using polymorphic microsatellite markers?**
+
+- Comparative genome hybridization
+- Fluorescence in situ hybridization
+- **Allelotyping**
+- Southern blotting
+
+*Explanation: Allelotyping identifies areas of gross chromosomal loss by using polymorphic microsatellite markers to determine regions of genomic loss compared with matched healthy tissues (LOH analysis).*
+
+---
+
+**48. A landmark allelotype analysis of pancreatic cancers was performed using approximately how many pancreatic cancer xenografts and microsatellite markers?**
+
+- 40 xenografts and 200 markers
+- **80 xenografts and 386 markers**
+- 150 xenografts and 500 markers
+- 200 xenografts and 1000 markers
+
+*Explanation: A landmark allelotype analysis was performed using approximately 80 pancreatic cancer xenografts and 386 microsatellite markers.*
+
+---
+
+**49. What does comparative genome hybridization (CGH) identify?**
+
+- Point mutations in specific genes
+- Epigenetic changes in promoter regions
+- **Genomic amplifications and deletions**
+- mRNA expression patterns
+
+*Explanation: Comparative genome hybridization (CGH) identifies genomic amplifications and deletions by differentially labeling normal and tumor genomic sequences with different dyes.*
+
+---
+
+**50. What is the resolution range of array CGH?**
+
+- 5,000 to 300 kb
+- 1,000 to 100 kb
+- **500 to 30 kb**
+- 100 to 10 kb
+
+*Explanation: The resolution of array CGH ranges from 500 to 30 kb, permitting the precise mapping of deletion and amplicon boundaries.*
+
+---
+
+**51. Array CGH analysis identified amplification of which oncogene on 8q in pancreatic cancers?**
+
+- KRAS
+- EGFR
+- **c-MYC**
+- AKT2
+
+*Explanation: Array CGH analysis identified amplifications including c-MYC (8q), EGFR (7p), KRAS (12p), AKT2 (19q), and NCOA3 (20q).*
+
+---
+
+**52. What are the two subclasses of cancer cell lines identified by Calhoun and colleagues using high-density single-nucleotide polymorphism arrays?**
+
+- Stable and unstable genotypes
+- **Original chromosomal instability (CIN) and holey CIN genotypes**
+- Simple and complex chromosomal genotypes
+- Low-grade and high-grade instability genotypes
+
+*Explanation: Calhoun and colleagues found two subclasses of cancer cell lines: original chromosomal instability (CIN) and holey CIN genotypes.*
+
+---
+
+**53. What functional class of genes acts as an "accelerator" in cancer development?**
+
+- Tumor suppressor genes
+- Caretaker genes
+- **Oncogenes**
+- Repair genes
+
+*Explanation: Protooncogenes in a mutated form known as oncogenes become the "accelerators," and these "go signals" are often critical in transforming normal cells to a malignant phenotype.*
+
+---
+
+**54. Which family of caretaker genes is recognized as disrupted in pancreatic cancer and is involved in homologous recombination-based DNA damage repair?**
+
+- BRCA gene family
+- MLH gene family
+- **Fanconi anemia complementation group genes**
+- CDK gene family
+
+*Explanation: A family of caretaker genes recognized as disrupted in pancreatic cancer are genes of the Fanconi anemia complementation group, which are involved in homologous recombination-based DNA damage repair.*
+
+---
+
+**55. BRCA2 is a member of which DNA repair pathway and is mutated in a subset of familial pancreatic cancers?**
+
+- Nucleotide excision repair pathway
+- Mismatch repair pathway
+- **Fanconi anemia DNA repair pathway**
+- Base excision repair pathway
+
+*Explanation: BRCA2 is a member of the Fanconi anemia DNA repair pathway and is mutated in a subset of familial pancreatic cancers.*
+
+---
+
+**56. Which two genes in the Fanconi anemia core complex were discovered to have somatic mutations (though rare) in sporadic pancreatic cancers?**
+
+- FANCA and FANCB
+- **FANCC and FANCG**
+- FANCD and FANCE
+- FANCF and FANCH
+
+*Explanation: Somatic mutations of two genes in the core complex, FANCC and FANCG, were discovered but are rare in sporadic pancreatic cancers.*
+
+---
+
+**57. What is the most commonly altered oncogene in pancreatic cancer?**
+
+- MYC
+- EGFR
+- BRAF
+- **KRAS**
+
+*Explanation: The KRAS oncogene on chromosome 12p is the most commonly altered oncogene, with as many as 90% of pancreatic cancers containing mutations on codons 12, 13, and 61.*
+
+---
+
+**58. On which chromosome is the KRAS oncogene located?**
+
+- 9p
+- 17p
+- 18q
+- **12p**
+
+*Explanation: The KRAS oncogene is located on chromosome 12p.*
+
+---
+
+**59. Approximately what percentage of PanIN-1 lesions harbor KRAS mutations?**
+
+- 10%
+- **30%**
+- 50%
+- 70%
+
+*Explanation: KRAS mutation happens early in the pathway to oncogenesis, with approximately 30% of PanIN-1 lesions harboring KRAS mutations.*
+
+---
+
+**60. KRAS activating mutations impair which intrinsic activity of the KRAS gene product?**
+
+- ATPase activity
+- Phosphatase activity
+- **GTPase activity**
+- Kinase activity
+
+*Explanation: Activating mutations impair the intrinsic guanosine triphosphate (GTP)ase activity of the KRAS gene product, resulting in a protein that is constitutively active in intracellular signal transduction.*
+
+---
+
+**61. Pancreatic cancers with wild-type KRAS rarely harbor mutations in which alternative gene of the RAS/RAF/MAPK pathway?**
+
+- MEK
+- ERK
+- **BRAF**
+- PI3K
+
+*Explanation: Rarely, pancreatic cancers with wild-type KRAS genes harbor point mutations of BRAF, another gene in the RAS/RAF/MAPK signaling pathway, explaining why mutations of these genes occur in mutually exclusive patterns.*
+
+---
+
+**62. Overexpression of oncogenic KRAS increases production of which growth factor that promotes angiogenesis?**
+
+- PDGF
+- EGF
+- FGF
+- **VEGF**
+
+*Explanation: Oncogenic overexpression of KRAS increases production of angiogenesis-promoting CXC chemokines and vascular endothelial growth factor (VEGF) from human pancreatic duct epithelial cells.*
+
+---
+
+**63. MYC overexpression occurs in approximately what percentage of pancreatic cancers?**
+
+- 20%–30%
+- 30%–40%
+- **50%–60%**
+- 70%–80%
+
+*Explanation: Overexpression of MYC transcripts occurs in approximately 50% to 60% of pancreatic cancers.*
+
+---
+
+**64. NTRK gene fusions have been detected in what percentage of pancreatic adenocarcinomas?**
+
+- 5%
+- 3%
+- 2%
+- **Less than 1%**
+
+*Explanation: NTRK gene fusions have also been detected in less than 1% of pancreatic adenocarcinomas.*
+
+---
+
+**65. What is the most commonly inactivated gene in pancreatic cancers, occurring in 90% of patients?**
+
+- TP53
+- SMAD4
+- KRAS
+- **CDKN2A**
+
+*Explanation: CDKN2A, on chromosome 9p, is the most commonly inactivated gene in pancreatic cancers, occurring in 90% of patients.*
+
+---
+
+**66. CDKN2A inhibits cell cycle progression through which checkpoint?**
+
+- G2-M checkpoint
+- S-phase checkpoint
+- **G1-S checkpoint**
+- Spindle assembly checkpoint
+
+*Explanation: CDKN2A belongs to the cyclin-dependent kinase inhibitor family and inhibits cell cycle progression through the G1-S checkpoint mediated by cyclin-dependent kinases such as CDK4 and CDK6.*
+
+---
+
+**67. What proportion of CDKN2A inactivation in pancreatic cancer occurs by homozygous deletion?**
+
+- 10%–15%
+- **40%**
+- 55%
+- 70%
+
+*Explanation: Homozygous deletions (40%), intragenic mutation with loss of the second allele (40%), and epigenetic silencing by promoter methylation (10% to 15%) all contribute to CDKN2A gene inactivation.*
+
+---
+
+**68. CDKN2A homozygous deletions encompass which gene in approximately 30% of pancreatic cancers, offering therapeutic potential?**
+
+- BRCA2
+- STK11
+- **MTAP (methylthioadenosine phosphorylase)**
+- RB1
+
+*Explanation: The CDKN2A homozygous deletions encompass the MTAP gene in approximately 30% of pancreatic cancers, which offers potential therapeutic benefit because targeted therapies have been developed that specifically inhibit the growth of MTAP-deficient cells.*
+
+---
+
+**69. At which PanIN stage does loss of nuclear p16 protein expression first become apparent in the majority of lesions?**
+
+- PanIN-1A and PanIN-1B (30%)
+- PanIN-2 (55%)
+- **PanIN-3 (71%)**
+- It is not seen until invasive cancer
+
+*Explanation: 30% of PanIN-1A and PanIN-1B, 55% of PanIN-2, and 71% of PanIN-3 lesions show loss of nuclear p16 protein expression, indicating progressive loss throughout PanIN stages.*
+
+---
+
+**70. What percentage of pancreatic cancers contain an inactivation of the TP53 gene?**
+
+- 55%
+- 70%
+- **80%**
+- 90%
+
+*Explanation: As many as 80% of pancreatic cancers contain an inactivation of the TP53 gene on chromosome 17p.*
+
+---
+
+**71. TP53 accumulation by immunohistochemistry is seen only in which PanIN stage, consistent with it being a "late" genetic event?**
+
+- PanIN-1
+- PanIN-2
+- **PanIN-3**
+- All PanIN stages equally
+
+*Explanation: TP53 accumulation is seen only in the advanced PanIN-3 lesions, consistent with TP53 being a "late" genetic event in pancreatic cancer progression.*
+
+---
+
+**72. On which chromosome is the SMAD4 gene located?**
+
+- 9p
+- 12p
+- 17p
+- **18q21**
+
+*Explanation: Inactivation of the SMAD4 gene occurs on chromosome 18q21 in 55% of pancreatic cancers.*
+
+---
+
+**73. SMAD4 gene inactivation by homozygous deletion occurs in what percentage of pancreatic cancers?**
+
+- 10%
+- 25%
+- **30%**
+- 55%
+
+*Explanation: Inactivation of SMAD4 occurs in 55% of pancreatic cancers by homozygous deletions (30%) or by intragenic mutations and loss of the second allele (25%).*
+
+---
+
+**74. Loss of SMAD4 function interferes with signaling cascades downstream of which receptor family?**
+
+- EGFR family receptors
+- Insulin receptor family
+- **TGF family of cell surface receptors**
+- Notch receptors
+
+*Explanation: Loss of SMAD4 function interferes with intracellular signaling cascades downstream of the TGF family of cell surface receptors, leading to decreased growth inhibition and uncontrolled proliferation.*
+
+---
+
+**75. Examination of resected tumor specimens found that SMAD4 inactivation portends what clinical outcome?**
+
+- Improved prognosis and limited metastasis
+- No effect on prognosis
+- **Poorer prognosis and greater potential to metastasize**
+- Better response to chemotherapy
+
+*Explanation: Examination of resected tumor specimens found that SMAD4 inactivation portends a poorer prognosis and greater potential to metastasize.*
+
+---
+
+**76. DNA-level abnormalities in the SWI/SNF complex gene member ARID1A have been reported in approximately what percentage of PDAs?**
+
+- 5%
+- 8%
+- **14%**
+- 25%
+
+*Explanation: DNA-level abnormalities in ARID1A have been reported in approximately 14% of PDAs in provisional TCGA data.*
+
+---
+
+**77. Abnormalities in ARID1A have been associated with upregulation of which cellular pathway?**
+
+- MAPK pathway
+- Hedgehog signaling pathway
+- WNT/NOTCH pathway
+- **Phosphoinositide-3-kinase (PI3K) pathway**
+
+*Explanation: Abnormalities in ARID1A have been associated with upregulation of the PI3K pathway as well as sensitivity to PI3K and AKT inhibition.*
+
+---
+
+**78. Mixed-lineage leukemia 3 (MLL3/KMT2C) is recurrently mutated in approximately what percentage of pancreatic carcinoma?**
+
+- 5%
+- 10%
+- **18%**
+- 27%
+
+*Explanation: MLL3 (KMT2C) functions as a tumor suppressor and is recurrently mutated in approximately 18% of pancreatic carcinoma.*
+
+---
+
+**79. Loss of function of the DNA damage repair genes (MLH1, hMSH2) has been reported to occur in approximately what percentage of sporadic, nonfamilial pancreatic cancer cases?**
+
+- 5%
+- 10%
+- **17%**
+- 25%
+
+*Explanation: Loss of function of MLH1 and hMSH2 occurs in a small subset of pancreatic cancers in the familial setting but has been reported to occur in approximately 17% of sporadic, nonfamilial cases.*
+
+---
+
+**80. What is the special histologic term for microsatellite instability cancers in the pancreas to distinguish them from common PDAC?**
+
+- Adenosquamous carcinoma
+- Signet ring cell carcinoma
+- **Medullary cancer**
+- Undifferentiated carcinoma
+
+*Explanation: This uncommon MSI variant has been termed medullary cancer to distinguish it from the more common PDAC.*
+
+---
+
+**81. Telomeres are composed of which hexameric repeat sequence?**
+
+- AAGGTT
+- AACCGG
+- **TTAGGG**
+- TTGGAA
+
+*Explanation: Telomeres are hexameric repeats of the sequence TTAGGG at the ends of chromosome arms that confer stability to chromosomes during cell division.*
+
+---
+
+**82. Greater than what percentage of the lowest grade PanIN lesions show marked shortening of telomeres compared with normal duct epithelium?**
+
+- 50%
+- 70%
+- **90%**
+- 99%
+
+*Explanation: Greater than 90% of the lowest grade PanIN lesions show marked shortening of telomeres, compared with normal duct epithelium, making telomere abnormalities among the earliest genetic aberrations.*
+
+---
+
+**83. Epigenetic silencing in cancer predominantly occurs through hypermethylation of what region of tumor suppressor genes?**
+
+- Exon 1
+- Intron regions
+- 3' UTR
+- **CpG islands in the promoter region**
+
+*Explanation: Epigenetic silencing occurs predominantly through hypermethylation of so-called CpG islands in the promoter region of tumor suppressor genes, leading to transcriptional abrogation.*
+
+---
+
+**84. Aberrant methylation of genes in pancreatic cancer tends to occur in which stage of PanIN lesions?**
+
+- PanIN-1 only
+- **Intermediate- or late-stage lesions (PanIN-2 and PanIN-3)**
+- Early lesions (PanIN-1) only
+- Equally across all PanIN stages
+
+*Explanation: Aberrant methylation of genes is found in precursor lesions and tends to occur in intermediate- or late-stage lesions (PanIN-2 and PanIN-3).*
+
+---
+
+**85. Which genes showing preferential hypomethylation are usually overexpressed in pancreatic cancers?**
+
+- CDKN2A and E-cadherin
+- SOCS1 and BRCA2
+- **SERPINB5, S100P, MSLN, PSCA, and CLDN4**
+- TP53 and SMAD4
+
+*Explanation: Genes showing preferential hypomethylation in pancreatic cancers (SERPINB5, S100P, MSLN, PSCA, and CLDN4) are usually overexpressed in the cancers compared with healthy pancreas.*
+
+---
+
+**86. According to Jones and colleagues, what percentage of all pancreatic cancer genomes surveyed had a genetic abnormality in 12 core signaling pathways?**
+
+- 30%–50%
+- 50%–70%
+- **67%–100%**
+- Greater than 99%
+
+*Explanation: Jones and colleagues reported that 67% to 100% of all pancreatic cancer genomes surveyed had a genetic abnormality in 12 core signaling pathways and processes.*
+
+---
+
+**87. Which of the following is NOT listed as one of the 12 core signaling pathways disrupted in pancreatic cancer?**
+
+- KRAS signaling
+- Hedgehog signaling
+- WNT/NOTCH signaling
+- **mTOR signaling**
+
+*Explanation: The 12 core signaling pathways include apoptosis, DNA damage control, G1-S phase regulation, Hedgehog signaling, hemophilic cell adhesion, integrin signaling, c-JUN N-terminal kinase signaling, KRAS signaling, invasion regulation, small GTPase-dependent signaling, TGFB signaling, and WNT/NOTCH signaling — mTOR is not listed.*
+
+---
+
+**88. Genetic aberrations in the axon guidance pathway have been identified in genes of which pathway in pancreatic cancer?**
+
+- PI3K/AKT pathway
+- WNT/NOTCH pathway
+- **SLIT/ROBO pathway**
+- Hedgehog pathway
+
+*Explanation: Genetic aberrations in the axon guidance pathway genes have been identified in genes in the SLIT/ROBO pathway (mutations and deletions in SLIT, ROBO1, and ROBO2).*
+
+---
+
+**89. Approximately what percentage of pancreatic cancers show familial aggregation?**
+
+- 5%
+- **10%**
+- 20%
+- 30%
+
+*Explanation: Approximately 10% of pancreatic cancers show familial aggregation.*
+
+---
+
+**90. The presence of two first-degree family members with pancreatic cancer confers what increased risk in other first-degree relatives?**
+
+- 2- to 3-fold
+- 3- to 5-fold
+- **6- to 18-fold**
+- 32- to 57-fold
+
+*Explanation: The presence of two first-degree family members with pancreatic cancer confers a 6- to 18-fold increased risk in other first-degree relatives.*
+
+---
+
+**91. What is the increased risk of pancreatic cancer in families with three or more first-degree relatives with pancreatic cancer?**
+
+- 6- to 18-fold
+- 18- to 25-fold
+- **32- to 57-fold**
+- 60- to 80-fold
+
+*Explanation: The risk is increased 32- to 57-fold in families with three or more first-degree relatives with pancreatic cancer.*
+
+---
+
+**92. Which cancer syndrome is characterized as a rare, autosomal recessive cancer syndrome resulting from mutations in FANC/BRCA complementation groups?**
+
+- Lynch syndrome
+- Peutz-Jeghers syndrome
+- FAMM syndrome
+- **Fanconi anemia**
+
+*Explanation: Fanconi anemia is characterized as a rare, autosomally recessive cancer syndrome that results initially from a mutation in one of the multiple FANC/BRCA complementation groups in the FANC/BRCA pathway.*
+
+---
+
+**93. BRCA genes play a critical role in DNA repair via which repair pathway?**
+
+- Nucleotide excision repair
+- Base excision repair
+- Mismatch repair
+- **RAD51 repair pathway**
+
+*Explanation: The BRCA genes play a critical role in DNA repair via RAD51 repair pathways.*
+
+---
+
+**94. Which drug used in preclinical studies caused regression of Fanconi-deficient tumors in xenografted mice?**
+
+- Cisplatin
+- **Mitomycin C**
+- Gemcitabine
+- Doxorubicin
+
+*Explanation: Xenografted mice with FANCC-deficient isogenic cell lines experienced regression of tumor after a single dose of mitomycin C intrastrand cross-linking drug.*
+
+---
+
+**95. PARP inhibitors targeting the FANC-BRCA pathway have been shown to lead to what therapeutic concept?**
+
+- Oncogene addiction
+- Tumor dormancy
+- **Synthetic lethality**
+- Immunogenic cell death
+
+*Explanation: Targeting the FANC-BRCA pathway with PARP inhibitors has been shown to lead to synthetic lethality, creating a convenient and fortuitous therapeutic window.*
+
+---
+
+**96. PALB2 (formerly known as FANCN) was discovered to be mutated in how many of 96 familial pancreatic cancers?**
+
+- 1 of 96
+- 2 of 96
+- **3 of 96**
+- 5 of 96
+
+*Explanation: PALB2 was discovered to be mutated in 3 of 96 familial pancreatic cancers, each producing a different stop codon.*
+
+---
+
+**97. After BRCA2, which gene is considered the second most commonly mutated gene in hereditary pancreatic cancer?**
+
+- FANCC
+- FANCG
+- KRAS
+- **PALB2**
+
+*Explanation: This information suggests that next to BRCA2, PALB2 is the second most commonly mutated gene in hereditary pancreatic cancer.*
+
+---
+
+**98. What percentage of apparently sporadic pancreatic cancer patients harbor germline mutations in the BRCA2 gene, particularly in the Ashkenazi Jewish population?**
+
+- 3%
+- 5%
+- **7%**
+- 10%
+
+*Explanation: Of apparently sporadic pancreatic cancer patients, 7% harbor germline mutations in the BRCA2 gene, and this low-penetrance pattern is peculiar to cancers arising in the Ashkenazi Jewish population.*
+
+---
+
+**99. Familial atypical mole and multiple melanoma syndrome (FAMM) results from the microdeletion of which gene?**
+
+- STK11
+- BRCA2
+- PRSS1
+- **CDKN2 (particularly p16INK4a)**
+
+*Explanation: FAMM results from the microdeletion of CDKN2 on chromosome 9p21.3, particularly p16INK4a.*
+
+---
+
+**100. What is the approximate lifetime risk of PDA in patients with FAMM syndrome?**
+
+- 5%
+- 10%
+- **20%**
+- 40%
+
+*Explanation: Patients with FAMM have an approximately 80% lifetime risk of melanoma and a 20% lifetime risk of PDA.*
+
+---
+
+**101. Peutz-Jeghers syndrome (PJS) is an autosomal dominant syndrome caused by mutations in which tumor suppressor gene?**
+
+- CDKN2A
+- BRCA2
+- MLH1
+- **STK11 (LKB1)**
+
+*Explanation: PJS is an autosomal dominant syndrome caused by mutations of the tumor suppressor STK11 (LKB1).*
+
+---
+
+**102. PDA develops in approximately what fraction of patients with Peutz-Jeghers syndrome by age 75 years?**
+
+- One-tenth
+- One-eighth
+- One-sixth
+- **One-quarter**
+
+*Explanation: PDA develops in approximately one-fourth of patients with PJS by age 75 years.*
+
+---
+
+**103. Hereditary pancreatitis patients carry germline mutations in which gene, encoding cationic trypsinogen?**
+
+- SPINK1
+- CFTR
+- CTRC
+- **PRSS1**
+
+*Explanation: These patients carry germline mutations in the PRSS1 gene, which encodes cationic trypsinogen.*
+
+---
+
+**104. Patients with hereditary pancreatitis are at what relative risk for PDA by age 75 years?**
+
+- 10-fold
+- 20-fold
+- **35-fold**
+- 50-fold
+
+*Explanation: Patients with hereditary pancreatitis are at a 35-fold relative risk for PDA by age 75 years.*
+
+---
+
+**105. In Table 9D.1, Peutz-Jeghers syndrome is associated with what lifetime risk of pancreatic adenocarcinoma?**
+
+- 10-fold; lifetime risk 15%
+- 50-fold; lifetime risk 25%
+- **132-fold; lifetime risk ~36%**
+- 200-fold; lifetime risk 50%
+
+*Explanation: Peutz-Jeghers syndrome confers a 132-fold risk with a lifetime risk of approximately 36%.*
+
+---
+
+**106. According to Table 9D.1, which genetic syndrome associated with hereditary pancreatitis confers the highest absolute lifetime risk of pancreatic cancer?**
+
+- FAMM melanoma syndrome (CDKN2A)
+- Hereditary breast/ovarian cancer (BRCA1/BRCA2)
+- **Hereditary pancreatitis (PRSS1, SPINK1, CFTR, CTRC)**
+- Familial adenomatous polyposis (APC)
+
+*Explanation: Hereditary pancreatitis confers a lifetime risk of 44%, the highest absolute lifetime risk among the syndromes listed in Table 9D.1.*
+
+---
+
+**107. A comprehensive high-density oligonucleotide microarray analysis of pancreatic cancer identified how many genes as overexpressed 3-fold or greater in cancers versus healthy tissue?**
+
+- 50
+- 100
+- **217**
+- 350
+
+*Explanation: A comprehensive analysis of pancreatic cancer using high-density oligonucleotide microarrays identified 217 genes as overexpressed 3-fold or greater in cancers versus healthy tissue.*
+
+---
+
+**108. How many genes were found to be overexpressed in pancreatic cancer by three platforms (oligonucleotide, cDNA microarrays, and SAGE)?**
+
+- Two
+- Four
+- **Six**
+- Ten
+
+*Explanation: Six genes (keratin 19, retinoic acid–induced 3, secretory leukocyte protease inhibitor, stratifin, tetraspan 1, and transglutaminase 2) were found to be overexpressed in pancreatic cancer by three platforms.*
+
+---
+
+**109. Mesothelin (MSLN), identified by SAGE as overexpressed in pancreatic cancers, led to the development of a cancer vaccine targeted to which antigen?**
+
+- CEA antigen
+- CA 19-9 antigen
+- **Mesothelin antigen**
+- MUC1 antigen
+
+*Explanation: This identification led to the development of a pancreatic cancer vaccine targeted to the mesothelin antigen and the development of antimesothelin antibody-conjugated immunotoxins.*
+
+---
+
+**110. In 2013, the US FDA granted approval for which antimesothelin drug for use in combination therapy with GVAX?**
+
+- MORAb-009
+- SS1P
+- **CRS-207**
+- Amatuximab
+
+*Explanation: In 2013, the US FDA granted the antimesothelin drug CRS-207 approval for use in combination therapy with GVAX, a drug that stimulates the granulocyte-macrophage colony-stimulating factor.*
+
+---
+
+**111. What is the RNA-binding protein HuR (Hu antigen R) and what is its role in cancer?**
+
+- A microRNA that silences tumor suppressor genes
+- A DNA methyltransferase that silences CDKN2A
+- **A ubiquitously expressed member of the HU family that mediates cellular response to stress and DNA damage via posttranscriptional regulation**
+- A transcription factor that activates KRAS expression
+
+*Explanation: HuR is a ubiquitously expressed member of the HU family that mediates cellular response to stress and DNA damage by posttranscriptional regulation.*
+
+---
+
+**112. Elevated HuR cytoplasmic expression is detected in tumors with what pathologic features?**
+
+- Low-grade histology and favorable outcomes
+- High lymphocyte infiltration and good prognosis
+- **Poor pathologic features and poor predicted outcomes**
+- High mitotic index and good response to therapy
+
+*Explanation: Elevated HuR cytoplasmic expression is detected in tumors with poor pathologic features and poor predicted outcomes.*
+
+---
+
+**113. In vitro and in vivo studies have shown that PDAs with HuR overexpression were dramatically sensitive to which standard chemotherapeutic treatment?**
+
+- 5-fluorouracil
+- Cisplatin
+- **Gemcitabine**
+- Oxaliplatin
+
+*Explanation: PDAs with HuR overexpression were dramatically sensitive to gemcitabine, the standard chemotherapeutic treatment for pancreatic cancer.*
+
+---
+
+**114. Patients with low cytoplasmic HuR levels had what increase in mortality compared with patients who had elevated cytoplasmic HuR levels?**
+
+- 2-fold increase
+- 4-fold increase
+- **7-fold increase**
+- 10-fold increase
+
+*Explanation: Patients who had low cytoplasmic HuR levels had a 7-fold increase in mortality compared with patients who had elevated cytoplasmic HuR levels.*
+
+---
+
+**115. MicroRNAs (miRNAs) are defined as short noncoding regions of RNA with approximately how many nucleotides?**
+
+- 10 nucleotides
+- 15 nucleotides
+- **22 nucleotides**
+- 50 nucleotides
+
+*Explanation: MicroRNAs are defined as short, noncoding regions of RNA sequences (22 nucleotides) that can potently regulate gene expression patterns.*
+
+---
+
+**116. A miRNA molecular signature has been shown to be able to do what in pancreatic cancer patients?**
+
+- Predict KRAS mutation status
+- Identify SMAD4 inactivation
+- Detect early-stage PanIN lesions
+- **Stratify long- and short-term survivors**
+
+*Explanation: It has been shown that a miRNA molecular signature can stratify long- and short-term survivors.*
+
+---
+
+**117. Unlike PDA, which type of pancreatic cancer has uncommon activating mutations in KRAS?**
+
+- Pancreatic neuroendocrine tumors
+- Intraductal papillary mucinous neoplasms
+- Intraductal tubulopapillary neoplasms
+- **Acinar cell carcinomas (ACCs)**
+
+*Explanation: Unlike PDA, acinar cell carcinomas (ACCs) have uncommon activating mutations in KRAS.*
+
+---
+
+**118. SND1-BRAF fusions were identified in what percentage of either pure or mixed differentiation acinar cell carcinomas?**
+
+- 5%
+- 8%
+- **14% (6 of 44)**
+- 20%
+
+*Explanation: SND1-BRAF fusions were identified in 6 of 44 (14%) either pure or mixed differentiation ACCs.*
+
+---
+
+**119. Transfectants expressing the SND1-BRAF fusion showed sensitivity to which targeted inhibitor?**
+
+- KRAS inhibitor
+- BRAF inhibitor (vemurafenib)
+- PI3K inhibitor
+- **MEK inhibitor (trametinib)**
+
+*Explanation: Transfectants expressing the SND1-BRAF fusion showed increased MAPK pathway activity as well as sensitivity to the MEK inhibitor trametinib.*
+
+---
+
+**120. Microsatellite instability (MSI) has been identified in what percentage of acinar cell carcinomas?**
+
+- 3%–5%
+- 5%–8%
+- **10%–20%**
+- 25%–30%
+
+*Explanation: Epigenetic changes have been identified, including MSI in 10% to 20% of ACCs.*
+
+---
+
+**121. Which mutations are characteristically ABSENT in pancreatic neuroendocrine tumors (PanNETs), distinguishing them from PDA?**
+
+- MEN1 and ATRX mutations
+- DAXX and PIK3CA mutations
+- **KRAS, SMAD4, and CDKN2A mutations**
+- VHL and RB1 mutations
+
+*Explanation: PanNETs lack KRAS, SMAD4, and CDKN2A mutations, and only very rarely harbor TP53 mutations, which distinguishes them molecularly from PDA.*
+
+---
+
+**122. What percentage of sporadic PanNETs harbor DAXX/ATRX mutations?**
+
+- 10%
+- 25%
+- **43%**
+- 60%
+
+*Explanation: Sporadic PanNETs frequently harbor DAXX (death domain-associated protein/gene)/ATRX mutations (43%) or MEN1 mutations (44%).*
+
+---
+
+**123. What percentage of sporadic PanNETs harbor MEN1 mutations?**
+
+- 20%
+- 30%
+- 43%
+- **44%**
+
+*Explanation: Sporadic PanNETs frequently harbor DAXX/ATRX mutations (43%) or multiple endocrine neoplasia type 1 (MEN1) mutations (44%).*
+
+---
+
+**124. PanNETs occurring in association with MEN and von Hippel Lindau syndromes are thought to follow what type of clinical course?**
+
+- A more aggressive course
+- The same aggressive course as sporadic PanNETs
+- **A less aggressive course more often**
+- A course characterized by rapid metastasis
+
+*Explanation: PanNETs occurring in association with these syndromes are thought to follow a less aggressive course more often.*
+
+---
+
+**125. In the second era of pancreatic cancer research, what advanced technology allowed a genomic survey of the pancreatic cancer genome?**
+
+- Southern blotting
+- Conventional cytogenetics
+- SAGE arrays only
+- **High-throughput sequencing combined with advanced equipment and techniques**
+
+*Explanation: In the second era, combining advances in equipment and techniques and high-throughput sequencing allowed a genomic survey of the pancreatic cancer genome.*
+
+---
+
+**126. Patients who undergo partial pancreatectomy and are left with a remnant pancreas after IPMN resection need to be followed for life because IPMNs have a propensity to be what type of lesions?**
+
+- Rapidly invasive lesions
+- Microsatellite unstable lesions
+- **Multifocal lesions**
+- Radiation-resistant lesions
+
+*Explanation: IPMNs have a propensity to be multifocal lesions; therefore, patients who undergo partial pancreatectomy and are left with a remnant pancreas need to be followed for life, even when the lesion originally resected was a noninvasive IPMN.*
+
+---
+
+**127. Which genetic alteration is specific to IOPNs and is distinct from both IPMNs and PDA?**
+
+- KRAS mutation
+- SMAD4 deletion
+- GNAS activation
+- **Recurrent mutations in ARHGP26, ASXL1, EPHA8, and ERBB4**
+
+*Explanation: IOPNs harbor recurrent mutations in ARHGP26, ASXL1, EPHA8, and ERBB4, none of which occur at high enough frequency to be entity-defining but are distinct from IPMNs and PDA.*
+
+---
+
+**128. The tubular invasive carcinomas arising from IPMNs are histologically indistinguishable from invasive ductal adenocarcinomas that arise in the setting of which precursor lesion?**
+
+- IPMNs
+- ITPNs
+- **PanINs**
+- IOPNs
+
+*Explanation: Tubular adenocarcinomas from IPMNs are histologically indistinguishable from invasive ductal adenocarcinomas that arise in the setting of PanINs.*
+
+---
+
+**129. Which IPMN-associated carcinomas have a significantly better prognosis than PanIN- or IPMN-associated tubular adenocarcinomas?**
+
+- Tubular adenocarcinomas
+- Pancreaticobiliary adenocarcinomas
+- **IPMN-associated colloid carcinomas**
+- Mixed-type carcinomas
+
+*Explanation: IPMN-associated colloid carcinomas have a significantly better prognosis than either PanIN- or IPMN-associated tubular adenocarcinomas.*
+
+---
+
+**130. What is the pancreatobiliary pathway of IPMN carcinogenesis characterized by?**
+
+- CDX2-positive, MUC2-positive cells progressing to colloid carcinomas
+- **CDX2-negative, MUC2-negative, MUC1-expressing lesions progressing to conventional ductal adenocarcinomas**
+- CDX2-negative, MUC5AC-positive lesions progressing to oncocytic carcinomas
+- CDX2-positive, MUC1-positive lesions progressing to tubular carcinomas
+
+*Explanation: The pancreatobiliary pathway gives rise to CDX2-negative, MUC2-negative, and MUC1-expressing PanINs and a subset of IPMNs, both of which can progress to conventional ductal adenocarcinomas, which have a poorer prognosis.*
+
+---
+
+**131. MUC5AC is a gastric foveolar mucin that is normally expressed by surface mucus cells in which organs?**
+
+- Pancreas and liver
+- Colon and rectum
+- **Stomach and bronchial tract**
+- Esophagus and small intestine
+
+*Explanation: MUC5AC, a gastric foveolar mucin, is a secretory product normally expressed by surface mucus cells in the stomach and bronchial tract.*
+
+---
+
+**132. MUC5AC expression in pancreatic tumors may play what role?**
+
+- Activating immune surveillance
+- Inhibiting KRAS signaling
+- **Helping tumor cells evade the host immune response and contributing to invasive motility**
+- Blocking TGF-β signaling
+
+*Explanation: It has been suggested that MUC5AC expression in pancreatic tumors may play a role in tumor cells evading the host immune response, as well as contributing to the invasive motility of pancreatic cancer cells.*
+
+---
+
+**133. In ITPN, which immunohistochemical markers are commonly expressed, similar to pancreaticobiliary type IPMNs?**
+
+- MUC2 and CDX2
+- MUC5AC and MUC2
+- **MUC1 and MUC6**
+- MUC5AC and MUC6
+
+*Explanation: Expression of MUC1 and MUC6 is commonly seen in both ITPNs and pancreaticobiliary type IPMNs.*
+
+---
+
+**134. Molecular testing of pancreatic cyst fluid for which two mutations may help support a diagnosis of IPMN?**
+
+- TP53 and SMAD4
+- CDKN2A and KRAS
+- PIK3CA and GNAS
+- **GNAS and KRAS**
+
+*Explanation: Molecular testing of pancreatic cyst fluid for GNAS and KRAS mutations may help support a diagnosis of IPMN and distinguish it from other cystic lesions.*
+
+---
+
+**135. Which of the following genetic syndromes carries the highest fold risk of pancreatic adenocarcinoma according to Table 9D.1?**
+
+- FAMM melanoma syndrome (13- to 39-fold)
+- Hereditary pancreatitis (50- to 67-fold)
+- **Peutz-Jeghers syndrome (132-fold)**
+- HNPCC-Lynch syndrome
+
+*Explanation: Peutz-Jeghers syndrome confers the highest fold risk at 132-fold, with a lifetime risk of approximately 36%.*
+
+---
+
+**136. Allelotype analysis of PanIN lesions found LOH in chromosomal regions including which regions?**
+
+- 1p, 4q, and 7q
+- 6q, 12p, and 20q
+- **9p, 17p, and 18q**
+- 3p, 8q, and 19q
+
+*Explanation: Allelotype analysis of PanIN lesions showed LOH in many of the same chromosomal regions as invasive cancer, including 9p, 17p, and 18q.*
+
+---
+
+**137. The first mouse model of pancreatic cancer was generated by what genetic manipulation?**
+
+- Knockout of SMAD4 in pancreatic ductal epithelium
+- Biallelic inactivation of BRCA2 in acinar cells
+- **Constitutive overexpression of mutant KRAS2 in murine pancreatic ductal epithelium**
+- Conditional deletion of TP53 in pancreatic progenitor cells
+
+*Explanation: The first mouse model of pancreatic cancer was generated by constitutive overexpression of mutant KRAS2 in murine pancreatic ductal epithelium, underscoring its importance in pancreatic oncogenesis.*
+
+---
+
+**138. What concept underlies the therapeutic window created by PARP inhibitors in BRCA-deficient tumors?**
+
+- Healthy cells are also killed, creating broad cytotoxicity
+- Tumor cells have intact DNA repair and cannot be targeted
+- **Healthy cells have intact DNA repair and can manage damage, while tumor cells cannot repair due to loss of BRCA2**
+- PARP inhibitors only affect cells in S-phase of the cell cycle
+
+*Explanation: Healthy cells will have an intact DNA repair mechanism and can manage damage from a DNA-damaging agent. In contrast, the tumor will be unable to repair such damage due to loss of a key aspect of this repair mechanism (i.e., BRCA2).*
+
+---
+
+**139. CLDN4, CXCR4, S100A4, and MSLN are expressed at significantly higher levels in which type of IPMN compared with noninvasive IPMN?**
+
+- Low-grade IPMN
+- Branch-duct IPMN
+- Main-duct IPMN
+- **Invasive IPMN**
+
+*Explanation: CLDN4, CXCR4, S100A4, and MSLN are all expressed at significantly higher levels in invasive IPMNs than in noninvasive IPMNs, suggesting that these proteins may contribute to the process of invasion.*
+
+---
+
+**140. The CDKN2A gene belongs to which protein family that inhibits cell cycle progression?**
+
+- Cyclin family
+- Kinase activator family
+- **Cyclin-dependent kinase inhibitor family**
+- E2F transcription factor family
+
+*Explanation: CDKN2A belongs to the cyclin-dependent kinase inhibitor family and inhibits cell cycle progression through the G1-S checkpoint mediated by CDK4 and CDK6.*
+
+---
+
+**141. In the first era of pancreatic cancer research (Figure 9D.1), which of the following was a landmark discovery?**
+
+- Genomic profiling of large tumor cohorts
+- High-throughput sequencing of the entire pancreatic genome
+- Discovery of core signaling pathways disrupted in PDA
+- **Discovery of DPC4 inactivation and loss of p16**
+
+*Explanation: The first era is highlighted by the discovery of tumor suppressor genes such as DPC4 and loss of p16, while the second era focused on genomic profiling.*
+
+---
+
+**142. What technique was used in the first era of pancreatic cancer research to generate cell lines from primary tumors?**
+
+- Direct culture of tumor samples
+- Organoid generation
+- **Xenografting of primary tumors**
+- Induced pluripotent stem cell derivation
+
+*Explanation: In the first era, resected pancreatic cancers were xenografted and genomic DNA was isolated for genetic analysis.*
+
+---
+
+**143. In the second era of pancreatic research, sequencing of 39 genes was validated in how many additional tumors?**
+
+- 24
+- 60
+- **90**
+- 120
+
+*Explanation: In the second era, 39 genes were validated in another 90 tumors as part of the discovery and validation process.*
+
+---
+
+**144. The two-hit hypothesis postulates that tumor suppressor genes require what type of inactivation?**
+
+- Single allele mutation is sufficient
+- Promoter methylation alone is sufficient
+- **Biallelic inactivation**
+- Gene amplification of the opposite allele
+
+*Explanation: Allelotyping operates on the basic principle of the two-hit hypothesis, which postulates that tumor suppressor genes require biallelic inactivation.*
+
+---
+
+**145. What observation suggests clonal divergence in PanIN lesions?**
+
+- PanIN lesions never share genetic alterations with associated invasive cancers
+- Only PanIN-1 lesions show genetic alterations
+- **Occasional high-grade PanIN lesions harbor genetically distinct changes from the synchronous invasive cancer**
+- All PanIN lesions are genetically identical to the associated invasive cancer
+
+*Explanation: Although changes are conserved in most synchronous precursor lesions, there is occasional clonal divergence between high-grade PanIN lesions harboring genetically distinct changes from the synchronous invasive cancer.*
+
+---
+
+**146. Which tumor suppressor genes are present in smaller numbers (5% to 10%) of pancreatic cancers, beyond the major ones?**
+
+- BRCA1 and BRCA2
+- FANCC and FANCG
+- **STK11, TGFBR1, TGFBR2, RB1, and MAP2K4**
+- APC and MLH1
+
+*Explanation: Several tumor suppressor genes are inactivated in smaller numbers (5% to 10%) of pancreatic cancers, including STK11, TGFBR1, TGFBR2, RB1, and MAP2K4.*
+
+---
+
+**147. What is the predominant morphology of invasive tumors arising from IOPNs?**
+
+- Colloid (mucinous) carcinoma
+- Squamous cell carcinoma
+- **Tubular adenocarcinoma composed of oncocytic tumor cells**
+- Signet ring cell carcinoma
+
+*Explanation: The predominant morphology of invasive tumors associated with IOPNs is that of a tubular adenocarcinoma composed of oncocytic tumor cells similar to the preneoplastic lesion.*
+
+---
+
+**148. Unlike certain leukemia subtypes driven by single targetable oncogenes, what is the implication for targeting pancreatic cancer therapy?**
+
+- Single oncogene targeting is equally effective in PDA
+- Only immunotherapy is effective in PDA
+- **It may be more beneficial to target disrupted pathways rather than individual genes**
+- Pancreatic cancers have no targetable mutations
+
+*Explanation: Jones and colleagues suggested that it may be beneficial to target the physiologic effects of disrupted pathways rather than individual target genes, as pancreatic cancers result from alterations in large numbers of genes functioning through distinct pathways.*
+
+---
+
+**149. Which IPMN subtype shows a genetic inactivation of RNF43, in addition to activating GNAS mutations?**
+
+- Pancreaticobiliary type IPMN
+- Oncocytic type IPMN
+- Tubular type IPMN
+- **A subset of IPMNs (in addition to GNAS mutations)**
+
+*Explanation: A subset of IPMNs shows genetic inactivation of RNF43, in addition to the GNAS activating mutations found in more than 70% of IPMNs.*
+
+---
+
+**150. In the context of familial pancreatic cancer and "BRCAness," it has been suggested that approximately what percentage of sporadic breast and ovarian cancers manifest a BRCA-like phenotype?**
+
+- 5%
+- 10%
+- **25%**
+- 40%
+
+*Explanation: It has been suggested that perhaps as many as 25% of sporadic breast and ovarian cancers manifest a BRCA-like phenotype, derived from BRCA1, FANCC, FANCG, and FANCF methylation studies.*
+

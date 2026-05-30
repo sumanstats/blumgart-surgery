@@ -1,0 +1,1401 @@
+# 88A Benign Liver Lesions
+
+1. **Which is the most common solid benign liver tumor?**  
+    A. Focal nodular hyperplasia  
+    B. Hepatocellular adenoma  
+    C. Bile duct adenoma  
+    **D. Hemangioma**  
+    *Correct: D. Hemangioma accounts for up to 70% of all benign liver lesions.*
+
+2. **What is the approximate prevalence of hemangioma in the general population?**  
+    A. 0.5-1%  
+    **B. 3-20%**  
+    C. 25-30%  
+    D. 35-40%  
+    *Correct: B. The prevalence ranges from 3% to 20% with a large predominance in women.*
+
+3. **What is the female-to-male ratio for hemangioma?**  
+    A. 1:1  
+    B. 2:1  
+    **C. 5:1**  
+    D. 10:1  
+    *Correct: C. Hemangiomas have a 5:1 female/male ratio.*
+
+4. **Which of the following is NOT a typical imaging feature of hemangioma on ultrasound?**  
+    A. Homogenous hyperechoic mass  
+    B. Sharp margins  
+    C. Acoustic enhancement  
+    **D. Hypoechoic appearance**  
+    *Correct: D. Hemangiomas are typically hyperechoic on ultrasound, not hypoechoic.*
+
+5. **What is the typical appearance of hemangioma on T2-weighted MRI?**  
+    **A. Strongly hyperintense**  
+    B. Hypointense  
+    C. Isointense  
+    D. Mixed signal intensity  
+    *Correct: A. Hemangiomas appear strongly hyperintense on heavily T2-weighted sequences.*
+
+6. **What percentage of hemangiomas are less than 5 cm in diameter?**  
+    **A. The vast majority**  
+    B. About 25%  
+    C. About 50%  
+    D. Less than 10%  
+    *Correct: A. The vast majority of hemangiomas are less than 5 cm in diameter.*
+
+7. **Hemangiomas measuring 10 cm or more are referred to as:**  
+    A. Massive hemangiomas  
+    **B. Giant hemangiomas**  
+    C. Macrohemangiomas  
+    D. Enormous hemangiomas  
+    *Correct: B. Hemangiomas measuring 10 cm or more are referred to as "giant hemangiomas."*
+
+8. **Which of the following is NOT a complication of hemangioma?**  
+    A. Intratumoral hemorrhage  
+    B. Kasabach-Merritt syndrome  
+    C. Compression of adjacent structures  
+    **D. Malignant transformation**  
+    *Correct: D. Hemangiomas do not undergo malignant transformation.*
+
+9. **What is the approximate percentage of hemangiomas that show tumor enlargement greater than 5%?**  
+    A. Less than 10%  
+    B. 15-20%  
+    **C. Up to 45%**  
+    D. More than 60%  
+    *Correct: C. Tumor enlargement greater than 5% may be observed in up to 45% of hemangiomas.*
+
+10. **Which of the following is true about hemangioma growth?**  
+    A. Growth rate is the same across all age groups  
+    B. Growth is most common in the 20-29 year age group  
+    **C. Higher growth rate is seen in the 30-39 year age group**  
+    D. Growth only occurs in patients taking oral contraceptives  
+    *Correct: C. There is a higher growth rate in the 30-39 year age group.*
+
+11. **What is the most common symptom of hemangioma?**  
+    **A. Asymptomatic**  
+    B. Abdominal pain  
+    C. Jaundice  
+    D. Fever  
+    *Correct: A. The vast majority of hemangiomas are asymptomatic and found incidentally.*
+
+12. **What is Kasabach-Merritt syndrome in relation to hemangioma?**  
+    A. A type of malignant transformation  
+    B. A specific imaging pattern  
+    **C. An exceptional coagulopathy complication**  
+    D. A specific subtype of hemangioma  
+    *Correct: C. Kasabach-Merritt syndrome is an exceptional coagulopathy complication of hepatic hemangioma.*
+
+13. **Which imaging modality is able to diagnose liver hemangiomas in almost all cases?**  
+    A. Ultrasound  
+    B. CT scan  
+    **C. MRI**  
+    D. PET scan  
+    *Correct: C. Altogether, imaging, and especially MRI, is able to diagnose liver hemangiomas in almost all cases.*
+
+14. **What is the typical appearance of hemangioma on contrast-enhanced ultrasound?**  
+    A. Homogeneous enhancement throughout  
+    B. Central enhancement followed by peripheral enhancement  
+    **C. Peripheral globular enhancement followed by complete filling**  
+    D. No enhancement  
+    *Correct: C. Contrast-enhanced US reveals peripheral globular enhancement on arterial and portal venous phases and an isoechoic pattern on late phase.*
+
+15. **What is the female-to-male ratio for focal nodular hyperplasia (FNH)?**  
+    A. 2:1  
+    B. 5:1  
+    **C. 9:1**  
+    D. 15:1  
+    *Correct: C. FNH occurs predominantly in women with a female/male ratio of 9:1.*
+
+16. **What is the estimated prevalence of FNH?**  
+    A. 0.1%  
+    **B. Approximately 1%**  
+    C. 5-10%  
+    D. 15-20%  
+    *Correct: B. FNH represents the second most frequent solid benign lesion, with an estimated prevalence of approximately 1%.*
+
+17. **What is the characteristic histologic feature of FNH?**  
+    A. Central necrosis  
+    B. Fatty infiltration  
+    **C. Central fibrous scar**  
+    D. Bile duct proliferation  
+    *Correct: C. Grossly, FNH is characterized by a central fibrous scar that radiates into the liver parenchyma.*
+
+18. **Which of the following is NOT a typical imaging feature of FNH?**  
+    A. Lack of capsule  
+    B. Homogeneous appearance (except central scar)  
+    C. Strong homogeneous enhancement on arterial phase  
+    **D. Washout on delayed phase**  
+    *Correct: D. FNH shows strong and homogeneous enhancement on arterial phase with a central vascular supply becoming similar to the adjacent liver on portal and delayed phases (no washout).*
+
+19. **What is the typical appearance of FNH on hepatobiliary phase MRI?**  
+    A. Hypointense  
+    **B. Isointense or hyperintense**  
+    C. Markedly hyperintense  
+    D. Variable, no consistent pattern  
+    *Correct: B. Most FNHs are isointense or hyperintense in the hepatobiliary phase, unlike HCAs, HCCs, and nonhepatocellular tumors.*
+
+20. **What percentage of patients with FNH have multiple lesions?**  
+    A. Less than 5%  
+    B. 5-10%  
+    **C. About 20%**  
+    D. More than 50%  
+    *Correct: C. Multiple FNHs can be observed in 20% of the cases.*
+
+21. **What is the female-to-male ratio for hepatocellular adenoma (HCA)?**  
+    A. 2:1  
+    B. 5:1  
+    **C. 9:1**  
+    D. 15:1  
+    *Correct: C. HCA has a strong predominance in young women (female/male ratio, 9:1).*
+
+22. **What is the prevalence of HCA in the general population?**  
+    **A. Less than 0.05%**  
+    B. Approximately 0.5%  
+    C. About 1-2%  
+    D. 5-10%  
+    *Correct: A. Although its prevalence in the general population is less than 0.05%...*
+
+23. **Which of the following is NOT a risk factor for HCA?**  
+    A. Oral contraceptive use  
+    B. Obesity  
+    C. Androgen use  
+    **D. Alcohol consumption**  
+    *Correct: D. Alcohol consumption is not mentioned as a risk factor for HCA in the text.*
+
+24. **What is the mean age at presentation for HCA?**  
+    A. 25 years  
+    **B. 37 years**  
+    C. 48 years  
+    D. 55 years  
+    *Correct: B. The mean age at presentation is 37 (16-62) years.*
+
+25. **What is the mean size of HCA at presentation?**  
+    A. 3.4 cm  
+    B. 5.2 cm  
+    **C. 8.4 cm**  
+    D. 12.1 cm  
+    *Correct: C. The mean size is 8.4 cm (±4.2; range: 1-22).*
+
+26. **Which of the following is the most frequent subtype of HCA?**  
+    A. HNF1A  
+    **B. Inflammatory**  
+    C. Beta-catenin  
+    D. Sonic hedgehog  
+    *Correct: B. Inflammatory HCA is the most frequent subtype.*
+
+27. **Which HCA subtype is characterized by prominent steatosis?**  
+    **A. HNF1A**  
+    B. Inflammatory  
+    C. Beta-catenin  
+    D. Unclassified  
+    *Correct: A. HNF1A is characterized by prominent steatosis associated with an absence of LFABP expression.*
+
+28. **Which HCA subtype has the highest risk of malignant transformation?**  
+    A. HNF1A  
+    B. Inflammatory  
+    **C. Beta-catenin**  
+    D. Sonic hedgehog  
+    *Correct: C. Beta-catenin HCA has the highest risk of malignant transformation.*
+
+29. **Which HCA subtype is associated with the lowest risk of bleeding?**  
+    **A. HNF1A**  
+    B. Inflammatory  
+    C. Beta-catenin  
+    D. Sonic hedgehog  
+    *Correct: A. HNF1A HCAs have a very low risk of bleeding (<10%).*
+
+30. **What is the risk of bleeding in HCA greater than 5 cm?**  
+    A. 5%  
+    **B. 25%**  
+    C. 40%  
+    D. 60%  
+    *Correct: B. The risk of bleeding is 25% in HCA greater than 5 cm.*
+
+31. **What is the risk of malignant transformation in women with HCA?**  
+    A. Greater than 50%  
+    **B. Less than 5%**  
+    C. Approximately 15%  
+    D. Approximately 30%  
+    *Correct: B. The risk of malignant transformation in women is less than 5%.*
+
+32. **What is the risk of malignant transformation in men with HCA?**  
+    **A. Greater than 50%**  
+    B. Less than 5%  
+    C. Approximately 15%  
+    D. Approximately 30%  
+    *Correct: A. The risk of malignant transformation in men is greater than 50%.*
+
+33. **Which of the following is NOT a typical management strategy for uncomplicated HCA in women?**  
+    A. OC withdrawal  
+    B. Weight loss  
+    C. Observation for lesions <5 cm  
+    **D. Routine resection regardless of size**  
+    *Correct: D. In women, only large HCAs (>5 cm) should be resected and HCAs less than 5 cm can be observed.*
+
+34. **What is the recommended management for HCA in men?**  
+    **A. Resection regardless of size**  
+    B. Observation with regular imaging  
+    C. Transarterial embolization  
+    D. Chemotherapy  
+    *Correct: A. In men, HCA should be resected whatever the size because of the high risk of malignancy (>50%).*
+
+35. **Which HCA subtype may be managed conservatively even when >5 cm in size?**  
+    A. Inflammatory  
+    B. Beta-catenin  
+    **C. HNF1A**  
+    D. Sonic hedgehog  
+    *Correct: C. Histologic confirmation of HNF1A subtype may allow for conservative management with regular follow-up regardless of the size, given the extremely low risk of complication.*
+
+36. **What is the most frequent symptom of HCA?**  
+    **A. Abdominal pain**  
+    B. Jaundice  
+    C. Fever  
+    D. Weight loss  
+    *Correct: A. The most common symptom is abdominal pain.*
+
+37. **What percentage of patients with HCA have multiple tumors?**  
+    A. 10%  
+    B. 25%  
+    **C. 50%**  
+    D. 75%  
+    *Correct: C. Half of patients have multiple tumors (>2 HCAs).*
+
+38. **Which imaging finding is most characteristic of HNF1A HCA on MRI?**  
+    A. Strong hyperintensity on T2-weighted images  
+    **B. Diffuse and homogeneous signal dropout on chemical shift T1-weighted sequences**  
+    C. Rim-like band on T2-weighted images (atoll sign)  
+    D. Washout on delayed phase  
+    *Correct: B. A diffuse and homogeneous signal dropout on chemical shift T1-weighted sequences is the most striking finding for HNF1A HCA.*
+
+39. **What is the "atoll sign" associated with?**  
+    A. Hemangioma  
+    **B. Inflammatory HCA**  
+    C. HNF1A HCA  
+    D. FNH  
+    *Correct: B. IHCA shows a strong hyperintense signal on T2-weighted images that might be either diffuse or appear as a rim-like band in the periphery of the lesion, defining the atoll sign.*
+
+40. **Which HCA subtype is mainly observed in obese patients with extensive exposure to OCs?**  
+    A. HNF1A  
+    **B. Inflammatory**  
+    C. Beta-catenin  
+    D. Unclassified  
+    *Correct: B. Inflammatory HCA is mainly observed in obese patients with extensive exposure to OCs.*
+
+41. **What is the most common location for biliary hamartomas (Von Meyenburg complexes)?**  
+    A. Segment I  
+    B. Segment IV  
+    **C. Scattered throughout the liver**  
+    D. Perihilar region  
+    *Correct: C. Biliary hamartomas usually present as multiple and small (<5 mm) nodules scattered throughout the liver.*
+
+42. **What is the approximate prevalence of biliary hamartomas in adults based on autopsy series?**  
+    A. 0.5%  
+    B. 2%  
+    **C. 5%**  
+    D. 10%  
+    *Correct: C. Their prevalence in adults is approximately 5% in autopsy series.*
+
+43. **What is the "starry sky" appearance on MRI suggestive of?**  
+    A. Hemangioma  
+    B. FNH  
+    **C. Biliary hamartoma**  
+    D. HCA  
+    *Correct: C. The "starry sky" appearance on MRI is very suggestive of biliary hamartoma.*
+
+44. **Which of the following is NOT a typical complication of biliary hamartoma?**  
+    A. Portal hypertension  
+    B. Cholangitis  
+    **C. Malignant transformation**  
+    D. None of the above (all are possible complications)  
+    *Correct: C. Complications of biliary hamartomas include portal hypertension, cholangitis, and malignant degeneration is very rare.*
+
+45. **What is the typical size of bile duct adenomas?**  
+    **A. <5 mm**  
+    B. 5-10 mm  
+    C. 1-2 cm  
+    D. >2 cm  
+    *Correct: A. BDAs are usually small in size (<5 mm), well circumscribed, and subcapsular.*
+
+46. **What genetic mutation has been identified in more than half of bile duct adenomas?**  
+    A. KRAS  
+    B. TP53  
+    **C. BRAF V600E**  
+    D. CTNNB1  
+    *Correct: C. The recent identification of BRAF V600E mutations in more than half of cases of BDAs support a different pathogenesis process.*
+
+47. **What is the main clinical significance of bile duct adenoma?**  
+    A. High risk of malignant transformation  
+    B. Frequent complications  
+    **C. Possible confusion with metastatic carcinoma**  
+    D. Association with systemic diseases  
+    *Correct: C. Historically, BDAs were considered indolent. Hence resection was not justified, and the only clinical significance of these lesions was in the possible confusion with metastatic carcinoma during surgery.*
+
+48. **What is the alternative name for inflammatory pseudotumors of the liver?**  
+    A. Inflammatory hemangioma  
+    **B. Inflammatory myofibroblastic tumor**  
+    C. Inflammatory adenoma  
+    D. Inflammatory sarcoma  
+    *Correct: B. Inflammatory pseudotumors of the liver (IPLs), also known as inflammatory myofibroblastic tumors...*
+
+49. **What percentage of patients with inflammatory pseudotumors of the liver are symptomatic?**  
+    A. 20-30%  
+    B. 50-60%  
+    **C. 80-90%**  
+    D. More than 95%  
+    *Correct: C. IPLs are symptomatic in 80% to 90% of patients.*
+
+50. **Which of the following is NOT a common symptom of inflammatory pseudotumors of the liver?**  
+    A. Fever  
+    B. Abdominal pain  
+    C. Weight loss  
+    **D. Jaundice (in most cases)**  
+    *Correct: D. Jaundice is only mentioned as a symptom in cases of perihilar IPL, not in most cases.*
+
+51. **What is the typical appearance of inflammatory pseudotumors on T1-weighted MRI?**  
+    **A. Hypointense**  
+    B. Hyperintense  
+    C. Isointense  
+    D. Mixed signal intensity  
+    *Correct: A. On MRI, the lesion is often hypointense on T1-weighted sequences and isointense or hyperintense on T2-weighted sequences.*
+
+52. **What is the typical appearance of inflammatory pseudotumors on T2-weighted MRI?**  
+    A. Hypointense  
+    **B. Isointense or hyperintense**  
+    C. Markedly hyperintense  
+    D. Mixed signal intensity  
+    *Correct: B. On MRI, the lesion is often hypointense on T1-weighted sequences and isointense or hyperintense on T2-weighted sequences.*
+
+53. **What is the main initial misdiagnosis for inflammatory pseudotumors of the liver?**  
+    **A. Malignant lesions (such as cholangiocarcinoma)**  
+    B. Liver abscess  
+    C. Hemangioma  
+    D. FNH  
+    *Correct: A. Most common initial diagnoses after laboratory and imaging investigations include malignant lesions (such as cholangiocarcinoma) and liver abscess in 50% and 20% of patients, respectively.*
+
+54. **What is the first-line treatment for inflammatory pseudotumors when the diagnosis is certain?**  
+    A. Surgical resection  
+    **B. Conservative options (surveillance, steroids, antibiotics)**  
+    C. Chemotherapy  
+    D. Radiation therapy  
+    *Correct: B. When the diagnosis is certain, conservative options, including simple surveillance, steroids, and antibiotics, might be attempted with complete regression rates of greater than 90%.*
+
+55. **What is the complete regression rate for inflammatory pseudotumors with conservative management?**  
+    A. 25-50%  
+    B. 50-75%  
+    **C. Greater than 90%**  
+    D. Almost 100%  
+    *Correct: C. When the diagnosis is certain, conservative options might be attempted with complete regression rates of greater than 90%.*
+
+56. **What is the alternative name for solitary fibrotic tumor?**  
+    A. Solitary hemangioma  
+    B. Solitary adenoma  
+    **C. Solitary necrotic tumor**  
+    D. Solitary regenerative nodule  
+    *Correct: C. Also known as solitary necrotic tumor, solitary fibrotic tumor is an uncommon liver tumor.*
+
+57. **What is the typical size of solitary fibrotic tumors?**  
+    A. >5 cm  
+    B. 2-5 cm  
+    **C. <2 cm**  
+    D. Variable, no typical size  
+    *Correct: C. Solitary fibrotic tumors are usually unique, well limited, and small (<2 cm).*
+
+58. **What is the histologic composition of solitary fibrotic tumors?**  
+    A. Central necrotic core surrounded by vascular tissue  
+    **B. Central necrotic core surrounded by a hyalinized fibrotic capsule**  
+    C. Central fibrotic core surrounded by necrotic tissue  
+    D. Homogeneous fibrotic tissue without necrosis  
+    *Correct: B. Histologically, a central necrotic core is surrounded by a hyalinized fibrotic capsule containing collagen and elastin fibers with inflammatory cellular infiltration.*
+
+59. **What is the main immunohistochemical marker used to confirm lymphangioma diagnosis?**  
+    A. HMB-45  
+    **B. D2-40, LYVE-1, and Prox-1**  
+    C. CD34  
+    D. Alpha-smooth muscle actin  
+    *Correct: B. Immunohistochemistry using D2-40, LYVE-1, and Prox-1 markers is helpful to discriminate lymphatic from vascular endothelium.*
+
+60. **What is the main risk factor for hepatic leiomyoma?**  
+    A. Oral contraceptive use  
+    **B. Immunodeficiency status**  
+    C. Obesity  
+    D. Alcohol consumption  
+    *Correct: B. An association has been observed with immunodeficiency status, such as human immunodeficiency virus (HIV) and EBV infections, as well as organ transplantation.*
+
+61. **What is the typical appearance of hepatic leiomyoma on T2-weighted MRI?**  
+    A. Hypointense  
+    **B. Strongly hyperintense**  
+    C. Isointense  
+    D. Mixed signal intensity  
+    *Correct: B. On MRI, leiomyomas are hypointense on T1-weighted sequences and strongly hyperintense on T2-weighted sequences.*
+
+62. **What is the most common heterotopic tissue found in the liver?**  
+    **A. Splenic tissue (liver splenosis)**  
+    B. Adrenal tissue  
+    C. Pancreatic tissue  
+    D. Gastric tissue  
+    *Correct: A. The most frequent is liver splenosis, which corresponds to autotransplantation of splenic tissue...*
+
+63. **What is the typical size of splenosis lesions in the liver?**  
+    A. <1 cm  
+    **B. About 4 cm**  
+    C. 6-8 cm  
+    D. >10 cm  
+    *Correct: B. Splenosis is asymptomatic, most often located in the left liver, with a mean size of about 4 cm, and multiple lesions can be observed.*
+
+64. **What is the main imaging technique to confirm liver splenosis?**  
+    A. Ultrasound  
+    B. CT scan  
+    C. Standard MRI  
+    **D. Scintigraphy of technetium-99m-labeled heat-denatured red blood cells**  
+    *Correct: D. Diagnosis can be suspected using scintigraphy of technetium-99m-labeled heat-denatured red blood cells.*
+
+65. **What is the typical appearance of hepatic endometriosis?**  
+    A. <2 cm nodules  
+    B. Cystic lesions <3 cm  
+    **C. Generally larger than 5 cm**  
+    D. Diffuse infiltrative pattern  
+    *Correct: C. These lesions are generally larger than 5 cm, can be of cystic appearance...*
+
+66. **In what percentage of cases is there no history of pelvic endometriosis with hepatic endometriosis?**  
+    A. 5-10%  
+    B. 15-25%  
+    **C. 30-40%**  
+    D. More than 50%  
+    *Correct: C. Women most often are nulliparous and in about 30% to 40% of cases, no history of pelvic endometriosis is found.*
+
+67. **What is the main cause of perfusion disorders that mimic liver tumors?**  
+    **A. Hyperarterialization due to decreased or absent portal vein flow**  
+    B. Arteriovenous shunting  
+    C. Hepatic vein obstruction  
+    D. Bile duct obstruction  
+    *Correct: A. These abnormalities are the consequence of the hyperarterialization of a liver segment because of decreased or absent portal vein flow.*
+
+68. **What is the typical appearance of perfusion disorders on imaging?**  
+    A. Round, well-defined lesions  
+    **B. Straight borders corresponding to segmental or subsegmental locations**  
+    C. Irregular borders with satellite lesions  
+    D. Diffuse infiltrative pattern  
+    *Correct: B. In general, they have typical straight borders corresponding to segmental or subsegmental locations.*
+
+69. **What is confluent fibrosis in the liver?**  
+    A. A type of liver tumor  
+    **B. A pseudolesion that can mimic a tumor**  
+    C. A specific type of liver cirrhosis  
+    D. A vascular malformation  
+    *Correct: B. Confluent fibrosis can also mimic a tumor. This feature is mainly observed in chronic liver disease...*
+
+70. **Where is confluent fibrosis typically located in the liver?**  
+    A. Segments I and IV  
+    **B. Segments IV and VIII**  
+    C. Perihilar region  
+    D. Diffusely throughout the liver  
+    *Correct: B. This feature is mainly observed in chronic liver disease, corresponds to parenchymal extinction, and is located in segments IV and VIII with capsular retraction.*
+
+71. **What is peliosis hepatis?**  
+    A. A type of liver tumor  
+    **B. Multiple small blood-filled pools in liver parenchyma**  
+    C. A vascular malformation  
+    D. A type of liver abscess  
+    *Correct: B. Peliosis is a rare condition characterized by multiple, small, blood-filled pools in liver parenchyma of various sizes...*
+
+72. **Which chemotherapy is most commonly associated with peliosis hepatis?**  
+    A. Cisplatin  
+    B. Doxorubicin  
+    **C. Oxaliplatin**  
+    D. 5-Fluorouracil  
+    *Correct: C. This lesion is mostly observed in adult patients after systemic chemotherapy for colorectal liver metastases using oxaliplatin.*
+
+73. **What is the typical appearance of peliosis hepatis on T2-weighted MRI?**  
+    A. Hypointense  
+    **B. Strongly hyperintense**  
+    C. Isointense  
+    D. Mixed signal intensity  
+    *Correct: B. Imaging findings often mimic true tumors because they are well-delineated, strongly hyperintense on T2-weighted MRI...*
+
+74. **What is the main risk factor for focal fatty changes in the liver?**  
+    A. Alcohol consumption  
+    **B. Diabetes, obesity, hepatitis C**  
+    C. Oral contraceptive use  
+    D. Androgen therapy  
+    *Correct: B. The majority of patients have underlying conditions such as diabetes, obesity, hepatitis C, nonalcoholic steatohepatitis (NASH), and malnutrition.*
+
+75. **Where is focal fatty sparing most commonly localized in the liver?**  
+    A. Segment I  
+    **B. Segment IV**  
+    C. Segment V  
+    D. Segment VIII  
+    *Correct: B. Focal steatosis is mainly localized in segment IV.*
+
+76. **What is the "venous theory" related to focal fatty changes?**  
+    A. Explains the development of hemangiomas  
+    **B. Explains regional fat distribution based on venous drainage**  
+    C. Explains the development of portal hypertension  
+    D. Explains the pathogenesis of FNH  
+    *Correct: B. An anomalous venous drainage was suspected some years ago when using CT arterial portography...*
+
+77. **What is the "insulin theory" related to focal fatty changes?**  
+    A. Explains the development of diabetes in liver disease  
+    **B. Explains regional fat distribution based on insulin concentration in portal vein tributaries**  
+    C. Explains the pathogenesis of HCA  
+    D. Explains the mechanism of steatohepatitis  
+    *Correct: B. Insulin, which stimulates the conversion of glucose to fatty acids has a variable concentration in the portal vein tributaries.*
+
+78. **What is the alternative name for nodular regenerative hyperplasia (NRH)?**  
+    A. Focal nodular hyperplasia  
+    B. Regenerative nodular hyperplasia  
+    **C. Nodular transformation**  
+    D. Diffuse regenerative hyperplasia  
+    *Correct: C. NRH is a relatively rare, benign, diffuse, micronodular transformation of the liver that has been referred to by many names in the literature, including nodular transformation...*
+
+79. **What is the proposed pathogenesis of NRH?**  
+    A. Direct toxic injury to hepatocytes  
+    **B. Primary vascular process leading to portal vein obliteration**  
+    C. Autoimmune destruction of liver tissue  
+    D. Genetic mutation in hepatocyte proliferation  
+    *Correct: B. One of the proposed theories hypothesizes that a primary vascular process leads to obliteration of portal vein, which, in turn, induces ischemia...*
+
+80. **What is the reported prevalence of NRH?**  
+    A. 0.1%  
+    B. 0.5%  
+    **C. About 2%**  
+    D. 5%  
+    *Correct: C. The prevalence of NRH is reported to be about 2%.*
+
+81. **Which of the following is NOT a condition associated with NRH?**  
+    A. Myeloproliferative disorders  
+    B. Rheumatoid arthritis  
+    C. Solid-organ transplantation  
+    **D. Viral hepatitis A**  
+    *Correct: D. NRH is associated with myeloproliferative and lymphoproliferative disorders, rheumatologic diseases, and solid-organ transplantation, but not hepatitis A.*
+
+82. **What percentage of patients with NRH develop portal hypertension?**  
+    A. 5-10%  
+    B. 15-25%  
+    **C. 30%**  
+    D. More than 50%  
+    *Correct: C. Portal hypertension may be observed in 30% of patients...*
+
+83. **What is the risk of transformation into HCC or cholangiocarcinoma in NRH?**  
+    A. Very high  
+    B. Moderate  
+    **C. Rare**  
+    D. Common  
+    *Correct: C. The risk of transformation into HCC or cholangiocarcinoma is rare.*
+
+84. **What is the typical appearance of NRH on imaging?**  
+    A. Multiple hypervascular nodules  
+    B. Diffuse infiltrative pattern  
+    **C. Often normal hepatic parenchyma**  
+    D. Cystic changes throughout the liver  
+    *Correct: C. In most cases, imaging shows normal hepatic parenchyma.*
+
+85. **When nodules are seen in NRH, what is their typical appearance on T1-weighted MRI?**  
+    A. Hypointense  
+    **B. Hyperintense**  
+    C. Isointense  
+    D. Mixed signal intensity  
+    *Correct: B. When nodules are seen, they have a variable enhancement, and they are hyperintense on T1-weighted images...*
+
+86. **What is the main clinical significance of NRH?**  
+    A. High risk of malignant transformation  
+    **B. Development of portal hypertension**  
+    C. Rapid progression to liver failure  
+    D. Association with systemic malignancies  
+    *Correct: B. Portal hypertension may be observed in 30% of patients, with subsequent esophageal varices, splenomegaly, and ascites.*
+
+87. **What is the main difference between FNH and FNH-like lesions?**  
+    A. FNH-like lesions have a central scar  
+    B. FNH-like lesions are more vascular  
+    **C. FNH-like lesions occur in patients with liver disease or vascular abnormalities**  
+    D. FNH-like lesions have a higher risk of malignant transformation  
+    *Correct: C. FNH-like lesions are lesions that histopathologically resemble FNH but are seen in patients with liver disease or liver vessels abnormalities.*
+
+88. **Which condition is NOT associated with FNH-like lesions?**  
+    A. Budd-Chiari syndrome  
+    B. Hereditary hemorrhagic telangiectasia  
+    C. Cirrhosis  
+    **D. Viral hepatitis A**  
+    *Correct: D. FNH-like lesions are associated with Budd-Chiari syndrome, hereditary hemorrhagic telangiectasia, and cirrhosis, but not hepatitis A.*
+
+89. **What is the typical imaging appearance of FNH-like lesions in Budd-Chiari syndrome?**  
+    A. Hypointense on T1, hyperintense on T2  
+    **B. Hyperintense on T1, hypointense on T2**  
+    C. Isointense on both T1 and T2  
+    D. Hyperintense on both T1 and T2  
+    *Correct: B. Because the liver signal is abnormal in Budd-Chiari syndrome, the FNH-like lesions are mostly hyperintense on T1-weighted and hypointense on T2-weighted images.*
+
+90. **What is hepatic small vessel neoplasm?**  
+    A. A type of hemangioma  
+    B. A variant of angiosarcoma  
+    **C. A rare liver vascular neoplasm recently described**  
+    D. A subtype of FNH  
+    *Correct: C. This rare liver vascular neoplasm composed of small vessels with an infiltrative border was recently described in 17 patients.*
+
+91. **What is the typical size of hepatic small vessel neoplasm?**  
+    A. <1 cm  
+    **B. Average size of 2.1 cm (0.2-5.5 cm)**  
+    C. 3-5 cm  
+    D. >5 cm  
+    *Correct: B. These tumors occur mainly in men with a mean age of 54 years (24-83) and an average size of 2.1 cm (0.2-5.5 cm).*
+
+92. **What is the most common presentation of hepatic small vessel neoplasm?**  
+    **A. Incidental finding**  
+    B. Abdominal pain  
+    C. Jaundice  
+    D. Bleeding  
+    *Correct: A. The most frequent presentation was incidental...*
+
+93. **What is the typical appearance of angiomyolipoma on contrast-enhanced imaging?**  
+    A. Washout on portal phase  
+    B. Heterogeneous enhancement  
+    **C. Markedly enhanced on arterial phase without washout**  
+    D. No enhancement  
+    *Correct: C. On contrast-enhanced imaging (CEUS, CT, or MRI), angiomyolipomas typically appear markedly enhanced on the arterial phase without washout on the portal or delayed phases.*
+
+94. **What is the main immunohistochemical marker for angiomyolipoma?**  
+    A. CD34  
+    **B. HMB-45**  
+    C. Alpha-fetoprotein  
+    D. Cytokeratin  
+    *Correct: B. The accuracy of diagnosis is aided by staining for melanocytic markers such as HMB-45, which stains the epithelioid component.*
+
+95. **At what size should angiomyolipoma be considered for resection?**  
+    A. >2 cm  
+    B. >3 cm  
+    **C. >5 cm**  
+    D. >10 cm  
+    *Correct: C. For lesions greater than 5 cm, a more aggressive approach should be undertaken due to risk of malignant transformation.*
+
+96. **Which of the following is NOT a typical feature of hemangioma on CT scan?**  
+    A. Low attenuation on noncontrast CT  
+    B. Peripheral and globular enhancement  
+    C. Contrast enhancement on delayed phases  
+    **D. Washout on portal venous phase**  
+    *Correct: D. Hemangiomas show peripheral and globular enhancement followed by central enhancement and persistent enhancement on delayed phases, not washout.*
+
+97. **What is the sensitivity of peripheral puddles at the arterial phase for diagnosing hemangioma on CT?**  
+    A. 35%  
+    B. 50%  
+    **C. 67%**  
+    D. 85%  
+    *Correct: C. Among CT criteria, the presence of peripheral puddles at the arterial phase has a sensitivity of 67%, a specificity of 99%, and a positive predictive value of 86%.*
+
+98. **What is the "pseudo washout sign" in hemangioma?**  
+    A. Rapid washout on portal phase  
+    **B. Hypointensity on hepatobiliary phase due to rapid uptake by background liver**  
+    C. Complete washout on delayed phase  
+    D. No enhancement on arterial phase  
+    *Correct: B. Complete hypointensity on hepatobiliary phase images, known as the "pseudo washout sign," is usually observed in hemangiomas.*
+
+99. **What is the most common imaging atypia in giant hemangiomas?**  
+    A. Rapid homogeneous enhancement  
+    **B. Heterogeneous appearance with central areas of thrombosis**  
+    C. Calcifications  
+    D. Cystic degeneration  
+    *Correct: B. Giant hemangiomas are often heterogeneous with marked central areas corresponding to thrombosis, extensive hyalinization, and fibrosis.*
+
+100. **In which size hemangiomas do rapidly filling hemangiomas occur most frequently?**  
+     **A. Small lesions (<2 cm)**  
+     B. Medium lesions (2-5 cm)  
+     C. Large lesions (5-10 cm)  
+     D. Giant lesions (>10 cm)  
+     *Correct: A. Rapidly filling hemangiomas occur significantly more frequently in small lesions (42% of hemangiomas <2 cm in diameter).*
+
+101. **What percentage of rapidly filling hemangiomas are less than 2 cm in diameter?**  
+     A. 15%  
+     B. 25%  
+     **C. 42%**  
+     D. 65%  
+     *Correct: C. Rapidly filling hemangiomas occur significantly more frequently in small lesions (42% of hemangiomas <2 cm in diameter).*
+
+102. **What is the main clinical significance of FNH?**  
+     A. Risk of malignant transformation  
+     B. Risk of bleeding  
+     **C. None (it's benign with no risk of complications)**  
+     D. Risk of portal hypertension  
+     *Correct: C. FNH has no risk of malignant transformation, and there is no risk of complications.*
+
+103. **What happens to FNH after menopause?**  
+     **A. May decrease in size or disappear**  
+     B. Typically increases in size  
+     C. Undergoes malignant transformation  
+     D. Develops central calcifications  
+     *Correct: A. The natural history of this lesion remains stable, could decrease, and may even disappear after the fifth decade.*
+
+104. **What is the main indication for surgical resection of FNH?**  
+     **A. Symptomatic patients**  
+     B. Lesions >5 cm  
+     C. Multiple lesions  
+     D. All of the above  
+     *Correct: A. Surgical resection is restricted to symptomatic patients.*
+
+105. **What is the alternative treatment to surgery for symptomatic FNH?**  
+     A. Chemotherapy  
+     B. Radiation therapy  
+     **C. Transarterial embolization**  
+     D. Percutaneous ablation  
+     *Correct: C. Transarterial embolization has been advocated as a first step to confirm the implication of the lesion in symptoms.*
+
+106. **What pathway is activated in inflammatory HCA?**  
+     A. Wnt/beta-catenin  
+     **B. IL-6/JAK/STAT**  
+     C. Sonic hedgehog  
+     D. Insulin signaling  
+     *Correct: B. Inflammatory HCA results from the activation of the IL-6/JAK/STAT pathway in tumor hepatocytes...*
+
+107. **What proteins are overexpressed in inflammatory HCA?**  
+     A. Glutamine synthetase  
+     **B. Acute phase inflammatory proteins (CRP, SAA)**  
+     C. Liver fatty acid binding protein  
+     D. Alpha-fetoprotein  
+     *Correct: B. Inflammatory HCA results in overexpression of acute phase inflammatory proteins such as CRP and serum amyloid A (SAA).*
+
+108. **What is the risk of bleeding in inflammatory HCA?**  
+     **A. High risk**  
+     B. Moderate risk  
+     C. Low risk  
+     D. No risk  
+     *Correct: A. The main risk factor of bleeding is the presence of sonic hedgehog HCA, IHCA, and tumor size...*
+
+109. **What is the risk of malignant transformation in inflammatory HCA?**  
+     A. High risk  
+     **B. Moderate risk**  
+     C. Low risk  
+     D. No risk  
+     *Correct: B. The risk of malignant transformation is moderate with IHCA and very low with HNF1A HCA.*
+
+110. **What is the main histologic feature of inflammatory HCA?**  
+     A. Prominent steatosis  
+     B. Cellular atypia  
+     **C. Small arteries, inflammatory matrix, and sinusoidal dilatation**  
+     D. Nuclear expression of beta-catenin  
+     *Correct: C. Morphologically, these tumors are characterized by the presence of small arteries, inflammatory matrix, and sinusoidal dilatation.*
+
+111. **What is the main immunohistochemical marker for inflammatory HCA?**  
+     A. Glutamine synthetase  
+     **B. SAA and CRP**  
+     C. HMB-45  
+     D. LFABP  
+     *Correct: B. Tumor hepatocytes exhibit cytoplasmic expression of SAA and CRP on immunohistochemistry induced by STAT3 activation.*
+
+112. **What percentage of HCA cases are due to sonic hedgehog mutation?**  
+     A. 1-2%  
+     **B. 5%**  
+     C. 15-20%  
+     D. 30-40%  
+     *Correct: B. The sonic hedgehog mutation (5% of HCA cases) was recently isolated from the subgroup of unclassified HCA.*
+
+113. **What pathway is uncontrolled in sonic hedgehog HCA?**  
+     A. IL-6/JAK/STAT  
+     B. Wnt/beta-catenin  
+     **C. Sonic hedgehog**  
+     D. Insulin signaling  
+     *Correct: C. This mutation results in uncontrolled activation of the sonic hedgehog pathway because of the overexpression of GLI1.*
+
+114. **What gene mutation is associated with HNF1A HCA?**  
+     A. CTNNB1  
+     B. GLI1  
+     **C. HNF1A**  
+     D. IL-6  
+     *Correct: C. This subtype is characterized by bi-allelic inactivating mutations of HNF1A (hepatocyte nuclear factor 1a).*
+
+115. **What protein is down-expressed in HNF1A HCA?**  
+     A. Glutamine synthetase  
+     B. CRP  
+     **C. LFABP**  
+     D. SAA  
+     *Correct: C. HNF1A is a key transcription factor that controls several metabolic pathways in the hepatocyte, including fatty acid synthesis deregulation with liver fatty acid binding protein (LFABP) down-expression.*
+
+116. **What is the typical appearance of HNF1A HCA on chemical shift T1-weighted MRI?**  
+     **A. Diffuse and homogeneous signal dropout**  
+     B. Strong hyperintensity on T2  
+     C. Rim-like band (atoll sign)  
+     D. Washout on delayed phase  
+     *Correct: A. A diffuse and homogeneous signal dropout on chemical shift T1-weighted sequences is the most striking finding for HNF1A HCA.*
+
+117. **What is the risk of bleeding in HNF1A HCA?**  
+     A. High  
+     B. Moderate  
+     **C. Very low (<10%)**  
+     D. None  
+     *Correct: C. HNF1A HCAs have a very low risk of bleeding (<10%).*
+
+118. **What gene mutation is associated with beta-catenin HCA?**  
+     A. HNF1A  
+     B. GLI1  
+     **C. CTNNB1**  
+     D. STAT3  
+     *Correct: C. This subtype involves mutations of CTNNB1 (protein coding gene) coding for beta-catenin...*
+
+119. **What protein is overexpressed in beta-catenin HCA due to Wnt/beta-catenin pathway activation?**  
+     A. SAA  
+     B. CRP  
+     **C. Glutamine synthetase**  
+     D. LFABP  
+     *Correct: C. These mutations lead to expression of Wnt/beta-catenin genes such as GLUL (coding for glutamine synthase) and LGR5.*
+
+120. **What is the risk of malignant transformation in beta-catenin HCA with exon 3 mutations?**  
+     **A. Higher risk**  
+     B. Lower risk  
+     C. Same as other beta-catenin mutations  
+     D. No risk  
+     *Correct: A. Mutations on exon 3, but not 7 or 8, are associated with the risk of malignant transformation.*
+
+121. **What is the typical appearance of beta-catenin HCA on glutamine synthetase immunohistochemistry?**  
+     A. Absent expression  
+     B. Heterogeneous expression  
+     **C. Strong and homogeneous expression**  
+     D. Nuclear expression only  
+     *Correct: C. Tumor hepatocytes demonstrate strong and homogeneous glutamine synthetase positivity (beta-catenin target gene)...*
+
+122. **What is the main risk factor for beta-catenin HCA?**  
+     A. Oral contraceptives  
+     **B. Androgen exposure**  
+     C. Obesity  
+     D. Diabetes  
+     *Correct: B. These tumors are more commonly related to androgen than estrogen intake (both endogenous and exogenous androgen exposure)...*
+
+123. **What percentage of patients with HCA have multiple tumors?**  
+     A. 10-20%  
+     B. 25-35%  
+     **C. 50%**  
+     D. 75-85%  
+     *Correct: C. Half of patients have multiple tumors (>2 HCAs).*
+
+124. **What is the definition of adenomatosis in HCA?**  
+     **A. >10 HCAs**  
+     B. >5 HCAs  
+     C. >15 HCAs  
+     D. Diffuse involvement of the liver  
+     *Correct: A. Adenomatosis (>10 HCAs) was initially described by Flejou et al...*
+
+125. **What is the main risk factor for bleeding in HCA?**  
+     A. Male sex  
+     **B. Tumor size >5 cm**  
+     C. HNF1A subtype  
+     D. Age >50 years  
+     *Correct: B. The main risk factor of bleeding is the presence of sonic hedgehog HCA, IHCA, and tumor size, with a 5% risk in HCA less than 5 cm and 25% in HCA greater than 5 cm.*
+
+126. **What is the risk of bleeding in HCA <5 cm?**  
+     A. 1%  
+     **B. 5%**  
+     C. 15%  
+     D. 25%  
+     *Correct: B. The main risk factor of bleeding is the presence of sonic hedgehog HCA, IHCA, and tumor size, with a 5% risk in HCA less than 5 cm...*
+
+127. **What is the risk of malignant transformation in men with HCA?**  
+     **A. >50%**  
+     B. 25-35%  
+     C. 10-15%  
+     D. <5%  
+     *Correct: A. The risk of malignant transformation in men is greater than 50%...*
+
+128. **What is the risk of malignant transformation in women with HCA?**  
+     A. >50%  
+     B. 25-35%  
+     C. 10-15%  
+     **D. <5%**  
+     *Correct: D. The risk of malignant transformation in women is less than 5%...*
+
+129. **At what size does the risk of malignant transformation in HCA increase significantly?**  
+     A. >3 cm  
+     **B. >5 cm**  
+     C. >8 cm  
+     D. >10 cm  
+     *Correct: B. Malignant transformation is mainly observed in HCAs greater than 5 cm... but is rare in HCAs that are less than 5 cm.*
+
+130. **What is the typical serum alpha-fetoprotein (AFP) level in HCA, even with malignant transformation?**  
+     A. Markedly elevated  
+     B. Moderately elevated  
+     **C. Usually normal**  
+     D. Variable  
+     *Correct: C. Alpha-fetoprotein (AFP) serum level should be systematically performed, but it is usually normal even in HCA with malignant transformation.*
+
+131. **What is the main management strategy for uncomplicated HCA in women?**  
+     A. Immediate resection  
+     **B. Observation for lesions <5 cm**  
+     C. Chemotherapy  
+     D. Radiation therapy  
+     *Correct: B. In women, only large HCAs (>5 cm) should be resected and HCAs less than 5 cm can be observed, except in beta-HCA cases.*
+
+132. **What is the main initial management step for all patients diagnosed with HCA?**  
+     A. Immediate resection  
+     **B. Management of underlying risk factors (OC withdrawal, weight loss)**  
+     C. Transarterial embolization  
+     D. Chemotherapy  
+     *Correct: B. When a diagnosis is made, underlying risk factors should be managed in all cases, including mainly OC withdrawal and weight loss.*
+
+133. **How long does it typically take to observe an effect of risk factor management on HCA size?**  
+     A. 1-3 months  
+     **B. 6 months (can be prolonged to 12 months)**  
+     C. 18-24 months  
+     D. More than 2 years  
+     *Correct: B. A period of 6 months is usually needed to observe an effect on tumor size, but it can be prolonged to 12 months...*
+
+134. **What is the main indication for preoperative liver biopsy in HCA?**  
+     A. To confirm the diagnosis of HCA  
+     **B. To diagnose beta-catenin HCA and mixed HCA**  
+     C. To differentiate from FNH  
+     D. To assess malignant transformation  
+     *Correct: B. The main indication of preoperative biopsy is to diagnose beta-HCA and mixed HCA (IHCA and beta-HCA)...*
+
+135. **What is the main treatment for bleeding HCA?**  
+     A. Immediate surgical resection  
+     **B. Stabilization, transarterial embolization, and delayed resection**  
+     C. Chemotherapy  
+     D. Radiation therapy  
+     *Correct: B. Modern management includes stabilization with or without transfusion, transarterial embolization, and delayed surgical resection.*
+
+136. **When should transarterial embolization be performed for bleeding HCA?**  
+     **A. Within 2-3 days after the complication occurs**  
+     B. Immediately upon diagnosis  
+     C. After 1 week of observation  
+     D. Only if surgery is contraindicated  
+     *Correct: A. Transarterial embolization is indicated within the first 2 to 3 days after the complication occurs...*
+
+137. **When is delayed resection typically performed after embolization for bleeding HCA?**  
+     A. Immediately after embolization  
+     B. 1-2 weeks after embolization  
+     **C. 3-6 months after embolization**  
+     D. More than 1 year after embolization  
+     *Correct: C. Delayed resection is performed 3 to 6 months after embolization once the parenchymal hematoma has disappeared...*
+
+138. **What percentage of cases show complete necrosis after embolization for bleeding HCA?**  
+     A. Less than 10%  
+     B. 15-25%  
+     **C. About one-third**  
+     D. More than 50%  
+     *Correct: C. In about one-third of cases, complete necrosis can be observed without any residual tumor tissue...*
+
+139. **What is the typical follow-up strategy for residual HCA after resection?**  
+     A. Monthly imaging  
+     **B. Yearly CT scan or MRI initially, then every 2 years if stable**  
+     C. No follow-up needed  
+     D. Biopsy every 6 months  
+     *Correct: B. After diagnosis or management, a yearly CT scan or MRI and even US is sufficient at first, then every 2 years in case of stability.*
+
+140. **When can follow-up for HCA be discontinued?**  
+     A. After 5 years of stability  
+     **B. After menopause**  
+     C. When lesions are <2 cm  
+     D. Never  
+     *Correct: B. Follow-up may be discontinued after menopause because changes are rare after this age.*
+
+141. **What percentage of women with HCA in the post-menopausal period have undetectable lesions?**  
+     A. 10-15%  
+     B. 20-30%  
+     **C. 44%**  
+     D. 60-70%  
+     *Correct: C. Radiologic follow-up in 48 women with HCA in the post-menopausal period showed undetectable lesions (44%)...*
+
+142. **What is the typical appearance of angiomyolipoma on CT?**  
+     **A. Heterogeneous lesion that contains fat**  
+     B. Homogeneous hypodense lesion  
+     C. Cystic lesion with calcifications  
+     D. Hypervascular lesion with washout  
+     *Correct: A. Precontrast computed tomography shows a heterogeneous lesion that contains fat.*
+
+143. **What is the main risk associated with angiomyolipoma >5 cm?**  
+     A. Bleeding  
+     B. Malignant transformation  
+     **C. Both bleeding and malignant transformation**  
+     D. Portal hypertension  
+     *Correct: C. For lesions greater than 5 cm, a more aggressive approach should be undertaken. As a matter of fact, these lesions have the highest risk of malignant transformation...*
+
+144. **What is the typical appearance of lipoma on fat-suppressed MR sequences?**  
+     A. Hyperintense  
+     B. Isointense  
+     **C. Drop in signal intensity**  
+     D. No change  
+     *Correct: C. The key finding is the drop in signal intensity on fat-suppressed MR sequences.*
+
+145. **How does lipoma differ from fatty hepatocellular tumors on opposed-phase T1-weighted MR images?**  
+     A. Lipomas show signal dropout  
+     **B. Lipomas do not show signal dropout**  
+     C. Lipomas show more pronounced signal dropout  
+     D. There is no difference  
+     *Correct: B. Contrary to fatty hepatocellular tumors that contain fat, lipomas do not drop in signal intensity on opposed-phase T1-weighted MR images.*
+
+146. **What is the typical size of biliary hamartomas (Von Meyenburg complexes)?**  
+     A. >1 cm  
+     B. 5-10 mm  
+     **C. <5 mm**  
+     D. Variable, no typical size  
+     *Correct: C. Biliary hamartomas usually present as multiple and small (<5 mm) nodules scattered throughout the liver.*
+
+147. **With what condition are biliary hamartomas particularly frequent?**  
+     A. Hepatitis C  
+     **B. Congenital hepatic fibrosis or polycystic liver disease**  
+     C. Cirrhosis  
+     D. Nonalcoholic steatohepatitis  
+     *Correct: B. They are particularly frequent in patients with congenital hepatic fibrosis or polycystic liver disease.*
+
+148. **How do biliary hamartomas differ from Caroli disease?**  
+     A. Biliary hamartomas communicate with bile ducts  
+     **B. Biliary hamartomas do not communicate with bile ducts**  
+     C. Biliary hamartomas are larger  
+     D. Biliary hamartomas are more vascular  
+     *Correct: B. The diagnosis is often mistaken for Caroli disease, but these lesions do not communicate with bile ducts.*
+
+149. **What genetic mutation has been identified in more than half of bile duct adenomas?**  
+     A. KRAS  
+     B. TP53  
+     **C. BRAF V600E**  
+     D. CTNNB1  
+     *Correct: C. The recent identification of BRAF V600E mutations in more than half of cases of BDAs support a different pathogenesis process.*
+
+150. **What is the typical appearance of inflammatory pseudotumors of the liver on imaging?**  
+     A. Well-defined hypervascular lesions  
+     **B. Ill-defined, large, heterogeneous, hyperenhanced on arterial phase**  
+     C. Cystic lesions with septations  
+     D. Homogeneous hypodense lesions  
+     *Correct: B. On imaging, lesions can be ill-defined, large (median, 4-5 cm in diameter), heterogeneous, and hyperenhanced on arterial phase.*
+
+151. **What percentage of patients with inflammatory pseudotumors have abnormal liver tests?**  
+     A. Less than 5%  
+     B. 10-15%  
+     **C. Less than 20%**  
+     D. More than 50%  
+     *Correct: C. Abnormal blood liver test results are seen in less than 20% of patients with IPL...*
+
+152. **What percentage of patients with inflammatory pseudotumors show an inflammatory syndrome on hematologic tests?**  
+     A. 5-10%  
+     B. 15-25%  
+     **C. One-third**  
+     D. More than 50%  
+     *Correct: C. Hematologic test results are usually normal but reveal an inflammatory syndrome in one-third of patients.*
+
+153. **What is the main initial misdiagnosis for inflammatory pseudotumors?**  
+     **A. Malignant lesions (such as cholangiocarcinoma)**  
+     B. Liver abscess  
+     C. Hemangioma  
+     D. FNH  
+     *Correct: A. Most common initial diagnoses after laboratory and imaging investigations include malignant lesions (such as cholangiocarcinoma) and liver abscess...*
+
+154. **What is the diagnostic accuracy of liver biopsy for inflammatory pseudotumors?**  
+     A. Very low  
+     B. 25-50%  
+     **C. Allows surgery to be avoided in 75% of patients**  
+     D. Almost 100%  
+     *Correct: C. Histologic analysis of biopsy material results in surgery being avoided in 75% of patients with IPL.*
+
+155. **What is the main rationale for using steroids in inflammatory pseudotumors?**  
+     A. To reduce tumor size rapidly  
+     **B. Due to possible autoimmune etiology resembling IgG4-related sclerosing cholangitis**  
+     C. To prevent malignant transformation  
+     D. To reduce bleeding risk  
+     *Correct: B. The rationale for using steroids would be the autoimmune etiology resembling IgG4-related sclerosing cholangitis, which often responds well to steroids.*
+
+156. **What is the typical appearance of solitary fibrotic tumors on delayed-phase imaging?**  
+     A. No enhancement  
+     B. Washout  
+     **C. Progressive intense enhancement**  
+     D. Cystic changes  
+     *Correct: C. Progressive enhancement can be very intense on delayed phase and is related to abundant collagen.*
+
+157. **What is the main concern with solitary fibrotic tumors?**  
+     A. High risk of malignant transformation  
+     **B. Association with extrahepatic malignancy**  
+     C. Frequent bleeding  
+     D. Rapid growth  
+     *Correct: B. Association with extrahepatic malignancy like colorectal cancer may be observed and suggest the possible theory of necrosis of small foci of metastases.*
+
+158. **What is the typical size of lymphangiomas in adults?**  
+     A. >5 cm  
+     B. 2-5 cm  
+     **C. <4 cm**  
+     D. Variable, no typical size  
+     *Correct: C. In adults, these lesions are generally small (<4 cm) and asymptomatic, but some cases of giant lesions have been reported.*
+
+159. **What is the main clinical significance of hepatic leiomyoma?**  
+     A. High risk of malignant transformation  
+     B. Frequent bleeding  
+     **C. Nonspecific radiologic findings requiring resection for diagnosis**  
+     D. Association with portal hypertension  
+     *Correct: C. Because of the nonspecific radiologic findings, liver resection is usually recommended.*
+
+160. **What is the typical appearance of hepatic leiomyoma on T1-weighted MRI?**  
+     A. Hyperintense  
+     **B. Hypointense**  
+     C. Isointense  
+     D. Mixed signal intensity  
+     *Correct: B. On MRI, leiomyomas are hypointense on T1-weighted sequences and strongly hyperintense on T2-weighted sequences.*
+
+161. **What is the main immunohistochemical marker for hepatic leiomyoma?**  
+     A. HMB-45  
+     B. CD34  
+     **C. Vimentin and smooth muscle actin**  
+     D. Cytokeratin  
+     *Correct: C. Immunoreactivity with mesenchymal markers shows positivity of the cell proliferation with vimentin and smooth muscle actin.*
+
+162. **What is the typical appearance of liver splenosis on imaging?**  
+     A. Hypodense on CT  
+     B. Hypointense on T1 MRI  
+     **C. Hyper-enhanced tumor with wash-out on delayed phase**  
+     D. Cystic appearance  
+     *Correct: C. On imaging, the lesion exhibits features of a hyper-enhanced tumor with wash-out on the delayed phase.*
+
+163. **What is the typical size of hepatic endometriosis lesions?**  
+     A. <2 cm  
+     B. 2-5 cm  
+     **C. >5 cm**  
+     D. Variable, no typical size  
+     *Correct: C. These lesions are generally larger than 5 cm, can be of cystic appearance...*
+
+164. **What is the main challenge with hepatic endometriosis?**  
+     **A. Extremely challenging preoperative diagnosis**  
+     B. High risk of malignant transformation  
+     C. Frequent bleeding complications  
+     D. Association with systemic diseases  
+     *Correct: A. Preoperative diagnosis is extremely challenging given the absence of any specific clinical or radiologic features and often requires resection.*
+
+165. **What is the main risk factor for hemangioma growth?**  
+     A. Alcohol consumption  
+     **B. High estrogen states**  
+     C. Obesity  
+     D. Viral hepatitis  
+     *Correct: B. Some of these tumors have estrogen receptors and accelerated growth has been observed with high estrogen states...*
+
+166. **What is the typical appearance of FNH on contrast-enhanced ultrasound?**  
+     **A. Strong and homogeneous enhancement apart from the central scar**  
+     B. Peripheral globular enhancement  
+     C. Washout on portal phase  
+     D. No enhancement  
+     *Correct: A. Contrast-enhanced ultrasound demonstrates strong and homogeneous enhancement apart from the central scar that remains hypoechoic.*
+
+167. **Which HCA subtype is associated with MODY 3?**  
+     A. Inflammatory  
+     **B. HNF1A**  
+     C. Beta-catenin  
+     D. Sonic hedgehog  
+     *Correct: B. HNF1A mutation was identified in young patients with a familial context of MODY 3...*
+
+168. **What is the typical appearance of FNH on the central scar in MRI?**  
+     A. Hypointense on T1 and T2  
+     **B. Hypointense on precontrast T1, hyperintense on T2**  
+     C. Hyperintense on both T1 and T2  
+     D. Isointense on both T1 and T2  
+     *Correct: B. The central scar is best seen on MRI, being hypointense on precontrast T1-weighted images, strongly hyperintense on T2-weighted images...*
+
+169. **What is the main indication for liver biopsy in FNH?**  
+     A. Routine diagnosis  
+     **B. Atypical MRI results**  
+     C. Multiple lesions  
+     D. All cases  
+     *Correct: B. In the setting of an atypical MRI result, liver biopsy is indicated.*
+
+170. **Which of the following is NOT a typical feature of FNH on imaging?**  
+     A. Lack of capsule  
+     B. Lobulated contours  
+     C. Homogeneous appearance (except central scar)  
+     **D. Washout on delayed phase**  
+     *Correct: D. FNH shows strong and homogeneous enhancement on arterial phase with becoming similar to the adjacent liver on portal and delayed phases (no washout).*
+
+171. **What is the main risk factor for inflammatory HCA?**  
+     A. Viral hepatitis  
+     **B. Obesity and extensive OC use**  
+     C. Alcohol consumption  
+     D. Androgen use  
+     *Correct: B. Inflammatory HCA is mainly observed in obese patients with extensive exposure to OCs.*
+
+172. **What is the risk of bleeding in sonic hedgehog HCA?**  
+     **A. High**  
+     B. Moderate  
+     C. Low  
+     D. None  
+     *Correct: A. The main risk factor of bleeding is the presence of sonic hedgehog HCA, IHCA, and tumor size...*
+
+173. **What is the main clinical presentation of peliosis hepatis?**  
+     A. Abdominal pain  
+     B. Jaundice  
+     **C. Asymptomatic (but can cause liver rupture)**  
+     D. Fever  
+     *Correct: C. In general, peliosis is asymptomatic, but severe complications such as spontaneous liver rupture with subsequent bleeding...*
+
+174. **What is the main treatment for peliosis hepatis?**  
+     A. Surgical resection  
+     B. Transarterial embolization  
+     **C. Withdrawal of causative agents**  
+     D. Chemotherapy  
+     *Correct: C. The treatment includes withdrawal of the possible causative agents, which can lead to regression of the disease.*
+
+175. **What is the main risk factor for peliosis hepatis?**  
+     A. Alcohol consumption  
+     **B. Oxaliplatin-based chemotherapy**  
+     C. Viral hepatitis  
+     D. Obesity  
+     *Correct: B. This lesion is mostly observed in adult patients after systemic chemotherapy for colorectal liver metastases using oxaliplatin.*
+
+176. **What is the typical appearance of focal fatty sparing around the gallbladder related to?**  
+     **A. Venous drainage**  
+     B. Arterial supply  
+     C. Bile duct anatomy  
+     D. Neural innervation  
+     *Correct: A. Focal fatty sparing around the gallbladder is also very likely to be related to venous drainage...*
+
+177. **What is the main imaging finding that differentiates HCA from FNH?**  
+     A. Presence of central scar  
+     **B. Appearance on hepatobiliary phase**  
+     C. Size of the lesion  
+     D. Enhancement pattern  
+     *Correct: B. Most FNHs are isointense or hyperintense on hepatobiliary phase, whereas most HCAs are hypointense compared with the liver parenchyma.*
+
+178. **What is the main risk factor for FNH growth?**  
+     A. Oral contraceptives  
+     B. Pregnancy  
+     **C. None (FNH usually remains stable)**  
+     D. Obesity  
+     *Correct: C. FNH remains stable in size, even after interruption of OCs or pregnancy.*
+
+179. **What is the main risk factor for hemangioma growth in the 30-39 year age group?**  
+     A. Alcohol consumption  
+     **B. High estrogen states**  
+     C. Obesity  
+     D. Viral hepatitis  
+     *Correct: B. Growth rate is very related to age, with a low prevalence in the 20- to 29-year-old group and higher growth rate in the 30- to 39-year-old group.*
+
+180. **What is the main clinical significance of hepatic small vessel neoplasm?**  
+     A. High risk of malignant transformation  
+     B. Frequent bleeding  
+     **C. None (benign with no complications)**  
+     D. Association with portal hypertension  
+     *Correct: C. No complication was encountered, and no recurrence was reported after complete resection.*
+
+181. **What is the main risk factor for HCA in men?**  
+     A. Oral contraceptives  
+     B. Obesity  
+     **C. Androgen use**  
+     D. Alcohol consumption  
+     *Correct: C. Androgen also contributes to the pathogenesis of HCA, with tumors having been reported in patients who have Fanconi's anemia treated with androgen...*
+
+182. **What is the main risk factor for FNH?**  
+     A. Oral contraceptives  
+     B. Obesity  
+     **C. Arterial malformation**  
+     D. Viral hepatitis  
+     *Correct: C. FNH is considered a hyperplastic reaction resulting from arterial malformation.*
+
+183. **What is the main risk factor for hemangioma in infants?**  
+     A. Oral contraceptives  
+     **B. Different from adults (separate entity)**  
+     C. Obesity  
+     D. Androgen use  
+     *Correct: B. Because of the difference of histologic structure between adult and infantile forms and because of various clinical presentations, they must be regarded as separate entities.*
+
+184. **What is the main risk factor for inflammatory HCA in women?**  
+     A. Alcohol consumption  
+     **B. Obesity and OC use**  
+     C. Viral hepatitis  
+     D. Androgen use  
+     *Correct: B. Inflammatory HCA is mainly observed in obese patients with extensive exposure to OCs.*
+
+185. **What is the main risk factor for beta-catenin HCA?**  
+     A. Oral contraceptives  
+     **B. Androgen exposure**  
+     C. Obesity  
+     D. Alcohol consumption  
+     *Correct: B. These tumors are more commonly related to androgen than estrogen intake (both endogenous and exogenous androgen exposure)...*
+
+186. **What is the main risk factor for HNF1A HCA?**  
+     A. Androgen use  
+     B. Obesity  
+     **C. MODY 3**  
+     D. Viral hepatitis  
+     *Correct: C. HNF1A mutation was identified in young patients with a familial context of MODY 3...*
+
+187. **What is the main risk factor for bleeding in HCA located in the left lateral segments?**  
+     A. Size <5 cm  
+     **B. Exophytic location**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. Other risk factors are exophytic lesions or lesions located in the left lateral segments and with peripheral arteries visualized on imaging...*
+
+188. **What is the main risk factor for bleeding in HCA within the last 6 months?**  
+     A. Weight loss  
+     B. Alcohol consumption  
+     **C. Hormone use**  
+     D. Exercise  
+     *Correct: C. Other risk factors are...hormone use within the last 6 months.*
+
+189. **What is the main risk factor for malignant transformation in HCA?**  
+     A. Size <5 cm  
+     **B. Male sex**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. The most important risk factors for malignancy are male sex and tumor size.*
+
+190. **What is the main risk factor for malignant transformation in HCA besides male sex?**  
+     A. Size <5 cm  
+     **B. Size >5 cm**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. The most important risk factors for malignancy are male sex and tumor size.*
+
+191. **What is the main risk factor for complications in adenomatosis?**  
+     A. Number of lesions  
+     **B. Size of largest lesion**  
+     C. Patient age  
+     D. Subtype of HCA  
+     *Correct: B. Management should be based on the size and not the number of tumors...*
+
+192. **What is the main risk factor for complications in multiple HCAs?**  
+     A. Number of lesions  
+     **B. Size of largest lesion**  
+     C. Patient age  
+     D. Subtype of HCA  
+     *Correct: B. Management should be based on the size and not the number of tumors...*
+
+193. **What is the main risk factor for complications in HCA during pregnancy?**  
+     A. Size <5 cm  
+     **B. Size >5 cm**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. According to literature data and when the diagnosis is made before pregnancy, HCA greater than 5 cm should be treated and HCA less than 5 cm can be regularly followed...*
+
+194. **What is the main risk factor for complications in HCA with recent hormone use?**  
+     A. Size <5 cm  
+     **B. Size >5 cm**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. The main risk factor of bleeding is the presence of sonic hedgehog HCA, IHCA, and tumor size...*
+
+195. **What is the main risk factor for complications in HCA with peripheral arteries on imaging?**  
+     A. Size <5 cm  
+     **B. Size >5 cm**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. Other risk factors are exophytic lesions or lesions located in the left lateral segments and with peripheral arteries visualized on imaging...*
+
+196. **What is the main risk factor for complications in HCA with exophytic lesions?**  
+     A. Size <5 cm  
+     **B. Size >5 cm**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. Other risk factors are exophytic lesions or lesions located in the left lateral segments and with peripheral arteries visualized on imaging...*
+
+197. **What is the main risk factor for complications in HCA with inflammatory subtype?**  
+     A. Size <5 cm  
+     **B. Size >5 cm**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. The main risk factor of bleeding is the presence of sonic hedgehog HCA, IHCA, and tumor size...*
+
+198. **What is the main risk factor for complications in HCA with sonic hedgehog subtype?**  
+     A. Size <5 cm  
+     **B. Size >5 cm**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. The main risk factor of bleeding is the presence of sonic hedgehog HCA, IHCA, and tumor size...*
+
+199. **What is the main risk factor for complications in HCA with beta-catenin subtype?**  
+     A. Size <5 cm  
+     **B. Size >5 cm**  
+     C. HNF1A subtype  
+     D. Age <30 years  
+     *Correct: B. Malignant transformation is mainly observed in HCAs greater than 5 cm...*
+
+200. **What is the main risk factor for complications in HCA with HNF1A subtype?**  
+     A. Size >5 cm  
+     **B. Very low risk regardless of size**  
+     C. Male sex  
+     D. Age >50 years  
+     *Correct: B. HNF1A HCAs have a very low risk of bleeding (<10%) and the risk of malignant transformation is very low with HNF1A HCA.*

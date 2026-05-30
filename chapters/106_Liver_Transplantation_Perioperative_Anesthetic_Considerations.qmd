@@ -1,0 +1,1352 @@
+# 106 Liver Transplantation: Perioperative Anesthetic Considerations
+
+
+**1. According to the Global Observatory on Donation and Transplantation, what is the primary challenge in liver transplantation despite over 35,000 procedures being performed annually worldwide?**
+
+- The high cost of immunosuppressive medications
+- **The number of patients on the waiting list exceeding donor organ availability**
+- A global shortage of qualified transplant surgeons
+- The high rate of post-operative complications
+
+*Explanation: "The Global Observatory on Donation and Transplantation1 estimates that more than 35,000 liver transplantations are performed annually worldwide, but the number of patients on the waiting list continues to exceed donor organ availability."*
+
+**2. What has been a consequence of the continuous donor shortage in liver transplantation over the past decade?**
+
+- A decrease in the overall number of transplants performed
+- A shift towards only transplanting pediatric patients
+- **Dramatic changes in recipient and donor selection criteria**
+- The development of fully artificial livers for temporary support
+
+*Explanation: "Because of the continuous donor shortage, dramatic changes in recipient and donor selection have emerged in the past decade..."*
+
+**3. Which patient population is being transplanted more frequently according to United Network for Organ Sharing data from 2018?**
+
+- Patients younger than 18 years old
+- Patients with a Model for End-Stage Liver Disease (MELD) score less than 10
+- **Patients older than 65 and those with a MELD score ≥30**
+- Patients with a history of illicit drug use
+
+*Explanation: "United Network for Organ Sharing data from the 2018 Scientific Registry of Transplant Recipients...show that patients older than 65 and those with a Model for End-Stage Liver Disease(MELD) score equal to or higher than 30 are more frequently transplanted..."*
+
+**4. What trend has been observed in the prevalence of comorbidities among liver transplant recipients over the past 10 years?**
+
+- A marked decrease in obesity and diabetes
+- **A marked increase in obesity and diabetes**
+- No significant change in comorbidity profiles
+- An increase in cardiovascular disease but a decrease in metabolic syndrome
+
+*Explanation: "...prevalence of obesity and diabetes among transplant recipients has increased markedly over the past 10 years."*
+
+**5. Despite increasing medical complexity, what has been the trend for overall graft and patient outcomes in liver transplantation?**
+
+- They have remained static.
+- They have worsened due to sicker recipients.
+- **They have continued to improve.**
+- They have improved only for pediatric recipients
+
+*Explanation: "Despite the increasing medical complexity, overall graft and patient outcomes have continued to improve."*
+
+**6. According to the US OPTN/SRTR 2018 report, what was the 1-year graft survival rate for cadaveric liver transplants performed in 2017?**
+
+- Approximately 76%
+- Approximately 84%
+- **Approximately 92%**
+- Approximately 95%
+
+*Explanation: "...graft survival rates of patients transplanted with a cadaveric graft are about 92% at 1 year for transplants performed in 2017..."*
+
+**7. What is a key factor that has contributed to improved outcomes in liver transplantation, as stated in the text?**
+
+- The discovery of new immunosuppressive drugs with fewer side effects
+- **The progressive advancement and standardization of surgical and anesthetic techniques**
+- The complete elimination of the organ shortage through cloning
+- The widespread use of gene therapy to correct underlying liver disease
+
+*Explanation: "These encouraging figures...have resulted from the progressive advancement and standardization of surgical and anesthetic techniques..."*
+
+**8. How has the COVID-19 pandemic impacted liver transplantation activities worldwide?**
+
+- It has led to a permanent halt in all transplant activities.
+- **It has resulted in a temporary decrease in transplant activities.**
+- It has had no significant impact on transplant centers.
+- It has accelerated the development of new transplant protocols without any negative effects.
+
+*Explanation: "The COVID-19 pandemic...has challenged the(liver) transplantation system worldwide, resulting in a temporary decrease of transplant activities."*
+
+**9. Which of the following is NOT listed as an issue for liver transplant centers during the COVID-19 pandemic?**
+
+- Straining of resources like ICU bed availability
+- Risk of nosocomial COVID-19 infection in recipients
+- The possibility of disease transmission to healthcare workers
+- **A significant increase in the availability of donor organs**
+
+*Explanation: "This epidemic presents multiple issues for liver transplant centers:(1) the straining of resources(limited intensive care unit[ICU] bed and equipment availability);(2) the concerns for the risk of nosocomial COVID-19 infection in recipients, and the possibility of transmitting the disease to healthcare workers..."*
+
+**10. What is one strategy the orthotopic liver transplantation (OLT) community has used to respond to the challenges of the COVID-19 pandemic?**
+
+- Halting all evaluations for new transplant candidates
+- Prioritizing only emergency transplants for acute liver failure
+- **Creating “COVID-19 protocols” that include screening for donors and recipients**
+- Requiring all transplant recipients to be vaccinated before listing
+
+*Explanation: "The orthotopic liver transplantation (OLT) community has responded to these challenges by creating “COVID-19 protocols,” which often include screening for both donors and recipients before liver transplant..."*
+
+**11. What is the definitive treatment for acute and chronic irreversible liver failure, as well as for some malignancies confined to the liver?**
+
+- Chemotherapy and radiation
+- Long-term dialysis
+- **Liver transplantation**
+- Gene editing therapy
+
+*Explanation: "Liver transplantation is the definitive treatment for acute and chronic irreversible liver failure; for syndromes not manifesting with end-stage liver disease(ESLD), including polycystic liver disease and metabolic diseases; for some malignancies confined to the liver; and for cholestatic liver diseases."*
+
+**12. Which of the following is listed as a contraindication to orthotopic liver transplantation (OLT) of particular interest to anesthesiologists?**
+
+- Mild asthma
+- **Uncontrolled sepsis**
+- A history of migraines
+- Chronic back pain
+
+*Explanation: "Of accepted contraindications to OLT, those of particular interest to anesthesiologists include severe cardiopulmonary conditions...and uncontrolled sepsis."*
+
+**13. What recent factor has been recognized to impact liver transplant outcomes, leading to recommendations for its standardized assessment?**
+
+- Patient's blood type
+- Patient's dietary preferences
+- **Frailty**
+- Patient's occupation
+
+*Explanation: "More recently, the impact of frailty on liver transplant outcomes has been recognized and the use of standardized tools to assess frailty in the evaluation of liver transplant candidates has been recommended."*
+
+**14. What does the 2012 United Network for Organ Sharing (UNOS) bylaw mandate regarding liver transplant anesthesia?**
+
+- That all centers must use total intravenous anesthesia (TIVA)
+- **That transplant centers appoint a Director of Liver Transplant Anesthesia**
+- That all anesthesiologists must have a minimum of 10 years of experience
+- That regional anesthesia is the preferred method for all cases
+
+*Explanation: "A 2012 United Network for Organ Sharing(UNOS) bylaw mandates that transplant centers appoint a Director of Liver Transplant Anesthesia and establish the directorship criteria..."*
+
+**15. What is the primary reason for the UNOS decision to mandate a dedicated Director of Liver Transplant Anesthesia?**
+
+- To reduce the overall cost of the transplant procedure
+- **Because standardized care by a dedicated team may influence key quality and safety outcomes**
+- To ensure that all centers use the same brand of anesthetic gases
+- To centralize all transplant data collection for research purposes
+
+*Explanation: "This decision by UNOS was motivated by the evidence that standardized care by a dedicated and experienced liver transplant anesthesia team may influence key quality and safety outcomes and resource utilization..."*
+
+**16. Hepatic encephalopathy (HE) is a defining sign and main cause of death in which condition?**
+
+- Chronic hepatitis B
+- Alcoholic steatohepatitis
+- **Acute liver failure (ALF)**
+- Non-alcoholic fatty liver disease (NAFLD)
+
+*Explanation: "HE is an overt or covert manifestation of cirrhosis in up to 80% of cirrhotic patients, and it is a defining sign and main cause of death in acute liver failure (ALF)."*
+
+**17. According to the American Association for the Study of Liver Diseases (AASLD), what type of hepatic encephalopathy is associated with acute liver failure (ALF)?**
+
+- **Type A**
+- Type B
+- Type C
+- Type D
+
+*Explanation: "Based on the etiology, the American Association for the Study of Liver Diseases (AASLD)20 recognizes that type A is associated with ALF, type B with a transjugular intrahepatic portosystemic shunt(TIPS), and type C with cirrhosis."*
+
+**18. What is the central role in the pathophysiology of hepatic encephalopathy, according to the text?**
+
+- Excess glucose production
+- **Ammonia**
+- Low sodium levels
+- High bilirubin levels
+
+*Explanation: "Evidence supports the central role of ammonia, which bypasses first-pass liver clearance via portosystemic shunting."*
+
+**19. In acute liver failure (ALF), what do high arterial and brain levels of ammonia correlate well with?**
+
+- Improved cognitive function
+- **Cerebral edema and increased intracranial pressure (ICP)**
+- Decreased need for mechanical ventilation
+- Rapid regeneration of hepatocytes
+
+*Explanation: "High arterial and brain levels of ammonia in ALF correlate well with cerebral edema and increased intracranial pressure(ICP), with consequent high risk of mortality from brain herniation and hypoxia."*
+
+**20. What is a known risk factor for new or worsening encephalopathy in patients with cirrhosis?**
+
+- A low-protein diet
+- Regular exercise
+- **A transjugular intrahepatic portosystemic shunt (TIPS)**
+- Daily aspirin use
+
+*Explanation: "TIPS, a known risk factor, is associated with 30% of new or worsening encephalopathy."*
+
+**21. What is a primary treatment for hepatic encephalopathy that works by reducing the intestinal production and absorption of ammonia?**
+
+- Beta-blockers
+- **Nonabsorbable disaccharides**
+- Proton pump inhibitors
+- Statins
+
+*Explanation: "Treatment includes nonabsorbable disaccharides, which reduce the intestinal production and absorption of ammonia..."*
+
+**22. What is the primary life-threatening complication of grade 3 and 4 hepatic encephalopathy in acute liver failure?**
+
+- Gastrointestinal bleeding
+- **Cerebral edema and increased intracranial pressure**
+- Acute kidney injury
+- Pulmonary embolism
+
+*Explanation: "The hallmarks of HE in ALF are cerebral edema and increased ICP. Both are life-threatening complications of grade 3 and 4 encephalopathy."*
+
+**23. For a patient with grade 3 or 4 hepatic encephalopathy, what is required for airway protection?**
+
+- Placement of a nasogastric tube
+- Administration of high-flow oxygen
+- **Endotracheal intubation**
+- Performance of a tracheostomy
+
+*Explanation: "Grade 3 or 4 HE requires endotracheal intubation for airway protection."*
+
+**24. What is the target for cerebral perfusion pressure (CPP) in the management of encephalopathy and elevated ICP in acute liver failure?**
+
+- CPP > 30 mm Hg
+- **CPP > 60 mm Hg**
+- CPP > 90 mm Hg
+- CPP > 120 mm Hg
+
+*Explanation: "Treatment includes several general and specific interventions aimed at promoting cerebral perfusion pressure(CPP) above 60 mm Hg..."*
+
+**25. Why is the role of invasive intracranial pressure (ICP) monitoring controversial in liver transplant patients?**
+
+- It is too expensive for routine use.
+- **It is associated with a high risk of bleeding in this patient population.**
+- It provides inaccurate readings in patients with cirrhosis.
+- It requires the patient to be awake during the procedure.
+
+*Explanation: "The role of ICP monitoring is controversial because it is associated with a high risk of bleeding in this patient population..."*
+
+**26. What is a noninvasive alternative to ICP monitors mentioned in the text?**
+
+- Electroencephalography (EEG)
+- Magnetic Resonance Imaging (MRI)
+- **Transcranial Doppler (TCD) sonography**
+- Computed Tomography (CT) angiography
+
+*Explanation: "A noninvasive alternative to ICP monitors is transcranial Doppler(TCD) sonography."*
+
+**27. What effect does mild to moderate hypothermia (32°C–35°C) have in the context of acute liver failure?**
+
+- It increases brain ammonia and cytokine levels.
+- **It reduces brain ammonia and cytokine levels and helps restore cerebrovascular autoregulation.**
+- It has no significant effect on brain metabolism.
+- It accelerates the progression of cerebral edema.
+
+*Explanation: "Mild to moderate hypothermia(32°C–35°C) reduces brain ammonia and cytokine levels and in part restores cerebrovascular autoregulation and brain glucose metabolism."*
+
+**28. What is responsible for the majority of nongraft morbidity and mortality in the early post-OLT period?**
+
+- Infectious complications
+- **Cardiovascular complications**
+- Renal failure
+- Neurological events
+
+*Explanation: "Cardiovascular complications are responsible for the majority of nongraft morbidity and mortality in the early post-OLT period."*
+
+**29. What is the hemodynamic state commonly seen in patients with end-stage liver disease (ESLD)?**
+
+- Hypodynamic circulation with high systemic vascular resistance
+- **Hyperdynamic circulation with low systemic vascular resistance**
+- Normal circulation with intermittent arrhythmias
+- Fixed cardiac output with high preload
+
+*Explanation: "Patients with ESLD develop high cardiac output state and systemic hypotension secondary to reduced systemic vascular resistance(SVR)..."*
+
+**30. What can the low systemic vascular resistance (SVR) in ESLD mask?**
+
+- A concurrent urinary tract infection
+- **Compromised cardiac function due to cirrhotic cardiomyopathy**
+- The presence of hepatocellular carcinoma
+- An underlying coagulopathy
+
+*Explanation: "Importantly, the low SVR may mask compromised cardiac function because of cirrhotic cardiomyopathy that is common in ESLD..."*
+
+**31. What is the reported incidence of coronary artery disease (CAD) in decompensated liver disease patients being evaluated for transplant?**
+
+- Up to 10%
+- Up to 25%
+- **Up to 37%**
+- Up to 50%
+
+*Explanation: "Incidence of CAD in OLT candidates is reported in up to 37% of decompensated liver disease patients..."*
+
+**32. What is recommended as an initial screening test for coronary artery disease (CAD) in OLT candidates, despite its limitations in this population?**
+
+- Resting electrocardiogram (ECG)
+- Cardiac biomarkers (troponin)
+- **Dobutamine stress echocardiography (DSE)**
+- Exercise stress test
+
+*Explanation: "Dobutamine stress echocardiography(DSE) is recommended as an initial screening test recognizing that it has low sensitivity and negative predictive value in ESLD patients."*
+
+**33. When is cardiac catheterization indicated in the pre-transplant evaluation?**
+
+- For all patients over the age of 50
+- **If CAD cannot be confidently excluded by non-invasive testing**
+- Only if the patient has chest pain at rest
+- As a routine part of the evaluation for every candidate
+
+*Explanation: "Cardiac catheterization is indicated if CAD cannot be confidently excluded."*
+
+**34. What can predict post-OLT outcomes and is not widely adopted due to the need for specialized equipment and training?**
+
+- Standard pulmonary function tests
+- **Cardiopulmonary exercise testing**
+- Routine blood gas analysis
+- 24-hour Holter monitoring
+
+*Explanation: "Cardiopulmonary exercise testing with measurement of maximum aerobic capacity and ventilatory or aerobic threshold (e.g., the 6-minute walk test) can predict post-OLT outcomes. Although an attractive concept, this methodology is not widely adopted because it requires specialized equipment, staff training, and time."*
+
+**35. What imaging finding is a sign of possible ischemic heart disease in asymptomatic OLT candidates?**
+
+- Left ventricular hypertrophy on echo
+- Pericardial effusion on CT
+- **Coronary calcification on CT**
+- Pulmonary artery dilation on MRI
+
+*Explanation: "Computed tomography(CT) detection of coronary calcification is a sign of possible ischemic heart disease in asymptomatic patients."*
+
+**36. What condition is characterized by blunted systolic function, diastolic dysfunction, and chronotropic incompetence in patients with ESLD?**
+
+- Ischemic cardiomyopathy
+- Hypertensive heart disease
+- **Cirrhotic cardiomyopathy**
+- Viral myocarditis
+
+*Explanation: "Nonischemic cirrhotic cardiomyopathy is characterized by blunted systolic function and diastolic dysfunction, chronotropic incompetence, and electrophysiologic alterations..."*
+
+**37. What is a common electrophysiologic alteration seen in cirrhotic cardiomyopathy?**
+
+- Shortened PR interval
+- **Prolonged QTc interval**
+- Right bundle branch block
+- Atrial fibrillation
+
+*Explanation: "...often manifesting as prolonged QTc interval."*
+
+**38. What is the primary treatment for nonischemic cirrhotic cardiomyopathy, aside from liver transplantation?**
+
+- Aggressive diuresis and fluid restriction
+- **Sodium restriction and administration of beta-blockers and aldosterone antagonists**
+- High-dose corticosteroids
+- Permanent pacemaker implantation
+
+*Explanation: "Medical treatment is based on sodium restriction and administration of b-blockers and aldosterone antagonists; liver transplantation can reverse this condition."*
+
+**39. What percentage of patients with chronic liver disease (CLD) have respiratory problems?**
+
+- Up to 30%
+- Up to 50%
+- **As many as 70%**
+- Nearly 100%
+
+*Explanation: "As many as 70% of patients with CLD have respiratory problems..."*
+
+**40. Portopulmonary hypertension (PPH) involves increased pulmonary vascular resistance and what other condition?**
+
+- Chronic obstructive pulmonary disease (COPD)
+- Pulmonary embolism
+- **Portal hypertension**
+- Left-sided heart failure
+
+*Explanation: "Portopulmonary hypertension(PPH) is a specific type of pulmonary artery hypertension. It involves increased pulmonary vascular resistance(PVR) and portal hypertension with or without advanced liver disease."*
+
+**41. What is the estimated prevalence of portopulmonary hypertension (PPH) in patients with cirrhosis?**
+
+- 0.1% to 1%
+- **2% to 10%**
+- 15% to 25%
+- 30% to 50%
+
+*Explanation: "From 2% to 10% of patients with cirrhosis are affected by PPH."*
+
+**42. What is the diagnostic criterion for mean pulmonary artery pressure (mPAP) in portopulmonary hypertension?**
+
+- mPAP > 15 mm Hg
+- **mPAP > 25 mm Hg**
+- mPAP > 35 mm Hg
+- mPAP > 45 mm Hg
+
+*Explanation: "Diagnosis requires the presence of portal hypertension, mean pulmonary artery pressure(mPAP) greater than 25 mm Hg..."*
+
+**43. What is the current recommendation for offering OLT to recipients with portopulmonary hypertension who respond to medical therapy?**
+
+- **Offer OLT to recipients with mPAP of 35 mm Hg or less.**
+- Offer OLT only if mPAP is normalized to <20 mm Hg.
+- Do not offer OLT regardless of response to therapy.
+- Offer OLT only if they are also receiving a kidney transplant.
+
+*Explanation: "Current recommendations suggest offering OLT to recipients who respond to medical therapy and with mPAP of 35 mm Hg or less."*
+
+**44. Hepatopulmonary syndrome (HPS) is characterized by hypoxemia secondary to what pathological feature?**
+
+- Pulmonary artery thrombosis
+- Pulmonary capillary vasoconstriction
+- **Pulmonary capillary vasodilation**
+- Alveolar hemorrhage
+
+*Explanation: "Hepatopulmonary syndrome(HPS) is a vascular disorder characterized by hypoxemia secondary to pulmonary capillary vasodilation(up to 100 mm) in patients with liver disease."*
+
+**45. What is the estimated incidence of hepatopulmonary syndrome (HPS) in patients with cirrhosis?**
+
+- Between 1% and 3%
+- **Between 5% and 30%**
+- Between 35% and 50%
+- Over 60%
+
+*Explanation: "The estimated incidence in patients with cirrhosis is between 5% and 30%."*
+
+**46. What is the only effective treatment for hepatopulmonary syndrome (HPS)?**
+
+- Long-term oxygen therapy
+- Lung transplantation
+- **Liver transplantation**
+- Vasodilator medications
+
+*Explanation: "No effective medical therapy exists for HPS, and LT is the only treatment."*
+
+**47. What is a useful screening test for hepatopulmonary syndrome (HPS)?**
+
+- Complete blood count (CBC)
+- **Pulse oximetry (O2 saturation <96%)**
+- Chest X-ray
+- Serum ammonia level
+
+*Explanation: "Pulse oximetry(O2 saturation less than 96%) is a useful screening test."*
+
+**48. How is the diagnosis of hepatopulmonary syndrome (HPS) confirmed?**
+
+- **By a positive bubble study on contrast-enhanced echocardiography**
+- By a high-resolution CT scan of the chest
+- By a lung biopsy showing fibrosis
+- By a ventilation-perfusion (V/Q) scan
+
+*Explanation: "The diagnosis is confirmed with ABGs...contrast-enhanced echocardiography, or macroaggregated albumin lung perfusion scan. The echocardiographic signature is a positive bubble test..."*
+
+**49. Hepatic hydrothorax is defined as a pleural effusion in a patient with cirrhosis that is not caused by cardiac or pulmonary diseases and is greater than what volume?**
+
+- 100 mL
+- 250 mL
+- **500 mL**
+- 1000 mL
+
+*Explanation: "Hepatic hydrothorax is defined as a pleural effusion greater than 500 mL not caused by cardiac or pulmonary diseases in a patient with cirrhosis."*
+
+**50. What is considered the main mechanism leading to hepatic hydrothorax?**
+
+- Increased pulmonary capillary permeability
+- **A diaphragmatic defect allowing ascites to pass into the pleural cavity**
+- Right-sided heart failure causing pleural fluid transudate
+- Lymphatic obstruction in the thoracic duct
+
+*Explanation: "A diaphragmatic defect allowing passage of ascites from the peritoneal to the pleural cavity is considered the main mechanism leading to this complication."*
+
+**51. What is the traditional view of hemostasis in end-stage liver disease (ESLD) that has been revised?**
+
+- That it is a hypercoagulable state
+- **That it is a hypocoagulable state**
+- That platelet function is always normal
+- That coagulation factors are always elevated
+
+*Explanation: "The traditional view that ESLD is a hypocoagulable state has been revised."*
+
+**52. What is the current understanding of the hemostatic system in ESLD?**
+
+- It is a simple deficiency of all clotting factors.
+- **It is a fragile, rebalanced state that can tip towards bleeding or thrombosis.**
+- It is a permanently hypercoagulable state.
+- It is unaffected by the liver disease process.
+
+*Explanation: "The current concept emphasizes complex disturbances...that result in rebalancing of the hemostatic system. The resulting fragile, rebalanced state can be easily tipped towards hypocoagulability and bleeding or towards hypercoagulability and thromboembolism."*
+
+**53. What is a common cause of mild to moderate thrombocytopenia in ESLD?**
+
+- Autoimmune destruction of platelets
+- **Splenomegalic platelet sequestration in portal hypertension**
+- Bone marrow suppression from viral hepatitis
+- Excessive consumption in disseminated intravascular coagulation (DIC)
+
+*Explanation: "Mild to moderate thrombocytopenia is common. Causes are splenomegalic platelet sequestration in portal hypertension, impaired megakaryocytopoiesis from reduced production of thrombopoietin by the cirrhotic liver..."*
+
+**54. What is a compensatory mechanism for deficient platelet function in cirrhosis?**
+
+- **An increase in endothelium-synthesized von Willebrand factor (vWF)**
+- A decrease in fibrinogen levels
+- An increase in plasminogen activator inhibitor (PAI-1)
+- A decrease in factor VIII levels
+
+*Explanation: "A compensatory mechanism for the deficient platelet function in cirrhosis is an increase in endothelium-synthesized von Willebrand factor (vWF)..."*
+
+**55. Which coagulation factors are vitamin K-dependent?**
+
+- Factors I, II, V, and VII
+- **Factors II, VII, IX, and X**
+- Factors V, VIII, XI, and XII
+- Factors VIII, IX, XI, and XIII
+
+*Explanation: "Several factors—II, VII, IX, and X—are vitamin K-dependent..."*
+
+**56. In acute liver failure (ALF), which coagulation factors decrease first due to their short half-life?**
+
+- Factors II and X
+- **Factors V and VII**
+- Factors VIII and IX
+- Factors XI and XII
+
+*Explanation: "In ALF, plasma concentrations of coagulation factors with the shortest half-life(factor VII, 4–6 hours; factor V, 12 hours) decrease first..."*
+
+**57. What is the typical status of fibrinogen in chronic liver disease?**
+
+- **It is usually well preserved until advanced stages.**
+- It is always severely depleted.
+- It is elevated due to inflammation.
+- It is unaffected by liver synthetic function.
+
+*Explanation: "Fibrinogen is usually well preserved: its decrease is a mark of advanced cirrhosis or ALF."*
+
+**58. Why are conventional coagulation tests like PT-INR and PTT considered conceptually deficient as tests of in vivo coagulation function?**
+
+- They are too expensive to run routinely.
+- **They measure only the procoagulant pathway and ignore anticoagulant function.**
+- They require a large volume of blood.
+- They are not available as point-of-care tests.
+
+*Explanation: "As tests of in vivo coagulation function, PT-INR and PTT are conceptually deficient because they measure only the procoagulant pathway and ignore the anticoagulant function."*
+
+**59. What seminal observation helps explain why PT-INR is a poor predictor of bleeding in cirrhosis?**
+
+- **Thrombin generation in cirrhotic patients is close to normal.**
+- Platelet counts are always normal in cirrhosis.
+- Fibrinogen levels are always elevated in cirrhosis.
+- Factor VIII levels are always low in cirrhosis.
+
+*Explanation: "The seminal observation that thrombin generation in cirrhotic patients is close to normal84 may, in part, explain why PT-INR and PTT are poor predictors of bleeding in cirrhosis..."*
+
+**60. What advantage do viscoelastic tests like TEG and ROTEM have over conventional coagulation tests?**
+
+- They are cheaper and faster to perform.
+- **They assay whole-blood clot formation and lysis, including the platelet contribution.**
+- They specifically measure only fibrinogen levels.
+- They are not affected by heparin contamination.
+
+*Explanation: "Viscoelastic tests, thromboelastography(TEG... ) and rotation thromboelastometry(ROTEM... ) have the advantage of assaying whole-blood clot formation and lysis, including the platelet contribution..."*
+
+**61. What is a major risk conferred by renal failure to cirrhotic patients both on the waiting list and after liver transplant?**
+
+- Increased risk of developing diabetes
+- **Increased risk of death**
+- Increased risk of hepatic encephalopathy
+- Increased risk of biliary complications
+
+*Explanation: "Renal failure confers increased risk of death to cirrhotic patients, both while on the waiting list and after LT."*
+
+**62. What is hepatorenal syndrome (HRS) primarily characterized by?**
+
+- Severe glomerulonephritis with hematuria
+- **Renal vasoconstriction and a severe reduction in glomerular filtration rate (GFR)**
+- Obstruction of the ureters by uric acid crystals
+- Direct toxic injury to the renal tubules from liver metabolites
+
+*Explanation: "Hepatorenal syndrome(HRS) is a specific type of functional renal failure in patients with decompensated cirrhosis...It is marked by renal vasoconstriction and a severe reduction in glomerular filtration rate(GFR...)"*
+
+**63. What is the primary pathophysiologic process in hepatorenal syndrome (HRS)?**
+
+- Autoimmune attack on the kidneys
+- **A circulatory disturbance involving splanchnic vasodilation**
+- Direct viral infection of the renal parenchyma
+- Genetic mutation affecting renal tubule function
+
+*Explanation: "The primary pathophysiologic process is a circulatory disturbance: portal hypertension facilitates translocation of bacteria...Resulting splanchnic vasodilation decreases the overall SVR and activates several compensatory mechanisms...they also cause renal vasoconstriction and hypoperfusion."*
+
+**64. What is the updated term for what was previously known as acute renal failure (ARF) in cirrhosis?**
+
+- Chronic kidney disease (CKD)
+- Acute tubular necrosis (ATN)
+- **Acute kidney injury (AKI)**
+- Functional renal insufficiency (FRI)
+
+*Explanation: "In 2012 the definition of acute renal failure (ARF) was updated and replaced by acute kidney injury(AKI)."*
+
+**65. How is AKI diagnosed in cirrhosis according to the International Club of Ascites (ICA)-AKI criteria?**
+
+- By a serum creatinine >2.0 mg/dL
+- **By an increase in absolute SCr of more than 0.3 mg/dL or a 1.5- to 2-fold increase from baseline**
+- By the presence of proteinuria on urinalysis
+- By a fractional excretion of sodium (FeNa) >2%
+
+*Explanation: "AKI is diagnosed by an increase in absolute SCr of more than 0.3 mg/dL or by a 1.5- to 2-fold increase from baseline."*
+
+**66. What is a key difference in the treatment approach between acute tubular necrosis (ATN) and hepatorenal syndrome (HRS-AKI)?**
+
+- Vasoconstrictors like terlipressin are used for ATN but not HRS.
+- **Vasoconstrictors like terlipressin are not indicated for the treatment of ATN.**
+- Dialysis is the first-line treatment for HRS.
+- Liver transplantation is contraindicated in ATN.
+
+*Explanation: "Vasoconstrictors(such as terlipressin) are not indicated for the treatment of ATN."*
+
+**67. What is the main pharmacologic approach for treating hepatorenal syndrome (HRS)?**
+
+- Loop diuretics and fluid restriction
+- Broad-spectrum antibiotics
+- **Vasoconstrictors (e.g., terlipressin, norepinephrine) in conjunction with albumin**
+- High-dose corticosteroids
+
+*Explanation: "The main pharmacologic approach uses vasoconstrictors, including a selective vasopressin V1 receptor agonist(e.g., terlipressin) or a-adrenergic agonists(e.g., norepinephrine, midodrine). Vasoconstrictors in conjunction with albumin are only modestly beneficial but are the best medical therapy currently available."*
+
+**68. What is the treatment of choice for patients with cirrhosis and hepatorenal syndrome (HRS)?**
+
+- Long-term hemodialysis
+- Kidney transplantation alone
+- **Liver transplantation**
+- Placement of a transjugular intrahepatic portosystemic shunt (TIPS)
+
+*Explanation: "LT is the treatment of choice for patients with cirrhosis and HRS."*
+
+**69. What percentage of patients with HRS recover kidney function after a successful liver transplant?**
+
+- About 50%
+- About 70%
+- **About 90%**
+- Nearly 100%
+
+*Explanation: "About 90% of patients with HRS recover kidney function after successful LT."*
+
+**70. What is the core principle of Enhanced Recovery After Surgery (ERAS) protocols?**
+
+- To minimize the use of all medications post-operatively
+- **A highly coordinated, multidisciplinary approach driven by evidence-based protocols**
+- To keep patients in the ICU for a minimum of 7 days
+- To avoid all forms of nutritional support until bowel function returns
+
+*Explanation: "Enhanced recovery after surgery(ERAS)...pertains to a highly coordinated, multidisciplinary surgical patient care continuum, driven by evidence-based protocols and best practices."*
+
+**71. What is a benefit of ERAS pathways that has been documented in several surgical specialties?**
+
+- Increased hospital length of stay
+- Reduced patient satisfaction
+- **Improved outcomes and reduced length of stay**
+- Higher rates of surgical site infections
+
+*Explanation: "Benefits of ERAS pathways are well documented in several surgical specialties and include improved outcomes and patient satisfaction and reduced LOS and cost."*
+
+**72. What did a small single-center randomized controlled trial demonstrate regarding ERAS in liver transplantation?**
+
+- It showed no difference in any outcomes.
+- **It demonstrated decreased blood loss and transfusion requirements.**
+- It proved that ERAS is unsafe in this population.
+- It showed an increase in biliary complications.
+
+*Explanation: "A small single-center randomized controlled trial (RCT) demonstrated decreased blood loss and transfusion requirements..."*
+
+**73. What does the Bispectral Index (BIS) monitor assess?**
+
+- Core body temperature
+- **Anesthetic depth based on processed EEG**
+- Blood glucose levels
+- Coagulation status
+
+*Explanation: "Bispectral Index(BIS) monitoring assesses anesthetic depth based on processed encephalography(EEG)."*
+
+**74. How does the baseline BIS index change in patients with hepatic encephalopathy (HE)?**
+
+- It becomes higher than normal.
+- It remains unchanged from baseline.
+- **It becomes lower than normal, proportional to the degree of HE.**
+- It becomes erratic and unreliable.
+
+*Explanation: "Patients with HE have a lower baseline BIS index(i.e., a slow EEG), and this decrease is proportional to the degree of HE."*
+
+**75. What is a potential benefit of using BIS to guide anesthesia in OLT candidates with HE?**
+
+- It allows for the use of higher doses of inhalational agents.
+- **It prevents excessive use of inhalational agents and may help minimize hemodynamic instability.**
+- It eliminates the need for neuromuscular blocking agents.
+- It guarantees a faster emergence from anesthesia.
+
+*Explanation: "Use of BIS...to guide intraoperative anesthetic management during OLT prevents excessive use of inhalational agents and may help minimize anesthetic-induced vasodilatation, hypotension, cerebral hyperemia, and hemodynamic instability."*
+
+**76. What is a common concern with using transesophageal echocardiography (TEE) in the liver transplant population?**
+
+- **The risk of rupture of gastroesophageal varices**
+- The inability to visualize the liver graft
+- The interference with the surgical field during the anhepatic phase
+- The high cost of the probe
+
+*Explanation: "A common concern in the LT population is the risk of rupture of gastroesophageal varices."*
+
+**77. What is a unique advantage of TEE over a pulmonary artery catheter (PAC) in liver transplantation?**
+
+- **It provides continuous, real-time visualization of cardiac structures and dynamic function.**
+- It is less invasive and easier to place.
+- It provides a direct numerical measurement of cardiac output that is more accurate.
+- It does not require any specialized training to interpret.
+
+*Explanation: "The main advantages of TEE are that it provides continuous, real-time visualization of cardiac structures and dynamic function."*
+
+**78. What is the only intraoperative monitor that allows for an instantaneous diagnosis of intracardiac thrombus?**
+
+- Central venous pressure (CVP) line
+- Arterial blood gas (ABG) analysis
+- **Transesophageal echocardiography (TEE)**
+- Electrocardiogram (ECG)
+
+*Explanation: "In addition, TEE is the only intraoperative monitor that allows an instantaneous diagnosis of...intracardiac thrombus..."*
+
+**79. Why are conventional tests of hemostasis like PT and PTT limited?**
+
+- **They use plasma samples devoid of platelets and only measure procoagulant factors.**
+- They are not sensitive to the effects of heparin.
+- They take less than 5 minutes to return results.
+- They are always accurate predictors of bleeding risk.
+
+*Explanation: "Conventional tests of hemostasis, PT and PTT, have several important limitations. First, these assays use plasma samples devoid of platelets. Thus the contribution of activated platelets and endothelium to the coagulation process is not assessed by these tests. Second, PT and PTT measure only the activity of procoagulant factors."*
+
+**80. What is a major practical shortcoming of laboratory PT and PTT?**
+
+- They are too inexpensive.
+- **They have a long turnaround time, typically about 45 minutes.**
+- They are not affected by the patient's temperature.
+- They can be performed at the bedside in under 1 minute.
+
+*Explanation: "An important practical shortcoming of the laboratory PT and PTT is a long turnaround time, typically about 45 minutes."*
+
+**81. What should be part of the point-of-care (POC) battery for hemostasis monitoring during OLT?**
+
+- Serum creatinine
+- **Activated clotting time (ACT)**
+- White blood cell count
+- Liver function tests
+
+*Explanation: "Activated clotting time (ACT) should be a part of the POC battery because with the reperfusion of the graft, a massive dose of unfractionated heparin is flushed into the circulation."*
+
+**82. What is a key conceptual deficiency of TEG and ROTEM monitors?**
+
+- They are too slow to provide real-time results.
+- **They cannot evaluate endothelial function.**
+- They only measure platelet count.
+- They are not able to detect fibrinolysis.
+
+*Explanation: "The main conceptual deficiency of the two monitors is the inability to evaluate endothelial function."*
+
+**83. What is a common metabolic abnormality in acute liver failure (ALF)?**
+
+- Hyperglycemia
+- **Hypoglycemia**
+- Hypernatremia
+- Hypocalcemia
+
+*Explanation: "ESLD is associated with impaired glucose control; hypoglycemia is common in ALF..."*
+
+**84. What is a common metabolic abnormality in chronic liver disease (CLD)?**
+
+- Hypoglycemia
+- **Hyperglycemia due to peripheral insulin resistance**
+- Hypokalemia
+- Hypermagnesemia
+
+*Explanation: "...whereas hyperglycemia because of peripheral insulin resistance and metabolic syndrome are common in CLD."*
+
+**85. What has been associated with poor perioperative glucose control in liver transplantation?**
+
+- A lower incidence of infections
+- Improved graft function
+- **A higher incidence of infections, graft rejection, and 1-year mortality**
+- Faster wound healing
+
+*Explanation: "Retrospective studies have shown association of a higher incidence of infections, graft rejection, and 1-year mortality with poor perioperative glucose control."*
+
+**86. What is a hallmark of advanced cirrhosis and an independent predictor of mortality on the transplant waiting list?**
+
+- Hyperkalemia
+- Hypocalcemia
+- **Low-serum sodium (hyponatremia)**
+- Hyperglycemia
+
+*Explanation: "Low-serum sodium is a hallmark of advanced cirrhosis and an independent predictor of mortality on the transplant waiting list..."*
+
+**87. What serious neurologic condition can occur if serum sodium is corrected too rapidly during liver transplantation?**
+
+- Guillain-Barré syndrome
+- Myasthenia gravis
+- **Osmotic demyelination syndrome (ODS)**
+- Multiple sclerosis
+
+*Explanation: "...it can be prevented by a rate of correction of up to 8 to 10 mEq/L in the first 24 hours and up to 18 mEq/L in the first 48 hours."*
+
+**88. What is the recommended rate of correction for serum sodium to prevent osmotic demyelination syndrome (ODS)?**
+
+- Up to 4 to 6 mEq/L in the first 24 hours
+- **Up to 8 to 10 mEq/L in the first 24 hours**
+- Up to 15 to 20 mEq/L in the first 24 hours
+- As fast as possible to normalize levels
+
+*Explanation: "...it can be prevented by a rate of correction of up to 8 to 10 mEq/L in the first 24 hours and up to 18 mEq/L in the first 48 hours."*
+
+**89. What is a well-known detrimental effect of hypothermia during surgery?**
+
+- Improved wound healing
+- Enhanced coagulation
+- **Increased risk of infectious complications**
+- Decreased metabolic rate
+
+*Explanation: "Well-known detrimental effects of hypothermia include impaired wound healing and coagulation and increased risk of infectious complications."*
+
+**90. What is a consequence of the acute decrease in central temperature that occurs after graft reperfusion?**
+
+- Improved hemodynamic stability
+- **Profound bradycardia and tall T waves on ECG**
+- Immediate normalization of liver enzymes
+- Decreased need for blood transfusion
+
+*Explanation: "An acute decrease in central temperature results from the cold perfusate returning to the heart after graft reperfusion. This precipitous hypothermia contributes to postreperfusion hemodynamic instability and bradyarrhythmias that may progress to cardiac arrest...A two-lead intraoperative electrocardiogram(ECG) recorded on the operating room monitor shortly after reperfusion shows profound bradycardia and tall T waves."*
+
+**91. What is the relationship between excessive fluid administration and blood loss during liver dissection?**
+
+- Excessive fluids decrease blood loss by improving coagulation.
+- Excessive fluids have no effect on blood loss.
+- **Excessive fluids may increase blood loss by increasing pressure in the IVC and portal vein.**
+- Excessive fluids only affect blood loss in pediatric patients.
+
+*Explanation: "Excessive fluid administration may result in increased pressure in the IVC, PV, and collateral veins, contributing to blood loss during liver dissection..."*
+
+**92. What is a potential benefit of restrictive fluid and transfusion management based on point-of-care (POC) laboratories?**
+
+- It increases the need for fresh frozen plasma (FFP).
+- **It results in a marked reduction in blood product administration.**
+- It leads to longer operative times.
+- It is only beneficial in patients with a low MELD score.
+
+*Explanation: "Restrictive fluid and transfusion management based on POC laboratories result in marked reduction in blood product administration, including transplantation without transfusion and better outcomes."*
+
+**93. Why is central venous pressure (CVP) not considered a reliable index of preload?**
+
+- It is too easy to measure.
+- **Volumetric assessment with TEE or dynamic indexes is superior.**
+- It is always accurate in cirrhotic patients.
+- It directly measures cardiac output.
+
+*Explanation: "CVP is not a reliable index of preload, so volumetric assessment with TEE or dynamic indexes is a superior approach to guiding fluid management."*
+
+**94. Which vasopressors are noted to be useful in preserving renal function in hepatorenal syndrome (HRS)?**
+
+- Epinephrine and dopamine
+- Phenylephrine and ephedrine
+- **Vasopressin-1 and alpha-1 adrenergic agonists**
+- Milrinone and dobutamine
+
+*Explanation: "Of note, vasopressin-1 and a1-adrenergic agonists are useful in preserving renal function in HRS..."*
+
+**95. What is a goal of intraoperative management in a patient with moderate portopulmonary hypertension (PPH) and preserved right ventricular (RV) function?**
+
+- To increase systemic vascular resistance (SVR)
+- **To lower pulmonary vascular resistance (PVR) and promote myocardial contractility**
+- To induce profound systemic hypotension
+- To completely paralyze the diaphragm
+
+*Explanation: "In moderate PPH with preserved RV function, the goal of intraoperative management is to lower PVR and promote myocardial contractility and organ perfusion."*
+
+**96. What is a general measure to manage pulmonary hypertension intraoperatively?**
+
+- Inducing hypercapnia and acidosis
+- **Avoiding hypercapnia and acidosis**
+- Using high tidal volumes
+- Minimizing inspired oxygen concentration
+
+*Explanation: "General measures include increasing FiO2, avoiding hypercapnia and acidosis, and using pulmonary vasodilators."*
+
+**97. What surgical technique is noted to favor better renal outcomes by preserving vena caval flow?**
+
+- The classic technique with full IVC clamping
+- **The piggyback technique**
+- The split-liver technique
+- The ex-vivo reperfusion technique
+
+*Explanation: "Surgical techniques that preserve vena caval flow, such as a piggyback technique, favor better renal outcomes."*
+
+**98. What has been associated with increased odds of postoperative acute kidney injury (AKI) in liver transplant recipients?**
+
+- Preoperative hypertension
+- **Preoperative anemia**
+- Preoperative hyperglycemia
+- Preoperative tachycardia
+
+*Explanation: "A recent single-center review...found that preoperative anemia was associated with increased odds of postoperative AKI."*
+
+**99. What is a key strategy to potentially decrease the need for blood transfusion in OLT?**
+
+- Using liberal transfusion thresholds
+- Avoiding all point-of-care testing
+- **Implementing threshold-based strategies**
+- Relying solely on visual estimation of blood loss
+
+*Explanation: "Threshold-based strategies may help decrease the need for blood transfusion in OLT."*
+
+**100. What is the current trend regarding the average blood-product requirements in liver transplantation?**
+
+- They have increased dramatically over the past 2 decades.
+- They have remained stable.
+- **They have decreased dramatically, and OLT can often be performed without transfusion.**
+- They are only decreasing in pediatric transplants.
+
+*Explanation: "Average blood-product requirements have decreased dramatically over the past 2 decades, and now OLT can often be performed without transfusion."*
+
+**101. What is tranexamic acid shown to do in liver transplantation?**
+
+- Increase the risk of thromboembolic events
+- **Reduce transfusion requirements without increasing the risk of thromboembolic events**
+- Cause severe hypotension
+- Induce hepatic artery thrombosis
+
+*Explanation: "Tranexamic acid has been shown to reduce transfusion requirements without increasing the risk of thromboembolic events."*
+
+**102. What is a potential risk of prophylactic use of activated factor VII?**
+
+- It can cause severe bleeding.
+- **It has been associated with an increased incidence of vascular thrombosis.**
+- It leads to immediate graft rejection.
+- It causes profound hypoglycemia.
+
+*Explanation: "Prophylactic use of activated factor VII has been associated with increased incidence of vascular thrombosis..."*
+
+**103. What is an advantage of using cryoprecipitate, fibrinogen concentrate, or prothrombin complex concentrates over fresh frozen plasma (FFP)?**
+
+- They require larger fluid volumes.
+- They have a higher risk of infectious complications.
+- **They offer smaller fluid volume, lower risk of infectious complications, and standardized dosing.**
+- They are less effective at correcting coagulopathy.
+
+*Explanation: "The advantages of these products over FFP are smaller fluid volume, lower risk of infectious complications, and standardized dosing."*
+
+**104. What is a primary goal of mechanical ventilation in liver transplant patients?**
+
+- To maximize tidal volumes to ensure full lung expansion
+- **To optimize respiratory gas exchange and facilitate early postoperative extubation**
+- To maintain the patient on the ventilator for at least 48 hours
+- To induce respiratory alkalosis to counteract metabolic acidosis
+
+*Explanation: "Mechanical ventilation should optimize respiratory gas exchange and maintain lung volumes and capacities to facilitate early postoperative extubation..."*
+
+**105. What ventilatory strategy is suggested to prevent atelectasis and avoid lung injury?**
+
+- **A protective ventilatory strategy**
+- A high-pressure strategy
+- A spontaneous breathing trial immediately after induction
+- Apneic oxygenation throughout the case
+
+*Explanation: "...it seems reasonable to adopt a protective ventilatory strategy to prevent atelectasis and avoid high, nonphysiologic tidal volume and high peak airway pressures."*
+
+**106. What is a rational tool to prevent lung edema, and what is a safe level mentioned in the text?**
+
+- **Positive end-expiratory pressure (PEEP) up to 10 cm H2O**
+- High-frequency oscillatory ventilation
+- Permissive hypercapnia
+- Zero PEEP to allow full exhalation
+
+*Explanation: "Positive end-expiratory pressure(PEEP) is a rational tool to prevent lung edema, and a PEEP of up to 10 mm Hg has proved safe..."*
+
+**107. How was postreperfusion syndrome (PRS) originally defined by Aggarwal and colleagues?**
+
+- As a fever of >38.5°C within 1 hour of reperfusion
+- **As a decrease in systemic arterial pressure to <70% of pre-reperfusion value or MAP <60 mm Hg within 5 minutes of reperfusion**
+- As an immediate doubling of liver enzymes
+- As the onset of atrial fibrillation
+
+*Explanation: "Postreperfusion syndrome(PRS), first described by Aggarwal and colleagues in 1987...was originally defined as a decrease in systemic arterial pressure to less than 70% of the pre-reperfusion value or a mean BP below 60 mm Hg within 5 minutes of liver reperfusion..."*
+
+**108. What is the reported incidence range of significant postreperfusion syndrome (PRS)?**
+
+- 1% to 5%
+- 10% to 20%
+- **25% to 55%**
+- 70% to 90%
+
+*Explanation: "Depending on the reporting center, significant PRS is evident in 25% to 55% of patients..."*
+
+**109. What are some possible factors implicated in the mechanism of postreperfusion syndrome (PRS)?**
+
+- **The release of vasoactive substances like potassium, prostanoids, and bradykinin from the liver graft**
+- The administration of high-dose steroids before reperfusion
+- The use of normothermic machine perfusion
+- A sudden increase in systemic vascular resistance
+
+*Explanation: "Several possible factors have been indicated, such as the release of vasoactive substances from the liver graft or the recipient gut—potassium, prostanoids, bradykinin, ILs—along with hypovolemism, hypothermia, or small air or thrombotic emboli."*
+
+**110. What is PRS associated with in terms of patient outcomes?**
+
+- Improved graft function and shorter hospital stays
+- **An increase in blood loss, transfusion requirements, and higher incidence of postoperative allograft loss**
+- A decreased need for vasopressors post-operatively
+- Lower rates of infection
+
+*Explanation: "PRS is associated with adverse outcomes, including an increase in blood loss and transfusion requirements, and higher incidence of postoperative allograft loss."*
+
+**111. What is methylene blue used to treat in the context of liver transplantation?**
+
+- Severe hypoglycemia
+- **Postreperfusion vasoplegia (refractory hypotension)**
+- Acute kidney injury
+- Hepatic artery thrombosis
+
+*Explanation: "Methylene blue and hydroxocobalamin have been used in treatment of postreperfusion vasoplegia, a refractory hypotension resistant to catecholamines."*
+
+**112. What is the reported incidence range of intracardiac thrombosis (ICT) in liver transplantation?**
+
+- 0.01% to 0.1%
+- **0.4% to 6.2%**
+- 10% to 15%
+- 25% to 30%
+
+*Explanation: "The incidence of ICT has been reported in the 0.4% to 6.2% range."*
+
+**113. In a large single-center review using routine TEE, what was the mortality rate associated with intracardiac thrombosis (ICT)?**
+
+- 10%
+- 25%
+- **45%**
+- 75%
+
+*Explanation: "In the largest to date and best documented single-center review...the incidence of ICT was 4.2% with 45% mortality."*
+
+**114. What is a key preventive strategy for intracardiac thrombosis (ICT) and pulmonary embolism?**
+
+- **Routine use of TEE and identification of hypercoagulable conditions with TEG/ROTEM**
+- Avoiding all forms of anticoagulation
+- Using high-dose steroids before reperfusion
+- Maintaining a very high central venous pressure
+
+*Explanation: "A preventive strategy is based on routine use of TEE, identification of hypercoagulable conditions with TEG/ ROTEM, avoidance of unnecessary prophylactic administration of antifibrinolytics, and judicious use of IV heparin."*
+
+**115. What defines acute liver failure (ALF) in a patient without previous liver disease?**
+
+- **Severe liver dysfunction causing encephalopathy and coagulopathy (INR >1.5) within 24 weeks of symptom onset**
+- Elevated liver enzymes for more than 6 months
+- The presence of ascites and variceal bleeding
+- A MELD score greater than 40
+
+*Explanation: "ALF is defined as a severe liver dysfunction causing encephalopathy and coagulopathy(INR. 1.5) within 24 weeks of the onset of symptoms in patients without previous liver disease..."*
+
+**116. What are the main perioperative challenges in acute liver failure (ALF)?**
+
+- Hypertension and bradycardia
+- **Increased intracranial pressure (ICP) and severe coagulopathy**
+- Hyperglycemia and polyuria
+- Pulmonary edema and hypoxia
+
+*Explanation: "Increased ICP and severe coagulopathy are the hallmarks of ALF and are also the main perioperative challenges."*
+
+**117. Why is serious bleeding rare during liver transplantation for ALF despite profound coagulation abnormalities?**
+
+- **Because ALF patients have minimal or no portal hypertension**
+- Because they receive massive transfusions of blood products
+- Because their platelet count is always normal
+- Because the surgery is much shorter than for chronic disease
+
+*Explanation: "Despite profound coagulation abnormalities in ALF...serious bleeding is rare during LT because ALF patients have minimal or no portal hypertension."*
+
+**118. What is a major limitation of using fresh frozen plasma (FFP) to correct coagulopathy in ALF?**
+
+- It is ineffective at correcting the INR.
+- It is too expensive for routine use.
+- **It can cause volume overload, aggravating brain edema and causing TRALI.**
+- It increases the risk of hepatic artery thrombosis.
+
+*Explanation: "A major limitation of FFP is the potential for volume overload aggravating brain edema and causing transfusion-related acute lung injury(TRALI)."*
+
+**119. What is the primary reason for the increasing percentage of simultaneous liver-kidney transplants?**
+
+- **The introduction of the MELD scoring system**
+- A decrease in the number of liver-only donors
+- The development of new surgical techniques
+- A global increase in the incidence of polycystic kidney disease
+
+*Explanation: "With the introduction of MELD, the percentage of simultaneous liver and kidney transplantation has been increasing..."*
+
+**120. According to an analysis of the OPTN database, how did liver allograft survival compare between combined liver-kidney transplant and liver transplant alone in patients with hepatorenal syndrome (HRS)?**
+
+- It was significantly worse in the combined transplant group.
+- **It was significantly superior in the combined transplant group.**
+- There was no difference between the two groups.
+- The data was inconclusive.
+
+*Explanation: "An analysis of 4275 cirrhotic patients with renal failure from the OPTN database demonstrated an overall significantly higher liver allograft and patient survival rate in recipients with HRS who underwent a combined kidney-liver transplant compared with those with LT alone."*
+
+**121. What electrolyte abnormality is typically considered prohibitive to transplantation and requires aggressive management?**
+
+- **Hyperkalemia > 5.5 mmol/L**
+- Hypokalemia < 3.0 mmol/L
+- Hypernatremia > 150 mmol/L
+- Hypocalcemia < 7.0 mg/dL
+
+*Explanation: "Hyperkalemia greater than 5.5 mmol/L and hyponatremia less than 120 mmol/L are typically considered prohibitive to transplantation."*
+
+**122. What is a common source of potassium that should be managed carefully during combined liver-kidney transplantation?**
+
+- Crystalloid intravenous fluids
+- **Banked blood**
+- Albumin infusions
+- Antibiotic medications
+
+*Explanation: "Banked blood is a major source of potassium; ideally, it should be washed, and units with the longest remaining shelf life should be preferentially used."*
+
+**123. Historically, what has been the primary concern limiting the use of liver grafts from donation after cardiac death (DCD)?**
+
+- The high cost of the procedure
+- **Concerns of graft failure primarily due to ischemic cholangiopathy (IC)**
+- The lack of suitable recipients
+- The ethical implications of the donor's death
+
+*Explanation: "The use of liver grafts from donation after cardiac death (DCD) has historically been at 5% to 6% of all LTs because of concerns of graft failure, primarily because of ischemic cholangiopathy(IC)."*
+
+**124. What strategy has been shown to decrease the incidence of ischemic biliary complications and improve 1-year survival in DCD liver grafts?**
+
+- Use of high-dose steroids before reperfusion
+- **Intra-arterial tPA flush**
+- Prolonged cold ischemia time
+- Avoidance of any vasopressors
+
+*Explanation: "Intra-arterial tPA flush used in DCD donor grafts decreases the incidence of ischemic biliary complications and improves 1-year survival..."*
+
+**125. In the United States in 2019, what percentage of all liver transplants were performed with a graft from a living donor?**
+
+- 1%
+- **5%**
+- 15%
+- 25%
+
+*Explanation: "In 2019, in the United States, 524 of 8896(5%) of all LTs were performed with the graft from a living donor..."*
+
+**126. What is the main goal of anesthetic management for living liver donors?**
+
+- To minimize the duration of surgery
+- **To preserve graft perfusion and prevent donor complications**
+- To ensure the donor is extubated before leaving the OR
+- To use the lowest possible dose of anesthetics
+
+*Explanation: "The main goal of anesthetic management of living donors is to preserve graft perfusion and prevent donor complications."*
+
+**127. What was the retransplantation rate in the United States in 2019?**
+
+- 24.5%
+- 15.2%
+- 8.0%
+- **3.8%**
+
+*Explanation: "...in 2019, the rate was only 3.8% of all LTs."*
+
+**128. How does the 1-year survival rate for retransplanted patients historically compare to that of primary transplant recipients?**
+
+- It is significantly higher.
+- It is the same.
+- **It is historically lower.**
+- It is only lower in pediatric patients.
+
+*Explanation: "The survival rate for retransplanted patients is historically lower than for primary transplant recipients: at 1 year, the survival is 68.7% versus 83.3%..."*
+
+**129. What are the main causes of mortality after retransplantation?**
+
+- Primary nonfunction of the new graft
+- **Bacterial infection, multisystem organ failure, bleeding, and recurrence of disease**
+- Acute rejection of the new graft
+- Technical complications from the surgery
+
+*Explanation: "Main causes of mortality after retransplantation are bacterial infection, multisystem organ failure, bleeding, and recurrence of disease."*
+
+**130. What is the most common indication for liver transplantation in the pediatric population?**
+
+- Acute liver failure (ALF)
+- Metabolic/genetic conditions
+- **Biliary atresia**
+- Neoplasm
+
+*Explanation: "Main indications for LT in the pediatric population include biliary atresia(32%) and metabolic/genetic conditions(22%), followed by ALF(11%)..."*
+
+**131. What score is used for organ allocation to pediatric recipients in the United States?**
+
+- The Child-Turcotte-Pugh (CTP) score
+- The Model for End-Stage Liver Disease (MELD) score
+- **The Pediatric End-Stage Liver Disease (PELD) score**
+- The Karnofsky Performance Score
+
+*Explanation: "Organ allocation to pediatric recipients in the United States is based on the Pediatric End-Stage Liver Disease(PELD) score..."*
+
+**132. What types of surgical grafts have been used to maximize the number of pediatric liver transplants?**
+
+- Only whole livers from pediatric donors
+- **Whole, reduced, and split grafts from both cadaveric and living donors**
+- Only left lateral segment grafts from living donors
+- Only right lobe grafts from adult donors
+
+*Explanation: "Whole, reduced, and split grafts from both cadaveric and living donors have been used to maximize the number of pediatric LTs performed..."*
+
+**133. What is a common protective strategy to prevent hepatic artery thrombosis in pediatric OLT?**
+
+- **Keeping the hematocrit between 25% and 30% to prevent excessive blood viscosity**
+- Maintaining a very high blood pressure
+- Administering high-dose anticoagulants
+- Avoiding all blood transfusions
+
+*Explanation: "Keeping the hematocrit between 25% and 30% to prevent excessive blood viscosity and avoiding overcorrecting coagulation function are common protective strategies."*
+
+**134. What is associated with prolonged mechanical ventilation after OLT?**
+
+- Improved outcomes
+- **Worse outcomes**
+- No change in outcomes
+- Faster recovery of liver function
+
+*Explanation: "Prolonged mechanical ventilation after OLT is associated with worse outcomes..."*
+
+**135. What is a strong predictor of the need for prolonged ventilation after liver transplantation?**
+
+- A low MELD score
+- The absence of ascites
+- **Encephalopathy**
+- Young age
+
+*Explanation: "Multiple studies agree that encephalopathy is a strong predictor of the need for prolonged ventilation."*
+
+**136. What is the leading cause of 30-day mortality in a review of the OPTN database from 2002 to 2012?**
+
+- Infection
+- Renal failure
+- **Cardiovascular death**
+- Primary graft non-function
+
+*Explanation: "Cardiovascular death was the leading cause of 30-day mortality in a review of the 2002 to 2012 OTPN database, accounting for 42% of all deaths."*
+
+**137. What is the reported incidence range of acute kidney injury (AKI) after OLT?**
+
+- 5% to 10%
+- **17% to 95%**
+- 50% to 75%
+- 80% to 90%
+
+*Explanation: "AKI is common(17%–95%) and is associated with increased ICU LOS and mortality."*
+
+**138. What is a common endocrine complication in the early post-transplant period, occurring in up to 30% of patients?**
+
+- Hypothyroidism
+- Adrenal insufficiency
+- **Diabetes mellitus**
+- Hyperparathyroidism
+
+*Explanation: "Diabetes occurs in up to 30% of post-transplant patients..."*
+
+**139. What is the reported range for the incidence of neurologic complications in liver transplant recipients?**
+
+- 5% to 10%
+- 15% to 25%
+- **30% to 50%**
+- 60% to 80%
+
+*Explanation: "Neurologic complications have been reported in 30% to 50% of LT recipients."*
+
+**140. What is the second most common cause of 30-day mortality after OLT?**
+
+- Cardiovascular events
+- **Infections**
+- Primary graft dysfunction
+- Pulmonary embolism
+
+*Explanation: "Infections, occurring in up to 80% of OLT recipients, are the second most common cause of 30-day mortality after OLT, accounting for about 28% of deaths."*
+
+**141. What is the typical timeframe for viral and fungal infections to be most common after liver transplantation?**
+
+- In the first 24 hours
+- **1 to 6 months after transplant**
+- 6 to 12 months after transplant
+- More than 1 year after transplant
+
+*Explanation: "...1 to 6 months after transplant, viral and fungal infections are most common..."*
+
+**142. What is the approximate incidence of postoperative hemorrhage in OLT recipients?**
+
+- 1% to 5%
+- **10% to 15%**
+- 25% to 30%
+- 50% or more
+
+*Explanation: "Postoperative hemorrhage...occurs in 10% to 15% of OLT recipients."*
+
+**143. What is usually an indication for surgical re-exploration for postoperative hemorrhage?**
+
+- A single episode of melena
+- **Hemodynamic instability and transfusion of more than 4 to 6 units of packed RBCs over 24 hours**
+- A drop in hemoglobin of 1 g/dL
+- The presence of a small subcapsular hematoma on ultrasound
+
+*Explanation: "Hemodynamic instability and transfusion of more than 4 to 6 units of packed RBCs over a 24-hour period are usually an indication for surgical re-exploration."*
+
+**144. What is the reported incidence of hepatic artery thrombosis in adult liver transplant patients?**
+
+- 0.1% to 0.5%
+- **2.5% to 10%**
+- 15% to 20%
+- 25% to 30%
+
+*Explanation: "Hepatic artery thrombosis occurs in 2.5% to 10% of adult patients..."*
+
+**145. What is the reported incidence of portal vein (PV) thrombosis?**
+
+- **0.3%–2.2%**
+- 5%–10%
+- 15%–20%
+- 25%–30%
+
+*Explanation: "...PV thrombosis is much less common (0.3%–2.2%)."*
+
+**146. What accounts for most biliary complications after liver transplantation?**
+
+- Bile leaks
+- **Biliary strictures**
+- Bile duct stones
+- Bile duct cysts
+
+*Explanation: "Stricture of the biliary tree accounts for most of the complications..."*
+
+**147. What is a more common early biliary complication?**
+
+- Biliary stricture
+- **Biliary leak**
+- Sclerosing cholangitis
+- Bile duct duplication
+
+*Explanation: "...but biliary leak is a more common early complication."*
+
+**148. What is the typical method for diagnosing a biliary leak?**
+
+- Abdominal X-ray
+- Liver function tests alone
+- **Percutaneous transhepatic cholangiography or endoscopic retrograde cholangiopancreatography**
+- CT scan without contrast
+
+*Explanation: "The diagnosis of the leak is based on percutaneous transhepatic cholangiography or endoscopic retrograde cholangiopancreatography."*
+
+**149. What type of biliary leaks are particularly ominous and often require retransplantation?**
+
+- Leaks from the cystic duct stump
+- Anastomotic leaks
+- **Nonanastomotic leaks and leaks secondary to hepatic artery thrombosis**
+- Leaks that present more than 6 months post-op
+
+*Explanation: "Nonanastomotic leaks and leaks secondary to hepatic artery thrombosis are particularly ominous because they are less amenable to percutaneous repair and often require retransplantation."*
+
+**150. What is the reported incidence range for biliary complications after liver transplantation?**
+
+- 1% to 5%
+- **10% to 40%**
+- 50% to 60%
+- 70% to 80%
+
+*Explanation: "Biliary complications occur in about 10% to 40% of patients after LT."*

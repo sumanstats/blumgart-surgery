@@ -1,0 +1,551 @@
+---
+title: "Liver and Pancreas Transplantation Immunobiology"
+format:
+  revealjs:
+    theme: white
+    smaller: true
+---
+
+# Introduction & General Considerations
+
+## Allotransplantation Overview
+
+- **Allotransplantation**: Transfer of tissues between genetically non-identical individuals
+- Without immune modification, transplanted organs are destroyed by **rejection**
+- Modern therapy relies on manipulating the immune response selectively and with less morbidity
+- Understanding **alloimmunity** and unique properties of liver/pancreas has steadily improved outcomes
+
+## Specificity and Context
+
+- Rejection requires:
+  1. **Specific recognition** via lymphocyte receptors
+  2. **Context** via costimulation receptors
+- **T-cell receptor (TCR)** and **immunoglobulin (Ig)** provide specificity
+- **Major Histocompatibility Complex (MHC)** / **Human Leukocyte Antigens (HLA)** are primary targets
+  - Highly polymorphic genes on chromosome 6
+  - Tens of thousands of alleles identified
+- **Costimulation receptors** determine if recognition warrants a response and how aggressive it should be
+
+## Costimulation & APCs
+
+- Costimulation ligands are prominently expressed on **Antigen-Presenting Cells (APCs)**
+  - Dendritic cells, macrophages
+- APC–lymphocyte interactions occur in **lymphoid organs** (spleen, lymph nodes)
+- Separation of specificity and context signals allows tight regulation of immune responses
+
+# Physiologic Immunity
+
+## Innate vs. Acquired Immunity
+
+- **Innate immunity**
+  - Activated by microbial products (PAMPs) or tissue damage (DAMPs)
+  - Generates localized, less overtly regulated inflammation
+- **Acquired immunity**
+  - Specific recognition and elimination of pathogens
+  - Carefully regulated to prevent autoimmunity
+- Both systems interact to maintain homeostasis
+- Acquired immunity is tailored to each individual’s unique MHC makeup
+
+## Innate Immunity: Cellular Components
+
+- **Key cells**: Dendritic cells, macrophages, neutrophils, natural killer (NK) cells
+- Activated by binding of PAMPs or DAMPs to **pattern-recognition receptors**
+- **Toll-like receptors (TLRs)** are the best-described family
+  - Respond to LPS and DAMPs (e.g., HMGB1)
+  - Liver TLRs differ from peripheral TLRs → adapted to portal bacteremia
+- **Complement system** is the primary mediator of cytolysis
+- **Platelets** serve innate immune roles via chemotactic proteins
+
+## Ischemia-Reperfusion & DAMPs
+
+- Ischemia-reperfusion injury releases multiple DAMPs:
+  - **Nucleus**: extracellular DNA, HMGB1
+  - **Mitochondria**: mitochondrial DNA, reactive oxygen species
+- DAMP-mediated inflammation affects:
+  - Early graft injury and function
+  - Connection to subsequent adaptive immune response
+
+## Acquired Immunity: Specific Recognition
+
+- Hallmark: immense structural diversity of lymphocyte receptors
+- **Immunologic memory**: initial antigen recognition lowers activation threshold for subsequent encounters
+- **TCRs** bind peptide antigens presented with MHC
+- **B-cell Igs** bind antigens in native conformation and can be secreted as circulating antibodies
+
+## Cellular Immunity: T-Cell Receptor
+
+- T cells form in bone marrow and fetal liver, migrate to **thymus**
+- DNA rearrangement generates ~10⁹ unique TCR specificities
+- **Thymic selection** prevents fatal autoimmunity:
+  - **Positive selection**: T cells must bind self-MHC on cortical thymic epithelium (survive) or die
+  - **Negative selection**: high-affinity self-MHC binding in medulla → elimination
+- Released T cells bind self-MHC but require costimulation for activation
+
+## CD8+ and CD4+ T Cells
+
+- **CD8+ T cells (cytotoxic T cells)**
+  - Bind class I MHC on all parenchymal cells
+  - Display internal cellular peptides
+  - Kill via Ca²⁺-dependent secretory mechanisms or Ca²⁺-independent contact mechanisms
+- **CD4+ T cells (helper T cells)**
+  - Interact with APCs expressing class II MHC
+  - Display phagocytized extracellular peptides
+  - Influence activation of CD8+ T cells via costimulation upregulation
+
+## Liver as an Immune Organ
+
+- Resting sinusoidal endothelial cells can **present antigen directly to T cells**
+- Makes the liver an organ with considerable ability to evoke or suppress immune responses
+
+## Regulatory T Cells (Treg)
+
+- **Treg cells** limit promiscuous immune responses
+- Most studied population: **CD4+ CD25+** (high-affinity α-chain of IL-2 receptor)
+- Suppress:
+  - Cytokine secretion
+  - Adhesion molecule expression
+  - Costimulatory signaling
+- Responsive to established inflammation rather than preventing it prophylactically
+- Harnessing Treg power is an ongoing research area
+
+## Humoral Immunity: B Cells
+
+- B cells recognize antigen in native, unprocessed form
+- **Crosslinking** of two surface antibody receptors stimulates proliferation and differentiation into plasma cells
+- Activation threshold is high; costimulation lowers it substantially
+- B cells internalize antigen and process it for presentation to T cells with costimulation
+
+## Antibody Structure & Function
+
+- **Structure**: two identical heavy chains + two identical light chains
+  - Two antigen-binding sites + common **Fc portion**
+- **Heavy-chain classes**: IgM, IgG, IgA, IgE, IgD
+- **IgG**: dominant antibody against alloantigen; major soluble mediator of opsonization
+- **IgA**: mucosal immunity; **IgE**: mast cell immunity; **IgD**: primarily cell-bound
+- Bound antibody triggers **complement cascade**
+- Fc receptors on phagocytes allow engulfment of antibody-coated cells
+
+## Isotype Switching & Affinity Maturation
+
+- **Isotype switching**: shift from IgM to IgG/IgA/IgE/IgD after activation
+- **Affinity maturation**: random alterations of antigen-binding site after activation
+  - Higher-affinity clones have selective survival advantage
+  - Basis for more vigorous response on re-exposure
+
+## Evolving Cellular Composition With Age
+
+- **Loss of naive T and B cells** with accumulation of memory phenotype cells
+- Accelerated by physiologic **thymic atrophy**
+- Pool of naive T cells = function of thymic involution + conversion to memory/senescent CD8+ T cells
+- Significant effect evident by the **fourth decade of life**
+- Four subpopulations:
+  1. Naive T cells
+  2. Effector memory T cells
+  3. Central memory T cells
+  4. Terminally differentiated effector cells
+
+# Mediators of Context: Costimulation & Cytokines
+
+## Costimulation Receptors
+
+- Isolated TCR-MHC or antibody-antigen binding is usually insufficient for naive lymphocyte activation
+- **Costimulation receptors** determine character of the T-cell response
+- Examples:
+  - **CD28** → promotes T-cell activation
+  - **CTLA-4 (CD152)** → promotes downregulation
+  - Ligands: **B7 molecules (CD80, CD86)** on APCs
+- B7 affinity for CTLA-4 >> CD28; when B7 is limited, CTLA-4 predominates
+
+## CD28-CTLA-4 Dynamics
+
+- CD28-B7 interaction decreases required TCR-MHC binding events from **~8000 to ~1500**
+- CTLA-4-B7 binding makes T cell incapable of producing IL-2 during and after the encounter
+- **CD19-CD21 complex** provides comparable control for B cells
+
+## CD40-CD154 Pathway
+
+- **CD40** on dendritic cells, endothelium, B cells, APCs
+- **CD154** on T cells and platelets
+- CD40 ligation greatly augments APC ability to stimulate cytotoxic T cells
+- Results in:
+  - Release of activating cytokines
+  - Upregulation of B7 molecules
+- CD154 upregulated after TCR ligation → positive feedback to APC
+- Released by activated platelets at endothelial injury sites
+
+## Cytokines & T-Cell Phenotypes
+
+- **Cytokines (interleukins)**: soluble mediators that activate or suppress adjacent cells
+- **Th1 cells**: IL-2, IL-12, IL-15, IFN-γ → promote cytotoxic responses
+- **Th2 cells**: IL-4, IL-5, IL-10, IL-13 → promote humoral/eosinophilic responses
+- **Th17 lineage**: IL-6, IL-23, TGF-β → involved in gut immunity
+- Liver APCs may be more efficient at generating **Th2 responses** → possible mechanism for liver allograft protection
+
+# Transplant Immunity
+
+## Basis of Alloreactivity
+
+- T-cell responses to allogeneic organs result from **nonphysiologic TCR-MHC interactions**
+- T cells are selected to bind self-MHC, but chance allows survival of cells that bind donor MHC with high affinity
+- Most MHC sequence polymorphism is at the **MHC-TCR interface**
+- Lack of recipient thymic education with donor MHC → **high frequency of alloreactive peripheral T cells**
+
+## Heterologous Immunity
+
+- Many alloreactive cells are **crossreactive** with antigens from prior viral exposures or autoantigens
+- Results in **allospecific memory without prior alloantigen exposure**
+- Composite product of individual MHC makeup + past immune exposures
+- Can lead to vigorous early rejection in apparently nonsensitized individuals
+
+## Direct vs. Indirect Pathways
+
+| Feature | Direct Pathway | Indirect Pathway |
+|---------|---------------|------------------|
+| APC | Donor APCs | Recipient APCs |
+| MHC | Donor MHC | Self MHC |
+| Process | Donor APCs migrate from graft | Recipient APCs phagocytize/process alloantigens |
+
+- Surgical trauma and ischemia upregulate class I and II MHC molecules
+- Adhesion and costimulation molecules are upregulated perioperatively
+
+## T-Cell Activation Cascade
+
+1. Nonspecific adhesion via upregulated adhesion molecules
+2. CD40 on donor APCs/endothelium + CD154 on T cells/platelets
+3. MHC recognition in high-costimulatory environment (trauma/ischemia)
+4. Activated T cells secrete IL-2 and IFN-γ; APCs secrete IL-12
+5. Cytokine milieu recruits more T cells and potentiates clonal expansion
+6. Cytotoxicity via:
+   - Secretory perforin/granzyme mechanisms
+   - Cell contact–dependent Fas mechanisms
+
+# Clinical Rejection Syndromes
+
+## Hyperacute Rejection (HAR)
+
+- Caused by **donor-specific antibody** existing at time of transplantation
+- Develops within **minutes to hours** after graft reperfusion
+- Avoided by confirming **ABO compatibility** and performing crossmatch
+- **Liver**: relatively resistant to HAR; crossmatch often retrospective; positive crossmatch does not affect survival (except ABO-incompatible)
+- **Pancreas**: no such resistance; positive crossmatch = **absolute contraindication**
+- Chronic exposure to lower-titer antibody → insidious graft damage (especially pancreas)
+
+## Acute Rejection
+
+- Most common: **4 days to 6 months** (early); >6 months = late acute rejection
+- **Liver**: ~24–47% acute rejection rate
+- **Pancreas**: ~15–30% (modern era, after 1995)
+- Differences may reflect less immunosuppression in liver and easier detection via LFTs/biopsy
+- Evolves over days to weeks
+- T cells infiltrate allograft → cytolysis + endothelial/ductular damage
+- Much dysfunction mediated by **macrophage-derived inflammatory cytokines** without necessarily causing cell death
+
+## Acute Rejection: Detection & Treatment
+
+- **Liver**: unexplained hepatic dysfunction → graft biopsy (rule out vascular/biliary issues)
+- **Pancreas (SPK)**: kidney rejection precedes/signals pancreas rejection in ~80% of cases
+- **Isolated pancreas**: fever, pain, graft tenderness, amylase/lipase elevations (but often silent)
+- **Hyperglycemia is a late sign** (acinar rejection precedes islet rejection)
+- **First-line**: corticosteroids
+- Prolonged rejection decreases efficacy of antirejection therapies
+- Liver relatively resistant to long-term impact; pancreas rejection is deleterious to long-term graft survival
+
+## Chronic Graft Loss
+
+- Evolves over **months to years**
+- Likely mediated by **both immune and nonimmune etiologies**
+- Resistant to conventional immunosuppression
+- Characterized by:
+  - Fibrosis with modest lymphocytic infiltration
+  - Monocytic and dendritic cell infiltrates
+  - Destruction of epithelial and endothelial structures
+- **Liver**: manifests as **ductopenia / vanishing bile duct syndrome** (<50% portal triads with bile ducts)
+  - Rate much lower than other organs due to regenerative capacity
+- **Pancreas**: chronic graft loss increasingly prevalent; significant portion associated with recurrent autoimmune diabetes
+
+## Antibody-Mediated Rejection (AMR)
+
+- Contemporary data: positive crossmatch / donor-specific antibodies (DSAs) may increase risk for early liver graft injury/failure
+- AMR in first 90 days: **10-fold higher** in DSA-positive patients (10% vs. 1%)
+- **Liver protective effect on kidney**: when transplanted simultaneously, liver absorbs class I DSA (low-moderate titer), reducing kidney binding
+- Novel diagnostic strategies needed to identify clinically significant DSAs
+
+# Immunosuppression
+
+## General Principles
+
+- No single agent effectively prevents allograft rejection
+- Immunosuppressive agents limit rejection but increase susceptibility to **infection and malignancy**
+- No agent is allograft-specific
+- Rational selection: **multiple synergistic agents** to prevent rejection without crippling pathogen defense
+- **Liver allografts require less immunosuppression** than other organs
+  - Unique APCs, sheer size/antigenic load, regenerative capacity
+  - 10–20% can eventually be withdrawn from all immunosuppression
+- No regimen clearly established as superior
+
+## Perioperative & Induction Strategies
+
+- Immune system most likely to reject in **perioperative period** (surgical trauma + ischemic injury)
+- Most intense immunosuppression in **first few weeks**
+- **Induction therapy**: high-intensity agent given at transplantation
+  - Typically T cell–depleting agents
+  - Too toxic for maintenance
+- **Maintenance immunosuppression**: less potent, administered daily
+- **Rescue agents**: halt ongoing rejection episodes
+
+## Corticosteroids
+
+- Mainstay for decades; used at low doses for maintenance, high doses for rescue
+- Ineffective as monotherapy to prevent rejection
+- Combined with other agents to improve graft survival
+- Many efforts to minimize/eliminate glucocorticoids for maintenance
+  - Liver: rapid wean common
+  - Pancreas: low-dose steroids often indefinite (steroid-free regimens increasing)
+
+## Corticosteroids: Mechanism of Action
+
+- Nonspecific cytoplasmic uptake → bind intracellular receptor → enter nucleus
+- Increase transcription of **IκBα**
+  - Binds and inactivates **NF-κB** (critical transcription factor for T-cell/APC activation)
+- Effects:
+  - Decrease IL-1, TNF-α, IFN-γ transcription
+  - Decrease MHC upregulation
+  - Inhibit phospholipase A2 → block arachidonic acid cascade
+  - Mute inflammatory process and decrease costimulatory environment
+  - Promote apoptosis of activated T cells
+  - Limit signal transduction of innate immune receptors
+
+## Antiproliferative Agents: Azathioprine (AZA)
+
+- First immunosuppressant used in solid organ transplantation
+- Hepatic conversion to 6-mercaptopurine (6-MP) → 6-thio-inosine-monophosphate (6-tIMP)
+- Alkylates DNA precursors and inhibits DNA synthesis
+- Can introduce chromosomal breaks and interfere with DNA repair
+- Works on all rapidly dividing cells → bone marrow, hepatic, GI toxicity
+- Ineffective as monotherapy; rarely used in modern regimens
+
+## Antiproliferative Agents: Mycophenolate Mofetil (MMF)
+
+- Approved since 1995
+- Morpholinoethyl ester of mycophenolic acid (MPA)
+- **Noncompetitive, reversible inhibitor of IMP dehydrogenase**
+- Blocks formation of guanosine monophosphate (GMP)
+- **Lymphocyte-specific**: all cells except lymphocytes have a "salvage pathway" for GMP formation
+- Blocks proliferation of T and B cells; inhibits donor-specific antibody formation
+- Dramatically improved pancreas transplantation success
+- In liver transplantation: allows reduction in calcineurin inhibitors
+- Combined with low-dose CNI + steroids: decreases acute rejection episodes
+
+## Calcineurin Inhibitors: Overview
+
+- Current standard of care in solid-organ transplantation
+- Revolutionized liver and pancreas transplantation
+- Associated with significant side effects → drives strategies to minimize/eliminate them
+
+## Cyclosporine A (CyA)
+
+- Cyclic undecapeptide from fungus *Tolypocladium inflatum*
+- Revolutionized solid organ transplantation
+- Mechanism: binds **cyclophilin (Cn)** → CyA-Cn complex binds calcineurin-calmodulin
+  - Prevents dephosphorylation/activation of **NF-AT**
+  - Blocks IL-2 gene transcription
+- Upregulates TGF-α transcription
+- Blocks TCR signal transduction but **not costimulatory signaling**
+- Can be overcome by high IL-2 levels → **no role in rescue therapy**
+- **Nephrotoxicity**: decreases renal blood flow up to 30% (TGF-α mediated)
+- Other toxicities: neurologic, hypertrichosis, malignancy, hypertension
+- Metabolized by cytochrome P450 → multiple drug interactions
+
+## Tacrolimus (FK506)
+
+- Macrolide antibiotic from *Streptomyces tsukubaensis*
+- Blocks NF-AT activation via **FK-binding protein (FK-BP)**
+- Increases TGF-α transcription → shares toxicities with CyA
+- **100× more potent** than CyA in preventing IL-2 and IFN-γ transcription
+- Dose limited to ~1% of CyA dose due to toxicities
+- Efficacy at high doses in reversing liver rejection episodes
+- **More neurologic side effects** (headaches, tremors)
+
+## Tacrolimus (FK506)
+
+- Higher rate of post-transplant type 2 diabetes
+- Fewer cosmetic side effects
+- Superior to CyA in preventing acute rejection, steroid-resistant rejection, and improving long-term survival
+- **First-line calcineurin inhibitor** in most centers
+- Metabolized by cytochrome P450
+- Many liver recipients weaned to tacrolimus monotherapy (not seen in pancreas)
+
+## mTOR Inhibitors: Sirolimus & Everolimus
+
+- Macrolide antibiotics from *Streptomyces hygroscopicus*
+- Bind **FKBP12 (mTOR)** but do **not** affect calcineurin activity
+- **Primary effect**: inhibit IL-2 receptor signal transduction
+  - T cells cannot proliferate in response to exogenous IL-2
+  - But still capable of IL-2 gene transcription
+- Principal use: adjunct or alternative to calcineurin inhibitors
+- Unique **anti-cancer effects** → investigated in hepatic malignancies
+  - Meta-analysis: sirolimus in HCC → lower recurrence, longer recurrence-free and overall survival
+
+## mTOR Inhibitors: Efficacy & Safety
+
+- Generally viewed as **inferior to calcineurin inhibitors** for preventing rejection
+- **Sirolimus + reduced-dose tacrolimus** (liver transplant trial):
+  - Opposite of hypothesized benefit
+  - Significantly lower survival at 24 months (22 vs. 9 deaths)
+  - Higher graft loss (26.4% vs. 12.5%)
+  - **FDA black-box warning** for sirolimus in first 28 days after liver transplant (hepatic artery thrombosis risk)
+- **Everolimus + reduced tacrolimus** (liver trial):
+  - Biopsy-proven acute rejection significantly less frequent at 2 years (6.1% vs. 13.3%)
+  - Better preservation of renal function
+  - Tacrolimus cessation arm discontinued early due to increased rejection
+- Combination/conversion strategies remain mixed and investigational
+
+## Antilymphocyte Agents: Overview
+
+- Frequently used in **pancreas transplantation** as induction agents
+- Sparse use in liver transplantation due to reduced immunogenicity of liver grafts
+
+## Antilymphocyte/Antithymocyte Globulin (ALG/RATG)
+
+- **Polyclonal antibody**: animal inoculated with human lymphocytes → serum collected → IgG purified
+- In US: **rabbit antithymocyte globulin (RATG)** (thymocytes as immunogen)
+- Promote T-cell depletion via:
+  - Opsonization
+  - Complement-mediated lysis
+- Nondepletional effects:
+  - Cross-linking costimulation and adhesion molecules
+  - Blocking TCR signal transduction via internalization of surface receptors
+- Used as induction and rescue agents
+- Side effects: thrombocytopenia, increased viral disease, transient cytokine release
+
+## OKT3 (Muromonab CD3)
+
+- **Monoclonal antibody** against CD3 signal transduction subunit of TCR
+- First monoclonal antibody approved for clinical use
+- Mechanism:
+  - Binds CD3 → internalization of TCR complex → prevents antigen recognition
+  - Opsonizes T cells → activation and degranulation → cell exhaustion
+- **Primary side effect**: cytokine release syndrome
+  - Profound hypotension, pulmonary edema, cardiac depression
+- No longer manufactured due to toxicity and availability of better agents
+
+## Anti–IL-2 Receptor α-Chain Monoclonal Antibodies
+
+- Target: high-affinity α-subunit of IL-2 receptor (**CD25**)
+- Agents: **daclizumab** and **basiliximab**
+- CD25 required for clonal naive T-cell expansion
+- Binding does **not** result in cytokine release → well tolerated
+- Antirejection effect is modest
+- Daclizumab discontinued in US/Europe
+- Basiliximab used in ~1/3 of pancreas and liver transplant centers
+
+## Costimulation Blockade
+
+- T cells require second signal (costimulation) for effective response
+- Targeted pathways:
+  - **CD154-CD40**: abandoned after thromboembolic complications
+  - **CD28-CD80/86**: advanced to clinic
+- **Belatacept**: high-affinity fusion protein for B7 molecules (CD80/CD86)
+  - In renal transplantation: similar efficacy to cyclosporine for patient/graft survival
+  - Superior renal function and cardiac risk profile
+
+## Belatacept in Liver Transplantation
+
+- Alloantigen response generated primarily from **immature/naive T cells** with greater cytokine production
+- Naive T cells express **CD28** (belatacept target)
+- **CD28 is lost with cell maturation**
+- Tacrolimus inhibits both naive and mature T cells; belatacept primarily effective against naive T cells
+- Relatively ineffective against mature T cells responding to virus
+- Phase II trial in de novo liver transplant recipients:
+  - Terminated early due to significantly higher acute rejection, graft loss, and death in belatacept groups
+  - Ongoing studies essential to determine future role
+
+## Minimization of Maintenance Immunosuppression
+
+- Strategies pursued:
+  1. Aggressive induction protocols to minimize maintenance
+  2. Withdrawal of immunosuppression after initial post-transplant period
+  3. Experimental strategies to facilitate immunologic tolerance
+- **Alemtuzumab**: CD52-specific antibody; rapidly depletes T cells, B cells, monocytes
+  - Approved for lymphoid malignancies; investigated off-label in transplantation
+  - Used with low-dose tacrolimus in liver transplant recipients
+  - Also used effectively in pancreas and kidney transplantation
+- RATG induction therapy similarly used to reduce maintenance requirements
+
+# Immunosuppression Withdrawal & Operational Tolerance
+
+## Steroid Withdrawal
+
+- Achievable in ~**85% of liver transplant recipients** at 3 months without significant increase in acute rejection
+- Benefits: avoids numerous side effects of chronic glucocorticosteroid use
+- Pancreas transplant steroid withdrawal less successful
+- With appropriate patient selection, up to **70% of pancreas patients** may be amenable to steroid withdrawal
+
+## Complete Immunosuppression Withdrawal
+
+- Modest percentage of liver recipients can be completely withdrawn from **all** immunosuppressive agents
+- Periods of follow-up vary; long-term incidence of chronic rejection not fully defined
+- Some recipients capable of spontaneously accepting liver allografts
+- **Best predictor**: long-term rejection-free survival on low-dose immunosuppression
+  - Single-drug therapy >10 years → 10× more likely to withdraw successfully
+
+## Operational Tolerance
+
+- **Definition**: maintain functional allograft and intact immune response without therapeutic drugs
+- Numerous strategies attempted; prospective attempts to create broadly applicable tolerance in human liver recipients have largely failed (rare anecdotal exceptions)
+- No prospective studies for pancreas transplantation
+- Ongoing strategies:
+  - Manipulation of costimulation signals
+  - Depletional approaches
+  - Mixed chimerism (donor + recipient immune elements persist in one individual)
+
+## Biologic Predictors of Tolerance
+
+- Clinical parameters (age, gender, regimen, cell counts) were **not predictive**
+- Evidence that signatures of recipient gene expression can identify pro-tolerant signatures
+- Study of 80 transplant recipients + 16 healthy patients:
+  - **24-gene signature** correlated with tolerance in liver graft recipients
+  - Majority associated with **NK cells and γδTCR+ T cells**
+  - Transcriptional profiles could predict which patients might be operationally tolerant
+
+## Heterologous Immunity as a Barrier
+
+- **Theory**: virally induced alloreactive memory prevents tolerance
+- Prior immunologic exposure → response to unrelated antigens
+- Murine model: memory CD8+ T cells from prior viral exposure responsible for alloantigen response
+- Critical threshold of such T cells favors rejection
+- **Abated with NF-κB inhibition + costimulation blockade** → antigen-specific tolerance
+- Pediatric liver recipients should theoretically be more successful (fewer viral/cross-reactive antigens)
+
+## Pediatric Immunosuppression Withdrawal Trial
+
+- Prospective multicenter pilot study: 20 children with parental donor liver grafts
+- Prolonged immunosuppression withdrawal program; stepwise reduction over ≥36 weeks
+- **60% met primary endpoint**: operational tolerance (no immunosuppression for 1 year without rejection)
+- Correlates of success:
+  - Longer interval between transplant and withdrawal (median 100.6 vs. 73 months)
+  - Less inflammation and lower C4d scores on primary biopsy
+- No deaths; failures able to maintain graft function with increased/reinitiated immunosuppression
+
+## Monitoring Withdrawal
+
+- **Biochemical markers**: AST, ALT, ALP, GGT, bilirubin
+  - Often insensitive indicators of rejection
+- **Graft biopsy**: most sensitive test
+  - Costly, inconvenient, potentially injurious
+  - Histopathologic changes not always clear
+  - Benefit: early detection of subclinical rejection
+- **Banff Working Group recommendations** before withdrawal:
+  - Evaluate portal inflammation, centrizonal/perivenular inflammation
+  - Bile duct changes, parenchymal fibrosis, arteriopathy
+  - Favorable criteria → attempt weaning with serial biopsies
+
+## Why Liver? Why Not Pancreas?
+
+- **Liver** more likely to achieve tolerance:
+  - Unique APCs
+  - Regenerative capacity
+  - Sheer antigenic bulk
+  - Tendency to seed recipient with donor hematopoietic cells → possible clonal exhaustion
+- **Pancreas** considered immunogenic with little capacity to regenerate or deal with immune insults
+- Pancreas allograft tolerance unlikely in near future with current strategies

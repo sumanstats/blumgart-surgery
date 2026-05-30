@@ -1,0 +1,2819 @@
+# 51B Perihilar Cholangiocarcinoma: Presurgical Management
+
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+Generated with Deepseek.
+
+**1. What is the incidence of perihilar cholangiocarcinoma (pCCA) in Western countries?**
+
+- 10 to 20 per 100,000
+- **1 to 2 per 100,000**
+- 0.5 to 1 per 100,000
+- 5 to 7 per 100,000
+
+*Explanation: "the incidence of 1 to 2 per 100,000 in Western countries, which is significantly lower than in Asia, the disease remains rare."*
+
+**2. According to the American Joint Cancer Committee (AJCC) definition, where does pCCA originate?**
+
+- Distal to the insertion of the cystic duct into the extrahepatic bile duct
+- **Distal to the second-order intrahepatic bile ducts and proximal to the insertion of the cystic duct**
+- Within the intrahepatic bile ducts only
+- At the ampulla of Vater
+
+*Explanation: "By the American Joint Cancer Committee (AJCC) definition, pCCA originates distal to the second- order intrahepatic bile ducts and proximal to the insertion of the cystic duct into the extrahepatic bile duct."*
+
+**3. What is the 5-year overall survival (OS) rate associated with complete resection of pCCA?**
+
+- 10%-15%
+- **Up to 35%**
+- 50%-60%
+- 70%-80%
+
+*Explanation: "Complete resection is associated with 5- year overall survival (OS) rates of up to \(3 5 \%\)"*
+
+**4. What percentage of patients with pCCA are considered resectable?**
+
+- Approximately one-tenth
+- Approximately one-quarter
+- **Approximately one-third**
+- Approximately one-half
+
+*Explanation: "However, only approximately onethird of patients are considered resectable."*
+
+**5. What is the typical presentation for patients with pCCA?**
+
+- Right upper quadrant pain and fever
+- **Painless jaundice**
+- Weight loss and ascites
+- Hepatomegaly and splenomegaly
+
+*Explanation: "Patients with pCCA typically present with painless jaundice \((9 0 \% )\) ."*
+
+**6. In what percentage of pCCA patients is concomitant cholangitis observed at presentation?**
+
+- 1%
+- **10%**
+- 25%
+- 50%
+
+*Explanation: "Concomitant cholangitis is uncommon and occurs in \(1 0 \%\) of patients."*
+
+**7. Which symptom or sign is observed in about 50% of patients with pCCA?**
+
+- Hepatomegaly
+- Pruritus
+- **Anorexia, fatigue, weight loss, and sarcopenia**
+- Right upper quadrant mass
+
+*Explanation: "Anorexia, fatigue, weight loss, and sarcopenia are each observed in about \(5 0 \%\) of patients."*
+
+**8. What is the role of serum CA 19-9 in the diagnosis of pCCA?**
+
+- It is a definitive diagnostic marker with 100% specificity
+- It is rarely elevated in pCCA patients
+- **It is high in most patients, but elevation may be partially attributable to biliary obstruction**
+- It is only elevated in patients with autoimmune cholangitis
+
+*Explanation: "Serum carbohydrate antigen (CA) 19- 9 level is high in most patients, but elevated CA 19- 9 may be partially attributable to biliary obstruction."*
+
+**9. What percentage of patients do not produce CA 19-9 due to the lack of the Lewis antigen?**
+
+- About 1%
+- **About 10%**
+- About 25%
+- About 50%
+
+*Explanation: "about \(1 0 \%\) of patients do not produce CA 19- 9 because of the lack of the Lewis antigen."*
+
+**10. What is the purpose of determining immunoglobulin G4 (IgG4) serum levels in the work-up of a perihilar obstruction?**
+
+- To confirm a diagnosis of pCCA
+- **To help diagnose autoimmune cholangitis, a benign condition that can mimic pCCA**
+- To assess the extent of biliary fibrosis
+- To determine the need for biliary drainage
+
+*Explanation: "Determination of immunoglobulin G4 (IgG4) serum level can help in diagnosing eosinophilic cholangiopathy (i.e., lymphoplastic cholangiopathy, more commonly referred to as auto- immune cholangitis), which is one of the benign diagnoses that may present as a hilar biliary obstruction"*
+
+**11. A 4-fold increase in IgG4 nearly excludes which diagnosis?**
+
+- Primary sclerosing cholangitis
+- Hepatocellular carcinoma
+- **pCCA**
+- Mirizzi syndrome
+
+*Explanation: "A 4- fold increase in IgG4 nearly excludes pCCA."*
+
+**12. What is the diagnostic accuracy of high-resolution thin-slice CT for detecting arterial involvement in pCCA?**
+
+- Up to 50%
+- Up to 70%
+- **Up to 93%**
+- Up to 100%
+
+*Explanation: "High- resolution thin- slice computed tomography (CT) with multiphase scanning using intravenous (IV) contrast (i.e., arterial and portovenous phases) enables a diagnostic accuracy to detect arterial involvement up to \(9 3 \%\)"*
+
+**13. Which imaging modality is superior to CT in assessing the intrahepatic biliary extent of pCCA?**
+
+- Positron emission tomography (PET)
+- Endoscopic ultrasound (EUS)
+- **Magnetic resonance imaging (MRI) with magnetic resonance cholangiopancreatography (MRCP)**
+- Percutaneous transhepatic cholangiography (PTC)
+
+*Explanation: "Magnetic resonance imaging (MRI) with magnetic resonance cholangiopancreatography (MRCP) is superior to CT in assessing the intrahepatic biliary extent of pCCA"*
+
+**14. What is the limitation of positron emission tomography (PET) scanning in pCCA staging?**
+
+- It cannot detect distant metastases
+- It has poor sensitivity for primary tumors
+- **It has a high false-positive rate related to inflammation, reflected by a specificity of 67%**
+- It is unable to assess lymph node involvement
+
+*Explanation: "The role of positron emission tomography (PET) scanning is limited because of false- positive results related to inflammation and is reflected by a specificity of \(6 7 \%\)"*
+
+**15. Why is it crucial to perform high-quality imaging before biliary stenting in patients with suspected pCCA?**
+
+- To prevent contrast allergy
+- Because stenting is always required before imaging
+- To avoid the need for a tissue diagnosis
+- **Because diagnosis and staging are considerably impaired after stenting due to decompression and inflammation**
+
+*Explanation: "It is of utmost importance to realize that the diagnosis and staging after biliary stenting are considerably impaired because of decompression of the biliary system and imaging artefacts induced by stenting- related inflammation."*
+
+**16. What is the typical sensitivity of an endoscopic or percutaneous brush for tissue diagnosis in pCCA?**
+
+- Greater than 80%
+- 50% to 70%
+- **Less than 40%**
+- 75% to 85%
+
+*Explanation: "Tissue diagnosis is challenging because of the low sensitivity (typically less than \(4 0 \%\) ) of an endoscopic or percutaneous brush."*
+
+**17. How does fluorescent in situ hybridization (FISH) improve the detection of malignancy in biliary strictures?**
+
+- By measuring CA 19-9 levels
+- **By determining polysomy, which typically doubles the sensitivity compared to conventional cytology**
+- By directly visualizing the tumor mass
+- By assessing liver function
+
+*Explanation: "The application of fluorescent in situ hybridization (FISH) to determine polysomy in addition to conventional cytology typically doubles the sensitivity to detect a malignancy."*
+
+**18. Why should percutaneous biopsy of pCCA be avoided in patients who may be eligible for liver transplant (LT)?**
+
+- It is a non-diagnostic procedure
+- **It may cause needle track metastases, which contraindicates LT at many centers**
+- It increases the risk of cholangitis
+- It delays the transplant work-up
+
+*Explanation: "Percutaneous biopsy of pCCA should be avoided in patients that may be eligible for a liver transplant (LT; see later). Biopsy may cause needle track metastases and LT is therefore contraindicated in many centers after any transperitoneal biopsy."*
+
+**19. According to expert consensus statements, when is pathologic confirmation required before surgical exploration for pCCA?**
+
+- Always, before any surgical procedure
+- Only when CA 19-9 is normal
+- **It is not required provided benign etiologies have been excluded and a complete staging evaluation has been completed**
+- Only for patients with primary sclerosing cholangitis (PSC)
+
+*Explanation: "Pathologic confirmation is not required before surgical exploration for resection or initiation of an LT protocol, provided that benign etiologies have been excluded and a complete staging evaluation has been completed."*
+
+**20. What percentage of patients who undergo surgery for anticipated pCCA are found to have benign disease on final pathology?**
+
+- Approximately 1%
+- Approximately 5%
+- **Approximately 10%**
+- Approximately 25%
+
+*Explanation: "after surgery for anticipated pCCA, approximately \(10\%\) of patients are diagnosed with benign disease at pathologic examination of the resected specimen."*
+
+**21. According to the text, patients with distant metastases and lymph node involvement beyond the hepatoduodenal ligament have which stage of disease?**
+
+- Stage II
+- Stage III
+- **Stage IV**
+- Stage I
+
+*Explanation: "Patients with distant metastases (e.g., in lung and peritoneum) and lymph node involvement beyond the hepatoduodenal ligament (e.g., aortocaval) have Stage IV disease and should rarely be considered for upfront resection."*
+
+**22. What is a major limitation of the Bismuth-Corlette classification system for pCCA?**
+
+- It is only applicable to left-sided tumors
+- **It does not account for the radial extent of the tumor into surrounding structures such as the liver and vasculature**
+- It is based solely on surgical pathology
+- It only applies to patients with PSC
+
+*Explanation: "However, this classification does not take into account the radial extent of pCCA into surrounding structures such as the liver, hilar soft tissue, and vasculature."*
+
+**23. The Memorial Sloan Kettering Cancer Center (MSKCC) staging system for pCCA includes all of the following criteria EXCEPT:**
+
+- Biliary extent of tumor (Bismuth type)
+- **Patient's age**
+- Vascular involvement (portal vein and hepatic artery)
+- Lobar atrophy
+
+*Explanation: "This system predicts the probability of an R0 resection and overall survival using three criteria: biliary extent of tumor (Bismuth type), vascular involvement (portal vein and hepatic artery), and lobar atrophy."*
+
+**24. In the MSKCC staging system, which T-stage has the lowest probability of achieving an R0 resection?**
+
+- T1
+- T2
+- **T3**
+- All stages have equal probability
+
+*Explanation: "Patients with T3 disease (lobar atrophy, portal vein involvement, and main hepatic artery involvement) have the lowest probability of an R0 resection."*
+
+**25. What is the primary goal of determining resectability for pCCA?**
+
+- To predict the need for chemotherapy
+- **To achieve negative surgical margins (R0) with an adequate future liver remnant (FLR)**
+- To minimize operative time
+- To avoid lymphadenectomy
+
+*Explanation: "The primary goal is to obtain negative surgical margins (R0) and an adequate future liver remnant (FLR)."*
+
+**26. Why is a left-sided resection generally preferred over a right-sided resection for pCCA when possible?**
+
+- It is technically easier to perform
+- **It leaves a larger future liver remnant (FLR), minimizing the risk of postoperative liver failure**
+- It has a lower rate of bile leak
+- It is associated with lower rates of lymph node metastasis
+
+*Explanation: "In general, when possible, a left-sided resection leaves a much larger FLR, minimizes the risk of postoperative liver failure, and is the preferred approach."*
+
+**27. What is the minimum recommended future liver remnant (FLR) volume in a patient with pCCA and biliary obstruction to avoid postoperative liver failure?**
+
+- At least 15% of total liver volume
+- **At least 30% to 40% of total liver volume**
+- At least 50% of total liver volume
+- At least 60% of total liver volume
+
+*Explanation: "Most patients with pCCA require a larger FLR volume ( \(>30\% -40\%\) ) because of biliary obstruction to avoid postoperative liver failure."*
+
+**28. According to the risk score model for postoperative mortality after pCCA resection, which factor was the most important poor prognostic factor?**
+
+- Preoperative cholangitis
+- Portal vein reconstruction
+- FLR volume less than 30%
+- **Age**
+
+*Explanation: "Age was the most important poor prognostic factor with the risk of both postoperative liver failure and death increasing rapidly with advanced age."*
+
+**29. What was the predicted 90-day postoperative mortality risk for a patient with a low risk score (0-2 points) according to the risk model?**
+
+- 0%
+- **2%**
+- 11%
+- 37%
+
+*Explanation: "The predicted 90-day postoperative mortality risks were \(2\%\) (low risk: 0-2 points), \(11\%\) (intermediate risk: 3 or 4 points), or \(37\%\) (high risk: 5-9 points)."*
+
+**30. Which patient-related factor was NOT mentioned as a predictor of postoperative liver failure in pCCA?**
+
+- Preoperative cholangitis
+- **Preoperative diabetes mellitus**
+- FLR volume less than 30%
+- Albumin level below 3.5 mg/dL
+
+*Explanation: "Another study identified similar factors to predict postoperative liver failure, including albumin level below \(3.5\mathrm{mg / dL}\) , preoperative cholangitis, preoperative total bilirubin level above \(3\mathrm{mg / dL}\) (51 mmol/L), and FLR volume of less than \(30\%\)"*
+
+**31. What is the primary aim of preoperative biliary drainage in pCCA patients?**
+
+- To provide a route for chemotherapy
+- **To restore the regenerative capacity of the future liver remnant (FLR)**
+- To prevent pancreatitis
+- To confirm the diagnosis of malignancy
+
+*Explanation: "Biliary drainage aims to restore the regenerative capacity of the FLR."*
+
+**32. In which patient with pCCA is preoperative biliary drainage NOT necessary?**
+
+- Patients with cholangitis
+- Patients with jaundice needing neoadjuvant therapy
+- **Patients with an FLR volume above 50%**
+- Patients with a small FLR volume (<50%)
+
+*Explanation: "Preoperative biliary drainage is necessary in patients with: cholangitis, jaundice and the need to undergo neoadjuvant therapy, liver or renal insufficiency possibly related to hyperbilirubinemia, and small FLR volume \((< 50\%)\) ,especially before PVE."*
+
+**33. What was the finding of the randomized controlled trial (RCT) comparing PTBD and EBD for preoperative biliary drainage in resectable pCCA?**
+
+- No difference in 90-day mortality between groups
+- **The trial was stopped early due to significantly higher 90-day mortality in the PTBD group (41%) compared to the EBD group (11%)**
+- PTBD had a higher rate of severe drainage-related complications
+- EBD had a higher technical success rate
+
+*Explanation: "Interim analysis after randomization of 54 patients \((50\%)\) accrual) revealed a statistically significant difference in mortality at 90- day follow- up after surgery between the PTBD group \((41\%)\) and the EBD group \((11\%)\) relative risk [RR] 3.67,1.15- 11.69, \(P = .03)\) , which led to the decision to stop the trial."*
+
+**34. In the RCT comparing PTBD and EBD, what was the crossover rate from the EBD group to the other drainage method?**
+
+- 4%
+- **56%**
+- 74%
+- 93%
+
+*Explanation: "Crossover treatment was significantly higher in the EBD group \((56\%)\) versus the PTBD group \((n = 1,4\% ,P< .0001)\)"*
+
+**35. According to the Japanese Clinical Practice Guidelines, which biliary drainage technique is recommended for pCCA due to less frequent cholangitis?**
+
+- Percutaneous transhepatic biliary drainage (PTBD)
+- Endoscopic biliary drainage (EBD)
+- **Endoscopic nasobiliary drainage (ENBD)**
+- Endoscopic ultrasound-guided biliary drainage (EUS-BD)
+
+*Explanation: "A third technique to biliary drainage, as recommended by The Japanese Clinical Practice Guidelines for Biliary Tract Cancer, is the use of endoscopic nasobiliary drainage (ENBD) because of less frequently observed cholangitis in ENBD versus EBD."*
+
+**36. What is the recommendation regarding preoperative biliary drainage in jaundiced patients with an FLR volume above 50%?**
+
+- It is mandatory
+- It should be performed using PTBD
+- It should be performed using ENBD
+- **It should be avoided, as it may increase postoperative mortality**
+
+*Explanation: "postoperative mortality at 90 days was higher with biliary drainage in patients with an FLR volume above \(50\%\) , implying that biliary drainage should be avoided in these patients."*
+
+**37. Until what serum bilirubin level do experts advocate postponing surgery for pCCA?**
+
+- Below 5 mg/dL
+- Below 3 mg/dL
+- **Below 2 mg/dL**
+- Below 1 mg/dL
+
+*Explanation: "Experts advocate to postpone surgery until the serum bilirubin level is below \(2\mathrm{mg / dL}\) (i.e., \(34\mathrm{mmol / L}\) ."*
+
+**38. What is the most important modifiable risk factor for postoperative mortality in pCCA?**
+
+- Age over 70
+- **FLR volume below 40% to 50%**
+- Presence of PSC
+- Preoperative CA 19-9 level
+
+*Explanation: "An FLR volume below \(40\%\) to \(50\%\) is the most important modifiable risk factor for postoperative mortality."*
+
+**39. What is the effect of portal vein embolization (PVE) on the future liver remnant (FLR)?**
+
+- It causes atrophy of the FLR
+- **It induces hypertrophy of the FLR**
+- It has no effect on FLR volume
+- It causes fibrosis of the FLR
+
+*Explanation: "PVE has been demonstrated to induce an increase in FLR volume in both healthy and compromised liver parenchyma by means of hypertrophy of the FLR."*
+
+**40. According to a meta-analysis, what is the morbidity rate associated with portal vein embolization (PVE)?**
+
+- 0%
+- **2.2%**
+- 5.5%
+- 10%
+
+*Explanation: "The authors demonstrated that PVE is a safe and effective procedure with a morbidity rate of \(2.2\%\) and no mortality."*
+
+**41. In an international study, how did the use of PVE affect the rate of liver failure after pCCA resection?**
+
+- It increased liver failure rates by 4.4-fold
+- It had no effect on liver failure rates
+- **It was associated with a 4.4-fold reduction in liver failure (from 36% to 8%)**
+- It reduced liver failure only in patients with PSC
+
+*Explanation: "The use of PVE was associated with a 4.4- fold reduction in liver failure (from \(36\%\) to \(8\%\) )"*
+
+**42. What is the 90-day mortality rate reported in the initial series of ALPPS (associating liver partition and portal vein ligation for staged hepatectomy) for pCCA?**
+
+- 10%
+- 27%
+- **48%**
+- 60%
+
+*Explanation: "More recently, van Gulik and colleagues analyzed data on 37 patients who underwent ALPPS for pCCA in 23 centers. Only 29 patients had available data for analysis, with a 90- day mortality of \(48\%\) (14/29)."*
+
+**43. What is the current recommendation regarding the use of ALPPS for pCCA based on available studies?**
+
+- It is the preferred method for hypertrophy
+- It is recommended for all patients with a small FLR
+- **It is not recommended for pCCA**
+- It is recommended only for right-sided tumors
+
+*Explanation: "Based on these studies, ALPPS is not recommended for pCCA."*
+
+**44. In the Mayo Clinic transplantation protocol for pCCA, what is the maximum radial tumor diameter allowed?**
+
+- 1 cm
+- **3 cm**
+- 5 cm
+- No size restriction
+
+*Explanation: "the tumor should be located proximally to the cystic duct with a maximum radial tumor diameter of \(3\mathrm{cm}\) without evidence of metastases."*
+
+**45. What is the 5-year survival rate after liver transplantation (LT) for pCCA with underlying PSC, according to several studies?**
+
+- 23% to 30%
+- **64% up to 80%**
+- 40% to 50%
+- 85% to 90%
+
+*Explanation: "Several studies have reported 5- year survival rates after LT of \(64\%\) up to \(80\%\) in patients with underlying PSC)"*
+
+**46. The TRANSPHIL study is designed to compare what two treatment modalities for pCCA?**
+
+- PTBD versus EBD
+- **Neoadjuvant chemoradiation with LT versus liver resection**
+- Right-sided versus left-sided resection
+- PVE versus ALPPS
+
+*Explanation: "The randomized multicenter TRANSPHIL study compares overall survival at 5 years and 3- year recurrence free survival of neoadjuvant chemoradiation with LT versus liver resection."*
+
+**47. Based on a systematic review, what is the current status of neoadjuvant therapy for patients with upfront resectable pCCA?**
+
+- It is standard of care
+- **There are insufficient data available to determine its effect**
+- It is proven to improve survival
+- It is only recommended for patients with PSC
+
+*Explanation: "In summary, to date there are insufficient data available on the effect of neoadjuvant (chemo)radiation therapy for patients with resectable pCCA."*
+
+**48. What does the preoperative phase of Enhanced Recovery After Surgery (ERAS), known as prehabilitation, aim to do?**
+
+- Reduce operative time
+- **Improve physical, nutritional, and psychological aspects of a patient's health**
+- Decrease the need for biliary drainage
+- Increase the use of PVE
+
+*Explanation: "The preoperative part of ERAS (i.e., prehabilitation) aims to improve the physical, nutritional, and psychological aspects of a patient's health to reduce the risk of postoperative complications and facilitate a swift recovery of physical performance status."*
+
+**49. In a prospective cohort study on prehabilitation for HPB malignancies, what was the significant finding regarding hospital stay?**
+
+- No difference in hospital stay
+- Longer hospital stay in the prehabilitation group
+- **Significantly shorter hospital stay for patients after prehabilitation (23 vs. 30 days)**
+- Shorter ICU stay but similar total hospital stay
+
+*Explanation: "Results from this study showed a significantly shorter hospital stay for patients after prehabilitation versus those who enrolled the standard preoperative course (23 vs. 30 days, \(P = .045\) )"*
+
+**50. What is the primary reason for performing an en bloc caudate resection during pCCA surgery?**
+
+- To increase the FLR volume
+- To improve lymphatic drainage
+- **To obtain negative surgical margins**
+- To reduce operative time
+
+*Explanation: "Reconstruction often entails complex biliary and sometimes vascular reconstruction to obtain negative surgical margins and an adequate future liver remnant (FLR)."*
+
+**51. What is the observed rate of positive surgical margins (R1) after pCCA resection?**
+
+- About one-tenth of patients
+- About one-fifth of patients
+- **About one-third of patients**
+- About one-half of patients
+
+*Explanation: "nonetheless, positive surgical margins are observed in about one- third of patients, adversely affecting outcome"*
+
+**52. What is the reported 90-day postoperative mortality rate for pCCA surgery in Western centers?**
+
+- 1% to 3%
+- **5% to 18%**
+- 20% to 25%
+- 30% to 35%
+
+*Explanation: "Surgery for pCCA is associated with considerable 90- day postoperative mortality rates of \(5 \%\) to \(1 8 \%\) in Western centers."*
+
+**53. Which serum marker can be used to rule out liver fluke infestation in patients from endemic areas?**
+
+- CA 19-9
+- CEA
+- **Serology for Clonorchis sinensis and Opisthorchis viverrini**
+- Alpha-fetoprotein
+
+*Explanation: "Finally, liver fluke infestation (Clonorchis sinensis and Opisthorchis viverrini) can be ruled out with serology if in an endemic area"*
+
+**54. According to the text, what is the sensitivity of CT for detecting lymph node metastases in pCCA?**
+
+- 93%
+- 87%
+- **54%**
+- 67%
+
+*Explanation: "However, sensitivity of detecting lymph node metastases is poor \((5 4 \% )\)"*
+
+**55. What is the advantage of using MRI with MRCP over CT in the evaluation of pCCA?**
+
+- Better assessment of arterial involvement
+- **Better assessment of the intrahepatic biliary extent of the tumor**
+- Better detection of distant metastases
+- Better evaluation of lymph node status
+
+*Explanation: "Magnetic resonance imaging (MRI) with magnetic resonance cholangiopancreatography (MRCP) is superior to CT in assessing the intrahepatic biliary extent of pCCA"*
+
+**56. In the study on PSC patients with dominant strictures, which factor was the only significant predictor of malignancy on multivariable analysis?**
+
+- CA 19-9 level
+- **Fluorescent in situ hybridization (FISH)**
+- Conventional cytology
+- Bile duct diameter
+
+*Explanation: "multivariable analysis revealed FISH to be the only significant predictor of malignancy"*
+
+**57. Why is it important to refer patients with a perihilar obstruction to an expert center before biliary drainage?**
+
+- To ensure a tissue diagnosis is obtained first
+- Because drainage is always necessary before referral
+- **Because high-quality imaging essential for staging is best performed before drainage, and the drainage strategy depends on the resection plan**
+- Because only expert centers are allowed to perform drainage
+
+*Explanation: "Patients with a perihilar obstruction should be referred to an expert center before biliary drainage because high- quality imaging is essential before biliary drainage, not all patients with pCCA require biliary drainage, and drainage of the FLR is only possible after an expert team has determined the resection plan"*
+
+**58. What is a characteristic imaging finding of autoimmune cholangitis that helps differentiate it from pCCA?**
+
+- A mass with irregular borders
+- **Smooth concentric biliary wall thickening with a visible lumen**
+- Abrupt cut-off of the bile duct
+- Involvement of the second-order bile ducts only
+
+*Explanation: "imaging (typically smooth concentric biliary wall thickening with a visible lumen, absence of a mass, skip lesions, and involvement of the extrahepatic bile duct)"*
+
+**59. What is the reported rate of incomplete biliary drainage of the FLR in patients undergoing PVE for pCCA?**
+
+- This information is not provided in the text
+- **The text does not provide a specific rate for this**
+- The text provides a rate for crossover drainage but not this specific metric
+- It is reported as 56% for EBD
+
+*Explanation: This question is designed to test that the text does not specify a rate for this. The provided text discusses crossover and incomplete drainage in the context of risk factors but does not give a specific percentage for this occurrence during PVE.*
+
+**60. In the risk score model for postoperative mortality, what factor was associated with a hazard ratio of 2.3 (0.9-5.8) and considered of borderline significance (P=0.09)?**
+
+- Age per 10 years
+- Preoperative cholangitis
+- **Portal vein reconstruction**
+- FLR volume <30%
+
+*Explanation: "Portal vein reconstructiona2.30.9-5.8.09"*
+
+**61. What is the median time reported for the relative increase of liver volume after PVE?**
+
+- 10 to 14 days
+- **19 to 29 days**
+- 30 to 40 days
+- 45 to 60 days
+
+*Explanation: "which revealed a relative increase of liver volume after PVE of \(42\%\) (18- 59) in a median of 22 (19- 29 days)."*
+
+**62. According to the text, what is the consequence of not referring a patient with pCCA to an expert center before intervention?**
+
+- A faster time to surgery
+- **A lost opportunity to obtain adequate imaging before biliary drainage and an increased surgical risk**
+- A lower chance of needing biliary drainage
+- A higher chance of being eligible for ALPPS
+
+*Explanation: "Failure to do so may result in a lost opportunity to obtain adequate imaging before biliary drainage, unnecessary or inadequate drainage increasing surgical risk, and lost opportunity for resection or liver transplantation."*
+
+**63. What does the HISORt criteria help predict?**
+
+- The resectability of pCCA
+- The need for liver transplantation
+- **The presence of IgG4-associated disease**
+- The response to neoadjuvant chemotherapy
+
+*Explanation: "The HISORt criteria predict the presence of IgG4- associated disease based on histology, imaging... serology, other organ manifestation, and response to steroid treatment."*
+
+**64. In the study comparing resection and LT for pCCA, what was the 5-year survival rate for patients with R0 resection without PSC who met the Mayo Clinic transplant criteria?**
+
+- 64%
+- **29%**
+- 54%
+- 18%
+
+*Explanation: "Subset analysis of patients with R0 resection without PSC who fulfilled the Mayo Clinic transplant criteria still showed lower 5- year survival \((29\%)\) versus transplanted patients \((54\%)\)"*
+
+**65. What is the rationale behind the TRANSPHIL study?**
+
+- To compare PTBD and ENBD
+- To validate the Mayo Clinic transplant protocol
+- **A retrospective study suggested that patient selection, rather than induction therapy, is key for LT outcomes**
+- To determine the role of ALPPS in pCCA
+
+*Explanation: "The rationale for the latter trial was a retrospective study that assessed the role of neoadjuvant therapy before LT for pCCA. ... The authors concluded that selection, rather than induction therapy, is key."*
+
+**66. What is the reported prevalence of cholangitis in a recent study by Nagino and colleagues in patients who underwent ENBD?**
+
+- 10%
+- 25%
+- **37%**
+- 59%
+
+*Explanation: "A recent study by Nagino and colleagues reported a cholangitis rate of \(37\%\) in a cohort of 191 patients who underwent ENBD"*
+
+**67. In the RCT comparing PTBD and EBD, what was the rate of severe drainage-related complications in the EBD group?**
+
+- 37%
+- 55%
+- 63%
+- **67%**
+
+*Explanation: "One or more severe drainage- related complications were observed in \(67\%\) of EBD patients and \(63\%\) of PTBN patients"*
+
+**68. What is the primary risk associated with performing arterial reconstruction during pCCA resection in Western countries?**
+
+- Increased rate of bile leak
+- **Increased postoperative mortality rate and poor survival, making it difficult to justify**
+- Higher rate of positive margins
+- Increased need for reoperation
+
+*Explanation: "In Western countries, arterial reconstructions are rarely performed to obtain an R0 resection of pCCA: postoperative mortality rate is increased, and survival is generally poor in patients, which makes it difficult to justify."*
+
+**69. According to the MSKCC staging system, which factor is NOT used to predict the probability of an R0 resection?**
+
+- Biliary extent of tumor (Bismuth type)
+- Vascular involvement
+- Lobar atrophy
+- **Tumor size**
+
+*Explanation: "This system predicts the probability of an R0 resection and overall survival using three criteria: biliary extent of tumor (Bismuth type), vascular involvement (portal vein and hepatic artery), and lobar atrophy."*
+
+**70. What is the finding regarding PVE use in Western versus Eastern centers for pCCA?**
+
+- It is used more frequently in Western centers
+- **It is used less frequently in Western centers (7%) compared to Eastern centers (55%)**
+- It is used equally in both regions
+- It is not used in either region
+
+*Explanation: "In an international study including 1,484 patients who underwent liver resection for pCCA, PVE was less frequently performed in Western centers \((7\%)\) compared with Eastern centers \((55\% ,P< .001)\) ."*
+
+**71. What was the median overall survival (OS) for the ALPPS group in the study comparing ALPPS patients to matched controls?**
+
+- 29 months
+- 18 months
+- **6 months**
+- 12 months
+
+*Explanation: "Median OS was 6 months in the ALPPS group and 29 months for the matched controls ( \(P = .048\) )."*
+
+**72. In the context of liver transplantation for pCCA, what should transplant teams prepare for according to the ILTS consensus?**
+
+- Routine use of ALPPS
+- **Arterial and venous jump grafts**
+- Post-transplant chemotherapy
+- Biliary stenting before transplant
+
+*Explanation: "Transplant teams should prepare for arterial and venous jump grafts in the setting of LT for pCCA (moderate level of evidence, strong recommendation)."*
+
+**73. What is the reported rate of cholangitis in the PTBD group of the RCT that compared PTBD and EBD?**
+
+- 20%
+- 37%
+- **59%**
+- 67%
+
+*Explanation: "of which cholangitis was most frequently observed \((59\%\) vs. \(37\%\) \(P = .1\) , respectively amongst PTBD and EBD)."*
+
+**74. According to the risk factors for postoperative mortality, what is the odds ratio (OR) for preoperative cholangitis from the second study listed in Table 51B.1?**
+
+- 4.1
+- 2.9
+- **7.5**
+- 2.3
+
+*Explanation: "Table 51B.1 shows for Preoperative cholangitis the OR as 7.5 with a 95% CI of 1.5-29.0 and P=0.016 for the second study."*
+
+**75. What is the recommendation from the AHPBA, NCCN, and ENS-CCA regarding the use of PET scanning for routine staging of pCCA?**
+
+- It is mandatory for all patients
+- **It lacks the sensitivity and specificity to be a routine staging tool**
+- It should be used only for patients with PSC
+- It is the preferred method for detecting lymph node metastases
+
+*Explanation: "Imaging by fluorodeoxyglucose- PET lacks the sensitivity and specificity required to be a routine staging tool for patients with pCCA."*
+
+## Old lot of MCQs (Qwen)
+
+
+**1. What is the reported incidence of perihilar cholangiocarcinoma (pCCA) in Western countries?**
+
+- 0.1 to 0.5 per 100,000
+- **1 to 2 per 100,000**
+- 5 to 10 per 100,000
+- 15 to 20 per 100,000
+
+*Explanation: According to the text, the incidence of pCCA in Western countries is 1 to 2 per 100,000, which is significantly lower than in Asia.*
+
+
+
+**2. According to the AJCC definition, where does pCCA originate?**
+
+- Proximal to the second-order intrahepatic bile ducts
+- **Distal to the second-order intrahepatic bile ducts and proximal to the insertion of the cystic duct**
+- Distal to the cystic duct insertion
+- Within the gallbladder
+
+*Explanation: The AJCC defines pCCA as originating distal to the second-order intrahepatic bile ducts and proximal to the insertion of the cystic duct into the extrahepatic bile duct.*
+
+
+
+**3. What is the reported 5-year overall survival rate after complete resection of pCCA?**
+
+- Up to 10%
+- Up to 20%
+- **Up to 35%**
+- Up to 50%
+
+*Explanation: Complete resection of pCCA is associated with 5-year overall survival rates of up to 35%.*
+
+
+
+**4. Approximately what percentage of patients with pCCA are considered resectable?**
+
+- 10%
+- **One-third**
+- One-half
+- Two-thirds
+
+*Explanation: Only approximately one-third of patients with pCCA are considered resectable at presentation.*
+
+
+
+**5. What is the typical 90-day postoperative mortality rate for pCCA surgery in Western centers?**
+
+- 1% to 3%
+- **5% to 18%**
+- 20% to 30%
+- 35% to 45%
+
+*Explanation: Surgery for pCCA is associated with considerable 90-day postoperative mortality rates of 5% to 18% in Western centers.*
+
+
+
+**6. What is the reported 90-day postoperative mortality rate for pCCA surgery in recent Eastern series?**
+
+- **1% to 3%**
+- 5% to 8%
+- 10% to 15%
+- 18% to 25%
+
+*Explanation: Much lower mortality rates of 1% to 3% have been reported in recent Eastern series.*
+
+
+
+**7. What percentage of patients with pCCA typically present with painless jaundice?**
+
+- 50%
+- 70%
+- **90%**
+- 95%
+
+*Explanation: Patients with pCCA typically present with painless jaundice in 90% of cases.*
+
+
+
+**8. What percentage of pCCA patients experience concomitant cholangitis at presentation?**
+
+- 2%
+- 5%
+- **10%**
+- 25%
+
+*Explanation: Concomitant cholangitis occurs in 10% of patients with pCCA.*
+
+
+
+**9. Which of the following symptoms is observed in about 50% of pCCA patients?**
+
+- Fever
+- **Weight loss**
+- Vomiting
+- Abdominal pain
+
+*Explanation: Anorexia, fatigue, weight loss, and sarcopenia are each observed in about 50% of patients.*
+
+
+
+**10. Physical examination of the abdomen in pCCA may reveal a palpable mass due to:**
+
+- Tumor mass itself
+- Gallbladder enlargement
+- **Unilateral hepatic lobe hypertrophy with contralateral lobar atrophy**
+- Ascites
+
+*Explanation: Physical examination may reveal a palpable mass in the upper abdomen indicative of unilateral hepatic lobe hypertrophy because of concomitant contralateral lobar atrophy.*
+
+
+
+**11. What percentage of patients do not produce CA 19-9 due to lack of the Lewis antigen?**
+
+- 2%
+- 5%
+- **10%**
+- 20%
+
+*Explanation: About 10% of patients do not produce CA 19-9 because of the lack of the Lewis antigen.*
+
+
+
+**12. What level of IgG4 increase nearly excludes pCCA?**
+
+- 2-fold
+- **4-fold**
+- 6-fold
+- 8-fold
+
+*Explanation: A 4-fold increase in IgG4 nearly excludes pCCA and suggests autoimmune cholangitis.*
+
+
+
+**13. What does the "H" in HISORt criteria stand for?**
+
+- Hepatomegaly
+- **Histology**
+- Hypertension
+- Hyperbilirubinemia
+
+*Explanation: HISORt criteria predict IgG4-associated disease based on Histology, Imaging, Serology, Other organ manifestation, and Response to steroid treatment.*
+
+
+
+**14. Which imaging modality enables diagnostic accuracy up to 93% for detecting arterial involvement in pCCA?**
+
+- MRI
+- Ultrasound
+- **High-resolution thin-slice CT with multiphase scanning**
+- PET scan
+
+*Explanation: High-resolution thin-slice CT with multiphase scanning using IV contrast enables diagnostic accuracy to detect arterial involvement up to 93%.*
+
+
+
+**15. What is the sensitivity of CT for detecting lymph node metastases in pCCA?**
+
+- 25%
+- **54%**
+- 75%
+- 90%
+
+*Explanation: The sensitivity of CT for detecting lymph node metastases is poor at 54%.*
+
+
+
+**16. Which imaging modality is superior to CT in assessing intrahepatic biliary extent of pCCA?**
+
+- **MRI with MRCP**
+- PET scan
+- Ultrasound
+- Plain CT
+
+*Explanation: MRI with magnetic resonance cholangiopancreatography (MRCP) is superior to CT in assessing the intrahepatic biliary extent of pCCA.*
+
+
+
+**17. What is the specificity of PET scanning for pCCA due to false-positive results from inflammation?**
+
+- 45%
+- 55%
+- **67%**
+- 85%
+
+*Explanation: The specificity of PET scanning is 67% due to false-positive results related to inflammation.*
+
+
+
+**18. What is the typical sensitivity of endoscopic or percutaneous brush cytology for tissue diagnosis of pCCA?**
+
+- Less than 20%
+- **Less than 40%**
+- 60% to 70%
+- 80% to 90%
+
+*Explanation: The sensitivity of endoscopic or percutaneous brush cytology is typically less than 40%.*
+
+
+
+**19. What technique can double the sensitivity to detect malignancy when added to conventional cytology?**
+
+- Immunohistochemistry
+- **Fluorescent in situ hybridization (FISH)**
+- Gene sequencing
+- Flow cytometry
+
+*Explanation: The application of FISH to determine polysomy in addition to conventional cytology typically doubles the sensitivity to detect malignancy.*
+
+
+
+**20. What CA 19-9 level combined with FISH polysomy yields a hazard ratio of 11?**
+
+- At least 50
+- At least 75
+- **At least 129**
+- At least 200
+
+*Explanation: When CA 19-9 was at least 129 combined with polysomy on FISH, a hazard ratio of 11 was found.*
+
+
+
+**21. Why should percutaneous biopsy be avoided in patients potentially eligible for liver transplant?**
+
+- Risk of bleeding
+- **Risk of needle track metastases**
+- Risk of infection
+- Risk of bile leak
+
+*Explanation: Percutaneous biopsy may cause needle track metastases, making liver transplantation contraindicated in many centers.*
+
+
+
+**22. What percentage of patients undergoing surgery for anticipated pCCA are diagnosed with benign disease?**
+
+- 2%
+- 5%
+- **10%**
+- 15%
+
+*Explanation: After surgery for anticipated pCCA, approximately 10% of patients are diagnosed with benign disease at pathologic examination.*
+
+
+
+**23. Which lymph node involvement indicates Stage IV disease in pCCA?**
+
+- Hepatoduodenal ligament nodes
+- **Aortocaval nodes**
+- Portal nodes
+- Celiac nodes
+
+*Explanation: Lymph node involvement beyond the hepatoduodenal ligament (e.g., aortocaval) indicates Stage IV disease.*
+
+
+
+**24. What does the Bismuth-Corlette system classify based on?**
+
+- Vascular involvement
+- Lymph node status
+- **Extent of biliary tree involvement**
+- Tumor size
+
+*Explanation: The Bismuth-Corlette system was the first to classify pCCA based solely on the extent of involvement of the biliary tree.*
+
+
+
+**25. What is a major limitation of the Bismuth-Corlette classification?**
+
+- It requires invasive testing
+- **It does not account for radial extent into surrounding structures**
+- It is too complex for clinical use
+- It has poor interobserver agreement
+
+*Explanation: The Bismuth-Corlette classification does not take into account the radial extent of pCCA into surrounding structures such as the liver, hilar soft tissue, and vasculature.*
+
+
+
+**26. Which staging system involves portal venous involvement and lobar atrophy?**
+
+- Bismuth-Corlette
+- **MSKCC staging system**
+- AJCC TNM 7th edition
+- TNM 6th edition
+
+*Explanation: The Memorial Sloan-Kettering Cancer Center (MSKCC) staging system involves portal venous involvement and lobar atrophy in addition to biliary extent.*
+
+
+
+**27. What is the current edition of the AJCC/UICC TNM staging system for pCCA?**
+
+- 6th
+- 7th
+- **8th**
+- 9th
+
+*Explanation: The AJCC/International Union Against Cancer (UICC) tumor-node-metastasis (TNM) system is currently in its eighth edition.*
+
+
+
+**28. What is the median overall survival of patients with pCCA without surgery?**
+
+- 2 months
+- 4 months
+- **8 months**
+- 12 months
+
+*Explanation: The median OS of patients with pCCA without surgery is around 8 months.*
+
+
+
+**29. What is the median overall survival after resection with curative intent for pCCA?**
+
+- 15 months
+- 25 months
+- **Up to 40 months**
+- 60 months
+
+*Explanation: The median overall survival after resection with curative intent is up to 40 months.*
+
+
+
+**30. When is actual cure (10-year OS) rarely seen in pCCA?**
+
+- Never
+- Only with chemotherapy
+- **Only with papillary or well-differentiated pCCA**
+- Only with radiation therapy
+
+*Explanation: Actual cure (i.e., 10-year OS) is rarely seen outside of patients with papillary or well-differentiated pCCA.*
+
+
+
+**31. What is typically required for complete resection of pCCA?**
+
+- Local excision only
+- Wedge resection
+- **Hemihepatectomy or greater with en bloc caudate resection**
+- Cholecystectomy only
+
+*Explanation: Because of the anatomic location, a hemihepatectomy or greater with en bloc caudate resection is typically required for complete resection.*
+
+
+
+**32. In patients with Bismuth I or II tumors without unilateral atrophy or vascular involvement, which resection is preferred?**
+
+- Right-sided resection
+- **Left-sided resection**
+- Either is equally preferred
+- Central resection
+
+*Explanation: When possible, a left-sided resection leaves a much larger FLR, minimizes the risk of postoperative liver failure, and is preferred.*
+
+
+
+**33. In what percentage of patients is the volume of the left lateral sector below 20%?**
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: In 80% of patients, the volume of the left lateral sector is below 20%.*
+
+
+
+**34. What is the minimum FLR volume required in the absence of underlying liver disease?**
+
+- 15%
+- 20%
+- **25%**
+- 30%
+
+*Explanation: The FLR should constitute at least 25% of the total liver volume before resection in the absence of underlying liver disease.*
+
+
+
+**35. What FLR volume is typically required for pCCA patients due to biliary obstruction?**
+
+- 20% to 25%
+- 25% to 30%
+- **30% to 40%**
+- 50% to 60%
+
+*Explanation: Most patients with pCCA require a larger FLR volume (>30%-40%) because of biliary obstruction to avoid postoperative liver failure.*
+
+
+
+**36. Which factor is the most important poor prognostic factor for postoperative mortality in pCCA?**
+
+- Diabetes
+- **Age**
+- Gender
+- Obesity
+
+*Explanation: Age was the most important poor prognostic factor with the risk of both postoperative liver failure and death increasing rapidly with advanced age.*
+
+
+
+**37. What is the predicted 90-day postoperative mortality for high-risk patients (5-9 points) in the risk score model?**
+
+- 2%
+- 11%
+- **37%**
+- 55%
+
+*Explanation: The predicted 90-day postoperative mortality risks were 2% (low risk), 11% (intermediate risk), or 37% (high risk).*
+
+
+
+**38. Which albumin level is associated with increased risk of postoperative liver failure?**
+
+- Below 2.5 mg/dL
+- **Below 3.5 mg/dL**
+- Below 4.0 mg/dL
+- Below 4.5 mg/dL
+
+*Explanation: Albumin level below 3.5 mg/dL is identified as a factor predicting postoperative liver failure.*
+
+
+
+**39. What bilirubin level has been associated with a 4-fold increased risk of postoperative liver failure?**
+
+- Above 1 mg/dL
+- Above 2 mg/dL
+- **Above 3 mg/dL**
+- Above 5 mg/dL
+
+*Explanation: Preoperative total bilirubin level above 3 mg/dL (51 mmol/L) has been associated with a 4-fold increased risk of postoperative liver failure.*
+
+
+
+**40. What is the target serum bilirubin level before surgery after biliary drainage?**
+
+- Below 0.5 mg/dL
+- Below 1 mg/dL
+- **Below 2 mg/dL (34 mmol/L)**
+- Below 5 mg/dL
+
+*Explanation: Experts advocate postponing surgery until the serum bilirubin level is below 2 mg/dL (i.e., 34 mmol/L).*
+
+
+
+**41. Which of the following is NOT an indication for preoperative biliary drainage?**
+
+- Cholangitis
+- Jaundice with need for neoadjuvant therapy
+- Small FLR volume (<50%)
+- **FLR volume above 60% without jaundice**
+
+*Explanation: Incomplete or no biliary drainage in patients with an FLR volume above 50% has not been identified as a risk factor for mortality; in fact, mortality was higher with drainage in these patients.*
+
+
+
+**42. Which drainage technique showed higher technical success in the multicenter RCT?**
+
+- Endoscopic biliary drainage (EBD)
+- **Percutaneous transhepatic biliary drainage (PTBD)**
+- Endoscopic nasobiliary drainage (ENBD)
+- Surgical drainage
+
+*Explanation: Technical success of biliary drainage was higher in the PTBD group (93%) than the EBD group (74%).*
+
+
+
+**43. What was the 90-day mortality rate in the PTBD group versus EBD group in the multicenter RCT?**
+
+- PTBD 11%, EBD 41%
+- **PTBD 41%, EBD 11%**
+- PTBD 25%, EBD 25%
+- PTBD 5%, EBD 5%
+
+*Explanation: Interim analysis revealed a statistically significant difference in mortality at 90-day follow-up after surgery between the PTBD group (41%) and the EBD group (11%).*
+
+
+
+**44. What percentage of patients required more than one drainage procedure before surgery in the RCT?**
+
+- 25%
+- 45%
+- **76%**
+- 90%
+
+*Explanation: 76% of patients underwent more than one drainage procedure before surgery.*
+
+
+
+**45. Which drainage method is recommended by Japanese Clinical Practice Guidelines for Biliary Tract Cancer?**
+
+- EBD
+- **Endoscopic nasobiliary drainage (ENBD)**
+- PTBD
+- Surgical drainage
+
+*Explanation: The Japanese Clinical Practice Guidelines recommend ENBD because of less frequently observed cholangitis compared to EBD.*
+
+
+
+**46. What was the rate of preoperative cholangitis in EBD versus ENBD in meta-analysis?**
+
+- EBD 25.5%, ENBD 47.1%
+- **EBD 47.1%, ENBD 25.5%**
+- Equal rates in both groups
+- EBD 10%, ENBD 10%
+
+*Explanation: Subgroup analysis confirmed a higher incidence of preoperative cholangitis in pCCA patients drained with EBD (47.1%) compared with ENBD (25.5%).*
+
+
+
+**47. What percentage of patients who underwent ENBD in Nagino's study experienced cholangitis?**
+
+- 15%
+- 25%
+- **37%**
+- 50%
+
+*Explanation: A recent study by Nagino and colleagues reported a cholangitis rate of 37% in a cohort of 191 patients who underwent ENBD.*
+
+
+
+**48. In patients with FLR volume above 50%, what is the recommendation regarding biliary drainage?**
+
+- Mandatory drainage for all
+- Drainage only if jaundiced
+- **Biliary drainage should be avoided**
+- Drainage with PTBD only
+
+*Explanation: Postoperative mortality at 90 days was higher with biliary drainage in patients with an FLR volume above 50%, implying that biliary drainage should be avoided in these patients.*
+
+
+
+**49. Who first presented results of portal vein embolization (PVE) for pCCA in 1990?**
+
+- Nagino
+- **Makuuchi**
+- Blumgart
+- Bismuth
+
+*Explanation: In 1990, Makuuchi presented the initial result of PVE in 14 pCCA patients.*
+
+
+
+**50. What is the morbidity rate of PVE according to meta-analysis?**
+
+- 0.5%
+- **2.2%**
+- 8%
+- 15%
+
+*Explanation: PVE is a safe and effective procedure with a morbidity rate of 2.2% and no mortality.*
+
+
+
+**51. What is the difference in FLR volume increase between percutaneous and transileocolic PVE?**
+
+- No difference
+- 5% vs 3%
+- **11.9% vs 9.7%**
+- 20% vs 10%
+
+*Explanation: The increase in remnant liver volume was slightly larger after percutaneous transhepatic portal embolization (11.9%) versus transileocolic portal embolization (9.7%).*
+
+
+
+**52. What percentage of PVE procedures were performed in Western versus Eastern centers in the international study?**
+
+- Western 20%, Eastern 40%
+- **Western 7%, Eastern 55%**
+- Western 30%, Eastern 30%
+- Western 50%, Eastern 50%
+
+*Explanation: PVE was less frequently performed in Western centers (7%) compared with Eastern centers (55%).*
+
+
+
+**53. What percentage of PVE procedures were right-sided in the international study?**
+
+- 50%
+- 70%
+- **93%**
+- 100%
+
+*Explanation: Most PVE procedures (93%) were right-sided.*
+
+
+
+**54. What was the relative increase in liver volume after PVE in the propensity-matched cohort?**
+
+- 20%
+- 30%
+- **42%**
+- 60%
+
+*Explanation: Propensity score matching revealed a relative increase of liver volume after PVE of 42% (18-59%).*
+
+
+
+**55. What was the reduction in liver failure with PVE use in the matched analysis?**
+
+- From 50% to 25%
+- **From 36% to 8% (4.4-fold reduction)**
+- From 20% to 10%
+- From 45% to 30%
+
+*Explanation: The use of PVE was associated with a 4.4-fold reduction in liver failure (from 36% to 8%).*
+
+
+
+**56. What was the reduction in 90-day postoperative mortality with PVE use?**
+
+- From 30% to 15%
+- **From 18% to 7% (2.6-fold reduction)**
+- From 25% to 12%
+- From 40% to 20%
+
+*Explanation: PVE use was associated with a decrease in 90-day postoperative mortality from 18% to 7% (2.6-fold reduction).*
+
+
+
+**57. At what FLR volume is PVE recommended for pCCA patients?**
+
+- Below 20%
+- Below 30%
+- **Below 40%**
+- Below 50%
+
+*Explanation: PVE is recommended in patients with pCCA and an FLR below 40%.*
+
+
+
+**58. What does ALPPS stand for?**
+
+- Advanced Liver Preservation and Portal Surgery
+- **Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy**
+- Alternative Liver Procedure for Portal Stenosis
+- Anatomic Liver Partition with Portal Stenting
+
+*Explanation: ALPPS stands for Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy.*
+
+
+
+**59. What was the initial reported postoperative mortality for ALPPS in pCCA patients?**
+
+- 5%
+- 10%
+- **27%**
+- 40%
+
+*Explanation: The application of ALPPS for pCCA has been criticized because of a reported high postoperative mortality of 27% in the initial 11 patients.*
+
+
+
+**60. What was the 90-day mortality in van Gulik's analysis of 37 ALPPS patients for pCCA?**
+
+- 27%
+- 35%
+- **48%**
+- 60%
+
+*Explanation: Van Gulik and colleagues analyzed data on 37 patients; 90-day mortality was 48% (14/29) in those with available data.*
+
+
+
+**61. What was the median overall survival in the ALPPS group versus matched controls?**
+
+- ALPPS 29 months, controls 6 months
+- **ALPPS 6 months, controls 29 months**
+- Equal survival in both groups
+- ALPPS 12 months, controls 24 months
+
+*Explanation: Median OS was 6 months in the ALPPS group and 29 months for the matched controls.*
+
+
+
+**62. What is the current recommendation regarding ALPPS for pCCA?**
+
+- First-line treatment for all resectable cases
+- Recommended for small FLR only
+- **Not recommended for pCCA**
+- Recommended only in Eastern centers
+
+*Explanation: Based on these studies, ALPPS is not recommended for pCCA.*
+
+
+
+**63. For which patients is liver transplantation (LT) a treatment option for pCCA?**
+
+- All patients with pCCA
+- Only patients with PSC
+- **Patients with unresectable pCCA confined to the liver**
+- Patients with distant metastases
+
+*Explanation: For patients with pCCA confined to the liver that is considered unresectable, LT is a treatment option.*
+
+
+
+**64. What is the maximum radial tumor diameter allowed in the Mayo Clinic transplantation protocol?**
+
+- 1 cm
+- 2 cm
+- **3 cm**
+- 5 cm
+
+*Explanation: The tumor should be located proximally to the cystic duct with a maximum radial tumor diameter of 3 cm without evidence of metastases.*
+
+
+
+**65. What pretreatment is required to qualify for LT in the Mayo Clinic protocol?**
+
+- Chemotherapy only
+- Radiation only
+- **Induction chemoradiation therapy**
+- No pretreatment required
+
+*Explanation: Patients must be pretreated with induction chemoradiation therapy to qualify for LT.*
+
+
+
+**66. What were the initial 3-year survival rates for LT for pCCA without induction therapy?**
+
+- 50% to 60%
+- **30% to 38%**
+- 70% to 80%
+- 85% to 90%
+
+*Explanation: Initial results showed unacceptable 3-year survival rates of 30% to 38% and a 5-year survival rate of 23%.*
+
+
+
+**67. What are the reported 5-year survival rates after LT with neoadjuvant therapy?**
+
+- 30% to 40%
+- **64% (up to 80% in PSC patients)**
+- 85% to 90%
+- 95% to 100%
+
+*Explanation: Several studies have reported 5-year survival rates after LT of 64% (up to 80% in patients with underlying PSC).*
+
+
+
+**68. What percentage of patients in LT series typically have underlying PSC?**
+
+- 5%
+- 20%
+- **About two-thirds**
+- 90%
+
+*Explanation: In LT series, typically about two-thirds of patients have underlying PSC compared with about 5% in resection series.*
+
+
+
+**69. What was the 5-year survival in the retrospective study comparing resection versus LT with neoadjuvant therapy?**
+
+- Resection 64%, LT 18%
+- **Resection 18%, LT 64%**
+- Equal survival in both groups
+- Resection 40%, LT 40%
+
+*Explanation: A retrospective study revealed overall 5-year survival rates of 18% after resection and 64% after LT with neoadjuvant therapy.*
+
+
+
+**70. What does the TRANSPHIL study compare?**
+
+- EBD versus PTBD
+- PVE versus ALPPS
+- **Neoadjuvant chemoradiation with LT versus liver resection**
+- Different chemotherapy regimens
+
+*Explanation: The randomized multicenter TRANSPHIL study compares overall survival at 5 years and 3-year recurrence-free survival of neoadjuvant chemoradiation with LT versus liver resection.*
+
+
+
+**71. How many studies were included in the systematic review of neoadjuvant chemo(radio)therapy before resection of pCCA?**
+
+- 2
+- 4
+- **7**
+- 15
+
+*Explanation: In a systematic review assessing neoadjuvant chemo(radio)therapy before resection of pCCA, only 7 studies were included.*
+
+
+
+**72. What was the total number of pCCA patients in the systematic review of neoadjuvant therapy?**
+
+- 28
+- 59
+- **87**
+- 150
+
+*Explanation: These studies included a total number of 87 pCCA patients treated in a median period of 14 years.*
+
+
+
+**73. What is the aim of Enhanced Recovery After Surgery (ERAS)?**
+
+- Reduce hospital costs only
+- Increase operative time
+- **Improve recovery after major surgery through multimodal perioperative pathway**
+- Eliminate need for anesthesia
+
+*Explanation: ERAS is aimed to improve recovery after major surgery by means of a multimodal perioperative pathway.*
+
+
+
+**74. Which of the following is a modifiable risk factor for postoperative mortality in pCCA?**
+
+- Age
+- Gender
+- **Albumin level**
+- Tumor stage
+
+*Explanation: Albumin level and sarcopenia reflect nutritional and physical health and can be modified in a prehabilitation program.*
+
+
+
+**75. What type of prehabilitation had a positive effect on physical fitness after HPB surgery?**
+
+- Mental health counseling only
+- **Exercise prehabilitation**
+- Nutritional supplementation only
+- Pharmacological therapy
+
+*Explanation: Exercise prehabilitation had a positive effect on physical fitness after hepatopancreatobiliary (HPB) surgery.*
+
+
+
+**76. In the prospective cohort study on prehabilitation, what was the difference in hospital stay?**
+
+- No difference
+- 5 days shorter
+- **23 vs 30 days**
+- 40 vs 20 days
+
+*Explanation: Results showed a significantly shorter hospital stay for patients after prehabilitation versus standard care (23 vs 30 days).*
+
+
+
+**77. Which organism is associated with liver fluke infestation that can cause biliary obstruction?**
+
+- Echinococcus
+- **Clonorchis sinensis and Opisthorchis viverrini**
+- Schistosoma
+- Ascaris
+
+*Explanation: Liver fluke infestation (Clonorchis sinensis and Opisthorchis viverrini) can be ruled out with serology if in an endemic area.*
+
+
+
+**78. What is the typical appearance of IgG4-associated disease on imaging?**
+
+- Mass with irregular borders
+- **Smooth concentric biliary wall thickening with visible lumen**
+- Cystic dilation
+- Calcification
+
+*Explanation: Imaging typically shows smooth concentric biliary wall thickening with a visible lumen, absence of a mass, skip lesions, and involvement of the extrahepatic bile duct.*
+
+
+
+**79. What percentage of patients with pCCA have underlying PSC in resection series?**
+
+- 1%
+- 5%
+- **About 5%**
+- 50%
+
+*Explanation: About 5% of patients in resection series have underlying PSC, compared to about two-thirds in LT series.*
+
+
+
+**80. What is the role of arterial reconstruction in Western countries for pCCA resection?**
+
+- Routinely performed
+- **Rarely performed due to increased mortality and poor survival**
+- Required for all extended resections
+- Standard of care
+
+*Explanation: In Western countries, arterial reconstructions are rarely performed to obtain an R0 resection of pCCA because postoperative mortality rate is increased and survival is generally poor.*
+
+
+
+**81. What does "R0 resection" refer to?**
+
+- Resection with positive margins
+- **Resection with negative surgical margins**
+- Palliative resection
+- Biopsy only
+
+*Explanation: R0 resection refers to complete resection with negative surgical margins.*
+
+
+
+**82. What is observed in about one-third of patients undergoing resection for pCCA despite surgery?**
+
+- Complete cure
+- **Positive surgical margins**
+- Benign disease
+- Metastatic disease only
+
+*Explanation: Positive surgical margins are observed in about one-third of patients, adversely affecting outcome.*
+
+
+
+**83. What is the most common site of origin of cholangiocarcinoma?**
+
+- Intrahepatic bile ducts
+- Distal common bile duct
+- **Perihilar region**
+- Gallbladder
+
+*Explanation: The perihilar region is among the most common site of origin of cholangiocarcinoma.*
+
+
+
+**84. What is the purpose of staging surgery with lymph node biopsy in LT candidates?**
+
+- To confirm diagnosis only
+- To determine resectability
+- **To rule out metastatic disease**
+- To place biliary stents
+
+*Explanation: Once patients are eligible for LT, staging surgery with lymph node biopsy is performed to rule out metastatic disease.*
+
+
+
+**85. Which trial was terminated in early 2020 due to slow accrual?**
+
+- DRAGON trial
+- TRANSPHIL study
+- **INTERCPT trial**
+- RCT comparing EBD and PTBD
+
+*Explanation: The INTERCPT trial comparing PTBD and EBD was terminated in the beginning of 2020 because of slow accrual.*
+
+
+
+**86. What was the relative risk of 90-day mortality in the PTBD versus EBD group in the RCT?**
+
+- 0.5
+- 1.0
+- **3.67**
+- 5.0
+
+*Explanation: Relative risk of mortality at 90-day follow-up after surgery was 3.67 (1.15-11.69, P=.03) comparing PTBD to EBD.*
+
+
+
+**87. What percentage of patients in the EBD group required crossover treatment in the RCT?**
+
+- 10%
+- 25%
+- **56%**
+- 80%
+
+*Explanation: Crossover treatment was significantly higher in the EBD group (56%) versus the PTBD group (4%).*
+
+
+
+**88. What was the stent dysfunction rate in EBD versus ENBD in meta-analysis?**
+
+- Equal in both groups
+- EBD 29.7%, ENBD 62.3%
+- **EBD 62.3%, ENBD 29.7%**
+- EBD 40%, ENBD 20%
+
+*Explanation: The stent dysfunction rate was higher in EBD (62.3%) compared with ENBD (29.7%).*
+
+
+
+**89. What additional procedure may be performed if desired volume gain by PVE is not accomplished?**
+
+- Liver transplant
+- **Additional ipsilateral hepatic vein embolization**
+- ALPPS procedure
+- Surgical resection without further preparation
+
+*Explanation: Additional ipsilateral hepatic vein embolization may be performed to induce liver regeneration further if the desired gain of volume by PVE is not accomplished.*
+
+
+
+**90. What is the aim of the DRAGON trial 1?**
+
+- Compare EBD and PTBD
+- **Assess enrollment capacity and safety of PVE combined with hepatic vein embolization**
+- Compare resection and transplantation
+- Test new chemotherapy regimens
+
+*Explanation: The international prospective multicenter DRAGON trial 1 is aimed to assess enrollment capacity and safety of PVE combined with hepatic vein embolization.*
+
+
+
+**91. What is the significance of contralateral lobar atrophy in pCCA?**
+
+- Indicates benign disease
+- **Results from portal vein involvement and leads to hypertrophy of opposite lobe**
+- Indicates metastatic disease
+- Requires no specific management
+
+*Explanation: Unilateral hepatic lobe hypertrophy occurs because of concomitant contralateral lobar atrophy due to portal vein involvement.*
+
+
+
+**92. Which of the following is required for an adequate FLR?**
+
+- Any single liver segment
+- **At least two contiguous liver segments with sufficient functional capacity and intact vascular inflow/outflow**
+- Only portal venous inflow needed
+- Only hepatic arterial supply needed
+
+*Explanation: An adequate FLR must include at least two contiguous liver segments with sufficient functional capacity and intact arterial venous inflow, portal venous inflow, and portal venous outflow.*
+
+
+
+**93. What is the disadvantage of right-sided resection for pCCA?**
+
+- Higher risk of bile leak
+- **Right liver is larger, resulting in higher risk of postoperative morbidity and liver failure**
+- More difficult technically
+- Higher risk of positive margins
+
+*Explanation: The disadvantage of a right-sided resection is that the right liver is larger than the left liver, resulting in a higher risk of postoperative morbidity and liver failure.*
+
+
+
+**94. What is the therapeutic success rate one week after drainage in the RCT comparing PTBD and EBD?**
+
+- PTBD 93%, EBD 74%
+- **PTBD 78%, EBD 63%**
+- Equal at 90%
+- PTBD 50%, EBD 50%
+
+*Explanation: Therapeutic success one week after drainage was equal in both groups (78% vs 63% for PTBD and EBD respectively).*
+
+
+
+**95. What was the severe drainage-related complication rate in both groups of the RCT?**
+
+- PTBD 30%, EBD 40%
+- **PTBD 63%, EBD 67%**
+- PTBD 80%, EBD 20%
+- Equal at 50%
+
+*Explanation: One or more severe drainage-related complications were observed in 67% of EBD patients and 63% of PTBD patients.*
+
+
+
+**96. What was the most frequently observed severe complication in both drainage groups?**
+
+- Bleeding
+- **Cholangitis**
+- Perforation
+- Pancreatitis
+
+*Explanation: Cholangitis was most frequently observed amongst severe complications (59% vs 37% in PTBD and EBD respectively).*
+
+
+
+**97. What percentage of patients who underwent ENBD in Nagino's study required reintervention?**
+
+- 10%
+- **27%**
+- 50%
+- 75%
+
+*Explanation: 27% of patients who underwent ENBD required a reintervention.*
+
+
+
+**98. What is the risk of post-drainage cholangitis in jaundiced patients with FLR below 50%?**
+
+- More important than undrained small FLR
+- **Less important than risk of undrained small FLR**
+- Equal risk
+- No risk
+
+*Explanation: In jaundiced patients with FLR below 50%, the risk of an undrained small FLR appears more important than the risk of post-drainage cholangitis.*
+
+
+
+**99. When must the contralateral liver be drained in addition to FLR?**
+
+- Always
+- Never
+- **If it is the focus of cholangitis**
+- Only in PSC patients
+
+*Explanation: The contralateral liver must also be drained if it is the focus of cholangitis (e.g., after previous endoscopic contamination without drainage).*
+
+
+
+**100. What was the overall liver failure rate in the international study of PVE for pCCA?**
+
+- 5%
+- 10%
+- **17%**
+- 30%
+
+*Explanation: Overall liver failure rate was 17% in the international study including 1,484 patients who underwent liver resection for pCCA.*
+
+
+
+**101. What was the overall 90-day mortality rate in the international PVE study?**
+
+- 5%
+- **13%**
+- 25%
+- 35%
+
+*Explanation: The 90-day mortality rate was 13% in the international study.*
+
+
+
+**102. What percentage of PVE procedures were performed before right-sided resections in the international study?**
+
+- 10%
+- **38%**
+- 55%
+- 75%
+
+*Explanation: PVE was more frequently performed before right-sided resections (38% vs 3%).*
+
+
+
+**103. What was the reduction in postoperative bile leakage with PVE use?**
+
+- 2-fold reduction
+- **3.5-fold reduction (from 35% to 10%)**
+- 5-fold reduction
+- No reduction
+
+*Explanation: PVE use was associated with a reduction in postoperative bile leakage by 3.5-fold (from 35% to 10%).*
+
+
+
+**104. What is the median time to achieve FLR hypertrophy after PVE?**
+
+- 7 days
+- 14 days
+- **22 days (19-29 days)**
+- 42 days
+
+*Explanation: The relative increase of liver volume after PVE was achieved in a median of 22 (19-29) days.*
+
+
+
+**105. Which functional tests may improve patient selection for PVE in future studies?**
+
+- Liver biopsy only
+- **Indocyanine green-clearance testing or 99mTc-mebrofenin hepatobiliary scintigraphy**
+- CT volumetry only
+- Blood tests only
+
+*Explanation: Future studies should investigate whether patient selection for PVE can be improved by functional FLR tests such as indocyanine green-clearance testing or 99mTc-mebrofenin hepatobiliary scintigraphy.*
+
+
+
+**106. What is the concept behind ALPPS procedure?**
+
+- Complete hepatectomy with immediate transplant
+- **Complete or partial portal venous devascularization with preservation of arterial flow and liver division**
+- Arterial ligation only
+- Biliary drainage only
+
+*Explanation: The procedure is based on complete or partial portal venous devascularization of the tumor-carrying liver with preservation of arterial blood flow and division of the liver substance.*
+
+
+
+**107. For what type of liver resections is ALPPS currently selectively used?**
+
+- All liver resections
+- **Extended liver resections for colorectal liver metastases otherwise deemed unresectable**
+- Simple wedge resections
+- Diagnostic biopsies only
+
+*Explanation: Currently, the technique is selectively used for extended liver resections, mainly to resect colorectal liver metastases otherwise deemed unresectable.*
+
+
+
+**108. What was the comparison of survival between ALPPS and matched controls when perioperative mortality was excluded?**
+
+- ALPPS still worse
+- **Comparable**
+- ALPPS better
+- Not reported
+
+*Explanation: Survival was comparable between the two groups once perioperative mortality was excluded.*
+
+
+
+**109. What is the P-value for the difference in mortality between ALPPS and matched controls?**
+
+- <0.01
+- **0.100**
+- 0.500
+- <0.001
+
+*Explanation: Matching revealed postoperative mortality to be twice as high in the ALPPS cohort (14/29 vs 7/29, P=.100).*
+
+
+
+**110. What is the P-value for the difference in median OS between ALPPS and controls?**
+
+- 0.500
+- **0.048**
+- 0.001
+- 0.200
+
+*Explanation: Median OS was 6 months in the ALPPS group and 29 months for matched controls (P=.048).*
+
+
+
+**111. Which of the following is a diagnostic criterion for pCCA in the setting of LT?**
+
+- Tumor size >5 cm
+- **Dominant stricture of perihilar bile duct with positive cytology, FISH polysomy, or elevated CA 19-9 >100 U/mL without cholangitis**
+- Any biliary stricture
+- Presence of gallstones
+
+*Explanation: Diagnostic criteria include a dominant stricture and one or more of: positive cytology, FISH polysomy, or elevated CA 19-9 greater than 100 U/mL in absence of cholangitis.*
+
+
+
+**112. What level of evidence supports LT for pCCA after neoadjuvant chemoradiation?**
+
+- High level, strong recommendation
+- **Moderate level of evidence, conditional recommendation**
+- Low level, weak recommendation
+- No evidence
+
+*Explanation: LT for pCCA can be considered in patients with unresectable disease after neoadjuvant chemoradiation therapy in centers with a specific protocol (moderate level of evidence, conditional recommendation).*
+
+
+
+**113. What should transplant teams prepare for in LT for pCCA?**
+
+- Simple biliary anastomosis
+- **Arterial and venous jump grafts**
+- Hepaticojejunostomy only
+- No special preparation needed
+
+*Explanation: Transplant teams should prepare for arterial and venous jump grafts in the setting of LT for pCCA (moderate level of evidence, strong recommendation).*
+
+
+
+**114. What was the 5-year OS in patients meeting LT criteria but not undergoing neoadjuvant treatment?**
+
+- 20%
+- **59%**
+- 80%
+- 30%
+
+*Explanation: Five-year OS was 59% in 28 patients with pCCA who met LT criteria but did not undergo neoadjuvant treatment before LT.*
+
+
+
+**115. What did the authors conclude regarding selection versus induction therapy for LT?**
+
+- Induction therapy is key
+- **Selection, rather than induction therapy, is key**
+- Both are equally important
+- Neither is important
+
+*Explanation: The authors concluded that selection, rather than induction therapy, is key for outcomes in LT for pCCA.*
+
+
+
+**116. How many of the 7 studies in the neoadjuvant therapy systematic review included upfront resectable patients?**
+
+- None
+- **Two studies**
+- Four studies
+- All seven
+
+*Explanation: In only two studies, patients (n=28 and n=59) were upfront resectable.*
+
+
+
+**117. What is the median period of patient accrual in the neoadjuvant therapy systematic review?**
+
+- 2 years
+- 7 years
+- **14 years (range 4-31)**
+- 50 years
+
+*Explanation: These studies included patients treated in a median period of 14 years (range 4-31).*
+
+
+
+**118. What is the current state of data on neoadjuvant chemoradiation for resectable pCCA?**
+
+- Extensive randomized data available
+- **Insufficient data available**
+- Proven ineffective
+- Standard of care
+
+*Explanation: To date there are insufficient data available on the effect of neoadjuvant (chemo)radiation therapy for patients with resectable pCCA.*
+
+
+
+**119. When were ERAS guidelines specific to liver surgery published?**
+
+- 2010
+- **2016**
+- 2020
+- Not yet published
+
+*Explanation: ERAS guidelines that have yet to be validated specific to liver surgery were published in 2016.*
+
+
+
+**120. What are the three aspects of health targeted by prehabilitation?**
+
+- Social, financial, spiritual
+- **Physical, nutritional, and psychological**
+- Medical, surgical, oncological
+- Preventive, curative, palliative
+
+*Explanation: The preoperative part of ERAS (prehabilitation) aims to improve the physical, nutritional, and psychological aspects of a patient's health.*
+
+
+
+**121. Which patient-related factors are significantly associated with postoperative mortality in pCCA?**
+
+- Only age
+- Only tumor stage
+- **Age, albumin <3.5 mg/dL, and sarcopenia**
+- Only diabetes
+
+*Explanation: Patient-related factors significantly associated with postoperative mortality include age, albumin level of less than 3.5 mg/dL, and sarcopenia.*
+
+
+
+**122. What is the effect of exercise prehabilitation on postoperative outcomes after HPB surgery?**
+
+- Proven to reduce complications significantly
+- **Effect on postoperative outcomes remains inconclusive**
+- Proven to increase complications
+- No effect on physical fitness
+
+*Explanation: Exercise prehabilitation had a positive effect on physical fitness, although the effect on postoperative outcomes remains inconclusive.*
+
+
+
+**123. What components were included in the prospective cohort study of prehabilitation?**
+
+- Surgery only
+- **Protein supplementation combined with unsupervised home-based aerobic and resistance exercises**
+- Hospital-based supervised training only
+- Dietary restriction only
+
+*Explanation: A prospective cohort study evaluated protein supplementation combined with unsupervised home-based aerobic and resistance exercises.*
+
+
+
+**124. Was there a significant difference in postoperative complications between prehabilitation and standard care in the study?**
+
+- Yes, significantly fewer in prehabilitation
+- **No significant difference**
+- Yes, significantly more in prehabilitation
+- Not measured
+
+*Explanation: Results showed significantly shorter hospital stay without a significant difference in postoperative complications.*
+
+
+
+**125. What is the primary goal of biliary drainage in preoperative preparation?**
+
+- To diagnose the tumor
+- **To restore the regenerative capacity of the FLR**
+- To cure the cancer
+- To relieve pain only
+
+*Explanation: Biliary drainage aims to restore the regenerative capacity of the FLR.*
+
+
+
+**126. Which of the following is an indication for preoperative biliary drainage?**
+
+- All patients with pCCA
+- **Liver or renal insufficiency possibly related to hyperbilirubinemia**
+- Patients with normal bilirubin
+- Patients with adequate FLR (>50%) without jaundice
+
+*Explanation: Preoperative biliary drainage is necessary in patients with liver or renal insufficiency possibly related to hyperbilirubinemia, among other indications.*
+
+
+
+**127. What is the most important modifiable risk factor for postoperative mortality in pCCA?**
+
+- Age
+- Gender
+- **FLR volume below 40-50%**
+- Tumor location
+
+*Explanation: An FLR volume below 40% to 50% is the most important modifiable risk factor for postoperative mortality.*
+
+
+
+**128. What was the most common indication for drainage crossover in the EBD group?**
+
+- Technical failure to drain FLR
+- Patient preference
+- Cost issues
+- **Need to drain opposite side**
+
+*Explanation: Crossover was often needed when the left biliary system could not be reached to drain the FLR, requiring PTBD.*
+
+
+
+**129. Which region has higher incidence of pCCA compared to Western countries?**
+
+- Africa
+- South America
+- **Asia**
+- Australia
+
+*Explanation: The incidence of 1 to 2 per 100,000 in Western countries is significantly lower than in Asia.*
+
+
+
+**130. What is the primary reason for referral to expert center BEFORE biliary drainage in suspected pCCA?**
+
+- To save costs
+- **To obtain adequate imaging and determine FLR and drainage strategy**
+- To avoid surgery
+- For immediate transplantation
+
+*Explanation: High-quality imaging is essential before biliary drainage, not all patients require drainage, and drainage of the FLR is only possible after an expert team has determined the resection plan.*
+
+## Next lot MCQs (Github Copilot)
+
+**1. By AJCC definition, where does perihilar cholangiocarcinoma (pCCA) originate?**
+
+- Intrahepatic second-order bile ducts  
+- **Distal to second-order intrahepatic bile ducts and proximal to cystic duct insertion**  
+- At the ampulla of Vater  
+- In the gallbladder fundus  
+
+*Explanation: *AJCC defines pCCA as originating distal to the second-order intrahepatic bile ducts and proximal to the insertion of the cystic duct into the extrahepatic bile duct.*
+
+
+**2. What is the typical clinical presentation of pCCA?**
+
+- Severe abdominal pain in 90% of patients  
+- **Painless jaundice in about 90% of patients**  
+- Hematemesis in most patients  
+- Asymptomatic in all patients  
+
+*Explanation: *Patients with pCCA typically present with painless jaundice in approximately 90% of cases.*
+
+
+**3. What proportion of pCCA patients present with concomitant cholangitis?**
+
+- 0%  
+- **About 10%**  
+- 50%  
+- 90%  
+
+*Explanation: *Concomitant cholangitis is uncommon in pCCA and occurs in about 10% of patients.*
+
+
+**4. Which symptom cluster is observed in roughly half of pCCA patients?**
+
+- Hemoptysis and hematuria  
+- **Anorexia, fatigue, weight loss, and sarcopenia**  
+- Polyuria and polydipsia  
+- Severe constipation and rectal bleeding  
+
+*Explanation: *Anorexia, fatigue, weight loss, and sarcopenia are each observed in about 50% of pCCA patients.*
+
+
+**5. What imaging modality is superior for assessing intrahepatic biliary extent of pCCA?**
+
+- Plain abdominal X-ray  
+- **MRI with MRCP**  
+- Noncontrast CT only  
+- Bone scan  
+
+*Explanation: *MRI with MRCP is superior to CT for assessing the intrahepatic biliary extent of pCCA and helps discriminate benign etiologies.*
+
+
+**6. What is the diagnostic accuracy of high-resolution multiphase CT for detecting arterial involvement in pCCA?**
+
+- 10%  
+- 50%  
+- **Up to 93%**  
+- 100%  
+
+*Explanation: *High-resolution thin-slice multiphase CT can detect arterial involvement with diagnostic accuracy up to about 93%.*
+
+
+**7. Why should patients with suspected pCCA be referred to an expert center before biliary drainage?**
+
+- To immediately start chemotherapy without imaging  
+- **To obtain high-quality prestenting imaging and plan selective drainage**  
+- Because drainage is never needed  
+- To perform immediate biopsy in all cases  
+
+*Explanation: *Referral before drainage ensures high-quality imaging, avoids unnecessary or inadequate drainage, and allows planning of FLR-directed drainage if needed.*
+
+
+**8. What is the sensitivity of endoscopic or percutaneous brush cytology for pCCA?**
+
+- >90%  
+- **Typically less than 40%**  
+- 70%–80%  
+- 100%  
+
+*Explanation: *Endoscopic or percutaneous brush cytology has low sensitivity for pCCA, typically under 40%.*
+
+
+**9. What adjunct cytologic technique can double sensitivity for detecting malignancy in biliary brushings?**
+
+- PCR for KRAS only  
+- **Fluorescent in situ hybridization (FISH) for polysomy**  
+- Immunohistochemistry for MUC5AC only  
+- Serum AFP testing  
+
+*Explanation: *Applying FISH to detect polysomy in addition to conventional cytology typically doubles sensitivity for malignancy detection.*
+
+
+**10. Why should percutaneous biopsy of pCCA be avoided in potential liver transplant candidates?**
+
+- It always yields false positives  
+- **Risk of needle-track metastases that may preclude transplantation**  
+- It is too expensive  
+- It always causes cholangitis  
+
+*Explanation: *Percutaneous biopsy can seed tumor along the needle tract, which may disqualify patients from liver transplantation in many centers.*
+
+
+**11. Which serum marker is high in most pCCA patients but can be elevated due to biliary obstruction?**
+
+- Alpha-fetoprotein (AFP)  
+- **CA 19-9**  
+- PSA  
+- Chromogranin A  
+
+*Explanation: *CA 19-9 is often elevated in pCCA but levels can be influenced by biliary obstruction.*
+
+
+**12. What percentage of patients do not produce CA 19-9 due to Lewis antigen negativity?**
+
+- 0%  
+- **About 10%**  
+- 50%  
+- 90%  
+
+*Explanation: *Approximately 10% of patients lack the Lewis antigen and therefore do not produce CA 19-9.*
+
+
+**13. A fourfold increase in which serum level nearly excludes pCCA and suggests IgG4-related disease?**
+
+- CA 19-9  
+- CEA  
+- **IgG4**  
+- AFP  
+
+*Explanation: *A fourfold increase in serum IgG4 nearly excludes pCCA and supports IgG4-associated cholangiopathy.*
+
+
+**14. What is the role of PET scanning in pCCA staging?**
+
+- Primary routine staging tool with high specificity  
+- **Limited role due to false positives from inflammation and modest specificity (~67%)**  
+- Replaces MRCP entirely  
+- Mandatory before any surgery  
+
+*Explanation: *PET has limited routine use in pCCA because inflammation can cause false positives; reported specificity is around 67%.*
+
+
+**15. According to expert consensus, which of the following is NOT required before surgical exploration for pCCA?**
+
+- Liver function tests and CA 19-9  
+- High-quality cross-sectional imaging before stenting  
+- **Mandatory pathologic confirmation of the primary tumor**  
+- Early multidisciplinary consultation including an experienced surgeon  
+
+*Explanation: *Pathologic confirmation is not required before surgical exploration if benign causes are excluded and staging is complete.*
+
+
+**16. What proportion of patients undergoing surgery for suspected pCCA are found to have benign disease on final pathology?**
+
+- 0%  
+- **Approximately 10%**  
+- 50%  
+- 90%  
+
+*Explanation: *About 10% of patients resected for suspected pCCA are found to have benign disease on pathologic examination.*
+
+
+**17. Which staging system classifies pCCA solely by biliary tree involvement?**
+
+- AJCC TNM system  
+- **Bismuth-Corlette classification**  
+- MSKCC (Blumgart) staging only  
+- Child-Pugh classification  
+
+*Explanation: *The Bismuth-Corlette system classifies tumors based only on the extent of biliary tree involvement.*
+
+
+**18. Which staging system incorporates portal venous involvement and lobar atrophy?**
+
+- Bismuth-Corlette only  
+- AJCC 7th edition only  
+- **Blumgart / MSKCC staging system**  
+- MELD score  
+
+*Explanation: *The Blumgart/MSKCC staging system includes portal vein involvement and lobar atrophy in addition to biliary extent.*
+
+
+**19. Why does Bismuth stage alone insufficiently determine resectability?**
+
+- It overestimates vascular invasion always  
+- **It ignores radial extension into liver, hilar soft tissue, and vasculature**  
+- It is only for distal tumors  
+- It requires PET/CT to interpret  
+
+*Explanation: *Bismuth-Corlette focuses on biliary extent and does not account for vascular or parenchymal invasion that affect resectability.*
+
+
+**20. What is the median overall survival (OS) without surgery for pCCA?**
+
+- 1 month  
+- **Around 8 months**  
+- 5 years  
+- 10 years  
+
+*Explanation: *Median OS for pCCA without surgery is approximately 8 months.*
+
+
+**21. What 5-year overall survival can be achieved with complete resection for pCCA in selected series?**
+
+- 0%  
+- **Up to about 35%**  
+- 80%–90%  
+- 100%  
+
+*Explanation: *Complete resection is associated with 5-year OS rates up to roughly 35% in selected series.*
+
+
+**22. What type of liver resection is typically required to achieve complete resection of pCCA?**
+
+- Simple cholecystectomy only  
+- **Hemihepatectomy or greater with en bloc caudate resection and extrahepatic bile duct resection**  
+- Distal pancreatectomy only  
+- Appendectomy  
+
+*Explanation: *Complete resection usually requires a hemihepatectomy or larger resection with en bloc caudate and extrahepatic bile duct removal.*
+
+
+**23. Which factor increases postoperative mortality risk after pCCA resection according to risk models?**
+
+- Young age only  
+- **Preoperative cholangitis**  
+- Low CA 19-9 only  
+- Prior appendectomy  
+
+*Explanation: *Preoperative cholangitis is an independent prognostic factor associated with increased postoperative mortality.*
+
+
+**24. What FLR percentage is generally considered adequate in the absence of underlying liver disease?**
+
+- 5%  
+- **At least 25%**  
+- 80%  
+- 100%  
+
+*Explanation: *An FLR of at least 25% of total liver volume is considered adequate in patients without underlying liver disease.*
+
+
+**25. For most pCCA patients with biliary obstruction, what FLR target is often required to avoid postoperative liver failure?**
+
+- <10%  
+- **>30%–40%**  
+- Exactly 25% always  
+- >90%  
+
+*Explanation: *Because of biliary obstruction and compromised regeneration, most pCCA patients require a larger FLR (>30%–40%).*
+
+
+**26. Which side resection is generally preferred when feasible to minimize postoperative liver failure?**
+
+- Right-sided resection always  
+- **Left-sided resection when possible**  
+- Central hepatectomy only  
+- No resection is preferred  
+
+*Explanation: *Left-sided resection is preferred when feasible because it often leaves a larger FLR and reduces risk of postoperative liver failure.*
+
+
+**27. Which vascular reconstruction is rarely performed in Western centers to obtain R0 resection for pCCA?**
+
+- Portal vein reconstruction when needed  
+- **Arterial reconstruction**  
+- Hepatic vein reconstruction only  
+- Splenic artery reconstruction  
+
+*Explanation: *Arterial reconstructions are rarely performed in Western centers due to increased postoperative mortality and poor survival outcomes.*
+
+
+**28. Which patient-related variable was the most important poor prognostic factor for postoperative mortality?**
+
+- Sex  
+- **Age**  
+- Blood type  
+- Hair color  
+
+*Explanation: *Age was identified as the most important poor prognostic factor, with mortality risk increasing rapidly with advanced age.*
+
+
+**29. Which laboratory value below a threshold was associated with increased risk of postoperative liver failure?**
+
+- Albumin <3.5 mg/dL  
+- **Albumin <3.5 g/dL**  
+- Hemoglobin >15 g/dL  
+- Platelets >400k/µL  
+
+*Explanation: *Low serum albumin (below 3.5 g/dL) was associated with higher risk of postoperative liver failure.*
+
+
+**30. Which preoperative bilirubin level was associated with increased risk of postoperative liver failure?**
+
+- <1 mg/dL  
+- **>3 mg/dL**  
+- Exactly 2 mg/dL always safe  
+- Any bilirubin level is irrelevant  
+
+*Explanation: *A preoperative total bilirubin above 3 mg/dL was associated with increased risk of postoperative liver failure.*
+
+
+**31. Preoperative biliary drainage is necessary in pCCA patients with which condition?**
+
+- Asymptomatic mild hyperbilirubinemia only  
+- **Cholangitis, need for neoadjuvant therapy, liver/renal insufficiency from hyperbilirubinemia, or small FLR (<50%)**  
+- All patients regardless of FLR or symptoms  
+- Only when CA 19-9 is normal  
+
+*Explanation: *Drainage is indicated for cholangitis, to enable neoadjuvant therapy, for organ dysfunction from hyperbilirubinemia, and when FLR is small (<50%).*
+
+
+**32. Which two drainage techniques are most commonly used worldwide for preoperative biliary drainage?**
+
+- Surgical cholecystostomy and nasogastric tube  
+- **Endoscopic biliary drainage (EBD) and percutaneous transhepatic biliary drainage (PTBD)**  
+- T-tube only and external biliary fistula only  
+- Hepatic artery infusion only  
+
+*Explanation: *EBD and PTBD are the two most commonly used techniques for preoperative biliary drainage worldwide.*
+
+
+**33. What did the multicenter RCT comparing PTBD and EBD in potentially resectable pCCA find that led to early termination?**
+
+- EBD had higher mortality than PTBD  
+- **PTBD group had higher 90-day mortality (41%) versus EBD (11%)**  
+- No difference in outcomes between groups  
+- Both arms had zero complications  
+
+*Explanation: *Interim analysis showed significantly higher 90-day mortality in the PTBD group (41%) compared with EBD (11%), prompting early trial termination.*
+
+
+**34. In that RCT, which group had higher technical success of initial drainage?**
+
+- EBD (100%)  
+- **PTBD (93% vs EBD 74%)**  
+- Both equal at 50%  
+- Neither achieved technical success  
+
+*Explanation: *Technical success was higher in the PTBD group (93%) compared with the EBD group (74%).*
+
+
+**35. Which drainage method had significantly higher crossover from the initial assigned approach in the RCT?**
+
+- PTBD to EBD crossover highest  
+- **EBD to PTBD crossover was significantly higher (56%)**  
+- No crossovers occurred  
+- Equal crossover rates in both arms  
+
+*Explanation: *Crossover from EBD to PTBD was significantly higher (56%) compared with PTBD to EBD.*
+
+
+**36. Which drainage technique is recommended by Japanese guidelines and associated with less preoperative cholangitis in some studies?**
+
+- PTBD only  
+- **Endoscopic nasobiliary drainage (ENBD)**  
+- T-tube drainage only  
+- External biliary fistula only  
+
+*Explanation: *Japanese guidelines recommend ENBD, which in some studies showed less preoperative cholangitis compared with EBD.*
+
+
+**37. What was the reported stent dysfunction rate comparison between EBD and ENBD in meta-analysis subgroup analysis?**
+
+- EBD lower dysfunction than ENBD  
+- **EBD higher dysfunction (62.3%) vs ENBD (29.7%)**  
+- Both had zero dysfunction  
+- ENBD had higher dysfunction than EBD  
+
+*Explanation: *Meta-analysis subgroup showed higher stent dysfunction with EBD (62.3%) compared with ENBD (29.7%).*
+
+
+**38. In patients with FLR volume above 50%, what effect did biliary drainage have on 90-day mortality?**
+
+- Reduced mortality significantly  
+- **Associated with higher 90-day mortality**  
+- No effect at all  
+- Always prevented cholangitis  
+
+*Explanation: *In patients with FLR >50%, biliary drainage was associated with higher 90-day mortality, suggesting drainage should be avoided in these patients.*
+
+
+**39. Experts advocate postponing surgery until serum bilirubin falls below what threshold?**
+
+- 10 mg/dL  
+- **2 mg/dL**  
+- 0.5 mg/dL  
+- 20 mg/dL  
+
+*Explanation: *Experts recommend postponing surgery until bilirubin is below about 2 mg/dL to reduce perioperative risk.*
+
+
+**40. What FLR threshold generally indicates PVE is recommended in pCCA?**
+
+- FLR >60%  
+- **FLR below 40%**  
+- FLR exactly 50% only  
+- PVE is never recommended  
+
+*Explanation: *PVE is recommended in pCCA patients with an FLR below about 40% to reduce postoperative liver failure risk.*
+
+
+**41. What is the typical morbidity and mortality reported for PVE in meta-analyses?**
+
+- Morbidity 50%, mortality 10%  
+- **Morbidity low (~2.2%), with no mortality reported in some analyses**  
+- Morbidity 0%, mortality 50%  
+- Morbidity 100%, mortality 100%  
+
+*Explanation: *Meta-analyses report PVE as safe and effective with low morbidity (~2.2%) and no mortality in some series.*
+
+
+**42. What relative reduction in liver failure was associated with PVE in an international study?**
+
+- No reduction  
+- **From 36% to 8% (about 4.4-fold reduction)**  
+- Increased from 8% to 36%  
+- Reduced to 0% always  
+
+*Explanation: *PVE was associated with a reduction in liver failure from 36% to 8% in a propensity-matched analysis.*
+
+
+**43. Which additional embolization may be performed to further induce regeneration if PVE gain is insufficient?**
+
+- Splenic artery embolization  
+- **Ipsilateral hepatic vein embolization**  
+- Portal artery embolization only  
+- Renal artery embolization  
+
+*Explanation: *Ipsilateral hepatic vein embolization can be added to further stimulate FLR hypertrophy when PVE gain is inadequate.*
+
+
+**44. What is ALPPS intended to achieve?**
+
+- Reduce tumor size with chemotherapy only  
+- **Rapid hypertrophy of the FLR enabling staged hepatectomy**  
+- Replace biliary drainage entirely  
+- Cure cholangitis without surgery  
+
+*Explanation: *ALPPS aims to induce rapid FLR hypertrophy through liver partition and portal vein ligation to allow staged resection.*
+
+
+**45. What was the reported 90-day mortality in early ALPPS series for pCCA?**
+
+- 0%  
+- 5%  
+- **27%–48% in various series**  
+- 100%  
+
+*Explanation: *Early ALPPS experience in pCCA showed very high 90-day mortality (reports of 27% and up to 48% in pooled analyses), discouraging its use.*
+
+
+**46. Based on available data, what is the recommendation regarding ALPPS for pCCA?**
+
+- Routinely recommended for all pCCA resections  
+- **Not recommended because of high perioperative mortality**  
+- Mandatory before any PVE  
+- Only used for transplant candidates  
+
+*Explanation: *Due to high perioperative mortality in pCCA patients, ALPPS is not recommended for routine use.*
+
+
+**47. What is the primary aim of resection for pCCA?**
+
+- Palliation only  
+- **Margin-negative resection with adequate FLR**  
+- Always perform transplant instead  
+- Avoid lymphadenectomy  
+
+*Explanation: *The surgical aim is to achieve an R0 (margin-negative) resection while preserving an adequate FLR.*
+
+
+**48. Which anatomic requirement must the FLR include to be considered adequate?**
+
+- Any single small segment regardless of inflow/outflow  
+- **At least two contiguous segments with intact arterial, portal inflow and venous outflow**  
+- Only the caudate lobe regardless of function  
+- Only segments with tumor involvement  
+
+*Explanation: *An adequate FLR must include at least two contiguous segments with preserved arterial and portal inflow and venous outflow.*
+
+
+**49. Which factor in the risk score increases odds of postoperative mortality when combined with FLR <50%?**
+
+- Complete biliary drainage of FLR  
+- **Incomplete biliary drainage of FLR**  
+- Young age only  
+- Low CA 19-9 only  
+
+*Explanation: *Incomplete biliary drainage combined with FLR <50% was an independent predictor of postoperative mortality.*
+
+
+**50. Which outcome was reduced by PVE in the international cohort besides liver failure?**
+
+- Increased bile leakage  
+- **Postoperative bile leakage and 90-day mortality were reduced**  
+- Increased infection rates only  
+- No change in any outcomes  
+
+*Explanation: *PVE was associated with reduced postoperative bile leakage and decreased 90-day mortality in matched analyses.*
+
+
+**51. What is a key disadvantage of PVE noted in preoperative planning?**
+
+- It always causes tumor regression  
+- **Need to decide preoperatively whether left or right resection is planned**  
+- It eliminates need for biliary drainage always  
+- It is only performed intraoperatively  
+
+*Explanation: *PVE requires preoperative determination of which side will be resected, which can be challenging if imaging allows either option.*
+
+
+**52. Which functional tests are suggested for future studies to improve PVE patient selection?**
+
+- Serum glucose only  
+- **Indocyanine green clearance or 99mTc-mebrofenin hepatobiliary scintigraphy**  
+- Plain chest X-ray only  
+- Urine dipstick only  
+
+*Explanation: *Functional FLR tests like ICG clearance or 99mTc-mebrofenin scintigraphy may better select patients for PVE.*
+
+
+**53. In international practice, how did PVE utilization differ between Western and Eastern centers?**
+
+- More frequent in Western centers (55%) than Eastern (7%)  
+- **Less frequent in Western centers (7%) compared with Eastern centers (55%)**  
+- Equal utilization worldwide  
+- PVE not used in either region  
+
+*Explanation: *PVE was performed less frequently in Western centers (7%) than in Eastern centers (55%) in the international study.*
+
+
+**54. What percentage increase in remnant liver volume after PVE was reported in a matched cohort?**
+
+- 0%–1%  
+- **Median relative increase ~42% (range 18–59)**  
+- 200%–300%  
+- No increase at all  
+
+*Explanation: *A matched cohort reported a median relative FLR increase of about 42% after PVE.*
+
+
+**55. Which patients most commonly undergo right-sided PVE?**
+
+- Patients planned for left hepatectomy only  
+- **Patients planned for right or extended right hepatectomy**  
+- Patients with small left lobe tumors only  
+- Patients with no planned resection  
+
+*Explanation: *Most PVE procedures (93%) were right-sided and are commonly performed before right or extended right hepatectomy.*
+
+
+**56. What is the main rationale for performing biliary drainage of the FLR before PVE?**
+
+- To increase tumor size in the FLR  
+- **To restore regenerative capacity and optimize hypertrophy after PVE**  
+- To prevent need for surgery entirely  
+- To always avoid postoperative imaging  
+
+*Explanation: *Draining the FLR improves its regenerative capacity and optimizes hypertrophy following PVE.*
+
+
+**57. Which of the following is TRUE about preoperative cholangitis and outcomes?**
+
+- Preoperative cholangitis reduces postoperative mortality  
+- **Preoperative cholangitis increases risk of postoperative liver failure and mortality**  
+- Cholangitis has no impact on outcomes  
+- Cholangitis always prevents resection  
+
+*Explanation: *Preoperative cholangitis is associated with higher risk of postoperative liver failure and mortality.*
+
+
+**58. What is the recommended minimum FLR in patients with biliary obstruction or chemotherapy-injured liver?**
+
+- 5%  
+- **>30% (often 30%–40%)**  
+- Exactly 25% always  
+- No minimum required  
+
+*Explanation: *Patients with biliary obstruction or chemotherapy injury typically require a larger FLR (>30%, often 30%–40%).*
+
+
+**59. Which of the following best describes the international experience with ALPPS for pCCA?**
+
+- Excellent outcomes and low mortality  
+- **High perioperative mortality and worse short-term survival compared with matched controls**  
+- Universal adoption as standard of care  
+- Always used before transplant  
+
+*Explanation: *International data showed high perioperative mortality with ALPPS in pCCA and worse short-term outcomes, discouraging its use.*
+
+
+**60. Which preoperative intervention is emphasized as critical to multidisciplinary management of pCCA?**
+
+- Immediate percutaneous biopsy in all patients  
+- **Early consultation with a multidisciplinary team including an experienced pCCA surgeon**  
+- Routine ALPPS for all patients  
+- Avoiding any imaging before surgery  
+
+*Explanation: *Early multidisciplinary consultation is critical to optimize imaging, drainage strategy, and surgical planning.*
+
+
+**61. Which imaging artifact can impair diagnosis and staging after biliary stenting?**
+
+- Improved MRCP clarity always  
+- **Stenting-related inflammation and imaging artifacts that degrade staging accuracy**  
+- PET/CT artifacts only  
+- No imaging artifacts occur after stenting  
+
+*Explanation: *Biliary stenting can cause inflammation and artifacts that impair subsequent diagnostic imaging and staging.*
+
+
+**62. What is the impact of incomplete biliary drainage of the FLR on postoperative mortality when FLR <50%?**
+
+- Decreases mortality always  
+- **Increases postoperative mortality risk**  
+- No impact at all  
+- Guarantees cure  
+
+*Explanation: *Incomplete drainage of the FLR in patients with FLR <50% is associated with increased postoperative mortality risk.*
+
+
+**63. Which of the following is a key limitation of current staging systems for pCCA?**
+
+- They perfectly predict resectability in all patients  
+- **Most are based on surgical pathology and perform poorly for unresectable patients**  
+- They do not include biliary anatomy at all  
+- They are only used for pancreatic cancer  
+
+*Explanation: *Many staging systems rely on pathologic data and therefore have limited applicability for the majority of patients who do not undergo resection.*
+
+
+**64. What is the recommended management for a jaundiced pCCA patient with FLR >50% and no cholangitis?**
+
+- Routine preoperative biliary drainage for all such patients  
+- **Avoid preoperative biliary drainage because it may increase mortality**  
+- Immediate ALPPS in all cases  
+- Mandatory PTBD in all cases  
+
+*Explanation: *In patients with FLR >50% and no cholangitis, preoperative drainage has been associated with higher mortality and is generally avoided.*
+
+
+**65. Which of the following best summarizes the role of ENBD in Japanese centers?**
+
+- Rarely used and discouraged  
+- **Preferred in many centers due to lower cholangitis and stent dysfunction rates**  
+- Always inferior to EBD and PTBD  
+- Only used for distal tumors  
+
+*Explanation: *ENBD is commonly used in Japanese centers and has been associated with lower cholangitis and stent dysfunction rates in some studies.*
+
+
+**66. Which outcome measure was similar between PTBD and EBD one week after drainage in the RCT?**
+
+- Technical success only  
+- **Therapeutic success (78% PTBD vs 63% EBD, not statistically significant)**  
+- 90-day mortality only  
+- No patients achieved therapeutic success  
+
+*Explanation: *Therapeutic success one week after drainage was similar between PTBD and EBD in the trial, though technical success differed.*
+
+
+**67. What proportion of patients in the RCT experienced one or more severe drainage-related complications?**
+
+- 0%  
+- **About two-thirds (63% PTBD, 67% EBD)**  
+- 100% in both arms  
+- Only 1% in both arms  
+
+*Explanation: *Severe drainage-related complications occurred in a majority of patients: 63% in PTBD and 67% in EBD groups.*
+
+
+**68. Which of the following is a major clinical decision influenced by prestenting imaging?**
+
+- Choice of antibiotic for cholangitis only  
+- **Which ducts to drain and whether to perform PVE or which side to resect**  
+- Whether to perform appendectomy  
+- Whether to start insulin therapy  
+
+*Explanation: *High-quality prestenting imaging guides decisions about selective drainage of the FLR, PVE, and side of resection.*
+
+
+**69. Which of the following is TRUE regarding the international use of PVE before pCCA resection?**
+
+- PVE was used in nearly all Western centers  
+- **PVE was used more frequently in Eastern centers than Western centers**  
+- PVE was never used in any centers  
+- PVE always causes liver failure  
+
+*Explanation: *International data showed PVE was more commonly used in Eastern centers (55%) than Western centers (7%).*
+
+
+**70. Which future research area is suggested to improve outcomes after PVE and resection for pCCA?**
+
+- Eliminating imaging from preoperative work-up  
+- **Investigating functional FLR tests (e.g., ICG clearance, 99mTc-mebrofenin scintigraphy) for better patient selection**  
+- Universal use of ALPPS for all patients  
+- Avoiding multidisciplinary teams  
+
+*Explanation: *Future studies should evaluate functional FLR assessments like ICG clearance or 99mTc-mebrofenin scintigraphy to improve selection for PVE and reduce postoperative liver failure.*

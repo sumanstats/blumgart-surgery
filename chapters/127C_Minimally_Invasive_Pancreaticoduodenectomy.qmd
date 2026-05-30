@@ -1,0 +1,1652 @@
+# 127C Minimally Invasive Pancreaticoduodenectomy
+
+Generated with Claude.
+
+
+**1. Who initially described the pancreaticoduodenectomy procedure in 1898?**
+
+- Whipple
+- Kauch
+- **Codevilla**
+- Giulanotti
+
+*Explanation: The chapter states that pancreaticoduodenectomy was initially described by Codevilla in 1898, making him the first to describe the procedure.*
+
+---
+
+**2. Who performed the first pancreaticoduodenectomy procedure in 1909?**
+
+- Codevilla
+- Whipple
+- **Kauch**
+- Gagne
+
+*Explanation: According to the chapter, the first pancreaticoduodenectomy procedure was performed by Kauch in 1909, following Codevilla's initial description in 1898.*
+
+---
+
+**3. Who described the two-stage pancreaticoduodenectomy procedure in 1935?**
+
+- Kauch
+- Codevilla
+- Giulanotti
+- **Whipple**
+
+*Explanation: The two-stage pancreaticoduodenectomy procedure was described by Whipple in 1935, and the procedure is now commonly known as the "Whipple procedure."*
+
+---
+
+**4. What is the abbreviation used in the chapter for pancreaticoduodenectomy?**
+
+- PDT
+- **PD**
+- PDX
+- PDU
+
+*Explanation: Throughout the chapter, pancreaticoduodenectomy is abbreviated as "PD," which is the standard abbreviation used in pancreatobiliary surgical literature.*
+
+---
+
+**5. In which field of surgery is PD considered a common and safe procedure?**
+
+- Colorectal surgery
+- Thoracic surgery
+- **Pancreatobiliary surgery**
+- Vascular surgery
+
+*Explanation: The chapter states that PD has evolved to become a common and safe procedure in pancreatobiliary surgery when performed in experienced high-volume centers.*
+
+---
+
+**6. Which of the following is NOT listed as an advantage of minimally invasive surgery in the chapter?**
+
+- Less pain
+- Less blood loss
+- **Reduced operative time**
+- Shorter length of stay
+
+*Explanation: The chapter lists less pain, less use of pain medications, less blood loss, fewer wound complications, shorter length of stay, and earlier recovery as advantages—but does NOT list reduced operative time (in fact, MIPD is associated with longer operative times).*
+
+---
+
+**7. For which anatomical location has minimally invasive distal pancreatectomy become widely used?**
+
+- Pancreatic head tumors
+- Periampullary tumors
+- **Pancreatic body and tail tumors**
+- Duodenal tumors
+
+*Explanation: According to the chapter, minimally invasive distal pancreatectomy (laparoscopic or robotic) has become widely used for pancreatic body and tail tumors.*
+
+---
+
+**8. Who first used laparoscopic PD in 1994?**
+
+- Giulanotti and colleagues
+- Whipple and Codevilla
+- **Gagne and Pomp**
+- Kauch and Kendrick
+
+*Explanation: The chapter states that laparoscopic PD was initially used by Gagne and Pomp in 1994.*
+
+---
+
+**9. Who performed the first robotic PD, and in what year?**
+
+- Gagne and Pomp, 1994
+- Whipple, 1935
+- Kendrick, 2005
+- **Giulanotti, 2001**
+
+*Explanation: According to the chapter, the first robotic PD was performed by Giulanotti in 2001.*
+
+---
+
+**10. What is the abbreviation used for minimally invasive pancreaticoduodenectomy?**
+
+- LIPD
+- RPD
+- **MIPD**
+- LIPDS
+
+*Explanation: The chapter uses "MIPD" as the abbreviation for minimally invasive pancreaticoduodenectomy, which encompasses both laparoscopic and robotic approaches.*
+
+---
+
+**11. What kind of guidelines were published as a result of the international multi-institutional review of minimally invasive pancreatic resection?**
+
+- Consensus opinion guidelines
+- Expert panel recommendations
+- **Evidence-based guidelines**
+- Single-institution protocols
+
+*Explanation: The chapter states that the international multi-institutional effort resulted in recently published evidence-based guidelines for minimally invasive pancreatic resection.*
+
+---
+
+**12. Which type of tumor is listed as an indication for MIPD?**
+
+- Hepatocellular carcinoma
+- Cholangiocarcinoma of the proximal bile duct
+- **Pancreatic adenocarcinoma**
+- Colon cancer with liver metastases
+
+*Explanation: The chapter lists pancreatic adenocarcinoma as one of the indications for MIPD, along with other periampullary tumors.*
+
+---
+
+**13. Which of the following is an absolute contraindication for minimally invasive PD according to the chapter?**
+
+- Previous upper abdominal operations
+- High body mass index
+- Multiple comorbidities
+- **Patients unable to undergo pneumoperitoneum due to CO2-retaining conditions**
+
+*Explanation: The chapter specifically states that patients who are unable to undergo pneumoperitoneum due to CO2-retaining conditions represent a potential contraindication, whereas previous upper abdominal operations, high BMI, and multiple comorbidities are NOT considered absolute contraindications.*
+
+---
+
+**14. For which type of locally advanced tumor does the chapter recommend the open technique rather than MIPD?**
+
+- Tumors requiring portal vein resection
+- Tumors requiring SMV reconstruction only
+- Tumors involving the duodenal wall
+- **Tumors requiring superior mesenteric artery or hepatic artery resection and reconstruction**
+
+*Explanation: The chapter recommends the open technique for patients with locally advanced tumors where superior mesenteric artery or hepatic artery resection and reconstruction is anticipated.*
+
+---
+
+**15. What imaging is specifically recommended for preoperative assessment before MIPD?**
+
+- Single-phase CT scan
+- Ultrasound of the abdomen
+- PET-CT scan
+- **Multiphasic CT scan or MRI during early arterial and portal vein phase**
+
+*Explanation: The chapter recommends a multiphasic computed tomography scan or magnetic resonance imaging during an early arterial and portal vein phase to assess mesenteric vessel involvement.*
+
+---
+
+**16. Why does the chapter's group favor the robotic approach over the laparoscopic technique for MIPD?**
+
+- It is less expensive
+- It has a shorter learning curve
+- It requires fewer trocars
+- **It overcomes most of the limitations of the laparoscopic technique**
+
+*Explanation: The chapter states that the robotic approach is favored because it overcomes most of the limitations of the laparoscopic technique, offering improved articulation, tremor elimination, enhanced dexterity, and 3D visualization.*
+
+---
+
+**17. Which of the following is listed as an advantage of the robotic platform?**
+
+- Lower cost than laparoscopic surgery
+- Reduced need for anesthesia
+- Shorter operative time
+- **Elimination of tremor**
+
+*Explanation: The chapter lists elimination of tremor as one of the specific advantages of the robotic platform, along with improved instrument articulation, improved dexterity, enhanced camera angles, and 3D visualization.*
+
+---
+
+**18. How is the patient positioned for robotic PD according to the described technique?**
+
+- Lateral decubitus position
+- Prone position
+- Semi-recumbent position
+- **Supine on a split-leg table with both arms tucked on the sides**
+
+*Explanation: After general endotracheal intubation, the patient is placed supine on a split-leg table with both arms tucked on the sides for the robotic PD procedure.*
+
+---
+
+**19. What is the purpose of the split-leg table in robotic PD?**
+
+- To improve access for robotic arms
+- To facilitate anesthesia administration
+- To allow better visualization of the operative field
+- **To allow the bedside assistant surgeon to stand between the patient's legs ergonomically**
+
+*Explanation: The chapter states that the split-leg table allows the bedside assistant surgeon to stand between the patient's legs in an ergonomic position.*
+
+---
+
+**20. Why is adequate patient padding important during robotic PD?**
+
+- To maintain sterility
+- To improve surgical access
+- To facilitate robotic arm docking
+- **To prevent pressure points, nerve compression, and skin injuries**
+
+*Explanation: The chapter specifically states that adequate patient padding for arms and legs, including popliteal and elbow support, is crucial to prevent pressure points, nerve compression, and skin injuries.*
+
+---
+
+**21. How many degrees is the OR table often rotated during robotic PD using the da Vinci Si System?**
+
+- 45 degrees
+- 180 degrees
+- 30 degrees
+- **90 degrees**
+
+*Explanation: The chapter states that the OR table is often rotated 90 degrees to allow the robotic surgical arm cart to come over the patient's head when a da Vinci Si System is used.*
+
+---
+
+**22. How is pneumoperitoneum initially created in the described robotic PD technique?**
+
+- Through a 10-mm camera port in the umbilicus
+- Via open technique only
+- Through a 15-mm trocar in the left lower quadrant
+- **Through insertion of a 5-mm optical separator in the left upper quadrant**
+
+*Explanation: The chapter describes creating pneumoperitoneum through the insertion of a 5-mm optical separator (later exchanged for an 8-mm robotic trocar) in the left upper quadrant.*
+
+---
+
+**23. What size is the camera port used in the Si System for robotic PD?**
+
+- 5 mm
+- 8 mm
+- 12 mm
+- **10 mm**
+
+*Explanation: For the Si System, the chapter describes using a 10-mm camera port as part of the trocar placement configuration.*
+
+---
+
+**24. How many robotic arm ports are used in the upper abdomen for the Si System?**
+
+- Two
+- Four
+- One
+- **Three**
+
+*Explanation: For the Si System, three robotic arm ports are placed in the upper abdomen—one on the patient's left side and two on the right side.*
+
+---
+
+**25. What size are all four robotic trocars in the da Vinci Xi System?**
+
+- 10 mm
+- 5 mm
+- 12 mm
+- **8 mm**
+
+*Explanation: The chapter states that for the da Vinci Xi System, all four robotic trocars can be 8 mm in size.*
+
+---
+
+**26. To what size is the left lower quadrant assistant port extended for specimen extraction?**
+
+- 2–3 cm
+- 6–8 cm
+- 8–10 cm
+- **4–5 cm**
+
+*Explanation: The chapter states that later in the surgery, the left lower quadrant assistant port site is extended to a 4- to 5-cm incision to extract the specimen.*
+
+---
+
+**27. What instrument is used as the "right hand" by the surgeon during the dissection phase?**
+
+- Fenestrated bipolar grasper
+- Gentle robotic grasper
+- Robotic needle driver
+- **Hook dissector or scissors**
+
+*Explanation: During the dissection phase, the robotic hook dissector or scissors in the patient's left side serves as the surgeon's "right hand."*
+
+---
+
+**28. How many major surgical steps have been standardized in the described RPD technique?**
+
+- Six
+- Ten
+- Five
+- **Eight**
+
+*Explanation: The chapter states that the authors standardized the RPD technique in eight major surgical steps.*
+
+---
+
+**29. What is the first step of the standardized RPD technique?**
+
+- Cholecystectomy
+- Portal triad dissection
+- **Identification/preparation of the jejunal limb**
+- Pancreaticojejunostomy
+
+*Explanation: The eight standardized steps begin with identification/preparation of the jejunal limb, which takes place immediately after trocar placement before docking the robotic arms.*
+
+---
+
+**30. How far from the ligament of Treitz is the bowel run during jejunal limb preparation?**
+
+- 50 cm
+- 150 cm
+- 200 cm
+- **100 cm**
+
+*Explanation: During the identification/preparation of the jejunal limb, the bowel is run distally up to 100 cm from the ligament of Treitz (LOT).*
+
+---
+
+**31. What type of stitch is used to secure the jejunum to the gastric body wall during the jejunal limb preparation step?**
+
+- 5-0 PDS interrupted stitch
+- 4-0 barbed absorbable suture
+- 0 Vicryl running suture
+- **3-0 silk seromuscular stitch**
+
+*Explanation: A seromuscular 3-0 silk stitch securing the jejunum to the anterior aspect of the gastric body wall is placed during the jejunal limb identification step.*
+
+---
+
+**32. What is the purpose of stitching the jejunum to the stomach during the first step?**
+
+- To prevent bowel obstruction
+- To mark the tumor location
+- To identify the mesenteric vessels
+- **To facilitate setup of the reconstruction phase for gastrojejunostomy or duodenojejunostomy**
+
+*Explanation: This step facilitates the setup of the reconstruction phase when gastrojejunostomy or duodenojejunostomy is created later in the procedure.*
+
+---
+
+**33. Which structure is divided from the right side of the mesenteric vessels during the mobilization step?**
+
+- Gastrocolic ligament
+- Right Toldt's fascia
+- Gastroepiploic artery
+- **Ligament of Treitz (LOT)**
+
+*Explanation: The chapter describes dividing the LOT from the right side of the mesenteric vessels, allowing the pulling of the proximal jejunum through its native anatomic defect.*
+
+---
+
+**34. Approximately how far from the LOT is the proximal jejunum divided?**
+
+- 5 cm
+- 20 cm
+- 30 cm
+- **10 cm**
+
+*Explanation: The proximal jejunum is divided with a laparoscopic linear gastrointestinal stapler approximately 10 cm from the LOT.*
+
+---
+
+**35. What structure is dissected and divided during the mobilization step to enter the lesser sac?**
+
+- Lesser omentum only
+- Gastrohepatic ligament
+- Phrenicocolic ligament
+- **Gastrocolic ligament**
+
+*Explanation: The chapter describes dividing the distal aspect of the gastrocolic ligament to enter the lesser sac during the mobilization step.*
+
+---
+
+**36. Which arteries are dissected and divided during the mobilization/colon step?**
+
+- Left gastric and left gastroepiploic arteries
+- Superior and inferior mesenteric arteries
+- Celiac axis branches
+- **Right gastric and gastroepiploic arteries**
+
+*Explanation: The chapter states that the right gastric and gastroepiploic arteries are also dissected and divided during this step.*
+
+---
+
+**37. What begins the porta hepatis dissection?**
+
+- Division of the common bile duct
+- Identification of the portal vein
+- Cholecystectomy
+- **Dissection of the hepatic artery node off the common hepatic artery**
+
+*Explanation: The porta hepatis dissection begins with the dissection of the hepatic artery node off the common hepatic artery.*
+
+---
+
+**38. What stapler is used for division of the gastroduodenal artery (GDA)?**
+
+- 60-mm linear stapler
+- 30-mm vascular stapler
+- 10-mm clip applier
+- **45-mm linear vascular stapler**
+
+*Explanation: The GDA is dissected and later divided with the 45-mm linear vascular stapler according to the described technique.*
+
+---
+
+**39. Why is the common bile duct divided with a gastrointestinal linear stapler during the operation?**
+
+- To facilitate frozen section analysis
+- To mark the resection margin
+- To improve exposure of the portal vein
+- **To prevent bile leakage during the rest of the surgery**
+
+*Explanation: The chapter states the common bile duct is divided with a gastrointestinal linear stapler to prevent bile leakage during the rest of the surgery.*
+
+---
+
+**40. What is done differently when RPD is performed for proximal or middle-portion cancer of the common bile duct?**
+
+- The duct is stapled and sent for permanent section
+- The duct is clipped rather than stapled
+- The duct is cauterized
+- **The duct is sharply divided with robotic scissors and the margin is sent for frozen sectioning**
+
+*Explanation: For proximal or middle-portion cancer of the common bile duct, the chapter recommends sharp division with robotic scissors, and the duct margin is sent for frozen sectioning.*
+
+---
+
+**41. Which vein is identified at the inferior border of the pancreas?**
+
+- Portal vein
+- Splenic vein
+- Inferior mesenteric vein
+- **Superior mesenteric vein (SMV)**
+
+*Explanation: After completing the cholecystectomy and bile duct division, attention is turned to the inferior border of the pancreas, where the superior mesenteric vein (SMV) is identified.*
+
+---
+
+**42. How is the tunnel underneath the pancreas neck created?**
+
+- With monopolar energy only
+- With sharp dissection using scissors
+- With a stapling device
+- **With gentle blunt and cautery dissection anterior to the SMV and splenoportal junction**
+
+*Explanation: A tunnel is created underneath the pancreas neck and anterior to the SMV and the splenoportal junction with gentle blunt and cautery dissection.*
+
+---
+
+**43. How is the pancreatic duct cut during pancreas transection?**
+
+- With monopolar energy
+- With a stapling device
+- With bipolar energy
+- **Sharply with no energy**
+
+*Explanation: The pancreas is divided with robotic scissors and monopolar energy except for the pancreatic duct, which is cut sharply with no energy.*
+
+---
+
+**44. In which direction is the uncinate and pancreas head rotated during uncinate process dissection?**
+
+- Counterclockwise
+- Laterally
+- Caudal to cranial
+- **Clockwise (cephalocaudal axis)**
+
+*Explanation: The uncinate and pancreas head is rotated clockwise on the cephalocaudal axis to dissect the superior mesenteric artery (SMA).*
+
+---
+
+**45. Which vein is identified during the uncinate process dissection and may need to be divided?**
+
+- Inferior mesenteric vein
+- Splenic vein
+- Middle colic vein
+- **First jejunal vein**
+
+*Explanation: The first jejunal vein is identified and dissected off the uncinate process, and may need to be divided with the vessel sealer depending on the location and extension of the tumor.*
+
+---
+
+**46. Where is the specimen extracted from during robotic PD?**
+
+- Right lower quadrant port site
+- Umbilical port site
+- Right upper quadrant port site
+- **Left lower quadrant assistant port site extended to 4–5 cm**
+
+*Explanation: The 15-mm utility bedside assist port in the left lower quadrant is extended to 4 to 5 cm and the specimen bag is removed.*
+
+---
+
+**47. What technique is used for the pancreaticojejunostomy in the described RPD?**
+
+- Dunking technique
+- Binding technique
+- Purse-string technique
+- **Modified Blumgart technique**
+
+*Explanation: The chapter describes creating a pancreaticojejunal duct-to-mucosa anastomosis in a modified Blumgart technique.*
+
+---
+
+**48. What suture material is used for the transpancreatic stitches in the posterior row of the pancreaticojejunostomy?**
+
+- 4-0 barbed absorbable sutures
+- 5-0 PDS
+- 3-0 barbed suture
+- **2-0 silk**
+
+*Explanation: Three 2-0 silk transpancreatic (anterior to posterior) stitches toward a posterior row of the small bowel and back through the pancreas are used.*
+
+---
+
+**49. What suture is used for the duct-to-mucosa anastomosis in the pancreaticojejunostomy?**
+
+- 3-0 silk interrupted stitches
+- 4-0 barbed absorbable sutures
+- 2-0 Vicryl running sutures
+- **5-0 PDS interrupted stitches**
+
+*Explanation: The duct-to-mucosa anastomosis is performed with interrupted stitches of 5-0 PDS.*
+
+---
+
+**50. What size pancreatic duct stent is often used during the pancreaticojejunostomy?**
+
+- 2- or 3-French stent
+- 6- or 7-French stent
+- 8- or 10-French stent
+- **4- or 5-French stent**
+
+*Explanation: After a posterior row is created, a 4- or 5-French pancreatic duct stent is often used in small ducts through the anastomosis to confirm patency and to facilitate anterior row stitch placement.*
+
+---
+
+**51. What suture is used for the hepaticojejunostomy when the duct is small or thin-walled?**
+
+- 3-0 silk running sutures
+- 4-0 Vicryl running sutures
+- 2-0 absorbable barbed sutures
+- **Interrupted 5-0 PDS sutures**
+
+*Explanation: For cases with small or thin wall ducts, the hepaticojejunal anastomosis is constructed with interrupted 5-0 PDS sutures.*
+
+---
+
+**52. What suture option is considered for hepaticojejunostomy when the hepatic duct is wide and thick-walled?**
+
+- Interrupted 5-0 PDS sutures
+- 3-0 silk sutures
+- Stapled anastomosis
+- **Running absorbable 4-0 barbed sutures**
+
+*Explanation: If the hepatic duct is wide and thick-walled, running sutures with absorbable 4-0 barbed sutures can be considered for the hepaticojejunostomy.*
+
+---
+
+**53. How is the duodenojejunal anastomosis created in the described technique?**
+
+- Single-layer interrupted 3-0 silk sutures
+- Running 5-0 PDS in two layers
+- Stapled end-to-end anastomosis
+- **Two-layer running suture of 4-0 absorbable barbed sutures in an end-to-side fashion**
+
+*Explanation: A duodenojejunal anastomosis is created with a two-layer running suture of 4-0 absorbable barbed sutures in an end-to-side fashion.*
+
+---
+
+**54. What suture is used for the gastrojejunostomy?**
+
+- 4-0 PDS running sutures
+- 5-0 interrupted silk sutures
+- 2-0 Vicryl interrupted sutures
+- **3-0 absorbable barbed suture**
+
+*Explanation: A gastrojejunostomy is created with a 3-0 absorbable barbed suture, with the inner layer done in a running Connell fashion.*
+
+---
+
+**55. What is routinely created and placed over the GDA stump at the end of the procedure?**
+
+- Omental patch
+- Synthetic mesh cover
+- Fibrin glue application
+- **Pedicled falciform ligament flap**
+
+*Explanation: The chapter states that a pedicled falciform ligament flap is routinely created and placed carefully over the GDA stump.*
+
+---
+
+**56. What size drains are used and through which port are they placed?**
+
+- 14-French through the left lower quadrant port
+- 21-French through the umbilical port
+- 10-French through the left upper quadrant port
+- **19-French drains through the right upper quadrant port**
+
+*Explanation: One or two (anterior and posterior) 19-French drains are placed through the right upper quadrant port based on the anticipated risk of leak.*
+
+---
+
+**57. What suture closes the 10-mm camera port?**
+
+- 2-0 Vicryl
+- 3-0 PDS
+- 4-0 monofilament
+- **0 Vicryl with an endoscopic needle passer**
+
+*Explanation: The 10-mm camera port is closed with 0 Vicryl and an endoscopic needle passer.*
+
+---
+
+**58. What is used to close the skin at the end of the RPD procedure?**
+
+- Skin staples
+- 3-0 silk interrupted sutures
+- Running 2-0 Vicryl
+- **4-0 monofilament absorbable suture and skin glue or sterile adhesive dressing**
+
+*Explanation: The skin is closed with 4-0 monofilament absorbable suture and skin glue or sterile adhesive dressing.*
+
+---
+
+**59. Where are patients typically sent after RPD according to the described protocol?**
+
+- Intensive care unit
+- Step-down unit
+- Surgical high-dependency unit
+- **Regular ward with telemetry monitoring**
+
+*Explanation: The chapter states that patients are not routinely admitted to intensive care units but instead sent to a regular ward with telemetry monitoring.*
+
+---
+
+**60. What postoperative pathway is used for all patients undergoing RPD?**
+
+- Fast-track surgery protocol
+- Traditional recovery protocol
+- Multimodal analgesia pathway
+- **Enhanced recovery after surgery (ERAS) pathway**
+
+*Explanation: An enhanced recovery after surgery (ERAS) pathway is used for all patients as it has been shown to decrease pain medication use, shorten length of stay, and decrease hospital costs.*
+
+---
+
+**61. What is the minimum recommended number of trocars for laparoscopic PD?**
+
+- 2–3 trocars
+- 7–8 trocars
+- 8–10 trocars
+- **4–6 trocars**
+
+*Explanation: For LPD, most surgeons recommend a minimum of 4 to 6 trocars placed in a semicircle in the upper abdomen facing the duodeno-pancreas region.*
+
+---
+
+**62. What is the authors' view on hybrid laparoscopic/open approaches for PD?**
+
+- They are preferred for complex cases
+- They represent the best of both techniques
+- They should be used in high-risk patients
+- **They undermine the benefits of minimally invasive techniques and limit learning curve improvement**
+
+*Explanation: The chapter states that the authors believe hybrid approaches undermine the benefits of minimally invasive techniques for the patient and limit the improvement of surgical skills and the surgeon's learning curve.*
+
+---
+
+**63. According to systematic reviews and meta-analyses, which of the following is consistently associated with MIPD compared to open PD?**
+
+- Reduced operative time
+- Lower rate of pancreatic fistula
+- Reduced mortality
+- **Reduced blood loss and reduced hospital stays**
+
+*Explanation: Multiple researchers have consistently shown in systematic reviews and meta-analyses that MIPD is associated with reduced blood loss and reduced hospital stays compared with the open technique.*
+
+---
+
+**64. What is a consistent finding about operative time in MIPD versus open PD?**
+
+- MIPD has shorter operative time
+- Operative time is equal in both approaches
+- MIPD has unpredictably variable operative time
+- **MIPD is associated with longer operative times**
+
+*Explanation: Systematic reviews and meta-analyses have shown that MIPD is associated with reduced blood loss, reduced hospital stays, and longer operative times when compared with the open technique.*
+
+---
+
+**65. What did the propensity-matched analysis using the ACS NSQIP database find about fully minimally invasive PD?**
+
+- Higher rate of readmissions
+- Higher rate of pancreatic fistula
+- Longer operative time and more transfusions
+- **Lower prolonged length of stay and decreased wound complications and transfusions**
+
+*Explanation: The propensity-matched analysis using the pancreas-targeted American College of Surgeons National Surgical Quality Improvement Program found that fully minimally invasive PD was associated with a lower prolonged length of stay and decreased wound complications and transfusions.*
+
+---
+
+**66. In the Palanivelu et al. randomized trial comparing LPD vs. OPD, how many patients were in each arm?**
+
+- 50 patients each arm
+- 100 patients each arm
+- 20 patients each arm
+- **32 patients in each arm**
+
+*Explanation: In the small, single-center randomized trial by Palanivelu et al., there were 32 patients in each arm comparing LPD versus OPD.*
+
+---
+
+**67. What did the Palanivelu et al. randomized trial demonstrate about LPD compared to OPD?**
+
+- LPD had higher morbidity
+- LPD had significantly more complications
+- LPD had longer operative time with no other benefit
+- **LPD offered a shorter length of stay with no significant difference in other perioperative outcomes**
+
+*Explanation: Palanivelu et al. found that LPD offered a shorter length of stay compared with OPD, with no significant difference in other perioperative outcomes.*
+
+---
+
+**68. How many patients were enrolled in the Poves et al. single-center randomized trial of LPD vs. OPD?**
+
+- 32 patients
+- 100 patients
+- 50 patients
+- **66 patients**
+
+*Explanation: In another single-center randomized trial, Poves et al. enrolled 66 patients and showed LPD was associated with a shorter length of stay and fewer severe complications.*
+
+---
+
+**69. What was the LEOPARD-2 study?**
+
+- A single-center prospective cohort study
+- A retrospective propensity-matched analysis
+- A meta-analysis of LPD outcomes
+- **A multicenter patient-blinded randomized controlled trial comparing LPD versus OPD**
+
+*Explanation: The LEOPARD-2 study by van Hilst et al. was a multicenter patient-blinded randomized controlled trial comparing LPD versus OPD.*
+
+---
+
+**70. Why was the LEOPARD-2 study closed prematurely?**
+
+- Due to excessive blood loss in the LPD group
+- Because of poor recruitment
+- Due to significantly higher fistula rates
+- **Due to a 90-day mortality rate of 15% (3/20 patients) in the LPD group**
+
+*Explanation: The LEOPARD-2 study was closed prematurely due to a 90-day mortality rate of 15% (3 of 20 patients) in the LPD group.*
+
+---
+
+**71. What major lesson does the LEOPARD-2 study highlight?**
+
+- Robotic PD is safer than laparoscopic PD
+- Open PD has significantly lower mortality
+- MIPD should be abandoned
+- **The challenges of adopting a laparoscopic technique for PD and the importance of surgeon experience**
+
+*Explanation: The LEOPARD-2 study highlights the challenges of adopting a laparoscopic technique for PD, and the importance of accounting for surgeons' experience and proficiency in prospective comparisons.*
+
+---
+
+**72. What was the duration of the reported RPD experience at the University of Pittsburgh?**
+
+- 5 years
+- 15 years
+- 20 years
+- **10 years**
+
+*Explanation: The 10-year experience of clinicians at the University of Pittsburgh with 500 consecutive PD cases was recently published.*
+
+---
+
+**73. How many consecutive RPD cases were included in the University of Pittsburgh series?**
+
+- 200 cases
+- 300 cases
+- 1000 cases
+- **500 cases**
+
+*Explanation: The chapter reports on the 10-year experience with 500 consecutive PD cases at the University of Pittsburgh.*
+
+---
+
+**74. What percentage of patients experienced major complications (Clavien score >2) in the University of Pittsburgh RPD series?**
+
+- 35%
+- 50%
+- 10%
+- **Less than 24%**
+
+*Explanation: In the University of Pittsburgh series, major complications (Clavien score of >2) occurred in less than 24% of patients.*
+
+---
+
+**75. What was the rate of clinically relevant postoperative pancreatic fistula (CR-POPF) in the University of Pittsburgh RPD series?**
+
+- 15%
+- 20%
+- 3%
+- **7.8%**
+
+*Explanation: Clinically relevant postoperative pancreatic fistula (CR-POPF) was experienced by 7.8% of patients in the University of Pittsburgh RPD series.*
+
+---
+
+**76. What were the 30- and 90-day mortality rates in the University of Pittsburgh RPD series?**
+
+- 3.0% and 5.0%
+- 0.5% and 1.5%
+- 2.5% and 6.0%
+- **1.4% and 3.1%**
+
+*Explanation: In the University of Pittsburgh 500-case RPD series, 30- and 90-day mortality rates were 1.4% and 3.1%, respectively.*
+
+---
+
+**77. What was the median length of stay in the University of Pittsburgh RPD series?**
+
+- 5 days
+- 12 days
+- 15 days
+- **8 days**
+
+*Explanation: The median length of stay was 8 days in the University of Pittsburgh's 10-year, 500-case RPD series.*
+
+---
+
+**78. In the Cai et al. propensity-matched analysis, what was the CR-POPF rate in the RPD group versus the OPD group?**
+
+- 15% vs. 25%
+- 10% vs. 10%
+- 3% vs. 8%
+- **7% vs. 16%**
+
+*Explanation: In the propensity-matched analysis comparing 405 OPD with 460 RPD patients, Cai et al. reported that the robotic approach was associated with significantly less CR-POPF (7% vs. 16%).*
+
+---
+
+**79. How does the chapter compare conversion rates for RPD versus LPD in a national cohort?**
+
+- RPD 25% vs. LPD 15%
+- RPD 20% vs. LPD 20%
+- RPD 5% vs. LPD 10%
+- **RPD 11% vs. LPD 27%**
+
+*Explanation: The chapter reports significantly lower conversion rates for RPD (11%) when compared with LPD (27%) in a national cohort of patients.*
+
+---
+
+**80. According to the chapter, are there currently any randomized controlled trials comparing robotic versus open PD?**
+
+- Yes, two completed trials exist
+- Yes, one completed trial exists
+- Multiple trials are underway
+- **No, no randomized controlled trials comparing robotic versus open PD have been performed**
+
+*Explanation: The chapter states that currently no randomized controlled trials comparing robotic versus the open approach have been performed.*
+
+---
+
+**81. What was the finding of the systematic review and meta-analysis of 18 nonrandomized trials regarding oncologic outcomes of RPD versus OPD?**
+
+- RPD had worse R0 resection rates
+- OPD had significantly better lymph node retrieval
+- RPD had significantly better overall survival
+- **Lymph node retrieval and R0 resections were similar in both groups**
+
+*Explanation: The systematic review including 18 nonrandomized trials with 13,639 patients showed that lymph node retrieval and R0 resections were similar in both RPD and OPD groups.*
+
+---
+
+**82. In the systematic review of 18 nonrandomized trials on RPD versus OPD, how many patients were allocated to RPD?**
+
+- 3,000
+- 500
+- 5,000
+- **1,593**
+
+*Explanation: In the systematic review of 18 nonrandomized trials with 13,639 total patients, 1,593 were allocated to RPD and 12,046 to OPD.*
+
+---
+
+**83. What did Kendrick and collaborators find in their single-center series comparing LPD with OPD at the Mayo Clinic?**
+
+- LPD had worse overall survival
+- LPD and OPD had identical oncologic outcomes
+- LPD was associated with higher recurrence rates
+- **LPD patients had longer progression-free survival, likely due to shorter hospital stays and less delay in adjuvant chemotherapy**
+
+*Explanation: Kendrick and collaborators found that patients undergoing LPD had longer progression-free survival likely due to shorter hospital stays, faster recovery, and less delay in adjuvant chemotherapy receipt.*
+
+---
+
+**84. How many LPD and OPD patients were in the Kendrick series at the Mayo Clinic?**
+
+- 50 LPD and 100 OPD
+- 200 LPD and 400 OPD
+- 75 LPD and 150 OPD
+- **108 LPD and 214 OPD**
+
+*Explanation: The Kendrick series at the Mayo Clinic included 108 LPD patients compared with 214 OPD patients with pancreatic adenocarcinoma.*
+
+---
+
+**85. What oncologic outcomes were compared between RPD and LPD in the US national cohort of 1,623 patients with pancreatic adenocarcinoma?**
+
+- Tumor recurrence and metastatic rate
+- Perioperative morbidity and mortality
+- Cost of surgery and length of stay
+- **Margin status, examined lymph nodes, and overall survival**
+
+*Explanation: The chapter reports no significant differences in oncologic outcomes (margin status, examined lymph nodes, and overall survival) when comparing RPD versus LPD in a US national cohort of 1,623 patients with pancreatic adenocarcinoma.*
+
+---
+
+**86. According to the literature, where should MIPD be limited to?**
+
+- Any center with laparoscopic equipment
+- Centers with robotic surgery programs only
+- Community hospitals with experienced surgeons
+- **Experienced pancreas surgeons in high-volume centers**
+
+*Explanation: Literature suggests that MIPD should be limited to experienced pancreas surgeons in high-volume centers given the long learning curve and the difficulty of the procedure.*
+
+---
+
+**87. According to a retrospective study of the first 150 LPD patients, at least how many cases are needed to overcome the initial learning curve?**
+
+- 10 cases
+- 50 cases
+- 100 cases
+- **30 cases**
+
+*Explanation: A retrospective study of the first 150 LPD patients of three experienced laparoscopic surgeons suggested that at least 30 cases are needed to overcome the initial learning curve.*
+
+---
+
+**88. In the Chinese multicenter/multisurgeon series of 1,029 LPD patients, what thresholds were found relevant to decrease operative time, blood loss, and hospital stay?**
+
+- 20 and 60 cases
+- 50 and 150 cases
+- 30 and 60 cases
+- **40 and 104 cases**
+
+*Explanation: In a Chinese multicenter/multisurgeon series of 1,029 patients, thresholds of 40 and 104 cases were found to be relevant to decreasing operative time, blood loss, and hospital stay.*
+
+---
+
+**89. According to the chapter's authors, why do they believe existing LPD learning curve studies underestimate the actual number of cases needed?**
+
+- Because they use outdated surgical techniques
+- Because they are based on single-center data only
+- Because they overestimate the difficulty of reconstruction
+- **They do not account for surgeons' prior open pancreatobiliary experience, hospital vs. surgeon volume interaction, and trainee participation**
+
+*Explanation: The authors believe these studies underestimate actual cases needed because they do not account for factors such as the surgeons' prior experience with open pancreatobiliary operations, the interaction of hospital versus surgeon volume, and trainee participation.*
+
+---
+
+**90. What thresholds were identified by Boone et al. for the RPD learning curve in terms of conversions, blood loss, and operative time?**
+
+- 10, 30, and 50 cases
+- 30, 60, and 100 cases
+- 50, 75, and 100 cases
+- **20, 40, and 80 cases**
+
+*Explanation: Boone et al. described thresholds of 20, 40, and 80 cases to decrease the rate of conversions, blood loss, and operative time, respectively, in the first 200 RPD cases at the University of Pittsburgh.*
+
+---
+
+**91. What type of training program has the chapter's group advocated for robotic HPB surgery?**
+
+- Apprenticeship-only training
+- Simulation-only training
+- Case volume-based training
+- **Deliberate and structured proficiency-based training**
+
+*Explanation: Based on their experience at a high-volume center, the authors have advocated for deliberate and structured training for robotic HPB surgery.*
+
+---
+
+**92. How many essential steps are in the training model proposed by Hogg et al. for robotic PD proficiency?**
+
+- Three steps
+- Seven steps
+- Two steps
+- **Five steps**
+
+*Explanation: The proposed training model includes five essential steps: mastery of the instrument, mastery of handling tissues, mastery of the procedures, mastery of psychomotor performance, and decision making and judgment.*
+
+---
+
+**93. Which of the following is NOT one of the five training curricula/evaluations described by Hogg et al.?**
+
+- Virtual reality simulation curriculum
+- Intraoperative evaluation
+- Inanimate biotissue curriculum
+- **Cadaveric dissection curriculum**
+
+*Explanation: The five training curricula described are: virtual reality simulation, inanimate biotissue curriculum, video library training curriculum, intraoperative evaluation, and skills maintenance with ongoing assessment. A cadaveric dissection curriculum is not listed.*
+
+---
+
+**94. In the Rice et al. study evaluating mentorship and proficiency-based skills curriculum, how many RPD cases were evaluated?**
+
+- 200 cases
+- 100 cases
+- 300 cases
+- **514 cases**
+
+*Explanation: Rice et al. evaluated the association of mentorship and a formal proficiency-based skills curriculum with learning curves in a series of 514 RPD cases.*
+
+---
+
+**95. How many generations of surgeons were involved in the Rice et al. RPD series?**
+
+- Two generations
+- Five generations
+- Four generations
+- **Three generations**
+
+*Explanation: The Rice et al. study evaluated learning curves in a series of 514 RPD cases completed by three generations of surgeons.*
+
+---
+
+**96. What was the conclusion of the Rice et al. study regarding the proficiency-based curriculum?**
+
+- It increased complication rates in junior surgeons
+- It did not improve outcomes across generations
+- Only experienced surgeons benefited from the program
+- **It allows safe introduction of less-experienced surgeons to RPD without compromising patient safety**
+
+*Explanation: The study showed that a proficiency-based curriculum coupled with mentorship allows for the safe introduction of less-experienced surgeons to RPD without compromising patient safety.*
+
+---
+
+**97. Which international societies endorsed the evidence-based guidelines for minimally invasive pancreatic resection?**
+
+- American College of Surgeons and SAGES only
+- European Association of Endoscopic Surgery only
+- American Hepato-Pancreato-Biliary Association only
+- **The most relevant international societies of HPB surgery**
+
+*Explanation: The chapter states that the evidence-based guidelines for minimally invasive pancreatic resection were endorsed by the most relevant international societies of HPB surgery.*
+
+---
+
+**98. According to the chapter, which approach is preferred for early-stage learning curve surgeons regarding vascular resections?**
+
+- Robotic approach with vascular stapling
+- Laparoscopic approach with vascular clamps
+- Hybrid laparoscopic/open approach
+- **Open technique when major vascular resections are anticipated**
+
+*Explanation: For surgeons at the early stages of their learning curve, the chapter recommends not using minimally invasive approaches when major vascular resections are anticipated.*
+
+---
+
+**99. What does the chapter state about performing RPD in patients with borderline and locally advanced tumors requiring portal vein resection?**
+
+- It is absolutely contraindicated
+- Only laparoscopic approach is acceptable
+- It has never been reported
+- **The authors' group and others have reported using RPD for such patients**
+
+*Explanation: The chapter states that the group and others have reported using robotic PD in patients with borderline and locally advanced tumors where portal vein resections and repair are needed.*
+
+---
+
+**100. How are all pancreas and periampullary tumors discussed at the authors' institution before surgery?**
+
+- By the attending surgeon alone
+- Via tumor board only for malignant cases
+- Via telephone consultation with subspecialists
+- **In a multidisciplinary fashion including specialized HPB surgeons**
+
+*Explanation: At the authors' institution, all pancreas and periampullary tumors are discussed preoperatively in a multidisciplinary fashion that includes the opinions of specialized HPB surgeons.*
+
+---
+
+**101. Which of the following is the reconstruction step performed FIRST in the described RPD technique?**
+
+- Hepaticojejunostomy
+- Gastrojejunostomy
+- Duodenojejunostomy
+- **Pancreaticojejunostomy**
+
+*Explanation: The reconstruction portion begins with creating a pancreaticojejunal duct-to-mucosa anastomosis in a modified Blumgart technique, which is the first reconstruction step.*
+
+---
+
+**102. What is the inner layer technique used for the gastrojejunostomy?**
+
+- Interrupted Lembert sutures
+- Running simple sutures
+- Stapled technique
+- **Running Connell fashion**
+
+*Explanation: The inner layer of the gastrojejunostomy is done in a running Connell fashion with a 3-0 absorbable barbed suture.*
+
+---
+
+**103. What finding consistently supports MIPD in comparison to open PD regarding pancreatic-specific complications?**
+
+- MIPD has significantly lower fistula rates
+- MIPD has significantly higher fistula rates
+- MIPD eliminates delayed gastric emptying
+- **Perioperative morbidity and pancreas-specific complications seem similar in both approaches**
+
+*Explanation: According to the systematic reviews and meta-analyses, perioperative morbidity, pancreas-specific complications (including pancreatic fistulae and delayed gastric emptying), and mortality seem similar in both MIPD and open approaches.*
+
+---
+
+**104. What cholecystectomy technique is used during RPD?**
+
+- Bottom-up approach with laparoscopic clips
+- Retrograde dissection from the cystic duct
+- Open cholecystectomy via a mini-laparotomy
+- **Top-down fashion with robotic hook cautery**
+
+*Explanation: A cholecystectomy is performed in a top-down fashion with the robotic hook cautery during the RPD.*
+
+---
+
+**105. What does the chapter state about the rate of worldwide adoption of MIPD?**
+
+- Most surgeons globally have mastered MIPD
+- MIPD is now the standard of care at most centers
+- MIPD adoption is declining due to cost concerns
+- **Currently, few surgeons worldwide have overcome their learning curve for MIPD**
+
+*Explanation: The chapter states that currently few surgeons worldwide have overcome their learning curve for MIPD, whether laparoscopically or robotically.*
+
+---
+
+**106. What size assistant ports are used in the lower abdomen for the Si System?**
+
+- 10 mm on the right and 10 mm on the left
+- 8 mm on the right and 8 mm on the left
+- 12 mm on the right and 5 mm on the left
+- **5 mm on the right and 15 mm on the left**
+
+*Explanation: For the Si System, two assistant ports are used in the lower abdomen: 5 mm on the right and 15 mm on the left.*
+
+---
+
+**107. What liver retractor port size is used in the Si System configuration?**
+
+- 10 mm
+- 8 mm
+- 3 mm
+- **5 mm**
+
+*Explanation: A 5-mm liver retractor port is used in the Si System configuration for RPD.*
+
+---
+
+**108. Which instrument is used in the patient's far right side during the dissection phase?**
+
+- Fenestrated bipolar grasper
+- Hook dissector
+- Robotic needle driver
+- **Gentle robotic grasper**
+
+*Explanation: During the dissection phase, a gentle robotic grasper is used in the patient's far right side.*
+
+---
+
+**109. What instrument is used as the right medial instrument during the dissection phase?**
+
+- Gentle robotic grasper
+- Hook dissector
+- Laparoscopic scissors
+- **Fenestrated bipolar grasper**
+
+*Explanation: During the dissection phase, a fenestrated bipolar grasper is used as the right medial instrument.*
+
+---
+
+**110. What happens to the fenestrated bipolar and hook instruments during the reconstruction phase?**
+
+- They are kept in place for retraction
+- They are replaced with vessel sealers
+- They are replaced with laparoscopic graspers
+- **They are exchanged for robotic needle drivers**
+
+*Explanation: During the reconstruction phase, the fenestrated bipolar and hook instruments are exchanged for robotic needle drivers.*
+
+---
+
+**111. According to the chapter, what is the significance of the Cai et al. propensity-matched analysis findings?**
+
+- It showed RPD has higher complication rates
+- It proved LPD is superior to RPD
+- It confirmed no difference between RPD and OPD
+- **It showed RPD was associated with significantly less CR-POPF compared to OPD**
+
+*Explanation: In the propensity-matched analysis by Cai et al., comparing 405 OPD with 460 RPD patients, the robotic approach was associated with significantly less CR-POPF (7% vs. 16%).*
+
+---
+
+**112. When is the robotic arm cart positioned over the patient during Si System RPD?**
+
+- It is positioned at the patient's side
+- It is positioned at the patient's feet
+- It is positioned at the left side of the abdomen
+- **Coming above the patient's head and upper torso after docking**
+
+*Explanation: With robotic ports in place, the robotic arms are docked coming above the patient's head and upper torso when a da Vinci Si System is used.*
+
+---
+
+**113. What is the purpose of using cushioned strapping across the chest during robotic PD?**
+
+- To facilitate robotic arm docking
+- To maintain sterile draping
+- To improve respiratory mechanics
+- **To prevent the patient and legs from sliding off the table**
+
+*Explanation: Cushioned strapping across the chest and individual legs with Velcro belts or surgical cloth tape is recommended to prevent patient and legs from sliding off the OR table.*
+
+---
+
+**114. Which maneuver is described as extensive during the mobilization step to separate the duodenum and pancreas?**
+
+- Graham patch procedure
+- Cattell-Braasch maneuver
+- Pringle maneuver
+- **Kocher maneuver**
+
+*Explanation: The chapter describes completion of an extensive Kocher maneuver separating the duodenum and pancreas from their lateral and medial attachments during the mobilization step.*
+
+---
+
+**115. What structures are divided during the mobilization step besides the gastrocolic ligament?**
+
+- The gastrohepatic ligament and left gastric artery
+- The celiac axis and its branches
+- The superior mesenteric vein and portal vein
+- **Gastrocolic, gastroepiploic, and hepatic flexure attachments of the proximal transverse colon, as well as right Toldt's fascia planes**
+
+*Explanation: The mobilization step includes a complete medial rotation of the right colon dividing the gastrocolic, gastroepiploic, and hepatic flexure attachments of the proximal transverse colon as well as the right Toldt's fascia planes.*
+
+---
+
+**116. What does "classic technique" refer to in the context of the distal stomach division?**
+
+- Division of the bile duct at the hepatic hilum
+- Division of the proximal jejunum only
+- Division of the pancreas at the neck
+- **Division of the distal stomach with a laparoscopic or robotic linear gastrointestinal stapler**
+
+*Explanation: The classic technique refers to dividing the distal stomach with a laparoscopic or robotic linear gastrointestinal stapler, as opposed to the pylorus-preserving technique where the proximal first portion of the duodenum is divided instead.*
+
+---
+
+**117. What is the "pylorus-preserving technique" in the context of RPD?**
+
+- Preservation of the entire stomach without any division
+- Division of the stomach just proximal to the pylorus
+- Division at the gastric antrum
+- **Freeing and dividing the proximal first portion of the duodenum while preserving the pylorus**
+
+*Explanation: The pylorus-preserving technique involves circumferentially freeing up and dividing the proximal first portion of the duodenum, as an alternative to the classic technique of dividing the distal stomach.*
+
+---
+
+**118. What is the triangle formed during porta hepatis dissection?**
+
+- Portal vein, SMV, and splenic vein
+- Gallbladder, hepatic artery, and common bile duct
+- Portal vein, GDA, and pancreas
+- **Common hepatic artery (CHA), gastroduodenal artery (GDA), and portal vein (PV)**
+
+*Explanation: In the posterior aspect of the triangle formed by the CHA, GDA, and portal vein, the anterior aspect of the portal vein and its suprapancreatic portion is identified and dissected.*
+
+---
+
+**119. According to the chapter, what happens to the lymph nodes from the periportal and portocaval area during bile duct dissection?**
+
+- They are selectively sampled for frozen section
+- They are preserved in situ
+- They are sent individually for pathologic analysis
+- **They are brought down toward the side of the future surgical specimen**
+
+*Explanation: The medial and lateral aspects of the common bile duct are dissected, bringing down all the lymph nodes from the periportal and portocaval area toward the side of the future surgical specimen.*
+
+---
+
+**120. What is the splenoportal junction in the context of the retropancreatic tunnel creation?**
+
+- The junction of the splenic artery and portal vein
+- The junction of the SMV and SMA
+- The junction of the inferior mesenteric vein and splenic vein
+- **The junction of the splenic vein and portal vein, anterior to which the tunnel is created**
+
+*Explanation: A tunnel is created underneath the pancreas neck and anterior to the SMV and the splenoportal junction with gentle blunt and cautery dissection.*
+
+---
+
+**121. How are larger veins handled during uncinate process dissection?**
+
+- Divided with monopolar hook cautery
+- Clipped with metallic clips
+- Divided with the 45-mm linear vascular stapler
+- **Divided with a robotic or laparoscopic vessel sealer**
+
+*Explanation: Larger veins encountered during uncinate process dissection can be divided with a robotic or laparoscopic vessel sealer.*
+
+---
+
+**122. Which pancreaticoduodenal structures are specifically identified, dissected, and divided during retroperitoneal dissection?**
+
+- Inferior mesenteric artery and vein
+- Left gastric vessels
+- Superior mesenteric artery branches
+- **Pancreaticoduodenal veins**
+
+*Explanation: Pancreaticoduodenal veins are identified, dissected, and divided with a vessel sealer during retroperitoneal dissection.*
+
+---
+
+**123. What is placed in the extraction site after specimen removal to protect the wound?**
+
+- Standard wound drape
+- Sterile gauze packing
+- Surgical towel barrier
+- **Small gel wound protector**
+
+*Explanation: A small gel wound protector is placed in the extraction site after the specimen bag is removed, and the 15-mm laparoscopic trocar is then reintroduced.*
+
+---
+
+**124. What does the chapter state about the relationship between MIPD cost and adoption?**
+
+- Cost is not a factor in adoption
+- Robotic surgery is now cost-neutral compared to open surgery
+- Insurance coverage eliminates cost barriers
+- **Cost associated with acquiring minimally invasive equipment, including the robotic system platform, has been an aggravating factor for implementation**
+
+*Explanation: The chapter specifically mentions that another aggravating factor for implementation of MIPD has been the cost associated with acquiring equipment for minimally invasive surgery, including the robotic system platform.*
+
+---
+
+**125. What does the chapter state about prospective randomized trials comparing robotic versus laparoscopic PD?**
+
+- Several such trials have been completed
+- One large multicenter trial is currently underway
+- Results of ongoing trials are pending publication
+- **No prospective randomized trials comparing robotic versus laparoscopic approach are currently available**
+
+*Explanation: The chapter states that similarly, prospective randomized trials comparing the robotic versus the laparoscopic approach are not available.*
+
+---
+
+**126. According to the evidence-based guidelines regarding oncologic outcomes, what did experts conclude about minimally invasive versus open approaches for malignancies?**
+
+- Open approach has superior oncologic outcomes
+- MIPD should not be used for pancreatic adenocarcinoma
+- MIPD has better survival outcomes
+- **Both minimally invasive and open approaches are valid for patients with malignancies and do not differ in perioperative outcomes and survival**
+
+*Explanation: Based on available data, the experts agreed that minimally invasive and open approaches are both valid for patients with malignancies and do not have differences in perioperative outcomes and survival.*
+
+---
+
+**127. What does "CR-POPF" stand for in the chapter?**
+
+- Complete Resection - Post-Operative Pancreatic Fluid
+- Critical Rate - Pancreatic Operative Fistula Leak
+- Chronic Relapsing Postoperative Pancreatic Fistula
+- **Clinically Relevant Postoperative Pancreatic Fistula**
+
+*Explanation: CR-POPF stands for clinically relevant postoperative pancreatic fistula, which is a key metric used to evaluate outcomes after pancreaticoduodenectomy.*
+
+---
+
+**128. Which of the following correctly describes the HPB abbreviation used in the chapter?**
+
+- Hepatic, Pancreatic, and Biliary
+- Hepatobiliary and Pancreatic Biology
+- Hepatic, Portal, and Biliary
+- **Hepatopancreato-biliary**
+
+*Explanation: HPB stands for hepatopancreato-biliary, referring to the surgical subspecialty dealing with the liver, pancreas, and biliary system.*
+
+---
+
+**129. What is the significance of the ERAS pathway mentioned in the chapter?**
+
+- It increases ICU utilization for safety monitoring
+- It is only used for open pancreatic surgery
+- It focuses on pain management through opioids
+- **It decreases pain medication use, shortens length of stay, and decreases hospital costs**
+
+*Explanation: The ERAS (Enhanced Recovery After Surgery) pathway is used for all patients as it has been shown to decrease the use of pain medication, shorten the length of stay, and decrease the hospital costs.*
+
+---
+
+**130. What does the chapter describe as the key factor distinguishing whether patients are admitted to the ICU after RPD?**
+
+- Tumor size and pathologic staging
+- Surgeon preference
+- Duration of the operation
+- **Patients' comorbidities and hospital protocols**
+
+*Explanation: Patients are not routinely admitted to intensive care units but sent to a regular ward with telemetry monitoring; however, this depends on patients' comorbidities and hospital protocols.*
+
+---
+
+**131. How many total patients with periampullary tumors were included in the systematic review comparing RPD (n=1,593) versus OPD?**
+
+- 5,000
+- 8,000
+- 20,000
+- **13,639**
+
+*Explanation: The recent systematic review and meta-analysis included 18 nonrandomized trials with 13,639 patients with periampullary tumors allocated to RPD (n=1,593) or OPD (n=12,046).*
+
+---
+
+**132. What is the chapter's primary focus in terms of minimally invasive approach?**
+
+- Laparoscopic PD exclusively
+- Hybrid laparoscopic/open PD
+- Hand-assisted laparoscopic PD
+- **Robotic MIPD**
+
+*Explanation: Although the chapter covers basic aspects of the laparoscopic approach, it focuses on robotic MIPD given the trend of modern minimally invasive techniques, the rapid growth of robotic programs globally, and the expertise of the authors' group.*
+
+---
+
+**133. What is the chapter's view on the current state of LPD adoption globally?**
+
+- LPD has been widely adopted globally
+- LPD is the preferred approach at most centers
+- LPD is growing faster than robotic PD
+- **LPD remains a challenging technique with limited widespread adoption despite being first described almost three decades ago**
+
+*Explanation: Despite numerous attempts to identify factors affecting its implementation, LPD remains a challenging technique with limited widespread adoption, with only a few centers having documented experience and established training programs.*
+
+---
+
+**134. What does the chapter say about the use of minimally invasive approaches for complex HPB surgery compared to distal pancreatectomy?**
+
+- Both have been equally adopted
+- Complex HPB surgery has seen faster adoption
+- Distal pancreatectomy has been less commonly performed minimally invasively
+- **Adoption of minimally invasive techniques has been slow for complex HPB surgery due to the steep learning curve and procedure complexity**
+
+*Explanation: Given the complexity of PD and the steep learning curve for laparoscopic and robotic approaches, the adoption of minimally invasive techniques has been slow for complex HPB surgery.*
+
+---
+
+**135. What type of stapler is used to divide the proximal jejunum approximately 10 cm from the LOT?**
+
+- Robotic circular stapler
+- Robotic linear stapler
+- Endoscopic clip applier
+- **Laparoscopic linear gastrointestinal stapler**
+
+*Explanation: The proximal jejunum is divided with a laparoscopic linear gastrointestinal stapler approximately 10 cm from the LOT.*
+
+---
+
+**136. According to the chapter, what is the significance of the US national cohort data regarding RPD versus LPD oncologic outcomes in pancreatic adenocarcinoma?**
+
+- RPD had significantly better margin status
+- LPD had better lymph node harvest
+- RPD had significantly better overall survival
+- **There were no significant differences in margin status, examined lymph nodes, or overall survival between RPD and LPD**
+
+*Explanation: In a US national cohort of 1,623 patients with pancreatic adenocarcinoma, the chapter reports no significant differences in oncologic outcomes (margin status, examined lymph nodes, and overall survival) when comparing RPD versus LPD.*
+
+---
+
+**137. What does the chapter identify as the main weakness/limitation of the oncologic outcome data for MIPD versus open PD?**
+
+- Insufficient case numbers
+- Short follow-up periods
+- Lack of pathologic staging data
+- **Data based largely on retrospective single-center reports and large national database analysis**
+
+*Explanation: The chapter states that the conclusion about equivalent outcomes between minimally invasive and open approaches is based largely on retrospective single-center reports and large national database analysis.*
+
+---
+
+**138. What is described as an important initial action before starting any dissection in LPD after trocar placement?**
+
+- Division of the ligament of Treitz
+- Cholecystectomy
+- Retropancreatic tunnel creation
+- **Ruling out peritoneal disease or metastatic tumor implants**
+
+*Explanation: After standard antiseptic techniques and trocar placement in LPD, surgery proceeds after first ruling out peritoneal disease or metastatic tumor implants.*
+
+---
+
+**139. What reconstruction options are recommended for LPD according to the chapter?**
+
+- Running hepaticojejunostomy, stapled pancreatojejunostomy, and retrocolic gastrojejunostomy
+- Duct-to-mucosa pancreatogastrostomy and hepaticojejunostomy
+- Running all anastomoses and retrocolic reconstruction
+- **Single-layer hepatojejunostomy (interrupted or running), two-layer duct-to-mucosa pancreatojejunostomy, and antecolic gastro/duodenojejunostomy in two layers**
+
+*Explanation: For LPD, most surgeons recommend a single-layer hepatojejunostomy (interrupted or running), a two-layer duct-to-mucosa pancreatojejunostomy, and an antecolic gastro/duodenojejunostomy in two layers.*
+
+---
+
+**140. What tool is used to confirm patency and facilitate anterior row stitch placement in the pancreaticojejunostomy?**
+
+- Fogarty catheter
+- Cholangiogram catheter
+- Nasopancreatic drain
+- **A 4- or 5-French pancreatic duct stent placed through the anastomosis**
+
+*Explanation: A 4- or 5-French pancreatic duct stent is often used in small ducts through the anastomosis, confirming patency and to facilitate anterior row stitch placement.*
+
+---
+
+**141. For which type of HPB surgery has the authors' group specifically documented and advocated for structured training programs?**
+
+- Laparoscopic cholecystectomy
+- Open Whipple procedures
+- Laparoscopic hepatectomy
+- **Robotic HPB surgery**
+
+*Explanation: Based on their initial experience at a high-volume center with a surgical oncology/HPB fellowship program, the authors have advocated for deliberate and structured training for robotic HPB surgery.*
+
+---
+
+**142. What does the chapter say about the future of training in minimally invasive complex HPB surgery?**
+
+- The topic is settled and guidelines are clear
+- Training programs should be abandoned due to risk
+- Simulation alone is sufficient for proficiency
+- **It remains an evolving and controversial topic requiring further investigations**
+
+*Explanation: The chapter states that although training in minimally invasive complex HPB surgery remains an evolving and controversial topic, the rapid growth of this technique and development of newer technologies call for further investigations.*
+
+---
+
+**143. According to the chapter, what has been the trend regarding the growth of robotic surgery programs globally?**
+
+- Robotic programs are declining due to cost
+- Robotic programs are stabilizing in numbers
+- Robotic programs are limited to academic centers only
+- **There is rapid growth of robotic programs globally**
+
+*Explanation: The chapter specifically mentions "the rapid growth of robotic programs globally" as one of the reasons the chapter focuses on robotic MIPD.*
+
+---
+
+**144. Which of the following best describes the LEOPARD-2 study design?**
+
+- Single-center, open-label, randomized controlled trial
+- Multicenter retrospective cohort study
+- Propensity-matched observational study
+- **Multicenter patient-blinded randomized controlled trial**
+
+*Explanation: The LEOPARD-2 study by van Hilst et al. was a multicenter patient-blinded randomized controlled trial comparing LPD versus OPD.*
+
+---
+
+**145. What is the chapter's conclusion about RPD for complex pancreatic surgeries compared to LPD?**
+
+- LPD is preferred for complex vascular cases
+- Both approaches are equally capable for complex surgeries
+- Neither is appropriate for complex vascular cases
+- **RPD may allow completion of more complex pancreatic surgeries, including vascular resections in locally advanced tumors**
+
+*Explanation: The chapter suggests that RPD may allow the completion of more complex pancreatic surgeries, including vascular resections and reconstructions in locally advanced tumors, based on their experience and reported findings of lower conversion rates for RPD.*
+
+---
+
+**146. What additional recommendation does the chapter make regarding prospective comparisons of open versus minimally invasive PD?**
+
+- Comparisons should only include low-risk patients
+- Comparisons should focus on cost-effectiveness
+- Comparisons should use matched historical controls
+- **Comparisons should account for surgeons' experience and proficiency**
+
+*Explanation: The chapter emphasizes that whenever a prospective comparison of open versus minimally invasive techniques is attempted, the comparison should account for surgeons' experience and proficiency.*
+
+---
+
+**147. According to the chapter, what key advantage does the modified Blumgart technique offer for the pancreaticojejunostomy?**
+
+- It eliminates the need for duct stenting
+- It can be performed with a stapler
+- It uses fewer sutures than other techniques
+- **It creates a secure duct-to-mucosa anastomosis with combined transpancreatic seromuscular stitches**
+
+*Explanation: The modified Blumgart technique uses three 2-0 silk transpancreatic stitches combined with duct-to-mucosa anastomosis with 5-0 PDS sutures, providing a secure two-layer repair.*
+
+---
+
+**148. What does the chapter identify as the relationship between hospital volume and outcomes for MIPD?**
+
+- Hospital volume does not affect MIPD outcomes
+- Only surgeon volume matters, not hospital volume
+- Community hospitals can achieve equivalent outcomes to academic centers
+- **Optimal outcomes can be obtained when structured implementation of a robotic pancreas surgery program is adopted in a high-volume institution**
+
+*Explanation: The results of the 500-case University of Pittsburgh series highlight that optimal outcomes can be obtained when structured implementation of a robotic pancreas surgery program is adopted in a high-volume institution.*
+
+---
+
+**149. What is the chapter's conclusion regarding the overall safety and feasibility of MIPD?**
+
+- MIPD is investigational and should not be routinely performed
+- MIPD is only feasible for benign pancreatic lesions
+- MIPD is safe only with robotic assistance
+- **MIPD is safe and feasible when performed by pancreas surgeons with expertise in laparoscopic and robotic techniques**
+
+*Explanation: Multiple large institutional series, systematic reviews, meta-analyses, and randomized trials have now shown that the minimally invasive approach for Whipple procedures is safe and feasible when performed by pancreas surgeons with expertise in laparoscopic and robotic techniques.*
+
+---
+
+**150. What are the key implications of the Rice et al. study findings regarding generational training in RPD?**
+
+- Each generation must start fresh without benefiting from prior training programs
+- Training programs increased complication rates in second-generation surgeons
+- Only fellowship-trained surgeons can safely perform RPD
+- **Conversion rates, operating times, and blood loss decreased across generations without a rise in adverse patient outcomes, validating structured proficiency-based training**
+
+*Explanation: Across three generations of surgeons, conversion rates, operating times, and blood loss decreased without a concomitant rise in adverse patient outcomes, validating the proficiency-based curriculum coupled with mentorship for safe introduction of less-experienced surgeons to RPD.*

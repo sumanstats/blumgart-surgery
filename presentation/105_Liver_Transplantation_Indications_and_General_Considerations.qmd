@@ -1,0 +1,1526 @@
+---
+title: "Liver Transplantation: Indications and General Considerations"
+format:
+  revealjs:
+    theme: dark
+    smaller: true
+---
+
+# Introduction & Historical Context
+
+## Evolution of Liver Transplantation
+
+- **First human orthotopic liver transplant**: Starzl, 1963
+- First two decades: small numbers, moribund patients, disappointing survival
+- Improvements driven by:
+  - Increasing surgeon experience and confidence
+  - Better anesthesia
+  - Improved microbiologic and immunologic treatments
+  - Better immunosuppressive agents
+- Currently >7,000 procedures annually in Europe and US
+- Many centers report **1-year survival >90%** in elective patients
+
+## The Donor Shortage Crisis
+
+- Success and reduced contraindications → increasing potential recipients
+- Donor numbers static or falling in many countries
+- Consequences:
+  - Increasing mortality on waiting list
+  - Longer waits → sicker patients
+  - Decreased chance of survival
+  - Increased resource utilization
+
+  
+  
+## The Donor Shortage Crisis
+
+- Strategies to increase donor pool:
+  - Split livers
+  - Donation after circulatory death (DCD)
+  - Higher risk profile donors
+  - Living donors
+  - Machine perfusion (evaluate and improve graft function)
+
+## Allocation Principles
+
+- Different healthcare systems balance:
+  - **Equity**
+  - **Utility**
+  - **Need**
+  - **Benefit**
+- **North America & many European countries**: allocation based on **need**
+  - Focus on reducing death on waiting list
+  - Model for End-Stage Liver Disease (**MELD**) score
+  
+  
+## Allocation Principles
+
+- Result: reduced waiting-list mortality without appreciable effect on post-transplant survival
+- Increasingly allocated by **benefit** (estimated difference in survival with/without transplant)
+- **Quality of life (QOL)** increasingly considered
+- Need to define **futility** — when transplantation is futile
+- Palliative care must be an option
+
+## Living Donor Liver Transplantation
+
+- Stimulated by deceased donor shortage
+- **Limitations**: risks to donor
+  - Donor death risk: ~1 in 250 (depends on lobe removed)
+  - Morbidity: ~30%
+  - Lack of obligatory reporting and national registries → difficult to assess true risk
+- Indications generally mirror deceased donation
+- Some centers expanding indications (especially liver cancer, acute liver failure)
+
+# General Indications & Contraindications
+
+## Two Broad Indications for Grafting
+
+1. **Survival benefit** from transplant (compared with non-transplant)
+2. **QOL** (because of liver disease) unacceptable to the patient
+
+- Where organs allocated solely on need (e.g., intractable symptoms), very long wait unless living donor access
+
+## When to Consider Transplantation
+
+- MELD score >17
+- Signs of decompensation:
+  - Ascites
+  - Encephalopathy
+  - Renal impairment
+- Liver cell cancer for which other measures less effective
+- Hepatopulmonary or portal pulmonary hypertension
+- Intractable pruritus
+- Intractable encephalopathy
+
+::: {.callout-note}
+Development of these criteria means transplantation should be **considered**, not necessarily that it is indicated.
+:::
+
+## Box: Indications for Referral in Adult Cirrhosis
+
+**Symptoms**
+
+- Hepatic decompensation
+- Increasing ascites unresponsive to medical/diet therapy
+- Recurrent variceal bleeding
+- Spontaneous bacterial peritonitis
+
+
+## Box: Indications for Referral in Adult Cirrhosis
+
+
+:::{.columns}
+:::{.column width="50%"}
+**Side Effects of Liver Disease**
+
+- Increasing osteopenia
+- Hepatopulmonary syndrome
+- Portopulmonary hypertension
+- Intractable ascites / encephalopathy
+- Development of hepatocellular carcinoma
+- Muscle wasting and increasing frailty
+
+:::
+:::{.column width="50%"}
+
+**Biochemical Markers**
+
+- MELD Score >17
+- Serum albumin <30 g/dL
+- Serum bilirubin >50 μmol/L (parenchymal) or >100 μmol/L (cholestatic)
+:::
+:::
+
+## Absolute Contraindications
+
+- Not fit enough to withstand surgery (advanced cardiac/pulmonary disease)
+- Unlikely to survive procedure (active sepsis)
+- Survival after transplant too short to justify risks (metastatic disease)
+- Postoperative QOL unacceptable (severe intractable depression)
+- Surgery technically not possible (extensive venous thromboses)
+- Patient does not choose to undergo operation
+
+## Relative Contraindications
+
+| Factor | Concern |
+|--------|---------|
+| **Age** | Older age = risk factor for poor outcomes (no agreed upper limit) |
+| **Obesity** | BMI >40 kg/m² → poorer outcome |
+| **Cholangiocarcinoma** | Only highly selected patients in agreed protocols |
+| **Metastatic colon cancer** | Available in selected centers |
+| **Chronic/refractory infections** | Depending on type and curability |
+| **Poor social support** | Adversely impacts graft/patient survival |
+| **Ongoing tobacco/illegal drug use** | Increased morbidities |
+| **Active alcohol use** | Requires evaluation and abstinence |
+| **Frailty** | Multidimensional predictor of poor outcomes |
+
+## Changing Demographics (2019 US Data)
+
+- **8,372** liver transplants from deceased donors
+- **524** from living donors
+- **1,179** died awaiting graft
+- **1,186** removed from list (too sick)
+- **12,706** awaiting transplant (as of April 2020)
+
+
+## Changing Demographics (2019 US Data)
+
+**Trends:**
+
+- Rising: alcoholic liver disease, NAFLD
+- Falling: cholestatic diseases, HCV (due to effective treatment)
+- Living donors: not significant impact in Europe/North America; major in Asia
+- DCD: increasing (~5% US, ~30% UK); risk of ischemic cholangiopathy
+- Split livers: greatly reduced pediatric waiting list mortality
+
+# General Considerations
+
+## Malnutrition 
+
+- **Malnutrition**: 
+  - prevalence up to 60% in end-stage cirrhosis
+  - Causes: disease itself, poor intake, dietary   restrictions, malabsorption, hyperammonemia
+  - Associated with increased infection   susceptibility and poor outcomes
+  - No convincing evidence that improving nutrition   alters transplant outcome, but prudent to optimize
+  - Branch-chain amino acids and vitamin supplementation remain standard
+
+## Frailty
+
+- Strong predictor of:
+  - Outcome in cirrhosis
+  - Survival and QOL after transplant
+  - Risk of acute cellular rejection
+- Multidimensional construct: decreased physiologic reserve, increased vulnerability
+- Focus largely on **physical frailty** (functional performance, capacity, disability)
+
+## Frailty Assessment & Management
+
+- Recommended: baseline and longitudinal assessment with standardized tool
+- Tools used:
+  - Charlson Frailty Index
+  - Karnofsky performance scale
+  - Liver Frailty Index (hand grip, balance, chair stands)
+- Meta-analysis: **11 exercise types** improve:
+  - VO₂ peak
+  - Anaerobic threshold
+  - 6-minute walk distance
+  - Muscle mass/function
+  - QOL
+  
+  
+## Frailty Assessment & Management
+
+- Greater improvements with **combination of aerobic + resistance exercises** at moderate-high intensity
+- Neither malnutrition nor frailty should be absolute contraindications
+- Waiting time should be used to improve both
+
+## Obesity
+
+- Increasingly common, especially with metabolic syndrome
+- NAFLD is increasing indication for transplant
+- Data conflicting due to:
+  - Careful selection/assessment
+  - Difficulty distinguishing obesity effects from associated diabetes, CVD, comorbidities
+- Most studies: transplantation safe with **BMI up to 40 kg/m²**
+- Some centers perform bariatric surgery peritransplant (timing/risks/benefits uncertain)
+
+## Psychological Assessment
+
+- Transplantation = major psychological stress for patient and family
+- \>50% of candidates have wide range of psychological health problems
+- Full psychiatric assessment increasingly common
+
+**Risk factors for poor outcome:**
+
+- Mood disorders
+- Lack of social support
+- Substance misuse
+- Alcohol use
+
+
+## Psychological Assessment
+
+- Chronic poor health + subclinical encephalopathy + future uncertainties → difficult to predict outcome
+- Expert multidisciplinary assessment required for psychiatric illness history
+- **Noncompliance** (despite full support) leading to graft loss = acceptable exclusion criterion
+- Particular issue in adolescents/early 20s; transitional clinics and technology may help
+
+## Tobacco Use
+
+- Associated with increased risk of:
+  - Cardiovascular and lung diseases
+  - Cancer (before and after transplantation)
+  - Other morbidities
+- Some centers withhold listing from active smokers or non-compliant nicotine withdrawal
+
+## Illicit Drug Use
+
+- Some centers exclude active illicit drug users or those failing withdrawal treatment
+- **Marijuana and other illicit drugs**: outcomes not worse in users
+- **Methadone**: well-stabilized patients should not be excluded
+  - Continue stable dose
+  - Good outcomes, though perioperative management may be challenging
+
+## Age
+
+- No agreed upper age limit
+- Increasing age independently associated with mortality after transplant
+- **Biologic age** has superseded chronologic age (but cannot readily be defined/quantified)
+- Outcomes of carefully selected patients >70 are encouraging
+- Older age remains independent predictor of survival before and after transplant
+
+## Previous Abdominal Surgery
+
+- Adhesions (especially with portal hypertension) add considerably to surgical difficulties
+- May affect outcome, particularly if involving biliary tree surgery
+
+## Infection
+
+- **Active bacterial, fungal, or protozoal sepsis = absolute contraindication**
+- Once appropriate therapy instituted → suitable candidate
+
+## Human Immunodeficiency Virus (HIV)
+
+- Early studies: poor outcomes
+- **HAART** greatly altered natural history
+- Majority with HIV + end-stage liver disease have HCV coinfection
+- Current HCV treatments also affected need for liver transplantation
+- ~1% of recipients HIV-infected (2008–2015 data)
+- Outcomes improved over time
+
+
+## Human Immunodeficiency Virus (HIV)
+
+[**Indications becoming better defined:**]{.underline}
+
+1. End-stage liver disease
+2. Low or undetectable HIV RNA
+3. No AIDS-defining complication
+4. CD4 count >200
+
+## Cardiovascular Disease: Overview
+
+- Common in liver transplant candidates
+- Important cause of perioperative and postoperative morbidity
+- Causes:
+  - Cardiovascular/valvular disease
+  - Cirrhotic cardiomyopathy (CCM)
+  - Metabolic diseases (amyloidosis, hemochromatosis)
+  - Toxins (alcohol)
+- Tools to assess degree of cardiac disease and define contraindications are imperfect
+
+## Multivessel Coronary Artery Disease
+
+- CAD present in **15%** of patients with end-stage liver disease
+- Preoperative cardiovascular assessment is imprecise; no clear guidelines
+- **Minimum**: echocardiography (heart muscle, valves, pulmonary hypertension)
+- If ischemic heart disease suspected:
+  - Stress test (dobutamine/adenosine-stimulated echocardiography)
+  - Myoscintigraphy
+- Significant stenosis (>70%) → consider revascularization before transplant
+- Surgery risky in cirrhosis; **stenting may be preferable**
+- Staged rather than simultaneous approach may be preferable
+
+## Cirrhotic Cardiomyopathy (CCM)
+
+- Defined as: systolic and diastolic dysfunction + electrophysiologic abnormalities
+- Diagnosis: contemporary Doppler/echocardiography or quantitative MRI
+- Characterized by:
+  - High output state at rest
+  - Impaired ability to increase contractility at stress
+  - Diastolic dysfunction
+  - Electromechanical abnormalities
+- Often asymptomatic; dysfunction may not be apparent until peri/postoperative period
+- Low peripheral resistance (splanchnic vasodilation) decreases LV afterload
+- **Cardiac MRI** may help in diagnosis
+- Features may improve after transplantation, but remains contributor to early death
+
+## Respiratory Function: Overview
+
+- **Routine screening**: chest X-ray, ECG, lung function tests, peripheral O₂ saturation
+- Additional investigations:
+  - Arterial blood gases (lying and standing → detect HPS)
+  - On 100% oxygen → detect shunting
+  - High-resolution CT
+  - Contrast-enhanced echocardiography
+  - Isotope-labeled macroaggregated albumin lung scan
+  - Pulmonary angiography / right heart catheterization (as indicated)
+- Arterial hypoxemia (SaO₂ <92% or PaO₂ <70 mmHg) in up to **70%** of patients with liver disease
+
+## Causes of Pulmonary Abnormalities
+
+1. Diseases **unrelated** to liver disease (e.g., smoking)
+2. Effects **associated** with liver disease (e.g., α1-antitrypsin deficiency)
+3. Respiratory conditions **associated** with liver disease (e.g., fibrosing alveolitis with PBC)
+4. **Effects of liver disease** on respiratory function:
+   - Ascites causing pleural effusion
+   - Simple lung compression
+5. **Hepatopulmonary syndrome (HPS)**
+6. **Portopulmonary hypertension (PPH)**
+
+## Hepatopulmonary Syndrome (HPS)
+
+- Detected in up to **one-third** of transplant candidates
+- Results from **intrapulmonary microvascular dilation** in chronic liver disease/portal hypertension → arterial deoxygenation
+
+**Diagnostic triad:**
+
+1. Liver disease and/or portal hypertension
+2. Elevated room air alveolar-arterial O₂ gradient (≥15 mmHg; ≥20 mmHg if >64 years)
+3. Evidence of intrapulmonary vascular dilatations
+
+
+## Hepatopulmonary Syndrome (HPS)
+
+- **Orthodeoxia**: fall in arterial O₂ when standing
+- Intrapulmonary shunting: contrast echocardiography or 99mTc-MAA lung-brain perfusion scan
+- Improves after transplant in majority (may take >6 months)
+- No association between HPS severity and cirrhosis severity
+- **Severe HPS** (PaO₂ <50 mmHg or MAA shunt >20%) = predictor of increased mortality
+- Association between HPS and CCM remains uncertain
+
+## Portopulmonary Hypertension (PPH)
+
+- **Diagnostic criteria:**
+  - Liver disease resulting in portal hypertension
+  - Mean pulmonary artery pressure (MPAP) >25 mmHg
+- **Not correlated** with severity/etiology of portal hypertension
+- Detected in **<10%** of transplant candidates
+
+| Severity | MPAP | Significance |
+|----------|------|--------------|
+| Mild | <35 mmHg | Usually little concern |
+| Moderate | >35 mmHg | Predictor of increased mortality |
+| Severe | >45 mmHg | Predictor of increased mortality |
+
+
+## Portopulmonary Hypertension (PPH)
+
+- Diagnosis by exclusion (pulmonary emboli, intrinsic lung disease, left heart failure)
+- Initial screening: contrast-enhanced echocardiography (estimate RVSP)
+- Confirmation: right heart catheterization
+  - MPAP >35 mmHg + PVR >240 dyn·s/cm⁵ + pulmonary wedge pressure <15 mmHg
+- **Vasodilator therapy** if severe:
+  - Endothelin receptor antagonists (bosentan)
+  - Phosphodiesterase type-5 inhibitors (sildenafil)
+  - Prostanoids (epoprostenol)
+- Transplant considered if MPAP reduced to <35 mmHg and PVR <400 dyn·s/cm⁵
+
+## Coexisting Disease: Diabetes Mellitus
+
+- Often found in chronic liver disease (especially HCV)
+- May result from insulin intolerance of advanced liver disease → resolves after transplant
+- Concerns: **microvascular complications**
+- Insulin-dependent diabetes → worse outcome after transplant
+
+**Relative contraindications:**
+
+- Proliferative retinopathy
+- Diabetic nephropathy
+- Autonomic neuropathy (abnormal beat-to-beat variation on Valsalva, postural hypotension)
+- Diabetic gastroparesis
+- Advanced microvascular disease → risk of major autonomic disruption during procedure
+
+## Coexisting Disease: Hyponatremia & Vascular Thromboses
+
+**Hyponatremia**
+
+- Common in advanced chronic liver disease
+- Usually from injudicious diuretics or reduced free water clearance
+- Severe hyponatremia (Na <120 mmol/L) → increased risk of **central pontine myelinolysis**
+- Should be corrected before transplant:
+  - Water restriction
+  - Stop diuretics
+  - Renal support if rapid correction needed
+  - Aquaretics may be helpful
+
+
+## Coexisting Disease:  Vascular Thromboses
+
+- Not uncommon in chronic liver disease
+- Causes: cirrhosis itself or underlying thrombotic tendency
+  - Myeloproliferative disease (Budd-Chiari)
+  - Lupus anticoagulant
+  - Protein C/S deficiency
+  - Impaired fibrinolysis
+- Portal vein thrombosis: **no longer contraindication**
+  - Inflow can be provided by superior mesenteric vein or splenic vein
+- Only **extensive venous thrombosis** with impossible portal supply = contraindication
+
+## Coexisting Disease: Renal Disease
+
+- May result from **hepatorenal syndrome** or **intrinsic kidney damage**
+- **Hepatorenal syndrome**: no structural kidney damage
+  - Kidney functions normally once satisfactory liver function reestablished
+  - Not absolute contraindication (though prognosis reduced with advanced renal insufficiency)
+- **Advanced coexisting renal disease**: consider combined liver and kidney transplantation
+- Renal function = major predictive factor for survival and risk of renal impairment post-transplant
+
+## Combined liver and kidney transplantation 
+
+- Considered for:
+  - Liver failure + end-stage kidney disease   (excluding hepatorenal syndrome)
+  - Liver failure + chronic kidney disease (GFR <30   mL/min)
+  - Liver failure + chronic kidney disease with   renal histology showing >30% fibrosis or >30%   glomerulosclerosis
+  - Liver failure + acute kidney injury (creatinine >2.0 mg/dL, renal support ≥8 weeks)
+
+## Past History of Malignancy
+
+- Relative contraindication (surgery + immunosuppression → early recurrence)
+- Israel Penn Tumor Registry identified high-risk tumors
+
+
+## Past History of Malignancy
+
+| Risk Category | Tumors |
+|---------------|--------|
+| **Low (0–10%)** | Incidental renal tumors, lymphoma, testicular, uterine, cervical, thyroid |
+| **Intermediate (11–25%)** | Uterine body, Wilms tumor, colon, breast, prostate |
+| **High** | Bladder, sarcomas, melanoma, symptomatic renal carcinomas, myelomas, nonmelanoma skin cancers |
+
+
+## Past History of Malignancy
+
+- Most centers offer transplant when recurrence risk <10% at 5 years
+- Colorectal (18.8%), nonmelanoma skin (23.5%), thyroid (25%), oral squamous (33%), vulvovaginal (33%), breast (33%) → generally >10% risk
+- Only exceptional cases with these extrahepatic malignancies should be considered
+
+## Bone Disease
+
+- Many patients with chronic liver disease have bone disease
+- **Osteomalacia** (vitamin D malabsorption): low prevalence, readily corrected with parenteral vitamin D
+- **Osteoporosis**: much greater problem
+  - Particularly female patients with chronic cholestatic disease
+  - Successful transplantation halts/retards progression, may improve mineralization
+- Severe osteoporosis with thoracic/lumbar vertebral collapse or fractures = rare indication
+
+# Specific Diseases
+
+## Fulminant Hepatic Failure (FHF)
+
+- **Definition**: encephalopathy within 8 weeks of symptom onset in previously normal liver
+- Accounts for **<5%** of liver transplants
+- Severe FHF + grade IV encephalopathy → mortality ~**80%**
+
+:::{.columns}
+:::{.column width="50%"}
+**Common causes:**
+
+- Acetaminophen (paracetamol) overdose
+- Viral infections (hepatitis A, B, E; rarely C)
+- Drug/xenobiotic toxicity (including herbal remedies)
+- Wilson disease
+- Liver diseases of unknown etiology
+:::
+
+:::{.column width="50%"}
+**Common causes of death:**
+
+- Cerebral edema
+- Multiorgan failure
+- Sepsis (bacterial/fungal)
+- Cardiac arrhythmia/arrest
+- Respiratory failure
+:::
+:::
+
+## FHF: Prognosis & Transplant Criteria
+
+- Narrow window between recognizing poor survival and onset of irreversible complications
+- Several prognostic models available for super-urgent transplant
+- **King's College Hospital model**: validated and robust
+- Contraindications: onset of irreversible complications
+  - Irreversible cerebral edema (prolonged elevated ICP or fixed dilated pupils >6 hours)
+  - Active sepsis
+
+## FHF: Prognosis & Transplant Criteria
+
+**Best guide to progression**: serial prothrombin time (PT) or factor V levels
+
+  - Best represent synthetic function (in absence of   extraneous blood products)
+  - Initial improvement followed by deterioration →   suggests sepsis (treat before transplant)
+  - Patient at risk for ICP complications up to **48 hours** after successful transplant
+
+**Clotting factors**: should not be given until transplant decision made (unless pressing clinical reasons)
+
+## UK Super-Urgent Transplant Criteria for FHF (2020)
+
+
+:::{.columns}
+:::{.column width="45%"}
+**Category 1 — Acetaminophen Poisoning**
+
+- pH <7.25 more than 24 hours after overdose and after fluid resuscitation
+
+**Category 2 — Acetaminophen Poisoning**
+
+- PT >100 sec or INR >6.5
+- Serum creatinine >300 μmol/L or anuria
+- Grade 3–4 encephalopathy
+:::
+:::{.column width="55%"}
+**Category 3 — Acetaminophen Poisoning**
+
+- Significant liver injury and coagulopathy
+- Arterial lactate >5 mmol/L on admission and >4 mmol/L 24 hours later
+- Clinical hepatic encephalopathy
+
+**Category 4 — Acetaminophen Poisoning**
+
+- Two of three Category 2 criteria + clinical deterioration
+- (e.g., increased ICP, FiO₂ >50%, increasing inotropes) without clinical sepsis
+:::
+:::
+
+
+
+## UK Super-Urgent Criteria: Non-Acetaminophen
+
+**Category 5 — Favorable Etiologies**
+
+(Acute viral hepatitis, ecstasy/cocaine-induced ALF)
+
+- Clinical hepatic encephalopathy mandatory
+- PT >100 sec or INR >6.5
+- OR any three from:
+  - Age >40 or <10 years
+  - PT >50 sec or INR >3.5
+  - Any grade encephalopathy with jaundice-to-encephalopathy time >7 days
+  - Serum bilirubin >300 μmol/L
+
+## UK Super-Urgent Criteria: Non-Acetaminophen
+
+**Category 6 — Unfavorable Etiologies**
+
+(Seronegative or idiosyncratic drug reactions)
+
+- PT >100 sec or INR >6.5
+- OR INR >2 after vitamin K repletion + any two from the Category 5 list
+
+## FHF: Special Considerations
+
+**Auxiliary / Partial Transplants**
+
+- **APOLT** (auxiliary partial orthotopic liver transplantation)
+- Allows earlier grafting as "safety net"
+- If native liver recovers, donor liver can be removed or allowed to atrophy
+- Patient returns to good liver function **free of immunosuppression**
+
+**Artificial Liver Support**
+
+- Role remains uncertain
+- MARS (molecular absorbent recirculation system) may offer benefit
+
+
+## FHF: Special Considerations
+
+**Acetaminophen Overdose**
+
+- Long history of unresponsive psychiatric disease or recurrent overdose → usually not appropriate
+- Impulse overdose due to trivial problem → usually appropriate
+- Overdose due to long-term social/domestic problems: patient may return to identical problems + transplant burden → grafting may not be appropriate
+
+## Variants of Acute Liver Failure
+
+**Subacute Liver Failure (Late-Onset Hepatic Failure)**
+
+- Subacute illness with fluctuating encephalopathy
+- Develops days or weeks after hepatitis-like illness onset
+- Often middle-aged women, no obvious precipitating factors
+- **Very poor prognosis without transplantation**
+
+**Fulminant Autoimmune Hepatitis (AIH)**
+
+- FHF + serologic markers of AIH (increased immunoglobulins, high-titer autoantibodies)
+- Whether classic AIH form is unclear
+- Response to corticosteroids disappointing
+- **Decision to offer transplant should not be delayed**
+
+## Metabolic Diseases
+
+- Account for **<5%** of adult liver transplants
+- In some cases, metabolic defect arises in liver → transplantation corrects defect
+- Hepatocyte transplantation and auxiliary transplantation may become suitable alternatives
+
+
+## Metabolic Diseases
+
+
+**Liver-affected conditions:**
+
+
+:::{.columns}
+:::{.column width="50%"}
+- α1-Antitrypsin deficiency
+- Wilson disease
+- Protoporphyria
+- Tyrosinosis / Tyrosinemia
+- Galactosemia
+- Glycogen storage disease types I and IV
+:::
+
+:::{.column width="50%"}
+- Byler disease
+- Hemochromatosis
+- Cystic fibrosis
+- Gaucher disease
+- Urea cycle enzyme deficiencies
+:::
+:::
+
+
+## Metabolic Diseases
+
+**Other organs also affected:**
+
+:::{.columns}
+:::{.column width="50%"}
+- Primary hyperoxaluria
+- Crigler-Najjar syndrome
+- Primary hypercholesterolemia
+- Niemann-Pick disease
+:::
+
+:::{.column width="50%"}
+- Sea-blue histiocyte disease
+- Hemophilia A and B
+- Protein C/S deficiency
+:::
+:::
+
+## Metabolic Diseases: Special Notes
+
+- Correction seen with Wilson disease or hemophilia
+- Hypercholesterolemia: defect in liver, heart major organ affected
+  - Some advocate liver transplant to prevent severe CAD
+  - Combined heart and liver transplants if cardiac disease already present
+- Hyperoxaluria: may require liver and kidney replacement
+- Porphyria: indication in selected patients, but should accompany **stem cell transplant** (not cured by liver transplant alone)
+
+## Metabolic Diseases: Special Notes
+
+- Hemophilia: alternative therapies (factor VIII) available; transplant only with extensive liver disease
+- Recurrence of metabolic disease not necessarily contraindication:
+  - Genetic hemochromatosis: may recur, but organ damage preventable by early recognition/treatment
+  - Erythropoietic protoporphyria: likely to recur, but morbidity delayed by cholestyramine
+
+## Budd-Chiari Syndrome
+
+- Role of transplantation remains uncertain
+- Underlying thrombotic disorders:
+  - Protein C/S deficiency
+  - Factor V Leiden mutation
+  - Lupus anticoagulant
+  - Polycythemia
+  - Myeloproliferative disorders
+  
+## Budd-Chiari Syndrome
+
+- Some corrected by transplantation; others carry risk of complications (malignant transformation)
+- Early anticoagulants and interventional radiology (especially **TIPS**) have changed management
+- Transplantation considered only when:
+  - Portal decompression failed or not feasible
+  - Established liver failure
+
+## Other Indications
+
+- **Polycystic Liver Disease**
+    - Indication in small proportion of patients
+    - Considered when enlarged liver causes:
+      - Severe and constant pain
+      - Impact on stomach → poor nutrition
+    - Generally indicated when liver reaches into     pelvis
+    - Combined liver and kidney involvement → dual     transplantation
+
+## Other Indications
+
+- **Transthyretin Amyloidosis (ATTR)**
+    - Progressive neurologic and cardiac impairment     from misfolded transthyretin deposition
+    - Place in highly selected patients
+    - Resected liver sometimes used in **domino     procedure**
+    - Newer agents may reduce need:
+      - TTR tetramer stabilizers
+      - TTR silencers
+      - Fibril disruptors
+
+## Chronic Liver Disease: General Principles
+
+- Most difficult problems regarding transplantation
+- Main concern: **deciding appropriate time** to offer procedure
+  - Fitter patient = greater probability of surviving
+  - But if unsuccessful, life shortened
+  - If offered too late, chances of success reduced
+- Two major indications:
+  1. Poor QOL
+  2. Poor estimated length of life
+
+
+## Chronic Liver Disease: General Principles
+
+**QOL assessment challenges:**
+
+- "Unacceptable" is subjective
+- Difficult to disentangle borderline encephalopathy, depression, and disease-related tiredness
+- Some patients adopt "sick role" — reluctant to abandon even after successful transplant
+- **Intractable pruritus** = valid indication if all other measures unsuccessful
+- **Lethargy alone** = not an indication (often fails to improve); exclude extrahepatic causes
+
+## Chronic Liver Disease: Timing & Prognostic Models
+
+- Most centers: appropriate when estimated life without transplant **<1 year**
+- Diseases run predictable course, but threatened by unpredictable events (sepsis, variceal hemorrhage)
+- **Timing remains inexact science**
+- Factors predicting poor survival in cirrhosis **different** from those predicting post-transplant outcome
+
+
+## Chronic Liver Disease: Timing & Prognostic Models
+
+**Prognostic models:**
+
+- **Child-Pugh (CP) score**: not sufficiently detailed for short-term survival estimation; semi-quantifiable parameters (ascites) limit generalization
+- **MELD score**: useful marker of short-term prognosis; may be more accurate than CP
+  - Variations (MELD-Na) exist, but MELD remains most used
+- Data suggest transplanting patient without malignancy with MELD <12 associated with **reduction in 1-year survival** compared with continued waiting
+
+**Functional tests** (aminopyrine breath test, galactosamine elimination clearance):
+
+- Advocated by some, but rarely add to clinical/serologic assessment
+- Now rarely used
+
+## Primary Biliary Cholangitis (PBC)
+
+- Several prognostic models (static and time-dependent)
+- Helpful in defining variables predicting survival with/without transplant
+- Must be used with care (wide confidence intervals)
+
+
+:::{.columns}
+:::{.column width="50%"}
+**Medical therapy:**
+
+- **UDCA** (13–15 mg/kg/day): significant delay to transplant, especially with biochemical response
+- **Obeticholic acid**: second-line, may further reduce need
+:::
+:::{.column width="50%"}
+**Indications for referral:**
+
+- Decompensated cirrhosis
+- MELD >15
+- Total bilirubin >6 mg/dL (AASLD) or 3–5 mg/dL (EASL)
+- Mayo risk score >appropriate threshold
+:::
+:::
+
+## Primary Biliary Cholangitis (PBC)
+
+**Pruritus:**
+
+- Mainstay: cholestyramine
+- Other options: rifampicin, naltrexone, sertraline, plasmapheresis, MARS
+- Usually disappears within 2–3 days after transplant
+
+**Recurrence:**
+
+- PBC recurs in allograft (slow rate) — should not preclude transplantation
+- Extrahepatic manifestations will not be corrected
+
+## Primary Sclerosing Cholangitis (PSC)
+
+- Accounts for ~**6%** of all transplants
+- Natural history less clear and predictable than PBC
+- Fluctuating course with exacerbations/remissions (spontaneous bacterial cholangitis)
+- Underlying relentless progression toward liver failure
+- Serum bilirubin and albumin remain useful markers
+- CP and MELD as reliable as Mayo model
+
+
+## Primary Sclerosing Cholangitis (PSC)
+
+**Timing challenges:**
+
+- Worsening jaundice may respond to endoscopic therapy of dominant strictures or cholangitis treatment
+- Development of cholangiocarcinoma adds further challenges
+
+**Associated conditions:**
+
+- Most cases associated with **inflammatory bowel disease** (usually ulcerative colitis)
+- PSC + colitis → **increased risk of colonic cancer** vs. colitis alone
+- Full colonoscopy recommended in all potential candidates
+- Quiescent colitis: not contraindication
+- Active colitis: treat before transplant
+- Colectomy before/during transplant → protective effect against recurrent PSC
+
+## PSC: Malignancy Risk & Transplant Considerations
+
+- **Premalignant condition**
+- Cholangiocarcinoma risk: up to **1.5%/year**, prevalence 6–13%, lifetime risk up to 20%
+- Bile duct dysplasia may identify high-risk group (controversial)
+- Difficult to distinguish sudden deterioration: cholangitis vs. natural history vs. cholangiocarcinoma
+
+## PSC: Malignancy Risk & Transplant Considerations
+
+
+
+[**Detection challenges:**]{.underline}
+
+:::{.columns}
+:::{.column width="50%"}
+- Serum CEA: nonspecific, insensitive
+- CA19-9: more helpful but not specific
+- Imaging (CT, MRI, ultrasound, angiography): often unreliable
+- MRCP: good visualization but no tissue sampling
+:::
+
+:::{.column width="50%"}
+- ERCP + brushing/biopsy + FISH: high specificity, low sensitivity; risk of severe cholangitis
+- Percutaneous biopsy/aspiration: positive diagnosis possible, but negative findings don't exclude cancer
+:::
+:::
+
+## PSC: Malignancy Risk & Transplant Considerations
+
+**Management principles:**
+
+- Consider **earlier transplantation**
+- Avoid biliary surgery if possible
+- Known cholangiocarcinoma before transplant → generally **not considered** (survival poor)
+- Very small proportion may benefit from aggressive neoadjuvant chemoradiation
+
+
+## Alcoholic Liver Disease
+
+- Selected patients are **excellent candidates**
+- Increasing indication for transplantation
+- Initial concerns largely **not substantiated**:
+  - Continued excessive drinking
+  - Poor compliance
+  - Unreliable with immunosuppression
+- Extrahepatic damage (heart, brain, pancreas, bone marrow) remains concern
+- Survival rates similar to other patients with cirrhosis
+
+
+## Alcoholic Liver Disease
+
+
+:::{.columns}
+:::{.column width="50%"}
+**Ethical considerations:**
+
+- Some argue self-induced injury should exclude patients given expense and limited donor supply
+- Most units: **not appropriate to deny**
+  - Not necessarily alcohol dependent
+  - Many self-induced diseases exist
+  - Public opinion increasingly supportive
+:::
+:::{.column width="50%"}
+**Specific factors to consider:**
+
+- **Abstinence improves survival** even in decompensated patients
+- Period of abstinence helpful to:
+  - Ensure liver won't recover sufficiently to obviate need
+  - Identify reason for excessive drinking
+  - Initiate measures to reduce recurrence risk
+- **No evidential basis for fixed period of abstinence**
+:::
+:::
+
+## Alcoholic Liver Disease: Assessment
+
+- Recommended: careful evaluation by multidisciplinary team including substance abuse experts
+
+:::{.columns}
+:::{.column width="50%"}
+- Prognostic models:
+  - Michigan alcoholism prognostic scale
+  - High-risk alcoholism relapse
+  - Alcohol Relapse Risk Assessment
+  - Stanford Integrated Psychosocial Assessment for Transplantation
+:::
+:::{.column width="50%"}
+- Factors associated with sobriety:
+    - Social integration (spouse/partner)
+    - Stable home and work environment
+    - Insight into disorder
+    - Absence of failed rehabilitation attempts
+    - Absence of preexisting psychiatric disorders
+:::
+:::
+
+- Some centers require contract to agree to abstinence (no legal validity, but commits patient)
+
+## Alcoholic Hepatitis
+
+- Severe hepatitis: high serum bilirubin, prolonged clotting
+- More difficult to define role than alcoholic liver disease
+- Encephalopathy + renal failure → dismal prognosis
+- Usually insufficient time for background evaluation
+- Outcome after transplant usually poor
+- Early corticosteroids may be effective in some
+
+
+## Alcoholic Hepatitis
+
+**Landmark study (Mathurin et al., 2011):**
+
+- Highly selected patients with advanced disease, no response to medical therapy
+- **77% survival at 6 months** (transplanted) vs. 27% (not transplanted)
+- 2 of 26 transplanted patients returned to alcohol
+
+
+:::{.columns}
+:::{.column width="50%"}
+**Selection criteria:**
+
+- No prior alcoholic hepatitis episodes
+- Lille scores >0.45 or rapid worsening despite medical therapy
+- Supportive family members
+- No severe coexisting conditions
+- Commitment to alcohol abstinence
+:::
+:::{.column width="50%"}
+**Prognostic models:**
+
+- Lille model
+- Maddrey Discriminant Function
+- Glasgow Alcoholic Hepatitis Score
+- ABIC (age, bilirubin, INR, creatinine)
+- MELD
+:::
+:::
+
+## Alcoholic Hepatitis
+
+- Boundaries slowly expanding; outcomes still relatively short term
+- Greater need for multidisciplinary approach
+- Advanced alcoholic cardiomyopathy or pancreatitis may preclude suitability
+
+## Hepatitis A & E Viral Infection
+
+
+:::{.columns}
+:::{.column width="50%"}
+**Hepatitis A (HAV)**
+
+- Rarely indication for liver transplantation
+- Indications same as for FHF
+- Few patients have recurrent infection in graft (little clinical significance)
+:::
+:::{.column width="50%"}
+**Hepatitis E (HEV)**
+
+- Another rare cause of FHF
+- May persist after liver transplant
+- Should be monitored; if persists, offer appropriate treatment
+:::
+:::
+
+## Hepatitis B Viral Infection (HBV)
+
+- Considered for transplant due to **FHF** or **chronic liver disease**
+- Accounts for **<5%** of transplants
+
+**FHF:**
+
+- Conventional criteria apply
+- Liver failure thought caused by rapid clearance of viral-infected hepatocytes
+- Most patients HBV DNA negative at transplant → disease recurs less frequently
+
+
+## Hepatitis B Viral Infection (HBV)
+
+**Chronic liver disease:**
+
+- HBV DNA positive at transplant → much more likely to have recurrence if untreated
+- Recurrence associated with significantly poorer outcome
+- High HBV DNA positivity before transplant → offer antiviral treatment where feasible/safe
+- Effective antiviral therapy has significantly reduced need for transplantation
+
+
+## Hepatitis B Viral Infection (HBV)
+
+**Treatment:**
+
+- Goal: achieve HBV DNA negativity
+- **Nucleos(t)ide analogs**: entecavir or tenofovir recommended
+  - Safe in decompensated liver disease
+  - HBV-DNA negativity within 1 year in up to 75% of patients
+  - Higher entecavir dose (1 mg) for decompensated cirrhosis
+  - Tenofovir alafenamide (TAF): studies lacking in decompensated cirrhosis; alternative especially with renal impairment
+- Pegylated interferon: **contraindicated** in decompensated liver disease
+- Post-transplant: hepatitis B immune globulin + oral antivirals usually continued
+
+**Hepatitis D coinfection:**
+- Remains a challenge
+- Interferon effective in some, but use in decompensated cirrhosis remains problematic
+
+## Hepatitis C Viral Infection (HCV)
+
+- Indications: same as those without HCV
+- Impact of **direct-acting antiviral agents (DAAs)** dramatically reduced need for transplantation
+
+**Pre-transplant:**
+
+- HCV RNA positivity at transplant → infection of graft
+- Previously: rapid onset of cirrhosis and graft failure → reduced survival
+- Now: increasing numbers RNA negative at transplant → long-term survival likely similar to other causes
+- Treatment ideally offered **before decompensation**
+- Response to treatment in some has meant removal from transplant list
+
+
+## Hepatitis C Viral Infection (HCV)
+
+**Decompensated liver disease:**
+
+- Protease inhibitor–containing regimens: **extreme caution** due to potential toxicity
+- Options:
+  - Treatment deferral to post-transplant period
+  - Accept organ from deceased donor who also carries virus → increases chance of receiving graft
+
+**Post-transplant:**
+
+- Optimal time and regimen uncertain
+  - Some: institute DAA once patient/graft stable
+  - Others: await onset of early fibrosis
+
+
+## Hepatitis C Viral Infection (HCV)
+
+**Hemophilia + HCV:**
+
+- Liver transplantation corrects hemophilia defect (not indication by itself)
+- Many contracted HCV through contaminated blood products
+- Adequate blood product support → no major problem
+- Many patients need no support beyond 72 hours
+
+## Hepatocellular Carcinoma (HCC)
+
+- May occur in noncirrhotic liver, but in Western populations usually arises in cirrhosis
+- Accounts for up to **30%** of transplants
+
+**Treatment approaches:**
+
+- Chemotherapy, resection, TACE, ethanol injection, cryotherapy, RFA, microwave ablation, transplantation, immunotherapy
+- Newer effective agents will change management algorithms
+
+
+## Hepatocellular Carcinoma (HCC)
+
+
+**Key challenging questions:**
+
+- Place of transplantation vs. alternative regimens?
+- Biomarkers (AFP) indicating futility?
+- Role of downstaging?
+- Do number/size of tumors on imaging reflect spread?
+- Pretransplant genomic/molecular/histologic markers?
+- Impact of immunosuppression (especially mTORi)?
+
+## HCC: Transplant Criteria
+
+- For most patients, transplant offers **only prospect of long-term survival**
+- Given organ shortage, guidelines needed for indications/contraindications
+
+**Milan Criteria (EASL):**
+
+- Single tumor <5 cm in diameter
+- OR multiple tumors: no more than three, all <3 cm
+- Based on retrospective analysis of only 48 patients
+- Extrapolation to current practice requires caution (imaging detects more lesions)
+- Size reflects likelihood of microinvasion/spread, not size per se
+
+
+## HCC: Transplant Criteria
+
+
+**UCSF (San Francisco) Expanded Criteria:**
+
+- Solitary tumor ≤6.5 cm
+- OR three or fewer nodules, largest ≤4.5 cm, total tumor diameter ≤8 cm
+
+**Downstaging:**
+
+- Patients initially outside Milan but reaching criteria after downstaging can be considered
+- Those outside Milan: transplant only in context of agreed protocols
+
+**Contraindications:**
+
+- Vascular invasion
+- Extrahepatic spread
+
+## HCC: Evaluation & Management
+
+**Serum AFP:**
+
+- Moderately useful marker
+- Many centers exclude if AFP >1000 ng/mL
+- Rate of AFP increase may guide identification of tumors unlikely to be "cured"
+- Molecular markers: not sufficiently sensitive/validated
+
+**Imaging:**
+
+- Multiphasic CT or MR
+- Some use contrast-enhanced ultrasound
+
+
+## HCC: Evaluation & Management
+
+**Biopsy:**
+
+- Risk of tumor seeding (~1%) along needle track
+- Consider when:
+  - Diagnosis uncertain from imaging/serology
+  - Specimen needed for prognostic purposes
+- Avoid in typical cirrhosis + space-occupying lesion + rapidly increasing AFP
+- "Liquid biopsies": uncertain role
+
+## HCC: Evaluation & Management
+
+
+**Monitoring on list:**
+
+- T1 tumor: AFP and imaging every 3 months
+- T2 (Milan): bridging to transplant suggested to decrease progression/dropout
+- T3: may be considered if downstaged to within Milan
+
+**Immunosuppression:**
+
+- mTORi (sirolimus, everolimus): limited survival benefit evidence
+- May benefit small degree in selected patients
+
+**Fibrolamellar / noncirrhotic primary liver tumors:**
+
+- Indication if unresectable and no extrahepatic spread
+
+## Cholangiocarcinoma
+
+- Usually regarded as **contraindication** (high recurrence rates)
+- Historical data: 1-year survival 53%, 3-year disease-free survival 13%
+
+**Hilar cholangiocarcinoma (recent data):**
+
+- 5-year overall survival: 21–56%
+- Most underwent **Mayo Clinic protocol** (external beam + transcatheter radiation + IV 5-FU)
+- **Dropout from protocol predictors:**
+  - CA19-9 >500 U/mL
+  - Mass >3 cm
+  - Malignant brushing or biopsy
+  - MELD >20
+
+
+## Cholangiocarcinoma
+
+
+**Meta-analysis (2020, Cambridge):**
+
+- Unresectable perihilar cholangiocarcinoma, 20 studies
+- **Without neoadjuvant therapy:**
+  - 1-year OS: 71%
+  - 3-year OS: 48%
+  - 5-year OS: 32%
+- **With neoadjuvant chemoradiation:**
+  - 1-year OS: 83%
+  - 3-year OS: 66%
+  - 5-year OS: 65%
+- Pooled recurrence at 3 years: 24% (with chemoradiation) vs. 52% (without)
+
+
+## Cholangiocarcinoma
+
+**Intrahepatic cholangiocarcinoma (recent nonrandomized study):**
+
+- Gemcitabine-based chemotherapy → ≥6 months radiographic response/stability → listed
+- 21 referred, 12 accepted, 6 transplanted
+- Overall survival: 100% at 1 year, 83.3% at 5 years
+- 3 patients developed recurrent disease (median 7.6 months)
+
+## Secondary Liver Cancers
+
+- Generally **not indicated** for metastatic malignancy (high recurrence rate)
+- **Major exceptions:**
+  1. Carcinoid and other **neuroendocrine tumors**
+  2. **Colorectal metastases (CRM)**
+
+:::{.columns}
+:::{.column width="50%"}
+**Neuroendocrine Tumors (NETs):**
+
+- Long-term results sometimes good
+- Rapid symptomatic relief
+- Multidisciplinary approach required
+:::
+:::{.column width="50%"}
+**ENETS Guidelines for liver transplant:**
+
+- Well-differentiated NET with Ki-67 ≤10%
+- Primary tumor removed ≥6 months before transplantation
+- <50% liver involvement
+- OR <75% liver involvement with refractory hormonal symptoms
+:::
+:::
+
+## Colorectal Metastases (CRM)
+
+- Role unclear; a few European centers (notably Oslo) showed survival advantage
+
+
+
+**SECA-I (earlier trial):**
+
+- Overall survival with liver transplant: **60%**
+- Risk factors for death:
+  - CEA >80 mg/L
+  - Progressive disease on chemotherapy
+  - Largest lesion >5.5 cm
+  - <2 years from primary resection to transplant
+
+## Colorectal Metastases (CRM)
+
+**SECA-II:**
+
+- Inclusion:
+  - Nonresectable liver-only metastases (CT/MRI/PET)
+  - Interval diagnosis-to-transplant >1 year
+  - ≥10% response to chemotherapy
+- Median follow-up 36 months:
+  - Overall survival at 3 years: **83%**
+  - Disease-free survival: **35%**
+- Recurrence mainly slow-growing pulmonary metastases (amenable to curative resection)
+- Use largely reflects organ availability and recipient need
+- Recurrence rates suggest need for better patient selection and treatment sequencing
+
+
+## Pediatric Transplantation
+
+- Medical indications essentially similar to adults
+- **Additional indications:**
+  - Growth retardation
+  - Development of metabolic bone disease
+
+**Most common indication:** disorders of the biliary system
+
+- **Biliary atresia** most common
+  - Portoenterostomy effective if performed early
+  - After 2 months: limited chance of success
+  - If bile drainage not established soon after surgery → consider transplant rather than further reconstruction attempts
+
+
+## Pediatric Transplantation
+
+**Other biliary disorders:**
+
+- Alagille syndrome
+- Byler disease
+- Nonsyndromic intrahepatic biliary hypoplasia
+
+**Metabolic disorders** (next most common):
+
+- Wilson disease
+- Tyrosinemia
+- Glycogen storage disease
+- Galactosemia
+- Gaucher disease
+
+# Assessment, Consent & Waiting List Management
+
+## Assessment of Patients for Liver Transplantation
+
+**Goals:**
+
+1. Confirm diagnosis of liver disease
+2. Assess indications for transplantation
+3. Assess conditions that may preclude transplantation or add risk
+4. Counsel patient and family about benefits and risks
+
+**History, examination, histology review**
+
+**Investigations depend on medical condition:**
+
+- Some chronic diseases associated with extrahepatic diseases
+  - PBC and AIH → thyroid disease, celiac disease, Addison disease
+  - Exclude untreated myxedema (may cause lethargy, obviate need)
+
+## Standard Pre-Transplant Workup
+
+**Laboratory:**
+
+- Complete blood count
+- Clotting assessment
+- Renal function tests
+- Liver function tests
+- Viral status: HAV, HBV, HCV, HIV, CMV
+- Some centers screen for TB, HHV-8, other viruses
+
+**Immunization:**
+
+- Nonimmune patients: offer hepatitis A and B vaccines before transplant
+- Live/attenuated vaccines contraindicated after transplant
+
+
+## Standard Pre-Transplant Workup
+
+**Tumor surveillance:**
+
+- Ultrasound of liver + serum AFP (check for HCC in cirrhosis)
+
+**Tuberculosis:**
+
+- If possible history: determine previous infection
+- Practice: isoniazid + pyridoxine for first 6 months after transplant
+
+**Disease-specific blood tests:**
+
+- Autoantibodies, immunoglobulins, copper studies, α1-antitrypsin phenotypes
+- Crossmatching
+
+## Cardiopulmonary & Radiologic Assessment
+
+
+:::{.columns}
+:::{.column width="50%"}
+**Cardiopulmonary:**
+
+- ECG, echocardiography, simple lung function tests
+- Possible ischemic heart disease: echocardiogram, exercise ECG, thallium scanning, coronary angiography
+- **Arterial blood gases**: important; if low O₂, repeat after exercise and 100% O₂
+:::
+
+:::{.column width="50%"}
+**Radiologic:**
+
+- Chest radiograph
+- Ultrasound: liver, biliary tree, pancreas, spleen, vessels
+- If portal vein patency uncertain: angiography (direct, CT, or MR)
+  - Also assess splenic/superior mesenteric vein patency
+- Some units: CT/MRI only if malignancy suspected
+:::
+:::
+
+
+## Cardiopulmonary & Radiologic Assessment
+
+- **PSC-specific:**
+  - Biliary tree investigation may reveal   undiagnosed cholangiocarcinoma
+  - Endoscopic evaluation should be avoided (risk of   cholangitis)
+  - Most PSC patients have colitis: screen for   active disease and cancer
+  - Long history of pancolitis: full colonoscopy
+    - Significant dysplasia → consider early   colectomy (immunosuppression increases colon   cancer risk)
+
+## Additional Assessments
+
+- **Psychiatric:**
+  - Routine evaluation not indicated unless history may preclude rehabilitation
+
+- **Dental:**
+  - Examination usually required
+  - Carious teeth usually removed before transplantation
+
+- **Anesthesia:**
+  - Routine assessment by anesthetist before transplant
+
+## Consent
+
+- Ensure candidate understands:
+  - Benefits of transplant
+  - Risks and implications
+- Increasing shortage → use of increasingly marginal organs
+- Patients must understand and accept risks:
+  - Inadvertent transmission of infection (viral, bacterial, other)
+  - Cancers, metabolic disorders, autoimmune diseases
+  - Higher-risk grafts (split liver, DCD)
+
+
+## Consent
+
+- **Patient understanding of risk is variable**
+  - Ensure fully informed consent via multiple   formats:
+    - Oral
+    - Printed
+    - Electronic
+  - Decision rests with patient, but include family   in discussions
+    - Their cooperation and understanding essential   for rehabilitation
+  - Consent obtained when listed; confirmed   immediately before transplantation
+
+## Management of Patients Awaiting Transplantation
+
+- **General principles:**
+  - Maintain as fit as possible
+  - Correct vitamin deficiency
+  - High-protein, high-calorie diet
+    - Encephalopathy should **not** exclude   high-protein diet
+    - Use lactulose, metronidazole, rifaximin, or   neomycin to control encephalopathy
+  - Activity program to maintain/improve physical   status
+
+
+## Management of Patients Awaiting Transplantation
+
+- **Immunization:**
+  - Review history; offer immunization as indicated
+  - Live/attenuated vaccines (contraindicated   post-transplant) should be given now
+  - Hepatitis A and B vaccines for nonimmune   patients
+  - Any infection rigorously sought and actively   treated
+
+## Ascites Management
+
+**Ascites:**
+
+- May be indication for treatment (catabolic, risk of SBP)
+- Prophylactic antibiotics: ciprofloxacin or amoxicillin/clavulanate
+  - Efficacious, cost-effective, low resistance risk
+- Severe ascites resistant to diet/diuretics + repeated paracentesis:
+  - Role for **TIPS**
+  - Uncertain role before transplant
+  - Effective in reducing portal hypertension, improving ascites, reducing variceal hemorrhage risk
+  - Risks: sepsis, perforation, portal vein thrombosis
+
+
+## Varices Management
+
+**Varices:**
+
+- Grade II or III varices or prior variceal bleeding:
+  - Pharmacoprophylaxis (propranolol or carvedilol)
+  - Or banding program
+- TIPS valuable in selected patients
+
+## Disease-Specific Monitoring on Waiting List
+
+- **PSC**: monitor for cholangiocarcinoma or bowel cancer
+- **HCC**: review tumor burden (usually in context of other therapies)
+- Time on waiting list can be used to adopt measures to reduce tumor spread and progression
+
+## Avoiding Harmful Therapy
+
+- **NSAIDs**: avoid (gastric hemorrhage, renal failure, fluid retention)
+- **Opiates**: avoid (constipation, encephalopathy risk)
+- **Sedatives**: avoid (encephalopathy risk)
+- **Diuretics**: use with care; monitor renal function
+  - Renal failure = poor post-transplant outcome
+  - Hyponatremia = central pontine myelinolysis risk
+
+## Substance Use & Waiting List Maintenance
+
+**Alcohol use disorders:**
+
+- Many centers: regular alcohol screening
+  - Breath, blood, urine alcohol
+  - Ethanol metabolites in hair
+
+**Illicit drug use:**
+
+- Similar considerations apply
+
+**Tobacco:**
+
+- If not contraindicated, use waiting time to support cessation
+
+## Removing Patients from the Waiting List
+
+- Transplant clinicians must remain in close contact with patient
+- Problems detected and treated early
+- As waiting time increases:
+  - Patients deteriorate
+  - May experience complications precluding successful outcome
+  - Probability of survival may become too small
+- With increasing donor shortage, consider criteria suggesting removal from list
+
+

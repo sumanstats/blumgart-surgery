@@ -1,0 +1,662 @@
+# 09C Advances in the Molecular Characterization of Liver Tumors
+
+Generated with Claude.
+
+**1. What percentage of gallbladder carcinoma (GBC) patients are eligible for curative therapy through surgical resection at the time of diagnosis?**
+
+- 10%
+- 15%
+- **25%**
+- 40%
+
+*Explanation: At the time of diagnosis, only approximately 25% of gallbladder carcinoma (GBC) patients are eligible for curative therapy through surgical resection.*
+
+---
+
+**2. What is the overall 5-year survival rate in gallbladder carcinoma (GBC)?**
+
+- **Less than 5%**
+- 7%–20%
+- Less than 18%
+- 25%–30%
+
+*Explanation: The 5-year survival rate is less than 5% in GBC, 7% to 20% in CCA, and less than 18% in HCC.*
+
+---
+
+**3. What percentage of cholangiocarcinoma (CCA) patients are eligible for surgical resection at the time of diagnosis?**
+
+- 10%
+- 20%
+- **30%**
+- 45%
+
+*Explanation: Approximately 30% of cholangiocarcinoma (CCA) patients are eligible for curative therapy through surgical resection at the time of diagnosis.*
+
+---
+
+**4. What is the 5-year survival rate range for cholangiocarcinoma (CCA)?**
+
+- Less than 5%
+- **7% to 20%**
+- Less than 18%
+- 25% to 30%
+
+*Explanation: The direct result of late diagnosis and aggressive behavior yields overall 5-year survival rates of 7% to 20% in CCA.*
+
+---
+
+**5. What is the overall 5-year survival rate for hepatocellular carcinoma (HCC)?**
+
+- Less than 5%
+- 7%–20%
+- **Less than 18%**
+- 25%–30%
+
+*Explanation: The overall 5-year survival rate for HCC is less than 18%, reflecting the aggressive nature and late diagnosis of this cancer.*
+
+---
+
+**6. What is the median nonsynonymous mutation frequency per tumor detected by whole-exome sequencing (WES) in intrahepatic CCA (iCCA)?**
+
+- 25
+- **39**
+- 64
+- 82
+
+*Explanation: WES studies have detected nonsynonymous mutation frequencies of 39 per tumor (median) in intrahepatic CCA (iCCA).*
+
+---
+
+**7. What is the median nonsynonymous mutation frequency per tumor detected by WES in extrahepatic CCA (eCCA)?**
+
+- 25
+- 39
+- **35**
+- 64
+
+*Explanation: WES studies have detected nonsynonymous mutation frequencies of 35 per tumor (median) in extrahepatic CCA (eCCA).*
+
+---
+
+**8. What is the median nonsynonymous mutation frequency per tumor detected by WES in both GBC and HCC?**
+
+- 35
+- 39
+- 50
+- **64**
+
+*Explanation: WES studies detected nonsynonymous mutation frequencies of 64 per tumor (median) in both GBC and HCC.*
+
+---
+
+**9. Tumor mutation burden (TMB) is positively correlated with which of the following?**
+
+- Decreased survival
+- Resistance to chemotherapy
+- **Increased likelihood of neoantigen production and potential response to checkpoint inhibitor therapies**
+- Increased surgical eligibility
+
+*Explanation: TMB is positively correlated with increased likelihood of neoantigen production, potentially resulting in beneficial response to checkpoint inhibitor therapies.*
+
+---
+
+**10. Which etiologic background has been confirmed to correlate with higher mutational loads in CCA?**
+
+- Alcohol-associated CCA
+- KRAS-mutated CCA
+- **Liver fluke–associated CCA versus noninfected CCA**
+- IDH1/2-mutated CCA
+
+*Explanation: Certain etiologic backgrounds have been confirmed to correlate with higher mutational loads, such as liver fluke-associated CCA versus noninfected CCA.*
+
+---
+
+**11. Compared with other cancer types, HB tumor mutational burden falls approximately:**
+
+- At the lower end of the spectrum, similar to leukemias
+- At the upper end, similar to melanomas
+- **Midway between leukemias and melanomas**
+- Below leukemias
+
+*Explanation: Comparative mutational profiling across cancers indicates HB tumors are exceptionally unremarkable, falling approximately midway between leukemias (toward the lower end) and melanomas (at the upper end).*
+
+---
+
+**12. What application of WGS analysis is clinically important for determining patient eligibility for surgical resection in HCC?**
+
+- Detecting TERT amplification
+- Identifying KRAS mutations
+- **Discerning multicentric HCC from HCC with intrahepatic metastasis**
+- Evaluating IDH1/2 mutations
+
+*Explanation: WGS analysis has been applied to successfully discern multicentric HCC from HCC with intrahepatic metastasis, a distinction important in determining patient eligibility for surgical resection.*
+
+---
+
+**13. How many total mutational signatures have been identified across cancers?**
+
+- 42
+- 57
+- **81**
+- 100
+
+*Explanation: In total, 81 mutational signatures have been identified, although the causative mutagenic process is only known for some of these signatures.*
+
+---
+
+**14. Which mutational signature has been found to be enriched specifically in HCC?**
+
+- APOBEC-associated signature
+- Nucleotide excision repair deficiency
+- **Aflatoxin-associated signature**
+- 5-methylcytosine deamination
+
+*Explanation: Examples of mutation signatures enriched in specific HB cancers include an aflatoxin-associated signature in HCC and an APOBEC-associated signature in eCCA and GBC.*
+
+---
+
+**15. Which mutational signature has been found enriched in eCCA and GBC?**
+
+- Aflatoxin-associated
+- Aging
+- **APOBEC-associated**
+- Transcription-coupled damage
+
+*Explanation: An APOBEC-associated signature has been found to be enriched specifically in eCCA and GBC.*
+
+---
+
+**16. A liver cancer–specific mutational signature has been identified, associating with which combination of features?**
+
+- Hepatitis B, hepatitis C, and aging
+- Nucleotide excision repair deficiency and APOBEC activity
+- **Alcohol exposure, transcription-coupled damage, and beta-catenin (CTNNB1) mutations**
+- Aflatoxin exposure and TP53 mutations
+
+*Explanation: A liver cancer–specific signature has been identified, associating with alcohol exposure, transcription-coupled damage, and beta-catenin (CTNNB1) mutations.*
+
+---
+
+**17. Which oncogene undergoes recurrent amplification in both HCC and CCA?**
+
+- MYC
+- TERT
+- **Cyclin D1 (CCND1)**
+- KRAS
+
+*Explanation: Recurrent amplification of oncogenes has been reported, including cyclin D1 (CCND1) and MYC in HCC, and CCND1 (11q13.3) in CCA.*
+
+---
+
+**18. In approximately what percentage of HCC patients does TERT amplification occur?**
+
+- 1%
+- 5%
+- **10%**
+- 25%
+
+*Explanation: Telomerase reverse transcriptase (TERT) amplification occurs in approximately 10% of HCC patients.*
+
+---
+
+**19. Which tumor suppressor gene most commonly undergoes copy number loss in both HCC and CCA?**
+
+- TP53
+- ARID1A
+- BAP1
+- **CDKN2A**
+
+*Explanation: Tumor suppressor genes frequently undergo copy number loss, most commonly in cyclin dependent kinase inhibitor 2A (CDKN2A) in HCC and CCA.*
+
+---
+
+**20. In iCCA, which type of correlation was observed between mutation class (M-class) and structural copy number class (C-class)?**
+
+- Positive correlation
+- No correlation
+- **Inverse correlation**
+- Bidirectional correlation
+
+*Explanation: An inverse correlation between mutation (M-class) and structural copy number (C-class) was observed in iCCA, indicative of different perturbation mechanisms driving the same disease phenotype.*
+
+---
+
+**21. What is chromothripsis?**
+
+- A mechanism of epigenetic silencing
+- A type of point mutation accumulation
+- **Localized catastrophic shattering of a chromosomal arm followed by random re-ligation**
+- A form of viral integration causing insertional mutagenesis
+
+*Explanation: Chromothripsis involves the localized catastrophic shattering of a chromosomal arm followed by random re-ligation of the sections by the endogenous DNA damage and replication system.*
+
+---
+
+**22. What are the current criteria for calling chromothripsis?**
+
+- More than 10 rearrangements and more than 5 translocations on a single arm
+- More than 20 rearrangements and more than 5 translocations on a single arm
+- **More than 30 rearrangements and more than 10 translocations on a single arm**
+- More than 50 rearrangements and more than 20 translocations on a single arm
+
+*Explanation: Current criteria for chromothripsis invoke more than 30 rearrangements and more than 10 translocations on a single arm.*
+
+---
+
+**23. What percentage of cancer genomes are estimated to harbor chromothripsis events?**
+
+- Less than 1%
+- **2%–3%**
+- 6%–8%
+- 10%–15%
+
+*Explanation: Although chromothripsis is estimated to occur in 2% to 3% of cancer genomes, a WGS study of 88 HCC specimens detected enrichment of these events in 6% of tumors.*
+
+---
+
+**24. In a WGS study of 88 HCC specimens, what percentage of tumors showed enrichment of chromothripsis events?**
+
+- 2%–3%
+- **6%**
+- 10%
+- 15%
+
+*Explanation: A WGS study of 88 HCC specimens detected enrichment of chromothripsis events in 6% of tumors.*
+
+---
+
+**25. Which chromosome arms were specifically affected by chromothripsis in HCC?**
+
+- 2p, 3q, and 7p
+- 5q, 10p, and 12q
+- **1q, 8q, and 5p**
+- 4p, 6q, and 9p
+
+*Explanation: In HCC, chromothripsis was found to affect chromosome arms 1q, 8q, and 5p.*
+
+---
+
+**26. Chromothripsis in biliary tumors is linked particularly to which genomic event?**
+
+- KRAS mutations
+- IDH1/2 mutations
+- **Whole-genome duplications**
+- FGFR2 fusions
+
+*Explanation: Biliary tumors have been reported to exhibit chromothripsis, linked in particular to whole-genome duplications.*
+
+---
+
+**27. According to statistical modeling, how many driver gene mutations are sufficient to induce advanced cancer?**
+
+- One
+- Two
+- **Three**
+- Five
+
+*Explanation: Statistical modeling predicts that three driver gene mutations are sufficient to induce advanced cancer.*
+
+---
+
+**28. Pan-cancer analysis suggests that cancer genomes contain how many driver mutations on average, and what percentage are clinically actionable?**
+
+- Two to three mutations; 40% actionable
+- **Four to five mutations; 57% actionable**
+- Six to seven mutations; 70% actionable
+- Eight to ten mutations; 80% actionable
+
+*Explanation: Pan-cancer analysis of tumors suggests that cancer genomes contain four to five mutations on average, 57% of which are clinically actionable.*
+
+---
+
+**29. KRAS mutations are detected in approximately what percentage of biliary tract cancers (BTCs)?**
+
+- 1%
+- **5%**
+- 10%
+- 20%
+
+*Explanation: Undruggable hotspot mutations in KRAS are detected in approximately 5% of biliary tract cancers (BTCs) and 1% of HCCs.*
+
+---
+
+**30. TP53 mutations arise in approximately what percentage of HCCs?**
+
+- 16%
+- **31%**
+- 40%
+- 50%
+
+*Explanation: Diverse mutations arise in the tumor suppressor gene TP53 in 31% of HCCs and 16% of BTCs.*
+
+---
+
+**31. IDH1/2 mutations and FGFR2 fusions exclusively occur in which type of biliary tract cancer?**
+
+- eCCA
+- GBC
+- pCCA
+- **iCCA**
+
+*Explanation: IDH1/2 mutations and FGFR2 fusions exclusively occur in iCCA, highlighting the anatomic specificity of molecular alterations in BTCs.*
+
+---
+
+**32. PRKACA and PRKACB fusions preferentially occur in which biliary cancer subtype?**
+
+- iCCA
+- GBC
+- **eCCA**
+- pCCA
+
+*Explanation: Protein kinase CAMP-activated catalytic subunit alpha (PRKACA) and beta (PRKACB) fusions preferentially occur in eCCA.*
+
+---
+
+**33. ERBB2/3 mutations preferentially occur in which hepatobiliary cancer?**
+
+- iCCA
+- eCCA
+- HCC
+- **GBC**
+
+*Explanation: erb-B2 receptor tyrosine kinase 2/3 (ERBB2/3) mutations preferentially occur in GBC.*
+
+---
+
+**34. What gene editing technology is suggested for functional validation of rare variant driver genes in HB cancers?**
+
+- TALEN
+- Zinc finger nucleases
+- RNA interference
+- **CRISPR**
+
+*Explanation: Successfully identifying rare driver-like variants will require careful functional validation using gene editing technologies, such as CRISPR.*
+
+---
+
+**35. Which two genes have been reported to show mutual exclusivity in iCCA?**
+
+- CTNNB1 and TERT
+- FGFR2 and KRAS
+- **IDH1 and TP53**
+- BAP1 and ARID1A
+
+*Explanation: Tendencies towards mutual exclusivity have been reported in HB cancers, such as between IDH1 and TP53 in iCCA.*
+
+---
+
+**36. Epigenome reprogramming in hepatobiliary cancers involves coordinated biochemical modification of which molecules?**
+
+- Only DNA
+- DNA and RNA only
+- **DNA, RNA, and proteins**
+- RNA and proteins only
+
+*Explanation: Epigenome reprogramming involves coordinated biochemical modification of DNA, RNA, and proteins, triggering alterations in gene expression programs that are entirely reversible, unlike mutations.*
+
+---
+
+**37. Which of the following epigenetic genes is recurrently mutated in HB cancers and has a tumor suppressor-like role?**
+
+- DNMT1
+- UHRF1
+- **ARID1A**
+- TERT
+
+*Explanation: Recurrent mutations in epigenetic genes in HB cancers include ARID1A, ARID2, BAP1, KMT2D, KMT2C, and PBRM1, with emerging evidence supporting a tumor suppressor-like role for ARID1A and BAP1.*
+
+---
+
+**38. What epigenetic modification is described as the best characterized in HB cancers?**
+
+- Histone acetylation
+- miRNA-mediated silencing
+- Chromatin remodeling
+- **DNA methylation (5-methylcytosine)**
+
+*Explanation: DNA methylation, the addition of a methyl group to cytosine to generate 5'-methylcytosine (5mC), is by far the best characterized epigenetic modification in HB cancers.*
+
+---
+
+**39. Unlike most cancers where global loss of 5mC is a hallmark, which HB cancer retains 5mC levels comparable to normal cells?**
+
+- HCC
+- GBC
+- **CCA**
+- iCCA only
+
+*Explanation: Global loss of 5mC is a hallmark of cancers, including HCC. CCA appears to be the exception to the rule and retains 5mC levels comparable to normal cells.*
+
+---
+
+**40. IDH1/2 mutations are prevalent in approximately what percentage of iCCAs?**
+
+- 1%–5%
+- **10%–25%**
+- 30%–40%
+- 50%–60%
+
+*Explanation: IDH1 and IDH2 mutations are prevalent in approximately 10% to 25% of iCCAs and 1% of HCCs.*
+
+---
+
+**41. What oncometabolite is produced as a result of IDH mutations?**
+
+- Alpha-ketoglutarate (α-KG)
+- Succinate
+- **2-hydroxyglutarate (2-HG)**
+- Fumarate
+
+*Explanation: IDH mutations result in production of the oncometabolite, 2-hydroxyglutarate (2-HG), in place of alpha-ketoglutarate (α-KG).*
+
+---
+
+**42. How does 2-hydroxyglutarate (2-HG) production lead to DNA hypermethylation?**
+
+- It activates DNMT1 directly
+- It inhibits histone deacetylases
+- **It compromises TET demethylase activity by competing with α-KG as a cofactor**
+- It induces UHRF1 overexpression
+
+*Explanation: α-KG is required as a cofactor by TET demethylases; 2-HG production compromises DNA demethylation by competing for this role, leading to DNA hypermethylation.*
+
+---
+
+**43. In the phase III ClarIDHy trial, what was the median progression-free survival in the placebo group versus the ivosidenib-treated group?**
+
+- 2.0 months vs 4.5 months
+- 1.0 month vs 3.5 months
+- **1.4 months vs 2.7 months**
+- 2.5 months vs 5.0 months
+
+*Explanation: The ClarIDHy trial found treatment with ivosidenib to significantly increase progression-free survival from a median of 1.4 months (placebo group) to 2.7 months.*
+
+---
+
+**44. Which developmental pathways are primarily targeted by aberrant DNA methylation in HB tumors?**
+
+- MAPK, PI3K, and mTOR
+- **HOX, WNT, and SOX17 signaling**
+- TGF-β, Notch, and Hedgehog
+- JAK-STAT, NF-κB, and VEGF
+
+*Explanation: In general, aberrant DNA methylation primarily targets developmental pathways, reactivating HOX, WNT, and SOX17 signaling.*
+
+---
+
+**45. UHRF1 overexpression in a subset of aggressive HCC leads to which epigenetic consequence?**
+
+- DNA hypermethylation through DNMT3a activation
+- Histone hyperacetylation
+- **DNMT1 destabilization and DNA hypomethylation**
+- Chromatin compaction and gene silencing
+
+*Explanation: UHRF1 is overexpressed in a subset of aggressive HCC, causing DNA methyltransferase 1 (DNMT1) destabilization and DNA hypomethylation.*
+
+---
+
+**46. What size are micro-RNAs (miRs) approximately?**
+
+- 10 nucleotides
+- 15 nucleotides
+- **22 nucleotides**
+- 30 nucleotides
+
+*Explanation: miRs are approximately 22 nucleotide noncoding transcripts that bind to their target mRNA(s), causing sequestration and degradation.*
+
+---
+
+**47. miR-21 has been shown to mediate resistance in CCA to which class of drugs?**
+
+- Platinum agents
+- Topoisomerase inhibitors
+- **Heat shock protein inhibitors**
+- mTOR inhibitors
+
+*Explanation: miR-21-mediated resistance of CCA to heat shock protein inhibitors occurs through regulation of DNAJB5 (dnak heat shock protein family member).*
+
+---
+
+**48. miR-1249 mediates resistance to gemcitabine and cisplatin in BTC through regulation of which cellular process?**
+
+- Apoptosis of CD44+ cells
+- **Clonal expansion of CD133+ BTC cells**
+- EMT of CD24+ cells
+- Autophagy in CD90+ cells
+
+*Explanation: miR-1249 mediates resistance to gemcitabine and cisplatin through regulation of the clonal expansion of CD133+ BTC cells.*
+
+---
+
+**49. In single gene mutation–based stratification of iCCA, which drug class showed hypersensitivity specifically in IDH-mutant tumors?**
+
+- Topoisomerase inhibitors
+- PLK1 inhibitors
+- mTOR inhibitors
+- **RNA synthesis inhibitors**
+
+*Explanation: In IDH-gr tumors, hypersensitivity to RNA synthesis inhibitors was demonstrated, whereas KRAS-gr was sensitive to topoisomerase inhibitors, TP53-gr to PLK1 inhibitors, and Udt-gr to mTOR inhibitors.*
+
+---
+
+**50. In iCCA, which molecular subtype showed therapeutic hypersensitivity to topoisomerase inhibitors?**
+
+- IDH-gr
+- TP53-gr
+- Udt-gr
+- **KRAS-gr**
+
+*Explanation: KRAS-gr iCCA tumors were hypersensitive to topoisomerase inhibitors in vitro, according to single gene mutation–based stratification.*
+
+---
+
+**51. DNA methylation-based approaches classify iCCA into how many subgroups?**
+
+- Two
+- Three
+- **Four**
+- Six
+
+*Explanation: DNA methylation-based approaches argue for iCCA stratification into four subgroups based on IDH1/2 status and DNA methylation profiles classified as low, intermediate, or high.*
+
+---
+
+**52. Which immune-based subclassification phenotypes have been suggested for iCCA?**
+
+- Hot, cold, intermediate, and mixed
+- **Lymphoid, myeloid, mesenchymal, and immune-desert**
+- T cell-rich, B cell-rich, NK-rich, and macrophage-rich
+- Exhausted, activated, naïve, and regulatory
+
+*Explanation: An immune-based subclassification approach for iCCA stratifies tumors into lymphoid, myeloid, mesenchymal, and immune-desert phenotypes.*
+
+---
+
+**53. How many molecular subclasses of eCCA have recently been identified?**
+
+- Two
+- Three
+- **Four**
+- Six
+
+*Explanation: Four molecular subclasses of eCCA have recently been identified: a metabolic subclass, a proliferation subclass, a mesenchymal subclass, and an immune subclass.*
+
+---
+
+**54. Which signaling pathway is associated with the mesenchymal subclass of eCCA?**
+
+- MTOR signaling
+- Bile acid metabolism
+- Lymphocyte infiltration
+- **TGF-β signaling**
+
+*Explanation: The mesenchymal subclass of eCCA is associated with transforming growth factor-beta (TGF-β) signaling.*
+
+---
+
+**55. Molecular stratification of HCC is split into how many biological subtypes?**
+
+- Three
+- Four
+- Five
+- **Six**
+
+*Explanation: Molecular stratification of HCC can be split into six biological subtypes: AKT/mTOR, P53/cell cycle regulation, epigenetic modifiers, MAP kinase, oxidative stress, telomere maintenance, and Wnt/β-catenin.*
+
+---
+
+**56. In HCC, which two key driver genes show mutual inclusivity in molecular subtyping?**
+
+- IDH1 and FGFR2
+- TP53 and KRAS
+- **CTNNB1 and TERT**
+- BAP1 and ARID1A
+
+*Explanation: Significant mutual inclusivity of CTNNB1 and TERT, and exclusivity of CTNNB1 and TP53, of key drivers has been consistently highlighted in HCC subtyping.*
+
+---
+
+**57. Approximately what percentage of HCCs exhibit an inflammatory phenotype?**
+
+- 10%
+- 15%
+- 20%
+- **25%**
+
+*Explanation: Approximately 25% of HCCs exhibit an inflammatory phenotype, which was further stratified into adaptive T cell response and exhaustion subtypes.*
+
+---
+
+**58. The TIGER-LC consortium integrated which three analytical approaches to unveil cross-diagnostic tumor clusters?**
+
+- Proteomics, metabolomics, and epigenomics
+- Genomics, proteomics, and transcriptomics
+- **Genomics, transcriptomics, and metabolomics**
+- Epigenomics, transcriptomics, and metabolomics
+
+*Explanation: The TIGER-LC consortium integrated genomics, transcriptomics, and metabolomics, unveiling two clusters of tumors independent of classification as iCCA or HCC.*
+
+---
+
+**59. In the TIGER-LC consortium study, one tumor subtype was characterized by which set of features?**
+
+- Mitotic checkpoint anomalies and ECT2/PLK1 mutations
+- **Obesity, bile acid metabolism, and T cell infiltration**
+- IDH1/2 mutations and DNA hypermethylation
+- FGFR2 fusions and KRAS co-mutations
+
+*Explanation: One TIGER-LC subtype was associated with mitotic checkpoint anomalies and mutations in ECT2 and PLK1, while the other was characterized by obesity, bile acid metabolism, and T cell infiltration.*
+
+---
+
+**60. In 2020, the FDA approved pemigatinib as a second-line treatment for which specific patient population?**
+
+- IDH1 mutant advanced iCCA
+- TP53-mutant HCC
+- ERBB2-amplified GBC
+- **FGFR2 fusion-positive advanced iCCA**
+
+*Explanation: In 2020, the FDA approved pemigatinib as a second-line treatment for FGFR2 fusion-positive advanced iCCA, and ivosidenib for IDH1 mutant advanced iCCA, after successful phase III trials.*
+

@@ -1,0 +1,183 @@
+# 127A Minimally Invasive Techniques in HPB Surgery: Laparoscopic and Robotic: General Principles and Considerations
+
+Generated with Qwen.
+
+**1. Which surgical fields have traditionally used laparoscopic and robotic approaches more frequently than HPB surgery?**
+
+- Cardiac and thoracic surgery
+- **Urology, gynecology, and colorectal surgery**
+- Neurosurgery and orthopedic surgery
+- Vascular and plastic surgery
+
+*Explanation: "In urology, gynecology, and colorectal surgery, both laparoscopic and robotic approaches are frequently used for the most common procedures, while HPB surgery has traditionally lagged in application of minimally invasive techniques."*
+
+**2. What has been the main reason for slower uptake of minimally invasive techniques in HPB surgery?**
+
+- Lack of available equipment
+- **Complexity of many HPB resections**
+- Patient preference for open surgery
+- Higher costs of minimally invasive procedures
+
+*Explanation: "Because of the complexity of many HPB resections, uptake of minimally invasive techniques has been slower compared to other surgical fields."*
+
+**3. Over what time period has the growth of robotic and laparoscopic surgery begun to change HPB surgery?**
+
+- Past 5 years
+- **Past 10 years**
+- Past 15 years
+- Past 20 years
+
+*Explanation: "In the past 10 years, however, with the growth of robotic surgery and expansion of laparoscopic surgery, this is beginning to change in HPB surgery."*
+
+**4. What outcome improvement have randomized control trials demonstrated for some MIS HPB procedures?**
+
+- Reduced operative time
+- **Length of stay**
+- Lower conversion rates
+- Decreased anesthesia requirements
+
+*Explanation: "Randomized control trials have now demonstrated significant improvements in outcomes such as length of stay for some minimally invasive surgery (MIS) HPB procedures."*
+
+**5. What are the three general principles of MIS techniques for HPB surgery?**
+
+- Equipment selection, team coordination, postoperative care
+- **Appropriate selection of patients, training, and knowledge of anatomy**
+- Preoperative imaging, intraoperative monitoring, discharge planning
+- Surgical approach, anesthesia management, pain control
+
+*Explanation: "The general principles of MIS techniques for HPB surgery mirror and expand on those of open HPB surgery: appropriate selection of patients, training, and knowledge of anatomy."*
+
+**6. What is described as vital to successful outcomes for MIS HPB procedures?**
+
+- Advanced robotic equipment
+- **Appropriate selection of patients**
+- Extended operative time
+- Multiple surgical assistants
+
+*Explanation: "Appropriate selection of patients is vital to successful outcomes for MIS HPB procedures."*
+
+**7. For liver resections, what type of approach do published guidelines demonstrate for selecting patients for MIS?**
+
+- Random selection approach
+- **Stepwise approach**
+- Immediate complex case approach
+- Age-based approach
+
+*Explanation: "For liver resections there are several published guidelines that demonstrate a stepwise approach to selecting patients for MIS liver resection."*
+
+**8. Which liver segment is recommended for cases early in a surgeon's learning curve?**
+
+- Segment I
+- **Segment III**
+- Segment VII
+- Segment VIII
+
+*Explanation: "Cases early in a surgeon's learning curve can be in easily accessible segments of the liver (such as segment III) and later in a career can be highly complex areas (such as segment VII)."*
+
+**9. Which liver segment is considered highly complex and suitable for later in a surgeon's career?**
+
+- Segment II
+- Segment IV
+- **Segment VII**
+- Segment VI
+
+*Explanation: "Cases early in a surgeon's learning curve can be in easily accessible segments of the liver (such as segment III) and later in a career can be highly complex areas (such as segment VII)."*
+
+**10. How has MIS specific selection criteria altered the concept of major and minor liver resections?**
+
+- All MIS resections are considered minor
+- **Some smaller resections are more complex than larger resections**
+- Size always determines complexity in MIS
+- Major resections are not performed laparoscopically
+
+*Explanation: "Attention to selecting patients for MIS liver resections has altered the idea of major and minor liver resections for MIS cases, as some smaller resections (segment VII) are more complex than larger resections (left hepatectomy)."*
+
+**11. For starting an MIS pancreaticoduodenectomy program, what are ideal candidate characteristics?**
+
+- Small pancreas duct with vascular involvement
+- **Dilated pancreas duct and no vascular involvement**
+- Normal pancreas duct with vascular involvement
+- Any pancreas duct size regardless of vascular status
+
+*Explanation: "When starting an MIS pancreaticoduodenectomy program, for example, it is patients with a dilated pancreas duct and no vascular involvement who are ideal candidates."*
+
+**12. What is described as a major challenge in MIS HPB surgery training?**
+
+- **Steep learning curves**
+- Lack of interest from trainees
+- Insufficient equipment availability
+- Limited patient populations
+
+*Explanation: "Appropriate training is a major challenge because the learning curves for MIS HPB cases are often steep."*
+
+**13. Why do many training programs not have adequate volume for trainees to perform complex MIS HPB cases?**
+
+- Lack of qualified instructors
+- **Insufficient case volume**
+- Limited operating room time
+- Regulatory restrictions
+
+*Explanation: "For current trainees, many training programs do not have adequate volume for trainees to leave their training ready to perform complex MIS HPB cases."*
+
+**14. What should be the focus for training to give trainees an adequate foundation for MIS HPB surgery?**
+
+- Only robotic surgery techniques
+- **Foundations of HPB surgery and as much MIS training as possible**
+- Open surgery techniques exclusively
+- Simulation training only
+
+*Explanation: "Instead, the focus for training should be in the foundations of HPB surgery to build a comfort level with HPB surgery in general, and as much MIS training as possible."*
+
+**15. For surgeons already in practice, what are the two different learning curves mentioned?**
+
+- Junior to senior and senior to expert
+- **Open to MIS and laparoscopic to robotic**
+- Academic to private and private to academic
+- Urban to rural and rural to suburban
+
+*Explanation: "For surgeons already in practice, there are different learning curves: open to MIS and laparoscopic to robotic."*
+
+**16. What factors determine the learning curve for surgeons already in practice?**
+
+- Age and years of experience
+- **Surgeon's open surgery comfort level and volume of open and MIS cases**
+- Hospital size and location
+- Patient demographics
+
+*Explanation: "Each is different and depends on the surgeon's open surgery comfort level and volume of open and MIS cases."*
+
+**17. What was found in a trial of laparoscopic versus open pancreatoduodenectomy?**
+
+- Laparoscopic had shorter operative time
+- **Association between laparoscopic technique and more complication-related deaths**
+- Open technique had higher blood loss
+- No difference in any outcomes
+
+*Explanation: "This was evident in a trial of laparoscopic versus open pancreatoduodenectomy. There was an association between the laparoscopic technique and more complication-related deaths, along with no difference in time to functional recovery."*
+
+**18. What was the finding regarding time to functional recovery in the laparoscopic versus open pancreatoduodenectomy trial?**
+
+- Laparoscopic was significantly faster
+- Open was significantly faster
+- **No difference**
+- Not reported
+
+*Explanation: "There was an association between the laparoscopic technique and more complication-related deaths, along with no difference in time to functional recovery."*
+
+**19. What may play a role in addressing current and future training needs for MIS HPB surgery?**
+
+- Traditional apprenticeship models
+- **Advances in real-time and virtual simulation**
+- Extended residency programs
+- International fellowships
+
+*Explanation: "It is possible that advances in real-time and virtual simulation can play a role in addressing current and future training needs."*
+
+**20. Why is knowledge of anatomy even more vital in MIS approaches compared to open HPB procedures?**
+
+- **Less/no tactile feedback, inability to manually palpate structures, and alteration of normal visual cues**
+- Longer operative times required
+- More complex instrumentation
+- Higher patient risk profiles
+
+*Explanation: "Knowledge of anatomy, although important for open HPB procedures, is even more vital in MIS approaches, given less/no tactile feedback, inability to manually palpate structures, sometimes extreme patient positioning, and alteration of normal visual cues."*

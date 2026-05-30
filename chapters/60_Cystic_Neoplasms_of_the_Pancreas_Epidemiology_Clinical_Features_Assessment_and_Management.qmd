@@ -1,0 +1,891 @@
+# 60 Cystic Neoplasms of the Pancreas: Epidemiology, Clinical Features, Assessment, and Management
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+Generated with Claude. 
+
+**1. What is the estimated annual diagnosis rate of cystic lesions of the pancreas with increasing use of cross-sectional imaging?**
+
+- 0.5 cystic lesions per 100 individuals per year
+- 1.2 cystic lesions per 100 individuals per year
+- **2.6 cystic lesions per 100 individuals per year**
+- 4.8 cystic lesions per 100 individuals per year
+
+*Explanation: The chapter states that with increasing use of cross-sectional imaging, the diagnosis rate has increased to an estimated 2.6 cystic lesions per 100 individuals per year.*
+
+---
+
+**2. What percentage of individuals have pancreatic cysts detected by abdominal ultrasonography?**
+
+- **0.21%**
+- 1.5%
+- 2.6%
+- 5.3%
+
+*Explanation: Abdominal ultrasonography only detects pancreas cysts in 0.21% of tested individuals, making it the least sensitive of the common imaging modalities for this purpose.*
+
+---
+
+**3. What percentage of individuals have pancreatic cysts detected by computed tomography (CT)?**
+
+- 0.21%
+- **2.6%**
+- 13.5%
+- 49.1%
+
+*Explanation: CT can detect pancreas cysts in 2.6% of tested individuals, compared to 0.21% for ultrasonography and 2.4%–49.1% for MRI/MRCP.*
+
+---
+
+**4. What is the range of pancreatic cyst detection by MRI/MRCP?**
+
+- 0.5%–2.4%
+- 1.0%–10.5%
+- **2.4%–49.1%**
+- 5.0%–35.0%
+
+*Explanation: MRI/MRCP reveals pancreas cysts in 2.4% to 49.1% of tested individuals, making it a highly variable but potentially very sensitive modality.*
+
+---
+
+**5. In autopsy studies, what percentage of patients were found to have pancreatic cysts?**
+
+- 10%
+- 20%
+- 35%
+- **Up to 50%**
+
+*Explanation: In autopsy studies, pancreas cysts were detected in up to 50% of patients, highlighting how common these lesions are subclinically.*
+
+---
+
+**6. According to WHO classification, which of the following is a nonneoplastic cystic lesion of the pancreas?**
+
+- Serous cystadenoma
+- Mucinous cystic neoplasm
+- Solid pseudopapillary neoplasm
+- **Pseudocyst**
+
+*Explanation: Cystic lesions of the pancreas can be categorized as neoplastic (IPMNs, MCNs, SCAs, SPTs) or nonneoplastic (pseudocysts) based on WHO classification.*
+
+---
+
+
+
+**7. Which of the following cystic lesions of the pancreas is classified as mucin-producing?**
+
+- Serous cystadenoma
+- Solid pseudopapillary neoplasm
+- **Intraductal papillary mucinous neoplasm**
+- Lymphoepithelial cyst
+
+*Explanation: The neoplastic cysts can be further categorized as mucin-producing (IPMNs, MCNs) versus non-mucin-producing (SCAs, SPTs). Mucinous cysts are considered malignant precursor lesions.*
+
+---
+
+**8. What percentage of cystic lesions of the pancreas are cystic neoplasms?**
+
+- 2%–5%
+- **10%–15%**
+- 25%–30%
+- 40%–50%
+
+*Explanation: Cystic neoplasms make up approximately 10% to 15% of cystic lesions of the pancreas and are a heterogeneous group of lesions that range from benign to malignant.*
+
+---
+
+**9. In the MGH study of 851 resected pancreatic cystic neoplasms, what percentage of lesions were IPMNs, MCNs, and SCAs combined?**
+
+- 50%
+- 62%
+- **77%**
+- 90%
+
+*Explanation: In a study by the Massachusetts General Hospital of 851 resected pancreatic cystic neoplasms, IPMNs, MCNs, and SCAs made up 77% of all lesions.*
+
+---
+
+**10. Which of the following cystic neoplasms of the pancreas carries a negligible risk of invasive carcinoma?**
+
+- MCN
+- BD-IPMN
+- MD-IPMN
+- **SCA**
+
+*Explanation: SPTs and SCAs have a very low (negligible) risk for invasive carcinoma, in contrast to IPMNs and MCNs which harbor the risk of invasive carcinoma.*
+
+---
+
+**11. Serous cystadenomas (SCAs) were first characterized by whom and in what year?**
+
+- Frantz and Hamoudi in 1950
+- WHO committee in 1996
+- **Compagno and Oertel in 1978**
+- Brugge and colleagues in 2004
+
+*Explanation: SCAs were first characterized by Compagno and Oertel in 1978 as microcystic and glycogen rich. Their seminal article clearly distinguished SCAs from mucinous cysts.*
+
+---
+
+**12. What proportion of patients with SCAs are found incidentally?**
+
+- One quarter
+- One third
+- **Around half**
+- Three quarters
+
+*Explanation: Around half of patients with SCAs are found incidentally. In symptomatic patients, abdominal pain, palpable mass, and weight loss are the most common manifestations.*
+
+---
+
+**13. What is the pathognomonic radiologic feature of microcystic serous cystadenoma?**
+
+- Peripheral eggshell calcification
+- Mural nodularity
+- Grapelike clustering of cysts
+- **Stellate scar with or without calcification**
+
+*Explanation: The septa of microcystic SCAs may centrally coalesce into a characteristic "stellate scar" with or without calcification, which is pathognomonic for SCAs.*
+
+---
+
+**14. With which systemic disease are SCAs associated?**
+
+- Multiple endocrine neoplasia type 1
+- Peutz-Jeghers syndrome
+- **Von Hippel-Lindau (VHL) disease**
+- BRCA2 mutation syndrome
+
+*Explanation: SCAs can be associated with von Hippel-Lindau (VHL) disease. SCAs were reported in between 2.7% and 9.5% of patients with VHL disease.*
+
+---
+
+**15. At what age are SCAs typically diagnosed in patients with VHL disease compared to the general population?**
+
+- 15 years
+- **25 years**
+- 40 years
+- 55 years
+
+*Explanation: In patients with VHL disease, SCAs are generally diagnosed at a younger age (25 years) compared with the general population and have a benign course.*
+
+---
+
+**16. Approximately how many cases of serous cystadenocarcinoma have been reported in the literature?**
+
+- Fewer than 5
+- About 10
+- **About 30**
+- More than 100
+
+*Explanation: Serous cystadenocarcinoma is extremely uncommon and usually reported as case reports. Currently, about 30 cases of serous cystadenocarcinoma have been reported in the literature.*
+
+---
+
+**17. In a multinational study of 2622 patients with SCAs, what percentage were diagnosed with serous cystadenocarcinoma?**
+
+- 5%
+- 2%
+- 0.5%
+- **0.1%**
+
+*Explanation: In a multinational study from 23 countries including 2622 patients with SCAs, 61% underwent surgical resection with only 0.1% of patients diagnosed with serous cystadenocarcinoma.*
+
+---
+
+**18. Which factors were associated with the risk of invasive carcinoma in SCAs?**
+
+- Young age, male gender, and small cyst size
+- **Female gender, older age at detection, and larger cyst size (>10 cm)**
+- Location in the pancreatic head and ductal dilation
+- Presence of mural nodules and elevated CA19-9
+
+*Explanation: Several factors such as female gender, older age of patients when first detected, and larger cyst size (>10 cm) were associated with the risk of invasive carcinoma in SCAs.*
+
+---
+
+**19. What is the pathognomonic histologic feature of mucinous cystic neoplasms (MCNs)?**
+
+- Mucin-rich cyst fluid
+- Communication with the pancreatic duct
+- **Ovarian-like stroma surrounding the columnar epithelium**
+- Central stellate scar
+
+*Explanation: An ovarian-like stroma surrounding the columnar epithelium is considered a pathognomonic finding in MCNs and is the presumed reason that MCNs are almost exclusively found in females.*
+
+---
+
+**20. MCNs were classified separately from IPMNs by WHO since which year?**
+
+- 1978
+- 1990
+- **1996**
+- 2002
+
+*Explanation: MCNs have been classified separately from IPMNs by WHO since 1996. Pancreatic MCNs are most commonly found in the body and tail and can range in size from small (2 cm) to large (25 cm).*
+
+---
+
+**21. Where are pancreatic MCNs most commonly located?**
+
+- Head of the pancreas
+- Uncinate process
+- **Body and tail of the pancreas**
+- Throughout the entire gland
+
+*Explanation: Pancreatic MCNs are most commonly found in the body and tail and can range in size from small (2 cm) to large (25 cm).*
+
+---
+
+**22. Which imaging feature of MCN is best demonstrated on the noncontrast phase of CT?**
+
+- Mural nodule
+- Honeycomb appearance
+- Ductal communication
+- **Peripheral "eggshell" calcifications**
+
+*Explanation: MCN lesions may have peripheral "eggshell" calcifications that are best demonstrated on the noncontrast phase of CT imaging.*
+
+---
+
+**23. What is the reported range of invasive carcinoma in MCNs?**
+
+- 1%–5%
+- **10%–50%**
+- 55%–65%
+- 70%–90%
+
+*Explanation: In MCNs, rates of invasive disease range from 10% to 50%, which may be an underestimate because both benign and malignant epithelium may coexist within the same cyst.*
+
+---
+
+**24. In a multicenter US analysis, what was the overall rate of invasive carcinoma reported in MCN lesions?**
+
+- 5%
+- **Up to 15%**
+- 30%
+- 50%
+
+*Explanation: In a multicenter analysis of data from eight academic centers in the United States, the overall rate of invasive carcinoma in MCN lesions was reported up to 15%.*
+
+---
+
+**25. Which of the following is NOT a factor associated with invasive carcinoma in MCNs?**
+
+- Male gender
+- Pancreatic head and neck location
+- Mural nodules
+- **Location in the body and tail**
+
+*Explanation: Factors associated with the risk of invasive carcinoma in MCNs were male gender, pancreatic head and neck location, larger MCN, mural nodules, and duct dilation — not body/tail location.*
+
+---
+
+**26. What is the reported 5-year disease-specific survival for patients with MCN with invasive carcinoma?**
+
+- 20%–30%
+- 40%–45%
+- **57%–64%**
+- 75%–80%
+
+*Explanation: The 5-year disease-specific survival for patients with MCN with invasive carcinoma was estimated between 57% and 64%.*
+
+---
+
+**27. When was IPMN first classified into a unified diagnosis by WHO?**
+
+- 1978
+- 1990
+- **1996**
+- 2004
+
+*Explanation: IPMN is a recently described entity and was first classified into a unified diagnosis by WHO in 1996, driven by the increasing use of high-quality cross-sectional imaging.*
+
+---
+
+**28. Among cystic neoplasms diagnosed in large series, what percentage do IPMNs represent?**
+
+- 5%–10%
+- **15%–30%**
+- 35%–45%
+- 50%–60%
+
+*Explanation: Among cystic neoplasms diagnosed in large series, IPMNs represent approximately 15% to 30% of all lesions.*
+
+---
+
+**29. Which of the following best defines main-duct IPMN (MD-IPMN)?**
+
+- A cyst communicating with the main duct without ductal dilation
+- A cyst with mural nodules and elevated CEA
+- **Diffuse or segmental dilatation of the main pancreatic duct (>5 mm) without other reasons for obstruction**
+- Branch duct dilation associated with mucin production
+
+*Explanation: MD-IPMN is characterized by diffuse or segmental dilatation of the main pancreatic duct (>5 mm) without other reasons for obstruction.*
+
+---
+
+**30. How is mixed-type IPMN defined?**
+
+- Branch duct dilation alone without main duct involvement
+- Main duct dilation alone without branch duct cysts
+- **Branch-duct dilation associated with main duct dilation (main pancreatic duct >5 mm)**
+- Any IPMN with high-grade dysplasia
+
+*Explanation: IPMN is classified as mixed-IPMN when branch-duct dilation is associated with main-duct dilation (main pancreatic duct >5 mm).*
+
+---
+
+**31. What percentage of MD-IPMNs are reported to be malignant (high-grade dysplasia and invasive cancer)?**
+
+- 20%
+- 40%
+- **Up to 60%**
+- 80%
+
+*Explanation: As many as 60% of MD-IPMNs are malignant (high-grade dysplasia and invasive cancer), and as many as 45% have invasive adenocarcinoma, forming the basis for recommending resection.*
+
+---
+
+**32. What percentage of patients who undergo resection for BD-IPMN have invasive carcinoma or high-grade dysplasia?**
+
+- 1%–5%
+- 5%–10%
+- **12%–30%**
+- 40%–60%
+
+*Explanation: Invasive carcinoma or high-grade dysplasia is reported in 12% to 30% of patients who undergo resection for BD-IPMN.*
+
+---
+
+**33. Which morphologic subtype of IPMN presents in the 2nd to 3rd decade of life predominantly in young women?**
+
+- MD-IPMN
+- BD-IPMN
+- MCN
+- **SPT**
+
+*Explanation: According to Table 60.1, SPTs present in the 2nd to 3rd decade of life with a female predominance, in contrast to IPMNs and MCNs which present in the 4th to 7th decades.*
+
+---
+
+**34. Which histologic subtype of IPMN has arborizing papillae with cells containing enlarged round nuclei and eosinophilic cytoplasm due to an abundance of mitochondria?**
+
+- Gastric type
+- Intestinal type
+- Pancreatobiliary type
+- **Oncocytic type**
+
+*Explanation: The oncocytic-type IPMN has arborizing papillae consisting of cells with enlarged round nuclei and eosinophilic cytoplasm secondary to an abundance of mitochondria.*
+
+---
+
+**35. Based on the Baltimore consensus revised classification, IPMNs are graded into which of the following categories?**
+
+- Mild, moderate, and severe dysplasia
+- Grade 1, Grade 2, and Grade 3
+- **Low-grade dysplasia, high-grade dysplasia, and invasive carcinoma**
+- Benign, borderline, and malignant
+
+*Explanation: IPMNs were graded based on the revised classification system and recommendations from the Baltimore consensus into low-grade dysplasia, high-grade dysplasia, or invasive carcinoma.*
+
+---
+
+**36. In a recent Japanese series of 1404 patients with BD-IPMN, what was the incidence rate of invasive carcinoma at 15 years?**
+
+- 3.3%
+- 6.6%
+- **15.0%**
+- 25.0%
+
+*Explanation: In a recent Japanese series of 1404 patients with BD-IPMN, the overall incidence rate of invasive carcinoma was 3.3%, 6.6%, and 15.0% at 5, 10, and 15 years, respectively.*
+
+---
+
+**37. Patients with IPMN are at an increased risk for developing conventional pancreatic ductal adenocarcinoma (PDAC) elsewhere in the pancreas at what rate?**
+
+- Less than 0.5%
+- **Between 1% and 8%**
+- Between 10% and 15%
+- Between 20% and 25%
+
+*Explanation: Patients with IPMN are at an increased risk for developing conventional pancreatic ductal adenocarcinoma (between 1% and 8%) elsewhere in the pancreas.*
+
+---
+
+**38. What is the reported 5-year survival for patients with invasive IPMN-associated cancer after resection?**
+
+- 15%–20%
+- 25%–35%
+- **43%–60%**
+- 70%–80%
+
+*Explanation: The reported outcome associated with invasive cancer in patients with IPMN (43%–60% 5-year survival) has been thought to be improved when compared with patients with ductal adenocarcinoma (15% 5-year survival) after resection.*
+
+---
+
+**39. Which variant of IPMN-associated cancer has the best prognosis?**
+
+- Tubular variant
+- Pancreatobiliary variant
+- **Colloid (intestinal) variant**
+- Gastric variant
+
+*Explanation: Patients with colloid-subtype invasive IPMN had significantly better survival than both matched patients with conventional pancreatic carcinoma and patients with invasive tubular IPMN.*
+
+---
+
+**40. In a pooled analysis of literature, tubular adenocarcinoma arising from IPMN had what hazard ratio (HR) for overall survival compared with colloid carcinoma?**
+
+- HR 0.5
+- HR 1.0
+- **HR 1.90**
+- HR 3.5
+
+*Explanation: In a pooled analysis of literature, tubular adenocarcinoma had a poor overall survival (HR 1.90) compared with colloid carcinoma and similar to the survival of pancreatic ductal adenocarcinoma.*
+
+---
+
+**41. SMAD4/DPC4 expression, which is inactivated in more than half of patients with pancreatic adenocarcinoma, is preserved in what percentage of noninvasive IPMNs?**
+
+- 25%
+- 50%
+- 75%
+- **Virtually all (nearly 100%)**
+
+*Explanation: SMAD4/DPC4 expression, which is inactivated in more than half of patients with pancreatic adenocarcinoma, is preserved in virtually all noninvasive IPMNs and is lost only in 10% of colloid cancers.*
+
+---
+
+**42. GNAS mutations have been described in what percentage of IPMN cases?**
+
+- 10%
+- 30%
+- **Up to 66%**
+- 85%
+
+*Explanation: GNAS mutations have been described in as many as 66% of IPMN cases. GNAS mutations were not found in other types of cystic neoplasms of the pancreas or in invasive adenocarcinomas not associated with IPMNs.*
+
+---
+
+**43. Which mutation is predominant in patients with colloid carcinoma arising from IPMN?**
+
+- KRAS
+- TP53
+- RNF43
+- **GNAS**
+
+*Explanation: GNAS mutations are the predominant mutation in patients with colloid carcinoma (KRAS uncommon), whereas KRAS mutations are much more common in tubular carcinoma (GNAS uncommon).*
+
+---
+
+**44. Which gene is mutated in SCAs but NOT in IPMNs, as shown by whole-exome sequencing?**
+
+- GNAS
+- RNF43
+- KRAS
+- **VHL**
+
+*Explanation: Whole-exome sequencing of pancreatic cysts showed IPMNs had alterations of RNF43, GNAS, or KRAS and never had VHL or CTNNB1 mutations, whereas VHL mutation is characteristic of SCAs.*
+
+---
+
+**45. Which imaging modality may be superior to CT for determining a connection between a pancreatic cyst and the main pancreatic duct?**
+
+- Abdominal ultrasonography
+- PET-CT
+- **MRCP**
+- Contrast-enhanced EUS
+
+*Explanation: MRCP can be used to define cyst morphology and may actually be better than CT for determining a connection with the pancreatic duct, presence of an enhancing mural nodule, or internal septations.*
+
+---
+
+**46. What is the reported complication rate for EUS-fine needle aspiration (FNA) of pancreatic cysts?**
+
+- Less than 0.5%
+- **2%–3%**
+- 5%–8%
+- 10%–15%
+
+*Explanation: EUS–fine-needle aspiration (FNA) is considered a low-risk procedure with a complication rate of 2% to 3%.*
+
+---
+
+**47. In the landmark study by Brugge and colleagues, what cyst fluid CEA level was the best predictor of a mucinous lesion?**
+
+- Greater than 50 ng/mL
+- Greater than 100 ng/mL
+- **Greater than 192 ng/mL**
+- Greater than 500 ng/mL
+
+*Explanation: In the landmark study by Brugge and colleagues, cyst fluid CEA greater than 192 ng/mL was the best predictor of a mucinous lesion, accurately defining these lesions in 79% of cases.*
+
+---
+
+**48. Cyst fluid CEA in combination with extracellular mucin has a positive predictive value for mucinous cysts of up to what percentage?**
+
+- 50%
+- 65%
+- 75%
+- **85%**
+
+*Explanation: An elevation of cyst fluid CEA in combination with the presence of extracellular mucin has been shown to have a positive predictive value as high as 85% in some series.*
+
+---
+
+**49. Which cystic lesion uniformly has undetectable levels of CEA in the cyst fluid?**
+
+- MCN
+- BD-IPMN
+- SPT
+- **SCA and pancreatic retention cysts**
+
+*Explanation: SCAs and pancreatic retention cysts uniformly have undetectable levels of CEA, making low or absent cyst fluid CEA a useful marker to suggest a nonmucinous cystic lesion.*
+
+---
+
+**50. What is the utility of low cyst fluid amylase levels in the assessment of pancreatic cysts?**
+
+- Confirms the diagnosis of IPMN
+- Predicts invasive carcinoma
+- **Helps exclude a pseudocyst**
+- Indicates malignant transformation
+
+*Explanation: Cyst fluid amylase is another cyst fluid protein marker; low amylase levels are useful to exclude a pseudocyst, but a high cyst fluid amylase level is not helpful because it may be found in multiple cyst types.*
+
+---
+
+**51. Which novel biomarker technique integrates clinical, imaging, and genetic mutation data to guide management of pancreatic cysts?**
+
+- EUS-FNA cytology
+- MRCP secretin enhancement
+- Confocal laser endomicroscopy
+- **CompCyst (machine-learning method)**
+
+*Explanation: CompCyst is a machine-learning method that integrates high-dimensional clinical (symptoms), imaging (solid component), and genetic mutations based on cyst fluid analysis to diagnose and determine the best course of action for patients with pancreatic cysts.*
+
+---
+
+**52. Which confocal laser endomicroscopy (CLE) pattern is highly specific for SCAs?**
+
+- Epithelial bands without papillary configuration
+- Finger-like papillae
+- **Superficial vascular network or "fern pattern"**
+- Granular echogenicity
+
+*Explanation: Each pancreatic cyst type has a specific CLE imaging pattern; superficial vascular network or "fern pattern" is highly specific for SCAs.*
+
+---
+
+**53. What is the characteristic CLE finding of MCNs?**
+
+- Finger-like papillae
+- Fern pattern vascular network
+- **Single or multiple layers of epithelium without papillary configuration (epithelial bands)**
+- Granular debris pattern
+
+*Explanation: MCN characteristic findings on CLE are single or multiple layers of epithelium without a papillary configuration (epithelial bands), whereas IPMN shows finger-like papillae.*
+
+---
+
+**54. According to the IAP 2017 guidelines, which growth rate of a pancreatic cyst warrants EUS evaluation?**
+
+- ≥1 mm over 2 years
+- ≥2 mm over 2 years
+- ≥3 mm over 2 years
+- **≥5 mm over 2 years**
+
+*Explanation: According to IAP 2017 indications for EUS evaluation, a growth rate of ≥5 mm over 2 years is one of the criteria that warrants endoscopic ultrasound evaluation of a pancreatic cyst.*
+
+---
+
+**55. According to IAP 2017, what main pancreatic duct diameter warrants EUS evaluation of a pancreatic cyst?**
+
+- 2–4 mm
+- **5–9 mm**
+- 10–14 mm
+- ≥15 mm
+
+*Explanation: According to IAP 2017 indications for EUS, MPD dilatation between 5 and 9 mm is one of the criteria indicating EUS evaluation.*
+
+---
+
+**56. For patients with SCA who are asymptomatic, what is the general management approach?**
+
+- Immediate surgical resection
+- Annual CT surveillance with surgical resection at 3 cm
+- Chemoprevention with gemcitabine
+- **Conservative follow-up with radiographic monitoring**
+
+*Explanation: Management of SCAs should mainly follow a conservative approach, following asymptomatic patients and monitoring for any progression in size and appearance or onset of symptoms.*
+
+---
+
+**57. In the Tseng and colleagues study of SCA, what was the median growth rate per year for all lesions?**
+
+- 0.1 cm/year
+- **0.6 cm/year**
+- 1.2 cm/year
+- 2.0 cm/year
+
+*Explanation: Tseng and colleagues radiographically followed 24 patients with SCA for a median time of 23 months. The authors reported a 0.6 cm per year median growth rate for these lesions.*
+
+---
+
+**58. In the Tseng study, what was the growth rate for SCAs ≥4 cm?**
+
+- 0.12 cm/year
+- 0.60 cm/year
+- **1.98 cm/year**
+- 3.5 cm/year
+
+*Explanation: Larger lesions (≥4 cm) had a higher growth rate (1.98 cm/yr) compared with lesions smaller than 4 cm (0.12 cm/yr) in the Tseng and colleagues study.*
+
+---
+
+**59. According to the 2012 IAP guidelines, what is the recommendation regarding resection of MCNs?**
+
+- Resect only MCNs ≥4 cm
+- Resect only MCNs with mural nodules
+- Resect only symptomatic MCNs
+- **Resect all MCNs regardless of size**
+
+*Explanation: The 2012 International Association of Pancreatology (IAP) guidelines recommend resection for all MCNs regardless of size.*
+
+---
+
+**60. According to the 2018 European guidelines, what is the threshold cyst size for recommending resection of MCNs?**
+
+- 2 cm
+- 3 cm
+- **4 cm**
+- 5 cm
+
+*Explanation: The European guidelines (2018) recommend resection for MCNs with cyst dimension 4 cm or larger, enhancing mural nodules, or symptoms related to the cyst.*
+
+---
+
+**61. According to a systematic review of 773 patients, what was the risk of progression after resection of MCN without invasive cancer?**
+
+- 1%–2%
+- 5%
+- 10%
+- **No risk of progression**
+
+*Explanation: A systematic review including 13 studies with 773 patients found no risk of progression after resection of MCN without invasive cancer, supporting the argument that lifelong follow-up is not required after MCN resection.*
+
+---
+
+**62. Unlike patients with resected IPMN, patients with surgically resected MCN with low-grade or high-grade dysplasia require what follow-up?**
+
+- Annual MRI for 5 years
+- Semi-annual CA19-9 measurement
+- **No surveillance required**
+- Yearly EUS evaluation
+
+*Explanation: Patients with surgically resected MCN with low-grade or high-grade dysplasia do not require surveillance. This is in contrast to patients with resected IPMN who require long-term, lifelong follow-up.*
+
+---
+
+**63. According to the European guidelines 2018, what main pancreatic duct diameter is an absolute indication for surgical resection in MD-IPMN?**
+
+- ≥5 mm
+- ≥7 mm
+- **≥10 mm**
+- ≥15 mm
+
+*Explanation: The European guidelines in 2018 defined main pancreatic duct dilation of 10 mm or greater as an absolute indication for surgical resection and 5 to 9 mm diameter as a relative indication for surgical resection.*
+
+---
+
+**64. According to the IAP 2017 guidelines, MD-IPMN with a main pancreatic duct of 5–9 mm is classified as what?**
+
+- Absolute indication for surgery
+- High-risk stigma
+- **Worrisome feature**
+- Low-risk finding requiring no further evaluation
+
+*Explanation: According to IAP 2017, the main pancreatic duct 5 to 9 mm is considered "worrisome features" with no recommendation for immediate surgical resection, but EUS evaluation is recommended.*
+
+---
+
+**65. When performing partial pancreatectomy for IPMN, what should be performed at the margin intraoperatively?**
+
+- Permanent section for p53 immunostaining
+- CEA measurement of the duct
+- **Frozen-section evaluation focused on high-grade dysplasia or invasive cancer**
+- GNAS mutation analysis
+
+*Explanation: When performing partial pancreatectomy for IPMN, intraoperative frozen-section evaluation focused on the identification of high-grade dysplasia or an occult invasive cancer at the margin should be performed.*
+
+---
+
+**66. When low-grade dysplasia is present at the resection margin in IPMN, what does the 2017 IAP recommend?**
+
+- Total pancreatectomy
+- Repeat resection to achieve clear margins
+- Radiation therapy
+- **No further resection is required**
+
+*Explanation: The 2017 IAP guidelines recommend that when low-grade dysplasia is present at the margin, no further resection is required because the risk of progression to cancer and local progression are minimal.*
+
+---
+
+**67. What is a significant limitation of intraoperative frozen section during IPMN resection?**
+
+- It cannot detect low-grade dysplasia
+- It requires a 30-minute processing time
+- It is associated with a high false-positive rate
+- **It cannot capture discontinuous lesions ("skipped lesions") of the main pancreatic duct**
+
+*Explanation: It should be noted that frozen section is not able to capture discontinuous lesions ("skipped lesions") of the main pancreatic duct, which is an important limitation when planning extent of resection.*
+
+---
+
+**68. In a study of 329 patients who underwent total pancreatectomy at Johns Hopkins and University of Verona, what was the operative morbidity rate?**
+
+- 20.5%
+- 35.2%
+- 47.3%
+- **59.3%**
+
+*Explanation: In a study of 329 patients who underwent total pancreatectomy in two high-volume centers between 2000 and 2014, the operative morbidity was 59.3% and 30-day operative mortality rate was 2.1%.*
+
+---
+
+**69. What was the 30-day operative mortality rate in the Johns Hopkins/University of Verona total pancreatectomy study?**
+
+- 0.5%
+- **2.1%**
+- 5.8%
+- 10.2%
+
+*Explanation: In the study of 329 patients who underwent total pancreatectomy in two high-volume centers between 2000 and 2014, the 30-day operative mortality rate was 2.1%.*
+
+---
+
+**70. According to the 2018 European guidelines, what is the follow-up recommendation after resection of IPMN with high-grade dysplasia or main duct involvement?**
+
+- Yearly surveillance indefinitely
+- **Every 6 months for the first 2 years, followed by yearly surveillance**
+- Every 3 months for 5 years then yearly
+- No surveillance required
+
+*Explanation: The 2018 European guidelines recommend follow-up every 6 months for the first 2 years, followed by yearly surveillance, for IPMNs with high-grade dysplasia or main duct involvement after pancreatectomy.*
+
+---
+
+**71. According to IAP 2017, which patients with resected IPMN require follow-up at least twice a year?**
+
+- All resected IPMN patients
+- Patients with BD-IPMN only
+- Patients with invasive IPMN
+- **Patients with a family history of pancreatic cancer or resection margin with high-grade dysplasia or a resected IPMN of the nonintestinal subtype**
+
+*Explanation: IAP 2017 guidelines recommend follow-up at least twice a year in patients with a family history of pancreatic cancer, a surgical resection margin with high-grade dysplasia, or a resected IPMN of the nonintestinal subtype.*
+
+---
+
+**72. In the IAP 2017 guidelines, which of the following is a "high-risk stigma" warranting resection of BD-IPMN without further testing?**
+
+- Cyst size ≥3 cm
+- Growth rate >5 mm/2 years
+- Main pancreatic duct 5–9 mm
+- **Enhancing mural nodule ≥5 mm**
+
+*Explanation: According to IAP 2017, patients with "high-risk stigmata" — including obstructive jaundice, enhancing mural nodule ≥5 mm, and main pancreatic duct ≥10 mm — should undergo resection without further testing.*
+
+---
+
+**73. According to the IAP 2017, a multicentric study found that patients with IPMN and "high-risk stigma" had what risk of IPMN-related death?**
+
+- 5%
+- 15%
+- 25%
+- **40%**
+
+*Explanation: The presence of "high-risk stigma" was associated with a 40% risk of IPMN-related death, indicating the policy of surgical resection in patients with "high-risk stigma."*
+
+---
+
+**74. What was the 5-year disease-specific survival in patients with IPMNs who had only "worrisome features" (no high-risk stigmata) managed conservatively?**
+
+- 70%
+- 80%
+- 90%
+- **96%**
+
+*Explanation: Patients with IPMNs who had "worrisome features" had a 5-year disease-specific survival of 96%, suggesting that conservative management is appropriate in these patients.*
+
+---
+
+**75. Solid pseudopapillary tumors (SPTs) are also known by which eponymous names?**
+
+- Compagno and Oertel tumors
+- **Frantz or Hamoudi tumors**
+- Brugge and Wolfgang tumors
+- Poultsides and Park tumors
+
+*Explanation: SPTs are also known as Frantz or Hamoudi tumors after the pathologists who first described this unique entity in the 1950s.*
+
+---
+
+**76. SPTs account for what percentage of resected pancreatic neoplasms?**
+
+- Less than 0.5%
+- **Up to 2.5%**
+- 5%–10%
+- 15%–20%
+
+*Explanation: SPTs are rare tumors that account for as many as 2.5% of resected pancreatic neoplasms. They are predominately found in young women and are often discovered when patients experience symptoms.*
+
+---
+
+**77. In a review of 2744 SPT patients from the English literature, what was the mean age at presentation?**
+
+- 15 years
+- **29 years**
+- 45 years
+- 55 years
+
+*Explanation: In a review of SPTs describing the clinicopathologic factors of 2744 patients, the female to male ratio was 9:1, and the mean age was 29 years.*
+
+---
+
+**78. What was the mean tumor size in the SPT review of 2744 patients?**
+
+- 3.2 cm
+- 5.4 cm
+- **8.6 cm**
+- 12.3 cm
+
+*Explanation: Tumors were often large, and the mean tumor size was 8.6 cm in the review of 2744 SPT patients. The most common location was the tail and body pancreas (59.3%).*
+
+---
+
+**79. In SPTs, which of the following molecular pathways is activated according to a 1686-gene analysis?**
+
+- PI3K/Akt/mTOR pathway only
+- RAS/MAPK signaling pathway
+- **Wnt/β-catenin, Hedgehog, and androgen receptor signaling pathways**
+- TGF-β and SMAD signaling pathway
+
+*Explanation: Park et al. demonstrated that the Wnt/β-catenin, Hedgehog, and androgen receptor signaling pathways, as well as genes involved in epithelial mesenchymal transition, are activated in SPTs.*
+
+---
+
+**80. In a meta-analysis of literature between 2002 and 2017, what was the estimated progression rate after initial surgery in patients with nonmetastatic SPTs?**
+
+- 0.5%
+- 1.0%
+- **2.6%**
+- 5.0%
+
+*Explanation: In a meta-analysis of literature between 2002 and 2017, the progression rate after initial surgery in patients with nonmetastatic SPTs was estimated around 2.6%. Male gender, positive lymph nodes, positive margin, and lymphovascular invasion were associated with progression.*

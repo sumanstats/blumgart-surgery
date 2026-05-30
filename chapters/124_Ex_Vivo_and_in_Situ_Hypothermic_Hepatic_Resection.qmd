@@ -1,0 +1,1234 @@
+# 124 Ex Vivo and in Situ Hypothermic Hepatic Resection
+
+
+Created with Claude.
+
+## Section 1: Background, History, and Overview
+
+1. Who were the first to describe the use of hypothermic perfusion during liver resection to protect the liver from ischemic injury?
+* Pichlmayr and associates (1988)
+* Hannoun et al. (1993)
+* **Fortner and colleagues (1974)**
+* Azoulay and colleagues (2005)
+
+*Explanation: Fortner and colleagues in 1974 were the first to describe the use of hypothermic perfusion during liver resection, using it to protect the liver from ischemic injury in a series of 29 patients.*
+
+2. Which landmark development significantly improved surgeons' familiarity with vascular and biliary reconstruction techniques applicable to complex liver surgery?
+* Portal vein embolization
+* **Living-donor liver transplantation (LDLT)**
+* Radiofrequency ablation
+* Laparoscopic hepatectomy
+
+*Explanation: The development of living-donor liver transplantation (LDLT) led to comfort and familiarity with vascular and biliary reconstruction techniques that are now applicable to complex, nontransplant liver surgery.*
+
+3. Why did hypothermic perfusion become largely unnecessary in most liver resections over the decades following its introduction?
+* Introduction of robotic surgery
+* **Better understanding of the liver's ability to tolerate normothermic ischemia and improved surgical techniques**
+* Development of biological preservation solutions
+* Routine use of veno-venous bypass
+
+*Explanation: Technical improvements in liver surgery combined with a growing understanding of the liver's ability to tolerate normothermic ischemia made the use of hypothermic perfusion unnecessary in most cases.*
+
+4. What was the primary reason Pichlmayr and associates (1988) developed hypothermic perfusion with ex vivo liver resection?
+* To reduce operative time in routine hepatectomies
+* To address patients requiring liver transplantation
+* **To address patients with unresectable tumors who were considered inappropriate for liver transplantation**
+* To improve outcomes in cirrhotic patients
+
+*Explanation: In response to patients with unresectable tumors who were considered inappropriate for liver transplantation, Pichlmayr and associates (1988) developed hypothermic perfusion with ex vivo liver resection.*
+
+5. How many techniques for hypothermic liver perfusion and resection are described in Chapter 124?
+* Two
+* **Three**
+* Four
+* Five
+
+*Explanation: The chapter describes three techniques: in situ hypothermic liver perfusion, ante situm hypothermic liver perfusion, and ex vivo liver resection.*
+
+6. What is the principal difficulty of vascular reconstruction during hepatic resection?
+* Risk of air embolism
+* Risk of bile leak
+* **The necessary period of hepatic ischemia**
+* Inadequate visualization
+
+*Explanation: The principal difficulty of vascular reconstruction during hepatic resection is the necessary period of hepatic ischemia, although the liver can tolerate moderate periods of ischemia surprisingly well.*
+
+7. What technique combines hepatic inflow occlusion with low central venous pressure (CVP) to achieve a relatively bloodless liver transection?
+* Total vascular exclusion
+* Ex vivo resection
+* Ante situm perfusion
+* **Pringle maneuver (inflow occlusion) with low CVP**
+
+*Explanation: During standard liver resections, hepatic inflow occlusion (Pringle maneuver) combined with low CVP can result in a relatively bloodless transection of the liver.*
+
+8. How is ischemic preconditioning performed during liver surgery?
+* Portal vein embolization 2–4 weeks prior to surgery
+* Continuous inflow occlusion for 30 minutes followed by reperfusion
+* **Pringle maneuver for 10 minutes, reperfusion for at least 10 minutes, then reapplication of inflow occlusion**
+* Application of topical ice to the liver surface
+
+*Explanation: Ischemic preconditioning is performed by applying a Pringle maneuver for 10 minutes, then reperfusing the liver for at least 10 minutes before reapplying inflow occlusion.*
+
+9. How long can a normal liver tolerate continuous inflow occlusion and warm ischemia?
+* Up to 20 minutes
+* Up to 40 minutes
+* **60 minutes or more**
+* 90 to 120 minutes without any risk
+
+*Explanation: The normal liver can tolerate 60 minutes or more of continuous inflow occlusion and warm ischemia, though risk of irreversible damage increases with prolonged continuous ischemia.*
+
+10. Which patient populations may tolerate significantly less ischemic insult before sustaining irreversible injury?
+* Young patients and those with large tumors
+* **Patients with cirrhosis, biliary obstruction, prolonged chemotherapy, or older age**
+* Patients with right-sided lesions only
+* Patients with metachronous colorectal metastases
+
+*Explanation: Patients with cirrhosis, altered liver function from biliary obstruction or prolonged chemotherapy, and older patients may tolerate significantly less ischemic insult before sustaining irreversible injury.*
+
+## Section 2: Indications for Hypothermic Perfusion Techniques
+
+11. Which tumor location most commonly necessitates total vascular isolation during hepatic resection?
+* Peripheral lesions of segment VI
+* Lesions confined to the left lobe
+* **Tumors involving the retrohepatic inferior vena cava or hepatic veins**
+* Subcapsular lesions near the gallbladder fossa
+
+*Explanation: Tumors that involve the retrohepatic inferior vena cava (IVC) or the hepatic veins (HVs) may require total vascular isolation for a significant period of time.*
+
+12. Why does total vascular isolation increase ischemic injury to the liver more than inflow occlusion alone?
+* It prevents arterial flow to the liver entirely
+* It causes bowel edema and metabolic acidosis
+* **There is evidence that backward diffusion of hepatic vein blood into the liver attenuates ischemic injury, which is lost with total vascular isolation**
+* It prevents cooling of the liver parenchyma
+
+*Explanation: Total vascular isolation may increase the degree of ischemic injury to the liver more than inflow occlusion alone because there is evidence that backward diffusion of HV blood into the liver attenuates ischemic injury.*
+
+13. What is the classic example of a lesion that may be truly unresectable by conventional techniques without hypothermic perfusion?
+* Large subcapsular hemangioma
+* Segment VII hepatocellular carcinoma
+* Peripheral colorectal metastasis
+* **Centrally placed lesions involving all three main hepatic veins, with or without retrohepatic IVC involvement**
+
+*Explanation: The classic example of a truly unresectable lesion by conventional technique is one that is centrally placed and involves all three main hepatic veins, with or without involvement of the retrohepatic IVC.*
+
+14. What is an important benefit of planning an ex vivo approach preoperatively?
+* It guarantees complete R0 resection
+* It eliminates the need for vascular reconstruction
+* **At surgery, what was thought to be unresectable may be found resectable with a less complex procedure**
+* It avoids the need for postoperative anticoagulation
+
+*Explanation: One of the benefits of planning the ex vivo approach is that at surgery, what was initially thought unresectable by any method may be found resectable with a less complex procedure.*
+
+15. Which of the following is NOT a main advantage of ex vivo and hypothermic perfusion techniques?
+* Better access to the tumor
+* Minimizing ischemic injury to the future liver remnant
+* Higher likelihood of complete R0 resection
+* **Elimination of biliary and vascular complications**
+
+*Explanation: The main advantages include better access, minimizing ischemic injury using cold preservation, and higher likelihood of R0 resection. However, ex vivo liver resection may actually increase vascular and biliary complications because of the need for re-anastomosis.*
+
+16. Tumors involving hilar vessels can usually be approached with which simpler strategy compared to hypothermic perfusion?
+* Cold perfusion through the portal vein
+* Complete total vascular exclusion
+* **Temporary occlusion of the hepatic artery or portal vein with relatively short ischemic times**
+* Routine use of veno-venous bypass
+
+*Explanation: Tumors that involve hilar vessels usually can be approached by temporary occlusion of the hepatic artery or portal vein with relatively short ischemic times and without caval or HV isolation.*
+
+17. Which intraoperative technique can allow IVC involvement to be managed while maintaining hepatic outflow?
+* Continuous cold perfusion only
+* Ante situm rotation of the liver
+* **Venous side-clamping or exclusion of the cava while maintaining hepatic outflow**
+* Temporary portacaval shunt
+
+*Explanation: Involvement of the IVC can often be approached with venous side-clamping, by exclusion of the cava while maintaining hepatic outflow when the infrahepatic cava can be clamped below the insertion of the hepatic veins.*
+
+18. Which condition may make total vascular exclusion dangerous to perform in situ, necessitating ex vivo or hypothermic techniques?
+* Segment IV hepatocellular carcinoma
+* Large subcapsular cyst
+* **Acute Budd-Chiari syndrome with severely compromised HV outflow**
+* Bilateral hepatic metastases
+
+*Explanation: Cases where the transection of the liver is simply too dangerous to undertake in situ or without total vascular exclusion, such as in acute Budd-Chiari syndrome, represent indications for hypothermic perfusion techniques.*
+
+## Section 3: In Situ Hypothermic Perfusion — Technique and Evidence
+
+19. What is the primary aim of in situ hypothermic perfusion?
+* To achieve complete tumor necrosis before resection
+* **To provide a bloodless operative field with hypothermic cellular protection for prolonged and accurate dissection or vascular reconstruction**
+* To facilitate portal vein embolization
+* To avoid the need for anesthesia support
+
+*Explanation: The aim of in situ hypothermic perfusion is to provide a bloodless operative field together with hypothermic cellular protection, to permit prolonged and accurate dissection either for liver resections requiring vascular isolation or during vascular reconstruction.*
+
+20. Of the three techniques described in Chapter 124, which is described as the most straightforward from a theoretical standpoint?
+* Ex vivo liver resection
+* Ante situm procedure
+* **In situ hypothermic perfusion**
+* Standard total vascular exclusion
+
+*Explanation: Of the three surgical techniques outlined in the chapter, in situ hypothermic perfusion is the most straightforward from a theoretical point of view, though IVC/HV exposure and reconstructions can be awkward.*
+
+21. In Hannoun et al.'s 1993 study of 34 patients undergoing major liver resection with continuous vascular occlusion exceeding 1 hour, what was concluded?
+* Hypothermic perfusion is mandatory for all cases exceeding 60 minutes of ischemia
+* Veno-venous bypass is always required
+* **Continuous vascular occlusion (normothermic ischemia) during major liver resection can be performed safely on normal hepatic parenchyma for up to 90 minutes**
+* Cases exceeding 60 minutes required ex vivo resection
+
+*Explanation: Hannoun et al. (1993) concluded that continuous vascular occlusion during major liver resection is a useful maneuver that may be performed safely on normal hepatic parenchyma for up to 90 minutes.*
+
+22. According to Hannoun et al. (1993), when should in situ hypothermic perfusion with University of Wisconsin (UW) solution be used?
+* In all liver resections exceeding 45 minutes of ischemia
+* Whenever the patient has underlying liver disease
+* **Whenever the foreseen complexity of the hepatectomy suggests vascular occlusion might exceed 120 minutes**
+* In all cases of colorectal liver metastasis
+
+*Explanation: The authors advocated for hepatic vascular exclusion with in situ hypothermic perfusion of UW solution whenever the foreseen complexity of the hepatectomy suggested that vascular occlusion might exceed 120 minutes.*
+
+23. What did Hannoun et al.'s 1996 follow-up study demonstrate about hypothermic perfusion in patients with underlying liver disease?
+* It increased morbidity compared to normothermic ischemia
+* It was contraindicated in patients with cirrhosis
+* **Cooling of the hepatic parenchyma allows major hepatic resection in patients with liver disease using vascular exclusion longer than 1 hour without increased morbidity or mortality**
+* It required routine use of veno-venous bypass
+
+*Explanation: The 1996 study showed that cooling of the hepatic parenchyma allows for major hepatic resection in patients with liver disease using vascular exclusion for longer than 1 hour without increased morbidity or mortality.*
+
+24. In Azoulay et al.'s 2005 study comparing in situ hypothermic perfusion versus standard total vascular exclusion, what was demonstrated?
+* Both methods had equivalent liver and renal outcomes
+* Hypothermic perfusion increased morbidity from biliary complications
+* **Hypothermic perfusion was associated with better tolerance to ischemia, better postoperative liver and renal function, and lower morbidity compared to total vascular exclusion exceeding one hour**
+* Veno-venous bypass was unnecessary in all hypothermic perfusion cases
+
+*Explanation: Azoulay et al. (2005) demonstrated that hypothermic perfusion is associated with better tolerance to ischemia and better postoperative liver and renal function with lower morbidity compared to total vascular exclusion of more than one hour.*
+
+25. According to Azoulay et al. (2005), which factors were predictive of longer liver resection time (>1 hour) requiring hypothermic perfusion consideration?
+* Patient age, tumor histology, and preoperative bilirubin level
+* **Size of the tumor, need for PV embolization, and planned vascular reconstruction**
+* Extent of chemotherapy, liver steatosis, and ASA class
+* Number of tumors, prior abdominal surgery, and degree of portal hypertension
+
+*Explanation: Azoulay et al. showed that the size of the tumor, the need for PV embolization, and a planned vascular reconstruction were predictive factors for longer liver resection exceeding 1 hour.*
+
+26. What cold preservation solutions are mentioned as suitable for in situ hypothermic perfusion?
+* Ringer's lactate and normal saline
+* **Histidine-tryptophan-ketoglutarate (HTK) and University of Wisconsin (UW) solution**
+* 5% albumin and heparinized saline
+* Bretschneider solution and Custodiol
+
+*Explanation: Possible cold preservation solutions for in situ hypothermic perfusion include histidine-tryptophan-ketoglutarate (HTK) and UW solution.*
+
+27. In the original description by Fortner et al. (1974), what solution was used for cold perfusion and at what temperature?
+* UW solution at 0°C
+* HTK solution at 2°C
+* **Ringer's lactate solution chilled to 4°C with 5 mg/L heparin**
+* 5% dextrose solution at 4°C
+
+*Explanation: In Fortner et al.'s original description, Ringer's lactate solution chilled to 4°C and with 5 mg/L heparin was used for the cold perfusion.*
+
+28. What is the preferred method of the chapter authors for portal vein cannulation during in situ cold perfusion with veno-venous bypass?
+* Cannulation via a venotomy in the main portal vein
+* Insertion of a cannula via the inferior mesenteric vein
+* Cannulation via the right portal vein branch
+* **Placement of a temporary biologic graft onto the anterior wall of the superior mesenteric vein (SMV) and cannulation of the graft**
+
+*Explanation: The authors' preferred method — although not part of the original description — is to place a temporary biologic graft onto the anterior wall of the SMV and cannulate the graft.*
+
+29. How can the liver be cooled during parenchymal transection using in situ hypothermic perfusion?
+* Only by topical ice application
+* Only by a single bolus infusion at the start
+* **Continuously throughout transection by slow infusion, or intermittently every 30 minutes by bolus infusion**
+* By pre-cooling with a refrigeration blanket applied externally
+
+*Explanation: The liver can be cooled continuously throughout the parenchymal transection by slow infusion of cooling solution, or it can be cooled intermittently every 30 minutes by bolus infusion.*
+
+30. Why must the liver be flushed of cold preservation solution before restoring flow?
+* To prevent hypothermia of the remnant liver
+* To remove fibrin clots from the hepatic sinusoids
+* **Because preservation solutions like UW contain high levels of potassium and adenosine that can cause cardiac dysfunction or arrest if allowed into circulation on reperfusion**
+* To restore bile production more rapidly
+
+*Explanation: The cold rinse washes out the UW solution from the liver before reperfusion because this solution contains high levels of potassium and adenosine, which can cause dramatic cardiac dysfunction or arrest if allowed into the circulation on reperfusion.*
+
+31. What alternative approach to cold flushing before reperfusion is described in the chapter?
+* Leaving the liver dry and allowing gradual warming
+* Using warm saline to flush the hepatic veins
+* **Allowing the initial 300–500 mL of venous effluent from the reperfused liver to be vented out the infrahepatic cava venotomy before removing the suprahepatic cava clamp**
+* Flushing with heparinized blood from the bypass circuit
+
+*Explanation: An alternative to cold-flushing the liver is to leave the lower cava anastomosis open until after portal reperfusion, venting the initial 300–500 mL of blood before removing the suprahepatic cava clamp.*
+
+32. In the simplified in situ cold perfusion technique used by the chapter authors (without full veno-venous bypass), when is total vascular isolation applied?
+* At the very beginning of the operation
+* Immediately upon identifying the hepatic veins
+* **Only as the parenchymal transection nears completion, to enable division and reconstruction of the vascular structures**
+* After initial liver mobilization
+
+*Explanation: Most parenchymal transection is performed without inflow occlusion under low-CVP conditions. Total vascular isolation is applied only as transection nears completion to enable vascular division and reconstruction, resulting in shorter ischemic periods.*
+
+33. What critical limitation does the chapter identify regarding in situ hypothermic perfusion despite its theoretical simplicity?
+* The technique is associated with very high biliary fistula rates
+* Cold perfusion is difficult to achieve through the portal vein
+* **The IVC/HV reconstructions can be very awkward because of the angles involved**
+* The technique cannot be applied in patients with cirrhosis
+
+*Explanation: A real caution is that the IVC/HV reconstructions can be very awkward because of the angles involved in in situ hypothermic perfusion.*
+
+34. In Azoulay et al.'s 2015 series of 77 liver resections using standard total vascular exclusion with hypothermic portal perfusion and veno-venous bypass, what was the 90-day mortality rate?
+* 5.2%
+* 10.1%
+* **19.5%**
+* 28.3%
+
+*Explanation: In Azoulay et al.'s 2015 publication of 77 liver resections, the 90-day mortality rate was 19.5%, and the overall 5-year survival rate in their cohort was 30.4%.*
+
+35. What were the independent predictors of mortality identified by Azoulay et al. (2015) in the in situ hypothermic perfusion series?
+* Age >65 years, portal vein involvement, and bile duct involvement
+* **Age-adjusted Charlson Comorbidity Index (CCI) of 3 or more, tumor size ≥10 cm, and presence of 50/50 criteria**
+* Prior PVE, cirrhosis, and intraoperative blood loss >5L
+* Bilateral tumors, chemotherapy-induced hepatotoxicity, and ASA class IV
+
+*Explanation: Azoulay et al. identified independent predictors of mortality including age-adjusted Charlson Comorbidity Index of 3 or more, tumor size 10 cm or more, and the presence of 50/50 criteria.*
+
+36. What is the overall 5-year survival rate reported in Azoulay et al.'s (2015) cohort of in situ hypothermic perfusion cases?
+* 15.1%
+* 22.7%
+* **30.4%**
+* 42.8%
+
+*Explanation: The overall 5-year survival rate in Azoulay et al.'s 2015 cohort undergoing in situ hypothermic perfusion was 30.4%.*
+
+37. According to the chapter, how does the advent of LDLT and anterior approach to liver resection affect use of in situ perfusion?
+* It has made in situ perfusion more frequently necessary
+* It has no effect on in situ perfusion indications
+* **It has improved the ability to divide the liver parenchyma and dissect along the hepatic veins, reducing the need for extensive periods of inflow occlusion**
+* It has made veno-venous bypass mandatory
+
+*Explanation: The advent of LDLT, combined with the more frequent use of the anterior approach to liver resection and improved parenchymal transection techniques, have improved the ability to divide the liver parenchyma and dissect along the HVs without the need for extensive periods of inflow occlusion.*
+
+## Section 4: Ante Situm Procedure
+
+38. Among the three hypothermic liver perfusion techniques, which is described as the least frequently used?
+* In situ hypothermic perfusion
+* Ex vivo liver resection
+* **Ante situm procedure**
+* Standard total vascular exclusion
+
+*Explanation: Of the three techniques outlined in the chapter, the ante situm technique is by far the least frequently used.*
+
+39. Who designed the ante situm technique of liver resection, and in what year?
+* Fortner et al., 1974
+* Pichlmayr et al., 1988
+* **Hannoun et al., 1991**
+* Azoulay et al., 2005
+
+*Explanation: To improve access to the posterior side of the liver while avoiding division of the portal triad, Hannoun et al. (1991) designed the ante situm technique.*
+
+40. What is the key distinguishing feature of the ante situm technique compared to in situ hypothermic perfusion?
+* It requires complete division of the portal triad
+* It does not use cold preservation solutions
+* **The suprahepatic IVC (and sometimes infrahepatic IVC) is divided, allowing the liver to be rotated anteriorly for better access to the HV-IVC junction**
+* It uses HA perfusion rather than portal vein perfusion
+
+*Explanation: The main difference between in situ and ante situm techniques is that in ante situm, the suprahepatic IVC is divided, allowing rotation of the liver anteriorly to permit essentially exteriorizing it while connected only by the hepatic pedicle.*
+
+41. During the ante situm procedure, perfusion of the future remnant liver is achieved through which vessel(s)?
+* Hepatic artery alone
+* Inferior vena cava
+* **Portal vein or hepatic artery**
+* Superior mesenteric vein
+
+*Explanation: During the ante situm procedure, the future remnant liver is perfused with a preservation solution via the portal vein or hepatic artery.*
+
+42. What is a key advantage of the ante situm technique compared to in situ cold perfusion?
+* It does not require any division of the IVC
+* It eliminates the need for vascular reconstruction
+* **It provides better access to the IVC–HV junction, enabling greater visualization of the hepatocaval confluence**
+* It can be performed without cold preservation solutions
+
+*Explanation: The ante situm approach gives better access to the IVC–HV junction than does simple in situ cold perfusion, though the exposure is usually not as good as with a complete ex vivo approach.*
+
+43. What is a key advantage of the ante situm approach over ex vivo liver resection?
+* Superior tumor exposure and resection margin
+* Ability to perform it without veno-venous bypass
+* **Biliary and hepatic artery anastomoses are not required, reducing ischemic time and potential for anastomotic complications**
+* It can be performed without cold preservation solutions
+
+*Explanation: The advantage of the ante situm approach is that biliary and HA anastomoses are not required, reducing ischemic time to the liver and reducing the potential for complications from these additional anastomoses.*
+
+44. How is greater exposure of the suprahepatic cava obtained during the ante situm procedure?
+* By performing an extended right hepatectomy first
+* By dividing the left triangular ligament
+* **By dividing the phrenic veins and gently dissecting the IVC away from the diaphragm**
+* By performing a right-sided thoracotomy
+
+*Explanation: Greater exposure of the suprahepatic cava can be obtained by dividing the phrenic veins and gently dissecting the IVC away from the diaphragm.*
+
+45. What additional surgical approach provides excellent exposure of the suprahepatic IVC and hepatic vein confluence during ante situm or ex vivo resection?
+* Right subcostal extension
+* Thoracoscopic approach
+* Left lateral thoracotomy
+* **Median sternotomy**
+
+*Explanation: The addition of a median sternotomy provides excellent exposure to the suprahepatic inferior vena cava and confluence of the hepatic veins, though the authors try to avoid it when possible because of additional morbidity.*
+
+46. In the ante situm procedure, how does dividing the infrahepatic IVC (in addition to the suprahepatic IVC) benefit the surgeon?
+* It allows HA reconstruction without tension
+* It eliminates the need for cold perfusion
+* **It allows the liver to be rotated completely up onto the abdominal wall so the posterior aspect faces anteriorly**
+* It permits total bypass without portal vein cannulation
+
+*Explanation: If more access is required, the infrahepatic IVC can be divided, allowing the liver to be rotated completely up toward the abdominal wall, and the liver can be rotated around the portal axis counterclockwise so the posterior aspect faces anteriorly.*
+
+47. Which specific clinical scenario is described as a primary indication for the ante situm technique?
+* Large hepatocellular carcinoma in a cirrhotic liver
+* Peripheral colorectal metastasis requiring right hepatectomy
+* **When the HV/IVC junction needs to be resected en bloc and all three HVs reconstructed to the side of a graft or cava**
+* Acute hepatic artery thrombosis after transplantation
+
+*Explanation: The ante situm technique can be considered when the HV/IVC junction needs to be resected en bloc and all three HVs reconstructed to the side of a graft or cava.*
+
+48. During ante situm cold perfusion, how is the liver initially flushed?
+* Slow infusion at 50 mL/min over 30 minutes
+* Single bolus of 500 mL through the hepatic artery
+* **About 1 L of ice-cold preservation solution infused wide open with the bag suspended at shoulder height, then rate slowed to half**
+* 2 L of Ringer's lactate at room temperature over 1 hour
+
+*Explanation: The liver is first flushed with about 1 L of ice-cold preservation solution wide open, with the bag suspended at shoulder height. After the initial bolus, the infusion rate is slowed to about half of the original rate.*
+
+49. During the ante situm procedure, when are the HV anastomoses (considered the most tenuous) performed?
+* While the liver is in its anatomical position after reimplantation
+* Before the cold perfusion is initiated
+* **While the liver is rotated onto the abdominal wall**
+* After the caval anastomosis is completed
+
+*Explanation: The HV anastomoses, which are the most tenuous, are performed while the liver is rotated onto the abdominal wall. The liver is then replaced, and the caval anastomosis is performed.*
+
+50. What is a reported 90-day mortality rate for ante situm hepatic resection in a recently published series including 23 patients with hepatocellular carcinoma?
+* 11%
+* 15%
+* 20%
+* **4%**
+
+*Explanation: A recently reported series included 23 patients with hepatocellular carcinoma that underwent ante situm hepatic resection and reported a 4% 90-day mortality rate, compared with previous studies showing rates of 11%–20%.*
+
+## Section 5: Ex Vivo Liver Resection — Patient Selection and Preoperative Workup
+
+51. During ex vivo liver resection, where is the hepatic resection performed?
+* Inside the abdominal cavity under hypothermic perfusion
+* In the retroperitoneal space with the liver partially mobilized
+* **On the back table in a completely bloodless field after removal of the liver from the patient**
+* In the operative field with the liver partially exteriorized
+
+*Explanation: During ex vivo liver resection, the liver is completely removed from the patient and perfused with cold preservation solution on the back table. The hepatic resection is performed in a bloodless field.*
+
+52. What is the most common indication for ex vivo liver resection in practice?
+* Hilar cholangiocarcinoma with portal vein involvement
+* **Tumors involving the IVC–HV junction requiring complex and prolonged vascular reconstruction, or combined vascular involvement of HVs and hilar structures**
+* Large HCC in a non-cirrhotic liver
+* Multiple bilateral colorectal liver metastases
+
+*Explanation: In practice, patients who benefit most from planned ex vivo approach are those with tumors involving the IVC–HV junction requiring complex prolonged vascular reconstruction, or combined HV and hilar structure involvement.*
+
+53. Preoperative assessment of cardiac risk factors for ex vivo liver surgery is described as similar to assessment for which procedure?
+* Major bowel resection
+* Pancreaticoduodenectomy
+* **Liver transplantation**
+* Abdominal aortic aneurysm repair
+
+*Explanation: General assessment of the patient is like that for liver transplantation, with particular assessment of cardiac risk factors.*
+
+54. In patients older than 50 or with any cardiac abnormality, what preoperative test is performed before ex vivo liver resection?
+* Coronary angiography
+* CT angiography of the chest
+* Exercise tolerance test (treadmill)
+* **A functional stress test (e.g., dobutamine stress echocardiogram)**
+
+*Explanation: In patients older than 50 or with any cardiac abnormality, a functional stress test is performed. In the elderly, a dobutamine stress echocardiogram may be used.*
+
+55. Which preoperative finding constitutes an absolute contraindication to ex vivo liver resection?
+* Moderate hepatic steatosis
+* Prior history of cholecystectomy
+* **Any significant cardiac abnormality**
+* Preoperative bilirubin >2 mg/dL
+
+*Explanation: Any significant cardiac abnormality is a contraindication to ex vivo liver resection, given the extreme physiologic demands of the anhepatic phase.*
+
+56. According to Melendez et al. (2001), which combination of factors leads to very high mortality risk in patients undergoing major liver resection?
+* Diabetes, elevated INR, and prior chemotherapy
+* Age >70, poor functional status, and bilateral lesions
+* **Two or more of: preoperative cholangitis, elevated creatinine, elevated bilirubin, >3L operative blood loss, and vena cava resection**
+* Cirrhosis, portal hypertension, and albumin <3 g/dL
+
+*Explanation: Melendez et al. (2001) showed that the combination of two factors from: preoperative cholangitis, elevated serum creatinine, elevated serum bilirubin, more than 3 liters of operative blood loss, and vena cava resection led to very high mortality risk.*
+
+57. What level of renal dysfunction should be considered a contraindication for ex vivo liver resection?
+* Creatinine >2.0 mg/dL
+* Creatinine >1.8 mg/dL
+* Creatinine >1.5 mg/dL
+* **Even mild renal dysfunction with creatinine >1.3 mg/dL**
+
+*Explanation: Even mild renal dysfunction of creatinine level greater than 1.3 mg/dL should be considered a contraindication for such an extensive procedure as ex vivo liver resection.*
+
+58. What is the current standard preoperative imaging for staging and planning ex vivo liver resection according to the chapter?
+* MRI with MRCP alone
+* PET-CT scan routinely
+* Doppler ultrasound and diagnostic laparoscopy
+* **Triphasic spiral CT with 3D reconstructions, and CT of the chest and pelvis; MRI with MR angiography/venography in selected cases**
+
+*Explanation: Current standard is triphasic spiral CT with 3D reconstructions to assess liver anatomy and tumor position, and CT of chest and pelvis to rule out metastatic disease. MRI including MR angiography/venography is used in selected cases.*
+
+59. When is MRI with MR angiography and MR venography particularly indicated in preoperative workup for ex vivo resection?
+* In all patients with colorectal liver metastases
+* When laparoscopic exploration is planned
+* **When all three hepatic veins are involved and some degree of venous obstruction prevents adequate contrast filling on CT**
+* In patients with known allergy to CT contrast
+
+*Explanation: MRI including MR angiography and MR venography is required particularly when all three HVs are involved and some degree of venous obstruction is present, preventing adequate flow of contrast material into the HVs during CT.*
+
+60. What is the advantage of contrast-enhanced ultrasound in preoperative workup for ex vivo resection?
+* It can measure exact tumor volumes more accurately than CT
+* It can detect extrahepatic disease not visible on CT
+* **It provides a dynamic view of the relationship of the tumor to the HVs and IVC, and is particularly useful for estimating extent of tumor invasion of vascular structures**
+* It replaces the need for invasive angiography
+
+*Explanation: Contrast-enhanced ultrasound provides a dynamic view of the relationship of the tumor to the HVs and IVC and is particularly useful for estimation of the extent of tumor invasion of vascular structures.*
+
+61. What is the preferred FLR cutoff for consideration of preoperative PVE in patients requiring extended hepatectomy with complex vascular reconstruction and cold-perfusion techniques?
+* 25% of total liver volume
+* 30% of total liver volume
+* 35% of total liver volume
+* **40% of total liver volume**
+
+*Explanation: The authors have arbitrarily chosen a projected liver remnant of 40% of TLV as a cutoff for consideration of preoperative PVE in patients who require extended hepatectomy and may need complex vascular reconstruction with cold-perfusion techniques.*
+
+62. What utility do 3D printed liver models have in preoperative planning for ex vivo liver resection?
+* They allow surgeons to practice perfusion techniques
+* They can replace CT scanning in selected patients
+* **They demonstrate hepatic anatomy and tumors with high accuracy and may assist with preoperative planning and simulation of surgical procedures**
+* They are used primarily in pediatric patients
+
+*Explanation: A systematic review showed that 3D printed liver models demonstrate hepatic anatomy and tumors with high accuracy, and the 3D models can assist with preoperative planning and may be used in the simulation of surgical procedures.*
+
+## Section 6: Ex Vivo Liver Resection — Anesthesia
+
+63. What is described as essential for surgical success and lower complication rates in ex vivo liver surgery?
+* Single-lung ventilation and epidural analgesia
+* Avoidance of all vasoactive agents
+* **Optimized anesthetic management of circulation and hemodynamic stability, coagulation function, and patient's core temperature**
+* Prophylactic dialysis during the anhepatic phase
+
+*Explanation: The participation of a multidisciplinary team is of highest importance. Optimized anesthetic management of circulation and hemodynamic stability, coagulation function, and patient's core temperature is essential.*
+
+64. During ex vivo liver surgery, what is typically the most hemodynamically challenging part of the operation for the anesthesiologist?
+* Initial laparotomy and liver mobilization
+* Bile duct transection and cholecystectomy
+* **Occlusion of the portal vein and IVC, and reperfusion of the liver**
+* Closure of the abdominal incision
+
+*Explanation: Usually, the most challenging part of the operation from a hemodynamic standpoint is on occlusion of the PV and the IVC as well as on the reperfusion of the liver.*
+
+65. What special monitoring device is inserted in addition to standard monitoring for ex vivo liver resection?
+* Intra-arterial blood gas monitor
+* Epidural catheter
+* Transesophageal echocardiography probe
+* **Swan-Ganz catheter for hemodynamic monitoring and assessment of blood temperature in the pulmonary artery**
+
+*Explanation: In addition to standard monitoring for liver resection, a Swan-Ganz catheter is inserted for hemodynamic monitoring and assessment of blood temperature in the pulmonary artery.*
+
+66. What is the typical duration of the anhepatic phase during an ex vivo liver resection procedure?
+* 30 minutes to 1 hour
+* 1 to 2 hours
+* **2 to 4 hours**
+* 4 to 6 hours
+
+*Explanation: In an ex vivo procedure, the anhepatic phase generally lasts from 2 to 4 hours, and attention must be paid to coagulation during this period.*
+
+67. What fluids are recommended to meet volume requirements during the anhepatic phase, minimizing crystalloid use?
+* Packed red blood cells and normal saline
+* Crystalloid and 5% dextrose
+* Cryoprecipitate and platelet transfusion
+* **Fresh frozen plasma (FFP) or albumin**
+
+*Explanation: Similar to liver transplantation, FFP or albumin are given to meet volume requirements during the anhepatic phase, minimizing the use of crystalloid.*
+
+68. How do the authors manage a precipitous drop in pulmonary artery blood temperature during reperfusion of the cold autograft?
+* Administering warm IV fluids rapidly
+* Stopping portal flow completely for 5 minutes
+* Applying external warming blankets to the chest
+* **Manually compressing portal inflow temporarily when PA temperature decreases to below 35°C, releasing compression when temperature rises to 36°C**
+
+*Explanation: When the PA blood temperature decreases to less than 35°C during reperfusion, portal inflow is manually compressed temporarily for about 10 seconds, allowing the PA blood temperature to increase to 36°C, after which portal compression is released.*
+
+69. What is the typical PA blood temperature drop observed during reperfusion without portal compression?
+* 36°C to 37°C
+* 35°C to 36°C
+* 34°C to 35°C
+* **32°C to 33°C**
+
+*Explanation: PA blood temperature usually decreases to 32°C to 33°C without portal compression on reperfusion.*
+
+70. What is the rationale for avoiding the precipitous drop in pulmonary artery blood temperature during reperfusion?
+* To prevent systemic vasodilation
+* To prevent coagulopathy
+* **To reduce the cardiac dysfunction that occurs on reperfusion of the liver**
+* To maintain body temperature above 36°C
+
+*Explanation: In the authors' experience, avoiding this precipitous drop in PA blood temperature seems to reduce the cardiac dysfunction that occurs on reperfusion of the liver.*
+
+71. What consequences can hypothermia cause during ex vivo surgery?
+* Hepatic arterial vasospasm and bile duct stricturing
+* Postoperative ileus and wound infection
+* **Platelet dysfunction and coagulopathy, slowing of cardiac conduction, and coronary vasospasm**
+* Renal tubular acidosis and hyperkalemia
+
+*Explanation: Hypothermia can cause platelet dysfunction and coagulopathy, slowing of cardiac conduction system, and coronary vasospasm.*
+
+72. What routine thermal regulation methods are used during ex vivo liver surgery?
+* Only warm IV fluids
+* Warm irrigation of the abdominal cavity with saline
+* Intraoperative warming lamp over the patient
+* **Forced-air warming blankets, warming of all fluids, heated humidifier, heated gel pads, and maintaining a warm ambient room temperature**
+
+*Explanation: Routine methods of thermal regulation include use of forced-air warming blankets, warming of all fluids, heated humidifier, placing the patient on heated gel pads during surgery, and maintaining an ambient room temperature as warm as tolerated.*
+
+## Section 7: Ex Vivo Liver Resection — Surgical Procedure
+
+73. What are the three phases of the ex vivo liver resection procedure as described by Pichlmayr and Hauss?
+* Preoperative planning, operative resection, postoperative care
+* Mobilization, transection, reimplantation
+* **Assessment of resectability and removal of the liver; liver resection and vascular reconstruction on the back table; reimplantation of the liver autograft**
+* Hepatic dissection, vascular isolation, and perfusion
+
+*Explanation: Pichlmayr and Hauss described the procedure in three phases: (1) Assessment of resectability and removal of the liver, (2) liver resection and vascular reconstruction on the back table, and (3) reimplantation of the liver autograft.*
+
+74. What initial assessment is undertaken before proceeding to ex vivo resection?
+* Frozen section biopsy of the tumor
+* CT-guided needle biopsy
+* **Laparoscopy or a limited abdominal incision to assess for peritoneal disease**
+* Intraoperative PET scan
+
+*Explanation: An initial assessment of resectability is undertaken by laparoscopy or a limited abdominal incision to assess for peritoneal disease that would preclude proceeding with resection.*
+
+75. Why is a limited abdominal incision still performed even after a negative laparoscopy for ex vivo resection?
+* To place the perfusion cannulas more accurately
+* To assess tumor margins by direct palpation
+* **Because laparoscopic exploration may miss small additional liver lesions or peritoneal spread that preclude proceeding**
+* To perform routine cholecystectomy
+
+*Explanation: It is not uncommon to have a negative laparoscopy only to find additional small lesions in the liver or peritoneal spread that are a contraindication to proceeding, which is why a limited abdominal incision to assess the cavity is also performed.*
+
+76. What special concern does the chapter raise about mobilizing a liver with obstructed venous outflow?
+* There is a risk of torsion on the hepatic pedicle
+* The biliary ducts may be mistakenly divided
+* **Any small breach of the liver capsule becomes an outflow route for obstructed venous flow, causing potentially torrential bleeding**
+* The liver may become too congested for effective cold perfusion
+
+*Explanation: Care must be taken not to injure the liver during mobilization since the liver may be congested due to obstructed venous outflow. Any small breach of the liver capsule becomes an outflow route for the obstructed venous flow, and bleeding can be torrential.*
+
+77. At what level is the common bile duct transected during ex vivo liver removal, and how can bile leakage be minimized?
+* 3 cm below the bifurcation, always with ligation of both ends
+* 0.5 cm below the bifurcation, with a T-tube inserted
+* **Approximately 1–1.5 cm below the bifurcation; the duct can be stapled with the stapled ends resected at reimplantation to avoid bile leakage**
+* At the level of the cystic duct confluence
+
+*Explanation: The CBD is transected sharply approximately 1 to 1.5 cm below the bifurcation. The duct can be stapled with the stapled ends resected at reimplantation, which has the advantage of avoiding bile leakage while the rest of the case continues.*
+
+78. During step-by-step removal of the liver for ex vivo resection, what is the correct order of clamp placement?
+* HA, PV, infrahepatic IVC, suprahepatic IVC
+* Suprahepatic IVC, infrahepatic IVC, HA, PV
+* **Infrahepatic IVC (initiating bypass), then PV (adding portal bypass), then HA, then suprahepatic IVC**
+* PV, HA, suprahepatic IVC, infrahepatic IVC
+
+*Explanation: The infrahepatic IVC is clamped first and the patient placed on caval bypass. The PV is then clamped and the portal cannula inserted, adding portal flow to bypass circuit. The HA is then clamped and the suprahepatic IVC transected.*
+
+79. Where is the portal vein completely transected during ex vivo liver removal?
+* At the portal vein bifurcation
+* 3–4 cm below the bifurcation
+* **Approximately 1.5–2 cm below the bifurcation**
+* At the confluence with the superior mesenteric vein
+
+*Explanation: The PV is completely transected approximately 1.5 to 2 cm below the bifurcation, and portal flow is added to the bypass circuit.*
+
+80. What flows can be achieved on total veno-venous bypass during ex vivo liver resection?
+* 0.5 to 1 L/min
+* 1 to 2 L/min
+* **2 to 6 L/min**
+* 6 to 10 L/min
+
+*Explanation: Flows of 2 to 6 L/min can be achieved on total bypass during ex vivo liver resection.*
+
+81. What alternative to veno-venous bypass can be used in patients with complex HV involvement but without IVC tumor involvement?
+* Ex situ cold perfusion with a portable perfusion device
+* In situ cold perfusion using Pringle maneuver alone
+* Ante situm rotation with partial cava clamp only
+* **Mobilizing the liver off the retrohepatic IVC, partial IVC clamping to occlude HV orifices (maintaining cava flow), and constructing a temporary portacaval shunt**
+
+*Explanation: In patients with complex HV involvement without IVC tumor involvement, the liver can be mobilized off the retrohepatic IVC until suspended only by HVs, a partial IVC clamp placed, and a temporary portacaval shunt constructed, avoiding bypass while still allowing an anhepatic phase.*
+
+## Section 8: Hepatic Perfusion, Preservation, and Back-Table Resection
+
+82. After the liver is removed from the patient for ex vivo resection, what preservation solutions are used?
+* Ringer's lactate and normal saline
+* 5% albumin with heparin
+* **UW or HTK solution**
+* 4°C Custodiol (HTK) solution exclusively
+
+*Explanation: After it is removed from the patient, the liver is placed immediately in an ice bath and perfused with preservation solution through the PV, using either UW or HTK solution.*
+
+83. After initial perfusion with 500–1000 mL of preservation solution during ex vivo resection, what should be observed?
+* The liver should become uniformly pale yellow
+* Portal venous pressure should normalize
+* **The effluent from the IVC should be clear**
+* Cold perfusion resistance should fall to zero
+
+*Explanation: After the initial 500 to 1000 mL of solution has been flushed through the liver, the effluent from the IVC should be clear.*
+
+84. What is the maximum accepted cold ischemic time for ex vivo liver resection associated with good results?
+* 1 hour
+* 2 hours
+* 3 hours
+* **Up to 4 hours**
+
+*Explanation: The exact accepted time to reimplantation of the liver is not known; however, up to 4 hours has been associated with good results.*
+
+85. Why must great care be taken regarding segmental arteries during back-table dissection in ex vivo resection?
+* To prevent excessive cooling of the remnant liver
+* To preserve the bile duct blood supply
+* **Because their caliber is too small to reconstruct with confidence if inadvertently divided**
+* Because they are the primary route of perfusion during back-table work
+
+*Explanation: Great care must be taken not to divide segmental arteries that supply portions of the liver that are to remain because their caliber is too small to reconstruct with confidence.*
+
+86. What parenchymal transection techniques can be used during back-table ex vivo resection?
+* Only ultrasonic dissection
+* Only sharp knife division
+* Only water-jet dissection
+* **Ultrasonic (CUSA), water-jet dissection, or sharp knife division without fear of blood loss**
+
+*Explanation: Parenchymal transection can be performed using a variety of techniques, including ultrasonic (CUSA) and water-jet dissection or even sharp division with a knife without fear of blood loss during the back-table dissection.*
+
+87. What precaution must be taken after back-table liver transection regarding small vessels and ducts?
+* They should be left open to allow bile drainage
+* They should be stapled if >2 mm in diameter
+* They can be left untreated as they will clot spontaneously
+* **All visible vessels and ducts must be ligated or clipped to avoid significant bleeding at reperfusion**
+
+*Explanation: Great care must be taken to ligate or clip all visible vessels or ducts to avoid significant bleeding at reperfusion.*
+
+88. What agent may be applied to the cut surface of the liver at completion of back-table resection to minimize bleeding?
+* Topical thrombin spray
+* Warm saline gauze
+* Electrocautery to all cut edges
+* **Fibrin glue (or similar hemostatic agents)**
+
+*Explanation: Fibrin glue (or similar hemostatic agents) may be sprayed on the cut surface of the liver to minimize bleeding.*
+
+89. What is described as the key advantage of the ex vivo approach regarding the resection margin?
+* It allows frozen section assessment of all margins before closing
+* It enables intraoperative radiation therapy
+* **The ability to extend the resection to obtain negative margins while providing necessary time and exposure for complex reconstructions**
+* It enables measurement of margins under magnification
+
+*Explanation: A key advantage of the ex vivo approach is the ability to extend the resection to obtain negative margins while providing the necessary time and exposure for complex reconstructions. The resection margin should not be compromised to minimize the subsequent complexity of vascular reconstruction.*
+
+90. How is the liver flushed at the completion of back-table resection to identify leaks before reimplantation?
+* With warm blood from the bypass circuit
+* With methylene blue through the biliary tree
+* **With cold preservation solution through the PV, HA, and CBD to identify leaks from the cut surface**
+* With normal saline under pressure through the suprahepatic IVC
+
+*Explanation: At completion of the liver resection, it is helpful to flush the PV, HA, and CBD with cold preservation solution to identify leaks from the cut surface of the liver that can be repaired before reimplantation.*
+
+## Section 9: Hepatic Vein and IVC Reconstruction
+
+91. What is the raison d'être for ex vivo liver resection, according to the chapter?
+* The ability to perform major hepatectomies in cirrhotic patients
+* The ability to perform R0 resection for cholangiocarcinoma
+* **Complex hepatic vein reconstruction, with or without IVC reconstruction**
+* The ability to avoid veno-venous bypass
+
+*Explanation: Complex HV reconstruction, with or without IVC reconstruction, is the raison d'être for ex vivo liver resection.*
+
+92. What characteristic makes the three main hepatic veins relatively straightforward to reconstruct even several centimeters from the IVC?
+* Their proximity to major portal branches
+* The presence of valves preventing backflow
+* **They are relatively thick-walled**
+* They have predictable anatomy with no significant variation
+
+*Explanation: The three main HVs and their major branches are relatively thick-walled and straightforward to reconstruct, even several centimeters from their merging with the IVC.*
+
+93. Why does reconstruction become progressively more difficult the further from the IVC that a hepatic vein is transected?
+* Portal pressure increases in smaller HV branches
+* Bile duct proximity increases the risk of biliary injury
+* **The farther from the IVC, the thinner the HV wall, making direct reimplantation more difficult**
+* Cold ischemia affects distal HV branches more severely
+
+*Explanation: The farther away from the IVC that the HV is transected, the thinner the HV wall, and the more difficult it is to reimplant the vein directly into the IVC.*
+
+94. What creative technique have the chapter authors used to reconstruct multiple HV branches into a single outflow vessel?
+* Cryopreserved iliac vein graft
+* Ringed PTFE tube graft
+* Bovine pericardial patch
+* **Harvesting the PV bifurcation, reversing it, and using it to reconstruct multiple HV branches into a single outflow vessel**
+
+*Explanation: The authors have harvested the PV bifurcation, reversed it, and used it to reconstruct multiple HV branches into a single outflow vessel on several occasions.*
+
+95. Which autologous vein grafts have been used for hepatic vein reconstruction during ex vivo resection?
+* Common iliac vein and external jugular vein
+* **Saphenous, superficial femoral, internal jugular, and cryopreserved veins**
+* Gonadal vein exclusively
+* Left renal vein and inferior mesenteric vein
+
+*Explanation: Grafts of saphenous, superficial femoral, internal jugular, and cryopreserved vein all have been used to reconstruct HVs.*
+
+96. What important technical principle applies to extension grafts used during HV reconstruction?
+* They should be as long as possible to avoid tension
+* They should be made of synthetic material for durability
+* **They should be kept as short as possible, and great care must be taken that they do not kink**
+* They should always be oriented in an anti-isoperistaltic direction
+
+*Explanation: Venous grafts should be kept as short as possible, and great care must be taken to place the grafts such that they do not kink.*
+
+97. What alternative to extension grafts can occasionally be used to allow HV orifice to reach the caval graft without kinking?
+* Placing a tension suture between the liver and the IVC graft
+* Using a shorter caval graft
+* **Rotating the liver remnant on its inflow pedicle so the HV orifice lies directly against the caval graft**
+* Shortening the IVC graft to approximate the anatomy
+
+*Explanation: One alternative to consider before choosing an extension graft is whether the liver remnant can be rotated on its inflow pedicle such that the HV orifice is brought to lie directly against the caval graft; this avoids the issue of kinking.*
+
+98. Which type of prosthetic graft is used to replace the IVC when needed during ex vivo liver resection?
+* 14-mm Dacron tube graft
+* 16-mm PTFE (Gore-Tex) tube graft
+* 25-mm Dacron tube graft
+* **19-mm ringed polytetrafluoroethylene (PTFE; Gore-Tex) tube graft**
+
+*Explanation: Alternatively, the IVC can be replaced with a 19-mm ringed polytetrafluoroethylene (PTFE; Gore-Tex) tube graft.*
+
+99. Why should a larger opening be made in a Gore-Tex graft when the HVs are to be reimplanted directly into it?
+* To allow unrestricted bile flow
+* To prevent excessive hepatic arterial pressure
+* **To prevent anastomotic stricturing; a larger opening with triangulation of the anastomosis is required**
+* To allow intraoperative ultrasound assessment of flow
+
+*Explanation: When reimplanting HVs directly into a stiff artificial graft replacing the IVC, it is important to make a larger opening in the Gore-Tex than expected and to triangulate the anastomosis to prevent anastomotic stricturing.*
+
+100. What is the total cold ischemic time typically achieved in ex vivo liver resection, and how does this compare to split-liver or reduced-size liver transplantation?
+* 6–8 hours; significantly longer than LT
+* 1–2 hours; shorter than LT
+* 4–6 hours; similar to LT
+* **2–4 hours; well within acceptable limits compared to split-liver or reduced-size LT**
+
+*Explanation: Total cold ischemic time is usually 2 to 4 hours, which is well within acceptable limits when comparing cold ischemic times for split-liver or reduced-size liver transplantation.*
+
+## Section 10: Reimplantation, Reperfusion, and Postoperative Care
+
+101. What is the first anastomosis performed during reimplantation of the autograft after ex vivo resection?
+* Hepatic artery
+* Portal vein
+* Bile duct
+* **Suprahepatic IVC**
+
+*Explanation: Reimplantation is similar to reduced-size LT or LDLT. The suprahepatic IVC anastomosis is performed first.*
+
+102. Before completing the infrahepatic IVC anastomosis, how is UW solution flushed from the liver?
+* Flushing with heparinized normal saline through the HA
+* Warm blood flush through the hepatic veins
+* Infusion of cold HTK solution through the CBD
+* **Flushing the PV with 500 mL of cold 5% albumin, vented through the infrahepatic cava anastomosis**
+
+*Explanation: When the back wall of the infrahepatic IVC anastomosis has been completed, the PV is flushed with 500 mL of cold 5% albumin, which is vented through the infrahepatic cava anastomosis to wash out the UW solution before reperfusion.*
+
+103. After the infrahepatic IVC anastomosis, what is the sequence of steps to achieve portal reperfusion?
+* Portal clamp removed immediately; IVC clamp removed last
+* HA anastomosis performed first; then portal clamp removed
+* Suprahepatic IVC clamp removed; portal clamp removed; liver reperfused
+* **Portal bypass cannula clamped and removed; PV anastomosis performed; suprahepatic IVC clamp removed; portal clamp removed; liver reperfused**
+
+*Explanation: The portal limb of the bypass circuit is clamped and removed; the PV anastomosis is performed. The suprahepatic IVC clamp is removed to back-perfuse through the HVs, major bleeding controlled, then the PV clamp is removed and the liver reperfused.*
+
+104. What is the total warm ischemic time for arterial anastomosis during ex vivo liver resection reimplantation?
+* 5 to 10 minutes
+* 10 to 15 minutes
+* 15 to 20 minutes
+* **20 to 40 minutes**
+
+*Explanation: Finally, the arterial anastomosis is performed and the liver reperfused with arterial blood; total warm ischemic time ranges from 20 to 40 minutes.*
+
+105. What has been the evolution of biliary reconstruction preference in the chapter authors' ex vivo liver resection experience?
+* From duct-to-duct to Roux-en-Y choledochojejunostomy in all cases
+* Always Roux-en-Y choledochojejunostomy
+* Biliary stent without anastomosis initially
+* **Initially Roux-en-Y choledochojejunostomy was preferred; more recent cases involve duct-to-duct anastomosis**
+
+*Explanation: In the first few ex vivo liver resections performed, the preference was Roux-en-Y choledochojejunostomy, but more recent cases have involved duct-to-duct anastomoses, mirroring experience with right lobe LDLT.*
+
+106. What is the typical range of postoperative day 1 transaminase levels after ex vivo liver resection, and when do they normalize?
+* 50–200 IU/L, normalizing by day 3
+* 500–2000 IU/L, normalizing by day 14
+* 1000–5000 IU/L, rarely normalizing
+* **200–1000 IU/L, returning to near normal within 1 week**
+
+*Explanation: Day 1 transaminase levels in the 200 to 1000 IU/L range are standard but return to near normal in 1 week.*
+
+107. What is an early sign that the autograft is functioning adequately after ex vivo liver resection?
+* Serum albumin rising above 2.5 g/dL
+* Bile drainage from the bile duct drain
+* Normalization of INR within 24 hours
+* **Return of lactate levels to baseline in the first 12–24 hours after surgery**
+
+*Explanation: An early sign that the autograft is functioning is the return of lactate levels to baseline in the first 12 to 24 hours after surgery.*
+
+108. When can hypophosphatemia occur after ex vivo liver resection, and what may be required?
+* Immediately after reperfusion, requiring oral supplementation
+* Between days 5 and 7, resolving spontaneously
+* **Between postoperative days 1 and 3 as the liver regenerates, potentially requiring constant IV replacement**
+* Only if the patient has pre-existing malnutrition
+
+*Explanation: Hypophosphatemia can occur between postoperative days 1 and 3 as the liver regenerates, and it may be so profound as to require constant IV replacement.*
+
+109. What anticoagulation is used perioperatively to maintain graft patency after ex vivo liver resection?
+* Full-dose anticoagulation with IV heparin
+* No anticoagulation (aspirin alone)
+* Low-molecular-weight heparin for 90 days
+* **Low-dose IV heparin (500 U/hr) perioperatively, maintaining hematocrit between 30%–35%, with prophylactic LMWH for 30 days**
+
+*Explanation: Without much evidence as to its effectiveness, the authors use low-dose IV heparin (500 U/hr) perioperatively, and attempt to maintain the hematocrit between 30% and 35%. Patients receive prophylactic low-molecular-weight heparin for 30 days.*
+
+110. What long-term antiplatelet therapy is recommended for patients with artificial venous caval grafts after ex vivo resection?
+* Dual antiplatelet therapy for 1 year then stopped
+* Warfarin (target INR 2–3) for life
+* Aspirin for 3 months only
+* **Low-dose aspirin started before discharge and maintained for life**
+
+*Explanation: Patients who have artificial venous caval grafts are started on low-dose aspirin before discharge, and this is maintained for life, although there are no data regarding the need for long-term anticoagulation or antiplatelet medication.*
+
+## Section 11: Complications of Ex Vivo and Hypothermic Perfusion Techniques
+
+111. What should be suspected if there is a sudden rise in liver enzymes (especially ALT) postoperatively after ex vivo liver resection?
+* Postoperative wound infection
+* Primary non-function of the autograft
+* Postoperative bile leak
+* **Hepatic artery or portal vein thrombosis or stenosis**
+
+*Explanation: HA or PV thrombosis and stenosis can occur and should be suspected if there is a sudden rise in liver enzymes (especially ALT) postoperatively.*
+
+112. What is the diagnostic approach recommended when HA or PV thrombosis is suspected after ex vivo liver resection?
+* MRI with MRCP within 24 hours
+* Repeat laboratory testing in 6 hours
+* **Ultrasound Doppler or urgent CT angiography with a low threshold**
+* Diagnostic laparoscopy
+
+*Explanation: Ultrasound Doppler or an urgent CT angiography should be performed with low threshold when HA or PV thrombosis is suspected.*
+
+113. How should vascular thrombosis occurring more than one week after surgery be managed?
+* Surgical thrombectomy
+* Mechanical thrombolysis via interventional radiology
+* Observation with repeat imaging
+* **Full-dose anticoagulation**
+
+*Explanation: Full-dose anticoagulation is recommended in case thrombosis occurs, especially more than a week from surgery.*
+
+114. What is the recommended treatment for venous anastomotic stenosis after ex vivo liver resection?
+* Surgical revision of the anastomosis
+* Anticoagulation therapy alone
+* **Balloon angioplasty or endovascular stents**
+* Retransplantation
+
+*Explanation: In the case of venous anastomotic stenosis, the use of balloon angioplasty or endovascular stents is highly efficient.*
+
+115. What complication has been reported with Dacron IVC grafts after ex vivo liver resection?
+* Immediate graft rupture
+* Graft calcification
+* Anastomotic bleeding
+* **Compression of the Dacron graft by the regenerated liver presenting as acute Budd-Chiari syndrome**
+
+*Explanation: There are few reports of compression of a Dacron IVC graft by the regenerated liver that presented as acute Budd-Chiari syndromes. Endovascular stent placement resolved symptoms in these cases.*
+
+116. Why have ringed PTFE grafts largely replaced Dacron grafts for IVC replacement?
+* PTFE grafts are less expensive
+* PTFE grafts have superior biological compatibility
+* PTFE grafts facilitate duct-to-duct biliary anastomosis
+* **Dacron grafts tend to sclerose and ultimately occlude, whereas this issue has not been encountered with ringed PTFE grafts**
+
+*Explanation: Dacron IVC graft tended to sclerose and ultimately occlude, probably because of the relatively lower pressure in the IVC. Currently, ringed PTFE grafts are used and this issue has not been encountered.*
+
+117. What strategy may reduce the risk of graft infection after ex vivo liver resection?
+* Routine postoperative IV antibiotic therapy for 2 weeks
+* Use of cryopreserved rather than synthetic grafts
+* **Perioperative antibiotic prophylaxis and avoiding an enteric opening by performing choledochocholedochostomy rather than choledochoenterostomy**
+* Preoperative bowel preparation
+
+*Explanation: Perioperative antibiotic prophylaxis is important, and avoiding an enteric opening (e.g., by performing a choledochocholedochostomy rather than a choledochoenterostomy) may reduce the risk of graft infection.*
+
+118. How are biliary strictures after duct-to-duct anastomosis managed?
+* Operative revision of the anastomosis
+* Liver retransplantation in severe cases
+* Long-term antibiotics
+* **ERCP/PTC stent or balloon dilatation in the standard fashion**
+
+*Explanation: Biliary strictures can happen with any duct-to-duct anastomosis and should be approached in the standard fashion with ERCP/PTC stent or balloon dilatation.*
+
+## Section 12: Current Role and Outcomes of Ex Vivo Liver Resection
+
+119. How is the experience with ex vivo liver resection described globally?
+* Widespread, performed at most major hepatobiliary centers
+* Increasing rapidly over the last decade
+* Declining due to improved oncologic outcomes with systemic therapy
+* **Limited to a few high-volume liver surgery and transplantation centers; still accurately described as pushing the limits of liver surgery**
+
+*Explanation: Experience with ex vivo and in situ cold perfusion liver resections is limited to a few high-volume liver surgery and transplantation centers. Ex vivo resection remains an extremely rare procedure and can still be accurately described as "pushing the limits" of what can be done in liver surgery.*
+
+120. What is the largest reported series of ex vivo liver resections from Pichlmayr's own group?
+* 5 patients
+* 10 patients
+* 15 patients
+* **22 patients**
+
+*Explanation: The largest reported series from Pichlmayr's own group consists of only 22 patients.*
+
+121. What is the primary reason ex vivo liver resection has not been widely adopted?
+* High cost of perfusion equipment
+* Lack of dedicated ex vivo operating tables
+* Absence of quality evidence for benefit
+* **The two other techniques (in situ and ante situm hypothermic perfusion) can handle the great majority of difficult vascular reconstructions with lower morbidity**
+
+*Explanation: A major reason for this technique not being adopted is that in situ and ante situm hepatic hypothermic perfusion can be applied to the great majority of difficult vascular reconstructions, with the important exceptions of tumors involving both hilar structures and HV/IVC and tumors causing acute Budd-Chiari.*
+
+122. What is the perioperative mortality range reported for ex vivo liver resection even in well-selected patients?
+* 1%–5%
+* 5%–10%
+* **10%–30%**
+* 30%–50%
+
+*Explanation: Even in well-selected patients, perioperative mortality from ex vivo liver resection is 10% to 30%.*
+
+123. In contrast to ex vivo resection, what is the reported perioperative 30-day mortality for in situ or ante situm hepatic hypothermic perfusion with vascular reconstruction?
+* 5%–8%
+* **10% or less**
+* 15%–20%
+* 20%–25%
+
+*Explanation: The perioperative 30-day mortality for patients undergoing in situ or ante situm hepatic hypothermic perfusion with vascular reconstruction is reported at 10% or less.*
+
+124. What is the best reported 5-year survival for ex vivo resections performed for malignancy?
+* 5%–10%
+* **15%–30%**
+* 35%–45%
+* 50%–60%
+
+*Explanation: Long-term survival after ex vivo liver resection is poor: at best, 5-year survival for ex vivo resections performed for malignancy is 15% to 30%.*
+
+125. In Oldhafer's series, what was the median survival for the six patients who underwent ex vivo resection for colorectal metastases?
+* 6 months
+* 12 months
+* **21 months**
+* 36 months
+
+*Explanation: In Oldhafer's series, the six patients who underwent ex vivo resection for colorectal metastases had a median survival of 21 months.*
+
+126. What is a compelling reason why some patients may benefit from being considered for ex vivo liver resection even if ultimately the procedure is not performed ex vivo?
+* They will always receive a second opinion at a transplant center
+* It ensures access to the best surgical equipment
+* **A surgeon qualified to perform ex vivo resection may realize the resection can be done using a less aggressive technique such as in situ cold perfusion or standard vascular reconstruction**
+* Ex vivo planning always leads to longer disease-free survival
+
+*Explanation: Many patients may benefit from being considered for ex vivo liver resection simply because a surgeon qualified to perform an ex vivo resection realizes that the resection can be done using a less aggressive technique, such as in situ cold perfusion or standard vascular reconstruction.*
+
+127. What is the current recommendation regarding which patients and centers should undergo ex vivo liver resection?
+* Any hepatobiliary center with at least 50 liver resections per year
+* Patients with resectable tumors who refuse standard surgery
+* Patients with any form of portal hypertension
+* **Highly selected patients on a case-by-case basis in centers with expertise in both hepatic resection and liver transplantation, particularly LDLT**
+
+*Explanation: Currently, it seems reasonable to consider highly selected patients for ex vivo liver resection on a case-by-case basis in centers with expertise in both hepatic resection and LT, particularly LDLT.*
+
+128. What historical parallel does the chapter draw for the potential future of ex vivo liver resection?
+* Similar to how LDLT became standard
+* Similar to how PVE became standard
+* **Similar to how standard liver resection for malignancy evolved from a technique thought to "border on lunacy" to an accepted therapy**
+* Similar to how laparoscopic cholecystectomy replaced open cholecystectomy
+
+*Explanation: Even standard liver resection for malignancy was considered of questionable worth several decades ago. Improvements in surgical technique and perioperative care transformed it from a technique that many thought bordered on lunacy into an accepted therapy—and the same could happen for ex vivo liver resection.*
+
+## Section 13: Veno-Venous Bypass
+
+129. What are the main benefits of using standard veno-venous bypass in hypothermic liver perfusion cases?
+* Eliminating the need for portal vein cannulation
+* Preventing all intraoperative blood loss
+* **Reducing the time pressure involved in these cases and reducing gut edema associated with prolonged portal clamping**
+* Allowing complete hepatic hypothermia without active perfusion
+
+*Explanation: The standard use of veno-venous bypass (cava and/or portal) reduces the time pressure involved in these cases and the gut edema associated with prolonged portal clamping.*
+
+130. According to the chapter authors' experience, is veno-venous bypass mandatory for total vascular isolation?
+* Yes, it is mandatory in all cases
+* Yes, mandatory for cases lasting >2 hours
+* **No, most patients tolerate total vascular isolation without the need for veno-venous bypass**
+* No, but it is mandatory in patients with cirrhosis
+
+*Explanation: In the authors' experience, most patients tolerate total vascular isolation without the need for veno-venous bypass.*
+
+131. How much heparin is administered before initiating veno-venous bypass?
+* 1000 U IV bolus
+* 2500 U IV bolus
+* **At least 5000 U IV bolus**
+* 10,000 U IV bolus
+
+*Explanation: Before clamping, the patient receives a bolus of at least 5000 U of heparin intravenously.*
+
+132. What vascular structure should be ligated and divided before clamping the infrahepatic IVC in preparation for veno-venous bypass?
+* The inferior mesenteric artery
+* The left adrenal vein
+* **The right adrenal vein**
+* The left renal vein
+
+*Explanation: It is generally advisable to isolate, ligate, and divide the right adrenal vein before clamping the infrahepatic IVC.*
+
+133. Where are percutaneous catheters placed for the caval portion of the bypass circuit?
+* Common femoral artery and femoral vein
+* Internal jugular vein and hepatic vein
+* **Internal jugular vein or subclavian vein, and the exposed infrarenal cava**
+* Radial artery and antecubital vein
+
+*Explanation: Percutaneous catheters are placed in the internal jugular vein or subclavian vein and in the exposed portion of the infrarenal cava for the caval portion of the bypass circuit.*
+
+134. What is an alternative to the bypass circuit that should be considered when the cava is to be reconstructed in full?
+* Placing the patient in the Trendelenburg position during clamping
+* Temporary hepatic artery ligation
+* Segmental IVC exclusion only
+* **Clamping the PV, reconstructing the cava with a graft, and then performing a temporary portocaval shunt**
+
+*Explanation: An alternative to the bypass circuit to consider — especially when the cava is to be reconstructed in full — is to clamp the PV, reconstruct the cava with a graft, and then perform a temporary portocaval shunt, often with a length of Dacron graft.*
+
+## Section 14: Preoperative Planning and Special Considerations
+
+135. What is the standard incision used for ex vivo liver resection according to the chapter authors?
+* Midline laparotomy alone
+* Right subcostal incision only
+* **Bilateral subcostal incision with or without midline extension, or midline laparotomy with horizontal right extension**
+* Left paramedian incision with right transverse extension
+
+*Explanation: The authors usually prefer to lengthen the incision to some variation of a bilateral subcostal incision with or without a midline extension. Alternatively, a midline laparotomy with a horizontal right extension can be used.*
+
+136. Why should intraoperative ultrasound be used after full liver mobilization during ex vivo liver resection?
+* To measure tumor volume accurately
+* To guide needle biopsy of suspicious lesions
+* To assess bile duct diameter before transection
+* **To assess the level of vascular involvement and confirm vascular anatomy originally identified on preoperative imaging**
+
+*Explanation: Intraoperative ultrasound is used to assess the level of vascular involvement and to confirm vascular anatomy originally identified on preoperative imaging.*
+
+137. When is it prudent to make an early decision to proceed with ex vivo resection during the operation?
+* Whenever the portal vein requires reconstruction
+* Whenever the hepatic artery is involved by tumor
+* **When large tumors restrict the ability to rotate the liver without undue tension, before attempting to elevate it off the IVC**
+* Whenever the operative time is expected to exceed 8 hours
+
+*Explanation: Large tumors may restrict the ability to rotate the liver without undue tension; in these cases, it is prudent to make an early decision regarding ex vivo resection before attempting to elevate the liver off the IVC.*
+
+138. How is the hepatic artery dissected and divided to minimize risk to the biliary supply during ex vivo removal?
+* Divided at the level of the proper hepatic artery bifurcation into left and right branches
+* Divided immediately distal to the celiac axis
+* Divided beyond all intrahepatic branches
+* **Divided usually just above the common HA–gastroduodenal artery junction; not dissected high into the hilum to preserve small arterial communications to the biliary plate**
+
+*Explanation: An appropriate site is chosen for planned division usually just above the common HA–gastroduodenal artery junction. In most cases, to preserve small arterial communications to the biliary plate and tree, the artery is not dissected high into the hilum.*
+
+139. What is the recommended strategy for the infrahepatic IVC before liver removal for ex vivo resection?
+* Divided at the level of the renal veins immediately
+* Clamped but not divided until the back table
+* Left undissected until back-table resection
+* **Dissected down to the level of the renal veins and encircled; planned clamp placement immediately above the renal veins**
+
+*Explanation: The infrahepatic IVC is dissected down to the level of the renal veins and encircled. Planned vascular clamp placement is immediately above the renal veins, although division of the vena cava may be substantially more cephalad.*
+
+140. What important step is performed regarding the suprahepatic IVC before liver removal in ex vivo resection?
+* It is left undissected until after the liver is placed on the back table
+* Only the anterior surface is dissected free
+* **Phrenic veins are divided bilaterally; diaphragm dissected away from IVC; pericardium opened anteriorly or sternotomy performed; intrapericardial IVC looped**
+* It is clamped without division in all cases
+
+*Explanation: Phrenic veins are divided bilaterally, allowing the diaphragm to be dissected away from the IVC. Currently, the authors also open the pericardium directly anterior to the IVC and loop the intrapericardial IVC, or use a midline sternotomy.*
+
+## Section 15: Outcomes, Follow-up, and Miscellaneous
+
+141. What standard postoperative imaging protocol is used after vascular reconstruction in the chapter's practice?
+* Daily Doppler ultrasound for 1 week
+* Angiography at 48 hours
+* MRI on postoperative day 3
+* **Ultrasound with Doppler assessment or CT scan with IV contrast on postoperative day 1 to assess liver blood flow**
+
+*Explanation: Ultrasound with Doppler assessment or a CT scan with IV contrast is performed on postoperative day 1 to assess liver blood flow.*
+
+142. What postoperative INR target should generally be maintained and how?
+* INR >3.0 using warfarin
+* INR <1.2 using fresh frozen plasma
+* INR 2–2.5 using vitamin K only
+* **INR less than 2, using vitamin K and/or FFP as necessary for the first few days**
+
+*Explanation: It is sometimes necessary to give vitamin K and/or FFP for the first few days to maintain an INR target less than 2.*
+
+143. What is the significance of postoperative hyperbilirubinemia after ex vivo liver resection?
+* It always indicates primary graft failure
+* It is a sign of early biliary anastomotic leak
+* It always requires reoperation
+* **By itself it is not concerning if other markers of liver function are improving; it seems to vary inversely with the size of the liver remnant**
+
+*Explanation: Hyperbilirubinemia as well as coagulopathy is common and it seems to vary inversely with the size of the liver remnant. Hyperbilirubinemia by itself is not concerning if other markers of liver function are improving.*
+
+144. What does the chapter identify as a possible explanation for why many potential ex vivo resection candidates are not referred for the procedure?
+* Lack of published data supporting benefit
+* Limited availability of preservation solutions
+* **Many patients who may be candidates are deemed unresectable by competent hepatic surgeons and are not referred to centers capable of ex vivo resection**
+* High cost of the procedure
+
+*Explanation: Perhaps the most compelling reason for the lack of adoption of this technique is the relatively high risk/benefit ratio. Many patients who may be candidates for ex vivo resection are deemed unresectable by competent hepatic surgeons and are not referred.*
+
+145. What is the most frequently cited reason in the literature for limited adoption of ex vivo liver resection as a technique?
+* Poor long-term oncologic outcomes regardless of selection
+* Complexity of anesthetic management
+* Lack of trained transplant surgeons
+* **The relatively high risk/benefit ratio and the fact that most of the literature consists of case reports without long-term follow-up**
+
+*Explanation: Perhaps the most compelling reason for the lack of adoption of this technique is the relatively high risk/benefit ratio. Most of the literature on ex vivo liver resections has been case reports that describe aspects of technique, and long-term follow-up is not available.*
+
+146. What historical context does the chapter provide regarding the evolution of liver transplantation for primary and secondary liver malignancy?
+* LT for liver malignancy has always shown excellent long-term results
+* LT for cholangiocarcinoma is now the standard treatment
+* LT for colorectal metastases remains standard practice
+* **LT for large, unresectable primary liver tumors and metastatic lesions resulted in rapid recurrence, making it largely abandoned for these indications**
+
+*Explanation: Transplantation for large, unresectable primary liver tumors, especially for metastatic lesions, resulted in the rapid recurrence of malignancy, either in the new liver or elsewhere, shortly after transplantation.*
+
+147. Which of the following is described as the classical exception where total liver occlusion for complete transection using in situ perfusion is still needed?
+* Large segment VIII HCC in a cirrhotic liver
+* Peripheral colorectal metastases with bilobar distribution
+* **Cases where the HV outflow is severely compromised and the parenchyma is very congested**
+* Hilar cholangiocarcinoma involving one main HV
+
+*Explanation: Only rarely do the authors use in situ perfusion with total liver occlusion for the complete liver transection — the exception being cases where the HV outflow is severely compromised and the parenchyma is very congested as a result.*
+
+148. What special concern is raised about large tumors causing obstructed venous outflow when mobilizing the liver?
+* The tumor is at high risk for rupture into the peritoneal cavity
+* The hepatic artery may be encased and inadvertently divided
+* Venous congestion is always a contraindication to resection
+* **Venous congestion is not a contraindication, as the planned resection relieves the obstruction, but bleeding from capsular injury can be torrential**
+
+*Explanation: Venous congestion of the liver is not a contraindication to resection because the planned resection should relieve the venous outflow obstruction. However, care must be taken not to injure the liver during mobilization, as any small breach of the liver capsule becomes an outflow route and bleeding can be torrential.*
+
+149. What is the key requirement for a surgeon performing ex vivo liver resection?
+* Completion of a hepatobiliary fellowship only
+* Experience with purely laparoscopic liver resection
+* Expertise in robotic surgical techniques
+* **Familiarity with advanced techniques in both liver resection and liver transplantation, restricting the procedure to relatively few highly experienced individuals**
+
+*Explanation: The ex vivo technique requires a surgeon familiar with advanced techniques in liver resection and LT, which restricts the procedure to relatively few individuals.*
+
+150. Which long-term outcomes have been observed in individual patients after ex vivo liver resection for malignancy, supporting continued use in selected cases?
+* No patients have survived more than 2 years
+* Survival beyond 2 years has only been seen for HCC
+* Extended survival has only been observed in pediatric patients
+* **Some patients have been cured: one with cholangiocarcinoma was disease-free at 3.5 years, and one with HCC was disease-free more than 5 years after ex vivo resection**
+
+*Explanation: Undoubtedly the occasional patient is cured by this aggressive procedure. One patient with resection for cholangiocarcinoma in Oldhafer's series was alive and disease free at 3.5 years, and one of the authors' own patients who underwent ex vivo resection for HCC was alive and disease free more than 5 years after the operation.*

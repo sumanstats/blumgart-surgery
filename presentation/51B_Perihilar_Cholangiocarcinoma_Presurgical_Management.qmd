@@ -1,0 +1,437 @@
+---
+title: "Perihilar Cholangiocarcinoma: Presurgical Management"
+format:
+  revealjs:
+    theme: dark
+---
+
+## Overview {.smaller}
+
+- **Incidence**: 1–2 per 100,000 in Western countries (lower than Asia)
+- **Definition (AJCC)**: Distal to 2nd-order intrahepatic ducts, proximal to cystic duct insertion
+- **Resectability**: Only ~1/3 of patients
+- **5-year OS after resection**: Up to 35%
+- **90-day mortality**: 5–18% (West), 1–3% (East)
+- **Key principle**: Refer to expert center **before** any biliary intervention
+
+::: {.callout}
+**Critical**: High-quality imaging must be obtained **before** biliary stenting
+:::
+
+---
+
+
+## Clinical Presentation {.smaller}
+
+| Feature | Frequency |
+|---------|-----------|
+| Painless jaundice | ~90% |
+| Cholangitis | ~10% |
+| Anorexia | ~50% |
+| Fatigue | ~50% |
+| Weight loss / Sarcopenia | ~50% |
+
+- Physical exam: Palpable mass in upper abdomen → unilateral lobar hypertrophy with contralateral atrophy
+- Rarely presents without jaundice (isolated left/right hepatic duct involvement)
+
+---
+
+## Laboratory Workup {.smaller}
+
+- **Cholestatic pattern** on liver function tests
+- **CA 19-9**: Elevated in most patients
+  - May be falsely elevated due to biliary obstruction
+  - ~10% of patients do not produce CA 19-9 (Lewis antigen negative)
+- **IgG4**: Helps diagnose autoimmune cholangitis
+  - 4-fold increase nearly excludes pCCA
+  - **HISORt criteria**: Histology, Imaging, Serology, Other organ involvement, Response to steroids
+- **Liver fluke serology**: In endemic areas (*Clonorchis*, *Opisthorchis*)
+
+---
+
+## Imaging Strategy {.smaller}
+
+| Modality | Role | Accuracy |
+|----------|------|----------|
+| **CT (multiphase, thin-slice)** | Arterial/portal involvement, staging | Arterial: 93%, Portal: 87% |
+| **MRI + MRCP** | Biliary extent, discriminate benign causes | Superior to CT for biliary tree |
+| **PET-CT** | Staging | Specificity only 67% (inflammation causes false positives) |
+
+::: {.callout}
+**Important limitation**: Lymph node sensitivity poor (54%); biliary extent often underestimated on CT
+:::
+
+- **MRI/MRCP superior** for: Mirizzi syndrome, intrahepatic lithiasis, PSC
+- **Imaging after stenting is impaired** — refer before drainage!
+
+---
+
+## Tissue Diagnosis {.smaller}
+
+- **Brush cytology sensitivity**: <40%
+- **FISH (fluorescent in situ hybridization)** for polysomy:
+  - Doubles sensitivity when added to cytology
+  - Only significant predictor of malignancy in PSC patients with dominant stricture
+  - CA 19-9 ≥129 + polysomy → HR 11
+- **Percutaneous biopsy**: **Avoid** if transplant candidate (needle track metastases)
+- **Suspicious lymph nodes**: EUS-FNA or resection at staging laparoscopy
+
+---
+
+## Expert Consensus (AHPBA / NCCN / ENS-CCA) {.smaller}
+
+
+- Minimum workup: LFTs, CA 19-9, high-quality cross-sectional imaging (chest/abdomen/pelvis), cholangiography — **preferably before stenting**
+- Early multidisciplinary consultation with expert surgeon
+- **Pathologic confirmation NOT required** before surgical exploration if benign etiologies excluded and staging complete
+- **No percutaneous/laparoscopic biopsy** if transplant candidate
+- PET-CT **not** recommended as routine staging tool
+
+
+---
+
+# Classification and Staging
+
+## Bismuth-Corlette Classification {.smaller}
+
+Based solely on **biliary tree involvement**:
+
+- **Type I**: Common hepatic duct
+- **Type II**: Bifurcation (reaches confluence)
+- **Type IIIa**: Extends into right hepatic duct
+- **Type IIIb**: Extends into left hepatic duct
+- **Type IV**: Multifocal or bilateral extension to 2nd-order ducts
+
+::: {.callout}
+**Limitation**: Does NOT account for radial extent (vascular involvement, liver invasion, atrophy)
+:::
+
+---
+
+## MSKCC / Blumgart Staging {.smaller}
+
+Incorporates **vascular involvement** and **lobar atrophy**:
+
+| Stage | Criteria |
+|-------|----------|
+| **T1** | Bile duct bifurcation ± unilateral extension to 2nd-order ducts |
+| **T2** | Unilateral vascular involvement **OR** unilateral lobar atrophy |
+| **T3** | Bilateral/contralateral 2nd-order duct involvement, bilateral vascular involvement, or contralateral atrophy |
+
+::: {.callout}
+Both Bismuth and MSKCC perform **poorly** in predicting resectability (~50% of explored patients are unresectable)
+:::
+
+---
+
+## AJCC/UICC TNM (8th Edition)
+
+- T-stage relies heavily on **vascular invasion** (portal vein or hepatic artery, unilateral or bilateral)
+- Does not define how vascular invasion is determined on imaging
+- Does not define what extent is still resectable
+- **Prognostic accuracy**: Slightly improved vs 7th edition for resected patients, but remains poor for unresectable disease
+
+---
+
+# Preoperative Considerations
+
+## Resectability Goals
+
+1. **Margin-negative (R0) resection**
+2. **Adequate Future Liver Remnant (FLR)**
+
+- Typically requires **hemihepatectomy or greater** + en bloc caudate resection + extrahepatic bile duct resection + lymphadenectomy
+- Complex biliary reconstruction (often multiple hepaticojejunostomies)
+- Sometimes requires portal vein reconstruction
+
+---
+
+## Determining Resection Side {.smaller}
+
+| Factor | Determines |
+|--------|------------|
+| Unilateral lobar atrophy | Resect atrophic side |
+| Unilateral 2nd-order duct involvement | Resect involved side |
+| Unilateral portal vein involvement | Resect involved side |
+| Unilateral hepatic artery involvement | Resect involved side |
+
+- **Bismuth I or II without atrophy/vascular involvement**: Either side possible
+- **Left-sided resection preferred when possible**:
+  - Left lateral sector <20% in 80% of patients
+  - Left hemiliver <20% in 10% of patients
+  - Right liver larger → higher risk of postoperative morbidity/liver failure
+
+---
+
+## FLR Requirements
+
+- **Minimum FLR**: ≥25% of total liver volume (normal liver, no chemotherapy, no biliary obstruction)
+- **pCCA patients**: Typically need **>30–40%** due to biliary obstruction
+- Must include ≥2 contiguous segments with intact:
+  - Arterial inflow
+  - Portal venous inflow
+  - Portal venous outflow
+
+---
+
+## Risk Factors for Postoperative Mortality {.smaller}
+
+**Risk Score Model** (Wiggers et al.):
+
+| Risk Factor | OR | 95% CI | P |
+|-------------|-----|--------|---|
+| Age (per 10 years) | 2.1 | 1.4–3.3 | .001 |
+| Preoperative cholangitis | 4.1 | 1.8–9.4 | .001 |
+| Incomplete drainage + FLR <50% | 2.8 | 1.1–7.5 | .04 |
+| FLR <30% | 2.9 | 1.2–6.9 | .02 |
+| Portal vein reconstruction | 2.3 | 0.9–5.8 | .09 |
+
+**Predicted 90-day mortality**:
+
+- Low risk (0–2 points): **2%**
+- Intermediate (3–4 points): **11%**
+- High risk (5–9 points): **37%**
+
+---
+
+## Additional Risk Factors for Liver Failure
+
+- Albumin <3.5 g/dL
+- Preoperative total bilirubin >3 mg/dL (51 μmol/L)
+- Preoperative cholangitis
+- FLR <30%
+
+::: {.callout}
+**Age is the most important poor prognostic factor** — risk increases rapidly with advanced age
+:::
+
+---
+
+# Optimizing the Future Liver Remnant
+
+## Indications for Biliary Drainage
+
+
+- Cholangitis
+- Jaundice + planned neoadjuvant therapy
+- Liver or renal insufficiency possibly related to hyperbilirubinemia
+- **Small FLR (<50%), especially before portal vein embolization**
+
+
+::: {.callout}
+**Target bilirubin**: <2 mg/dL (34 μmol/L) before surgery
+:::
+
+---
+
+## Biliary Drainage Techniques {.smaller}
+
+| Technique | Notes |
+|-----------|-------|
+| **EBD** (Endoscopic) | Higher crossover rate (56%), more procedures needed |
+| **PTBD** (Percutaneous) | Higher technical success (93% vs 74%), but RCT showed higher 90-day mortality (41% vs 11%) |
+| **ENBD** (Nasobiliary) | Japanese guidelines recommendation; less cholangitis than EBD |
+
+---
+
+## RCT: EBD vs PTBD {.smaller}
+
+**Multicenter RCT** (4 expert centers, n=54, interim analysis):
+
+| Outcome | PTBD | EBD |
+|---------|------|-----|
+| 90-day mortality | **41%** | **11%** (RR 3.67, P=.03) |
+| Technical success | 93% | 74% |
+| Therapeutic success (1 week) | 78% | 63% |
+| Severe drainage complications | 63% | 67% |
+| Severe complications post-surgery | 65% | 55% |
+
+::: {.callout}
+**Trial stopped early** due to excess mortality in PTBD group
+:::
+
+---
+
+## ENBD vs EBD Evidence
+
+- Meta-analysis (198 patients):
+  - **Cholangitis**: EBD 47.1% vs ENBD 25.5% (OR 0.40, P=.005)
+  - **Stent dysfunction**: EBD 62.3% vs ENBD 29.7% (OR 0.26, P<.0001)
+- Nagino et al.: ENBD cohort (n=191) → 37% cholangitis, 27% required reintervention
+
+::: {.callout}
+**ENBD appears superior in Japanese centers; EBD is at least noninferior to PTBD for resectable pCCA**
+:::
+
+---
+
+## When to Avoid Biliary Drainage
+
+- **FLR >50%**: Drainage NOT beneficial
+  - Actually associated with **higher** postoperative mortality
+  - Farges et al.: Left hemihepatectomy (FLR typically >50%) had lower mortality without preoperative drainage
+- **Drain the FLR specifically** — requires expert center to determine resection plan first
+- **Contralateral liver** must be drained if focus of cholangitis (e.g., after endoscopic contamination)
+
+---
+
+## Portal Vein Embolization (PVE) {.smaller}
+
+- **Indication**: FLR <40%
+- **Goal**: Induce FLR hypertrophy to reduce postoperative liver failure
+- First reported by Makuuchi (1990) in 14 pCCA patients — safe, only transient LFT elevations
+
+**Meta-analysis** (Jiao et al., n=1,088 liver resections):
+
+- Morbidity: 2.2%
+- Mortality: 0%
+- Volume increase: Percutaneous 11.9% vs transileocolic 9.7%
+
+---
+
+## PVE in pCCA: International Study {.smaller}
+
+**1,484 patients** undergoing liver resection for pCCA:
+
+| | Western Centers | Eastern Centers |
+|---|-----------------|-----------------|
+| PVE use | 7% | 55% (P<.001) |
+
+**Propensity-matched cohort** (n=98):
+
+- Relative volume increase after PVE: **42%** (median 22 days)
+- **Liver failure**: 36% → 8% (4.4-fold reduction)
+- **Bile leakage**: 35% → 10% (3.5-fold reduction)
+- **90-day mortality**: 18% → 7% (2.6-fold reduction)
+
+::: {.callout}
+**PVE is safe and recommended for FLR <40%**
+:::
+
+---
+
+## ALPPS for pCCA {.smaller}
+
+**Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy**
+
+- Rapidly induces FLR hypertrophy
+- Initially gained popularity after 2007 for select cases
+
+**Outcomes in pCCA**:
+
+- Initial 11 patients: **27% mortality**
+- van Gulik et al. (37 patients, 23 centers): **90-day mortality 48%** (14/29)
+- Matched analysis: Mortality **twice as high** vs non-ALPPS (P=.100)
+- Median OS: 6 months (ALPPS) vs 29 months (controls), P=.048
+
+::: {.callout}
+**ALPPS is NOT recommended for pCCA**
+:::
+
+---
+
+# Liver Transplantation for pCCA 
+
+## Rationale for Transplantation {.smaller}
+
+- Avoids positive margins (~1/3 of resections)
+- Solves inadequate FLR problem
+- Treats underlying PSC (if present)
+
+**Mayo Clinic Criteria**:
+
+- Unresectable, confined to liver
+- Proximal to cystic duct
+- Maximum radial diameter ≤3 cm
+- No metastases
+- Pretreatment with induction chemoradiation
+- Staging surgery with lymph node biopsy to rule out metastases
+
+---
+ 
+## LT Results {.smaller}
+
+| Era | 5-Year Survival |
+|-----|-----------------|
+| Early LT (no neoadjuvant) | 23% |
+| LT + neoadjuvant chemoradiation | **64%** (up to 80% with PSC) |
+| Intention-to-treat | 53–56% |
+
+**ILTS Consensus Recommendations**:
+
+- Diagnostic criteria: Dominant stricture + (positive cytology OR FISH polysomy OR CA 19-9 >100 U/mL without cholangitis)
+- LT after neoadjuvant chemoradiation in centers with specific protocols
+- Prepare for arterial and venous jump grafts
+
+---
+
+## LT vs Resection {.smaller}
+
+- Retrospective comparison:
+  - Resection 5-year OS: **18%**
+  - LT + neoadjuvant: **64%**
+- Subset analysis (R0 resection, no PSC, meeting Mayo criteria):
+  - Resection: **29%**
+  - LT: **54%** (P=.049)
+
+**TRANSPHIL study**: Ongoing RCT comparing neoadjuvant chemoradiation + LT vs liver resection
+
+::: {.callout}
+**Key debate**: Is it selection or induction therapy that drives superior LT outcomes?
+:::
+
+---
+
+## Neoadjuvant Therapy for Resection {.smaller}
+
+- Question raised by excellent LT outcomes with neoadjuvant chemoradiation
+- **Systematic review**: Only 7 studies, 87 patients total, median accrual period 14 years
+- Only 2 studies included upfront resectable patients (n=28 and n=59)
+- Protocols varied widely
+
+::: {.callout}
+**Insufficient data available** on neoadjuvant (chemo)radiation for resectable pCCA
+:::
+
+---
+
+# Prehabilitation
+
+## Enhanced Recovery After Surgery (ERAS) 
+
+- Multimodal perioperative pathway
+- Prehabilitation targets:
+  - **Physical** fitness
+  - **Nutritional** status
+  - **Psychological** health
+
+## Modifiable Risk Factors {.smaller}
+
+- **Albumin <3.5 g/dL** → nutritional optimization
+- **Sarcopenia** → exercise and protein supplementation
+
+**Evidence**:
+
+- Exercise prehabilitation improves physical fitness after HPB surgery
+- Protein supplementation + home-based exercise → shorter hospital stay (23 vs 30 days, P=.045)
+- Effect on complications remains inconclusive
+
+::: {.callout}
+**Prehabilitation justified**, especially in patients with modifiable risk factors
+:::
+
+---
+
+## Key Takeaways {.smaller}
+
+
+1. **Refer to expert center BEFORE biliary drainage** — imaging quality is paramount
+2. **Left-sided resection preferred** when anatomy allows (larger FLR)
+3. **FLR >30–40%** required in pCCA; PVE indicated if <40%
+4. **Biliary drainage of FLR** needed if FLR <50%; avoid if FLR >50%
+5. **ALPPS is contraindicated** in pCCA (unacceptably high mortality)
+6. **LT + neoadjuvant therapy** is viable option for unresectable disease
+7. **Prehabilitation** may improve outcomes in modifiable-risk patients
+8. **Pathologic confirmation not mandatory** before surgical exploration
+
+

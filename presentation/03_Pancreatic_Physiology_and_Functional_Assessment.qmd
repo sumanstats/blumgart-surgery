@@ -1,0 +1,483 @@
+---
+title: "Pancreatic Physiology and Functional Assessment"
+format:
+  revealjs:
+    theme: dark
+    smaller: true
+---
+
+## Overview
+
+- The pancreas is a complex retroperitoneal gland with **endocrine** (glucose homeostasis) and **exocrine** (nutrient digestion) functions.
+- Adult pancreas: ~15 cm in length, 60–100 g; size varies with aging and pathology.
+- Of endodermal origin, arising from two independent primordia that fuse during the 5th week of gestation.
+- Receives abundant arterial supply from the celiac and superior mesenteric arteries.
+- Venous drainage follows arterial supply and ultimately drains into the portal vein.
+- Supplied by sympathetic (splanchnic), parasympathetic (vagus), and peptidergic neurons.
+
+---
+
+## Embryology and Ductal Anatomy
+
+- **Ventral bud** (from hepatic diverticulum) rotates clockwise with the duodenum to fuse with the **dorsal bud** (from developing duodenum).
+- **Ventral bud** forms the inferior pancreatic head and uncinate process.
+- **Dorsal bud** forms the superior head, body, and tail.
+- Main ducts fuse to form the **main pancreatic duct (duct of Wirsung)**, draining through the major duodenal papilla (ampulla of Vater).
+- The **minor pancreatic duct (duct of Santorini)** from the dorsal bud persists, draining through the minor papilla (2 cm anterosuperior to the major papilla).
+
+---
+
+## Endocrine Pancreas: Islets of Langerhans
+
+- Functional units of the endocrine pancreas; de-facto micro-organs within the pancreas.
+- Healthy adult pancreas: ~1 million islets, evenly distributed, accounting for 1–2% of organ mass.
+- Each islet: 50–300 µm in diameter, containing a few hundred to a few thousand endocrine cells.
+- Islets receive ~20% of pancreatic arterial flow, modulated by digestive phases.
+- An **insuloacinar portal system** drains blood and hormones from islets to acinar cells for local regulation.
+
+---
+
+## Islet Cell Types
+
+| Cell Type | Approximate % | Principal Hormone |
+|-----------|---------------|-------------------|
+| α-cells   | ~35%          | Glucagon          |
+| β-cells   | ~55%          | Insulin, Amylin   |
+| δ-cells   | <10%          | Somatostatin      |
+| F cells   | <5%           | Pancreatic Polypeptide (PP) |
+| ε-cells   | <1%           | Ghrelin           |
+
+---
+
+## Human Islet Cytoarchitecture
+
+- Unlike rodents, human islets lack a clear core/shell arrangement.
+- Majority of α-, β-, and δ-cells reside along islet blood vessels without a specific order.
+- ~70% of human β-cells are in contact with non–β-islet cells, favoring paracrine interactions.
+- **Regional variation matters:**
+  - **Body and tail:** higher proportion of α-cells, lower F cells.
+  - **Uncinate process:** higher proportion of F cells, lower α-cells.
+  - β-cells and δ-cells remain in nearly equal proportions throughout.
+
+---
+
+## Islet Innervation and Blood Flow
+
+- Rich in axonal terminals and capillaries for extensive neurohumoral and paracrine regulation.
+- Human β-cells receive **minimal parasympathetic cholinergic innervation** (unlike rodents).
+- Sympathetic terminals innervate smooth muscle cells of islet blood vessels, regulating local blood flow and indirectly influencing endocrine cells.
+- Neuropeptides (NPY, GRP, CGRP) exert local regulatory effects on both endocrine and exocrine function.
+
+---
+
+## Insulin: Synthesis and Storage
+
+- 51-amino acid polypeptide; maintains serum glucose between 4–8 mM (70–140 mg/dL).
+- Gene on chromosome 11 → translation of **preproinsulin** in β-cells.
+- Preproinsulin: 24-aa leader sequence + B, C, and A domains.
+- Cleavage in ER removes leader → **proinsulin**.
+- In trans-Golgi, C-peptide (31 aa) is cleaved, yielding mature insulin (A-chain + B-chain, 2 disulfide bonds).
+- **C-peptide** has a plasma half-life of 30 minutes and is excreted unchanged by the kidneys—making it a clinically meaningful marker of endogenous insulin secretion.
+
+---
+
+## Stimulus-Secretion Coupling: Overview
+
+- Insulin is released via **unstimulated (basal)** secretion every 6–8 minutes and **stimulated** secretion.
+- Major stimuli: glucose, amino acids (arginine), acetylcholine (ACh), glutamate, incretins (GIP, GLP-1).
+- **Glucose concentration is the dominant factor** controlling β-cell function.
+- Primary glucose transporters on human β-cells: **GLUT-1 and GLUT-3** (GLUT-2 in rodents).
+
+---
+
+## Glucose-Stimulated Insulin Secretion (Fig. 3.1)
+
+- Glucose enters via GLUT transporters; intracellular concentration equilibrates with extracellular.
+- If glucose >5 mmol/L, **glucokinase** phosphorylates glucose to glucose-6-phosphate.
+- Metabolism increases cellular **ATP**.
+- **ATP-dependent K⁺ channels close** → membrane depolarization.
+- Depolarization activates **voltage-gated L-type Ca²⁺ channels** → Ca²⁺ influx.
+- Increased intracellular Ca²⁺ triggers exocytosis of insulin-containing granules.
+
+---
+
+## First and Second Phase Insulin Secretion
+
+- **First phase:** rapid secretion within 3–5 minutes of glucose administration; terminates within 10 minutes.
+  - Involves predocked secretory granules.
+  - Loss of first phase is one of the earliest metabolic defects in **type 2 diabetes mellitus (T2DM)**.
+- **Second phase:** longer lasting, reaches a plateau after 2–3 hours.
+  - Characterized by recruitment and mobilization of intracellular granules (not predocked).
+  - Dose-dependent response to glucose.
+
+---
+
+## Amino Acid and Incretin Stimulation
+
+- **L-Arginine:** taken up via cationic amino-acid transporter (CAT); depolarizes membrane and triggers Ca²⁺ influx. Also stimulates GLP-1 release.
+- **Incretin effect:** oral glucose stimulates insulin secretion ~25% more than intravenous glucose.
+  - **GIP:** released by K cells in duodenum/jejunum.
+  - **GLP-1:** released by L cells in distal small bowel, colon, and rectum.
+- GIP and GLP-1 activate adenylate cyclase → ↑cAMP → protein kinase A → phosphorylation of exocytosis proteins and activation of L-type Ca²⁺ channels.
+
+---
+
+## Acetylcholine as a Paracrine Signal
+
+- In humans, ACh acts primarily as a **non-neuronal paracrine signal released from α-cells** (not a neural signal as in rodents).
+- ACh stimulates β-cells via **muscarinic M3 and M5 receptors** → insulin release.
+- ACh stimulates δ-cells via **M1 receptors** → somatostatin release.
+- Somatostatin inhibits insulin secretion, creating both direct stimulatory and indirect inhibitory regulation.
+
+---
+
+## Glucagon and Other Islet Hormones
+
+- **Glucagon** (α-cells): 29-aa peptide counteracting insulin.
+  - Increases blood glucose via glycogenolysis, gluconeogenesis, and ketogenesis.
+  - Acts primarily in liver via cAMP; secretion mostly in response to protein ingestion.
+  - Inhibited by hyperglycemia and paracrine insulin/somatostatin.
+- **Somatostatin** (δ-cells): broadly inhibitory hormone.
+  - Inhibits insulin, glucagon, gastrin, and VIP.
+  - Analogs (e.g., octreotide, pasireotide) used for neuroendocrine tumors and postoperative pancreatic fistula prevention.
+
+---
+
+## Pancreatic Polypeptide and Ghrelin
+
+- **Pancreatic Polypeptide (PP)** (F cells): physiologic role under investigation.
+  - Absence after pancreaticoduodenectomy (uncinate removal) may contribute to **pancreatogenic diabetes (type 3c)**.
+- **Ghrelin** (ε-cells): "hunger hormone"—centrally active neuropeptide.
+  - Participates in metabolic regulation, growth hormone release, and energy balance.
+  - Regulates β-cell functions including blood glucose control and cellular growth.
+
+---
+
+## Pancreatitis Consequences on Endocrine Function
+
+- **Acute Pancreatitis (AP):**
+  - ~40% risk of prediabetes or diabetes after first episode.
+  - ~15% newly diagnosed DM within 12 months; risk increases over time.
+  - 2-fold increase in endocrine insufficiency after necrotizing pancreatitis.
+  - Insulin use within 5 years approaches 14%.
+  - Risk factors: pancreatic necrosis and ethanol etiology.
+- **Chronic Pancreatitis (CP):** DM risk as high as 80%.
+- **Pancreatic Cancer (PDAC):** ~50% have DM at diagnosis; 75% diagnosed within 2 years prior to cancer.
+- **PP deficiency** is a distinctive feature of pancreatogenic diabetes.
+
+---
+
+## Exocrine Pancreas: Overview
+
+- Constitutes **80–90% of gland mass**.
+- Secretes digestive enzymes and ~2000 mL of colorless, odorless, isosmotic alkaline fluid daily (pH 7.6–9.0).
+- Mainly regulated by the neuroendocrine system and integrated with the endocrine pancreas.
+- Two distinct but integrated units: the **acinus** and the **ductal network**.
+
+---
+
+## The Acinus
+
+- Functional unit dedicated to digestive enzyme production and secretion (~20 g daily).
+- Composed of **15–100 pyramidal-shaped acinar cells** (~30 µm apical base height).
+- Polarized epithelial cells rich in rough endoplasmic reticulum with abundant secretory zymogen granules at the apex.
+- Organized concentrically around a central lumen continuous with the intercalated duct.
+- Several acini form a **pancreatic lobule** separated by thin connective tissue layers.
+
+---
+
+## The Ductal Network
+
+- **Two critical functions:**
+  1. Transport exocrine secretions from acini to duodenum.
+  2. Produce bicarbonate- and electrolyte-rich solution.
+- Bicarbonate and water facilitate transport and neutralize acidic chyme, optimizing pH for enzyme activity.
+- **Anatomic sequence:**
+  - Intercalated ducts → Intralobular ducts → Interlobular ducts → Main pancreatic duct → Ampulla of Vater.
+
+---
+
+## Ductal and Centroacinar Cells
+
+- **Intercalated duct cells:** minimal cytoplasm, squamous appearance.
+- **Main pancreatic duct cells:** abundant cytoplasm rich in mitochondria, cuboidal appearance; contain carbonic anhydrase.
+- **Centroacinar cells:** at the junction between acinus and intercalated duct.
+  - Cuboidal, smaller than acinar cells (~10 µm), high nuclear-to-cytoplasm ratio.
+  - Long cytoplasmic processes contacting other cells.
+  - Possible **multipotent progenitor cells**; potentially involved in malignant transformation.
+
+---
+
+## Ductal Epithelial Compartments
+
+- Also known as **pancreatic duct glands**.
+- Distributed along pancreatic ducts as blind outpouchings or small branches.
+- Lined by columnar-shaped cells with abundant supranuclear cytoplasm and basal-located nuclei.
+- Undergo selective expansion during chronic epithelial injury.
+- Hypothesized to contribute to mucinous metaplasia and pancreatic intraepithelial neoplasia.
+
+---
+
+## Neurohormonal Regulation: Secretion Periods
+
+- **Interdigestive period:** between meals, the migrating myoelectric complex (MMC) causes cyclic pancreatic stimulation every 60–120 minutes.
+  - Cholinergic stimuli regulate MMC.
+  - Secretions are bicarbonate-rich; facilitate removal of bacteria and food debris.
+- **Digestive secretion period:** begins after meal ingestion, characterized by three phases:
+  1. Cephalic phase
+  2. Gastric phase
+  3. Intestinal phase
+
+---
+
+## Cephalic and Gastric Phases
+
+- **Cephalic phase:** elicited by anticipation of food, smell, taste, and chewing.
+  - Stimulated via the **vagus nerve**.
+  - Secretions are enzyme-rich with low bicarbonate (acinar-type secretion).
+  - ACh is primary neurotransmitter; GRP and VIP receptors also expressed on acinar cells.
+- **Gastric phase:** initiated once meal reaches the stomach.
+  - Stimulated by gastric distention.
+  - Low volume of enzyme-rich secretion with minimal water and bicarbonate.
+
+---
+
+## Intestinal Phase
+
+- Begins with entry of chyme and gastric acid into the duodenum.
+- **Vasovagal enteropancreatic reflex** mediated through the dorsal vagus center.
+- Chyme activates efferent fibers of enteric neurons → intrapancreatic postganglionic neurons release ACh.
+- Hydrogen ions (pH ≤4.5) stimulate duodenal **S cells** to release **secretin**.
+- Products of fat, protein, and starch digestion stimulate **I cells** to release **CCK**.
+
+---
+
+## Secretin and Ductal Cell Function
+
+- Secretin acts primarily on ductal cells via GPCRs.
+- Causes release of **fluid and bicarbonate**; lesser effect on acinar secretion.
+- Promotes increase of blood flow to the entire organ.
+- During a meal, pancreatic blood flow increases from ~0.2–0.3 mL/min to as much as 4 mL/min.
+- **Bicarbonate concentration** in pancreatic secretions can reach 140–150 mM.
+- **[HCO₃⁻] + [Cl⁻]** remains constant at ~160 mM (chloride varies inversely).
+
+---
+
+## Regulation of Exocrine Secretion
+
+- Tightly regulated by neural, humoral, and paracrine mediators.
+- **ACh** (via M1 and M3 muscarinic receptors on acinar cells) is the principal neurotransmitter.
+- **CCK mechanism:**
+  - Released by duodenal/jejunal I cells in response to digestion products.
+  - Low levels of CCK receptors on human acinar cells.
+  - Intrapancreatic vagal nerve terminals express CCK receptors and release ACh near acinar cells.
+  - CCK-stimulated secretion is largely abolished by **atropine**.
+- Potent stimulant amino acids: phenylalanine, valine, methionine, tryptophan.
+
+---
+
+## Feedback Inhibitory Regulation
+
+- **Proximal gut factors:**
+  - **Monitor peptide** and **luminal CCK-releasing factor (LCRF)**.
+  - Trypsin inactivates both; when trypsin is occupied by chyme, they augment CCK release.
+  - Excess duodenal protease digests them, preventing further pancreatic enzyme secretion.
+- **Distal gut factor:**
+  - **Peptide YY (PYY)** released by ileal/colonic L cells in response to oleic acid.
+  - Acts on the area postrema of the brain to decrease vagal cholinergic mediation of CCK-stimulated secretion.
+
+---
+
+## Digestive Enzymes
+
+- Released as **proenzymes (zymogens):**
+  - Trypsinogen, chymotrypsinogen, procarboxypeptidase, prophospholipase, proelastase, mesotrypsin.
+- Released as **active enzymes:**
+  - α-amylase, lipase, DNase, RNase.
+- **Pancreatic Secretory Trypsin Inhibitor (PSTI)** present in zymogen granules.
+  - Forms stable complex with trypsin to prevent premature activation.
+- **Enterokinase** (brush-border peptidase) activates trypsinogen → trypsin → cascade activation of remaining proenzymes.
+- Acinar cells adapt enzyme synthesis based on diet (regulation at gene transcription level).
+
+---
+
+## Stimulus-Secretion Coupling in Acinar Cells (Fig. 3.3)
+
+- **Major event:** increase in intracellular Ca²⁺ stimulates release of secretory granules.
+- **Gq-coupled pathway (ACh, CCK, substance P, bombesin):**
+  - Phospholipase C → IP₃ + DAG.
+  - IP₃ releases Ca²⁺ from intracellular stores.
+  - DAG activates protein kinase C (PKC).
+- **Gs-coupled pathway (Secretin, VIP):**
+  - Adenylate cyclase → cAMP → protein kinase A (PKA).
+- Activated PKA and PKC phosphorylate specific proteins → digestive enzyme secretion.
+
+---
+
+## Stimulus-Secretion Coupling in Ductal Cells (Fig. 3.4)
+
+- **Apical membrane:** cAMP-activated Cl⁻ channels (**CFTR**), Cl⁻/HCO₃⁻ exchanger (**SLC26A3/A6**), aquaporin 5 (**AQP5**).
+- **Basolateral membrane:** Na⁺/H⁺ exchanger, Na⁺,K⁺-ATPase, K⁺ channels, **AQP1**.
+- **Mechanism:**
+  - Secretin → cAMP → PKA → opens CFTR → Cl⁻ enters ductal lumen.
+  - Cl⁻/HCO₃⁻ exchanger swaps intracellular HCO₃⁻ for luminal Cl⁻.
+  - Na⁺ and water follow by ionic/osmotic gradient.
+- Also regulated by luminal factors: intraductal pressure, calcium concentration, and pathologic protease/bile acid activation.
+
+---
+
+## Functional Assessment: Endocrine Function
+
+- Evaluation revolves around **β-cell function**, considering:
+  1. Capacity to produce insulin.
+  2. Response to secretagogue stimuli.
+  3. Peripheral tissue resistance to insulin (characteristic of T2DM).
+- Challenges:
+  - Nonlinear relationship between insulin secretion and sensitivity.
+  - Nonconstant clearance and hepatic extraction.
+  - Dynamic response to stimuli.
+- Many test models exist but are challenging to execute and lack standardization.
+
+---
+
+## Methods for β-Cell Function Assessment
+
+| Category | Examples |
+|----------|----------|
+| **Basal measurements** | Fasting insulin, fasting C-peptide, fasting proinsulin/insulin ratio, HOMA |
+| **IV stimulation tests** | IV tolerance test, hyperglycemic glucose clamp, graded glucose infusion, arginine stimulation test |
+| **Oral stimulation tests** | Oral glucose tolerance test (OGTT), mixed meal tolerance test (MTT) |
+
+- Basal tests often lack standardization and have wide ranges of sensitivity/specificity.
+- IV tests are mainly used for research; clinical application is limited.
+
+---
+
+## Oral Stimulation Tests
+
+- **OGTT and MTT** provide more physiologic stimuli because they elicit the full **incretin effect**.
+- Both utilize mathematical models that normalize insulin secretion to varying plasma glucose concentrations.
+- **OGTT protocol:**
+  - Overnight fast → oral glucose load (~75 g).
+  - Blood samples collected at baseline and subsequent intervals.
+- **Diagnostic cutoffs (2-hour glucose):**
+  - **Impaired glucose tolerance:** 7.8–11.0 mmol/L.
+  - **Overt T2DM:** ≥11.1 mmol/L.
+- Significant limitation: unpredictable and variable intestinal absorption.
+
+---
+
+## Functional Assessment: Exocrine Function
+
+- Exocrine pancreatic insufficiency (EPI) in adults often results from chronic pancreatitis (CP) or pancreatic/gastric surgery.
+- Leads to maldigestion of fat, protein, and carbohydrates.
+- Clinical consequences: **steatorrhea** (>7 g fecal fat/24 h), weight loss, malnutrition.
+- Human pancreas has significant functional reserve: **>90% parenchymal loss** required before overt steatorrhea becomes evident.
+- Imaging (CT, MRCP, ERCP) identifies advanced disease; mild/initial CP remains a diagnostic challenge.
+
+---
+
+## Pancreatic Function Tests (PFTs)
+
+| Category | Description | Examples |
+|----------|-------------|----------|
+| **Indirect tests** | Noninvasive; evaluate consequences of diminished enzymes | Fecal fat quantification, fecal elastase-1, serum trypsinogen, ¹³C-mixed triglyceride breath test |
+| **Direct tests** | Quantify secretory content (enzyme, bicarbonate, volume) | Noninvasive: fecal chymotrypsin; Invasive: secretin test, CCK test, secretin-CCK test, Lundh test |
+
+- Endoscopic versions (**ePFT**) collect fluid directly from the second portion of the duodenum.
+- No single gold standard test exists.
+
+---
+
+## Indirect Pancreatic Tests
+
+- **Fecal fat quantification:**
+  - Qualitative (Sudan stain) or quantitative (72-hour stool collection).
+  - Diet: 100 g fat/day for 5 days; collect feces for 3 days.
+  - **>7 g/day = steatorrhea** (diagnostic for advanced disease).
+- **¹³C-mixed triglyceride breath test:**
+  - Oral ¹³C-marked substrate hydrolyzed by intestinal lipase.
+  - ¹³CO₂ absorbed and quantified via mass spectrometry or infrared analysis.
+  - Practical alternative to fecal fat test but limited accuracy for early disease.
+- Both are hindered by low sensitivity in early stages.
+
+---
+
+## Noninvasive Direct Tests
+
+- Quantify fecal or serum levels of pancreas-derived enzymes.
+- **Serum trypsinogen:**
+  - Sensitive and specific for **advanced** insufficiency.
+  - Low accuracy for early stages; **<20 ng/mL** is a reasonable cutoff.
+- **Fecal chymotrypsin:**
+  - Synthesized specifically by acinar cells.
+  - Influenced by exogenous enzyme administration (stop ≥2 days before test).
+  - Degraded during intestinal transit and diluted by diarrhea → false positives.
+  
+---
+
+## Noninvasive Direct Tests
+
+- **Fecal elastase-1:**
+  - More reliable than chymotrypsin; not influenced by exogenous enzymes.
+  - More stable during intestinal transit.
+  - **≤15 mg/g stool** (ELISA on spot sample) is diagnostic for CP.
+  - Unreliable after pancreatic resection; cannot evaluate response to enzyme replacement therapy.
+
+---
+
+## Invasive Direct PFTs: Collection Methods
+
+- Require double-lumen gastroduodenal tube:
+  - One lumen in the duodenum for pancreatic secretion collection.
+  - One lumen in the gastric antrum to prevent gastric fluid contamination.
+  - Placement confirmed via fluoroscopy; collection for 1–2 hours after meal or secretagogues.
+- **Endoscopic approaches:**
+  - Direct collection through the endoscope suction channel under duodenal visualization.
+  - Purely endoscopic secretin test (**ePFT**) with aspirates at 0, 15, 30, 45, and 60 minutes.
+  - Allows simultaneous structural evaluation with endoscopic ultrasound.
+
+---
+
+## Classic Stimulation Tests
+
+- **Lundh test (historic):**
+  - Standardized meal (300 mL: 15% carbohydrate, 6% fat, 5% protein).
+  - Dependent on endogenous secretin and CCK release; requires normal duodenal mucosa.
+- **Secretin test:**
+  - IV synthetic secretin bolus (0.2 µg/kg) — *Note: text indicates 0.2 mg/kg, corrected to standard clinical dosing where appropriate, but preserving chapter value if strictly adhering to source.*
+  - Collect four 15-minute aliquots of duodenal fluid.
+  - **Bicarbonate <80 mEq/L** in all four aliquots = exocrine insufficiency.
+  - **Bicarbonate <50 mEq/L** = severe insufficiency.
+  
+---
+
+## Classic Stimulation Tests
+
+- **CCK test:**
+  - Uses CCK or receptor agonist (e.g., cerulein).
+  - Measure lipase concentration over 80 minutes; cutoff **780 IU/L**.
+
+---
+
+## Combined and Advanced Testing
+
+- **Secretin-CCK test:**
+  - Evaluates acinar and ductal function simultaneously.
+  - Measures total secretion output, bicarbonate concentration, and digestive enzyme concentration.
+  - Measuring multiple enzymes (amylase, lipase, tryptase) increases sensitivity.
+  - Pitfall: secretin-stimulated fluid + CCK-stimulated gallbladder contraction dilutes enzymes.
+- **Secretagogue + Imaging:**
+  - **Secretin-enhanced MRI:** diffusion-weighted imaging evaluates capillary blood flow and secretion.
+  - **Secretin-enhanced MRCP:** evaluates duodenal filling as a function of pancreatic secretion.
+  - Growing enthusiasm, but further validation against invasive standards is needed.
+
+---
+
+## Summary
+
+- The pancreas integrates complex endocrine and exocrine functions through specialized cellular architectures.
+- **Endocrine:** islet cells regulate glucose via insulin, glucagon, somatostatin, PP, and ghrelin; paracrine and neural networks fine-tune secretion.
+- **Exocrine:** acinar cells produce digestive enzymes; ductal cells secrete bicarbonate-rich fluid; tightly regulated by neurohormonal feedback.
+- **Functional assessment** requires a multimodal approach—basal, stimulated, indirect, and direct tests—to evaluate both endocrine and exocrine integrity.
+- No single gold standard exists for exocrine evaluation; test selection depends on clinical context and disease stage.

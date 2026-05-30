@@ -1,0 +1,1653 @@
+# 09E Advances in the Molecular Characterization of Biliary Tract and Gallbladder Cancer
+
+Generated with Claude.
+
+
+**1. Which cells give rise to biliary tract tumors?**
+
+- Hepatocytes
+- Kupffer cells
+- **Cholangiocytes**
+- Hepatic stellate cells
+
+*Explanation: Biliary tract tumors arise from cholangiocytes residing in the biliary tree, as first described by Durand-Fardel in 1840.*
+
+---
+
+**2. Which of the following best describes intrahepatic cholangiocarcinoma (IHCC)?**
+
+- Cancer arising within the extrahepatic biliary tree
+- Cancer arising within the gallbladder
+- **Cancer arising within the liver from intrahepatic bile ducts**
+- Cancer arising from hepatic progenitor cells exclusively
+
+*Explanation: IHCC arises within the liver from the intrahepatic bile ducts and is also known as peripheral CCA.*
+
+---
+
+**3. What is combined or mixed hepatocellular cholangiocarcinoma (C-HCC)?**
+
+- A pure hepatocellular carcinoma with biliary invasion
+- A cholangiocarcinoma metastatic to the liver
+- **A tumor with cells having a phenotype intermediate between HCC and CCA**
+- A gallbladder carcinoma with hepatic extension
+
+*Explanation: C-HCC has cells with a phenotype that is intermediate between hepatocellular carcinoma (HCC) and cholangiocarcinoma (CCA), and is considered a subtype of IHCC.*
+
+---
+
+**4. Where does the transition between hilar and distal CCA occur in current AJCC/NCCN guidelines?**
+
+- At the hepatic bifurcation
+- At the ampulla of Vater
+- **Proximal to the cystic duct**
+- At the common hepatic duct
+
+*Explanation: According to current AJCC TNM Classification and NCCN guidelines, the transition between hilar and distal CCA occurs proximal to the cystic duct.*
+
+---
+
+**5. Which of the following is the most common histologic type of biliary tract tumor?**
+
+- Squamous cell carcinoma
+- Small cell carcinoma
+- **Adenocarcinoma**
+- Neuroendocrine tumor
+
+*Explanation: The vast majority of biliary tract tumors are adenocarcinomas, and they most often arise at or near the biliary confluence.*
+
+---
+
+**6. What are the three growth subtypes of intrahepatic cholangiocarcinoma (IHCC)?**
+
+- Tubular, papillary, and mucinous
+- Nodular, infiltrative, and polypoid
+- **Mass-forming, periductal-infiltrating, and intraductal growing**
+- Exophytic, endophytic, and diffuse
+
+*Explanation: IHCCs can be subcategorized by their growth characteristics into three groups: mass-forming, periductal-infiltrating, or intraductal growing types.*
+
+---
+
+**7. Which ICD-O edition assigned hilar tumors a unique histology code but incorrectly cross-referenced them to intrahepatic topography?**
+
+- ICD-O-1
+- **ICD-O-2**
+- ICD-O-3
+- ICD-O-4
+
+*Explanation: In ICD-O-2, hilar tumors were assigned a unique histology code, but this was cross-referenced to the topography code for intrahepatic rather than extrahepatic tumors.*
+
+---
+
+**8. In which population does gallbladder cancer (GBCA) have a distinctly higher incidence?**
+
+- Males in North America
+- Asian males
+- **Females and populations in South America**
+- Elderly males in Europe
+
+*Explanation: GBCA has a higher incidence among females and in South America, while IHCC is more common in Asia.*
+
+---
+
+**9. What is the peak decade of incidence for biliary tract cancers?**
+
+- Fifth decade
+- Sixth decade
+- **Seventh decade**
+- Eighth decade
+
+*Explanation: The peak incidence of the biliary tract cancers is the seventh decade of life, with a slightly higher male predilection.*
+
+---
+
+**10. In 2019, how many new IHCC cases were estimated in the United States?**
+
+- 3,200
+- **6,300**
+- 9,500
+- 12,360
+
+*Explanation: In the United States, an estimated 6,300 new IHCC cases were diagnosed in 2019, whereas 12,360 new EHCC or GBCA cases were diagnosed.*
+
+---
+
+**11. Which region has the highest incidence rate of biliary tract cancer?**
+
+- Sub-Saharan Africa
+- Western Europe
+- **Northeast Thailand**
+- South America
+
+*Explanation: The highest incidence rate is in Northeast Thailand (ASIR: 85/100,000 population), where it occurs approximately 100 times more often than in the West.*
+
+---
+
+**12. What is the age-standardized incidence rate (ASIR) of biliary tract cancer in Northeast Thailand?**
+
+- 15/100,000
+- 35/100,000
+- 60/100,000
+- **85/100,000**
+
+*Explanation: The highest incidence rate is in Northeast Thailand with an age-standardized incidence rate of 85/100,000 population.*
+
+---
+
+**13. What was the estimated annual percent change (eAPC) for IHCC incidence in the United States from 1999 to 2013?**
+
+- 1.2%
+- 1.8%
+- **3.2%**
+- 4.5%
+
+*Explanation: In the United States, IHCC incidence rates steadily increased from 1999 to 2013 with an estimated annual percent change of 3.2% for IHCC and 1.8% for EHCC.*
+
+---
+
+**14. In which group did GBCA incidence increase despite overall stable or declining rates?**
+
+- Asian Americans and people aged over 65 years
+- Hispanic Americans and people aged 45–60 years
+- **African Americans and people aged less than 45 years**
+- Native Americans and people aged 60–75 years
+
+*Explanation: Although overall GBCA incidence has been stable or declining, it increased among African Americans (eAPC: 1.8%) and people aged less than 45 years (eAPC: 1.8%).*
+
+---
+
+**15. Which liver flukes are major causes of biliary tract cancer in East Asia?**
+
+- Fasciola hepatica and Schistosoma mansoni
+- Echinococcus granulosus and Taenia solium
+- **Opisthorchis viverrini and Clonorchis sinensis**
+- Ascaris lumbricoides and Strongyloides stercoralis
+
+*Explanation: Liver flukes Opisthorchis viverrini and Clonorchis sinensis are major causes in East Asia, especially in Thailand and Laos.*
+
+---
+
+**16. By how much does Thorotrast increase the odds ratio of developing CCA?**
+
+- 10-fold
+- 32-fold
+- **64-fold**
+- 100-fold
+
+*Explanation: Thorotrast, previously used as an intravascular contrast agent, is carcinogenic and associated with a 64-fold increased odds ratio of developing CCA.*
+
+---
+
+**17. What is the most common predisposing condition for cholangiocarcinoma (CCA)?**
+
+- Choledochal cysts
+- Viral hepatitis B
+- Cholelithiasis
+- **Primary sclerosing cholangitis (PSC)**
+
+*Explanation: PSC is the most common condition predisposing to CCA, with incidence rates of 0.5 to 1.5 per 100 person-years reported in patients with PSC (400-fold the risk in the general population).*
+
+---
+
+**18. How many times greater is the risk of CCA in patients with PSC compared to the general population?**
+
+- 50-fold
+- 100-fold
+- 200-fold
+- **400-fold**
+
+*Explanation: PSC is associated with incidence rates of CCA of 0.5 to 1.5 per 100 person-years in patients with PSC, which is 400-fold the risk in the general population.*
+
+---
+
+**19. In adult PSC patients, CCA most commonly develops at what time relative to PSC diagnosis?**
+
+- More than 5 years after PSC diagnosis
+- 2–5 years after PSC diagnosis
+- **Less than 1 year after PSC diagnosis**
+- At the time of PSC diagnosis
+
+*Explanation: CCA in adult PSC patients is seen most commonly less than 1 year after the diagnosis of PSC.*
+
+---
+
+**20. What is the risk of malignant change associated with congenital abnormalities of the biliary tree such as choledochal cysts?**
+
+- 5%
+- 10%
+- **15%**
+- 25%
+
+*Explanation: Congenital abnormalities of the biliary tree, congenital hepatic fibrosis, and choledochal cysts also carry a 15% risk of malignant change.*
+
+---
+
+**21. With untreated choledochal cysts, what is the estimated risk of developing biliary tract cancers?**
+
+- 10%
+- 15%
+- 20%
+- **28%**
+
+*Explanation: With untreated choledochal cysts, the risk of biliary tract cancers increases to 28%.*
+
+---
+
+**22. Which bile salt transporter protein polymorphisms can lead to unstable bile content and deconjugation of xenobiotics?**
+
+- ABCA1, ABCG5, and ABCG8
+- SLC10A1, SLC10A2, and OATP1B1
+- **BSEP, ATP8B1, and ABCB4**
+- MDR1, MRP1, and BCRP
+
+*Explanation: Polymorphisms in bile salt transporter proteins (i.e., BSEP, ATP8B1, and ABCB4) can lead to unstable bile content and deconjugation of environmental toxins previously conjugated in the liver.*
+
+---
+
+**23. Which environmental exposures are known to increase DNA double-strand breaks and are associated with biliary tract cancer?**
+
+- Benzene and polychlorinated biphenyls
+- Arsenic and cadmium
+- **1,2-dichloropropane and asbestos fibers**
+- Radon and formaldehyde
+
+*Explanation: Exposures to 1,2-dichloropropane and asbestos fibers also increase DNA double-strand breaks and are associated with biliary tract cancer development.*
+
+---
+
+**24. Lynch syndrome is an autosomal dominant predisposition affecting which DNA repair mechanism?**
+
+- Nucleotide excision repair
+- Base excision repair
+- **DNA mismatch repair**
+- Non-homologous end joining
+
+*Explanation: Lynch syndrome is an autosomal dominant predisposition for DNA mismatch repair and is associated with a high incidence of several cancers including bile duct cancer.*
+
+---
+
+**25. What is the associated lifetime risk for bile duct cancer in patients with Lynch syndrome?**
+
+- Less than 0.5%
+- **1% to 4%**
+- 5% to 10%
+- 11% to 20%
+
+*Explanation: The associated lifetime risk for bile duct cancer in patients with Lynch syndrome is 1% to 4%.*
+
+---
+
+**26. What is the role of CYP39A1 in cholangiocarcinoma?**
+
+- It promotes tumor angiogenesis
+- It activates oncogenes via methylation
+- **It is downregulated in 70% of CCA and plays a role in inflammatory response and oxidative stress**
+- It drives epithelial-mesenchymal transition
+
+*Explanation: CYP39A1, which metabolizes 24-hydroxycholesterol, is downregulated in 70% of CCA and plays an important role in the inflammatory response and oxidative stress. Low expression of CYP39A1 correlates with disease metastasis.*
+
+---
+
+**27. Which CYPs are upregulated in Opisthorchis-associated CCA?**
+
+- CYP1A1 and CYP1B1
+- CYP3A4 and CYP2D6
+- **CYP2A6 and CYP2E1**
+- CYP2C9 and CYP2C19
+
+*Explanation: CYP2A6 and CYP2E1 are upregulated in Opisthorchis-associated CCA, indicating that enhanced CYP2A6 activity and diminished CYP2E1 activity are involved in the progression of CCA.*
+
+---
+
+**28. What is the role of ABCC2 (MRP2) in biliary cancer predisposition?**
+
+- It promotes cancer by activating KRAS
+- It suppresses cancer by activating TP53
+- **It plays a role in biliary clearance of toxic compounds, and the variant c.3972C>T is associated with carcinogenesis**
+- It inhibits metastasis by downregulating VEGF
+
+*Explanation: ABCC2 (MRP2) plays an important role in biliary clearance of endogenous and exogenous toxic compounds. The ABCC2 variant c.3972C>T in exon 28 has been shown to be associated with the risk of carcinogenesis.*
+
+---
+
+**29. Which genes encode DNA glycosylases involved in repair of oxidative base damage that are associated with CCA?**
+
+- MLH1 and MSH2
+- BRCA1 and BRCA2
+- **h-MUTYH and NEIL1**
+- ATM and CHEK2
+
+*Explanation: The human mutY DNA glycosylase (h-MUTYH) and Nei-like DNA glycosylase (NEIL) 1 genes encode DNA glycosylases involved in repair of oxidative base damage, and mutations in these genes are associated with CCA.*
+
+---
+
+**30. What percentage of CCA tissues showed significantly increased AID (activation-induced cytidine deaminase) expression?**
+
+- 50%
+- 70%
+- 80%
+- **93%**
+
+*Explanation: Reverse transcription polymerase chain reaction analyses revealed that AID was significantly increased in 28 of 30 (93%) CCA tissues, whereas only trace amounts of AID were detected in the normal liver.*
+
+---
+
+**31. AID production in biliary cells is induced via which pathway in response to TNF-α stimulation?**
+
+- JAK/STAT pathway
+- PI3K/AKT pathway
+- MAPK/ERK pathway
+- **NF-κB–dependent pathway**
+
+*Explanation: Ectopic AID production is induced in response to tumor necrosis factor-α (TNF-α) stimulation via a nuclear factor kappa B (NF-κB)–dependent pathway.*
+
+---
+
+**32. Which somatic mutations in tumor-related genes are generated by aberrant AID expression in biliary cells?**
+
+- KRAS, BRAF, and PIK3CA
+- IDH1, IDH2, and FGFR2
+- **TP53, c-MYC, and the CDKN2A promoter region**
+- ERBB2, MET, and AKT1
+
+*Explanation: Aberrant expression of AID in biliary cells results in the generation of somatic mutations in tumor-related genes, including tumor protein 53 (TP53), c-MYC, and the promoter region of the cyclin-dependent kinase inhibitor A (CDKN2A) sequences.*
+
+---
+
+**33. In the study of Thai CCA patients, which CYP1A2 genotype conferred a decreased risk of CCA?**
+
+- CYP1A2*1F/*1F
+- CYP1A2*1A/*1F
+- CYP1A2*1B/*1B
+- **CYP1A2*1A/*1A**
+
+*Explanation: The CYP1A2*1A/*1A genotype conferred a decreased risk of cancer (adjusted OR 0.28; 95% CI, 0.08 to 0.94) compared with CYP1A2*1F/1*F in Thai CCA patients.*
+
+---
+
+**34. Which NAT2 polymorphisms were associated with lower risk of CCA in Thai patients?**
+
+- NAT2*4 and NAT2*5
+- NAT2*7A and NAT2*7B
+- **NAT2*13 (rapid) and the slow alleles *6B and *7A**
+- NAT2*10 and NAT2*11
+
+*Explanation: Frequency distributions of rapid NAT2*13 and two slow alleles, *6B and *7A, were associated with lower risk of CCA in the Thai study population.*
+
+---
+
+**35. What is the role of Trefoil Factor Family 1 (TFF1) in invasive IHCC?**
+
+- It is overexpressed and promotes invasion
+- It drives angiogenesis
+- **Its expression is significantly decreased, which may lead to increased cell proliferation**
+- It activates KRAS mutations
+
+*Explanation: TFF1 expression was significantly decreased in invasive IHCC, despite preserved expression of MUC5AC. Decreased TFF1 expression is critical for maintenance of the epithelial barrier and can lead to increased cell proliferation and the invasive character of IHCC.*
+
+---
+
+**36. What is the mechanism by which IL-6 promotes CCA growth?**
+
+- By directly activating KRAS oncogene
+- By inducing FGFR2 fusions
+- **By acting as an autocrine promoter that enhances telomerase and decreases cellular senescence**
+- By promoting TP53 degradation
+
+*Explanation: IL-6 acts as an autocrine promoter of cell growth in CCA. IL-6 stimulation leads to enhanced telomerase, decreased cellular senescence, and thereby increased CCA growth.*
+
+---
+
+**37. In the 2009 Miller study using unsupervised hierarchical clustering, what was found regarding gene expression in biliary cancers?**
+
+- IHCC and GBCA showed completely distinct gene expression patterns
+- EHCC had unique gene expression patterns compared to IHCC
+- GBCA clustered separately from all other biliary cancers
+- **Cancers from different biliary sites did not cluster separately, implying no difference in global gene expression patterns**
+
+*Explanation: Unsupervised hierarchical clustering analysis revealed that cancers from these different sites did not cluster separately, implying no difference in global gene expression patterns between the biliary cancer subgroups.*
+
+---
+
+**38. Which mutations are more common in IHCC according to next-generation sequencing studies?**
+
+- KRAS and TP53
+- ERBB2 and PIK3CA
+- **IDH1/2 mutations, BAP1 mutations, and FGFR2 fusions**
+- SMAD4 and PTEN
+
+*Explanation: IDH1/2 and BAP1 mutations, as well as FGFR2 fusions, are more common in IHCC, whereas KRAS, TP53, and SMAD4 mutations are more frequent in EHCC.*
+
+---
+
+**39. Which mutations are more commonly observed in gallbladder cancer (GBCA)?**
+
+- IDH1 and FGFR2 fusions
+- BAP1 and IDH2
+- KRAS and TP53
+- **Activating ERBB2/ERBB3 and PIK3CA mutations, along with inactivating PTEN and TSC1 mutations**
+
+*Explanation: Activating ERBB2/ERBB3 and PIK3CA mutations, as well as inactivating PTEN and TSC1 mutations, are more commonly observed in GBCA.*
+
+---
+
+**40. The first study to delineate molecular differences between biliary tract cancer subtypes using NGS was published by which group?**
+
+- Miller and colleagues in 2009
+- Jain and colleagues in 2016
+- Okamura and colleagues in 2021
+- **Borger and colleagues in 2012**
+
+*Explanation: The first study to begin delineating molecular differences between biliary tract cancer subtypes was reported by Borger and colleagues in 2012, who studied 287 gastrointestinal cancer patients and evaluated 15 known cancer genes.*
+
+---
+
+**41. In the Borger 2012 study, what was the prevalence of IDH1 mutations in IHCC?**
+
+- 5%
+- 10%
+- 15%
+- **20%**
+
+*Explanation: According to Table 9E.1 from the Borger 2012 study, IDH1 mutations were found in 20% of IHCC cases, while none were found in EHCC or GBCA.*
+
+---
+
+**42. What is the overall prevalence range of IDH1 mutations across combined cohorts of IHCC?**
+
+- 5%–10%
+- 10%–15%
+- **15%–29%**
+- 30%–45%
+
+*Explanation: Combining several cohorts of biliary tract cancers, mutations in IDH1 were found in 15% to 29% of IHCC cases, whereas none or few were identified in EHCC or GBCA cases.*
+
+---
+
+**43. What is the prevalence range of IDH2 mutations in IHCC?**
+
+- 0%–2%
+- **3%–6%**
+- 7%–12%
+- 13%–18%
+
+*Explanation: IDH2 mutations were found in 3% to 6% of IHCC cases, while IDH1 mutations were found in 15% to 29% of IHCC cases.*
+
+---
+
+**44. Which small molecule IDH inhibitor improved progression-free survival in CCA patients with mutant IDH1 in the ClarIDHy study?**
+
+- Enasidenib
+- Vorasidenib
+- AG-881
+- **Ivosidenib**
+
+*Explanation: In the ClarIDHy multicenter randomized controlled study, ivosidenib (a small molecule IDH inhibitor) improved progression-free survival in CCA patients with mutant IDH1.*
+
+---
+
+**45. What is the role of FGFR2 as a receptor tyrosine kinase?**
+
+- DNA repair and cell cycle arrest
+- Bile acid metabolism
+- **Cell differentiation, growth, and angiogenesis**
+- Immune checkpoint regulation
+
+*Explanation: FGFR2 is a receptor tyrosine kinase (RTK) which plays an important role in cell differentiation, growth, and angiogenesis.*
+
+---
+
+**46. FGFR genomic alterations in IHCC are more frequently found in which patient subgroup?**
+
+- Elderly patients with cirrhosis
+- Asian patients with liver fluke infection
+- **Younger patients (≤40 years), earlier cancer stage, and Caucasian race**
+- Patients with prior PSC and inflammatory bowel disease
+
+*Explanation: FGFR genomic alterations occur more frequently in IHCC patients of younger age (≤40 years), earlier cancer stage presentation (TNM stage I/II), and Caucasian race.*
+
+---
+
+**47. What is the prevalence range of FGFR2 alterations in IHCC?**
+
+- 1%–5%
+- **5%–50%**
+- 51%–60%
+- Less than 1%
+
+*Explanation: FGFR2 alterations, mostly fusions, are seen in 5% to 50% of IHCC. These FGFR2 activating alterations confer sensitivity to FGFR inhibitors.*
+
+---
+
+**48. Which FGFR inhibitors have demonstrated antitumor activity in IHCC harboring FGFR2 fusions?**
+
+- Imatinib and dasatinib
+- Sorafenib and sunitinib
+- **Erdafitinib and pemigatinib**
+- Erlotinib and gefitinib
+
+*Explanation: FGFR2 activating alterations confer sensitivity to FGFR inhibitors such as erdafitinib and pemigatinib, with clinical trials demonstrating meaningful antitumor activity and better overall survival.*
+
+---
+
+**49. ERBB2 (HER2/neu) amplification and mutation are more frequently found in which biliary tract cancer subtypes?**
+
+- IHCC only
+- IHCC and EHCC equally
+- **GBCA and EHCC more than IHCC**
+- GBCA only
+
+*Explanation: Amplification and mutation of ERBB2 more frequently occur in GBCA and EHCC than in IHCC.*
+
+---
+
+**50. According to pre-NGS era data, what percentage of IHCC cases show overexpression of EGFR?**
+
+- 1%–5%
+- 5%–10%
+- **11%–27%**
+- 28%–45%
+
+*Explanation: According to data from the pre-NGS era, overexpression of EGFR can be seen in 11% to 27% of IHCC cases and 5% to 19% of EHCC cases.*
+
+---
+
+**51. What function does the BAP1 gene serve in cells?**
+
+- It activates FGFR2 fusions
+- It encodes a DNA mismatch repair enzyme
+- **It encodes an enzyme regulating the ubiquitin-proteasome protein degradation pathway and acts as a tumor suppressor gene**
+- It controls bile acid synthesis
+
+*Explanation: The BAP1 (BRCA1 associated protein-1) gene encodes an enzyme regulating the ubiquitin-proteasome protein degradation pathway and acts as a tumor suppressor gene. Inactivation leads to carcinogenesis.*
+
+---
+
+**52. What is the prevalence range of BAP1 mutations in IHCC?**
+
+- 0%–5%
+- 5%–9%
+- **10%–20%**
+- 21%–30%
+
+*Explanation: BAP1 mutations are seen in 10% to 20% of IHCC cases and 0% to 5% of EHCC/GBCA cases, making it a more IHCC-specific alteration.*
+
+---
+
+**53. Which drugs are suggested as therapeutic targets for BAP1-mutant biliary cancers?**
+
+- FGFR inhibitors and IDH inhibitors
+- KRAS inhibitors and MEK inhibitors
+- **EZH2 inhibitors, PARP inhibitors, and HDAC inhibitors**
+- Immunotherapy and anti-VEGF agents
+
+*Explanation: Clinical and preclinical studies suggest that BAP1-mutation can be a target from EZH2 inhibitors, PARP inhibitors, and HDAC inhibitors.*
+
+---
+
+**54. Although exceedingly rare in biliary tract cancers, which alteration shows remarkable antitumor activity with corresponding inhibitors?**
+
+- ERBB3 overexpression
+- PIK3CA mutation
+- **NTRK fusions**
+- PTEN deletion
+
+*Explanation: Although NTRK fusions are exceedingly rare in biliary tract cancers, the antitumor activity of NTRK inhibitors (larotrectinib and entrectinib) is remarkable, with all CCA patients with NTRK fusions responding, often with long-lasting responses.*
+
+---
+
+**55. Which NTRK inhibitors demonstrated efficacy in clinical trials including CCA patients?**
+
+- Crizotinib and alectinib
+- Osimertinib and afatinib
+- **Larotrectinib and entrectinib**
+- Dabrafenib and trametinib
+
+*Explanation: Clinical trials demonstrating the efficacy of NTRK inhibitors, specifically larotrectinib and entrectinib, for patients with NTRK fusions included CCA patients who all responded with often long-lasting responses.*
+
+---
+
+**56. In the Okamura et al. 2021 study, what was associated with longer progression-free survival in advanced biliary tract cancers?**
+
+- Standard gemcitabine-based regimens
+- High-dose chemotherapy
+- **Molecularly matched therapeutic regimens based on NGS genomic profiling**
+- Surgical resection combined with chemotherapy
+
+*Explanation: The Okamura et al. 2021 nonrandomized study demonstrated that molecularly matched therapeutic regimens based on NGS genomic profiling was significantly associated with longer progression-free survival and higher disease control rate than unmatched regimens.*
+
+---
+
+**57. Which epigenetic mechanisms are involved in gene regulation in biliary tract cancers?**
+
+- Telomere shortening, gene amplification, and chromosomal translocation
+- Splicing variations, frameshift mutations, and copy number variations
+- **DNA methylation, histone modification, and noncoding RNAs**
+- DNA double-strand breaks, mismatch repair, and nucleotide excision repair
+
+*Explanation: Epigenetic mechanisms involved in gene regulation include DNA methylation, histone modification, and noncoding RNAs, all of which have been shown to play roles in biliary tract cancer tumorigenesis.*
+
+---
+
+**58. Point mutations in CpG islands of which cell-cycle regulator result in inactivation leading to CCA cell proliferation?**
+
+- CDK4
+- RB1
+- CDKN2B (p15)
+- **P16INK4A (CDKN2A)**
+
+*Explanation: Point mutation in CpG islands of the cell-cycle regulator P16INK4A results in inactivation of the gene and leads to the proliferation or vascular invasion of CCA cell.*
+
+---
+
+**59. What is the function of the MLH1 gene whose inactivation contributes to CCA tumorigenesis?**
+
+- It encodes a tumor suppressor for cell cycle arrest
+- It encodes a bile salt transporter
+- **It is a DNA mismatch repair gene**
+- It encodes a histone deacetylase
+
+*Explanation: Inactivation of the MLH1 gene, a DNA mismatch repair gene, contributes to the tumorigenesis of CCA. DNA mismatch repair deficiency is a major molecular pathway of genetic instability in cancer.*
+
+---
+
+**60. High microsatellite instability (MSI-High) is predictive of responsiveness toward which treatment?**
+
+- FGFR inhibitors
+- IDH inhibitors
+- Anti-VEGF therapy
+- **Immune checkpoint blockade**
+
+*Explanation: High microsatellite instability (MSI-High) is one of the most predictive biomarkers of responsiveness toward immune checkpoint blockade.*
+
+---
+
+**61. In what percentage of CCA cells has promoter hypermethylation of SOCS-3 been noted?**
+
+- 10%
+- 15%
+- 20%
+- **27%**
+
+*Explanation: Promoter hypermethylation of SOCS-3 (regulator of glucose transport), which is implicated in IL-6/STAT3 activation, has been noted in 27% of CCA cells.*
+
+---
+
+**62. What percentage of IHCC tumors show alteration in the RUNX3 gene?**
+
+- 18%
+- 27%
+- **42%**
+- 56%
+
+*Explanation: Runt-related transcription factor 3 (RUNX3) is altered in 42% of IHCC tumors. p14ARF, which prevents TP53 degradation, has been reported as altered in 18% of tumors.*
+
+---
+
+**63. What is the consequence of HDAC overexpression in CCA?**
+
+- Tumor suppression and improved survival
+- Decreased tumor invasion
+- **Malignant behavior and poorer disease-free survival**
+- Enhanced immune surveillance
+
+*Explanation: Histone deacetylase (HDAC) regulates cell cycle progression and differentiation, and its overexpression in CCA is associated with the malignant behavior and poorer disease-free survival in CCA.*
+
+---
+
+**64. Which long noncoding RNA (lncRNA) is reported to promote tumor growth and metastasis of CCA cells in vivo?**
+
+- NEAT-1
+- HOTAIR
+- MALAT1
+- **AFAP1-AS1**
+
+*Explanation: A long noncoding RNA (lncRNA), actin filament associated protein 1 antisense RNA1 (AFAP1-AS1), is reported to promote the tumor growth and metastasis of CCA cells in vivo.*
+
+---
+
+**65. BAP1-dependent expression of which lncRNA modulates sensitivity to gemcitabine in CCA?**
+
+- AFAP1-AS1
+- HOTAIR
+- **NEAT-1 (nuclear paraspeckle assembly transcript 1)**
+- XIST
+
+*Explanation: The BRCA-1 associated protein-1 (BAP1) is a chromatin modulator, and BAP1-dependent expression of lncRNA NEAT-1 modulates sensitivity to gemcitabine in CCA.*
+
+---
+
+**66. Which microRNA is associated with tumor growth and metastasis of CCA and modulates chemotherapy-induced apoptosis via PTEN-dependent PI3K pathway regulation?**
+
+- miR-22
+- miR-155
+- **miR-21**
+- miR-200c
+
+*Explanation: The increased expression of miR-21 is associated with tumor growth and metastasis of CCA and modulates chemotherapy-induced apoptosis by regulating PTEN-dependent activation of the PI3K signaling pathway.*
+
+---
+
+**67. Which microRNA mediates chemotherapy resistance by regulating clonal expansion of CD133+ cells in biliary tract cancers?**
+
+- miR-21
+- miR-24
+- miR-155
+- **miR-1249**
+
+*Explanation: MiR-1249 expression is increased in biliary tract cancers and mediates chemotherapy resistance by regulating the clonal expansion of CD133+ cells.*
+
+---
+
+**68. miR-24 promotes CCA progression by decreasing the expression of which tumor suppressor gene?**
+
+- PTEN
+- TP53
+- **MEN1**
+- RB1
+
+*Explanation: The expression of miR-24 leads to the decrease of a tumor suppressor gene MEN1, and miR-24 inhibition possibly attenuates the tumor progression of CCA.*
+
+---
+
+**69. Which embryonic signaling pathways are important regulators of proliferation, survival, self-renewal, and development that are dysregulated in biliary tract cancers?**
+
+- TGF-β, Wnt, PI3K, and JAK/STAT
+- EGFR, MET, VEGF, and FGF
+- KRAS, BRAF, MEK, and ERK
+- **Hedgehog (Hh), Wnt/β-catenin, NOTCH, and HIPPO**
+
+*Explanation: The Hh, Wnt/β-catenin, NOTCH, and HIPPO signaling pathways are important regulators of proliferation, survival, self-renewal, and development in embryos and cancers in adults.*
+
+---
+
+**70. In CCA, what roles does the NOTCH pathway serve?**
+
+- Only tumor suppression
+- Exclusively angiogenesis
+- Only cell cycle arrest
+- **Cell proliferation, apoptosis, migration, invasion, and EMT while working with TP53**
+
+*Explanation: The NOTCH pathway has been shown to regulate cell proliferation, apoptosis, migration, invasion, and epithelial-mesenchymal transition (EMT) while working in concert with TP53 to regulate cell viability.*
+
+---
+
+**71. The NOTCH pathway protein DLL4 correlates with poor survival in which biliary tract cancers?**
+
+- IHCC only
+- IHCC and GBCA
+- **EHCC and GBCA**
+- All biliary tract cancers equally
+
+*Explanation: Aberrant expression of NOTCH receptors 1 and 3 play a role during cancer progression, and the NOTCH pathway protein DLL4 correlates with poor survival in EHCC and GBCA.*
+
+---
+
+**72. Although genomic mutations in APC are rare in CCA, which pathway has been shown to play a key role in progression?**
+
+- NOTCH pathway
+- Hedgehog pathway
+- IDH pathway
+- **Wnt/β-catenin pathway**
+
+*Explanation: Multiple studies have suggested that the Wnt/β-catenin pathway plays the key role in progression of CCA cells, although genomic mutations in genes including APC are rare.*
+
+---
+
+**73. How does the HIPPO signaling pathway contribute to CCA?**
+
+- By suppressing tumor angiogenesis
+- By activating IDH1/2 mutations
+- **By regulating proliferation and apoptosis via YAP1 and promoting angiogenesis through pro-angiogenic proteins**
+- By enhancing immune checkpoint activity
+
+*Explanation: The HIPPO signaling pathway regulates proliferation and apoptosis of cholangiocarcinoma cells via yes-associated protein 1 (YAP1) and also promotes angiogenesis by regulating the expression of secreted pro-angiogenic proteins.*
+
+---
+
+**74. Nuclear YAP expression represents a biomarker of response to which therapy in CCA?**
+
+- IDH-directed therapy
+- Immunotherapy
+- Chemotherapy with gemcitabine
+- **FGFR-directed therapy**
+
+*Explanation: Nuclear YAP expression was shown to represent a biomarker of response to FGFR-directed therapy in CCA.*
+
+---
+
+**75. What does overexpression of EGFR in CCA activate that can inhibit apoptosis while enhancing tumor growth?**
+
+- PI3K/AKT/mTOR
+- IDH1/2
+- NOTCH/HH
+- **MAPK and p38 signaling, which increases COX-2**
+
+*Explanation: Aberrant phosphorylation of EGFR activates MAPK and p38 signaling, which can increase cyclooxygenase-2 (COX-2). In turn, this can inhibit apoptosis while enhancing tumor growth.*
+
+---
+
+**76. In vitro EGFR inhibition with erlotinib showed cell proliferation of CCA cells, but in vivo what dual blockage is necessary?**
+
+- EGFR and FGFR
+- EGFR and IDH1
+- EGFR and VEGFR
+- **EGFR and ERBB1/ERBB2 with lapatinib**
+
+*Explanation: Although in vitro EGFR inhibition with erlotinib has shown cell proliferation of CCA cells, in vivo dual blockage of EGFR and ERBB1/ERBB2 with lapatinib is necessary.*
+
+---
+
+**77. What is the clinical significance of VEGF alterations in IHCC?**
+
+- They are predictive of response to immunotherapy
+- They correlate with IDH1 mutations
+- They indicate sensitivity to FGFR inhibitors
+- **Alterations occur in almost half of IHCCs and correlate with poor prognosis**
+
+*Explanation: VEGF (vascular endothelial growth factor) alterations occur in almost half of IHCCs and correlate with a poor prognosis.*
+
+---
+
+**78. Why has sorafenib been disappointing in CCA models despite targeting wild-type BRAF and VEGFR?**
+
+- It causes unacceptable toxicity
+- It is not orally bioavailable
+- It fails to penetrate the blood-bile barrier
+- **The preclinical data have been disappointing**
+
+*Explanation: Although sorafenib targets wild-type BRAF and VEGFR, the preclinical data have been disappointing in CCA models, limiting its therapeutic application.*
+
+---
+
+**79. What is the mechanism by which IL-6 overexpression may occur in CCA cells?**
+
+- IDH1/2 mutations
+- FGFR2 fusions
+- **Epigenetic silencing of SOCS-3**
+- KRAS activation
+
+*Explanation: The overexpression of IL-6 may result from epigenetic silencing of SOCS-3 in CCA cells, which disrupts the normal feedback regulation of IL-6 signaling.*
+
+---
+
+**80. Binding of IL-6 to its receptor (gp130) results in which downstream signaling?**
+
+- Only RAS/RAF/MEK/ERK activation
+- Exclusively PI3K/AKT/mTOR activation
+- Only apoptosis induction
+- **STAT3 activation (JAK/STAT pathway) and/or the MAPK pathway**
+
+*Explanation: Binding of IL-6 to its receptor (gp130) results in heterodimerization with the Janus kinases (JAK1, JAK2, or TYK2), which drives activation of STAT3 (the JAK/STAT pathway) and/or the MAPK pathway.*
+
+---
+
+**81. What was demonstrated regarding combined inhibition of NOTCH and JAK-STAT signaling pathways?**
+
+- It increases gemcitabine resistance
+- It promotes EMT
+- It has no effect on CCA
+- **It can prevent RAS-induced lineage conversion from hepatocytes to CCA**
+
+*Explanation: A preclinical study suggested that combined inhibition of NOTCH and JAK-STAT signaling can prevent RAS-induced lineage conversion from hepatocytes to CCA.*
+
+---
+
+**82. What key regulatory processes are controlled by Polo-like kinases (PLKs)?**
+
+- DNA methylation and histone modification
+- Bile acid metabolism and xenobiotic detoxification
+- **Cell-cycle progression (G2/M transition) and cytokinesis**
+- Tumor-stromal interactions and angiogenesis
+
+*Explanation: The Polo-like kinases (PLKs) are a family of serine/threonine kinases involved in key regulatory processes, including cell-cycle progression (G2/M transition) and cytokinesis.*
+
+---
+
+**83. PLK-2 has been shown to be a mediator of which signaling pathway in CCA?**
+
+- JAK/STAT signaling
+- Wnt/β-catenin signaling
+- IDH pathway
+- **Hedgehog (Hh) signaling**
+
+*Explanation: PLK-2 is a mediator of Hh signaling in CCA, while PLK-1 targeting has been shown to increase the efficacy of 5-fluorouracil.*
+
+---
+
+**84. Which EMT-related protein is highly expressed in CCA and correlates with cancer metastasis and survival?**
+
+- Snail
+- E-cadherin
+- Vimentin
+- **TGF-β1**
+
+*Explanation: TGF-β1, an EMT-related protein, is highly expressed in CCA. High TGF-β1 levels correlate with cancer metastasis and survival in patients with CCA.*
+
+---
+
+**85. Overexpression of which molecules regulates EMT in CCA and is found in about 50% of IHCCs?**
+
+- TGF-β and VEGF
+- IL-6 and JAK
+- **Snail and β-catenin**
+- NOTCH and HIF-1α
+
+*Explanation: Snail and β-catenin regulate EMT in CCA, and overexpression is found in about 50% of IHCCs.*
+
+---
+
+**86. What are the major cell types in the tumor-stromal microenvironment that are involved in hepatic fibrosis and CCA progression?**
+
+- T cells and natural killer cells
+- Macrophages and dendritic cells
+- **Hepatic stellate cells (HSCs) and portal myofibroblasts**
+- Kupffer cells and sinusoidal endothelial cells
+
+*Explanation: Hepatic stellate cells (HSCs) are the major cell type involved in hepatic fibrosis and cirrhosis. Portal myofibroblasts can also contribute to hepatic fibrosis, and the tumor-stromal microenvironment is a key component of CCA development and progression.*
+
+---
+
+**87. How do hepatic stellate cells (HSCs) promote CCA progression?**
+
+- By suppressing VEGF expression
+- By blocking FGFR2 fusions
+- **By stimulating proliferation, migration, and invasion of CCA cells and promoting angiogenesis through Hh pathway activation**
+- By activating immune checkpoint pathways
+
+*Explanation: HSCs stimulate the proliferation, migration, and invasion of CCA cells and also promote angiogenesis through Hh pathway activation, rendering CCA cells more susceptible to necrosis by Hh inhibition.*
+
+---
+
+**88. What is the role of myofibroblast-derived platelet-derived growth factor-BB (PDGF-BB) in CCA?**
+
+- It promotes apoptosis of CCA cells
+- It inhibits angiogenesis
+- It activates IDH1/2 mutations
+- **It protects CCA cells from TRAIL cytotoxicity by a Hh-dependent process**
+
+*Explanation: Myofibroblast-derived platelet-derived growth factor-BB protects CCA cells from TRAIL (TNF-α–related apoptosis-inducing ligand) cytotoxicity by a Hh-dependent process.*
+
+---
+
+**89. Expression of which Hh target gene is an independent predictor of survival in IHCC patients?**
+
+- Patched (PTCH1)
+- Smoothened (SMO)
+- GLI1
+- **Osteopontin**
+
+*Explanation: Expression of the Hh target gene osteopontin is an independent predictor of survival in IHCC patients.*
+
+---
+
+**90. CCA cells interact with vascular endothelial cells via which receptor-ligand interaction to promote tumor angiogenesis?**
+
+- FGFR2-FGF7
+- MET-HGF
+- **VEGFR2-VEGFA**
+- EGFR-EGF
+
+*Explanation: CCA cells have an interaction with vascular endothelial cells via VEGFR2-VEGFA, which leads to tumor angiogenesis via upregulation of the PI3K/AKT pathway.*
+
+---
+
+**91. How do cancer-associated fibroblasts (CAFs) promote lymphangiogenesis in CCA?**
+
+- Via VEGFR2-VEGFA engagement
+- Via FGFR2-FGF2 interaction
+- Via IDH1/2 pathway
+- **Via upregulating the ERK/JNK pathway and stimulating lymphatic endothelial cells via VEGFR3 engagement**
+
+*Explanation: Cancer-associated fibroblasts upregulate the ERK/JNK pathway and stimulate lymphatic endothelial cells via VEGFR3 engagement, which promotes lymphangiogenesis and tumor cell intravasation in CCA.*
+
+---
+
+**92. In the pre-NGS era, what percentage of archival CCA specimens showed alteration in the TP53 tumor suppressor gene?**
+
+- Up to 10%
+- Up to 20%
+- **Up to 37%**
+- Up to 50%
+
+*Explanation: In the era preceding NGS, studies showed alteration in the TP53 tumor suppressor gene in up to 37% of archival CCA specimens.*
+
+---
+
+**93. In the pre-NGS era, what was the reported percentage range of KRAS oncogene abnormal expression in CCA?**
+
+- 5%–25%
+- **21%–100%**
+- 30%–60%
+- 10%–40%
+
+*Explanation: In the era preceding NGS, several studies showed abnormal expression of the KRAS oncogene in 21% to 100% of cases.*
+
+---
+
+**94. What is the prevalence range of KRAS mutations in EHCC according to Table 9E.2?**
+
+- 6%–25%
+- 4%–13%
+- 14%–49%
+- **23%–38%**
+
+*Explanation: According to Table 9E.2 (Common Somatic Alterations by Biliary Tract Tumor Subtype), KRAS mutations are found in 23%–38% of EHCC cases, compared with 6%–25% in IHCC and 4%–13% in GBCA.*
+
+---
+
+**95. What is the prevalence range of TP53 mutations in EHCC according to Table 9E.2?**
+
+- 5%–18%
+- 4%–47%
+- 6%–25%
+- **14%–49%**
+
+*Explanation: According to Table 9E.2, TP53 mutations are found in 14%–49% of EHCC cases, while they are found in 5%–18% of IHCC and 4%–47% of GBCA.*
+
+---
+
+**96. What is the prevalence range of ERBB2 mutations in GBCA according to Table 9E.2?**
+
+- 0%–4%
+- 0%–5%
+- 4%–7%
+- **4%–16%**
+
+*Explanation: According to Table 9E.2, ERBB2 alterations are found in 4%–16% of GBCA cases, compared with 0%–4% in IHCC and 4%–7% in EHCC.*
+
+---
+
+**97. IDH1 mutations are considered a molecular feature specific to which biliary cancer subtype?**
+
+- EHCC
+- GBCA
+- All biliary tract cancers equally
+- **IHCC**
+
+*Explanation: IDH1 mutations were defined as a molecular feature of IHCC and also suggested as a potential therapeutic target specific to IHCC, as they are found in 15%–29% of IHCC but none or few in EHCC or GBCA.*
+
+---
+
+**98. IDH1 mutations in cancers have been shown in preclinical studies to confer sensitivity to which class of drugs?**
+
+- FGFR inhibitors
+- HDAC inhibitors
+- Immune checkpoint inhibitors
+- **PARP inhibitors**
+
+*Explanation: Preclinical studies have suggested that IDH1 mutations in other types of cancer confer sensitivity to PARP inhibitors.*
+
+---
+
+**99. What is the mechanism by which mutant IDH promotes IHCC?**
+
+- By activating EGFR overexpression
+- By creating FGFR2 fusions
+- **By blocking hepatocyte differentiation and cooperating with KRAS mutations**
+- By silencing TP53 gene expression
+
+*Explanation: Mutant IDH blocks hepatocyte differentiation and promotes IHCC by cooperating with KRAS mutations.*
+
+---
+
+**100. Which of the following best summarizes the molecular landscape differences between IHCC, EHCC, and GBCA?**
+
+- All three subtypes share identical molecular profiles
+- IHCC has more KRAS and TP53 mutations than EHCC
+- GBCA has more IDH1 mutations than IHCC
+- **Their somatic genomic landscapes are distinct from each other, suggesting different treatment strategies are needed for each**
+
+*Explanation: Although biliary tract cancers were frequently grouped together by biologic, histologic, and clinical trial assignment, their somatic genomic landscapes are distinct from each other, suggesting that different treatment strategies are necessary for clinical trial design in each individual cancer.*
+
+---
+
+**101. Which of the following is NOT listed as a risk factor for biliary tract cancer in the chapter?**
+
+- Hepatolithiasis
+- Thorotrast exposure
+- **Hypothyroidism**
+- Thyrotoxicosis
+
+*Explanation: The chapter lists thyrotoxicosis (not hypothyroidism) along with many other conditions as risk factors for biliary tract cancer, including hepatolithiasis, Thorotrast exposure, and many others.*
+
+---
+
+**102. What common theme underlies most risk factors for biliary tract cancers based on the predisposing factors discussed?**
+
+- Genetic predisposition to chromosomal instability
+- Viral oncogenesis from HBV and HCV
+- **Chronic biliary epithelial inflammation**
+- Direct carcinogen exposure to cholangiocytes
+
+*Explanation: Based on the aforementioned predisposing factors, a common theme of chronic biliary epithelial inflammation appears to be a predisposing factor for the development of biliary tract cancers.*
+
+---
+
+**103. What is the typical prognosis for patients presenting with unresectable or metastatic biliary tract disease?**
+
+- Most live more than 3 years after diagnosis
+- Median survival is approximately 2 years
+- Most are cured with systemic chemotherapy
+- **Most still typically die within 12 months of diagnosis**
+
+*Explanation: Despite recent imaging modality developments, most patients presenting with unresectable or metastatic disease still typically die within 12 months of diagnosis.*
+
+---
+
+**104. Which two factors, in addition to a lack of efficacious systemic therapies, contribute to the high mortality of biliary tract cancers?**
+
+- Resistant microorganisms and surgical complications
+- Tumor cachexia and malnutrition
+- **Sepsis from cholangitis related to biliary obstruction interventions and progressive liver failure**
+- Cardiac complications and pulmonary embolism
+
+*Explanation: In addition to a lack of highly efficacious systemic therapies, sepsis from cholangitis, frequently related to interventions performed for biliary obstruction and progressive liver failure, contribute to the high mortality.*
+
+---
+
+**105. What trend has been observed in the mortality rate of IHCC over the last few decades globally?**
+
+- Declining
+- Stable
+- **Rising**
+- Variable depending on region
+
+*Explanation: Epidemiologic data over the last few decades have shown that the mortality rate of IHCC is rising globally, whereas the mortality rates of EHCC and GBCA have decreased in most countries.*
+
+---
+
+**106. What led to the decline in GBCA mortality rates?**
+
+- Introduction of chemotherapy
+- Molecular targeted therapy
+- **Increased cholecystectomy**
+- Improved diagnosis with MRI
+
+*Explanation: The GBCA mortality rates declined after the increase of cholecystectomy, removing the organ at risk before cancer development.*
+
+---
+
+**107. According to the Vogelgram of biliary carcinogenesis (Fig. 9E.1), what is the first step in the progression from normal biliary epithelium to adenocarcinoma?**
+
+- Cellular injury
+- Reactive cellular repair
+- Malignant transformation
+- **Chronic biliary inflammation and cholestasis**
+
+*Explanation: According to the Vogelgram (Figure 9E.1), the progression begins with chronic biliary inflammation and cholestasis caused by several risk factors, followed by cellular injury, reactive cellular repair and clonal proliferation, malignant transformation, and then tumor growth and metastasis.*
+
+---
+
+**108. In the biliary carcinogenesis Vogelgram, which molecules are classified as mitogenic factors driving proliferative epithelium?**
+
+- IDH1/2 and FGFR2
+- TP53 and KRAS
+- **Bcl-2, ERBB2, COX-2, IL-6/STAT3, CXCR4, and Notch-1**
+- miR21 and miR22
+
+*Explanation: According to Figure 9E.1, the mitogenic factors listed include Bcl-2, ERBB2, COX-2, IL-6/STAT3, CXCR4, and Notch-1, which drive the transition from biliary epithelium to proliferative epithelium.*
+
+---
+
+**109. Which microRNAs are associated with epithelial-mesenchymal transition (EMT) in biliary tract cancers?**
+
+- miR21 and miR22
+- miR125a and miR127
+- miR199a and miR376a
+- **miR200c, miR214, and miR204**
+
+*Explanation: According to Figure 9E.1, the microRNAs involved in epithelial-mesenchymal transition include miR200c, miR214, and miR204.*
+
+---
+
+**110. Which of the following signaling pathways is listed under "Worse Prognosis" in the dysregulated signaling pathways section of Figure 9E.1?**
+
+- JAK/STAT
+- Chemokines
+- Interleukins
+- **COX-2**
+
+*Explanation: According to the Figure 9E.1 Vogelgram, COX-2, EGFR, ERBB2, HGF/MET, Hippo, IDH1/2, IGF, PI3K/AKT/mTOR, PLK1/2, and RAS/RAS/MEK/ERK are listed under "Worse Prognosis," while Chemokines, Interleukins, and JAK/STAT are listed under "Better Prognosis."*
+
+---
+
+**111. Which signal transduction pathway involves sequential activation of KRAS, RAF, MEK, and ERK?**
+
+- PI3K/AKT/mTOR
+- JAK/STAT
+- Wnt/β-catenin
+- **RAS/RAF/MEK/ERK (MAPK pathway)**
+
+*Explanation: Intracellular signal transduction in biliary tract cancers involves the KRAS/RAF/MEK/ERK pathway, also known as the MAPK (mitogen-activated protein kinase) pathway.*
+
+---
+
+**112. What does the concept of tumor heterogeneity in biliary tract cancers imply for treatment?**
+
+- All tumors should be treated with the same chemotherapy
+- Molecular profiling is unnecessary
+- Surgery is the only effective treatment
+- **Every tumor has individually unique molecular alterations, suggesting individualized therapeutic options**
+
+*Explanation: Tumor profiling of biliary tract cancers has revealed that every tumor has both biologically complex and individually unique molecular alterations, suggesting individualized therapeutic options.*
+
+---
+
+**113. In the pre-NGS era, combined pathologic and mutation analysis of biliary tumors provided what benefit?**
+
+- Superior results to NGS
+- Eliminated need for tissue biopsy
+- Complete diagnostic accuracy
+- **Increased diagnostic sensitivity compared to either test alone**
+
+*Explanation: Although neither KRAS nor TP53 mutational analysis was shown to be superior to conventional cytopathology alone, combined pathologic analysis and mutation analysis increased diagnostic sensitivity.*
+
+---
+
+**114. What technique allows simultaneous sequencing of multiple cancer-specific genes in biliary tract cancers?**
+
+- PCR-based Sanger sequencing
+- Fluorescence in situ hybridization (FISH)
+- Immunohistochemistry
+- **Whole-exome sequencing (WES) and targeted NGS panels**
+
+*Explanation: Whole-exome sequencing (WES) and targeted sequencing of several hundred cancer-specific genes have provided significant insight into oncogenes and tumor-suppressor genes involved in biliary tract carcinogenesis.*
+
+---
+
+**115. Why do study differences in gene alteration frequencies exist between different biliary tract cancer NGS studies?**
+
+- Different patient races and ethnicities only
+- Different statistical methodologies
+- Variation in chemotherapy protocols used
+- **Differences in tissue sources, sample size, depth of sequencing, and other factors**
+
+*Explanation: Study differences in alteration frequencies of each gene can be attributable to tissue sources (primary tumor or metastatic sites), sample size, depth of sequencing, and other factors.*
+
+---
+
+**116. Which organism produces glutathione-S-transferases (GSTs) that act as mitogenic substances promoting CCA genesis?**
+
+- Clonorchis sinensis
+- **Opisthorchis viverrini**
+- Fasciola hepatica
+- Echinococcus granulosus
+
+*Explanation: The liver fluke Opisthorchis viverrini can generate mitogenic substances, such as glutathione-S-transferases (GSTs), which act as a secretory product that may play an important role in promoting the genesis of CCA.*
+
+---
+
+**117. How does recombinant human TFF2 exert its mitogenic impact in CCA?**
+
+- By directly activating IDH1/2
+- By promoting FGFR2 fusions
+- By inducing KRAS mutations
+- **By stimulating EGFR phosphorylation with downstream ERK activation via EGFR/MAPK pathway**
+
+*Explanation: Recombinant human TFF2 can stimulate proliferation and trigger phosphorylation of EGFR with downstream ERK activation, displaying potential mitogenic impact in CCA via EGFR/MAPK activation.*
+
+---
+
+**118. Which TFF family members were found to have significantly increased mRNA levels in CCA tissue?**
+
+- TFF1 only
+- TFF2 only
+- TFF3 only
+- **TFF1, TFF2, and TFF3**
+
+*Explanation: The TFF1, TFF2, and TFF3 mRNA levels were significantly increased in CCA tissue compared to control participants.*
+
+---
+
+**119. In healthy tissues, what mechanism is responsible for irreversible growth arrest (cellular senescence)?**
+
+- Activation of oncogenes
+- DNA mismatch repair activation
+- Telomerase activation
+- **Normal cellular senescence mediated by telomere shortening**
+
+*Explanation: In healthy tissues, cellular senescence results in irreversible growth arrest. This is prevented in malignant cells by maintenance of chromosomal length via telomerase activity, which is observed in CCA cells but not in normal cholangiocytes.*
+
+---
+
+**120. In conjunction with HGF, IL-6 activates which signaling molecules that increase CCA growth in vitro?**
+
+- IDH1/2 and FGFR2
+- TP53 and CDKN2A
+- KRAS and BRAF
+- **MAPKs, protein kinase C, and calmodulin**
+
+*Explanation: In conjunction with hepatocyte growth factor (HGF), IL-6 increases CCA cell growth in vitro and induces a rapid release of prostaglandin synthesis, followed by downstream signal transduction via MAPKs, protein kinase C, and calmodulin.*
+
+---
+
+**121. What is the PRKACA/PRKACB alteration listed as a targetable genomic alteration in EHCC in Figure 9E.2?**
+
+- A fusion oncogene with FGFR2
+- A tumor suppressor gene deletion
+- A missense mutation in IDH1
+- **A specific targetable genomic alteration found in approximately 9% of EHCC cases**
+
+*Explanation: According to Figure 9E.2, PRKACA and PRKACB are specific targetable genomic alterations in EHCC with a prevalence of approximately 9%, with protein kinase A inhibitors under development as targeted therapies.*
+
+---
+
+**122. According to Figure 9E.2, what is the prevalence of IDH1/2 mutations in IHCC?**
+
+- 10%–20%
+- 15%–25%
+- **22%–28%**
+- 30%–40%
+
+*Explanation: According to Figure 9E.2, IDH1/2 mutations in IHCC have a prevalence of 22% to 28%, and are targeted by AG-120 and AG-881 (ivosidenib and vorasidenib).*
+
+---
+
+**123. According to Figure 9E.2, what is the prevalence of HER2/neu amplification in GBC?**
+
+- 0%–4%
+- 5%–9%
+- **10%–15%**
+- 16%–20%
+
+*Explanation: According to Figure 9E.2 (Molecular patterns of biliary tract cancers), HER2/neu amplification in GBC has a prevalence of 10% to 15%, targeted by Trastuzumab, Lapatinib, Pertuzumab, and T-DMI.*
+
+---
+
+**124. According to Figure 9E.2, what targeted therapies are listed for BAP1 alterations in IHCC?**
+
+- FGFR inhibitors
+- IDH inhibitors
+- mTOR inhibitors
+- **Histone deacetylase (HDAC) inhibitors like vorinostat and panobinostat**
+
+*Explanation: According to Figure 9E.2, BAP1 alterations in IHCC (prevalence 15%–25%) are targeted by histone deacetylase (HDAC) inhibitors like vorinostat and panobinostat.*
+
+---
+
+**125. What is the prevalence of EGFR alterations in GBC according to Figure 9E.2?**
+
+- 0%–3%
+- **4%–13%**
+- 14%–20%
+- 21%–30%
+
+*Explanation: According to Figure 9E.2, EGFR alterations in GBC have a prevalence of 4%–13%, targeted by Erlotinib and Cetuximab.*
+
+---
+
+**126. According to Figure 9E.2, what targeted therapies are listed for ERBB3 alterations in GBC?**
+
+- Erlotinib and Cetuximab
+- Lapatinib and Pertuzumab
+- mTOR inhibitors
+- **Seribantumab (MM-121), Pertuzumab, Trastuzumab, and T-DM1**
+
+*Explanation: According to Figure 9E.2, ERBB3 alterations in GBC (prevalence 0%–12%) are targeted by Seribantumab (MM-121), Pertuzumab, Trastuzumab, and T-DM1.*
+
+---
+
+**127. What specific epigenetic mechanism explains the decreased TFF1 expression in invasive IHCC?**
+
+- Histone deacetylation at the TFF1 promoter
+- Loss of heterozygosity at the TFF1 locus
+- microRNA silencing of TFF1 mRNA
+- **Methylation of the TFF1 promoter region**
+
+*Explanation: The decreased expression of TFF1 in invasive IHCC may be explained by the methylation of the TFF1 promoter region.*
+
+---
+
+**128. Upregulation of TFF1 coupled with MUC5AC in biliary epithelium in hepatolithiasis and biliary dysplasia is thought to reflect what pathological process?**
+
+- Early invasive carcinoma
+- Perineural invasion
+- Vascular invasion
+- **Gastric metaplasia and early neoplastic lesion**
+
+*Explanation: Upregulation of TFF1 coupled with MUC5AC in biliary epithelium in hepatolithiasis, biliary epithelial dysplasia, and noninvasive IHCC may reflect gastric metaplasia and early neoplastic lesion.*
+
+---
+
+**129. Which aspect of biliary carcinogenesis is thought to differ between cells in centrilobular versus periportal locations?**
+
+- Rate of IDH1 mutations
+- Frequency of FGFR2 fusions
+- **Differential levels of cytochrome P450 expression and exposure to inflammatory components**
+- Telomerase activity
+
+*Explanation: Exposure to an inflammatory stimulus would not have the same effect on each cell because of changes in perfusion (e.g., centrilobular versus periportal), as well as differential levels of CYP expression, exposure to bile salt concentrations, and exposure to inflammatory components.*
+
+---
+
+**130. The concept of tumor heterogeneity in biliary tract cancers can be inferred from which mechanism?**
+
+- Identical molecular alterations across all cells
+- Uniform response to inflammatory stimuli
+- Synchronous development of all tumor cells
+- **Distinct clonal populations arising based on differential response to stimuli**
+
+*Explanation: Based on heterogeneous cellular responses to inflammatory stimuli, the concept of heterogeneity can be inferred where distinct clonal populations may arise based on differential response to stimuli.*
+
+---
+
+**131. What is the dual role of HISTONE methylation in CCA?**
+
+- It always suppresses gene expression
+- It always activates gene expression
+- It has no role in CCA
+- **It can result in transcriptional activation or repression depending on the type of amino acid and its position in the histone tail**
+
+*Explanation: Histone methylation can result in transcriptional activation, although it depends on the type of amino acid and its position in the histone tail.*
+
+---
+
+**132. In the Borger 2012 study, what was the prevalence of PIK3CA mutations in GBCA?**
+
+- 0%
+- 4%
+- 8%
+- **12%**
+
+*Explanation: According to Table 9E.1 from the Borger 2012 study, PIK3CA mutations were found in 12% of GBCA cases, while 0% were found in IHCC and EHCC.*
+
+---
+
+**133. Which of the following is a newly recognized risk factor for rising global incidence of IHCC identified by a recent systematic review?**
+
+- High-fat diet and obesity
+- HPV infection and immune suppression
+- Cigarette smoking and alcohol in combination
+- **Increases in diabetes type II, alcoholic liver diseases, and cholelithiasis**
+
+*Explanation: A recent systematic review suggests that the rising global incidence of IHCC may be associated with increases in diabetes type II, alcoholic liver diseases, and cholelithiasis.*
+
+---
+
+**134. What is the significance of identifying KRAS and TP53 mutations in bile and pancreatic juice?**
+
+- It provides a non-invasive way to cure biliary cancers
+- It completely replaces cytopathology
+- It is not clinically useful
+- **Combined mutation analysis and cytopathology increases diagnostic sensitivity for pancreaticobiliary tumors**
+
+*Explanation: Although KRAS and TP53 mutational analysis was not shown to be superior to conventional cytopathology alone, combined pathologic analysis and mutation analysis increased diagnostic sensitivity for biliary tract cancer diagnosis.*
+
+---
+
+**135. What broader category of biliary tract cancer do both hilar and distal CCAs fall under?**
+
+- Intrahepatic cholangiocarcinoma (IHCC)
+- Mixed hepatocellular cholangiocarcinoma
+- Gallbladder cancer (GBCA)
+- **Extrahepatic cholangiocarcinoma (EHCC)**
+
+*Explanation: Hilar and distal CCAs both fall under the general category of EHCCs (extrahepatic cholangiocarcinomas), which are further subcategorized by their location relative to the cystic duct.*
+
+---
+
+**136. What is the clinical significance of miR-21 expression levels in CCA patients?**
+
+- Lower miR-21 levels predict chemotherapy resistance
+- miR-21 has no clinical significance
+- Higher miR-21 levels indicate better prognosis
+- **Increased miR-21 expression is associated with tumor growth, metastasis, and modulation of chemotherapy-induced apoptosis**
+
+*Explanation: The increased expression of miR-21 is associated with tumor growth and metastasis of CCA and modulates chemotherapy-induced apoptosis by regulating PTEN-dependent activation of the PI3K signaling pathway.*
+
+---
+
+**137. What is the promise of microRNAs (miRs) as clinical tools in biliary tract cancers?**
+
+- As direct chemotherapy agents
+- As surgical guides for tumor localization
+- As immune checkpoint inhibitors
+- **As biomarkers for predicting survival and treatment response**
+
+*Explanation: miRs are promising as biomarkers for predicting survival and treatment response in biliary tract cancers, as several miRs are reported to promote or suppress the tumorigenesis of cholangiocarcinoma.*
+
+---
+
+**138. In biliary tract carcinogenesis, what does the exaggerated repair response to chronic inflammation ultimately result in?**
+
+- Normal hepatocyte regeneration
+- Stable epithelial homeostasis
+- Immune-mediated tumor suppression
+- **Cholangiocyte proliferation**
+
+*Explanation: The underlying chronic biliary inflammation, modified by toxin exposure and endogenous host factors or inherited gene polymorphisms, may lead to an exaggerated repair response that results in cholangiocyte proliferation.*
+
+---
+
+**139. The ABCC2 variant most associated with carcinogenesis is located in which exon?**
+
+- Exon 10
+- Exon 14
+- Exon 21
+- **Exon 28 (c.3972C>T)**
+
+*Explanation: The ABCC2 variant c.3972C>T in exon 28 has been shown to be associated with the risk of carcinogenesis in biliary tract cancer.*
+
+---
+
+**140. Which molecule produced by inflammatory cells generates reactive oxygen and nitrogen species that promote biliary carcinogenesis?**
+
+- IL-6 and TNF-α directly
+- AID and NEIL1
+- CYP450 enzymes
+- **Reactive oxygen and nitrogen species from inflammatory and epithelial cells due to chronic viral infections or alcoholic/nonalcoholic hepatitis**
+
+*Explanation: Inflammatory conditions such as chronic viral infections (HBV and HCV) or alcoholic/nonalcoholic hepatitis promote carcinogenesis by producing reactive oxygen and nitrogen species from inflammatory and epithelial cells, activating reparative tissue proliferation.*
+
+---
+
+**141. Which GSTs were found to be enriched in CYP-metabolic pathways of EHCC specimens and may cause abnormal gene expression?**
+
+- GSTP1 and GSTM1
+- GSTO1 and GSTO2
+- GSTZ1 and GSTK1
+- **GSTA1 and GSTA3**
+
+*Explanation: Molecular profiling of EHCC specimens demonstrated significant enrichment of CYP-metabolic pathways, including transcription factors such as glutathione-S-transferase α1 (GSTA1) and GSTA3, which may cause abnormal gene expression and tumorigenesis through CYP450-metabolic pathways.*
+
+---
+
+**142. The rising global incidence of IHCC and EHCC may be attributable in part to which increasing risk factors?**
+
+- Declining antibiotic use and increased parasitic infections
+- Reduced access to biliary surgery and PSC treatment
+- Increased use of carcinogenic medications
+- **Increases in cirrhosis and obesity globally over recent decades**
+
+*Explanation: The increased incidence of IHCC and EHCC may be attributable, in part, to the fact that several risk factors (e.g., cirrhosis and obesity) have increased globally over recent decades.*
+
+---
+
+**143. In the context of biliary carcinogenesis, what is the significance of activation-induced cytidine deaminase (AID) as a DNA/RNA-editing enzyme?**
+
+- It suppresses inflammatory signaling in bile ducts
+- It repairs DNA damage caused by carcinogens
+- It promotes immune surveillance of early cancer cells
+- **It links bile duct inflammation to enhanced genetic susceptibility to mutagenesis that leads to CCA**
+
+*Explanation: The proinflammatory cytokine-induced aberrant production of AID, a member of the DNA/RNA-editing enzyme family, links bile duct inflammation to an enhanced genetic susceptibility to mutagenesis that leads to CCA.*
+
+---
+
+**144. What is the role of p14ARF in normal cells, and why is its alteration significant in biliary tract cancers?**
+
+- It activates oncogenes; its loss promotes tumor suppression
+- It drives FGFR2 fusions; its loss prevents angiogenesis
+- It promotes IDH1 mutations; its gain causes CCA
+- **It prevents TP53 degradation, allowing cell-cycle arrest; its alteration in 18% of tumors allows TP53 degradation**
+
+*Explanation: p14ARF prevents TP53 degradation and hence cell-cycle arrest. It has been reported as altered in 18% of tumors, which would allow TP53 degradation and loss of cell-cycle arrest.*
+
+---
+
+**145. What is the relationship between NGS techniques and the discovery of unique molecular patterns across biliary tract cancer subtypes?**
+
+- NGS has shown all subtypes have identical molecular patterns
+- NGS has made molecular profiling less important
+- Older sequencing methods were superior for this purpose
+- **As NGS techniques have advanced, unique molecular patterns across the subtypes of biliary tract cancer have been revealed**
+
+*Explanation: While early studies using one-gene-at-a-time sequencing showed no difference in global gene expression between biliary cancer subgroups, as NGS techniques have advanced, unique molecular patterns across the subtypes of biliary tract cancer have been revealed.*
+
+---
+
+**146. In addition to direct cholangiocyte injury, chronic inflammatory conditions promote carcinogenesis by creating a local environment rich in which factors?**
+
+- Tumor suppressor proteins and DNA repair enzymes
+- Anti-inflammatory cytokines and antioxidants
+- FGFR2 inhibitors and IDH inhibitors
+- **Cytokines and other growth factors**
+
+*Explanation: Inflammatory conditions promote carcinogenesis by producing reactive oxygen and nitrogen species from inflammatory and epithelial cells, activating reparative tissue proliferation, and creating a local environment rich in cytokines and other growth factors, ultimately resulting in DNA damage.*
+
+---
+
+**147. How does inhibition of HDAC affect CCA cells?**
+
+- It enhances tumor growth and invasion
+- It promotes IDH mutations
+- It has no effect on CCA
+- **It suppresses tumor growth in CCA cells**
+
+*Explanation: The inhibition of HDAC suppresses tumor growth in CCA cells, making HDAC inhibitors a promising therapeutic option targeting epigenetic alterations in CCA.*
+
+---
+
+**148. What is the major goal of systemic chemotherapy for patients with advanced biliary tract cancers?**
+
+- Curative intent with high response rates
+- Molecular profiling for targeted therapy
+- Surgical downstaging for resection
+- **Palliative intent due to lack of significant response rates**
+
+*Explanation: In patients with advanced disease, goals of systemic chemotherapy are still palliative in nature, as chemotherapeutic regimens lack significant response rates for biliary tract cancers.*
+
+---
+
+**149. Which of the following best summarizes the therapeutic implications of comprehensive molecular profiling in biliary tract cancers?**
+
+- It is not clinically actionable
+- It is only useful for IHCC classification
+- It has replaced the need for histological diagnosis
+- **It enables identification of unique genetic signatures and is important in clinical trial design using drugs to target specific pathways**
+
+*Explanation: Comprehensive molecular profiling now enables the identification of unique genetic signatures among these cancers and is important in clinical trial design using drugs to target specific pathways.*
+
+---
+
+**150. According to the chapter summary, which candidates for targeted therapy have emerged from molecular profiling of biliary tract cancers?**
+
+- Only IDH1/2 and FGFR2 pathways
+- Only KRAS and TP53 pathways
+- Only immune checkpoint and VEGF pathways
+- **MET, EGFR, ERBB2, FGFR, JAK/STAT, RAS/RAF/MAPK, PI3K/AKT/mTOR, Wnt/Hh/Notch/Hippo, and IDH pathways**
+
+*Explanation: According to the chapter summary, many new candidates for targeted therapy based on molecular profiling have emerged, including the MET, EGFR, ERBB2, FGFR, JAK/STAT, RAS/RAF/MAPK, PI3K/AKT/mTOR, Wnt/Hh/Notch/Hippo, and IDH pathways.*
+

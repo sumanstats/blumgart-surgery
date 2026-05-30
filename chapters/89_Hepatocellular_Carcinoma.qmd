@@ -1,0 +1,1417 @@
+# 89 Hepatocellular Carcinoma
+
+### 📊 **Epidemiology & Risk Factors (Q1-25)**
+
+1. **Globally, HCC is the ___ most common cancer-related cause of death.**  
+   A. 1st  
+   B. 2nd  
+   C. 3rd  
+   **D. 4th**  
+   *Correct: D. It ranks as the 4th leading cause of cancer death worldwide.*
+
+2. **Which region has the highest annual HCC incidence (>20/100,000)?**  
+   A. Western Europe  
+   B. North America  
+   **C. Sub-Saharan Africa**  
+   D. Japan  
+   *Correct: C. Sub-Saharan Africa and parts of Asia are high-risk.*
+
+3. **The male-to-female HCC prevalence ratio is approximately:**  
+   A. 1:1  
+   B. 2:1  
+   **C. 3:1**  
+   D. 5:1  
+   *Correct: C. Males are 3× more affected.*
+
+4. **Peak incidence of HCC occurs in which age group?**  
+   A. 20–30  
+   B. 30–40  
+   **C. 60–70**  
+   D. >80  
+   *Correct: C. Peak incidence is 6th–7th decade.*
+
+5. **Which is NOT a major etiology of HCC-related cirrhosis?**  
+   A. HBV  
+   B. HCV  
+   C. MAFLD  
+   **D. Wilson’s disease**  
+   *Correct: D. Wilson’s disease is rare compared to HBV/HCV/MAFLD.*
+
+6. **HBV-related HCC can occur without cirrhosis in:**  
+   A. 0–5%  
+   B. 5–10%  
+   **C. 20–30%**  
+   D. >50%  
+   *Correct: C. Up to 30% of HBV-HCC cases lack cirrhosis.*
+
+7. **Which HBV genotype is associated with higher HCC risk?**  
+   A. A  
+   B. B  
+   **C. C**  
+   D. D  
+   *Correct: C. Genotype C carries higher risk.*
+
+8. **After HCV cure with DAAs, the risk of HCC:**  
+   A. Disappears  
+   **B. Decreases but persists**  
+   C. Increases  
+   D. Remains unchanged  
+   *Correct: B. Risk reduces but does not vanish.*
+
+9. **MAFLD-related HCC is often linked to:**  
+   **A. Metabolic syndrome**  
+   B. HBV reactivation  
+   C. Autoimmune hepatitis  
+   D. Hemochromatosis  
+   *Correct: A. Obesity, diabetes, and dyslipidemia drive MAFLD.*
+
+10. **Which intervention has proven to reduce HBV-HCC in endemic areas?**  
+    **A. Universal HBV vaccination**  
+    B. Coffee intake  
+    C. Statins  
+    D. Aspirin  
+    *Correct: A. Taiwan’s vaccination program cut HCC rates.*
+
+11. **Aflatoxin B1 exposure causes a specific mutation in:**  
+    A. CTNNB1  
+    B. KRAS  
+    **C. TP53**  
+    D. TERT  
+    *Correct: C. Aflatoxin induces R249S TP53 mutation.*
+
+12. **Which factor is protective against HCC?**  
+    A. Alcohol abuse  
+    **B. Coffee consumption**  
+    C. Smoking  
+    D. Aflatoxin  
+    *Correct: B. Coffee is inversely associated with HCC.*
+
+13. **Annual HCC risk in cirrhotic patients ranges from:**  
+    A. 0.1–0.5%  
+    **B. 1–8%**  
+    C. 10–15%  
+    D. 20–30%  
+    *Correct: B. Depends on etiology and severity.*
+
+14. **Which comorbidity is LEAST associated with MAFLD-HCC?**  
+    A. Hypertension  
+    B. Type 2 diabetes  
+    **C. Hemophilia**  
+    D. Dyslipidemia  
+    *Correct: C. Hemophilia is unrelated to MAFLD.*
+
+15. **Which group has the highest post-HCV treatment HCC risk?**  
+    **A. Those with prior HCC history**  
+    B. Young females  
+    C. HBV co-infection  
+    D. Non-cirrhotics  
+    *Correct: A. Prior HCC increases recurrence risk.*
+
+16. **Primary prevention of HCV-HCC includes:**  
+    A. Statins  
+    B. DAA therapy  
+    **C. Blood screening**  
+    D. Coffee  
+    *Correct: C. Blood screening prevents HCV spread.*
+
+17. **Which region shows declining HCC incidence?**  
+    A. USA  
+    B. Europe  
+    **C. Japan**  
+    D. Africa  
+    *Correct: C. Japan’s rates are decreasing.*
+
+18. **Secondary prevention involves:**  
+    A. Vaccination  
+    **B. Screening cirrhotics**  
+    C. Treating obesity  
+    D. Alcohol bans  
+    *Correct: B. Early detection in high-risk patients.*
+
+19. **Which HBV characteristic increases HCC risk?**  
+    A. Low viral load  
+    B. Genotype A  
+    **C. High viral load**  
+    D. Inactive carrier state  
+    *Correct: C. High HBV DNA correlates with risk.*
+
+20. **MAFLD-HCC can occur:**  
+    **A. Without cirrhosis**  
+    B. Only with bridging fibrosis  
+    C. Exclusively in diabetics  
+    D. Never in alcoholics  
+    *Correct: A. 10–20% lack cirrhosis.*
+
+21. **Which drug class reduces HCC risk post-HCV cure?**  
+    A. Statins  
+    B. Beta-blockers  
+    **C. DAAs**  
+    D. Insulin  
+    *Correct: C. DAAs achieve sustained virologic response.*
+
+22. **Which environmental toxin is linked to HCC in Africa/Asia?**  
+    A. Arsenic  
+    **B. Aflatoxin B1**  
+    C. Benzene  
+    D. Asbestos  
+    *Correct: B. Aflatoxin contaminates grains in humid regions.*
+
+23. **Which lifestyle factor is MOST emphasized for MAFLD-HCC prevention?**  
+    A. Smoking cessation  
+    **B. Weight control**  
+    C. Sun exposure  
+    D. Vitamin D  
+    *Correct: B. Obesity drives MAFLD.*
+
+24. **Which group does NOT need HCC screening?**  
+    A. HBV cirrhotics  
+    B. HCV cirrhotics  
+    **C. Healthy HBV carriers with low viral load**  
+    D. MAFLD cirrhotics  
+    *Correct: C. Low-risk HBV carriers may skip screening.*
+
+25. **Which intervention has NO proven HCC risk reduction?**  
+    A. HBV vaccination  
+    B. HCV DAAs  
+    **C. Aspirin (observational)**  
+    D. Alcohol cessation  
+    *Correct: C. Aspirin’s benefit is unconfirmed.*
+
+### 🧬 **Molecular Biology (Q26-40)**
+
+26. **Most frequent HCC mutation involves:**  
+    A. KRAS  
+    **B. TERT promoter**  
+    C. EGFR  
+    D. PIK3CA  
+    *Correct: B. TERT promoter mutations are most common.*
+
+27. **CTNNB1 mutations activate:**  
+    **A. Wnt/β-catenin pathway**  
+    B. MAPK  
+    C. PI3K  
+    D. JAK-STAT  
+    *Correct: A. CTNNB1 drives Wnt signaling.*
+
+28. **Proliferative HCC class is associated with:**  
+    A. HCV  
+    **B. HBV**  
+    C. CTNNB1 mutations  
+    D. Low AFP  
+    *Correct: B. HBV-linked tumors are proliferative.*
+
+29. **Which mutation offers proliferation advantage in aflatoxin regions?**  
+    A. CTNNB1  
+    **B. TP53 R249S**  
+    C. TERT  
+    D. KRAS  
+    *Correct: B. Aflatoxin induces TP53 R249S.*
+
+30. **Cluster 3 HCC is characterized by:**  
+    A. Low p53 mutations  
+    B. Early stage  
+    **C. High p53 mutations**  
+    D. HCV dominance  
+    *Correct: C. Cluster 3 has high TP53 mutations.*
+
+31. **Which pathway is NOT targetable in HCC trials?**  
+    A. VEGFR  
+    B. FGFR  
+    **C. JAK-STAT (unexplored)**  
+    D. c-MET  
+    *Correct: C. JAK-STAT is not a major target.*
+
+32. **Non-proliferative HCC is linked to:**  
+    **A. HCV infection**  
+    B. HBV infection  
+    C. High AFP  
+    D. Poor prognosis  
+    *Correct: A. HCV tumors are non-proliferative.*
+
+33. **Which limitation affects HCC molecular profiling?**  
+    **A. Tumor heterogeneity**  
+    B. Low mutation rates  
+    C. Lack of biopsies  
+    D. Cost only  
+    *Correct: A. Spatial/temporal heterogeneity challenges profiling.*
+
+34. **Which gene is associated with poor prognosis in proliferative class?**  
+    A. TERT  
+    B. CTNNB1  
+    **C. FGF19 amplification**  
+    D. TP53  
+    *Correct: C. FGF19 amplification marks aggressiveness.*
+
+35. **Which cluster has low TERT expression?**  
+    **A. Cluster 1**  
+    B. Cluster 2  
+    C. Cluster 3  
+    D. All clusters  
+    *Correct: A. Cluster 1 has low TERT expression.*
+
+36. **Which mutation is a "passenger" event?**  
+    A. TERT promoter  
+    **B. Random SNP with no growth advantage**  
+    C. TP53  
+    D. CTNNB1  
+    *Correct: B. Passenger mutations lack oncogenic role.*
+
+37. **Which pathway activation predicts sorafenib resistance?**  
+    A. Wnt  
+    **B. MAPK reactivation**  
+    C. PI3K  
+    D. TGF-β  
+    *Correct: B. MAPK reactivation mediates resistance.*
+
+38. **Which molecular class has better prognosis?**  
+    A. Proliferative  
+    **B. Non-proliferative**  
+    C. Cluster 3  
+    D. HBV-high  
+    *Correct: B. Non-proliferative class fares better.*
+
+39. **Which biomarker is NOT used for molecular subtyping?**  
+    A. AFP  
+    B. Glypican-3  
+    **C. CA-125**  
+    D. PIVKA-II  
+    *Correct: C. CA-125 is ovarian cancer marker.*
+
+40. **Which technology best captures tumor heterogeneity?**  
+    A. IHC  
+    B. FISH  
+    **C. Single-cell sequencing**  
+    D. ELISA  
+    *Correct: C. Single-cell sequencing resolves heterogeneity.*
+
+### 🔍 **Screening & Diagnosis (Q41-70)**
+
+41. **Which trial proved HCC screening reduces mortality?**  
+    A. HALT-C  
+    B. STELLAR  
+    **C. Chinese HBV ultrasound/AFP trial**  
+    D. SHARP  
+    *Correct: C. 18,000-patient Chinese trial.*
+
+42. **Recommended screening interval for HCC is:**  
+    A. 3 months  
+    **B. 6 months**  
+    C. 9 months  
+    D. 12 months  
+    *Correct: B. Semiannual screening is standard.*
+
+43. **Which imaging is first-line for HCC screening?**  
+    **A. Ultrasound**  
+    B. CT  
+    C. MRI  
+    D. PET-CT  
+    *Correct: A. Ultrasound balances cost/availability.*
+
+44. **AFP sensitivity for small HCC is:**  
+    A. >90%  
+    B. 80–90%  
+    **C. <60%**  
+    D. 100%  
+    *Correct: C. AFP often normal in small tumors.*
+
+45. **Which AFP cutoff is NOT used clinically?**  
+    A. 20 ng/mL  
+    B. 200 ng/mL  
+    **C. 1000 ng/mL (used for prognosis)**  
+    D. 10,000 ng/mL  
+    *Correct: D. 10,000 ng/mL is irrelevant.*
+
+46. **Which biomarker is specific for HCC?**  
+    A. CA19-9  
+    B. CEA  
+    **C. Glypican-3**  
+    D. PSA  
+    *Correct: C. Glypican-3 is HCC-specific.*
+
+47. **Nodules <1 cm on US should be:**  
+    A. Biopsied immediately  
+    B. Ignored  
+    **C. Reassessed in 3–4 months**  
+    D. Treated with TACE  
+    *Correct: C. Close follow-up avoids overdiagnosis.*
+
+48. **Which US finding mandates CT/MRI?**  
+    **A. 1.5 cm nodule in cirrhotic liver**  
+    B. Simple cyst  
+    C. Fatty liver  
+    D. Gallstones  
+    *Correct: A. Nodules ≥1 cm need contrast imaging.*
+
+49. **LI-RADS 5 indicates:**  
+    A. Benign  
+    B. Probably benign  
+    C. Indeterminate  
+    **D. Definitely HCC**  
+    *Correct: D. LR-5 is diagnostic for HCC.*
+
+50. **Which imaging phase shows HCC washout?**  
+    A. Arterial  
+    **B. Portal venous/delayed**  
+    C. Non-contrast  
+    D. Early arterial  
+    *Correct: B. Washout is hallmark in venous phases.*
+
+51. **Which is NOT a contraindication to biopsy?**  
+    A. Coagulopathy  
+    B. Ascites  
+    **C. Subcapsular location**  
+    D. Thrombocytopenia  
+    *Correct: C. Subcapsular tumors can be biopsied.*
+
+52. **Which tumor marker rises in both HCC and CC?**  
+    **A. AFP**  
+    B. CA19-9  
+    C. CEA  
+    D. CA-125  
+    *Correct: A. AFP can be elevated in cholangiocarcinoma.*
+
+53. **Which non-invasive test assesses fibrosis?**  
+    A. AFP  
+    B. DCP  
+    C. FibroTest  
+    **D. Elastography**  
+    *Correct: D. Elastography measures liver stiffness.*
+
+54. **Which AFP-L3% indicates high malignancy risk?**  
+    A. <5%  
+    **B. >10%**  
+    C. >50%  
+    D. Any elevation  
+    *Correct: B. AFP-L3% >10% is concerning.*
+
+55. **Which score predicts HCC risk in HBV patients?**  
+    A. MELD  
+    B. Child-Pugh  
+    **C. PAGE-B**  
+    D. APRI  
+    *Correct: C. PAGE-B uses age, platelets, gender.*
+
+56. **Which is NOT part of BCLC staging?**  
+    A. Tumor size  
+    B. Liver function  
+    **C. AFP level**  
+    D. Performance status  
+    *Correct: C. AFP is prognostic but not in BCLC.*
+
+57. **Which imaging modality avoids radiation?**  
+    A. CT  
+    B. PET-CT  
+    **C. MRI**  
+    D. TACE  
+    *Correct: C. MRI is radiation-free.*
+
+58. **Which US feature suggests malignancy?**  
+    A. Hyperechoic  
+    B. Hypoechoic halo  
+    **C. Both A and B**  
+    D. Anechoic  
+    *Correct: C. Hypoechoic halo is classic.*
+
+59. **Which biopsy technique is safest for deep lesions?**  
+    A. Tru-cut  
+    **B. Fine-needle aspiration**  
+    C. Wedge resection  
+    D. Laparoscopic  
+    *Correct: B. FNA minimizes complications.*
+
+60. **Which AFP level predicts poor transplant outcome?**  
+    A. >20  
+    B. >100  
+    **C. >1000**  
+    D. >5000  
+    *Correct: C. AFP >1000 ng/mL increases recurrence.*
+
+61. **Which is NOT a paraneoplastic syndrome of HCC?**  
+    A. Hypoglycemia  
+    B. Erythrocytosis  
+    **C. Hyperkalemia**  
+    D. Hypercalcemia  
+    *Correct: C. Hyperkalemia is unrelated.*
+
+62. **Which symptom suggests portal vein invasion?**  
+    A. Jaundice  
+    **B. Ascites**  
+    C. Pruritus  
+    D. Fever  
+    *Correct: B. Ascites from portal hypertension.*
+
+63. **Which AFP isoform is HCC-specific?**  
+    A. AFP-L1  
+    B. AFP-L2  
+    **C. AFP-L3**  
+    D. AFP-L4  
+    *Correct: C. AFP-L3 is HCC-associated.*
+
+64. **Which elastography cutoff indicates cirrhosis?**  
+    A. <7 kPa  
+    B. 7–9.5 kPa  
+    **C. >12.5 kPa**  
+    D. >20 kPa  
+    *Correct: C. >12.5 kPa suggests cirrhosis.*
+
+65. **Which is NOT an AFP limitation?**  
+    A. Low sensitivity in small tumors  
+    B. Elevated in cirrhosis  
+    **C. High specificity**  
+    D. False positives in CC  
+    *Correct: C. AFP lacks specificity.*
+
+66. **Which imaging is best for detecting 1 cm HCC?**  
+    A. US  
+    B. CT  
+    **C. MRI with gadoxetic acid**  
+    D. PET-CT  
+    *Correct: C. MRI has highest sensitivity.*
+
+67. **Which is NOT a LI-RADS major feature?**  
+    A. Arterial hyperenhancement  
+    B. Washout  
+    C. Capsule  
+    **D. Fat content**  
+    *Correct: D. Fat is not a major feature.*
+
+68. **Which AFP level is diagnostic for HCC?**  
+    A. >20 ng/mL  
+    B. >100 ng/mL  
+    **C. >400 ng/mL**  
+    D. >1000 ng/mL  
+    *Correct: C. >400 ng/mL supports diagnosis.*
+
+69. **Which biopsy route is preferred for subphrenic tumors?**  
+    A. Transjugular  
+    **B. Trans thoracic**  
+    C. Transgastric  
+    D. Transcolonic  
+    *Correct: B. Thoracic approach avoids diaphragm.*
+
+70. **Which AFP ratio indicates chronic hepatitis?**  
+    A. L1 dominant  
+    B. L2 dominant  
+    **C. L3 <10%**  
+    D. L3 >15%  
+    *Correct: C. L3 <10% favors benign disease.*
+
+### 🎯 **Staging & Prognosis (Q71-90)**
+
+71. **BCLC stage 0 is defined as:**  
+    A. Single tumor ≤5 cm  
+    **B. Single ≤2 cm, no symptoms**  
+    C. Multifocal  
+    D. Vascular invasion  
+    *Correct: B. Very early stage (single ≤2 cm).*
+
+72. **Which score includes portal vein invasion?**  
+    A. Okuda  
+    B. Child-Pugh  
+    **C. CLIP**  
+    D. ALBI  
+    *Correct: C. CLIP incorporates portal invasion.*
+
+73. **BCLC stage D is characterized by:**  
+    A. Single tumor  
+    B. Multifocal disease  
+    **C. ECOG 3–4**  
+    D. AFP >1000  
+    *Correct: C. Terminal stage with poor PS.*
+
+74. **Which system uses albumin and bilirubin only?**  
+    A. CLIP  
+    B. BCLC  
+    **C. ALBI**  
+    D. JIS  
+    *Correct: C. ALBI score is albumin-bilirubin based.*
+
+75. **MELD score predicts:**  
+    **A. Transplant priority**  
+    B. Tumor stage  
+    C. Survival post-TACE  
+    D. AFP response  
+    *Correct: A. MELD prioritizes liver transplants.*
+
+76. **Which BCLC stage is TACE indicated?**  
+    A. 0  
+    B. A  
+    **C. B**  
+    D. C  
+    *Correct: C. Intermediate stage (multifocal).*
+
+77. **Which AFP level predicts microvascular invasion?**  
+    A. >20  
+    B. >100  
+    **C. >400**  
+    D. >1000  
+    *Correct: C. AFP >400 correlates with invasion.*
+
+78. **Which score is specific to Japan?**  
+    A. CLIP  
+    B. BCLC  
+    **C. JIS**  
+    D. ALBI  
+    *Correct: C. JIS uses LCSGJ TNM + Child-Pugh.*
+
+79. **Which factor worsens BCLC A prognosis?**  
+    A. Tumor ≤3 cm  
+    B. Child-Pugh A  
+    **C. Microvascular invasion**  
+    D. AFP <20  
+    *Correct: C. Microvascular invasion increases recurrence.*
+
+80. **Which BCLC stage has median survival >5 years?**  
+    A. B  
+    B. C  
+    **C. A**  
+    D. D  
+    *Correct: C. Early stage (A) has 50–70% 5-year survival.*
+
+81. **Which system includes performance status?**  
+    A. Okuda  
+    B. CLIP  
+    **C. BCLC**  
+    D. ALBI  
+    *Correct: C. BCLC uses ECOG PS.*
+
+82. **Which stage is sorafenib indicated?**  
+    A. 0  
+    B. A  
+    C. B  
+    **D. C**  
+    *Correct: D. Advanced stage (C).*
+
+83. **Which AFP level is exclusion for transplant?**  
+    A. >100  
+    B. >200  
+    **C. >1000**  
+    D. >5000  
+    *Correct: C. Many centers exclude AFP >1000.*
+
+84. **Which is NOT part of Child-Pugh?**  
+    A. Bilirubin  
+    B. INR  
+    **C. Creatinine**  
+    D. Ascites  
+    *Correct: C. Creatinine is in MELD, not Child-Pugh.*
+
+85. **Which score uses total tumor volume?**  
+    A. CLIP  
+    B. BCLC  
+    **C. Taipei Integrated**  
+    D. JIS  
+    *Correct: C. Taipei Integrated includes tumor volume.*
+
+86. **Which BCLC stage is transplant indicated?**  
+    A. 0  
+    **B. A**  
+    C. B  
+    D. C  
+    *Correct: B. Early stage (A) within Milan criteria.*
+
+87. **Which factor defines BCLC B?**  
+    A. Single tumor  
+    **B. Multifocal, preserved liver function**  
+    C. Vascular invasion  
+    D. ECOG 2  
+    *Correct: B. Multifocal tumors, Child-Pugh A/B.*
+
+88. **Which AFP level predicts post-resection recurrence?**  
+    A. <20  
+    B. 20–200  
+    **C. >400**  
+    D. >1000  
+    *Correct: C. AFP >400 increases recurrence.*
+
+89. **Which score is NOT validated for HCC?**  
+    A. BCLC  
+    B. CLIP  
+    **C. APACHE II**  
+    D. ALBI  
+    *Correct: C. APACHE II is for ICU, not HCC.*
+
+90. **Which BCLC stage has median survival <3 months?**  
+    A. A  
+    B. B  
+    C. C  
+    **D. D**  
+    *Correct: D. Terminal stage (D) has worst prognosis.*
+
+### 🏥 **Treatment: Resection & Transplant (Q91-120)**
+
+91. **Which is the best candidate for resection?**  
+    A. Child-Pugh C  
+    B. Portal hypertension  
+    **C. Single tumor, normal bilirubin**  
+    D. AFP >1000  
+    *Correct: C. Resection requires preserved liver function.*
+
+92. **5-year survival post-resection in optimal patients:**  
+    A. 20–30%  
+    B. 30–50%  
+    **C. 70–80%**  
+    D. >90%  
+    *Correct: C. Selected patients achieve 70–80%.*
+
+93. **Which is a contraindication to resection?**  
+    **A. Portal hypertension (HVPG >10 mmHg)**  
+    B. Tumor 3 cm  
+    C. Child-Pugh A  
+    D. AFP <100  
+    *Correct: A. Portal hypertension predicts decompensation.*
+
+94. **Which intraoperative tool detects occult nodules?**  
+    A. CT  
+    B. MRI  
+    **C. Intraoperative US**  
+    D. PET-CT  
+    *Correct: C. IOUS identifies 0.5–1 cm lesions.*
+
+95. **Laparoscopic resection reduces:**  
+    A. Survival  
+    **B. Postoperative ascites**  
+    C. Operative time  
+    D. Tumor margins  
+    *Correct: B. Laparoscopy lowers ascites risk.*
+
+96. **Which pathology finding predicts recurrence?**  
+    A. Well-differentiated  
+    B. No satellites  
+    **C. Microvascular invasion**  
+    D. AFP <20  
+    *Correct: C. Microvascular invasion increases recurrence.*
+
+97. **Which adjuvant therapy post-resection is recommended?**  
+    A. Sorafenib  
+    B. TACE  
+    **C. None**  
+    D. Regorafenib  
+    *Correct: C. No adjuvant therapy proven.*
+
+98. **Milan criteria allow transplant for tumors:**  
+    **A. Single ≤5 cm or 3 ≤3 cm**  
+    B. Single ≤10 cm  
+    C. Any size  
+    D. AFP >1000  
+    *Correct: A. Milan criteria are size-based.*
+
+99. **UCSF expanded criteria allow:**  
+    **A. Single ≤6.5 cm**  
+    B. 3 tumors ≤4.5 cm  
+    C. AFP >1000  
+    D. Vascular invasion  
+    *Correct: A. UCSF relaxes Milan limits.*
+
+100. **5-year survival post-transplant within Milan:**  
+    A. 30–40%  
+    B. 40–50%  
+    **C. 60–80%**  
+    D. >90%  
+    *Correct: C. Milan criteria achieve 60–80% survival.*
+
+101. **Which bridging therapy is most used pre-transplant?**  
+    A. SBRT  
+    **B. TACE**  
+    C. RFA  
+    D. Y90  
+    *Correct: B. TACE prevents progression on waitlist.*
+
+102. **Downstaging aims to:**  
+    A. Increase AFP  
+    **B. Shrink tumors to meet criteria**  
+    C. Improve PS  
+    D. Reduce recurrence  
+    *Correct: B. Downstaging enables transplant eligibility.*
+
+103. **Living donor transplant advantage:**  
+    **A. Shorter waiting time**  
+    B. Higher recurrence  
+    C. Worse survival  
+    D. Donor safety is ignored  
+    *Correct: A. LDLT reduces dropout risk.*
+
+104. **Which AFP level predicts post-transplant recurrence?**  
+    A. <20  
+    B. 100–400  
+    **C. >1000**  
+    D. >5000  
+    *Correct: C. AFP >1000 increases recurrence.*
+
+105. **Which is NOT a Milan criterion?**  
+    A. Single ≤5 cm  
+    B. 3 ≤3 cm  
+    **C. AFP <100**  
+    D. No vascular invasion  
+    *Correct: C. AFP is not in Milan.*
+
+106. **Which patient should NOT get transplant?**  
+    A. Child-Pugh A, single 4 cm  
+    B. ECOG 0  
+    **C. Extrahepatic spread**  
+    D. AFP 500  
+    *Correct: C. Metastasis is exclusion.*
+
+107. **Which technique measures portal pressure?**  
+    A. FibroScan  
+    B. CT  
+    **C. Hepatic vein catheterization**  
+    D. US  
+    *Correct: C. HVPG is gold standard.*
+
+108. **Which elastography value suggests portal hypertension?**  
+    A. <7 kPa  
+    B. 7–10 kPa  
+    **C. >12.5 kPa**  
+    D. >20 kPa  
+    *Correct: C. High stiffness correlates with HVPG.*
+
+109. **Which tumor size allows resection in cirrhotics?**  
+    A. >10 cm  
+    **B. ≤5 cm (selected cases)**  
+    C. Any size  
+    D. <1 cm only  
+    *Correct: B. Size alone is not limiting.*
+
+110. **Which factor does NOT affect resectability?**  
+    A. Tumor size  
+    B. Liver function  
+    **C. AFP level**  
+    D. Portal hypertension  
+    *Correct: C. AFP does not preclude resection.*
+
+111. **Which surgical approach reduces ascites?**  
+    A. Open  
+    **B. Laparoscopic**  
+    C. Robotic  
+    D. None  
+    *Correct: B. Laparoscopy lowers ascites risk.*
+
+112. **Which pathology finding is worst?**  
+    A. Well-differentiated  
+    B. No satellites  
+    **C. Poor differentiation**  
+    D. AFP <20  
+    *Correct: C. Poor grade predicts recurrence.*
+
+113. **Which is NOT a downstaging criterion?**  
+    A. Tumor shrinkage  
+    **B. AFP rise**  
+    C. No new lesions  
+    D. Vascular invasion absence  
+    *Correct: B. AFP rise indicates failure.*
+
+114. **Which donor risk is minimized in LDLT?**  
+    A. Bile leak  
+    B. Recurrence  
+    **C. Donor mortality**  
+    D. Rejection  
+    *Correct: C. Centers of excellence reduce donor risk.*
+
+115. **Which post-resection follow-up is recommended?**  
+    A. Annual US  
+    B. CT yearly  
+    **C. 3-month US/AFP**  
+    D. PET-CT  
+    *Correct: C. Close monitoring detects recurrence.*
+
+116. **Which tumor location precludes resection?**  
+    A. Segment V  
+    B. Segment VI  
+    **C. Main portal vein invasion**  
+    D. Segment III  
+    *Correct: C. Main portal vein is contraindicated.*
+
+117. **Which factor favors laparoscopic resection?**  
+    **A. Anterior segments**  
+    B. Posterior segments  
+    C. Vascular invasion  
+    D. Child-Pugh C  
+    *Correct: A. Anterior segments are accessible.*
+
+118. **Which is NOT a resection goal?**  
+    A. R0 margins  
+    B. Preserve liver function  
+    **C. Maximize blood loss**  
+    D. Oncologic clearance  
+    *Correct: C. Blood loss should be minimized.*
+
+119. **Which post-resection adjuvant is under trial?**  
+    A. Sorafenib  
+    B. TACE  
+    **C. Immunotherapy**  
+    D. Regorafenib  
+    *Correct: C. Adjuvant immunotherapy is experimental.*
+
+120. **Which is NOT a transplant benefit?**  
+    A. Treats tumor  
+    B. Treats cirrhosis  
+    **C. Eliminates recurrence risk**  
+    D. Improves survival  
+    *Correct: C. Recurrence risk persists (10–15%).*
+
+### 🔥 **Locoregional & Systemic Therapy (Q121-160)**
+
+121. **Which ablation technique is most common?**  
+    A. PEI  
+    **B. RFA**  
+    C. MWA  
+    D. Cryoablation  
+    *Correct: B. RFA is widely used.*
+
+122. **Best ablation results are for tumors:**  
+    A. <1 cm  
+    **B. ≤2 cm**  
+    C. 3–5 cm  
+    D. >5 cm  
+    *Correct: B. ≤2 cm achieve complete necrosis.*
+
+123. **Which ablation is preferred near gallbladder?**  
+    **A. PEI**  
+    B. RFA  
+    C. MWA  
+    D. SBRT  
+    *Correct: A. PEI avoids thermal injury.*
+
+124. **Which is NOT an ablation contraindication?**  
+    A. Extrahepatic spread  
+    B. Vascular invasion  
+    **C. Tumor 1.5 cm**  
+    D. ECOG 3  
+    *Correct: C. Small tumors are ideal.*
+
+125. **Which local therapy treats portal vein thrombosis?**  
+    A. TACE  
+    B. RFA  
+    **C. SBRT**  
+    D. PEI  
+    *Correct: C. SBRT is used for PVT.*
+
+126. **Which TACE variant reduces toxicity?**  
+    A. Conventional TACE  
+    **B. DEB-TACE**  
+    C. Bland embolization  
+    D. TARE  
+    *Correct: B. Drug-eluting beads lower systemic exposure.*
+
+127. **TACE improves survival in:**  
+    A. BCLC 0  
+    B. BCLC A  
+    **C. BCLC B**  
+    D. BCLC D  
+    *Correct: C. Intermediate stage benefits.*
+
+128. **Median survival post-TACE is:**  
+    A. 6 months  
+    B. 12 months  
+    **C. 30 months**  
+    D. 60 months  
+    *Correct: C. Up to 30–40 months selected patients.*
+
+129. **Which is NOT a TACE contraindication?**  
+    A. Decompensated cirrhosis  
+    B. Portal vein thrombosis  
+    **C. Tumor 5 cm**  
+    D. ECOG 3  
+    *Correct: C. Tumor size is not contraindicated.*
+
+130. **Which TACE complication is most feared?**  
+    A. Nausea  
+    B. Fever  
+    **C. Liver failure**  
+    D. Alopecia  
+    *Correct: C. TACE can precipitate decompensation.*
+
+131. **Which is TARE’s radioactive isotope?**  
+    A. I-131  
+    B. Lu-177  
+    **C. Y-90**  
+    D. Cs-131  
+    *Correct: C. Yttrium-90 microspheres.*
+
+132. **TARE vs. TACE shows:**  
+    A. Superior survival  
+    B. Inferior toxicity  
+    **C. Comparable tumor control**  
+    D. No data  
+    *Correct: C. Both control tumors similarly.*
+
+133. **Which systemic therapy was first approved?**  
+    A. Lenvatinib  
+    B. Regorafenib  
+    **C. Sorafenib**  
+    D. Atezolizumab  
+    *Correct: C. Sorafenib (2007) was first.*
+
+134. **Which is NOT a sorafenib target?**  
+    A. VEGFR  
+    B. PDGFR  
+    C. RAF  
+    **D. EGFR**  
+    *Correct: D. Sorafenib does not target EGFR.*
+
+135. **Which trial established lenvatinib non-inferiority?**  
+    A. SHARP  
+    B. REFLECT  
+    **C. RESORCE**  
+    D. IMbrave150  
+    *Correct: B. REFLECT trial vs. sorafenib.*
+
+136. **Regorafenib is indicated after:**  
+    A. Resection  
+    B. TACE  
+    **C. Sorafenib failure**  
+    D. Immunotherapy  
+    *Correct: C. Second-line post-sorafenib.*
+
+137. **Which biomarker predicts ramucirumab benefit?**  
+    A. AFP <400  
+    **B. AFP ≥400**  
+    C. CA19-9  
+    D. CEA  
+    *Correct: B. REACH-2 trial required AFP ≥400.*
+
+138. **Which combination beats sorafenib first-line?**  
+    A. Lenvatinib + pembrolizumab  
+    B. Sorafenib + regorafenib  
+    **C. Atezolizumab + bevacizumab**  
+    D. Nivolumab alone  
+    *Correct: C. IMbrave150 showed superiority.*
+
+139. **Which adverse event correlates with sorafenib response?**  
+    A. Diarrhea  
+    **B. Hand-foot syndrome**  
+    C. Fatigue  
+    D. Anemia  
+    *Correct: B. Hand-foot reaction predicts benefit.*
+
+140. **Which immunotherapy is anti-PD-L1?**  
+    A. Nivolumab  
+    B. Pembrolizumab  
+    **C. Atezolizumab**  
+    D. Ipilimumab  
+    *Correct: C. Atezolizumab targets PD-L1.*
+
+141. **Which is NOT a TARE advantage?**  
+    A. Outpatient procedure  
+    B. Fewer sessions  
+    **C. Proven survival benefit**  
+    D. Less post-embolization syndrome  
+    *Correct: C. Survival benefit unproven vs. TACE.*
+
+142. **Which systemic therapy is VEGF inhibitor?**  
+    A. Regorafenib  
+    **B. Bevacizumab**  
+    C. Nivolumab  
+    D. Ipilimumab  
+    *Correct: B. Bevacizumab is anti-VEGF.*
+
+143. **Which is third-line systemic therapy?**  
+    A. Sorafenib  
+    B. Lenvatinib  
+    **C. Cabozantinib**  
+    D. Atezolizumab  
+    *Correct: C. Cabozantinib after regorafenib.*
+
+144. **Which trial tested durvalumab + tremelimumab?**  
+    A. IMbrave150  
+    B. HIMALAYA  
+    **C. CheckMate 459**  
+    D. KEYNOTE-224  
+    *Correct: B. HIMALAYA showed OS benefit.*
+
+145. **Which is NOT a systemic therapy AE?**  
+    A. Hypertension  
+    B. Fatigue  
+    **C. Bile leak**  
+    D. Diarrhea  
+    *Correct: C. Bile leak is procedural.*
+
+146. **Which TACE endpoint is used in trials?**  
+    A. CR  
+    B. PR  
+    **C. ORR**  
+    D. PFS  
+    *Correct: C. Objective response rate (ORR).*
+
+147. **Which is NOT an immunotherapy target?**  
+    A. PD-1  
+    B. PD-L1  
+    C. CTLA-4  
+    **D. VEGFR**  
+    *Correct: D. VEGFR is targeted by TKIs.*
+
+148. **Which systemic therapy is TKI + PD-1 combo?**  
+    A. Atezolizumab + bevacizumab  
+    **B. Lenvatinib + pembrolizumab**  
+    C. Nivolumab + ipilimumab  
+    D. Sorafenib alone  
+    *Correct: B. Lenvatinib + pembrolizumab in trials.*
+
+149. **Which AE is lenvatinib-specific?**  
+    A. Hand-foot  
+    B. Hypertension  
+    **C. Proteinuria**  
+    D. Diarrhea  
+    *Correct: C. Proteinuria is lenvatinib hallmark.*
+
+150. **Which is NOT a TARE indication?**  
+    A. BCLC B  
+    B. BCLC C  
+    **C. Child-Pugh C**  
+    D. Portal vein thrombosis  
+    *Correct: C. Decompensated disease is excluded.*
+
+151. **Which systemic therapy is anti-CTLA-4?**  
+    A. Nivolumab  
+    B. Pembrolizumab  
+    C. Atezolizumab  
+    **D. Ipilimumab**  
+    *Correct: D. Ipilimumab targets CTLA-4.*
+
+152. **Which is NOT a TACE goal?**  
+    A. Necrosis  
+    B. Shrinkage  
+    **C. Cure**  
+    D. Palliation  
+    *Correct: C. TACE is palliative, not curative.*
+
+153. **Which AE leads to sorafenib dose reduction?**  
+    A. Rash  
+    B. Diarrhea  
+    **C. Hand-foot grade 3**  
+    D. Alopecia  
+    *Correct: C. Grade 3 HFS requires dose hold.*
+
+154. **Which is NOT a combination regimen?**  
+    A. Atezo + beva  
+    B. Durva + tremelimumab  
+    **C. Sorafenib monotherapy**  
+    D. Nivo + ipi  
+    *Correct: C. Sorafenib is monotherapy.*
+
+155. **Which systemic therapy is given IV?**  
+    A. Sorafenib  
+    B. Lenvatinib  
+    **C. Bevacizumab**  
+    D. Regorafenib  
+    *Correct: C. Bevacizumab is IV infusion.*
+
+156. **Which is NOT a TARE advantage over TACE?**  
+    A. Fewer sessions  
+    B. Outpatient  
+    **C. Better survival**  
+    D. Less pain  
+    *Correct: C. Survival is equivalent.*
+
+157. **Which is NOT a systemic therapy biomarker?**  
+    A. AFP  
+    B. PD-L1  
+    C. TMB  
+    **D. CA-125**  
+    *Correct: D. CA-125 is ovarian marker.*
+
+158. **Which is NOT a TACE selection criterion?**  
+    A. Child-Pugh A/B  
+    B. Tumor confined to liver  
+    **C. ECOG 3**  
+    D. Adequate portal flow  
+    *Correct: C. ECOG 3 is exclusion.*
+
+159. **Which systemic therapy causes thyroid dysfunction?**  
+    A. Sorafenib  
+    **B. Lenvatinib**  
+    C. Regorafenib  
+    D. Cabozantinib  
+    *Correct: B. Lenvatinib causes hypothyroidism.*
+
+160. **Which is NOT an immunotherapy AE?**  
+    A. Colitis  
+    B. Pneumonitis  
+    **C. Hand-foot syndrome**  
+    D. Hepatitis  
+    *Correct: C. Hand-foot is TKI-related.*
+
+### 🔮 **Future Directions (Q161-180)**
+
+161. **Which MAFLD intervention is key for HCC prevention?**  
+    **A. Weight loss**  
+    B. HBV vaccination  
+    C. Alcohol cessation  
+    D. Statins  
+    *Correct: A. Obesity drives MAFLD-HCC.*
+
+162. **Which biomarker detects dysplastic nodules?**  
+    A. AFP  
+    **B. GALAD score**  
+    C. CA19-9  
+    D. CEA  
+    *Correct: B. GALAD combines AFP, AFP-L3, DCP.*
+
+163. **Which imaging modality is being studied for early HCC?**  
+    A. CT  
+    B. US  
+    **C. MRI with hepatobiliary agents**  
+    D. PET-CT  
+    *Correct: C. Gadoxetic acid MRI improves detection.*
+
+164. **Which adjuvant therapy is under trial post-resection?**  
+    A. Sorafenib  
+    B. TACE  
+    **C. Immunotherapy**  
+    D. Regorafenib  
+    *Correct: C. Adjuvant nivolumab in trials.*
+
+165. **Which personalized medicine tool is lacking in HCC?**  
+    A. Genomic signatures  
+    B. TMB  
+    **C. Predictive biomarkers**  
+    D. Liquid biopsy  
+    *Correct: C. Few validated predictive markers.*
+
+166. **Which prevention strategy targets MAFLD?**  
+    A. HBV vaccine  
+    B. DAA therapy  
+    **C. Diabetes control**  
+    D. Aflatoxin avoidance  
+    *Correct: C. Metabolic control reduces MAFLD-HCC.*
+
+167. **Which is NOT a future research area?**  
+    A. Biomarkers  
+    B. Immunotherapy  
+    **C. Chemotherapy revival**  
+    D. Precision oncology  
+    *Correct: C. Chemotherapy is obsolete.*
+
+168. **Which technology enables single-cell analysis?**  
+    A. IHC  
+    B. FISH  
+    **C. scRNA-seq**  
+    D. ELISA  
+    *Correct: C. Single-cell RNA-seq reveals heterogeneity.*
+
+169. **Which adjuvant trial is ongoing post-ablation?**  
+    A. STORM  
+    B. BRISK  
+    **C. KEYNOTE-937**  
+    D. CheckMate 459  
+    *Correct: C. Pembrolizumab post-ablation.*
+
+170. **Which is NOT a liquid biopsy target?**  
+    A. ctDNA  
+    B. Exosomes  
+    C. Circulating tumor cells  
+    **D. CA-125**  
+    *Correct: D. CA-125 is serum marker, not liquid biopsy.*
+
+171. **Which AI tool is being studied for HCC imaging?**  
+    A. CT perfusion  
+    B. Radiomics  
+    **C. Deep learning**  
+    D. PET-MRI  
+    *Correct: C. AI enhances nodule detection.*
+
+172. **Which neoadjuvant therapy is under trial?**  
+    A. Sorafenib  
+    B. TACE  
+    **C. Immunotherapy**  
+    D. Regorafenib  
+    *Correct: C. Neoadjuvant nivolumab in early HCC.*
+
+173. **Which is NOT a chemoprevention agent?**  
+    A. Statins  
+    B. Aspirin  
+    **C. Metformin**  
+    D. Sorafenib  
+    *Correct: D. Sorafenib is therapeutic, not preventive.*
+
+174. **Which biomarker predicts immunotherapy response?**  
+    A. AFP  
+    B. PD-L1  
+    **C. TMB**  
+    D. DCP  
+    *Correct: C. High TMB may predict response.*
+
+175. **Which is NOT a future screening tool?**  
+    A. ctDNA  
+    B. Methylation markers  
+    **C. CA-125**  
+    D. Glycosylated AFP  
+    *Correct: C. CA-125 is irrelevant.*
+
+176. **Which combination is under trial for advanced HCC?**  
+    A. Sorafenib + TACE  
+    **B. Durvalumab + tremelimumab + TACE**  
+    C. RFA alone  
+    D. PEI  
+    *Correct: B. Immunotherapy + locoregional.*
+
+177. **Which is NOT a precision medicine challenge?**  
+    A. Tumor heterogeneity  
+    B. Biomarker validation  
+    **C. Cost only**  
+    D. Drug resistance  
+    *Correct: C. Cost is secondary to biology.*
+
+178. **Which prevention strategy targets HBV?**  
+    **A. Vaccination**  
+    B. Weight loss  
+    C. Alcohol cessation  
+    D. Statins  
+    *Correct: A. HBV vaccine prevents HCC.*
+
+179. **Which is NOT a future immunotherapy target?**  
+    A. LAG-3  
+    B. TIM-3  
+    C. TIGIT  
+    **D. EGFR**  
+    *Correct: D. EGFR is not immunotherapy target.*
+
+180. **Which is NOT a MAFLD-HCC driver?**  
+    A. Obesity  
+    B. Diabetes  
+    **C. HBV infection**  
+    D. Dyslipidemia  
+    *Correct: C. HBV is unrelated to MAFLD.*
+
+### 🧩 **Miscellaneous (Q181-200)**
+
+181. **Which is NOT a paraneoplastic syndrome?**  
+    A. Hypoglycemia  
+    B. Erythrocytosis  
+    **C. Jaundice**  
+    D. Hypercalcemia  
+    *Correct: C. Jaundice is direct tumor effect.*
+
+182. **Which is NOT a HCC risk factor?**  
+    A. Aflatoxin  
+    B. Smoking  
+    **C. Appendectomy**  
+    D. Alcohol  
+    *Correct: C. Appendectomy is irrelevant.*
+
+183. **Which is NOT a liver cancer type?**  
+    A. HCC  
+    B. CC  
+    **C. Neuroendocrine**  
+    D. Angiosarcoma  
+    *Correct: C. Neuroendocrine is metastatic.*
+
+184. **Which is NOT a BCLC treatment?**  
+    A. Resection  
+    B. TACE  
+    **C. Whipple**  
+    D. Sorafenib  
+    *Correct: C. Whipple is pancreatic.*
+
+185. **Which is NOT a HCC symptom?**  
+    A. Pain  
+    B. Weight loss  
+    **C. Hemoptysis**  
+    D. Ascites  
+    *Correct: C. Hemoptysis is lung cancer.*
+
+186. **Which is NOT a cirrhosis complication?**  
+    A. Varices  
+    B. Ascites  
+    **C. Hematuria**  
+    D. Encephalopathy  
+    *Correct: C. Hematuria is unrelated.*
+
+187. **Which is NOT a TKI?**  
+    A. Sorafenib  
+    B. Lenvatinib  
+    **C. Bevacizumab**  
+    D. Regorafenib  
+    *Correct: C. Bevacizumab is monoclonal antibody.*
+
+188. **Which is NOT a locoregional therapy?**  
+    A. RFA  
+    B. TACE  
+    **C. Sorafenib**  
+    D. TARE  
+    *Correct: C. Sorafenib is systemic.*
+
+189. **Which is NOT a transplant indication?**  
+    A. HCC within Milan  
+    B. Child-Pugh B  
+    **C. ECOG 3**  
+    D. AFP <1000  
+    *Correct: C. ECOG 3 is exclusion.*
+
+190. **Which is NOT a HCC etiology?**  
+    A. HBV  
+    B. HCV  
+    C. MAFLD  
+    **D. Ulcerative colitis**  
+    *Correct: D. UC is not linked.*
+
+191. **Which is NOT a screening tool?**  
+    A. AFP  
+    B. US  
+    **C. Colonoscopy**  
+    D. MRI  
+    *Correct: C. Colonoscopy is for CRC.*
+
+192. **Which is NOT a BCLC stage?**  
+    A. 0  
+    B. A  
+    C. B  
+    **D. E**  
+    *Correct: D. BCLC has stages 0-D.*
+
+193. **Which is NOT a TACE agent?**  
+    A. Doxorubicin  
+    B. Cisplatin  
+    **C. Gemcitabine**  
+    D. Epirubicin  
+    *Correct: C. Gemcitabine is not TACE standard.*
+
+194. **Which is NOT a systemic therapy AE?**  
+    A. Hypertension  
+    B. Diarrhea  
+    **C. Bile leak**  
+    D. Fatigue  
+    *Correct: C. Bile leak is procedural.*
+
+195. **Which is NOT a HCC imaging feature?**  
+    A. Arterial enhancement  
+    B. Washout  
+    **C. Rim enhancement (CC)**  
+    D. Capsule  
+    *Correct: C. Rim enhancement suggests CC.*
+
+196. **Which is NOT a MAFLD comorbidity?**  
+    A. Obesity  
+    B. Diabetes  
+    **C. Hemochromatosis**  
+    D. Hypertension  
+    *Correct: C. Hemochromatosis is separate.*
+
+197. **Which is NOT a HCC prevention strategy?**  
+    A. HBV vaccine  
+    B. Alcohol cessation  
+    **C. Vitamin D**  
+    D. Aflatoxin control  
+    *Correct: C. Vitamin D is unproven.*
+
+198. **Which is NOT a transplant exclusion?**  
+    A. Extrahepatic spread  
+    B. AFP >1000  
+    **C. Child-Pugh A**  
+    D. ECOG 3  
+    *Correct: C. Child-Pugh A is eligible.*
+
+199. **Which is NOT a systemic therapy target?**  
+    A. VEGFR  
+    B. PD-1  
+    C. FGFR  
+    **D. HER2**  
+    *Correct: D. HER2 is not HCC target.*
+
+200. **Which is NOT a future HCC strategy?**  
+    A. Biomarkers  
+    B. Immunotherapy  
+    C. Precision medicine  
+    **D. Chemotherapy revival**  
+    *Correct: D. Chemotherapy is obsolete.*
