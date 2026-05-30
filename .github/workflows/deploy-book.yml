@@ -1,0 +1,52 @@
+name: Build and Deploy Book
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: rocker/tidyverse:4.6.0
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          Rscript -e "install.packages(c('fontawesome','gt', 'DiagrammeR', 'reticulate'))"
+          
+
+      - name: Render book
+        run: |
+          quarto render --to html
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir public
+          cp -r _book/* public/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

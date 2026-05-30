@@ -1,0 +1,246 @@
+project:
+  type: book
+  pre-render: scripts/build_presentations.R # write this in same line
+execute:
+  freeze: auto
+  cache: true
+book:
+  title: "MCQs from Blumgart's Surgery of the Liver, Biliary Tract and Pancreas"
+  reader-mode: true 
+  author: "Dr Suman Khanal"
+  date: 2025/8/23
+  date-format: iso 
+  search: true
+  sharing: [twitter, facebook]
+  sidebar:
+    style: docked
+    background: light
+  
+  
+  # Multi-volume structure
+  chapters:
+    - index.qmd
+    - introduction.qmd    
+    # VOLUME 1 - PART 1: Liver, Biliary, and Pancreatic Anatomy and Physiology
+    - part: "VOLUME 1"
+    - part: "PART 1: Liver, Biliary, and Pancreatic Anatomy and Physiology"
+    - chapters/01_Embryologic_Development_of_the_Liver_Biliary_Tract_and_Pancreas.qmd 
+    - chapters/02_Surgical_and_Radiologic_Anatomy_of_the_Liver_Biliary_Tract_and_Pancreas.qmd 
+    - chapters/03_Pancreatic_Physiology_and_Functional_Assessment.qmd 
+    - chapters/04_Assessment_of_Hepatic_Function_Implications_for_Perioperative_Outcome_and_Recovery.qmd 
+    - chapters/05_Liver_Blood_Flow_Physiology_Measurement_and_Clinical_Relevance.qmd 
+    - chapters/06_Liver_Regeneration_Mechanisms_and_Clinical_Relevance.qmd 
+    - chapters/07_Liver_Fibrogenesis_Mechanisms_and_Clinical_Relevance.qmd 
+    - chapters/08_Bile_Secretion_and_Pathophysiology_of_Biliary_Tract_Obstruction.qmd 
+    - chapters/09A_Molecular_and_cell_Biology_of_Hepatopancreatobiliary_Disease_Introduction_and_Basic_Principles.qmd 
+    - chapters/09B_Molecular_and_Cell_Biology_of_Liver_Carcinogenesis_and_Hepatitis.qmd 
+    - chapters/09C_Advances_in_the_Molecular_Characterization_of_Liver_Tumors.qmd 
+    - chapters/09D_Advances_in_the_Molecular_Characterization_of_Pancreatic_Cancer_and_Pre_malignant_Lesions.qmd 
+    - chapters/09E_Advances_in_the_Molecular_Characterization_of_Biliary_Tract_and_Gallbladder_Cancer.qmd 
+    - chapters/10_Fundamentals_of_Liver_and_Pancreas_Immunology.qmd 
+    - chapters/11_Infections_in_Hepatic_Biliary_and_Pancreatic_Surgery.qmd 
+        
+    - part: "PART 2: Diagnostic Techniques"
+    - chapters/12_Clinical_Investigation_of_Hepatopancreatobiliary_and_Pancreatic_Disease.qmd 
+    - chapters/13_Cross_Sectional_Imaging_of_Liver_Biliary_and_Pancreatic_Disease_Introduction_and_Basic_Principles.qmd 
+    - chapters/14_Imaging_Features_of_Benign_and_Malignant_Liver_Tumors_and_Cysts.qmd 
+    - chapters/15_Imaging_Features_of_Metastatic_Liver_Cancer.qmd 
+    - chapters/16_Imaging_Features_of_Gallbladder_and_Biliary_Tract_Disease.qmd 
+    - chapters/17_Imaging_Features_of_Benign_and_Malignant_Pancreatic_Disease.qmd 
+    - chapters/18_The_Role_of_Nuclear_Medicine_in_Diagnosis_and_Management_of_Hepatopancreatobiliary_Diseases.qmd 
+    - chapters/19_Emerging_Techniques_in_Diagnostic_Imaging.qmd 
+    - chapters/20_Direct_Cholangiography_Approaches_Techniques_and_Current_Role.qmd 
+    - chapters/21_Diagnostic_Angiography_in_Hepatobiliary_and_Pancreatic_Disease_Indications.qmd 
+    - chapters/22_Endoscopic_Ultrasound_of_the_Biliary_Tract_and_Pancreas.qmd 
+    - chapters/23_Image_Guided_Liver_Biopsy.qmd 
+    - chapters/24_Intraoperative_Diagnostic_Techniques.qmd 
+        
+    - part: "PART 3: Anesthetic Management, Pre- and Postoperative Care"
+    - chapters/25_Liver_and_Pancreatic_Surgery_Intraoperative_Management.qmd 
+    - chapters/26_Nutrition_and_Perioperative_Critical_Care_in_the_Hepatopancreatobiliary_Surgery_Patient.qmd 
+    - chapters/27_Enhanced_Recovery_Programs_in_Hepatobiliary_Surgery.qmd 
+    - chapters/28_Postoperative_Complications_Requiring_Intervention_Diagnosis_and_Management.qmd 
+    - chapters/29_The_Impact_of_Hepatobiliary_Interventions_on_Health_and_Quality_of_Life_and_Health.qmd 
+        
+    - part: "PART 4: Techniques of Biliary Tract Intervention"
+    - chapters/30_Interventional_Endoscopy_for_Biliary_Tract_Disease_Technical_Aspects.qmd 
+    - chapters/31_Radiologic_Hepatobiliary_Interventions.qmd 
+    - chapters/32_Bile_Duct_Exploration_and_Biliary_Enteric_Anastomosis.qmd 
+        
+    - part: "PART 5: Biliary Tract Disease"
+    # Section I: Inflammatory, Infective, and Congenital
+    # A: Gallstones and Gallbladder
+    - chapters/33_The_Natural_History_of_Symptomatic_and_Asymptomatic_Gallstones.qmd 
+    - chapters/34_Cholecystitis.qmd 
+    - chapters/35_Percutaneous_Treatment_of_Gallbladder_Disease.qmd 
+    - chapters/36_Cholecystectomy_Techniques_and_Postoperative_Problems.qmd 
+    - chapters/37A_Stones_in_the_Bile_Duct_Clinical_Features_and_Open_Surgical_Approaches_and_Techniques.qmd 
+    - chapters/37B_Stones_in_the_Bile_Duct_Minimally_Invasive_Surgical_Approaches.qmd 
+    - chapters/37C_Stones_in_the_Bile_Duct_Endoscopic_and_Percutaneous_Approaches.qmd 
+    - chapters/38_Cholecystolithiasis_and_Stones_in_the_Common_Bile_Duct_Which_Approach_and_When.qmd 
+    - chapters/39_Intrahepatic_Stone_Disease.qmd 
+    # B: Biliary Stricture and Fistula
+    - chapters/40_Extrahepatic_Biliary_Atresia.qmd 
+    - chapters/41_Primary_Sclerosing_Cholangitis.qmd 
+    - chapters/42_Benign_Biliary_Strictures_and_Biliary_Fistulae.qmd 
+    # C: Biliary Infection and Infestation
+    - chapters/43_Cholangitis.qmd 
+    - chapters/44_Recurrent_Pyogenic_Cholangitis.qmd 
+    - chapters/45_Biliary_Parasitic_Disease.qmd 
+    # D: Cystic Disease
+    - chapters/46_Bile_Duct_Cysts_in_Adults.qmd
+    # Section II: Neoplastic
+    - chapters/47_Tumors_of_the_Bile_Ducts_Pathologic_Features.qmd 
+    - chapters/48_Benign_Tumors_and_Pseudotumors_of_the_Biliary_Tract.qmd 
+    - chapters/49_Tumors_of_the_Gallbladder.qmd 
+    - chapters/50_Intrahepatic_Cholangiocarcinoma.qmd 
+    - chapters/51A_Extrahepatic_Biliary_Tumors.qmd 
+    - chapters/51B_Perihilar_Cholangiocarcinoma_Presurgical_Management.qmd 
+    - chapters/52_Interventional_Techniques_in_Hilar_and_Intrahepatic_Biliary_Strictures.qmd 
+        
+    - part: "PART 6: Pancreatic Disease"
+    # Section I: Inflammatory, Infective, and Congenital
+    - chapters/53_Congenital_Disorders_of_the_Pancreas_Surgical_Considerations.qmd 
+    - chapters/54_Definition_and_Classification_of_Pancreatitis.qmd 
+    - chapters/55_Etiology_Pathogenesis_and_Diagnostic_Assessment_of_Acute_Pancreatitis.qmd 
+    - chapters/56_Management_of_Acute_Pancreatitis_and_Pancreatitis_Related_Complications.qmd 
+    - chapters/57_Etiology_Pathogenesis_and_Diagnosis_of_Chronic_Pancreatitis.qmd 
+    - chapters/58_Management_of_Chronic_Pancreatitis_Conservative_Endoscopic_Surgical.qmd 
+    # Section II: Neoplastic
+    - chapters/59_Tumors_of_the_Pancreas_and_Ampulla.qmd 
+    - chapters/60_Cystic_Neoplasms_of_the_Pancreas_Epidemiology_Clinical_Features_Assessment_and_Management.qmd 
+    - chapters/61_Pancreatic_Cancer_Epidemiology.qmd 
+    - chapters/62_Pancreatic_Cancer_Clinical_Aspects_Assessment_and_Management.qmd 
+    - chapters/63_Duodenal_Adenocarcinoma.qmd 
+    - chapters/64_Pancreas_as_a_Site_of_Metastatic_Cancer.qmd 
+    - chapters/65_Pancreatic_Neuroendocrine_Tumors_Classification_Clinical_Picture_Diagnosis_and_Therapy.qmd 
+    - chapters/66_Chemotherapy_and_Radiotherapy_for_Pancreatic_Cancer_Adjuvant_Neoadjuvant_and_Palliative.qmd 
+    - chapters/67_Palliative_Treatment_of_Pancreatic_and_Periampullary_Tumors.qmd 
+        
+    # VOLUME 2
+    - part: "VOLUME 2"      
+    - part: "PART 7: Hepatic Disease"
+    # Section I: Inflammatory, Infective, and Congenital
+    - chapters/68_Chronic_Hepatitis_Epidemiology_Clinical_Features_and_Management.qmd 
+    - chapters/69_Hepatic_Steatosis_Steatohepatitis_and_Chemotherapy_Related_Liver_Injury.qmd 
+    - chapters/70_Pyogenic_Liver_Abscess.qmd 
+    - chapters/71_Amebiasis_and_Other_Parasitic_Infections.qmd 
+    - chapters/72_Hydatid_Disease_of_the_Liver.qmd 
+    - chapters/73_Simple_Cysts_and_Polycystic_Liver_Disease_Clinical_and_Radiographic_Features_and_Surgical_and_Nonsurgical_Management.qmd 
+    - chapters/74_Cirrhosis_and_Portal_Hypertension_Pathologic_Aspects.qmd 
+    - chapters/75_Nonhepatic_Surgery_in_the_Cirrhotic_Patient.qmd 
+    - chapters/76_Portal_Hypertension_in_Children.qmd 
+    - chapters/77_Management_of_Liver_Failure.qmd 
+    - chapters/78_Support_of_the_Failing_Liver.qmd 
+    - chapters/79_Management_of_Ascites_in_Cirrhosis_and_Portal_Hypertension.qmd 
+    - chapters/80_Medical_Management_of_Bleeding_Varices_Primary_and_Secondary_Prophylaxis_for_Variceal_Bleeding.qmd 
+    - chapters/81_Portal_Hypertensive_Bleeding_Acute_Management.qmd 
+    - chapters/82_Portal_Hypertensive_Bleeding_Operative_Devascularization.qmd 
+    - chapters/83_Portal_Hypertensive_Bleeding_the_Role_of_Portosystemic_Shunting.qmd 
+    - chapters/84_Techniques_of_Portasystemic_Shunting_Selective_and_Nonselective_Shunts.qmd 
+    - chapters/85_Transjugular_Portosystemic_Shunting_TIPS_Indications_and_Technique.qmd 
+    - chapters/86_Budd_Chiari_Syndrome_and_Veno_Occlusive_Disease.qmd 
+    # Section II: Neoplastic
+    - chapters/87_Tumors_of_the_Liver_Pathologic_Aspects.qmd 
+    - chapters/88A_Benign_Liver_Lesions.qmd 
+    - chapters/88B_Cystic_Hepatobiliary_Neoplasia.qmd 
+    - chapters/89_Hepatocellular_Carcinoma.qmd 
+    - chapters/90_Hepatic_Metastasis_from_Colorectal_Cancer.qmd 
+    - chapters/91_Hepatic_Metastasis_from_Neuroendocrine_Cancers.qmd 
+    - chapters/92_Hepatic_Metastasis_from_Noncolorectal_Nonneuroendocrine_Tumors.qmd 
+    - chapters/93_Hepatic_Tumors_in_Childhood.qmd 
+    - chapters/94A_Hepatic_Artery_Embolization_and_Chemoembolization_of_Liver_Tumors.qmd 
+    - chapters/94B_Radioembolization_for_Liver_Tumors.qmd 
+    - chapters/95_External_Beam_Radiotherapy_for_Liver_Tumors.qmd 
+    - chapters/96A_Ablative_Treatment_of_Liver_Tumors_Overview.qmd 
+    - chapters/96B_Radiofrequency_Ablation_of_Liver_Tumors.qmd 
+    - chapters/96C_Microwave_Ablation_and_Irreversible_Electroporation_of_Liver_Tumors.qmd 
+    - chapters/96D_Cryotherapy_and_Ethanol_Injection.qmd 
+    - chapters/97_Regional_Chemotherapy_for_Liver_Tumors.qmd 
+    - chapters/98_Systemic_Chemotherapy_for_Colorectal_Liver_Metastasis_Impact_on_Surgical_Management.qmd 
+    - chapters/99_Advances_in_Systemic_Therapy_for_Hepatocellular_Carcinoma.qmd 
+    - chapters/100_Isolated_Hepatic_Perfusion_for_Unresectable_Hepatic_Metastases.qmd 
+    - chapters/101A_Hepatic_Resection_General_Considerations.qmd 
+    - chapters/101B_Hepatic_Resection_for_Benign_and_Malignant_Liver_and_Biliary_Tract_Disease_Indications_and_Outcomes.qmd 
+    - chapters/102A_Parenchymal_Preservation_in_Hepatic_Resectional_Surgery_Rationale_Indications_and_Outcomes.qmd 
+    - chapters/102B_Segment_Oriented_Anatomic_Liver_Resections_Indications_and_Outcomes.qmd 
+    - chapters/102C_Preoperative_Portal_Vein_Embolization_Indications_Technique_and_Results.qmd 
+    - chapters/102D_Associating_Liver_Partition_and_Portal_Vein_Ligation_for_Staged_Hepatectomy_Indications_and_Outcomes.qmd 
+    - chapters/103_Adjuncts_to_Hepatic_Resection_From_Ultrasound_Guidance_to_New_Oncologic_and_Technical_Horizons.qmd 
+        
+    - part: "PART 8: Liver and Pancreas Transplantation"
+    - chapters/104_Liver_and_Pancreas_Transplantation_Immunobiology.qmd 
+    - chapters/105_Liver_Transplantation_Indications_and_General_Considerations.qmd 
+    - chapters/106_Liver_Transplantation_Perioperative_Anesthetic_Considerations.qmd 
+    - chapters/107_Liver_Transplantation_in_Patients_with_Fulminant_Hepatitis.qmd 
+    - chapters/108A_Liver_Transplantation_for_Hepatocellular_Carcinoma.qmd 
+    - chapters/108B_Liver_Transplantation_for_Nonhepatocellular_Malignant_Disease.qmd 
+    - chapters/109_Orthotopic_Liver_Transplantation_Standard_Donation_After_Brain_Death_Donation_After_Cardiac_Death_and_Live_Donor_–_Indications_and_Outcomes.qmd 
+    - chapters/110_Liver_Transplantation_in_Children_Indications_and_Outcomes.qmd 
+    - chapters/111_Early_and_Late_Complications_of_Liver_Transplantation.qmd 
+    - chapters/112_Whole_Organ_Pancreas_and_Pancreatic_Islet_Transplantation.qmd 
+        
+    - part: "PART 9: Hepatobiliary Injury and Hemorrhage"
+    - chapters/113_Injuries_to_the_Liver_and_Biliary_Tract.qmd 
+    - chapters/114_Pancreatic_and_Duodenal_Injuries.qmd 
+    - chapters/115_Aneurysm_and_Arteriovenous_Fistula_of_the_Liver_and_Pancreatic_Vasculature.qmd 
+    - chapters/116_Hemobilia_and_Bilhemia.qmd 
+        
+    - part: "PART 10: Techniques of Pancreatic and Hepatic Resection and Transplantation"
+    - chapters/117A_Pancreaticoduodenectomy.qmd 
+    - chapters/117B_Distal_and_Central_Pancreatectomy.qmd 
+    - chapters/117C_Total_Pancreatectomy.qmd 
+    - chapters/117D_Transduodenal_Resection_of_the_Papilla_of_Vater.qmd 
+    - chapters/118A_Major_Hepatectomy_and_Extended_Hepatectomy.qmd 
+    - chapters/118B_Segmental_Resection.qmd 
+    - chapters/119A_Hepatic_Resection_for_Biliary_Tract_Cancer_Gallbladder_Cancer.qmd 
+    - chapters/119B_Hilar_Cholangiocarcinoma_Standard_and_Extended_Resections_of_Perihilar_Cholangiocarcinoma.qmd 
+    - chapters/120_Hepatic_Resection_in_Cirrhosis.qmd 
+    - chapters/121_Resection_Technique_for_Live_Donor_Transplantation.qmd 
+    - chapters/122_Vascular_Reconstruction_Techniques_in_Hepato_Pancreato_Biliary_HPB_Surgery.qmd 
+    - chapters/123_Associating_Liver_Partition_and_Portal_Vein_Ligation_for_Staged_Hepatectomy_ALPPS_Techniques.qmd 
+    - chapters/124_Ex_Vivo_and_in_Situ_Hypothermic_Hepatic_Resection.qmd 
+    - chapters/125_Techniques_of_Liver_Replacement.qmd 
+    - chapters/126_Techniques_of_Pancreas_Transplantation.qmd 
+    - chapters/127A_Minimally_Invasive_Techniques_in_HPB_Surgery_Laparoscopic_and_Robotic_General_Principles_and_Considerations.qmd 
+    - chapters/127B_Minimally_Invasive_Distal_and_Central_Pancreatectomy.qmd 
+    - chapters/127C_Minimally_Invasive_Pancreaticoduodenectomy.qmd 
+    - chapters/127D_Minimally_Invasive_Segmental_Hepatic_Resection.qmd 
+    - chapters/127E_Laparoscopic_Major_and_Complex_Liver_Resection.qmd 
+    - chapters/127F_Robotic_Assisted_Placement_of_Hepatic_Arterial_Infusion_Pump.qmd 
+    - chapters/128_Minimally_Invasive_Surgery_Techniques_in_Transplantation.qmd
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - styles.scss
+    css: styles.css
+    # cover-image: cover.png
+    title-block-banner: true
+    code-fold: true
+    code-summary: "Show code"
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    number-depth: 3
+    crossref:
+      chapters: true
+      fig-title: "Figure"
+      tbl-title: "Table"
+    
+  pdf:
+    documentclass: book
+    classoption: [oneside, openany]
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1in
+    fontsize: 11pt
+    linestretch: 1.2
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    colorlinks: true
+
