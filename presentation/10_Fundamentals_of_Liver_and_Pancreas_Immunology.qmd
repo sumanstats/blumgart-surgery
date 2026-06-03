@@ -1,0 +1,738 @@
+---
+title: "Fundamentals of Liver and Pancreas Immunology"
+subtitle: "Chapter 10"
+format: 
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard: true
+    progress: true
+    slide-level: 2
+---
+
+## Chapter Overview
+
+- Innate and adaptive immunity in liver and pancreas
+- Unique anatomic considerations in hepatic immunology
+- Cytokine networks and molecular mediators
+- Immune responses to liver metastases
+- Immune evasion in pancreatic adenocarcinoma
+- Current advances in immunotherapy
+- Future translational directions
+
+## Introduction: Two Strategies of Host Defense
+
+- **Innate immunity**: Nonspecific first line of defense against danger signals
+- **Adaptive immunity**: Antigen-specific responses with immunologic memory
+- Crosstalk between innate and adaptive systems bridges initial response to long-lasting protection
+- *Figure 10.1: Overview of innate and adaptive immunity strategies*
+
+## Innate Immunity: Cellular Repertoire
+
+- Natural Killer (NK) cells
+- Macrophages
+- Dendritic cells (DCs)
+- Rapid response via pattern recognition receptors (PRRs)
+- Senses tissue injury and pathogen invasion
+
+## Pattern Recognition Receptors (PRRs)
+
+- Bind well-conserved microbial molecules:
+  - Lipopolysaccharide (LPS)
+  - Bacterial cell wall moieties
+  - Pathogen nucleic acids
+- Trigger phagocytosis and release of cytotoxic or inflammatory agents
+- Activate antigen-presenting cells for adaptive immunity
+
+## Innate to Adaptive Transition
+
+- PRR signaling activates antigen-presenting cells (APCs)
+- APCs activate T and B lymphocytes
+- Leads to adaptive immunity
+- Bridges nonspecific initial response to specialized, long-lasting immunologic memory
+
+## Adaptive Immunity Overview
+
+- Antigen-specific responses
+- Occur de novo during initial immune response
+- Rapid upon repeat exposure to a particular pathogen
+- T and B lymphocytes circulate in blood, lymphatic tissues, and nonlymphoid organs including the liver
+
+## T Cell Activation Requirements
+
+- Antigen presentation by APCs such as DCs
+- T and B cells express specific cell-surface receptors
+- Recognition of particular antigens
+- *Figure 10.2: T-cell activation and co-stimulation*
+
+## The Two-Signal Hypothesis
+
+- **Signal 1**: Antigen presentation within context of MHC I or MHC II
+- **Signal 2**: Critical co-stimulatory molecules from APCs
+- **Signal 3**: Secreted cytokines further modulate the response
+- All three signals required for effective T-cell activation
+
+## CD4+ and CD8+ T Cells
+
+- **CD4+ helper T cells**: Recognize antigen in context of MHC II
+- **CD8+ cytotoxic T cells**: Engage antigen loaded onto MHC I molecules
+- Coordinate to eliminate pathogens and malignant cells
+- Distinct roles in immune orchestration
+
+## T Helper Cell Subsets
+
+- Several CD4+ subsets (Th cells) exist
+- Orchestrate and polarize the immune response
+- Address particular immunologic challenges
+- Direct distinct effector functions against diverse threats
+
+## Preventing Autoimmunity: Central Tolerance
+
+- Immune system normally distinguishes self from nonself
+- Autoreactive cells deleted through negative selection in the thymus
+- Prevents harmful autoimmune responses before they enter periphery
+- First layer of self-tolerance
+
+## Peripheral Regulation
+
+- **Regulatory T cells (Tregs)**: Suppress autoreactive T cells in periphery
+- **Myeloid-derived suppressor cells (MDSCs)**: Regulate immune responses
+- **Immunoinhibitory receptors**: PD-1 and CTLA-4 modulate T-cell function
+- Work in concert to prevent autoimmunity
+
+## Intrahepatic Tolerance
+
+- Tregs, MDSCs, and immunoinhibitory pathways cooperate
+- Create a highly tolerogenic milieu in the liver
+- Reflects liver's position at interface between ingested exogenous antigens and systemic circulation
+- Fundamental aspect of liver immunology
+
+## Balance: Tolerance vs. Immunity
+
+- Tightly regulated by intrahepatic immune cells and signaling pathways
+- Normally skewed toward tolerance under physiologic conditions
+- Critical for preventing inappropriate inflammation against gut-derived antigens
+- Allows response to true pathogens when needed
+
+## Clinical Evidence of Liver Tolerance
+
+- Liver is one of the most common sites for metastatic disease
+- Malignant cells exploit intrahepatic immunosuppression
+- Liver allografts require less immunosuppression than other solid organ transplants
+- Immune system often unable to clear chronic hepatitis B and C infections
+
+## Induced Tolerance Models
+
+- Oral ingestion of foreign proteins leads to tolerance
+- Portal vein injection of antigens leads to tolerance
+- Demonstrated in experimental animal models
+- Highlights liver's role in systemic immune regulation
+
+## Autoimmune Diseases of the Liver
+
+- Despite prominent tolerogenic environment, liver is site of autoimmune processes:
+  - Primary sclerosing cholangitis (PSC)
+  - Primary biliary cirrhosis (PBC)
+- Demonstrates complexity and incomplete nature of hepatic tolerance
+
+## Pancreas in Immune Homeostasis
+
+- Normal physiologic state: pancreas has minor impact on overall immune response
+- Pancreatic malignancies demonstrate significant immune evasion
+- Ductal adenocarcinoma poses unique therapeutic challenges
+- Contrasts with liver's constant immune surveillance
+
+## Anatomic Considerations in Liver Immunology
+
+- Vascular supply principally from portal venous system draining the gut
+- Delivers heavy antigen load to the liver
+- Unique microarchitecture facilitates continuous immune surveillance
+- Positioned as first filter for gut-derived antigens
+
+## Portal Venous Circulation
+
+- Portal venous blood flows slowly through hepatic sinusoids
+- Sluggish flow allows efficient capture of antigens
+- Leukocytes and endothelial cells capture bloodborne antigens
+- Optimized for antigen sampling
+
+## Hepatic Sinusoids
+
+- Discontinuously lined by fenestrated endothelium
+- Lacking a basement membrane
+- Unique structure among vascular beds
+- *Figure 10.3: Hepatic sinusoid architecture and fenestrated endothelium*
+
+## Reticuloendothelial System
+
+- Comprises two key cell types:
+  - Liver sinusoidal endothelial cells (LSECs)
+  - Kupffer cells (KCs)
+- Very efficient at extracting antigens from portal blood
+- First line of hepatic immune surveillance
+
+## LSECs as Professional APCs
+
+- LSECs capture and process antigen
+- Levels comparable to professional APCs such as DCs
+- Unique among endothelial cells in antigen presentation capacity
+- Bridge vascular and immune functions
+
+## Microanatomy Favors Immune Interaction
+
+- Bloodborne leukocytes easily interact with:
+  - Hepatic parenchymal cells
+  - Resident immune cells of the liver
+- Rheologic features facilitate highly efficient antigen presentation
+- Microanatomic design supports immune cell interactions
+
+## Tolerance and Immunosuppression
+
+- Teleologic perspective: tolerance to oral antigens is clearly advantageous
+- Prevents harmful immune responses to food and commensal products
+- Greater propensity for graft acceptance in liver transplantation
+- Supported by experimental animal models and clinical studies
+
+## TGF-β: A Master Regulator
+
+- Transforming growth factor-beta (TGF-β)
+- Key cytokine in immune regulation, growth control, and tissue homeostasis
+- Can function to arrest growth
+- Can also act as a tumor promoter depending on context
+
+## TGF-β Signaling Pathways
+
+- **SMAD-dependent pathway**:
+  - Translocation into nucleus and resultant gene activation
+- **SMAD-independent pathways**:
+  - Alternative activation mechanisms
+  - Primarily through non-canonical signaling cascades
+
+## SMAD-Dependent Signaling
+
+- Location of active complex formation plays role in oncogenic conversion
+- Increased phosphorylation of linker region of SMAD3
+- Seen in preference to C-terminal region in many advanced tumors
+- Altered signaling shifts function from suppressive to promotional
+
+## SMAD4 and Pancreatic Carcinoma
+
+- Mutations can drive tumor development
+- Increased SMAD4 inactivation seen in pancreatic carcinoma
+- Loss of tumor suppressive function
+- Contributes to oncogenic TGF-β signaling phenotype
+
+## TGF-β in Hepatic Fibrosis
+
+- Aberrant TGF-β signaling implicated in hepatic fibrosis progression
+- Increased production of connective tissue growth factor (CTGF)
+- Produced by hepatic progenitor cells
+- Drives fibrogenic response in chronic liver injury
+
+## Type I Interferons: IFN-α and IFN-β
+
+- Family of structurally similar cytokines
+- Crucial in immune response to viral infection
+- **IFN-α**: Secreted by immune cells
+- **IFN-β**: Secreted by fibroblasts and multiple cell types in response to viral infection
+
+## Type I IFN Mechanisms
+
+- Direct antiviral action:
+  - Trigger infected cells to produce enzymes
+  - Interfere with viral RNA or DNA replication
+- Increase MHC class I expression on virally infected cells
+- Enhance recognition by cytolytic CD8+ T cells
+- Inhibit cellular proliferation
+
+## Clinical Applications of Type I IFNs
+
+- IFN-α used clinically in treatment of viral hepatitis
+- Adjuvant therapy for certain malignancies
+- Enhances antiviral immunity through multiple mechanisms
+- Modulates immune recognition of infected cells
+
+## Type II Interferon: IFN-γ
+
+- Archetypal proinflammatory cytokine
+- Associated with antitumor immune responses
+- Activates macrophages
+- Bridges innate and adaptive immunity
+
+## IFN-γ: Cellular Sources
+
+- Produced by diverse cell types:
+  - T cells
+  - B cells
+  - NKT cells
+  - DCs
+  - Macrophages
+- Widespread production reflects central role in immunity
+
+## IFN-γ: Immune Enhancement
+
+- Increases antigen presentation through MHC class I and II pathways
+- Promotes Th1-driven cytotoxic T-cell responses
+- Essential for clearance of virally infected cells and tumors
+- Enhances NK cell cytotoxic activity
+
+## IFN-γ: The Double-Edged Sword
+
+- Promotes APC activation and antiviral immunity
+- Participates in **adaptive resistance**
+- Activation of T cells leads to IFN-γ secretion
+- Activates genes encoding co-inhibitory molecules including PD-1/PD-L1
+
+## Cytokine Regulation in the Liver
+
+- Hepatic response to inflammation produces local and systemic effects
+- Cytokine expression low at baseline
+- Rapid, orchestrated response needed for host defense
+- Critical for managing bacterial products from hepatic circulation
+
+## Human Studies: Splanchnic Cytokine Production
+
+- Hepatic vein cannulation after intravenous endotoxin administration
+- Large amounts of TNF-α and IL-6 in systemic circulation
+- Derived from the splanchnic bed
+- Demonstrates liver as major cytokine contributor to systemic inflammation
+
+## Hepatic Stellate Cells
+
+- Role in recruitment and induction of infiltrating leukocytes
+- Amplify inflammatory response beyond fibrogenesis
+- Active immune modulators in hepatic injury
+- Coordinate leukocyte infiltration and activation
+
+## Cytokines in Viral Hepatitis
+
+- Infiltration of T cells and NK cells enhances production of:
+  - TNF-α
+  - FASL
+  - TGF-β
+- Increasing levels found in hepatic injury
+- Contribute to both defense and bystander tissue damage
+
+## Cytokines and the Pancreas: Overview
+
+- Defining effects complicated by pleiotropic nature of cytokines
+- Pancreatic islet cells produce multiple cytokines in healthy state
+- Regulate β-cell function and replication
+- Critical for endocrine homeostasis
+
+## IL-1 and β-Cell Function
+
+- Increasing IL-1 levels stimulate β-cell proliferation
+- Response to exogenous stressors
+- Prolonged stress implicated in islet cell dysfunction and destruction
+- Direct link between inflammation and diabetes pathogenesis
+
+## TGF-β in Type 1 Diabetes
+
+- Mouse models demonstrate role in progression of type 1 diabetes
+- Elevated concentrations implicated in increased microvascular complications
+- Observed in pediatric diabetes populations
+- Cytokine-mediated tissue damage in endocrine pancreas
+
+## TGF-β in Chronic Pancreatitis
+
+- Contributing factor in development of chronic pancreatic inflammation
+- Elevated levels correlate with:
+  - Progression of fibrosis
+  - Insulin resistance
+- Persistent inflammation drives structural and functional decline
+
+## TGF-β in Pancreatic Adenocarcinoma
+
+- Insensitivity to TGF-β stimulation leads to elevated levels
+- Switch from inhibitory effects to increased proliferation
+- Additional cytokine influences act in concert
+- Promotes oncogenic progression rather than suppression
+
+## TGF-β Receptors in Advanced Cancer
+
+- Elevated TGF-β1 and TGF-β2 receptor levels
+- Associated with advanced pancreatic cancers
+- Trend toward worse overall survival
+- Potential prognostic biomarkers for patient stratification
+
+## Nitric Oxide (NO): Overview
+
+- Central to redox balance in hepatocytes
+- Small, hydrophobic molecule with short half-life
+- Created by nitric oxide synthase (NOS)
+- Greatly increased via inducible NOS (iNOS)
+
+## iNOS Expression and Induction
+
+- iNOS expressed in all hepatic cell types
+- Production induced by:
+  - IL-1
+  - TNF-α
+  - LPS
+- Rapid upregulation during inflammatory stimuli
+
+## NO: Protective Roles in Steady State
+
+- In low-redox conditions:
+  - Inhibits apoptosis
+  - Abates mitochondrial dysfunction
+- Protective role in liver homeostasis
+- Maintains cellular viability under stress
+
+## NO: Cytoprotective Mechanisms
+
+- Acts as electron acceptor for S-nitrosylation
+- Causes inhibition of caspase activity
+- Direct blockade of apoptotic execution
+- Post-translational protein modification protects hepatocytes
+
+## NO and Heat-Shock Proteins
+
+- Induces expression of heat-shock protein 70 (HSP70)
+- Functions include:
+  - Refolding damaged proteins
+  - Modulating caspase activation
+  - Regulating heme oxygenase-1 expression
+- Confers protection from apoptosis
+
+## NO: cGMP and Apoptosis Suppression
+
+- Binds soluble guanyl cyclase
+- Increases intracellular cyclic guanosine monophosphate (cGMP)
+- Suppresses apoptosis and caspase activity
+- Second messenger-mediated cytoprotection
+
+## NO in Inflammatory Response
+
+- Upregulation of iNOS propagates inflammatory response
+- Can play a protective role in acute settings
+- Complicated dual role in hepatocyte function
+- Context-dependent beneficial and harmful effects
+
+## Immune Response to Liver Metastases
+
+- Primary mediators of innate and adaptive immunity in liver (DCs and T cells) are unique
+- Unique distribution of subtypes
+- Skew toward tolerogenic function
+- Promotes establishment of metastatic colonies within intrahepatic space
+
+## Suppressive Cells in Liver Metastases
+
+- Liver contains suppressive cell populations:
+  - Tregs
+  - MDSCs
+- May promote establishment of metastatic colonies
+- Intrahepatic space favors tumor survival over rejection
+
+## Colorectal Cancer Liver Metastases (CRCLM)
+
+- Intrahepatic adaptive immune responses predictive of recurrence and death after resection
+- Both CD4+ and CD8+ T cells activated within CRCLM
+- Immune context predicts surgical outcomes
+- Opportunity for immunotherapy integration
+
+## CD4+ T Cells in CRCLM
+
+- Activated CD4+ T helper cells promote tumor-selective activity
+- Enhance cytotoxic CD8+ T lymphocyte function
+- Helper activity essential for effective antitumor immunity
+- Coordinate intrahepatic immune response against metastases
+
+## CD8+ T Cells and Long-Term Survival
+
+- After hepatic resection:
+  - High CD8+ intratumoral T cells → more likely to survive 10+ years
+- Among 10+ year survivors: 31% had high CD8+ T cells
+- Among &lt;2 year survivors: only 8% had high CD8+ TIL
+- Robust CD8+ infiltration strongly favors survival
+
+## TIL Ratios in CRCLM
+
+- High CD8+ to CD4+ TIL ratios:
+  - Independent predictor of long-term survival after resection
+  - Significant after adjusting for clinical risk score
+- Ratios provide more biologic insight than individual TIL counts
+
+## CD4+/CD3+ and CD8+/CD3+ Ratios
+
+- High CD4+ to CD3+ TIL ratios correlate with improved survival
+- High CD8+ to CD3+ TIL ratios correlate with recurrence-free survival
+- TIL subset ratios serve as refined biomarkers
+- Reflect coordinated immune engagement
+
+## Treg Ratios and Survival Outcomes
+
+- High FOXP3+ to CD4+ TIL ratios:
+  - Independent predictor of shorter overall survival
+  - 5-year survival: 34% (high ratio) vs. 51% (low ratio)
+  - Odds ratio = 1.6
+- Regulatory imbalance predicts poor outcome
+
+## FOXP3+ to CD8+ Ratio
+
+- High FOXP3+ to CD8+ TIL ratios:
+  - Independent predictor of shorter survival
+  - 5-year survival: 35% (high ratio) vs. 46% (low ratio)
+  - Hazard ratio = 1.5; P = 0.05
+- Treg suppression undermines cytotoxic immunity
+
+## FOXP3+ in Neuroendocrine Tumors
+
+- FOXP3+ TIL counts predict outcome after resection
+- Applies to neuroendocrine tumor liver metastases
+- Broad applicability of Treg metrics across liver metastasis types
+- Generalizable immunosuppressive mechanism
+
+## Tumor MHC I Expression
+
+- Tumor MHC I expression correlated to:
+  - Immune infiltrates
+  - Clinical outcome
+- Antigen presentation machinery intact in responsive tumors
+- Loss of MHC I may enable immune evasion
+
+## Therapeutic Opportunity in CRCLM
+
+- Majority of patients do NOT demonstrate effective intratumoral immune response
+- Immunosuppressive intrahepatic cells limit effector T-cell function
+- Immunoinhibitory pathways curtail endogenous immunity
+- Opportunity: adoptive cellular immunotherapy + suppressive pathway inhibition
+
+## Immune Response to Pancreatic Adenocarcinoma (PDA)
+
+- Fourth most common cause of cancer death in the United States
+- Rising incidence
+- Dense stromal fibrosis hallmark of disease
+- Chapters 61 and 62 provide additional clinical context
+
+## PDA: Murine vs. Human Immune Context
+
+- Murine models: dearth of effector cells within tumor
+- Human PDA: significant populations of T cells in tumor milieu
+- Species differences important for translational research
+- Human tumors show more immune infiltration than preclinical models
+
+## PDA: Favorable Immune Infiltrates
+
+- Improved survival associated with:
+  - Higher densities of CD8+ T cells
+  - Higher densities of DCs
+- Effector immunity correlates with better outcome
+- Immune context matters even in fibrotic microenvironment
+
+## PDA: Immunosuppressive Myeloid Cells
+
+- Myeloid cell types enriched in poorly differentiated PDA:
+  - MDSCs
+  - Tregs
+- Suppressive infiltrates dominate aggressive subtypes
+- Inversely correlated with effector cell densities
+
+## PDA: M2 Macrophages
+
+- Immunosuppressive M2 phenotype macrophages suppress tumor killing
+- Mechanism: secretion of IL-10 and TGF-β
+- Direct inhibition of effector T-cell cytotoxicity
+- Stroma-derived immunosuppression
+
+## PDA: DC Suppression
+
+- DCs in circulation and microenvironment suppressed
+- Mediators: IL-10 and TGF-β from MDSCs and tumor cells
+- Disables professional antigen presentation
+- Breaks link between innate and adaptive immunity
+
+## PDA: Treg Migration
+
+- Increased Treg in tumor microenvironment and peripheral blood
+- Associated with decreased survival
+- Higher expression of CD166 by endothelial cells enhances Treg migration
+- Stromal adhesion molecules facilitate suppressive cell recruitment
+
+## PDA: Checkpoint Molecule Evasion
+
+- PDA cells express PD-L1
+- Similar mechanisms modulating CTLA-4 described
+- Direct tumor-intrinsic immune evasion
+- Multiple checkpoint axes exploited simultaneously
+
+## PDA: Th1/Th2 Shift
+
+- Immunosuppressive milieu shifts CTL phenotypes
+- Away from effector Th1 toward suppressive Th2
+- Mediated by IL-10
+- Polarization undermines cell-mediated cytotoxicity
+
+## Th2/Th1 Ratio and Outcomes
+
+- Higher Th2 to Th1 ratio in PDA
+- Associated with worse clinical outcomes
+- Immune polarization serves as prognostic factor
+- Reflects dominant suppressive environment
+
+## PDA: Clonally Expanded Effector T Cells
+
+- Recent evidence demonstrates clonally expanded effector T cells
+- Adaptive immune response exists but is kept at bay
+- Pre-existing immunity present but functionally constrained
+- Immunosuppressive microenvironment suppresses effector potential
+
+## PDA: Activation vs. Suppression
+
+- Complex interplay between activation and suppression
+- Modulated by cellular and soluble components
+- *Table 10.3: Interplay of cellular and soluble components of the adaptive response in PDA*
+- Contributes to difficulty in conventional medical therapy
+
+## Current Advances in Immunotherapy
+
+- Goal for liver tumors: potent antitumor immunity + reversal of intrahepatic suppression
+- Few attempts made to directly target intrahepatic immune cells
+- Paradigm shift from tyrosine kinase inhibitors to immune modulation
+- Chapters 66, 67, and 99 provide expanded therapeutic detail
+
+## Reversing Intrahepatic Tolerance
+
+- Animal model strategies:
+  - Activating liver immune cells
+  - Depleting suppressor cells
+  - Blocking immunoinhibitory pathways (PD-1/PD-L1 axis)
+- Proof of concept established in preclinical systems
+
+## NK Cell Activation in Liver
+
+- IL-12 production by DCs activates NK cells
+- Protection against tumor in melanoma liver metastasis model
+- Human liver NK cells less lytic than blood NK cells under baseline conditions
+- Resident innate cells convertible to potent effector phenotype
+
+## Human Liver NK Cell Potential
+
+- Can become potent antitumor cells when activated
+- Requires presence of Kupffer cells and TLR3 ligands
+- Combination of cellular and molecular signals needed
+- Unlocking resident NK cells for cancer immunotherapy
+
+## Monocytes and PD-L1 in HCC
+
+- Activated peritumoral monocytes in HCC foster tolerance
+- Mechanism: expression of immunosuppressive PD-L1
+- Stromal monocytes as therapeutic targets
+- Peritumoral stroma actively promotes tumor progression
+
+## PD-L1 as Recurrence Predictor
+
+- Tumor PD-L1 expression serves as predictor of recurrence
+- Applies to patients with resected hepatocellular carcinoma
+- Biomarker for adjuvant therapy decisions
+- Identifies high-risk patients for immunotherapy
+
+## HCC: Systemic Therapy Evolution
+
+- Sorafenib: sole data-driven choice for advanced HCC for many years
+- Lenvatinib: noninferior alternative (VEGF receptor kinase inhibitor)
+- Rapid increase in approved immunotherapeutics
+- Immunotherapy now standard in first- and second-line settings
+
+## Immunotherapy in MSI-H Metastatic CRC
+
+- First-line immunotherapy for MSI-high metastatic colorectal cancer
+- Overall survival: 16.5 months vs. 8.2 months with chemotherapy
+- Immunotherapy established as mainstay for unresectable disease
+- MSI status as predictive biomarker
+
+## CAR-T Cells for CRCLM
+
+- Genetically modified chimeric antigen receptor T cells (CAR-Ts)
+- Produced from autologous T cells via retroviral engineering
+- Target tumor antigens such as carcinoembryonic antigen (CEA)
+- Concept transitioning from bench to bedside
+
+## HITM Trial Results
+
+- Hepatic Immunotherapy for Metastases (HITM) trial
+- Hepatic artery anti-CEA CAR-T infusions
+- Phase I trial demonstrated safety
+- Encouraging signals of clinical efficacy in liver metastases
+
+## PDA: Initial Immunotherapy Trials
+
+- Initial PD-1 and PD-L1 blockade trials:
+  - No meaningful improvement in clinical outcomes
+- Multiple subsequent combination trials failed to show benefit
+- Pancreatic cancer intrinsically resistant to checkpoint monotherapy
+- Requires combinatorial strategies
+
+## PDA: Dual Strategy Concept
+
+- Activate effector component
+- Simultaneously break immunosuppressive elements
+- Single pathway blockade insufficient in dense stromal microenvironment
+- Need to address both sides of immune equation
+
+## PD-1 and CXCR4 Blockade in Models
+
+- Mouse model: combination PD-1 + CXCR4 blockade
+- CXCR4: chemokine receptor for CXCL12
+- CXCL12 produced by cancer-associated fibroblasts
+- Synergistic tumor killing demonstrated in preclinical systems
+
+## Organotypic Slice Culture Confirmation
+
+- Ex vivo PDA slice culture model
+- Combination PD-1 monoclonal antibody + AMD3100
+- AMD3100: FDA-approved CXCR4 inhibitor
+- Released T cells from stroma to achieve direct tumor kill
+- Validates stromal barrier concept
+
+## COMBAT Trial Design
+
+- Phase II trial in metastatic pancreatic ductal adenocarcinoma
+- Combination CXCR4 and PD-1 blockade
+- Confirmed increase in CD8+ T-cell infiltration
+- Decreased MDSC and Treg populations
+
+## COMBAT Trial Efficacy
+
+- Disease control rate of 77% out to 2 years
+- When combined with chemotherapy
+- First meaningful immunotherapy signal in PDA
+- Validates preclinical mechanistic hypotheses
+
+## Future Directions
+
+- Translate nuanced understanding of immune microenvironment
+- Turn concepts into targetable therapies
+- Confirm hypotheses in prospective treatment settings
+- Elucidate complex interplay in HCC and PDA
+
+## Research Priorities
+
+- Adaptive immune response mechanisms in solid tumors
+- Immune tolerance pathways unique to liver
+- Immune evasion strategies in pancreatic fibrosis
+- Suppression networks in advanced hepatobiliary disease
+
+## Summary: Liver Immunology
+
+- Unique anatomic features promote antigen presentation and tolerance
+- Baseline tolerogenic environment exploited by metastases
+- Cytokine networks regulate inflammation, repair, and fibrosis
+- Immunotherapy aims to reverse tolerance while preserving function
+
+## Summary: Pancreatic Immunology
+
+- PDA characterized by dense fibrosis and active suppression
+- Effector cells present but functionally constrained by stroma
+- Multiple suppressive mechanisms:
+  - Cellular (Tregs, MDSCs, M2 macrophages)
+  - Soluble (IL-10, TGF-β)
+  - Checkpoint (PD-1/PD-L1, CTLA-4)
+
+## Summary: Therapeutic Horizons
+
+- Liver: NK cell activation, CAR-T delivery, PD-L1 targeting
+- Pancreas: combination CXCR4 + PD-1 blockade
+- COMBAT trial establishes proof of concept in PDA
+- Immunotherapy era poised to decrease mortality in advanced hepatopancreatobiliary cancers

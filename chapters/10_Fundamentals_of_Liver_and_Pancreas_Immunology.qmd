@@ -1,6 +1,15 @@
 # 10 Fundamentals of Liver and Pancreas Immunology
 
 
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
 Generated with Claude.
 
 
