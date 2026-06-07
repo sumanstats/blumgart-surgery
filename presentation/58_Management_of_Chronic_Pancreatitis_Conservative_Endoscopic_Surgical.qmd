@@ -2,7 +2,7 @@
 title: "Management of Chronic Pancreatitis: Conservative, Endoscopic, Surgical"
 format:
   revealjs:
-    theme: simple
+    theme: dark
     slide-number: true
     incremental: false
     width: 1280
