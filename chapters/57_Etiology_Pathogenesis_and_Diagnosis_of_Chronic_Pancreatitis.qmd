@@ -1,6 +1,9 @@
 # 57 Etiology, Pathogenesis, and Diagnosis of Chronic Pancreatitis
 
 
+
+{{< reveal 57_Etiology_Pathogenesis_and_Diagnosis_of_Chronic_Pancreatitis >}}
+
 Generated with Claude.
 
 **1. How has chronic pancreatitis been classically defined?**

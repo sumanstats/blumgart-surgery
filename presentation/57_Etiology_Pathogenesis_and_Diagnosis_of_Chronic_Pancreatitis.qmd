@@ -1,0 +1,994 @@
+---
+title: "Chronic Pancreatitis: Etiology, Pathogenesis, and Diagnosis"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    width: 1280
+    height: 720
+---
+
+## Learning Objectives
+
+- Understand the evolving definitions of chronic pancreatitis (CP)
+- Review classification systems: Marseille, Cambridge, TIGAR-O, and M-ANNHEIM
+- Discuss etiologic factors organized by TIGAR-O / M-ANNHEIM
+- Explore proposed pathogenetic mechanisms
+- Outline a multimodal diagnostic approach including imaging and functional testing
+
+## Traditional vs. Modern Definitions
+
+**Traditional clinicopathologic framework**
+- Acute pancreatitis: resolution of symptoms and inflammation
+- Chronic pancreatitis: permanent structural changes
+
+**Limitations of the traditional definition**
+- Requires years of delay between symptom onset and diagnosis
+- Poor prediction of the entire clinical course
+- Deemphasizes addressing underlying etiology
+
+## 2016 Mechanistic Definition
+
+> "A pathologic fibroinflammatory syndrome of the pancreas in individuals with genetic, environmental and/or other risk factors who develop persistent pathologic responses to parenchymal injury or stress."
+
+**Common features (not seen in all patients):**
+- Pancreatic atrophy and fibrosis
+- Pain syndromes
+- Duct distortion and strictures
+- Calcifications
+- Exocrine and endocrine dysfunction
+- Dysplasia
+
+## Classification Systems Overview
+
+Major consensus conferences and studies:
+- **Marseille** (1963)
+- **Cambridge** (1984)
+- **Marseille-Rome** (1986)
+- **Zurich symposium**
+- **Manchester classification**
+
+**Challenge:** None fully captures the heterogeneity of chronic pancreatitis.
+
+## Cambridge & Rosemont Classifications
+
+- Based on **morphologic changes** adapted for CT and EUS
+- Correlation between morphologic changes and clinical symptoms is **imperfect**
+- **Etiology is not incorporated**
+- Rosemont classification established discrete categories for EUS findings
+
+## TIGAR-O Classification
+
+- Considers **major etiologic sources**
+- Does **not** offer clinical severity staging
+- Acronym:
+  - **T**oxic-metabolic
+  - **I**diopathic
+  - **G**enetic
+  - **A**utoimmune
+  - **R**ecurrent/severe acute pancreatitis
+  - **O**bstructive
+
+## M-ANNHEIM Classification
+
+**Most comprehensive classification to date**
+- **M**ultiple risk factors
+- **A**lcohol
+- **N**icotine
+- **N**utrition
+- **H**ereditary
+- **E**fferent duct factors
+- **I**mmunologic
+- **M**iscellaneous
+
+Includes severity scoring and diagnostic criteria in addition to multifactorial risk factor classification.
+
+## Table 57.1 — TIGAR-O Version 2 Etiologic Groups
+
+| Category | Specific Etiologies |
+|:---|:---|
+| **Toxic-metabolic** | Alcohol, smoking, hypertriglyceridemia, hypercalcemia (>12 mg/dL), medications, diabetes mellitus, chronic renal failure |
+| **Idiopathic** | Early onset (<20 years), late onset (>35 years) |
+| **Genetic** | Autosomal dominant (PRSS1), autosomal recessive (CFTR, SPINK1), complex genetics |
+| **Autoimmune** | IgG4-related (Type 1), IgG4-negative (Type 2) |
+| **Recurrent/severe AP** | Recurrent acute pancreatitis, pancreas divisum |
+| **Obstructive** | Main duct strictures, stones, calcifications, ampullary stenosis, mass causing obstruction |
+
+## Etiology Overview
+
+Development of pancreatitis depends on two main factors:
+1. **Host factors** (genetic susceptibility)
+2. **Environmental factors** (toxins, infections)
+
+Expression of disease results from interaction of:
+- Type, duration, and amount of toxin/infectious agent
+- Individual susceptibility and genetic makeup
+
+## Toxic & Metabolic: Alcohol
+
+- Most common cause of CP in developed countries
+- Only **5–10%** of patients with alcoholism develop clinically apparent CP
+- **60–90%** have 10–15 years of heavy consumption before clinical disease
+- Estimated critical threshold: ~40 g/day (women), ~80 g/day (men)
+- Type of alcoholic beverage is **not** a modifying factor
+- Early age of alcoholism may result in shorter duration before symptom onset
+
+## Alcohol-Induced CP: Clinical Course
+
+- **Zurich group finding:** Acute attacks often precede development of chronic disease
+- Previously believed that fibrosis/calcifications were already present at initial attack
+- Patients with alcohol-induced disease are more likely to develop:
+  - **Necrosis**
+  - **Pseudocysts**
+
+## Figure 57.1 — Alcohol-Induced Pancreatitis
+
+**A. Computed Tomography**
+- Pseudocyst in the head of the pancreas
+- Multiple parenchymal calcifications
+
+**B. Endoscopic Retrograde Cholangiopancreatogram (ERCP)**
+- Tortuously dilated pancreatic duct
+- Multiple irregular side branches
+
+## Cofactors in Alcoholic Pancreatitis
+
+Multiple predisposing factors render the pancreas more susceptible:
+- Genetics and hereditary susceptibility
+- Smoking and tobacco use
+- Intestinal infection
+- High-fat diet
+- Compromised immune function
+- Gallstones
+- Gender and hormonal factors
+- Drinking patterns
+
+Many patients may have genetic defects causing pancreatitis independent of alcohol exposure.
+
+## Tobacco as an Independent Risk Factor
+
+- Smoking is **independently associated** with increased risk for CP
+- Odds ratio as high as **17.3**
+- Dose-dependent relationship:
+  - <1 pack/day: OR 2.4
+  - >1 pack/day: OR 3.3
+- In smokers with alcoholic CP, course is accelerated
+- Major threshold effect at **20 pack-years**
+- **Smoking cessation reduces risk**
+
+## Mechanisms of Tobacco Injury
+
+- Induces **oxidative stress**
+- Alters secretion and composition of pancreatic juice
+  - Decreased juice and bicarbonate secretion
+  - Increased inflammation
+- **UGT1A7 mutation:** more common in CP patients with tobacco abuse
+- Connection between genetic predisposition and external triggering factors
+
+## Hypercalcemia
+
+- Results from primary or secondary hyperparathyroidism
+- Leads to recurrent acute pancreatitis progressing to CP
+
+**Mechanisms:**
+- Trypsinogen activation → necrosis and fibrosis
+- Direct damage to acinar cells
+- Increased calcium secretion → intraductal stone formation
+- Modifies pancreatic secretion → protein plug formation
+- Varying degrees of fibrosis with calcifications
+
+## Nutritional Factors
+
+- Evidence predominantly from **animal studies**
+- High-fat and high-protein diets induce pancreatic injury and amplify alcohol-induced damage
+- Limited human data suggest high-fat diets result in:
+  - More pain symptoms
+  - Earlier age of onset
+- Excess substrate (lipid/protein) → cytochrome P-450 activation → **oxidative stress**
+- Association between hyperlipidemia and recurrent acute / chronic pancreatitis
+
+## Idiopathic Chronic Pancreatitis
+
+**Bimodal age of onset:**
+
+| Feature | Early Onset | Late Onset |
+|:---|:---|:---|
+| Median age | ~20 years | ~58 years |
+| Predominant symptom | Pain (96%) | Exocrine insufficiency (85%) |
+| Calcifications | Rare | More common |
+| Endocrine insufficiency | Rare | More common |
+| Sex | 62% women | 81% women |
+
+## Idiopathic CP: The Shrinking Category
+
+- Previously ~30% of CP cases labeled idiopathic
+- Many actually have underreported alcohol/tobacco or undiscovered genetic factors
+- **SPINK1 mutations** in up to 25% of "idiopathic" CP
+- **Jalaly et al.:** 47.8% of idiopathic cases had variants in PRSS1, CFTR, SPINK1, or CTRC
+- **Lewis et al.:** Nearly 50% of early-onset idiopathic CP had CFTR, CTRC, or SPINK1 mutations
+- **Cavestro et al.:** One-third of all idiopathic CP patients have CFTR mutations
+
+## Tropical Pancreatitis
+
+- Previously considered a form of idiopathic CP
+- Represents 60–70% of CP in India and China
+- Initially attributed to malnutrition and cassava cyanogenic glycosides
+- **Current understanding:** Many patients have genetic mutations (SPINK1, cathepsin B, CTRC, CFTR, CPA1)
+- More accurately categorized as **genetic/hereditary** pancreatitis
+
+## Genetic Etiology Overview
+
+Genetic variations associated with pancreatitis:
+- **PRSS1** (cationic trypsinogen)
+- **PRSS2** (anionic trypsinogen)
+- **SPINK1**
+- **CTRC**
+- **CASR** (calcium-sensing receptor)
+- **CFTR**
+
+All closely linked with the **trypsin pathway** through early activation or failure to inhibit activated enzyme.
+
+## CFTR Mutations
+
+- Cystic fibrosis = classic example of chronic pancreatic insufficiency
+- Mutations found with increased frequency in CP of **different etiologies**
+- Also more frequent in patients with **pancreas divisum**
+- In patients without cystic fibrosis, CFTR mutation frequency is **6× higher** in CP patients
+
+## SPINK1 and Trypsin Regulation
+
+- **SPINK1** encodes pancreatic secretory trypsin inhibitor (PSTI)
+- Major intrapancreatic "deactivator" of activated trypsinogen
+- If inhibitory protein malfunctions → trypsin remains active longer
+- Called a **"gain of function"** of trypsin
+- **SPINK1-N34S** associated with:
+  - Tropical CP (50%)
+  - Alcoholic CP (6%)
+  - Idiopathic CP (20%)
+
+## PRSS1 and Hereditary Pancreatitis
+
+- **Autosomal dominant** hereditary pancreatitis
+- Point mutation in cationic trypsinogen (PRSS1)
+- Premature intracellular activation of trypsinogen → autodigestion
+- **80% penetrance**
+- Typically presents in bimodal pattern (childhood and adulthood)
+- Most patients with mutation are **asymptomatic**
+- Progression faster with SPINK1-N34S than PRSS1 mutations
+- **>50-fold increased risk** of pancreatic ductal adenocarcinoma
+
+## Autoimmune Pancreatitis (AIP)
+
+- Rare but distinct form of CP
+- Characterized by specific histopathologic, immunologic, and imaging features
+
+**Morphologic hallmarks:**
+- Periductal infiltration by lymphocytes and plasma cells
+- Granulocytic epithelial lesions
+- Destruction of duct epithelium
+- Venulitis
+
+## AIP Subtypes
+
+| Feature | Type 1 (IgG4-Related) | Type 2 (Idiopathic Duct-Centric) |
+|:---|:---|:---|
+| **Pathology** | Lymphoplasmacytic sclerosing pancreatitis | Granulocytic epithelial lesions |
+| **Serum IgG4** | Elevated | Normal |
+| **Extrapancreatic lesions** | Frequent | Less common |
+| **Recurrence** | Common | Less common |
+| **Associated conditions** | Sjögren's, PSC, IBD | Less often systemic |
+
+## Figure 57.2 — Autoimmune Pancreatitis Imaging
+
+**A. Magnetic Resonance Imaging**
+- Sausage-like, edematous pancreas
+- May mimic pancreatic cancer
+
+**B. ERCP**
+- Pancreatic duct may be dilated, stenotic, or have sacculations
+
+## Box 57.1 — Unifying AIP Diagnostic Criteria
+
+**Diagnosis requires A in combination with B I, B II, or B III:**
+
+- **A.** Negative workup for pancreatic cancer
+- **B. Disease features:**
+  - **I.** Typical histologic features
+  - **II.** Typical imaging findings AND elevated IgG4 OR ANA
+  - **III.** Response to steroids (with typical imaging OR idiopathic pancreatic disease with autoimmune features plus elevated IgG4, other organ involvement, autoantibodies, other autoimmune disease, IBD, or IgG4-positive biopsy)
+
+## Obstructive Causes (Efferent Duct Factors)
+
+Pancreatic fusion or migration anomalies predispose to:
+- Recurrent acute or chronic pancreatitis
+- Cystic dystrophy of the duodenum
+- Duodenal obstruction
+- Cholangiocarcinoma
+- Gallbladder carcinoma
+
+**Common causes of duct obstruction:**
+- Pancreatic duct scars
+- Ampullary tumors
+- Mucinous duct ectasia
+- Pancreatic head tumors
+- Trauma
+
+## Figure 57.3 — Duct Obstruction Mimicking CP
+
+**Endoscopic Retrograde Cholangiopancreatogram**
+- Side-branch mucinous duct ectasia (MDE)
+- Tumors such as pancreatic head cancer or mucin-secreting tumors can mimic chronic pancreatitis
+- Red arrow: side branch
+- Yellow circle: diseased tumorous area
+
+## Figure 57.4 — Pancreas Divisum
+
+**Typical pancreatographic appearance:**
+- Only the ventral duct fills with contrast
+- Entire dorsal duct empties into the minor papilla
+- Separate cannulation of the minor papilla is necessary to fill the dorsal duct
+- Connection with recurrent acute and chronic pancreatitis is more tenuous
+
+## Pathophysiology of Duct Obstruction
+
+- Obstruction of the main pancreatic duct produces CP changes within **weeks** in animal models
+- **Stone and duct obstruction theory:** stagnation and stone formation of pancreatic juice
+- **Necrosis-fibrosis theory:** acute recurrent pancreatitis and periductular fibrosis
+- Human histopathology: uniform interlobular and intralobular fibrosis, marked exocrine destruction, without significant protein plugs or calcifications
+
+## Miscellaneous Etiologies
+
+Under the second **M** of M-ANNHEIM:
+- Primary hypercalcemia
+- Hyperlipidemia
+- Hyperthyroidism
+- Tropical calcific pancreatitis (included here in M-ANNHEIM; considered "idiopathic" in TIGAR-O)
+
+## Pathogenesis Overview
+
+Chronic pancreatitis is characterized by progressive, irreversible pancreatic inflammation and fibrosis leading to exocrine and endocrine dysfunction.
+
+**No single unifying theory.** Multiple overlapping hypotheses with varying roles depending on etiology:
+- Necrosis-fibrosis
+- Protein-plug / stone and duct obstruction
+- Oxidative stress
+- Toxic-metabolic
+- Primary duct
+- Sentinel acute pancreatitis event (SAPE)
+- Sustained intraacinar NF-κB activation
+
+## Figure 57.5 — Pathophysiologic Mechanisms by Etiology
+
+Multiple overlapping pathways organized by TIGAR-O classification:
+
+- **T**oxic/Metabolic → Oxidative stress, Toxic-metabolic, Necrosis-fibrosis, SAPE, Stone/duct obstruction
+- **I**diopathic → Necrosis-fibrosis, SAPE
+- **G**enetic → Necrosis-fibrosis, SAPE, Stone/duct obstruction
+- **A**utoimmune → Necrosis-fibrosis, SAPE
+- **R**ecurrent AP → Necrosis-fibrosis, SAPE, Stone/duct obstruction
+- **O**bstructive → Stone/duct obstruction, Large duct
+
+All pathways converge on **chronic pancreatitis**.
+
+## Box 57.2 — Proposed Mechanisms of Chronic Pancreatitis
+
+1. Necrosis-fibrosis hypothesis
+2. Protein-plug (stone/ductal obstruction) hypothesis
+3. Oxidative stress theory
+4. Toxic-metabolic theory
+5. Primary duct hypothesis
+6. Sentinel acute pancreatitis event (SAPE) hypothesis
+7. Sustained intraacinar NF-κB activation
+
+## Necrosis-Fibrosis Hypothesis
+
+- Originally proposed by **Comfort et al. (1946)**
+- CP results from **recurrent acute pancreatitis** leading to necrosis and fibrosis
+- Acute pancreatitis can lead to CP in up to **24%** of cases
+- Recurrent acute pancreatitis is the **strongest predictor** of future CP
+- Higher frequency and severity of recurrent attacks = more rapid progression
+- Hereditary pancreatitis provides additional support (trypsinogen mutation → autodigestion → recurrent AP)
+
+## Necrosis-Fibrosis Cycle
+
+1. Acute pancreatitis → ongoing inflammatory tissue
+2. Replaced by periductal and parenchymal fibrosis
+3. Fibrosis impairs flow of pancreatic juice
+4. Calcifications form from precipitated proteins
+5. Cycle of stasis → plugging → stone formation
+6. Progression of fibrosis and ultimate atrophy of the gland
+
+*Some patients present with calcifications without a history of acute pancreatitis (subclinical injury).*
+
+## Protein-Plug (Stone/Ductal Obstruction) Hypothesis
+
+- Proposed by **Henri Sarles**
+- **Acute pancreatitis:** parenchymal autodigestion
+- **Chronic pancreatitis:** plugging of pancreatic ductules
+- Origin is within the **lumen of ductules**, not acinar cells
+- Increased lithogenicity of pancreatic fluid → eosinophilic proteinaceous aggregates → obstruction
+
+## Role of Lithostatin and GP-2
+
+- **Lithostatin (PSP):** synthesized in acinar cells; prevents calcification within ductules
+- **Alcohol effects:**
+  - Decreases pancreatic juice formation
+  - More viscous, lower bicarbonate
+  - Richer in protein, enzymes, and calcium crystals
+  - Deficient in PSP/lithostatin
+- **GP-2 (glycoprotein 2):** major zymogen granule component; induces plug formation
+
+## The Vicious Cycle of Ductal Obstruction
+
+```
+Decreased flow
+    ↓
+Decreased lithostatin production
+    ↓
+Plug formation → calcification → stone precipitation
+    ↓
+Ductal ulceration
+    ↓
+Parenchymal & periductular inflammation
+    ↓
+Stenosis and stasis → repeats cycle
+```
+
+## Two-Hit Hypothesis
+
+Reconciles necrosis-fibrosis and protein-plug hypotheses:
+1. **First hit:** Early formation of protein plugs
+2. **Second hit:** Postnecrotic fibrosis from acute pancreatitis resulting in ductal obstruction
+
+## Oxidative Stress Theory
+
+- Postulated by **Braganza**
+- Overactive hepatic mixed-function oxidases → oxidative damage
+- Triggered by:
+  - High levels of dietary lipids/proteins (substrates for CYP-450)
+  - Alcohol, cigarette smoke, xenobiotics
+
+**Mechanism:**
+- Hepatic detoxification by-products (toxic epoxides, free radicals, lipid peroxidation products)
+- Reach pancreatic parenchyma via circulation OR reflux into pancreatic duct via bile
+- Induce inflammatory damage of acinar and ductular cells
+
+## Oxidative Stress: Pancreastasis
+
+- "Pancreastasis" leads to lysosomal fragility and exocytosis of enzymes
+- Interference with **methionine-glutathione transulfuration pathway**
+- Glutathione depletion → diversion of free radicals into pancreatic tissue
+- Altered superoxide dismutase 1, glutathione peroxidase 1, glutathione reductase
+- Results in inflammation and fibrosis of ductules → low flow → lithostatin inhibition → protein/calcium precipitation
+
+## Toxic-Metabolic Theory
+
+- Proposed by **Bordalo et al.**
+- Alcohol and toxic metabolites cause accumulation of:
+  - Intracellular lipids
+  - Fatty acid ethyl esters
+- Damage to acinar cells → fatty degeneration → apoptosis → scarring
+- Impairment of pancreatic microcirculation
+
+**Histologic findings in chronic alcoholics (even without CP):**
+- Cytoplasmic fat droplets in acinar cells
+- Decreased zymogen granules
+- Increased mitochondrial size
+
+## Pancreatic Stellate Cells & Fibrosis
+
+- Pancreatic pericytes analogous to **Ito cells in the liver**
+- Fat cells migrate into periacinar spaces
+- Activated by **alcohol and acetaldehyde**
+- Transform into **scar-producing cells**
+- Immunohistochemistry: correlation between activated Kupffer cells and degree of fibrosis
+- Deposit collagen **very early** in the process
+- Analogy to cirrhosis of the liver (macronodular and micronodular fibrosis)
+
+## Primary Duct Hypothesis
+
+- Proposed by **Cavallini**
+- CP represents a **primary autoimmune or inflammatory condition** beginning in the pancreatic duct
+- Outflow obstruction results from duct inflammation, destruction, and fibrosis
+- Immunologic attack against specific antigen on periductular epithelium
+
+**Two proposed channels:**
+1. Aberrant expression of MHC antigens by ductal epithelium
+2. Infiltration of activated lymphocytes → periductular cytotoxic response
+
+## Primary Duct Hypothesis: Supporting Evidence
+
+- Radiologic and histologic similarity of CP and **primary sclerosing cholangitis (PSC)**
+- Activation of cytotoxic T lymphocytes in periductular areas of alcoholic CP
+- Occasional association of CP with PSC
+- Defect of ductal epithelial aberrant expression → periductular lymphocyte infiltration
+
+*CP may be an autoimmune or "duct-destroying" disease analogous to PSC.*
+
+## Sentinel Acute Pancreatitis Event (SAPE) Hypothesis
+
+- Introduced by **Whitcomb**
+- Incorporates molecular and cellular mechanisms
+- Provides a **"final common pathway"** for many etiologies
+
+**Key principles:**
+1. A **sentinel acute pancreatitis event** is essential to initiate the process
+2. Multiple risk factors/insults propagate disease through membrane/mitochondrial injury and cytokine release
+3. **Susceptibility** is essential (genetic or ongoing injury)
+4. Further activation of immune system and stellate cells propagates CP → fibrosis and calcification
+
+## SAPE: Important Caveats
+
+- Acute attacks tend to be **self-limited**
+- Continued oxidative stress **cannot** cause pancreatitis under normal conditions
+- Disease does **not** develop spontaneously even in patients with known genetic mutations
+- Places several previous theories under **one umbrella**
+- Does not require all patients to have classic recurrent acute pancreatitis
+
+## Sustained Intraacinar NF-κB Activation
+
+- Challenges the **trypsin-centered** understanding of pancreatitis
+- Genetic models lacking trypsinogen activation show **NF-κB activation occurs very early**, independent of trypsin
+- Sustained activation of inflammatory pathways in acinar cells may result in CP
+- Persistence of stimulus (alcohol, nicotine, hereditary, efferent duct) drives sustained activation
+
+**Novel paradigm does NOT require:**
+- Trypsinogen activation
+- Necrosis-fibrosis sequence
+- Acute-to-chronic progression
+- SAPE
+
+## Diagnosis of Chronic Pancreatitis
+
+The 2016 mechanistic definition facilitates **earlier diagnosis** by shifting emphasis away from end-stage changes.
+
+**Multimodal approach is essential**, particularly early in disease when diagnosis can be elusive.
+
+**Elements to consider:**
+- Histologic
+- Mechanistic
+- Gross morphologic
+- Physiologic
+
+## M-ANNHEIM Clinical Staging
+
+**Asymptomatic Phase**
+- Stage 0: Subclinical chronic pancreatitis
+  - A. Period without symptoms (e.g., autopsy finding)
+  - B. Single episode of acute pancreatitis (possible onset)
+  - C. Acute pancreatitis with severe complications
+
+**Symptomatic Phase**
+- Stage I: CP without pancreatic insufficiency
+- Stage II: Partial pancreatic insufficiency (exocrine OR endocrine)
+- Stage III: Pain plus complete pancreatic insufficiency (both exocrine AND endocrine)
+- Stage IV: Painless disease ("burnout phase")
+
+## Table 57.2 — Stages of Chronic Pancreatitis
+
+| Stage | Pain | Complications | Morphology | Pancreatic Function | Diagnostics |
+|:---|:---|:---|:---|:---|:---|
+| **A: Early** | Recurrent acute attacks | None | Detectable with parenchyma/duct imaging | Normal | EUS, ERP/MRP, CT, secretin |
+| **B: Progression** | Increased intensity | Pseudocysts, cholestasis, portal hypertension | Progressive changes on multiple imaging | Decreased function, rarely steatorrhea | ERP/MRP, EUS, CT, glucose testing |
+| **C: Late** | Decreased ("burnout") | Pseudocysts, cholestasis, portal hypertension | Calculi | Marked impairment; steatorrhea and diabetes | Ultrasound, ERP/MRP, CT, FE-1, glucose testing |
+
+## Box 57.3 — M-ANNHEIM Clinical Staging Details
+
+**Stage I:** (Recurrent) acute pancreatitis OR recurrent/chronic abdominal pain ± severe complications
+
+**Stage II:** Isolated exocrine OR endocrine insufficiency ± pain ± severe complications
+
+**Stage III:** Exocrine AND endocrine insufficiency with pain ± severe complications
+
+**Stage IV:** Exocrine AND endocrine insufficiency without pain ± severe complications
+
+*Severe complications include ascites, bleeding, pseudoaneurysm, bile duct obstruction, pancreatic fistula, duodenal stenosis, portal/splenic vein thrombosis, and pancreatic cancer.*
+
+## Clinical Features: Abdominal Pain
+
+- Most common **initial symptom**
+- May be absent in:
+  - **15%** of alcohol-related CP
+  - **23%** of nonalcoholic CP
+- Usually located in **epigastrium**, radiating to the back
+- **Multimodal event** including:
+  - Parenchymal inflammation
+  - Neuronal plasticity
+  - Increased nociceptor expression
+
+## Box 57.4 — Causes of Pain in Chronic Pancreatitis
+
+**Primary pancreatic pain:**
+- Duct obstruction and tissue hypertension
+- Active inflammation
+- Tissue ischemia
+- Altered nociception
+
+**Secondary pancreatic pain:**
+- Local: pseudocysts, inflammatory mass, biliary/bowel strictures
+- Remote: peptic ulcer, bacterial overgrowth, diabetes mellitus type 3c-related visceral neuropathy
+
+**Treatment-related pain:**
+- Procedural complications
+- Adverse medication reactions (e.g., opioid hyperalgesia)
+
+## Exocrine and Endocrine Dysfunction
+
+**Steatorrhea:**
+- Occurs later in disease course
+- Requires **>90% loss** of exocrine function
+
+**Earlier symptoms of exocrine insufficiency** (60–90% function lost):
+- Bloating
+- Abdominal pain
+- Change in bowel habits
+
+**Weight loss:**
+- Early: fear of eating because of pain
+- Late: malabsorption from pancreatic insufficiency
+
+## Box 57.5 — M-ANNHEIM Diagnostic Criteria
+
+**Definite chronic pancreatitis:**
+- Typical history + one or more of:
+  - MPD calcifications
+  - Moderate/severe ductal alterations (Cambridge)
+  - Typical histology
+  - Pancreatic calcifications on CT/MRI
+
+**Probable chronic pancreatitis:**
+- Mild ductal alterations (Cambridge)
+- Recurrent/persistent pseudocyst
+- Exocrine insufficiency (fecal elastase-1, secretin test)
+- Endocrine insufficiency
+
+**Borderline chronic pancreatitis:**
+- Typical history without additional criteria
+- First episode of AP with family history or M-ANNHEIM risk factors
+
+## Systematic Approach to Etiologic Diagnosis
+
+- **Meticulous history and laboratory workup** are mandatory
+- Forgoing evaluation leads to incorrect "idiopathic" labeling
+- **All patients without obvious cause:**
+  - Evaluate imaging for "sausage-like appearance"
+  - Test **IgG4 levels** to rule out AIP
+- **Young patients (<20 years):**
+  - Consider hereditary pancreatitis even without family history
+  - Evaluate for PRSS1, CFTR, SPINK1 mutations
+
+## Imaging Methods Overview
+
+**Preferred:** Noninvasive imaging methods
+
+**Best imaging modalities:**
+- **EUS** (endoscopic ultrasonography)
+- **MRI/MRCP**
+- **CT**
+
+**Least accurate:** Transabdominal ultrasound
+
+**ERCP:** Previously the gold standard; now largely replaced by EUS/MRCP and reserved for **therapeutic interventions**
+
+## Table 57.5 — Sensitivity and Specificity of Imaging
+
+| Imaging Method | Sensitivity (%) | Specificity (%) |
+|:---|:---|:---|
+| Transabdominal ultrasound | 48–96 | 75–90 |
+| Computed tomography (CT) | 56–95 | 85–100 |
+| Endoscopic retrograde pancreatography (ERP) | 68–100 | 89–100 |
+| Endoscopic ultrasound (EUS) | 85–100 | 85–100 |
+
+## Transabdominal Ultrasonography
+
+**Advantages:**
+- Inexpensive, noninvasive, readily available
+- Useful for detecting gallstones and biliary origins of pain
+
+**Disadvantages:**
+- Poor visualization due to bowel gas, obesity, operator dependence
+- Sensitivity as low as **48%** (up to 96% in advanced disease)
+- Specificity: **75–90%**
+
+**Diagnostic criteria:**
+1. Irregular contour (lobulation)
+2. Pancreatic duct dilation and irregularity
+3. Loss/reduction of pancreatic parenchyma
+4. Cysts or cavities
+5. Altered parenchymal echogenicity
+
+## Figure 57.6 — Ultrasound Findings in CP
+
+**Transabdominal ultrasound showing typical changes:**
+- Multiple intrapancreatic calcifications
+- Dilated pancreatic duct
+- Large pseudocyst in the region of the head of the pancreas
+
+*If ultrasound detects changes of CP, diagnosis is certain (high specificity). If normal or not visualized, further examinations are necessary (low sensitivity).*
+
+## Figure 57.7 & 57.8 — Pseudocyst Complications
+
+**Figure 57.7:**
+- Large, solitary pancreatic pseudocyst complicating chronic pancreatitis
+- Located near Wirsung's duct and splenic vein
+
+**Figure 57.8 — Pseudoaneurysm (Dreaded Complication):**
+- A. Cyst-like structure in 56-year-old woman with CP and sudden anemia
+- B. Doppler flow studies demonstrating blood flow inside pseudocyst-like structure
+- Confirmed pseudoaneurysm with bleeding
+- Treated with percutaneous angiographic endocoil release
+
+## Computed Tomography (CT)
+
+**International consensus (2018):** CT is the **best initial imaging modality**
+
+**Advantages:**
+- Widely available
+- Depicts most morphologic changes
+- Detects incidental lesions (malignancy, AIP)
+- Evaluates extrapancreatic organs and complications
+
+**Findings:**
+- Main and secondary duct dilation
+- Intraductal calcifications
+- Gland atrophy and heterogeneous density
+- Cystic lesions and enlargement
+
+## CT: Sensitivity and Specificity
+
+- **Sensitivity:** 56–95%
+- **Specificity:** 85–100%
+- **Most sensitive method to detect calculi**
+- Noncontrast phase technically best for calculi, but contrast CT still adequate for parenchymal calcifications
+- Cannot detect early parenchymal changes or small duct changes
+
+## Figure 57.9 & 57.10 — CT Imaging
+
+**Figure 57.9:**
+- A. Pancreatic atrophy
+- B. Calcifications with partial gastric outlet obstruction from inflammatory enlargement of pancreatic head
+
+**Figure 57.10:**
+- 52-year-old female with nicotine and alcohol-induced pancreatitis
+- Dilated pancreatic duct and multiple calcifications
+
+## Differentiating CP from Pancreatic Cancer on CT
+
+**Features favoring CHRONIC PANCREATITIS:**
+- Intraductal or parenchymal calcifications
+- Lack of obstructing mass
+- Irregular dilation of pancreatic duct
+- Relatively limited atrophy of the gland
+
+**Features favoring NEOPLASIA:**
+- Pancreatic duct dilation with associated mass at obstruction
+- Associated atrophy of the pancreas
+- Vascular invasion and metastases
+
+## Magnetic Resonance Imaging / MRCP
+
+- **More sensitive** than CT or ultrasound
+- Particularly useful for detecting **early parenchymal and ductal changes** missed by CT/ultrasound
+- International consensus recommends MRI/MRCP when CT is negative but clinical suspicion remains high
+
+**Findings:**
+- Periductal fibrosis
+- Ductal dilation with ectasia and side-branch abnormalities
+- Intraparenchymal cyst formation
+- Duct strictures and stones
+
+## Secretin-Stimulated MRCP (sMRCP)
+
+- **Dynamic test** to characterize pancreatic duct and parenchyma
+- IV secretin should increase pancreatic duct diameter **>1 mm** with recovery after 10 minutes ("pancreatic duct compliance")
+- Can evaluate **exocrine function** by estimating fluid secretion before and after secretin
+- Multislice fast T2-weighted sequence used
+
+## MRI/sMRCP and Histopathology Correlation
+
+**Trikudanathan et al.:**
+- 57 patients with noncalcific CP undergoing total pancreatectomy with islet autotransplantation
+- ROC analysis: **2+ MRI/sMRCP features** provided best balance:
+  - Sensitivity: 65%
+  - Specificity: 89%
+  - Accuracy: 68%
+- Significant independent predictors of fibrosis:
+  - Main pancreatic duct irregularity
+  - T1-weighted signal intensity ratio (pancreas vs. paraspinal muscle)
+  - Duodenal filling after secretin injection
+
+## MRI: Early Parenchymal Changes
+
+- Abnormal **decreased signal intensity** on fat-suppressed T1-weighted images
+- **Delayed or limited enhancement** after gadolinium administration
+- **Dilation of side branches** rather than main pancreatic duct can indicate early CP
+
+**Disadvantage:** Side branch changes not visualized as accurately as with ERP
+
+## Endoscopic Retrograde Pancreatography (ERP)
+
+- Previously held as **gold standard**
+- Sensitivity: ~90%; Specificity: approaches **100%**
+- Role has **greatly decreased** with high-quality CT and MRI/MRCP
+- **Invasive** with post-ERP pancreatitis in **3–10%** of patients
+- Now used **predominantly for therapeutic interventions**
+
+## ERP: Cambridge Criteria (Table 57.4)
+
+| Stage | Typical Changes |
+|:---|:---|
+| **Normal** | Normal side branches and main pancreatic duct |
+| **Equivocal** | Dilation/obstruction of <3 side branches; normal MPD |
+| **Mild** | Dilation/obstruction of >3 side branches; normal MPD |
+| **Moderate** | Additional stenosis and dilation of MPD |
+| **Severe** | Additional obstructions, cysts, stenosis of MPD; calculi |
+
+## ERP: Advanced Ductal Changes
+
+Changes assessed in advanced disease:
+- Irregularity, dilation, and tortuosity
+- Stenosis and cysts
+- Calculi and bile duct stenosis
+
+**Classic appearance:**
+- **"Chain of lakes"** — intermittent points of obstruction in a dilated pancreatic duct
+
+*Early chronic pancreatitis may NOT be seen on ERP.*
+
+## Figure 57.11 & 57.12 — ERCP Images
+
+**Figure 57.11:**
+- Pancreatograms A and B
+- Dilated and tortuous pancreatic duct with multiple side branches
+- Classic advanced chronic pancreatitis appearance
+
+**Figure 57.12:**
+- Calcification in the region of the pancreatic head
+- Concomitant distal common bile duct stricture
+- Demonstrates biliary involvement in advanced disease
+
+## Endoscopic Ultrasonography (EUS)
+
+- **Most appropriate and sensitive** for parenchymal and ductal changes
+- Detects CP in **early stages** as well as advanced disease
+- **Indicated when CT and MRI are negative** but clinical suspicion is high
+- Visualizes subtle alterations before other modalities or function tests can detect them
+
+## EUS: Sensitivity vs. Specificity
+
+- **High sensitivity** but **poor specificity**
+- Many EUS features may occur with:
+  - Normal aging
+  - Smoking
+  - Obesity
+  - Normal variants
+  - Nonpathologic asymptomatic fibrosis
+
+**Caution:** Do not base diagnosis solely on EUS criteria without clinical correlation.
+
+## Rosemont Classification for EUS
+
+**Major A Criteria:**
+- Parenchymal: Hyperechoic foci with shadowing; well-circumscribed lobularity
+- Ductal: Calculi in main pancreatic duct
+
+**Major B Criteria:**
+- Parenchymal: Lobularity with honeycombing
+
+**Minor Criteria:**
+- Parenchymal: Cysts, stranding, nonshadowing hyperechoic foci, noncontiguous lobules
+- Ductal: Dilated ducts, irregular MPD contour, dilated side branches (≥1 mm), hyperechoic duct margin
+
+## Rosemont Diagnostic Categories
+
+**Consistent with CP if one of the following:**
+1. One major A feature + 3+ minor features
+2. One major A feature + one major B feature
+3. Two major A features
+
+**Other combinations:**
+- Suggestive
+- Indeterminate
+- Normal
+
+*Advantage: use of weighted criteria. Limitation: relatively poor interobserver agreement even among experts.*
+
+## Box 57.6 — EUS Criteria for Diagnosis of CP
+
+**Parenchymal features:**
+- Gland size
+- Cysts
+- Echo-poor lesions
+- Echo-rich lesions (>3 mm)
+- Accentuation of lobular patterns
+- Increased duct wall echogenicity
+
+**Ductal features:**
+- Irregularity of main pancreatic duct
+- Dilation of MPD
+- Dilated side branches
+- Calcification
+
+## EUS in Early Disease: Clinical Evidence
+
+- Series of chronic alcohol abusers with recurrent pain and **normal ERP**
+- Typical CP changes detected by **EUS**
+- After median **18 months**, repeat ERP showed typical changes in **68.8%** of patients
+- Demonstrates EUS has **higher sensitivity** than ERP in early disease with typical clinical history
+
+**Requirements:** Expert EUS endoscopists and dedicated EUS unit
+
+## Tests of Exocrine Pancreatic Function
+
+**Currently play a minor, complementary role** for four main reasons:
+1. High sensitivity only in **advanced stages**
+2. Low clinical availability of most **direct tests**
+3. Utility limited to **more advanced disease**
+4. Low specificity (~70%)
+
+**Key limitation:** Clinical manifestations occur late — after approximately **90%** of exocrine parenchyma has been destroyed.
+
+## Invasive (Direct) Pancreatic Function Tests
+
+**Secretin stimulation test:**
+- Duodenal intubation and aspiration after stimulation
+- Detects functional impairment in **all stages** of CP
+- Sensitivity and specificity: **75–95%**
+- Measures volume, bicarbonate, and enzyme output
+- Bicarbonate **<50 mEq/L** consistent with CP
+
+**False positives:** Diabetes, Billroth II gastrectomy, celiac sprue, cirrhosis
+
+**Disadvantages:** Cost, invasiveness, risk. Mostly of historical/scientific interest.
+
+## Noninvasive (Indirect) Pancreatic Function Tests
+
+**Approaches:**
+- Measure absorption of compounds requiring pancreatic digestion
+- Measure enzymes/zymogens secreted by pancreas
+
+**Examples:**
+- Serum trypsinogen
+- Fecal elastase-1 (FE-1)
+- Serum amylase or lipase (low sensitivity in early stages)
+
+**Important:** Always accompany with CT or MRI/MRCP when assessing CP.
+
+## Fecal Elastase-1 (FE-1)
+
+- **Best accuracy** of all stool tests
+- High stability during intestinal passage
+- Commercial test measures **only human elastase**
+  - Advantage in patients receiving porcine oral enzyme supplementation
+- Useful for detecting compliance with exogenous enzyme supplementation
+
+**Limitations:**
+- Sensitivity and specificity are **low in early stages** with mild-to-moderate exocrine insufficiency
+
+## Summary: Etiology
+
+- Most common etiologies in Western societies: **long-term alcohol abuse and smoking**
+- Multiple genetic, environmental, epigenetic, cellular, and molecular factors contribute
+- No single unifying theory; multiple overlapping hypotheses
+- **Two-hit hypothesis** seems to explain the process best:
+  1. Underlying susceptibility + first insult → inflammatory/immunologic process
+  2. Recovery or repeated hits → disease progression
+
+## Summary: Diagnosis
+
+- **Multimodal approach** is essential, progressing from least to most invasive
+- **CT:** Best initial imaging modality
+- **MRI/MRCP:** Most sensitive for early changes; secretin-stimulated for functional assessment
+- **EUS:** Best for early parenchymal/ductal changes when CT/MRI are negative
+- **ERP:** Reserved for therapeutic interventions
+- **Functional tests:** Complementary role; most useful in advanced disease
+- **Histology:** Most accurate but rarely used initially due to invasiveness
+
+## Summary: Key Takeaways
+
+- Chronic pancreatitis is a **dynamic disease** with evolving definitions
+- Early diagnosis requires combining **clinical, imaging, and functional** data
+- **M-ANNHEIM** provides the most comprehensive classification framework
+- **Smoking cessation and alcohol abstinence** are critical modifiable risk factors
+- Differentiation from **pancreatic malignancy** remains a key imaging challenge
+- Management requires addressing **underlying etiology**, not just end-stage morphology

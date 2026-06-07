@@ -1,0 +1,57 @@
+/* Custom styles for Chronic Pancreatitis presentation */
+
+.reveal h2 {
+  font-size: 1.4em;
+  margin-bottom: 0.5em;
+  color: #2c3e50;
+}
+
+.reveal h3 {
+  font-size: 1.1em;
+  margin-bottom: 0.4em;
+  color: #34495e;
+}
+
+.reveal p, .reveal li {
+  font-size: 0.75em;
+  line-height: 1.4;
+}
+
+.reveal table {
+  font-size: 0.65em;
+  margin: 0.5em auto;
+}
+
+.reveal table th {
+  background-color: #2c3e50;
+  color: white;
+  padding: 8px 12px;
+}
+
+.reveal table td {
+  padding: 6px 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.reveal table tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+.reveal blockquote {
+  background-color: #f8f9fa;
+  border-left: 4px solid #2c3e50;
+  padding: 0.5em 1em;
+  font-style: italic;
+}
+
+.reveal .slides section {
+  text-align: left;
+}
+
+.reveal ul {
+  margin-left: 0.5em;
+}
+
+.reveal ul li {
+  margin-bottom: 0.3em;
+}

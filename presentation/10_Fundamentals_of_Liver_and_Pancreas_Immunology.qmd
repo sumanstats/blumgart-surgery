@@ -3,11 +3,9 @@ title: "Fundamentals of Liver and Pancreas Immunology"
 subtitle: "Chapter 10"
 format: 
   revealjs:
-    theme: simple
+    theme: dark
     slide-number: true
-    chalkboard: true
-    progress: true
-    slide-level: 2
+    chalkboard: false
 ---
 
 ## Chapter Overview

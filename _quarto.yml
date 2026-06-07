@@ -1,6 +1,7 @@
 project:
   type: book
-  pre-render: scripts/build_presentations.R # write this in same line
+  pre-render: scripts/build_presentation.R # write this in same line
+  post-render: scripts/copy_presentation.R # write this in same line
 execute:
   freeze: auto
   cache: true
@@ -209,6 +210,10 @@ book:
     - chapters/127E_Laparoscopic_Major_and_Complex_Liver_Resection.qmd 
     - chapters/127F_Robotic_Assisted_Placement_of_Hepatic_Arterial_Infusion_Pump.qmd 
     - chapters/128_Minimally_Invasive_Surgery_Techniques_in_Transplantation.qmd
+
+shortcodes:
+  - _shortcodes/reveal.lua
+
 
 format:
   html:

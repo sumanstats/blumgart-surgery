@@ -1,0 +1,1163 @@
+---
+title: "Management of Chronic Pancreatitis: Conservative, Endoscopic, Surgical"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    incremental: false
+    width: 1280
+    height: 720
+    css: css/custom.css
+---
+
+## Chapter Overview
+
+- **Background**: Definition, epidemiology, etiology, and pathophysiology of chronic pancreatitis (CP)
+- **Conservative Therapy**: Lifestyle modifications, enzyme replacement, pain management, autoimmune pancreatitis
+- **Endoscopic Therapy**: Duct stenosis management, pseudocyst drainage, lithotripsy
+- **Surgical Therapy**: Drainage procedures, resection procedures, minimally invasive approaches
+- **Conclusions**: Integrated multidisciplinary management approach
+
+------------------------------------------------------------------------
+
+## Background: Definition of Chronic Pancreatitis
+
+- CP is characterized by a **progressive inflammatory process**
+- Etiologies vary depending on **geographic and sociocultural circumstances**
+- Incidence and prevalence differ between regions
+- Studies include Western countries, Asian countries, and India
+- Reported incidence: approximately **5 to 15 per 100,000**
+- Reported prevalence: **40 to 120 per 100,000** inhabitants
+- Based on estimated median survival time of **20 years**
+- Numbers have increased especially in **Asian countries** in recent decades
+
+------------------------------------------------------------------------
+
+## Etiology: Alcohol and Tobacco
+
+- **Chronic alcohol consumption**: most common cause (\~70% of all CP cases)
+- Threshold for developing CP: **persistent alcohol intake of 70 g/day for \>12 months**
+- **Tobacco smoking** is:
+  - A co-risk factor for CP
+  - Also an independent factor for CP development
+- Sustained abstinence from both is a principal step in management
+- Smoking cessation before alcohol abstinence may be preferable
+
+------------------------------------------------------------------------
+
+## Etiology: Hereditary Chronic Pancreatitis
+
+- Recognized as a distinct entity in the **1990s**
+- Underlying genetic mutations defined in following years
+- Key gene loci involved:
+  - **PRSS1** (cationic trypsinogen)
+  - **SPINK1** (serine protease inhibitor Kazal-type 1)
+  - **CPA1** (carboxypeptidase A1)
+  - **CFTR** (cystic fibrosis transmembrane conductance regulator)
+  - **CTRC** (chymotrypsinogen C)
+  - **CEL** (carboxyesterlipase)
+- Proportion of hereditary CP: **20% to 30%** of all CP patients
+
+------------------------------------------------------------------------
+
+## Etiology: Idiopathic and Tropical CP
+
+- Considerable number of previously "idiopathic" CP patients may have **unrecognized genetic background**
+- "Idiopathic" CP is only accepted after **exclusion of all other risk factors**
+- Accounts for approximately **10%** of all cases today
+- **"Tropical CP"** term is falling into disuse
+- Aggressive form from India/tropical countries associated with genetic mutations in:
+  - SPINK1, CFTR, CTRC, Cathepsin B, CLDN2/MORC4
+- Clinical characteristics similar to CP in temperate countries
+
+------------------------------------------------------------------------
+
+## Etiology: Gallstone and Autoimmune Pancreatitis
+
+- **Gallstone etiology** remains controversial:
+  - Exclusively described in Chinese patient cohorts
+  - No other region observed this type
+  - Pathophysiology not explained
+  - May be recurrent AP episodes not treated after first episode
+- **Autoimmune pancreatitis (AIP)**:
+  - First described in **1995**
+  - Found in **5% to 6%** of all CP patients
+  - Presumed systemic **IgG4-related** sclerosing disease
+  - Distinctly different entity in diagnostic measures and therapy
+
+------------------------------------------------------------------------
+
+## Pathophysiology: Fibrosclerotic Transformation
+
+- CP leads to **fibrosclerotic transformation** of pancreatic tissue
+- Often associated with **calcifications**
+- Local **fibro-inflammatory and neuroimmunologic changes** lead to:
+  - Chronic progressive destruction of functional pancreatic tissue
+- Primary effect on **exocrine function** by acinar cell destruction
+- Followed by late symptoms of **endocrine failure**
+
+------------------------------------------------------------------------
+
+## Clinical Symptoms: Exocrine Failure
+
+- **Steatorrhea**
+- **Weight loss**
+- **Maldigestion** with intolerance of fatty food
+- **Malabsorption** with vitamin deficiency
+- Up to **75%** of CP patients have deficiency in fat-soluble vitamins (A, D, E)
+- Clinically manifest **osteoporosis** in approximately **25%** of CP patients
+- Fat-soluble vitamin monitoring and replacement essential
+
+------------------------------------------------------------------------
+
+## Clinical Symptoms: Endocrine Failure
+
+- CP-related endocrine pancreatic insufficiency = **DM type 3c**
+- Characterized by deficiency of:
+  - **Insulin**
+  - **Glucagon**
+  - **Pancreatic polypeptide**
+- Treatment follows recommendations of **DM type 1**
+- Accounts for **5% to 10%** of all DM patients worldwide
+- Also found in pancreatic cancer, post-surgical patients, genetic/metabolic disorders
+
+------------------------------------------------------------------------
+
+## DM Type 3c: Diagnostic Criteria
+
+**Three main criteria (mandatory):**
+
+1.  Exocrine pancreatic insufficiency
+    - Tested by monoclonal fecal elastase-1 or direct function tests
+2.  Consistent morphologic pancreatic abnormalities on imaging
+    - EUS, MRI, or CT scan
+3.  Absence of related autoimmune markers of DM type 1
+
+**Minor criteria:** - Impaired β-cell function (C-peptide or glucose) - Absence of insulin resistance - Impaired incretin secretion (GLP-1, pancreatic polypeptide) - Low serum fat-soluble vitamins (A, D, E, K)
+
+------------------------------------------------------------------------
+
+## Pain in Chronic Pancreatitis: Pathophysiology
+
+- Pain is a **key feature** and clinically the most important symptom
+- Characterized by **immunologic and neural modulations**
+- Lead to reactive changes in:
+  - Peripheral nerve **diameter**
+  - Peripheral nerve **density**
+  - Peripheral nerve **function**
+- These changes correlate with **pain intensity** in long-term course
+- Increasing and stimulus-independent pain sensation develops
+- Characteristics of **autonomous pain** caused by neural plasticity
+
+------------------------------------------------------------------------
+
+## Pain: Neural Plasticity and Clinical Impact
+
+- Neural plasticity and memory function of:
+  - Peripheral nervous system
+  - Central nervous system
+- Induces **irreversible change** of pain sensation due to **cerebral cortical reorganization**
+- Clinical cascade:
+  - Many CP patients present in **later stage** of disease
+  - Already **opioid-dependent** and highly disabled
+- Prevention of opioid dependency is a **major therapeutic goal**
+
+------------------------------------------------------------------------
+
+## Morphologic Correlates of CP
+
+- **Inflammatory tumorous mass** (often focused on pancreatic head)
+- **Pseudocysts**
+- **Calcifications**
+- **Dilation of main pancreatic duct** with:
+  - Diameter irregularities
+  - Stenotic segments
+- **Bile duct obstruction** with consequent cholestasis
+- Signs of **local compression**:
+  - Stenosis or occlusion of portal, superior mesenteric, or splenic vein
+  - Left-sided portal hypertension
+  - Cavernous transformation of proximal portal vein
+
+------------------------------------------------------------------------
+
+## Local Complications of CP
+
+- **Portal vein compression** → left-sided portal hypertension
+  - Collateral circulation via short gastric veins
+  - Cavernous transformation of portal vein
+- **Duodenal and gastric outlet obstruction**
+  - Subsequent reduction of oral intake
+  - Further aggravation of malnutrition and weight loss
+- These mechanical complications often require surgical intervention
+
+------------------------------------------------------------------------
+
+## Major Aims of Therapy in CP
+
+1.  **Prevention** of acute pain attacks
+2.  **Long-lasting pain relief**
+3.  **Prevention** of disease progression
+4.  **Correction** of metabolic consequences
+5.  **Restoration** of good quality of life
+6.  **Preservation** of endocrine and exocrine function
+7.  Address and manage **psychosocial problems**
+
+- Requires an **interdisciplinary management team**:
+  - Gastroenterologic, radiologic, pathologic, psychological, surgical expertise
+
+------------------------------------------------------------------------
+
+## Conservative Therapy: Overview
+
+- Basis of treatment for **all CP patients**
+- Key components:
+  - Exposure to nutritional and toxic risk factors
+  - Management of psychological symptoms
+  - Treatment of exocrine dysfunction
+  - Treatment of endocrine dysfunction
+  - Pain management
+  - Special considerations for autoimmune pancreatitis
+
+------------------------------------------------------------------------
+
+## Nutritional and Toxic Risk Factors
+
+- **Stopping alcohol intake** and **nicotine use** with sustained abstinence
+- Principal steps in management of alcoholic CP
+- Requires high level of **patient compliance**
+- Cessation of both risk factors may be challenging
+- Requires accompanying **psychological therapy**
+- Preferable sequence: **smoking cessation before alcohol abstinence**
+- Abstinence improves:
+  - Pain frequency and intensity
+  - Therapy response
+  - Maintenance of remaining pancreatic function
+  - Reduction of disease-associated mortality
+
+------------------------------------------------------------------------
+
+## Psychological Symptoms and Rehabilitation
+
+- **Social re-integration** and **professional rehabilitation** important aims
+- CP patients typically young (**35-60 years old**)
+- Psychological therapy should address:
+  - Pain-associated disability in social/professional function
+  - Dependency on alcohol and smoking
+  - Self-blaming
+  - Personal economic deterioration
+- Interventions should start **as early as possible**
+- Educational programs and continuous psychological support
+- CP patients at higher risk of **attempted and completed suicide**
+
+------------------------------------------------------------------------
+
+## Exocrine Dysfunction: Enzyme Replacement
+
+- Must be addressed by adequate oral substitution of **pancreatic enzyme preparations (PEPs)**
+- PEPs requirements:
+  - High **lipase activity**
+  - **Resistant to gastric acid** (enteric coating)
+  - Homogenous mixing with nutritional components
+  - Coordinated gastric emptying with nutrients
+  - Early activation in duodenum
+- Different compositions: **capsules and powders**
+- **Gastric acid blockade** important after pancreatic resections
+
+------------------------------------------------------------------------
+
+## PEP: Dosing and Administration
+
+- Dose follows fat intake:
+  - Approximately **2000 IU of lipase per gram of fat ingested**
+- Dose ranges: **25,000 to 75,000 units of lipase**
+- Must be provided **during the meal** for optimal effect
+- In case of therapy failure: **first step is to increase PEP dosage**
+- Many patients with CP-related exocrine failure are **insufficiently treated**
+- **Proton pump inhibitors** often necessary in surgical CP patients
+- Success judged by:
+  - Weight gain
+  - Improvement of abdominal symptoms
+
+------------------------------------------------------------------------
+
+## PEP: Additional Benefits and Monitoring
+
+- Besides digestive/absorptive improvement, PEPs may:
+  - Lead to **pain reduction**
+  - Contribute to **normalization of intestinal motility**
+  - **Reduction of dyspepsia**
+- **Fat restricting diet no longer recommended**
+- CP patients often suffer from reduced BMI
+- Sufficient calorie intake required, adjusted to individual needs
+- Fat-soluble vitamin replacement: **A, D, E, K**
+- Vitamin **B1, B2, B6** therapy in persistent alcohol abuse
+
+------------------------------------------------------------------------
+
+## Endocrine Dysfunction: DM Type 3c Treatment
+
+- **Metformin** recommended as first-line therapy
+- In most patients, additional **insulin therapy** unavoidable
+- CP patients show **high risk of hypoglycemia** due to:
+  - Lack of compliance
+  - Persisting alcohol consumption
+  - Co-existing autonomous neuropathy
+- Especially in alcoholic CP: associated with **high mortality risk**
+- **Avoidance of hypoglycemia** = major goal
+- Achieved by **simple insulin regimens** that increase compliance
+
+------------------------------------------------------------------------
+
+## Pain Management: WHO Stepwise Approach
+
+Backbone of pain medication: **WHO recommendation for analgesic therapy**
+
+| Step | Medication |
+|--------------------------|----------------------------------------------|
+| Step 1 | Nonopioid peripheral analgesics (acetaminophen, NSAIDs) + adjuvants |
+| Step 2 | Mild opioids (tramadol) + ongoing basic medication |
+| Step 3 | Strong opioid drugs |
+| Step 4 | Interventional approaches |
+
+- Prescribe **"around the clock"** instead of **"on-demand"**
+- Oral application preferred to increase compliance
+
+------------------------------------------------------------------------
+
+## Pain Management: Step 1 Details
+
+- **Nonopioid peripheral analgesics:**
+  - Acetaminophen
+  - NSAIDs (nonsteroidal antiinflammatory drugs)
+- Supported by **adjuvant medication:**
+  - Antidepressants
+  - Anticonvulsants
+- Prescribed **"around the clock"** not "on-demand"
+- Alternative therapy approaches should be considered **early**
+- CP patients should **not reach chronic opioid dependency** as long as other solutions exist
+
+------------------------------------------------------------------------
+
+## Pain Management: Steps 2 and 3
+
+- **Step 2**: Mild opioids
+  - Tramadol in addition to ongoing basic medication
+- **Step 3**: Strong opioid drugs
+  - If needed, escalation to high-potent opioids
+  - May provide complete pain relief
+  - **Narcotic addiction** will most likely occur after long-term use
+- In all steps:
+  - Oral application preferred
+  - Increases compliance
+  - Reduces injection-associated complications
+  - Prevents accidental overdosage
+
+------------------------------------------------------------------------
+
+## Pain Management: Fourth Step (Interventional)
+
+- Includes **interventional approaches:**
+  - EUS-guided plexus block
+  - Splanchnic nerve block
+  - Spinal cord stimulation
+  - Transcranial magnetic stimulation
+  - Acupuncture
+- May be effective in **selected cases**
+- Only small number qualify after failure of all other measures
+- **Nerve destruction cautions:**
+  - May increase pain due to later neuropathic mechanisms
+  - Severe side effects: hypotension, hemorrhage, infections, neurologic complications
+  - Any beneficial effect lasts **\< 3 months**
+  - **Not supported** by International Consensus Guidelines
+
+------------------------------------------------------------------------
+
+## Autoimmune Pancreatitis: Overview
+
+- Special type of CP related to **IgG4 autoimmune diseases**
+- Distinctly different from sclerosing or calcifying CP
+- Relevant consequences in clinical management
+- Primarily managed **conservatively**
+- **Two subtypes** must be differentiated:
+  - **AIP type 1**
+  - **AIP type 2**
+
+------------------------------------------------------------------------
+
+## AIP Type 1
+
+- Histologic features:
+  - Dense periductal lymphoplasmacytic immune cell infiltrates
+  - **"Storiform fibrosis"**
+  - Obliterative venulitis
+- Mostly associated with **increased serum levels of IgG4**
+- Pancreas is only **one target organ** of systemic autoimmune disease
+- Other affected organs:
+  - Bile duct
+  - Kidneys
+  - Salivary glands
+  - Retroperitoneum
+
+------------------------------------------------------------------------
+
+## AIP Type 2
+
+- Shows typical **duct-destructive pathology**
+- Infiltrating:
+  - Neutrophil cells
+  - Plasma cells
+  - Lymphocytes
+- Serum markers found in AIP type 1 often **not elevated**
+- Consequence: **difficult to differentiate** from pancreatic masses of other etiologies
+- Especially difficult to distinguish from **pancreatic ductal adenocarcinoma (PDAC)**
+
+------------------------------------------------------------------------
+
+## AIP: Imaging and Diagnosis
+
+- Typical imaging: **diffusely swollen pancreas ("sausage")** in only **50%**
+- Localized mass formation (tail or head) often observed
+  - Can lead to **PDAC misdiagnosis**
+- Most reliable imaging feature:
+  - **Late-phase contrast-enhanced MRI** ("late enhancement")
+  - Rapid regression of swelling/mass with conservative treatment
+- **No feature is pathognomonic**
+- Differential diagnosis of PDAC must always be considered
+
+------------------------------------------------------------------------
+
+## AIP: Biopsy and Conservative Management
+
+- EUS-guided core biopsies:
+  - Typical IgG4 positivity in only **20%** of biopsies
+  - False-positive IgG4 staining reported in PDAC
+- **Conservative management:**
+  - High-dosage corticosteroid therapy: **0.6-0.8 mg/kg/day** (prednisone equivalent)
+  - Initial 4 weeks to induce remission
+  - Then tapered within 2 additional months
+  - Response assessed at week 2-4 (clinical, biochemical, morphologic markers)
+- Multiorgan disease or relapse: **maintenance glucocorticoids**
+- Relapse during treatment: add **immunosuppressive drugs**
+
+------------------------------------------------------------------------
+
+## AIP: Treatment Response and Surgery
+
+- If **no change** in disease activity/symptoms within **3 months**:
+  - Diagnosis of AIP should be critically re-evaluated
+  - In doubtful cases with potential differential diagnosis of PDAC:
+    - **Surgery must be strongly considered**
+- Early recognition crucial to avoid unnecessary surgery
+- But also to not delay surgery in true malignancy cases
+
+------------------------------------------------------------------------
+
+## Endoscopic Therapy: Overview
+
+- Ongoing debate about endoscopic vs. surgical treatment
+- Key questions:
+  - Indications for endoscopic treatment
+  - Duration of endoscopic treatment
+  - Can endoscopy serve as definitive treatment and prevent surgery?
+- Topics addressed by multiple studies including **RCTs**
+- Endoscopic treatment = **first-line management for limited time**
+- If not successful after **12 months maximum**, surgery should be considered
+
+------------------------------------------------------------------------
+
+## Endoscopic Therapy: Bile Duct Stenosis
+
+- Early trial (61 patients, CP-associated bile duct stenosis):
+  - 1 year endoscopic treatment, 3-4 stenting procedures
+  - Success rate: **60%** without calcifications
+  - Success rate: only **8%** when calcifications present
+  - Overall operation rate: **50%** after one year
+- Multicenter trial (\>1000 patients):
+  - Endoscopic success rates: **46% to 76%**
+  - Re-interventions: **5% to 19%**
+  - Secondary operation rate: **24% to 48%**
+  - No improvement in pancreatic function observed
+
+------------------------------------------------------------------------
+
+## Endoscopic vs. Surgical Therapy: RCT Evidence
+
+**First RCT (72 patients):** - Endoscopic: sphincterotomy with stenting and/or stone removal (52% and 23%) - Surgery: resection (80%) and drainage (20%) - Initially similar success rates - After 5 years: complete absence of pain more frequent after surgery (**37% vs. 14%**) - Partial pain relief similar (49% vs. 51%) - Surgical patients: **20-25% greater increase in body weight** - New-onset diabetes comparable (34%-43%)
+
+------------------------------------------------------------------------
+
+## Dutch RCT: Endoscopic vs. Surgical Drainage
+
+- **19 patients**: endoscopic drainage for pancreatic duct obstruction
+- **20 patients**: surgical drainage
+- Results demonstrated **superiority of surgical drainage:**
+  - Less interventions required
+  - More complete pain relief (**75% surgery vs. 32% endoscopy**)
+  - Higher proportion of exocrine and endocrine function preservation
+  - At 2 and 5 years follow-up
+- Half of initially endoscopy-treated patients **ultimately underwent surgery**
+
+------------------------------------------------------------------------
+
+## Current Recommendations for Endoscopic Therapy
+
+- Endoscopic treatment = **first-line management** for bile and pancreatic duct stenosis
+- **Limited time frame** in CP
+- Generally performed using **plastic stents**
+- Stents exchanged after **3 to 4 months**
+- If not successful after **maximum 12 months**: strongly consider surgery
+- Good long-term outcome requires timely surgical referral
+- Many CP patients still referred to surgical centers **very late** in disease course
+
+------------------------------------------------------------------------
+
+## ESCAPE Trial: Early Surgery vs. Endoscopy-First
+
+- Dutch RCT comparing:
+  - **44 patients**: early surgery for pancreatic drainage
+  - **44 patients**: endoscopy-first approach
+- Median follow-up: **18 months**
+- Results favoring early surgery:
+  - Lower pain scores
+  - Higher complete/partial pain relief (**58% vs. 39%**)
+  - Fewer interventions
+- No significant difference:
+  - Treatment complications (27% vs. 25%)
+  - Mortality (0% vs. 0%)
+  - Hospital admissions, pancreatic function, quality of life
+
+------------------------------------------------------------------------
+
+## Pseudocyst Management: Epidemiology
+
+- Pancreatic pseudocysts occur in **20% to 40%** of all CP patients (late complication)
+- Classified according to **Atlanta classification:**
+  - Acute pseudocysts
+  - Chronic pseudocysts
+  - Potentially superinfected → pancreatic abscesses
+- **Spontaneous regression:**
+  - AP pseudocysts: \~**50%**
+  - CP pseudocysts: only \~**10%**
+
+------------------------------------------------------------------------
+
+## Pseudocyst: Treatment Indications
+
+**Local complications:** - Vascular compression - Gastric, duodenal, or bile duct stenosis - Infection - Hemorrhage - Pancreatopleural fistula development
+
+**Symptomatic indications:** - Abdominal distension - Nausea, vomiting, pain
+
+**Morphologic criteria:** - Large cysts (\>5 cm) without regression over 3-6 months - Solid wall (\>5 mm) - Suspected cystic tumors
+
+------------------------------------------------------------------------
+
+## Endoscopic Pseudocyst Drainage
+
+- Access routes:
+  - **Transgastric**
+  - **Transduodenal**
+  - **Transpapillary**
+- Duct connection found in up to **50%** of patients
+  - Allows transpapillary stent insertion (simplest approach)
+- If duct connection not demonstrated: **transmural approach under EUS guidance**
+- Temporary stent placement after initial evacuation:
+  - Prolonged drainage
+  - Decreases recurrence rates
+
+------------------------------------------------------------------------
+
+## Endoscopic Pseudocyst: Outcomes
+
+- Technical success rates: **\~80%**
+- Recurrence rates: approximately **8%**
+- Procedure-related complications: **10% to 15%**
+- Very low mortality rates
+- **Endoscopic treatment = first-line therapy** for pseudocyst in CP
+- Surgery considered if:
+  - Endoscopic treatment fails
+  - Cystic tumor is suspected
+
+------------------------------------------------------------------------
+
+## Extracorporeal Shock Wave Lithotripsy (ESWL)
+
+- Usually combined with ERCP and endoscopic stone extraction
+- Recent RCT: **no benefit** in adding ERCP and stone extraction
+- **Indications:**
+  - Calcified radiopaque stones of main pancreatic duct
+  - **\>5 mm diameter** (smaller stones can also be treated)
+- Technical success: preferably **single stones within pancreatic head**
+- Requires high level of expertise
+- Infrequently performed due to low suitable patient numbers
+
+------------------------------------------------------------------------
+
+## ESWL: Meta-Analysis Results
+
+- Meta-analysis: **27 studies**, nearly **3200 patients**
+- Results:
+  - Ductal clearance: **70%**
+  - Complete pain control: **53%**
+  - Mild to moderate persistent pain: **34%**
+  - Reduced narcotic use: **80%**
+  - Stable/increasing body weight: **81%**
+  - Quality of life improvement: **88%**
+- Morbidity:
+  - ESWL-associated pancreatitis: **4% to 5%**
+  - Secondary surgery: **4% to 5%**
+- Can be chosen for **selected patients** with adequate center experience
+
+------------------------------------------------------------------------
+
+## Table 58.1: Endoscopic Therapy Options
+
+| Therapy Options | Indications |
+|----------------------------------------|--------------------------------|
+| **Internal Drainage** |  |
+| Cystogastrostomy / Cystoduodenostomy | Treatment of pseudocysts |
+| **Endoscopic Ductal Drainage** |  |
+| Papillotomy | Pancreas divisum, sphincter of Oddi dysfunction |
+| Papillotomy + dilation/stenting | Proximal short segment stenosis of pancreatic duct |
+| Papillotomy + lithotripsy + stone extraction | Pancreatolithiasis in proximal duct segment |
+| Papillotomy + bile duct stenting | Bile duct stenosis |
+
+------------------------------------------------------------------------
+
+## Table 58.1: Indicators of Poor Outcome
+
+- Distal/long segment stenosis of pancreatic duct
+- Calcifying chronic pancreatitis (CP)
+- Unsuccessful therapy \>12 months
+
+These factors should prompt consideration of surgical referral
+
+------------------------------------------------------------------------
+
+## Surgical Therapy: Indications
+
+- **Pain**: most frequent indication for surgery in CP
+- Other common indications:
+  - Recurrent episodes of pancreatitis
+  - Cholestasis
+  - Compression of surrounding structures (duodenum, stomach, portal vein)
+  - Suspicion of malignancy
+- Acute complications (uncommon but may require emergency surgery):
+  - Pseudocyst rupture
+  - Bleeding
+  - Organ perforation (duodenum, stomach, colon)
+
+------------------------------------------------------------------------
+
+## Table 58.2: Indications for Surgery in CP
+
+| Indication | Relative Proportion |
+|---------------------------|---------------------------------------------|
+| Intractable pain | **80%** |
+| Bile duct stenosis | **15%** |
+| Other local compression symptoms (portal vein stenosis, gastric outlet/duodenal stenosis) | **10%** |
+| Suspicion of malignancy | **5%** |
+| Pseudocysts | **5%** |
+| Emergency indications (bleeding, organ perforation) | **\<5%** |
+
+------------------------------------------------------------------------
+
+## Surgical Therapy: Major Aims
+
+1.  **Long-lasting pain relief**
+2.  **Restoration of good quality of life**
+3.  **Preservation of endocrine and exocrine function**
+4.  **Professional and social rehabilitation**
+    - Especially important for mostly young CP patients
+5.  **Prevention of malignancy**
+    - Elevated cancer risk in CP patients
+    - Higher risk in hereditary CP
+
+------------------------------------------------------------------------
+
+## Malignancy Risk in CP
+
+- **Sporadic CP:**
+  - Older studies: up to **16 times** elevated risk
+  - Recent investigations: **4-fold to 5-fold** increase
+- **Hereditary CP:**
+  - **40 to 50 times** higher than normal population
+  - Lifetime probability of **40%** to suffer from pancreatic cancer
+  - Justifies **more aggressive surgical approach**
+
+------------------------------------------------------------------------
+
+## Timing of Surgery: Key Considerations
+
+- Carefully consider to not miss phase when:
+  - **Reversible pain becomes autonomous**
+  - Neuronal plasticity generates stimulus-independent pain
+- **Chronic intake of strong opioids** must be avoided
+- Second step of WHO pain ladder already includes regular opioid medication
+- **After 1 year of endoscopic therapy without success**: surgical consultation
+- Time frame is:
+  - Long enough to evaluate endoscopic therapy efficacy
+  - Short enough to avoid chronic opioid dependency
+
+------------------------------------------------------------------------
+
+## Surgical Procedures: Two Major Groups
+
+| Group | Description |
+|--------------------------|----------------------------------------------|
+| **Drainage procedures** | Address obstructed main pancreatic duct or pseudocysts |
+| **Resection procedures** | Remove fibrosclerotic/calcified tissue + restore drainage |
+
+- Technical aim: **decompression of obstructed pancreatic and bile duct**
+- Can be combined with **removal of fibrotic and calcified tissue**
+
+------------------------------------------------------------------------
+
+## Table 58.3: Surgical Procedures and Indications
+
+| Procedure | Indication |
+|------------------------------------|------------------------------------|
+| **Drainage Procedures** |  |
+| Cystojejunostomy | Pseudocysts after failure of endoscopic therapy |
+| Caudal drainage (Puestow) | Rare indication, replaced by other procedures |
+| Latero-lateral pancreatojejunostomy (Partington-Rochelle) | Duct dilation \>7 mm without inflammatory mass |
+| **Resection Procedures** |  |
+| Partial pancreaticoduodenectomy | Suspected malignancy, irreversible duodenal stenosis |
+| DPPHR Beger | Inflammatory head mass, no suspected malignancy |
+| DPPHR Berne | Inflammatory head mass, technically easier |
+| DPPHR Frey | Long segment obstruction, no prominent head mass |
+| Distal/segmental pancreatectomy | Isolated left-sided inflammation |
+| Total pancreatectomy | Severe CP changes in entire gland, preexisting IDDM |
+| TPIAT | Selected patients (especially pediatric) |
+
+------------------------------------------------------------------------
+
+## Drainage Procedures: Historical Context
+
+**1950s - Original Procedures:** - **Duval procedure (1954):** - Approached dilated duct from left side - Small part of pancreatic tail resected - Duct opened for free drainage into defunctioned jejunal loop - **Puestow-Gillesby procedure (1958):** - Modification with longer duct opening - Addressed multiple stenotic segments ("chain-of-lakes")
+
+------------------------------------------------------------------------
+
+## Partington-Rochelle Procedure
+
+- **1960 modification** by Partington and Rochelle
+- Key changes:
+  - **Abandoned tail resection**
+  - Opened pancreatic duct **throughout entire aspect of gland**
+- Reconstruction: **latero-lateral pancreatojejunostomy**
+- Characteristics:
+  - Very low surgical morbidity (\<10%)
+  - Very low mortality (\<1%)
+  - Preserves nearly all pancreatic tissue
+- Today: **not frequently performed**
+  - Often poor long-term pain relief
+  - Few patients show required morphology (diffuse duct dilation \>7 mm, no mass)
+- Still has impact in **pediatric CP patients**
+
+------------------------------------------------------------------------
+
+## Surgical Pseudocyst Drainage: Cystojejunostomy
+
+- Performed after **failure of endoscopic treatment**
+- High success rate
+- Required **infrequently**:
+  - Majority resolve spontaneously
+  - Most treatable endoscopically (transgastric drainage)
+- **Indications:**
+  - Symptomatic and complicated pseudocysts
+  - Pain or GI discomfort from compression
+  - Not suitable or failed endoscopic approaches
+
+------------------------------------------------------------------------
+
+## Cystojejunostomy: Technical Details
+
+- Can be performed: **open, laparoscopic, or robotic**
+- Draining site at **most caudal point** of cyst for optimal drainage
+- Surgical steps:
+  1.  Open lesser sac
+  2.  Expose anterior aspect of cyst
+  3.  Release inflammatory adhesions of posterior stomach wall
+  4.  Intraoperative puncture to confirm location
+  5.  Liberal incision of cyst wall
+  6.  Evacuate fluid and solid material
+  7.  Side-to-side cystojejunostomy with Roux-en-Y reconstruction
+- Long-term success rate: approximately **90%**
+- Very low surgical morbidity and mortality
+
+------------------------------------------------------------------------
+
+## Resection Procedures: Advantages
+
+- **Advantage over drainage alone:**
+  - Large portion of fibrosclerotic and calcified tissue removed
+  - Restoration of free drainage of pancreatic and bile duct
+- If performed **early in disease history:**
+  - Provides **causal and symptomatic therapy**
+  - Obstructive tissue removed
+  - Ongoing neuro-immunologic changes are **broken**
+- Most CP morphologic changes pronounced in **pancreatic head region**
+
+------------------------------------------------------------------------
+
+## Pancreaticoduodenectomy (PD) for CP
+
+- Historical approach: total pancreaticoduodenectomy (Whipple, 1940s)
+- Later: **pancreaticoduodenectomy (PD)** became most common procedure
+- Typical finding: **inflammatory pancreatic head mass**
+- **Advantages:**
+  - Removal of entire pancreatic head
+  - Pancreatic and bile ducts opened
+  - Drainage restored
+  - Body and tail preserved (some functional preservation)
+- **Disadvantages:**
+  - Relatively great tissue loss
+  - Difficult dissection along portal vein
+  - Tunneling pancreas before transection challenging
+  - Risk of considerable blood loss
+
+------------------------------------------------------------------------
+
+## Duodenum-Preserving Pancreatic Head Resection (DPPHR)
+
+- Developed since **1970s** based on experiences with PD
+- **Common features of all DPPHR modifications:**
+  - Partial resection of pancreatic head
+  - **Preservation of physiologic gastroduodenal passage**
+- Advantages over PD:
+  - Less invasive
+  - Superior in blood loss, transfusion need, operation time
+- Procedure of choice for inflammatory head mass with fibrosis and calcifications
+- Three main modifications:
+  - **Beger**, **Frey**, and **Berne**
+
+------------------------------------------------------------------------
+
+## DPPHR: Beger Procedure (1972)
+
+- Original DPPHR method
+- Key steps:
+  1.  Transect pancreas on **porto-mesenteric axis**
+  2.  Open pancreatic duct toward body and tail
+  3.  **Excavation of fibrotic tissue** in pancreatic head
+  4.  **Preserve duodenum** and dorsal tissue layer
+  5.  Bile duct can be opened longitudinally if cholestasis present
+- Reconstruction: **two-step anastomosis** with Roux-en-Y jejunal loop:
+  - Terminal-lateral pancreatojejunostomy (pancreatic body)
+  - Side-to-side pancreatojejunostomy (excavation cavity)
+- Low morbidity and mortality in experienced centers
+
+------------------------------------------------------------------------
+
+## DPPHR: Frey Procedure (1980s)
+
+- Modification for US patient collectives
+- Observation: US patients show different morphology:
+  - Less pronounced pancreatic head mass
+  - More extended fibrosclerotic changes toward tail
+- Key differences from Beger:
+  - **Smaller excavation** of pancreatic head
+  - **Longitudinal opening of main pancreatic duct** toward tail
+  - **No transection of pancreatic neck** above portal vein
+  - Comparable to Partington-Rochelle drainage operation
+- Reconstruction: **single side-to-side anastomosis** with Roux-en-Y
+
+------------------------------------------------------------------------
+
+## DPPHR: Berne Modification (Late 1990s)
+
+- Combines aspects of both Beger and Frey techniques
+- Key features:
+  - Pancreatic head resected **without transection above portal vein**
+  - Preservation of dorsal parenchyma layer and duodenum
+  - Main pancreatic duct and bile duct widely opened
+  - Pancreatic duct does not need to be opened far to left of portal vein
+- **Advantages:**
+  - Tissue-sparing resection
+  - **Technically easier** than PD or Beger
+  - No preparation of portal vein or tunneling required
+- Especially useful with:
+  - Severe chronic peripancreatic inflammation
+  - Portal hypertension or venous collaterals
+
+------------------------------------------------------------------------
+
+## DPPHR: Liverpool Procedure
+
+- Extensive DPPHR procedure
+- Developed by **Liverpool group**
+- For patients with **end-stage fibrosclerotic changes** affecting entire pancreas
+- Includes:
+  - Excavation of entire pancreatic head, body, and tail
+  - **Duodenum- and spleen-preserving near-total pancreatectomy**
+
+------------------------------------------------------------------------
+
+## DPPHR vs. PD: Comparative Outcomes
+
+- Large number of studies investigated efficacy
+- Mainly observational studies or smaller single-center RCTs
+- **All DPPHR and PD procedures comparable:**
+  - Surgical morbidity: **10%-15%**
+  - Mortality: **0%-2%**
+  - Low risk for postoperative pancreatic fistula in CP
+- **Long-term outcomes:**
+  - Pain control: **70% to 90%** pain-free
+  - Quality of life improvement: up to **80%**
+  - Occupational rehabilitation: **70% to 80%**
+- General superiority of resectional procedures demonstrated
+
+------------------------------------------------------------------------
+
+## CHROPAC Trial: DPPHR vs. PD
+
+- Multicenter RCT comparing DPPHR and PD
+- **226 patients** (DPPHR n=115, PD n=111)
+- Primary endpoint: quality of life after 24 months
+- **Results:**
+  - Operation time: only significantly different parameter (DPPHR \< PD)
+  - All short-term outcomes similar
+  - Quality of life at 24 months: **similar**
+  - DPPHR patients: **more rehospitalizations** for CP problems (27% vs. 11%)
+- **Conclusion:**
+  - Presumed superiority of DPPHR not reproduced in multicenter setting
+  - **PD should be standard procedure** (more definitive treatment)
+  - DPPHR = important alternative, especially with portal venous hypertension
+
+------------------------------------------------------------------------
+
+## Distal Pancreatectomy for CP
+
+- Indicated when main manifestation in **body or tail** of pancreas
+- Findings: fibrosis, calcifications, pseudocysts predominantly left of portal vein axis
+- Causes:
+  - Alcoholic or idiopathic CP
+  - Blunt abdominal trauma
+  - Subclinical pancreatic contusion
+- Pancreas divided **above mesenteric-portal vein axis**
+- Transection: stapler or scalpel with sutures
+
+------------------------------------------------------------------------
+
+## Distal Pancreatectomy: Spleen Preservation
+
+- Can be performed **without splenectomy:**
+  - Preservation of splenic vessels, OR
+  - Warshaw procedure: resection of splenic artery/vein, spleen preserved
+- In many CP patients, **spleen removed** due to:
+  - Inflammatory adhesions around splenic vessels
+  - Pancreatic tail and splenic hilum involvement
+  - Bleeding control with venous collaterals
+  - Splenic vein obstruction from chronic inflammation
+- If spleen preserved: risk of **left-sided portal hypertension** in long-term
+  - Splenic vein thrombosis → gastric varices → upper GI bleeding
+
+------------------------------------------------------------------------
+
+## Distal Pancreatectomy: Complications
+
+- **Most important complication**: pancreatic fistula
+  - Occurs in approximately **30%** of all patients
+  - Regardless of synchronous splenectomy
+- Remains **unsolved clinical problem**
+- No technical modifications showing superiority for fistula prevention
+- Most common techniques equivalent:
+  - Stapler transection and closure
+  - Scalpel transection with suture closure
+- Autologous patch covering may be beneficial
+- CP history as risk factor: **controversial, not confirmed** in recent meta-analysis
+
+------------------------------------------------------------------------
+
+## Distal Pancreatectomy: New-Onset Diabetes
+
+- Risk correlates with:
+  - Amount of removed tissue
+  - Preoperative endocrine function
+- Risk of new-onset insulin-dependent DM:
+  - Distal pancreatectomy (other indications): \~**15%**
+  - Distal pancreatectomy for CP: \~**40%**
+- **Recommendation:**
+  - Amount of resected tissue should not exceed **40% to 50%** of gland whenever possible
+
+------------------------------------------------------------------------
+
+## Total Pancreatectomy with Islet Autotransplantation (TPIAT)
+
+- First reported in **1978**
+- Concept:
+  - Complete removal of pancreas → complete relief of intractable pain
+  - Islet cell autotransplantation → avoids brittle DM
+- Initially for adults, then extended to **pediatric CP patients**
+- Requires:
+  - High level of surgical expertise
+  - Facilities for islet cell preparation and autotransplantation
+  - Multidisciplinary knowledge
+- Performed in **US, Europe, and Australia**
+
+------------------------------------------------------------------------
+
+## TPIAT: Surgical Procedure
+
+1.  **Total pancreatectomy** (potentially spleen-preserving)
+2.  **Harvesting and purification** of islet cells
+3.  **Reinfusion** of suspension into liver:
+    - Unselectively via splenic vein stump, OR
+    - Selectively to left liver lobe via catheter in left portal vein
+
+- Islet cells can take up function **immediately after operation**
+
+------------------------------------------------------------------------
+
+## TPIAT: Outcomes
+
+- Overall quality of life improvement:
+  - **90%** of patients after 2 years
+  - **85%** after 5 years
+- **Pediatric patients:**
+  - Complete pain relief: **95% to 100%**
+  - Extremely beneficial procedure
+- **Adult patients:**
+  - Pain relief with opioid independency: \~**50%** long-term
+  - Depends on underlying etiology
+  - Alcoholic CP: worse outcomes than other causes
+
+------------------------------------------------------------------------
+
+## TPIAT: Endocrine Function and Patient Selection
+
+- Complete insulin independency: only **one third** of patients
+- Function of isolated/transplanted islet cells often compromised long-term
+- Even without insulin independency:
+  - Reduced insulin dosages
+  - Improved glycemic control vs. brittle DM
+- **Timing and patient selection remains challenging:**
+  - No high-level evidence comparing TPIAT with other procedures
+  - Favorable outcomes in **younger patients** without end-stage features
+  - Should be chosen **before long-standing opioid intake**
+  - Adults with end-stage disease and complete endocrine failure **not suitable**
+
+------------------------------------------------------------------------
+
+## Minimally Invasive and Robotic Surgery
+
+- CP surgery can be performed by:
+  - **Laparoscopic** techniques
+  - **Robotic** techniques
+- Standard resections (PD, distal pancreatectomy):
+  - Carried out similarly to other indications
+  - Inflammatory changes can be **challenging**
+  - Portal hypertension with collaterals may limit success
+- Drainage procedures:
+  - Pseudocyst-jejunostomy
+  - Lateral pancreatojejunostomy
+  - Also amenable to minimally invasive approaches
+
+------------------------------------------------------------------------
+
+## Robotic Surgery for CP
+
+- CP-specific resections (DPPHR) reported by robotic approaches
+- Results show **principal feasibility** in experienced centers
+- **No RCTs** have addressed this topic
+- Potential advantages compared with open surgery:
+  - **Remain speculative**
+- Conversion to open surgery may be required
+- Requires experienced centers with specific expertise
+
+------------------------------------------------------------------------
+
+## Conclusions: Integrated Management
+
+- Adequate and tailored therapy adjusted to:
+  - **Symptoms** of the patient
+  - **Stage** of disease
+  - **Morphology** of pathologic changes
+- **Conservative therapy = basis for all patients**
+  - Pain medication
+  - Alcohol and smoking abstinence
+  - Enzyme supplementation
+- These basic steps must be part of endoscopic and surgical therapies
+
+------------------------------------------------------------------------
+
+## Conclusions: Endoscopic Therapy Role
+
+- Effective as **initial approach**
+- Good results in:
+  - Pseudocyst drainage
+  - Ductal stenosis without calcifications
+- Often requires **frequent re-interventions**
+- Should be limited to **maximum 1 year**
+- In **calcifying CP**: surgery should be considered **early**
+- Good long-term results require timely surgical referral
+
+------------------------------------------------------------------------
+
+## Conclusions: Surgical Therapy Outcomes
+
+- Surgical procedures carried out with:
+  - **Low postoperative morbidity**
+  - **Very low mortality rates**
+- Procedure-specific features defined by **ISGPS consensus** on reporting standards
+- **Long-term outcome:**
+  - Pain control/complete absence of pain: **4 out of 5 patients**
+  - Physiologic, emotional, social functioning: **nearly comparable to normal population**
+- Exocrine and endocrine failure progression:
+  - Can be **prolonged or even stopped**
+  - Especially if surgery performed in **early disease stage**
+
+------------------------------------------------------------------------
+
+## Conclusions: Determinants of Long-Term Outcomes
+
+- **Persistent chronic risk factor exposure** = major determinant of long-term mortality
+  - Especially ongoing alcohol consumption
+- Associated with progression of disease
+- **Key message**: Early intervention + risk factor modification = optimal outcomes
+
+------------------------------------------------------------------------
+
+## Key Takeaways: Conservative Therapy
+
+1.  Alcohol and smoking abstinence essential
+2.  PEP: \~2000 IU lipase per gram fat, adjust to symptoms
+3.  Monitor and replace fat-soluble vitamins (A, D, E, K)
+4.  DM type 3c: metformin first-line, simple insulin regimens
+5.  WHO stepwise pain ladder, avoid chronic opioid dependency
+6.  AIP: corticosteroids 0.6-0.8 mg/kg/day, re-evaluate if no response
+
+------------------------------------------------------------------------
+
+## Key Takeaways: Endoscopic Therapy
+
+1.  First-line for duct stenosis (limited time, plastic stents)
+2.  Stent exchange every 3-4 months
+3.  If unsuccessful after 12 months → consider surgery
+4.  Pseudocyst: first-line endoscopic drainage (80% technical success)
+5.  ESWL for selected patients with main duct stones \>5 mm
+6.  Surgery superior for long-term pain relief
+
+------------------------------------------------------------------------
+
+## Key Takeaways: Surgical Therapy
+
+1.  Pain = most frequent indication (80%)
+2.  Drainage procedures: Partington-Rochelle for duct dilation without mass
+3.  Resection procedures: DPPHR (Beger, Frey, Berne) vs. PD
+4.  CHROPAC trial: PD = standard, DPPHR = alternative
+5.  TPIAT: excellent for pediatrics, selected adults
+6.  Early surgery before opioid dependency and autonomous pain develops
+
+------------------------------------------------------------------------
+
+## Multidisciplinary Team Approach
+
+- **Gastroenterology**: endoscopic therapy, medical management
+- **Radiology**: imaging diagnosis, intervention planning
+- **Pathology**: differential diagnosis (AIP vs. malignancy)
+- **Psychology**: pain-associated disability, addiction
+- **Surgery**: definitive therapy when indicated
+- **Endocrinology**: DM management
+- **Nutrition**: enzyme replacement, dietary support
+
+
