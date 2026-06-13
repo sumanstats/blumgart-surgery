@@ -1,0 +1,646 @@
+---
+title: "Liver Regeneration: Mechanisms and Clinical Relevance"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    width: 1280
+    height: 720
+---
+
+## Introduction: The Myth of Prometheus
+- Ancient Greeks recognized the liver's unique regenerative ability
+- Prometheus, Titan god of forethought, angered Zeus
+- Chained to Caucasus mountains
+- Tormented daily by Zeus’ eagle, Ethon, which devoured his liver
+- Each night, the damaged liver was restored
+- Illustrates the liver’s remarkable power to regenerate
+
+## Clinical Significance of Regeneration
+- Allows transplant surgeons to remove or transplant portions of a liver
+- Remnant portion rapidly grows to original volume
+- Restores function after hepatocyte mass loss
+- Loss can occur from toxic injury or inflammation
+- Essential for survival after major hepatic resection
+
+## Terminology in Liver Regeneration
+- **Regeneration, hyperplasia, and hypertrophy** are often used synonymously
+- **Hyperplasia** is the most precise cellular term
+- Defined as an increase in cell number
+- Damaged lobes do not grow back like a lizard’s tail
+- Hyperplastic response leads to a **hypertrophic appearance** (enlarged liver size)
+
+## The Delicate Balance
+- Highly regulated process involving multiple cell types
+- Requires extrahepatic signals and complex molecular pathways
+- Balance required for:
+  - Initiation of regeneration
+  - Exerting a growth response
+  - Maintaining normal metabolic function
+- Inability to maintain this balance leads to liver failure
+- Successful orchestration restores normal function
+
+## Clinical Relevance: Hepatobiliary Surgery
+- Routinely and safely accomplished for malignant and benign disease
+- Relies on the liver's ability to regain functional mass in weeks
+- Limiting factors for curative resection:
+  - Insufficient volume of liver remnant
+  - Small-for-size (SFS) transplantations
+- High morbidity/mortality if remnant volume is inadequate
+
+## Expanding the Limits of Surgery
+- Surgeons explore limits of living donor liver transplantation (LDLT)
+- Previously unresectable tumors are now amenable to complete resection
+- Achieved through induction chemotherapy
+- Innovative strategies increase liver remnant volume
+
+## Techniques to Increase Remnant Volume
+- **Portal Vein Embolization (PVE)** or **Portal Vein Ligation (PVL)**
+- Additional hepatic vein embolization
+- **ALPPS**: Associating Liver Partition and PVL for Staged Hepatectomy
+- Cause atrophy of ipsilateral hemiliver
+- Induce hypertrophy of contralateral side
+- Valuable for patients with underlying liver disease
+
+## Regeneration in Transplantation
+- Deceased donor transplantation involves ischemia/reperfusion (I/R) injury
+- Caused by preservation period from procurement to implantation
+- Scarcity of organs leads to acceptance of "marginal" organs
+- Marginal organs have an increased need for regeneration
+- Must recover in the environment of I/R injury
+
+## Landmark Advances: Segmental Grafts
+- Use of segmental liver grafts from deceased or living donors
+- Success relies on relatively rapid hepatic regeneration
+- Regeneration must occur in both donor and recipient (LDLT)
+- Minimal functional liver mass is a major concern
+- Donor graft size, recipient weight, and portal hypertension affect recovery
+
+## Models of Liver Regeneration: Higgins and Anderson
+- Pioneered in 1931 by Higgins and Anderson
+- Simple two-thirds partial hepatectomy (PHx)
+- No damage to the lobes left behind
+- Residual lobes enlarge to make up for removed mass
+- Restoration occurs in five to seven days in rodents
+
+## Models: Toxic Injury and Inflammation
+- Associated with extensive tissue injury
+- **Hepatic toxins**: Ethanol (EtOH), Carbon tetrachloride (CCl4), Galactosamine (GalN)
+- **Obstruction**: Bile duct ligation or PVL
+- **Ischemia**: Ischemia/reperfusion (I/R) injury
+- Toxic agents injure specific liver cell subpopulations
+
+## Newer Experimental Models
+- Transgenic albumin promoter urokinase-type plasminogen activator (u-PA)
+- Fah/Rag2 knock-out mice
+- PHx in zebrafish
+- PHx is the preferred in vivo model to study regenerative response
+- Regenerative signaling in I/R injury is similar to PHx
+
+## Lineage Tracings
+- Most recent instrument to study regeneration when proliferation is impaired
+- Uses cyclization recombinase (Cre) recombinase–mediated cell labeling
+- Traced cell population harbors two transgenes
+- Cre activity modulated by mutated estrogen receptor (sensitive to tamoxifen)
+- Eliminates loxP-flanked stop cassette
+- Gold standard for defining cell fate, though not without pitfalls
+
+## General Features: Cell Types Involved
+- Carried out by growth and proliferation of existing mature populations
+- Includes hepatocytes
+- Biliary and fenestrated endothelial cells
+- Kupffer cells
+- Platelets
+- Ito cells (stellate cells)
+
+## Kinetics of Cell Proliferation
+- Hepatocytes provide mitogenic stimuli for other cells
+- Degree of proliferation is directly proportional to degree of injury
+- Hepatocytes exit resting state (G0) and enter G1
+- Traverse to DNA synthesis (S phase)
+- Undergo mitosis (M phase)
+
+## Timeline of DNA Synthesis
+- First peak of DNA synthesis:
+  - 40 hours after resection in rodents
+  - 7 to 10 days in primates
+- Small animals: Liver returns to pre-resection mass in 1 week to 10 days
+- Humans: Significant regeneration within 2 weeks
+- Nearly complete at 3 months after resection
+
+## Histological and Matrix Changes
+- Proliferation starts in periportal areas
+- Proceeds to pericentral areas by 36 to 48 hours
+- Day 3-4: Clumps of small hepatocytes surrounding capillaries
+- Capillaries change into true hepatic sinusoids
+- Matrix changes from high laminin to fibronectin and collagen types IV and I
+
+## Proliferative Cycles and Capacity
+- 70% hepatectomy theoretically requires 1.66 proliferative cycles per residual hepatocyte
+- In fact, 95% of hepatocytes in young rats participate in 1-2 events
+- Hepatocytes have an almost unlimited capacity to regenerate
+- Hundreds of healthy hepatocytes can repopulate a whole damaged liver
+- Calculated minimum of 69 doublings required
+
+## Stem Cells: Primary vs. Toxic Damage
+- Primary regeneration after surgical trauma is NOT dependent on stem cells
+- Relies on existing mature hepatocytes
+- In toxic damage (e.g., galactosamine), hepatocytes cannot replicate
+- Population of "oval cells" proliferates to replace parenchyma
+- Distinct approaches found no evidence of stem cells as source in oval cell injury
+
+## Human Hepatic Progenitor Cells (HPCs)
+- Presumed to participate in repopulation after acute massive necrosis
+- Identified in chronic liver disease
+- Originate from the canals of Hering
+- Play important role in acetaminophen-induced injury
+- Can be expanded long-term for disease modeling and regenerative medicine
+
+## Stem Cell Contribution: Context Dependent
+- Contribution of HPC is highly context dependent
+- Hepatocyte senescence after injury drives HPC expansion
+- Rapidity of regeneration after PHx suggests minimal stem cell involvement
+- Toxic damage: stem cell-dependent proliferation along central vein
+- Homeostatic proliferation: present throughout the whole liver
+- Considerable disagreement remains on exact role of stem cells
+
+## Induction of Proliferation: Priming
+- Within minutes after PHx, specific immediate early genes are activated
+- 70 to 100 genes include proto-oncogenes (c-jun, c-fos, c-myc, K-Ras)
+- Transcriptional factors: NF-kB, STAT3, AP-1, C/EBP-beta
+- Historically attributed to flow-dependent response
+- Increased portal flow is essential, but hyperperfusion abolishes the process
+
+## Humoral Factors: IL-6 and TNF-alpha
+- Earliest factors triggering activation of transcription factors
+- IL-6 deficient or TNF-alpha receptor deficient mice show delayed regeneration
+- Hepatocytes require "priming" events to switch into a responsive state
+- Priming accomplished by release of preformed cytokines
+- Allows cell to exit G0 into G1 of the cell cycle
+
+## Figure 6.2: TNF and IL-6 Kick-Start
+- Stimulated by innate immune system components
+- Kupffer cells produce and secrete IL-6 and TNF-alpha
+- IL-6 stimulates hepatocyte proliferation via STAT3 activation
+- Negatively regulated by SOCS3
+- TNF signaling through TNFR-I initiates regeneration with IL-6 as key target
+
+## TNF as the Initiator
+- Knock-out mice lacking TNFR-I show severe defect in hepatocyte replication
+- IL-6 reverses the deficiency in hepatocyte replication
+- Corrects defects in STAT3 and AP-1 binding
+- Does not reverse inhibition of NF-kB binding
+- Solved the riddle: TNF is the initiator of IL-6
+
+## IL-6 Signaling Pathways
+- Activates JAK/STAT3 and MAPK signaling pathways
+- Via the gp130/IL-6R complex
+- Leads to activation of immediate and delayed early genes
+- Required for normal liver-specific metabolic functions and repair
+- STAT3 is crucial for progression from G1 to S phase
+
+## Role of LPS and Complement
+- Endotoxin lipopolysaccharide (LPS) from gut Gram-negative bacteria
+- Extremely strong signal for Kupffer cells to produce TNF
+- Antibiotic-treated or germ-free rodents have delayed DNA replication peak
+- Complement components C3a and C5a are essential
+- Mice lacking C3a/C5a have impaired TNF/IL-6 production and poor NF-kB activation
+
+## Distinct Intracellular Pathways: Growth Factors
+- Priming phase followed by concomitant growth factors
+- Progress hepatocytes into cell division
+- Potent mitogens: HGF, TGF-alpha, HB-EGF
+- Co-mitogens: insulin, glucagon, steroid/thyroid hormone, epinephrine
+- Downregulation of inhibitors: activin A and TGF-beta
+
+## HGF/c-Met and Wnt/beta-catenin
+- HGF/c-Met pathway sustains DNA synthesis after injury
+- Activates PI3K, ERK, and AKT pathways
+- Cross-talks with Wnt/beta-catenin signaling pathway
+- Increased HGF results in beta-catenin nuclear translocation
+- Upregulates cyclin D1, c-myc, uPAR, and MMPs
+- VEGF interacts with endothelial cells to increase HGF production
+
+## Initiation of HGF and Extracellular ATP
+- urokinase-type plasminogen activator (uPA) plays important role
+- uPA and plasminogen increase within 1-5 minutes after PHx
+- Rapidly cleave HGF precursor (pro-HGF)
+- Blocking uPA delays regeneration; blocking PAI accelerates it
+- Extracellular ATP emerges as rapidly acting signaling molecule
+- Leads to transient activation of JNK and AP-1
+
+## Control of Inflammatory Signals
+- NF-kB inhibitory and ubiquitin-editing A20 protein (tnfaip3)
+- Key role in liver’s protective response to injury
+- Upregulated after PHx
+- Protects hepatocytes from apoptosis and ongoing inflammation
+- Optimizes metabolic control and energy production
+- iNOS scavenges oxygen radicals, protecting from apoptosis
+
+## Remodeling: Nonparenchymal Cells
+- Begins with repopulation and maturation of nonparenchymal cells
+- Endothelial, stellate, and biliary epithelial cells
+- Newly formed hepatocytes form clusters
+- Replicating endothelial cells invade to form new sinusoids
+- Stellate cells synthesize extracellular matrix (ECM) proteins and TGF-beta1
+
+## Remodeling: Angiogenesis and ECM
+- VEGF, angiopoietins, TGF-alpha, FGF-1/2, and HGF involved in angiogenesis
+- Angiostatin (inhibitor) causes delayed/suppressed regeneration
+- ECM remodeling associated with urokinase/plasminogen and MMP pathways
+- MMPs remodel ECM, regulate immune responses, and modulate vascular integrity
+- Maturation and thickening of ECM may signal the end of rapid regeneration
+
+## The ECM as a "Dictator"
+- Previously regarded as "stuff between cells"
+- Now considered the dictator of metabolic liver zonation
+- Acts as a hepatic growth/size rheostat during development and regeneration
+- LGR4/5 receptors and RSPO ligands potentiate Wnt/beta-catenin signaling
+- Promotes proliferation and tissue homeostasis
+
+## Mechanosensing in Regeneration
+- Increased shear stress after resection picked up by mechanosensors
+- Sensors include glycocalyx, primary cilia, caveolae, ion channels
+- Generate molecular signals activating downstream pathways (e.g., YAP)
+- Alpha-catenin is a key mechanosensor for direct cell-cell tension
+- Increased ECM rigidity favors hepatocyte proliferation
+- Temporary fibrosis is seen during normal regeneration and resolves over time
+
+## Maintaining Function: The Compromise
+- After volume loss, hepatocytes must adapt rapidly
+- Seek compromise between differentiated function and cellular replication
+- Balance dramatically shifted to recovery and regeneration
+- Comes at the expense of normal hepatic metabolism
+- Success determines ability to support normal metabolic function
+
+## Gluconeogenesis and Glucose Homeostasis
+- Immediate early genes encode enzymes for gluconeogenesis
+- Compensates for lost glycogen content
+- Produces sufficient glucose for the whole organism
+- Rapid increased expression of PEPCK, G6Pase, and IGFBP-1
+- Controlled by insulin (downregulation) and glucagon/cAMP (upregulation)
+
+## Transient Regeneration-Associated Steatosis
+- Liver accumulates fat before major wave of parenchymal growth
+- Suppression of fat accumulation impairs hepatocellular proliferation
+- Unlike pathologic steatosis, this is a physiologic process
+- Acute energy deprivation provokes hypoglycemia and mobilization of peripheral fats
+- Lipid oxidation is the primary energy source early after hepatectomy
+
+## Mitochondrial Biogenesis and Energy
+- Regulated by downregulation of PTEN (inhibitor of PI3K/AKT/mTOR axis)
+- Decreasing lipid peroxidation by vitamins attenuates apoptosis
+- Periportal hepatocytes require mitochondrial fatty acid beta oxidation
+- PPAR-alpha modulates energy flux for repair
+- Overwhelming inflammatory response can interfere with PGC-1alpha mitochondrial pathway
+
+## SIRT1, mTOR, and Bile Acids
+- SIRT1 regulates lipid, glucose, and bile acid (BA) metabolism
+- Controls BA homeostasis, protein synthesis, and cell proliferation
+- Activated in low energy availability; links nutrition with homeostasis
+- mTOR activated in high-energy conditions; controls cell growth
+- BAs are essential for regeneration but toxic in excess
+- FXR is the master regulator of BA, lipid, and glucose metabolism
+
+## Termination of Proliferation: The "Hepatostat"
+- Liver size is highly regulated by functional needs of organism
+- Implies existence of a master regulator of liver/body mass ratio
+- Differences in reconstitution between donors and recipients
+- Driven by need for functional mass to compensate for long-standing disease
+
+## Antiproliferative Factors: TGF-beta
+- Most well-known antiproliferative factors: TGF-beta and activin
+- TGF-beta produced mainly by hepatic stellate cells
+- Early phase: forms inhibitory complexes with SKI and SnoN
+- Renders hepatocytes initially resistant to TGF-beta
+- Downregulation of miR23b contributes to TGF-beta1/Smad3 activation
+- Smad complex translocates to nucleus to negatively regulate cell cycle
+
+## Termination: Activin A and SOCS
+- Activin A blocks hepatocyte mitogenesis
+- Signaling diminished during regeneration (receptor levels reduced)
+- Receptor levels restored once regeneration is terminated
+- Suppressors of cytokine signaling (SOCS) prevent STAT phosphorylation
+- Important negative regulators of cytokine signaling
+
+## Termination: Role of IL-1 and IL-6
+- IL-1beta administration suppresses DNA synthesis post-PHx
+- Increased IL-1beta observed in shrinking liver lobe (PVL model)
+- IL-1 secreted by Kupffer cells, regulated by PGE2
+- IL-1 contributes to cessation by reducing HGF and promoting TGF-beta
+- IL-6 signaling causes rapid upregulation of SOCS3
+- Downregulates phosphorylated STAT3, terminating IL-6 signal
+
+## Termination: C/EBP-alpha and Bile Acids
+- C/EBP-alpha complexes with HDAC1 repress key regulators
+- Represses C/EBP-alpha, p53, FXR, SIRT1, PGC1-alpha, and TERT
+- Proper cooperation essential for termination and maintenance of function
+- Blood BA levels detected by nuclear receptors regulate liver growth
+- FGF15/19 from enterocytes regulates BA synthesis and tunes regeneration
+
+## The Hippo Signaling Pathway
+- Key regulators of cell proliferation and organ size
+- Downstream effectors: YAP and TAZ
+- Overexpression of YAP leads to massive liver hyperplasia
+- Core component: kinase cascade (MST1/2 phosphorylates LATS1/2)
+- LATS1/2 phosphorylates YAP/TAZ, downregulating function and increasing degradation
+- YAP activated one day after PHx; returns to baseline at day seven
+
+## Liver Atrophy: Triggers and Mechanisms
+- Classically triggered by obstruction of portal venous blood flow
+- Or chronic obstruction of the bile duct
+- Unilateral atrophy causes opposite lobe to respond with hypertrophy
+- Capitalized on by surgeons (PVE, ALPPS)
+- Slow-onset atrophy distorts liver and anatomic landmarks
+
+## Necrosis vs. Apoptosis in Atrophy
+- **Necrosis**: Nonregulated traumatic disruption, overwhelming injury
+  - Loses membrane integrity, leaks enzymes, induces inflammation
+- **Apoptosis**: Inducible, highly orchestrated, physiologic cascade
+  - Energy dependent, cells shrink and die without inflammation
+- Oxygen levels and mitochondrial function determine cell death pathway
+
+## PVL-Induced Hepatic Atrophy
+- Atrophy of ligated lobe is result of apoptosis
+- Increased portal flow in nonembolized lobe induces proliferation
+- Ischemic necrosis of centrilobular areas predominates in first 3 days
+- Peripheral areas undergo apoptotic cell death
+- Kupffer cells generate reactive oxygen substrates, culminating in mitochondrial dysfunction
+
+## Biliary-Induced Hepatic Atrophy
+- Molecular mechanisms centered on apoptosis, little acute necrosis
+- Cholestasis results in accumulation of toxic bile salts
+- Induce apoptosis through Fas-mediated pathway
+- TNF-alpha and Fas ligand bind to Fas death receptors
+- Leads to cytochrome c release and caspase activation
+- Recent data suggests nonischemic necrosis/oncosis may predominate
+
+## Clinical Causes of Atrophy
+- Portal vein thrombosis in noncirrhotic patients
+- Perihilar cholangiocarcinoma (frequent cause of biliary atrophy)
+- Benign post-cholecystectomy bile duct strictures
+- Choledocholithiasis and hepatolithiasis
+- Parasitic biliary infections (Clonorchis sinensis, Ascaris lumbricoides)
+- Lobar radioembolization (Yttrium-90) causes "radiohepatectomy"
+
+## Clinical Factors: Age and Cellular Senescence
+- Older livers regenerate slower and show delayed recovery
+- Reduced DNA synthesis and timing of hepatocyte replication
+- Attributed to cellular senescence (Hayflick, 1961)
+- Senescence activates p53 and Rb pathways
+- Leads to activation of p21Cip1 (inhibitor of cyclin E/CDK2)
+- Promotes cell cycle arrest at G1/S phase
+
+## Senescence-Associated Secretory Phenotype (SASP)
+- Senescent cells stop dividing permanently but remain metabolically active
+- Secrete SASP factors (proinflammatory cytokines/chemokines)
+- Stimulate TGF-beta from macrophages
+- Promotes conversion of nonsenescent cells to senescent cells
+- Chronic hepatitis/cirrhosis: 50% to 100% of hepatocytes in senescence
+- Growth hormone treatment can restore proliferation in old mice
+
+## Clinical Factors: Biliary Obstruction
+- Cholestasis accumulates toxic bile salts (Fas-mediated apoptosis)
+- Suppresses expression of c-myc, C/EBP, and cyclin E
+- Alters production of HGF, EGF, and IL-6
+- Impairs enterohepatic circulation
+- External biliary drainage markedly suppresses regeneration
+- Internal biliary drainage preserves capacity
+- Oral bile acids increase regeneration via FXR signaling
+
+## Clinical Factors: Diabetes Mellitus
+- Insulin is a crucial hepatotrophic factor in portal blood
+- Impaired secretion of insulin/IGF prevents regeneration
+- Reflected by decreased RNA, DNA, and protein synthesis
+- Enhancement of mitochondrial activity inhibited by impaired insulin
+- Diabetes is a risk factor for reduced hypertrophy after PVE
+- Strict glucose control required in liver surgery
+
+## Clinical Factors: Nutritional Status
+- Hepatic regeneration is metabolically intensive
+- Malnutrition associated with higher mortality and reduced regeneration
+- Enteral feeding preferred over parenteral nutrition
+- Branched-chain amino acids improve nutritional state in LDLT
+- Glutamine supplementation promotes regeneration
+- Short-term starvation (12-23 hours) protects against I/R injury
+
+## Clinical Factors: Gender
+- Sex steroids induce transient hepatocellular proliferation
+- Estrogen receptors found on hepatocytes
+- Pretreatment with 17b-estradiol accelerates regeneration in vivo
+- Testosterone levels decline in men after PHx
+- No clinical evidence of significant sex differences in humans
+- Estrogen promotes Cytochrome P450 2A6, facilitating bilirubin metabolism
+- Females may have better tolerance to stress (reduced inflammation)
+
+## Intrinsic Liver Disease: Steatohepatitis
+- NAFLD and NASH pose significant challenges
+- Lipid accumulation associated with mitochondrial damage
+- Steatotic livers show delayed mitosis and increased mortality
+- Coordinated induction of Jnks and Erks is disrupted
+- Cyclin D1 induction abolished; ATP levels reduced
+- Marked steatosis (>30%) significantly increases complication rates
+
+## Intrinsic Disease: Viral and Bacterial Infections
+- Viral infections (HBV, HCV) inhibit hepatic regeneration
+- HBV delays regeneration through reduced insulin receptor activation
+- Intracellular retention of receptor attenuates insulin binding
+- Concomitant bacterial infections alter regeneration
+- Sepsis model shows delayed regeneration kinetics
+- Early allograft dysfunction (EAD) linked to hyperinflammation
+
+## Pharmacologic Therapy and Chemotherapy
+- Medications inducing steatosis interfere with regeneration
+- Beta-blockers decrease portal blood flow
+- NSAIDs inhibit cyclooxygenase (CEBPb-mediated pathway)
+- Neoadjuvant chemotherapy causes sinusoidal obstruction syndrome (SOS)
+- Oxaliplatin associated with SOS; Irinotecan with CASH
+- CASH increases postoperative mortality from liver failure
+- Bevacizumab (anti-VEGF) may prevent SOS but affects angiogenesis
+
+## Liver Transplantation: Ischemic Injury
+- Warm and cold ischemic injury unavoidable in transplantation
+- Prolonged cold ischemia initiates cell-cycle pathways
+- Significant injury causes greater expression of cytokines
+- Magnitude of replication increases up to a "point of no return"
+- Beyond this point, liver unable to maintain homeostasis
+- Lack of blood flow downregulates KLF2 in sinusoidal endothelial cells
+
+## Minimal Transplanted Liver Mass
+- Small-for-size (SFS) graft adapts to environment
+- Grafts too small have decreased survival
+- SFS syndrome: prolonged cholestasis, ischemic injury, poor outcome
+- Graft volume <40% of standard liver volume associated with poor survival
+- Partial grafts show robust response if ischemic injury is minimal
+- Moderate/prolonged ischemia leads to extensive necrosis and failure
+
+## Effect of Immunosuppression
+- Host immune response must be inhibited to avoid rejection
+- Inhibition may interfere with recovery and regeneration
+- Glucocorticoids inhibit cell cycle progression markedly
+- Cyclosporine and tacrolimus have dose-dependent differential effects
+- Sirolimus has antiproliferative action, interferes with replication
+- Rapid replication may alter drug pharmacokinetics
+
+## Donor Age in Transplantation
+- Old grafts regenerate slower than young livers
+- Young donor livers show greater graft/standard liver volume post-transplant
+- Old livers have higher prothrombin time early postoperatively
+- Graft survival of older living donor grafts is inferior
+- Increasing donor/recipient age affects short- and long-term survival
+- Many groups limit donor upper age to 50-60 years
+
+## Portal Inflow and Hepatic Outflow
+- Reduced cell mass alters portal blood flow dynamics
+- Increased portal flow triggers shear stress on sinusoidal endothelium
+- Hyperperfusion (>250 mL/100 g/min) abolishes regeneration
+- Significant portal hyperperfusion is central to SFS graft problems
+- Causes loss of hepatic arterial buffer response and hypoxia
+- Hepatic venous outflow obstruction impairs hypertrophy and function
+
+## Microbiome: Gut-Liver Axis
+- Intestinal content rich in microorganisms and metabolites
+- Gut microbiota may promote liver regeneration
+- LPS (from Gram-negative bacteria) necessary for regeneration
+- Gut-derived endotoxin induces hepatic DNA synthesis and HGF release
+- Gut sterilization or endotoxin neutralization inhibits DNA synthesis
+- LPS-HGF modulation indicates microbiota contribution
+
+## Microbiome: Bile Acid Metabolism
+- Microbial enzymes synthesize various BAs
+- Primary BAs (CA, CDCA) undergo deconjugation and dehydroxylation
+- Converted to secondary BAs (DCA, LCA) via bacterial 7a-dehydroxylase
+- Composition of BAs depends on bacterial composition
+- BAs act as "hepatostat" balancing regeneration via FXR receptor
+
+## Experimental Strategies: Fat Metabolism
+- Omega-3 fatty acids improve I/R injury and regenerative capacity
+- Exogenous ApoA-1 attenuates steatosis and promotes regeneration
+- ApoA-1 regulates mitochondrial function via PGC1-alpha
+- Nicotinamide supplementation upregulates SIRT1
+- Fish oil supplementation restores ALT/bilirubin via AMPK activation
+
+## Experimental Strategies: Receptor Blockade
+- Blockage of RAGE (receptor for advanced glycation end-products) improves survival
+- TGF-beta1 rises after SFS transplantation
+- Inhibiting TGF-beta dependent cell cycle arrest holds promise
+- Silencing Hippo core kinases MST1/MST2 provokes proliferation
+- Rescues liver regeneration in aged mice after PHx
+
+## Experimental Strategies: FXR Targeting
+- FXR is key mediator of proliferative bile salt signaling
+- Targeted by potent obeticholic acid (OCA)
+- Accelerates liver regeneration through induction of intestinal FGF15
+- Effective in PVE and partial resection models
+- Contraindicated in cholestasis (exacerbates biliary injury)
+
+## Clinical Implications: Preoperative Assessment
+- Risk of complications increases when remnant volume is too small
+- Conventional blood tests and biopsy do not give full picture
+- Child’s classification and MELD apply primarily to cirrhotics
+- CT/MR measure residual liver volume accurately
+- Functional testing not as precise but evolving
+- Minimal functional remnant: >25% normal liver, >40% injured liver
+
+## Quantitative Liver Function Tests
+- Measure ability to metabolize or extract test compounds
+- Indocyanine green clearance (IGC) assesses functional reserve
+- Methionine breath tests, cholate clearance, liver scintigraphy
+- Hepatobiliary scintigraphy assesses functional uptake and excretion
+- LiMAx test: breath test based on 13C-methacetin metabolization
+- Calculates maximum liver function capacity via exhaled 13CO2
+
+## Portal Vein Embolization (PVE)
+- Increases tolerance to major hepatic resection
+- Induces hypertrophy of Future Liver Remnant (FLR)
+- Recommended when predicted FLR <20-25% (normal) or <40% (compromised)
+- Stimulates circulating IL-6 and TNF-alpha
+- Marginal contralateral regeneration (<5%) predicts liver failure
+- Factors may promote tumor outgrowth; continue chemo during PVE
+
+## ALPPS Procedure
+- Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy
+- Introduced in 2012 for patients with small FLR
+- Liver parenchyma transected between segments 2/3 and 4
+- Right portal vein ligated
+- Impressive hypertrophy of left lateral segments in 1-10 days (median 74%)
+- Initially high mortality/morbidity, now improved with patient selection
+
+## Ischemic Preconditioning (IPC)
+- Minimizes ischemic injury during liver resection
+- Interrupting long ischemic intervals with short reperfusion periods
+- Inhibits apoptosis and preserves cellular ATP
+- Triggers overexpression of IL-1Ra, iNOS, and Bcl-2
+- Promotes regeneration via TNF-alpha, IL-6, and HSPs
+- Effective in resection (especially mild/moderate steatosis) and transplantation
+
+## Regeneration After Chemotherapy
+- Complication rate increased in patients receiving neoadjuvant chemo
+- Deleterious effect increases with total number of cycles
+- Sharp rise in complications after five courses
+- Advocate no more than six cycles of FOLFOX/FOLFIRI before resection
+- Bevacizumab should be stopped 6-8 weeks before surgery
+- Optimal window between bevacizumab and surgery remains uncertain
+
+## Harnessing Inflammation
+- Regeneration involves intricate play between ECM and chemokines
+- Danger signals (DAMPs) released from necrotic hepatocytes
+- Neutrophils promote phenotypic conversion to proresolving macrophages
+- Balancing positive/negative effects of inflammation is key
+- Single perioperative administration of glucocorticoids reduces SIRS
+- Positive effect of steroids outweighs risk of abolishing regeneration onset
+
+## New Horizons: Therapeutic Stem Cells
+- Bone marrow (BM)-derived cells can engraft as hepatocytes
+- Mechanisms: fusion of stem cells/hepatocytes or transdifferentiation
+- Highest levels found in humans with severe liver disease
+- CXCR4/SDF-1 interaction important for mobilization
+- Mesenchymal stem cells (MSCs) promote liver repair
+- MSCs secrete soluble factors and share shed microvesicles (MVs)
+
+## Decellularized Hepatic Matrix
+- Hepatic tissue engineering gains momentum due to organ shortage
+- Intact ECM derived from liver using decellularization process
+- Removes cells, leaving structural and functional proteins
+- Re-seeded with appropriate population of cells
+- Connected to blood stream and biliary system
+- Fully functional transplantable bioengineered liver graft may become reality
+
+## Tissue Engineering and Organoids
+- Major obstacle: choosing cell source for repopulation
+- Adult primary hepatocytes scarce
+- Induced pluripotent stem cells (iPS) can generate inducible human hepatocytes
+- Concern about plasticity to form bile ducts
+- Bipotential liver organoids positive for Lgr5
+- Can differentiate into hepatocytes and cholangiocytes
+- Activate regenerative program via YAP-Hippo signaling
+
+## The Role of miRNA in Regeneration
+- MicroRNAs control hepatic function, stress response, and proliferation
+- Post-transcriptionally repress protein-coding genes
+- miR-122 is most frequent miRNA in adult liver
+- Silencing miR-122 reduces hepatic steatosis
+- High serum miR-122 associated with spontaneous recovery from acute liver failure
+- Inhibition of miR33 improves regeneration after PHx
+- Distinct miRNA patterns discern successful vs. failed transplantation
+
+## Summary of Mechanisms
+- Knowledge evolved from mythical black box to complex multistep process
+- Dynamics and redundant intracellular signaling pathways understood
+- Exact signals initiating and stopping regeneration still partially unknown
+- Advanced knowledge led to safer extreme resections and LDLT
+- Little structured advance in therapeutic options for liver failure
+
+## Future Perspectives
+- New challenges in therapeutic strategies to enhance regeneration
+- Will push possibilities of liver resection to the next level
+- Must be cautious not to stimulate tumor growth
+- Promoting cell proliferation requires balancing oncogenic risks
+- Partnership between clinical scientists and bioengineers is essential
+
+## Conclusion
+- Liver regeneration is a highly orchestrated, systemic response
+- Involves hemodynamic changes, innate immunity, and metabolic shifts
+- Clinical applications rely on manipulating these pathways
+- PVE, ALPPS, and ischemic preconditioning optimize surgical outcomes
+- Future lies in targeted molecular therapies and tissue engineering
