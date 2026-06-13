@@ -1,5 +1,7 @@
 # 05 Liver Blood Flow: Physiology, Measurement, and Clinical Relevance
 
+{{< reveal 05_Liver_Blood_Flow_Physiology_Measurement_and_Clinical_Relevance >}}
+
 Generated with Claude.
 
 **1. What type of blood supply does the liver uniquely possess?**

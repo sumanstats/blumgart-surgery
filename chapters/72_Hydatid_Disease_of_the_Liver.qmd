@@ -1,11 +1,7 @@
 # 72 Hydatid Disease of the Liver
 
-```{r}
-#| echo: false
-#| results: asis
 
-slides_iframe(600)
-```
+{{< reveal 72_Hydatid_Disease_of_the_Liver >}}
 
 
 **1. What is the most common species causing cystic echinococcosis worldwide?**

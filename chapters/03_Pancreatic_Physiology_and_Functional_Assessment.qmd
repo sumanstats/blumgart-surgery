@@ -1,12 +1,7 @@
 # 03 Pancreatic Physiology and Functional Assessment
 
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
+{{< reveal 03_Pancreatic_Physiology_and_Functional_Assessment >}}
 
 Generated with Claude.
 

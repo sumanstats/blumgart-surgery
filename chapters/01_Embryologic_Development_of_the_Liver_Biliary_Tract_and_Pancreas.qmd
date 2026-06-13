@@ -1,13 +1,7 @@
 # 01 Embryologic Development of the Liver, Biliary Tract, and Pancreas
 
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
-
+{{< reveal 01_Embryologic_Development_of_the_Liver_Biliary_Tract_and_Pancreas >}}
 
 Generated with Claude.
 

@@ -1,0 +1,610 @@
+---
+title: "Liver Blood Flow: Physiology, Measurement, and Clinical Relevance"
+format: 
+  revealjs:
+    theme: dark
+    slide-number: true
+    width: 1200
+    height: 800
+---
+
+
+
+## Liver Blood Flow: Physiology, Measurement, and Clinical Relevance
+
+- Unique dual afferent blood supply (Hepatic Artery & Portal Vein)
+- Control of Liver Blood Flow (LBF)
+- Measurement techniques
+- Clinical relevance and alterations in disease states
+
+---
+
+## Introduction to Liver Circulation
+
+- Unique dual afferent blood supply:
+  - **Hepatic Artery (HA):** Oxygen-rich arterial blood.
+  - **Portal Vein (PV):** Nutrient-rich, partially deoxygenated blood.
+- Blood merges in the hepatic parenchymal microcirculation.
+- Sustains complex liver functions before returning to the heart via Hepatic Veins (HVs).
+- This chapter outlines LBF control, measurement techniques, and clinical alterations.
+
+---
+
+## Physiology: Liver Blood Supply Overview
+
+- **Dual Afferent Supply:** 
+  - 75% to 80% of entering blood is partially deoxygenated PV blood (draining stomach, intestine, spleen, pancreas).
+  - Remainder is well-oxygenated blood from the aorta via the HA.
+- **Mixing:** Occurs in terminal branches in the sinusoidal microcirculation around hepatocytes.
+- **Drainage:** Centrilobular venules drain into HVs and then the Inferior Vena Cava (IVC).
+
+---
+
+## Physiology: Liver Blood Supply Statistics
+
+- Liver mass: ~2.5% of total body weight.
+- Receives: Nearly 25% of cardiac output.
+- Total LBF: 800 to 1200 mL/min (~100 mL/min per 100 g liver wet weight).
+- Liver blood volume: 25 to 30 mL per 100 g of liver wet weight (10% to 15% of total body blood volume).
+  - Sinusoids hold 60%.
+  - Large vessels (HA, PV, HV) hold 40%.
+
+---
+
+## Physiology: The Liver as a Blood Reservoir
+
+- **High Compliance:** Calculated as the change in blood volume per unit change in venous pressure.
+- **Reservoir Function:** 
+  - Blood volume can expand considerably in cardiac failure.
+  - In bleeding episodes, can compensate for up to 25% of hemorrhage by rapid expulsion of blood into the circulation.
+
+---
+
+## Physiology: The Hepatic Artery (HA)
+
+- Supplies ~25% of total blood flow to the liver (25 to 30 mL/min per 100 g).
+- **System:** High-pressure / high-resistance.
+- Mean pressure is similar to that in the aorta.
+- Provides up to 50% of the liver’s oxygen requirement due to greater oxygen content.
+- **Exclusive supply** to intrahepatic bile ducts via the peribiliary plexus.
+
+---
+
+## Physiology: Hepatic Artery Collaterals
+
+- Hepatic arterioles empty directly or via peribiliary plexi into sinusoids.
+- Direct artery-to-HV connections are rare but may arise in liver disease.
+- **Occlusion Response:** 
+  - Numerous intrahepatic collaterals can provide arterial blood.
+  - Extrahepatic collateral supply can develop after HA ligation (e.g., from inferior phrenic or gastroduodenal arteries).
+  - Complete long-term dearterialization is difficult to achieve.
+
+---
+
+## Physiology: The Portal Vein (PV)
+
+- Carries ~75% of total blood flow to the liver (90 mL/min per 100 g).
+- **System:** Valveless, low-pressure / low-resistance venous system.
+- Formed by the union of inferior and superior mesenteric veins with the splenic vein.
+- Collects venous outflow from the entire prehepatic splanchnic vascular bed.
+- PV pressure ranges between 6 and 10 mm Hg in humans.
+
+---
+
+## Physiology: Portal Vein Dynamics
+
+- PV pressure depends on:
+  1. Degree of constriction of mesenteric and splanchnic arterioles.
+  2. Intrahepatic vascular resistance.
+- **Oxygen Supply:** Partly deoxygenated, but due to large volume, supplies 50% to 70% of the liver’s normal oxygen requirement.
+- Fasting oxygen saturation in portal blood approaches 85%.
+- Reduced portal flow diminishes hepatic oxygen supply, minimized by increased oxygen extraction from HA blood (not by increasing HA flow).
+
+---
+
+## Physiology: Hepatic Veins (HVs)
+
+- Systemic drainage tract of the entire splanchnic circulation.
+- Normal total LBF: ~1.5 L/min in the average male (range 1–2 L/min).
+- Free pressure in HVs and IVC: 1 to 2 mm Hg.
+- Pressure in sinusoids and PV is 1 to 5 mm Hg higher than HV/IVC.
+- **Portal Pressure Gradient:** Difference between PV and IVC pressure; normal value is ~5 mm Hg (compared to ~115 mm Hg in other organs).
+
+---
+
+## Hepatic Microcirculation: The Hepatic Lobule
+
+- **Structure:** Hexagonal polyhedral-shaped hepatic lobule.
+- **Components:**
+  - Portal triad: Terminal branches of HA, PV, and bile duct.
+  - Network of sinusoids.
+  - Efferent centrilobular venule.
+- Portal triads travel together in the space of Mall, forming portal tracts.
+- *Figure 5.1 illustrates the liver microcirculation and portal triad components.*
+
+---
+
+## Hepatic Microcirculation: Conceptual Liver Units
+
+- **Figure 5.3** highlights three related conceptual units:
+  1. **Classic Lobule:** Emphasizes endocrine function; blood flows toward the centrilobular venule.
+  2. **Portal Lobule:** Emphasizes exocrine function; bile flows from three classic lobules toward the central bile duct.
+  3. **Liver Acinus (Rappaport):** Emphasizes oxygen/nutrient gradients. Zone I (periportal) gets most oxygen; Zone III (pericentral) gets the least.
+
+---
+
+## Hepatic Microcirculation: Sinusoids and Fenestrations
+
+- Hepatic sinusoids = capillary bed of the liver.
+- Site of nutrient supply and metabolic product removal.
+- **Unique Lining:** Endothelial cells with flattened processes perforated by small fenestrae.
+- **Sieve Plates:** Clusters of 10 to 50 pores (diameter 150 to 175 nm), occupying up to 8% of the endothelial surface.
+- Fenestrae are dynamic: contract and dilate in response to flow and pressure changes.
+- Molecules as large as albumin pass through into the space of Disse to contact hepatocyte microvilli.
+
+---
+
+## Hepatic Microcirculation: Stellate and Kupffer Cells
+
+- **Hepatic Stellate Cells (HSCs):** 
+  - Also known as Ito cells or fat-storing cells.
+  - Located in the space of Disse (exterior to endothelium).
+  - Contractile cells that can compress sinusoidal diameter, regulating blood flow.
+  - Key actors in retinol metabolism and hepatic fibrogenesis.
+- **Kupffer Cells (KCs):** 
+  - Liver-specific macrophages anchored to the luminal side of sinusoids.
+  - Constitute ~80% of total body macrophages.
+  - Can secrete vasodilator nitric oxide; large bodies may represent flow hindrance.
+- *See Figure 5.5 for spatial relationships.*
+
+---
+
+## Control of Liver Blood Flow: Intrinsic Regulation
+
+- Mainly controlled by intrinsic physiologic mechanisms independent of extrinsic innervation and vasoactive agents.
+- Interrelationship of arterial and portal inflow circuits is the major contributor to hepatic perfusion.
+- The liver does not control portal blood flow (it is simply the outflow of extrahepatic splanchnic organs).
+
+---
+
+## The Hepatic Arterial Buffer Response (HABR)
+
+- **Definition:** Ability of the HA to produce compensatory flow changes at the presinusoidal level in response to changes in PV flow.
+- **Mechanism:** 
+  - If PV flow is reduced → HA dilates and increases flow.
+  - If PV flow is increased → HA constricts.
+- Characterized and coined by Lautt in 1981.
+- Can buffer 25% to 60% of decreased portal flow.
+
+---
+
+## HABR: Mechanism and Mediators
+
+- **Primary Mediator:** Adenosine washout.
+  - Adenosine is produced at a constant rate and secreted into the space of Mall.
+  - Decreased PV flow → less adenosine washed away → elevated adenosine concentration → HA dilation.
+- **Limits:** 
+  - Severe PV reduction → HA dilates maximally.
+  - Doubled PV flow → HA constricts maximally.
+- **Other Mediators:** Hydrogen sulfide (H2S) almost doubles the HABR by increasing HA conductance. Afferent sensory nerves and neuropeptides may also contribute.
+
+---
+
+## HABR in Cirrhosis
+
+- **Figure 5.6** illustrates the HABR in cirrhotic vs. control livers.
+- Upon reduction of portal venous blood flow, there is a constant increase in hepatic arterial blood flow.
+- Although portal flow is markedly diminished in cirrhotic liver, the buffer response is preserved.
+
+---
+
+## Hepatic Inflow and Metabolic Needs
+
+- **Historical Belief:** HA flow was under metabolic control of the liver (like most organs).
+- **Current Understanding:** 
+  - Liver normally receives more oxygen than it requires.
+  - Can extract more oxygen to compensate for reduced delivery.
+  - One-way sinusoidal flow precludes substances diffusing back from parenchyma into HA resistance vessels.
+  - Hepatic metabolic demands do **not** control HA flow.
+
+---
+
+## Autoregulation and Intrahepatic Resistance
+
+- **Autoregulation:** Tendency for local arterial blood flow to remain constant despite pressure changes.
+  - Degree of autoregulation is considered small in the liver.
+  - Adenosine washout may account for HA autoregulation.
+- **Intrahepatic Resistance:** 
+  - Sinusoidal pressure gradient is remarkably low (~5 mm Hg).
+  - No sphincter-like structures described in humans.
+  - Contracting cells (HSCs, sinusoidal endothelial cells) dynamically regulate microvascular blood flow via vasoactive mediators.
+
+---
+
+## Liver-Intrinsic Vasoactive Molecules (Table 5.1)
+
+| Vasoactive Agent | Function | Cellular Source | Target Cell |
+| :--- |--- | :--- | :--- |
+| **Thromboxane A2** | Vasoconstriction, platelet activation | SEC, KC | SEC, platelet, leukocyte |
+| **Prostaglandin I2** | Vasodilation, inhibit platelet aggregation | SEC | SEC, HSC |
+| **Angiotensin II** | Vasoconstriction | HSC | HSC |
+| **Nitric Oxide (NO)** | Vasodilation | SEC, KC, VSMC, HSC, HC | VSMC, HSC |
+| **Endothelin-1** | Vasoconstriction / Vasodilation | SEC, HSC, KC | VSMC, HSC, SEC, KC |
+| **Carbon Monoxide** | Vasodilation | SEC, KC, VSMC, HSC, HC | VSMC, HSC |
+| **Hydrogen Sulfide** | Vasodilation | HSC, HC | VSMC |
+
+*(SEC: Sinusoidal endothelial cells, HSC: Hepatic stellate cells, KC: Kupffer cells, HC: Hepatocytes, VSMC: Vascular smooth muscle cells)*
+
+---
+
+## Liver-Extrinsic Factors: Blood Gas Tensions
+
+- **Hypercarbia** (PaCO2 > 70 mm Hg): Increases PV flow, decreases HA flow (in dogs).
+- **Hypocarbia** (PaCO2 < 30 mm Hg): Decreases both PV and HA flow.
+- **Systemic Hypoxia** (PaO2 < 70 mm Hg): Decreases arterial flow, no effect on PV contribution.
+- **Acidosis/Alkalosis:** Metabolic acidosis mimics hypercarbia; alkalosis has no significant effect.
+- Sympathetic nervous system is thought to be responsible for HA vasoconstriction in hypercarbia and hypoxia.
+
+---
+
+## Liver-Extrinsic Factors: Sympathetic Nervous System
+
+- Liver is a significant blood reservoir; 50% of blood volume may be mobilized by nerve stimulation.
+- **Denervation:** Not involved in basal arterial tone.
+- **Stimulation:** Causes HA vasoconstriction and reduced blood flow (secondary to autoregulatory response).
+- **Receptors:** HA contains both α- and β-adrenergic receptors; PV system contains only α-receptors.
+- **Epinephrine:** Low doses cause vasodilation; high doses cause vasoconstriction in HA, PV, and mesenteric beds.
+
+---
+
+## Liver-Extrinsic Factors: Other Endogenous Vasoactive Agents
+
+- **Gut Hormones:** Gastrin, secretin, cholecystokinin, VIP cause HA vasodilation.
+- **Glucagon:** Profoundly increases hepatic blood flow via mesenteric vasodilation.
+- **Histamine:** Causes HA dilation (and HV constriction in dogs).
+- **Bradykinin:** Potent HA vasodilator, little effect on PV.
+- **Vasopressin:** Decreases portal flow/pressure via mesenteric arterial vasoconstriction.
+- **Endothelins:** Powerful, prolonged systemic constriction; reduce hepatic perfusion and increase portal pressure.
+- **Angiotensin:** Decreases HA and portal blood flow.
+
+---
+
+## Physiologic States: Age and Food Intake
+
+- **Age:** 
+  - Liver size and blood flow decrease with age.
+  - Liver perfusion (flow per unit volume) falls with age.
+  - Changes in sinusoidal network geometry/complexity may predispose elderly to adverse drug reactions.
+- **Food Intake:** 
+  - Meal induces marked mesenteric artery vasodilation → increased PV flow.
+  - Compensatory vasoconstriction of the HA.
+  - Intrahepatic changes are greater in the right lobe.
+
+---
+
+## Physiologic States: Anesthesia and Ventilation
+
+- **Halothane/Enflurane:** Decrease HA and PV flow passively with cardiac output.
+- **Nitrous Oxide (30-70%):** Reduces HA and PV flow (stimulatory action on α-adrenergic receptors).
+- **Isoflurane/Fentanyl:** Minimal effects on HA and PV flows.
+- **Regional Anesthesia:** Sympathetic block might improve flow, but reduced systemic vascular resistance/cardiac output may offset this.
+- **Positive Pressure Ventilation:** Large tidal volumes, high PEEP, and high inspiratory pressures reduce splanchnic perfusion by increasing HV pressures and mesenteric vascular resistance.
+
+---
+
+## Measurement of Liver Blood Flow: Overview
+
+- **Box 5.1: Summary of Methods**
+  - **Flow in Single Vessels:** Transjugular HV pressure, Doppler ultrasound, 4D flow MRI.
+  - **Total Liver Blood Flow:** Hepatocyte clearance of Indocyanine green (ICG).
+  - **Hepatic Tissue Perfusion:** Contrast-enhanced US, Contrast-enhanced CT, Contrast-enhanced MRI, Isotopic imaging, Scintigraphy.
+
+---
+
+## Flow in Single Vessels: Electromagnetic Flowmeter Probes
+
+- Direct and continuous measurement of HA and PV blood flow.
+- Best available means of assessing individual vessel flow.
+- Widely used in large animal experiments, rarely in clinical situations due to required vascular dissection.
+- Used intraoperatively in investigational settings to assess hemodynamic status in cirrhosis, liver resection, and transplantation.
+- *Figure 5.7 illustrates experimental arrangement in a dog.*
+
+---
+
+## Flow in Single Vessels: Transjugular Hepatic Venous Pressure
+
+- **Gold Standard** for assessing portal hypertension.
+- Direct PV measurement is risky (bleeding, perforation).
+- **Technique:** Measurement of HV direct pressure and wedge pressure via transjugular approach.
+- **WHVP (Wedged Hepatic Venous Pressure):** Reflects hepatic sinusoidal pressure when blood flow is blocked by a wedged catheter.
+- **HVPG (Hepatic Venous Pressure Gradient):** WHVP minus Free Hepatic Venous Pressure (FHVP). Normal value is up to 5 mm Hg.
+- *Figure 5.8 illustrates FHVP and WHVP measurement.*
+
+---
+
+## Noninvasive Techniques: Doppler Ultrasound (D-US)
+
+- Principle: Flow = average velocity × cross-sectional area of the vessel.
+- **Duplex D-US:** Combined image scanner and flowmeter for transcutaneous, noninvasive measurement.
+- Advantages: Morphologic assessment, cheap, bedside availability.
+- **Clinical Utility:** 
+  - >80% specificity for clinically significant portal hypertension in cirrhosis.
+  - 100% specific for detecting inversion of PV flow.
+  - Highly accurate for detecting PV, HV, and HA thrombosis.
+  - Useful for noninvasive follow-up of TIPS.
+
+---
+
+## Noninvasive Techniques: 4D Flow MRI
+
+- Time-resolved, 3D phase-contrast MRI with 3D velocity encoding.
+- Provides information on temporal and spatial evolution of 3D blood flow with full volumetric coverage.
+- **Clinical Utility:** Monitor hepatic blood flow in portal hypertension, especially for noninvasive longitudinal hemodynamic monitoring before and after TIPS placement.
+- *Figure 5.9 shows 4D-flow MRI visualization before and after TIPS.*
+
+---
+
+## Total Blood Flow: Clearance Techniques
+
+- Based on the Fick equation.
+- Rate of disappearance of an indicator substance exclusively cleared by the liver is proportional to LBF.
+- **Historical:** Bromosulfophthalein (mean value in healthy individuals: 1.5 L/min).
+- **Other substances:** Colloidal clearance by KCs, galactose, sorbitol, rose bengal, propranolol.
+- **Hepatic Perfusion Index:** Ratio of HA to total LBF, derived by dynamic scintigraphy after IV technetium-99m–sulfur colloid.
+
+---
+
+## Total Blood Flow: Indocyanine Green (ICG) Clearance
+
+- Most commonly used substance dependent on hepatocyte extraction into bile.
+- Initially for blood flow, now widely used for assessing liver function (functional hepatocyte mass).
+- **Simplified Method:** Single IV bolus; extraction efficiency determined from clearance curve via peripheral blood sampling or pulse dye densitometry.
+- **Normal Range:** ICG plasma disappearance rate is 16% to 25% per minute; near-complete disappearance at 20 minutes.
+- **Limitations:** Variations due to intra/extrahepatic shunting or portal thrombosis.
+
+---
+
+## Total Blood Flow: Indicator Dilution
+
+- Relies on the Stewart-Hamilton principle.
+- Hepatic blood flow is proportional to the amount of blood that has diluted an introduced indicator.
+- Injection of a labeled substance (not removed by the liver) into HA and PV; changes in HV concentration are measured.
+- Independent of hepatocellular function.
+- **Limitation:** Overestimates true blood flow if intrahepatic or extrahepatic shunts are present.
+
+---
+
+## Total Blood Flow: Indicator Fractionation
+
+- Measurement of regional blood flow by fractional distribution of cardiac output (Sapirstein, 1956).
+- Radioactive microspheres injected into the left ventricle; reference sample withdrawn from a peripheral artery.
+- Microspheres lodge in vascular beds in proportion to cardiac output.
+- HA flow determined directly; portal flow found indirectly by adding prehepatic splanchnic organ flows.
+- Requires postmortem removal of organs for radioactivity measurement to calculate flow per gram (tissue perfusion).
+
+---
+
+## Hepatic Tissue Perfusion: Contrast-Enhanced Ultrasound
+
+- Quantifies hepatic tissue perfusion using microbubble contrast agents.
+- **Advantages:** Purely endovascular agents (no extravascular leakage), lightweight equipment, no x-rays or radionuclides.
+- **Analysis:** Dynamic image sequences model change in intensity over time to estimate:
+  1. Organ transit time of contrast.
+  2. Tissue reperfusion kinetics.
+  3. Enhancement intensity curves.
+
+---
+
+## Hepatic Tissue Perfusion: Computed Tomography (CT)
+
+- Uses concentrated iodinated contrast medium injected at high flow.
+- **Advantages:** Inexpensive, accessible, quick, highly reproducible, provides morphologic info.
+- Good spatial and temporal resolution; linear density-concentration relationship makes quantification straightforward.
+- *Figure 5.10 shows a signal-to-time curve obtained on CT.*
+- **Risks:** Radiation and potential nephrotoxicity (mitigated by optimized acquisition settings).
+
+---
+
+## Hepatic Tissue Perfusion: Magnetic Resonance Imaging (MRI)
+
+- **Dynamic Contrast-Enhanced MRI (DCE-MRI):** Uses gadolinium chelate.
+- Unlike CT, the relationship between signal intensity and tracer concentration is not linear; requires T1 measurement.
+- **Diffusion MRI:** Influenced by microperfusion. Restriction in diffusion in cirrhotic liver may be due to changes in microperfusion components rather than pure hepatic diffusion reduction.
+- No radiation exposure; good spatial and temporal resolution.
+
+---
+
+## Hepatic Tissue Perfusion: Isotopic Imaging
+
+- Scintigraphic methods using IV radiopharmaceuticals (technetium 99m pertechnetate, albumin, or sulfur-based colloids).
+- Liver enhancement analyzed by regions of interest; arterial and portal components separated.
+- Renal enhancement peak represents the beginning of portal enhancement of hepatic parenchyma.
+- **Limitation:** Often hindered by poor spatial and temporal resolution.
+
+---
+
+## Hepatic Tissue Perfusion: Other Techniques
+
+- **Inert Gas Clearance:** Uses radioactive gases (85Kr, 133Xe) that distribute equally between tissue and blood. Clearance rate measured after injection. Minimal trauma, accuracy not markedly affected by hepatic cellular disease.
+- **Laser Doppler Flowmetry (LDF):** Real-time measurement of microvascular RBC perfusion. Sensitive to rapid changes, but only measures arbitrary (not absolute) perfusion in a single small area.
+- **In Vivo Fluorescent Microscopy:** Visualizes individual sinusoids and erythrocyte velocities. Broadened by fluorescent dyes, but has interpretation problems from a hemodynamic standpoint.
+- **Near-Infrared Spectroscopy (NIRS):** Noninvasive technique using light transmission/absorption to measure hemoglobin and mitochondrial oxygenation through up to 80 mm of tissue.
+
+---
+
+## Clinical Relevance: Hemorrhagic Shock and Hypoperfusion
+
+- Total LBF decreases relative to the degree of hemorrhage.
+- PV flow decreases parallel to cardiac output.
+- **HA Flow:** Does not decrease until extremely low blood pressures are reached (maintains hepatic oxygen supply).
+- Oxygen extraction greatly increases to preserve normal total oxygen consumption.
+- Hepatic blood volume can compensate for up to 25% of hemorrhage from large-capacitance vessels.
+
+---
+
+## Clinical Relevance: Shock Liver and Ischemia-Reperfusion
+
+- **Shock Liver:** Hepatic dysfunction from cardiogenic/hemorrhagic shock. Manifests as centrilobular necrosis, abdominal pain, cholestatic jaundice, and marked elevation of serum aminotransferases.
+- **Ischemic State:** Upregulation of acute-phase proteins prioritized over albumin/transferrin.
+- **Endothelial NO:** Protects against initial hepatic injury in severe hemorrhage. Prolonged shock (>6 hours) induces excessive NO via inducible NO synthase, causing damage.
+- **Reperfusion Injury:** Caused by oxygen-derived free radicals and excess vasoconstrictor agents. Endogenous NO protects in the early reperfusion period.
+
+---
+
+## Clinical Relevance: Liver Atrophy
+
+- Results from significant reduction of LBF containing hepatotrophic substances.
+- Degree of atrophy depends on the degree and source of blood flow deprivation (PV, HA, or both).
+- **Portal Diversion:** Atrophy is due to the effective loss of hepatotrophic substances in portal blood, not just absolute volume flow decrease.
+- **HA Obstruction:** Results in ischemic changes (mitochondrial swelling, cell membrane disruption). Fate depends on functional collateral arterial circulation.
+
+---
+
+## Clinical Relevance: Acute Bile Duct Obstruction
+
+- Acute increases in bile duct pressure result in a reflexive increase in LBF.
+- Attempts to maintain adequate flow against increased pressure gradient opposing bile secretion.
+- Increased biliary pressures may compress portal capacitance vessels in the limited space of Mall, leading to increased arterial flow.
+- Acute serial increases in bile duct pressure can increase HA blood flow by 250% without affecting PV flow.
+
+---
+
+## Clinical Relevance: Chronic Bile Duct Obstruction
+
+- LBF is generally reduced, leading to hepatic dysfunction.
+- Primary site of resistance change is debated (presinusoidal, sinusoidal, or postsinusoidal).
+- **Consequences:** 
+  1. Portal hypertension associated with secondary biliary fibrosis.
+  2. Shock after biliary tract decompression (sudden drop in WHVP, PV pressure, and arterial pressure leads to fluid sequestration and hypotension).
+- Relief of long-term obstruction does not return hemodynamics to normal, suggesting irreversible intrahepatic vascular damage.
+
+---
+
+## Clinical Relevance: Liver Resection and Regeneration
+
+- Adult liver has remarkable potential to restore cellular mass via hepatocyte hyperplasia.
+- Partial resection without devascularization produces little change in *total* blood flow.
+- **Tissue Perfusion:** Essentially the same total blood flow is redistributed to a smaller mass, resulting in an immediate increase in tissue perfusion (~120% in humans).
+- Increased hepatic perfusion is primarily due to PV inflow.
+- Intrahepatic shear stress from increased portal flow is hypothesized to be a regulator of liver regeneration.
+
+---
+
+## Clinical Relevance: Hemodynamics in Liver Transplantation
+
+- **HABR:** Conserved after orthotopic liver transplantation (OLT) despite denervation.
+- Total hepatic blood flow remains elevated 6 months after OLT, mainly due to PV blood flow.
+- Suggests baseline LBF may be under direct sympathetic control, which is lost after OLT, leading to an unopposed rise.
+- **Complications:** New-onset heart failure develops in up to 10% of patients after OLT (median follow-up 5.3 years), mostly of nonischemic etiology.
+
+---
+
+## Clinical Relevance: Small-for-Size Syndrome
+
+- Occurs in living-donor partial liver transplantation.
+- Full portal flow traveling through a small liver remnant leads to markedly decreased arterial inflow.
+- **Mechanism:** Hypothesized to result from an intact, exaggerated HABR.
+- **Consequences:** Inadequate HA flow ranges from mild cholestasis and delayed synthetic function to ischemic cholangitis and parenchymal infarct.
+- **Splenic Artery Syndrome:** Previously thought to be arterial siphoning, now understood as portal hyperperfusion causing HA vasoconstriction. Preoperative splenic artery embolization may improve graft function.
+
+---
+
+## Clinical Relevance: Portal Hypertension Overview
+
+- Sustained increase in intraluminal pressure of the PV and its collaterals.
+- Associated with severe complications of cirrhosis: ascites, hepatic encephalopathy, bleeding from gastroesophageal varices.
+- **HVPG Thresholds:**
+  - >10 mm Hg: Predictive of varices formation and liver decompensation.
+  - >12 mm Hg: Classically defines portal hypertension (variceal bleeding threshold).
+
+---
+
+## Hemodynamics of Portal Hypertension
+
+- Governed by the flow-resistance principle: Portal pressure = Portal blood flow × Hepatic portal vascular resistance.
+- **Cirrhotic Hemodynamics:** 
+  - Increased portal pressure.
+  - Diminished hepatic portal blood flow.
+  - Extensive extrahepatic collateral venous network (hyperdynamic splanchnic/systemic circulation).
+- Up to 80% of portal flow reaching hepatocytes may bypass the sinusoidal vascular bed via intrahepatic shunts.
+- Low peripheral vascular resistance is linked to stimulated production of NO induced by endotoxemia.
+
+---
+
+## Pathogenesis of Increased Intrahepatic Resistance
+
+- Traditional view: Fibrotic encroachment around portal radicles.
+- **Pathogenesis:** Hepatocyte necrosis/inflammation → transformation of HSCs into myofibroblasts → collagenization of the space of Disse.
+- **Capillarization:** Sinusoidal endothelial cells lose fenestrations and develop a basement membrane.
+- Disruption of hepatic architecture (fibrous septa, abnormal nodules) leads to sustained intrahepatic portal resistance.
+- PV flow progressively decreases, but arterial resistance decreases and arterial flow increases (intact buffer response).
+
+---
+
+## Treatment of Portal Hypertension: Medical
+
+- Goal: Reduce pressure and flow in extrahepatic variceal vessels while preserving adequate portal flow to the liver.
+- **Nonselective β-blockers (e.g., Propranolol):** 
+  - Decrease cardiac output (β1 blockade).
+  - Antagonize β2-adrenoceptors in splanchnic vasculature, leaving α-adrenergic vasoconstriction unopposed → decreased portal flow and pressure.
+- **Vasopressin:** Generalized peripheral vasoconstriction.
+- **Somatostatin:** Specific to splanchnic vascular bed (glucagon-release inhibition + direct vasoconstriction).
+- **Nitrovasodilators (e.g., Isosorbide mononitrate):** Can reduce intrahepatic PV resistance and increase hepatic blood flow.
+
+---
+
+## Treatment of Portal Hypertension: Surgical and TIPS
+
+- **TIPS (Transjugular Intrahepatic Portosystemic Shunt):** 
+  - Largely replaces shunt surgery.
+  - Treatment of choice for recurrent variceal bleeding refractory to medical management.
+- **Portosystemic Shunt Surgery:** 
+  - End-to-side portacaval shunts divert all portal flow (effective for bleeding, but high risk of liver failure and encephalopathy).
+  - Partial or selective shunts (e.g., distal splenorenal/Warren shunt) are preferred when feasible to preserve some portal flow to the liver.
+
+---
+
+## Prevention and Treatment of Variceal Bleeding
+
+- **Prevention (Primary Prophylaxis):** 
+  - Screen all cirrhosis patients by endoscopy.
+  - Small varices with red marks or Child-Pugh C: Nonselective β-blockers.
+  - Medium to large varices: Endoscopic band ligation or β-blockers.
+  - HVPG decrease of ≥20% or to ≤12 mm Hg is clinically relevant.
+- **Acute Bleeding Treatment:** 
+  - Airway protection, resuscitation, correction of coagulopathy.
+  - Early empiric antibiotic therapy.
+  - Vasoconstrictive drugs (somatostatin/vasopressin analogues) + endoscopic variceal ablation.
+  - Early TIPS (within 72 hours) for high-risk patients (HVPG ≥20, Child-Pugh C, active bleeding).
+
+---
+
+## Clinical Relevance: Blood Flow in Hepatic Tumors
+
+- Liver tumors (primary or secondary) are generally perfused with **arterial blood**.
+- Hepatocellular carcinoma and neuroendocrine metastases are highly arterialized.
+- **Diagnostic Utility:** Arterial uptake provides important differential diagnosis info on contrast-enhanced CT and MRI.
+- **Therapeutic Utility:** Tumor neovasculature lacks smooth muscle and does not respond to vasoconstrictors.
+- **Transarterial Techniques:** 
+  - Transarterial Chemoembolization (TACE) or bland embolization.
+  - Takes advantage of disproportionate HA supply to tumors vs. surrounding liver.
+  - HA infusion of chemotherapy via subcutaneous ports/pumps is effective for colorectal metastases and intrahepatic cholangiocarcinoma.
+
+---
+
+## Clinical Relevance: Effect of Laparoscopy on Liver Blood Flow
+
+- **CO2 Pneumoperitoneum:** Substantially reduces PV flow parallel to the rise in intraperitoneal pressure.
+- **Mechanisms:** Mechanical compression of mesenteric veins, humoral vasoconstriction, hypercapnia, local CO2 absorption, increased vasopressin.
+- **HABR during Laparoscopy:** Conflicting data on whether HA flow is preserved during decreased PV flow.
+- **Clinical Practice:** Most teams use 10 to 15 mm Hg pneumoperitoneum for good bleeding control. Avoid head-up positioning and pressures >15 mm Hg to preserve LBF.
+- No major accidents related to CO2 pneumoperitoneum reported in ~6,000 laparoscopic liver resections.
+
+---
+
+## Summary and Conclusion
+
+- Liver circulation is unique, relying on a dual afferent supply (HA and PV) regulated by intricate intrinsic and extrinsic mechanisms, notably the HABR.
+- Accurate measurement of LBF and perfusion is critical, utilizing a range of invasive and noninvasive techniques (D-US, MRI, CT, clearance methods).
+- Understanding hepatic hemodynamics is essential for managing clinical scenarios such as shock, liver resection, transplantation, small-for-size syndrome, portal hypertension, and hepatic tumors.
+- Therapeutic interventions must carefully balance the reduction of pathological pressures (e.g., in portal hypertension) with the preservation of adequate hepatotrophic blood flow.
