@@ -1,0 +1,965 @@
+---
+title: "ACG Clinical Guideline: Chronic Pancreatitis"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    width: 1280
+    height: 720
+    css: |
+      .reveal table {
+        font-size: 0.55em;
+      }
+      .reveal table th {
+        background-color: #003366;
+        color: white;
+      }
+      .reveal blockquote {
+        font-size: 0.75em;
+        background: #f0f0f0;
+        border-left: 5px solid #003366;
+        padding: 10px;
+      }
+      .reveal .small {
+        font-size: 0.65em;
+      }
+---
+
+
+## Learning Objectives
+
+- Understand the shift from traditional clinicopathologic definition to the mechanistic definition of chronic pancreatitis (CP)
+- Apply evidence-based recommendations for diagnosis, etiology workup, and natural history assessment
+- Implement guideline-based management strategies for pain and exocrine pancreatic insufficiency (EPI)
+- Recognize the role of genetic testing and risk-factor modification
+
+---
+
+## Introduction: Historical Definition
+
+- Before 2016, CP was defined using a **traditional clinicopathologic approach**
+- Required typical signs and symptoms linked to defined pathology:
+  - Chronic inflammation
+  - Irreversible fibrosis without infection
+- **Challenge:** Obtaining pancreatic tissue (gold standard) carried high risk/benefit ratio
+- Three Marseille consensus conferences (1963–1989) defined CP on clinical, functional, and histologic evidence
+- 1984 "Cambridge definition" used ERCP scoring as a surrogate for tissue
+
+---
+
+## Introduction: Limitations of Traditional Model
+
+- Traditional framework defines CP by **irreversible damage**
+- Results in years of delay between symptom onset and diagnosis
+- Fails to identify or address underlying etiology
+- Cannot predict clinical course or direct preventative therapies
+- Limited to symptomatic/supportive care and replacement of lost gland function
+- New technologies (genetics, advanced imaging) cannot be fully utilized within old paradigm
+
+---
+
+## Introduction: The Mechanistic Definition (2016)
+
+- Adopted by major pancreas societies worldwide
+- CP is a **pathologic fibroinflammatory syndrome** of the pancreas
+- Occurs in individuals with genetic, environmental, and/or other risk factors
+- Develops from persistent pathologic responses to parenchymal injury or stress
+- Affirms end-stage characteristics (atrophy, fibrosis, pain, duct distortion, calcifications, EPI, DM, dysplasia)
+- Addresses disease mechanism and enables early diagnosis before irreversible damage
+
+---
+
+## Introduction: Dysfunction, Disorder, and Disease
+
+| Term | Definition | Example |
+|:---|:---|:---|
+| **Dysfunction** | Dynamic variation in action deviating from normal | CFTR gene mutation causing defective channel opening |
+| **Disorder** | Disruption of normal cell/system functions | Duct cell failure under stress generating injury signals |
+| **Disease** | Abnormal condition defined by consensus criteria | CP meeting clinical, functional, and morphologic features |
+
+- Precision medicine focuses on determining dysfunction/disorder to prevent progression to disease
+
+---
+
+## Methodology: Literature Search
+
+- Databases searched through February 2018:
+  - MEDLINE (1946–current)
+  - Embase (1974–current)
+  - Web of Science (1900–current)
+  - Cochrane Library
+- MeSH terms: *chronic pancreatitis* or *pancreatitis (chronic or minimal change)*
+- Limited to English language
+- Two authors independently reviewed all unique articles
+- Search prioritized randomized trials → meta-analyses → systematic reviews
+
+---
+
+## Methodology: GRADE Framework
+
+- **PICO questions** served as basis for each recommendation:
+  - **P**opulation/problem
+  - **I**ntervention
+  - **C**omparison
+  - **O**utcome
+- **Strength of recommendation:**
+  - **Strong:** "We recommend" — benefits clearly outweigh negatives
+  - **Conditional:** "We suggest" — uncertainty remains about balance
+- **Quality of evidence:** High → Moderate → Low → Very low
+
+---
+
+## Methodology: PICO Questions Overview (Diagnosis)
+
+1. Should cross-sectional imaging (CT/MRI) or EUS be used to diagnose CP?
+2. Should s-MRCP vs non–secretin-enhanced MRCP be used?
+3. Should direct vs indirect pancreatic function tests be used?
+4. Should pancreatic histology vs imaging be used?
+
+---
+
+## Methodology: PICO Questions Overview (Etiology & Natural History)
+
+**Etiology:**
+- Should multiple-factor vs single-factor testing be used?
+- Should genetic testing vs no genetic testing be used?
+
+**Natural History:**
+- Does defined etiology vs idiopathic disease determine outcomes?
+- Does BMI determine risk of endocrine insufficiency?
+- Does alcohol cessation alter natural history?
+- Does tobacco cessation alter natural history?
+- Should screening for pancreatic malignancy be performed?
+
+---
+
+## Methodology: PICO Questions Overview (Management)
+
+**Pain Management:**
+- Interventional therapy in actively drinking patients?
+- Endoscopic vs surgical duct decompression?
+- Antioxidants, opiates, enzymes, celiac plexus blockade?
+- TPIAT vs no TPIAT?
+- Experimental modalities (radiation, spinal cord stimulation)?
+
+**Exocrine Insufficiency:**
+- PERT vs no PERT?
+- Testing for vitamin deficiency?
+
+---
+
+## Diagnosis: Recommendation 1
+
+> **We recommend CT or MRI for the first-line diagnosis of CP.** Either test should be the first choice. EUS, because of its invasiveness and lack of specificity, should be used only if the diagnosis is in question after cross-sectional imaging.
+
+- **Strength:** Strong recommendation
+- **Quality of evidence:** Low
+
+---
+
+## Diagnosis: Evidence for Cross-Sectional Imaging
+
+- Systematic review and meta-analysis of **43 studies, 3,460 patients**
+- **Sensitivity estimates:**
+  - EUS: 81% (95% CI: 70%–89%)
+  - MRI: 78% (95% CI: 69%–85%)
+  - CT: 75% (95% CI: 66%–83%)
+- **Specificity estimates:**
+  - US: 98%; MRI: 96%; ERCP: 94%; CT: 91%; EUS: 90%
+- No significant difference in sensitivity between modalities
+- Limitation: Not all studies included histologic gold standard
+
+---
+
+## Diagnosis: EUS Role & Limitations
+
+- EUS sensitivity/specificity comparable to cross-sectional imaging
+- **Disadvantages:**
+  - Invasiveness
+  - Issues with availability
+  - Intrarate reproducibility concerns
+  - Discrepancy over definition/importance of specific diagnostic criteria
+- **Recommendation:** Use EUS only if diagnosis uncertain after CT/MRI
+- No high-quality RCT evidence for contrast-enhanced EUS, ERCP, transcutaneous US, or elastography as first-line tests
+
+---
+
+## Diagnosis: Practical Clinical Approach to Imaging
+
+- Demonstrating typical morphologic changes is critical
+- Imaging is a **surrogate for histology**
+- In absence of universal gold standard, cross-sectional imaging is familiar and reproducible
+- **First test:** CT or MRI for initial diagnosis
+- **Second test:** EUS if diagnosis still in doubt or concern for "minimal change disease"
+- CP remains a **clinical diagnosis** integrating clinical scenario, risk factors, and differential diagnosis
+
+---
+
+## Diagnosis: Recommendation 2
+
+> **We suggest performing secretin-enhanced MRCP (s-MRCP) when the diagnosis of CP following cross-sectional imaging or EUS is not confirmed and clinical suspicion remains high.**
+
+- **Strength:** Conditional recommendation
+- **Quality of evidence:** Low
+
+---
+
+## Diagnosis: s-MRCP Evidence & Mechanism
+
+- s-MRCP stimulates bicarbonate release from pancreatic duct cells
+- Allows better visualization of main and side-branch ducts
+- Permits quantification of duodenal filling, which may correlate with CP severity and exocrine function
+- No RCTs specifically evaluating s-MRCP in CP diagnosis
+- One systematic review (69 original articles, 15 reviews):
+  - Dynamic thick-slab 2D MRCP most used sequence (86%)
+  - Main pancreatic duct diameter (75%) and duodenal filling (67%) most evaluated features
+- Smaller studies suggest value in children with idiopathic CP and minimal change disease
+
+---
+
+## Diagnosis: s-MRCP Practical Approach
+
+- Use s-MRCP to identify **subtle ductal abnormalities** (dilated branches, ectatic duct)
+- Structural imaging is a biomarker of morphology most sensitive to fibrosis, duct distortion, and calcifications
+- **Do not diagnose CP solely on s-MRCP findings**
+- Reserve for cases where cross-sectional imaging and EUS are non-diagnostic
+
+---
+
+## Diagnosis: Key Concept 1
+
+> **Pancreatic function testing is an important means of diagnosing exocrine pancreatic insufficiency; however, its role in establishing the diagnosis of CP is complementary.**
+
+- Controversy surrounds use of pancreatic function tests for CP diagnosis
+- Most CP patients do **not** have clinically significant EPI
+- Sensitivity of function testing for CP diagnosis is **low**
+- Large pancreatic reserve: significant loss of function (usually >90%) required for steatorrhea
+
+---
+
+## Diagnosis: Pancreatic Function Tests Overview
+
+- No RCTs, systematic reviews, or meta-analyses specifically detailing use for CP diagnosis
+- Should be used only as **ancillary test**
+- EPI represents imbalance in 4 domains:
+  1. Nutritional intake
+  2. Pancreatic digestive enzyme delivery
+  3. Intestinal adaptation
+  4. Nutritional needs
+
+---
+
+## Diagnosis: Direct vs Indirect Tests (Table 4)
+
+| Test | Type | Advantages | Disadvantages |
+|:---|:---|:---|:---|
+| **CCK stimulation** | Direct (acinar) | Detects subtle EPI | Cumbersome, not widely available, specialized lab, patient discomfort, 2–3 hr test |
+| **Secretin stimulation** | Direct (ductal) | Measures ductal secretory ability | Not widely available, prone to measurement error, risk/cost of endoscopy, 60 min test |
+| **Fecal elastase-1** | Indirect | Universally available, easily obtainable, noninvasive | Moderate sensitivity, limited specificity in diarrhea, limited use in mild disease |
+| **13C-mixed triglyceride** | Indirect | Easily obtainable, high sensitivity (90%) | Not universally available, long test duration (4–6 hr), does not measure digestive tract enzymes |
+| **Serum trypsinogen/trypsin** | Indirect | Universally available, easily obtainable, noninvasive, quantifiable over time | Elevated with pancreatic pain, poor correlation with imaging |
+
+---
+
+## Diagnosis: Fecal Elastase Specifics
+
+- Most commonly used indirect test
+- **Cutoff matters:**
+  - <200 mcg/g stool: high false-positive rate
+  - <100 mcg/g stool: improves specificity but lowers sensitivity
+- Accuracy depends on cutoff chosen
+- Serum trypsin/trypsinogen tests are **typically not currently performed**
+  - Elevation in non-pancreatic pain syndromes
+  - Poor correlation with imaging findings
+
+---
+
+## Diagnosis: Recommendation 3
+
+> **We suggest histological examination as the gold standard to diagnose CP in high-risk patients when the clinical and functional evidence of CP is strong, but imaging modalities are inconclusive.**
+
+- **Strength:** Conditional recommendation
+- **Quality of evidence:** Very low
+
+---
+
+## Diagnosis: Histology Evidence & Limitations
+
+- EUS-guided fine-needle biopsy makes tissue acquisition safer and technically easier
+- However, **sensitivity of histologic evaluation** for CP when tissue is available is often **no better than chance**
+- **Limitations:**
+  - Sampling error
+  - Complications inherent to biopsy
+  - Patchy nature of pancreatic inflammatory changes
+  - Histologic interpretation prone to subjectivity
+- No RCTs, systematic reviews, or meta-analyses treating histology as diagnostic gold standard
+
+---
+
+## Diagnosis: Histology Practical Approach
+
+- Histology is gold standard under **current clinicopathologic approach**
+- Often used to **"rule out"** CP
+- Both imaging and histology are biomarkers of underlying disorder
+- Sensitivity of histology to make the diagnosis is **low**
+- Under mechanistic model, histology will likely become **less important**
+- Only consider in high-risk patients after clinical, functional, and imaging tests are inconclusive, with informed consent
+
+---
+
+## Etiology: Key Concept 2
+
+> **In patients with clinical features of CP, a comprehensive review of all risk factors should be performed.** This provides information on underlying mechanisms, identifies fixed and modifiable risk factors, identifies potential targets for therapies, and provides clinically relevant prognostic information.
+
+---
+
+## Etiology: TIGAR-O System (Table 5)
+
+| Category | Risk Factors |
+|:---|:---|
+| **T**oxic-metabolic | Alcohol, smoking, hypercalcemia, hypertriglyceridemia, medications, toxins, CKD stage 5/ESRD, DM |
+| **I**diopathic | Early onset (<35 yr), Late onset (>35 yr) |
+| **G**enetic | PRSS1 (autosomal dominant), CFTR (autosomal recessive), SPINK1, CTRC, modifier genes (CLDN2, PRSS1-PRSS1 locus) |
+| **A**utoimmune | AIP type 1 (IgG4-related), AIP type 2 |
+| **R**AP/SAP | Acute pancreatitis episodes, RAP episodes, SAP |
+| **O**bstructive | Pancreas divisum, ampullary stenosis, main duct stones, calcifications, strictures, localized mass |
+
+---
+
+## Etiology: M-ANNHEIM System (Table 6)
+
+- **M**ultiple risk factors: **A**lcohol, **N**icotine, **N**utritional, **H**ereditary, **E**fferent duct, **I**mmunological, **M**iscellaneous
+- Provides diagnostic criteria for:
+  - Etiology
+  - Clinical and diagnostic stage
+  - Severity based on traditional clinicopathologic criteria
+- **Severity scoring (0–>20 points):**
+  - A: 0–5 (Minor)
+  - B: 6–10 (Increased)
+  - C: 11–15 (Advanced)
+  - D: 16–20 (Marked)
+  - E: >20 (Exacerbated)
+
+---
+
+## Etiology: M-ANNHEIM Clinical Features Scoring
+
+| Feature | Points |
+|:---|:---|
+| No pain without therapy | 0 |
+| RAP | 1 |
+| No pain with therapy | 2 |
+| Intermittent pain | 3 |
+| Continuous pain | 4 |
+| Pain control: no medication | 0 |
+| Pain control: nonopioid/mild opioids | 1 |
+| Pain control: potent opioids/endoscopic | 2 |
+| Surgical intervention | 4 |
+| Exocrine insufficiency (proven/steatorrhea) | 2 |
+| Endocrine insufficiency (DM) | 4 |
+| Morphology (Cambridge): Normal→Marked | 0→4 |
+| Severe organ complications (irreversible) | 4 |
+
+---
+
+## Etiology: Practical Clinical Approach to History
+
+- Complete thorough history and physical examination
+- **History should include:**
+  - Previous dates/number of acute pancreatitis episodes
+  - Dates of onset of DM, maldigestion/malnutrition, weight loss
+  - Bone health (fractures), renal disease
+  - Diseases associated with cystic fibrosis (lung disease, sinusitis, male infertility)
+- **Family history:** Extend to at least third-degree relatives
+  - Pancreatitis, cystic fibrosis, DM, pancreatic cancer
+- **TIGAR-O checklist:** Alcohol, smoking, medications, toxins, DM, diet, biomarkers (serum calcium, triglycerides)
+
+---
+
+## Etiology: When to Pursue Genetic Testing
+
+- Etiology unclear after initial workup
+- Family history of pancreatic diseases
+- Disease persists after therapeutic intervention (e.g., RAP after clearing biliary system)
+- Patient is young (e.g., <35 years of age)
+- **Differential diagnosis considerations:**
+  - Autoimmune inflammation
+  - Islet cell inflammation from long-standing DM
+  - Renal disease secondary effects
+  - Medications altering immune system
+  - Age-related atrophy/fibrosis
+  - IPMN, acinar cell cystadenoma
+  - Desmoplastic response to neoplasm
+
+---
+
+## Etiology: Recommendation 4
+
+> **We recommend genetic testing in patients with clinical evidence of a pancreatitis-associated disorder or possible CP in which the etiology is unclear, especially in younger patients.**
+
+- **Strength:** Strong recommendation
+- **Quality of evidence:** Low
+
+---
+
+## Etiology: Genetic Testing Rationale
+
+- **Primary goal:** Identify underlying pancreatitis-related disorders contributing to pathogenic process
+- Assists in decision making and helps prevent development of irreversible CP
+- Examples:
+  - **CFTR variants:** CFTR-related disorder or cystic fibrosis presenting as RAP or CP
+  - **PRSS1, SPINK1, CTRC:** Hereditary pancreatitis
+- Provides early information about etiology of pancreatitis-related disorders
+- Drives confirmatory testing (e.g., sweat chloride for CFTR variants)
+- Places patient in high/low disease prevalence population affecting predictive value of biomarkers
+
+---
+
+## Etiology: Genetic Polymorphisms — Acinar Cell Dysfunction (Table 7)
+
+| Gene | Inheritance | Molecular Consequence | Clinical Manifestations |
+|:---|:---|:---|:---|
+| **PRSS1** (cationic trypsinogen) | Complex low penetrance | Misfolding, ER stress | Recurrent AP and CP |
+| **CPA1** (carboxypeptidase A1) | Complex low penetrance | Misfolding, ER stress | High relative risk of nonalcoholic CP |
+| **CEL** (carboxyl ester lipase) | Autosomal dominant/complex | Misfolding, aggregations, ER stress | MODY-8 pancreatitis |
+| **SPINK1** (serine protein inhibitor Kazal type 1) | Autosomal recessive | Loss of protein function (blocked active site of trypsin) | 2% of population; homozygotes with more severe disease |
+| **CTRC** (chymotrypsin C) | Autosomal dominant | Activated trypsin resistant to degradation | Associated with early-onset pancreatitis |
+
+---
+
+## Etiology: Genetic Polymorphisms — Ductal & Modifiers (Table 7)
+
+| Gene | Inheritance | Molecular Consequence | Clinical Manifestations |
+|:---|:---|:---|:---|
+| **CFTR** (cystic fibrosis transmembrane conductance regulator) | Autosomal recessive | Loss of protein function due to failure of ductal bicarbonate secretion | >2000 gene variants; widely divergent clinical presentation |
+| **CASR** (calcium-sensing receptor) | Autosomal recessive | Loss of ability to regulate intracellular calcium | Gain of function affects acinar cells; loss of function affects ductal cells |
+| **CTRC** | Complex | Low expression effect potentiated by smoking | Pancreatitis when present with trypsin-activating variant |
+| **CLDN2** locus (Claudin-2) | Unknown | High risk with alcoholism | Accelerates transition from RAP to CP |
+
+---
+
+## Etiology: Genetic Testing Practical Approach
+
+- Genetic testing is **not diagnostic of CP**
+- Identifies population with high prevalence of pancreatitis-related disorders
+- Identifies dysfunctional mechanism underlying pathogenic processes
+- **Minimum panel for idiopathic CP:** PRSS1, SPINK1, CFTR, CTRC
+- Extended panels available: >1 dozen susceptibility and modifier genes, hypertriglyceridemia genes, pharmacogenetics
+- Refer to genetic counselor when possible
+- In centers with experienced nongeneticist clinicians, genetic referral may not be necessary
+- Genetic testing of **limited value in end-stage CP** (exceptions: familial disorders, etiology insight, research)
+
+---
+
+## Natural History: Key Concept 3
+
+> **Identification of the disorder(s) underlying pancreatic inflammation is important in predicting progression to CP.**
+
+- Primary clinical outcomes of CP:
+  - Debilitating abdominal pain
+  - Fat-soluble vitamin deficiency → malnutrition, osteoporosis
+  - Risk of pancreatic malignancy
+  - Endocrine insufficiency (type 3c DM)
+- At end stage, disease is irreversible and preventive/restorative therapy is not possible
+
+---
+
+## Natural History: Progression from Acute to Chronic
+
+- ~**60% of CP cases evolved from acute pancreatitis and RAP**
+- ~10% of acute pancreatitis and ~30% of RAP progress to CP
+- **Etiology affects progression speed:**
+  - Alcoholic etiology: progression twice as fast as genetic/idiopathic
+  - Alcoholic etiology: progression 5 times faster than biliary acute pancreatitis
+- Genetic modifiers strongly affect risk of progression from RAP to CP
+- Painful CP (especially alcohol-induced) was thought to improve over time, but this has **not been reproduced**
+- Pain from CP does **not** "resolve" or "burn out" with time
+
+---
+
+## Natural History: Exocrine & Malignancy Risks
+
+- **Exocrine insufficiency prevalence:** 40%–75% in large natural history studies
+- Highest risk with:
+  - Alcohol and/or tobacco use
+  - Fibrocalcific (tropical) pancreatitis
+- **Pancreatic adenocarcinoma risk:**
+  - Relatively higher than general population, but likely much lower than previously reported
+  - In well-characterized genetic polymorphisms: lifetime risk **5%–10%**
+  - Data limited to case series and retrospective cohort studies
+
+---
+
+## Natural History: Key Concept 4
+
+> **The development of DM in CP is most likely related to duration of disease, although other etiologic factors such as BMI and smoking status may incur an increased risk.**
+
+- Risk of type 3c DM (pancreatic endocrine failure) not demonstrated to result from any specific etiology
+- **Duration of disease** is likely the most important risk factor for endocrine failure
+- **Tobacco use** may also play a role
+- Obese patients more likely to have type 2 DM
+- Advanced CP patients more likely to have **low BMI and type 3c DM** from islet cell loss
+- New-onset DM with weight loss is potentially an indicator of pancreatic ductal adenocarcinoma
+
+---
+
+## Natural History: Recommendation 5
+
+> **We recommend alcohol cessation in patients with CP.**
+
+- **Strength:** Strong recommendation
+- **Quality of evidence:** Very low
+- No RCTs, systematic reviews, or meta-analyses specifically addressing alcohol cessation altering natural history of CP pain
+- Several case series suggest discontinuing alcohol improves pain but does not necessarily alter progression to endocrine/exocrine dysfunction
+- One randomized trial: alcohol cessation counseling in patients admitted with acute alcoholic pancreatitis limited further hospitalizations and pain attacks
+- **Practical approach:** Strict alcohol avoidance should be a cornerstone of treatment
+
+---
+
+## Natural History: Recommendation 6
+
+> **We recommend smoking cessation in patients with CP.**
+
+- **Strength:** Strong recommendation
+- **Quality of evidence:** Very low
+- Smoking cessation is very challenging for patients with CP
+- Tobacco widely believed to be risk factor for CP development
+- Only single-center studies available
+- Case series report **decrease in pancreatic calcification progression** when smoking cessation occurs at time of CP diagnosis
+- **Practical approach:** Strict smoking avoidance should be a cornerstone of treatment
+
+---
+
+## Natural History: Key Concept 5
+
+> **There is a lack of evidence to suggest that performing screening examinations on patients with CP to detect pancreatic malignancy is beneficial.**
+
+- Very little quality evidence supporting screening for pancreatic malignancy
+- No RCTs, systematic reviews, or meta-analyses supporting screening
+- Overall prevalence of pancreatic malignancy increased in CP, but screening not supported because:
+  - Invasive and costly nature of testing
+  - Difficulty screening given structural changes of CP
+  - Inability to alter natural history in many cases even if malignancy detected early
+
+---
+
+## Figure 1: Diagnostic Algorithm (Clinicopathologic Model)
+
+**Symptom-first approach to diagnosis:**
+
+1. **Suspicion of CP** ← Clinical symptoms (pain, EPI, endocrine insufficiency) OR genetic polymorphisms
+2. **Cross-sectional Imaging (CT or MRI)**
+   - Positive → Consistent with CP
+   - Negative → Proceed to EUS
+3. **Endoscopic Ultrasound**
+   - Positive → Consistent with CP
+   - Negative → Proceed to s-MRCP
+4. **Secretin-enhanced MRCP**
+   - Positive → Consistent with CP
+   - Negative → Perform genetic testing
+5. **Pancreatic Histology**
+   - Positive → Consistent with CP
+   - Negative → Consider alternative diagnosis
+
+*Also integrates pancreatic function testing and incidental findings pathways*
+
+---
+
+## Figure 2: Diagnostic Algorithm (Mechanistic Definition)
+
+**Three levels of investigation (A, B, C):**
+
+- **Level A:** Clinical suspicion + concordance of features (clinical, risk, biomarkers)
+- **Level B:** Progressive workup focusing on management
+- **Algorithm integrates:**
+  - Etiology-specific pathways (CF, autoimmune, RAP, idiopathic)
+  - Biomarker assessment
+  - Risk stratification
+  - Management decisions (PERT, therapy, surgical referral)
+
+*Divides approach into structured levels once diagnosis is established*
+
+---
+
+## Pain Management: Key Concept 6
+
+> **Performing elective interventional procedures on patients who are actively using alcohol should be considered cautiously.** Patients requiring urgent or emergent procedures for complications of CP should be considered separately.
+
+- No RCTs, systematic reviews, or meta-analyses specifically addressing this issue
+- **Medical perspective:** Ill-advised to undertake aggressive interventions in patients actively harming themselves with sustained alcohol abuse
+- **Social perspective:** Patients still warrant care; encourage cessation via counseling, AA, other programs
+- **Practical approach:**
+  - Elective interventional procedures (e.g., celiac plexus) with caution in active drinkers
+  - Urgent interventions performed regardless of alcohol use
+  - Case-by-case evaluation for patients making good-faith efforts to stop
+
+---
+
+## Pain Management: Recommendation 7
+
+> **We recommend surgical intervention over endoscopic therapy in patients with obstructive CP for the long-term relief of pain if first-line endoscopic approaches to pancreatic drainage have been exhausted or unsuccessful.**
+
+- **Strength:** Strong recommendation
+- **Quality of evidence:** Moderate
+
+---
+
+## Pain Management: Endoscopic vs Surgical Evidence (Cahen et al.)
+
+- **Randomized trial:** 39 patients with CP
+- **Surgical drainage vs endoscopic drainage:**
+  - Lower pain scores in surgery group (P ≤ 0.001)
+  - Better physical health summary scores (P = 0.003)
+  - At 24 months: complete/partial pain relief — endoscopy 32% vs surgery 75% (P = 0.007)
+  - Complication rates, length of stay, pancreatic function changes: similar
+  - Endoscopy group required median of 8 interventions vs 3 for surgery (P < 0.001)
+
+---
+
+## Pain Management: Long-Term Surgical Outcomes
+
+- **79-month follow-up** of Cahen cohort:
+  - 68% of original endoscopic group underwent additional drainage vs 5% surgery group (P = 0.001)
+  - Length of stay and costs equivalent
+  - **47% of endoscopy patients ultimately underwent surgery**
+  - Mean pain scores no longer significantly different (39 vs 22; P = 0.12)
+  - Surgery superior in terms of pain relief (80% vs 38%; P = 0.042)
+  - Quality of life and pancreatic function not different
+- Older study (140 patients): complete absence of pain more common with surgery (37% vs 14%)
+
+---
+
+## Pain Management: Practical Approach to Duct Decompression
+
+- **First-line:** Endoscopic drainage (ERCP and/or EUS) for symptomatic obstructed pancreatic duct
+- **Surgery reserved for:**
+  - Treatment failures
+  - Patients unwilling to undergo multiple endoscopic treatments
+  - Cases where ductal decompression judged potentially successful
+- Decompression means at discretion of endoscopist based on local expertise (including lithotripsy)
+- No surgery clearly identified as superior among drainage procedures (Puestow, Frey, Beger)
+
+---
+
+## Pain Management: Recommendation 8
+
+> **We suggest considering the use of antioxidant therapy for CP with pain, although the benefit of pain reduction is likely limited.**
+
+- **Strength:** Conditional recommendation
+- **Quality of evidence:** Moderate
+- Proposed mechanism: reduce oxidative stress and provide anti-inflammatory effect
+- Could potentially serve as alternative to narcotics
+
+---
+
+## Pain Management: Antioxidant Evidence
+
+- **Trial 1 (2009):** Mixture of 5 antioxidants (selenium, ascorbic acid, β-carotene, α-tocopherol, methionine) vs placebo
+  - Significantly fewer painful days per month
+  - Less analgesic use
+  - More patients became pain-free
+- **Trial 2 (ANTICIPATE):** Similar antioxidant mixture in alcohol-induced CP
+  - No statistically significant difference in pain scores at 6 months
+  - No difference in opiate use, hospital admissions, outpatient visits
+- **Two meta-analyses (9 and 12 trials):** Overall antioxidants appeared to reduce pain, but effect size was small
+
+---
+
+## Pain Management: Antioxidant Practical Approach
+
+- Data limited; scientific plausibility somewhat questionable
+- Use not FDA-regulated
+- Agents appear safe and may reduce pain
+- Can be considered for clinical use, **especially early in disease course**
+- Typical clinical trial components:
+  - Selenium
+  - Ascorbic acid
+  - β-carotene
+  - Methionine
+- **Optimal type and dosage not clear**
+
+---
+
+## Pain Management: Key Concept 7
+
+> **Opiates may be considered to treat painful CP only in patients in whom all other reasonable therapeutic options have been exhausted.**
+
+- Debated for decades
+- **Arguments in favor:** Efficacy and low cost
+- **Arguments against:**
+  - Risk of addiction, abuse, tolerance
+  - Concerns about providing narcotics to patients with history of substance abuse (alcoholism)
+  - Side effects (constipation)
+- No RCTs, systematic reviews, or meta-analyses exist to guide clinicians
+- One cross-over trial (n=18): transdermal fentanyl vs sustained-release morphine — fentanyl not ideal (required 50% dose increase, more rescue morphine)
+
+---
+
+## Pain Management: Opiate Practical Approach
+
+- **Avoid opiates if possible** given risks of addiction, abuse, and tolerance
+- Justified for **refractory pain** when unable to palliate with other modalities
+- Encourage transition to other medications in patients previously prescribed opiates
+- Prescribing clinician should:
+  - Know natural history of disease
+  - Monitor symptoms and response over time
+  - Adhere to universal precautions for safe prescribing:
+    - Screen for opiate use disorder
+    - Patient–provider prescribing agreement
+    - Annual urine drug screen
+    - Annual check of automated prescription systems
+    - Counseling for potential addiction
+    - Wrap-around services for chronic pain
+
+---
+
+## Pain Management: Recommendation 9
+
+> **We do not suggest the use of pancreatic enzyme supplements to improve pain in CP.**
+
+- **Strength:** Conditional recommendation
+- **Quality of evidence:** Low
+- Enzymes typically used for symptomatic EPI
+- Role as pain treatment is less clear
+- Plausible that pain from cramping/diarrhea (EPI symptoms) could improve, but unclear if primary pancreatic pain improves
+
+---
+
+## Pain Management: Enzyme Evidence
+
+- **Older study (n=26):** Enteric-coated enzymes vs placebo for 4 months — **no difference**
+- **2009 Cochrane review:** 10 randomized trials, 361 patients
+  - Equivocal result for using enzymes to treat pain
+  - Studies of less than ideal quality
+- **Meta-analysis (5 randomized studies):** Failed to show meaningful effect on pain relief
+  - One study showed benefit to **non–enteric-coated** enzymes
+- **Meta-analysis (6 RCTs):** Failed to show significant benefit from enzyme therapy on pain associated with CP
+
+---
+
+## Pain Management: Enzyme Practical Approach
+
+- **Do not use pancreatic enzyme therapy as form of pain control**
+  - Expense and general lack of clinical efficacy
+- Patients with EPI usually derive some benefit from relief of discomfort secondary to abdominal cramping via PERT
+- If patients feel pain is improved on enzyme therapy (especially non–enteric-coated formulations with biologic plausibility), reasonable to continue given:
+  - Low risk of use
+  - Lack of other low-risk analgesic options
+
+---
+
+## Pain Management: Recommendation 10
+
+> **We suggest considering celiac plexus block for treatment of pain in CP.**
+
+- **Strength:** Conditional recommendation
+- **Quality of evidence:** Very low
+- Injection of pharmaceuticals into/around celiac ganglia
+- Most common ingredients: local anesthetic + steroid (e.g., bupivacaine and triamcinolone)
+- Can be performed via endoscopy, interventional radiology, or surgery
+
+---
+
+## Pain Management: Celiac Plexus Evidence
+
+- **Advantages:**
+  - Single treatment may provide pain reduction for 3–6 months
+  - May reduce/eliminate need for oral analgesia
+  - Quick, repeatable
+- **Disadvantages:**
+  - Procedure risks (bleeding, allergic reaction)
+  - Risks/need for sedation
+- Meta-analysis favored **EUS-guided injections** over percutaneous injections (limited percutaneous data)
+- Wide range of reported pain relief: **25%–96%**
+- Median response rate: EUS-guided 68%, percutaneous 61%
+
+---
+
+## Pain Management: Celiac Plexus Practical Approach
+
+- Relatively **low-risk, opioid-free** method to reduce refractory pain
+- Not clear which patients derive most benefit
+- Can be repeated on **"as-needed" basis**
+- Generally separate procedures by **3 months or more** if patient had clinical benefit from initial intervention
+- Choice of physician (endoscopist, radiologist, surgeon) based on experience and availability
+
+---
+
+## Pain Management: Key Concept 8
+
+> **TPIAT should be reserved for highly selected patients with refractory chronic pain in which all other symptom control measures have failed.**
+
+- **TPIAT = Total Pancreatectomy with Islet Autotransplant**
+- Increasingly used for refractory painful CP
+- Offered at selected centers only
+- No RCTs, systematic reviews, or meta-analyses
+- Data consist exclusively of case series and cohort studies
+- Patients must be thoroughly vetted and apprised of risks:
+  - Type 3c DM
+  - Potential lifelong intestinal dysmotility disorders
+- Evaluate at expert center with multidisciplinary team
+
+---
+
+## Pain Management: Key Concept 9
+
+> **Experimental treatment modalities should be limited to use in the context of a clinical research trial.**
+
+- Modalities include:
+  - Spinal cord nerve stimulation
+  - Transmagnetic brain stimulation
+  - Direct radiation therapy to pancreatic bed
+- Data limited to small case series and retrospective cohort studies
+- All patients in whom medical and surgical interventions have failed should be considered for referral to expert center offering experimental therapies
+
+---
+
+## EPI Management: Recommendation 11
+
+> **We suggest PERT in patients with CP and exocrine pancreatic insufficiency to improve the complications of malnutrition.**
+
+- **Strength:** Conditional recommendation
+- **Quality of evidence:** Low
+- **PERT = Pancreatic Enzyme Replacement Therapy**
+- Potential benefits:
+  - Reduce symptoms, gain weight
+  - Improve fat absorption and fat-soluble vitamin/trace element levels
+  - Reduce consequences of maldigestion (e.g., bone fracture risk)
+  - Improve quality of life, reduce mortality
+
+---
+
+## EPI Management: PERT Evidence Overview
+
+- **17 randomized trials** conducted on PERT in CP
+  - 12 cross-over design
+  - 5 parallel design
+- Products: enteric-coated capsules, non–enteric-coated tablets, microtablets, granules
+- Daily dosage varied substantially: <50,000 to >700,000 lipase USP/day
+- Timing: before meals vs during meals
+- Some studies added H2 inhibitor or PPI
+
+---
+
+## EPI Management: PERT Meta-Analysis Findings
+
+- **Cochrane 2009 (10 RCTs, 361 patients):**
+  - No improvement in pain or analgesic use
+  - Significant reduction in fecal fat
+  - Nonsignificant trend in weight and quality of life
+- **Recent meta-analysis (17 trials):**
+  - CFA improved significantly on PERT vs baseline (83.7% vs 63.1%; P < 0.00001)
+  - Fecal nitrogen excretion and stool weight reduced (P ≤ 0.001)
+  - Flatulence and fecal consistency improved in some studies
+  - PERT increased CFA vs placebo (83.2% vs 67.4%; P = 0.0001)
+  - High-dose (>60,000 units/day) showed slightly higher CFA (not significant)
+
+---
+
+## EPI Management: PERT Practical Approach
+
+- **Suspect EPI in:**
+  - Long-standing CP
+  - CP with weight loss, malnutrition, diarrhea, steatorrhea, osteoporosis, osteopenia
+- Clinical suspicion often sufficient for diagnosis without formal fecal fat measurement
+- **Adequate dosage:** At least **40,000–50,000 USP units of lipase with each meal**
+- **Administration:** During the meal
+- **Diagnostic test:** Abnormal fecal elastase is most easily available
+- Titrate enzymes to improve symptoms
+
+---
+
+## EPI Management: Key Concept 10
+
+> **Patients with CP should have periodic evaluation for malnutrition including tests for osteoporosis and fat-soluble vitamin deficiency.**
+
+- No RCTs, systematic reviews, or meta-analyses providing evidence for this practice
+- Single-center studies demonstrate increased risk of osteoporosis and fracture risk
+- One RCT: intramuscular vs oral vitamin D — intramuscular route more efficacious
+- Patients at risk for:
+  - Fat-soluble vitamin deficiency (A, D, E, K)
+  - Zinc and magnesium deficiency
+  - Regardless of whether they have proven EPI
+- Degree of abnormality likely corresponds to degree of EPI
+
+---
+
+## EPI Management: Malnutrition Practical Approach
+
+- Periodic evaluation of fat-soluble vitamin and zinc deficiency should be considered
+- Given higher fracture risk and increased incidence of malnutrition
+- **Dietary advice (in absence of high-quality evidence):**
+  - Small, frequent meals
+  - **No fat restriction**
+- Measure fat-soluble vitamin levels and bone density at baseline and periodically thereafter
+- No RCTs evaluating dietary interventions specifically in CP
+
+---
+
+## Summary: Diagnostic Recommendations
+
+| # | Recommendation | Strength | Evidence |
+|:---|:---|:---|:---|
+| 1 | CT or MRI first-line; EUS only if diagnosis in question | Strong | Low |
+| 2 | s-MRCP when cross-sectional imaging/EUS inconclusive but suspicion high | Conditional | Low |
+| 3 | Histology as gold standard in high-risk patients when imaging inconclusive | Conditional | Very low |
+
+---
+
+## Summary: Etiology & Natural History Recommendations
+
+| # | Recommendation | Strength | Evidence |
+|:---|:---|:---|:---|
+| 4 | Genetic testing when etiology unclear, especially younger patients | Strong | Low |
+| 5 | Alcohol cessation in patients with CP | Strong | Very low |
+| 6 | Smoking cessation in patients with CP | Strong | Very low |
+
+**Key Concepts:**
+- Comprehensive risk factor review (TIGAR-O, M-ANNHEIM)
+- No screening for pancreatic malignancy recommended
+- Duration of disease most important for DM development
+
+---
+
+## Summary: Pain Management Recommendations
+
+| # | Recommendation | Strength | Evidence |
+|:---|:---|:---|:---|
+| 7 | Surgery over endoscopy for long-term pain relief if endoscopic approaches exhausted | Strong | Moderate |
+| 8 | Antioxidant therapy may be considered (limited benefit) | Conditional | Moderate |
+| 9 | Do not use pancreatic enzymes to improve pain | Conditional | Low |
+| 10 | Celiac plexus block may be considered | Conditional | Very low |
+
+**Key Concepts:**
+- Caution with elective procedures in active alcohol users
+- Opiates only when all other options exhausted
+- TPIAT for highly selected refractory cases
+- Experimental modalities only in clinical trials
+
+---
+
+## Summary: EPI Management Recommendations
+
+| # | Recommendation | Strength | Evidence |
+|:---|:---|:---|:---|
+| 11 | PERT in CP with EPI to improve malnutrition complications | Conditional | Low |
+
+**Key Concepts:**
+- Periodic evaluation for malnutrition, osteoporosis, fat-soluble vitamin deficiency
+- Small, frequent meals without fat restriction
+- Minimum genetic panel: PRSS1, SPINK1, CFTR, CTRC
+
+---
+
+## Future Directions
+
+- Future guidelines expected to rely more on studies executed under the **Mechanistic Definition of CP**
+- Need for:
+  - RCTs evaluating targeted therapies under mechanistic framework
+  - Comparative effectiveness studies on TPIAT
+  - Studies on optimal antioxidant type/dosage
+  - High-quality trials on dietary interventions
+  - Better screening strategies for early pancreatic malignancy
+- Precision medicine approach requires new studies evaluating effectiveness in individual patients
+
+

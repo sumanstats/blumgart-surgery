@@ -1,6 +1,8 @@
 # 07 Liver Fibrogenesis: Mechanisms and Clinical Relevance
 
 
+{{< reveal 07_Liver_Fibrogenesis_Mechanisms_and_Clinical_Relevance >}}
+
 Generated with Claude.
 
 **1. What does liver fibrosis fundamentally represent?**

@@ -3,6 +3,8 @@
 
 {{< reveal 58_Management_of_Chronic_Pancreatitis_Conservative_Endoscopic_Surgical >}}
 
+{{< Extras/pancreas/acg_chronic_pancreatitis_guideline.qmd >}}
+
 Generated with Qwen.
 
 **1. What percentage of all chronic pancreatitis (CP) patients have Autoimmune Pancreatitis (AIP)?**
