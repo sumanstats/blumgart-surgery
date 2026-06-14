@@ -3,7 +3,7 @@
 
 {{< reveal 58_Management_of_Chronic_Pancreatitis_Conservative_Endoscopic_Surgical >}}
 
-{{< Extras/pancreas/acg_chronic_pancreatitis_guideline.qmd >}}
+{{< reveal Extras/pancreas/acg_chronic_pancreatitis_guideline >}}
 
 Generated with Qwen.
 
