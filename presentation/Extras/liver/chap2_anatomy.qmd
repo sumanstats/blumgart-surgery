@@ -1,0 +1,1315 @@
+---
+title: "Surgical and Radiologic Anatomy of the Liver, Biliary Tract, and Pancreas"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+---
+
+## Chapter Overview {.center}
+
+- Precise knowledge of liver, biliary tract, and pancreas architecture is essential for HPB surgery
+- Covers gross anatomy, functional/segmental anatomy, vascular anatomy, biliary anatomy, and common anatomic variants
+- Integrates classic descriptions (Couinaud, Healey & Schroy, Bismuth) with the Brisbane 2000 terminology
+- Heavy emphasis on radiologic correlation (US, CT, MRI/MRCP, angiography, cholangiography)
+
+## Section 1: The Liver — Gross Anatomy
+
+## Liver — Position and Relations
+
+- Lies protected under the lower ribs, applied to the diaphragm, sitting on the IVC posteriorly
+- Most bulk is **right of midline**; lower border near the right costal margin
+- Extends as a wedge **left of midline**, between the stomach and the left hemidiaphragm
+- Upper surface convex, molded to diaphragm
+- Surface projection: up to the **4th intercostal space** (right) and **5th intercostal space** (left)
+
+## Liver — Peritoneal Coverings
+
+- Invested by peritoneum **except** the posterior "bare area"
+- Peritoneum reflects onto the diaphragm → forms **right and left triangular ligaments**
+- Undersurface concave, ending at a sharp anterior border
+- Posterior surface triangular, base to the right — the **bare area** lies between upper and lower leaves of the triangular ligament
+- Peritoneum reflects from Gerota's fascia onto the right posterior liver; **right adrenal gland** lies beneath this reflection
+- Anteriorly attached to diaphragm by falciform ligament, left triangular ligament, and upper layer of right triangular ligament
+
+## Figure 2.1 — Gross Lobar Anatomy (A & B)
+
+::: {.columns}
+::: {.column width="50%"}
+**A — In situ view**
+
+- Two main lobes: large **right**, smaller **left**
+- Line of fusion follows the **falciform ligament** on the superior surface
+- **Ligamentum teres** enters the umbilical fissure at the inferior extent
+:::
+::: {.column width="50%"}
+**B — Liver flipped upward (inferior surface)**
+
+- Transverse hilar fissure = posterior limit of the right lobe
+- **Quadrate lobe**: anterior to hilar fissure, bounded by umbilical fissure (left) and gallbladder fossa (right)
+- **Caudate lobe**: posterior to hilar fissure, hugs the IVC
+:::
+:::
+
+## Figure 2.1 — Posterior Aspect (C)
+
+- IVC sits snugly in a deep groove within the bare area; hepatic veins open directly into it
+- **Right suprarenal gland** lies adjacent to IVC within the bare area; adrenal vein drains into the right of the IVC
+- **Caudate lobe** slopes from inferior to posterior surface, demarcated on the left by a fissure containing the **ligamentum venosum**
+- Gastrohepatic omentum attaches to the ligamentum venosum → places caudate lobe within the **lesser sac**
+- Left lobe's posterior surface is narrow with a fine bare area
+
+## Figure 2.1 — The Ligament of the Vena Cava
+
+- A fibrous layer passes from the posterior liver edge toward the lumbar vertebrae, fanning out posteriorly (especially superiorly)
+- Behind the IVC, it joins a fibrous extension from the caudate lobe's lateral edge
+- Called the **ligament of the vena cava**
+- Must be divided:
+  - **Right side** → exposes IVC and right hepatic vein
+  - **Left side** → mobilizes the caudate lobe
+- Occasionally liver tissue completely embraces the IVC (tunnel of parenchyma)
+
+## Retrohepatic Inferior Vena Cava
+
+- IVC runs to the **right of the aorta**, diverging from it as it ascends
+- Below the liver: lies behind duodenum and pancreatic head (retroperitoneal)
+- Passes upward behind the **foramen of Winslow**, posterior to right hilar structures
+- **Renal veins** lie anterior to the renal arteries, joining IVC at near-right angle (left) and obliquely (right)
+- IVC embraced in a groove on the posterior liver surface
+
+## IVC — Course Through the Diaphragm
+
+- IVC lies on the right crus of the diaphragm, behind the bare area
+- Extends to the **central tendon of the diaphragm**, pierced at the level of **T8**
+- This is behind and higher than the origin of the abdominal aorta
+- Separated from the right crus by:
+  - The **right celiac ganglion** (lower)
+  - The **right phrenic artery** (higher)
+
+## IVC — Tributaries
+
+- **Right adrenal vein**: short vessel entering IVC behind the bare area
+  - Occasional small **accessory right adrenal vein** → enters confluence of right renal vein and IVC
+  - Occasionally drains directly into the posterior liver
+- **Lumbar veins**: drain posterolaterally into the IVC **below** the renal vein level
+- **Above** the renal vein level: usually no posterior vena caval tributaries
+
+## Hepatic Veins — Overview (Figs 2.2–2.4)
+
+- Drain the **upper posterior surface** of the liver at an oblique angle directly into the IVC
+- **Right hepatic vein (RHV)**: largest; short extrahepatic course (~1–2 cm)
+- **Left (LHV) and Middle (MHV) hepatic veins**:
+  - May drain separately into IVC
+  - Usually join to form a common venous channel (~2 cm) → enters left anterior IVC surface below diaphragm
+
+## Hepatic Veins — Umbilical Vein & Accessory Veins
+
+- **Umbilical vein** (of the liver, NOT the fetal umbilical vein):
+  - Single in most patients
+  - Runs beneath the falciform ligament between MHV and LHV
+  - Empties into the terminal LHV (rarely into MHV or the MHV–LHV confluence)
+- **Accessory right hepatic vein**: present inferiorly in ~**15%** of patients (see Fig 2.3)
+- **Caudate lobe**: drains **directly into the IVC** (unique among segments)
+
+## Figure 2.2 — Ultrasound of Hepatic Vein Confluence
+
+- Transverse ultrasound image
+- Demonstrates the **Left (L)**, **Middle (M)**, and **Right (R)** hepatic veins
+- All three converge and join the **IVC**
+- Classic sonographic landmark for confirming hepatic venous anatomy before resection
+
+## Figure 2.3 — Inferior Accessory Right Hepatic Veins
+
+::: {.columns}
+::: {.column width="50%"}
+- **A**: Contrast-enhanced CT of hepatic vein confluence
+- **B**: Small right inferior accessory vein (arrow) enters IVC **below** the hepatic venous confluence
+:::
+::: {.column width="50%"}
+- **C**: A second, **larger** right inferior accessory hepatic vein seen more inferiorly
+- **D**: CT coronal reconstruction — shows RHV and one inferior accessory vein
+- Key abbreviations: A = Aorta; IVC; M = MHV; PV = portal vein; R = RHV
+:::
+:::
+
+## Figure 2.4 — Major Extrahepatic Veins and Falciform Ligament
+
+- Anterior surfaces of major extrahepatic veins and the IVC are **retroperitoneal**
+- These are **masked behind the layers of the falciform ligament** as it splits toward the right and left triangular ligaments
+- Note: LHV and MHV usually join **within** the liver — depicted as joining outside the liver here only for visual simplicity
+
+## Section 2: Functional Surgical Anatomy
+
+## Functional Anatomy — Historical Foundations
+
+- Internal architecture = segments combining into **sectors**, separated by scissurae containing hepatic veins (Fig 2.5)
+- Key historical contributors:
+  - **McIndoe & Counseller (1927)** — bilaterality of the liver
+  - **Hjörtsjö (1931)** — intrahepatic duct topography
+  - **Ton That Tung (1939, 1979)** — hepatic venous vascularization & resections
+  - **Healey & Schroy (1953)** — biliary duct anatomy/branching patterns
+  - **Goldsmith & Woodburne (1957)** — surgical anatomy for liver resection
+  - **Couinaud (1957)** — definitive segmental nomenclature
+  - **Bismuth et al. (1982)** — major/minor "réglée" segmentectomies
+
+## Four Sectors and the Main Portal Scissura
+
+- Three main hepatic veins (within scissurae) divide the liver into **four sectors**, each receiving its own portal pedicle
+- **Main portal scissura**:
+  - Contains the **middle hepatic vein**
+  - Runs from the middle of the gallbladder bed (anterior) to the left of the IVC (posterior)
+- Right and left livers (demarcated by the main portal scissura) are **independent** in portal/arterial vascularization and biliary drainage (Fig 2.6)
+- Each hemiliver is further divided into two by the remaining portal scissurae
+
+## Goldsmith/Woodburne "Segments" vs. Couinaud "Sectors"
+
+| Term | Author | Meaning |
+|---|---|---|
+| **Segments** | Goldsmith & Woodburne (1957) | The 4 major subdivisions of right & left liver |
+| **Sectors** | Couinaud (1957) | Same 4 subdivisions, different name |
+
+- Important: terminology overlap is a frequent source of confusion across textbooks
+
+## Right Portal Scissura
+
+- Separates the **right liver** into two sectors:
+  - **Anteromedial (anterior)**
+  - **Posterolateral (posterior)**
+- With the body supine, this scissura is almost in the **frontal plane**
+- The **right hepatic vein** runs within the right scissura
+
+## Left Portal Scissura
+
+- Divides the **left liver** into two sectors
+- **Important distinction**: the left portal scissura is **NOT** within the umbilical fissure
+  - The umbilical fissure is **not a portal scissura** — it contains a portal pedicle instead
+- The left portal scissura lies **posterior to the ligamentum teres**, within the left liver, along the course of the **left hepatic vein**
+
+## Brisbane 2000 Terminology — Transition
+
+- Couinaud's terminology widely used, but being replaced by the **International Hepato-Pancreatico-Biliary Association (2000)** alternative
+- Main difference: Couinaud's **"sectors"** → renamed **"sections"**
+- Left medial *section* (Strasberg, 2005) = **one segment only** (Segment IV)
+
+## Table 2.1 — Brisbane Terminology of Liver Anatomy and Resections
+
+| Anatomic Term | Couinaud Segments | Surgical Resection |
+|---|---|---|
+| Right hemiliver / right liver | 5–8 | Right hepatectomy |
+| Left hemiliver / left liver | 2–4 | Left hepatectomy |
+| Right anterior section | 5, 8 | Right anterior sectionectomy |
+| Right posterior section | 6, 7 | Right posterior sectionectomy |
+| Left medial section | 4 | Left medial sectionectomy / Resection of segment 4 |
+| Left lateral section | 2, 3 | Left lateral sectionectomy / Bisectionectomy 2,3 |
+| — | 4,5,6,7,8 | Right trisectionectomy / Extended right hepatectomy |
+| — | 2,3,4,5,8 | Left trisectionectomy / Extended left hepatectomy |
+
+## Figure 2.5 — Portal Triad Distribution
+
+- Portal vein, hepatic artery, and bile ducts distributed in a **symmetric pedicular pattern**
+- This belies the **asymmetric** external appearance of the liver
+- Each segment (**I–VIII**) supplied by a portal triad (portal vein + hepatic artery branch) and drained by a tributary of right/left hepatic ducts
+- **Portal sectors** (= "sections" in Brisbane terminology) = parenchyma supplied by independent portal pedicles
+- **Hepatic scissurae** = scissurae containing the portal pedicles
+- The umbilical fissure corresponds to a hepatic scissura
+
+## Figure 2.5 — Right and Left "Liver" vs. "Lobe"
+
+- Internal architecture = **two hemilivers**, separated by the **main portal scissura** (a.k.a. **Cantlie's line**)
+- Preferred terminology: **right and left liver** (NOT "right and left lobes")
+- "Lobes" is erroneous — there is **no visible external mark** that identifies a true hemiliver
+- Right scissura → right hepatic vein
+- Main scissura → middle hepatic vein
+- Left scissura → left hepatic vein
+
+## Figure 2.6 — Couinaud's Segmental Map (A & B)
+
+- Functional division of the liver into segments **I through VIII** per Couinaud's nomenclature
+- **A**: As seen in the patient (in situ orientation)
+- **B**: Ex vivo position
+- Segments arranged around the portal pedicle distribution and the three hepatic veins
+- Forms the conceptual basis for all segment-oriented resections
+
+## Section 3: Hilar Portal Vein Branching
+
+## Portal Triad at the Hilum
+
+- Right portal triad: short course (~**1–1.5 cm**) before entering right liver substance (Fig 2.7)
+- In some cases, right anterior and posterior pedicles arise **independently**, separated by up to **2 cm**
+- In some cases, the **left portal vein appears to arise from the right anterior branch** (trifurcation pattern — see Fig 2.40)
+
+## Left Portal Pedicle — The Umbilical Fissure Course
+
+- On the left side, the portal triad crosses ~**3–4 cm beneath segment IV** (formerly the "quadrate lobe")
+- Embraced in a peritoneal sheath at the upper gastrohepatic ligament
+- Separated from segment IV's undersurface by connective tissue = the **hilar plate**
+- This prolongation turns anteriorly/caudally within the umbilical fissure:
+  - Branches to **segment II** first
+  - Then **segment III**
+  - **Recurrent "feedback vessels"** to segment IV
+- Beneath segment IV: pedicle = left portal vein branch + left hepatic duct, joined at the umbilical fissure base by the **left hepatic artery branch**
+
+## Figure 2.7 — Sonographic Portal Vein Bifurcation
+
+- **A**: Transverse sonogram at the portal vein bifurcation level
+  - **MPV** (main portal vein) bifurcates into **LPV** and **RPV**
+  - **RPV** bifurcates quickly into **RAPV** (right anterior) and **RPPV** (right posterior)
+  - **LPV** has a longer horizontal course in the hilar plate
+  - **IVC** seen posteriorly
+- **B**: Coronal CT angioportography — right hepatic vein and portal vein; anterior/posterior RPV branches arise directly and separately from the main trunk
+
+## Figure 2.8 — Left Portal Vein Branching Pattern
+
+- Transverse sonogram showing **left portal vein (P)** branching pattern
+- Courses **horizontally** into the **umbilical fissure**
+- **Umbilical portion (U)** of the left portal vein gives branches to **segments 2, 3, 4**
+- Left hepatic vein (arrow) and IVC also shown
+
+## Figure 2.9 — CT of Portal Vein Bifurcation
+
+- Contrast-enhanced CT image
+- **L** = left portal vein
+- **R** = right portal vein
+- **RA** = right anterior portal vein
+- **RP** = right posterior portal vein
+- Demonstrates the typical hilar branching pattern in axial cross-section
+
+## Segment IVa/IVb and Segment I (Caudate) Subdivisions
+
+- Hilar pedicle branching follows a **remarkably symmetric pattern** (Scheele, 1994)
+- Allows separation of **segment IV** into:
+  - **Segment IVa** (superior)
+  - **Segment IVb** (inferior)
+- This mimics the segment **V / VIII** relationship on the right
+- The **umbilical vein** drains at least parts of segment IVb **after ligation of the middle hepatic vein** — clinically important in segmental resections
+
+## Section 4: The Caudate Lobe (Segment I)
+
+## Caudate Lobe — Overview
+
+- Segment I = **dorsal portion** of liver, lying posteriorly, **embracing the retrohepatic IVC** (Figs 2.10, 2.11)
+- Intimately related to several major vascular structures:
+  - On the left: between IVC (posterior), left portal triad (inferior), IVC + MHV/LHV (superior) — Fig 2.12
+  - Right portion: usually quite **small**, variable in size
+- Anterior surface covered by posterior surface of **segment IV**
+  - Limit = oblique plane from left portal vein → left hepatic vein
+- Adjacent to the recently described **segment IX** (lies between caudate and segment XIII) — authors consider segment IX of **little practical clinical significance**
+
+## Figure 2.10 — CT of Caudate Lobe Relations
+
+- Contrast-enhanced CT scan
+- Shows the **intimate relationship** of:
+  - Caudate lobe (arrow)
+  - IVC
+  - Portal vein (p)
+  - Aorta (a)
+
+## Figure 2.11 — Caudate Lobe Topography
+
+- Main bulk of segment I (dark area) lies **left of the IVC**; left/inferior margins free in the lesser omental bursa
+- Gastrohepatic (lesser) omentum separates the left caudate portion from segments II/III, passing between them to attach to the **ligamentum venosum**
+- Left portion of caudate inferiorly traverses **right** between LPV and IVC = **caudate process**, fusing with the right lobe
+- Note position of the **MHV**
+
+## Figure 2.12 — Caudate Lobe Rotated View
+
+- Caudate lobe (shaded) + segments II/III, rotated to patient's right
+- Left caudate portion linked superiorly by a deep anterior portion embedded under the **MHV**
+- Reaches inferiorly to the posterior hilar margin, fuses anterolaterally to IVC on the right with **segments VI and VII**
+- Major blood supply: **left branch of LPV + left hepatic artery**, near umbilical fissure base
+- Hepatic veins (MHV, LHV) are short, draining caudate directly into anterior/left IVC
+
+## Caudate Lobe — Vascular Supply Pattern
+
+- Supplied and drained by tributaries from **both** right and left portal triads
+- **Right portion** (incl. caudate process): portal supply predominantly from **right portal vein** / main portal vein bifurcation
+- **Left portion**: portal supply almost exclusively from **left branch** of portal vein
+- Arterial supply / biliary drainage follows the same right/left pattern (right posterior sectional vessels vs. left main vessels)
+- **Hepatic venous drainage is UNIQUE**: caudate is the **only segment** that drains **directly into the IVC**
+  - Can drain into the **posterior** IVC aspect if a retrocaval caudate component is present
+
+## The "Ligament of the Vena Cava" Revisited
+
+- Posterior edge of the caudate (left side) typically has a fibrous component
+- Fans out, attaches lightly to the diaphragmatic crura
+- Extends posteriorly behind the IVC to link with a fibrous extension from **segment VII** = **venal caval ligament**
+- In **up to 50%** of patients: this ligament is replaced (partially/wholly) by hepatic tissue
+  - Caudate may **completely encircle the IVC** and contact segment VII on the right
+  - A significant **retrocaval component** may prevent a left-sided approach to the caudate veins
+
+## The Caudate's Papillary Process
+
+- Caudal margin of the caudate lobe can show a **papillary projection**
+- May attach to the rest of the lobe via a narrow connection
+- **Bulky in 27% of cases**
+- Can be **mistaken for an enlarged lymph node on CT** — important diagnostic pitfall (Fig 2.13)
+
+## Figure 2.13 — Papillary Process on CT
+
+::: {.columns}
+::: {.column width="50%"}
+**A**
+
+- Caudate lobe (asterisk) positioned between left portal vein (arrow) and IVC (v)
+- a = aorta
+:::
+::: {.column width="50%"}
+**B**
+
+- Papillary process of caudate (p) = lower medial extension of the caudate (asterisk)
+- May **mimic a periportal lymph node** (arrow indicates left portal vein)
+:::
+:::
+
+## Summary of Liver Functional Anatomy
+
+1. Liver divided into **two hemilivers** by the main hepatic scissura (middle hepatic vein)
+2. **Left liver** → two sections: left lateral (II, III) and left medial (IV) — Brisbane 2000
+3. **Right liver** → anterior section (V, VIII) and posterior section (VI, VII)
+4. **Segment I (caudate)**: lies posteriorly, embraces IVC; intraparenchymal anterior surface abuts segment IV posterior surface; merges with segments VI/VII on the right
+
+## Figure 2.14 — Hepatic Segmental Anatomy on CT
+
+- Three axial CT levels demonstrate segmental boundaries:
+  - **A** — Level of the hepatic veins: segments I, II, IVa, VII, VIII visible
+  - **B** — Level of portal vein bifurcation: segments I, III, IVb, V, VI visible
+  - **C** — Below the hepatic hilus: segments I, III, IVb, V, VI visible
+- Demonstrates how segmental boundaries shift at different axial levels — essential for radiologic localization of lesions
+
+## Section 5: Intrahepatic Bile Duct Anatomy
+
+## Intrahepatic Bile Ducts — General Principles
+
+- **Right and left livers** drained by right and left hepatic ducts
+- **Caudate lobe** drained by several ducts joining **both** right and left hepatic ducts
+- Intrahepatic ducts = tributaries of corresponding hepatic ducts, forming part of major portal triads
+- Bile ducts penetrate liver, **invaginating Glisson's capsule** at the hilum
+- **Bile ducts** usually lie **above** corresponding portal branches
+- **Hepatic arterial branches** sit **inferior** to the veins
+- Convergence at the liver hilum → **common hepatic duct**
+- Umbilical fissure divides the left liver (between segments III and IV) — may be bridged by a tongue of liver tissue
+- **Ligamentum teres** passes through the umbilical fissure to join the **left portal vein branch**
+
+## Left Hepatic Duct — Drainage Pattern (Fig 2.15)
+
+- Drains **segments II, III, and IV** (the left liver)
+- The duct draining **segment III** lies slightly behind the **left horn of the umbilical recess**
+- Joined by the tributary from **segment IVb** → forms the left duct
+- Similarly joined by ducts of **segment II** and **segment IVa** (where the LPV turns forward/caudally)
+- Left hepatic duct traverses beneath the left liver, at the base of segment IV
+  - Just above/behind the LPV
+  - Crosses the anterior LPV edge
+  - Joins the right hepatic duct → **hepatic ductal confluence**
+- Receives a few small branches from segment IV in its transverse portion
+
+## Right Hepatic Duct — Drainage Pattern (Fig 2.16)
+
+- Drains **segments V, VI, VII, VIII**
+- Arises from junction of **two main sectional duct tributaries**, each with corresponding vein and artery:
+  - **Right posterior sectional duct**: nearly horizontal course; confluence of segments VI + VII ducts
+  - **Right anterior sectional duct**: confluence of segments V + VIII ducts; main trunk lies left of the right anterior sectional portal vein branch (which ascends)
+- Junction of these two channels usually occurs **above the right portal vein branch**
+- Right hepatic duct is **short**, joins the left hepatic duct → confluence in front of the right portal vein = **common hepatic duct**
+
+## Figure 2.15 — Biliary Drainage of the Hemilivers
+
+::: {.columns}
+::: {.column width="50%"}
+**A** — Biliary drainage of the two functional hemilivers
+
+- Right anterior and right posterior sections shown
+- **Caudate lobe drains into BOTH right and left ductal systems**
+:::
+::: {.column width="50%"}
+**B & C**
+
+- **B**: Inferior aspect — biliary tract (black) and portal branches (white); segment IV biliary drainage shown (segment VIII not shown — cephalad)
+- **C**: T-tube cholangiogram — most common arrangement of hepatic ducts
+:::
+:::
+
+## Figure 2.16 — Right Liver Biliary/Vascular Anatomy and a Key Variant
+
+- **A**: Biliary and vascular anatomy of the right liver
+  - Horizontal course = **posterior sectional duct**
+  - Vertical course = **anterior sectional duct**
+- **B**: Trans-tubal cholangiogram — a **common normal variant**
+  - **Right posterior sectional duct drains into the left hepatic duct**
+  - The posterior duct lies **anterior** to the (expected) posterior sectional duct
+  - Frequently, the posterior duct passes **posteriorly** to the anterior sectional pedicle
+
+## Caudate Lobe Biliary Drainage — Statistics
+
+- The caudate lobe has its **own biliary drainage** (Healey & Schroy)
+- Divided into: right portion, left portion, and caudate process
+- **44%** of individuals: **three separate ducts** drain the three parts
+- **26%**: a common duct between right caudate portion + caudate process, plus an independent duct for the left part
+- **Drainage destination**:
+  - **78%** → right AND left hepatic ducts
+  - **15%** → left hepatic ductal system **only**
+  - **~7%** → right hepatic system only
+
+## Section 6: Extrahepatic Biliary Anatomy
+
+## Extrahepatic Bile Ducts — Confluence
+
+- Extrahepatic bile ducts = extrahepatic segments of **right and left hepatic ducts** → join to form the **biliary confluence**
+- Confluence occurs **right of the hilar fissure**, **anterior** to the portal venous bifurcation, **overlying the origin of the right portal vein branch**
+- **Right duct**: short extrahepatic course
+- **Left duct**: much **longer** extrahepatic course
+- Biliary confluence separated from posterior segment **IVB** by the **hilar plate**
+
+## Figure 2.17 — Anterior View of Biliary Anatomy and Pancreatic Head
+
+Labeled structures:
+
+- (a) Right hepatic duct
+- (b) Left hepatic duct
+- (c) Common hepatic duct
+- (d) Hepatic artery
+- (e) Gastroduodenal artery
+- (f) Cystic duct
+- (g) Retroduodenal artery
+- (h) Common bile duct
+- (i) Neck of gallbladder, (j) body, (k) fundus
+
+Key teaching points: the bile duct confluence sits **anterior** to the right portal vein branch; the **cystic artery courses posteriorly** behind the common hepatic duct; note the gallbladder neck's relation to the right hepatic artery branch.
+
+## Figure 2.18 — ERCP
+
+- Endoscopic retrograde choledochopancreatogram (ERCP)
+- Demonstrates:
+  - **Pancreatic duct** (arrow)
+  - **Gallbladder**
+  - **Biliary tree**
+- Classic combined cholangio-pancreatographic view used diagnostically and therapeutically
+
+## Figure 2.19 — The Plate System
+
+The **plate system** = fusion of connective tissue (enclosing biliary/vascular elements) with Glisson's capsule:
+
+- **A — Cystic plate**: above the gallbladder
+- **B — Hilar plate**: above the biliary confluence, at the base of segment IV
+- **C — Umbilical plate**: above the umbilical portion of the portal vein
+
+Large curving arrows = planes of dissection:
+
+- Cystic plate → during **cholecystectomy**
+- Hilar plate → during approaches to the **left hepatic duct**
+
+## Main Bile Duct — Anatomy and Course
+
+- Mean diameter ≈ **6 mm**
+- Two portions:
+  - **Common hepatic duct** (above the cystic duct)
+  - **Common bile duct (CBD)** (below, after cystic duct joins)
+- Cystic duct insertion is **variable** — may be as low as the intrapancreatic CBD
+- CBD courses **downward anterior to the portal vein**, in the free edge of the lesser omentum
+- Closely applied to the **hepatic artery** (runs upward on its left)
+- **Right hepatic artery** crosses the main bile duct:
+  - **Posteriorly** in most cases
+  - **Anteriorly** in ~**20%**
+
+## The Triangle of Calot
+
+- **Cystic artery** (from right hepatic artery branch) may cross the common hepatic duct **anteriorly or posteriorly**
+- **Common hepatic duct** = left border of the triangle of Calot
+- Original description: cystic duct (below) + cystic artery (above) as the other corners
+- **Commonly accepted modern definition**:
+  - Upper border = **inferior surface of the right lobe of the liver**
+  - Lower border = **cystic duct**
+- **Critical surgical relevance**: dissection here is key during cholecystectomy
+  - Contains: cystic artery, often the right hepatic artery branch, occasionally a bile duct — must be displayed before cholecystectomy
+- If a **replaced/accessory common or right hepatic artery** exists, it usually runs **behind the cystic duct** into the triangle of Calot (Fig 2.21)
+
+## CBD — Retropancreatic Course
+
+- Union between cystic duct and common hepatic duct occurs at **variable levels**
+- Lower extrahepatic CBD traverses the **posterior aspect of the pancreas**, running in a groove or tunnel
+- Retropancreatic CBD approaches the **2nd portion of the duodenum** obliquely
+- Accompanied by the terminal **pancreatic duct of Wirsung**
+
+## Gallbladder — Position and Components
+
+- Reservoir on the undersurface of the **right lobe**, within the **cystic fossa**
+- Separated from hepatic parenchyma by the **cystic plate** (connective tissue continuous with the hilar plate)
+- Occasionally deeply embedded in the liver; rarely on a mesenteric attachment (→ **volvulus risk**)
+- Three parts: **fundus**, **body**, **neck**
+- Fundus usually reaches the free liver edge, closely applied to the cystic plate
+- **Cystic fossa** = precise anterior landmark to the main liver incisura
+- **Neck** angles with the fundus → creates **Hartmann's pouch**
+  - May obscure the common hepatic duct → real danger point during cholecystectomy
+
+## Figure 2.20 — Lowering of the Hilar Plate
+
+- **A**: Relationship between posterior segment IV and the biliary confluence
+  - Hilar plate (arrow) = fusion of connective tissue + Glisson's capsule
+- **B**: Biliary confluence and left hepatic duct exposed by **lifting segment IV upward** after incising Glisson's capsule at its base
+  - Used for: dilated bile ducts above iatrogenic strictures or **hilar cholangiocarcinoma**
+- **C**: Line of incision for **extensive mobilization of segment IV**
+  - Useful for high bile duct strictures, liver atrophy/hypertrophy
+  - Combines lifting segment IV + opening umbilical fissure + incising deepest gallbladder fossa
+
+## Cystic Duct — Anatomy
+
+- Arises from the **neck/infundibulum** of the gallbladder, joins the common hepatic duct
+- Lumen: ~**1–3 mm**
+- Length: variable, depends on union type with common hepatic duct
+- Mucosa arranged in spiral folds = **valves of Heister**
+- Joins common hepatic duct in its **supraduodenal segment in 80%** of cases
+  - May extend down to retroduodenal/retropancreatic area
+- **Rarely**: cystic duct may join the **right hepatic duct** or a right hepatic sectional duct directly (Fig 2.24)
+
+## Section 7: Biliary Ductal Anomalies
+
+## Hilar Biliary Confluence Variations — Overview
+
+A "normal" biliary confluence (union of right + left hepatic ducts) occurs in only **72%** of patients (Healey & Schroy; Couinaud)
+
+Key variant patterns:
+
+- **Triple confluence** (right anterior + posterior sectional ducts + left hepatic duct): **12%**
+- A right sectional duct joins the **main bile duct directly**: **20%** total
+  - Right anterior sectional duct: **16%**
+  - Right posterior sectional duct: **4%**
+
+## Hilar Biliary Confluence Variations — Continued
+
+- A right sectional duct joins the **left hepatic duct**: **6%** total
+  - Posterior duct: **5%**
+  - Anterior duct: **1%**
+- **Absence of the hepatic duct confluence**: **3%**
+  - Right posterior sectional duct may join the gallbladder neck, or
+  - Be entered by the cystic duct (**2%**)
+
+## Figure 2.25 — Main Variations of the Hepatic Duct Confluence (Couinaud)
+
+| Pattern | Description | Frequency |
+|---|---|---|
+| A | Typical anatomy of the confluence | **57%** |
+| B | Triple confluence | **12%** |
+| C | Ectopic drainage of a right sectional duct into common hepatic duct (C1 = anterior 16%, C2 = posterior 4%) | **20%** |
+| D | Ectopic drainage of a right sectional duct into left hepatic ductal system (D1 = posterior 5%, D2 = anterior 1%) | **6%** |
+| E | Absence of the hepatic duct confluence | **3%** |
+| F | Absence of right hepatic duct + ectopic right posterior duct into cystic duct | **2%** |
+
+## Intrahepatic Bile Duct Variations — Right Liver
+
+- **Ectopic drainage** rates (Healey & Schroy):
+  - **Segment V**: **9%**
+  - **Segment VI**: **14%**
+  - **Segment VIII**: **20%**
+- **Subvesical duct**: described in **20–50%** of cases
+  - Sometimes deeply embedded in the cystic plate
+  - Joins either common hepatic duct or right hepatic duct
+  - Does **not** drain any specific liver territory; never communicates with the gallbladder
+  - Not a satellite of an intrahepatic portal vein/hepatic artery branch
+  - Injury during cholecystectomy (if cystic plate not preserved) → **postoperative biliary leak**
+
+## Intrahepatic Bile Duct Variations — Left Liver
+
+- "Classic" distribution of the left intrahepatic biliary system: **67%**
+- Main variation: **common union between segment III and segment IV ducts** in **25%**
+- Only **2%**: segment IV duct joins the common hepatic duct **independently**
+- Several anomalies of intrahepatic ducts draining into the gallbladder neck/cystic duct have been described (Fig 2.27)
+
+## Figure 2.26 — Main Variations of the Intrahepatic Ductal System
+
+- **A — Segment V variations**: typical pattern 91%; variants 5%, 4%
+- **B — Segment VI variations**: typical pattern 86%; variants 10%, 2%, 2%
+- **C — Segment VIII variations**: pattern (a) 80%, pattern (b) 20%
+- **D — Segment IV variations**: (a) 67%, (b) 1%, (c) 1%, (d) 25%, (e) 1%, (f) 1%, (g) 4%
+- **No variation** described for drainage of **segments II, III, VII**
+
+## Figure 2.24 — T-Tube and ERCP of Low Right Sectional Duct Insertion
+
+- **A**: T-tube cholangiogram — very **low insertion of a right sectional duct** into the common hepatic duct (arrow)
+- **B**: ERCP — shows a **low right sectional duct** (large arrow) into which the **cystic duct** is draining (small arrow)
+- Described as an **uncommon but important normal variant**
+
+## Figure 2.27 — Ectopic Drainage Into Gallbladder/Cystic Duct
+
+Six described patterns of ectopic intrahepatic duct drainage:
+
+- **A**: Cystic duct drains into the biliary confluence
+- **B**: Cystic duct drains into the left hepatic duct (no biliary confluence)
+- **C**: Segment VI duct drains into the cystic duct
+- **D**: Right posterior (RP) sectional duct drains into the cystic duct
+- **E**: Distal RP sectional duct drains into the **neck** of the gallbladder
+- **F**: Proximal RP sectional duct drains into the **body** of the gallbladder
+
+## Section 8: Gallbladder and Cystic Duct Anomalies
+
+## Gallbladder Anomalies — Number and Position
+
+- **Agenesis of the gallbladder**: rare, described
+- **Bilobar gallbladder**: single cystic duct, two fundi
+- **Duplicated gallbladder**: with two cystic ducts
+- **Double cystic duct**: draining a unilocular gallbladder
+- **Congenital diverticulum** of the gallbladder with a muscular wall
+- **Positional anomalies**:
+  - **Intrahepatic** position — completely surrounded by normal liver
+  - **Left-sided** gallbladder (rare)
+
+## Figure 2.28 — Gallbladder and Cystic Duct Anomalies
+
+::: {.columns}
+::: {.column width="50%"}
+- **A**: Duplicated gallbladder
+- **B**: Septum of the gallbladder
+- **C**: Diverticulum of the gallbladder
+:::
+::: {.column width="50%"}
+- **D**: Variations in cystic ductal anatomy
+- **E**: Cystic duct / common hepatic duct union types:
+  - (a) Angular — **75%**
+  - (b) Parallel — **20%**
+  - (c) Spiral — **5%**
+:::
+:::
+
+## Cystic Duct–Common Hepatic Duct Union — Detail
+
+- **Angular union**: most frequent — **75%** of patients
+- **Parallel union**: cystic duct runs parallel to common hepatic duct (**20%**), with connective tissue ensheathing both ducts
+- **Spiral union**: cystic duct approaches CBD in a spiral fashion
+- **Absence of a cystic duct**: probably an **acquired anomaly**, representing a **cholecystocholedochal fistula**
+
+## Figure 2.22 — Cystic Artery Variations
+
+Eight described variations:
+
+- (a) **Typical course**
+- (b) **Double cystic artery**
+- (c) Cystic artery crossing **anterior** to main bile duct
+- (d) Cystic artery from **right** hepatic artery branch, crossing common hepatic duct anteriorly
+- (e) Cystic artery from **left** hepatic artery branch
+- (f) Cystic artery from **gastroduodenal artery**
+- (g) Cystic artery from **celiac axis**
+- (h) Cystic artery from a **replaced right hepatic artery**
+
+## Figure 2.23 — Sonographic Gallbladder Relations
+
+- Longitudinal sonogram
+- Demonstrates relationship of:
+  - **Liver**
+  - **Gallbladder (GB)**
+  - **Portal vein (PV)**
+  - **IVC**
+  - **Hepatic artery** (curved arrow)
+  - **Common bile duct** (straight arrow)
+- Practical anatomic landmark image for routine ultrasonography
+
+## Section 9: Hepatic Artery Variations
+
+## Hepatic Artery Variations — Frequency
+
+- "Classic" arterial supply pattern present in only ~**60%** of patients
+- In ~**25%**: **right hepatic artery** arises partially/completely from the **superior mesenteric artery (SMA)**
+- In a similar proportion: **left hepatic artery** may be partially/completely **replaced** by a branch from the **left gastric artery**, coursing through the gastrohepatic omentum to the umbilical fissure base
+- Rarely: right or left hepatic arteries originate **independently** from the celiac trunk after a very short common hepatic artery origin
+- The **gastroduodenal artery** may originate from the **right hepatic artery** in these variants
+
+## Figure 2.21 — Angiographic Hepatic Artery Variations
+
+::: {.columns}
+::: {.column width="50%"}
+- **A**: Replaced common hepatic artery arising from the **superior mesenteric trunk**
+- **B (left)**: Hepatic artery (large arrowhead) arises from the celiac axis; small arrowheads = drainage catheter in bile duct
+:::
+::: {.column width="50%"}
+- **B (right)**: **Accessory right hepatic artery** (large arrowhead) from SMA, lateral to CBD catheter
+- **C**: Accessory right hepatic artery courses upward **posterolateral to the CBD**, usually behind the **cystic duct (CD)** — occurs in **~25%** of individuals
+:::
+:::
+
+## Figure 2.37 — Variations Schema and 3D CT Angiography
+
+- Panels A–F: schematic variants where right and/or left hepatic arteries are partially/completely replaced
+  - **A, C, E**: right hepatic artery from SMA (~25%)
+  - **D, F**: left hepatic artery replaced from left gastric artery (~25%)
+- **G**: Multidetector CT angiogram — **accessory right hepatic artery** (arrow) from SMA
+- **H**: Multidetector CT angiogram — **replaced left hepatic artery** from left gastric artery
+- **I**: Common arterial variant — **hepatic trifurcation**
+
+## Clinical Significance of Replaced Hepatic Arteries
+
+- If common hepatic artery is **entirely replaced** by an artery from the SMA:
+  - It passes **posterior, then lateral** to the portal vein as it ascends
+  - Lies **posterolateral to the CBD** in the hepatoduodenal ligament
+  - **Susceptible to operative injury** if unrecognized — applies to right replaced/accessory hepatic artery too
+- Other variations: origin **directly from the aorta**; persistence of a primitive **celiac–SMA embryologic link**
+- **Major importance for**: hepatic resection, liver transplantation, hepatic devascularization, intraarterial hepatic infusion device placement, pancreatic head resection
+
+## Section 10: Celiac Axis and Arterial Supply
+
+## Figure 2.34 — Celiac Trunk Branching
+
+- **Celiac trunk**: short, thick artery from the aorta just below the diaphragmatic hiatus
+- Divides into: **left gastric, common hepatic, splenic arteries**
+- **Inferior phrenic artery**: usually from aorta or splenic artery; occasionally from celiac trunk
+- **Left gastric artery**: curves toward stomach, along lesser curve, anastomoses with right gastric artery
+- **Splenic artery**: largest celiac branch, tortuous course behind/along the pancreas's upper border to the splenic hilum
+  - Usually runs **superior** to the splenic vein
+  - **Dangerous variant**: splenic artery running **inferior and behind** the splenic vein near the splenic–mesenteric vein confluence
+
+## Figure 2.34 — Common Hepatic Artery and Branches
+
+- **Common hepatic artery**: enters retroperitoneum, curves right into the lesser omentum above the pancreas
+- Approaches CBD on its **left side**, runs **anterior to the portal vein**
+- Gives rise to **gastroduodenal artery** (can also originate from right hepatic artery)
+  - Supplies anterior/superior/posterior surfaces of the first inch of duodenum
+  - Can be **duplicated**; often a small accessory branch toward the pylorus
+- **Right gastric artery**: passes left along the lesser curve, anastomoses with left gastric artery
+- **Proper hepatic artery** = continuation beyond gastroduodenal + right gastric origins → usually divides into **right and left branches**
+
+## Figure 2.34 — Left and Right Hepatic Artery Branches
+
+- **Left hepatic artery (LH)**: extends vertically toward the umbilical fissure base
+  - Gives off the **middle hepatic artery (MH)** → directed toward the right of the umbilical fissure, supplies **segment IV**
+  - Further branch → supplies the **caudate lobe**
+  - Smaller caudate branches also arise from right hepatic artery
+- **Right hepatic artery (RH)**: usually passes **behind** the common hepatic duct, enters the **cystic triangle of Calot**
+  - In some cases passes **in front** of the bile duct (important for CBD exposure)
+- **Cystic artery**: usually from right hepatic artery, **many variations**
+
+## Figure 2.35 — Pancreatic Arterial Supply
+
+- **Gastroduodenal artery (GDA)**: usually from common hepatic artery (HA), crosses the portal vein (PV) above the pancreas
+- **Dorsal pancreatic artery (DP)**: arises from the splenic artery (SA)
+- **Superior pancreaticoduodenal arteries (SPDAs)**: from GDA
+- **Inferior pancreaticoduodenal arteries (IPDAs)**: from SMA
+- SPDAs + IPDAs form **two arcades** (anterior and posterior) along the pancreatic head
+- GDA → after giving off the **PDA**, continues as the **right gastroepiploic artery (GEA)**
+
+## GDA as a Surgical Landmark
+
+- **GDA = good landmark** for identifying the portal vein above the pancreas
+- **Surgical division of the GDA at its origin** from the common hepatic artery → much greater access to the **anterior surface of the portal vein**
+- **Right gastric artery (RGA)**: usually from common HA, just distal to GDA (variable origin)
+- GDA commonly divides into a larger **right GEA** and smaller **SPDA**
+  - Right GEA: runs forward between duodenum (1st part) and pancreas
+  - SPDA: divides into **anterior and posterior branches**
+- **Anterior superior PDA**: continues down anterior pancreatic head surface, anastomoses with **IPDA** (from SMA)
+- **Posterior superior PDA**: behaves similarly on the posterior surface
+
+## Figure 2.36 — CT of Hepatic Artery and Portal Vein
+
+- Computed tomographic image of the main portal vein
+- Demonstrates:
+  - **Hepatic artery** (solid arrows) coursing **anterior to portal vein (p)**
+  - **Interlobar fissure** (open arrow)
+  - **Splenic vein (s)**
+  - **Celiac axis (c)**
+  - **Aorta (a)**
+  - **IVC**
+
+## Section 11: The Portal Vein
+
+## Portal Vein Formation and Course
+
+- Formed **behind the neck of the pancreas** by confluence of the **superior mesenteric vein (SMV)** and **splenic vein (SV)** (Figs 2.38, 2.39)
+- Venous drainage of the pancreas runs **parallel to the arterial supply**
+- Anterior/posterior and superior/inferior **pancreaticoduodenal veins** drain to portal vein and SMV
+- **Left gastric vein** and **inferior mesenteric vein (IMV)** usually drain into the **splenic vein** (can drain directly into portal vein)
+- Small splenic tributaries → drain directly to splenic vein
+
+## Figure 2.38 — Portal Vein Formation and Tributaries (Panel A)
+
+- SMV at root of lesser omentum is usually a single trunk (2 or 3 branches may unite as it enters the tunnel beneath the pancreatic neck)
+- Joined from the left by the **splenic vein (SV)** → forms the **portal vein (PV)**
+- PV emerges from the retroperitoneal upper pancreatic neck border, ascends in the free edge of the lesser omentum
+  - Lies **behind** the bile duct and hepatic artery, surrounded by lesser omentum lymphatics/nodes
+- Receives the **coronary vein (CV)** — communicates with esophageal venous collaterals (gastric vein + esophageal plexus)
+- Sometimes a separate right gastric vein enters PV here
+- Superior pancreaticoduodenal vein often enters PV just above the pancreas
+
+## Figure 2.38 — Portal Vein Bifurcation (Panels A, B, C)
+
+- PV bifurcates at the hilum into:
+  - Larger **right portal vein (RPV)**
+  - Smaller **left portal vein (LPV)**
+- **LPV**: courses below the left hepatic duct → enters umbilical fissure with the left hepatic artery → branches to left liver segments **II–IV**
+  - Just before entry → gives off a **major caudate vein** (segment I), running posteriorly/laterally to the left
+  - Sometimes this vein has 2+ branches
+- **RPV**: shorter, divides at the hilar extremity into **RAS** (right anterior sectional) and **RPS** (right posterior sectional) branches, with corresponding arteries and bile ducts
+- **B**: division may arise **more proximally**
+- **C**: RAS and RPS may arise **independently** from the portal venous trunk
+
+## Figure 2.39 — MRI of Splenoportal Confluence
+
+- Postcontrast T1-weighted 3D gradient-echo coronal MIP (maximum intensity projection)
+- Shows:
+  - **Splenic vein (s)**
+  - **Portal vein (p)**
+  - **Superior mesenteric vein (sm)**
+- Demonstrates the classic "Y-shaped" splenoportal confluence used for preoperative vascular mapping
+
+## Portal Vein — Relations to the Pancreas
+
+- Anatomic relationship of pancreas to SMV, splenic vein, portal vein = **critical for pancreatic resection**
+- **Uncinate process**: extends behind the SMV to a position adjacent to the SMA
+- **Access to the portal vein behind the pancreas**: usually from below, elevating the pancreas off the SMV surface (just before it joins splenic vein)
+- Branches from the pancreas running **directly posteriorly** into the SMV are **uncommon**
+  - Exception: inferior pancreaticoduodenal veins (enter SMV at the inferior pancreatic border)
+  - If fixation is seen here → think **inflammatory or neoplastic process**
+
+## Portal Vein Exposure — Surgical Maneuvers
+
+- **Superiorly**: PV identified in the gap between curvature of splenic vein, splenic artery, common hepatic artery, and GDA
+- **Division of the GDA** → much greater access to the **superior portal vein surface**
+  - Necessary step to **assess tumor involvement of the proximal portal vein**
+- If difficulty persists: **division of the CBD** (usually above cystic duct) → excellent access to **right lateral/anterior portal vein surface**
+- **SMA approach**: behind the pancreas, above where it's embraced by the uncinate process at its aortic origin → allows dissection of the **most proximal SMA**
+
+## Anatomic Hazards Near the Portal Vein
+
+- Occasionally **middle colic artery** (and other colonic supply vessels) arise from the proximal SMA and **pass through the pancreas** — search for this carefully
+  - Division of middle colic artery usually not problematic (colon well-supplied; ischemia uncommon)
+- **Head of pancreas relations**:
+  - Anteriorly: duodenum
+  - Posteriorly: **right renal vein** and **anterior IVC surface**
+- **Neck/body of pancreas**: lie atop SMA, splenic vessels, **left renal vein**, and (more laterally) the **left kidney**
+
+## Pancreatic Mobilization — Venous Tributaries to Ligate
+
+- **Right gastroepiploic vein**: commonly drains into the anterior SMV surface at the pancreatic inferior border
+  - Can be **involved by tumor**
+- **Anterior branch of inferior pancreaticoduodenal vein**: similarly positioned, can be tumor-involved
+- **Middle colic vein**: may also join at this point
+- **During SMV mobilization**: these vessels are **ligated** to avoid bothersome hemorrhage
+- **IVC abnormalities**: uncommon (duplication, left-sided IVC — both rare)
+
+## Section 12: Portal Vein Variants and Anomalies
+
+## Portal Vein Anomalies — Clinical Stakes
+
+- Several variations/rare congenital anomalies are **of major surgical significance** (Figs 2.40–2.43)
+- **Critical example**: performing right hepatic resection while dividing what *appears* to be the right portal vein in a patient with **absence of the left portal vein** → **can be FATAL**
+- **Agenesis of the right portal vein branch** associated with:
+  - Agenesis of the right hemiliver
+  - Left liver hypertrophy
+  - May coexist with biliary and hepatic venous anomalies → compromises surgical/biliary repair approaches
+
+## Figure 2.40 — Portal Vein Trifurcation Pattern
+
+- Contrast-enhanced CT scan
+- Demonstrates a **variant trifurcation pattern**:
+  - **L** = left portal vein
+  - **M** = main portal vein
+  - **RA** = right anterior portal vein
+  - **RP** = right posterior portal vein
+- The right anterior and posterior sectoral veins arise as **separate branches directly from the main trunk** — a pattern that can mimic a standard bifurcation if not carefully assessed
+
+## Figure 2.41 — Rare Portal Vein Positional Anomalies
+
+::: {.columns}
+::: {.column width="50%"}
+**A**
+
+- Portal vein **anterior to the head of the pancreas and duodenum** may occur in an **abnormal position**
+:::
+::: {.column width="50%"}
+**B & C**
+
+- **B**: Rare anomaly — **entrance of the portal vein into the IVC**
+- **C**: Very rare — **entrance of a pulmonary vein into the portal vein**
+:::
+:::
+
+## Figure 2.42 — Congenital Absence of the Left Portal Vein Branch
+
+- As described by **Couinaud**
+- The **right portal vein branch** courses through the right lobe, supplying it
+- It then **curves within the liver substance** to also supply the **left lobe**
+- In these instances, the left lobe is **usually smaller than normal**
+- This is the exact anomaly responsible for the "fatal right hepatectomy" scenario described earlier
+
+## Figure 2.43 — Caroli's Disease with Absent Left Portal Branch
+
+- CT scan in a patient with **Caroli's disease**
+- Shows a **large right portal trunk**
+- **Left branch of the portal vein is absent**
+- Findings **confirmed at operation** — patient underwent **left hepatic lobectomy**
+- Demonstrates real-world correlation of the Fig 2.42 schematic anomaly with clinical imaging
+
+## Section 13: The Pancreas — Gross Anatomy
+
+## Pancreas — Overview
+
+- A **posteriorly situated retroperitoneal organ**, lying **transversely**
+- Composed of: **head, neck, body, tail**
+- **Head**: encompassed by the duodenum
+- **Tail**: rests in the **splenic hilum**
+- **Uncinate process**: inferior portion of the head, intimately related to **SMV and SMA**
+- **Posteriorly related to**: IVC, aorta, left renal vein, left kidney, spleen
+- Portion **lateral to the portal vein** averages **56.4%** of total pancreatic weight
+- Pancreatic capsule loosely attached, **contiguous with the anterior mesocolon layer** — can be dissected in continuity if necessary
+- Mesenteric attachments to the pancreas tend to be **contiguous**
+
+## Figure 2.44 — MRI and CT of Normal Pancreatic Anatomy
+
+::: {.columns}
+::: {.column width="50%"}
+**A — MRI**
+
+- Oblique axial reconstruction, T1-weighted 3D gradient-echo
+- Shows: **aorta (a)**, **IVC (i)**, **CBD** (arrow), **SMV at splenoportal confluence (v)**, **SMA** (arrowhead), **left renal vein (r)**
+:::
+::: {.column width="50%"}
+**B — CT**
+
+- Postcontrast CT at pancreatic level
+- Shows: **A** (aorta), **a** (SMA), **D** (duodenum), **IVC**, **S** (stomach), **v** (SMV)
+- Long arrow = CBD; short arrow = inferior pancreaticoduodenal artery; open arrow = GDA
+:::
+:::
+
+## Figure 2.45 — The Uncinate Process
+
+- Head of the pancreas is **globular**, with the **uncinate process** extension
+- Curves **behind the superior mesenteric vessels**
+- Three patterns (a, b, c) — **all commonly seen**:
+  - (a) May end before embracing the SMV
+  - (b, c) May pass completely behind, between the aorta and the left of the SMA
+- **Posteriorly**: head of pancreas in juxtaposition to IVC at the level of left/right renal vein entry
+- **Neck**: forms in front of the SMV–splenic vein confluence, joins the **body** (forms the narrowing **tail**)
+
+## Figure 2.45 — CBD Position Within the Pancreas
+
+- **CBD** passes through the pancreas:
+  - Either **directly within the gland substance**, OR
+  - Initially within a **posterior groove**
+- Three positional variants are illustrated (left, middle, right panels) showing the CBD's location relative to the pancreatic head outline
+
+## Figure 2.45 — Duct of Wirsung and Duct of Santorini
+
+- **Duct of Wirsung**: courses **left → right** within the pancreas, curves downward toward the CBD
+  - Runs **parallel but separate** from the CBD, divided by the **transampullary septum**
+  - Enters duodenum **7–10 cm distal to the pylorus**, at the **papilla of Vater**, after traversing the **sphincter of Oddi**
+- **Duct of Santorini** (accessory duct): runs more proximally in the pancreatic head, usually terminates at an **accessory papilla**
+- Multiple variations depending on duct of Santorini development:
+  - **(i)**: Direct communication with the main duct
+  - **(ii)**: Duplicate/separate systems = **pancreas divisum**
+- **Duct of Santorini** drains body + tail; **Duct of Wirsung** drains head + uncinate process
+
+## Section 14: Pancreatic Duct Anatomy and Variants
+
+## The Sphincter of Oddi (Fig 2.47)
+
+- Thoroughly studied structure (Boyden 1957; Delmont 1979)
+- Consists of a **unique cluster of smooth muscle fibers** distinguishable from adjacent duodenal wall smooth muscle
+- **Papilla of Vater**: small nipple-like structure at CBD termination, protruding into the duodenal lumen
+  - Marked by a **longitudinal fold of duodenal mucosa**
+- Components illustrated:
+  - (a) Notch
+  - (b) Biliary sphincter
+  - (c) Transampullary septum
+  - (d) Pancreatic sphincter
+  - (e) Membranous septum of Boyden
+  - (f) Common sphincter
+  - (g) Smooth muscle of duodenal wall
+
+## Duct of Wirsung — Termination Patterns
+
+- Runs downward, **parallel to the CBD** for approximately **2 cm**
+- Joins the CBD **within the sphincter segment** in **70–85%** of patients
+- Enters the duodenum **independently** in **10–13%** of patients
+- **Replaced by the duct of Santorini** in **2%** of patients
+
+## Pancreas Divisum
+
+- **Rarely**: duct of Santorini and duct of Wirsung remain **completely separate** = **pancreas divisum**
+- Important congenital anatomic variant, relevant to recurrent pancreatitis and ERCP cannulation strategy
+
+## Figure 2.48 — MRCP Findings
+
+::: {.columns}
+::: {.column width="50%"}
+**A**
+
+- MRCP, T2-weighted coronal image at the ampulla level
+- Shows duodenum (D), pancreatic head with CBD (curved arrow) and pancreatic duct (straight arrow)
+:::
+::: {.column width="50%"}
+**B — Pancreas Divisum**
+
+- Anterior projection
+- **Duct of Santorini** (vertical arrow) lies between the duodenum and the duct of Wirsung (angled arrow), shown as **two separate ducts**
+- Santorini drains mainly neck/body; Wirsung drains mainly the uncinate portion of the head
+:::
+:::
+
+## Annular Pancreas
+
+- Development of a **ring of pancreatic tissue** that surrounds (often embraces) the duodenum
+- May contain a **large duct**; can be firmly affixed to duodenal musculature
+- Duodenum beneath this annulus is **often stenosed**
+- Dividing the ring **does NOT always relieve chronic duodenal obstruction**
+- Common treatment: **duodenojejunostomy** to relieve strictures caused by the annulus
+
+## Figure 2.46 — Pancreatic Mesenteric and Posterior Relations
+
+::: {.columns}
+::: {.column width="50%"}
+**A**
+
+- Anterior pancreatic surface covered by the posterior layer of the omental bursa/lesser sac — can be obliterated by adhesions
+- **Transverse mesocolon** arises from the lower pancreatic border, envelops the **middle colic vessels** as they arise from the superior mesenteric vessels beneath the pancreatic neck
+:::
+::: {.column width="50%"}
+**B & C**
+
+- **B**: Relationship of pancreatic neck/uncinate process to the aorta and SMA; note **left renal vein** and **duodenum** positions
+- **C**: Posterior relationships of the duodenal loop and pancreas — relation to **IVC, aorta, and splenic hilum**
+:::
+:::
+
+## Figure 2.46 — Posterior View Diagram
+
+- "Pancreas posterior view" panel shows, **left to right**:
+  - **Splenic artery, splenic vein, hepatic artery** (superior structures)
+  - **Portal vein, common bile duct** (right-sided superior structures)
+  - **Superior mesenteric artery, uncinate process, superior mesenteric vein** (inferior structures)
+  - **Pancreatic duct** running centrally
+- Right/left labeling: Left = related to spleen; Center = related to left kidney/left renal vein/adrenal; Right = related to IVC and aorta
+
+## Section 15: Bile Duct Blood Supply
+
+## Bile Duct — Three Segments and Their Supply
+
+The bile duct is divided into **three segments**:
+
+1. **Hilar**
+2. **Supraduodenal**
+3. **Retropancreatic**
+
+- **Supraduodenal duct** blood supply: essentially **axial** (Fig 2.29; Northover & Terblanche, 1979)
+- Sources: superior pancreaticoduodenal artery, right hepatic artery branch, cystic artery, gastroduodenal artery, retroduodenal artery
+- On average: **8 small arteries**, each ~**0.3 mm** diameter, supply the supraduodenal duct
+
+## The 3 O'Clock and 9 O'Clock Arteries
+
+- The **most important** supraduodenal duct vessels run along the **lateral and medial borders** of the duct
+- Named the **3 o'clock** and **9 o'clock arteries**
+- Of all vessels vascularizing the supraduodenal duct:
+  - **60%** run **upward** from the major inferior vessels
+  - **38%** run **downward**, originating from the right hepatic artery branch and other vessels
+  - Only **2%** are **non-axial** — arising directly from the main hepatic artery trunk as it courses parallel to the biliary channel
+
+## Hilar and Retropancreatic Duct Blood Supply
+
+- **Hilar ducts**: receive a **copious arterial supply** from surrounding vessels
+  - Form a **rich network** on the duct surface, continuous with the supraduodenal plexus
+- **Retropancreatic CBD**: blood supply from the **retroduodenal artery**
+  - Provides multiple small vessels forming a **mural plexus** around the duct
+
+## Figure 2.29 — Bile Duct Blood Supply Diagram
+
+- Demonstrates the **axial arrangement** of supraduodenal bile duct vasculature
+- Shows the **rich network** enclosing right and left hepatic ducts
+- Labeled vessels:
+  - (a) Right hepatic artery branch
+  - (b) **9 o'clock artery**
+  - (c) Retroduodenal artery
+  - (d) Left hepatic artery branch
+  - (e) Hepatic artery
+  - (f) **3 o'clock artery**
+  - (g) Common hepatic artery
+  - (h) Gastroduodenal artery
+
+## Bile Duct Venous Drainage
+
+- Veins draining the bile ducts are **satellites of the corresponding arteries**
+- Drain into **3 o'clock and 9 o'clock veins** along the common biliary channel borders
+- **Gallbladder-draining veins**: empty into **this venous system**, NOT directly into the portal vein
+- The biliary tree appears to have its **own portal venous pathway** to the liver — clinically important concept
+
+## Section 16: Anatomy of Biliary Exposure
+
+## The Plate System — Surgical Application
+
+- Fusion of Glisson's capsule with connective tissue sheaths around biliary/vascular elements at the liver's inferior surface = the **plate system**
+- Components:
+  - **Hilar plate** — above the biliary confluence
+  - **Cystic plate** — related to the gallbladder
+  - **Umbilical plate** — above the umbilical portion of the left portal vein
+- **Hepp and Couinaud (1956)** technique: lift segment IV upward + incise Glisson's capsule at its base → good exposure of hilar structures = **"lowering of the hilar plate"**
+- Safe in **99%** of cases — major vascular interposition between hilar plate and liver's inferior aspect occurs in only **1%** (tiny venules are common, however)
+
+## Lowering of the Hilar Plate — Indications and Limits
+
+- **Particularly valuable** for exposing the **extrahepatic left hepatic duct** (long course beneath segment IV)
+- **Less effective** for the extrahepatic **right duct** or its secondary branches (these are short)
+- **Major importance**: identification of **proximal biliary mucosa** during bile duct repair after injury
+- Basic technique:
+  1. Incise at the posterior edge of segment IV (where Glisson's capsule attaches to the hilar plate)
+  2. Separate the hilar plate's upper surface from hepatic parenchyma
+  3. Lift segment IV upward → displays the hepatic duct convergence (**always extrahepatic**)
+  4. Bile duct incision → allows a **mucosa-to-mucosa anastomosis**
+
+## When Standard Hilar Approach Is Hazardous
+
+- Rarely hazardous, especially when:
+  - Anatomic deformity from **atrophy or hypertrophy** of liver lobes
+  - A **very deep hilum** displaced upward and rotated laterally
+- **Alternative**: simultaneous opening of:
+  - The **deepest portion of the gallbladder fossa**
+  - The **umbilical fissure**
+- → good exposure of the biliary confluence (especially the right hepatic duct) **without full hepatotomy**
+
+## Figure 2.20 — Recap of Hilar Plate Exposure Steps
+
+- Reinforces the **A → B → C** sequence:
+  - **A**: hilar plate anatomy at segment IV
+  - **B**: confluence and left hepatic duct exposed by lifting segment IV
+  - **C**: incision lines for extensive segment IV mobilization (umbilical fissure + gallbladder fossa)
+- Image **B** is credited to **Hepp J, Couinaud C. Presse Med. 1956;64:947–948**
+
+## Umbilical Fissure / Segment III (Ligamentum Teres) Approach
+
+- The **round ligament** (remnant of obliterated umbilical vein) runs through the umbilical fissure to connect with the **left portal vein branch**
+- Sometimes deeply embedded in the umbilical fissure
+- At the junction of the round ligament and LPV termination: elongations containing left portal system elements course into the liver
+- **Bile ducts of the left lobe** (Figs 2.30, 2.31A):
+  - Located **above** the LPV branch
+  - Lie **behind** these vascular elongations
+  - Corresponding **artery** sits **below** the vein
+
+## Segment III Duct — Exposure Technique
+
+- Dissection of the round ligament on its **left side** + division of **1–2 vascular elongations of segment III**
+- → displays the pedicle/anterior branch of the **segment III duct** (Fig 2.32)
+- **In biliary obstruction with intrahepatic dilation**: a dilated segment III duct is generally **easily located above the LPV branch**
+- **Preferred technique**: split normal liver tissue **just left of the umbilical fissure** to widen it
+  - → access to the ductal system **without** dividing portal blood supply elements to segment III
+
+## Figure 2.30 — Left Liver Biliary/Vascular Anatomy
+
+- Demonstrates the **biliary and vascular anatomy of the left liver**
+- Note: location of the **segment III duct above its corresponding vein**
+- The **anterior branch of the segment IV duct** is **not represented** in this figure
+
+## Figure 2.31 — Segment III Ductal Approach
+
+::: {.columns}
+::: {.column width="50%"}
+**A — Biliary/vascular anatomy of the left liver**
+
+- (a) Left portal vein
+- (b) Left hepatic duct
+- (c) Segment III system — duct (black) adjacent to indicated portal venous branch
+- (d) Ligamentum teres
+:::
+::: {.column width="50%"}
+**B — Segment III ductal approach (steps)**
+
+- (a) Exposure of the left horn of the umbilical recess
+- (b) Division of the left horn of the umbilical recess, including segment III portal vein branches
+- (c) Exposure and opening of segment III duct → hepaticojejunostomy
+:::
+:::
+
+## Figure 2.32 — Liver Splitting at the Umbilical Fissure
+
+- **A**: Liver split **left of the ligamentum teres** in the umbilical fissure
+  - May require removing a **small wedge of liver tissue (c)**
+- **B**: Segment III duct exposed at the base of the liver split
+  - Lies **above and behind** its accompanying vein
+  - **Ready for anastomosis**
+
+## Section 17: Right Hepatic Duct Exposure & Hepatic Trisectionectomy Anatomy
+
+## Surgical Approaches to the Right Hepatic Biliary System
+
+- **Right intrahepatic ductal system exposure** is **much more hazardous and imprecise** than the left
+  - Due to lack of precise anatomic landmarks
+- In some hilar cholangiocarcinoma cases, a planned partial hepatectomy or segment III duct bypass may **seem impossible**
+- **Option**: intrahepatic right ductal system drainage
+- **Anatomic basis**: the anterior sectional duct and its branches run **on the left side** of the corresponding portal vein
+
+## Figure 2.33 — Anterior Sectional Duct Approach
+
+- **A**: If necessary, liver substance opened through a short distance along the line of the **right anterior sectional pedicle**
+- The portion of the right portal vein opened through a short distance; **anterior sectional duct displayed on the left aspect** of the vein
+- Dilated duct opened **longitudinally**, sewn to a **Roux-en-Y jejunal loop**
+- **B**: Duct displayed **anterior and to the left** of the corresponding vein
+  - Can be facilitated by a **posterior pedicular approach** (Launois technique)
+- Technique is **rarely used** but may be valuable in selected cases
+- **Preferred alternative**: encircle/expose right-sided pedicles via the standard right-sided liver resection technique
+
+## Exposure of Bile Ducts by Liver Resection
+
+- A segment of the **left lobe** may be amputated to expose **segment II or III ducts**
+- A similar procedure may follow removal of the **inferior tip of the right lobe**
+- **Segment IV resection** may be carried out to effect exposure of the **biliary confluence**
+- This represents a **simple extension** of segment IV mobilization (after opening the principal scissura and umbilical fissure, as previously described)
+
+## Section 18: Lymphatic Drainage and Nerve Supply
+
+## Lymphatic Drainage — Liver and Gallbladder
+
+- **Liver and gallbladder** drain mainly to:
+  - **Hepatoduodenal nodes** at the hilus
+  - Nodes **along the hepatic artery and portal vein**
+- **Gallbladder**: drains partly to the liver, but also via the **cystic node** to:
+  - Nodes of the **hepatoduodenal ligament**
+  - **Suprapancreatic nodes**
+
+## Lymphatic Drainage — Pancreas
+
+- Predominantly to nodes lying **in juxtaposition to the arteries and veins**
+- **Numerous nodes (i)** lie along the **SMV** at the pancreatic borders:
+  - Drain back to **splenic hilar nodes**
+  - Along the pancreatic superior border → **superior pancreatic nodes**
+  - → **celiac trunk** and nodes at the **common hepatic artery base**
+- A **large node** commonly lodges at the superior pancreatic border / right side of the common hepatic artery
+  - Often needs **dissection and elevation** to access the anterior portal vein surface
+  - Removal **improves access**, as does division of the GDA
+- **Posterior pancreaticoduodenal nodes (ii)**: lie along the **posterior pancreaticoduodenal arterial arcade**
+
+## Figure 2.49 — Lymphatic Drainage Diagrams
+
+::: {.columns}
+::: {.column width="50%"}
+**A**
+
+- Liver drains principally to hepatoduodenal nodes at the hilus and along the hepatic artery/portal vein
+- Gallbladder drainage routes (to liver + cystic node → hepatoduodenal ligament + suprapancreatic nodes)
+:::
+::: {.column width="50%"}
+**B**
+
+- Nodes along **SMV**, pancreatic borders, splenic hilar nodes, celiac trunk
+- Abbreviations: BD = bile duct; HA = hepatic artery; IMV = inferior mesenteric vein; PV = portal vein; SA = splenic artery; SMA; SMV; SV = splenic vein
+:::
+:::
+
+## Nerve Supply to the Liver and Pancreas
+
+- Supply derives from branches of the **celiac ganglion**
+- Composed of:
+  - **Sympathetic** elements
+  - **Parasympathetic** elements
+- Distribution is **mainly in association with major arteries**
+
+## Figure 2.50 — Autonomic Innervation
+
+- Diagram shows distribution of **sympathetic and parasympathetic nerves** to the liver and pancreas from the **celiac ganglion**
+- Key labeled structures:
+  - **Vagal nerves** (parasympathetic input)
+  - **Splanchnic nerves** (sympathetic input)
+  - **Celiac ganglion** (central relay)
+- Nerve fibers travel predominantly **along the course of the major arteries** supplying the liver and pancreas
+
+## Closing Summary
+
+## Key Take-Home Points
+
+- The liver is functionally divided by **hepatic vein-containing scissurae** into 8 Couinaud segments / 4 Brisbane sections per hemiliver
+- The **caudate lobe (segment I)** is anatomically and functionally unique — bilateral portal supply, bilateral biliary drainage, and **direct IVC venous drainage**
+- **Biliary, arterial, and portal venous anomalies are common** (only ~60–72% follow "classic" patterns) — recognition is essential to avoid catastrophic injury
+- The **plate system** (hilar, cystic, umbilical plates) underlies safe biliary exposure techniques
+- Pancreatic ductal anatomy (Wirsung/Santorini, pancreas divisum, annular pancreas) has direct clinical relevance to pancreatitis and ERCP
+- Vascular relationships of the **portal vein, SMV, splenic vein, and GDA** are central to safe pancreatic and hepatic resection
+
