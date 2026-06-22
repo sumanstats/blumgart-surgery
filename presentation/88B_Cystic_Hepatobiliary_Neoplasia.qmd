@@ -1,0 +1,936 @@
+---
+title: "Cystic Hepatobiliary Neoplasia"
+format: 
+  revealjs:
+    theme: dark
+---
+
+## Overview: Nonparasitic Cystic Liver Lesions
+
+- **Simple cysts** are the vast majority of nonparasitic cystic liver lesions
+- Characteristics of simple cysts:
+  - Unilocular
+  - No communication with biliary tree
+  - Serous content
+  - Not considered tumors
+  - No malignant potential
+  - Do not tend to recur after partial resection
+
+## Overview: Cystic Malignancies
+
+- Primary or secondary solid hepatic malignancies may become cystic due to tumor necrosis
+- **Extremely rare** for them to be totally cystic
+- Reported in case reports for:
+  - Embryonic liver sarcoma
+  - Malignant fibrous histiocytoma
+  - Metastases from neuroendocrine tumors
+  - Metastases from colorectal primary tumors
+
+## Overview: Primarily Cystic Hepatobiliary Neoplasms
+
+- Extremely rare group of cystic tumors of **biliary origin**
+- Include both:
+  - **Benign** tumors (with malignant potential)
+  - **Malignant** tumors
+- Previously designated as:
+  - Cystadenoma
+  - Cystadenocarcinoma
+
+## Overview: Modern Classification
+
+- Increasing evidence suggests biliary cystic neoplasia includes a wider group of entities
+- Analogous to pancreatic tumors:
+  - **Mucinous Cystic Neoplasms (MCNs)**
+  - **Intraductal Papillary Mucinous Neoplasms (IPMNs)**
+- Key distinguishing features:
+  - Presence or absence of **ovarian stroma (OS)**
+  - Whether **luminal communication** exists with bile ducts
+
+## Overview: WHO 2010 Classification
+
+- WHO Classification of Tumours of the Digestive System (2010) proposed:
+  - **MCN**: when ovarian stroma is present
+  - **IPMN-B**: when tumor communicates with biliary tree
+- Some cystic neoplasms lack **both** OS and bile duct communication
+- MCN to IPMN-B ratio varies geographically:
+  - **>1 in the West**
+  - **<1 in Asia**
+
+## Overview: Classification Challenges
+
+- WHO-2010 classification is **not widely applied** even today
+- Detailed pathologic descriptions not always provided in literature
+- Confusion with:
+  - Atypical benign cysts
+  - Cystic forms of intrahepatic cholangiocarcinoma (ICC)
+- Limited number of large series due to tumor rarity
+- Most references are case reports
+
+## Definition: Original Criteria (Edmondson, 1958)
+
+The initial strict definition included **three distinctive features**:
+
+1. **Multilocular** – composed of multiloculated cysts
+2. **Lined by columnar epithelium**
+3. **Accompanied by densely cellular ovarian-like stroma**
+
+## Definition: Revision by Devaney et al. (1994)
+
+- Retrospective analysis of 70 patients
+- Original definition considered **too restrictive**:
+  - OS was **inconsistently** observed
+  - Not all lesions were multilocular
+  - Epithelium not exclusively columnar (1/3 had cuboidal epithelium)
+- Suggested including:
+  - Tumors **with and without** OS
+  - Tumors with **unilocular** gross appearance
+
+## Definition: Findings from Devaney et al. Study
+
+- Only **14%** of tumors lacked ovarian stroma
+- Only **single patient** had a unilocular tumor (actually a cystadenocarcinoma)
+- OS-positive tumors: **exclusively in women**
+- OS-negative tumors: **both sexes**, potentially different clinical course
+- Revision may have introduced confusion due to inconsistent pathologic descriptions
+
+## Definition: Two Distinct Groups
+
+Based on stroma and biliary communication:
+
+| Feature | MCN | IPMN-B |
+|---------|-----|--------|
+| Ovarian Stroma | Present | Absent |
+| Bile Duct Communication | Typically No | Yes |
+| Pancreatic Counterpart | Mucinous Cystadenoma | IPMN-P |
+
+## Definition: Cyst-Forming IPMN-B
+
+- Most IPMN-B cases present as **tubular or fusiform dilation** of involved bile duct
+- Some present as **cystic dilations**
+- Known as **cyst-forming IPMN-B**
+- Resembles cyst-forming branch-duct IPMN-P
+
+## MCN of the Liver: Introduction
+
+- Most classic primary cystic tumors of the liver
+- Of **biliary origin**
+- May occur anywhere along biliary tree:
+  - Common hepatic duct
+  - Cystic duct
+  - Gallbladder
+- **Most frequent location**: Liver (83%–94% of patients)
+- Inherent risk of **malignant transformation**
+
+## MCN of the Liver: Incidence
+
+- **Exceedingly rare** tumors
+- No accurate incidence estimates available
+- Two largest series: 52 and 54 patients
+- Most studies involve **fewer than 10 patients**
+- Early 2000s estimate: **fewer than 200 patients** reported
+- Often quoted: <5% of cystic liver lesions (likely **overestimated**)
+
+## MCN Pathology: General Features
+
+- Almost always **solitary**
+- Size range: **<1 cm to 40 cm**
+- Mean diameter: **15 cm** (suggests slow growth)
+- Location distribution:
+  - Right liver: ~33%
+  - Left liver: ~33%
+  - Both lobes: ~33%
+- **Striking feature**: High proportion in **segment IV** or left liver
+
+## MCN Pathology: Gross Appearance
+
+- **Grossly lobulated** and **multiloculated**
+- Content: Clear to mucinous fluid
+- Hemorrhagic fluid: **very rare** → raises suspicion of malignancy
+- Bilious content: **very unusual** (lack of biliary communication is distinctive)
+- Fistulization into biliary tree has been reported (rare)
+
+## Figure 88B.1: Cystadenoma with Ovarian-Like Stroma (CT Imaging)
+
+**Description:**
+- Thin-walled cyst with septa in **segment IV**
+- Image A: Without contrast injection
+- Image B: Septa **enhance** after contrast agent injection
+- Segment IV location occurs frequently in MCN
+
+## MCN Pathology: Internal Lining
+
+- Generally **smooth** but may contain:
+  - **Microscopic** polypoid lesions
+  - **Macroscopic** polypoid lesions (rare)
+- Three distinct layers:
+  1. **Epithelial layer**
+  2. **Mesenchymal stroma**
+  3. **Outer collagen connective tissue** (separates from adjacent parenchyma)
+
+## Figure 88B.2: Internal Lining of Cystadenoma
+
+**Description:**
+- Image A: Microscopic polypoid lesions (arrows)
+- Image B: Macroscopic polypoid lesions (arrows)
+- Smooth internal lining with focal projections
+
+## MCN Pathology: Epithelial Lining
+
+- Glandular, **nonciliated** cells in single flat row
+- Occasional features:
+  - Papillary or polypoid projections
+  - Pseudostratifications
+  - Crypt-like invaginations
+- Epithelium type:
+  - **Columnar**: 2/3 of patients
+  - **Columnar + Cuboidal**: 1/3 of patients
+- May show **denuded areas** with chronic inflammation
+
+## MCN Pathology: Epithelial Cell Features
+
+- **Basally located nuclei**
+- **Intracellular mucin**
+- Mucinous epithelium may be **lacking in up to 20%** of cases
+  - May represent initial phase of tumor
+- Papillary infoldings occasionally present
+- **Mild epithelial atypia**: focally present in most patients
+
+## MCN Pathology: Dysplasia and Metaplasia
+
+- **Severe dysplasia** (high-grade):
+  - Multilayer appearance
+  - Hyperchromatic cells
+  - Loss of polarity
+  - **Much less frequent**
+- **Intestinal metaplasia**:
+  - Rare
+  - Numerous goblet cells
+- **Both are suggestive of high risk of malignant transformation**
+
+## MCN Pathology: Immunophenotype of Epithelium
+
+| Marker | Staining Pattern |
+|--------|------------------|
+| CEA | Strong, diffuse cytoplasmic |
+| CA 19-9 | Strong, diffuse cytoplasmic |
+| CA-125 | Focal or absent |
+| CK-7, CK-19, CK-8, CK-18 | Positive (biliary origin) |
+| Inhibin-α | Negative |
+| Vimentin | Negative |
+| Estrogen/Progesterone receptors | Negative |
+| CD56 | Focal expression only |
+
+## Figure 88B.3: Histopathology of Cystadenoma
+
+**Description:**
+- **A**: Macroscopic multilocular cyst
+- **B**: H&E staining – regular epithelium, ovarian-like stroma, hyalinized fibrous band
+- **C**: Progesterone-receptor positive cells in stroma
+- **D**: Simple biliary cyst for comparison (cuboidal epithelium, no ovarian stroma)
+
+## MCN Pathology: Ovarian-Like Stroma
+
+- **Compact arrangement** of bland, spindle-shaped cells
+- Round to oval nuclei
+- Reminiscent of ovarian stroma
+- Also resembles **primitive mesenchymal elements** of developing biliary system
+- Distribution:
+  - Abundant/diffuse: ~50% of patients
+  - Focal: ~10% of patients
+- **Mitotic activity not prominent**
+
+## MCN Pathology: Stromal Immunophenotype
+
+| Marker | Expression |
+|--------|------------|
+| Estrogen receptors | Positive |
+| Progesterone receptors | Positive |
+| Inhibin-α | Positive |
+| α-Smooth muscle actin | Positive |
+| Vimentin | Positive |
+| Desmin | Positive |
+| CEA | Negative |
+| CA 19-9 | Negative |
+| CA-125 | Negative |
+
+## MCN Pathology: Capsule and Enucleation
+
+- **Densely hyalinized pseudocapsule** surrounds tumor
+- Separates tumor from adjacent liver tissue
+- Explains why these tumors can be **enucleated**
+- Similarities exist between hepatic and pancreatic mucinous cystadenomas
+- Hepatic tumors may have:
+  - Denser, more abundant stroma
+  - More intense hormone receptors
+  - More inhibin-α
+
+## MCN: Risk Factors and Origin
+
+- **No clearly identified risk factors** apart from sex
+- Exclusively observed in **women** (>90%)
+- History of oral contraceptive use: **not a distinctive feature**
+- Unclear whether congenital or acquired neoplastic lesions
+
+## MCN: Origin Hypotheses
+
+- Striking resemblance among cystadenomas with OS in:
+  - Liver
+  - Pancreas
+  - Retroperitoneum
+  - Ovary
+- Common OS contains:
+  - Estrogen and progesterone receptors
+  - Inhibin-α
+- Suggests **common pathway of tumor development**
+
+## MCN: Ectopic Ovarian Cell Migration Hypothesis
+
+- During embryonic development, **ectopic ovarian cells** migrate to liver/pancreas
+- Release hormones and growth factors
+- Cause endodermally derived epithelium to proliferate
+- Supporting evidence:
+  - Primordial gonads located under diaphragm before descent
+  - At level of liver and pancreatic tail
+  - Gonadal surface cells show **activated morphology**
+
+## MCN: Embryonic Rest Hypothesis
+
+- OS resembles **primitive embryonic mesenchyma** of:
+  - Embryonic gallbladder
+  - Large bile ducts
+- Tumors could derive from:
+  - Ectopic embryonal tissue destined to form gallbladder
+  - Ectopic embryonic rests of primitive foregut sequestered in liver
+- Endocrine cells present in ~50% of cystadenomas → compatible with **peribiliary gland** origin
+
+## MCN: Presentation – Demographics
+
+- **Exclusively in women** (with few exceptions)
+- Age at diagnosis: **1 year to 70 years**
+- Peak: **Fourth to early fifth decade**
+- Increasingly discovered **incidentally** due to liberal use of imaging
+
+## MCN: Presentation – Symptoms
+
+**Common symptoms:**
+- Epigastric or right upper quadrant pain
+- Vague abdominal complaints (discomfort, swelling)
+- Palpable abdominal mass (moves freely with respiration)
+
+**Due to large size:**
+- Gradual increase in abdominal girth
+- Compression of stomach or duodenum
+- Insidious onset, prolonged evolution before treatment
+
+## MCN: Presentation – Acute Episodes
+
+- Acute pain in **up to 35%** of patients
+- Most related to **biliary obstruction**
+- Biologic evidence: cytolysis or cholestasis
+- Jaundice or itching may be present
+- Cholangitis is rare
+- Episodes typically **transient** – compatible with migration of mucous material
+
+## MCN: Presentation – Mechanisms of Obstruction
+
+1. **Migration** of mucinous material or tumor embolus into bile duct
+2. **Simple compression** of biliary confluence by cystadenoma
+
+**Other acute presentations (rare):**
+- Tumor rupture
+- Superinfection
+- Bleeding
+- Caval compression
+
+## Figure 88B.4: Tumor Protrusion in Bile Duct
+
+**Description:**
+- **A**: Dilated bile ducts upstream of cyst in segment IV
+- **B**: Tumor (arrow) protruding into left bile duct on resected specimen
+- Can occur even with small cystadenomas (<4 cm)
+
+## MCN: Differential Diagnosis
+
+**Main differential: Simple cysts** (atypical due to bleeding or sclerotherapy)
+
+**Other considerations:**
+- Nonsuppurative granulomatous infection
+- Hepatic abscess
+- Echinococcal cysts
+- Mesenchymal hamartoma
+- Ciliated hepatic foregut cysts
+- Intrahepatic lymphangioma
+- Cystic hemangioma
+- Cystic HCC or ICC
+- Mucin-producing metastases
+- Pancreatic cysts
+
+## MCN: Diagnostic Challenges
+
+**Risk of mistaking cystadenoma for benign cyst:**
+- May lead to simple unroofing
+- **Inappropriate treatment** with high recurrence risk
+
+**Risk of mistaking simple cyst for cystadenoma:**
+- May lead to unnecessary resection
+- Simple cysts do not require complete resection
+
+**Key point:** Cystadenoma-like lesion is almost as likely to be a simple cyst as a cystadenoma
+
+## MCN: Ultrasound Findings
+
+**Characteristic US features:**
+- **Anechoic mass**
+- **Echogenic internal septations**
+- Papillary projections may be visible
+
+**Contrast US:**
+- Reliable exploration
+- Typical **honeycomb enhancement** pattern of cyst wall and septa
+- Septa are **enhanced** (unlike hemorrhagic cyst clots)
+
+## Figure 88B.5: US and Contrast US Comparison
+
+**Description:**
+- **A, B**: Cystadenoma with ovarian-like stroma
+  - Normal US: anechoic with septations
+  - Contrast US: septa enhance (honeycomb pattern)
+- **C, D**: Hemorrhagic simple cyst
+  - Normal US: intracystic material
+  - Contrast US: no enhancement (material = clots)
+
+## MCN: CT Scan Findings
+
+- **Multiloculated hypodense masses**
+- Well-defined wall
+- Fluid attenuation (mucin, blood, or bile)
+- **Fine septal calcifications** (occasional)
+- Wall and septations **enhance** after contrast
+- **Less reliable** than US or MRI
+- May wrongly appear **unilocular** on CT
+
+## MCN: MRI Findings
+
+**T2-weighted images:**
+- Homogeneous **high signal intensity**
+
+**T1-weighted images:**
+- Homogeneous **low or isosignal intensity**
+
+**Signal variation by content:**
+- Mucinous fluid: isosignal
+- Serous fluid: hyposignal
+- Hemorrhagic fluid: hyperintense (fluid-fluid level)
+
+**Septa and wall:** Contrast enhanced
+
+## Figure 88B.6: MRI of Cystadenoma
+
+**Description:**
+- **A**: Hyperintense on T2-weighted images
+- **B**: Septa visible on T1-weighted images
+- **C**: Enhancement after gadolinium injection
+- **D**: Macroscopic specimen (same as Figure 88B.1)
+
+## MCN: Additional Diagnostic Features
+
+**Distinguishing from simple cysts:**
+1. Simple cysts frequently **multiple**; cystadenomas are **single**
+2. **Mild biliary dilation** upstream (1/3 to 2/3 of patients on high-resolution imaging)
+3. **Increased serum alkaline phosphatase** levels (distinctive from simple cysts)
+
+## MCN: Cytology Findings
+
+- Aspiration cytology is **nonspecific** or shows:
+  - Chronic inflammatory exudates
+  - Neutrophils, lymphocytes, macrophages
+- May see:
+  - Nonatypical bland cuboidal-to-columnar epithelial cells
+  - Occasionally arranged in **papillary clusters**
+
+## MCN: Tumor Markers – CA 19-9
+
+**Early observations:**
+- Link between cystadenoma and CA 19-9
+- Expression by epithelial lining
+- Increased intracystic and serum concentrations
+
+**Problems with CA 19-9:**
+- Also expressed by **normal biliary epithelial cells**
+- Very high levels in bile of **nontumoral conditions**
+- Expressed by epithelium of **simple cysts**
+- **Serum and cyst concentrations comparable** in cystadenoma and simple cysts
+- **Inaccurate** for differentiating cystadenoma from cystadenocarcinoma
+
+## MCN: Tumor Markers – CEA and TAG-72
+
+**CEA:**
+- Early suggestion: >600 ng/mL differentiates cystadenoma from benign cysts
+- **Not confirmed** in subsequent studies
+- Concentrations comparable in cystadenoma and simple cysts
+
+**Tumor-Associated Glycoprotein-72 (TAG-72):**
+- **Increased in cystadenoma**
+- **Low in simple cysts**
+- Proved **reliable** to differentiate both lesions
+
+## MCN: Complications – Malignant Transformation
+
+- Considered a **precancerous lesion**
+- Malignancy arises from:
+  - Epithelial lining (cystadenocarcinoma) – most common
+  - Sarcomatous transformation of OS (rare)
+
+**Risk factors:**
+- Epithelial atypia (dysplasia): OR = 8 (95% CI: 2.4–27.0)
+- Intestinal metaplasia: OR = 2.4 (95% CI: 1.2–3.5)
+
+## MCN: Rate of Malignant Transformation
+
+- Reported range: **2% to 30%**
+- When strict OS requirement applied:
+  - Two studies: **~5%** concordant rate
+- Carcinomatous transformation may be **very focal**
+- **Extensive sampling** of entire specimen needed for accurate diagnosis
+
+## MCN: Comparison with Pancreatic MCN
+
+Series comparing biliary and pancreatic MCN have yielded **conflicting results**:
+
+- One study: Slightly **lower** prevalence of low-/intermediate-grade dysplasia in pancreatic MCN
+- Another study: **Lower** prevalence of high-grade dysplasia/CIS in biliary MCN
+
+## MCN: Other Complications
+
+- **Fistulization** into bile duct (incidence unknown)
+  - Documented by ERCP and IOC (not routinely performed)
+  - Symptoms from migration of mucinous content
+- **Rare complications:**
+  - Rupture in peritoneal cavity
+  - Superinfection
+  - Bleeding
+  - Caval compression
+
+## MCN: Management – General Principles
+
+- **Complete excision** required to prevent:
+  - Recurrence of symptoms
+  - Malignant transformation
+- **Ineffective treatments:**
+  - Partial excision
+  - Aspiration
+  - External drainage
+  - Internal drainage
+- 40%–50% of patients at tertiary centers had **previous inappropriate treatments**
+
+## MCN: Management – Recurrence After Fenestration
+
+- Systematic review: **82% recurrence rate** after fenestration or marsupialization
+- Mean time to recurrence: **21 months**
+- May be delayed up to **4 years**
+- Recurrences up to **15 years** after initial operation reported
+- Development of cystadenocarcinoma after partial resection **documented**
+
+## Table 88B.1: Outcome After Fenestration of Cystadenoma (Part 1)
+
+| Reference | Size (cm) | OS | Approach | Recurrence | Follow-up (mo) |
+|-----------|-----------|-----|----------|------------|----------------|
+| Akwari 1990 | NA | Present | Open | Yes | 2 |
+| Akwari 1990 | 8 | Present | Open | Yes | 0.5 |
+| Akwari 1990 | 11 | Present | Open | Yes | 36 |
+| Gadzijev 1996 | NA | Present | Open | Yes | 24 |
+| Regev 2001 | NA | Present | Lap | Yes | NA |
+| Dixon 2001 | NA | Present | Open | Yes | NA |
+| Tan 2002 | NA | Present | Lap | Yes | 20 |
+
+## Table 88B.1: Outcome After Fenestration (Part 2)
+
+| Reference | Size (cm) | OS | Approach | Recurrence | Follow-up (mo) |
+|-----------|-----------|-----|----------|------------|----------------|
+| Koffron 2004 | NA | Present | Lap | No | NA |
+| Erdogan 2006 | NA | Present | Open | Yes | 72 |
+| Teoh 2006 | 17 | Present | Lap | Yes | 3 |
+| Teoh 2006 | 17 | Present | Lap | Yes | 3 |
+| Teoh 2006 | 18 | Present | Open | No | 6 |
+| Delis 2008 | NA | Present | Lap | Yes | NA |
+
+## Table 88B.1: Outcome After Fenestration (Part 3)
+
+| Reference | OS Status | Approach | Recurrence | Follow-up (mo) |
+|-----------|-----------|----------|------------|----------------|
+| Korobkin 1989 | NA | Open | Yes | 60 |
+| Korobkin 1989 | NA | Open | Yes | 360 |
+| Zacherl 2000 | NA | Lap | Yes | 3 |
+| Vogt 2005 | NA | Lap | Yes | 13 |
+| Vogt 2005 | NA | Lap | Yes | 120 |
+| Vogt 2005 | NA | Lap | Yes | 6 |
+| Vogt 2005 | NA | Open | Yes | 4 |
+
+## Table 88B.1: Outcome After Fenestration (Part 4)
+
+| Reference | Size (cm) | OS | Approach | Recurrence | Follow-up (mo) |
+|-----------|-----------|-----|----------|------------|----------------|
+| Thomas 2005 | NA | NA | Unstated | Yes | NA |
+| Thomas 2005 | 16 | NA | Lap + fulguration | No | 12 |
+| Thomas 2005 | 16 | NA | Lap + fulguration | No | 72 |
+| Barabino 2004 | 16 | Absent | Lap | No | 24 |
+| Fiamingo 2004 | 10 | Absent | Lap | No | 24 |
+| Veroux 2005 | 12 | Absent | Lap | No | 14 |
+| Manouras 2008 | 16 | Absent | Lap | No | 6 |
+
+## MCN: Management – Surgical Options
+
+**Surgical approaches:**
+- **Partial hepatectomy**
+- **Enucleation** (dissection plane exists between tumor and parenchyma)
+
+**Important considerations:**
+- Care in **segment IV** to avoid biliary bifurcation injury
+- **IOC** to document potential biliary communication
+- Exclude mucus or tumor material in bile duct
+- Extrahepatic tumors: bile duct resection + bilioenteric reconstruction
+
+## MCN: Management – Additional Points
+
+- **Laparoscopic resection**: Option for trained surgeons
+- **Fulguration** of internal cystic lining: Attempted with occasional success (too limited to recommend)
+- **Percutaneous ethanol injection**: Cannot be recommended
+  - Most cystadenomas are large
+  - Induces morphologic changes preventing follow-up
+- **Frozen-section biopsies**: Can be falsely negative even when repeated
+
+## Cystadenoma Without OS: Introduction
+
+- WHO classification: OS is **prerequisite** for MCN diagnosis
+- Some cystadenomas reported **without OS** even recently
+- Before this diagnosis: **Multiple samples** should be analyzed (OS may be focally present)
+- Unclear if discrete entity or **IPMN-B** with undemonstrated communication
+- Key difference: OS-positive only in women; OS-negative in **both sexes**
+
+## Table 88B.2: Cystadenomas and Cystadenocarcinomas With and Without OS (Part 1)
+
+| Reference | OS | Cystadenoma | Cystadenocarcinoma |
+|-----------|-----|-------------|-------------------|
+| Ishak 1977 | Present | 8 | 6 |
+| Wheeler & Edmondson 1985 | Present | 13 | 4 |
+| Akwari 1990 | Present | 44 | 9 |
+| Devaney 1994 | Present | 44 | 6 |
+| Devaney 1994 | Absent | 8 | 12 |
+| Buetow 1995 | Present | 22 | 4 |
+| Buetow 1995 | Absent | 5 | 3 |
+
+## Table 88B.2: Cystadenomas and Cystadenocarcinomas (Part 2)
+
+| Reference | OS | Cystadenoma | Cystadenocarcinoma |
+|-----------|-----|-------------|-------------------|
+| Owono 2001 | Present | 2 | 0 |
+| Owono 2001 | Absent | 2 | 3 |
+| Regev 2001 | Present | 8 | 0 |
+| Regev 2001 | Absent | 0 | 1 |
+| Koffron 2004 | Present | 6 | 1 |
+| Koffron 2004 | Absent | 27 | 0 |
+| Vogt 2005 | Present | 10 | 1 |
+| Vogt 2005 | Absent | 8 | 3 |
+
+## Table 88B.2: Cystadenomas and Cystadenocarcinomas (Part 3)
+
+| Reference | OS | Cystadenoma | Cystadenocarcinoma |
+|-----------|-----|-------------|-------------------|
+| Thomas 2005 | Present | 18 | 1 |
+| Oh 2006 | Present | 5 | 2 |
+| Oh 2006 | Absent | 2 | 4 |
+| Daniels 2006 | Present | 12 | 0 |
+| Lewin 2006 | Present | 4 | 0 |
+| Lewin 2006 | Absent | 2 | 1 |
+| Lim 2007 | Present | 14 | 3 |
+
+## Table 88B.2: Summary Totals
+
+| OS Status | Cystadenoma | Cystadenocarcinoma | % Malignant |
+|-----------|-------------|-------------------|-------------|
+| Present | 293 | 106 | **26%** |
+| Absent | 58 | 30 | **34%** |
+| NA | 58 | 24 | **29%** |
+
+*Note: Higher apparent malignancy rate in OS-absent group may reflect inclusion of ICC or malignant IPMN-B*
+
+## Cystadenoma Without OS: Incidence
+
+- Largest surgical series (past 15 years): Higher number **with** OS than without
+- Ratio: **5:1 to 10:1** (with:without) in most series
+- Some studies reported:
+  - Equal numbers
+  - Lower numbers with OS
+  - One study: virtually all "cystadenomas" **lacked** OS
+- Discordance likely reflects **lack of strict pathologic definition**
+
+## Cystadenoma Without OS: Pathology
+
+- Typically **multilocular** with mucinous content
+- Epithelium phenotypically **similar to classic cystadenoma**
+- Atypia/dysplasia: Not observed by Devaney (1994) but reported by others
+- **More frequent biliary communication** than OS-positive
+- Higher proportion with **bilious fluid** within cyst
+
+## Figure 88B.7: Cystic Mucinous Tumor Without OS
+
+**Description:**
+- **A**: Macroscopic view – unilocular cyst
+- **B**: H&E – unstratified epithelium of regular cuboidal cells on fibrous wall, **no ovarian-like stroma**
+- **C**: Mucin production in epithelial lining cells
+- **D**: **No progesterone receptor** immunostaining in fibrous wall
+
+## Cystadenoma Without OS: Epithelial Phenotype
+
+| Marker | Expression |
+|--------|------------|
+| CK-7 | Positive |
+| CK-8 | Positive |
+| CK-18 | Positive |
+| CK-19 | Positive |
+| MUC1 | Positive |
+| MUC5 | Positive |
+| MUC6 | Positive |
+| CEA | Negative |
+| CA 19-9 | Negative |
+| MUC3 | Negative |
+
+*Phenotype close to that of large bile ducts*
+
+## Cystadenoma Without OS: Presentation and Diagnosis
+
+- **Both sexes** affected (female/male ratio ~1:1)
+- Age, symptoms, and size **comparable** to OS-positive
+- Peak age: 40–60 years
+- **Imaging cannot differentiate** between OS-positive and OS-negative
+- Cyst fluid: CA 19-9 **always increased**, CEA increased in most
+
+## Cystadenoma Without OS: Natural History and Management
+
+- Very **limited data** on natural history
+- Case reports suggest **morphologic changes** over time:
+  - Progressive increase in diameter
+  - Mural thickening
+  - Development of papillary nodules
+  - Malignant transformation
+- Changes observed over **prolonged periods** (10 years)
+- **Complete resection required** (same as OS-positive)
+- IOC to document potential biliary communication
+
+## Cystadenocarcinoma: Definition
+
+- **Very rare** primary cystic tumors
+- Do **not primarily communicate** with biliary tree
+- Lined by **tubulopapillary malignant epithelium**
+- Rare variants:
+  - Adenosquamous carcinoma
+  - Malignancy developing in stroma
+- First described by **Willis in 1943**
+- By 2000: only **100 cases** reported
+
+## Figure 88B.8: Cystadenocarcinoma Histopathology
+
+**Description:**
+- **A**: Macroscopic – complex lesion with cystic and solid parts
+- **B**: H&E – infiltrative carcinomatous cells forming variably sized glands
+- **C**: H&E of cystic part – epithelial papillary proliferations with **high-grade dysplasia**
+
+## Cystadenocarcinoma: Incidence
+
+- Account for only **0.4% of hepatic malignancies**
+- Most found in **liver**
+- Anecdotal reports in:
+  - Extrahepatic bile duct
+  - Gallbladder
+- Stratified by OS presence/absence
+- Some pathologists reluctant to diagnose without OS (may be cystic ICC or malignant IPMN-B)
+
+## Cystadenocarcinoma: Epidemiology
+
+- Overall female/male ratio: **2:1**
+- With OS: **Exclusively in women**
+- Without OS: **Twice as frequent in men**
+- Age range: **18 to 88 years**
+- Peak: **Late 50s and 60s**
+- ~15–20 years **later** than cystadenomas
+- Difference especially obvious for OS-positive lesions
+
+## Cystadenocarcinoma: Presentation
+
+- Symptoms **virtually always present** (unlike cystadenoma)
+- Initially **indolent**:
+  - Abdominal swelling
+  - Discomfort
+  - Pain
+  - Palpable abdominal mass
+- **Biliary obstruction with jaundice**: 20% of patients
+- Acute symptoms from:
+  - Intracystic hemorrhage
+  - Tumor rupture
+- **Diagnosis often delayed**: mean 29 months from first symptoms
+
+## Cystadenocarcinoma: Origin – Adenoma-Carcinoma Sequence
+
+- No identified risk factors
+- Usually assumed to be **malignant counterpart of cystadenoma**
+- Supporting evidence:
+  - Proliferating cells resemble cystadenoma
+  - Both express biliary-type phenotype
+  - Typical cystadenoma areas **coexist with malignant epithelium** (up to 90%)
+  - Longitudinal studies show progressive development
+- Applies to intrahepatic and extrahepatic; with and without OS
+
+## Cystadenocarcinoma: Risk of Malignant Transformation
+
+- Among resected patients with OS: **~15% malignant**
+- Consistent with choledochal cysts (also premalignant)
+- Higher proportion in OS-absent/undefined group
+- **Discrepancy reasons unclear**:
+  - May include ICC mistaken for cystadenocarcinoma
+  - May include malignant IPMN-B
+- Time for malignant change: **unknown**
+- Once mural nodules appear: may progress within **few months**
+
+## Cystadenocarcinoma: Tumor Extension
+
+- In ~1/3 to 1/2 of surgical patients: tumor **confined to cyst**
+  - Explains high survival rates after complete resection
+- **Parenchymal extension** exists:
+  - Satellite nodules
+  - Perineural invasion
+  - Lymphatic invasion (near glissonian pedicle)
+- **Distant metastases** at diagnosis: **20% of patients**
+
+## Cystadenocarcinoma: Diagnosis – Differential
+
+- Metastases from ovarian/pancreatic cystadenocarcinoma (usually multiple)
+- Main difficulty: Differentiating from:
+  - **Cystadenoma**
+  - **Cystic variants of mass-forming ICC**
+  - **Malignant IPMN-B**
+- Distinctions important for **extent of resection**
+
+## Cystadenocarcinoma: Gross Morphology
+
+- **Solitary** lesions
+- Usually **large**: average 12 cm (up to 40 cm)
+- Can be **small**: <5 cm reported (including 2 cm)
+- **Small size is NOT evidence of benignity**
+- More frequent:
+  - Hemorrhagic or bilious content
+  - Hemorrhage or nodularity in cyst wall
+
+## Figure 88B.9: CT Appearance of Cystadenocarcinoma
+
+**Description:**
+- **A**: **Gross calcifications** along cyst wall
+- **B**: **Heterogeneous tissue** that **enhances** within cyst lumen after contrast injection
+- Features suggesting malignancy but can also be seen in benign cystadenoma
+
+## Cystadenocarcinoma: Imaging Features
+
+**More frequent than in cystadenoma:**
+- Larger septa
+- Intrahepatic cyst debris
+- Bile duct dilation
+- **Enhancement of mural nodules** (CT, MRI, contrast US)
+- **Coarse calcifications** along wall or septa
+
+**Problem:** All features can also occur in **nonmalignant cystadenoma**
+
+## Cystadenocarcinoma: Biology and Tumor Markers
+
+- Increased serum CEA and CA 19-9: **Very rare**
+- When present: usually **mild**
+- Also described in cystadenoma (CA 19-9 >50,000 m/mL reported)
+- **Not helpful** in differentiating from cystadenoma
+- Systematic review: slightly higher proportion above normal range in cystadenocarcinoma
+
+## Cystadenocarcinoma: Cyst Fluid Analysis
+
+- Content: hemorrhagic, bilious, or mixed
+- Fine-needle aspiration cytology:
+  - Early reports: useful
+  - Recent studies: malignant/atypical cells **very infrequently** retrieved
+- CA 19-9 and CEA: usually increased but **comparable to cystadenoma**
+- **Cyst sampling caution**: High risk of **peritoneal seeding**
+- Pleural effusion reported after aspiration
+
+## Cystadenocarcinoma: Treatment
+
+- **Complete resection** required
+- IOC should be considered (some communicate with biliary tree)
+- **Formal resection with wide margin** preferred over enucleation
+  - Tumor extension cannot be reliably assessed preoperatively
+- Near biliary confluence: resection + hepaticojejunostomy
+- **Avoid opening cyst**: peritoneal carcinomatosis reported after accidental rupture
+- Partial resection: **dismal prognosis**
+
+## Cystadenocarcinoma: Prognosis
+
+- After complete resection: **better than HCC or cholangiocarcinoma**
+- **5-year survival: 65%–70%**
+- OS-positive tumors: **more favorable course**
+  - Less frequent parenchymal, vascular, lymphatic invasion
+- Unclear if due to:
+  - Presence of OS itself
+  - Sex (exclusively women)
+  - Tumor invasiveness
+
+## Cystic Variants of IPMN-B: Introduction
+
+- **Relatively new, distinct pathology**
+- Characterized by:
+  - **Intraluminal papillary proliferation** in bile ducts
+  - **Mucin production**
+- Almost exclusively in:
+  - Intrahepatic bile ducts
+  - Left or right bile ducts
+- **No ovarian stroma**
+- Previously described using various terms
+
+## Cystic Variants of IPMN-B: Previous Terminology
+
+Historical terms for what is now IPMN-B:
+- Biliary papilloma
+- Mucin-producing ICC
+- Intraductal mucosal-spreading mucin-producing peripheral cholangiocarcinoma
+- Intraductal growth–type peripheral cholangiocarcinoma
+- Intraductal variant of peripheral cholangiocarcinoma
+
+## Cystic Variants of IPMN-B: Relationship to Pancreatic IPMN
+
+- **Striking similarities** with IPMN-P:
+  - Clinical
+  - Histologic
+  - Phenotypic
+- Both may **coexist in same patient**
+- IPMN-B may develop in **extrahepatic bile ducts**
+  - Including biliary confluence
+  - Different clinical behavior in this location
+
+## Summary: Classification of Cystic Hepatobiliary Neoplasms
+
+| Entity | Ovarian Stroma | Biliary Communication | Sex Predilection |
+|--------|----------------|----------------------|------------------|
+| MCN-L | Present | No | Female only |
+| IPMN-B | Absent | Yes | Both sexes |
+| Cystadenoma without OS | Absent | Variable | Both sexes |
+| Cystadenocarcinoma | Variable | No | F:M = 2:1 |
+
+## Summary: Key Clinical Points
+
+- **MCN with OS**: Complete resection required; ~5% malignant transformation
+- **Cystadenoma without OS**: Complete resection; may be IPMN-B variant
+- **Cystadenocarcinoma**: Complete resection with wide margins; 5-year survival 65%–70%
+- **Fenestration/drainage**: 82% recurrence rate – should be avoided
+- **Frozen section**: Can be falsely negative – do not rely solely on it
+
+## Summary: Diagnostic Pearls
+
+- **Multilocularity** with enhancing septa: suggests cystadenoma
+- **Segment IV location**: classic for MCN
+- **Mural nodules**: raise concern for malignancy (but not specific)
+- **CA 19-9 and CEA**: Not reliable for differentiation
+- **TAG-72**: May differentiate cystadenoma from simple cyst
+- **Imaging cannot definitively** distinguish benign from malignant
