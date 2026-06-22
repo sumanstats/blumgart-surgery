@@ -2,8 +2,7 @@
 title: "Liver and Pancreas Transplantation Immunobiology"
 format:
   revealjs:
-    theme: white
-    smaller: true
+    theme: dark
 ---
 
 # Introduction & General Considerations

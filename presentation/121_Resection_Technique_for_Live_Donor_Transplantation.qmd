@@ -1,0 +1,718 @@
+---
+title: "Chapter 121: Resection Technique for Live Donor Transplantation"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    width: 1280
+    height: 720
+    fontsize: 24px
+    code-fold: true
+    fig-align: center
+    mermaid-format: svg
+    embed-resources: true
+---
+
+## Introduction to Living-Donor Liver Transplantation
+
+- Living-donor hepatectomy is a major surgical operation performed on a **healthy person** only for the benefit of a recipient who requires liver transplantation
+- **1989**: Strong performed donor left hepatectomy and removed segment IV on the back table before implantation of segments II and III into a pediatric recipient
+- **1990**: Tanaka et al. improvised using a **right liver graft** for a pediatric recipient due to unexpected precarious donor left hepatic arterial anatomy
+- **1993**: Makuuchi first performed LDLT using **left liver for adults**
+- **1996**: Fan performed the first case of **right liver adult LDLT**
+
+## Historical Development of Right Liver LDLT
+
+- The right liver graft initially included the **middle hepatic vein (MHV)**
+  - Addressed problems of **small-for-size syndrome**
+  - Provided good venous outflow of the right anterior section
+- The first seven recipients who underwent right LDLT all had **acute liver failure** before transplantation
+  - One died of candidiasis
+  - The other six survived
+- Subsequently, **semiurgent and elective cases** were performed
+
+## Donor Workup: Overview
+
+- Donor workup is started after indication for LDLT for the potential recipient is established
+- The workup helps evaluate whether the donor will be **psychologically and physically healthy** in the long term after recovery from organ donation
+- Conducted in a **stepwise manner** — expedience is achieved without omission
+- Only individuals of **good health** who have reached the **age of consent** are considered
+
+## Donor Workup: Step 1 — Medical History & Initial Screening
+
+- A **detailed medical history** is taken to identify comorbidities, if any
+- **Body mass index (BMI)** criteria:
+  - ≥30 kg/m² raises concern for fatty liver and obesity-related comorbidities
+  - ≥27 kg/m² for Asians
+- **Blood group compatibility** is verified
+- Carriers of **HIV, HBV, or HCV** are denied liver donation
+- Hepatitis B core antibody positivity does not preclude donation but mandates **lifelong prophylaxis** with lamivudine or entecavir
+
+## Donor Workup: Step 2a — Psychological Assessment
+
+- A **psychological assessment** is performed to verify:
+  - The potential donor's **knowledge of the operation** to be performed
+  - The donor's **coping abilities**
+- The donor should have adequate knowledge of:
+  - **Donor and recipient morbidity, mortality, and survival**
+  - The **urgency of the situation**
+
+## Donor Workup: Step 2b — Imaging Studies
+
+- **Chest radiographs** and **electrocardiogram** are performed
+- **Computed tomography (CT)** of the liver under sodium bicarbonate cover
+- **Maximum-intensity projections (MIPs)** of hepatic veins (HVs) and portal veins (PVs) are produced
+- **Volumetry of the donor liver** by the Heymsfield method measures:
+  - Volume of the right liver
+  - Volume of the left liver (for pediatric recipients, segments II and III)
+  - Using the MHV as a demarcation line on the plane between right and left liver
+
+## Donor Workup: Step 2b — CT Findings & Anatomic Assessment
+
+- **Attenuation of liver parenchyma** in comparison with spleen on plain film is appraised for detection of fatty change
+- **HV anatomy** is determined by:
+  - Axial cuts in the venous phase
+  - MIPs for easier appreciation
+- **Inferior right HVs**: Anticipate either preservation or division at operation
+- **Segment IVb HV or segment III HV draining into MHV**: Requires more caudal division of MHV to preserve adequate drainage of segment IV of remnant left liver
+
+## Donor Workup: Step 2b — Arterial Anatomy Assessment
+
+- The **right, left, and segment IV hepatic arteries** are illustrated by **three-dimensional reconstructions**
+- Images obtained during the **arterial phase** of CT imaging
+- This detailed arterial mapping is crucial for surgical planning and avoiding vascular complications
+
+## Donor Workup: Step 3 — Liver Biopsy
+
+- Liver biopsy is performed in **selective donors**
+- Conducted after genuineness and suitability of the potential donor is ascertained
+- **Steatosis criteria**:
+  - Up to **15%** for right liver donors
+  - Up to **20%** for left liver donors
+- Higher steatosis levels may compromise graft function and donor safety
+
+## Donor Workup: Step 4 — Informed Consent
+
+- Informed consent is obtained from the **donor and the donor's relative**
+- **Donor and recipient morbidity and mortality risks** are stated clearly
+- The donor must fully understand the risks and benefits before proceeding
+- This is an ethical cornerstone of living donor transplantation
+
+## Side and Size of Graft: Fundamental Principles
+
+- The **graft-to-standard liver volume ratio** is crucial in LDLT
+- A ratio of **>35%** is required for predictable recipient success
+- **CT volumetry overestimation**: A 20% overestimation of right liver graft size is common
+  - Given a conversion factor of **1.19 g/mL**
+- The left liver is usually **one-third the size** of the total liver
+
+## Side and Size of Graft: Left Liver Considerations
+
+- For a donor with body size **no larger than the recipient**, the left liver is usually **<35%** of recipient standard liver volume
+- For individuals with a **larger left liver/right liver ratio**, the left liver may be large enough for donation
+- **Important note**: In left LDLT, gram-to-gram equivalence of graft is **not applicable**
+- A left liver graft of the same size as the right is **less efficacious**
+  - Probably because the left liver graft is more likely subject to **compression injury** when the recipient's abdominal cavity is not large enough
+
+## Side and Size of Graft: Right Liver Donation Criteria
+
+- For **right liver donation**, the liver donor should have a **remnant left liver of at least 30%** of the total liver volume
+- For a **pediatric recipient**, a liver graft of **3% of body weight** is optimal
+- The graft size is lowered to **2% of body weight** for older children and teenagers
+- A graft of **>5% of body weight** predisposes to hypoperfusion
+- In such cases, graft reduction to even a **monosegment** may be required
+
+## Figure 121.1: Volumetric Analysis of Donor Liver
+
+![Figure 121.1](Volume_2_CHAPTER_121.pdf)
+
+- **CT volumetric analysis** of the donor liver
+- The Heymsfield method measures volumes of right and left liver
+- **MHV serves as the demarcation line** between right and left liver
+- Essential for determining graft suitability and donor safety
+
+## Donor Right Hepatectomy: Exposure — Patient Positioning
+
+- The donor is placed **supine** on the operating table
+- Care taken to avoid **pressure sores** over:
+  - Occiput
+  - Heels
+  - Sacrum
+- The position must be optimal for the **surgeon and first assistant** to face the operative field directly
+- Must be unhindered by metal bars of upper hand retractor or fence between surgeon and anesthetist
+
+## Donor Right Hepatectomy: Exposure — Incision & Initial Dissection
+
+- Access gained through a **right subcostal incision** with upper midline extension
+- The **ligamentum teres** is ligated and divided
+- The **falciform ligament** is taken down
+- **Bookwalter retractor** (Codman and Shurtleff) used:
+  - Two curved blades pull the rib cage laterally and anteriorly
+  - Opens up the aperture made by the costal margins
+- In donors with **narrow costal angle**, excising the **xiphoid process** may improve access
+
+## Donor Right Hepatectomy: Exposure — Intraoperative Ultrasound
+
+- Following careful laparotomy, **intraoperative ultrasonography (IOUS)** is performed
+- IOUS studies:
+  - Junction of the **left hepatic vein, MHV, and IVC**
+  - Relation of **segment IVb HV to MHV** (already known from CT)
+- IOUS also registers **flow characteristics** of:
+  - Hepatic arteries
+  - Hepatic veins
+  - Portal veins
+- These serve as reference throughout the operation
+
+## Donor Right Hepatectomy: Hilar Dissection — Gallbladder & Cystic Structures
+
+- The **triangle of Calot** is dissected
+- The **cystic artery** is divided between ligatures
+- The **gallbladder** is dissected from its fossa
+- The **cystic duct** is cannulated with a **3.5-Fr Argyle catheter** (Tyco Healthcare)
+- The cystic duct is then severed at the site of catheter insertion for delivery of the gallbladder
+
+## Donor Right Hepatectomy: Hilar Dissection — Biliary Anatomy
+
+- The **peritoneum overlying the right hepatic duct (RHD)** is divided for identification
+- A **large metal LigaClip** (Ethicon Endo-Surgery) is put on the liver capsule at the planned line of division of the RHD
+  - Placed **3–4 mm away** from the hepatic duct confluence
+- **Operative cholangiogram** performed with undiluted contrast under fluoroscopy with a C-arm
+
+## Figure 121.2: Operative Cholangiogram
+
+![Figure 121.2](Volume_2_CHAPTER_121.pdf)
+
+- Metal clip marking the planned line of division of the right hepatic duct
+- Image quality improved by temporary gentle occlusion of distal common bile duct with an **atraumatic vascular clamp** (Featherlight Bulldog Clamp; Geister)
+- **Important**: Clamp must be removed once cholangiogram is finished to avoid devascularization of donor distal CBD
+
+## Donor Right Hepatectomy: Cholangiogram Interpretation
+
+- In the **supine donor**, the right posterior sectional duct is demonstrated **first**
+- Followed by the **right anterior sectional duct**
+- Then the **left ducts**
+- A **variant PV anatomy** (but not hepatic artery) is frequently associated with variant bile duct anatomy
+- An **infraportal right posterior bile duct** is more common in donors with variant PV anatomy
+
+## Donor Right Hepatectomy: Parallax Technique
+
+- The **parallax technique** is executed by **rotation of the C-arm to the right**
+- This clarifies the **anteroposterior (AP) position** of the right anterior and posterior sectional ducts
+- Also provides the **true AP view** of the biliary system
+- A marking is made with reference to the LigaClip on the liver capsule with **diathermy** for the line of division
+
+## Donor Right Hepatectomy: Hilar Vessel Isolation
+
+- Hilar dissection continues to isolate the **right hepatic artery (RHA)** and **right PV**
+- The space between the **RHA and RHD should not be disrupted**
+  - Preserves the RHD blood supply
+- To gain entire length of the **right PV**, branches to the **caudate lobe** are ligated and divided
+- **Important**: A sizable branch from the right PV may represent vessels supplying **segment VI**, which should be preserved
+
+## Figure 121.3: Hilar Dissection with Vessel Isolation
+
+![Figure 121.3](Volume_2_CHAPTER_121.pdf)
+
+- Isolation of the **right hepatic artery** and **right portal vein**
+- The branch of portal vein supplying **segment VI was preserved** (arrowhead)
+- Demonstrates meticulous preservation of segmental vascular supply
+
+## Donor Right Hepatectomy: Inflow Control & Transection Line
+
+- **Temporary right liver inflow control** is performed
+- Vascular clamps applied to RHA and right PV
+- This marks the **line of transection along Cantlie's line** with electrocautery
+- The line on the **inferior surface** of the liver is just to the **left of the gallbladder fossa**
+- Joins the planned line of division of the RHD marked earlier
+
+## Figure 121.4: Temporary Hemiinflow Control & Cantlie's Line
+
+![Figure 121.4](Volume_2_CHAPTER_121.pdf)
+
+- **Panel A**: Temporary hemiinflow control with vascular clamps applied to RHA and right PV
+- **Panel B**: Cantlie's line is revealed after temporary hemiinflow control
+- The demarcation line guides precise parenchymal transection
+
+## Donor Right Hepatectomy: Posterior Mobilization
+
+- The **right triangular ligament** is taken down, leaving the **Gerota fascia intact**
+- In a normal donor liver, the **right adrenal gland** can often be freed from the liver with careful dissection using electrocautery
+- **Minor bleeding** from right adrenal gland: controlled by **argon beam coagulator**
+- **More severe bleeding**: addressed by plication with sutures
+
+## Donor Right Hepatectomy: Short Hepatic Veins
+
+- **Short HVs on the right side** of the midline of the IVC are divided between ligatures and plicated as required
+- **Inferior right hepatic veins >5 mm** are **preserved for anastomosis** with the IVC in the recipient
+- This preservation is critical for adequate venous outflow of the graft
+
+## Figure 121.5: Inferior Right Hepatic Vein
+
+![Figure 121.5](Volume_2_CHAPTER_121.pdf)
+
+- The **inferior right hepatic vein** is isolated and preserved (arrowhead)
+- Veins larger than 5 mm require preservation for recipient anastomosis
+- Smaller veins can be ligated and divided
+
+## Donor Right Hepatectomy: Inflow Occlusion Considerations
+
+- **Continuous inflow control during liver transection is NOT practiced** (unlike hepatectomy for neoplasm)
+- The **Pringle maneuver** with intermittent reperfusion:
+  - Adopted by some centers
+  - Has been shown to result in **less blood loss**
+  - However, the difference **did not reach statistical significance**
+- Possible explanations:
+  - Bleeding from HV tributaries is **not controlled by inflow occlusion**
+  - There is bleeding during the **5-minute reperfusion interval**
+
+## Donor Right Hepatectomy: Ischemic Preconditioning Debate
+
+- Potential advantage of Pringle maneuver: **downregulation of apoptosis pathway** by ischemic preconditioning
+  - Relevant for grafts with long cold ischemic time
+- However, associated with **poorer initial graft function**
+  - Shown by a prospective trial in deceased donor liver procurement
+- For **adult LDLT**, prolonged cold ischemia should **not be an issue**
+  - Graft delivery matches the explantation of the native liver
+
+## Donor Right Hepatectomy: Blood Loss Reduction Strategies
+
+- **Low central venous pressure** can be attained through good rapport with the anesthetist
+  - Proved effective in reducing blood loss
+- **Elevating the head and trunk** by 10–15 degrees
+- **Complete muscle relaxation** of the donor
+- **Cautious use of ultrasonic dissector**
+- These measures are helpful in reducing blood loss **without inflow occlusion**
+
+## Donor Right Hepatectomy: Parenchymal Transection Setup
+
+- After mobilization of the right liver from posterior attachments
+- A **full-thickness suture** at the liver edge on both sides of Cantlie's line
+- Helps open up the transection plane by the **weight of hemostats**
+- Placement of **laparotomy pad behind the right liver** renders the transection plane more vertical
+- But not so excessively as to compromise retraction of the liver during transection
+
+## Donor Right Hepatectomy: CUSA Transection Technique
+
+- Liver parenchymal transection started with **electrocautery or energy source** for the first **1–2 cm** of parenchyma between segments V and IVa
+- The rest of liver transection done using **Cavitron Ultrasonic Surgical Aspirator (CUSA)**
+  - Exposes the **left side of the MHV**
+  - Main trunk lies at **two-thirds the depth** from the superior surface of the liver
+- **Terminal branches of MHV** may be encountered early at division near gallbladder fossa
+  - Can be exposed and traced to main trunk subsequently
+
+## Donor Right Hepatectomy: CUSA Settings
+
+- **Frequency**: 23 kHz
+- **Amplitude**: 60% for normal donor liver
+- **Irrigation**: Normal saline at about **4–6 mL/min**
+- The liver parenchyma is disrupted by **cavitation of the aerosol**
+- **Lower amplitudes**: Operator tends to bring instrument into direct contact with liver parenchyma
+  - Will damage small, friable vessels
+- **Suction**: Set to moderately high level, just enough to provide clear operative field
+
+## Donor Right Hepatectomy: Vessel Management During Transection
+
+- **Electrocautery incorporated into CUSA** allows diathermy of vessels **<1 mm** in diameter
+- If **segment IVb HV inserts into MHV**:
+  - Transection is **stopped** to preserve this vein
+  - Essential for **adequate drainage of left liver**
+- **Identification of segment 4b HV** is facilitated by early and complete exposure of full course of MHV
+
+## Donor Right Hepatectomy: Hilar Plate Management
+
+- At the liver hilum, the **right portal pedicle containing RHD** is dissected
+- **Minimal use of CUSA** in this area
+  - Excessive use may **denude RHD from its blood supply**
+- The line of division already marked and verified by operative cholangiogram is followed
+- Any RHDs are severed with **scissors tangential to the transection plane**
+  - Which is often quite horizontal
+
+## Donor Right Hepatectomy: Biliary Stump Repair & Verification
+
+- The **RHD stump** is repaired by **6/0 polydioxanone continuous suture**
+- An **operative cholangiogram** is performed to confirm:
+  - Patency of the **left bile duct**
+  - Patency of the **main bile duct**
+- This verification step is critical to prevent biliary complications in the donor
+
+## Figure 121.6: Operative Cholangiogram Confirmation
+
+![Figure 121.6](Volume_2_CHAPTER_121.pdf)
+
+- Operative cholangiogram confirms **patent left and main ducts**
+- Ensures no inadvertent injury to donor biliary system
+- Critical quality control step before graft delivery
+
+## Donor Right Hepatectomy: Caudate Lobe & IVC Exposure
+
+- Liver parenchyma **dorsal to the MHV** and the **caudate lobe** are transected until the **IVC is exposed**
+- Lifting up of the **caudate lobe** with a cotton-tape or right-angled forceps facilitates transection
+- Care must be taken to dissect in a **definable plane** between the liver capsule and the IVC
+
+## Donor Right Hepatectomy: Graft Delivery Timing
+
+- To have **short cold ischemic time**, the graft is **not delivered until the recipient is ready** for explanting of the native liver
+- Graft delivery starts with:
+  - Application of clamp onto **proximal RHA**, distal to segment IV hepatic artery
+  - RHA divided with scissors
+  - **Right PV divided** between vascular clamps, applied at right angle to course of main PV
+
+## Donor Right Hepatectomy: Hepatic Vein Division
+
+- The **MHV, RHV, and if present the inferior RHV** are controlled with the **vascular stapler (TA 30; Tyco Healthcare)** before division by scissors
+- **PV stump repair**: To avoid stricture, the right PV stump is sutured in a **transverse manner**
+  - Using **6/0 Prolene continuous back-and-forth sutures**
+
+## Donor Right Hepatectomy: Biliary Leakage Check
+
+- **Biliary leakage and patency of remnant LHD** are checked with:
+  - **Intraoperative cholangiogram**
+  - **Dilute indigocarmine instillation**
+- The indigocarmine in the bile ducts must be **flushed away by normal saline**
+- The **cystic duct** is ligated with **2/0 Vicryl**
+
+## Donor Right Hepatectomy: Remnant Liver Stabilization
+
+- The **remnant left liver** is maintained in anatomic position by **reconstitution of the falciform ligament** with nonabsorbable sutures
+- The **healthy part of round ligament** is also anchored onto the abdominal wall by nonabsorbable suture
+- **Purpose**: Prevents the left liver from rotating into the right subphrenic cavity
+  - Which could cause:
+    - Kinking of the left hepatic vein
+    - Liver congestion
+    - Liver failure
+
+## Figure 121.7: Remnant Left Liver Stabilization
+
+![Figure 121.7](Volume_2_CHAPTER_121.pdf)
+
+- Remnant left liver is prevented from dropping into the right subphrenic space
+- Achieved by **suturing the falciform ligament**
+- Critical step to prevent postoperative venous outflow obstruction
+
+## Donor Right Hepatectomy: Final Checks & Closure
+
+- **Patency of vessels** is verified with **IOUS**
+- The **hepatic flexure of the colon** and corresponding portion of **greater omentum** are allowed to ascend into the right subphrenic space
+  - Prevents adherence of small bowel to transection surface of remnant left liver
+- Care must be exercised to **prevent small bowel going around the hepatic flexure** into the right subphrenic cavity
+- The abdomen is closed **without drainage**
+
+## Donor Right Hepatectomy: Outcomes & Experience
+
+- Outcomes of donor right hepatectomy (including MHV) have **improved with accumulation of experience**
+- In a consecutive series of **200 donor right hepatectomies**:
+  - All including the MHV
+  - Operation time was **shortened**
+  - Blood loss **decreased** with maturity of techniques
+- The skill is **transferable to newer surgeons**
+- Good surgical outcomes achieved under guidance from experienced surgeons
+
+## Inclusion of Middle Hepatic Vein: The Controversy
+
+- An area of **ongoing controversy** in right LDLT is whether or not to include the MHV
+- **Deleterious effects of no drainage** to segments V and VIII include:
+  - Severe venous congestion
+  - Necrosis of these segments
+- The decision to **exclude the MHV** requires demonstration of **collaterals** between segment V and VIII tributaries and the RHV
+
+## Inclusion of Middle Hepatic Vein: Institutional Algorithms
+
+- **Kyoto University algorithm** — include MHV when:
+  - Graft is **MHV dominant**
+  - Graft-to-recipient weight is **<1%**
+  - Remnant left liver is **>35%** in all cases
+- **Chang Gung Memorial Hospital** — includes MHV when:
+  - Graft to estimated standard liver volume is **≤50%**
+  - Segment V and VIII HVs are **large** and RHV is **small**
+- **Tokyo University**: Observed congestion of segments V and VIII after temporary clamping of RHA before determining venous interpositional need
+
+## Inclusion of Middle Hepatic Vein: Authors' Approach
+
+- The authors **include the MHV in all right liver grafts**
+  - For **simplicity and familiarity** of the technique
+- Irrespective of venous drainage pattern of segment IV of remnant left liver, the **segment IVb HV is preserved**
+- **Utmost care** needed for its preservation when it drains into the MHV
+- On the back table, **outflow capacity is guaranteed** by **venoplasty of the MHV and RHV into a single cuff**
+
+## Inclusion of Middle Hepatic Vein: Venoplasty Benefits
+
+- Venoplasty allows:
+  - **More expedient HV-to-IVC anastomosis**
+  - **Higher outflow capacity** of the right liver graft
+- This technique has become a standard part of the authors' protocol
+- Ensures optimal graft function and recipient outcomes
+
+## Donor Left Hepatectomy: Incision & Exposure
+
+- For a donor with **low body mass index**, an **upper midline incision** can provide adequate access
+- The **left coronary ligament** is taken down
+- Adequate mobilization of the left liver requires division of the **ligamentum venosum (Arantius ligament)** between ligatures
+
+## Figure 121.8: Upper Midline Incision for Donor Left Hepatectomy
+
+![Figure 121.8](Volume_2_CHAPTER_121.pdf)
+
+- **Panel A**: Upper midline incision for donor left hepatectomy
+- **Panel B**: Adequate exposure for hilar dissection and liver transection gained by widening the aperture of the costal margin
+- Less invasive approach for appropriately selected donors
+
+## Donor Left Hepatectomy: Biliary Marking & Cholangiogram
+
+- The **LHD**, which may have a short extrahepatic course, is marked by a **large metal clip**
+- The planned line of division is **verified by cholangiogram** under fluoroscopic guidance
+- **Special attention**: Identify an insertion of the **right posterior sectional duct into the LHD**
+  - In this situation, the LHD can only be divided to the **left of the right posterior sectional duct**
+
+## Figure 121.9: Operative Cholangiogram for Left Hepatic Duct
+
+![Figure 121.9](Volume_2_CHAPTER_121.pdf)
+
+- Operative cholangiogram with a large metal clip marking the planned line of division of the left hepatic duct
+- Demonstrates the importance of identifying variant biliary anatomy
+- Prevents inadvertent injury to right posterior sectional duct
+
+## Donor Left Hepatectomy: Hepatic Artery Considerations
+
+- The **middle hepatic artery (MHA)** should be **preserved** when it arises from the **LHA**
+- An MHA that is **not large** and arises from the **RHA** can usually be **sacrificed**
+  - Segment IV will be supplied adequately by **collaterals from the LHA**
+- A **replaced LHA arising from the left gastric artery** allows a good length of isolated artery
+
+## Figure 121.10: Replaced Left Hepatic Artery
+
+![Figure 121.10](Volume_2_CHAPTER_121.pdf)
+
+- **Panel A**: CT with reconstruction of hepatic arteries showing replaced LHA
+- **Panel B**: The replaced LHA is visible in the lesser omentum (arrowhead)
+- **Panel C**: The replaced LHA is isolated and preserved (arrowhead)
+- GDA = Gastroduodenal artery; MHA = Middle hepatic artery; RHA = Right hepatic artery; SMA = Superior mesenteric artery
+
+## Donor Left Hepatectomy: Inflow Control & Transection
+
+- **Temporary inflow control** of the LHA and PV by vascular clamp reveals **Cantlie line**
+- Liver transection is to the **right of the MHV** by CUSA
+- **Caution**: A **low insertion of segment VIII HV into MHV**
+  - This segment VIII vein should be **preserved** for venous outflow of right anterior section of remnant right liver
+  - Inadvertent damage results in **torrential bleeding**
+
+## Donor Left Hepatectomy: Comparison with Right Hepatectomy
+
+- When compared with donor right hepatectomy (also including MHV):
+  - **Blood loss is more significant**
+  - **Operation time is longer**
+- Likely the result of a **larger liver transection surface**
+- The technical complexity reflects the anatomical challenges of left-sided resection
+
+## Segment II and III Donor Hepatectomy: Overview
+
+- Generally, **exposure and hilar dissection** are similar to donor left hepatectomy
+- After isolation of the **LHA and left PV**, an **operative cholangiogram** is obtained
+- A **large metal clip** marks the planned line of division of the LHD
+- **Special attention**: Location of the **right posterior sectional duct**, which may insert into the LHD
+
+## Segment II and III Donor Hepatectomy: Arterial & Parenchymal Management
+
+- If the **MHA supplying segment IV arises from the LHA**, and enough length is distal to it, it can be **preserved**
+  - Otherwise, it is **sacrificed**, and the entire LHA is included in the graft
+- An MHA arising from the **RHA is most favorable** and need not be isolated
+- The liver transection line is about **1 cm to the right of the falciform ligament**
+
+## Segment II and III Donor Hepatectomy: Segment IV & Caudate Management
+
+- The **pedicles supplying segment IV** are:
+  - Isolated
+  - Ligated
+  - Plicated before division
+- The **caudate lobe** is often **not included** in the graft
+  - Because the upper abdomen of the recipient often has **limited space**
+- The **caudate vessels and bile ducts** are ligated, divided, and plicated if needed
+
+## Anatomic Anomalies: Portal Vein Variations
+
+- Besides inadequacy of size and proportion, **anatomic anomalies** may preclude liver donation
+- **Contraindication**: When a **major segmental branch of the right PV arises from the left PV intrahepatically**
+  - Both right and left hepatectomy become too hazardous
+- **Trifurcation of PV branches** (if extrahepatic): Donor operation is still feasible
+
+## Figure 121.11: Portal Vein Trifurcation Management
+
+![Figure 121.11](Volume_2_CHAPTER_121.pdf)
+
+- **Panel A**: CT reconstruction showing separated right anterior and posterior portal vein branches
+- **Panel B**: **Venoplasty** of right anterior and posterior PV branches
+- **Panel C**: **Interpositional portal vein** from recipient sutured to right PV branches
+- These reconstructions are done on the back table
+
+## Anatomic Anomalies: Hepatic Vein Variations
+
+- The **segment III or IVb HV** could at times drain into the MHV
+- **MHV-to-RHV venoplasty** is still feasible in most cases
+- Only with a **very caudal insertion** of segment III and IVb HV to the MHV:
+  - The MHV and segment VIII HV need to be divided caudally
+  - To preserve venous outflow of segment III and segment IV of remnant left liver
+
+## Figure 121.12: Segment III & IVb Hepatic Vein Drainage
+
+![Figure 121.12](Volume_2_CHAPTER_121.pdf)
+
+- **Panel A**: CT showing segment III and IVb hepatic vein draining into MHV
+- **Panel B**: Segment III and IVb hepatic vein is **preserved during liver transection** (arrowhead)
+- **Panel C**: **Venoplasty** of right, middle, and inferior right hepatic veins into a single cuff
+
+## Figure 121.13: Low Insertion of Segment III & IVb Hepatic Veins
+
+![Figure 121.13](Volume_2_CHAPTER_121.pdf)
+
+- **Panel A**: Low insertion of segment III and IVb hepatic veins to MHV
+- **Panel B**: Isolation of segment VIII, III, IVb, and middle hepatic veins
+- **Panel C**: Merging of segment VIII and MHV by venoplasty using 6/0 Prolene
+- **Panel D**: Single-cuffed segment VIII and MHV merged with Gore-Tex interpositional graft, then merged with RHV
+- **Panel E**: Reconstruction with deceased donor iliac artery graft
+
+## Anatomic Anomalies: Biliary Tract Anomalies
+
+- **Biliary tract anomalies** occasionally render a liver graft unsuitable
+- Example: **Multiple small branches** in the biliary system may complicate reconstruction
+- Careful preoperative imaging and intraoperative assessment are essential
+
+## Liver Graft Back-Table Procedure: Timing & Initial Flushing
+
+- To shorten cold ischemic time, the right liver graft is **not delivered until recipient is almost ready** for graft implantation
+- Once delivered, the graft is flushed with **three times the graft volume** of cold **HTK solution** (histidine-tryptophan-ketoglutarate)
+- Flushing performed while immersed in an **ice-sludge basin** on the back table
+
+## Liver Graft Back-Table Procedure: Portal Vein Cannulation
+
+- The **right PV is cannulated** and adapted to the vein wall with **fingers and not ligature**
+- **Separate right anterior and posterior PVs** require **simultaneous flushing with two cannulae**
+- This technique ensures complete flushing of the entire graft without intimal damage
+
+## Figure 121.14: Graft Flushing Technique
+
+![Figure 121.14](Volume_2_CHAPTER_121.pdf)
+
+- **Panel A**: Flushing of right liver graft with HTK solution, adapting nozzle of cannula to right PV with fingers
+- **Panel B**: Simultaneous flushing through right anterior and posterior PVs
+- **Panel C**: Careful cannulation and flushing of the right hepatic artery
+- Avoids inadvertent damage to artery intima which can result in unrecoverable graft loss
+
+## Liver Graft Back-Table Procedure: Arterial & Biliary Flushing
+
+- The **RHA is flushed** with **100 drops of HTK solution** through a **21-Fr angiocatheter** by gravity
+- **Critical warning**: Inadvertent damage to the artery intima can result in **unrecoverable graft loss**
+- The **right anterior and posterior sectional ducts** are also flushed with cold HTK solution
+  - Minimizes duct damage during preservation
+
+## Liver Graft Back-Table Procedure: Venoplasty Technique
+
+- The graft is **weighed** and transferred to another basin with cold HTK solution
+- **Venoplasty of the MHV with the RHV** of the graft is then performed
+- Even though the MHV and RHV are often at a distance of up to **2 cm**, they can be **drawn together** for fashioning of a single venous cuff
+
+## Figure 121.15: Hepatic Vein Venoplasty
+
+![Figure 121.15](Volume_2_CHAPTER_121.pdf)
+
+- **Panel A**: Right and middle hepatic veins with a significant distance
+- **Panel B**: Merging of right and middle hepatic veins into a **single triangular cuff** with minimal trimming
+- This venoplasty allows for expedient and high-capacity outflow anastomosis
+
+## Liver Graft Back-Table Procedure: Venoplasty Length Considerations
+
+- Often misled by planar schematic drawings, some have a false perception of **inadequate length** of MHV wall portion for anastomosis to IVC
+- In practice:
+  - The **IVC is tubular**, with a venotomy made over the RHV stump
+  - It faces the venoplasty of the MHV and RHV
+  - The portion of recipient IVC **between the RHV and MHV** makes up for the deficit in length
+- This preserves the segment IVb HV for venous drainage of remnant left liver
+
+## Left Liver & Segment II-III Graft Venoplasty
+
+- For the **left liver graft** and **segment II and III graft**:
+  - If the MHV and segment II and III vein are separate
+  - They are merged into an **equilateral triangle with a single cuff**
+  - Apex point to the left by venoplasty
+- This facilitates **HV-to-IVC anastomosis** in the recipient
+
+## Left Liver Graft: Special Reconstruction Cases
+
+- Only with a **very low insertion of segment IVb HV to MHV**:
+  - The MHV is divided **caudal to the former**
+  - The MHV is reconstructed with **artificial vascular graft** or deceased donor vessels
+- The **iliac vein is preferred** for ease of handling
+- The segment VIII HV and MHV could be reconstructed with **iliac artery branches** and common iliac artery for anastomosis with RHV
+
+## Donor Postoperative Care: Overview
+
+- Donor hepatectomy (both right and left) is a **major surgical procedure** on a healthy volunteer
+- **Meticulous postoperative care** should be provided by healthcare professionals
+- Postoperatively, the donor is transferred to the **intensive care unit**
+  - Close monitoring of **hemodynamics** and **respiratory function**
+
+## Donor Postoperative Care: Recovery Protocol
+
+- **Early mobilization** and institution of **chest physiotherapy**
+  - Minimize risks of **deep vein thrombosis (DVT)** and **chest infection**
+- **Infiltration of wound by local anesthetic** before wound closure
+  - May reduce wound pain and need for narcotics
+- The donor receives a **6-week course of proton pump inhibitor** for peptic ulcer prophylaxis
+
+## Donor Postoperative Care: Special Considerations
+
+- **Female donors** receiving **hormone replacement therapy** and those taking **oral contraceptives**
+  - Require **aggressive prophylaxis against DVT**
+- These patients are at higher risk for thromboembolic complications
+- Appropriate anticoagulation and early mobilization are essential
+
+## Donor Mortality and Morbidity: Safety as Foundation
+
+- **Donor safety is fundamental to LDLT**
+- As application of LDLT has extended:
+  - From child to adult
+  - From left liver to right liver
+- The **dilemma between recipient success and donor risk** has been highlighted
+- The reported overall **complication rate of donors** is about **20%**
+  - Has been reported as high as **67%** in one series
+
+## Donor Mortality and Morbidity: Mortality Statistics
+
+- A **unified system of complication reporting** may narrow the reported range
+- Although **even one donor death is too many**, there are at least **19 known donor deaths**
+- Estimated mortality:
+  - **Donor right hepatectomy**: 0.1%
+  - **Donor left hepatectomy**: 0.1% (implied, though text is truncated)
+- Mortality is **lower in multicenter series in Japan**
+
+## Donor Mortality and Morbidity: Risk-Benefit Analysis
+
+- In achieving a **5-year recipient survival rate of 80%**:
+  - It takes **one donor life to save 160 recipients**
+- **Quality of life changes** of the donor in comparison to predonation state are less tangible
+- The **long-term biologic consequences** of donor hepatectomy are **not fully known**
+- Nevertheless, decreases in:
+  - **White cell count**
+  - **Platelet counts**
+  - **Elevation of liver transaminases**
+- Are demonstrable even **2 years after right liver donation**
+
+## Conclusion: Ethical Foundation
+
+- Although **donor mortality after LDLT remains a reality**:
+  - Reducing donor mortality and morbidity
+  - Improving recipient survival
+  - Strengthen the **justification for LDLT**
+- With accumulated experience, a **smaller liver graft suffices** in saving a recipient's life
+- Thus, **left LDLT becomes more applicable**
+- However, **reducing donor risk should not increase recipient mortality**
+
+## Conclusion: Professional Responsibility
+
+- Donor hepatectomy is an **ethical challenge**
+  - Once viewed by medical community and society with caution and skepticism
+- Donor procedures can only be **partially justified** by the benefit to a recipient who has **no other treatment options**
+- **Our common ground**:
+  - Commitment to provide care of the **highest standard** to the living liver donor
+  - Perform donor operations in **experienced centers**
+- This is the only way to:
+  - Maintain the **highest quality**
+  - **Decrease donor mortality and morbidity**

@@ -1,0 +1,1272 @@
+---
+title: "Liver Transplantation for Hepatocellular Carcinoma"
+subtitle: "Chapter 108A"
+author: "Garrett Richard Roll and John Paul Roberts"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+---
+
+## Introduction
+
+- Cancer of a solid organ is an uncommon indication for organ transplantation
+- **Hepatocellular carcinoma (HCC)** is an important exception to that general rule
+- HCC is the **most common tumor** treated with whole-organ transplantation
+- Listed as the primary indication in approximately **25% of liver transplantations (LTs)**
+
+## Treatment Options for HCC
+
+Existing treatment options include:
+
+- Hepatic resection
+- Local ablation
+- Liver transplantation (LT)
+
+> In the last 20 years, LT has become the therapy of choice for early-stage malignancy in the setting of cirrhosis.
+
+## Evidence Limitations
+
+- The literature **lacks randomized controlled trials (RCTs)** regarding the treatment of HCC
+- Most centers base their practice guidelines on:
+  - Local experience
+  - Retrospective data
+  - Theoretic decision analyses
+  - Availability of treatment options
+
+## Historical Context
+
+- First LT performed in a patient with HCC in the **1960s**
+- Recurrence has been a concern ever since
+- Before the late 1990s, LT for HCC carried **high recurrence rates**
+- 2-year survival was only approximately **30%**
+
+## Poor Early Outcomes
+
+The poor outcomes were the result of the consensus at that time:
+
+- **Smaller tumors** → treated with liver resection
+- **More advanced disease** → treated with LT
+
+> Discouraging results plagued LT for HCC, until it was noted that subgroups of patients with smaller tumors who underwent LT achieved better outcomes.
+
+## The Milan Trial (1996)
+
+- A group from **Milan, Italy** conducted a prospective trial
+- Published in **1996**
+- Patients with **smaller tumors** achieved 4-year survival rates of **75%**
+- Equivalent to survival for non-HCC patients who underwent transplantation
+- Similar results were seen in the **United States**
+
+## Impact of Milan Criteria
+
+- Changes in patient selection, dictated by the **Milan criteria**, allowed similar results to be reproduced at other centers
+- The **United Network of Organ Sharing (UNOS)** adopted these criteria in **1998**
+- Gave **priority for transplantation** to HCC patients
+
+## Expansion of Indication
+
+- This priority, coupled with the **rise in hepatitis C virus (HCV)** patients (in whom HCC frequently develops), fueled the rapid expansion of this indication for transplantation
+- This chapter discusses LT for HCC, concentrating on:
+  - Its unique pathophysiology
+  - How it relates to diagnosis
+  - How it dictates therapy
+
+## HEPATOCELLULAR CARCINOMA — Overview
+
+- HCC is the **fourth most common cause** of cancer-related death
+- Accounts for **80% of liver cancers** worldwide
+- Fastest rising cause of cancer death in the **United States**
+- Develops in the setting of cirrhosis in **more than 90% of cases**
+
+## HCC Risk in Cirrhosis
+
+| Condition | Annual HCC Risk |
+|---|---|
+| Cirrhosis (any cause) | 2.0%–6.6% per year |
+| Viral hepatitis without cirrhosis | 0.4% |
+
+> The risk of HCC development in patients with cirrhosis from any cause is approximately 2.0% to 6.6% per year versus 0.4% for patients with viral hepatitis without cirrhosis.
+
+## HCC Incidence Trends
+
+- The incidence of HCC was previously **rising for decades**
+- Even with widespread use of **direct-acting antivirals (DAAs)**, HCV will not be eliminated in high-income countries for another **30 years**
+- A large number of patients have lived with HCV cirrhosis for **20 to 30 years** and are aging
+- They remain **at risk** for developing HCC
+
+## Hopeful Developments
+
+- **HBV vaccination** may decrease HCC incidence
+- **DAA success** for HCV may decrease HCC incidence
+- However, the **obesity epidemic** and resultant **nonalcoholic fatty liver disease (NAFLD)** will generate at-risk cirrhotic patients for the foreseeable future
+
+## Overall Survival Variability
+
+- The overall survival (OS) in patients with HCC varies dramatically
+- From **2 months** to **greater than 60 months**
+- This highlights the importance of an in-depth understanding of this cancer and the options to treat it
+
+## Biology of HCC — Introduction
+
+An understanding of the biology of HCC is critical to assist in clinical decision making about:
+
+- Surveillance
+- Treatment
+
+> Although the molecular biology of HCC remains to be fully elucidated, the close association between cirrhosis and the development of HCC is clear.
+
+## Causes of Cirrhosis in the Western World
+
+- **Viral hepatitis** (HBV and HCV)
+- **Chronic alcohol use**
+- **NAFLD** (nonalcoholic fatty liver disease)
+
+## NAFLD Progression
+
+- NAFLD was an unfamiliar diagnosis as recently as the early 1980s
+- Now present in **17% to 30% of Americans**
+- Progresses to **NASH** in 32% to 37%
+- Then to **cirrhosis** in 5% to 24%
+
+## NAFLD-Driven Cirrhosis
+
+The development of cirrhosis in patients with NAFLD is driven by:
+
+- Repetitive liver injury from **lipid peroxidation**
+- **Fatty acid toxicity**
+- **Mitochondrial impairment**
+- **Oxidative stress**
+
+> 2.6% of patients with NASH cirrhosis develop HCC per year.
+
+## HCC from NASH Cirrhosis — Calculation
+
+A rough conservative calculation:
+
+| Parameter | Value |
+|---|---|
+| Americans | 330,000,000 |
+| × NAFLD prevalence | 17% |
+| × Progression to NASH | 32% |
+| × Progression to cirrhosis | 5% |
+| × HCC development rate | 2.6% |
+| **= People developing HCC from NASH/year** | **~23,337** |
+
+## Comparison with HCV
+
+- Prevalence of HCV in the US population: **0.9%** (or 2.3 million people)
+- Expected rate of HCC development in this population over 30 years: **about 1% to 3%**
+
+## Viral Hepatitis — HBV Mechanism
+
+- HBV induces **transgene activation**
+- **Oncogene transcription**
+- **Loss of tumor suppressor genes** as a result of viral DNA integration into the host genome
+- HCC will develop in as many as **30% of patients with chronic HBV without cirrhosis**
+
+## Viral Hepatitis — HCV Mechanism
+
+- HCV does **not integrate** into the host genome
+- Leads to **chronic inflammation** through continued viral replication
+- Rapid hepatocyte turnover in the presence of **oxidative stress** drives the development of multiple **dysplastic nodules**
+
+## Genetic Alterations in HCC
+
+- Unlike some other cancers, **no sequential progression** of genetic defects has been identified
+- A **variety of genetic alterations** are usually seen
+- Broadly grouped into events that occur either **early or late** in tumor development
+
+## Early and Late Mutations
+
+| Timing | Genetic Alteration |
+|---|---|
+| **Early** | Inhibition of insulin-like growth factor II receptors |
+| **Late** | Loss of heterozygosity of tumor suppressor genes (e.g., **TP53**) |
+
+## Clinically Relevant Aspects of HCC Pathogenesis
+
+The clinician must understand three aspects:
+
+1. The **influence of cirrhosis** on HCC development
+2. **Arterial recruitment** of the tumor
+3. The tendency for HCC to **invade portal vein (PV) branches**
+
+## Aspect 1: Cirrhosis and HCC Development
+
+- HCC most often develops in the context of **cirrhosis**
+- The biology of HCC is related directly to the **environment found in the cirrhotic liver**
+- Repeated insult causes **chronic inflammation** driven by:
+  - TNF-α
+  - TGF-β
+  - IL-1
+  - From Kupffer cells, endothelial cells, and hepatocytes
+
+## Nodular Regeneration Pathway
+
+- Inflammation stimulates **nodular regeneration** with bridging fibrosis
+- Rapid cellular turnover leads to:
+  - **Low-grade dysplastic nodules** (mild atypia)
+  - **High-grade dysplastic nodules** (at least moderate atypia)
+  - **Microscopic foci of HCC**
+  - **Frank carcinoma**
+
+## Tumor Cell Contribution
+
+- Tumor cells may secrete **IL-6 and TNF-α**
+- Directly contributing to the inflammatory microenvironment
+- By activating **Toll-like receptors**
+
+## Field Defect Concept
+
+- Because of the **diffuse nature** of liver injury, multiple tumors can develop at the same time
+- If a focus of HCC is removed, **recurrence is most often at a distant site**
+- The second tumor is most likely a **second primary tumor**
+
+> The entire cirrhotic organ has the potential for neoplastic conversion — similar to familial adenomatous polyposis in the colon — referred to as a **field defect**.
+
+## FIGURE 108A.1 — Recurrence Pattern
+
+**Recurrence of HCC after ablation** most often occurs at a site **distant from the primary tumor**, suggesting a second tumor was present at the time of treatment that was too small to be detected.
+
+- Recurrence adjacent to primary lesion
+- Overall recurrence
+- **Recurrence at site different from primary lesion** (most common)
+
+*From Koike Y, et al. Hepatology. 2000;32(6):1216–1223.*
+
+## Aspect 2: Arterial Recruitment
+
+- **Low-grade dysplastic nodules** derive most of their blood supply from the **portal vein**
+- **High-grade dysplasia and HCC** are fed by branches of the **hepatic artery** (unpaired with portal tract structures)
+- This process is called **arterial recruitment** or **neoangiogenesis**
+
+## Consequences of Arterial Recruitment
+
+- The resulting **hepatic artery dominance** in blood supply produces the characteristically **hyperdense appearance** of HCC
+- Used to identify tumors during the **arterial phase of contrast imaging**
+- Allows for treatment by **selective hepatic artery embolization**
+
+## Aspect 3: Vascular Invasion
+
+- HCC is known to **invade vascular structures**:
+  - **Portal vein** (most typical)
+  - Hepatic veins
+  - Biliary tree (less frequently)
+- The development of vascular invasion is a **key step** in the metastatic potential of the tumor
+- Risk of PV invasion is **directly related to size and differentiation status** of the tumor
+
+## Vascular Invasion as Predictor
+
+> Venous invasion is such a strong predictor of metastatic disease that **tumor size and tumor number** can be thought of as **surrogate markers for vascular invasion**.
+
+## Implications for Treatment
+
+- **Microvascular and macrovascular PV invasion** likelihood has implications for treatment decisions
+- Evidence of venous invasion on imaging or biopsy **rules out transplantation**
+- The probability of recurrence is unacceptably high
+- This is why **patients with small tumors** are selected for transplantation
+
+## HCC Screening — Rationale
+
+- Patients with HCC presenting as **symptomatic disease** have a **0% to 10% 5-year survival rate**
+- A screening program identifying **early disease** can have a major impact on treatment outcomes
+- HCC meets the **World Health Organization (WHO) criteria** for performing screening
+- An RCT showed that screening for HCC **reduces mortality**
+
+## Effective Screening Program
+
+An effective screening program:
+
+- Evaluates patients **at risk** for disease
+- Uses a **highly standardized** and relatively **inexpensive** test
+- Has **high sensitivity**
+- Is used if the cost of screening a large population is **less than the benefit** of early detection
+
+## Cost-Effectiveness Threshold
+
+- The ability of a screening program to decrease mortality while remaining cost-effective depends on inclusion of patients with an HCC incidence of **at least 1.4% to 1.5%**
+
+## BOX 108A.1 — Populations for HCC Surveillance
+
+**Causes of Cirrhosis Other Than Hepatitis B:**
+- Hepatitis C
+- Chronic alcohol abuse
+- Hemochromatosis
+- Primary biliary cirrhosis
+
+**Hepatitis B Carriers:**
+- Asian males ≥40 years
+- Asian females ≥50 years
+- HBV carriers with cirrhosis
+- Family history of HCC
+- Africans ≥20 years
+- Noncirrhotic HBV carriers with ongoing hepatic inflammatory activity
+
+## BOX 108A.1 (continued)
+
+**Other Predisposing Conditions:**
+- Nonalcoholic steatohepatitis (NASH)
+- α1-Antitrypsin deficiency
+- Autoimmune hepatitis
+
+> These patients with increased but unknown HCC risk should be screened, but no defined surveillance recommendations currently exist.
+
+## Screening for NASH and Other Conditions
+
+- Screening for HCC in patients with cirrhosis from **NASH, α1-antitrypsin deficiency, and autoimmune hepatitis** is **not considered mandatory**
+- Most centers include these patients in their screening population
+- **Consensus on screening** patients with NASH that do not have cirrhosis is **lacking**
+
+## Alpha-Fetoprotein (AFP) as Tumor Marker
+
+- **AFP** is produced by:
+  - Normal fetal hepatocytes
+  - Tumor cells
+- **Not** produced by healthy, mature hepatocytes
+- Traditionally used for:
+  - Diagnosing HCC
+  - Predicting outcome after resection
+  - Screening for recurrence postoperatively
+
+## AFP Performance
+
+- Normal range: **10 to 20 ng/mL**
+- Screening cutoff: **20 ng/mL**
+- Sensitivity: only about **64%** — making it a **poor screening test**
+- Normal AFP levels vary widely across **ethnic backgrounds**
+- Lower **positive predictive value (PPV)** in patients with acute viral hepatitis or cirrhosis from viral cause
+
+## AFP Diagnostic Role
+
+- In patients with a liver mass, concomitant serum AFP **greater than 200 ng/mL** carries a very high PPV
+- Because of unacceptably low sensitivity and specificity, **AASLD recommended** that serum AFP **no longer be used as a screening tool**
+- Still plays a **diagnostic role**
+- AFP **greater than 400 ng/mL** is considered diagnostic regardless of ethnic background or cause of liver disease
+
+## AFP and Vascular Invasion
+
+- Serum AFP **greater than 1000 ng/mL** is a strong predictor of **vascular invasion**
+- 5-year survival after LT:
+  - AFP >1000 ng/mL: **~50%**
+  - AFP <1000 ng/mL: **~80%**
+
+> AFP greater than 1000 ng/mL is a **contraindication to LT** at most centers
+
+## AFP Rate of Increase
+
+- A rate of AFP increase **greater than 7.5 ng/mL per month** portends **worse outcome**
+- Chemoembolization with subsequent reduction in AFP from >1000 to <500 may result in **satisfactory outcomes**
+
+## Emerging Serum Markers
+
+Research is ongoing to identify better serum markers:
+
+- **AFP-L3**
+- **Des-γ-carboxy prothrombin (DCP)**
+- **Circulating tumor cells**
+- **Cell-free DNA**
+- **Neutrophil-to-lymphocyte ratio**
+
+## Ultrasound (US) Screening
+
+- The most widely used **radiologic screening tool**
+- **Sensitivity:** 65% to 85%
+- **Specificity:** >90% when used as a screening test
+- Performance in patients with cirrhosis is **not as well-defined**
+- **Operator dependent**
+- Remains superior to any widely available serologic screening test
+
+## RCT Evidence for US + AFP
+
+- A large prospective RCT in China suggests surveillance of high-risk individuals with **US and serum AFP testing every 6 months** reduces HCC-related mortality by **close to 40%**
+- Screening compliance was only approximately **60%** — may have dampened the reduction in mortality
+- Patients were offered only resection, not transplantation
+
+## Combined AFP and US
+
+- Combined AFP and US surveillance **increases sensitivity**
+- But raises the **cost**
+- Increases rate of **false-positive results**:
+  - AFP alone: 5%
+  - Combined screening: 7.5%
+- Especially if a **nodule is present**
+
+## AASLD Recommendations
+
+> The AASLD recommends screening patients at risk for HCC with **US alone every 6 to 12 months**.
+
+- Evaluation of serum AFP can be added to US in the event of concerns regarding operator influence
+- The use of AFP as the **lone surveillance tool** is **discouraged**
+
+## Small Nodule Evaluation
+
+- Early HCC can be **difficult or impossible** to distinguish from cirrhotic nodules by US
+- Suspicious nodule **<1 cm**: evaluate for stability by repeat US at **3- to 6-month intervals** for up to **2 years**
+- All **1- to 2-cm nodules**: investigate with a **dynamic contrast-enhanced (CE) imaging modality**:
+  - CT
+  - MRI
+  - US (CEUS not yet adopted in the US)
+
+## CT Screening Considerations
+
+- CT scanning is a frequently used radiologic surveillance tool
+- **Radiation exposure** from screening every 6 to 12 months is **considerable**
+- Use as a screening test has **only been modeled**
+- Cross-sectional imaging tests are the **diagnostic tests** used to confirm HCC
+- The screening test should be **different from the confirmatory test**
+
+## LI-RADS System
+
+- The **American College of Radiology (ACR)** published the **Liver Imaging Reporting and Data System (LI-RADS)**
+- Standardizes categorization of liver lesions in patients with cirrhosis
+- Based on:
+  - Arterial phase hyperenhancement
+  - Lesion diameter
+  - Washout during venous phase
+  - Presence of a capsule
+  - Threshold growth
+
+## MRI for HCC
+
+- MRI has been slowly increasing as a screening tool
+- Proved **sensitive** at detecting HCC in patients with cirrhosis
+- MRI with gadolinium-based or iron oxide-based contrast as a screening test is **not well studied**
+
+## MRI vs CT Specificity
+
+| Modality | Specificity for HCC in Cirrhosis |
+|---|---|
+| MRI (meta-analysis) | 95%–98% |
+| CT | 86%–90% |
+
+## MRI Features Specific for HCC
+
+- **Moderate signal strength on T2-weighted images** is specific for HCC
+  - Dysplastic and regenerating nodules are not hyperintense on T2 (unless infarcted)
+- **Delayed venous phase hypointensity** with concomitant delayed enhancement of the rim
+- More **abbreviated MRI protocols** without T2 and DWI correctly characterize **93% to 96%** of lesions
+
+## Gadoxetic Acid-Enhanced MRI
+
+- Increases sensitivity of MRI for lesions **<2 cm** to **92% to 95%**
+- Specificity of **96% to 98%**
+- Small lesions are frequently **isointense on T2**, making characterization difficult
+- It remains to be seen whether CE MRI is **cost-effective** as a screening tool
+
+## Diagnostic Criteria for Nodules
+
+- **≥2 cm** nodule, hypervascular with PV washout on a **single** dynamic imaging study → treated as HCC
+- **1- to 2-cm** nodule on **two** confirmatory studies → treated as HCC
+- If results are **contradictory** → **biopsy** should be obtained
+- **>2 cm** with typical appearance on a single study + AFP **>200 ng/mL** → biopsy **not required**
+
+## Biopsy Indications
+
+- Biopsy should be performed on any **1- to 2-cm lesion** in any patient **without cirrhosis** who has risk factors for HCC
+- Biopsies should be read by **expert pathologists**
+- Patients with **negative biopsy** results should undergo US or CE imaging every **3 to 6 months**
+- **Rebiopsy** if characteristics change
+
+## High-Risk Biopsy Findings
+
+Biopsy results suggesting high risk for progression to HCC:
+
+- **Dysplastic nodules** (low and high grade)
+- **Small and large cell change** (formerly "small cell dysplasia" and "large cell dysplasia")
+- **Dysplastic foci** (atypia outside of a dysplastic nodule)
+
+## TREATMENT OPTIONS — Overview
+
+- HCC is **not responsive** to traditional cytotoxic chemotherapeutic agents
+- **Sorafenib** (oral multikinase inhibitor) prolonged median survival (10.7 vs. 7.9 months) and time to radiologic progression (5.9 vs. 2.8 months) vs. placebo
+- **Immunotherapy** is evolving rapidly and showing promise in advanced HCC
+- Best options for **early-stage disease** to achieve cure:
+  - Local ablation/embolization
+  - Hepatic resection
+  - Liver transplantation
+
+## Treatment Decision Factors
+
+Treatment decisions should be based on three factors:
+
+1. **Extent of local disease**
+2. **Underlying liver disease**
+3. **Local organ availability**
+
+> Patients with CTP class A liver disease who have early-stage HCC are candidates for treatment with the goal of long-term survival free of HCC.
+
+## Advanced Disease Presentation
+
+- Because of the **advanced biologic activity** of the cancer, **80% to 90% of patients** will present at a later stage
+- Too advanced for surgical resection or transplantation
+- Patients with advanced disease or poor functional status should be offered:
+  - Sorafenib
+  - Immunotherapy
+  - Locoregional therapies
+  - Palliative care
+
+## Resection Considerations
+
+- In the **rare patient without cirrhosis**:
+  - No evidence of venous invasion or metastatic disease
+  - Tumor burden limited to one lobe
+  - **Resection should be considered**
+- In **cirrhotic patients**:
+  - Resection invariably leaves **scattered dysplastic nodules** behind
+  - The tumorigenic cytokine milieu puts the patient at risk for **second primary tumor**
+
+## Recurrence After Resection
+
+Risk of developing recurrence after resection for HCC in patients with cirrhosis:
+
+| Timepoint | Recurrence Rate |
+|---|---|
+| 1 year | ~35% |
+| 3 years | 40%–50% |
+| 5 years | As high as 70% |
+
+> The history of a previous HCC is the **greatest risk factor** in the development of a new primary HCC.
+
+## Rationale for Liver Transplantation
+
+- This **high risk of recurrence** has driven LT as a method to:
+  - Remove the **entire precancerous liver**
+  - Prevent the development of **subsequent lesions**
+- Results of LT have **improved dramatically** in the last 25 years
+- Current recurrence rate: **11% to 18%**
+
+## Mortality After Liver Resection
+
+- The mortality rate after liver resection for HCC is **1% to 7%**
+- The major cause is **decompensated liver failure**
+- Given the risks of HCC recurrence and postoperative liver failure after resection, some **controversy exists** regarding the best treatment strategy
+
+## Current LT Benchmark
+
+- The current **5-year benchmark** is **70% survival** in patients with HCC undergoing LT
+- The **long waiting time** experienced in some regions must also be considered
+- Risk of **tumor progression** while awaiting LT must be balanced against the **risk of recurrence**
+
+## Decision Analysis: Resection vs. Transplant
+
+A decision analysis from 2000 compared:
+
+- **Primary resection + salvage transplantation** for recurrence
+- **vs. Primary LT** in patients with small tumors
+
+> Wait times **shorter than 6 months** favored LT; those **longer than 12 months** favored primary liver resection.
+
+## FIGURE 108A.2 — Cost-Effectiveness
+
+**Mean gain in life expectancy (LE)** and marginal cost-effectiveness ratios provided by orthotopic liver transplantation (OLT) compared with partial hepatectomy as a function of different time delays before receiving a transplant.
+
+| Wait Time (months) | Additional Cost per Life Year |
+|---|---|
+| 1 | $44,454 |
+| 3 | $43,560 |
+| 5 | $53,682 |
+| 7 | $69,106 |
+| 9 | $128,650 |
+
+*From Sarasin FP, et al. Hepatology. 1998;28(2):436–442.*
+
+## Locoregional Therapy While Waiting
+
+- Whether locoregional therapy offers disease control while awaiting LT is **not clear**
+- **Maddala and colleagues**: 54 patients with HCC, average of 3 TACE sessions before LT at median of 211 days
+  - 8 patients dropped off waiting list
+  - 2 for non-HCC reasons, 6 from HCC progression
+  - All progression events occurred within **4 months of listing**
+
+## Hayashi and Colleagues Study
+
+- **20 patients** (median of 2 treatments, mean time to transplantation of 343 days)
+- 7 patients whose tumors were within Milan guidelines dropped off:
+  - 2 for causes unrelated to HCC
+  - 1 for decompensation
+  - 5 for increased intrahepatic disease
+- Time to exclusion for HCC was **<6 months** in 4 of 5 patients
+- **No patients** experienced HCC after LT at mean follow-up of 2.9 years
+
+## Fast-Track Strategy
+
+- Prioritize patients to receive transplant **as soon as possible** without pre-transplant treatment
+- Takes away the ability to **observe tumor biology** in time
+- A subset of patients with newly diagnosed HCC will have **very unfavorable tumor biology**
+- Even if transplanted shortly after diagnosis, they are likely to experience **rapid recurrence**
+
+## Fast-Track Concerns
+
+- Patients with small tumors within Milan criteria have approximately **10% risk of recurrence**
+- This corresponds to the percentage with aggressive histologic characteristics
+- **Fast-tracking** likely would **significantly increase recurrence rates**
+- Recurrence rates were significantly higher in:
+  - Fast-tracked patients
+  - Patients who underwent **LDLT** compared with patients who had longer waiting times
+- Fast-track prioritization is **not cost-effective**
+
+## Recommended Waiting Time
+
+> Even for LDLT, a waiting time of approximately **6 months** is appropriate.
+
+- Patients with large tumor burden initially outside transplant criteria can be **treated until within criteria**
+- These patients must then **wait** before undergoing deceased-donor transplant in the US under UNOS policy
+
+## Low-Risk Subgroup (UCSF)
+
+In 398 consecutive patients with stage T2 HCC listed for LT at UCSF:
+
+- Overall risk of being dropped from waiting list: **9.4% at 6 months** and **19.6% at 12 months**
+- A subgroup had a **significantly lower risk** of tumor progression
+
+## Low-Risk Subgroup Definition
+
+Regression analysis defined this lower-risk subgroup as:
+
+- **Solitary tumor** measuring 2 to 3 cm
+- **AFP level ≤20 ng/mL** after the first locoregional therapy
+- **Complete radiologic response** to the initial locoregional therapy
+
+| Group | 1-year dropout | 2-year dropout |
+|---|---|---|
+| Low-risk subgroup | 1.3% | 1.6% |
+| All other HCC patients | 21.6% | 26.5% |
+
+*(P = .004)*
+
+## RFA Before Transplantation
+
+**Mazzaferro and colleagues:**
+- 50 patients underwent a single ablation session
+- Waited average of 9.5 months before LT
+- No waiting list dropouts
+- At median follow-up of 22 months, only **2 patients** had cancer recurrence
+
+**Lu and colleagues:**
+- 52 patients underwent RFA (mean sessions 1.46)
+- After 12 months, 3 patients dropped out
+- 41 patients underwent transplantation
+- **None** had HCC recurrence at mean follow-up of 15 months
+
+## RFA vs. Resection for Small Tumors
+
+- For small tumors, RFA may be **equivalent to resection** for long-term disease control
+- With a **lower risk** of postoperative liver decompensation
+- Further trials with long-term outcome data are **required**
+
+## Waiting Time Studies — Samoylva
+
+- Compared recurrence rates in patients with HCC:
+  - Waiting **>120 days** for transplant
+  - vs. waiting **<120 days**
+- The risk of recurrence was **40% lower** in patients waiting more than 120 days for transplant
+
+## Waiting Time Studies — Halazun
+
+- Described outcomes from 10 years of transplanting **10,728 patients** with HCC given HCC priority points
+- Compared long vs. short waiting time: **7.6 months vs. 1.6 months**
+
+| Metric | Long Wait | Short Wait |
+|---|---|---|
+| Risk of death awaiting transplant | 8.4% | 1.6% |
+| 5-year survival after transplant | **75%** | 67% |
+
+*(P < .0001)*
+
+## Halazun — Multivariate Analysis
+
+- Shorter waiting time identified as **predictor of worse survival**
+- **Hazard Ratio:** 1.545 (CI: 1.375–1.736; P < .0001)
+- A good oncologic response to locoregional therapy while waiting for LT portends **lower recurrence**
+- The ability to control the rise of serum AFP (AFP response) also portends lower recurrence
+- **AFP slope increase <7.5 ng/mL/month** is favorable
+
+## HCV Treatment with DAAs
+
+- Given the limited side effect profile and success of DAA therapy, many patients with HCV complicated by HCC are undergoing **HCV treatment before LT**
+- Treatment of HCV with DAAs does **not appear to increase** the risk of mortality or HCC recurrence after LT
+- Based on an international multicenter intent-to-treat analysis
+
+## Summary of Treatment Options
+
+- **Resection and ablation**: viable for patients with small tumors without cirrhosis, and for patients with cirrhosis and preserved liver function (normal bilirubin and wedged hepatic vein pressure gradient <10 mm Hg) in regions with very long waiting times
+- **LT**: appropriate for patients with tumors within selection criteria and those with small tumors but poor liver function
+- A **subgroup** with solitary tumor 2-3 cm, AFP ≤20 ng/mL after first locoregional therapy, and complete radiologic response is at **very low risk** to drop off the waiting list
+
+## Summary — Waiting Time Importance
+
+> Some waiting time before transplant allows the **biology of the tumor to declare itself**, and rushing patients to transplant likely **worsens long-term survival**.
+
+- These observations resulted in the institution of a **6-month waiting time interval** from the time of diagnosis before access to deceased-donor LT in the United States
+
+## INDICATIONS FOR TRANSPLANTATION
+
+- An **unlimited supply** of organs and money would allow for a liberal policy of transplantation for HCC confined to the liver
+- Resources are **limited** → efforts must allocate organs to recipients with a high likelihood of long-term survival
+- Recurrence risk is clearly **higher** in patients with more advanced disease
+- Size and number of nodules in the explanted liver is **directly correlated** with the risk of HCC recurrence
+
+## Selection Criteria
+
+Patients with HCC are evaluated based on three factors:
+
+1. **Tumor size** in centimeters
+2. **Number** of radiologically evident tumors
+3. **Evidence of PV invasion** or extrahepatic disease
+
+> These factors are a crude but somewhat effective method for predicting overall tumor biology and subsequent risk of recurrence.
+
+## Preoperative Staging (UNOS)
+
+- **Triple-phase CT scan** of the abdomen to quantify intrahepatic disease burden
+- **CT scan of the chest** to look for extrahepatic disease
+- Can also be accomplished with **MRI of the abdomen** and **noncontrast CT of the chest**
+
+## Limitations of Imaging
+
+- These imaging modalities — the gold standard for HCC imaging — **understage about 20% of patients**
+- Can sometimes also **overestimate** actual tumor burden
+- When explant or resection pathologic correlation is used:
+  - CT scan: only **37% to 75%** sensitive at detecting HCC in cirrhotic liver
+  - MRI with gadoxetic acid-enhanced and DWI: **68% to 97%** sensitive
+- **Bone scintigraphy** is no longer used because of low sensitivity and specificity
+
+## TNM Staging System
+
+- In the United States, the **modified TNM staging system** of the **American Liver Tumor Study Group (ALTSG)** is used to allocate livers from deceased-donors to patients with HCC
+- The original transplantation criteria from the mid-1990s, the **Milan criteria**, are equivalent to **stage I or II** of this TNM classification system
+- Using these criteria:
+  - Recurrence: **4% to 16%**
+  - 5-year survival: **71% to 75%**
+
+## MELD Scoring System
+
+- Implemented in **February 2002**
+- Priority was given to patients with **TMN stage T1 and T2 HCC**
+- Prioritization was **revised in 2004** to no longer include T1 tumors
+- Only patients with **T2 tumors** receive priority listing
+- Reason: ~30% of patients with presumed HCC (single lesion ≤2 cm with arterial enhancement) were found to have **no tumor** in their explant
+
+## Milan Criteria — Too Restrictive?
+
+- It has been suggested that the Milan criteria are **too restrictive**
+- Size criteria are somewhat **arbitrary**
+- Several centers have **extended their criteria** to include highly selected stage III patients
+- A retrospective analysis of 1556 patients at 36 centers:
+  - 1112 patients with tumor burden exceeding Milan criteria on post-transplant pathologic review
+  - 283 patients with no microvascular invasion, tumor burden up to **7 cm** or **7 nodules**
+  - This subset achieved **5-year survival of 71%**
+
+## FIGURE 108A.3 — Milan Criteria
+
+**Milan selection criteria for transplantation:**
+
+- **Single lesion**, not >5 cm
+- **Up to 3 lesions**, none >3 cm
+
+> Equivalent to stage T1 and T2, respectively, of the American Liver Study Group modified TNM classification system.
+
+## UCSF Criteria
+
+The **UCSF criteria** represent a modest expansion of the Milan criteria:
+
+- **Single tumor** <6.5 cm
+- **Maximum of 3 total tumors** with none larger than 4.5 cm
+- **Cumulative tumor size** <8 cm
+
+## TABLE 108A.1 — Modified TNM and UCSF Staging
+
+| Traditional Stage | Tumor Burden | UCSF Stage | Tumor Burden |
+|---|---|---|---|
+| T1 | One nodule ≤1.9 cm | — | — |
+| T2 | One nodule 2–5 cm or two to three nodules all ≤3 cm | — | — |
+| T3 | One nodule >5 cm or two to three nodules, at least one >3 cm | IIIa | One nodule 5.1–6.5 cm, two to three nodules all ≤4.5 cm, or total diameter ≤8 cm |
+| — | — | IIIb | One nodule >6.5 cm, two to three nodules of which one is ≥4.5 cm, or total diameter >8 cm |
+| T4a | Four or more nodules, any size | — | — |
+| T4b | T2, T3, or T4a plus gross intrahepatic portal or hepatic vein involvement | — | — |
+
+## UCSF Criteria Validation
+
+- A retrospective review of preoperative imaging and explant pathology
+- 467 transplantations during a 20-year period
+- **Similar 5-year survival** in patients meeting Milan criteria and UCSF criteria:
+
+| Method | Milan | UCSF |
+|---|---|---|
+| By explant pathology | 86% | 71% |
+| By preoperative imaging | 79% | 64% |
+
+- Survival for patients with tumors **beyond UCSF criteria**: **<50% at 5 years**
+
+## Tumor Burden as Surrogate
+
+> Tumor burden is only a **surrogate** for vascular invasion and microscopic metastatic disease, which, along with extrahepatic disease, limits the effectiveness of LT.
+
+## UNOS Downstaging Criteria (2017)
+
+In 2017, UNOS changed the criteria to allow patients with HCC outside the Milan Criteria a pathway to LT, termed **downstaging**.
+
+Eligible for downstaging:
+
+- **Single lesion** between 5 cm and 8 cm
+- **Two or three lesions** with one between 3 cm and 5 cm and total tumor diameter <8 cm
+- **Four to five lesions** each <3 cm with total tumor diameter <8 cm
+
+> Patients undergo downstaging with locoregional therapy and are eligible for transplant if they have **T2 lesions** after downstaging.
+
+## Impact of Expanded Criteria — Volk Study
+
+- Volk and colleagues examined acceptable outcome risk for transplantation of HCC patients vs. using the organ in a patient without HCC
+- On a national basis, expansion of the Milan criteria would **significantly increase waiting list mortality** unless 5-year post-transplant survival for expanded criteria recipients exceeded **61%**
+- **Dramatic difference** in the effect of a policy change based on **transplant region**
+
+## Regional Variability
+
+- In regions where the risk of death of non-HCC patients is **low** (low MELD score at LT):
+  - HCC criteria could be expanded to allow transplantation with post-transplant survival as low as **25%**
+- In regions where there is a **greater need** for transplantation (higher MELD scores) in the non-HCC population:
+  - Criteria for transplantation in HCC patients must result in post-transplant survival of **70%**
+
+## 2019 UNOS Allocation Changes
+
+- In 2019, UNOS implemented liver allocation based on **acuity circles**
+- Replacing the median MELD at transplant in the DSA or region with the **median MELD at transplant within the acuity circle** surrounding the transplant center
+- Patients with HCC are listed with an **initial exception score of 6**
+- Six months later, the exception score is increased to the **median MELD at transplant minus 3**, where it remains
+
+## Waiting List Screening for HCC
+
+- Patients awaiting LT are **cirrhotic** and therefore at risk for HCC
+- Longer wait times can affect survival
+- Average waiting time varies based on:
+  - **ABO blood group**
+  - **Progression of liver failure**
+  - **Geographic location**
+- Mean waiting time in the US varied widely (**<6 months to >18 months**) before the 2019 UNOS allocation changes
+- For prolonged waiting times, screen patients with **CT or MRI every 3 to 6 months**
+
+## Pre-Transplant Management
+
+- **RCTs** to evaluate different treatment options for patients awaiting LT have **not been completed**
+- The sole published series followed patients undergoing **surveillance without local therapy**
+  - Showed a **high rate of dropouts** from the waiting list due to tumor progression or liver failure
+- Retrospective data suggest cancer-directed therapy should be used if the expected waiting time **exceeds 6 months**
+
+## Pre-Transplant Locoregional Options
+
+Options for pre-transplant locoregional control include:
+
+- **TACE** (transarterial chemoembolization)
+- **TARE** with Y-90 (transarterial radioembolization)
+- **Ablation** with microwave or RFA
+- **Percutaneous cryotherapy**
+- **Ethanol injection**
+- Or some **combination** of these modalities
+
+## TACE Evidence
+
+- Used by many centers because it offers locally effective treatment with a **low risk of complications**
+- Three studies support that TACE may help **reduce attrition** from the pre-transplant waiting list
+- Pre-transplant TACE associated with a dropout rate of only **2% to 14%**
+- Possible added benefit of **lower post-transplant recurrence rate** (8%–10%)
+
+## TACE Decision Analysis
+
+- The greatest impact of neo-adjuvant TACE (greatest reduction in dropout rate) was in patients transplanted within **4 to 9 months**
+- When waiting time was **<4 months**: attrition was similar in treated and untreated patients (20% vs. 34%; P = .08)
+- When waiting times **>9 months**: dropout rates re-equilibrated (33% vs. 46%; P = .06)
+
+## TARE vs. TACE
+
+- **TARE** is becoming a commonly used alternative to conventional TACE
+- In a recent meta-analysis, TARE offered:
+  - **Better overall survival**
+  - **Improved oncologic outcome** compared with TACE
+- The patient characteristics suggesting which therapy is optimal before LT are **not well characterized**
+- Decision varies based on:
+  - Tumor location, number, size
+  - Degree of synthetic liver dysfunction and portal hypertension
+  - Response to previous treatments
+  - Local expertise and expected waiting time
+
+## Percutaneous Ethanol Injection (PEI)
+
+- No studies described PEI as a sole treatment in patients awaiting transplantation
+- Safe and reliable component of **multimodal therapy** for tumors **<3 cm**
+- Uses a small needle, reducing risk of **tract seeding to 0.6%**
+- Requires **several sessions** when used as primary treatment
+- Prospective evidence supporting it as neoadjuvant therapy is **lacking**
+
+## RFA vs. PEI
+
+- A meta-analysis reported **RFA is superior to PEI** in treatment of small HCC with respect to:
+  - Survival and cancer-free survival at 1, 2, and 3 years
+  - Tumor response
+  - Risk of local recurrence
+- Recurrence is more common in patients with tumors **>4 cm**
+- In 95%, it occurs within **6 months** and at a site **distant from the primary tumor**
+
+## Radiofrequency Ablation (RFA)
+
+- Induces **tissue necrosis** by delivering heat at the tip of one or several electrodes
+- **Major complications:** <10% of patients
+- **Mortality:** <1%
+- At least as efficacious as PEI for tumors **<2 cm** but requires fewer treatments
+- RCTs suggest RFA **improves survival**
+- RFA was the preoperative treatment of choice for tumors **>2 cm**
+- More recently, **TARE** is also used in these patients
+
+## Downstaging — Rationale
+
+Two observations fueled the current debate:
+
+1. **Not all tumors of the same size** carry the same risk of recurrence
+2. It is well documented that **some patients outside the Milan criteria** will benefit from LT
+
+> This has led to efforts to select patients with more advanced disease, but with **favorable tumor biology**, who might benefit from LT.
+
+## Downstaging — Concept
+
+The process of downstaging disease to within Milan criteria may be a mechanism for:
+
+- **Identifying patients** with favorable tumor biology
+- **Excluding patients** who do not respond to locoregional ablative therapy
+- Allowing time for **unfavorable biology to manifest**
+
+## Downstaging — UCSF Study
+
+- A prospective intention-to-treat analysis evaluated **61 highly selected patients** with tumor stage exceeding T2
+- An interval of at least **3 months** was required between treatment and transplantation
+- **Downstaging was successful in 70%** of patients
+- Remaining patients dropped out, usually from disease progression
+
+## Downstaging — Results
+
+| Metric | Result |
+|---|---|
+| 1-year post-transplant survival | 96% |
+| 4-year post-transplant survival | 92% |
+
+> Carefully selected patients with disease exceeding the Milan criteria can be downstaged with **excellent post-transplant outcome**.
+
+## Downstaging — Updated Results
+
+An update compared 118 patients undergoing downstaging with 488 patients listed for LT with T2 tumors:
+
+| Metric | Downstaging Group | T2 Group | P-value |
+|---|---|---|---|
+| Received LT after downstaging | 54% | — | — |
+| 5-year recurrence-free survival | 90.8% | 88% | .66 |
+| 5-year intention-to-treat survival | 56.1% | 63.3% | .29 |
+
+## Importance of Waiting Time in Downstaging
+
+- Median time between first treatment and transplantation: **8.2 months** (Yao study) and **9.8 months** (update)
+- This waiting time allows **tumor biology to manifest**
+- Patients with more biologically aggressive tumors **dropped out** during the waiting period
+- Allowing **selection of lower-risk patients** for transplantation
+- A review reinforced: an aggressive downstaging protocol is a **selector of tumor biology** rather than a modulator of tumor behavior
+
+## BOX 108A.2 — UCSF Downstaging Protocol
+
+**Inclusion Criteria for Downstaging:**
+
+- One tumor >5 cm and ≤8 cm
+- Two or three lesions, at least one >3 cm but ≤5 cm, and total tumor diameter ≤8 cm
+- Four or five lesions, all ≤3 cm, and total diameter ≤8 cm
+- **No evidence of vascular invasion** by imaging
+
+## BOX 108A.2 (continued)
+
+**Criteria Defining Success of Downstaging by Imaging:**
+
+- Tumor size and number meeting **UNOS T2 criteria**, or
+- **Complete tumor necrosis** by imaging without suggestion of residual tumor
+
+**Criteria Defining Treatment Failure:**
+
+- Death from any cause before liver transplantation
+- Exclusion from liver transplantation
+- Recurrence of HCC after liver transplantation
+
+## BOX 108A.2 (continued)
+
+**Additional Guidelines:**
+
+- A minimum follow-up period of **3 months** is required before LT, with concomitant imaging studies meeting "success" criteria
+- Approval must be obtained by the **regional UNOS review board** for priority listing
+- Patients can undergo **LDLT** if a donor is available and imaging studies meet selection criteria
+- Patients with **liver decompensation** after downstaging are not eligible unless criteria are met
+- In patients treated with resection as downstaging, **microvascular invasion** in the resection specimen is a **contraindication** to LT
+
+## AFP and Downstaging
+
+- A **rising serum AFP** while on the waiting list suggests aggressive tumor biology
+- Especially if there is concomitant radiologic evidence of tumor progression after locoregional therapy
+- A multicenter European study found **AFP rising at a slope >15 ng/mL/month** was the **best predictor of recurrence** after transplant for patients both inside and outside the Milan criteria
+
+## Large Multicenter Downstaging Cohort
+
+- **4359 LT recipients** with HCC analyzed
+- 789 patients with HCC initially beyond Milan criteria
+- 465 were downstaged and underwent LT
+
+| Metric | Downstaged Group | Always Within Milan |
+|---|---|---|
+| 5-year overall survival | 71.3%–68.2% | Lower |
+| 5-year recurrence-free survival | 64.3%–59.5% | Lower |
+
+> Response to therapy over time is the **most valuable prognostic indicator** of tumor biology.
+
+## Systemic Therapy Before LT
+
+- The role of systemic therapy in concert with locoregional therapy before LT may be evolving but is **not thoroughly studied**
+- Two RCTs showed that the addition of **sorafenib** did **not reduce** waitlist dropout and possibly increased the rate of **biliary complications** after transplant
+- Currently, approximately **1% of patients** receive sorafenib before LT
+
+## Immunotherapy Considerations
+
+- Since 2017, immunotherapy with **checkpoint inhibitors (CPIs)** is quickly changing the landscape of treatment for advanced HCC
+- **Atezolizumab + bevacizumab** combination therapy is likely to become standard of care in the near future
+- CPIs have **not yet been studied** in patients with early or mid-stage HCC
+- CPI exposure in the peritransplant period results in **significantly increased risk of graft loss from rejection**
+  - As high as **54%** in a small review of patients with liver or kidney transplant
+
+## Technical Aspects of LT in HCC
+
+- LT for HCC presents **technical challenges** requiring special consideration
+- Most important: perform the operation based on well-established **oncologic principles**
+  - Clear surgical margins
+  - Avoiding tumor seeding during the procedure
+- The tumor should be handled as little as possible — the **"no-touch technique"**
+- Until the **lympho-vascular pedicle** has been ligated
+
+## Hepatic Artery Ligation
+
+- Hepatic artery ligation at the beginning of the hepatectomy can **theoretically limit tumor dissemination** during dissection
+- However, **no available evidence** suggests that such an approach lowers the post-transplant recurrence risk
+
+## Prior Therapy Considerations
+
+- The transplant surgeon should be aware of prior therapy
+- During **RFA or biopsy**, the needle tract and the diaphragm may be **seeded with tumor**
+- If limited diaphragmatic seeding is identified during native hepatectomy:
+  - Reasonable to perform **diaphragmatic resection with primary repair**
+  - Primary repair of the diaphragmatic defect is usually sufficient
+  - **Tube thoracostomy is not required**
+- **Diffuse seeding** should preclude LT
+
+## Immunosuppression and HCC Recurrence
+
+- Doses of **corticosteroids** and **antimetabolites** have **not** been found to be independent predictors of recurrence
+- High **calcineurin inhibitor (CNI)** levels after transplant are associated with higher recurrence:
+
+| CNI Level | 5-year Recurrence Rate |
+|---|---|
+| Tacrolimus trough >10 ng/mL or cyclosporine trough >300 ng/mL (first month) | **27.7%** |
+| Lower CNI trough levels | **14.7%** |
+
+## mTOR Inhibitors
+
+- In a systematic review of 3666 patients, **mTOR inhibitors** used in patients with greater tumor burden and more vascular invasion achieved **lower rates of recurrence** than patients receiving CNIs
+  - **13.8% vs. 8.0%** (P < .001)
+- Follow-up periods for mTOR inhibitor patients were considerably **shorter**
+
+## mTOR Prospective RCT
+
+- A prospective international RCT of **525 LT recipients** with HCC compared:
+  - mTOR-free immunosuppression
+  - vs. conventional maintenance immunosuppression + mTOR inhibitor
+- The addition of an mTOR inhibitor **modestly improved recurrence-free survival** up to 5 years after transplant
+  - **64.5% vs. 70.2%**
+- The effect on recurrence-free survival was most pronounced in patients with **lowest projected risk** of HCC recurrence rather than those with highest risk
+- Early addition of mTOR and minimization of CNI may result in **less long-term renal dysfunction**
+
+## Predicting and Screening for Tumor Recurrence
+
+- The propensity of HCC to recur after surgical therapy has spurred investigations of potential **biomarkers**
+- **Formalin-fixed tissue** was used for genome-wide expression profiling of normal tissue surrounding HCC
+- A reproducible **expression signature** correlated well with survival
+- Specific regions of **loss of heterozygosity** have been identified that could quantify a patient's risk of HCC recurrence
+
+## Bone Marrow Micrometastases
+
+- Efforts have been made to identify markers of **extrahepatic tumor spread**
+- One attempt: find evidence of **malignant cells in the bone marrow** of patients with HCC
+- This could predict recurrence or survival
+- However, this practice is **not routinely performed**
+
+## AFP mRNA as Biomarker
+
+- A multivariate analysis of **136 patients** undergoing hepatectomy for HCC
+- **Low AFP mRNA levels** identified by real-time quantitative PCR correlated with patient survival and disease-free survival
+
+| Metric | AFP mRNA Negative | AFP mRNA Positive |
+|---|---|---|
+| 1-year survival | 97% | 86% |
+| 3-year survival | 91% | 56% |
+| 1-year disease-free survival | 73% | 55% |
+| 3-year disease-free survival | 45% | 26% |
+
+*(P < .0001)*
+
+## Post-Transplant Screening
+
+- Screening **all patients** with imaging and serum AFP after transplant is **not cost effective**
+- Evidence-based data guiding post-transplant screening of certain populations is **quickly growing**
+- Screening **high-risk patients** (defined by adverse histopathologic characteristics in the explanted liver) is a more promising and potentially cost-effective strategy
+- **70% to 75% of recurrence** occurs within the first **2 years** after transplantation
+
+## RETREAT Score
+
+- A prognostic score was developed to identify patients who would benefit from post-transplant screening
+- Based on:
+  - Presence or absence of **microvascular invasion** on the explant pathology
+  - **Serum AFP** at time of LT
+  - **Sum** of the largest viable tumor diameter and number of viable tumors on explant
+- Later **validated on the UNOS database**
+
+## Recurrence After Transplantation
+
+- Therapeutic options are **somewhat limited**
+- In approximately **40%** of patients with recurrence, HCC recurs at **extrahepatic sites**
+- Chemotherapy is generally **ineffective**
+- **Median survival:** only 8.7 to 21.3 months
+- Recurrence within **2 years** portends a much worse outcome
+
+## Treatment of Recurrence
+
+| Treatment | Notes |
+|---|---|
+| **TACE and TARE** | Commonly used; have prolonged survival somewhat |
+| **Resection** | ~10% of patients with recurrence can achieve long-term survival |
+| **Sorafenib** | Limited success |
+| **Immunotherapy (CPIs)** | May have oncologic efficacy but risks severe rejection and graft loss; generally avoided |
+
+## Salvage Transplantation — Concept
+
+- To better maintain the pool of donor organs, some have argued:
+  - **Primary liver resection** should be first-line therapy for patients with preserved liver function and solitary HCCs **<5 cm**
+  - **Salvage transplantation** can be offered to patients who experience recurrence that falls within the Milan criteria
+- In patients with CTP class A with small solitary HCCs, primary resection achieved **5-year survival of 70%**
+- Comparable to reported survival after primary transplantation for similar-size tumors
+
+## Salvage Transplantation — Screening
+
+> Screening after resection with **US every 3 months** would be an important aspect of any treatment strategy using salvage transplantation for treatment of recurrence.
+
+- The hope is that if patients recur, they will do so with **transplantable disease** within the Milan criteria
+
+## Salvage LT — Study 1 (Adam et al.)
+
+- Retrospective analysis of **358 patients** with cirrhosis and HCC
+  - Transplantation (n=195)
+  - Resection (n=163, of whom 98 were transplant candidates)
+  - Salvage transplantation (n=17)
+
+| Metric | LT | Resection + Salvage LT |
+|---|---|---|
+| Operative mortality | 2% | 28% |
+| Recurrence rate | 18% | 54% |
+| 5-year post-transplant survival | 61% | 41% |
+| Disease-free survival | 58% | 29% |
+
+## Salvage LT — Study 2 (Belghiti et al.)
+
+- **88 patients** meeting Milan criteria underwent LT vs. **18** who underwent resection followed by salvage LT
+
+| Metric | Primary LT | Salvage LT |
+|---|---|---|
+| Morbidity | 51% | 56% |
+| 30-day mortality | 5.7% | 5.6% |
+| 3-year survival | 82% | 82% |
+| 5-year survival | 59% | 61% |
+| Recurrence | 3 | 1 |
+
+## Discordant Results — Possible Reasons
+
+- Differences in **time to salvage transplantation**
+- Differences in **patient selection**
+- Differences in **operative technique** (27% underwent transthoracic resection in the latter study)
+- 7 of 18 patients who underwent "salvage transplantation" in the latter study **did not have recurrence**
+  - Transplanted for deterioration of liver function or pathologic findings
+
+## Theoretical vs. Actual Transplantability
+
+- Poon and colleagues describe an optimistic rate of patients with recurrence who would theoretically be transplantable after resection: **79%**
+- The percentage of patients who have **actually undergone** salvage transplantation, documented in the literature: **1% to 30%**
+
+## Salvage LT — Risk Factors
+
+- **Lee and colleagues**: 114 patients with HCC recurrence after liver resection
+  - **Microscopic PV invasion** at resection = risk factor for HCC recurrence after transplant
+  - **Satellite nodule** at resection = risk factor for HCC recurrence after transplant
+- An intention-to-treat analysis identified predictors of success with salvage LT:
+  - **MELD >10**
+  - **Absence of neoadjuvant TACE**
+  - **Complication-free recovery** from resection
+  - **T1 to T2 disease** at the time of liver resection
+
+## Salvage LT — Current Status
+
+- Reports of recurrence after salvage vary widely: **5% to 54%**
+- Efficacy of resection followed by salvage transplantation is limited by:
+  - Difficulties attending **screening for recurrence**
+  - **Prolonged waiting times**
+  - **Shortage of donor organs**
+- May be a viable option for **patients with HBV without cirrhosis** who have a single lesion
+
+## Future Perspectives — Overview
+
+- LT for HCC offers long-term survival and recurrence-free survival for patients with cirrhosis
+- The **shortage of donor organs** is likely to perpetuate interest in resection and salvage transplantation
+- Currently, **no consensus exists** about an optimal method to select patients for transplantation after resection
+
+## Future Strategy 1: Histopathologic Selection
+
+- Use well-established histopathologic findings to select patients at **high risk for recurrence** after resection:
+  - **Microvascular invasion**
+  - **Multiple nodules** unseen on preoperative imaging
+- Identification of these findings in the resection specimen could **initiate listing for LT**
+- This strategy may select for patients who are at risk for **early recurrence**
+- Concern: patients with vascular invasion in explant are at **increased risk for extrahepatic disease**
+
+## Future Strategy 2: Gene-Expression Profiling
+
+- Takes advantage of recent advances in **gene-expression profiling** of fixed liver tissue
+- From the liver parenchyma **away from the tumor**
+- Can reliably predict risk of **late (de novo) recurrence** by quantifying the **field defect**
+- Could theoretically select the population with a field defect at high risk for late recurrence for transplantation
+- While allowing those with **low risk** to have resection and be followed
+- Remains **investigational**
+
+## Future Strategy 3: Locoregional Therapy + Monitoring
+
+- Treatment of all patients with HCC with **locoregional therapy and downstaging**
+- Monitor for **lack of radiographic HCC progression**
+- Combined with **low post-treatment serum AFP** that does not rise more rapidly than **15 ng/mL/month**
+- Could be used to select candidates for whom transplantation offers a **low risk of recurrence**
+- **Relatively low CNI trough levels** after transplant and use of **mTOR inhibitors** are likely to decrease recurrence
+
+## Areas Requiring RCTs
+
+Even with improvements in overall and cancer-free survival in the last 20 years, many areas of HCC treatment require **RCTs**:
+
+- **Preoperative screening**
+- **Postoperative surveillance**
+- **Downstaging protocols**
+- Nontransplant therapies (re-resection, RFA, TACE, TARE, PEI) need to be evaluated against **salvage transplantation** for patients with recurrence
+- The role of **systemic therapeutic options** in patients undergoing LT is yet to be defined
+
+## Key Takeaways
+
+- **HCC** is the most common tumor treated with whole-organ transplantation
+- **Milan criteria** revolutionized LT for HCC, achieving 71%–75% 5-year survival
+- **UCSF criteria** modestly expanded Milan criteria with validated outcomes
+- **Downstaging** allows selected patients beyond Milan criteria to access LT
+- **Waiting time** of approximately 6 months allows tumor biology to declare itself
+- **AFP** remains important for diagnosis and prognosis, though not recommended for screening alone
+- **mTOR inhibitors** may reduce recurrence compared to CNIs
+- **Salvage transplantation** remains controversial but may be viable for select patients
+
