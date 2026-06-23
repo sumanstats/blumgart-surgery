@@ -1,0 +1,1213 @@
+---
+title: "Hepatic Artery Embolization and Chemoembolization of Liver Tumors"
+format: 
+  revealjs:
+    theme: dark
+---
+
+
+## Learning Objectives
+
+- Understand the vascular basis for transarterial liver-directed therapies
+- Distinguish between TACE, HAE, and HAI
+- Review indications, contraindications, and procedural technique
+- Evaluate therapeutic efficacy across tumor types
+- Recognize complications and their management
+
+---
+
+## Epidemiology of HCC
+
+- HCC is the **most common primary liver cancer** worldwide
+- Only **20%–30%** of HCC patients are candidates for curative surgical treatment
+- Reasons for non-resectability:
+  - Poor liver function
+  - Underlying portal hypertension
+  - Tumor extent
+  - Comorbidities
+
+---
+
+## Limitations of Surgical Treatment
+
+- Even among patients undergoing surgical intervention:
+  - **50%–70%** recurrence rate within 5 years
+- Absence of highly effective systemic therapies
+- → Transarterial liver-directed therapies have assumed a **central role** in management
+
+---
+
+## Distinguishing Transarterial Therapies
+
+| Therapy | Description |
+|---------|-------------|
+| **TACE** | Embolic material + chemotherapeutic agent |
+| **HAE** | Embolic material only (no chemotherapy) |
+| **HAI** | Intraarterial chemotherapy only (no embolization) |
+
+---
+
+## Basic Principles: Dual Blood Supply of the Liver
+
+**Normal Physiology:**
+- Portal vein: **70%–80%** of hepatic blood flow
+- Hepatic artery: Minority contribution to parenchymal perfusion
+
+**Liver Tumors:**
+- **Invert** the normal arteriovenous ratio
+- Derive **up to 90%–100%** of flow from hepatic arterial circulation
+
+---
+
+## Rationale for Arterially Directed Therapies
+
+- Directed endovascular occlusion of tumoral arterioles:
+  - **Selectively induces ischemia** within tumor microenvironment
+  - **Spares nontumorous liver parenchyma** (supplied primarily by portal vein)
+- Directed intraarterial chemotherapy infusion:
+  - **2-fold to 10-fold increase** in tumor drug concentration
+- Agents: doxorubicin, cisplatin, mitomycin C, 5-FU
+
+---
+
+## Hepatocarcinogenesis and Blood Supply
+
+- Hepatocarcinogenesis is a **complex, multistep process**
+- Differential arterialization of tumoral blood supply varies by **tumor development stage**
+
+| Tumor Type | Primary Blood Supply |
+|------------|---------------------|
+| Encapsulated nodular HCC | Near-complete hepatic artery supply |
+| Well-differentiated HCC | All or part portal vein |
+| Extracapsular infiltrating edge | All or part portal vein |
+
+---
+
+## Blood Supply of Liver Metastases
+
+- **Small lesions (<200 mm):** Supplied almost exclusively by sinusoidal blood
+- **Larger lesions:** Undergo progressive arterialization
+- Even in advanced stage, most liver metastases retain **discrete portal blood supply**
+- → Both early- and late-stage metastases may show **incomplete response** to hepatic arterial embolization
+
+---
+
+## Transarterial Chemoembolization (TACE): Theoretical Goal
+
+- Combine two effects:
+  1. **Targeted tumor ischemia** by embolization
+  2. **Antineoplastic effects** of high-dose intraarterial chemotherapy
+- **No consensus** on optimal chemotherapeutic agent or dosing regimen
+- Utility of incorporating chemotherapy into embolization remains **fundamentally unproven** despite decades of research
+
+---
+
+## Chemotherapeutic Agents Used in TACE
+
+| Agent | Frequency of Use |
+|-------|-----------------|
+| Doxorubicin | Most common |
+| Cisplatin | Second most common |
+| Epirubicin | Common |
+| Mitoxantrone | Less common |
+| Mitomycin C | Less common |
+
+---
+
+## Conventional TACE: Emulsion Preparation
+
+**Steps:**
+1. Dissolve chemotherapeutic drug in water or water-soluble contrast agent
+2. Mix with **ethiodized oil (Lipiodol)**
+3. Administer as water-in-oil–type emulsion
+
+**Figure 94A.1: Preparation of Lipiodol-Doxorubicin Emulsion**
+- 10 mg doxorubicin dissolved in 0.5 mL contrast medium
+- Lipiodol and dissolved doxorubicin drawn into interconnected syringes with three-way stopcock
+- Emulsified by vigorous alternate pushing
+- Results in oil-in-water-in-oil emulsion with variable-sized (10–50 mm) water droplets
+
+---
+
+## Pharmacokinetics of Chemotherapy-Oil Emulsions
+
+- Depend substantially on **composition**
+- **Greater oil-to-aqueous phase ratios:**
+  - Superior physical stability
+  - Sustained drug release
+- Optimal ratio maximizes tumor retention and drug delivery
+
+---
+
+## Ethiodized Oil Behavior in Tumors
+
+**Mechanisms of preferential tumor accumulation** (incompletely understood):
+- When intratumoral sinusoids are fully occluded → ethiodized oil flows **retrograde into portal vein** via arterioportal communications
+- **Prolonged retention** in tumor vasculature due to:
+  - Absence of lymphatics
+  - Absence of Kupffer cells in tumor microenvironment
+
+---
+
+## Ethiodized Oil in Normal Liver Parenchyma
+
+- **Nonocclusive** in normal liver
+- Accumulates in terminal portal venules via **peribiliary plexus**
+- Passes into systemic circulation via hepatic sinusoids
+- → Minimal impact on normal parenchyma
+
+---
+
+## Dual Arterial and Portal Embolization Concept
+
+**Figure 94A.2: Subsegmental/Segmental TACE Using Lipiodol**
+
+- **Encapsulated nodular HCC:** Exclusive arterial supply
+- **Extracapsular invasion/small HCC without capsule:** Mixed arterial + portal venous supply
+- Sufficient emulsion injection fills:
+  - Tumor neovasculature
+  - Peripheral portal veins around tumor
+- Subsequent hepatic artery embolization → **combined arterial and portal blockage**
+
+---
+
+## Mechanisms of TACE Action
+
+1. **Tumoral ischemic necrosis** from embolization
+2. **Increased chemotherapeutic dwelling time** — slowing efflux from hepatic circulation
+3. **Potentiated drug absorption** — ischemic damage disrupts transmembrane pumps in tumor cells
+4. **Portal vein contribution** — transient dual embolization effect
+
+---
+
+## Importance of Distal Embolization
+
+- **Proximal arterial occlusion should be AVOIDED**
+- Problems with proximal occlusion:
+  - Development of collateral pathways
+  - Limits treatment effects
+  - May preclude repeat embolization sessions
+- **Optimal:** Distal small particle embolization
+
+---
+
+## Risks of Excessively Small Particles
+
+- Increased risk of toxicity:
+  - Hepatic parenchymal infarction
+  - Biliary necrosis
+  - Arteriovenous shunting to lungs
+  - Systemic circulation embolization
+- Especially risky in tumors with **shunts**
+
+---
+
+## Embolic Materials: Gelatin Sponge
+
+**Historically most frequent agent**
+
+| Characteristic | Detail |
+|---------------|--------|
+| Size distribution | Broad, heterogeneous (up to 1000 mm+) |
+| Embolization level | Generally proximal |
+| Duration | Pseudo-temporary; recanalization over weeks to months |
+| Parenchymal injury | Not significant in patients with good hepatic reserve |
+
+---
+
+## Embolic Materials: PVA Particles
+
+| Characteristic | Detail |
+|---------------|--------|
+| Shape | Irregular |
+| Size calibration | Greater than gelatin sponge |
+| Duration | Permanent or semipermanent |
+| Embolization level | More distal (as low as 50–250 mm) |
+
+---
+
+## Embolic Materials: Trisacryl Gelatin Microspheres
+
+**More recently favored**
+
+| Advantage | Description |
+|-----------|-------------|
+| Precision | Greater precision in size distribution |
+| Shape | Uniform (vs. irregular PVA/gelatin) |
+| Consistency | More predictable embolization |
+
+**Key Point:** No differences in patient outcomes demonstrated between embolic materials — choice reflects **operator preference**
+
+---
+
+## Management of Arteriovenous/Arterioportal Shunts
+
+**Associated with:**
+- Larger tumors
+- May preclude safe TACE
+
+**Management Strategy:**
+1. **Large particle embolization** (300–500 mm) before chemoembolic administration
+2. May delay chemoembolization up to **1 month** for flow redistribution
+3. If particle embolization not feasible → **Sorafenib** as adjunct for shunt reduction
+4. Rare: Large arterioportal shunt → hepatofugal flow, ascites, variceal bleeding → shunt embolization to restore hepatopetal flow
+
+---
+
+## Indications for TACE: Primary Indication
+
+**Most common:** Unresectable (and non-eligible for ablation) HCC
+
+**Resectability determination based on:**
+- Extent of tumor involvement
+- Underlying liver function
+
+**Key consideration:** Cirrhotic patients require **larger liver remnant** after surgery
+
+---
+
+## Patient Selection: Liver Function Requirements
+
+- Patients with poor liver function:
+  - More dependent on arterial blood supply
+  - Less tolerant of extensive arterial embolization
+- Severe cirrhosis patients more likely to die of **underlying liver disease** than HCC
+
+**Recommended criteria:**
+- Child-Pugh class **A or B7**
+- ECOG performance status **0 or 1**
+
+---
+
+## HCC Staging Systems
+
+| System | Notes |
+|--------|-------|
+| French classification | Predicts prognosis |
+| CLIP | Predicts prognosis |
+| CUPI | Predicts prognosis |
+| JIS | Predicts prognosis |
+| **BCLC** | Predicts prognosis **AND** indicates TACE benefit |
+
+**BCLC (2002):** Endorsed by EASL and AASLD
+
+---
+
+## BCLC Staging: TACE Recommendation
+
+**TACE as first-line for intermediate-stage HCC:**
+- Multinodular disease
+- No macroscopic vascular invasion
+- No extrahepatic spread
+- Favorable performance status
+
+**Important:**
+- Less than **15%** of HCC patients initially present at this stage
+- In practice, TACE also used for early-stage (larger) HCC
+- TACE is **most frequently used first treatment** for HCC in Asia and North America
+
+---
+
+## Special Indication: Spontaneous Rupture of HCC
+
+- Indication for embolization **regardless of underlying liver function**
+- Even in advanced liver cirrhosis:
+  - Nodular HCC with exophytic growth
+  - Managed safely by **selective embolization**
+  - Prevents tumor rupture
+  - Without deterioration of liver function
+
+---
+
+## Neoadjuvant and Bridge Therapy
+
+**Potential roles:**
+- Downstaging therapy before resection
+- Bridge therapy for patients awaiting liver transplantation
+
+**Evidence status:**
+- **Conflicting data**
+- Early reports: No improvement in overall survival
+- No change in transplant list dropout rates
+- **Unproven** — methodologically sound prospective data lacking
+
+---
+
+## TACE for Metastatic Liver Disease
+
+**Tumor types that may benefit:**
+- Neuroendocrine tumors (NETs)
+- Gastrointestinal stromal tumors (GISTs)
+- Uveal melanoma
+- Primary breast cancer
+- Primary lung cancer
+
+**Common indications:**
+- Rapid progression with stable/absent extrahepatic disease
+- Symptoms from tumor bulk or hormonal excess
+- Liver-isolated or liver-dominant oligometastatic disease
+
+---
+
+## Contraindications to TACE
+
+| Absolute Contraindications | Relative Contraindications |
+|---------------------------|---------------------------|
+| Decompensated cirrhosis (Child-Pugh B8+) | Major portal vein invasion* |
+| Extensive tumor with massive replacement of both lobes | — |
+| Active GI bleeding | — |
+| Refractory ascites | — |
+| Hepatic encephalopathy | — |
+| Biliary obstruction | — |
+| Severe contrast allergy | — |
+| Uncorrectable coagulopathy | — |
+| Extrahepatic spread | — |
+
+*Can be managed with protocol adjustment in select patients
+
+---
+
+## TACE with Portal Vein Thrombosis
+
+**Figure 94A.3: Diffuse HCC with Main Portal Vein Thrombosis**
+
+**Case:** 70-year-old man
+- Pre-TACE: Child-Pugh A6, AFP 1298 ng/mL
+- CT: Diffuse HCC in right lobe extending into main portal vein
+- Arteriogram: Diffuse hypervascular tumor with extensive arterioportal shunt
+
+**Treatment:**
+- 6 mL Lipiodol + 30 mg doxorubicin emulsion
+- PVA (150–250 mm) + gelatin sponge embolization
+- HAI cisplatin (70 mg) after embolization
+- Three total TACE sessions
+
+**Outcome at 2 years:**
+- Complete remission of diffuse HCC
+- Recanalization of main portal vein
+- Child-Pugh A5, AFP normalized (4.5 ng/mL)
+
+---
+
+## Pre-Procedure Workup
+
+**Laboratory testing:**
+- Complete blood cell count
+- Prothrombin time with INR
+- Creatinine levels
+- Liver synthetic function assessment
+- Baseline tumor markers
+
+**Imaging:**
+- Multiphase CT or MRI of liver
+- Assess: number, size, segmental location, growth pattern
+- Evaluate for macroscopic vascular invasion
+- Chest/abdomen/pelvis imaging for metastatic disease
+
+**Preparation:**
+- NPO overnight
+- IV hydration (before, during, after)
+- Antiemetics and narcotic analgesics IV
+- Contrast allergy: oral steroids and/or antihistamines
+
+---
+
+## Antibiotic Prophylaxis
+
+**Historical practice:**
+- Recommended for all patients, especially those with:
+  - Biliary enteric anastomosis
+  - Prior biliary instrumentation
+
+**Current evidence:**
+- Patients with **intact sphincter of Oddi**: Elimination of post-procedure antibiotics does **not adversely affect outcomes**
+- Supported by SIR guidelines on antibiotic prophylaxis
+
+**Special populations:**
+- Biliary enteric bypass/sphincter dysfunction → biliary-concentrated antibiotics (e.g., piperacillin) recommended
+
+---
+
+## Procedure: Vascular Access and Angiography
+
+**Access:**
+- Seldinger technique
+- Common femoral artery (most common)
+- Radial artery (alternative)
+- Other target arteries as needed
+
+**Initial angiography:**
+- Determine hepatic arterial anatomy
+- Assess portal vein patency
+
+---
+
+## Hepatic Arterial Anatomy Variations
+
+**Common variants encountered:**
+- Right hepatic artery arising from **superior mesenteric artery**
+- Left hepatic artery arising from **left gastric artery**
+
+**Complete angiography requires:**
+- Appropriate catheter selection
+- Appropriate rate and volume of contrast injection
+- All hepatic arteries adequately opacified
+
+---
+
+## Identifying Tumor-Feeding Arteries
+
+**Techniques:**
+- Selective segmental or subsegmental hepatic arteriograms
+- Multiple oblique angles
+- Magnification views
+- **Cone beam CT (CBCT)** and CT arteriography
+
+**CBCT advantages:**
+- Sensitivity for tumor detection: **90%** vs. 67% (conventional angiography)
+- Sensitivity for tumor-feeding artery detection: **93%** vs. 55% (DSA alone)
+
+---
+
+## Treatment Protocol Individualization
+
+**Factors to consider:**
+- Patient's liver function
+- Extent of tumor
+- Presence/absence of macroscopic vascular invasion
+- Baseline functional status
+
+**Key principle:**
+- **Preserve nontumorous liver parenchyma** from:
+  - Ischemia (embolization)
+  - Cytotoxicity (chemotherapy)
+
+---
+
+## Selective vs. Superselective Administration
+
+**Selective/superselective advantages:**
+- Broadest safety margin
+- Spares uninvolved liver parenchyma
+- Improves treatment outcomes
+- Especially beneficial for lesions with **one or two vascular pedicles**
+
+**Technique:**
+- Appropriately sized microcatheter
+- Position in close proximity to tumor
+- Inject ethiodized oil-chemotherapy emulsion
+
+---
+
+## Managing Arteriovenous Shunting During TACE
+
+**If significant shunting present:**
+- Use **large-particle (300–500 mm) embolization** first
+- Reduces risk of chemoembolic passing into systemic circulation
+
+**Risks of systemic passage:**
+- Oil pulmonary embolism
+- Pneumonitis
+- Paradoxic cerebral ischemia
+- Systemic toxicity from chemotherapeutic agent
+
+---
+
+## Emulsion Dosing and Administration
+
+**Doxorubicin dosing:**
+- Typical range: **20–75 mg**
+- Maximum prescribed dose: **150 mg**
+
+**Ethiodized oil volume:**
+- Generally accepted upper limit: **15 mL**
+- Safe administration of up to **40 mL** described in large HCC burden
+
+**For small/medium tumors:**
+- Sufficient oil to saturate tumor neovasculature
+- Partially opacify portal venules
+
+---
+
+## Endpoints for Emulsion Administration
+
+**Stop when:**
+- **Stasis** in tumor-feeding arteries, AND/OR
+- **Appearance of ethiodized oil** in portal vein branches
+
+**Figure 94A.4: Subsegmental TACE Example**
+
+**Case:** 43-year-old man with multinodular HCC
+- Celiac arteriogram: Two hypervascular tumor nodules
+- Larger mass supplied by right posterior segmental branch
+- Subsegmental TACE: 5 mL Lipiodol + 30 mg doxorubicin
+- No additional embolization needed (sufficient stagnation achieved)
+- Lipiodol filling of peripheral portal branch noted
+
+---
+
+## Subsegmental TACE: Long-term Outcome
+
+**Figure 94A.4 (continued)**
+
+**Follow-up findings:**
+- Noncontrast CT: Compact retention of Lipiodol in nodules
+- **2-year follow-up CT:** Shrunken tumors without evidence of viable portion
+- Demonstrates efficacy of selective/subsegmental approach
+
+---
+
+## Importance of Extrahepatic Collaterals
+
+**Embolization of extrahepatic collaterals is CRUCIAL** for successful outcomes
+
+**When to suspect:**
+- Tumor adjacent to hepatic bare area
+- Tumor near suspensory ligaments
+- Tumor invasion into adjacent organ
+- Defect in tumor stain on celiac arteriogram
+
+**Identification:**
+- Thorough review of pre-procedure arterial phase CT
+- Selective arteriograms of possible extrahepatic arteries
+
+---
+
+## Common Extrahepatic Collaterals
+
+| Collateral Artery | Source |
+|-------------------|--------|
+| Inferior phrenic artery | — |
+| Omental artery | — |
+| Internal mammary artery | — |
+| Colic branch (SMA) | — |
+| Adrenal artery | — |
+| Intercostal artery | — |
+| Renal capsular artery | — |
+| Gastric arteries | — |
+
+---
+
+## Extrahepatic Collaterals: Large HCC Example
+
+**Figure 94A.5: Large HCC with Multiple Extrahepatic Collaterals**
+
+**Case:** 43-year-old man
+- CT: Huge hypervascular mass in right hepatic lobe
+- Celiac arteriogram: Well-demarcated hypervascular mass, multinodular confluent
+
+**Collateral supply identified:**
+- Renal capsular artery → tumor stain
+- Right inferior phrenic artery → tumor stain
+
+**Treatment:**
+- 20 mL Lipiodol + 100 mg doxorubicin emulsion
+- Gelatin sponge embolization of right hepatic artery AND extrahepatic collaterals
+
+**Outcome:**
+- Post-embolization: Diffuse Lipiodol uptake in tumor
+- Follow-up: Markedly shrunken tumor with thick capsule, persistent Lipiodol retention, well-preserved nontumorous parenchyma
+
+---
+
+## Extrahepatic Collaterals: Internal Mammary Artery Example
+
+**Figure 94A.6: HCC Supplied by Right Internal Mammary Artery**
+
+**Case:** 34-year-old woman
+- CT: Large tumor abutting anterosuperior diaphragm
+- Celiac arteriogram: Large hypervascular mass with **defect in tumor stain** superiorly (suggesting extrahepatic collateral)
+- Right internal mammary arteriogram: Tumor stain matching the defect
+
+**Treatment:**
+- 15 mL Lipiodol + 50 mg doxorubicin emulsion
+- Gelatin sponge embolization of right hepatic artery AND diaphragmatic branch of right internal mammary artery
+
+**Outcome at 9 years:**
+- Markedly shrunken tumor
+- No evidence of enhancing viable tumor
+
+---
+
+## Extrahepatic Collaterals as Access Routes
+
+**Important consideration:**
+- Extrahepatic collaterals can serve as **access routes to tumors** in patients with **hepatic artery occlusion**
+- Hepatic artery occlusion can occur after:
+  - Multiple prior TACE procedures
+  - Other intraarterial therapies
+
+---
+
+## Cone Beam CT: Intraprocedural Role
+
+**Figure 94A.7: CBCT for TACE Guidance**
+
+**Case:** 49-year-old man with huge hypervascular right lobe HCC
+- Common hepatic arteriography: Multiple feeding vessels
+- **3D volume-rendered CBCT:** Clearly demonstrates tumor feeders, including multiple small central feeding vessels
+
+**CBCT advantages:**
+- Greater detail of vascular anatomy and liver parenchyma
+- Recognize tumor-feeding vessels with greater confidence
+- More selective chemoembolic administration
+- Decrease nontumoral liver parenchyma in treatment zone
+
+---
+
+## CBCT: Additional Applications
+
+**Identification of nontarget embolization risk:**
+- Supraduodenal and retroduodenal arteries
+- Right gastric artery
+- Phrenic artery
+- Falciform artery
+
+**Apportionment of chemoembolic material:**
+- Assess relative contribution of individual feeding arteries
+- More accurate distribution during treatment
+
+**Post-TACE assessment:**
+- Ethiodized oil is intrinsically radiodense
+- CBCT/CT without additional contrast
+- Assess completeness of embolization by percentage of tumor with oil retention
+- If incomplete → identify additional supply sources
+
+---
+
+## Post-Procedure Care
+
+**Immediate:**
+- Continue IV hydration
+- Analgesic and antiemetic medications as needed
+
+**Discharge criteria:**
+- Resumed adequate oral intake
+- IV analgesics no longer required
+- Same day or 1–2 day hospital stay
+
+**Follow-up (2–4 weeks post-procedure):**
+- Repeat liver function tests
+- Repeat tumor markers (where appropriate)
+
+---
+
+## Imaging Follow-Up Schedule
+
+**Modality:** Multiphase contrast-enhanced CT or MRI
+
+**Frequency:** Every **2–3 months** after procedure
+
+**Goals:**
+- Evaluate treatment efficacy
+- Detect local tumor recurrence
+- Detect distant tumor recurrence
+
+---
+
+## Repeat TACE Protocol
+
+**Strategy:** "On-demand" approach
+- Additional embolization only when **progression documented radiographically**
+
+**When to STOP TACE:**
+- No objective response after **two treatments**
+- Clinical or functional deterioration after initial TACE:
+  - ECOG performance status > 2
+  - Hepatic decompensation
+
+---
+
+## Therapeutic Efficacy in HCC: Tumor Necrosis
+
+**TACE induces significant tumor necrosis** in selected patients with sufficient hepatic reserve
+
+| Parameter | Finding |
+|-----------|---------|
+| Extent of necrosis | 60%–100% |
+| Higher rates with | Selective/superselective administration |
+
+**Selective vs. Lobar TACE:**
+
+| Parameter | Selective TACE | Lobar TACE |
+|-----------|---------------|------------|
+| Mean necrosis | 75.1% | 52.8% |
+| Complete necrosis | 53.8% | 29.8% |
+
+---
+
+## Local Recurrence After TACE
+
+**Miyayama et al. study (123 HCCs < 5 cm, 2-Fr microcatheter):**
+- 1-year local recurrence: **25.6%**
+- 3-year local recurrence: **34.7%**
+- Significantly lower recurrence with greater **portal vein visualization** during TACE
+
+**Large tumors:**
+- May appear macroscopically complete
+- Histologic examination often reveals **foci of residual viable tumor cells**
+- Can reestablish vascularity and resume growth
+
+---
+
+## Tumor Characteristics Favoring Response
+
+**Favorable characteristics:**
+- Small size
+- Encapsulated
+- Expansile growth pattern
+- Hypervascular
+
+**Pathologic predictors:**
+- **Trabecular-type HCC:** More prominent necrosis
+- **Scirrhous, compact, or well-differentiated HCC:** Less necrosis
+
+---
+
+## Survival Benefit: Randomized Controlled Trials
+
+**Trial 1 (2002):**
+- TACE (gelatin sponge + doxorubicin) vs. conservative therapy
+- 40 TACE patients vs. 35 control patients
+- **Significantly prolonged overall survival** in TACE group
+- Also included embolization-alone arm (37 patients)
+- **Note:** Trial ended prematurely; no conclusive comparison of TACE vs. embolization alone
+
+**Trial 2 (2002):**
+- TACE (gelatin sponge + ethiodized oil + cisplatin) vs. standard medical therapy
+- 80 patients, evenly randomized
+- **Significantly prolonged survival** in TACE group
+- **But:** Significantly increased rate of death from liver failure
+
+---
+
+## BCLC Intermediate-Stage Outcomes with TACE
+
+**Llovet et al. findings:**
+- Median survival: **19–20 months**
+- 3-year survival: **29%**
+
+**2010 Retrospective study:**
+- Overall median time-to-progression (TTP): **7.9 months**
+
+| BCLC Stage | Median Survival |
+|------------|-----------------|
+| Stage A | 40.0 months |
+| Stage B | 17.4 months |
+| Stage C | 6.3 months |
+
+**Note:** TTP is not a validated surrogate for overall survival in HCC
+
+---
+
+## Geographic Disparities in TACE Outcomes
+
+**Japanese guidelines cohort (4,966 patients):**
+
+| Tumor Burden | Child-Pugh A (3-yr survival) | Child-Pugh B (3-yr survival) |
+|--------------|------------------------------|------------------------------|
+| 2–3 tumors > 3 cm | 55% | 30% |
+| ≥4 tumors | 46% | 22% |
+
+**Japan-Korea study (99 patients with unresectable HCC):**
+- 2-year survival rate: **75.0%**
+- Median TTP: **7.8 months**
+- Median overall survival: **3.1 years**
+
+---
+
+## TACE as Neoadjuvant Therapy Before Resection
+
+**Early studies:** Possible survival benefit with pre-resection TACE
+
+**Subsequent randomized trials:**
+- **No improvement** in:
+  - Postoperative recurrence
+  - Disease-free survival
+  - Overall survival
+- Preoperative TACE group had:
+  - Lower resection rate
+  - Longer operative time
+
+**Conclusion:** Enthusiasm for this approach has **evaporated**
+
+---
+
+## TACE as Bridge to Liver Transplantation
+
+**Background:**
+- LT has best prognosis for early-stage HCC with cirrhosis
+- Waiting times increasing → patients excluded due to tumor progression
+- Dropout rates: 7%–11% at 6 months; up to 38% at 12 months
+
+**TACE as bridge therapy:**
+- Impact still **uncertain** (no controlled studies)
+- Recent series: Dropout rate with TACE: **3.0%–9.3%** (mean wait > 6 months)
+- Post-LT recurrence without neoadjuvant therapy: **<15%**
+
+---
+
+## TACE and Post-Transplant Recurrence
+
+**Studies on recurrence rates:**
+
+| Study | Recurrence Rate (with TACE) |
+|-------|----------------------------|
+| Two large studies | 7.6% and 10.7% |
+| Tsochatzis et al. (150 patients) | 6% (TACE) vs. 18.1% (control) |
+| Case-control study (100 + 100 patients) | TACE not independent predictor of survival or DFS |
+
+**Status:** No prospective randomized trials to evaluate effects of TACE on post-LT recurrence
+
+---
+
+## Downstaging with TACE
+
+**Goal:** Expand selection criteria for LT in advanced HCC
+
+**Challenges:**
+- Wide heterogeneity of published techniques
+- Combination therapies vary
+- True effect on outcomes **remains unknown**
+
+**Reported outcomes:**
+| Parameter | Range |
+|-----------|-------|
+| Successful downstaging | 24%–71% |
+| Successfully transplanted | 10%–67% |
+| 3-year survival | 78.8%–100% |
+| 5-year survival | 54.6%–93.8% |
+
+**Key finding:** Survival after LT in downstaged patients **similar** to those initially meeting criteria
+
+---
+
+## Neuroendocrine Tumors: Overview
+
+**GEP-NETs:** Second most common GI malignancies after colorectal cancer
+
+**WHO Classification:**
+
+| Grade | Former Name | Metastatic at Diagnosis |
+|-------|-------------|------------------------|
+| G1 | Carcinoid | 21% |
+| G2 | Well-differentiated | 30% |
+| G3 | Poorly differentiated | 50% |
+
+- May develop liver metastases in up to **90%** of patients over disease course
+- Tumor grade and metastatic status = most important prognostic factors
+
+---
+
+## NET: Candidate Selection for Locoregional Therapy
+
+| Grade | Treatment Approach |
+|-------|-------------------|
+| G1, G2 | Potential candidates for locoregional therapies |
+| G3 | Generally only systemic treatment (rapid progression, widespread metastasis) |
+
+**Carcinoid syndrome:**
+- Systemic release of hormonal agents
+- Symptoms: rash, hypertension, diarrhea, electrolyte disorders
+- Late stage: hepatomegaly → pain and dyspnea
+- **Goal of embolization therapy:** Reduce liver tumor burden and palliate symptoms
+
+---
+
+## TACE for Neuroendocrine Tumor Metastases
+
+**Symptomatic response:**
+- Overall: **52%–86%**
+- First-line therapy: 70% complete + 20% partial response
+
+**Survival data (Hur et al. retrospective study):**
+- Median overall survival: **38.6 months**
+- Nonpancreatic NET: **55 months**
+- Pancreatic NET: **27.6 months**
+
+**Early TACE results:**
+- 5-year overall survival: **83%**
+- 10-year overall survival: **56%**
+
+---
+
+## NET: Staged TACE for High Tumor Burden
+
+**Figure 94A.8: Staged TACE for Liver Metastasis from NET**
+
+**Case:** 74-year-old woman, NET of unknown origin
+- CT and celiac arteriogram: Multiple hypervascular huge tumors involving **>50%** of liver
+
+**High tumor burden (>50% or >75%):**
+- Associated with poor outcomes
+- **Perform embolization in stages**
+- Sequential lobar treatments
+
+**Outcome after 11 sessions of TACE (30 months):**
+- Markedly improved metastatic lesions
+
+**Additional considerations:**
+- Small tumors / <3 tumors: Combine with local ablation
+- Somatostatin analogs: Reduced carcinoid crisis after embolization
+
+---
+
+## NET: NCCN Guidelines on TACE
+
+**Concern:** Potential for long-term morbidity
+- Low-grade NET patients may experience prolonged survival
+- Hepatic dysfunction can accrue after multiple interventions
+
+**NCCN Recommendation:**
+- **Against** use of drug-eluting bead (DEB)-TACE in NET patients
+- Reason: Higher reported rates of toxicity compared with:
+  - Conventional TACE with ethiodized oil
+  - Transarterial embolization alone
+
+---
+
+## Sarcoma and GIST: Background
+
+**Historical context:**
+- Many GI soft tissue neoplasms previously classified as:
+  - Leiomyomas
+  - Schwannomas
+  - Leiomyoblastomas
+  - Leiomyosarcomas
+- Now classified as **GISTs** based on molecular and immunohistologic features
+
+**Metastatic pattern:**
+- Liver = most common site of metastasis from malignant GISTs
+- Hepatic resection: treatment of choice for single metastasis
+- Majority with liver-dominant metastases: **unresectable**
+
+---
+
+## TACE for GIST Liver Metastases
+
+**Background:**
+- GISTs frequently hypervascular → hepatic embolization effective palliation
+
+**Current role (post-imatinib era):**
+- Imatinib mesylate (Gleevec) — tyrosine kinase inhibitor — highly effective
+- TACE currently recommended for:
+  - Patients who did not respond to TKI
+  - Patients who developed TKI resistance
+
+**Outcomes (small series, 14 patients, 26 TACE sessions):**
+- Median progression-free survival: **7.0 months**
+- Median overall survival: **9.7 months**
+
+---
+
+## GIST: TACE vs. Best Supportive Care
+
+**Figure 94A.9: GIST Liver Metastases TACE Example**
+
+**Case:** 34-year-old woman, gastric GIST
+- CT: Multiple metastatic tumors in both hepatic lobes
+- Celiac arteriogram: Multiple variable-sized hypervascular tumors
+- Treatment: 10 mL Lipiodol + 50 mg doxorubicin, gelatin sponge embolization
+- 8-year follow-up: No viable tumor in liver
+
+**Cao et al. study (60 patients after TKI failure):**
+
+| Parameter | TACE Group | Control Group |
+|-----------|------------|---------------|
+| Median PFS | 30.0 weeks | 12.9 weeks |
+| Median OS | 68.5 weeks | 25.7 weeks |
+
+- Best prognosis: Patients without extrahepatic disease at time of TACE
+
+---
+
+## Colorectal Metastases
+
+**Background:**
+- Colon cancer: Second leading cause of cancer-related death in Western Hemisphere
+- Liver: Most common site of metastasis
+
+**Considerations for TACE:**
+- Liver metastases from colorectal cancer typically less hypervascular
+- TACE generally less effective than for HCC or NET
+- May have role in select patients with liver-dominant disease
+
+---
+
+## Complications of TACE: Overview
+
+**Key principles for minimizing complications:**
+- Careful patient selection
+- Selective/superselective catheterization
+- Appropriate particle size
+- Adequate (not excessive) chemoembolic material
+- Careful post-procedure monitoring
+
+**Major complications:**
+- Postembolization syndrome
+- Liver failure
+- Liver abscess
+- Bile duct injury
+
+---
+
+## Postembolization Syndrome (PES)
+
+**Frequency:** Up to **80%** of patients
+
+**Symptoms:**
+- Pain
+- Fever
+- Nausea
+- Vomiting
+
+**Nature:** NOT a complication — expected phase of recovery
+
+**Etiology (incompletely understood):**
+- Immunologic cascade from ischemic injury
+- Abrupt release of tumoral antigens → systemic circulation
+- Proinflammatory cascade → "flu-like" symptoms
+- Pain: ischemic cell death + hepatic capsular distention + potential nontarget embolization (e.g., cystic artery)
+
+---
+
+## Postembolization Syndrome: Management
+
+**Diagnosis:** Fundamentally **clinical**
+
+**Laboratory findings (transient, mild):**
+- Leukocytosis
+- Elevated hepatic transaminases
+
+**Management:**
+- **Supportive care only**
+- Hydration
+- Antiemetics
+- Analgesics
+- Antipyretics
+
+**Significance:** Most common reason for hospitalization following TACE
+
+---
+
+## Liver Failure
+
+**Most serious complication** of hepatic embolization therapy
+
+**Study findings (197 TACE sessions):**
+- Acute liver failure: **20%** of patients
+- Irreversible failure: **3%** of cases
+
+**Risk factors for irreversible failure:**
+- Hyperbilirubinemia
+- Prolonged prothrombin time
+- Higher dose of chemotherapeutic drug
+- Advanced cirrhosis
+
+**Liver function impact by Child-Pugh class:**
+
+| Class | Impact |
+|-------|--------|
+| A or B | Selective TACE does not typically affect liver function |
+| C | Most hospitalizations due to liver dysfunction |
+
+---
+
+## Liver Abscess
+
+**Frequency:** 0.5%–2% (rare but potentially fatal)
+
+**Predisposing factors:**
+- Portal vein obstruction
+- Treatment of metastatic tumors
+- **Prior biliary enteric bypass surgery**
+- **Sphincter of Oddi dysfunction**
+- **Prior biliary intervention** (most important and common)
+
+**Prevention:**
+- Biliary-concentrated antibiotics (e.g., piperacillin)
+- Continue for several days following embolization
+
+---
+
+## Liver Abscess: Clinical Presentation and Management
+
+**Typical manifestations:**
+- Pain
+- Fever
+- Leukocytosis
+
+**Timing:** May present up to **7–10 days** following embolization
+
+**Management:**
+- Percutaneous abscess drainage
+- Antibiotic administration
+
+**Figure 94A.10:** Demonstrates imaging and management of post-TACE liver abscess
+
+---
+
+## Bile Duct Injury
+
+**Mechanism:**
+- Ischemia within the **peribiliary capillary plexus**
+- Both intrahepatic and extrahepatic bile ducts at risk
+
+**Risk factors:**
+- Nonselective embolization
+- Small particle embolization
+- Repeated TACE procedures
+
+**Prevention:**
+- Selective/superselective catheterization
+- Appropriate particle size selection
+- Avoidance of proximal embolization
+
+---
+
+## Summary: Key Points on TACE
+
+**Vascular basis:**
+- Liver tumors preferentially supplied by hepatic artery (90%–100%)
+- Enables selective tumor ischemia while sparing normal parenchyma
+
+**Technique:**
+- Conventional TACE: Chemotherapy-oil emulsion + particle embolization
+- Selective/superselective approach preferred
+- CBCT enhances tumor detection and treatment guidance
+
+**Indications:**
+- BCLC intermediate-stage HCC (first-line)
+- NET liver metastases (symptom palliation)
+- GIST (after TKI failure)
+- Bridge/downstaging therapy
+
+---
+
+## Summary: Outcomes and Complications
+
+**Outcomes in HCC:**
+- Tumor necrosis: 60%–100%
+- Median survival (intermediate stage): 17–20 months
+- 3-year survival: 29%
+
+**Outcomes in NET:**
+- Symptomatic response: 52%–86%
+- 5-year survival: 83%
+
+**Complications:**
+- PES: 80% (expected, self-limiting)
+- Liver failure: 20% (3% irreversible)
+- Liver abscess: 0.5%–2%
+- Bile duct injury: rare
+
+---
+
+## Conclusions
+
+- TACE remains a **cornerstone** of locoregional therapy for liver tumors
+- **Selective administration** improves efficacy and safety
+- **No consensus** on optimal chemotherapeutic agent — utility of chemotherapy in TACE remains unproven
+- **CBCT** has become central to intraprocedural imaging
+- Careful patient selection and technique minimizes complications
+- Ongoing research needed to define optimal protocols and compare TACE with embolization alone

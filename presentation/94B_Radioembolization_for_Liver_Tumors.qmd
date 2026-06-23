@@ -1,0 +1,343 @@
+---
+title: "Chapter 94B: Radioembolization for Liver Tumors"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+## Overview of Interventional Oncology
+- A rapidly growing branch of interventional radiology.
+- Vital part of multidisciplinary oncologic care.
+- **Minimally invasive nature:** Allows targeted delivery of oncologic treatments.
+- **Goal:** Maximize local effects while minimizing systemic exposure.
+- Focus of this chapter: General concepts of 90Y radioembolization and its clinical applications.
+
+## Rationale: Biological Effects of Radiation
+- Radiation damages cellular DNA, leading to cell death.
+- **Direct action:** Energetic electrons from internal radionuclide decay.
+- **Indirect action:** Production of hydroxyl radicals when secondary electrons interact with water molecules (accounts for two-thirds of x-ray damage).
+- **Mechanisms of cell death:** Mitotic death, apoptosis, and the bystander effect.
+- **Basic principle:** Maximize radiation absorbed dose within diseased tissue while sparing normal tissue.
+
+## Rationale: SIRT vs. Conventional Radiotherapy
+- **Conventional Radiotherapy:** Limited by radiation to normal tissue at entry and exit points.
+- **Brachytherapy (SIRT):** Emits energy internally, limiting normal tissue absorbed doses.
+- **Selective Internal Radiation Therapy (SIRT):** Form of brachytherapy using 90Y.
+- Historically a palliative treatment with acceptable large uncertainties in dose calculations.
+- **Modern SIRT:** Precise instrument for definitive, high-dose, conformal radiotherapy based on dose-response thresholds.
+
+## Transarterial Radiation Delivery
+- Preferential delivery to liver tumors based on two anatomic/pathologic factors:
+  1. **Blood Supply:** Normal liver receives 75% of blood from the portal vein; liver tumors derive 80% to 100% from the hepatic artery.
+  2. **Neovascularization:** Increased microvascular density in liver lesions compared to normal parenchyma.
+- **Result:** 90Y-microspheres accumulate in the tumor periphery at a 3:1 to 20:1 ratio compared to normal liver.
+
+## Microsphere Deposition Principles
+- Microspheres must be deposited in the network of tumor vessels.
+- Particles >3 mm from the tumor lack direct antitumor effect.
+- **Size requirements:** 
+  - Small enough (~20 to 40 microns) for optimal penetration into the tumor plexus.
+  - Large enough to prevent passage through the capillary bed into the venous circulation.
+- **SIRT vs. TACE:** SIRT requires optimal perfusion to generate free radicals; TACE relies on static, ischemic environments.
+
+## Clinically Available 90Y-Microspheres: Physics
+- **90Y Isotope:** Beta particle decaying to 90Zr with a half-life of 64.1 hours.
+- **Energy:** Maximum energy of 2.28 MeV per disintegration.
+- **Imaging:** Generates bremsstrahlung radiation for SPECT/CT confirmation.
+- **Tissue Penetration:** 
+  - Mean depth: 2 to 4 mm.
+  - Maximum depth: 11 mm.
+  - >90% of energy distributed within 5 mm of tissue.
+- **Dose:** 1 GBq uniformly implanted in 1 kg of tissue yields ~50 Gy.
+
+## TheraSphere Device Details
+- **Approval:** FDA-approved under humanitarian device exemption for unresectable hepatocellular carcinoma (HCC).
+- **Composition:** Insoluble, biocompatible glass.
+- **Size & Density:** 20 to 30 microns in diameter; density of 3.3 g/mL.
+- **Specific Activity:** 2500 Bq/sphere at calibration.
+- **Vial Contents:** A 3-GBq vial contains ~1.2 million spheres.
+- **Shelf Life:** 12 days from calibration; unit dosages up to 20 GBq.
+
+## SIR-Spheres Device Details
+- **Approval:** FDA-approved for metastatic colorectal cancer (CRC).
+- **Composition:** Insoluble, biocompatible resin.
+- **Size & Density:** 20 to 60 microns in diameter; density of 1.6 g/mL.
+- **Specific Activity:** 50 Bq/sphere at calibration.
+- **Vial Contents:** A 3-GBq vial contains ~30 to 60 million spheres.
+- **Shelf Life:** 24 hours (can be used up to 3 days before expiration).
+
+## Pretreatment Planning: Patient Selection
+- Requires multidisciplinary evaluation (IR, hepatology, medical/surgical/radiation oncology, nuclear medicine).
+- **Clinical Evaluation:** History, physical exam, laboratory liver function profiling.
+- **Radiologic Imaging:** Unequivocal, measurable evidence of hepatic lesions not amenable to surgery or ablation.
+- **Anatomy:** Conducive for hepatic arteriography.
+- **Best Candidates:** Patients with unresectable liver-only or liver-dominant tumors.
+
+## Dosimetry Methods: TheraSphere
+- Based on delivering an average dose assuming uniform particle distribution.
+- **Volume Assessment:** Routine diagnostic CT or MRI.
+- **Mass Calculation:** Treatment volume multiplied by tissue density (typically 1 kg/L).
+- **Formula:** A = D * m / 50
+  - **A:** Activity in GBq to be administered.
+  - **D:** Prescribed dose in Gy.
+  - **m:** Mass of the treatment volume in kg.
+
+## Dosimetry Methods: SIR-Spheres
+- Traditionally based on whole-liver infusion.
+- Adjusted by patient Body Surface Area (BSA) and tumor burden.
+- **Formula:** A = BSA - 0.2 + (Tumor volume [L] / Total liver volume [L])
+- **Volume Assessment:** Ideally assessed using routine diagnostic CT or MRI.
+- Volumes are used to adjust the baseline BSA calculation to account for tumor replacement.
+
+## Lung Dose Calculation
+- **Method:** Planar 99mTc-MAA scans determine the Lung Shunt Fraction (LSF).
+- **Safety Limits:** 
+  - < 30 Gy per single treatment.
+  - < 50 Gy cumulative.
+- **Formula for Maximum Activity (Amax):** 
+  - Amax = 30 * m_lung / (50 * LSF)
+  - m_lung is the mass of the treatment volume (usually 1 kg).
+- *Note:* Recent studies suggest planar imaging overestimates LSF; patient-specific lung masses via CT are being adopted.
+
+## Limitations of Standard Dosimetry
+- Standard methods prioritize safety (preventing overdose to normal liver/lungs) over tumor dose thresholds.
+- **Consequence:** Leads to underdosing in some patients and mixed clinical trial outcomes.
+- **Spatial Distribution:** Patient outcomes depend on the actual spatial dose distribution, which standard single-compartment models ignore.
+- Need for advanced models: Partition Model (PM) and Voxel Dosimetry (VD).
+
+## Advanced Dosimetry: Partition Model (PM)
+- Computes doses separately for Tumor and Normal Liver (NL) volumes.
+- **Limitations:**
+  1. Assumes uniform microsphere distribution within each compartment.
+  2. Uncertainty in determining Tumor to NL uptake ratio (TNR).
+  3. Inability to address multiple tumors with varying sizes/uptake.
+
+## Advanced Dosimetry: Voxel Dosimetry (VD)
+- Determines individual tumor doses and dose distributions rather than aggregating them.
+- Requires quantitative knowledge of in vivo spatial distribution (Bq/mL).
+- **Imaging:** Accomplished using Y90 SPECT/CT or Y90 PET/CT.
+- **Limitation:** Demands high-quality input images and explicitly accounts for spatial dose deposition.
+
+## Figure 94B.1: Imaging and Dose Estimates
+- **Top Panel (Planning):** 99mTc-MAA SPECT/CT images used for pre-treatment planning.
+- **Middle Panel (Verification):** 90Y-microsphere SPECT/CT images confirming treatment delivery.
+- **Bottom Panel (Dose Map):** Voxel-level dose map with isodose lines showing heterogeneous distribution.
+- **Key Takeaway:** Single-compartment dosimetry estimated 118 Gy to the whole liver, while Partition Model estimated 306 Gy to tumor and 80 Gy to normal liver. Actual voxel mapping revealed >400 Gy in tumor regions and <100 Gy in normal liver.
+
+## HCC: SIRT in Portal Vein Thrombosis (PVT)
+- Role of SIRT in HCC initially explored in the setting of PVT.
+- **2004 Study (Salem et al.):** Demonstrated safety of SIRT in unresectable HCC with PVT.
+- **2008 Phase 2 Study (Kulik et al.):** 108 patients with and without PVT.
+  - No increased risk of hepatic failure or encephalopathy.
+  - No cases of radiation-induced gastritis or pneumonitis.
+
+## HCC: Long-Term Outcomes & PVT Extension
+- **Salem et al. (291 patients):** Time-to-progression (TTP) of 7.9 months.
+- **Prognosis correlates with PVT extension:**
+  - Main PVT: OS of 4.4 to 9.7 months.
+  - Branch PVT: OS of 9.9 to 10.7 months.
+  - No PVT: OS of 15.3 to 15.4 months.
+- **Mazzaferro et al. (2013):** Patients with Child-Pugh A and branch PVT had OS similar to those without PVT (~17-18 months).
+
+## HCC: Prognostic Factors & Super Survivors
+- **Spreafico et al.:** Proposed prognostic score where OS correlated with bilirubin, PVT extension, and tumor burden.
+- **"Super Survivors" (Alive >3 years):**
+  - Imaging response to SIRT.
+  - Child-Pugh Stage.
+  - PVT status.
+  - Segmental (versus lobar) SIRT delivery.
+
+## HCC: SIRT vs. TACE
+- **2011 Retrospective Data:** Similar survival (20.5 vs 17.4 months) but longer TTP for SIRT (13.3 vs 8.4 months).
+- **2016 Meta-Analysis:** No significant survival differences up to 4 years.
+- **PREMIERE Trial (Phase 2, 2016):** 
+  - Significantly longer median TTP for SIRT vs TACE (26 months vs 6.8 months, P = .0012).
+  - No differences in overall survival noted.
+
+## HCC: SIRT vs. Sorafenib (SARAH Trial)
+- **Design:** Phase III, randomized, open-label, multicenter.
+- **Population:** 459 locally advanced HCC patients or those failing two rounds of TACE.
+- **Results:** 
+  - Median OS: 8.0 months (SIRT) vs 9.9 months (Sorafenib).
+  - Median PFS: Similar between groups.
+  - Higher treatment-related adverse events in the sorafenib group.
+
+## HCC: SIRT vs. Sorafenib (SIRveNIB Trial)
+- **Design:** Randomized, phase III, open-label, multicenter.
+- **Population:** 360 patients with locally advanced HCC with/without vascular invasion.
+- **Results:**
+  - Median OS: 8.8 months (SIRT) vs 10.0 months (Sorafenib).
+  - Both trials were "negative" regarding survival benefits of SIRT over sorafenib.
+
+## HCC: Critiques of the Sorafenib Trials
+- **Trial Design:** Superiority trials failing to reject null hypothesis do not prove equivalency.
+- **Operator Expertise:** SIRT requires high skills; heterogeneity in center expertise (e.g., SIRveNIB had 11 centers, only 5 with SIRT facilities).
+- **Dosimetry:** Trials used rudimentary activity calculations without differentiating tumor/normal liver compartments, leading to indeterminate absorbed doses.
+- **PVT Subgroups:** Analyses were not designed to target survival differences according to PVT extension.
+
+## Intrahepatic Cholangiocarcinoma (ICC): Survival
+- **Ibrahim et al. (24 patients):** Median OS 14.9 months; prolonged in ECOG 0, no PVT, peripheral tumors.
+- **Al-Adra et al. (Pooled Analysis):** Overall weighted median survival of 15.5 months.
+- **Morphology Matters:** Infiltrative type median survival 8.2 months vs 19.3 months for peripheral ICC.
+- **Treatment Naive vs Prior Treatment:** Naive patients had significantly better survival (52 vs 16 months).
+
+## ICC: Combination with Chemotherapy
+- SIRT combined with chemotherapy is a promising first-line strategy.
+- **Edeline et al.:** Median PFS 10.3 months; longer when chemo given concomitantly vs before SIRT (20.0 vs 8.8 months).
+- **Phase 2 Clinical Trial:** Combination therapy showed antitumor activity; significant proportion of patients downstaged to surgical intervention.
+- **Recent Multicenter Study (n=115):** Median OS from first diagnosis 29 months; median OS after treatment 11 months.
+
+## Table 94B.1: Primary Liver Cancers (HCC)
+| Study | Arms | Design | Population | Summary of Results |
+|---|---|---|---|---|
+| **SARAH** | SIRT vs. sorafenib | Phase III, randomized | 459 locally advanced HCC (failed TACE) | No differences in OS (8 vs 9.9 mo) and PFS |
+| **SIRveNIB** | SIRT vs. sorafenib | Phase III, randomized | 360 locally advanced HCC | No differences in OS (8.8 vs 10 mo) and PFS |
+
+## Table 94B.1: Primary Liver Cancers (ICC)
+| Study | Arms | Design | Population | Summary of Results |
+|---|---|---|---|---|
+| **Edeline J** | SIRT + Chemo | Phase II | 41 unresectable ICC (treatment naive) | Median OS 22 mo; 22% downstaged to surgery |
+| **Mosconi** | SIRT | Retrospective | 23 unresectable ICC | Longer survival in naive vs previously treated (52 vs 16 mo) |
+
+## Colorectal Liver Metastasis (CLM): Overview
+- **Gold Standard:** Liver resection (curative), but only 20% are eligible.
+- **Unresectable Patients:** Receive systemic therapy with biological agents.
+- **Role of SIRT:** 
+  - Combined with first-line systemic therapy.
+  - Salvage locoregional therapy.
+  - Bridge to surgery.
+
+## CLM: SIRT with First-Line Therapy (Early Studies)
+- **Gray et al. (Phase III):** SIRT + Floxuridine HAI vs HAI alone.
+  - Longer time to liver progression (15.9 vs 9.7 months).
+  - Reduction in CEA levels.
+- **Van Hazel et al. (Phase II):** SIRT + 5-FU/Leucovorin vs Chemo alone.
+  - Better median survival (29.4 vs 12.8 months).
+  - Longer time to progression (18.6 vs 3.6 months).
+
+## CLM: The SIRFLOX Study
+- **Design:** Phase III randomized trial (530 patients).
+- **Arms:** mFOLFOX6 + Bevacizumab vs. same + single SIRT.
+- **Primary Endpoint:** Overall progression-free survival (PFS) - No difference.
+- **Secondary Endpoint:** Liver-specific PFS significantly improved in SIRT arm (20.5 vs 12.6 months, P = .002).
+
+## CLM: FOXFIRE Combined Analysis
+- **Design:** Combined analysis of 3 Phase III trials (1103 patients).
+- **Arms:** FOLFOX vs FOLFOX + SIRT.
+- **Overall Survival:** No improvement in OS with SIRT addition.
+- **Liver-Specific:** Improvement in liver-specific PFS and best radiologic response.
+- **Subgroup Analysis:** Right-side primary tumors showed improved OS with SIRT (22.0 vs 17.1 months).
+- **Critique:** BSA dosimetry methodology may not be optimal; personalized dosimetry is critical.
+
+## Table 94B.2: CLM Studies (Part 1)
+| Study | Arms | Design | Population | Summary of Results |
+|---|---|---|---|---|
+| **Gray** | HAI vs HAI + SIRT | Phase III | 74 bilobar CLM | Improved liver PFS (15.9 vs 9.7 mo) |
+| **Van Hazel** | 5-FU vs 5-FU + SIRT | Phase II | 21 advanced CLM | Improved OS (29.4 vs 12.8 mo) |
+| **SIRFLOX** | mFOLFOX6 vs + SIRT | Phase III | 530 liver-only/dominant CLM | Improved liver PFS (20.5 vs 12.6 mo) |
+
+## Table 94B.2: CLM Studies (Part 2)
+| Study | Arms | Design | Population | Summary of Results |
+|---|---|---|---|---|
+| **FOXFIRE Combined** | FOLFOX vs + SIRT | Combined Phase III | 1103 unresectable CLM | Improved liver PFS; OS benefit in right-side primary |
+| **Hendlisz** | 5-FU vs 5-FU + SIRT | Phase III | 46 chemorefractory CLM | Improved time to liver progression |
+
+## CLM: Second-Line and Salvage Therapy
+- Used as second-line monotherapy (OS rates 12 to 14.7 months).
+- **EPOCH Trial:** Ongoing multicenter Phase III study defining the role of SIRT + second-line systemic therapy vs systemic alone.
+- SIRT provides meaningful survival benefits in chemorefractory populations, on par with modern third-line chemotherapy regimens.
+
+## CLM: Chemorefractory Disease
+- **Hendlisz et al. (Phase III):** 5-FU + SIRT vs 5-FU alone.
+  - Time to liver progression: 5.5 vs 2.1 months.
+  - Trend in median OS: 10 vs 7.3 months.
+- **Phase II Multicenter Study (50 patients):** Failed prior irinotecan/oxaliplatin.
+  - Median OS: 12.6 months.
+  - PFS and TTP: 3.7 months.
+
+## CLM: Bridge to Surgery & Radiation Lobectomy
+- **Borderline Resectable:** SIRT can downstage marginally resectable CLM to potentially resectable disease.
+- **Radiation Lobectomy/Segmentectomy:** 
+  - Provides local tumor control.
+  - Induces future liver remnant (FLR) hypertrophy.
+  - Safe and effective technique compared to other regenerative techniques.
+
+## Breast Cancer Liver Metastasis
+- Advocated for patients progressing on standard polychemotherapy.
+- **Phase II Study (30 patients):** Whole-liver SIRT showed partial response in 61%, stable disease in 35%.
+  - Median survival: 23.6 months (responders) vs 5.7 months (non-responders).
+- **Retrospective Analysis (83 patients):** Median OS 35 weeks.
+  - Sequential lobar SIRT and absence of prior angiosuppressive therapy lowered adverse events.
+  - PI3K pathway mutations correlate with imaging response.
+
+## Melanoma Liver Metastasis
+- **Cutaneous Melanoma:** Improved PFS/OS with immunotherapy/targeted agents.
+- **Ocular (Uveal) Melanoma:** Poor response to immunotherapy; distinct cytokines make them resistant to anti-PD1/ipilimumab.
+- **Phase II Trial (Uveal Melanoma):**
+  - Group A (Treatment-naive): Tumor stabilization 87%. Median PFS 8.1 mo, OS 18.5 mo.
+  - Group B (Post-immunoembolization): Stabilization 58.3%. Median PFS 5.2 mo, OS 19.2 mo.
+  - No radiation-induced liver disease recorded.
+
+## Neuroendocrine Cancer Liver Metastasis
+- Rare hormone-secreting malignancies (e.g., carcinoid tumors).
+- Can cause debilitating syndromes (carcinoid syndrome, VIPomas).
+- **Meta-Analysis (424 patients):** Weighted average disease control rate 86%.
+- **Multicenter Study (244 patients):** Disease control rate 91%; symptom alleviation in 79% of symptomatic patients.
+- **Guidelines:** Recommended for unresectable NETs with low tumor burden progressing on octreotide/lanreotide.
+
+## Posttreatment Management: Response Assessment
+- **HCC / ICC:** 
+  - Use viability-based criteria (mRECIST, EASL).
+  - Arterial tumor enhancement surrogates for viability.
+  - Changes occur up to 2 months post-SIRT, preceding size changes (4-6 months).
+- **Secondary Liver Cancers:** 
+  - Tumor size is the main surrogate.
+  - Shrinkage takes several months.
+  - Pseudoprogression (edema, hemorrhage, necrosis) is common.
+  - vRECIST and total lesion glycolysis used to address pseudoprogression.
+
+## Complications: Postradioembolization Syndrome
+- **Incidence:** 20% to 55%.
+- **Symptoms:** 
+  - Fatigue
+  - Nausea and vomiting
+  - Anorexia
+  - Fever
+  - Abdominal discomfort
+  - Cachexia
+- Generally self-limiting and managed supportively.
+
+## Complications: Hepatic Dysfunction
+- **Radiation-Induced Liver Disease (REILD):** 
+  - Incidence: 0% to 30% (most reports 0% to 8%).
+  - Lethal outcome: 0% to 5%.
+- **Cause:** Exposure of normal liver parenchyma to high radiation doses.
+- **Clinical Presentation:** Biochemical aberrations with minimal clinical manifestations, but can lead to failure.
+
+## Complications: Biliary Sequelae & Pneumonitis
+- **Biliary Sequelae:** 
+  - Incidence < 10%.
+  - Radiation-induced injury to biliary structures.
+  - Mostly asymptomatic; cholecystitis requiring surgery < 1%.
+- **Radiation Pneumonitis:** 
+  - Incidence < 1% (with standard dosimetry).
+  - Restrictive ventilatory dysfunction; "bat-wing" appearance on CT.
+  - Managed with steroids; prevented by keeping lung dose < 30 Gy/treatment.
+
+## Complications: Gastrointestinal Issues
+- **GI Ulceration:** Incidence well below 5% with proper percutaneous techniques.
+- **Cause:** Ectopic distribution of microspheres into the GI tract lining.
+- **Management:** Usually responds to proton pump inhibitors; refractory cases require surgery.
+- **Prevention:** 
+  - Pretreatment angiography to identify/embolize hepaticoenteric collaterals.
+  - 99mTc-MAA scan to identify splanchnic flow.
+
+## Summary & Conclusion
+- 90Y radioembolization is a novel, minimally invasive locoregional therapy.
+- **Advantages:** Acceptable safety profile, outpatient nature, growing efficacy evidence.
+- **Requirements for Success:** 
+  - Careful patient selection.
+  - Patient-specific dosimetry (moving beyond BSA/single-compartment models).
+  - Multidisciplinary/multiprofessional team expertise.
+- **Future Directions:** Advanced dosimetry is critical to maximize oncologic benefit while preserving non-tumorous liver function, addressing the negative OS outcomes seen in some recent large trials.
