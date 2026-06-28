@@ -1,0 +1,472 @@
+---
+title: "Segmental Resection"
+format: 
+  revealjs
+---
+
+
+## Introduction
+- Liver resection plays an increasingly important role in managing benign, primary, and metastatic liver tumors.
+- Historically, high morbidity and mortality limited their use.
+- Advances have reduced intraoperative blood loss and allowed for the preservation of liver parenchyma via segment-oriented resection.
+
+---
+
+## Benefits of Segmental Resection
+- Resection of individual segments or sectors rather than an entire lobe.
+- Allows for maximal conservation of normal liver parenchyma.
+- Optimizes oncologic outcomes.
+- Especially important in patients with underlying hepatocellular dysfunction or limited future residual volume.
+
+---
+
+## Basis of Segmental Liver Surgery
+- Advances in understanding liver anatomy.
+- Improvements in radiographic technology.
+- These two elements provide the foundation for precise segmental liver surgery.
+
+---
+
+## General Principles: Anatomy and Terminology
+- Lortat-Jacob et al. reported one of the first anatomic liver resections for cancer in 1952.
+- Claude Couinaud solidified the current understanding using vascular and biliary casts.
+- Couinaud determined the liver comprises eight segments.
+- Each segment has independent vascular inflow, outflow, and biliary drainage.
+
+---
+
+## Couinaud's Eight Segments
+- Bismuth further confirmed in 1982 that individual segments could be resected independently.
+- This segmental anatomy evolved to become the standard for hepatic nomenclature.
+- However, significant variation in terminology existed between America, Europe, and Japan.
+
+---
+
+## FIGURE 118B.1: Schematic of Liver Segments
+*Relationships of liver segments to hepatic and portal veins*
+- Portal veins mark borders between segments 4A/4B, 5/8, and 6/7.
+- Left hepatic vein divides segments 2 and 3.
+- Middle hepatic vein separates right and left lobes.
+- Right hepatic vein separates right anterior and posterior sections.
+
+---
+
+## Brisbane 2000 Terminology
+- Aimed to eliminate international variation and standardize terminology.
+- Proposed three orders of division:
+  1. **Hemiliver** (first-order)
+  2. **Section** (second-order)
+  3. **Segment** (third-order)
+- These orders are not interchangeable, providing universal terminology for better communication.
+
+---
+
+## TABLE 118B.1: Second-Order Divisional Resections
+| Anatomic Term | Alternative Term | Surgical Resection | Segments |
+| :--- | :--- | :--- | :--- |
+| Right anterior section | Right anterior sector | Right anterior sectionectomy | 5, 8 |
+| Right posterior section | Right posterior sector | Right posterior sectionectomy | 6, 7 |
+| Left medial section | Segment 4 | Segmentectomy 4 | 4 |
+| Left lateral section | Left lateral segment | Left lateral sectionectomy | 2, 3 |
+
+---
+
+## TABLE 118B.1: Third-Order and Atypical Resections
+| Anatomic Term | Alternative Term | Surgical Resection | Segments |
+| :--- | :--- | :--- | :--- |
+| Segments 1-8 | - | Segmentectomy 1-8 | 1-8 |
+| Bisegmentectomy | - | Bisegmentectomy | 5, 6; 7, 8 |
+| Segments 4, 5, 8 | Central hepatectomy | Mesohepatectomy | 4, 5, 8 |
+
+---
+
+## FIGURE 118B.2: Liver Segments
+*Segments of the upper liver (A) and lower liver (B)*
+- Shows spatial relationships of segments I through VIII.
+- Demonstrates the paths of the Left (LHV), Middle (MHV), and Right (RHV) hepatic veins.
+- Illustrates the position of the Inferior Vena Cava (IVC).
+
+---
+
+## Precise Surgical Anatomy
+- **First-order divisions:** Right liver (segments V-VIII) and Left liver (segments I-IV).
+- Boundary lies along Cantlie's line, marked by the path of the Middle Hepatic Vein (MHV).
+- Runs from the middle of the gallbladder fossa to its termination in the IVC.
+
+---
+
+## Second-Order Division: Sections
+- Based on hepatic arterial supply and biliary drainage.
+- Derived from primary divisions of major right and left portal triads.
+- **Right hemiliver:** Right anterior (V, VIII) and Right posterior (VI, VII) sections, separated by RHV.
+- **Left hemiliver:** Left lateral (II, III) and Left medial (IVa, IVb) sections, separated by umbilical fissure and falciform ligament.
+
+---
+
+## Third-Order Division: Segments
+- Segments I through VIII.
+- Defined by hepatic arterial supply and biliary drainage.
+- Axial plane is at the level of the intersection of the hepatic veins and the bifurcation of the portal vein.
+- Important to identify common anomalies on preoperative imaging.
+
+---
+
+## FIGURE 118B.3: Intrahepatic Biliary Anatomy
+*Known anatomic variations by frequency*
+- Anatomy A (57%) is the most common, conventional anatomy.
+- Multiple variations exist (B through F) with varying frequencies.
+- Highlights the importance of preoperative imaging to avoid iatrogenic injury.
+
+---
+
+## Hepatic Venous vs. Portal Venous Anatomy
+- Surgeon must choose to follow either hepatic venous outflow or portal pedicle inflow.
+- The two are largely overlapping but not exactly the same.
+- The choice varies based on tumor histology and geographic region of practice.
+
+---
+
+## Portal Venous Approach (Asian Practice)
+- Common in Asia where Hepatocellular Carcinoma (HCC) is more prevalent due to hepatitis B.
+- HCC tends to metastasize via tumor seeding along portal veins.
+- Segments defined by portal inflow are resected.
+
+---
+
+## Glissonian Pedicle Approach
+- Portal inflow is identified by dissecting it out and ligating it.
+- Parenchymal transection proceeds by following the intersegmental plane.
+- The plane is marked by the vascular color change (ischemic vs. perfused liver).
+
+---
+
+## Portal Venous Dye Technique
+- Portal veins identified using Intraoperative Ultrasound (IOUS).
+- Injected with 5 mL of 1% methylene blue or 0.8% indigo carmine.
+- Most easily performed when the tumor is fed by a single portal vein branch.
+- Once stained, parenchyma is marked off using electrocautery for "systematic segmentectomy."
+
+---
+
+## FIGURE 118B.4: Portal Dye Technique
+*Use of portal dye technique for systematic segmentectomy*
+- Demonstrates staining of the target segment.
+- Hepatic veins are exposed and preserved during the subsequent transection.
+- Especially helpful for deep segments VII and VIII which lack surface landmarks.
+
+---
+
+## Hepatic Venous Approach (Western Practice)
+- Common tumor: Metastatic Colorectal Cancer (CRLM).
+- Anatomic resections historically advocated because wedge resections had high positive margin rates (19% in Scheele's series).
+- Difficulty in judging margins deep in parenchyma.
+- Transection line tends to fracture at the interface of hard tumor and soft liver.
+
+---
+
+## FIGURE 118B.5: Anterior Approach to Right Hepatectomy
+*Initial transection following Cantlie's line*
+- Transection line follows the principle plane, just to the right of the middle hepatic vein.
+- 1-0 chromic suture facilitates retraction of the left and right liver during division.
+
+---
+
+## Evolution of Hepatic Venous Approach
+- Recent meta-analysis (>2500 CRLM patients): Margin status and overall survival are similar between wedge and anatomic resections.
+- Likely due to current surgeon expertise in choosing the best technique.
+- Following hepatic veins still helps the surgeon achieve a negative margin.
+
+---
+
+## Another Reason for Hepatic Venous Approach
+- Failure of IOUS to identify tumors.
+- Patients with extensive neoadjuvant chemotherapy may develop:
+  - Fatty liver
+  - Chemotherapy-Associated Steatohepatitis (CASH)
+- Liver becomes hyperechoic; hyperechoic tumors become indistinguishable.
+- Following hepatic veins helps avoid positive margins or leaving cancer behind.
+
+---
+
+## Conditions for Nonanatomic Resections
+- Symptomatic benign liver cysts or tumors of low malignant potential.
+- Treated with liver-sparing techniques: enucleation or nonanatomic resection.
+- **Enucleation indications:**
+  - Symptomatic liver cysts
+  - Hemangiomas
+  - Adenomas
+  - Cystadenomas
+  - Focal nodular hyperplasia
+  - Hydatid cysts
+
+---
+
+## Well-Differentiated Neuroendocrine Tumors
+- Separate well from the surrounding liver.
+- Require almost no margin.
+- Have low local recurrence even when enucleated.
+
+---
+
+## Preoperative Scanning: Staging
+- Imaging stages patients and determines appropriateness of resection.
+- **Best staging for most liver disease:**
+  - CT scan of the chest (most sensitive for pulmonary metastases).
+  - Triphasic CT or MRI of the abdomen and pelvis (MRI best for liver lesions regardless of parenchymal disease).
+- Subcentimeter pulmonary nodules should not necessarily preclude hepatic resection (especially in CRLM).
+
+---
+
+## Diagnostic Laparoscopy
+- Performed in select cases before laparotomy.
+- Identifies patients with subradiographic metastatic disease.
+- Avoids unnecessary incision and prolongs recovery after nontherapeutic laparotomy.
+- Highest diagnostic yield in: Cholangiocarcinoma and Gallbladder cancer.
+
+---
+
+## Preoperative Scanning: Surgical Planning
+- Cross-sectional CT or MRI allows direct visualization of:
+  - Arterial anatomy
+  - Portal anatomy
+  - Hepatic venous anatomy
+- Typical portal anatomy is present in ~2/3 of patients; variations in ~1/3.
+- Anatomic understanding is greatly facilitated by studying portal venous and venous contrast phases.
+
+---
+
+## 3D Reconstructions
+- Generated from 2D imaging (CT and MRI).
+- Surgeons localize tumors better on 3D models compared to 2D scans.
+- Enable faster surgical planning and greater concordance between trainees and staff.
+- **Free open-source software:** 3D Slicer.
+- **Commercial software:** TeraRecon, Materialise Mimics, Visible Patient.
+
+---
+
+## Virtual Surgical Resection
+- More sophisticated software allows virtual resection.
+- Determines appropriate plane of transection.
+- Takes into account minimum resection margin and residual liver volume.
+- **Available systems:** MeVisLab, Myrian XP-Liver, Synapse 3D, IQQA-Liver, Hitachi Image Processing System.
+
+---
+
+## Real-Time Image-Guided Resection
+- Some systems extended to facilitate real-time, image-guided resection.
+- Couples preoperative virtual liver images to real-time liver and instrument tracking.
+- Offer significant potential for increased precision.
+- However, limited data currently exist on their use and improvement over current best practice.
+
+---
+
+## Operative Approach: Overview
+- Performed using open, laparoscopic, and robotic techniques.
+- Minimally invasive techniques increasingly adopted, leading to decreased hospitalization.
+- Robotic systems preferred by some to overcome laparoscopic limitations.
+- For deep central lesions: minimally invasive segmental resection combined with ablation can avoid major hepatectomy.
+
+---
+
+## Patient Positioning
+- Supine position with arms tucked.
+- **Reasons for tucking arms:**
+  1. Greatest flexibility for table-mounted retractor placement.
+  2. Prevents perioperative upper extremity nerve traction injuries from hyperabduction during long operations.
+- Large-bore IVs in each arm; arterial line placed if necessary before tucking.
+
+---
+
+## Anesthesia Monitoring
+- Rarely use central lines.
+- Monitor Central Venous Pressure (CVP) for low CVP anesthesia via liver ultrasound inspection of hepatic veins.
+- Patient placed in **Trendelenburg position**:
+  - Allows maximum venous return to the heart.
+  - Optimizes cardiac output while keeping CVP low.
+
+---
+
+## Patient Preparation and Draping
+- Abdomen prepped from nipples to pubis, laterally down to the surgical table.
+- Drapes placed for maximum abdominal exposure.
+- **Lighting:**
+  - One light directly over the operative field.
+  - Second light angled over the right shoulder of the primary surgeon.
+- Two suctions available (one for surgeon, one for assistant).
+
+---
+
+## Exposure and Mobilization: Incisions
+- Choice of incision determined by (in order of importance):
+  1. Body habitus
+  2. Location of the liver
+  3. Location of the lesion
+  4. History of prior incisions
+- Thin, tall patient: Long midline incision usually sufficient.
+- High BMI or high liver in barreled chest: Transverse extension almost always needed.
+
+---
+
+## Common Incisions
+- **Midline incision:** Usually adequate for left-sided lesions. Can be extended laterally at umbilicus (L-incision).
+- **Right subcostal with midline extension:** "Hockey stick" incision.
+- **Bilateral subcostal with midline extension:** "Mercedes" incision.
+- **Bilateral subcostal without extension:** "Chevron" incision (higher risk of ascitic leak and hernia).
+- **Thoracoabdominal:** Occasionally for posterior lesions.
+
+---
+
+## Retraction
+- Excellent cephalad retraction is essential.
+- Best retractors have a crossbar across the patient's chest.
+- **Thompson retractor preference:**
+  - Bilateral crossbar ~15 cm above skin, 10 cm above incision apex.
+  - Single crossbar on patient's right.
+- Subcostal retractors with micro-adjustable clip-on ratchets on costal margins.
+- Bookwalter retractor: Adequate for left-sided, but inadequate for right posterior lesions.
+
+---
+
+## Systematic Inspection
+- If diagnostic laparoscopy not performed, make minimal incision first.
+- Inspect for metastatic disease in:
+  1. Peritoneal lining
+  2. Diaphragms
+  3. Lesser omentum
+  4. Portal-caval lymph nodes
+  5. Hepatic artery lymph nodes
+  6. Celiac axis lymph nodes
+- Inspect lower abdomen if possible (rely on preop imaging if difficult due to adhesions).
+
+---
+
+## Liver Mobilization: Initial Steps
+- Transect ligamentum teres and divide falciform ligament cephalad to subdiaphragmatic IVC.
+- Leave long silk tie on ligamentum teres as a handle or fix it cephalad to the retractor.
+- Use Bovie electrocautery to identify origins of hepatic veins.
+- Perform visual and manual palpation inspection of the liver.
+
+---
+
+## Liver Mobilization: Lesser Omentum and IOUS
+- Divide bare area in lesser omentum to expose caudate lobe (segment I).
+- **Caution:** Identify and avoid anomalous left hepatic artery arising from the left gastric artery.
+- Use IOUS to identify occult lesions not seen on preop imaging that might change the operative plan.
+
+---
+
+## Liver Mobilization: Left Lobe
+- Divide left triangular ligament.
+- Place laparotomy pads posterior to segment II to protect esophagus, cardia, and spleen.
+- SVC and left hepatic vein should become visible.
+- Identify and protect the path of the left phrenic vein.
+
+---
+
+## Liver Mobilization: Right Lobe
+- Divide falciform ligament to expose extrahepatic right hepatic vein early.
+- Divide right triangular ligament.
+- Incise peritoneal reflection laterally.
+- Develop anterior layer of coronary ligament (reflects from diaphragm to segment VIII) and posterior layer (reflects to segment VI).
+- Mobilize liver off right hemidiaphragm, exposing bare area of segments VI and VII.
+
+---
+
+## FIGURE 118B.6: Posterior Hepatic Anatomy
+*Ligaments requiring division during liver mobilization*
+- Shows left and right triangular ligaments.
+- Illustrates the lumen of the median, left, and right hepatic veins.
+- Demonstrates the ligamentum teres, ligamentum venosum, and right adrenal vein.
+
+---
+
+## Diaphragm Adhesion and Repair
+- If tumor is adherent to diaphragm, separate if adequate plane exists, or resect area and repair diaphragm primarily.
+- **Caution with tendinous portion:** Only one layer thick; errant Bovie dissection produces pneumothorax.
+- Pneumothorax risks: Chest contamination with tumor/bacteria, diaphragm billowing downwards.
+- **Repair:** Nonabsorbable running sutures. Suture corners, run to middle. Use red rubber catheter during Valsalva to evacuate air before tying.
+
+---
+
+## Mobilization Near the IVC
+- For tumors near IVC, dissect posteriorly and medially until IVC is completely exposed.
+- Use closed Metzenbaum scissors to gently push toward IVC to create the plane.
+- Divide small venous branches draining from back of liver to IVC.
+- Failure to divide all attachments risks future tearing and difficult-to-control hemorrhage.
+
+---
+
+## FIGURE 118B.7: Short Hepatic Veins
+*Mobilization of the right liver with exposure of short hepatic veins*
+- IVC trajectory marked with dotted blue lines.
+- Note the large inferior hepatic vein draining the caudate process to the vena cava.
+- Ligation can be performed using metal clips, silk ties, or bipolar vessel sealer.
+
+---
+
+## Clips vs. Ties Near Hepatic Veins
+- Authors prefer **ties over clips** in the region of major hepatic veins.
+- Reason: Clips may interfere with stapled transections of the hepatic veins.
+- Clips can lead to misfiring of the stapler.
+
+---
+
+## FIGURE 118B.8: Stapled Ligation of Hepatic Veins
+*(A) Right hepatic vein and (B) Left hepatic vein*
+- Demonstrates stapler placement for safe division.
+- Requires adequate mobilization and exposure of the superior hepatic veins.
+
+---
+
+## Caudate Process and Inferior Right Hepatic Vein
+- **Perforator veins** behind the caudate process require attention.
+- Caudate process is a bridge of segment VI tissue bridging to the caudate lobe.
+- Large inferior right hepatic vein (present in 21% of patients, often draining segment VI) usually lies behind the caudate process.
+- Can be ligated during mobilization or left in place as primary drainage for remaining right parenchyma.
+
+---
+
+## Retrocaval Tissue and Dorsal Ligament
+- A tongue of liver tissue may pass from the back of the right lobe around the IVC to the caudate on the left (present in up to 50% of patients).
+- May be ligamentous (called dorsal, Makuuchi, hepatocaval, or caudate-caval ligament).
+- Can contain vasculature; divide using a stapler.
+- Retract right liver medially, pass stapler from below parallel to IVC.
+
+---
+
+## Left Liver Mobilization Details
+- Begin by dividing lesser omentum along inferior edge of segment III.
+- Usually avascular, but watch for replaced/accessory left hepatic artery.
+- Place laparotomy pad under segment II to protect esophagus and stomach (left of IVC).
+- Retract left liver downward, divide loose attachments of left triangular ligament laterally to medially.
+- Identify left hepatic vein by tracing left phrenic vein medially on diaphragm.
+
+---
+
+## Methods of Liver Transection
+- Many instruments and techniques available.
+- **Authors' preference:** Cautery through liver capsule, then "Kelly crush-clamp" parenchyma, followed by electrothermal bipolar vessel sealer for small intrahepatic vasculature.
+
+---
+
+## Kelly Crush-Clamp Technique Details
+- Monopolar electrocautery (coagulation fulgurate, 50-70 Watts) divides liver capsule ~25 mm deep.
+- Curved Rochester-pean advanced along transection line, capturing 25-50 mm of tissue.
+- Advanced until resistance (usually a vessel) is met.
+- Jaws opened slightly to include vessel or closed slightly to slide over it.
+- Slowly closed to crush soft liver parenchyma, revealing vessels and biliary channels.
+
+---
+
+## FIGURE 118B.9: Bipolar-Assisted Kelly Crush Technique
+*Traditional Kelly crush dissection of the liver parenchyma (A)*
+- Soft hepatocytes are bluntly dissected.
+*Vessels and bile ducts ligated with LigaSure vessel sealer (B)*
+- All vessels smaller than 5 mm are sealed and divided.
+
+---
+
+## Securing Exposed Structures
+- Once exposed by crush-clamp, structures can be secured by:
+  - Simple clips
+  - Suture

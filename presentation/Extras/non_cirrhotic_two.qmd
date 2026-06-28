@@ -1,0 +1,349 @@
+---
+format: revealjs
+theme: dark
+scrollable: true
+---
+
+
+
+## Introduction to Noncirrhotic Portal Hypertension
+- Cirrhosis is the commonest cause of portal hypertension (PH).
+- The development of PH in the absence of cirrhosis is frequent and is termed **"noncirrhotic PH."**
+- This entity includes diverse conditions based on the resistance locations along the portal inflow and outflow tract.
+- This review primarily discusses:
+  1. Idiopathic noncirrhotic portal hypertension (INCPH)
+  2. Extra-hepatic portal vein obstruction (EHPVO)
+
+## Figure 1: Classification of Noncirrhotic PH According to Site of Resistance
+- **Prehepatic:** Extrahepatic portal vein obstruction (EHPVO)
+- **Hepatic:**
+  - Presinusoidal: INCPH, NCPF, PBC, PSC
+- **Posthepatic:**
+  - Hepatic venous outflow tract obstruction (HVOTO)
+- *Note:* Wedge hepatic venous pressure (WHVP) varies based on the site of resistance (normal in prehepatic, normal/near normal in presinusoidal, high in sinusoidal/posthepatic).
+
+## Idiopathic Noncirrhotic Portal Hypertension (INCPH): Nomenclature
+- Several nomenclatures and descriptions have emerged since initial seminal reports.
+- **Japan and India:** Frequently used terms include *idiopathic portal fibrosis* and *noncirrhotic portal fibrosis*.
+- **Western Literature:** Frequently described as *obliterative portovenopathy* or *hepatoportal sclerosis*.
+- All these terminologies essentially connote similar entities of PH without cirrhosis conglomerated under the term **INCPH**.
+- Recently, **portosinusoidal vascular disorder (PSVD)** has been proposed to include all specific and nonspecific portal tract and sinusoidal abnormalities with or without clinical manifestations of PH (meriting liver biopsy to exclude cirrhosis).
+
+## Figure 2: Various Nomenclatures Used for INCPH
+- Historical and regional terms grouped under INCPH include:
+  - Idiopathic Portal Hypertension (IPH)
+  - Noncirrhotic Portal Fibrosis (NCPF)
+  - Hepatoportal Sclerosis
+  - Obliterative Portovenopathy
+- The newer term **PSVD** (Portosinusoidal Vascular Disorder) does not require manifestations of PH, broadening the histopathological diagnosis.
+
+## Table 1: Eastern vs. Western Noncirrhotic PH (Demographics & Presentation)
+| Variable | Eastern (India/Japan) | Western |
+| :--- | :--- | :--- |
+| **Nomenclature** | INCPH / NCPF | IPH / PSVD |
+| **Sex dominance** | Male > Female | Female > Male |
+| **Age** | Third decade | Fifth decade |
+| **Symptoms/signs of PH** | Always present | May or may not be present |
+| **Usual presentation** | Well-tolerated variceal bleed | Anemia, splenomegaly, or incidentally diagnosed when evaluated for abnormal liver function tests |
+
+## Table 1: Eastern vs. Western Noncirrhotic PH (Pathology & Clinical Features)
+| Variable | Eastern | Western |
+| :--- | :--- | :--- |
+| **Obliterative portal venopathy** | 70% | 80% |
+| **Nodular regenerative hyperplasia** | 18% | 10% |
+| **Cause** | Usually unknown | Known trigger |
+| **Concomitant autoimmune disease** | Rare | Common |
+| **Coexisting liver disease** | Rare | Common |
+| **Elevated liver chemistries** | Uncommon | Common |
+| **Ascites** | Transient during variceal bleed | Common and sign of worsening disease |
+| **Anorectal varices** | Uncommon but seen | Unknown |
+
+## Table 1: Eastern vs. Western Noncirrhotic PH (Outcomes)
+| Variable | Eastern | Western |
+| :--- | :--- | :--- |
+| **Nonvariceal portosystemic collaterals** | More frequent | Less frequent |
+| **HVPG** | Normal-slightly high (up to 8 mm Hg) | Normal |
+| **Mortality** | Usually liver related | Related to underlying disease > liver related |
+
+## INCPH: Epidemiology
+- Approximately **30%–40%** of PH cases in the East (India and Japan) are due to INCPH.
+- The prevalence in the West is only **3%–5%**.
+
+## INCPH: Etiopathogenesis
+- The exact pathogenesis remains undetermined, justifying its "idiopathic" nomenclature.
+- Pathophysiology revolves around insults that lead to:
+  1. Portal venous attenuation
+  2. Subsequent phlebosclerosis
+  3. Development of aberrant vasculature
+
+## Figure 3: Proposed Etiological Factors in Pathogenesis
+- Proposed factors contributing to INCPH and EHPVO include:
+  - **Infections:** Recurrent bacterial infections, bacterial translocation
+  - **Thrombophilia:** Prothrombotic states, genetic mutations
+  - **Toxins/Drugs:** Medications, environmental toxins
+  - **Immunological:** Autoimmune disorders, anti-endothelial cell antibodies
+- These insults cause endothelial injury leading to thrombosis, obliterative venopathy, and subsequent PH.
+
+## INCPH: Histopathological Signatures
+- The hallmark of INCPH is the **obliteration of the main portal vein (obliterative portal venopathy)**.
+- Other features include:
+  - Sclerosed walls (phlebosclerosis)
+  - Thrombotic changes in medium and small PV branches
+  - Random nonzonal sinusoidal dilation
+- In addition, nonspecific changes exist in the backdrop of the heterogeneity in INCPH descriptions.
+
+## Table 2: Specific Histological Features in INCPH (PSVD)
+| Feature | Alternative Names | Description |
+| :--- | :--- | :--- |
+| **Obliterative portal venopathy** | Phlebosclerosis, PV obliteration, PV stenosis, hepatoportal sclerosis | Incomplete or complete luminal narrowing of PV branches along with PV wall thickening and fibrosis |
+| **Nodular regenerative hyperplasia** | — | Micronodular changes of hepatic parenchyma without any significant fibrosis |
+| **Incomplete septal fibrosis/cirrhosis** | — | Fine fibrous septa that arise from a PT and terminate blindly within a hepatic lobule without any definitive bridge to central veins or other PT |
+
+## Table 2: Nonspecific Histological Features - Portal Tract (PT) Abnormalities
+| Feature | Alternative Names | Description |
+| :--- | :--- | :--- |
+| **Herniated PV** | Aberrant vessels, shunt vessels | A PV branch originating from PT abutting the adjacent hepatic parenchyma without a rim of intervening connective tissue |
+| **Periportal abnormal vessels** | Aberrant vessels, cavernous transformation, periportal shunting vessels | Single or multiple thin-walled vascular channels of variable caliber in close contact with the PT but not within |
+| **Hyper-vascularized PT** | Multiplicity of PVs, PT angiomatosis, angiomatoid lesion | Increased number of PV branches within PT |
+
+## Table 2: Nonspecific Histological Features - Other Changes
+| Feature | Description |
+| :--- | :--- |
+| **Architectural disturbance** | Irregular distribution of PTs and central veins |
+| **Nonzonal sinusoidal dilatation** | Sinusoidal lumen (nonzonal) wider than a single liver cell plate |
+| **Mild perisinusoidal fibrosis** | Fibrosis around the sinusoids |
+
+## INCPH: Clinical Presentation
+- Usually presents in young to middle-aged (third to fourth decades) males (in Indian studies).
+- In Japanese and Western literature, the disease has a female predilection (fifth decade).
+- Presents with episodes of **well-tolerated variceal hemorrhage (VH)**.
+- Symptoms of **hypersplenism**.
+- Western literature also notes hepatosplenomegaly, variceal bleeding, and ascites with/without mild alterations in liver chemistries.
+
+## Table 3: Clinical Features and Diagnosis of INCPH (Presentation)
+| Feature | Description |
+| :--- | :--- |
+| **Age/Sex** | Usually young to middle age with male predilection (3rd-4th decade) in Indian studies; female predilection (5th decade) in Japan/West |
+| **Hypersplenism** | Pain abdomen, early satiety, postprandial fullness, cytopenias (asymptomatic recurrent infections are rare) |
+| **Portal hypertension** | Well-tolerated episodes of VH. Transient ascites (in <1/3) during VH, PVT, and infection. Ascites can also be noted in patients with parenchymal extinction and those who develop cirrhosis due to recurrent transfusion-related viral hepatitis (HBV/HCV) |
+
+## Table 3: Clinical Features and Diagnosis of INCPH (Noninvasive Tests - Labs & Endoscopy)
+| Test | Findings |
+| :--- | :--- |
+| **Liver function and coagulation tests** | Usually normal until parenchymal extinction. Mild alterations in liver enzymes and serum bilirubin can be noted |
+| **Endoscopy** | Esophageal, gastric, and ectopic varices |
+
+## Table 3: Clinical Features and Diagnosis of INCPH (Noninvasive Tests - Radiology & Elastography)
+| Test | Findings |
+| :--- | :--- |
+| **Radiologic findings** | Spleen enlarged. PV and hepatic artery patent and enlarged. Liver surface smooth or mildly nodular. Hypertrophy of caudate lobe and segment IV (In cirrhosis, caudate hypertrophy with segment IV atrophy). Thickened hyperechoic walls or reduced caliber/occlusive thrombosis of intrahepatic portal branches |
+| **Transient elastography** | Liver stiffness lower than cirrhosis but higher than normal individuals, with values between 7 and 12 kPa suggestive of INCPH |
+
+## INCPH: Management of Variceal Hemorrhage (VH)
+- Medical and endoscopic management of VH is similar to patients with cirrhosis.
+- For secondary prophylaxis, a single randomized trial indicates equal efficacy with endoscopic therapy and nonselective beta-blockers.
+- Literature on noninvasive methods to stratify variceal screening, follow-up endoscopic recommendations, and primary prophylaxis strategies are unclear in INCPH.
+
+## INCPH: Management of Hypersplenism
+- Interventional radiologic procedures like **splenic artery embolization (SAE)** have been performed for hypersplenism-related pancytopenia with variable success.
+- However, a splenic abscess is not uncommon with SAE.
+
+## INCPH: Surgical and Transplant Options
+- **Transjugular intrahepatic portosystemic shunt (TIPSS):** Used for refractory VH, but its lifespan is shorter in these young patients.
+- **Splenectomy with devascularization:** Can be performed for patients with refractory variceal bleeds and/or symptomatic hypersplenism.
+- **Liver transplantation:** Performed in younger patients with excellent outcomes for:
+  - Refractory ascites
+  - Hepatic encephalopathy (HE)
+  - Hepatopulmonary syndrome
+  - Refractory bleeding from ectopic varices
+  - *Note:* Recurrence of disease is well known post-transplant.
+
+## INCPH: Prognosis
+- Traditionally considered a nonprogressive disease, although quality studies on natural history are limited.
+- Patients with INCPH have a higher risk of VH and portal vein thrombosis (PVT) than those with compensated cirrhosis.
+- This mandates a relook on the benign nature of the disease and justifies PVT screening.
+
+## Extrahepatic Portal Vein Obstruction (EHPVO): Nomenclature
+- EHPVO refers to a homogenous entity of a vascular disorder characterized by obstruction of the extrahepatic PV with or without the involvement of:
+  - Intrahepatic PV
+  - Splenic veins
+  - Superior mesenteric veins
+- **Cavernoma formation** is a hallmark of EHPVO.
+- This is unique and distinct from the natural history of those with cirrhosis and PVT.
+
+## EHPVO: Epidemiology
+- More frequently reported from the East.
+- Constitutes **15%–20%** of PH cases in the East compared to **5%–10%** in the West.
+- In children, EHPVO is the commonest cause of PH (**80%–85%**).
+
+## EHPVO: Etiopathogenesis
+- The exact pathogenesis remains debatable.
+- Well-known risk factors include:
+  1. **Prothrombotic states** (inherited or acquired)
+  2. **Local abdominal inflammatory conditions** that lead to PV injury
+- The plausible natural course of EHPVO involves thrombosis, organization, recanalization, and cavernoma formation.
+
+## Figure 4: Natural History of Extrahepatic Portal Vein Obstruction
+- **Inciting Event:** Prothrombotic state, local inflammation, infection, trauma.
+- **Acute PVT:** Obstruction of the extrahepatic portal vein.
+- **Organization & Recanalization:** Development of collaterals (cavernoma) over weeks to months.
+- **Portal Hypertension:** Increased splanchnic pressure leading to varices, splenomegaly, and hypersplenism.
+- **Complications:** Variceal hemorrhage, portal cavernoma cholangiopathy (PCC), growth retardation, hepatic dysfunction.
+
+## EHPVO: Clinical Presentation in Children
+- Has a bimodal presentation in children:
+  - Secondary to umbilical sepsis (rarely noted now): presenting as early as 3 years.
+  - Unnoticed inciting events: presenting as late as 8 years to early adolescence.
+- **Well-tolerated VH** is the most common presentation.
+- Also presents with moderate splenomegaly and **growth retardation**.
+
+## EHPVO: Diagnosis and Imaging
+- Unlike INCPH/NCPF, **liver biopsy is not required** for the diagnosis of EHPVO.
+- Developments of ascites, jaundice, symptomatic biliopathy, encephalopathy, and parenchymal failure are not uncommon.
+- Endoscopic presence of varices with a high preponderance of **anorectal varices and colopathy** is a hallmark.
+- **Doppler studies** reveal portal cavernoma.
+
+## Table 4: Key Differences Among INCPH, EHPVO, and Cirrhosis (Resistance & Hemodynamics)
+| Parameter | INCPH | EHPVO | Cirrhosis |
+| :--- | :--- | :--- | :--- |
+| **Primary site of portal flow resistance** | Hepatic (presinusoidal) | Extrahepatic | Hepatic (sinusoidal) |
+| **FHVP** | Normal | Normal | Normal |
+| **WHVP** | Normal/near normal | Normal | High |
+| **RAP** | Normal | Normal | Normal |
+| **HVPG** | Near normal-high | Normal | High |
+
+## Table 4: Key Differences (Demographics and Presentation)
+| Parameter | INCPH | EHPVO | Cirrhosis |
+| :--- | :--- | :--- | :--- |
+| **Usual age of presentation** | 3rd–5th decade | 1st–2nd decade | Variable depending on etiology |
+| **Sex predilection** | India: M > F; Japan/West: F > M | Usually F > M | Nonspecific except for certain etiologies |
+| **Usual clinical presentation** | Variceal bleed, Hypersplenism (symptomatic > asymptomatic) | Variceal bleed, Hypersplenism (asymptomatic > symptomatic), Obstructive jaundice | Symptoms and signs of liver cell failure |
+
+## Table 4: Key Differences (Liver Cell Failure & Ascites)
+| Parameter | INCPH | EHPVO | Cirrhosis |
+| :--- | :--- | :--- | :--- |
+| **Development of ascites** | Uncommon | Rare | Common |
+| **Jaundice** | Rare (unless progression to parenchymal extinction) | Uncommon but may occur with development of biliopathy or parenchymal extinction | Common |
+
+## Table 4: Key Differences (PCC, HE, and Splenomegaly)
+| Parameter | INCPH | EHPVO | Cirrhosis |
+| :--- | :--- | :--- | :--- |
+| **PCC (%)** | 10–40% | 80–100% | <10% |
+| **HE** | Rare | Presence of minimal HE not uncommon (shunt related) | Common |
+| **Splenomegaly** | Massive | Mild–moderate | Mild–moderate |
+
+## Table 4: Key Differences (Laboratory Findings & Growth)
+| Parameter | INCPH | EHPVO | Cirrhosis |
+| :--- | :--- | :--- | :--- |
+| **Liver function** | Normal to slightly elevated liver chemistries | Normal (in the absence of PCC/extinction) | Usually abnormal |
+| **Hepatopulmonary syndrome** | Rare | Uncommon | Common |
+| **Growth retardation** | Rare | Common | Rare |
+
+## Table 4: Key Differences (Autoimmunity, QoL, & Outcomes)
+| Parameter | INCPH | EHPVO | Cirrhosis |
+| :--- | :--- | :--- | :--- |
+| **Antiendothelial cell antibodies** | Common | — | — |
+| **Concomitant extrahepatic autoimmune features** | Usual | Never | Depending on the etiology |
+| **Quality of life** | Good (similar to Child A cirrhosis) | Fair | Poor |
+| **Long term outcomes** | Favorable | Favorable | Variable depending on stage, etiology, and degree of portal hypertension |
+
+## Figure 5: Computed Tomographic Scans - INCPH
+- **INCPH Imaging Features:**
+  - Smooth or mildly nodular liver surface.
+  - Patent and enlarged portal vein (PV) and hepatic artery.
+  - Hypertrophy of the caudate lobe and segment IV.
+  - Thickened hyperechoic walls or reduced caliber of intrahepatic portal branches.
+  - Splenomegaly.
+
+## Figure 5: Computed Tomographic Scans - EHPVO
+- **EHPVO Imaging Features:**
+  - Absence of normal portal vein.
+  - Presence of portal cavernoma (cluster of collaterals at the liver hilum).
+  - Splenomegaly.
+  - Changes of portal cavernoma cholangiopathy (PCC) if present (e.g., intrahepatic biliary radicle dilatation - IHBRD).
+  - Normal liver surface.
+
+## Figure 5: Computed Tomographic Scans - Cirrhosis
+- **Cirrhosis Imaging Features:**
+  - Nodular liver surface.
+  - Caudate lobe hypertrophy with segment IV atrophy.
+  - Portal hypertension features (splenomegaly, varices).
+  - Risk of portal vein thrombosis, but lacks cavernoma formation as a primary defining feature (unlike EHPVO).
+
+## EHPVO: Endoscopic and Medical Management
+- The endoscopic and medical management of bleeding events is similar to cirrhotic PH.
+- The role of beta-blockers remains unclear in EHPVO specifically.
+- Endoscopic variceal ligation (EVL) and sclerotherapy are primary modalities for variceal hemorrhage.
+
+## EHPVO: Surgical and Interventional Management
+- **Splenectomy with devascularization:** Used for refractory bleeds and symptomatic hypersplenism.
+- **Shunt operations:** Used for refractory variceal bleeds or symptomatic biliopathy.
+- **TIPSS:** Has also been performed for EHPVO, occasionally through the transsplenic route when standard transjugular access is difficult.
+
+## Portal Cavernoma Cholangiopathy (PCC): Definition
+- The development of PCC is due to both the mechanical impact of cavernoma and chronic ischemia.
+- **Definition:** Abnormalities in the extrahepatic biliary system (including the gallbladder and cystic duct), with or without abnormalities in the I and II generation biliary ducts in a patient with portal cavernoma.
+- Seen in **80%–100%** of EHPVO cases.
+
+## PCC: Clinical Presentation and Causes of Jaundice in EHPVO
+- A subgroup becomes symptomatic with jaundice, biliary colic, and recurrent cholangitis.
+- Jaundice in a patient with EHPVO can be due to:
+  1. PCC
+  2. Gallstones
+  3. Parenchymal extinction
+  4. Concomitant development of cirrhosis due to transfusion-related hepatitis (HBV/HCV)
+
+## PCC: Management Options
+- Management involves a multidisciplinary approach:
+  1. **Endoscopic retrograde cholangiopancreatography (ERCP):** Based interventions (stone extraction, stenting, dilation).
+  2. **Percutaneous transhepatic biliary drainage (PTBD).**
+  3. **Shunt operations:** To decompress the cavernoma and relieve biliary obstruction if endotherapy fails.
+
+## Pregnancy and Noncirrhotic Portal Hypertension
+- Patients with noncirrhotic PH have **preserved fertility**.
+- Few patients are incidentally diagnosed to have noncirrhotic PH (INCPH or EHPVO) during pregnancy.
+- Conflicting reports exist regarding increased risk of VH, cholangitis, and poor maternal/fetal outcomes.
+- Multidisciplinary team management and the safety of endoscopic procedures during pregnancy have improved outcomes.
+- A pregnancy reaching 20 weeks usually ends in a live birth.
+
+## Figure 6: Management of INCPH and EHPVO (Overview)
+- **Clinical Presentation:** Variceal hemorrhage, Hypersplenism, Biliopathy.
+- **First-line Management:**
+  - Endoscopic therapy (EVL, glue injection).
+  - Medical therapy (Non-selective beta-blockers, vasoactive drugs).
+- **Refractory/Complications:**
+  - TIPSS for refractory variceal bleeds.
+  - SAE or Splenectomy for hypersplenism.
+  - ERCP/PTBD for symptomatic biliopathy.
+- **Definitive/Surgical:** Shunt operations, Liver transplantation.
+
+## Figure 6: Indications for Shunt Operation
+- Shunt operations are specifically indicated for:
+  1. Refractory variceal bleeds
+  2. Symptomatic hypersplenism
+  3. Symptomatic portal cavernoma cholangiopathy (PCC)
+  4. Ectopic variceal bleeds
+  5. Growth retardation despite nutritional rehabilitation
+  6. Uncommon blood group
+  7. Poor access to endoscopic therapy
+
+## Conclusion: Summary of INCPH
+- INCPH encompasses a diverse group of disorders.
+- Despite varied associations, the exact aetiopathogenesis remains unclear.
+- VH and features of hypersplenism are the cardinal symptoms.
+- INCPH requires a liver biopsy with specific histopathological features for definitive diagnosis.
+
+## Conclusion: Summary of EHPVO
+- EHPVO is a distinct vascular disorder characterized by extrahepatic PV obstruction.
+- Demonstrating cavernoma with or without biliopathy is central to EHPVO diagnosis.
+- Presents commonly in children with growth retardation and variceal bleeds.
+- Management relies heavily on endoscopic control of bleeding and addressing biliopathy.
+
+## Conclusion: Prognostic Factors
+- The prognosis of patients with noncirrhotic PH is dependent on the development of:
+  1. Acute splenoportal and mesenteric venous thrombosis
+  2. Parenchymal extinction and liver failure
+  3. Development of ascites
+  4. Recurrent bleeds from ectopic varices
+  5. Portal cavernoma cholangiopathy (PCC)
+- Management is largely supportive, requiring biliary interventions and shunt operations in selected cases.

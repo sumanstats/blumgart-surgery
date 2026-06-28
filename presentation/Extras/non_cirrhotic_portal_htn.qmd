@@ -1,0 +1,546 @@
+---
+title: "Non-cirrhotic Portal Hypertension – Diagnosis and Management"
+format: revealjs
+theme: dark
+scrollable: true
+---
+
+
+
+## Summary
+- NCPH is a heterogeneous group of liver disorders of vascular origin, leading to portal hypertension (PHT) with near normal hepatic venous pressure gradient (HVPG).
+- NCPF/IPH is a disorder of young adults or middle-aged women, whereas EHPVO is a disorder of childhood.
+- Early age acute or recurrent infections in an individual with thrombotic predisposition constitute the likely pathogenesis.
+- Both disorders present with clinically significant PHT with preserved liver functions.
+- Management centers on control and prophylaxis of variceal bleeding.
+
+## Abbreviations (Part 1)
+- APASL: Asia Pacific Association for the Study of the Liver
+- CHF: Congenital hepatic fibrosis
+- CSRS, PSRS, DSRS: Central, proximal, and distal splenorenal shunt
+- EHPVO: Extrahepatic portal venous obstruction
+- ERCP: Endoscopic retrograde cholangiopancreatography
+- EST: Endoscopic sclerotherapy
+- EVL: Endoscopic variceal ligation
+
+## Abbreviations (Part 2)
+- HIV: Human immunodeficiency virus
+- HPS: Hepatopulmonary syndrome
+- HVPG: Hepatic venous pressure gradient
+- INCPH: Idiopathic non-cirrhotic portal hypertension
+- IPH: Idiopathic portal hypertension
+- LTx: Liver transplantation
+- MHE: Minimal hepatic encephalopathy
+- MLPVB: Mesenterico left portal vein bypass or Rex shunt
+
+## Abbreviations (Part 3)
+- MRCP: Magnetic resonance cholangiopancreatography
+- NCPF: Non-cirrhotic portal fibrosis
+- NCPH: Non-cirrhotic portal hypertension
+- NRH: Nodular regenerative hyperplasia
+- PHT: Portal hypertension
+- PV: Portal vein
+- PVT: Portal vein thrombosis
+- QoL: Quality of life
+- UVC: Umbilical vein catheterization
+
+## Introduction
+- Portal hypertension (PHT) is a clinical syndrome defined by a portal venous pressure gradient between the portal vein (PV) and inferior vena cava exceeding 5 mmHg.
+- Cirrhotic PHT is associated with an elevated HVPG predominantly due to raised sinusoidal resistance.
+- In non-cirrhotic PHT (NCPH), HVPG is normal or only mildly elevated and is significantly lower than PV pressure.
+- Diseases leading to NCPH are primarily vascular in nature and classified anatomically based on site of resistance to blood flow.
+
+## Table 1: Causes of NCPH - Pre-hepatic
+*Characterized by: FHVP normal, RAP normal, WHVP normal, HVPG normal, PVP high, ISP high*
+
+- Extrahepatic portal vein obstruction (EHPVO)
+- Portal vein thrombosis
+- Splenic vein thrombosis
+- Massive splenomegaly
+- Storage diseases (e.g., Gaucher’s disease)
+
+## Table 1: Causes of NCPH - Hepatic (Pre-sinusoidal)
+*Characterized by: FHVP normal, RAP normal, WHVP high, HVPG normal or high, PVP high, ISP high*
+
+- Developmental abnormalities
+- Adult polycystic disease
+- Hereditary hemorrhagic disease
+- Toxins (vinyl chloride, copper)
+- Metabolic (NASH, Gaucher’s disease)
+- Biliary diseases (Primary biliary cirrhosis, Sclerosing cholangitis)
+- Neoplastic occlusion of portal vein
+- Granulomatous lesions (Schistosomiasis, Sarcoidosis)
+- Hepatoportal sclerosis
+
+## Table 1: Causes of NCPH - Hepatic (Sinusoidal)
+- Venoocclusive disease
+- Alcoholic hepatitis
+- Drugs (methotrexate, amiodarone, azathioprine, etc.)
+- Toxins (Pyrrolizidine alkaloids)
+- Sinusoidal collapse / defenestration
+- Alcoholic liver disease (early phase)
+- Hypervitaminosis A
+- Mastocytosis
+- Gaucher’s disease
+- Amyloidosis
+
+## Table 1: Causes of NCPH - Hepatic (Post-sinusoidal) & Post-hepatic
+*Post-hepatic characterized by: FHVP high, RAP normal or high, WHVP high, HVPG normal or high, PVP high, ISP high*
+
+- **Post-sinusoidal:** Phlebosclerosis of hepatic veins, Chronic radiation injury, Primary vascular malignancies, Hepatic vein outflow tract obstruction (Budd-Chiari syndrome)
+- **Post-hepatic:** Inferior vena cava obstruction, Constrictive pericarditis, Tricuspid regurgitation, Severe right-sided heart failure, Restrictive cardiomyopathy, Splanchnic arteriovenous fistula
+
+## Non-cirrhotic Portal Fibrosis (NCPF)
+- Various names: Idiopathic PHT (IPH), hepatoportal sclerosis, obliterative venopathy.
+- Clinically characterized by features of PHT, moderate to massive splenomegaly, preserved liver functions, and patent hepatic and portal veins.
+- More common in young males in the 3rd to 4th decade belonging to low socioeconomic groups (in India).
+- IPH in Japan/West has female preponderance and presents around the 5th decade.
+- Accounts for approximately 10–30% of all cases of variceal bleed in several parts of the world.
+
+## Table 2: Diagnostic Criteria for NCPF/IPH (Part 1)
+**Japanese Criteria for IPH:**
+- Clinical disorder of unknown etiology.
+- Splenomegaly, anemia, and portal hypertension.
+- Absence of cirrhosis, blood disease, parasites in the hepatobiliary system, and occlusion of the hepatic and portal veins.
+- Normal to near-normal liver function tests, varices, decreased blood elements, patent hepatic veins.
+
+## Table 2: Diagnostic Criteria for NCPF/IPH (Part 2)
+**APASL Criteria for NCPF/IPH:**
+- Presence of moderate to massive splenomegaly.
+- Evidence of portal hypertension, varices, and/or collaterals.
+- Patent spleno-portal axis and hepatic veins on ultrasound Doppler.
+- Test results indicating normal or near-normal liver functions.
+- Normal or near-normal HVPG.
+- Liver histology: no evidence of cirrhosis or parenchymal injury.
+
+## Table 2: Diagnostic Criteria for NCPF/IPH (Part 3)
+**Schouten et al. Criteria for INCPH:**
+- Clinical signs of portal hypertension (Splenomegaly, Esophageal varices, Ascites, Increased HVPG, Portovenous collaterals).
+- Exclusion of cirrhosis on liver biopsy.
+- Exclusion of known causes of chronic liver disease (Viral hepatitis, NASH, ALD, Autoimmune, etc.).
+- Exclusion of common conditions causing NCPH (Congenital hepatic fibrosis, Sarcoidosis, Schistosomiasis).
+- Patent portal and hepatic veins.
+
+## Table 3: Epidemiology and Clinical Features of NCPF/IPH
+| Study | Country | Subjects | M:F Ratio | Mean Age | Variceal Bleed | Splenomegaly |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aoki (1998) | Japan | 671 | 1:3 | 49.9 | - | - |
+| Vakili (1992) | Iran | 32 | 1.5:1 | 3rd-4th decade | 84% | - |
+| Sarin (1998, 2006) | India | 207, 336 | 1.3:1, 1:1 | 30.7, 31.6 | 72% | 74% |
+| Dhiman (2002) | India | 151 | 1:1.65 | 30.5 | 65% | 97% |
+| Madhu (2009) | India | 30 | 1.7:1 | 32 | 43% | 60% |
+| Hillaire (2011) | France | 46 | 2:1 | 38.5 | 32% | 26% |
+| Schouten (2012) | Netherlands | 62 | 1.06:1 | 46 | 55% | 28% |
+
+## Table 3: Laboratory and Hemodynamic Features
+| Study | Hypersplenism | Abnormal LFT | HVPG (Median) | HVPG >5 mmHg |
+| :--- | :--- | :--- | :--- | :--- |
+| Aoki | - | - | 7 mmHg | - |
+| Vakili | - | 25% | - | - |
+| Sarin | 27% | 32%, 2% | 12.5 mmHg | - |
+| Dhiman | 45.6% | 18% | 6, 7 mmHg | 61.5%, 65% |
+| Madhu | 87% | 73% | - | - |
+| Hillaire | 37% | 28.6%, 14% | - | - |
+| Schouten | - | - | - | - |
+
+## Etiopathogenesis of NCPF
+- **Infections:** Rarity in the West, declining trend with improved hygiene, and role of early childhood infections support an infective etiology. Endotoxin-mediated injury is the proposed hypothesis.
+- **Prothrombotic states:** Supported by autopsy studies showing high prevalence of PVT. However, PVT is not a universal event.
+- **Toxins/Medications:** Prolonged exposure to arsenic, etc.
+- **Immunological basis:** Female preponderance, association with autoimmune disorders, and presence of autoantibodies.
+- **Genetic basis:** Familial clustering, association with HLA-DR3.
+
+## Figure 1: Animal Models of NCPF/IPH
+- Rabbit models using various interventions (intramuscularly or via gastrosplenic vein) have been developed.
+- Studies using albumin and splenic extract favor an immunological basis.
+- Studies using *E. coli* favor an infective basis.
+- Endotoxemia Induced PHT (EIPHT) model: NCPF animals develop splenomegaly, high portal pressures, low mean arterial pressures with normal liver functions and histology.
+- Overexpression of CD34, α-SMA, CK-7, eNOS, iNOS, and HO-1 enzymes on immunohistochemistry.
+
+## Pathogenesis Theories of NCPF/IPH
+- **Unifying Hypothesis (Sarin and Kumar):** A major thrombotic event at a young age involves the main PV and results in EHPVO. Repeated microthrombotic events later in life involve small or medium branches of PV leading to NCPF.
+- **Dual Theory (Schouten et al.):** Both increased splenic blood flow and intrahepatic obstruction (obliterative venopathy) have a role. High levels of iNOS and eNOS in splenic endothelial cells lead to dilatation of splenic sinuses and increased splenic venous inflow.
+- **EndMT Theory (Sato and Kitao et al.):** Vascular endothelial cells of portal venules acquire myofibroblastic features. TGF-β1 induces this transition, leading to type I collagen synthesis, causing obliterative portal venopathy and presinusoidal PHT.
+
+## Figure 2: Pathogenetic Theories Explained
+- **Pathogenic determinants:** Precipitating event (infection, trauma, thrombotic event) in the setting of prothrombotic predisposition.
+- **Nature of insult:** NCPF involves mild, recurring insults later in life. EHPVO involves severe, progressive insults in early childhood.
+- **Size of vessel involved:** NCPF involves peripheral portal vein branches. EHPVO involves the main portal vein.
+
+## Pathology of NCPF
+- Characterized by phlebosclerosis, fibroelastosis, periportal, and perisinusoidal fibrosis.
+- Aberrant vessels in portal tract (portal angiomatosis).
+- Preserved lobular architecture and differential atrophy.
+- Main PV trunk is dilated with thick sclerosed walls.
+- Histological hallmark: "Obliterative portal venopathy" (thrombosis in medium and small PV branches).
+- Nakanuma staging system: Stage I (no atrophy) to Stage IV (obstructive thrombosis in intrahepatic large branches/trunk of PV).
+- Spleen is disproportionately large (average weight 723 g).
+
+## Extra-hepatic Portal Venous Obstruction (EHPVO)
+- Childhood disorder characterized by chronic blockage of PV blood supply leading to PHT.
+- Occurs in the setting of well-preserved liver function.
+- Major cause of PHT (54%) and upper GI bleeding in children (68–84%) from the developing world.
+- In the West, non-cirrhotic non-tumoral PVT is the second most frequent cause of PHT in adults.
+
+## Definition of EHPVO
+- **APASL consensus:** A vascular disorder of liver, characterized by obstruction of the extra-hepatic PV with or without involvement of intra-hepatic PV radicles or splenic or superior mesenteric veins.
+- **Baveno V consensus:** More comprehensive, incorporates recent thrombus as well as portal cavernoma into the definition.
+- EHPVO is a distinct disease entity and should not be considered an event in the natural history of primary liver disease.
+- Isolated occlusion of the splenic vein or superior mesenteric vein is NOT included.
+
+## Etiopathogenesis of EHPVO
+- Etiological factors differ among pediatric and adult populations.
+- Up to 70% of cases may remain idiopathic.
+- Factors grouped as: within the vessel lumen, within the wall, outside the vessel.
+- Also grouped as: prothrombotic states (inherited or acquired) and local factors (trauma, injury, inflammatory conditions).
+- **Children:** MTHFR deficiency (C677T) and prothrombin gene mutations (G20201A) are commonest.
+- **Adults:** Primary myeloproliferative disorders (MPD) (with or without JAK2 mutation V617F) are commonest.
+
+## Table 4: Etiological Factors in EHPVO/PVT (Part 1)
+| Etiological Factor | Pediatric Studies Prevalence | Adult Studies Prevalence |
+| :--- | :--- | :--- |
+| Primary myeloproliferative disorders (±JAK2) | 0% | 3-42% |
+| Factor-V Leiden mutation | 0-30% | 3-14% |
+| Prothrombin gene mutation | 0-15% | 0-21% |
+| MTHFR gene mutation | 3-34% | 0-21% |
+| Hyperhomocysteinemia | NE | 11-19% |
+| Protein-C deficiency | 0-45% | 3-41% |
+| Protein-S deficiency | 0-55% | 2-38% |
+| Antithrombin III deficiency | 0-50% | 0-41% |
+
+## Table 4: Etiological Factors in EHPVO/PVT (Part 2)
+| Etiological Factor | Pediatric Studies Prevalence | Adult Studies Prevalence |
+| :--- | :--- | :--- |
+| Antiphospholipid syndrome/ACLA | 3-47% | 1-13% |
+| Local inflammatory conditions (Pancreatitis, abscess, sepsis) | 0-5% (Pancreatitis)<br>6-22% (Sepsis)<br>0-3% (Abscess) | 0-2% (Pancreatitis)<br>4-19% (Sepsis)<br>5-36% (Abscess) |
+| Portal vein injury (Trauma, surgery) | 0-3% | 5-17% |
+| Umbilical vein catheterization | 0-41% | 0-2% |
+| Umbilical sepsis | 0-45% | <1% |
+| Pregnancy / Oral contraceptives | - | 0-2% (Preg)<br>3-19% (OCP) |
+| Idiopathic | 45-72% | 23-68% |
+
+## Pathogenesis of EHPVO
+- Umbilical vein catheterization (UVC) and sepsis are independently present in 9% of EHPVO cases.
+- Progression to EHPVO doesn't occur unless umbilical sepsis is very severe, inadequately treated, or UVC is associated with trauma.
+- Initial acute PVT event often goes unrecognized; thrombus gradually becomes organized.
+- Multiple hepatopetal collaterals develop around the PV within 6–20 days and develop into a cavernoma in 3 weeks.
+- Collaterals compensate for reduction of total hepatic blood flow but remain insufficient to decompress high pressure in the splanchnic bed.
+- Hepatofugal vessels develop at porto-systemic communications, transforming into varices and hemorrhoids.
+
+## Pathology of EHPVO
+- **Cavernomatous transformation of the PV:** Cluster of varying sized vessels replacing PV, arranged haphazardly within connective tissue support at the liver hilum.
+- May extend for a variable length inside and outside the liver.
+- Architectural pattern of liver is well preserved.
+- Mild periportal fibrosis may be seen.
+
+## Diagnosis of NCPF and EHPVO
+- Diagnosis is chiefly clinical: presentation with features of PHT without evidence of liver dysfunction.
+- **NCPF/IPH:** Patency of hepatic and portal veins is needed. Liver biopsy is indicated to exclude cirrhosis.
+- **EHPVO:** Presence of portal cavernoma on Doppler ultrasound (USG) is required.
+- Various diagnostic criteria have been laid down for NCPF/IPH (Table 2).
+- For EHPVO, the diagnosis is as per the APASL definition.
+
+## Clinical Presentation
+- **NCPF/IPH:** Disease of young to middle age. Duration of symptoms varies from 15 days to 18 years. Well-tolerated episodes of variceal bleed, long-standing splenomegaly, and anemia.
+- **EHPVO:** Primarily a childhood disorder. Bimodal age of presentation:
+  - Secondary to UVC/umbilical sepsis: manifests early (≤3 years).
+  - Following intra-abdominal infections/idiopathic: manifests late (≥8 years) or into early adulthood.
+- Episodes of variceal bleed are recurrent, mostly related to febrile illnesses.
+- Splenic size and portal pressure do not correlate with the incidence or severity of bleed.
+
+## Clinical Presentation: Additional Features
+- **Hypersplenism:** Mostly asymptomatic, present in both disorders.
+- **Bleeding:** From non-gastrointestinal sites in about 20%.
+- **Ascites:** Develops in 10–34% of NCPF and 13–21% of EHPVO cases, usually after a bleeding episode.
+- **Pain:** Repeated attacks of left upper quadrant pain due to perisplenitis or splenic infarction.
+- Rare: Mesenteric vein thrombosis, bowel ischemia, hemoperitoneum, hemobilia, pulmonary emboli.
+
+## Clinical Examination
+- Both disorders have moderate to massive splenomegaly (average size 11 cm below costal margin).
+- **NCPF/IPH:** Liver may be normal, enlarged, or slightly shrunken.
+- **EHPVO:** Liver is normal or shrunken.
+- Peripheral stigmata of chronic liver disease are absent.
+- Jaundice and hepatic encephalopathy are rare (≤2%) in NCPF/IPH.
+- In EHPVO, jaundice develops secondary to development of portal biliopathy.
+
+## Laboratory Findings
+- **Hypersplenism:** Seen in 27–87% with anemia being the commonest abnormality, followed by thrombocytopenia and leukopenia.
+- **Anemia:** Usually microcytic hypochromic (related to variceal bleeds, hypersplenism, iron deficiency).
+- **NCPF/IPH LFTs:** Mostly normal, but small proportions have deranged liver enzymes, prothrombin time, and albumin.
+- **EHPVO LFTs:** Elevations of alkaline phosphatase and gamma-glutamyl transpeptidase (with portal biliopathy). Hypoalbuminemia during bleed episodes.
+- Hypoxemia secondary to intrapulmonary vascular dilatations may be seen.
+- In EHPVO, splenic stiffness >42.8 kPa predicts variceal bleed with good accuracy.
+
+## Coagulation and Platelet Abnormalities
+- Prolonged prothrombin time, reduced fibrinogen, and reduced platelet aggregation seen in ~80% of cases despite association with prothrombotic disorders.
+- EHPVO patients have a state of low-grade disseminated intravascular coagulation secondary to portosystemic shunting.
+- Activity of ADAMTS13 (a metalloprotease that cleaves von Willebrand factor) is significantly reduced in NCPF/IPH patients.
+
+## Hemodynamics
+- Intra-splenic (ISP) and intra-variceal pressures (IVP) are significantly elevated in both NCPF/IPH and EHPVO compared to wedge hepatic venous pressures (WHVP) and intrahepatic pressures (IHP), suggesting a presinusoidal level of block.
+- In NCPF, two patho-anatomic sites of resistance have been demonstrated (presinusoidal and perisinusoidal).
+- HVPG is normal in EHPVO, whereas it is normal or slightly elevated in NCPF (median 7 mmHg).
+- IVP is the investigative tool of choice for PHT in both entities.
+- Hepatic blood flow is normal or decreased in EHPVO.
+- Hyperdynamic circulatory state has been demonstrated in both disorders.
+
+## Figure 3: Hemodynamics in NCPF/IPH
+- Both intrasplenic (ISP) and intravariceal pressures (IVP) are high in NCPF.
+- Two independent pressure gradients exist:
+  1. Between ISP and intrahepatic pressure (IHP) = 8.9 mmHg.
+  2. Between IHP and wedge hepatic venous pressure (WHVP) = 6.2 mmHg.
+- Indicates 2 patho-anatomic sites of resistance: presinusoidal and perisinusoidal.
+- As vascular resistance is pre- and peri-sinusoidal, HVPG remains nearly normal.
+
+## Autonomic Dysfunction & Immunological Alterations
+- **Autonomic dysfunction:** Present in 25% and 67% of NCPF/IPH and EHPVO cases, respectively. Secondary to hyperdynamic state and elevated nitric oxide.
+- **NCPF/IPH Immunology:** Total peripheral T lymphocytes and suppressor/cytotoxic T8 cells are reduced; T4–T8 ratio increased. Endothelin-1 levels increased. Mixed autologous lymphocytic reaction is defective.
+- **EHPVO Immunology:** Predominantly abnormalities of cell-mediated immunity. Humoral immunity is well preserved. Explainable by splenic sequestration of T cells.
+
+## Endoscopic Findings
+- Esophageal varices are seen in 80–90% of cases.
+- Compared to cirrhotics, esophageal varices are more often large (90% vs. 70%).
+- Gastroesophageal varices (GOV1 and GOV2) more common (31–44% vs. 22%).
+- Portal hypertensive gastropathy (PHG) less common (10.9% vs. 5.4%).
+- Anorectal varices larger and more common (89% vs. 56%).
+- Isolated gastric varices (IGV1) present in ~6% of EHPVO patients.
+- PHG develops usually after variceal eradication; often transient, non-progressive, asymptomatic.
+- In EHPVO, colopathy is seen in 54% of cases.
+
+## Figure 4: Algorithmic Approach for EHPVO Diagnosis & Variceal Management
+- **Diagnosis:** Splenomegaly, well-tolerated variceal bleed, preserved liver functions, growth failure, presence of portal cavernoma on USG Doppler. Liver biopsy to exclude intrinsic liver disease if needed.
+- **No upper GI bleed (Primary prophylaxis):** EVL/EST for large esophageal varices or small with red color signs. Beta-blockers can be considered.
+- **History of upper GI bleed (Secondary prophylaxis):** Esophageal varices -> EVL till eradication ± beta-blocker. Gastric varices -> Glue injection. Ectopic varices/PHG -> APC, beta-blockers.
+
+## Radiological Features
+- **Doppler USG (First line):**
+  - **NCPF/IPH:** Liver normal size/echotexture. Spleen enlarged with gamma-gandy bodies. Splenoportal axis dilated and patent. PV thickened (>3 mm) with echogenic walls. "Withered tree" appearance (sudden narrowing of intrahepatic PV branches).
+  - **EHPVO:** Cavernomatous transformation of PV. Sensitivity and specificity above 95%.
+- **CT/MR Angiography:** Provides anatomical road-map prior to shunt surgery.
+  - NCPF: Differentiates from cirrhosis by showing focal nodular hyperplasia-like nodules and perfusion defects.
+- **Radionuclide scintigraphy:** Absence of increased bone marrow uptake in NCPF.
+
+## Liver Biopsy
+- Not essential for EHPVO diagnosis unless underlying chronic liver disease is suspected.
+- Indicated in NCPF/IPH to exclude cirrhosis and other etiologies of PHT.
+- **Hillaire et al. criteria:** Hepatoportal sclerosis, periportal fibrosis, perisinusoidal fibrosis, nodular regenerative hyperplasia.
+- Biopsy specimen should be >1 cm with >5 complete portal tracts (CPT).
+- >66% of CPTs should have absence or reduced caliber portal venules with sclerosis/thickening of smooth muscle wall.
+
+## HIV and NCPF/IPH
+- Prevalence of NCPF/IPH in HIV is around 0.45–1% and rapidly increasing.
+- Due to prolonged survival following HAART.
+- Factors: Recurrent opportunistic gut infections, HAART usage (didanosine), hypercoagulability, direct effect of HIV.
+- HIV infects hepatic stellate cells and causes endothelial injury via cytokines.
+- Predominantly in males, homosexuals, prolonged infection.
+- Presentation: Features of PHT. Median liver stiffness 7.8–10.2 kPa. Median HVPG 8 mmHg.
+- Liver decompensation requiring LTx has been reported.
+
+## Management Overview
+- Natural course of NCPF/IPH is usually simple, except for development of PVT and hepatopulmonary syndrome (HPS).
+- EHPVO natural history is more complex due to growth failure, progressive parenchymal extinction, impaired QoL, minimal hepatic encephalopathy (MHE), and portal biliopathy.
+- Management primarily focuses on acute variceal bleeding and secondary prophylaxis.
+- Other areas: splenomegaly, hypersplenism, growth, portal biliopathy, MHE.
+
+## Natural History and Prognosis of NCPF
+- Long term survival after eradication of esophagogastric varices is nearly 100%.
+- After properly timed shunt surgery, survival is 80%.
+- Liver functions usually remain well preserved.
+- In 20–33% of cases, liver slowly undergoes parenchymal atrophy with subsequent decompensation, HPS, and need for LTx.
+- Uncontrolled variceal bleeding is a common cause of death.
+- Development of PVT is a major event contributing to progression of liver disease and eventual decompensation.
+
+## Natural History and Prognosis of EHPVO
+- Overall prognosis after control of variceal bleed is good, with long term (>10 years) survival nearly 100%.
+- **Growth retardation:** Stunting and wasting present in 37–54% and 31–57% of children. Impaired growth related to reduced portal blood supply, poor substrate utilization, GH resistance, anemia, and hypersplenism.
+- **Impaired QoL:** Poor health-related QoL with lower scores in physical, social, emotional, and school functioning. Improves after shunt surgery.
+- **Portal biliopathy:** Biliary ductal and gall-bladder wall abnormalities. Frequency in EHPVO is 80–100%.
+- **MHE:** Described with or without shunt surgery.
+- **Liver dysfunction:** Progressive deterioration may develop with increasing age and prolonged disease duration.
+
+## Portal Biliopathy
+- Refers to biliary ductal (extra- and intra-hepatic) and gall-bladder wall abnormalities in patients with PHT.
+- Forms: Intrahepatic biliary radicles dilatation, indentations, caliber irregularities, displacements, angulations, ectasias, strictures, CBD stones, compressions, varices, pseudo-cholangiocarcinoma sign.
+- Increased prevalence in EHPVO is related to long standing portal cavernoma causing compressive and ischemic changes on biliary tree.
+- Left hepatic duct is involved more commonly (38–100%) and severely.
+- Usually remains asymptomatic (62–95%).
+- Symptoms: Jaundice, biliary colic, abdominal pain, recurrent cholangitis.
+
+## Figure 6A: Classification of Portal Biliopathy
+- **Type I:** Involvement of only extrahepatic bile duct.
+- **Type II:** Involvement of only intrahepatic bile duct.
+- **Type III a:** Involvement of extrahepatic and unilateral (right or left) intrahepatic bile duct.
+- **Type III b:** Involvement of extrahepatic and bilateral intrahepatic ducts.
+- ERCP is the diagnostic gold standard. MRCP with portography has equal efficacy and helps differentiate choledochal varices from stones.
+
+## Figure 6B: Management Algorithm of Portal Biliopathy
+- **Asymptomatic:** Regular follow-up with LFTs. No treatment required.
+- **Symptomatic (Definite indication for intervention):**
+  - Endoscopic interventions: Sphincterotomy, stone extraction, biliary stenting, stricture dilatation, mechanical lithotripsy.
+  - If biliary obstruction remains unrelieved after endotherapy: Porto-systemic shunting is required.
+  - If obstruction persists after surgery: Second stage hepaticojejunostomy (biliary diversion surgery) may be needed.
+  - If no shuntable vein: Long term endoscopic biliary stent placement.
+
+## Table 5: Endoscopic Outcomes in EHPVO (Part 1)
+| Study | Subjects | FU Interval | Eradication of Eso Varices | Sessions | Recurrence | Complications |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Yachha (1997) | 50 (EST) | 19 ± 4 mo | 88% | Mean 8 | 26% | 40% to 70% (PHG) |
+| Zargar (2004) | 69 (EST) | Median 3 yr | 91% | 6.3 ± 1.8 | 12% | Ulcers 13%, Strictures 4% |
+| Itha (2006) | 183 (EST) | 3.1 ± 1.8 yr | 89% | 7.7 ± 1.8 | 40% | 12 to 41% (PHG) |
+| Poddar (2008) | 278 (EST) | 34 ± 28 mo | 95% | 5 ± 2.4 | 14% | Ulcers 16%, Strictures 17% |
+| Thomas (2009) | 198 (EST) | Median 20 yr | n.a. | n.a. | 20% | Stricture 14.6% |
+
+## Table 5: Endoscopic Outcomes in EHPVO - EVL vs EST
+| Study | Group | Eradication | Sessions | Recurrence | PHG | Complications |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sarin (1997) | 48 (EST) | n.a. | 5.2 ± 1.8 | 21% | 20% | Stricture 10% |
+| | 47 (EVL) | n.a. | 4.1 ± 1.2 | 6%* | 2%* | Stricture 0%* |
+| Zargar (2002) | 24 (EST) | 92% | 6.1 ± 1.7 | 25% | n.a. | 25% |
+| | 25 (EVL) | 96% | 3.9 ± 1.1* | 4%* | n.a. | 4%* |
+| Poddar (2011) | 101 (EVL to EST) | 100% | 5.2 ± 1.8 | 4% | 16 to 58% | 7% |
+| | 60 (EST) | 95% | 6.8 ± 2.8* | 10% | 16 to 58% | 28% |
+
+*Indicates significant difference with p < 0.05.
+
+## Minimal Hepatic Encephalopathy (MHE)
+- Described in EHPVO with or without shunt surgery.
+- Post-shunt surgery: Direct entry of toxic substances into systemic circulation. Prevalence is more with non-selective shunts.
+- Without surgical shunt: Reported in 32–35% of EHPVO cases based on critical flicker frequency, psychometric tests, P300 auditory event-related potential.
+- **Pathogenesis:** Associated with spontaneous shunts, elevated brain glutamine, high blood ammonia, and proinflammatory cytokines (TNF-alpha, IL-6).
+- Post-shunt surgery: Further increase in incidence along with ammonia; associated with decrease in brain myoinositol.
+- MHE persists in 75% and new onset MHE develops in 5% over 1 year.
+- Lactulose improves MHE in 53% of cases.
+
+## Management: Control and Prophylaxis of Variceal Bleed
+- Variceal bleeding is a severe complication in both NCPF/IPH and EHPVO.
+- Baveno V consensus recommends applying same principles as cirrhotic PHT due to limited specific data.
+- **Medical management:** Vasoactive drugs (somatostatin, octreotide, terlipressin) started early. Propanolol is as efficacious as EVL for prevention of rebleeding.
+- **Endoscopic variceal obliteration:** EST and EVL are effective in 80–90% of patients.
+  - EVL eradicates varices faster, with lesser complications and rebleed rates, but increased rate of variceal recurrence.
+  - For GOV2 or IGV1 bleed: Glue injection with N-butyl-cyanoacrylate.
+  - Repeated at 2–3 weekly intervals until eradication.
+
+## Figure 5: Surgical Considerations in EHPVO - Indications
+**Absolute Indications:**
+- Medically/endoscopically refractory variceal hemorrhage
+- Symptomatic hypersplenism (recurrent bleeds or infections)
+- Severe thrombocytopenia (platelet count <10,000/mm3)
+- Symptomatic or medically refractory hepatic encephalopathy
+- Hepatopulmonary syndrome
+- Portopulmonary hypertension
+
+## Figure 5: Surgical Considerations in EHPVO - Relative Indications
+- Symptomatic splenomegaly (pain, rupture, infarction, restriction of activities of daily living)
+- Poor health related QoL
+- Large varices with poor access to health care or rare blood group
+- Refractory lower GI bleed due to anorectal varices or colopathy
+- Neurocognitive testing suggestive of MHE
+- Portal biliopathy (PB)
+- Growth failure (Z-scores <-2 despite nutritional rehabilitation)
+- Delay in sexual development
+
+## Surgical Management: Shunt/Bypass Procedures
+- **Non-physiological shunts:** Bypass portal blood totally or partially into systemic circulation.
+  - Non-selective (Total): Central (CSRS), proximal splenorenal (PSRS), mesocaval, portocaval.
+  - Selective (Partial): Distal splenorenal shunt (DSRS) - selectively decompresses gastrosplenic zone.
+- **Physiological shunts:** Mesenterico-left PV bypass (MLPVB) or Rex shunt.
+  - Maintains hepatic portal blood flow while bypassing obstruction.
+  - Decompresses splanchnic bed from SMV to left branch of PV via autologous graft (usually internal jugular vein).
+
+## Surgical Management: Rex Shunt (MLPVB)
+- Physiological shunts actually cure the disease or defect, not just symptoms.
+- **Post-Rex shunt improvements:**
+  - Coagulation status, growth indices, liver volume.
+  - Reduction of spleen size, correction of hypersplenism.
+  - Reversal of hepatic encephalopathy.
+  - Improvement in fluid neurocognitive ability (attention span, processing speed, short-term memory).
+  - Prevents development of portal biliopathy and liver disease in adulthood.
+- MLPVB is the initial procedure of choice in EHPVO cases.
+- Minimum reported age is 1 month; vein size of 2 mm is considered adequate.
+
+## Surgical Management: Other Procedures & Failure of Endotherapy
+- **Ablative procedures:** Esophagogastric devascularization alone or with splenectomy.
+  - Done in patients with failed shunts, without shuntable veins, or in emergency refractory bleed. High rebleeding rates and mortality make them obsolete.
+- **Failure of endoscopic therapy:** Occurs in 8–12% of cases for acute bleed.
+  - Options: Surgical ablative procedures, TIPSS, balloon-occluded retrograde transvenous obliteration (BRTO).
+- **Anticoagulation:** No consensus on role/indication. Should be considered in known prothrombotic states to prevent recurrent thrombosis.
+
+## Table 6: Surgical Outcomes in EHPVO (Part 1)
+| Study (yr) | Subjects | Type of Surgery | FU Interval | Rebleed | Patency | Mortality |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bismuth (1980) | 52 | PSRS, MCS, DSRS, PCS | 4 yr | 2% | 94% | 0% |
+| Alvarez (1983) | 76 | PSRS, MCS | Mean 43 mo | 8% | 92% | 0% |
+| Warren (1988) | 70 | DSRS, Devascularization, etc. | n.a. | 4-50% | 17-96% | 20-30% |
+| Gauthier (1989) | 59 | PSRS, MCS, PCS, H-Type | Mean 12 mo | 7% | 92% | n.a. |
+| Mitra (1993) | 81 | LRS without splenectomy | Mean 54 mo | 10% | 84% | n.a. |
+| Prasad (1994) | 160 | PSRS | 12-156 mo | 11% | n.a. | 4% |
+
+## Table 6: Surgical Outcomes in EHPVO (Part 2)
+| Study (yr) | Subjects | Type of Surgery | FU Interval | Rebleed | Patency | Mortality |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Orloff (1994) | 162 | PSRS, MCS | 5-35 yr | 2% | 98% | 1.9% |
+| Menon (2005) | 30 | PSRS, LRS, Devascularization | 1-4 yr | n.a. | 100% | 0% |
+| Wani (2011) | 31 | Surgery (RCT) | n.a. | 3% | 97% | 3% |
+| | 31 | EST | n.a. | 23% | n.a. | 3% |
+
+## Table 6: Surgical Outcomes - Rex Shunt Studies
+| Study (yr) | Subjects | FU Interval | Rebleed | Patency | Outcomes | Mortality |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stringer (2007) | 11 | n.a. | 0% | 100% | BMIZS improved from -0.44 to +0.46 | 0% |
+| Lautz (2009) | 45 | 5-24 mo | 0% | 100% | WZS from -0.49 to +0.35, HZS from -0.42 to -0.14 | 0% |
+| Superina (2006) | 34 | 1-7 yr | 0% | 91% | Increase in plts, WBC; decrease in spleen size and PT | 0% |
+| Mack (2006) | 9 Rex, 3 DSRS | 1 yr | n.a. | 89% (Rex), 100% (DSRS) | Improved neurocognitive ability with patent Rex | 0% |
+| Chaves (2012) | 92 | n.a. | n.a. | 75% | Pre/post-op CT/MR helps diagnose patency | 0% |
+
+## Table 6: Surgical Outcomes in Portal Biliopathy (PB)
+| Study (yr) | Subjects | Type of Surgery | Rebleed | Success/Patency | Outcomes | Mortality |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Chaudhary (1998) | 9 | 2 CJ, 7 PSRS+splenectomy | 0% | 71% | 2 needed second stage HJ, 2 needed ERCP | 50% |
+| Oo YH (2009) | 13 | 6 ERCP, 1 MCS, 2 TIPSS | 77% | - | Endoscopic management effective initial therapy | 15% |
+| Chattopadhyay (2012) | 56 | 40 PSRS, 16 splenectomy+devasc. | n.a. | 88% | Overall PHB reversed in 88%, 15% needed biliary decompression | n.a. |
+| Agarwal (2011) | 37 | PSRS | 0% | 97% | Second stage surgery required in 13 (11 HJ, 1 CJ, 1 CCx) | 0% |
+
+## Follow-up Recommendations
+- **NCPF/IPH:** Followed-up at 6 monthly intervals for clinical and laboratory evaluation.
+  - Close surveillance for evidence of decompensation, development of PVT, HPS, and biliopathy.
+- **EHPVO children:** 3 monthly follow-up.
+  - Monitor growth, spleen size, QoL, school performance, learning abilities, evidence of biliopathy.
+- **Endoscopic surveillance:**
+  - Following variceal eradication: Every 3–6 months.
+  - Non-bleeders with large varices: Every 6 months.
+  - Non-bleeders with small varices: Every 12 months.
+
+## Miscellaneous Causes of NCPH: Hepatic Schistosomiasis
+- Caused by trematode flukes (*Schistosoma mansoni* and *japonicum*).
+- Liver disease develops secondary to entrapment of eggs in portal venules (<50 mm in diameter) with granulomatous inflammation leading to fibrosis ("Symmers pipe-stem fibrosis").
+- Inflammatory response initially Th1, later substituted by Th2 response with fibrosis.
+- **Diagnosis:** Demonstration of eggs in stools or rectal biopsy (Kato-Katz method). Serological tests available.
+- **Imaging:** Echogenic thickening along PV radicles (fish-scale network). CT shows capsular/septal calcifications (turtle back appearance).
+- **Treatment:** Praziquantel (regresses periportal thickening in 28.2%). Combination of artemesinin and praziquantel is superior. PHT managed by endotherapy, beta-blockers, or esophagogastric devascularization with splenectomy.
+
+## Miscellaneous Causes of NCPH: Congenital Hepatic Fibrosis (CHF)
+- Rare developmental disorder, mostly autosomal recessive, affecting renal and hepatobiliary systems.
+- Underlying abnormality: Ductal plate malformation (DPM) producing irregularly shaped proliferating intrahepatic bile ducts and periportal fibrosis.
+- 64% associated with autosomal recessive polycystic kidney disease (ARPKD) (PKHD1 gene mutation).
+- 25.6% associated with Caroli disease or syndrome.
+- Presentation: PHT (52–86%), cholangitis (34%), esophageal varices (40–78%), hypersplenism (44–75%).
+- Increased predisposition to cholangiocarcinoma.
+- **Management:** PHT managed with endotherapy and occasionally surgical shunt. Transplant options (liver, kidney, or combined CLKT) based on severity. CLKT is the best available option in symptomatic cases due to risk of cholangitis/renal insufficiency post single-organ transplant.
+
+## Miscellaneous Causes of NCPH: Nodular Regenerative Hyperplasia (NRH)
+- Constitutes around 27% and 14% of NCPH cases in Europe and Japan, respectively.
+- Associated with chemotherapeutic/immunosuppressant drugs, hematological, autoimmune, inflammatory, and neoplastic disorders.
+- **Pathogenesis:** Adaptive hyperplastic reaction of hepatocytes in response to abnormalities of portal hepatic blood flow.
+- **Pathology:** Partial/complete transformation of hepatic parenchyma into small regenerative nodules (1–3 mm) without fibrous septae (differentiates from cirrhosis). Hypertrophied hepatocytes centrally, atrophic peripherally.
+- **Hemodynamics:** Presinusoidal PHT. HVPG below 12 mmHg in 75%.
+- **Clinical:** Mostly asymptomatic. Symptomatic present with PHT and preserved liver functions.
+- **Imaging:** Non-specific (hypoechoic/isoechoic nodules on USG, isodense/hypodense on CT, hyperintense on T1 MRI).
+- **Treatment:** Directed towards primary disease. PHT managed by endotherapy, surgical shunt, or TIPSS. Survival depends on underlying disease.
+
+## Key Points
+- Next to cirrhosis, NCPH is a common cause of PHT.
+- NCPF/IPH and EHPVO are distinct diseases presenting with PHT (variceal bleed, splenomegaly, near normal liver functions).
+- Likely pathogenesis: Early age portal inflammation/infection in a prothrombotic individual.
+- Diagnosis needs exclusion of cirrhosis in NCPF/IPH and presence of portal cavernoma in EHPVO.
+- Slow hepatic dysfunction due to parenchymal extinction and portal biliopathy is a late event in EHPVO.
+- Effective management of PHT and its complications results in excellent 5 and 10 years survival.
