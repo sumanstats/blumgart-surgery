@@ -2,13 +2,8 @@
 
 
 
-::: {.panel-tabset}
-
-## Non cirrhotic portal HTN 1
 {{< reveal Extras/non_cirrhotic_portal_htn >}}
 
-## Non cirrhotic portal HTN 2
 {{< reveal Extras/non_cirrhotic_two >}}
 
-:::
 
