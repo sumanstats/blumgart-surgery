@@ -1,4 +1,5 @@
 ---
+title: "Noncirrhotic Portal Hypertension"
 format: revealjs
 theme: dark
 scrollable: true
@@ -6,7 +7,7 @@ scrollable: true
 
 
 
-## Introduction to Noncirrhotic Portal Hypertension
+## Introduction
 - Cirrhosis is the commonest cause of portal hypertension (PH).
 - The development of PH in the absence of cirrhosis is frequent and is termed **"noncirrhotic PH."**
 - This entity includes diverse conditions based on the resistance locations along the portal inflow and outflow tract.

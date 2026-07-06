@@ -1,7 +1,12 @@
 # 118A Major Hepatectomy and Extended Hepatectomy
 
+::: {.panel-tabset}
+
+## Chapter 
 
 {{< reveal 118A_Major_Hepatectomy_and_Extended_Hepatectomy >}}
+
+:::
 
 1. **How is a major hepatectomy typically defined?**  
     A. Resection of two or more contiguous hepatic segments  

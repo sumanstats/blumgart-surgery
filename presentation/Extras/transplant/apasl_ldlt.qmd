@@ -1,0 +1,1225 @@
+---
+title: "APASL guidelines LDLT"
+format: revealjs
+theme: dark
+scrollable: true
+---
+
+
+## Abstract
+* Liver transplantation (LT) is a highly complex and challenging field.
+* Originally developed in Western countries, it has advanced in Asia via living donor liver transplantation (LDLT).
+* LDLT is the only available option in many Asia-Pacific regions due to a lack of deceased organ donation.
+* These guidelines provide comprehensive, evidence-based recommendations for the entire LT process.
+* Covers both deceased donor (DDLT) and living donor liver transplantation (LDLT).
+* Developed collaboratively by medical professionals across the Asia-Pacific region.
+
+## Introduction: The Global Disparity
+* LT is the standard treatment for acute/chronic liver failure and hepatocellular carcinoma (HCC).
+* Advances in surgical techniques and perioperative care have significantly improved survival.
+* **The Problem:** Significant global disparity between the demand and supply of deceased donor grafts.
+* **The Asia-Pacific Reality:** Severe shortage of deceased donors led to the development and dominance of LDLT.
+* This striking difference highlights the necessity for region-specific clinical practice guidelines by APASL.
+
+## Evaluation and Management of Candidates
+* A multidisciplinary approach is essential for evaluating LT candidates.
+* Evaluation covers both DDLT and LDLT pathways.
+* Key areas of assessment include:
+  * Indications (Malignant and Non-malignant)
+  * Organ allocation policies
+  * Comorbidities and anatomical aspects
+  * Psychosocial and infectious disease screening
+
+## Indications: Non-Malignant Conditions
+* LT is indicated for various non-malignant end-stage liver diseases.
+* Major categories include:
+  * Acute Liver Failure (ALF)
+  * Acute on Chronic Liver Failure (ACLF)
+  * Decompensated Cirrhosis
+* Timing and patient selection are critical for optimizing outcomes in these dynamic conditions.
+
+## Acute Liver Failure (ALF): Definition
+* Severe acute liver injury with markers of liver damage and impaired function.
+* Manifested by prolonged INR (usually > 1.5) or PT.
+* Coagulopathy typically precedes hepatic encephalopathy (HE).
+* Occurs in patients without cirrhosis or pre-existing liver disease.
+* **Time course:** Illness duration < 26 weeks.
+* > 28 weeks before encephalopathy onset is categorized as chronic liver disease.
+
+## ALF: Clinical Classifications
+* **Hyperacute ALF:** HE develops within 7 days of jaundice.
+  * Severe coagulopathy, markedly increased transaminases.
+  * Better short-term survival.
+* **Acute ALF:** HE develops between 8 to 28 days of jaundice.
+* **Subacute ALF:** HE occurs within 5–12 weeks of jaundice.
+  * Milder transaminase increase, deep jaundice, splenomegaly, ascites.
+  * Shrinking liver volume, worse short-term survival.
+
+## ALF: Epidemiology in Asia
+* Epidemiology differs significantly from the West.
+* **Viral hepatitis** is the main cause of ALF in Asia (> 50% of cases).
+  * Hepatitis B virus (HBV) is primary in East Asia (Japan, South Korea, Taiwan).
+  * Hepatitis E virus (HEV) varies widely; severe in pregnant females.
+* **Drugs and herbs:** Increasing incidence in most countries (excluding Japan).
+  * Herbal/traditional medicines in China.
+  * Anti-tuberculosis (TB) drugs in India.
+* Paracetamol-induced ALF is rare in Asia compared to the West.
+
+## ALF: Indication and Timing of LT
+* Timing is crucial; ALF is frequently fatal due to cerebral edema and multisystem organ failure.
+* Once diagnosed, refer to transplantation centers immediately.
+* **Hepatic Encephalopathy (HE)** is a key indicator of poor prognosis.
+* Prompt evaluation for LT is mandated when HE is present.
+* Decision to proceed must be individualized by a multidisciplinary team.
+* Futility must be identified timely to avoid inappropriate transplantation.
+
+## ALF: Prognostic Scoring Systems (Table 2 - Part 1)
+**Kings College Criteria**
+* **Paracetamol-induced:** Arterial pH < 7.30 (after resuscitation) OR INR > 6.5 OR Creatinine > 3.4 mg/dL OR Grade III/IV HE.
+* **Non-paracetamol:** INR > 6.5 OR 3 of 5 criteria (Etiology, Age <10 or >40, Jaundice-encephalopathy interval >7 days, Bilirubin >17.6 mg/dL, INR > 3.5).
+
+## ALF: Prognostic Scoring Systems (Table 2 - Part 2)
+**ALFSG Prediction Model**
+* Variables: HE grade, Etiology, Vasopressor use, Bilirubin, INR.
+**ALFA Score**
+* Variables: Age, Bilirubin, INR, Ammonia, Creatinine, Hemoglobin.
+* *Note:* No system is universally adopted; relying entirely on scores is discouraged. Dynamic clinical assessment is required.
+
+## ALF: Special Consideration - LDLT in ALF
+* In the West, DDLT is standard; in Asia, LDLT is the most common form even for ALF.
+* **Benefits of LDLT:**
+  * Rapid transplantation (can be performed within 24 hours).
+  * Patient and graft survival rates are comparable to DDLT.
+  * Donor safety in emergency LDLT is comparable to elective LDLT.
+* **Disadvantages:**
+  * Lack of waiting time to observe spontaneous recovery.
+  * High reliance on imperfect prognostic markers.
+
+## ALF: Recommendations
+* LT is a life-saving treatment option to improve the outcome of patients with ALF. **(A1)**
+* LDLT can provide a comparable outcome as DDLT in ALF, but optimal timing and criteria need further evaluation. **(B1)**
+* Several criteria or scoring systems can be used to identify transplant candidates. **(B2)**
+
+## Acute on Chronic Liver Failure (ACLF): Definition
+* **APASL Definition:** Acute hepatic insult manifesting as jaundice and coagulopathy.
+* Complicated within 4 weeks by clinical ascites and/or HE.
+* Occurs in a patient with previously diagnosed or undiagnosed chronic liver disease/cirrhosis.
+* Associated with a high 28-day mortality.
+* Common feature across all definitions: Rapid worsening and high mortality risk, but with *potential for reversibility*.
+
+## ACLF: Definitions Comparison
+* **EASL-CLIF / NACSELD Definitions:**
+  * Include cirrhosis with previous decompensation.
+  * Require the presence of organ failure (hepatic and extrahepatic).
+  * Organ failure may be irreversible, leading to early post-LT mortality.
+  * Focus is often on *futility* rather than reversibility.
+* **APASL Definition:**
+  * Does not include cirrhosis with previous decompensation.
+  * Survivors can maintain recovered liver function.
+  * Focus is on *reversibility* and favorable long-term outcomes.
+
+## ACLF: Indication and Timing of LT
+* ACLF has a very high short-term mortality.
+* The "transplantation window" can be very short; decisions must be quick.
+* Emergent LT provides significant survival benefits, even with multiple organ failure.
+* Early LT (< 28 days) yields up to 75% survival.
+* Delaying LT up to 7 days increases multiorgan failure incidence.
+* Must avoid transplanting "potentially inappropriate candidates" (futility).
+
+## ACLF: Futility and Predictive Factors
+* Post-LT survival < 3 months is considered futile.
+* **Futility indicators:**
+  * ≥ 4 organ failures
+  * Respiratory failure / Mechanical ventilation
+  * Development of HE
+  * Rise in creatinine and white cell counts
+  * Controlled sepsis for < 24 hours
+  * High vasopressor support
+* No single reliable predictor of reversibility exists; clinical judgment is key.
+
+## ACLF: AARC Score (Table 3)
+**APASL ACLF Research Consortium (AARC) Score**
+* **Total Bilirubin:** <15 (1 pt), 15-25 (2 pts), >25 (3 pts)
+* **HE Grade:** 0 (1 pt), I-II (2 pts), III-IV (3 pts)
+* **PT-INR:** <1.8 (1 pt), 1.8-2.5 (2 pts), >2.5 (3 pts)
+* **Lactate:** <1.5 (1 pt), 1.5-2.5 (2 pts), >2.5 (3 pts)
+* **Creatinine:** <0.7 (1 pt), 0.7-1.5 (2 pts), >1.5 (3 pts)
+* *Score ≥ 11 indicates poor response to medical care; early LT consideration needed.*
+
+## ACLF: Dynamic Changes and Waiting Time
+* The dynamic change of ACLF during the waiting time guides LT decisions.
+* **Improvement/Stabilization:** Indicates good post-LT outcome.
+* **Worsening:** Indicates poor post-LT outcome; may guide stopping LT.
+* LT should be offered to patients who will not recover medically, not too early, but not too late.
+* Manage for 4-7 days with specific therapy; if deteriorating or AARC ≥ 11, proceed to LT.
+
+## ACLF: Special Consideration - LDLT
+* LDLT outcomes in ACLF are excellent (e.g., 92.9% at 5 years in APASL-defined cohorts).
+* **Advantages of LDLT:**
+  * Rapid transplantation without waiting for deceased donor allocation.
+  * Ideal timing can be selected by the transplant team during the dynamic course.
+* **Disadvantages of LDLT:**
+  * Requires a healthy, willing living donor.
+  * Use of partial grafts for critically ill patients (GRWR is a critical factor).
+
+## ACLF: Recommendations
+* LT is a life-saving treatment option that improves survival in ACLF, including those with multiple organ failure. **(A1)**
+* LDLT provides outcomes comparable to DDLT, but optimal criteria need further evaluation. **(B1)**
+* LDLT in ACLF is often an urgent/emergent indication depending on the dynamic clinical course in the first week and AARC score changes. **(B2)**
+
+## Decompensated Cirrhosis: Overview
+* Symptomatic condition characterized by jaundice, ascites, variceal hemorrhage, hepatorenal syndrome, and/or HE.
+* Prognosis deteriorates rapidly; 1-year survival drops below 50%.
+* Median survival reduces from > 12 years to approximately 2 years.
+* Accumulation of multiple decompensations further decreases survival.
+* Indication for LT should be assessed independently of the etiology.
+
+## Decompensated Cirrhosis: Indications for LT
+* MELD score < 15 generally qualifies as higher operative risk than waitlist mortality.
+* However, stages of cirrhosis (variceal bleeding, ascites) are significant predictors even with MELD < 15.
+* **General Indications:**
+  * Complications of decompensated cirrhosis (ascites, variceal hemorrhage, HE, jaundice).
+  * MELD score ≥ 15.
+* Evaluation for LT should occur once complications develop, irrespective of MELD score.
+
+## Decompensated Cirrhosis: Reversibility
+* Recovery from decompensation may be potentially reversible in specific scenarios.
+* **HBV/HCV-related:** Stable re-compensation after effective antiviral treatment.
+* **Alcohol-related:** Re-compensation with strict abstinence.
+* In these limited circumstances, the indication for LT may need to be reevaluated.
+
+## Decompensated Cirrhosis: Recommendations
+* Evaluation for LT should be considered in cases of irreversible hepatic failure regardless of etiology and those with complications of decompensated cirrhosis. **(A1)**
+* The indication for LT may be reevaluated in patients who have recovered from decompensation with successful treatment of the underlying etiology. **(B2)**
+
+## Hepatic Neoplasms: HCC Overview
+* LT is the best curative treatment for cirrhosis and HCC (removes tumor and treats underlying cirrhosis).
+* **Milan Criteria (MC):**
+  * Single mass ≤ 5 cm OR ≤ 3 tumors with size ≤ 3 cm.
+  * No radiological vascular invasion or remote metastasis.
+  * Widely accepted for low recurrence and acceptable survival.
+* Concerns exist that MC is too restrictive, limiting access to LT.
+
+## HCC: Expanded Criteria in Asia
+* In Asia, LDLT is not restricted by organ allocation systems.
+* Many centers developed center-specific expanded criteria based on institutional experience.
+* Shift from purely morphological parameters (size/number) to biological behavior parameters.
+* **Examples of Biological Markers:**
+  * Alpha-fetoprotein (AFP) levels
+  * PIVKA-II (DCP) levels
+  * PET scan negativity
+
+## HCC: Asian LT Criteria (Table 4 - Part 1)
+| Criteria | Study Group | Year | Eligibility Criteria |
+| :--- | :--- | :--- | :--- |
+| **Asan** | Lee et al | 2008 | Number ≤ 6, size ≤ 5 cm |
+| **Kyoto** | Kaido et al | 2013 | Number ≤ 10, size ≤ 5 cm OR DCP ≤ 400 |
+| **Tokyo** | Akamatsu et al | 2014 | Number ≤ 5, size ≤ 5 cm |
+| **Samsung** | Kim et al | 2014 | Number ≤ 7, size ≤ 6 cm, AFP ≤ 1000 |
+
+## HCC: Asian LT Criteria (Table 4 - Part 2)
+| Criteria | Study Group | Year | Eligibility Criteria |
+| :--- | :--- | :--- | :--- |
+| **NCCK** | Lee et al | 2016 | Number ≤ 10, negative PET |
+| **MoRAL** | Lee et al | 2016 | Any number/size, 11×√PIVKA + 2×√AFP |
+| **Kyushu** | Uchiyama et al | 2017 | Any number, size < 5 cm OR DCP < 300 |
+
+## HCC: The Downstaging Strategy
+* Combines expanded criteria with a positive response to locoregional therapies.
+* Paradigm shift: Selecting suitable candidates with initial tumors exceeding conventional criteria.
+* UNOS adopted expanded inclusion criteria for candidates successfully downstaged to fulfill MC.
+* AASLD and BCLC guidelines support LT after effective downstaging.
+* RCT evidence shows LT after sustained downstaging improves recurrence-free and overall survival.
+
+## HCC: Downstaging Consensus
+* No well-defined upper limit in terms of size/number for eligibility currently exists.
+* ILTS Transplant Oncology Consensus suggests UCSF criteria may be a more achievable downstaging endpoint before LDLT.
+* In Asia, LT is frequently a rescue procedure when patients become unresponsive to locoregional treatment.
+* Multidisciplinary integration is vital to offer downstaging as a primary treatment option.
+
+## HCC: Recommendations
+* LT is a primary treatment for HCC within Milan Criteria without vascular invasion/metastasis unsuitable for resection. **(A1)**
+* LT is recommended when successful downstaging is achieved after locoregional treatment in patients beyond Milan Criteria. **(B1)**
+* Even beyond Milan Criteria, LDLT can be performed according to center-specific criteria. **(C1)**
+
+## Cholangiocarcinoma (CCA)
+* Generally, LT is contraindicated for known CCA (5-year survival ~30% with LT alone).
+* **Mayo Clinic Protocol:**
+  * Strict patient selection: Localized tumor (< 3 cm), no distant/lymph node metastases.
+  * Neoadjuvant chemoradiation before LT.
+  * Improves 5-year survival to 65-70%.
+* May be performed in unresectable hilar CCA fulfilling the protocol.
+* Locoregional and systemic therapies remain prioritized; prospective trials are needed.
+
+## Colorectal Liver Metastases (CRLM)
+* CRLM can be an indication for LT in highly selected patients.
+* **SECA Studies:** 5-year overall survival ranged from 60% to 83% using strict criteria.
+* **ILTS Consensus Criteria:**
+  * Unresectable CRLM with only liver involvement.
+  * Max tumor diameter ≤ 5.5 cm.
+  * Pre-LT CEA ≤ 80 μg/L.
+  * Response to pre-LT chemotherapy.
+  * Time interval from diagnosis to LT ≥ 1 year.
+
+## CRLM: Asian Considerations
+* LT techniques like "Living Donor Auxiliary Partial Orthotopic LT + Two-stage Hepatectomy" are emerging.
+* Previous studies are exclusively from the West.
+* Unreasonable to directly apply Western indications to the Asia-Pacific region.
+* Currently performed only in well-designed clinical trials or after careful multidisciplinary evaluation.
+
+## Liver Metastasis of Neuroendocrine Tumor (NETLM)
+* Non-resectable NETLM resistant to medical treatment is an accepted indication in highly selected patients.
+* Common criteria: Milan Criteria, ENET guidelines, UNOS guidelines.
+* 5-year overall survival ranges from 47% to 71% in retrospective series.
+* Controversies remain due to heterogeneous data.
+* Further well-designed randomized control studies are required.
+
+## Hepatic Epithelioid Hemangioendothelioma (HEHE)
+* Rare vascular tumor with aggressiveness between hemangiomas and hemangiosarcomas.
+* 15% risk of metastasis; classified as malignant in 2020 WHO classification.
+* 87% multifocal, 37% extrahepatic disease (EHD) at diagnosis.
+* LT successfully performed in advanced liver involvement and/or EHD.
+
+## HEHE: ELTR Study and Outcomes
+* **European Liver Transplant Registry (ELTR) Data:**
+  * 5-year overall survival: 80.8% to 83%.
+  * 10-year overall survival: 74% to 77.1%.
+  * 3-month post-LT mortality: 4.7%.
+* **Recurrence Risk Factors:** Macrovascular invasion, short waiting time (< 120 days), lymph node involvement.
+* **Key Finding:** Extrahepatic disease (EHD) is *not* a contraindication to LT.
+
+## HEHE: Recommendations
+* In the treatment of unresectable HEHE, LT is worth considering.
+* Extrahepatic disease in HEHE is not a contraindication to LT. **(C2)**
+
+## Benign Neoplasms: Polycystic Liver Disease (PCLD)
+* LT indication is usually for symptomatic relief and quality of life improvement.
+* LT is the definitive treatment with excellent patient survival rates (> 90% at 5 years).
+* Limited by the severe shortage of organ donors.
+* Considered a life-saving procedure for massive, symptomatic PCLD.
+
+## Benign Neoplasms: Hemangioma and HCA
+* **Hepatic Hemangioma:**
+  * LT reserved for unresectable giant hemangiomas causing severe symptoms or life-threatening complications (e.g., Kasabach-Merritt syndrome).
+  * 5-year survival ~74.8%.
+* **Hepatocellular Adenoma (HCA):**
+  * Very rare indication for LT.
+  * Considered for male patients with unresectable multiple lesions, large HCA with shunts, or glycogen storage disorders unresponsive to medical treatment.
+
+## Benign Neoplasms: Recommendations
+* In special cases, LT can be considered for patients with benign liver tumors.
+* The decision must be made carefully due to the limited supply of donor organs. **(C2)**
+
+## Organ Allocation Policy: Overview
+* Transplantation should occur before life-threatening events, balancing surgical risks and lifelong immunosuppression.
+* Demand for LT exceeds organ availability, increasing waitlist morbidity/mortality.
+* Optimal patient selection and prioritization are necessary.
+* Allocation policies evolve to optimize outcomes, ensure fairness, and decrease waitlist deaths.
+
+## Prioritization: CTP and MELD Scores
+* **Child-Turcotte-Pugh (CTP):** First used, but limited by subjective interpretation of ascites/HE.
+* **MELD Score:**
+  * Based on objective measures: Creatinine, Bilirubin, PT-INR.
+  * Predicts 3-month mortality; implemented globally.
+  * Reduced waitlist mortality by 3.5% and median wait time by > 200 days.
+  * Prioritizing MELD ≥ 35 yielded more transplants and lower waitlist mortality.
+
+## Prioritization: MELD-Na and MELD 3.0
+* **MELD-Na:** Incorporates serum sodium (hyponatremia is common in decompensation).
+  * Reduced waitlist mortality but worsened sex disparity (females disadvantaged).
+* **MELD 3.0:**
+  * Adds female sex, serum albumin, upper bound for creatinine (3.0 mg/dL).
+  * Includes interactions between bilirubin/sodium and albumin/creatinine.
+  * More accurate mortality prediction; decreases sex disparity.
+
+## Prioritization: Exception Points (Table 5)
+MELD does not reflect mortality risk for all emergencies. Exception points are granted for:
+* **Malignancy:** HCC, Cholangiocarcinoma
+* **Specific Situations:** Refractory ascites, Recurrent GI bleeding, Recurrent encephalopathy, Hepatopulmonary syndrome, Portopulmonary hypertension, Chronic intractable pruritus, Recurrent cholangitis
+* **Other Diseases:** Budd-Chiari syndrome, Familial amyloidosis, Cystic fibrosis, Polycystic liver disease, Primary hyperoxaluria, ACLF, Severe alcoholic hepatitis, Sarcopenia
+
+## Oversight of Process and Outcomes
+* Optimal allocation must ensure maximal utility and equity.
+* Principles rely on "sickest first" (utility) or benefit (pre/post-transplant survival).
+* Authorities must oversee logistics: identifying donors, reporting, consent.
+* Continuous efforts needed to increase public/medical awareness of brain death and organ donation.
+* Allocation systems must evolve to account for changing indications and novel technologies.
+
+## Ethical Issues in Organ Allocation
+* Raises numerous ethical and moral issues.
+* **Core Principles:** Justice, utility, beneficence/nonmaleficence, patient autonomy.
+* **Living Donation Ethics:**
+  * Involves physical/psychological risks to a healthy individual.
+  * Altruistic and family donations are respected.
+  * **Financial motives for organ donation are strictly unethical.**
+* High ethical standards must be maintained for allocation policies and living donation decisions. **(A1)**
+
+## Evaluation Process: Comorbidities Overview
+* Liver disease severity is the initial concern, but extensive work-up is required.
+* Key areas of evaluation:
+  * Age
+  * Cardiovascular and Pulmonary function
+  * Renal function
+  * Extrahepatic malignancy screening
+  * Nutrition and Bone disease
+  * Psychosocial evaluation
+  * Infectious diseases and Anatomical aspects
+
+## Evaluation: Age and Cardiovascular Function
+* **Age:** No formal limit; successful in > 70 years. Physiological age > chronological age. Requires multidisciplinary evaluation for comorbidities.
+* **Cardiovascular:**
+  * Cirrhotic cardiomyopathy and CAD are common.
+  * ECG and Transthoracic Echocardiography (TTE) required for all candidates.
+  * High-risk patients (≥ 3 CAD risk factors or NASH) may need cardiac CT or angiography.
+  * Revascularization before LT considered if significant stenosis.
+
+## Evaluation: Pulmonary and Renal Function
+* **Pulmonary:**
+  * Screen for Portopulmonary Hypertension (POPH) using TTE.
+  * Right heart catheterization if moderate/high risk.
+  * Moderate/Severe POPH predicts > 50% post-LT mortality; requires pharmacological treatment.
+* **Renal:**
+  * Renal dysfunction dramatically worsens prognosis.
+  * Hepatorenal syndrome is an indication for LT.
+  * Simultaneous liver-kidney transplant considered if RRT required > 8-12 weeks or GFR < 30.
+
+## Evaluation: Extrahepatic Malignancy and Nutrition
+* **Extrahepatic Malignancy:**
+  * Must be curative with sufficient time elapsed to exclude recurrence.
+  * Age- and risk factor-appropriate cancer screening (endoscopy, colonoscopy, mammography, Pap smear) is mandatory. **(A1)**
+* **Nutrition:**
+  * Malnutrition and sarcopenia present in ~70% of end-stage liver disease.
+  * BMI < 18.5 increases poor outcome risk; BMI > 40 worsens post-LT outcomes.
+  * Nutritional assessment required for every candidate. **(B1)**
+
+## Evaluation: Bone Disease and Psychosocial
+* **Bone Disease:**
+  * Osteoporosis frequent (up to 55%).
+  * Requires bone densitometry, spine radiographs, and 25-hydroxyvitamin D assessment. **(B1)**
+* **Psychosocial:**
+  * Evaluate compliance, caregiver support, and absence of active psychiatric disorders.
+  * Cessation of cigarette smoking is mandatory. **(B1)**
+  * Alcohol abstinence is preferred; strict 3-6 month rules require center-specific approaches. **(B2)**
+
+## Evaluation: Infectious Diseases
+* Active infections must be treated before LT.
+* **Screening:** HBV, HCV, HIV, HSV, EBV, CMV, Syphilis, TB.
+* **Latent TB:** Treat if clinically eligible (e.g., Isoniazid/Rifampin regimens). **(B2)**
+* **Vaccination:** Programmatic pre-transplant vaccination (Pneumococcal, Influenza, Tetanus, HBV, HAV, HPV, COVID-19) is highly recommended. **(A1)**
+* Live vaccines should be given pre-transplant; contraindicated post-LT.
+
+## Evaluation: Anatomical Aspects
+* Preoperative imaging (US, CT, MRI) is essential to determine vascular/biliary patency.
+* **Portal Vein Thrombosis (PVT):**
+  * Prevalence 2-26% in cirrhosis.
+  * Historically a contraindication; now manageable with advanced surgical techniques (thrombectomy, jump grafts, bypass).
+  * Yerdel classification guides surgical approach.
+  * Isolated PVT is not a contraindication, but portomesenteric extension yields suboptimal outcomes.
+
+## Anatomical Aspects: PVT Recommendations
+* Anatomical abnormalities must be ascertained by preoperative images. **(B1)**
+* Presence of PVT is not a contraindication to LT.
+* If thrombosis extends to the portomesenteric system, LT might not be feasible due to suboptimal outcomes. **(C2)**
+* Pre-transplant anticoagulation for PVT is desirable if the thrombus is recent, progressive, or symptomatic. **(B2)**
+
+## Management on Waiting List: Cerebral Edema
+* Fatal complication of HE in ALF.
+* Grade II HE suggests impending cerebral edema; requires ICU intubation.
+* **Invasive ICP monitoring:** Not routinely used; reserved for highly selected subgroups due to bleeding risks. **(B1)**
+* **Management:**
+  * Elevate head 30 degrees, maintain Na 140-145 mmol/L.
+  * Hypertonic saline or Mannitol for ICP surges. **(B1)**
+  * Continuous veno-venous hemofiltration for ammonia clearance.
+
+## Management: HCV Treatment Pre-Transplantation
+* Goals: Improve liver function pre-LT, prevent graft infection post-LT.
+* **DAA Therapy in Decompensated Cirrhosis:**
+  * High SVR12 rates (> 80% in Child-Pugh B/C).
+  * Improves MELD and Child-Pugh scores.
+* **Caution:**
+  * Low MELD (< 16): High chance of delisting due to clinical improvement.
+  * High MELD (> 18-20): Mild improvement may cause "MELD purgatory" (losing priority).
+  * Protease inhibitors contraindicated in decompensated cirrhosis.
+
+## HCV Pre-LT Recommendations
+* Patients with decompensated cirrhosis without HCC and **low MELD (< 16)** should be treated prior to LT. **(B1)**
+* Patients with decompensated cirrhosis without HCC and **high MELD (> 18-20)** should be transplanted first without antiviral treatment; treat HCV after LT. **(B1)**
+* For HCC patients, timing of DAA therapy (pre vs post-LT) should be decided case-by-case.
+
+## Management: Gastroesophageal Varices
+* 80% of decompensated cirrhosis patients have varices.
+* **Esophageal Varices:**
+  * Primary prophylaxis: NSBBs (carvedilol, propranolol) or EVL.
+  * NSBBs reduce decompensation and death but may exacerbate refractory ascites.
+  * Combination therapy (NSBB + EVL) considered for rebleeding prevention. **(A1)**
+* **TIPS:**
+  * Not primary prevention.
+  * Bridge to LT for rebleeding despite NSBB/EVL or refractory ascites. **(B1)**
+
+## Management: Gastric Varices and POPH
+* **Gastric Varices:**
+  * EVO recommended for acute bleeding (IGV-1, GOV-2).
+  * BRTO or TIPS for secondary prophylaxis; BRTO preferred if portosystemic shunt present. **(B2)**
+* **Portopulmonary Hypertension (POPH):**
+  * Beta-blockers should be discontinued; treat varices with EVL. **(B1)**
+  * TIPS avoided. **(B1)**
+  * mPAP ≥ 50 mmHg is an absolute contraindication to LT. **(C1)**
+
+## Management: Obesity and Sarcopenia
+* BMI > 40 kg/m2 linked to increased post-transplant mortality.
+* **Lifestyle Modification:**
+  * Prehabilitation and exercise encouraged to reduce frailty.
+  * Weight reduction in decompensated cirrhosis requires caution (sarcopenia risk).
+* **Bariatric Procedures:**
+  * Sleeve gastrectomy considered for compensated cirrhosis pre-LT, or simultaneous with LT for decompensated. **(B2)**
+* BMI ≥ 35 kg/m2 is a relative contraindication; requires thorough multidisciplinary evaluation. **(B2)**
+
+## Donor Evaluation: Deceased Donor Overview
+* Severe shortage of deceased organs in Asia-Pacific drives LDLT.
+* Most Asian countries use "opt-in" (explicit consent) policies.
+* **Donation after Brain Death (DBD):**
+  * Requires irreversible coma, brainstem areflexia, apnea test.
+  * Full evaluation: biochemical, malignancy history, infections, imaging.
+  * Intraoperative biopsy/frozen-section to check for steatosis or injury.
+
+## Donor Evaluation: Split LT and DCD
+* **Split LT:**
+  * Reduces shortage, especially for pediatric/small adult recipients.
+  * Donor must be hemodynamically stable, young, mild fatty changes. **(B1)**
+* **Donation after Circulatory Death (DCD):**
+  * Increasing due to lack of brain-dead organs.
+  * Category III (awaiting cardiac arrest) is most common in Asia.
+  * Machine perfusion strategies increase graft quality.
+
+## Extended Criteria Donors (ECD)
+* Organs with increased risk of degradation/disease transmission.
+* **Advanced Age:** > 60 years increases mortality/graft loss risk. Safe with careful selection and minimized cold ischemic time (CIT). **(B2)**
+* **Steatosis:**
+  * > 30% macrosteatosis usable if balanced with low MELD, favorable ages, low CIT.
+  * > 60% macrosteatosis is ineligible. **(B2)**
+* **Positive Antibodies:**
+  * Anti-HBc+ preferable for HBsAg+ recipients; eligible for naive with prophylaxis. **(A2)**
+  * HCV+ donors usable for HCV+ recipients with DAA therapy. **(A2)**
+
+## Living Donor Evaluation: Selection and Safety
+* "Do no harm" is the priority. Donor mortality is nearly 0% in high-volume Asian centers.
+* **Psychiatric Evaluation:** Mandatory to ensure voluntary consent and assess depression risk. **(A1)**
+* **Contraindications:** Transmissible infections, CAD, cerebral vascular disease, extracranial malignancy.
+* **Donor-Recipient Relationship:** Mostly relatives; paired exchange programs used for ABO/volume mismatches.
+
+## Living Donor: Age, BMI, and Steatosis
+* **Age:** 18-60 years allowed. > 60 years selective based on conditions. **(B2)**
+* **BMI:** < 30-35 kg/m2 without steatosis yields comparable outcomes. **(C2)**
+* **Steatosis:**
+  * < 10-20% associated with favorable outcomes.
+  * > 30% macro-vesicular steatosis is not suitable. **(C2)**
+  * MR spectroscopy or biopsy recommended for suspected steatosis.
+
+## Living Donor: RLV and GRWR
+* **Remnant Liver Volume (RLV):**
+  * ≥ 30% for young donors without steatosis.
+  * ≥ 35% for older donors, mild steatosis, or Extended Right Lobe (ERL) including MHV. **(C2)**
+* **Graft-to-Recipient Weight Ratio (GRWR):**
+  * ≥ 0.8% recommended to prevent Small-for-Size Syndrome (SFSS). **(B2)**
+  * < 0.8% allowed selectively with portal flow modulation and careful consideration.
+
+## Anatomical Considerations in LDLT
+* Anatomical variations occur in ~50% of the population.
+* **Hepatic Artery:** Aberrant RHAs/LHAs common. Variant segment IV artery critical to identify.
+* **Portal Vein:** Trifurcation or right posterior vein variants affect biliary anatomy.
+* **Hepatic Vein:** Inferior right hepatic vein (IRHV) variants require reconstruction to avoid congestion.
+* **Bile Duct:** Multiple orifices common; precise imaging (CT, Gd-EOB-DTPA MRI) is essential. **(B1)**
+
+## Donor Surgery: Graft Types
+* **Right Lobe (RL) / Extended Right Lobe (ERL):** Most common for adults. ERL includes MHV for better outflow.
+* **Extended Left Lobe (ELL):** Preferred for donor safety if volume sufficient.
+* **Left Lateral Section:** Standard for pediatric LT; low risk, laparoscopic approach recommended.
+* **Right Posterior Section (RPS):** Higher biliary complication risk; used selectively.
+
+## Minimally Invasive Donor Hepatectomy
+* **Laparoscopic (LLDH):** Feasible, safe, fewer complications than open surgery in expert hands. **(B2)**
+* **Robotic (RLDH):** Comparable outcomes to open/laparoscopic; feasible but lacks definitive meta-analysis superiority.
+* *Crucial:* Anatomic variations must be meticulously mapped prior to minimally invasive approaches.
+
+## Donor Complications and Long-Term Outcomes
+* Overall morbidity ~16-41%; major complications ~1.9% in high-volume Asian registries.
+* Biliary complications are the most common post-hepatectomy issue.
+* Right lobe donors have slightly higher major complication rates than left lobe, but no difference in bile leaks or death.
+* **Long-term:** 10-year cumulative mortality 0.9%.
+* Depression and lower income are risk factors for adjusted mortality; careful selection improves safety.
+
+
+## LT Surgical Techniques: Overview
+* Liver transplantation (LT) involves complex surgical techniques that have evolved significantly.
+* Surgical approaches vary based on donor type (Deceased vs. Living) and graft type (Whole vs. Partial).
+* Key phases of LT include:
+  * Recipient hepatectomy and vascular control.
+  * Graft implantation and venous reconstruction.
+  * Portal and arterial inflow reconstruction.
+  * Biliary reconstruction.
+* This section details the standard techniques for Deceased Donor LT (DDLT) and the specific nuances of Living Donor LT (LDLT).
+
+## Deceased Donor Liver Transplantation (DDLT)
+* DDLT typically involves the implantation of a whole liver graft retrieved from a brain-dead (DBD) or circulatory death (DCD) donor.
+* Standard LT is the most common type of LT performed in Europe and the US.
+* The diseased native liver is removed, and the donor liver is implanted in the orthotopic site.
+* Surgical techniques for standard LT are primarily classified by how the recipient's inferior vena cava (IVC) is managed.
+
+## Standard LT: Conventional vs. Piggyback
+* The two representative techniques for standard LT are:
+  1. **Caval Replacement Technique (Conventional):** The recipient's retrohepatic IVC is removed with the liver.
+  2. **Piggyback Technique:** The recipient's native IVC is preserved.
+* The choice between these techniques depends on surgeon preference, center circumstances, and the patient's hemodynamic stability.
+
+## Caval Replacement Technique
+* First described as the conventional method for LT.
+* **Procedure:** The recipient’s retrohepatic IVC is removed along with the native liver.
+* Two end-to-end anastomoses are made: one to the suprahepatic IVC and one to the infrahepatic IVC of the graft.
+* **Disadvantage:** Requires clamping of the IVC with a long occlusion of venous return, inducing significant hemodynamic disturbance.
+* **Indication:** May not be suitable in unstable patients without veno-venous bypass. Helpful for massive livers or encircled caudate lobes.
+
+## Piggyback Technique
+* Frequently used in most Asian countries and increasingly worldwide.
+* **Procedure:** Preservation of the recipient’s native IVC.
+* A single anastomosis is created between the donor’s IVC and the recipient’s IVC or hepatic veins.
+* **Advantages:**
+  * Avoids bloody dissection of the retrocaval space.
+  * Allows for partial clamping of the IVC.
+  * Minimizes the recipient’s hemodynamic instability.
+
+## Piggyback Technique Modifications
+* Classically, the donor’s suprahepatic IVC is anastomosed to the common orifice of the recipient’s hepatic veins (formed by joining two or three hepatic veins).
+* **Side-to-Side Cavocavostomy:**
+  * A representative modified piggyback technique.
+  * Technically easier and facilitates caval venous flow.
+  * Avoids the need for veno-venous bypass during anastomosis.
+* Early concerns existed regarding suprahepatic caval stenosis and post-transplant ascites, but recent reports show no definite evidence of superiority of one venous reconstruction over another.
+
+## Figure 2: Standard Liver Transplantation
+* **Visualizing the Techniques:**
+  * **Panel A (Caval Replacement):** Shows the complete excision of the recipient's retrohepatic IVC. The graft is implanted with two distinct anastomoses (suprahepatic and infrahepatic).
+  * **Panel B (Piggyback):** Shows the recipient's IVC left in situ. The graft's suprahepatic IVC is draped over and anastomosed to the recipient's exposed hepatic vein stumps.
+* *Clinical Takeaway:* The piggyback technique promotes hemodynamic stability by maintaining venous return during the anhepatic phase.
+
+## Veno-venous Bypass Grafting or Portocaval Shunting
+* During LT (especially caval replacement), venous flow to the heart is blocked, decreasing blood pressure and vital organ perfusion.
+* **Veno-venous Bypass:** Returns blood to the heart through an external circuit to ameliorate transient hemodynamic instability.
+* **Temporary Portocaval Shunt:** Created to avoid splanchnic congestion during the anhepatic phase.
+* **Current Consensus:** While they offer better hemodynamic stability and less bowel congestion, they add technical complexity and operating time. Routine use is **not recommended**.
+
+## Portal Reconstruction in DDLT
+* After native liver removal, portal flow is assessed by temporarily unclamping the portal vein.
+* If flow is inadequate, collateral veins (e.g., splenorenal shunts, left gastric vein) must be ligated.
+* **Portal Vein Thrombosis (PVT):** Present in about a third of patients; a challenging problem that impairs adequate portal flow.
+* Most thrombi up to the spleno-mesenteric junction are managed by eversion thrombectomy or resection.
+
+## Managing Complex PVT During LT
+* Organized PVT extending beyond the spleno-mesenteric junction is difficult and risky to remove.
+* **Alternative Inflow Sources:**
+  * Jump graft from the superior mesenteric vein (SMV).
+  * Renoportal or cavoportal bypass.
+  * Portal arterialization (using arteries as inflow).
+* *Caution:* Variceal veins might be too thin for anastomoses. Non-physiologic reconstructions are associated with intractable, serious complications.
+
+## Recommendations for Standard LT
+* The piggyback technique can minimize hemodynamic disturbance in standard LT. **(C1)**
+* Adequate portal inflow should be achieved through the best thrombectomy and ligation of collateral vessels. **(B1)**
+* Routine use of veno-venous bypass and temporary portocaval shunts is not recommended.
+
+## Partial Graft Transplantation: Overview
+* Different types of LT involving reduced or partial grafts were introduced to solve the organ shortage crisis.
+* Main types include:
+  * Reduced-size or Split Graft LT
+  * Auxiliary LT
+* These techniques maximize the utility of a single deceased donor liver, particularly for pediatric recipients or specific metabolic conditions.
+
+## Reduced-size or Split Graft LT
+* **Reduced-size LT:** Uses only parts of an adult donor liver for a small patient. The rest of the donor's liver is discarded (wastes usable tissue).
+* **Split Liver LT:** An adult donor liver is divided into two grafts to maximize efficacy.
+  * **For an adult and a small child:** Split into an extended right liver and a left lateral section graft.
+  * **For two adults (or a big child):** Split into right and left liver grafts.
+* Splitting is based on the weight and size of the intended recipients.
+
+## Split Liver LT: Donor Selection
+* Careful donor selection is necessary for a successful split LT.
+* **Ideal Split Donor Criteria:**
+  * Hemodynamically stable (using low-dose inotropic agents).
+  * Relatively young.
+  * Well-preserved liver function.
+  * Only mild fatty changes.
+* Additional criteria for left lateral splitting: Age < 55, ICU stay < 5 days, fatty degeneration < 30%, GGT < 50 U/L.
+
+## Auxiliary LT: Overview and Indications
+* Auxiliary LT preserves part or all of the recipient’s native liver.
+* **Traditional Indications:**
+  1. **Acute Liver Failure (ALF):** ALF is potentially reversible. The graft provides physiologic support until native liver function is restored. The graft can later be removed, and immunosuppression withdrawn.
+  2. **Metabolic Liver Disease:** Corrects functional congenital or metabolic disorders while avoiding a full LT.
+* Can be performed orthotopically or heterotopically.
+
+## Auxiliary LT: Techniques and Outcomes
+* By implanting a partial graft while preserving the native liver, the metabolic disorder is corrected.
+* This approach avoids the complete removal of the native liver, which can be advantageous in specific acute or metabolic scenarios.
+* Auxiliary LT remains a specialized procedure utilized selectively in high-volume centers.
+
+## Living Donor Liver Transplantation (LDLT): Overview
+* In countries where deceased donations are scarce (e.g., most of Asia), most LTs are performed from living donors.
+* LDLT involves unique technical challenges compared to DDLT, primarily due to the use of partial grafts.
+* Key issues in LDLT implantation include:
+  * Venous drainage reconstruction.
+  * Portal vein reconstruction.
+  * Managing Small-for-Size Syndrome (SFSS).
+  * Hepatic artery and biliary reconstruction.
+
+## LDLT Implantation: Venous Drainage Reconstruction
+* Hepatic vein reconstruction is one of the most different technical points in LDLT compared to standard DDLT.
+* Because partial liver grafts are used, hepatic vein anastomosis usually requires some kind of **venoplasty** to avoid stenosis or angulation.
+* The anatomy of the right liver is complex regarding the relationship between inflow and outflow.
+* Meticulous outflow reconstruction is just as important as perfect inflow formation for graft integrity.
+
+## Venous Drainage: Reconstructing Segment 5 and 8 Veins
+* Most LDLT centers prefer to reconstruct tributary veins of the Middle Hepatic Vein (MHV) on the back table.
+* Various interpositional grafts are used (autologous, homologous, or synthetic).
+* **General Agreement:** All drainage veins in segments 5 and 8 that are **larger than 5 mm in diameter** must be reconstructed.
+* Similarly, large inferior right hepatic veins (> 5 mm) must be connected to the IVC to prevent severe venous congestion.
+
+## Portal Vein Reconstruction in LDLT
+* The surgical technique is similar to DDLT, but the portal vein stump of the living donor graft is very short.
+* Additional venoplasty techniques (conduit formation or patch venoplasty) may be required for atretic portal veins or PVT.
+* **Single vs. Double Orifice:**
+  * A single portal vein reconstruction is common.
+  * If two separate portal vein stumps are encountered (e.g., anterior and posterior branches), they can be unified via venoplasty.
+  * If branches are too distant, Y-shaped interposition or conjoined unification methods are required.
+
+## Managing Complex Portal Vein Anatomy in LDLT
+* Complex and extensive PVT can be considered contraindications for LDLT in standard settings.
+* However, Asian centers with large expertise in LDLT selectively accept these patients.
+* The goal is to secure adequate inflow while avoiding tension or torsion on the short donor portal vein stump.
+
+## Small-for-Size Syndrome (SFSS): Definition
+* Grafts with a **GRWR < 0.8%** or a **Graft Volume / Standard Liver Volume (GV/SLV) < 40%** are widely regarded as small-for-size grafts (SFSG).
+* These grafts have a higher risk of early allograft dysfunction.
+* **Clinical Manifestations (within 1-2 weeks):**
+  * Coagulopathy
+  * Cholestasis
+  * Ascites
+  * Post-transplant encephalopathy
+* Occurs in the absence of surgical, infectious, or immunological complications.
+
+## Pathophysiology of SFSS
+* SFSS is not caused by an absolute graft volume, but by the inability of the graft to meet the metabolic demands of the recipient.
+* **Key Triggering Factor:** Excessive portal flow into the small graft.
+* This leads to:
+  * Sinusoidal congestion and hemorrhage.
+  * Responsive vasoconstriction of the hepatic artery (arterial buffer response failure).
+  * Endothelial injury and impaired liver regeneration.
+
+## Pharmacological Portal Flow Modulation
+* To attenuate the deleterious effect of excessive portal flow, various maneuvers are attempted.
+* **Pharmacological Methods:**
+  * **Terlipressin and Octreotide:** Most common pharmacological methods.
+  * Randomized clinical studies show these drugs might decrease portal flow and improve renal function in the immediate post-LT setting.
+
+## Surgical Portal Flow Modulation
+* **Splenectomy:** Demonstrates a marked decrease in portal flow but cannot be recommended as the first choice due to higher procedure-related morbidity.
+* **Shunt Techniques:** To partially divert portal flow.
+  * Hemiportocaval, mesocaval, and mesorenal shunts.
+  * *Caution:* Adversely associated with the risk of portal hypoperfusion and the "portal steal phenomenon."
+  * Shunt size must be carefully calibrated based on intraoperative hemodynamics.
+
+## Intraoperative Hemodynamics and Portal Pressure Targets
+* Portal flow modulation should be based on intraoperative liver hemodynamics.
+* **Target Pressures:**
+  * General agreement that portal pressure should be **< 20 mmHg**.
+  * Pressures **< 15 mmHg** are considered favorable.
+  * Alternatively, a hepatic venous portal gradient of **< 10 mmHg** is targeted.
+
+## Hepatic Artery Reconstruction in LDLT
+* Arterial inflow is critical for a successful LT, especially for biliary tree viability.
+* The graft artery is very thin and short.
+* **Technique:**
+  * Anastomosis is generally performed in an interrupted fashion.
+  * Must be done under **high magnification** with an operating microscope or surgical loupes.
+* Selection of the recipient hepatic artery depends on length, caliber, natural direction, and wall integrity.
+
+## Alternative Arterial Inflow Sources
+* Anatomical anastomosis is the first choice.
+* If recipient hepatic arteries are inappropriate (atherosclerosis, intimal dissection, damage), extra-anatomical reconstructions are considered.
+* **First Alternative:** Right gastroepiploic artery.
+* **Other Options:** Splenic, left gastric, or gastroduodenal arteries.
+* **Interposition Grafts:** Necessary when arteries are unavailable for direct anastomosis.
+
+## Biliary Reconstruction in LDLT: Techniques
+* Biliary reconstruction is technically more demanding in LDLT than DDLT and is associated with more complications (leakage, stricture).
+* **Roux-en-Y Hepaticojejunostomy:** Once considered the standard method.
+* **Duct-to-Duct Anastomosis:** Currently the preferred technique in many centers.
+  * Advantages: Technical ease, no bowel manipulation, preserves sphincter of Oddi function, allows future endoscopic access.
+
+## Duct-to-Duct Anastomosis vs. Roux-en-Y
+* Multiple duct stumps of right liver grafts are commonly observed and may require multiple anastomoses.
+* Duct-to-duct is favored when the duct sizes are compatible and tension-free.
+* Roux-en-Y is reserved for cases with significant size mismatch, multiple distant stumps, or recipient bile duct disease (e.g., PSC).
+
+## Biliary Stenting and External Drainage
+* Some surgeons prefer to insert an internal or external stent across the biliary anastomosis.
+* **Indications:** Especially when dealing with very small ducts to keep the lumen open in the early postoperative period.
+* **External Biliary Drainage:** Reported to prevent leakage by minimizing intraductal pressure at the anastomotic site.
+* *Note:* The significance of stenting and external drainage remains controversial and requires well-designed studies.
+
+## Recommendations for LDLT Implantation
+* When implanting a right liver graft, tributary branches of the MHV should be reconstructed to prevent venous congestion. **(B1)**
+* In LDLT with an SFSG, pharmacological or surgical portal flow modulation can help reduce the risk of graft dysfunction. **(B1)**
+* Arterial anastomosis should be performed under high magnification. **(C1)**
+* Duct-to-duct anastomosis is the preferred method of biliary reconstruction. **(C2)**
+
+## ABO-Incompatible (ABOi) LDLT: Necessity
+* Because of the severe deceased donor shortage, cases of ABO-incompatible (ABOi) LDLT are unavoidable in many Asian countries.
+* ABOi LDLT expands the donor pool by allowing transplantation across ABO blood group barriers.
+* The primary immunological hurdle is the presence of preformed anti-donor ABO antibodies in the recipient.
+
+## Historical Protocols for ABOi LDLT
+* In the early period, protocols were aggressive and carried high risks.
+* **Key Components:**
+  * **Apheresis/Plasmapheresis:** To reduce preformed anti-donor ABO antibodies.
+  * **Splenectomy:** Performed during the operation to eliminate a large source of antibody production.
+  * **Local Infusion Therapy:** Portal vein or hepatic artery infusion to prevent intravascular thrombosis (antibody-mediated rejection).
+
+## Modern Protocols: Rituximab-based Desensitization
+* The introduction of **Rituximab** (anti-CD20 monoclonal antibody) revolutionized ABOi LDLT.
+* **Current Standard Protocol:**
+  * Rituximab administration.
+  * Plasmapheresis.
+  * **No splenectomy** and **no local infusion therapy** required in most cases.
+* This significantly reduced surgical morbidity while maintaining efficacy.
+
+## Outcomes and Complications of ABOi LDLT
+* **Long-term Outcomes:** Comparable with those of ABO-compatible LDLT.
+* **Remaining Concerns in the Rituximab Era:**
+  * Higher rates of biliary complications.
+  * Increased risk of infectious complications (due to B-cell depletion).
+  * Antibody-mediated rejection (AMR) remains a potential risk.
+
+## Recommendations for ABOi LDLT
+* ABOi LDLT can be a good option to overcome the donor shortage. **(B2)**
+* The long-term outcomes of ABOi LDLT are acceptable; however, it could increase the risk of biliary complications, infection, or antibody-mediated rejection. **(B2)**
+
+## Post-Transplant Complications: Surgical Overview
+* Despite advances, surgical complications remain a significant cause of morbidity post-transplantation.
+* **Two Main Categories:**
+  1. **Vascular Complications:** Hepatic artery, portal vein, and hepatic vein issues.
+  2. **Biliary Complications:** Leaks and strictures.
+* Prompt recognition and treatment are vital to reduce morbidity, mortality, and improve graft survival.
+
+## Vascular Complications: Screening and Diagnosis
+* Vascular complications commonly occur early in the post-transplant period but can be clinically silent.
+* **Duplex Ultrasound:** The primary screening modality. Determines vascular integrity non-invasively.
+* **Angiography:** The gold standard for diagnosing arterial complications.
+* **CT or MR Angiography:** Increasingly used as non-invasive alternatives to conventional angiography.
+
+## Hepatic Artery Complications: Incidence
+* Historically, arterial complication rates were reported between 15% and 25%.
+* **Recent Reports:**
+  * Thrombosis rates: 0% to 9.4%.
+  * Stenosis rates: 0% to 9.7%.
+* Hepatic artery thrombosis (HAT) is a devastating complication, often leading to biliary ischemia, abscess formation, and graft loss.
+
+## Early vs. Late Hepatic Artery Thrombosis (HAT)
+* **Early HAT:** Occurs ≤ 30 days after LT.
+  * Overall re-transplantation rate: 53.1% (higher in children).
+  * Overall mortality rate: 33.3%.
+  * Without urgent revascularization, early HAT (especially within the first few days) almost always leads to mortality.
+* **Late HAT:** Occurs > 1 month after LT.
+  * Often better tolerated due to established collateral circulation, but still requires management.
+
+## Management of Early HAT
+* Early HAT requires an emergency multidisciplinary approach.
+* **Options:**
+  * Urgent surgical revascularization.
+  * Re-transplantation.
+  * Endovascular treatments.
+* Endovascular treatments (thrombolysis, thrombectomy, stenting) have been shown to be feasible and produce good outcomes, particularly in pediatric recipients.
+
+## Endovascular Treatments for HAT
+* The endovascular approach is evolving as a primary alternative technique for HAT.
+* Techniques include percutaneous transluminal angioplasty, stent placement, and catheter-directed thrombolysis.
+* Early detection via routine Doppler ultrasound screening is essential to enable these minimally invasive interventions before irreversible biliary necrosis occurs.
+
+## Portal Vein Complications: Incidence and Risk Factors
+* Portal vein obstruction (thrombosis or stenosis) is a significant vascular complication.
+* **Incidence:** 1% to 12.5%.
+* **Risk Factors:**
+  * Pre-transplant PVT (Odds Ratio = 15.20).
+  * Male sex.
+  * Splenectomy.
+* Pre-transplant PVT is the most significant independent risk factor for post-LT portal vein stenosis and thrombosis.
+
+## Clinical Manifestations of Post-LT PVT
+* The duration and range of thrombosis affect clinical manifestations.
+* **Early Stage PVT may lead to:**
+  * Impairment of liver function.
+  * Coagulopathy.
+  * Portal hypertension.
+  * Varix bleeding.
+  * Intestinal edema and massive ascites.
+
+## Management of Post-LT PVT and Stenosis
+* Interventions depend on the timing and pattern of the complication.
+* **Percutaneous Transluminal Angioplasty (PTA):** Common first-line for stenosis.
+* **Stent Placement:** Used for refractory stenosis or recoil.
+* **Surgical Options:** Mesorex bypass or other surgical shunts.
+* **Endovascular Recanalization:** For acute thrombosis.
+* Early detection and a tailored approach are essential for salvaging the graft.
+
+## Hepatic Vein Complications
+* Optimal hepatic venous outflow is key for a successful outcome.
+* **Right Hepatic Vein Stenosis:** A common and important vascular complication of LDLT with right lobe grafts.
+  * Approximate incidence: 5%.
+* **Management:** When managing early venous outflow problems (especially with venous reconstructions of vessels from segments 5 and 8), interventional radiological techniques (balloon angioplasty/stenting) should be considered first-line.
+
+## Biliary Complications: The "Achilles' Heel"
+* Biliary complications are considered the "Achilles' heel" of LT.
+* **Incidence:** 5% to 32%.
+* They are an important source of morbidity and can negatively impact graft survival.
+* **Types of Complications:**
+  * Strictures (anastomotic and non-anastomotic).
+  * Bile leaks.
+  * Stones.
+  * Sphincter of Oddi dysfunction.
+
+## Bile Leaks: Classification and Pathophysiology
+* **Timing:**
+  * **Early:** Within 4 weeks post-LT.
+  * **Late:** After 4 weeks.
+* **Location:**
+  * **Anastomotic:** Most common for early leaks.
+  * **Non-anastomotic:** Often ischemic in origin.
+* **Pathophysiology:** Ischemia is an important mechanism. Hepatic artery thrombosis can cause necrosis of the anastomosis, leading to leaks or strictures. LDLT involves extensive dissection, increasing ischemic time.
+
+## Anastomotic Biliary Strictures: Risk Factors
+* Anastomotic strictures are more common than non-anastomotic (up to 86% of all strictures).
+* **Cumulative Risk:** 6.6% at 1 year; 12.3% at 10 years.
+* **Pathophysiology:** Ischemia or fibrosis of the bile duct.
+* **Risk Factors:**
+  * Small caliber of bile ducts.
+  * Size mismatch between donor and recipient ducts.
+  * Postoperative bile leak.
+  * Inappropriate suture material or tension at the anastomosis.
+  * Excessive use of cauterization to control bleeding.
+
+## Management of Biliary Complications
+* **Endoscopic Retrograde Cholangiopancreatography (ERCP):** First-line treatment for most cases (especially duct-to-duct anastomoses). Allows for balloon dilation and stenting.
+* **Percutaneous Transhepatic Biliary Drainage (PTBD):** Usually performed in patients with Roux-en-Y hepaticojejunostomy, where ERCP is technically difficult.
+* **Surgery:** Reserved for patients in whom endoscopic or percutaneous approaches have failed (operative revision).
+
+## Recommendations for Surgical Complications
+* Follow-up using postoperative imaging studies is required for early detection of complications. **(B1)**
+* Management of hepatic artery complications may require revascularization through surgery or other interventions. **(B2)**
+* Pre-transplant PVT is a major risk factor for PVT and stenosis after LT. **(B2)**
+* Anastomotic biliary strictures are successfully managed with endoscopic or percutaneous balloon dilation and stenting. **(B1)**
+
+
+## Perioperative Infection Prevention: Overview
+* The development of immunosuppressive agents has decreased graft rejection but increased opportunistic infection risks.
+* LT recipients are highly susceptible to various infections during recovery and post-transplant life.
+* It is crucial to screen for risk factors and prevent infections using appropriate protocols.
+* This section focuses on preventing bacterial, Cytomegalovirus (CMV), and fungal infections that threaten immediate post-LT viability.
+* Protocols often vary by center, but evidence-based guidelines provide a strong foundation for care.
+
+## Bacterial Infection: Pathogens and SSI Risk
+* The most common bacterial pathogens in LT patients are enteric gram-negative organisms.
+* These include Enterobacteriaceae, Acinetobacter species, and Enterococcus.
+* Skin pathogens, such as staphylococci and streptococci, are also frequently implicated.
+* Prophylactic antibiotics targeting these bacteria are essential to prevent surgical site infections (SSI).
+* The risk of SSI varies significantly depending on the antibiotic regimen used.
+
+## Bacterial Infection: Prophylactic Regimens
+* Traditional prophylactic regimens consist of a third-generation cephalosporin (usually cefotaxime) combined with ampicillin.
+* Amoxicillin-clavulanate or piperacillin-tazobactam alone are also reasonable regimens.
+* Guidelines recommend administering these within 60 minutes before making any surgical incision.
+* For patients allergic to beta-lactam antimicrobials, alternatives include clindamycin or vancomycin combined with gentamicin, aztreonam, or a fluoroquinolone.
+
+## Bacterial Infection: Duration and Redosing
+* Intraoperative redosing is required if the procedure exceeds two half-lives of the drug or if there is excessive blood loss.
+* This ensures adequate serum and tissue concentrations of the antimicrobial agent.
+* Prolonged administration of antibiotics for several days after surgery is not recommended.
+* Randomized controlled trials show that extending antibiotics beyond 72 hours does not reduce SSI or nosocomial infections.
+* Instead, prolonged use may increase hospitalization length and the risk of resistant infections.
+
+## Bacterial Infection: Multidrug-Resistant Organisms
+* The prevalence of multidrug-resistant bacterial infections is increasing globally.
+* These include Vancomycin-resistant enterococcus (VRE), ESBL-producing Enterobacteriaceae, and Carbapenem-Resistant Enterobacteriaceae (CRE).
+* Preventing SSI in this environment requires careful selection of prophylactic antibiotics.
+* Consultation with infectious disease specialists is highly recommended for high-risk patients or centers with high resistance rates.
+
+## Bacterial Infection: Recommendations
+* Administer prophylactic antibiotics (3rd-generation cephalosporin + ampicillin-sulbactam, or piperacillin-tazobactam) within 1 hour before LT incision. **(A1)**
+* Re-administer antibiotics according to their half-life during long surgeries, but do not exceed 72 hours of prophylaxis. **(A1)**
+* Tailor prophylaxis for multidrug-resistant organisms based on local epidemiology and infectious disease consultation.
+
+## CMV Infection: Overview and Manifestations
+* CMV is the most common opportunistic infection following solid organ transplantation.
+* Infection patterns include CMV syndrome (fever, malaise, leukopenia) or end-organ disease (gastrointestinal, pneumonia, retinitis).
+* The highest probability of infection occurs within the first 3 months post-LT.
+* Primary CMV infection can be asymptomatic in immunocompetent individuals but persists latently.
+* It can reactivate when immunity is weakened by immunosuppressants or be transmitted directly from the donor.
+
+## CMV Infection: Risk Factors and Donor/Recipient Status
+* The most critical risk factor for CMV infection is the donor and recipient's CMV-specific immunity.
+* It is essential to check CMV IgG and IgM in both donors and recipients before LT.
+* CMV seronegative recipients transplanted from CMV seropositive donors (D+/R-) are at the highest risk.
+* Other risk factors include severe immunosuppression, rejection episodes, and coinfection with other pathogens.
+* CMV prevention is absolutely essential in these high-risk groups.
+
+## CMV Prevention Strategies: Universal Prophylaxis
+* Universal prophylaxis involves administering antiviral drugs to all at-risk patients immediately after LT.
+* This strategy is easier to coordinate for patient management.
+* It has a positive impact on reducing graft loss, mortality, and other opportunistic infections.
+* However, it may result in high drug costs and issues related to antiviral drug side effects (e.g., leukopenia).
+
+## CMV Prevention Strategies: Preemptive Therapy
+* Preemptive therapy involves periodically measuring the viral load and treating only when significant viremia occurs.
+* This strategy requires regular laboratory monitoring, which can be difficult to coordinate.
+* Because the prevention period is relatively short, it is associated with lower costs and fewer antiviral side effects.
+* The probability of delayed-onset CMV infection is also minimal with this approach.
+
+## CMV Prevention: Comparing Strategies
+* A recent large RCT compared universal prophylaxis (3-6 months) with preemptive therapy in high-risk (D+/R-) patients.
+* The incidence of CMV disease was significantly lower in the preemptive group at 12 months post-transplant.
+* Both strategies have distinct advantages and disadvantages.
+* The choice of strategy should depend on the prevailing situation, resources, and protocols of each center or country.
+
+## CMV Monitoring: QNAT and pp65 Antigenemia
+* Monitoring is crucial when performing preemptive therapy.
+* Quantitative nucleic acid amplification testing (QNAT) detects CMV DNA and is highly efficient for determining viral load.
+* QNAT is the preferred method for detecting CMV replication and guiding treatment initiation and termination.
+* The pp65 antigenemia assay is a semi-quantitative test detecting the pp65 antigen in infected leukocytes.
+* Many centers are replacing pp65 antigenemia with molecular analysis (QNAT) due to its superior efficiency.
+
+## CMV Infection: Recommendations
+* Check CMV IgG and IgM antibodies in both donors and recipients prior to transplantation to assess risk. **(A1)**
+* For universal prophylaxis, administer oral valganciclovir or IV ganciclovir in D+/R- (high-risk) for 3-6 months, and R+ for 3 months. **(A1)**
+* For preemptive treatment, monitor viral replication weekly for 3 months using CMV QNAT or pp65 antigenemia. **(A1)**
+* If positive, treat with valganciclovir or ganciclovir until 2 consecutive negative weekly tests are achieved. **(A1)**
+
+## Fungal Infections: Overview and Risk Factors
+* LT patients have a higher incidence of fungal infections than other solid organ transplant recipients.
+* Invasive fungal infections (IFI) occur in 7% to 42% of LT patients, mostly caused by Candida and Aspergillus.
+* Despite advances, IFI is associated with poor outcomes (30-50% mortality for candidiasis, 65-90% for aspergillosis).
+* Risk factors include re-transplantation, re-operation, renal failure requiring hemodialysis, and transfusion of >=40 units of blood products.
+* Additional risks include MELD >30, choledochojejunostomy, and Candida colonization in the perioperative period.
+
+## Fungal Infections: Targeted Prophylaxis
+* Targeted prophylaxis using selective antifungal therapy is recommended for high-risk patients.
+* Patients with two or more risk factors have a significantly high incidence of IFI.
+* Therapies are mostly based on fluconazole or liposomal amphotericin B.
+* The duration of administration varies, but stopping within 2 to 4 weeks post-LT is generally considered reasonable.
+
+## Fungal Infections: Echinocandins in LT
+* Echinocandins have shown antifungal prophylactic effects comparable to fluconazole and amphotericin B.
+* They have fewer drug interactions with immunosuppressants, allowing easier administration.
+* Echinocandins can be used without restriction in patients with renal impairment.
+* They significantly reduce fungal colonization and IFI rates in high-risk LT recipients.
+
+## Universal vs Targeted Fungal Prophylaxis
+* Universal prophylaxis administers antifungals to all LT patients, including low-risk groups.
+* Some centers adopt this using fluconazole, but the incidence of IFI in low-risk patients is very low.
+* This suggests that universal prophylaxis in low-risk patients is not justified and wastes resources.
+* It is important to focus on targeted prophylaxis in high-risk groups rather than universal prevention.
+
+## Pneumocystis jirovecii Pneumonia (PCP) Prophylaxis
+* Pneumocystis jirovecii is a ubiquitous fungus that causes PCP in immunocompromised hosts.
+* The risk of PCP is greatest between the second and sixth months post-LT during strong immunosuppression.
+* Oral trimethoprim-sulfamethoxazole (TMP-SMX) is preferred for universal prophylaxis for 6-12 months post-LT.
+* It is evidence-based, low cost, and provides protective effects against Toxoplasma and Listeria.
+* Prophylaxis may need to be prolonged in cases of lymphocytopenia, CMV coinfection, or steroid pulse therapy.
+
+## Fungal & PCP Infections: Recommendations
+* High-risk patients should receive targeted antifungal prophylaxis (fluconazole, amphotericin, or echinocandin) for 2-4 weeks. **(A1)**
+* Universal prophylaxis for low-risk patients is not strongly recommended. **(B2)**
+* Oral trimethoprim-sulfamethoxazole is recommended for 6-12 months to prevent PCP in all liver transplant patients. **(A1)**
+
+## Immunosuppression: Overview
+* Immunosuppression is the cornerstone of preventing graft rejection after LT.
+* The goal is to balance the prevention of rejection with the minimization of drug toxicity and infection risk.
+* Regimens typically involve a combination of agents targeting different pathways of the immune response.
+* Strategies include induction therapy, standard maintenance regimens, and special considerations for specific complications.
+
+## Immunosuppression: Induction Therapy Goals
+* Induction agents are increasingly used to reduce the requirement for maintenance immunosuppressants early on.
+* This is particularly important for minimizing the toxicity of calcineurin inhibitors (CNIs) like nephrotoxicity.
+* By using potent induction, CNIs can be delayed or dose-reduced in the immediate post-transplant period.
+* The two main classes of induction agents are IL-2 receptor antibodies and antithymocyte globulin (ATG).
+
+## Induction: IL-2 Receptor Antibodies
+* Interleukin-2 receptor (IL-2R) monoclonal antibodies are the most commonly used induction agents.
+* Basiliximab has been extensively investigated for its clinical efficacy.
+* RCTs show consistently better outcomes regarding rejection, graft loss, and death when combined with reduced/delayed CNIs.
+* It also provides excellent renal preservation benefits in the early post-LT period.
+
+## Induction: Antithymocyte Globulin (ATG)
+* Studies on ATG show a high degree of heterogeneity in study designs and results.
+* This limits broad interpretations of its use based solely on original studies.
+* However, using ATG at a standard dose for 3 days alongside reduced CNIs, MMF, and steroids is considered reasonable.
+* This combination effectively lowers CNI toxicity while maintaining adequate immunosuppression.
+
+## Immunosuppression: Induction Recommendations
+* IL-2 receptor antibodies as an induction agent can improve clinical outcomes, especially regarding rejection, compared to a placebo. **(B1)**
+* ATG can be used as an induction agent to safely reduce the initial dosage of CNIs. **(B2)**
+
+## Standard Regimen: Calcineurin Inhibitors (CNIs)
+* CNIs are the mainstay of the standard maintenance regimen globally; nearly 97% of recipients start on them.
+* The two primary CNIs are cyclosporine (CsA) and tacrolimus (Tac).
+* They share similar modes of action but differ in efficacy and side effect profiles.
+* A prolonged-release formulation of Tac enables once-daily dosing, which has been validated for efficacy and convenience.
+
+## Tacrolimus vs Cyclosporine
+* Meta-analyses of RCTs comparing CsA and Tac show that Tac has superior clinical efficacy.
+* Tac demonstrates better outcomes regarding mortality, graft loss, rejection, and steroid-resistant rejection.
+* Due to these benefits, Tac is generally considered the primary CNI of choice for LT recipients.
+* Both drugs require careful therapeutic drug monitoring to avoid toxicity.
+
+## CNI Toxicity and Management
+* Despite their importance, CNIs are associated with significant toxicities.
+* Nephrotoxicity is the main concern, with nearly 18% of recipients experiencing chronic renal dysfunction within 5 years.
+* Other toxicities include neurotoxicity, metabolic derangements, and oncogenic potentials.
+* Increased risk of cancer (including HCC recurrence) has been linked to CNI exposure in retrospective studies.
+* Cessation of CNIs increases rejection risk, so dose reduction combined with other agents is the preferred strategy.
+
+## Antimetabolites Overview
+* Antimetabolites like azathioprine (AZA) and mycophenolate mofetil (MMF) are used to reduce CNI dosages.
+* MMF is currently the most commonly used antimetabolite for this purpose.
+* AZA was used earlier in transplant history but was largely substituted by MMF after its introduction.
+* These agents inhibit lymphocyte proliferation, providing a synergistic effect with CNIs.
+
+## MMF vs Azathioprine
+* Comparing data between AZA and MMF shows no significant differences in overall graft survival.
+* Only two RCTs reported a marginal improvement in rejection episodes with MMF + CsA, but no survival difference.
+* The trial showing better rejection rates with MMF used a high dose (3 g/day), while 2 g/day failed to show significance.
+* Despite the lack of solid evidence for superiority, MMF is predominantly used in conjunction with CNIs rather than AZA.
+
+## Corticosteroids Overview
+* Steroids have been a main immunosuppressant since the beginning of transplantation.
+* They provide potent anti-inflammatory and immunosuppressive effects.
+* However, due to severe side effects (infections, metabolic dysfunction), efforts to minimize exposure are key.
+* Multiple RCTs have investigated early withdrawal or complete avoidance of steroids.
+
+## Steroid Withdrawal and Side Effects
+* Early withdrawal (e.g., at 14 days) or complete avoidance leads to higher rates of biopsy-confirmed rejection.
+* Some studies show higher re-transplantation rates in steroid-free groups.
+* Steroids are undoubtedly related to metabolic syndrome, weight gain, and post-transplant diabetes mellitus (PTDM).
+* Therefore, a tapering strategy is recommended based on the patient's individual clinical course and rejection risk.
+
+## mTOR Inhibitors Overview
+* Sirolimus (SRL) and everolimus (EVR) inhibit the mammalian target of rapamycin (mTOR).
+* Initially, SRL was linked to early hepatic artery thrombosis (HAT) and poor graft/patient survival.
+* Subsequent studies demonstrated that mTOR inhibitors do not actually increase the risk of HAT when used correctly.
+* They are theoretically associated with anticancer effects and lack nephrotoxicity or diabetogenesis.
+
+## mTOR Inhibitors Safety and HAT
+* Due to their unique properties, mTOR inhibitors are investigated as maintenance agents combined with CNIs.
+* They are particularly useful for patients with CNI-induced renal dysfunction or those with HCC.
+* However, they are not recommended in the immediate post-transplant period.
+* Early use is associated with concerns regarding hepatic artery thrombosis and incisional hernias.
+* Conversion to mTOR inhibitors is typically done after the initial healing phase.
+
+## Immunosuppression Standard Recommendations
+* CNI-based immunosuppression is the cornerstone of regimens in LT patients. **(A1)**
+* Tac has better long-term graft and patient survival compared to CsA; it should be the primary CNI. **(A1)**
+* Combining other immunosuppressants to reduce CNI is recommended for recipients with drug-related toxicities. **(A1)**
+* MMF can be used as a maintenance immunosuppressant in combination with CNI. **(B2)**
+* Steroids should be used initially, but a tapering strategy is recommended to minimize metabolic syndrome. **(A1)**
+* mTOR inhibitors can be used as maintenance agents but are avoided in the immediate post-transplant period. **(B1)**
+
+## Special Considerations: Renal Impairment
+* The most important risk factor for post-LT renal insufficiency is the use of CNIs.
+* Strategies for renal protection focus on reducing CNI exposure while increasing other immunosuppressants.
+* Antimetabolites like MMF offer room for CNI minimization, improving serum creatinine and GFR.
+* The timing of CNI reduction and conversion to alternative agents is critical for successful renal protection.
+
+## Renal Protection Strategies
+* mTOR inhibitors have been the subject of interest for CNI sparing over the last decades.
+* RCTs show that early EVR with reduced Tac improves renal function, particularly in CKD stage 1/2.
+* Early reduction of Tac with mTOR introduction shows significant renal protection without increasing graft loss.
+* Late conversion to mTOR inhibitors has been associated with poorer prognosis in observational studies.
+* Total elimination of Tac is not recommended, especially early on, due to high levels of acute rejection.
+
+## mTOR and IL-2R for Renal Preservation
+* Using IL-2R antibodies allows for the delayed and reduced introduction of CNIs.
+* This strategy is beneficial for the early period when CNI initiation can be minimized.
+* Polyclonal antibodies like ATG with delayed Tac initiation also show better delta creatinine levels at 9 months.
+* IL-2R antibodies are mostly used as induction agents for renal preservation, while ATG requires more evidence.
+
+## Special Considerations: HCC Recurrence Prevention
+* There are concerns regarding the increased risk of tumors, such as HCC, with CNI use.
+* Retrospective studies show a dose-dependent relationship between CNI dosage and HCC recurrence.
+* mTOR inhibitors have demonstrated lower HCC recurrence and lower overall mortality in some studies.
+* The SiLVER trial showed better recurrence-free survival in the first 3-5 years for low-risk patients on sirolimus.
+* Everolimus with reduced Tac is considered to reduce HCC recurrence risk, though more RCTs are needed.
+
+## mTOR Inhibitors for HCC
+* Early initiation of EVR within 3 months after HCC recurrence improves survival outcomes.
+* mTOR inhibitors can be considered along with a combination of immunosuppressants for LT recipients with HCC.
+* They provide a dual benefit of preventing rejection while exerting potential anticancer effects.
+* Careful monitoring is required to balance the risk of rejection with the benefit of tumor suppression.
+
+## Immunosuppression Special Recommendations
+* For renal preservation, MMF can be considered for the reduction of CNI. **(B2)**
+* Early EVR with a reduced CNI regimen improves renal function without increasing rejection or graft loss. **(B2)**
+* IL-2R antibodies combined with delayed/reduced Tac can reduce the risk of renal toxicity early on. **(B1)**
+* mTOR inhibitors can be considered for LT recipients with HCC to reduce recurrence. **(B2)**
+* EVR can improve survival outcomes for patients with HCC recurrence after LT. **(C2)**
+
+## Long-Term Management: Overview
+* Long-term management of LT recipients involves monitoring and treating various systemic complications.
+* Key areas include preventing and treating viral hepatitis recurrence (HBV and HCV).
+* Managing the recurrence of the original liver disease (e.g., autoimmune, ALD, NASH).
+* Surveillance and treatment of de novo malignancies (DNM).
+* Managing systemic diseases like CKD, diabetes, hypertension, dyslipidemia, and bone disease.
+
+## Prophylaxis for HBV Recurrence: Historical Context
+* Without prophylaxis, HBV recurrence post-LT can occur in up to 80% of cases.
+* Hepatitis B immunoglobulin (HBIG) provides passive immunity, reducing recurrence by 60-80%.
+* Long-term HBIG usage has drawbacks, including high costs and the need for frequent monitoring.
+* Lamivudine (LAM) was introduced in the late 1990s but was limited by YMDD mutation resistance.
+* Adefovir (ADV) offered a temporary option for LAM resistance but had nephrotoxicity risks.
+
+## HBV Prophylaxis: NUCs and HBIG Combinations
+* Current first-line nucleos(t)ide analogs (NUCs) with high genetic barriers include entecavir (ETV), tenofovir disoproxil fumarate (TDF), and tenofovir alafenamide (TAF).
+* TAF offers similar efficacy to TDF but with lower risks of renal and bone adverse events.
+* A meta-analysis showed reduced HBV recurrence risk with HBIG + NUC versus NUC alone.
+* The combination of HBIG and a potent NUC appears to be the best option for preventing post-LT HBV recurrence.
+
+## HBV Prophylaxis Strategies by Risk
+* Low-risk patients (HBV DNA negative at LT) can receive a short course of HBIG or HBIG-free regimens.
+* They must continue monoprophylaxis with a potent NUC indefinitely.
+* High-risk patients (HBV DNA positive at LT, HDV coinfection, or poor adherence) require lifelong combination of HBIG and a potent NUC.
+* HBsAg-negative patients receiving anti-HBc-positive grafts need NUC therapy based on their immunization status.
+
+## Treatment of HCV Recurrence: Impact and Timing
+* HCV recurrence occurs within hours if HCV RNA is detectable at the time of LT.
+* Without treatment, HCV-related liver disease accelerates, progressing to cirrhosis in 20-30% of patients within 5 years.
+* Fibrosing cholestatic hepatitis is a severe form requiring urgent antiviral treatment.
+* Early DAA treatment after detecting HCV RNA is recommended to prevent progression to cirrhosis.
+* Post-transplant treatment is highly effective, with SVR rates reaching 90-100% in early relapse.
+
+## HCV Treatment Regimens (Compensated)
+* For post-LT HCV recurrence without cirrhosis or with compensated (Child-Pugh A) cirrhosis:
+* Any genotype (G1-6): Sofosbuvir 400 mg + velpatasvir 100 mg for 12 weeks.
+* Alternative: Glecaprevir 300 mg + pibrentasvir 120 mg for 12 weeks (monitor for drug-drug interactions).
+* Genotype 1 alternative: Ledipasvir 100 mg + sofosbuvir 400 mg for 12 weeks.
+* Prior DAA failure: Sofosbuvir + velpatasvir + voxilaprevir for 12 weeks.
+
+## HCV Treatment Regimens (Decompensated)
+* For post-LT HCV recurrence with decompensated (Child-Pugh B or C) cirrhosis:
+* Any genotype (G1-6): Sofosbuvir 400 mg + velpatasvir 100 mg + weight-based ribavirin for 12 weeks.
+* Genotype 1 alternative: Ledipasvir + sofosbuvir + weight-based ribavirin for 12 weeks.
+* Genotype 2 alternative: Sofosbuvir + weight-based ribavirin for 16 weeks.
+* Protease inhibitors (like glecaprevir) are contraindicated in decompensated cirrhosis.
+
+## Viral Hepatitis Recommendations
+* In HBV-related LT, a prophylactic combination of HBIG and a potent NUC is recommended. **(A1)**
+* Low-risk HBV patients can use short-course/HBIG-free regimens but need continued potent NUC. **(B1)**
+* High-risk HBV patients should receive lifelong combination of HBIG and a potent NUC. **(B1)**
+* All patients with post-transplant HCV recurrence must be treated as early as possible. **(A1)**
+* Fibrosing cholestatic hepatitis or extensive fibrosis necessitates urgent antiviral treatment. **(A1)**
+* This concludes Batch 3. Prompt for Batch 4 to continue with Recurrence of Original Disease, Systemic Diseases, and Long-Term Complications.
+

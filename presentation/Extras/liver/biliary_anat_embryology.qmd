@@ -1,0 +1,788 @@
+---
+title: "Biliary Anatomy and Embryology"
+author: "Surg Clin N Am 88 (2008) 1159–1174"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+## Introduction
+
+- Biliary tract pathology is commonly encountered in clinical practice
+- It presents significant **diagnostic** and **therapeutic** challenges
+- One main challenge: **variability in the anatomy** of the biliary system
+- Development of the liver and biliary system is a **complex process**
+- Can lead to numerous anatomic variations
+
+---
+
+## Why This Matters
+
+- Thorough knowledge of biliary anatomy is essential for:
+  - **Radiologic** approaches
+  - **Endoscopic** approaches
+  - **Surgical** approaches
+- Unrecognized variations can lead to morbidity following biliary surgery
+
+---
+
+## Study Methods
+
+- Current descriptions based on:
+  - Cadaver dissection
+  - Resin casts
+  - Direct surgical observations
+  - Radiologic contrast studies
+- **Couinaud's** description and classification is widely used
+
+---
+
+## 3D Reconstruction Study
+
+- Potential living donors undergo **helical CT scanning**
+- Subsequent **3D reconstruction** of hepatic vasculature and biliary system
+- Axial images processed at **MeVis Medical Solutions** (Bremen, Germany)
+- Preoperative knowledge greatly enhances **efficiency and safety** of donor hepatectomy
+
+---
+
+## 3D Reconstruction — Key Findings
+
+- 3D reconstructions proved to be **extremely accurate**
+- Reviewed **178 healthy potential living liver donors**
+- Studied anatomy and assessed frequency of normal variation
+- Representative reconstruction images included for common variations
+- Advantage: accurate representation of what is encountered **surgically**
+- Topographic relationship between vascular and biliary anatomy better appreciated
+
+---
+
+## Embryology of the Biliary System — Origins
+
+- Biliary system and liver originate from the **embryonic foregut**
+- At **week four**, a diverticulum arises from the **ventral surface** of the foregut
+- Location: cephalad to the yolk sac wall, caudad to the stomach dilation
+- Development involves interplay between:
+  - **Endodermal evagination** of the foregut
+  - **Mesenchymal cells** from the septum transversum
+
+---
+
+## Embryology — Liver Diverticulum Division
+
+- The liver diverticulum initially separates into **two portions**:
+
+| Portion | Gives Rise To |
+|---------|--------------|
+| **Caudal** | Cystic duct and gallbladder |
+| **Cranial** | Intrahepatic and hilar bile ducts |
+
+---
+
+## Embryology — Cranial Diverticulum Extension
+
+- Cranial diverticulum extends into the **septum transversum mesenchyme**
+- Promotes formation of:
+  - **Endothelium** from mesenchymal cells
+  - **Blood cells** from mesenchymal cells
+- Endodermal cells differentiate into:
+  - **Cords of hepatic cells**
+  - **Epithelial lining** of the intrahepatic bile ducts
+
+---
+
+## Embryology — Figure 1: Development of the Liver, Gallbladder, Bile Ducts, and Pancreas
+
+- The liver bud begins to expand into the **ventral mesentery** during the **fourth week**
+- Illustrates the sequential development of:
+  - Liver parenchyma
+  - Gallbladder and cystic duct
+  - Extrahepatic bile ducts
+  - Pancreatic structures
+
+---
+
+## Embryology — Ductal Cell Development
+
+- Ductal cells follow the development of **connective tissues** around portal vein branches
+- This results in the **similarity** between:
+  - Portal vein branching pattern
+  - Bile duct pattern
+- Initially, bile duct precursors are **discontinuous**
+- They eventually join one another and connect with the extrahepatic bile ducts
+
+---
+
+## Embryology — Extrahepatic Biliary System
+
+- Initially **occluded** with epithelial cells
+- Later **canalizes** as cells degenerate
+- The stalk connecting hepatic and cystic ducts to the duodenum differentiates into the **common bile duct (CBD)**
+
+---
+
+## Embryology — CBD Repositioning
+
+- Initially the duct is attached to the **ventral aspect** of the duodenum
+- When the duodenum undergoes **rotation** during development:
+  - There is **repositioning** of the CBD
+  - CBD moves to the **dorsal aspect** of the duodenal wall
+
+---
+
+## Overview of the Liver and Biliary System — Bile Flow
+
+- **Hepatocytes** secrete bile into the **bile canaliculi**
+- Hepatocytes surrounded by canaliculi on all sides except the side adjacent to a **sinusoid**
+- Bile canaliculi are actually formed by the **walls of the hepatocytes**
+- Bile flows through canaliculi toward the **center of the hepatic cords**
+
+---
+
+## Bile Drainage Pathway
+
+- Bile canaliculi → **Hepatic ductules** (lined by epithelial cells)
+- Ductules coalesce and drain into **successively larger ducts**
+- The **segments** of the liver are based on its **biliary drainage**
+- In the late 1940s, **Hjortsjö** proposed that bile ducts follow a **segmental pattern**
+
+---
+
+## Liver Terminology
+
+- Based on the **Brisbane 2000 terminology** of liver anatomy and resections
+- Right and left lobes defined by the **Cantlie line**
+  - Oblique line through the gallbladder fossa and the fossa of the inferior vena cava
+- Healey and Schroy examined 100 hepatic casts:
+  - Bile duct, hepatic artery, and portal vein branches **never cross** the Cantlie line
+
+---
+
+## Liver Segmentation
+
+| Lobe | Section | Segments |
+|------|---------|----------|
+| **Right** | Anterior | 5 (inferior), 8 (superior) |
+| **Right** | Posterior | 6 (inferior), 7 (superior) |
+| **Left** | Medial | 4 |
+| **Left** | Lateral | 2 (superior), 3 (inferior) |
+
+---
+
+## Bile Duct Order Classification
+
+| Order | Duct Name |
+|-------|-----------|
+| **Third-order** | Segmental bile ducts (draining each segment) |
+| **Second-order** | Sectoral bile ducts |
+| **First-order** | Main right and left hepatic ducts |
+
+- Hepatic ducts course along portal vein and hepatic artery branches → **Portal triad**
+
+---
+
+## Right Lobe Bile Duct Anatomy — Overview
+
+- The **right hepatic duct (RHD)** drains segments 5, 6, 7, and 8
+- Most common configuration:
+  - Union of **posterior** (6 and 7) and **anterior** (5 and 8) sectoral ducts forms the RHD
+- Significant variation in the topographic configuration of how sectoral ducts join
+- Frequently, one of the right sectoral ducts may drain into the **LHD**
+
+---
+
+## Right Lobe — Figure 2A: Usual Configuration
+
+- **Figure 2A**: Most common confluence pattern
+- Right posterior sectoral duct (segments 6, 7) + Right anterior sectoral duct (segments 5, 8) → **RHD**
+- RHD + LHD → **Common hepatic duct**
+
+---
+
+## Right Lobe — Duct Orientation
+
+| Duct | Direction | Typical Characteristics |
+|------|-----------|------------------------|
+| **Right posterior sectoral duct** | Horizontal | More superior, longer |
+| **Right anterior sectoral duct** | Vertical | Shorter |
+
+---
+
+## Right Lobe — Segment 8 Drainage Variation
+
+- In most cases, the anterior sectoral duct drains segments **8 and 5**
+- However, in **20% of cases**, segment 8 joins the **right posterior sectoral duct** instead
+
+---
+
+## Right Lobe — Figure 3: Variations of Right Intrahepatic Segmental Ductal System
+
+- **Fig 3A**: Usual — B5+B8 form anterior sectoral duct, joins posterior (B6+B7) to form RHD
+- **Fig 3B**: Ectopic drainage of segment 5 (B5) into RHD separately
+- **Fig 3C**: Ectopic drainage of B5 into CBD
+- **Fig 3D**: B5 draining into the right posterior duct
+
+---
+
+## Right Lobe — Figure 3 (Continued)
+
+- **Fig 3E**: Long RHD
+- **Fig 3F**: Absence of right posterior duct
+- **Fig 3G**: Drainage of B6 into common hepatic duct (CHD)
+
+---
+
+## Right Lobe — Subvesical Duct
+
+- Found in **34.5%** of liver casts
+- Located in the **gallbladder fossa**
+- Usually drained into:
+  - Anterior sectoral duct
+  - RHD
+- In some cases: drained into more segmental branches
+- In one case: drained into the LHD
+- **Never** communicated with the gallbladder
+- **Not** accompanied by a portal vein branch
+
+---
+
+## Right Lobe — Relationship to Portal Vein
+
+- Right sectoral branches coalesce **anterior to the right portal vein branch**
+- Right posterior duct generally runs **posterior to** the right portal vein or the anterior right portal vein
+- Joins the right ductal confluence **cephalad to the right portal vein**
+
+---
+
+## Right Lobe — RHD Length and Absence
+
+- When there is a true RHD:
+  - Length may range from **2 to 25 mm**
+  - Average length: **9 mm**
+- **Absence of an RHD** is a rare occurrence
+  - May occur during development due to persistent presence of the **proximal portion of the left vitelline vein**
+
+---
+
+## Left Lobe Bile Duct Anatomy — Overview
+
+- Left lobe divided into:
+  - **Left lateral section** (segments 2 and 3)
+  - **Left medial section** (segment 4)
+- Separated by the **umbilical fissure**
+- Compared with the RHD, there is **less anatomic variation** of the LHD
+- However, **significant variation** in the anatomy of bile ducts draining the left medial section
+
+---
+
+## Left Lobe — LHD Course
+
+- Orientation of LHD and left portal vein:
+  - Typically **horizontal** at the hilum
+  - More **vertical** direction in the umbilical recess
+- LHD courses horizontally at the base of segment 4, **superior to the left portal vein**
+- Joins the RHD **anterior to the portal vein bifurcation** to form the CHD
+
+---
+
+## Left Lobe — Figure 5: Variations of B2 and B3
+
+- **Fig 5A–C**: Usual configuration — B2 and B3 join each other at variable distances from the main confluence
+- **Fig 5D**: Non-union of B2 and B3 with right posterior duct draining into B2
+
+---
+
+## Left Lobe — Segment 2 and 3 Duct Details
+
+- **B3** (segment 3) is usually **larger** than B2 (segment 2)
+- B3 runs in a **concave** fashion
+- B2 has an **oblique course** toward the porta hepatis
+- B2 may join B3 in three locations:
+
+| Location | Frequency |
+|----------|-----------|
+| Posterior to the umbilical portion of the left portal vein | 42.7% |
+| Left of the fissure | 41.7% |
+| Right of the fissure | 15.6% |
+
+---
+
+## Left Lobe — B2/B3 Confluence Distance
+
+- Average distance between B2/B3 confluence and the main hepatic duct confluence: **3.25 cm**
+- Range: **0.5 to 5.7 cm**
+- In **22%** of cases, the confluence of B2 and B3 is more toward the hilum
+
+---
+
+## Left Lobe — Segment 4 Biliary Drainage
+
+- Segment 4 divided into:
+  - **Superior (4a)**
+  - **Inferior (4b)**
+- Two ducts drain each subsegment
+- **Complex and variable pattern**
+- Healey and Schroy categorized into **four types**
+
+---
+
+## Segment 4 — Healey and Schroy Classification
+
+| Type | Frequency | Description |
+|------|-----------|-------------|
+| **Type I** | 60% | All ducts join to form a single medial sector duct |
+| **Type II** | 24% | One subsegmental duct has separate drainage |
+| **Type III** | 10% | Inferior duct and superior duct have separate drainage sites |
+| **Type IV** | 6% | Two subsegmental ducts have a common duct and two drain separately into LHD |
+
+---
+
+## Segment 4 — Figure 6: Variations of B4
+
+- **Fig 6A**: Single B4 duct (most common, 60%)
+- **Fig 6B**: Separate drainage of B4a and B4b
+- **Fig 6C**: Drainage of B4 into B3 (note B2 and B3 join close to main confluence)
+- **Fig 6D**: Separate drainages of B4a and B4b, and B4b drainage into B3
+
+---
+
+## Segment 4 — Figure 6 (Continued)
+
+- **Fig 6E**: Absence of drainage of B4 into a true left system
+- **Fig 6F**: Drainage of B4 into the main confluence
+
+---
+
+## Segment 4 — Onishi Classification by Drainage Location
+
+| Location Relative to Midpoint | Frequency |
+|-------------------------------|-----------|
+| Peripheral side (joins B2/B3 system) | 54.6% |
+| Hilar side | 35.5% |
+| Both peripheral and hilar sides | 9.9% |
+
+- Usually B4 takes a **J-shaped course** before joining the LHD
+- Extremely rare (**1%**) for B4 to drain into B2
+- **Never** observed to cross to the left side of the umbilical fissure
+
+---
+
+## Segment 4 — Study Findings
+
+- **60%**: Single, common B4 duct
+- **12%**: Separate drainage of medial superior and inferior areas
+- When B2/B3 confluence is more toward the hilum (22% of cases): B4 tends to join B3
+- If B4a and B4b have separate drainages: B4b may drain into B3
+- Rarely (**<2%**): B4 may drain separately into the CHD or very close to the main hepatic ductal confluence
+
+---
+
+## Caudate Lobe Bile Duct Anatomy — Structure
+
+- Caudate lobe (segment 1) divided into:
+  - **Caudate lobe proper**: between the IVC and the umbilical fissure
+  - **Caudate process**: connects the caudate lobe to the right hepatic lobe
+- Cannot be designated as solely part of either the right or left lobe based on biliary drainage
+- Further divided into: **right**, **left**, and **caudate process** portions
+
+---
+
+## Caudate Lobe — Drainage Patterns
+
+| Pattern | Frequency |
+|---------|-----------|
+| Three separate ducts draining each part | 44% |
+| Caudate process duct + duct from right portion form a common duct | 26% |
+
+- Caudate process duct drains into the **RHD** in **85%** of cases
+- Left part of the caudate lobe drains into the **LHD** in **93%** of cases
+- Right portion of the caudate lobe could drain into either system
+
+---
+
+## Caudate Lobe — Figure 7: Variations of B1
+
+- **Fig 7A**: Drainage of B1 into the LHD
+- **Fig 7B**: Drainage of B1 into right posterior duct (RP)
+- **Fig 7C**: B1 draining into RHD
+- **Fig 7D**: B1 draining into both the RHD and LHD
+- **Fig 7E**: B1 drainage at the main confluence
+- **Fig 7F**: B1 drainage into B2 (note proximity of B2 and B3 union to main confluence)
+
+---
+
+## Bile Duct Confluence and CHD Anatomy — Overview
+
+- Left and right hepatic ducts merge to form the **common hepatic duct (CHD)**
+- Bile duct confluence located in the **hilar plate** anterior to the portal vein
+- Extrahepatically, a **sheath** covers the bile duct and hepatic artery branches
+  - Continuous with the hepatoduodenal ligament
+- Opening the connective tissue of the hilar plate inferior to segment 4 exposes the LHD and confluence
+- Intrahepatic bile ducts covered by the **Glisson sheath** except for the bile ducts of the left medial section
+
+---
+
+## Confluence Patterns — Figure 2 Overview
+
+- **Fig 2A**: Usual configuration — RHD and LHD merge to form CHD
+- **Fig 2B1, B2**: Triple confluence
+- **Fig 2C1**: Right posterior sectoral duct (RP) draining into LHD
+- **Fig 2C2, D2**: RP draining into CBD
+- **Fig 2D1**: RP draining into LHD more peripherally than in C1
+- **Fig 2E**: Absence of hepatic duct confluence
+
+---
+
+## Confluence Patterns — Frequency Data
+
+| Pattern | Couinaud | Healey & Schroy | Current Study (n=178) |
+|---------|----------|-----------------|----------------------|
+| RHD + LHD → CHD | 57% | 72% | 57% |
+| RP joins LHD | 16% | — | 19% |
+| RP joins LHD more peripherally | — | — | 5% |
+| Trifurcation | — | — | 11% |
+| RP joins CHD after RA + LHD merge | — | — | 4.5% |
+
+---
+
+## Confluence — Triple Confluence Details
+
+- In **11%** of cases: LHD, right anterior, and right posterior ducts formed a **trifurcation**
+- Relationship of RP and RA ducts at trifurcation may vary
+- About **three times more likely** for the RP hepatic duct to be **superior** to the RA duct
+
+---
+
+## Confluence — RP Draining into CHD
+
+- In **4.5%** of cases: RP hepatic duct joins the CHD **after** the RA and LHD had merged
+- The point at which RP joins may be:
+  - **Close to the confluence** of RA and LHD
+  - **More distal** along the CHD
+
+---
+
+## Common Bile Duct Anatomy — Course
+
+- Cystic duct drains into the CHD to form the **CBD**
+- CBD situated **anterior to the portal vein** along the right edge of the lesser omentum
+- Courses caudad **behind the first portion of the duodenum**
+- Runs in an **oblique fashion** on the dorsal aspect of the pancreas in the pancreatic groove
+- In most cases: CBD in pancreatic groove is **covered by pancreatic tissue** or **embedded** within it
+- In **12%** of cases: CBD has a **posterior bare area**
+
+---
+
+## CBD — Termination and Ampulla of Vater
+
+- CBD usually joins the **pancreatic duct** in **70%** of cases
+- They enter the second portion of the duodenum on its **posteromedial wall** at the **major papilla**
+- Union of CBD and major pancreatic duct creates the **ampulla of Vater**
+- A sheath of circular smooth muscle fibers surrounds the ampulla and intraduodenal portions → **Sphincter of Oddi**
+- In some cases: pancreatic duct and CBD do **not join** and each enters the duodenum separately
+
+---
+
+## CBD — Site of Duodenal Entrance
+
+| Site of Entrance | Frequency |
+|-----------------|-----------|
+| Descending portion of duodenum | >80% |
+| Transverse duodenum | Less common |
+| Angle between descending and transverse duodenum | Less common |
+
+---
+
+## CBD — Diameter Measurements
+
+| Measurement | Range | Mean |
+|------------|-------|------|
+| **External diameter** (suprapancreatic) | 5–13 mm | 9 mm |
+| **Internal diameter** (suprapancreatic) | 4–12.5 mm | 8 mm |
+| **Internal diameter** (near duodenal papilla) | 1.5–7.5 mm | 4 mm |
+
+- External diameter remains fairly constant from hepatic confluence to papilla
+- Internal diameter **decreases** near the duodenal papilla
+
+---
+
+## CBD — Ectopic Sectoral Duct Drainage
+
+- Several anatomic variations exist where **sectoral ducts may enter the CBD directly**
+- Example: Segment 5 duct draining into CBD (Fig. 3C)
+- Although **rare**, if not recognized these variations can result in **morbidity** following biliary surgery
+
+---
+
+## Arterial Blood Supply — 3 and 9 O'Clock Arteries
+
+- **Northover and Terblanche** conducted a resin cast study in human cadavers
+- Described two major **axial vessels** along the lateral borders of the supraduodenal CBD:
+  - **3 o'clock artery**
+  - **9 o'clock artery**
+- Average of **8 small arteries** (diameter 0.3 mm) supplying the supraduodenal CBD
+
+---
+
+## Arterial Supply — Sources
+
+| Direction | Arterial Sources |
+|-----------|-----------------|
+| **From below** | Posterior superior pancreaticoduodenal artery, Anterior superior pancreaticoduodenal artery, Gastroduodenal artery, Retroportal artery |
+| **From above** | Right hepatic artery, Cystic artery, Left hepatic artery |
+| **Rare (nonaxial)** | Common hepatic artery |
+
+---
+
+## Arterial Supply — Hilar and Retropancreatic Ducts
+
+- **Hilar ducts**: receive numerous arterial branches from the right and left hepatic arteries
+  - Form a **rich network** around the ducts
+  - In continuity with the plexus around the CBD
+  - In some cases, 3 o'clock and 9 o'clock arteries may supply the hilar ducts
+- **Retropancreatic CBD**: usually supplied by multiple small branches from the **posterior superior pancreaticoduodenal artery**
+
+---
+
+## Arterial Supply — Wall Plexus
+
+- Various contributing arteries form an **arterial plexus within the wall** of the bile duct
+- This plexus gives rise to a **capillary plexus**
+- **No end-arteries** to the CBD were noted in the study by Northover and Terblanche
+- This has important surgical implications for maintaining bile duct viability
+
+---
+
+## Arterial Supply — Communicating Arcade
+
+- **Gunji and colleagues** described a **communicating arcade** between the right and left hepatic arteries
+- Small branches from this arcade supply the **hilar bile ducts**
+- The arcade runs in the **hilar plate**
+- **Right side**: branches from the right hepatic artery or anterior right hepatic artery
+- **Left side**: branches from the left hepatic artery or segment 4 artery
+- **Surgical importance**: preservation of blood supply to bile ducts is imperative for anastomotic integrity and prevention of strictures
+
+---
+
+## Venous Drainage of the Biliary System
+
+- A **fine venous plexus** surrounds the surfaces of the extrahepatic and intrahepatic bile ducts
+- Drains into **marginal veins**
+- Marginal veins run in the **3 o'clock and 9 o'clock positions** (similar to arterial vessels)
+
+---
+
+## Venous Drainage — Pathways
+
+| Direction | Drainage Pathway |
+|-----------|-----------------|
+| **Inferiorly** | Marginal veins drain into the pancreaticoduodenal venous plexus |
+| **Superiorly** | Marginal vessels enter hepatic substance or join the hilar venous plexus → eventually drain into branches of the **portal vein** |
+| **Intrahepatic** | Intrahepatic bile duct venous plexus drains into the **adjacent portal vein** |
+
+---
+
+## Venous Drainage — Gallbladder
+
+- The veins of the gallbladder do **not** follow arterial branches
+- Have **direct drainage into the liver**
+
+---
+
+## Gallbladder Anatomy — Location and Form
+
+- **Piriform sac** situated in the cystic fossa
+- Located on the **inferior and posterior aspect** of the right lobe of the liver
+- Extremely rare variations:
+  - Gallbladder found on the **left side** of the liver
+  - **Intrahepatic** gallbladder (completely surrounded by liver tissue)
+- Separated from liver parenchyma by the **cystic plate** (continuous with the hilar plate)
+- May be embedded deeply in the liver or may have a **mesentery**
+
+---
+
+## Gallbladder — Dimensions and Parts
+
+- **Width**: approximately 4 cm
+- **Length**: 7 to 10 cm in most adults
+- Composed of three parts:
+
+| Part | Description |
+|------|-------------|
+| **Fundus** | Blind-ending portion, projects below inferior edge of liver; contacts anterior abdominal wall at level of 9th costal cartilage in ~50% of cases |
+| **Body** | Largest part, pointed up and to the left close to the right side of the porta |
+| **Neck** | Average length 5–7 mm; forms from narrowing of the body |
+
+---
+
+## Gallbladder — Hartmann Pouch
+
+- On the **right side of the neck**, sometimes as a result of **chronic dilatation**
+- A recess that projects toward the duodenum
+- Called the **Hartmann pouch**
+- Clinically significant as a site for gallstone impaction
+
+---
+
+## Cystic Duct Anatomy
+
+- Connects the neck of the gallbladder to the common hepatic duct
+- **Length**: 3 to 4 cm
+- Courses **inferiorly and to the left** of the neck
+- Joins the CHD to form the CBD
+- Contains **5 to 12 oblique folds** → creates a spiral valve known as the **valve of Heister**
+
+---
+
+## Cystic Duct — Junction Patterns
+
+- In **>70%** of cases: cystic duct joins the **right lateral edge** of the CHD
+  - Superior to the pancreas
+  - About **2 cm inferior** to the RHD and LHD confluence
+- **Mean diameter**: about 4 mm
+- **Length range**: 4 to 65 mm (mean: 30 mm)
+- **Short cystic duct** parallel to the CHD: **15%** of cases
+- **Long cystic duct**: **4%** of cases
+- In **10%** of cases: cystic duct joins the CHD on its **anterior or posterior** aspect
+- Rarely: cystic duct may join near the confluence of RHD and LHD creating a **trifurcation**
+
+---
+
+## Cystic Duct — Union Types
+
+| Union Type | Frequency |
+|-----------|-----------|
+| **Angular** | 75% |
+| **Parallel** | 20% |
+| **Spiral** | 5% |
+
+---
+
+## Gallbladder Blood Supply
+
+- By way of the **cystic artery**
+- Usually branches from the **right hepatic artery**
+- Courses **superior to the cystic duct**
+- Reaches the superior aspect of the neck of the gallbladder
+- Divides into two branches:
+
+| Branch | Location |
+|--------|----------|
+| **Superficial branch** | Runs on the inferior aspect of the gallbladder |
+| **Deep branch** | On the superior aspect between the gallbladder and the liver bed |
+
+---
+
+## Rare Gallbladder Anomalies
+
+| Anomaly | Description |
+|---------|-------------|
+| **Agenesis** | Complete absence of the gallbladder |
+| **Multiple gallbladders** | More than one gallbladder present |
+| **Bilobed gallbladder** | Gallbladder with two lobes |
+| **Double cystic duct** | Two cystic ducts present |
+| **Floating gallbladder** | Entire gallbladder covered by peritoneum with a true mesentery |
+
+---
+
+## Rare Gallbladder Anomalies — Double Gallbladder Details
+
+- In cases of a **double gallbladder**:
+  - Each gallbladder may have its **own cystic duct**, OR
+  - The ducts may join to form a **common cystic duct** before joining the common hepatic duct
+
+---
+
+## Relationship of Extrahepatic Bile Ducts to Vascular Structures — Overview
+
+- Understanding the relationship of structures within the **porta hepatis** is critical for **safe dissections**
+- Figure 4 illustrates the relationship between:
+  - Bile ducts
+  - Portal vein
+  - Hepatic artery branches
+
+---
+
+## CBD and Portal Vein Relationship
+
+- The CBD is **invariably** located:
+  - **Slightly to the right** of the portal vein
+  - **Anterior** to the portal vein
+
+---
+
+## Right Hepatic Artery Variations — Figure 4
+
+| Variation | Frequency | Description |
+|-----------|-----------|-------------|
+| **RHA posterior to CBD** | Most common | RHA from proper hepatic artery courses posterior to CBD (Fig. 4A) |
+| **RHA anterior to CBD** | 22% | RHA situated anterior to the CBD (Fig. 4B) |
+| **Replaced RHA** | 10–15% | Arises from the superior mesenteric artery, courses posterior to the portal vein and CBD (Fig. 4D) |
+
+---
+
+## Right Hepatic Artery — Figure 4 Additional Variants
+
+- **Fig. 4C**: Right anterior bile duct (RAD) draining into LHD — demonstrates how biliary variation can coexist with vascular variation
+- **Fig. 4D**: Replaced RHA — important to recognize to avoid injury during cholecystectomy
+
+---
+
+## RHA "Knuckle" — Surgical Importance
+
+- In some cases, the right hepatic artery may **project beyond the CHD**
+- Forms a **"knuckle"** that may run along the:
+  - Cystic duct
+  - Gallbladder neck
+- In this situation, the cystic artery is likely to be **very short**
+- **Important**: Recognize this to avoid injury to the right hepatic artery during **cholecystectomy**
+
+---
+
+## Summary — Key Points
+
+- The anatomy of the biliary tree is **variable** and at times **complex**
+- Poses significant challenges for diagnosis and treatment of pathologic states
+- Over 60 years of pioneering work through **cadaver dissections** and **cast studies**
+- Current study used **3D reconstructions of CT images** from 178 patients
+- Results confirm earlier studies regarding biliary system anatomy
+
+---
+
+## Summary — Clinical Implications
+
+- **Preoperative assessment** of biliary and vascular anatomy by:
+  - CT arteriography
+  - CT venography
+  - CT cholangiography
+- Is of **significant benefit** during complex liver and biliary surgery
+- 3D reconstructions are **extremely accurate** representations of surgical anatomy
+- Topographic relationship between vascular and biliary anatomy is better appreciated with 3D imaging
+
+---
+
+## Summary — Frequency of Key Variations
+
+| Variation | Frequency |
+|-----------|-----------|
+| Normal RHD + LHD confluence | 57% |
+| RP draining into LHD | 19% |
+| Trifurcation | 11% |
+| RP draining into CHD distally | 4.5% |
+| RP draining into LHD peripherally | 5% |
+| Subvesical duct present | 34.5% |
+| Segment 8 joining posterior sectoral duct | 20% |
+| RHA anterior to CBD | 22% |
+| Replaced RHA from SMA | 10–15% |
+
+---
+
+## Take-Home Messages
+
+1. **Never assume "normal" biliary anatomy** — variations are the rule, not the exception
+2. **Preoperative imaging** with 3D reconstruction is invaluable for surgical planning
+3. The **Cantlie line** is an absolute boundary — no ducts, arteries, or veins cross it
+4. The **right posterior sectoral duct** is the most common source of anomalous drainage
+5. **Preservation of arterial blood supply** to the bile ducts is critical to prevent strictures
+6. **Caudate lobe** drainage is unpredictable — always assess preoperatively

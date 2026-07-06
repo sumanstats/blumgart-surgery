@@ -1,0 +1,996 @@
+---
+title: "Techniques of Hepatic Arterial Reconstruction in Liver Transplantation"
+subtitle: "Langenbeck's Archives of Surgery (2022) 407:2607–2618"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+
+## Background and Context
+
+- Hepatic artery reconstruction (HAR) is an essential part of liver transplantation
+- This stage is even more demanding in **living donor liver transplantation (LDLT)** than in **deceased donor liver transplantation (DDLT)**
+- One of the most important advances was the introduction of **microsurgical techniques** involving an operative microscope or surgical loupe
+- Many surgical reconstruction techniques have been described and utilized
+
+---
+
+## Purpose of This Review
+
+- First, discuss hepatic artery reconstruction techniques frequently used in **DDLT**
+- Then, discuss techniques used in **LDLT**, including the authors' preferred method:
+  - The **"one stay corner suture technique"**
+- Provide practical insights and recommendations based on high-volume center experience
+
+---
+
+## Key Conclusions
+
+- High-volume transplant centers should develop a **standardized technique** for HAR with their own teams
+- The **"one stay corner suture technique"** can be easily applied in centers performing LDLT
+- Microsurgical techniques using either **operative microscope** or **surgical loupe** are essential
+- **Interrupted sutures** remain the gold standard for microsurgical hepatic artery reconstruction
+
+---
+
+## Keywords
+
+- Deceased donor liver transplantation
+- Living donor liver transplantation
+- Hepatic arterial reconstruction techniques
+- One stay corner suture technique
+- Surgical loupe
+- Operative microscope
+
+---
+
+## Introduction: The Critical Role of HAR
+
+- Hepatic artery reconstruction (HAR) is the **most valuable step** in determining graft and recipient outcomes in liver transplantation
+- Technical precision at this stage directly impacts:
+  - Graft perfusion
+  - Biliary tract viability
+  - Long-term patient survival
+
+---
+
+## Introduction: LDLT vs. DDLT Complexity
+
+- **LDLT is technically more difficult** related to HAR than DDLT
+- Reasons for increased complexity:
+  - Partial liver allograft
+  - Narrow, short, and multiple arterial branches
+  - Limited surgical area
+  - Higher risk of hepatic artery thrombosis (HAT)
+
+---
+
+## Introduction: Microsurgical Revolution
+
+- One of the most critical advances in HAR for living liver grafts:
+  - Introduction of **microsurgical techniques**
+  - Use of **operative microscope (OM)** or **surgical loupe**
+- These tools enabled precise anastomosis of small-caliber vessels
+- Reduced catastrophic complication rates significantly
+
+---
+
+## Introduction: The Threat of Hepatic Artery Thrombosis
+
+- HAT in the immediate post-transplant period may lead to **fatal complications**
+- Even if urgently resolved by surgical or radiological thrombectomy:
+  - Patient and graft outcomes remain poor
+  - **Retransplantation is often necessary**
+- Prevention through meticulous technique is paramount
+
+---
+
+## HAR in DDLT: Standard Anastomosis
+
+- In most cases, the **Carrel patch of the donor aorta** is anastomosed to:
+  - The **branch patch of the bifurcation** between the recipient's:
+    - **Common hepatic artery (CHA)**
+    - **Gastroduodenal artery (GDA)**
+
+---
+
+## Figure 1a: Standard DDLT Anastomosis
+
+- **Description:** Illustration showing the donor aortic Carrel patch connected to the recipient's CHA-GDA bifurcation patch
+- The anastomosis creates a wide, patch-based reconstruction
+- This is the **classical approach** for whole-graft deceased donor liver transplantation
+
+---
+
+## DDLT: Challenges with Atherosclerotic Vessels
+
+- Deceased donors are increasingly older with **atherosclerotic vessels**
+- Atheroma plaques often localize to the **celiac trunk emergence** from the aorta
+- **Solution:** Rather than using the Carrel patch, use the more **distal part of the celiac trunk** that is free of atheromatous plaques
+
+---
+
+## DDLT: Managing Accessory Right Hepatic Arteries
+
+- If the donor liver has an **accessory or replaced right hepatic artery (RHA)**:
+  - Often cut unnoticed during harvesting at levels close to the liver
+- The accessory RHA of the graft is anastomosed to:
+  - The **graft's splenic artery** or **GDA**
+  - In an **end-to-end fashion**
+
+---
+
+## Figure 1b: Accessory RHA Reconstruction
+
+- **Description:** Illustration showing the accessory RHA of the graft anastomosed to the graft's splenic artery
+- Performed **without redundancy** according to the length of the artery
+- Can be performed on the **back-table** or **after arterial perfusion** of the graft
+
+---
+
+## DDLT: Timing and Positioning of Anastomosis
+
+- **Authors' preference:** Anastomosis performed **after arterial perfusion** of the graft
+- Advantages of post-perfusion repair:
+  - Better **anatomical fit**
+  - Prevention of **redundancy** or **malrotations**
+- Vessel diameter is often wide enough (~5 mm)
+
+---
+
+## DDLT: Suture Technique Options
+
+- **Continuous sutures:** Used by cardiovascular surgeons; running suture technique
+- **Interrupted sutures:** Preferred by microsurgeons; individual stitch placement
+- **Microsurgical methods:** May be preferred even in DDLT for optimal precision
+
+---
+
+## DDLT: Continuous Suture Nuances
+
+- If continuous suture is used:
+  - Knot tied by leaving the **growth factor at half the diameter** of the artery
+  - Or tied **loosely** after artery clamps are opened
+- Goal: Allow the anastomosis to **expand sufficiently** and prevent stricture
+
+---
+
+## DDLT: Suture Materials and Preferences
+
+- Suture materials typically used:
+  - **7/0 or 8/0 polypropylene**
+- **Authors' preference:**
+  - **Interrupted suture technique**
+  - **8/0 monofilament polypropylene**
+  - Using **microsurgical technique**
+
+---
+
+## HAR in LDLT: Technical Complexity
+
+- In LDLT, the hepatic allograft is **partial**
+- HAR is **technically much more complex** than DDLT because of:
+  - Need to reconstruct **narrow, short, and multiple arterial branches**
+  - **Limited surgical area**
+- Requires significantly more **technical expertise**
+
+---
+
+## LDLT: Higher HAT Risk
+
+- The **likelihood of HAT in LDLT is higher** according to literature
+- Contributing factors:
+  - Smaller vessel caliber
+  - Shorter arterial stumps
+  - Complex anatomical variants
+  - Difficult exposure
+
+---
+
+## One Stay Corner Suture: Institute Evolution
+
+- At the authors' institute, HAR evolution:
+  1. First performed by **cardiovascular surgeons**
+  2. Then by **plastic and hand surgeons** with operative microscope (×6–10)
+  3. After the first **300 cases**, transitioned to **loupe magnification** (×8–8.5) with microvascular instruments
+
+---
+
+## One Stay Corner Suture: Magnification Choice
+
+- As experience in LDLT grew, the team became comfortable with **microsurgical techniques without an OM**
+- **Surgical loupe (×8–8.5)** provides sufficient magnification for most cases
+- This transition reflects the **learning curve** and confidence in technical precision
+
+---
+
+## Graft Procurement: Avoiding Intimal Dissection
+
+- **Critical caution:** Do not apply **excessive force** on graft arteries during procurement
+- Risk of **intimal dissection**:
+  - Wall dissection mostly extends along the graft
+  - Can cause **graft loss**
+- Gentle, meticulous handling is essential
+
+---
+
+## Recipient Preparation: Hilar Dissection
+
+- To preserve vascular supply of recipient biliary ducts:
+  - Use the **en bloc hilar dissection technique** described by the authors
+  - Must be **meticulously performed**
+- Preserving biliary arterialization reduces ischemic cholangiopathy
+
+---
+
+## Back-Table Management: Heparin and Flushing
+
+- **Heparin administration** intravenously just before hepatic artery cutting in living donor:
+  - Considered **unnecessary** by the authors
+- **Graft artery flashing** with preservation solution on back table:
+  - **Not preferred**
+  - Cannulating a flashing catheter into the narrow graft artery increases **intimal dissection risk**
+
+---
+
+## Back-Table Management: Arterial Trimming
+
+- **Trimming of the graft artery** should **not** be performed on the back table
+- Instead, trim **just before HAR** in the recipient
+- Rationale:
+  - Prevents unnecessary manipulation
+  - Allows precise length adjustment under direct vision
+
+---
+
+## Right Lobe Graft: Exposure Maneuver
+
+- Graft hepatic arteries in right lobe grafts are localized **deep in the right subdiaphragmatic space**
+- **Exposure technique:**
+  1. Loosen the right subcostal blade of the **Thompson retractor**
+  2. Place folded gauzes on the **back of the liver graft**
+  3. Push liver graft **up and medially**
+
+---
+
+## Right Lobe Graft: Exposure Benefits
+
+- This maneuver provides:
+  - **Better exposure** of the arterial field
+  - **Reduced tension** between the arteries
+  - **Easier HAR** access
+- Critical for safe microsurgical anastomosis in a deep field
+
+---
+
+## Left Lobe Graft: Sequence of Reconstruction
+
+- In left lobe grafts:
+  - Perform **hepatic artery anastomosis BEFORE portal vein reconstruction**
+  - Then perform portal vein anastomosis
+  - Open hepatic artery clamps **after portal reperfusion**
+
+---
+
+## Left Lobe Graft: Rationale for Sequence
+
+- **Positional and visual difficulties** experienced in HAR after venous perfusion of the left lobe graft
+- Especially problematic in the **pediatric age group**
+- Portal vein anastomosis after HAR; reperfusion from portal vein first, then arterial flow
+
+---
+
+## Recipient Inflow Selection: General Principles
+
+- Choice of recipient artery depends on:
+  - **Anatomical fit** of the anastomosis
+  - Avoiding **tightness** or **redundancy**
+- **Preference:** Perform HAR **without disturbing** the arterial supply of the biliary tract
+
+---
+
+## Right Lobe: Anastomosis to Recipient CHA
+
+- If the graft artery is **too long**:
+  - Anastomose to the **recipient CHA**
+  - Allows arterialization of the recipient bile duct through:
+    - **GDA → PHA → RHA** pathway
+
+---
+
+## Figure 2: Right Lobe CHA Anastomosis
+
+- **Description:** Illustration showing the right lobe graft artery anastomosed to the recipient common hepatic artery
+- The gastroduodenal artery–proper hepatic artery–right hepatic artery pathway maintains biliary arterialization
+- Biliary tract perfusion is preserved through this circuitous route
+
+---
+
+## Left Hepatic Artery Option
+
+- If the **left hepatic artery (LHA)** diameter is wide enough and arterial flow is satisfactory:
+  - Make anastomosis between graft artery and **recipient LHA**
+- **Advantage:** Arterialization of the biliary tract remains **intact**
+
+---
+
+## Short Graft Artery Options
+
+- If the graft hepatic artery is **not long enough**:
+  - Perform HAR with **recipient RHA** or **PHA**
+- In these cases, **arterialization of the bile ducts is not considered necessary**
+- Especially true when the recipient's own biliary arterial supply is adequate
+
+---
+
+## Pediatric Age Group Considerations
+
+- Often prefer **PHA or CHA** as recipient hepatic artery in pediatric patients because:
+  - Recipient bile duct diameter is **too narrow** for duct-to-duct anastomosis
+  - **No extrahepatic bile ducts** (e.g., biliary atresia)
+- Therefore, **not obligated to protect** arterialization of recipient bile ducts
+
+---
+
+## Periarterial Tissue Management
+
+- **Do not clean** the periarterial surrounding connective tissue
+- Trim only the artery ends **guillotine-style** to integrate **all layers** of the arteries
+- Rationale against cleaning:
+  - Causes **severe spasm**
+  - **Narrowing** of arterial lumen
+  - Thinning of wall causes **tears** with sutures
+
+---
+
+## Periarterial Tissue: Addressing Concerns
+
+- Some advocate cleaning to prevent HAT from adventitial structures entering between sutures
+- Authors' counter-arguments:
+  - Concerns mostly reserved for **continuous suture technique**
+  - **No such risk** with interrupted suture technique
+  - Spasm and wall damage outweigh theoretical benefits
+
+---
+
+## Multiple Hepatic Arteries: Right Lobe Grafts
+
+- **Double or more hepatic arteries** may be encountered in partial liver grafts
+- In **right lobe grafts**: this situation is **very low** in incidence
+- If present: beneficial to **anastomose both** double arteries
+- However, satisfactory pulsatile backflow from the second artery after dominant anastomosis may make second anastomosis unnecessary
+
+---
+
+## Multiple Hepatic Arteries: Left Lobe Grafts
+
+- **Frequently encountered** in left lobe grafts
+- More **collaterals** between multiple arterial structures in left lobe than right lobe
+- Satisfactory pulsatile backflow after anastomosis of the larger artery indicates:
+  - Second or third artery may **not need construction**
+
+---
+
+## Multiple Arteries: Risks of Secondary Anastomosis
+
+- Attempting secondary anastomosis when backflow is already satisfactory may cause **HAT**
+- Mechanism: **Strong backflow resistance** in the secondary anastomosis
+- Despite pulsatile backflow from smaller artery, **biliary ischemia** to relevant segment has been reported
+
+---
+
+## One Stay Corner Suture: Clamp Selection
+
+- **Two bulldog clamps** used:
+  - **Mild and gentle Debakey bulldog clamp** on the graft artery
+  - **Glover bulldog** on the recipient artery
+- **Avoid metallic double microclamp (Ackland approximator clamp)**:
+  - Prevents arterial lumen visualization
+  - Suture material may tear fragile recipient artery wall
+  - Turning can be problematic with short graft arteries
+
+---
+
+## One Stay Corner Suture: Unilateral Clamp Variations
+
+- Some reports recommend:
+  - **Unilateral bulldog application**
+  - **No bulldog** in the donor artery
+- Authors' concern:
+  - Persistent bleeding from graft artery, even if small, may **prevent vision** and perfect anastomosis
+
+---
+
+## Step 1: Starting the Anastomosis (3 O'Clock)
+
+- Anastomosis started at the **3 o'clock position**
+- Knot tied **on the outside** and **hanged with a rubber shod**
+- The hanged corner stitch is **pulled by the other surgeon** to provide visualization for subsequent stitches
+
+---
+
+## Figure 3a: Clamp Placement
+
+- **Description:** Two separate bulldog clamps applied to graft and recipient arteries
+- Debakey clamp on graft artery; Glover clamp on recipient artery
+- Arteries positioned for end-to-end anastomosis without fixed approximator
+
+---
+
+## Figure 3b: Corner Stitch Placement
+
+- **Description:** First stitch placed at 3 o'clock position
+- Knot tied externally and hanged with a rubber shod for traction
+- Provides anchor point for anterior wall reconstruction
+
+---
+
+## Step 2: Anterior Wall Suturing
+
+- Pulling the hanged corner stitch **toward the back**
+- Subsequent stitch placed and tied **on the outside**
+- The corner suture at 3 o'clock is **left loose**
+- Second stitch pulls toward back, next suture placed and tied
+- Previous suture cut, newly placed suture hanged
+
+---
+
+## Figure 3c: Second Stitch Placement
+
+- **Description:** The assistant pulls the corner stitch to expose the anterior wall
+- Surgeon places the next interrupted suture under tension-free visualization
+- Each stitch is tied externally before proceeding
+
+---
+
+## Figure 3d: Anterior Wall Completion
+
+- **Description:** The anterior wall is completed with a series of interrupted sutures
+- The last stitch at the **9 o'clock position** is hanged with a rubber shod
+- All anterior wall sutures are placed before addressing the posterior wall
+
+---
+
+## Step 3: Turning Over the Anastomosis
+
+- The first suture (corner at 3 o'clock) is **passed under the anastomosis**
+- The **posterior wall** is turned to the **anterior position**
+- This allows the surgeon to sew the posterior wall under direct vision
+
+---
+
+## Figure 4a: Turning Over
+
+- **Description:** The anterior wall is lifted and the entire anastomosis is gently flipped
+- The posterior wall is now accessible from the front
+- The corner stitch at 3 o'clock is passed underneath to facilitate rotation
+
+---
+
+## Short Graft Artery Modification
+
+- If there is a **turning problem** due to shortness of the graft artery:
+  - Start anastomosis at **5–6 o'clock** instead of 3 o'clock
+  - Perform **partial rotation** after completing part of the anterior wall and entire posterior wall
+
+---
+
+## Figure 4b: Gentle Turning
+
+- **Description:** The anastomosis is gently turned after anterior wall completion
+- Sutures on the anterior wall are checked for integrity
+- Perfect endothelium-endothelium convergence is verified
+
+---
+
+## Step 4: Posterior Wall Suture Placement
+
+- After gentle turning, check sutures on anterior wall
+- **Perfect endothelium-endothelium convergence is crucial**
+- No tissue should intervene between the arterial walls
+- The first suture now positioned at **9 o'clock** after turning
+
+---
+
+## Figure 5a: Posterior Wall Sutures Hanged
+
+- **Description:** All posterior wall sutures are placed and hanged **without tying**
+- Multiple suture ends are held with rubber shods for traction
+- This allows precise adjustment before final knotting
+
+---
+
+## Step 5: Tying the Posterior Wall
+
+- Pull back the first corner stay stitch (now at 9 o'clock) toward the surgeon's side
+- First stitch placed, **untied, and hanged**
+- The first corner stay stitch is then **cut**
+- All sutures are tied **starting from the opposite side**
+
+---
+
+## Figure 5b: Completed Anastomosis
+
+- **Description:** Final appearance of the completed anastomosis
+- Interrupted sutures provide a widely patent lumen without purse-string effect
+- The anastomotic line is smooth with endothelial apposition
+
+---
+
+## Knot Tying Caution
+
+- **Do not recommend surgical knots (double tie)**
+- Risk: Knot may remain in the air, inside part may hang into the lumen
+- Intraluminal knot material can cause **hepatic artery thrombosis (HAT)**
+- Use simple, secure knots placed externally
+
+---
+
+## Arterial Perfusion and Completion
+
+- Arterial perfusion is achieved by **removing the bulldog clamps**
+- Blood flow restored to the graft
+- Anastomosis inspected for hemostasis and pulsatility
+
+---
+
+## Figure 6a: Suture Slope on Artery Wall
+
+- **Description:** Illustration showing the oblique slope of each stitch placed on the artery wall
+- The angled entry and exit allow the anastomotic wall to be **extroverted**
+- This mechanical principle is key to the technique's success
+
+---
+
+## Figure 6b: Complete Endothelial Convergence
+
+- **Description:** Cross-sectional view showing perfect **endothelium-to-endothelium apposition**
+- The extroverted edges create a smooth internal surface
+- This level of convergence **cannot be obtained with continuous suture technique**
+
+---
+
+## Extroversion Principle
+
+- The **slope of the sutures** placed on the artery wall allows the anastomotic wall, especially endothelium, to be **extroverted**
+- Results in **complete endothelial convergence**
+- Prevents:
+  - Intimal flaps
+  - Subintimal dissection
+  - Thrombogenic exposed media
+
+---
+
+## Interrupted vs. Continuous Rationale
+
+- **Authors' preference:** Interrupted **8/0 or 9/0 polypropylene**
+- **Avoid continuous sutures** to prevent:
+  - **Narrowing** of the anastomotic lumen (purse-string effect)
+  - False impression of anastomotic stricture
+- Continuous technique may achieve 72% false stricture appearance
+
+---
+
+## Managing Diameter Mismatch
+
+- With the one stay corner suture technique:
+  - Arteries with a **diameter difference of 1/3** can be easily anastomosed
+- Technique accommodates mild to moderate size discrepancy without additional maneuvers
+- Gentle dilation of the graft artery may be performed before starting
+
+---
+
+## Arterial Dilation Considerations
+
+- **Gentle dilation** to the graft artery should be performed before starting the anastomosis
+- **Do not apply** dilation to the recipient artery
+- Recipient artery expansion capacity is limited due to:
+  - **Collagen deficiency** from chronic liver disease
+  - **Intra-arterial interventions** (e.g., TACE)
+
+---
+
+## End-to-Side Avoidance
+
+- The authors have **never performed end-to-side anastomosis** to resolve diameter differences
+- End-to-end reconstruction with interrupted sutures and gentle dilation is preferred
+- Maintains physiological flow patterns and reduces turbulence
+
+---
+
+## Two-Stay Suture Technique
+
+- Technique without double clips
+- Two stay sutures pass through the **middle (center)** of anterior and posterior walls
+- Gently retracting and placing all sutures without tying one side first
+- After one face is complete, all sutures are tied
+- Then turned 180° and other side completed
+
+---
+
+## Two-Stay Suture: Variations
+
+- Alternative version:
+  - Two tied sutures placed at **both corners** of the arterial end
+  - Each string hanged
+  - First posterior wall, then anterior wall completed with interrupted sutures
+- Retraction of the two-stay sutures can cause the **arterial lumens to not be seen well**
+
+---
+
+## Back Wall Support Suture Technique
+
+- Advantage: **Avoids turning over** after anterior wall is finished
+- Especially useful when **graft arteries are very short**
+- Uses **double-armed needles**
+- Can cause confusion during suture management
+
+---
+
+## Back Wall Support: Limitations
+
+- Backwall anastomosis may **not provide complete endothelial-endothelial convergence**
+- Completing anterior wall with **continuous suture** is incompatible with microsurgical methods
+- Makuuchi team used short thread (4-cm) double needles with interrupted anterior wall sutures
+- If not familiar, short arteries can be lengthened with an arterial graft
+
+---
+
+## Ex Situ Reconstruction with Extension Grafts
+
+- For donor graft with **two arteries and too short**:
+  - Dissect and cut recipient RHA and LHA proximally (toward PHA)
+  - Free ends anastomosed to double arteries of graft at back table
+  - Single arm of Y graft anastomosed to branch patch of CHA-GDA junction in recipient
+
+---
+
+## Extension Graft Risks
+
+- If donor hepatic artery is one but too short:
+  - Hepatic artery extension performed using **artery graft on back table**
+- **Caution:** Using autologous or homologous arterial grafts is a factor that **increases the risk of HAT**
+- Additional anastomotic sites create additional failure points
+
+---
+
+## Jejunal Arterial Arcade Use
+
+- The **jejunal arterial arcade** of Roux-en-Y jejunum (prepared for hepaticojejunostomy) may be anastomosed to the donor hepatic artery end-to-end
+- **Authors' opinion:** The diameter and flow of jejunal arteries are **insufficient** for the liver graft
+- This procedure was **almost never adopted** in practice
+
+---
+
+## Double Clip Method
+
+- Uses **double clips and tied corner stay stitches**
+- May **prevent adequate visualization** of the arterial lumen
+- Moving clips medially (closer to each other) makes visualization worse
+- The term "double clips" refers to an **approximator**
+- Placing sutures without tying does not solve the visualization problem
+
+---
+
+## The "W" Technique
+
+- Two-layer anastomosis technique
+- Aim: Better reveal the arterial lumen by hanging sutures in the form of a **"W"** passed through the middle of the anterior walls
+- Same process applied to posterior wall after turnover
+- Requires at least **3–4 hands** holding the slings
+
+---
+
+## Two-Layer Anastomosis Technique
+
+- Vessel wall anastomosed with **8/0 nylon interrupted sutures**
+- Adventitial outer layer reinforced with **9/0 sutures**
+- **Fibrin sealant** applied to reinforce and fix the reconstituted artery
+- **Critical flaw:** Cannot see blood leak; area fills with hematoma, inviting arterial dissection
+
+---
+
+## Fibrin Glue Danger
+
+- It is **extremely dangerous** to spray fibrin glue on or around the anastomosis
+- Risk of anastomotic leaks
+- Escape of fibrin glue from the anastomosis into the artery lumen will make **HAT inevitable**
+- Avoid sealants near the anastomotic line
+
+---
+
+## Continuous vs. Interrupted: Comparative Evidence
+
+- Very few studies comparing both methods
+- Some studies state results are **similar**
+- **Okochi et al.:** Compared continuous sutures in entire anastomosis vs. continuous on posterior wall only
+  - **No difference** in HAT between groups
+
+---
+
+## Continuous Suture: Diameter Maneuvers
+
+- **Li et al.:** Claim oblique cutting of graft artery or making a slit in anterior wall increases vessel diameter with continuous sutures
+- **Authors' caution:** These maneuvers:
+  - Thin the vessel wall
+  - Lose wall durability
+  - Suture does not hold well
+
+---
+
+## Continuous Suture: Purse-String Effect
+
+- **False impression of anastomotic stricture** reaches **72%** after continuous suture
+- This is an indirect indicator that **anastomotic stricture is very likely** due to purse-string effect in reality
+- **Coelho et al.:** Reported increased incidence of arterial complications with continuous suturing
+
+---
+
+## Continuous Suture: Specialist Considerations
+
+- Continuous technique is mostly used by **cardiovascular surgeons**
+- Working with:
+  - Large vessels (great saphenous vein)
+  - Stationary field on heart-lung pump
+- **Questionable applicability** to microsurgical hepatic artery reconstruction in liver transplantation
+
+---
+
+## Interrupted Suture: Gold Standard
+
+- **Interrupted sutures still remain the "gold standard"**
+- Accepted by **most surgeons**
+- Simple interrupted suture technique may be used in difficult anastomoses:
+  - Vessels with **thick walls**
+  - **Mismatched size**
+  - **Difficult position**
+
+---
+
+## Operative Microscope: Historical Context
+
+- Before microsurgical HAR era:
+  - HAT incidence as high as **14–25%**
+- **Kyoto group** reported OM as breakthrough
+  - HAT incidence reduced to **1.7%**
+- However, early comparisons used **historical controls** with poor outcomes (Broelsch et al., 1991: 25% HAT using pediatric aorta with elongation technique)
+
+---
+
+## Operative Microscope: Refinement of Results
+
+- Broelsch et al. later introduced OM technique and reported **better prognosis**
+- Following years: HAT rates as low as **0–3.8%** after HAR with OM
+- OM presented as completely solving HAT, but this is **not entirely accurate**
+
+---
+
+## Surgical Loupe: Equal or Better Results
+
+- As experience increased and inflow techniques refined:
+  - Several researches argued **necessity of microsurgery**
+  - Reported **equal or better results** using surgical loupes (×3.5 or more)
+- Extended to **pediatric LDLT** with loupes of ×6 or more
+- **Kyoto group** (inventors of OM HAR) has **given up microscopic HAR technique** today
+
+---
+
+## Systematic Review Data
+
+- Recently published systematic review:
+  - Overall HAT rate: **2–10%**
+  - With OM: **0–5.3%**
+  - With surgical loupe: **0–28.6%**
+  - **No statistical difference** between OM and loupe
+
+---
+
+## Dziodzi et al. Study
+
+- Single-center, observational, retrospective study
+- Comparison of modern OM technique vs. **historical control** with low magnification surgical loupe
+- Findings:
+  - Warm ischemia time and total operation time **longer in OM group**
+  - HAT ratio **higher in surgical loupe group** (but historical control)
+
+---
+
+## Interpreting Historical Controls
+
+- Higher HAT in the surgical loupe group is **acceptable** (historical technique)
+- However, higher HAT in **DDLT compared to LDLT** in the historical group indicates **unsuccessful HAR technique**
+- HAT rate of **24.1%** in this study is one of the **worst rates in literature**
+
+---
+
+## Loupe Magnification: The Sweet Spot
+
+- Early popularity of OM has reversed
+- **×6.5 or ×8.5 magnification** with surgical loupe has resolved visualization issues
+- If graft artery is **too short and too narrow**, can be anastomosed with loupe ×8.5
+- In these conditions, it is **impossible to focus the OM** in the difficult position
+
+---
+
+## OM Magnification Limits
+
+- Many articles state anastomosis performed with **maximum ×10 magnification** with OM
+- Larger magnifications are **not needed**
+- Most transplant surgeons state that with **more than ×8 magnification**, the image is distorted and tissues are indistinguishable
+- With **×8.5 surgical loupe**, this advantage is already obtained
+
+---
+
+## OM Disadvantage 1: Setup and Time
+
+- **Bulky and large apparatus** requires a long time to set up
+- Interrupts the sequence of operational actions
+- **Major advantage of surgical loupe:** Time-saving
+- No need for additional equipment positioning
+
+---
+
+## OM Disadvantage 2: Visualization Angles
+
+- High power magnification loupes (×8.5) improve operating field visualization in **awkward viewing angles**
+- Especially with **vertically placed small arteries**
+- HAR with OM means **incomplete visibility** of lumen when small arteries run vertically
+- Loupe provides better viewing angles via **head and neck movements**
+
+---
+
+## OM Disadvantage 3: Abdominal Cavity Depth
+
+- HAR field is **10–15 cm deep** from abdominal wall
+- OM requires maneuvering and presents difficulties for:
+  - **Focusing deep**
+  - Obtaining good operative field
+- Surgical table needs rotation **45–60°** toward surgeon's side
+- **No need for this** with surgical loupe
+
+---
+
+## OM Disadvantage 4: Instrument Length
+
+- Longer microsurgical instruments (**18–21 cm**) required for OM
+- Long instruments make it **more difficult** for the surgeon to manipulate compared to short ones
+- Reduced tactile feedback and precision
+
+---
+
+## OM Disadvantage 5: Hemostasis Control
+
+- During HAR with OM, **hemostatic manipulation outside the narrow magnified field is not possible**
+- Continuous bleeding for &gt;1 hour may cause **fibrinolysis**
+- Leads to excessive bleeding in recipients with poor hemostatic function even after reperfusion
+- **Surgical loupe provides wider operative field**
+
+---
+
+## OM Disadvantage 6: Operative Metrics
+
+- Introduction of surgical loupes compared to OM achieved:
+  - **&gt;1 hour reduction** in operation time
+  - **One-third reduction** in intra-operative blood loss volume
+  - **~2-week shorter** mean hospital stay
+
+---
+
+## OM Disadvantage 7: Left Lobe and Pediatric Cases
+
+- Graft hepatic arteries in left lobe grafts usually **covered by the graft itself**
+- Very difficult to expose in **left lateral segment** for small infants (very small abdominal cavity)
+- **OM is almost impossible** in these conditions
+- This is why HAR is performed **before portal vein anastomosis** in left grafts
+
+---
+
+## OM Disadvantage 8: Clamp Technique
+
+- OM requires **"paired Acland double microvascular clip technique"**
+- Arterial stumps in partial liver graft are **short and variable in consistency**
+- Fixed clamping would exacerbate **intimal dissection**
+- Turnover of paired clips might **lacerate the intima**
+- With loupe and 2 separate bulldogs: reposition conveniently during turnover
+
+---
+
+## OM Disadvantage 9: Surgeon Availability and Ownership
+
+- HAR with OM mostly performed by **non-transplant surgeons** (hand or plastic surgeons)
+- These surgeons:
+  - Do not dominate hepatic artery and surrounding anatomy
+  - Not involved since beginning of operation
+  - Called suddenly; lack spirit and desire
+  - Want to return to social life quickly
+- **Contradictory to long-term transplant surgery**
+
+---
+
+## OM Disadvantage 10: Academic and Private Practice Issues
+
+- Non-transplant surgeons performing for money in private centers want success
+- Not compatible with **academic life**
+- Transplantations often on **weekends or at night**
+- Results in **insufficient availability** of plastic surgeons
+- Plastic surgeons caused:
+  - Longer operation time
+  - More intimal dissections
+  - More resuturing
+  - Higher HAT rate
+
+---
+
+## OM Disadvantage 11: Magnification Distortion
+
+- HAR with OM: continuous zoom magnification **×3–6**, maximum ×12
+- Most transplant surgeons state **&gt;×8 magnification distorts image**
+- Tissues become **indistinguishable**
+- With **×8.5 surgical loupe**, this optimal magnification is already achieved
+
+---
+
+## Loupe Advantages: Cost and Training
+
+- Surgical loupes are superior to OM in terms of:
+  - **Costs**
+  - **Operator-free** (no assistant needed to position)
+  - **Surgeons' education**
+  - **Multipersonal training**
+- No consensus on where OM should be placed in operating theater when not in use
+
+---
+
+## Final Conclusions: Standardization
+
+- High-volume transplant centers tend to develop a **standardized technique** for doing HAR
+- Goal: relatively **low complication rates** with their **own teams**
+- Transplant surgeons performing recipient hepatectomy may be **less careful** in arterial dissection if they know they won't be responsible for reconstruction
+
+---
+
+## Final Conclusions: Modern Preference
+
+- In recent years, greater tendency to perform HAR in LDLT using:
+  - **Interrupted sutures**
+  - **High magnified (×8.5) surgical loupe**
+- This combination offers:
+  - Optimal visualization
+  - Technical precision
+  - Efficiency
+  - Safety
+
+---
+
+## Summary: Key Technical Pearls
+
+- Use **interrupted sutures** with 8/0 or 9/0 polypropylene
+- Use **surgical loupe ×8–8.5** for most cases
+- Preserve **periarterial tissue** to avoid spasm
+- Use **guillotine-style trimming** integrating all layers
+- Ensure **perfect endothelial convergence** via extroverting suture slope
+- Avoid **fibrin glue** near the anastomosis
+- Perform **left lobe HAR before portal vein anastomosis**
+
+---
+
+## Summary: Avoiding Complications
+
+- Prevent **intimal dissection** by gentle handling
+- Avoid **continuous sutures** to prevent purse-string stricture
+- Do not use **surgical knots** that may intrude into the lumen
+- Manage **diameter mismatch** with gentle dilation (graft side only)
+- Select **recipient inflow** based on anatomical fit and biliary preservation
+
+---
+
+## The One Stay Corner Suture: Why It Works
+
+- Combines **microsurgical precision** with **practical efficiency**
+- Single corner stay suture provides **traction and exposure**
+- Interrupted technique prevents **luminal narrowing**
+- External knot placement eliminates **intraluminal thrombogenic material**
+- Adaptable to **short arteries** and **difficult angles**
+

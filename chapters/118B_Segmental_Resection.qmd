@@ -1,6 +1,14 @@
 # 118B Segmental Resection
 
+::: {.panel-tabset}
+
+## Chapter 
+
 {{< reveal 118B_Segmental_Resection >}}
+
+:::
+
+
 
 1. **According to Couinaud's classification, how many segments does the liver consist of?**  
     A. 4 segments  

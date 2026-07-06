@@ -1,12 +1,19 @@
 # 105 Liver Transplantation: Indications and General Considerations
 
 
-```{r}
-#| echo: false
-#| results: asis
 
-slides_iframe(600)
-```
+::: {.panel-tabset}
+
+## Chapter 
+
+{{< 105_Liver_Transplantation_Indications_and_General_Considerations >}}
+
+## APASL LDLT 
+
+{{< Extras/transplant/apasl_ldlt >}}
+
+:::
+
 
 Generated with Claude. 
 

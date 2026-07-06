@@ -1,6 +1,14 @@
 # 122 Vascular Reconstruction Techniques in Hepato-Pancreato-Biliary (HPB) Surgery
 
 
+::: {.panel-tabset}
+
+## Hepatic artery recon 
+
+{{< Extras/transplant/microsurgery_ldlt >}}
+
+:::
+
 **1. Which of the following best describes the current view of vascular invasion in advanced liver tumors?**
 
 - It is always a contraindication for surgery
