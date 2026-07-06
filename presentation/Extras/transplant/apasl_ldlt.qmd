@@ -1221,5 +1221,866 @@ MELD does not reflect mortality risk for all emergencies. Exception points are g
 * High-risk HBV patients should receive lifelong combination of HBIG and a potent NUC. **(B1)**
 * All patients with post-transplant HCV recurrence must be treated as early as possible. **(A1)**
 * Fibrosing cholestatic hepatitis or extensive fibrosis necessitates urgent antiviral treatment. **(A1)**
-* This concludes Batch 3. Prompt for Batch 4 to continue with Recurrence of Original Disease, Systemic Diseases, and Long-Term Complications.
 
+## Recurrence of Original Disease: Overview
+* Following liver transplantation (LT), the original disease that necessitated the transplant can sometimes recur in the new allograft.
+* Recurrence rates and impacts vary significantly depending on the underlying etiology (e.g., autoimmune, viral, metabolic, or malignant).
+* Understanding the risk factors, diagnostic criteria, and management strategies for recurrence is crucial for long-term graft and patient survival.
+* This section covers the recurrence of autoimmune liver diseases, alcohol-related liver disease, NASH/NAFLD, and hepatocellular carcinoma (HCC).
+
+## Primary Biliary Cholangitis (PBC): Recurrence Rates
+* PBC can recur after LT, potentially leading to graft loss if not managed properly.
+* A multicenter cohort study of 571 patients reported PBC recurrence rates of 18% at 5 years and 31% at 10 years.
+* Another multicenter study of 785 patients found similar rates: 22% at 5 years and 36% at 10 years.
+* Routine monitoring and prophylactic strategies are essential to mitigate the risk of recurrence.
+
+## PBC: Risk Factors for Recurrence
+* Several factors increase the likelihood of PBC recurring post-LT.
+* **Patient Factors:** Younger age at the time of PBC diagnosis or at the time of LT.
+* **Biochemical Factors:** Elevated alkaline phosphatase (ALP) levels at 6 and 12 months after LT.
+* **Immunosuppressive Factors:** The use of tacrolimus (Tac), sirolimus, or mycophenolate mofetil (MMF) is associated with an increased risk of recurrence compared to cyclosporine (CsA).
+
+## PBC: Prevention Strategies
+* Strategies to prevent PBC recurrence focus on medical therapy and optimizing the immunosuppressive regimen.
+* **Ursodeoxycholic Acid (UDCA):** Administration of UDCA (10–15 mg/kg/day in two divided doses) following LT is recommended.
+* **Immunosuppression:** An immunosuppressive regimen containing CsA (rather than Tac) is preferred.
+* A cohort study suggested that UDCA combined with CsA was associated with a significantly lower risk of PBC recurrence compared to using either agent alone.
+
+## PBC: Diagnosis of Recurrence
+* The diagnosis of recurrent PBC relies more heavily on histological findings than on serological markers.
+* Persistent antimitochondrial antibody (AMA) positivity alone is not sufficient for diagnosis.
+* **Essential Histological Findings:**
+  * Characteristic portal tract lesions.
+  * Mononuclear inflammatory infiltrate.
+  * Formation of lymphoid aggregates.
+  * Epithelioid granulomas.
+  * Bile duct damage (florid duct lesion).
+
+## PBC: Treatment of Recurrence
+* Once recurrent PBC is diagnosed, treatment is necessary to slow disease progression.
+* **Standard Treatment:** Treatment with UDCA is the primary recommendation.
+* **Obeticholic Acid:** Recurrent PBC in patients following LT is *not* an indication for treatment with obeticholic acid.
+* Close monitoring of liver biochemistry and protocol liver biopsies may be required in high-risk patients.
+
+## PBC: Recommendations
+* To prevent PBC recurrence after LT, prophylactic administration of UDCA is recommended. **(B2)**
+* Patients should be monitored closely for biochemical and histological signs of recurrence, especially if on Tac-based regimens.
+
+## Primary Sclerosing Cholangitis (PSC): Overview and Outcomes
+* PSC generally has excellent outcomes after LT, with high patient and graft survival rates.
+* However, disease recurrence in the allograft or in the native biliary tree can occur.
+* The diagnosis of recurrence is based on consistent findings from both liver biopsy and cholangiography (e.g., MRCP or ERCP).
+* Managing PSC post-LT also requires careful attention to associated conditions, particularly Inflammatory Bowel Disease (IBD).
+
+## PSC: Risk Factors for Recurrence
+* Several risk factors have been identified that increase the chance of PSC recurring post-LT.
+* **Patient Factors:** Presence of IBD in patients with an intact colon.
+* **Transplant Factors:** Prolonged ischemic time (cold ischemia).
+* **Post-Transplant Factors:**
+  * Recurrent acute cellular rejection.
+  * Cytomegalovirus (CMV) infection.
+  * Prolonged use of glucocorticoids.
+  * Positive lymphocytotoxic cross-match.
+* **Protective Factor:** Colectomy performed before or during LT for PSC has been reported to be protective against recurrent PSC.
+
+## PSC: Natural History of IBD Post-LT
+* The natural history of IBD, especially ulcerative colitis, following LT for PSC is highly variable.
+* A retrospective cohort study of 303 patients with IBD found that the incidence rates for colectomy increased from 0.007 per year before LT to 0.025 per year after LT.
+* A longitudinal multicenter study of 353 patients showed that post-LT, IBD activity:
+  * Decreased in 17% of patients.
+  * Remained unchanged in 43% of patients.
+  * Increased (worsened) in 40% of patients.
+
+## PSC: Risk Factors for IBD Progression Post-LT
+* The choice of immunosuppressive regimen significantly impacts the course of IBD after LT.
+* **Worsening IBD Activity:**
+  * The use of Tac plus MMF significantly increased the risk of worsening IBD activity (Hazard Ratio = 3.9).
+* **Decreased Risk of Worsening IBD:**
+  * The use of cyclosporine (CsA) and azathioprine (AZA) was associated with a decreased risk of worsening IBD (Hazard Ratio = 0.4).
+* Independent risk factors for IBD progression include age > 30 years at the time of LT and the LT procedure itself.
+
+## PSC: Recommendations
+* For patients grafted for PSC and IBD, regular colonoscopies are recommended to monitor for dysplasia and IBD progression. **(B2)**
+* Colectomy should be considered if medically indicated, as it may protect against PSC recurrence.
+
+## Autoimmune Hepatitis (AIH): Survival and Rejection Rates
+* LT for AIH yields excellent overall outcomes.
+* The 5-year patient survival rates are reported to be 80–90%.
+* The 5-year graft survival rates are reported to be 72–74%.
+* However, the frequency of both acute and chronic rejection after LT for AIH is higher compared to other etiologies of liver failure.
+
+## AIH: Recurrence Rates and Impact
+* Recurrent AIH is a major cause of allograft failure and reduced patient survival post-LT.
+* Among patients who undergo LT for AIH, 17–42% experience disease recurrence.
+* A recent multicenter study of 736 patients identified several risk factors for recurrent AIH:
+  * Younger age at LT.
+  * Use of MMF post-LT.
+  * Sex mismatch between donor and recipient.
+  * High IgG levels pre-LT.
+* Interestingly, 5-year long-term steroid use was not found to be a significant factor for preventing AIH recurrence in this specific study.
+
+## AIH: Differentiating Recurrence from Rejection
+* It is often difficult to differentiate between graft rejection and AIH recurrence after LT.
+* Clinicians must be extremely cautious when interpreting clinical and laboratory findings.
+* Both conditions can present with elevated transaminases and similar histological features.
+* Accurate diagnosis is critical because the treatment approaches, while overlapping, have distinct nuances and long-term implications.
+
+## AIH: Diagnostic Criteria for Recurrence
+* The diagnostic criteria for recurrent AIH are the same as those for the original disease.
+* **Laboratory Profiles:** Increased serum aspartate aminotransferase (AST), alanine aminotransferase (ALT), and IgG levels.
+* **Histological Findings (Essential for Diagnosis):**
+  * Lobular hepatitis.
+  * Focal necrosis.
+  * Pseudorosettes.
+  * Interface hepatitis.
+  * Lymphoplasmacytic infiltration.
+* *Note:* Histological findings classically seen in rejection, such as endothelialitis and bile duct damage, are usually absent in recurrent AIH.
+
+## AIH: Treatment of Recurrence
+* Standard glucocorticoid-based therapy is used to treat recurrent AIH.
+* Treatment often involves the addition of AZA or MMF to the regimen.
+* **Steroid Monotherapy Dose:** Predniso(lo)ne 0.5–1.0 mg/kg or 40–60 mg/day.
+* **Combination Therapy Dose:** Predniso(lo)ne < 0.5 mg/kg or 20–40 mg/day combined with AZA 50 mg/day.
+* Maintenance of glucocorticoid therapy may lower the recurrence of AIH, though long-term steroid use carries significant adverse event risks.
+
+## AIH: De Novo AIH Post-LT
+* In some cases, AIH is newly diagnosed after LT in patients whose pre-transplant chronic liver disease was *not* AIH.
+* This condition is defined as "de novo" AIH.
+* The use of glucocorticoids in addition to Calcineurin Inhibitors (CNIs) is the treatment of choice for de novo AIH.
+* The optimal long-term strategy for de novo AIH has not been fully investigated, and future studies are needed to refine management protocols.
+
+## AIH: Recommendations
+* Standard glucocorticoid-based therapy along with the addition of immunosuppressive agents (AZA or MMF) is recommended to treat recurrent AIH after LT. **(B1)**
+* Careful histological evaluation is required to distinguish recurrence from acute cellular rejection.
+
+## Alcohol-Related Liver Disease (ALD): Survival Outcomes
+* Short-term patient and graft survival rates following LT for ALD are similar to the rates following LT for other etiologies.
+* However, the 10-year patient and graft survival rates are lower for patients with ALD.
+* **1-Year Survival:** 91% for ALD vs. 90% for non-ALD.
+* **5-Year Survival:** 79% for ALD vs. 80% for non-ALD.
+* **10-Year Survival:** 63% for ALD vs. 68% for non-ALD.
+
+## ALD: Alcohol Relapse Post-LT
+* Despite comprehensive pre-LT evaluation and adherence to the 6-month abstinence rule, some recipients resume alcohol abuse after LT.
+* Relapse rates vary, but it remains a significant concern for long-term graft and patient survival.
+* Identifying patients at high risk for relapse and providing robust post-transplant support systems are critical components of ALD management.
+
+## ALD: Complications of Relapsed Alcohol Abuse
+* Resuming alcohol abuse post-LT leads to severe complications.
+* Recipients with a history of alcohol abuse after LT are significantly more likely to develop:
+  * Alcoholic steatohepatitis (Odds Ratio 6.2).
+  * Advanced fibrosis (Odds Ratio 23.2).
+* Other potential complications include rejection, graft loss, and fatal alcoholic steatohepatitis.
+* Impaired 10-year survival rates in relapsing recipients are also driven by increased mortality from cancer and cardiovascular events.
+
+## ALD: Intervention and Treatment Programs
+* Structured alcohol treatment programs significantly reduce relapse rates.
+* A study of 103 patients showed that an alcohol treatment program resulted in lower rates of alcohol abuse during a 4-year follow-up period (22% vs. 48%).
+* In some regions (e.g., the United Kingdom), all LT recipients with ALD are routinely followed up by a psychiatrist specializing in addiction treatment.
+* Multidisciplinary psychological and psychiatric support is essential for long-term abstinence.
+
+## ALD: Recommendations
+* All LT recipients with ALD should remain completely abstinent from alcohol. **(A1)**
+* LT recipients with ALD are strongly encouraged to undergo addiction treatment and psychological support if they relapse into alcohol use. **(B2)**
+
+## NASH/NAFLD/Obesity: Post-LT Outcomes
+* Post-LT outcomes for patients with NAFLD/NASH are generally comparable to other etiologies regarding 1-, 3-, and 5-year survival.
+* The risk of graft failure may actually be lower in the early post-LT period.
+* However, the 10-year graft survival rate for NASH LT recipients is 61%, which is similar to ALD LT recipients (59%).
+* Long-term metabolic complications remain a primary challenge for this patient population.
+
+## NASH: Post-LT Weight Gain Dynamics
+* Maintaining a healthy weight and diet is crucial, as weight gain is extremely common following LT.
+* Most body weight gain occurs within the first year after LT.
+* Studies report a median body weight gain of 5.1–9.8 kg at 1 year post-LT.
+* Awareness about controlling body weight needs to be raised early in the post-LT period to prevent the recurrence of metabolic syndrome.
+
+## NASH: Interventions for Weight Management
+* Lifestyle modifications are the first line of defense against post-LT weight gain.
+* A randomized trial of exercise and dietary counseling showed that recipients receiving the intervention had a similar increase in body weight to the control group, but only 37% were completely adherent.
+* **Corticosteroids:** Potently adipogenic and lead to weight gain; minimizing their use should be considered. The dose of prednisone is an independent predictor of obesity development.
+* **Immunosuppressants:** CsA-treated patients are more likely to gain weight than Tac-treated patients.
+
+## NASH: Graft Steatosis and Treatment Protocols
+* Steatosis in the graft liver makes it vulnerable to hepatic injury.
+* This results in a higher rate of early allograft dysfunction and post-LT vascular and biliary complications.
+* **Weight Loss:** The most effective treatment for hepatic steatosis.
+* **Intense Protocol:** An intense 2–8 week protocol to reduce hepatic steatosis involves:
+  * Exercise program burning 600 kcal/day.
+  * Protein-rich diet with 1000 kcal/day.
+  * Fibrate medication.
+* No single pharmacologic treatment is specifically recommended for recurrent or de novo NAFLD post-LT.
+
+## NASH: Recommendations
+* Prevention or treatment of NAFLD after LT should be performed to avoid excessive weight gain for all LT recipients. **(B1)**
+* LT recipients should get an assessment of liver fibrosis and fat through transient elastography at least once a year. **(B2)**
+
+## HCC Recurrence: Overview and Risk Factors
+* Despite strict selection criteria (e.g., Milan Criteria), 15–20% of HCC cases still experience tumor recurrence post-LT.
+* Recurrence is associated with a poor prognosis.
+* Risk factors for recurrence are classified into three categories (Table 10):
+  * **Tumor-related:** Vascular invasion, differentiation grade, tumor markers (AFP, PIVKA-II), enhanced uptake in PET scan, MRI findings.
+  * **Patient-related:** Obesity, viral etiology, HCV treatment, NAFLD, neutrophil-lymphocyte ratio.
+  * **Treatment-related:** Pre-LT biopsy, waiting time, bridging therapy, donor age, ischemic time, surgical technique, post-LT immunosuppression (high CNI trough levels).
+
+## HCC Recurrence: Timing and Anatomical Sites
+* HCC recurrence usually occurs in the early post-transplant period.
+* The median recurrence-free survival (RFS) is 12–16 months.
+* About 75% of recurrences occur during the first 2 years after LT; only 10% are detected after 4 years.
+* **Sites of Recurrence:**
+  * Lungs (55.7%)
+  * Liver allograft (37.8%)
+  * Abdominal cavity (37.7%)
+  * Bones (25.5%)
+* HCC recurrence should be considered a systemic event, as it is limited to the graft in only 30% of cases.
+
+## HCC Recurrence: Prognostic Factors Post-Recurrence
+* The median survival after recurrence is 7–16 months.
+* A Euro-American study identified three poor prognostic factors:
+  1. HCC recurrence during the first year after LT (HR = 1.6).
+  2. AFP levels > 100 ng/mL at the time of recurrence (HR = 2.1).
+  3. Recurrent tumors unsuitable for surgical resection or local ablation (HR = 4.7).
+* The 5-year survival rate for patients *without* these negative prognostic factors is 50%.
+* These factors have been validated in multicenter studies and guide treatment intensity.
+
+## HCC Recurrence: Management - Surgical Resection
+* Surgical resection should be considered first for the management of recurrent HCC if feasible.
+* Although HCC recurs, survival rates increase significantly if surgical resection is possible.
+* A study of 121 patients found that those who underwent surgical resection had a significantly longer median survival than those receiving other treatments.
+* A Japanese study reported 1-, 3-, and 5-year survival rates of 100%, 87.5%, and 87.5% for resected patients, compared to 50%, 12.5%, and 0% for non-surgical treatments.
+
+## HCC Recurrence: Management - Local Ablation
+* When recurrent HCC is confined within the liver and surgical resection is difficult, local ablation (e.g., RFA, MWA) can be considered.
+* Generally, surgical resection or local ablation is possible in patients with less aggressive tumor behavior:
+  * Late recurrence.
+  * Lower levels of tumor markers.
+  * Lower number and size of tumor nodules.
+* Even with successful local therapy, the recurrence rate remains high, and repeated treatments may be required.
+
+## HCC Recurrence: Management - Intraarterial Therapy
+* For patients with unresectable multifocal liver recurrence, intraarterial therapies are options.
+* **TACE (Transarterial Chemoembolization):**
+  * Partial response rates around 57%.
+  * 12- and 24-month survival rates after recurrence were 50% and 22.2%, respectively (superior to systemic chemotherapy).
+* **TARE (Transarterial Radioembolization with Yttrium-90):**
+  * Can be performed without adverse events in recurrent HCC.
+* Combinations of locoregional therapies may be performed after multidisciplinary assessment.
+
+## HCC Recurrence: Management - Systemic Therapy
+* Most patients with early recurrence have extensive metastatic disease requiring systemic chemotherapy.
+* **Sorafenib:** Can be used as systemic therapy. A case-control study showed better outcomes compared to best supportive care.
+* **Regorafenib:** Used as second-line therapy after sorafenib failure. Patients had significantly higher survival rates than those receiving supportive care alone.
+* **Other Agents:** Lenvatinib, cabozantinib, and ramucirumab may be considered, but safety and efficacy post-LT remain controversial.
+* The combination of sorafenib and mTOR inhibitors has been suggested but lacks sufficient evidence.
+
+## HCC Recurrence: Management - Immunotherapy Concerns
+* Immunotherapy (e.g., immune checkpoint inhibitors) is now first-line for HCC in non-transplant settings.
+* However, significant concerns remain regarding its use in post-transplant settings.
+* **Risk of Rejection:** Immune activation can promote severe allograft rejection.
+* Rejection by checkpoint inhibitors can occur in up to 50% of post-LT cases.
+* The use of immune checkpoint inhibitors after LT requires extreme caution and is generally reserved for highly selected cases or clinical trials.
+
+## HCC Recurrence: Recommendations
+* In case of recurrence of HCC after LT, surgical resection or local ablation is recommended as much as possible. **(C1)**
+* It is necessary to take a multidisciplinary team approach considering the time of recurrence, site, and graft function. **(B1)**
+* Current first-line tyrosine kinase inhibitors (e.g., Sorafenib) are recommended for managing systemic recurrence of HCC. **(B1)**
+
+## Systemic Disease: Chronic Kidney Disease (CKD) Overview
+* CKD is a major long-term complication following LT, significantly impacting morbidity and mortality.
+* Among patients maintained on Tac, 36% experience a decline in estimated glomerular filtration rate (eGFR) by > 30% over a mean of 3.7 years.
+* The decrease in eGFR occurs mainly in the first 6 months post-LT and then stabilizes.
+* CKD is associated with a 4.55-fold higher 1-year mortality rate.
+
+## CKD: Incidence and Contributing Factors
+* **Incidence:** 14% and 18% of LT recipients have moderately to severely decreased eGFR (< 30 mL/min/1.73 m²) at 3 and 5 years post-LT. The incidence of end-stage renal disease requiring dialysis is 5–8% at 10 years.
+* **Contributing Factors:**
+  * Pre-existing CKD and peri-LT Acute Kidney Injury (AKI).
+  * Persistent exposure to Calcineurin Inhibitors (CNIs).
+  * Older age, female sex.
+  * Hypertension, diabetes mellitus, dyslipidemia, obesity.
+  * Chronic HCV infection.
+* CNI-induced AKI is due to renal vasoconstriction and often improves with dose reduction.
+
+## CKD: Diagnosis and Monitoring Strategies
+* Serum creatinine is a late and insensitive indicator of CKD.
+* **eGFR Calculation:** Using the CKD Epidemiology Collaboration (CKD-EPI) formula with or without cystatin C is superior to serum creatinine alone or 24-h urine clearance.
+* **Proteinuria:** Urinary protein quantification using the protein-to-creatinine concentration ratio in a spot urine sample should be assessed at least annually.
+* Regular monitoring allows for early intervention to preserve remaining renal function.
+
+## CKD: Management and Renal Preservation
+* **Blood Pressure Control:** Aggressive BP control using ACE inhibitors (ACEIs) or ARBs is expected to have beneficial effects.
+* **CNI Management:**
+  * A reduction in CNI dose does not typically *improve* kidney function but preserves it if withdrawn earlier when eGFR is 40–50 mL/min/1.73 m².
+  * Substitution with MMF or an mTOR inhibitor in patients without proteinuria is a viable option.
+* The goal is to balance immunosuppression efficacy with renal preservation.
+
+## CKD: Recommendations
+* Reduction in the dose of CNIs should be considered to preserve renal function in LT recipients. **(A1)**
+* Regular monitoring of eGFR and urinary protein is essential for early detection and management of CKD.
+
+## Systemic Disease: Diabetes Mellitus (DM) Overview
+* Patients with DM requiring insulin or oral agents prior to LT may frequently require insulin therapy post-LT.
+* Metabolic syndrome components, including DM, are major drivers of long-term cardiovascular morbidity.
+* Management of blood glucose is critical to prevent microvascular and macrovascular complications in the transplant population.
+
+## DM: Post-Transplant Diabetes Mellitus (PTDM) Incidence
+* The incidence of de novo Post-Transplant Diabetes Mellitus (PTDM) at year 1 ranges from 10.8% to 33%.
+* PTDM is not associated with short-term 1-year survival after LT.
+* However, it is associated with shorter 5- to 10-year survival rates due to increased cardiovascular and infectious risks.
+* PTDM tends to resolve over time, particularly if corticosteroids are withdrawn and Tac dosages are decreased.
+
+## DM: Risk Factors for PTDM
+* Several immunosuppressive and patient-specific factors increase the risk of developing PTDM.
+* **Immunosuppressive Risk Factors:**
+  * Glucocorticoids.
+  * CNIs (Tacrolimus carries a higher risk than Cyclosporine).
+* **Patient Risk Factors:**
+  * Post-LT weight gain / Obesity.
+  * HCV infection.
+  * Family history of diabetes.
+  * Older age.
+
+## DM: Screening and Diagnostic Criteria
+* The Oral Glucose Tolerance Test (OGTT) is the optimal screening tool for PTDM.
+* HbA1c is *not* indicated as a first-line diagnostic test for PTDM in the early post-transplant period due to altered red blood cell turnover.
+* **Diagnostic Thresholds:**
+  * Fasting plasma glucose: Normal < 100 mg/dL; Impaired 100–125 mg/dL; Diabetes ≥ 126 mg/dL.
+  * 2-h post-OGTT: Normal < 140 mg/dL; Impaired 140–199 mg/dL; Diabetes ≥ 200 mg/dL.
+  * Pharmacological therapy is required if HbA1c is > 7%.
+
+## DM: Management and Pharmacological Treatments
+* Long-term goals do not differ significantly from non-transplant patients (target HbA1c < 7.0%).
+* **Immunosuppression Adjustment:** Decreasing/discontinuing glucocorticoids or switching from Tac to CsA may help.
+* **Pharmacological Options:**
+  * Metformin and sulfonylureas (indicated if renal function is normal; sulfonylureas preferred if deteriorated).
+  * Meglitinides and thiazolidinediones.
+  * DPP-4 inhibitors (e.g., linagliptin) are of increasing interest as incretins counteract diabetogenic actions of immunosuppressants.
+  * GLP-1 analogs and SGLT2 inhibitors are emerging but clinical data in LT are scarce.
+
+
+## Systemic Disease: Hypertension Overview
+
+* Approximately 65–70% of liver transplant (LT) recipients develop hypertension.
+* It is a major contributor to cardiovascular events and chronic kidney disease (CKD) in this population.
+* The causes of post-LT hypertension are multifactorial.
+* Calcineurin inhibitors (CNIs) and glucocorticoids play the most significant roles in its pathogenesis.
+* Effective management is critical to reduce long-term cardiovascular morbidity and mortality.
+
+## Hypertension: Target Blood Pressure
+* A target blood pressure (BP) of < 130/80 mmHg is considered reasonable for LT recipients.
+* This target is recommended because most of these patients have multiple risk factors for cardiovascular diseases (CVD).
+* These risk factors frequently co-occlude and include diabetes, obesity, and dyslipidemia.
+* Achieving this target requires a combination of lifestyle modifications and pharmacological agents.
+
+## Hypertension: Pharmacological Treatments
+* If lifestyle modifications and reduction in immunosuppression fail to reduce BP to the desired level, antihypertensive medicines should be administered.
+* Calcium channel blockers (CCBs), such as amlodipine, may be more effective in LT recipients.
+* CCBs are particularly useful because they counteract the vasoconstrictive effect of CNIs.
+* Beta-blockers are equally effective as CCBs in the treatment of hypertension among LT recipients.
+
+## Hypertension: CCBs and Beta-Blockers
+* **First-generation CCBs:** Nifedipine and verapamil should be used with caution. They may inhibit cytochrome P450 and consequently increase serum CNI levels.
+* **Beta-blockers:** Non-selective beta-blockers may decrease portal blood flow.
+* Therefore, a cardio-selective beta-blocker such as metoprolol or atenolol might be preferred in LT recipients.
+
+## Hypertension: ACEIs, ARBs, and Diuretics
+* **ACEIs and ARBs:** Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers are preferred in LT recipients who also have diabetes, CKD, and/or significant proteinuria.
+* *Caution:* Potassium levels must be closely monitored when ACEIs/ARBs are used in combination with CNIs (particularly Tacrolimus).
+* **Diuretics:** Generally not used as primary therapy for hypertension.
+* Concerns exist regarding their potential to worsen electrolyte imbalances and dyslipidemias induced by CNIs, though they are sometimes used in conjunction with other agents.
+
+## Hypertension: Recommendations
+* The treatment of hypertension should aim for a target BP of < 130/80 mmHg. **(A1)**
+* Treatment should utilize a combination of lifestyle modifications and pharmacological agents as appropriate.
+
+## Systemic Disease: Dyslipidemia Overview
+* Dyslipidemia develops in up to 70% of LT recipients.
+* **Hypercholesterolemia:** Develops in 16–43% of patients.
+* **Hypertriglyceridemia:** Develops in 40–47% of patients.
+* Typically, hypertriglyceridemia occurs within the first month after LT and then plateaus throughout the first year of life.
+* In contrast, serum cholesterol levels rise gradually and remain stable after 6 months.
+* Patients with elevated pre-LT cholesterol levels are most likely to develop hypercholesterolemia following LT.
+
+## Dyslipidemia: Contributing Factors
+* While age, body weight, and genetics have some influence, dyslipidemia observed in LT recipients mostly results from the side effects of medications.
+* **Primary Culprits:**
+  * CNIs (Cyclosporine > Tacrolimus)
+  * mTOR inhibitors
+  * Glucocorticoids
+* When glucocorticoids are withdrawn and maintenance levels of Tac (4–5 ng/mL) or CsA (100–120 ng/mL) are reached, dyslipidemia improves in many patients over time.
+
+## Dyslipidemia: Treatment Indications
+* The time to recommend medical treatment for dyslipidemia is guided by a patient's low-density lipoprotein cholesterol (LDL-C) levels and CVD risk.
+* In LT recipients with elevated LDL-C levels of > 100 mg/dL with or without hypertriglyceridemia, treatment is indicated.
+* Consequently, medical therapy is rarely recommended in the early post-LT period.
+* If dyslipidemia persists after the early transplant period, treatment is similar to treatment in non-transplant patients.
+
+## Dyslipidemia: Statins and Drug Interactions
+* Most patients are treated with statins.
+* **Pravastatin and fluvastatin** are favored over other statins due to their fewer interactions with immunosuppressants.
+* **Ezetimibe** has also been shown to lower LDL-C levels with generally stable levels of immunosuppression and a low risk of severe side effects.
+* **PCSK9 inhibitors:** Proprotein convertase subtilisin kexin-9 inhibitors have not been adequately evaluated in organ transplant recipients.
+* Changes in immunosuppression (e.g., CsA to Tac, adding MMF, withdrawing sirolimus) should be addressed when dyslipidemia is resistant to pharmacotherapy.
+
+## Dyslipidemia: Managing Hypertriglyceridemia
+* Isolated hypertriglyceridemia is initially treated with omega-3 fatty acids (up to 4 g daily if tolerated).
+* If this is not adequate for control, gemfibrozil or fenofibrate can be added.
+* *Caution:* Patients must be closely monitored for side effects of fibrates, especially when statins and CNIs are used concurrently.
+
+## Dyslipidemia: Recommendations
+* In LT recipients with an elevated LDL-C level > 100 mg/dL, treatment is indicated. **(B1)**
+* If therapeutic lifestyle and dietary changes are not enough, statin therapy should be introduced.
+
+## Systemic Disease: Bone Disease Overview
+* A decrease in bone mineral density (BMD) is an important cause of morbidity in LT recipients.
+* Most cases of bone loss and fractures occur within the first 4–6 months after LT.
+* Almost all LT recipients experience accelerated bone loss in the first 4 months due to the effects of corticosteroids and possibly CNIs, regardless of their pre-LT BMD.
+* In cases of normal graft function for up to 4 months, bone metabolism improves.
+* After the initial 6–12 months, the rate of bone loss reduces or reverses.
+
+## Bone Disease: Monitoring Strategies
+* Despite the lack of consensus on the ideal monitoring strategy, BMD measurement 1 year after LT may be recommended at a minimum.
+* Afterward, BMD monitoring is recommended to be performed annually for LT recipients with osteopenia or osteoporosis.
+* For those with normal BMD, monitoring every 2–3 years is recommended.
+* Regardless of pre-LT BMD, the same procedures used to prevent or treat osteopenia and osteoporosis for the general population need to be applied to LT recipients.
+
+## Bone Disease: Lifestyle and Supplements
+* Recipients should be advised to engage in early mobilization following LT and to prevent falls.
+* From the pre-LT period, patients need to intake:
+  * Calcium (1000–1200 mg/day from food and supplements)
+  * Vitamin D (800–1000 IU/day or 20–25 μg/day)
+* The lower dose of prednisone that can ensure graft survival may be advantageous to bone health.
+* Regular 30-min, three-times-weekly weight-bearing exercise is beneficial for restoring BMD to pre-LT levels.
+
+## Bone Disease: Bisphosphonates
+* All osteopenic patients who receive LT may be candidates for preventive medical therapy, as fractures occur most frequently during the first year post-LT.
+* **Bisphosphonates** are regarded as the medical therapy of choice for the prevention of post-LT bone loss.
+* They reduce steroid-induced bone loss, to which post-LT bone loss is highly related.
+* Either oral alendronate or intravenous bisphosphonates (zoledronate or ibandronate) can be used.
+* *Caution:* Bisphosphonates should be used with caution in premenopausal females due to insufficient information on their potentially harmful effects on the fetus.
+
+## Bone Disease: Alternatives to Bisphosphonates
+* **Calcitriol:** A meta-analysis demonstrated that calcitriol is beneficial in reducing bone loss after solid organ transplantation. Serum calcium levels should be monitored.
+* **Hormonal Replacement:**
+  * Estradiol/progesterone therapy is an option for females with hypogonadism.
+  * Male patients with symptoms of hypogonadism should receive testosterone replacement therapy if not contraindicated.
+  * *Note:* Estrogen/progesterone therapy is no longer a first-line treatment for postmenopausal osteoporosis due to increased risks of breast cancer, stroke, and venous thromboembolism.
+
+## Bone Disease: Denosumab and Long-Term Management
+* **Denosumab:** A monoclonal antibody against RANKL. It is a potent inhibitor of bone resorption approved for postmenopausal osteoporosis.
+  * Should not be used in patients with preexisting hypocalcemia.
+  * If discontinued, alternative therapies (e.g., bisphosphonates) are necessary to prevent rapid bone loss.
+* **Duration of Therapy:** Medical therapy to prevent post-LT osteoporosis can be discontinued at 1 year after LT if BMD is stable and glucocorticoids have been withdrawn or reduced to < 5 mg/day.
+
+## Bone Disease: Recommendations
+* Osteopenic LT recipients should receive calcium and vitamin D supplements and perform regular weight-bearing exercises. **(B1)**
+* Bisphosphonates are recommended for the prevention and treatment of post-LT bone loss and fractures. **(A1)**
+* If bisphosphonates are contraindicated or not tolerated, alternative treatments, including calcitriol **(A1)**, denosumab **(A1)**, and hormonal replacement therapies **(A2)** can be commenced.
+* For preventive purposes, treatment for 12 months after LT is recommended if an LT recipient has osteopenia. **(A1)**
+
+## Surveillance of De Novo Malignancies (DNM): Overview
+* DNMs represent a leading cause of late mortality in LT recipients.
+* They are reported to be the most common cause of death 10 years after LT.
+* The standardized incidence ratio (SIR) for individual malignancies ranges from 2.2 to 4.9.
+* The risk of cancer can vary significantly between different regions worldwide.
+* Despite having a greater cancer incidence, LT recipients have shorter life expectancies than the general population.
+
+## DNM: General Risk Factors
+* The following factors influence individual risk factors for DNM in LT recipients:
+  * The underlying cause of the chronic liver disease (e.g., PSC and ALD)
+  * Alcoholism and tobacco use
+  * A history of pre-transplant malignancy
+  * The type, duration, or intensity of immunosuppressive medications taken
+  * Viral infections
+* Many screening criteria for DNM have been extrapolated from recommendations for the general population.
+
+## DNM: Gastric Cancer Surveillance
+* Patients who abuse alcohol have a 15-fold greater incidence of upper aerodigestive tract cancers.
+* In areas where the incidence of gastric cancer is high, such as in South Korea, annual screening for gastric cancer after LT may be needed.
+* To detect gastric cancer earlier, the EASL presently recommends an aggressive surveillance program in high-risk regions.
+
+## DNM: Colorectal Cancer (CRC) Surveillance
+* PSC patients with IBD are at a higher risk of CRC (up to 15% at 5 years).
+* LT recipients who have IBD should undergo a colonoscopy annually, accompanied by random biopsies.
+* LT recipients without PSC may also have a higher incidence of CRC than the general population.
+* Liver cancer patients with NASH who are older than 50 years may have an increased risk of CRC and may need earlier and more frequent screenings.
+
+## DNM: Skin Cancer Surveillance
+* Skin cancers are the most prevalent forms of DNM post-LT in Western countries.
+* Most of these malignancies are basal cell and squamous cell carcinomas, which are known to have little impact on survival.
+* Skin type and prior sun exposure both affect skin cancer risk, with Caucasian transplant recipients having the highest risks.
+* Guidelines recommend that patients stay out of direct sunlight and be screened by dermatologists.
+
+## DNM: Lung Cancer Surveillance
+* Lung cancer is a common DNM.
+* Low-dose CT (LDCT) enables early detection of lung cancer and reduces lung cancer mortality.
+* An intensive screening program for tobacco-related cancers in LT patients (particularly smokers) with LDCT has yielded promising results.
+* Therefore, LDCT screening should be implemented in high-risk patients after LT.
+
+## DNM: Head, Neck, and Esophageal Cancer
+* The most common risk factors associated with head and neck, oropharyngeal, and esophageal cancers are smoking and alcohol abuse.
+* Many liver transplant hospitals now carry out screenings for these cancers in patients with a history of cigarette smoking.
+* This is especially true for those with a history of high-risk alcohol consumption.
+
+## DNM: Post-Transplant Lymphoproliferative Disorder (PTLD)
+* PTLD is one of the most serious complications of transplantation and is a consequence of therapeutic immunosuppression.
+* The general incidence of PTLD varies between 1.0 and 5.5% after LT (SIR 3.9–21).
+* **Early-onset PTLD:** Development within 2 years after LT; more likely to have EBV infection.
+* **Late-onset PTLD:** More likely to be driven by intense immunosuppression.
+* Recipient EBV seronegativity and the intensity of immunosuppression are among the key risk factors.
+
+## DNM: PTLD Monitoring and Management
+* Monitoring EBV DNA levels in high-risk recipients may be advantageous in the first year.
+* Patients with rapidly rising EBV DNA levels may benefit from reduced immunosuppression and/or antiviral treatment.
+* Most of these results have been obtained from studies that examined pediatric transplant recipients.
+
+## DNM: General Treatment Strategies
+* Lowering CNI in patients with DNMs following LT has been shown to lead to better outcomes.
+* In LT patients with DNMs, mTOR inhibitors may be alternative agents for immunosuppression that have potential anticancer advantages.
+* The surgical treatment of DNM should follow general practice guidelines while considering the possible complexity of surgery in LT recipients.
+* Personalized optimization of systemic and radiation therapy should be designed to minimize expected toxicities.
+* *Warning:* Administration of immune checkpoint inhibitor therapy in LT recipients is related to an increased risk of graft rejection, graft loss, and mortality.
+
+## DNM: Recommendations
+* All LT recipients must be informed that they have a higher risk of developing skin cancer and should be educated about skin protection and regular dermatologist examinations. **(B1)**
+* All LT patients at risk of developing lung cancer must undergo LDCT chest imaging annually. **(B1)**
+* LT patients who have IBD should undergo colonoscopy annually, accompanied by random biopsies. **(B2)**
+* It is advised that the doses of CNI be kept as low as possible in patients recovering from LT to reduce the risk of developing DNM. **(B1)**
+* mTOR inhibitors can be used in CNI sparing or to minimize the dose of CNI regimens to prevent or treat DNMs following LT. **(C1)**
+
+## Infections: Mycobacteria Overview
+* Active tuberculosis (TB) in LT recipients usually occurs during the first year after LT.
+* It often results from the reactivation of latent TB infection (LTBI).
+* Only less than 5% are donor-derived cases.
+* LT recipients have an 18-fold increase in the prevalence of active TB compared with the general population.
+* Characteristically, approximately one-third to one-half of active TB cases after transplantation are cases of disseminated or extra-pulmonary TB.
+
+## Tuberculosis (TB): Risk Factors
+* Well-known risk factors for the development of symptomatic TB after LT include:
+  * Prior infection with TB
+  * Intense immunosuppression (especially T-cell depleting agents)
+  * Diabetes mellitus (DM)
+  * Coinfections with CMV, mycoses, Pneumocystis jirovecii, and Nocardia
+
+## TB: Clinical Manifestations
+* The clinical manifestations of TB in LT recipients can differ from those in the general population.
+* Fever is almost always present, particularly among those with disseminated disease.
+* Constitutional symptoms (e.g., night sweats and weight loss) are frequently observed.
+* The lung is the most frequently involved site with varying radiographic findings (infiltrates, nodules, pleural effusions, cavitary lesions).
+* TB infection can involve diverse, unsuspected, and elusive sites; a high index of suspicion is required.
+
+## TB: Standard Treatment Regimens
+* The standard treatment for active TB is a 4-drug combination for the first 2 months:
+  * Isoniazid
+  * Rifampin
+  * Pyrazinamide
+  * Ethambutol
+* Followed by isoniazid and rifampin for an additional 4 months.
+* Fluoroquinolones are useful alternatives for LT recipients with hepatic dysfunction.
+* Treatment should be selected considering the hepatic reserve of the recipient, after consultations with infectious disease specialists.
+
+## TB: Drug-Drug Interactions and Hepatotoxicity
+* A rifamycin-containing regimen is strongly recommended given its potent efficacy.
+* Rifabutin, which has fewer drug-drug interactions with CNIs, can replace rifampin.
+* Approximately 50% of LT recipients may develop drug-induced hepatotoxicity with anti-TB agents; hence, careful monitoring is needed.
+* LT recipients with active TB have a fourfold increase in mortality rate compared with the general population.
+
+## Non-Tuberculous Mycobacteria (NTM)
+* The incidence of NTM infections is estimated to be 0.04% in LT recipients.
+* The most common pathogens are *Mycobacterium abscessus* and *Mycobacterium avium* complex.
+* NTM infection in the form of pleuropulmonary disease is most prevalent, followed by disseminated disease.
+* Skin, soft tissue, musculoskeletal, catheter-associated, and lymphadenitis infections have also been reported.
+* A multidrug regimen is preferred for 3 months to 2 years. Secondary prophylaxis is not routinely recommended.
+
+## Infections: HIV Overview
+* A study of LT recipients (2008–2018) reported that 0.6% of HIV-infected patients required LT, and this proportion has significantly increased over time.
+* HIV-infected LT recipients treated with highly active antiretroviral therapy (ART) have no increase in the risk of opportunistic infections.
+* No progression of HIV to AIDS after LT has been observed in previous experiences.
+* LT in HIV-infected patients has complexities related to the management of acute rejection and drug-drug interactions.
+
+## HIV: Indications and Shift in Etiology
+* Recently, non-viral liver disease has become the leading indication among HIV-infected LT recipients.
+* **Predominant Etiologies:** NASH and Alcohol-Related Liver Disease (ALD).
+* This shift signifies the tremendous impact of DAAs, increasing metabolic conditions, and the metabolic effects of ARTs, corticosteroids, and CNIs.
+
+## HIV: ART Management Post-LT
+* In general, ARTs used at pre-LT are maintained after LT because they were effective in controlling viral replication.
+* LT recipients receiving ART should undergo regular assessment for viral loads of HIV and T lymphocyte subset counts.
+* In HIV-infected LT recipients, prophylaxis directed against *Mycobacterium avium* complex (MAC) is required when the CD4+ T-cell count decreases to < 75 cells per cubic millimeter.
+
+## HIV: Drug-Drug Interactions with Immunosuppressants
+* Protease inhibitors (PIs), non-nucleoside reverse transcriptase inhibitors (NNRTIs), and pharmacokinetic enhancers (e.g., cobicistat) affect CsA, Tac, and mTOR inhibitors.
+* The use of once-daily single tablet combination regimens should be used with caution as many contain cobicistat.
+* If the ART regimen cannot be modified to remove PIs, NNRTIs, or cobicistat, dose adjustments of CNIs and mTOR inhibitors will be necessary.
+
+## HIV: HCV Coinfection and DAA Era
+* Special consideration must be given to HIV/HCV coinfected LT recipients.
+* First-generation DAA treatment required combination with IFN and ribavirin, which had complex interactions.
+* In 2013, IFN-free DAAs were discovered, with cure rates approaching 100%, including in HIV-infected LT recipients.
+* Advanced NS5A inhibitors enabled combination treatment of DAA, ART, and immunosuppressants, resulting in fewer drug-drug interactions.
+* The introduction of DAAs turned the almost inevitable fatal course of HCV into a curative outcome.
+
+## HIV: Recommendations
+* HIV-infected LT recipients receiving ART need close monitoring of CNI levels, especially on regimens that include PIs. **(A1)**
+* Regular assessment for HIV viral loads and T lymphocyte subset counts is required in HIV-infected LT recipients receiving ART. **(A1)**
+
+## Infections: COVID-19 Overview
+* The incidence and risk of infection with SARS-CoV-2 in LT recipients remain unclear.
+* The risk of SARS-CoV-2 infection in LT recipients is comparable to that of the general population.
+* However, LT recipients have a significantly higher risk of hospitalization and severe disease.
+* **Significant risk factors for severe COVID-19:**
+  * High Charlson comorbidity index
+  * Male gender
+  * Dyspnea at diagnosis
+  * Baseline immunosuppression containing MMF (particularly > 1000 mg/day)
+
+## COVID-19: Clinical Features and Imaging in LT
+* Generally, fever is the first symptom, but there may be only low-grade or no fever in LT recipients.
+* Other common symptoms: dry cough, loss of smell/taste, fatigue, anorexia, nausea, myalgia, diarrhea.
+* COVID-19 may progress rapidly to acute respiratory distress syndrome (ARDS) due to their immunosuppressed status.
+* **Imaging:** Multiple ground-glass opacities, infiltrates, and lung consolidation.
+* LT recipients tend to have more extensive, multiple, and lower lung lobe involvement compared to the general population.
+* LT patients have significantly higher mean levels of creatinine, total bilirubin, and alkaline phosphatase.
+
+## COVID-19: Medical Therapy and Drug Interactions
+* LT recipients are at high risk of adverse events from drug-drug interactions, especially with CNIs or mTOR inhibitors.
+* **Remdesivir:** Early administration significantly decreased hospitalization without deleterious effects on allograft or renal function.
+* **Paxlovid:** Promising, but contains ritonavir, causing significant risks related to drug interactions.
+  * Avoid when close monitoring of CNI concentrations is not feasible.
+  * Concomitant use of EVR, sirolimus, and Paxlovid should be avoided.
+
+## COVID-19: Immunosuppression Management
+* In LT recipients without COVID-19, prophylactic reduction in immunosuppression is *not* recommended.
+* If LT recipients are infected with severe or rapidly progressing COVID-19, reducing the overall level of immunosuppression should be considered, particularly antimetabolite dosages.
+* Potential donors should be tested for the virus; those positive should be deemed ineligible to donate.
+* Recipients should be screened using rapid PCR testing; if positive, transplantation may be delayed until recovery.
+
+## COVID-19: Recommendations
+* All recipients and donors should be screened for SARS-CoV-2 using rapid PCR testing, and if found positive, transplantation may be delayed until after recovery. **(B1)**
+* In post-transplant patients with COVID-19, consider lowering the overall level of immunosuppression. **(C1)**
+* Closely monitor the drug levels of immunosuppressants when administered together with COVID-19 therapies. **(B1)**
+
+
+## Immunization in LT Recipients: Overview
+* Infection in LT recipients results in markedly increased morbidity and mortality.
+* Antimicrobial therapy is often less effective than in the immunocompetent host.
+* Vaccination is a critical preventive strategy, though there are concerns it might trigger rejection.
+* However, many studies have shown no causal association between vaccination and organ rejection.
+* It is common to wait for at least 3–12 months after LT before administering vaccines once maintenance immunosuppression has been achieved.
+
+## Timing of Specific Vaccinations
+* **Influenza Vaccine:** An exception during outbreaks; inactivated vaccine should be given as early as 1–3 months post-LT.
+* **COVID-19 Vaccine:** Recommended to wait at least 1 month post-LT, preferably with the mRNA vaccine.
+* **Varicella-Zoster:** Recent studies report the recombinant zoster vaccine is safe and effective for varicella-seronegative transplant recipients.
+* Timing must balance the waning of peri-transplant passive immunity with the need to avoid vaccine-induced immune activation.
+
+## Live Vaccines: General Guidelines
+* Live vaccines are generally contraindicated after LT due to the risk of unchecked replication of attenuated vaccine strains.
+* Administration of live vaccines (measles, mumps, rubella, varicella) prior to transplantation is highly recommended.
+* **BCG Vaccination:** In TB-endemic Asian countries, BCG is routinely given at birth.
+* However, live *Mycobacterium bovis* BCG vaccination is not recommended for recipients after LT.
+* Post-LT, vigilance for TB symptoms and regular screening for new exposures are essential.
+
+## Live Vaccines in Pediatric LT
+* Recent studies on pediatric LT suggest that live virus vaccinations might be safe after LT.
+* Vaccines such as varicella, measles, mumps, and rubella (MMR) have been administered safely in select cohorts.
+* Larger-scale studies are needed to evaluate the effectiveness and safety of live virus vaccination in relation to specific immunosuppressive regimens.
+* Careful risk-benefit analysis is required for each pediatric patient.
+
+## Inactivated Vaccines: Hepatitis and Tetanus
+* **Hepatitis B:** Periodically monitor hepatitis B surface antibody (anti-HBs) titers 4 weeks after the last vaccine dose.
+* Revaccination is indicated for non-responders or those with anti-HBs < 10 IU/mL.
+* **Hepatitis A:** Monitoring total anti-HAV is indicated only if there is an ongoing risk for exposure (e.g., planned travel to a high-risk area).
+* **Tetanus:** If the recipient had no tetanus booster in the past 10 years, Tdap vaccination is recommended post-LT.
+* All routine vaccinations recommended for the general population should be administered if possible.
+
+## Immunization Recommendations
+* Influenza vaccine (annually) and pneumococcal vaccine (every 5 years) after LT are recommended for re-immunization. **(B1)**
+* Live vaccines are generally contraindicated post-LT, though pediatric exceptions exist under strict monitoring.
+* Ensure all routine inactivated vaccines (Hepatitis B, Tetanus) are up to date, monitoring titers as necessary.
+
+## Drug-Induced Liver Injury (DILI): Overview
+* LT recipients frequently use multiple medications to prevent rejection and treat comorbidities.
+* This polypharmacy places them at an increased risk for developing drug-induced liver injury (DILI).
+* Precise diagnosis of DILI in LT recipients is highly challenging.
+* It requires ruling out all possible causes of graft dysfunction.
+* Currently, there is no specific non-invasive tool to assess the causal relationship between drug use and liver injury.
+
+## DILI: Incidence and Causative Agents
+* In a US retrospective study, 1.7% of LT recipients were diagnosed with DILI.
+* The median duration of drug use prior to diagnosis was 57 days (mostly within the first 150 days).
+* **US Cohort:** Antibiotics (48%) were the most common cause, followed by immunosuppressants (14%).
+* **Chinese Cohort:** Antifungal drugs were the most common cause (29%) of biopsy-proven DILI.
+* Mild to moderate DILI is likely underreported; actual clinical incidence may be higher.
+
+## DILI: Diagnostic Challenges
+* Diagnosing DILI requires a diagnosis of exclusion in the post-LT setting.
+* Clinicians must differentiate DILI from:
+  * Acute or chronic rejection
+  * Recurrence of the underlying liver disease
+  * Ischemic injury
+  * Opportunistic infections (e.g., CMV, hepatitis)
+  * Vascular or biliary complications
+* A high index of suspicion and a systematic approach are mandatory.
+
+## DILI: Diagnostic Approach Step 1 & 2
+* **Step 1: Initial Screening**
+  * Screen for hepatotoxic drugs.
+  * Consider the dose, duration, and time interval between treatment initiation and lab abnormalities.
+* **Step 2: Exclusion of Graft Dysfunction Causes**
+  * Perform Doppler ultrasound of the graft.
+  * Measure immunosuppressive agent levels.
+  * Rule out rejection, recurrence, ischemia, and infections.
+
+## DILI: Diagnostic Approach Step 3 & Definitive Diagnosis
+* **Step 3: Drug-Drug Interactions (DDIs)**
+  * Evaluate DDIs between immunosuppressants and other agents.
+  * DDIs may induce liver injury directly or decrease immunosuppression, leading to rejection.
+  * Statins, anti-HCV, anti-HIV, and anti-TB agents require special caution.
+* **Definitive Diagnosis:**
+  * Made by withdrawing the suspect drug and observing liver function recovery.
+  * In uncertain situations, a liver biopsy should be considered to confirm the diagnosis.
+
+## DILI Recommendations
+* When DILI is suspected in an LT recipient, screening for hepatotoxic agents, exclusion of other causes of graft dysfunction, and consideration of DDI with immunosuppressive agents are required. **(B2)**
+* Liver biopsy remains the gold standard when non-invasive exclusion criteria are inconclusive.
+
+## Reproductive Health: Impact of LT
+* LT significantly improves gonadal function in females with end-stage liver disease.
+* It provides a much greater probability of achieving pregnancy.
+* Menstruation can occur as early as 1–2 months post-LT.
+* 70–95% of patients experience normalization of menses within a year.
+* However, anovulation and gynecological pathologies can occur if an imbalance between progesterone and estrogen persists.
+
+## Sexual Function and Gonadal Recovery
+* LT improves several factors affecting sexual function.
+* However, it has limited efficacy in fully restoring pre-transplant sexual dysfunction.
+* In male patients, free testosterone levels increase after LT.
+* Despite hormonal improvements, the recovery of gonadal function remains incomplete in some male patients.
+
+## Pregnancy Post-LT: Timing and Risks
+* **Timing:** Delaying conception for at least 1 year after LT is strongly recommended.
+* Conceiving within 1 year is associated with increased risks of prematurity, low birth weight (LBW), and acute cellular rejection (ACR).
+* A transplant-to-conception interval of > 2 years is associated with reduced rates of LBW, rejection, and graft loss.
+* Pregnant LT recipients face a two- to threefold increase in pregnancy-induced complications.
+
+## Maternal Outcomes: Hypertension and Rejection
+* Maternal death rates are comparable to the general population (0–1%).
+* **Pregnancy-Induced Hypertension (PIH):** Higher rates in LT recipients (16–30%) vs. controls (9%).
+* **Pre-eclampsia:** Reported rates of 7–12%, gradually decreasing with better immunosuppression management.
+* **Graft Rejection:** Highly variable rates (0–20%). Postpartum graft rejection ranges from 3% to 12%.
+* Graft loss during pregnancy due to ACR is rare, but chronic rejection can occur postpartum.
+
+## Maternal Outcomes: Metabolic and Hemorrhagic Risks
+* **Gestational Diabetes (GD):** Rates vary from 0% to 11%.
+* Population-based studies show GD is significantly higher in LT recipients (8.6%) vs. the general population (5.4%).
+* **Hemorrhage:** Antepartum hemorrhage rates are comparable to the general population.
+* However, postpartum hemorrhage is significantly more prevalent in LT recipients (8% vs. 3%).
+* Urinary infections are also more frequent during pregnancy in LT recipients.
+
+## Fetal Outcomes: Birth Weight and Prematurity
+* The live birth rate in pregnancies of LT recipients is 65% and increasing over time.
+* Spontaneous abortion rates range from 11% to 19%.
+* Stillbirth rates are low (0–1.2%).
+* **Preterm Birth:** Very common, ranging from 14% to 53% (much higher than the 14% general population rate).
+* Mean birth weight is significantly lower in LT recipients (2866 g) vs. the general population (3298 g).
+
+## Fetal Outcomes: IUGR and Congenital Risks
+* **Intrauterine Growth Restriction (IUGR):** Rates vary between 5% and 20%.
+* IUGR is statistically more frequent in LT recipients compared to the general population.
+* **Congenital CMV:** Recurrent CMV in females on immunosuppression can cause congenital infection.
+* Untreated congenital CMV can lead to hydrops fetalis, stillbirth, mental retardation, or sensory loss.
+* **Congenital Abnormalities:** Low rates (0–4%), with no clear evidence that malformation rates differ from the general population.
+
+## Immunosuppression During Pregnancy: Overview
+* The choice of immunosuppression must balance graft maintenance against fetal risks.
+* Maintenance of immunosuppressive therapy is generally recommended to prevent rejection.
+* Systematic reviews show the compatibility of Azathioprine (AZA), Cyclosporine (CsA), Tacrolimus (Tac), and glucocorticosteroids in pregnancy and lactation.
+* However, specific agents require strict avoidance or careful monitoring.
+
+## Safe Immunosuppressants: Tacrolimus and Steroids
+* **Tacrolimus (Tac):** Appears effective and safe for maintaining adequate immunosuppression during pregnancy.
+* **Corticosteroids:** Generally safe during pregnancy.
+* *Caution:* High-dose or prolonged systemic corticosteroids could lead to the development of IUGR.
+* CNI and steroid levels must be closely monitored with dose adjustments for the increased blood volume during the second half of pregnancy.
+
+## Cyclosporine and Azathioprine Considerations
+* **Cyclosporine (CsA):** Does not increase the risk of congenital malformations compared to non-exposed patients.
+* However, a moderate risk of IUGR exists with CsA use.
+* **Azathioprine (AZA):** Should be avoided if possible.
+* AZA is associated with an increased risk of auditory nerve agenesis in children.
+* Alternative regimens should be considered for females planning pregnancy.
+
+## Contraindicated Immunosuppressants
+* **Mycophenolate Mofetil (MMF):** A confirmed teratogen.
+* Associated with an increased rate of spontaneous abortion and congenital malformations.
+* MMF must *not* be used during pregnancy.
+* **mTOR Inhibitors (Sirolimus/Everolimus):** Also to be avoided in pregnancy due to lack of safety data and potential fetal toxicity.
+
+## Postpartum Care and Breastfeeding
+* Several weeks of fluid retention and normalization occur after delivery.
+* This leads to changes in immunosuppressant levels; repeated tests are required within a month postpartum.
+* **Breastfeeding:** International consensus suggests it is not an absolute contraindication.
+* Breastfeeding with CsA is not strictly contraindicated in clinical practice.
+* However, the American Academy of Pediatrics recommends against breastfeeding with CsA due to concerns regarding possible immunosuppression in infants.
+
+## Pregnancy Recommendations
+* Pregnancy should be delayed for at least 1 year after LT and attempted when patients have stable allograft function, are on maintenance doses, and have no serious complications. **(A2)**
+* Tac is safe and effective; CsA and prednisone can be used. **(B1)**
+* MMF or mTOR inhibitors must be avoided in pregnancy. **(B1)**
+* Continuation of steroids is safe. **(A1)**
+* CNIs should be maintained at therapeutic levels throughout pregnancy. **(B1)**
+
+## Psychological Distress: Overview
+* Major psychiatric illness, active drug use, and alcohol consumption are consolidated contraindications for LT.
+* They are associated with low compliance and graft injury.
+* The rate of recidivism in patients with polysubstance abuse disorders is nearly 27%, though not directly related to post-LT survival.
+* Alcohol use disorders are related to approximately a third of mood disorders.
+
+## Prevalence of Depression and Anxiety
+* Depression is a common clinical problem in LT.
+* 15% of LT candidates have one or more depressive symptoms.
+* Anxiety and neuroticism are significant in 31.1% of LT candidates.
+* These psychological factors are associated with worse psychosocial outcomes 1 year after LT.
+* Pre-LT psychological evaluation and intervention are critical components of the multidisciplinary assessment.
+
+## Impact of Depression on LT Outcomes
+* The impact of depression on graft survival is debated.
+* One prospective cohort study found pre-LT depressive symptoms were associated with a 3- to 4-fold *decrease* in the risk of graft failure and mortality.
+* Conversely, a retrospective study reported pre-LT depression was not associated with graft rejection or mortality.
+* However, patients on effective antidepressant therapy had a lower rate of ACR compared to those not on antidepressants.
+
+## Long-Term Impact of Untreated Depression
+* Long-term transplant outcomes (10 years post-LT) highlight the danger of untreated psychological distress.
+* LT recipients with unsuccessfully treated depression had a substantially higher mortality rate of 68%.
+* This compares to 48% in those who received effective antidepressants and 44% in non-depressed patients.
+* Efficient psychosocial treatments are more closely related to patient survival than viral replication, MELD score, or donor age.
+
+## Coping Strategies and Psychosocial Treatment
+* A transplant is a highly stressful event but can help patients develop new adaptive strategies (post-traumatic growth).
+* Active coping, instrumental support, emotional support, and acceptance are significant predictors of post-traumatic growth.
+* The coping strategy (abilities used to face stressful situations) is the mainstay of psychosocial treatment.
+* Patients should be encouraged to use action-oriented methods and avoid passive reactions that negatively impact prognosis.
+* Active coping is a relevant predictor of a short duration of hospitalization after LT.
+
+## Psychological Distress Recommendations
+* Active psychosocial treatment is required in LT candidates who have psychological distress to improve the post-LT outcome. **(B1)**
+* Multidisciplinary teams must help patients develop a positive attitude and attain post-traumatic growth.
+* Effective management of depression and anxiety is as crucial to long-term survival as medical and surgical management.
+
+## Summary of APASL Guidelines
+* Liver transplantation is a highly complex, multidisciplinary field.
+* The Asia-Pacific region's unique reliance on Living Donor Liver Transplantation (LDLT) necessitates region-specific guidelines.
+* These guidelines cover the entire LT journey: candidate evaluation, surgical techniques, immunosuppression, and long-term management.
+* Emphasis is placed on balancing the prevention of graft rejection with the minimization of drug toxicity and infection risks.
+
+## The Multidisciplinary Approach
+* Successful LT outcomes rely on the seamless integration of hepatologists, transplant surgeons, intensivists, infectious disease specialists, and mental health professionals.
+* From managing complex portal vein thrombosis to navigating the ethical dilemmas of organ allocation, teamwork is paramount.
+* Long-term care requires vigilant surveillance for de novo malignancies, systemic diseases (CKD, DM), and recurrence of the original disease.
+
+## Future Directions in Liver Transplantation
+* The transplant landscape is continuously evolving with novel technologies and therapies.
+* Machine perfusion strategies are improving the quality of Extended Criteria Donors (ECD) and DCD grafts.
+* Direct-acting antivirals (DAAs) have revolutionized the management of HCV, altering waitlist dynamics.
+* Continued prospective validation of scoring systems (like AARC for ACLF) and downstaging protocols for HCC will refine patient selection.
