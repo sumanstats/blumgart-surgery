@@ -1,2 +1,9 @@
 # 62 Pancreatic Cancer: Clinical Aspects, Assessment, and Management
 
+::: {.panel-tabset}
+
+## Imaging PDAC
+
+{{< reveal Extras/pancreas/imaging_pdac >}}
+
+:::

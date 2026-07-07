@@ -1,0 +1,585 @@
+---
+title: "Updates on Imaging Assessment of Pancreatic Cancer"
+author: "Lee et al., Korean Journal of Radiology 2026;27(7):634-651"
+format: revealjs
+---
+
+
+## Background: PDAC Lethality
+- Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy
+- Reported five-year survival rate of approximately 10%
+- Complete surgical resection is the only potentially curative treatment
+- Only 20% of newly diagnosed patients present with early-stage disease amenable to curative-intent resection
+
+## Evolution of Treatment Paradigms
+- Introduction of multiagent chemotherapy regimens has changed management
+- Neoadjuvant therapy (NAT) increasingly adopted as initial treatment
+- Expectation of improving surgical candidacy through conversion surgery
+- Goal of enhancing oncological outcomes in borderline and locally advanced disease
+
+## Central Role of Imaging
+- Imaging evaluation plays a central role in clinical decision-making
+- Pancreatic CT protocol remains the cornerstone for clinical staging
+- CT is the preferred first-line modality for assessing anatomical resectability
+- MRI and 18F-FDG PET/CT serve as valuable problem-solving tools
+
+## Limitations of Anatomical Resectability
+- High rate of recurrence after surgical resection even among anatomically resectable cases
+- Highlights limitations of treatment decisions based on anatomy alone
+- Emergence of biological resectability concept
+- Integration of imaging, laboratory, and biological biomarkers reflecting tumor aggressiveness
+
+## Restaging After Neoadjuvant Therapy
+- Patients initially treated with NAT require reassessment for curative resection
+- Radiological restaging is more challenging than initial staging
+- Imaging cannot reliably differentiate viable tumors from post-treatment fibrosis
+- Various approaches proposed to address these restaging challenges
+
+## Overview of Imaging Techniques
+- High-quality dedicated imaging of the pancreas required at initial presentation and at restaging
+- Most guidelines recommend pancreatic protocol CT or MRI as standard
+- Pancreatic protocol CT of the abdomen and pelvis is the preferred modality
+- Some guidelines also recommend chest CT for complete staging
+
+## Pancreatic CT Protocol: Technical Requirements
+- Multidetector CT scanners preferably with 64 or more detector rows
+- Thin detector collimation for high spatial resolution
+- Rapid intravenous contrast injection at 3 to 5 mL per second
+- Dual-phase imaging consisting of pancreatic and portal venous phases
+
+## Pancreatic Phase CT Imaging
+- Recommended scan time 40 to 50 seconds after intravenous contrast injection per NCCN
+- Many institutions employ bolus-tracking techniques to optimize timing
+- Provides maximal contrast between hypovascular tumor and enhanced normal parenchyma
+- Facilitates tumor detection and assessment of tumor contact with major arteries
+
+## Portal Venous Phase CT Imaging
+- Recommended scan time 65 to 70 seconds after contrast injection per NCCN
+- Optimal phase for evaluating venous tumor involvement
+- Best for assessing adjacent organ invasion
+- Preferred phase for detection of liver metastases
+
+## Delayed Phase CT Imaging
+- Performed in addition to biphasic imaging in some institutions
+- May improve detection of PDAC that appears isoattenuating on biphasic imaging
+- Particularly useful for revealing tumors not visible on standard dual-phase protocols
+- Optional but valuable problem-solving component
+
+## CT Image Reconstruction and Review
+- Images should be reconstructed using thin sections preferably 2 to 3 mm
+- Multiplanar reconstruction is strongly recommended
+- Coronal images should be routinely reviewed at a minimum
+- Critical for accurate assessment of tumor-vessel contact and anatomic variations
+
+## MRI: Role as a Problem-Solving Tool
+- Commonly used for identifying suspicious PDACs not clearly visible on CT
+- Particularly valuable for detecting hepatic metastasis
+- Accuracy of MRI for local tumor staging reported as comparable to CT
+- Offers distinct advantage in detecting small liver metastases
+
+## MRI Protocol for PDAC Assessment
+- Non-enhanced axial T1- and T2-weighted imaging
+- Diffusion-weighted imaging
+- T2-weighted MR cholangiopancreatography
+- Contrast-enhanced T1-weighted imaging during pancreatic, portal venous, and delayed phases with thin sections
+
+## MRI for Hepatic Metastases Detection
+- Meta-analyses demonstrate higher sensitivity than CT for liver metastases from PDAC
+- Similar specificity maintained compared to CT
+- Hepatobiliary phase imaging improves lesion conspicuity
+- Diffusion-weighted imaging particularly valuable for detecting minute metastases
+
+## 18F-FDG PET/CT: Staging Role
+- Not routinely recommended for initial PDAC staging
+- May be useful for detection of occult distant metastasis
+- Consider in patients with non-metastatic disease on routine CT who exhibit high-risk features
+- Indicated for markedly elevated CA 19-9, large primary tumors, or suspicious lymph nodes
+
+## PET/CT for Tumor Biology Assessment
+- Gained attention as a tool for predicting tumor aggressiveness
+- Provides quantitative information on tumor metabolic activity
+- Maximum standardized uptake value (SUVmax) serves as potential biomarker
+- Useful for assessing treatment response in patients receiving NAT
+
+## Imaging Assessment at Initial Diagnosis
+- Comprehensive imaging assessment required for all patients with suspected or known PDAC
+- Must evaluate distant metastasis and tumor resectability
+- Lymph node status and extra-pancreatic organ involvement assessed
+- Anatomic variations and other management-affecting findings documented
+
+## SAR and APA Consensus Statement
+- Published in 2014 by Society of Abdominal Radiology and American Pancreatic Association
+- Standardized terminology for radiology reporting in PDAC
+- Outlined essential components for systematic imaging assessment
+- Facilitates multidisciplinary discussion and consistent communication
+
+## Assessment of Tumor-Vessel Contact
+- For non-metastatic PDAC, resectability primarily determined by major vessel involvement
+- Major vessels include celiac artery, hepatic artery, superior mesenteric artery
+- Also includes variant arteries, portal vein, superior mesenteric vein, and inferior vena cava
+- Degree of contact classified into three main categories
+
+## Classification: No Contact
+- Defined as a preserved fat plane between the tumor and the vessel
+- Indicates absence of pathological vessel invasion
+- Best negative predictive value for excluding vascular invasion
+- Favorable prognostic indicator for resection
+
+## Classification: Abutment
+- Defined as solid tumor contact involving 180 degrees or less of vessel circumference
+- Further divided into abutment without vessel deformity
+- And abutment with deformity based on contour irregularities
+- Less specific than encasement for true invasion
+
+## Classification: Encasement
+- Defined as solid tumor contact involving greater than 180 degrees of vessel circumference
+- Highly predictive of true arterial invasion
+- High specificity and positive predictive value
+- Indicates advanced local disease often precluding straightforward resection
+
+## Additional Vascular Reporting Elements
+- Presence of vessel stenosis, obstruction, or thrombosis should be explicitly reported
+- Tumor extension to the first branch of SMA and SMV documented
+- Involvement of jejunal branches of SMA may affect resectability
+- Degree of contact associated with perivascular haziness also recommended
+
+## Perivascular Haziness Significance
+- May be observed after chemotherapy or radiation therapy
+- Reflects replacement of solid tumor by fibrosis, inflammation, or residual viable tumor
+- Can also occur in concomitant pancreatitis
+- Important context for interpreting post-treatment imaging
+
+## Figure 1: Tumor-Vessel Contact Diagrams
+- Upper row shows schematic diagrams of four categories
+- No contact shows preserved fat plane between tumor (T) and vessel (V)
+- Abutment shows tumor contacting 180 degrees or less
+- Abutment with deformity shows contact with visible wall indentation
+- Encasement shows tumor wrapping more than 180 degrees
+
+## Figure 1: CT Correlation Examples
+- Lower row demonstrates corresponding CT images
+- Pancreatic head cancer (arrowheads) with various degrees of involvement
+- Portal vein and superior mesenteric vein involvement shown (arrows)
+- Illustrates real-world application of contact classification system
+
+## Arterial Variants: Clinical Importance
+- Aberrant right or common hepatic arteries arising from SMA are particularly important
+- Especially relevant in pancreatic head PDAC
+- These variant arteries typically traverse the portocaval space
+- Therefore highly susceptible to involvement by pancreatic head cancers
+
+## Figure 2: Replaced Right Hepatic Artery
+- 77-year-old man with pancreatic head cancer
+- Axial arterial-phase CT images of two consecutive sections shown
+- Hypodense pancreatic head mass (arrowheads) visible
+- Replaced right hepatic artery (small arrows) arises from SMA (large arrow)
+- Artery traverses portocaval space posterior to pancreatic head
+
+## Perineural Tumor Spread: Definition
+- Pancreatic head PDACs may extend along extra-pancreatic neural plexuses
+- Surrounding peripancreatic vasculature
+- Referred to as perineural tumor spread
+- Distinct pattern of local invasion with major surgical implications
+
+## Perineural Spread Pathways and Imaging
+- On CT and MRI manifests as soft-tissue extension from primary tumor
+- Extends along inferior pancreaticoduodenal artery toward SMA
+- Along gastroduodenal artery toward celiac artery
+- Extends posteriorly from pancreatic head
+
+## Figure 3: Extensive Perineural Spread
+- 65-year-old man with small 1.5-cm pancreatic head tumor
+- Axial T1-weighted MR shows mass with lower signal intensity (arrow)
+- CT shows soft-tissue extension (arrowheads) toward SMA (arrow)
+- Coronal CT reveals solid infiltration encasing both celiac artery and SMA
+- Demonstrates extensive spread despite small primary tumor size
+
+## Surgical Significance: Portal Vein Involvement
+- Nakao et al. classified radiological PV involvement into four grades
+- Categories: absent, unilateral narrowing, bilateral narrowing, stenosis or obstruction
+- PV resection performed in 19.8%, 93.9%, 99.0%, and 100% respectively
+- Pathological PV wall invasion present in 0%, 51%, 74%, and 93%
+
+## Surgical Significance: Vein Contact Categories
+- Tran Cao et al. reported consistent findings in upfront resection cohort
+- Vein resection required in 11.1% with no contact, 25.0% with abutment, 100% with encasement
+- Pathologic vein invasion present in 3.7%, 16.1%, and 100% respectively
+- Absence of contact indicates absence of invasion; encasement indicates high likelihood
+
+## Arterial Invasion: Optimal CT Threshold
+- Noda et al. evaluated tumor-vessel contact in 128 patients with PDAC
+- Any solid tumor contact: sensitivity 100%, specificity 93%, NPV 100%
+- Optimal threshold for detecting arterial invasion
+- Excellent negative predictive value for excluding arterial involvement
+
+## Arterial Encasement Specificity
+- Solid tumor contact greater than 180 degrees: specificity 97% to 99%
+- Positive predictive value 44% to 67% for arterial invasion
+- Another study of 105 patients: sensitivity 88%, specificity 94%, NPV 99%
+- Arterial encasement highly predictive; abutment sensitive but less specific
+
+## Anatomical Tumor Resectability: NCCN Criteria
+- NCCN criteria most widely used for assessing anatomical resectability
+- Non-metastatic PDAC categorized as resectable, borderline resectable, or locally advanced
+- Based primarily on extent of tumor-vessel contact
+- Determines likelihood of achieving margin-negative R0 resection
+
+## Resectable Disease Criteria
+- No tumor contact with major arteries
+- No tumor contact with major veins, or venous abutment without deformity
+- Associated with highest probability of R0 resection
+- Traditional standard for upfront surgical resection
+
+## Borderline Resectable: Venous Criteria
+- Tumor abutment with deformity or encasement of major veins
+- Includes portal vein, superior mesenteric vein, and inferior vena cava
+- Must be amenable to safe venous resection and reconstruction
+- Limited longitudinal extent without extensive branch vessel involvement
+
+## Borderline Resectable: Arterial Criteria
+- Pancreatic head tumors with abutment of common hepatic artery, SMA, or variant hepatic artery
+- Pancreatic body or tail tumors with abutment of celiac artery
+- Short-segment common hepatic artery involvement without extension to celiac artery or bifurcation
+- Tumor involvement at gastroduodenal artery root equivalent to hepatic artery involvement
+
+## Borderline Resectable Subclassification
+- BR-PV defined as portal vein or superior mesenteric vein involvement alone
+- BR-A defined as arterial involvement of any major artery
+- Rationale: BR-A tumors associated with worse prognosis
+- Greater risk of incomplete resection and increased perioperative morbidity
+
+## Figure 4A: SMV Abutment with Deformity
+- Axial portal venous-phase CT image
+- Hypodense pancreatic head mass (T) abutting superior mesenteric vein (arrow)
+- Associated vessel deformity and stenosis visible
+- Classic example of borderline resectable venous criteria
+
+## Figure 4B: IVC Abutment
+- Axial portal venous-phase CT image
+- Hypodense pancreatic head mass (T) abutting inferior vena cava (arrow)
+- Loss of intervening fat plane (arrowheads)
+- Meets borderline resectable criteria for venous involvement
+
+## Figure 4C: Combined SMV and SMA Abutment
+- Axial portal venous-phase CT image
+- Pancreatic head mass (T) abutting SMV with deformity (small arrow)
+- Also abutting superior mesenteric artery (large arrow)
+- Solid tumor contact with loss of fat plane (arrowhead)
+- Demonstrates combined venous and arterial borderline features
+
+## Figure 4D: Celiac Artery Abutment in Body/Tail Tumor
+- Axial portal venous-phase CT image
+- Pancreas body or tail mass (T) abutting celiac artery (arrow)
+- Characteristic location-based criterion for body or tail tumors
+- Borderline resectable arterial involvement for this tumor location
+
+## Figure 4E: GDA and Common Hepatic Artery Involvement
+- Coronal arterial-phase CT image
+- Small pancreatic head mass (arrowheads) abutting gastroduodenal artery (small arrow)
+- Short segment of common hepatic artery involved (large arrow)
+- Surgery confirmed involvement; required short segmental resection with end-to-end anastomosis
+
+## Locally Advanced Disease: Definition
+- Extensive involvement of major vessels precluding complete surgical resection
+- Includes encasement of superior mesenteric artery or celiac artery
+- Tumor involvement of both celiac artery and abdominal aorta
+- Unreconstructible portal vein-superior mesenteric vein involvement
+
+## Figure 5: Hepatic Artery Involvement as Locally Advanced
+- 66-year-old woman with pancreatic head cancer
+- Coronal CT shows mass encasing gastroduodenal artery and involving common hepatic artery
+- Anatomic variation with short proper hepatic artery
+- Left and right hepatic arteries arise directly from common hepatic artery
+- Required hepatic artery resection and ligation; postoperative hepatic infarction resulted
+
+## Figure 6A-B: SMA Encasement with SMV Stenosis
+- Axial arterial-phase and coronal portal venous-phase MIP images
+- Hypodense pancreatic head mass with SMV abutment and deformity (small arrow)
+- Superior mesenteric artery encasement (large arrow)
+- MIP clearly depicts SMV stenosis
+- Locally advanced due to arterial encasement
+
+## Figure 6C-D: Long-Segment Unreconstructible Vein Involvement
+- Axial portal venous-phase and coronal ray-sum images
+- Pancreatic head mass with SMV abutment and deformity (small arrows)
+- SMA abutment (large arrows)
+- Coronal image shows long-segment involvement of SMV and tributaries
+- Dashed lines indicate estimated extent; considered locally advanced
+
+## Figure 7: Appleby Procedure for Celiac Axis Resection
+- 65-year-old woman with pancreatic body cancer
+- Preoperative CT shows tumor encasing common hepatic artery with extension to celiac artery
+- Patent superior mesenteric artery and gastroduodenal artery without involvement
+- Postoperative CT shows clips ligating celiac artery at origin
+- Distal pancreatectomy with celiac artery resection performed successfully
+
+## Lymph Node Metastasis: Imaging Features
+- Suspicious features include short-axis diameter greater than 1 cm
+- Abnormal round morphology
+- Heterogeneity or central necrosis
+- Location within lymphatic drainage pathways of primary tumor
+
+## Lymph Node Metastasis: Regional vs Distant
+- Only lymph nodes within surgical resection boundaries considered regional
+- Lymph node metastases beyond surgical fields classified as distant metastases
+- CT and MRI have limited sensitivity for detecting nodal metastasis
+- Reported CT sensitivity 23.5% and specificity 89.9%
+
+## PET/CT for Lymph Node Assessment
+- May complement CT or MRI in detecting metastatic lymph nodes
+- Standalone PET/CT also has limited sensitivity
+- Combined contrast-enhanced CT and PET/CT yields low sensitivity of 22.4% to 32.0%
+- Despite limited sensitivity, suspicious nodes are consistently adverse prognostic factor
+
+## Adjacent Organ Invasion: General Principles
+- Technically resectable extra-pancreatic organ invasion not a determinant of PDAC resectability
+- Invasion necessitates additional resection and modified surgical approach
+- Particularly concerning in pancreatic tail tumors
+- Less likely to involve major vessels but more frequently invade adjacent organs
+
+## Adjacent Organ Invasion in Tail Tumors
+- Commonly invades spleen, stomach, colon, jejunum, kidney, and adrenal gland
+- Solid tumor contact with adjacent organs with or without contour deformity
+- Optimal CT criterion: sensitivity 91.2% and specificity 96.0%
+- Technically resectable invasion does not adversely affect margin status or survival
+
+## Figure 8: Tail Cancer with Central Necrosis and Organ Invasion
+- 65-year-old man with pancreatic tail mass
+- Central necrosis appearing as non-enhancing area within tumor
+- Maximal dimension 4.5 cm; CA 19-9 markedly elevated at 2,216 U/mL
+- Coronal CT shows suspected invasion of stomach and proximal jejunum
+- Pathology revealed undifferentiated carcinoma of sarcomatoid type
+
+## Celiac Artery and SMA Stenosis: Recognition
+- Important in patients undergoing pancreaticoduodenectomy
+- Arterial perfusion of hepatic, gastric, and mesenteric circulations may depend on collaterals
+- Pancreaticoduodenal arcade typically resected during procedure
+- Unrecognized stenosis may lead to hepatic, gastric, or mesenteric ischemia
+
+## Figure 9: Nonocclusive Mesenteric Ischemia
+- 74-year-old woman after pancreaticoduodenectomy for IPMN
+- Severe stenosis at superior mesenteric artery orifice
+- Celiac artery and gastroduodenal artery enlarged as collateral pathway
+- Postoperative CT shows ileus and decreased enhancement of ileum and ascending colon
+- Due to mesenteric hypoperfusion after loss of collateral perfusion
+
+## Biological and Conditional Factors: Introduction
+- Achieving margin-negative resection has traditionally been the primary surgical goal
+- High recurrence rates persist even after R0 resection in anatomically resectable disease
+- One-year recurrence-free survival only 45% after upfront resection for resectable PDAC
+- 49% even among those achieving R0 resection
+
+## Biological Resectability Concept
+- Emphasizes consideration of high-risk features suggesting aggressive tumor biology
+- Goes beyond anatomic tumor extent alone
+- Integration of imaging, laboratory, and biological biomarkers
+- Patients with resectable anatomy but high-risk features may be better classified as borderline resectable
+
+## Potential Biological Factors
+- Serum carbohydrate antigen 19-9 levels
+- Imaging tumor phenotype and morphological characteristics
+- Lymph node status
+- Metabolic activity on 18F-FDG PET/CT expressed as SUVmax
+
+## Conditional Factors
+- Host-related factors associated with postoperative morbidity and mortality risk
+- Eastern Cooperative Oncology Group performance status most commonly used
+- Modified Glasgow prognostic score
+- Neutrophil-to-lymphocyte ratio
+- Onodera prognostic nutritional index
+
+## A-B-C Approach to Clinical Staging
+- A: Anatomical resectability
+- B: Biologic factors such as CA 19-9 level greater than 500 U/mL
+- C: Patient condition such as ECOG performance status
+- Provides better survival stratification than anatomical resectability alone
+- Validated in cohort treated with modified FOLFIRINOX
+
+## Imaging Phenotype: Delta Metric
+- Koay et al. reported quantitative delta metric on CT
+- Represents degree of enhancement difference between tumor and surrounding parenchyma
+- Conspicuous tumors with high delta values associated with lower stromal content
+- Higher prevalence of common pathway mutations, early metastasis, and shorter survival
+
+## Imaging Phenotype: Necrosis and Rim Enhancement
+- Tumors exhibiting necrosis on CT associated with poor prognosis
+- Rim enhancement at MRI predicts aggressive pathological features
+- Includes poor differentiation and lymph node metastasis
+- Contrast with favorable features such as isoattenuation on CT
+
+## Favorable Imaging Features
+- Visually isoattenuating tumors on CT suggested as favorable prognostic feature
+- Larger extracellular volume reflected by increased equilibrium-phase enhancement
+- Suggests less aggressive underlying tumor biology
+- Important counterpoints to necrosis and rim enhancement markers
+
+## Serum CA 19-9: Prognostic Value
+- Tumor-associated antigen most widely used to assess PDAC
+- Pretreatment level correlated with tumor stage and survival outcomes
+- Relevant for both surgical resection and chemotherapy outcomes
+- Enables prognostic stratification of patients with resectable PDAC undergoing curative-intent surgery
+
+## CA 19-9: High-Risk Threshold
+- Ushida et al. stratified patients using 500 U per mL threshold
+- Both anatomical resectability and CA 19-9 category were independent prognostic factors
+- Resectable PDAC with high CA 19-9 showed worse survival than resectable with low levels
+- Comparable survival to borderline resectable disease suggests potential indication for NAT
+
+## CA 19-9: Limitations
+- Not specific to PDAC; elevated in biliary obstruction and cholangitis
+- Should be measured after adequate biliary drainage with bilirubin less than 2.0 mg per dL
+- Lewis antigen-negative individuals, 5% to 10% of East Asians, cannot synthesize CA 19-9
+- No universally established cutoff; inter-assay variability precludes interchangeability
+
+## 18F-FDG PET/CT: SUVmax Prognosis
+- Pretreatment tumor SUVmax greater than 5.5 predicts worse survival after resection
+- Pretreatment SUVmax greater than 7.5 associated with worse outcomes after NAT
+- Evidence supporting tumor SUVmax as prognostic marker remains limited
+- Additional well-designed large-scale studies warranted
+
+## Multivariable Risk Models: Overview
+- Pretreatment risk stratification clinically relevant for resectable PDAC
+- Both upfront resection and NAT are valid treatment options
+- Models developed to predict early recurrence or death following upfront resection
+- Multiple representative preoperative models published
+
+## Table 2: Nakamura et al. 2018
+- Primary outcome: Overall survival
+- Predictors: Tumor location in head, tumor size greater than 2 cm on CT, serum CA 19-9 greater than 100 U per mL
+- Application: Patient stratification according to overall survival
+- Early model establishing baseline preoperative risk assessment
+
+## Table 2: Kim et al. 2020
+- Primary outcome: Recurrence-free survival
+- Predictors: CT variables including tumor size, portal venous phase density, necrosis, peripancreatic infiltration, suspicious metastatic lymph nodes
+- C-index of 0.68 in temporal validation
+- Purely imaging-based risk score approach
+
+## Table 2: Crippa et al. 2024
+- Primary outcome: Futile pancreatectomy defined as death or recurrence within 6 months
+- Predictors: Tumor size on CT, serum CA 19-9 level, American Society of Anesthesiology class
+- C-index of 0.65 in external validation
+- Focus on preventing non-beneficial surgery
+
+## Table 2: Jeong et al. 2024
+- Primary outcome: Recurrence-free survival
+- Predictors: Tumor size on CT, tumor SUVmax on PET/CT, serum CA 19-9, suspicious regional lymph node on CT or PET/CT, suspicious metastasis on PET/CT
+- C-index of 0.61 in temporal validation
+- Multimodality approach incorporating metabolic imaging
+
+## Table 2: Schouten et al. 2024
+- Primary outcome: Overall survival
+- Predictors: Anatomic resectability, serum CA 19-9 level 500 U per mL or greater, ECOG performance status 2 or greater
+- Patient stratification according to overall survival using A-B-C factors
+- Nationwide validation of comprehensive staging approach
+
+## Treatment Strategy: R0 Resection Rates by Stage
+- Data from cohort of 616 patients with PDAC
+- Among patients undergoing upfront resection: R0 rates 73% resectable, 55% borderline, 16% locally advanced
+- When all patients considered including non-surgical: 71%, 45%, and 4% respectively
+- Clear differences in surgical outcomes drive treatment strategy selection
+
+## Borderline and Locally Advanced: NAT Standard
+- Introduction of multiagent chemotherapy led to increasing NAT adoption
+- For borderline resectable PDAC, NAT associated with higher R0 rates and improved survival versus upfront surgery
+- NAT has become standard initial treatment for borderline resectable disease
+- Preferred regimens: FOLFIRINOX or gemcitabine combined with albumin-bound paclitaxel
+
+## Conversion Surgery After NAT
+- Patients without disease progression during NAT should be considered for conversion surgery
+- Restaging typically determined through multidisciplinary discussion
+- For locally advanced PDAC, systemic chemotherapy with or without stereotactic radiotherapy recommended
+- Favorable treatment responders may subsequently undergo surgical resection
+
+## Resectable Disease: Evolving Paradigm
+- Traditionally upfront resection followed by adjuvant chemotherapy was standard
+- Recently NAT increasingly adopted even for resectable PDAC
+- Earlier guidelines recommended upfront resection primarily, reserving NAT for high-risk features
+- Guidelines updated since 2024 endorse NAT as initial strategy, upfront resection only for patients without high-risk features
+
+## Unresolved Issues in Resectable PDAC
+- NAT implementation remains variable across institutions in real-world practice
+- Upfront resection continues to be performed for resectable and even borderline resectable PDAC
+- In Korea, multiagent NAT for potentially resectable PDAC not fully reimbursed by National Health Insurance
+- Survival benefit of NAT over upfront resection in purely resectable PDAC remains controversial
+
+## Randomized Trial Evidence Summary
+- Trials enrolling both resectable and borderline patients demonstrated superior survival with NAT
+- PREOPANC and similar studies showed benefit in mixed cohorts
+- NORPACT-1 trial exclusively enrolling resectable PDAC failed to demonstrate survival benefit for NAT
+- Current evidence does not fully support NAT preference for resectable PDAC as recommended by NCCN
+
+## Restaging After NAT: Fundamental Challenges
+- Curative-intent resection improves survival in borderline and locally advanced PDAC treated with NAT
+- Feasibility of conversion surgery must be evaluated in non-progressing patients
+- Restaging using CT and MRI more challenging than initial staging
+- Associated with lower accuracy in predicting likelihood of R0 resection
+
+## Restaging: Overestimation of Vascular Invasion
+- CT and MRI tend to overestimate vascular invasion after NAT
+- Imaging cannot reliably distinguish viable tumors from post-treatment fibrosis
+- Consequently R0 resection may be achieved after NAT in patients initially classified as borderline or even locally advanced
+- Radiological downstaging to resectable disease may not be necessary for surgical candidacy
+
+## Restaging: R0 Resection Rates After NAT
+- Ferrone et al. reported R0 in 92% of initial borderline or locally advanced patients
+- However radiological downstaging occurred in only 35%
+- Recent prospective high-resolution CT study:
+  - Upfront R0: 88.7% resectable, 52.4% borderline, 0% locally advanced
+  - Post-NAT R0: 90.9% resectable, 76.7% borderline, 25.0% locally advanced
+- Higher R0 rates achievable after NAT for advanced categories
+
+## Restaging: Interpreting Residual Contact
+- Interpretation of anatomical resectability at initial diagnosis not directly applicable after NAT
+- Some borderline or locally advanced patients at restaging may still benefit from curative-intent resection
+- Regression of tumor-vessel contact after NAT predicts R0 with high specificity
+- Objective tumor response compared to baseline associated with higher R0 likelihood
+
+## Figure 10: Restaging Success with FOLFIRINOX
+- 75-year-old man with borderline resectable pancreatic cancer
+- Baseline: SMV abutment with deformity, SMA abutment, SUVmax 11.4, CA 19-9 at 51 U per mL
+- After six cycles FOLFIRINOX: decreased size, improved SMV contact without residual deformity
+- Complete metabolic response on PET/CT with normalized CA 19-9 at 18.4 U per mL
+
+## Figure 10: Surgical Outcome After Restaging
+- Residual tumor infiltration persisted along medial pancreatic head abutting SMA
+- Despite residual contact, patient underwent pancreaticoduodenectomy
+- Achieved margin-negative resection
+- Remained recurrence-free for 8 years following surgery
+
+## Restaging: CA 19-9 Response Dynamics
+- Normalization or reduction of CA 19-9 by more than 50% from baseline associated with higher R0 rates
+- Pattern of changes important for prognosis:
+  - Constant or bidirectional reductions to normal levels: best survival
+  - Persistently normal or reduction without normalization: intermediate
+  - Persistently increasing without normalization: worst survival outcomes
+
+## Restaging: PET/CT Metabolic Response
+- Tumor-vessel contact without FDG uptake more likely associated with R0 resection
+- Residual contact with persistent FDG uptake less favorable
+- Changes in tumor extent, tumor-vessel contact, CA 19-9, and metabolic activity refine interpretation
+- In favorable responders, residual contact may not represent true vascular invasion
+
+## Conclusions: Imaging Essentials
+- Accurate imaging evaluations essential for diagnosis and management of PDAC
+- Pancreatic CT protocol remains cornerstone for tumor staging and resectability assessment
+- MRI and PET/CT serve as complementary problem-solving tools
+- Systematic reporting facilitates multidisciplinary decision-making
+
+## Conclusions: Evolving Concept of Resectability
+- Paradigm evolving from purely anatomical framework to comprehensive approach
+- Incorporates tumor biology and patient-related conditional factors
+- Combined assessment of anatomical, biological, and conditional factors improves prognostic stratification
+- A-B-C approach enables refined risk stratification compared to anatomy alone
+
+## Conclusions: Treatment Selection for Resectable Disease
+- For resectable PDAC, both upfront resection and NAT represent viable treatment strategies
+- Current evidence remains insufficient to clearly favor one approach over the other
+- Future research should focus on identification and validation of robust biomarkers
+- Goal is personalized treatment selection and optimization of outcomes
+
+## Conclusions: Restaging After NAT
+- Radiological restaging more challenging than initial staging and may overestimate vascular invasion
+- Changes in tumor-vessel contact, objective tumor response, and biological factors help address limitations
+- Post-treatment CA 19-9 dynamics and PET/CT metabolic response provide incremental value
+- Robust criteria required to guide selection of optimal candidates for conversion surgery
