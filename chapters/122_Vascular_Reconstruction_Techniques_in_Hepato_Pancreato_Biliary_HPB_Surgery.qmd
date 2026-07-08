@@ -8,9 +8,14 @@
 
 {{< reveal Extras/transplant/microsurgery_ldlt >}}
 
-## Microsurgery Plastic surgery 
+## Microsurgery Plastic surgery Qwen
 
-{{< reveal Extras/transplant/microsurgery_plastic_surgery >}}
+{{< reveal Extras/transplant/microsurgery_plastic_surgery_qwen >}}
+
+## Microsurgery Plastic surgery ZAI
+
+{{< reveal Extras/transplant/microsurgery_plastic_surgery_zai >}}
+
 
 :::
 

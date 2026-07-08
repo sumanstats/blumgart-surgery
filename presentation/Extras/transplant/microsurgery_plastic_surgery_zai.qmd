@@ -1,0 +1,1033 @@
+---
+title: "Principles and Techniques of Microvascular Surgery"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+---
+
+
+## Synopsis: Definition of Microsurgery
+
+- Microsurgery and supermicrosurgery refer to the surgical coaptation of small vessels.
+- Usually around 1 mm in diameter or smaller.
+- Performed under microscope magnification.
+- Broad term: includes coaptation of tiny nerves and lymphatics, not just blood vessels.
+
+## Synopsis: Evolution of the Technique
+
+- Evolved significantly over the last four decades.
+- Started with revascularization and replantation in 1960.
+- Progressed to free flap surgery.
+- Development of the operating microscope, microinstruments, and ultra-fine sutures aided widespread use.
+
+## Synopsis: Common Techniques
+
+- Most commonly used techniques:
+  - End-to-end anastomosis
+  - End-to-side anastomosis
+  - Coupling devices
+- Difficult situations (vessel discrepancy, inadequate length, poor quality) can be overcome with special techniques.
+
+## Synopsis: High Success Rates
+
+- Advances lead to consistently high success rates.
+- Free tissue transfer is now a cost-effective, first-line option.
+- Superior results and high patient satisfaction compared to conventional methods.
+- Mentally and physically demanding; requires special training.
+
+## Synopsis: Keys to Successful Free Flap Surgery
+
+- Thorough preoperative planning.
+- Flexibility of the surgical plan.
+- Flawless execution.
+
+## Synopsis: Monitoring and Pharmacological Agents
+
+- Clinical assessment is the gold standard in free flap monitoring.
+- Early detection of failing flap + prompt intervention = improved salvage rates.
+- Useful pharmacological agents:
+  - Low-dose heparin
+  - PGE1
+  - Dextran
+
+## Synopsis: Avoiding Complications
+
+- Complications are not only due to vascular compromise.
+- Can be caused by:
+  - Inadequate planning
+  - Inappropriate flap selection
+  - Flawed execution
+- These can compromise the flap, functional, and aesthetic outcomes.
+
+## Synopsis: Modern Success Rates
+
+- Refined techniques and specialized microsurgical ICUs lead to 96–98% success rates in developed centers.
+- If the first microsurgical reconstruction fails, a second attempt can yield good results after identifying and managing potential causes.
+
+## Synopsis: Future of Microsurgery
+
+- Microsurgery will continue to evolve.
+- Has revolutionized reconstructive challenges.
+- Wider application expected in:
+  - Supermicrosurgery
+  - Free-style free flaps
+  - Composite tissue allotransplantation
+
+## Introduction: General Terms
+
+- **Microsurgery**: Surgery requiring an operating microscope or high magnification loupes.
+- Sub-types based on structure:
+  - Microvascular surgery (blood vessels ~1 mm)
+  - Microneural surgery
+  - Microlymphatic surgery
+  - Microtubular surgery
+
+## Introduction: Supramicrosurgery
+
+- Extreme form of microsurgery.
+- Anastomoses of vessels around 0.5 mm in diameter (0.3–0.8 mm).
+- Common applications:
+  - Lymphatic reconstruction
+  - Perforator-to-perforator anastomosis/repair
+  - Distal digital replantation
+
+## Introduction: Reconstructive Microsurgery
+
+- Utilizes microsurgical and supramicrosurgical techniques.
+- Procedures include:
+  - Revascularization
+  - Replantation
+  - Auto- or allotransplantation
+- Solves problems from traumatic injuries, congenital deformities, and tumor ablation.
+- Loupe magnification (×2.5–8) can be used for vessels/nerves around 2–3 mm.
+
+## Introduction: Scope of Practice
+
+- Microsurgical techniques are not limited to plastic surgery.
+- However, plastic surgery has the most diverse scope of practice in modern surgery.
+
+## Introduction: The Era of Microsurgery
+
+- Began with the invention of the microscope in 1920.
+- Leading factors for widespread use:
+  - Improvement in magnification and illumination.
+  - Development of microinstruments.
+  - Development of ultrafine sutures.
+
+## Introduction: Changing Indications
+
+- Consistently high success rates (97–100%).
+- Cost-effective with superior outcomes.
+- Changed from being the "last resort" to the "first choice".
+- Reversed and overthrew the reconstructive ladder in advanced centers.
+
+## Introduction: Focus of the Chapter
+
+- Principles and techniques of microsurgery, supermicrosurgery, and free tissue transfer.
+- Includes perforator free flaps, free-style free flaps, allotransplantation, and future directions.
+- Revascularization and replantation are covered in other chapters.
+
+## Tools: Optical Systems
+
+- Since Alexis Carrel's triangulation technique, anastomosed vessel diameters have become progressively smaller.
+- Due to developments in:
+  - Surgical techniques
+  - Surgical instrumentation and microsutures
+  - Improved optics in microscopes
+- Magnification under adequate illumination allows accurate perception of anatomy.
+- Reduces surgeon fatigue via improved ergonomics.
+
+## Surgical Microscopes: Basic Features
+
+- Binocular head with adjustable eyepieces.
+- Teaching head for two people to work simultaneously.
+- Potential third head for digital recording.
+- Heads independently pivot with separate magnification levels.
+- Can be retrofitted with a camera for real-time viewing and documentation.
+
+## Surgical Microscopes: Controls
+
+- Tilt, focus, and zoom controlled via:
+  - Foot pedal (keeps hands free, requires coordination)
+  - Hand control panel (practical, keeps functions in one place)
+- Antimicrobial-coated surfaces and internally routed cables are important to prevent obstruction and bacterial harboring.
+
+## Surgical Microscopes: Magnification Limits
+
+- Up to 62× magnification provided by some microscopes.
+- Instant magnification change for a variable working distance.
+- Example: 10× eyepiece and 200 mm objective lens enables final magnification from 4.4 to 50.4 (Mitaka Kohki Co. Ltd.).
+
+## Surgical Microscopes: Fluorescence Tools
+
+- Microscopes like Leica and OPMI Pentero incorporate intraoperative fluorescence tools.
+- Invaluable for:
+  - Checking perfusion before and after surgery.
+  - Lymphatic microsurgical reconstruction.
+  - Precise tumor ablation in neurosurgery.
+
+## Surgical Microscopes: Mounting Options
+
+- Can be mounted on a stand.
+- Placed on a table top.
+- Worn on the surgeon's head.
+- Hung on the ceiling or wall to conserve floor space.
+- Movable microscopes are desired and cost-effective across specialties (ophthalmic ones may be an exception due to specialized needs).
+
+## Surgical Microscopes: Magnification Levels
+
+- Choosing the appropriate level of magnification is crucial.
+- **Low magnification (6×–12×)**: Vessel preparation and suture tying.
+- **Middle magnification (13×–15×)**: Suture placement.
+- **High magnification**: Very small vessel anastomosis and inspection of the anastomosis.
+
+## Box 25.1: Tips for Using Surgical Microscopes
+
+- Familiarize yourself with the microscope.
+- Spend time getting the position right (interpupillary distance and diopter correction).
+- Use an adjustable seat if you intend to sit.
+- Sit comfortably with feet flat on the ground for a stable base.
+- Upper extremities should be well supported (resting on folded drapes) to minimize fatigue and tremor.
+- Focus should be adjusted with the scope at highest magnification before starting.
+
+## Loupes: Overview
+
+- Provide magnifications of 2.5×–8×.
+- Mounted on glasses or headbands.
+- Advantages:
+  - Cost-effective
+  - Portable
+  - Offer operator freedom
+- Invaluable for precise dissection and placement of instruments/sutures.
+- In experienced hands, can be an alternative to the microscope for vessels as small as 1 mm.
+
+## Loupes: Loupes vs. Microscopes Study
+
+- Retrospective study of 200 consecutive free microvascular tissue transplantations.
+- Compared 3.5× loupes vs. operating microscope.
+- Result: No difference in outcome. Free flap success rates of 99% for both groups.
+- However, microscopes were required for:
+  - Anastomoses in children.
+  - Vessels of 1.5 mm or less in diameter.
+- Most centers still use microscopes for greater magnification range and light sources.
+
+## Loupes: Types - Compound (Galilean)
+
+- Superior optics compared to single-lens reading glasses.
+- Consist of two magnifying lenses separated by air.
+- Achieve higher magnification, greater depth of field, and better working distance.
+- Drawbacks:
+  - Image quality distorts at magnifications above 2.5×.
+  - Creates a "halo" effect at the periphery.
+- Advantages: Relatively low cost and light weight.
+
+## Loupes: Types - Prismatic
+
+- Provide higher optical quality using a Schmidt prism.
+- Lengthens the path of light through mirror reflections inside the loupe.
+- Improved magnification, wider fields of view, longer depths of field/working distance.
+- Drawbacks:
+  - 30–40% heavier than compound loupes.
+  - More expensive.
+  - More easily damaged.
+
+## Loupes: Choosing Magnification
+
+- Dependent on surgeon's preference.
+- **2.5×**: Often sufficient for hand surgery and flap harvesting.
+- **3.5–4.5×**: Suitable for perforator dissection, thin flaps, or anastomoses.
+- Note: Higher magnification decreases field of view and depth of field, while increasing weight.
+- Loupes > 4.5× are cumbersome and cause neck tension/fatigue (microscope is better here).
+- Experienced surgeons may perform standard perforator dissections without magnification.
+
+## Loupes: Additional Features
+
+- Once magnification is chosen, consider:
+  - Lens design
+  - Working angle and distances
+- Mounting options:
+  - Glasses or headbands
+  - Through-the-lens (mounted to frames)
+  - Flip-up or snap-fit type (allows cheaper changing of magnification/prescription)
+- Manufacturers can supply headlights for additional lighting (useful with higher magnifications).
+
+## Microsurgical Instruments: Overview
+
+- Evolution of techniques required parallel refinements in instruments and suture materials.
+- Many fine instruments originated from jewelers.
+- A confusing array is available, but most microsurgery can be done with a surprisingly small set.
+
+## Microsurgical Instruments: Essential Features
+
+- Fine tips to spread, hold, or cut delicate tissue and suture.
+- Nonreflective surface.
+- Comfortable handles that close easily to prevent fatigue.
+- Many are spring-loaded.
+  - Too weak: tips close just by holding.
+  - Too firm: hand fatigues quickly.
+
+## Microsurgical Instruments: Material
+
+- Most made of heat-hardened stainless steel (resistant to wear and tear).
+- Prone to magnetization; store on demagnetized or nonmagnetic shelves.
+- Demagnetizer: Placing instrument in a coil attached to AC supply and withdrawing slowly.
+- Titanium is becoming popular:
+  - Antimagnetic, rust-free, lighter weight.
+  - In reality, can still become magnetized.
+
+## Microsurgical Instruments: Handle Design
+
+- Available with round or flat handles.
+- Length: 10–18 cm depending on preference and working depth.
+  - Shorter instruments: closer to surface (e.g., hand surgery).
+  - Longer instruments (>18 cm): free tissue transfer.
+- Longer instruments may be balanced with the balance point resting in the webspace.
+- Slight counterweight at the end reduces fatigue and allows better control.
+
+## Microsurgical Instruments: Maintenance
+
+- Follow manufacturer instructions for maximal performance.
+- Store in specially designed instrument cases.
+- Protect fine tips with silicone or rubber tubes.
+- Jaws must meet precisely.
+- Use ONLY for handling vessels and nerves.
+- Scrub nurse should regularly clean off blood/contaminants during surgery.
+- Rinse with distilled or deionized water to avoid staining.
+- Avoid high chloride concentrations (leads to pitting and corrosion).
+
+## Types of Instruments: Scissors
+
+- Spring-loaded with sharp, gently curved blades and slightly rounded tips.
+- Can be used as a dissecting probe when held closed.
+- Adventitia-trimming scissors: straight blades with sharp tips (also good for stitch-cutting).
+- In reality, one curved scissor is adequate for both dissection and adventitia trimming.
+
+## Types of Instruments: Needle Holders
+
+- Spring-loaded, held like pencils, resting on the first web, supported by thenar muscles.
+- Handle ideally rounded to allow rolling between fingers during needle passing.
+- Jaws: thin, gently curved, narrow shoulders to grasp microsutures.
+- Curved style is finer at the tip and more suitable for vessel dilatation.
+- Ratchet lock available but not preferred (locking/unlocking damages needle and traumatizes tissue).
+- Supermicrosurgery: Titanium preferred for lighter weight and custom manufacturing.
+
+## Types of Instruments: Forceps
+
+- Jeweler's forceps (originally by Swiss Dumont factory).
+- Flat handle, sharply narrowing tips.
+- Tips aligned with precision of 1/1000 inch (diameter of 10-0 nylon).
+- Jaws should meet evenly over 3 mm length when closed with moderate pressure.
+- Used continually in the nondominant hand for tissue handling, receiving needle, and tying.
+
+## Types of Instruments: Forceps Variations
+
+- Classified by width of contact surface, narrowness, and configuration.
+- Wide jaws: can be used as needle holders.
+- Straight/fine-pointed: suitable for tissue handling.
+- Smooth-tipped (most common), toothed, curved, angled, or equipped with hole in tip.
+- Angled forceps: useful for reaching under vessels, tying knots, patency tests.
+- Modified slender, polished non-tapering tip: used to dilate vessels gently.
+- Practical set: Titanium micro forceps (0.05 mm for 12-0, 0.1 mm for 10-0/11-0). Four micro forceps + one curved forceps are adequate.
+
+## Types of Instruments: Vascular Clamps
+
+- Evolved significantly from early bulldog clamps.
+- Acland's double microvascular clamp (1974) largely superseded by Tamai's sliding bar modification.
+- Ideally atraumatic with sufficient closing pressure to prevent bleeding/slippage without damaging vessel wall.
+- Available as single or double approximator clamps.
+- Divided into those for veins or arteries.
+
+## Types of Instruments: Vascular Clamps (Cont'd)
+
+- **Vein clamps**: Smaller closing pressure, flat jaw all the way to the end. Marked with "V".
+- **Artery clamps**: Greater closing pressure, slight incurve at tip to prevent crushing. Marked with "A".
+- Pressure is inversely proportional to vessel size.
+- Ideal pressure: 5–10 g/mm² (largest vessels) to 15–20 g/mm² (smallest vessels in range).
+- Use the smallest appropriate clamp to minimize crushing.
+
+## Types of Instruments: Clampless Anastomosis
+
+- Clamps can cause intimal lesions, occupy space, and risk backwalling.
+- Atherosclerotic vessels are challenging.
+- Clampless anastomosis uses a CE-certified thermosensitive gel.
+  - Provides circular stenting and gentle distension.
+  - Dissolves completely with cold saline irrigation.
+- Other vascular surgery methods (LeGoo, aortic cannula with graft) have not been reported in microsurgery.
+
+## Bipolar Coagulator
+
+- Developed in 1956; promoted microsurgery by achieving a bloodless field.
+- Conducts current between tips of jeweler's forceps.
+- Produces heat damage only within a small area.
+- Allows precise coagulation of branches as close as 2 mm to the main vessel.
+- Power setting must be optimized to prevent spreading heat damage.
+- Bipolar scissors are now commercially available.
+
+## Irrigation and Suction
+
+- Clear view of vessel walls is imperative.
+- Irrigation purposes:
+  - Prevent desiccation of vessels.
+  - Prevent sticking of suture to tissue.
+  - Wash away blood/clots.
+  - Wash away prothrombotic factors.
+- Performed with 5–10-mL syringe and lacrimal cannula/24-gauge angiocath.
+- Suction methods: moistened hydrocellulose sponge, perforated background plate, homemade suction tips.
+- Cellulose spearheads (eye sponges) afford precise control for small ooze.
+
+## Microsutures: History
+
+- Buncke described making the first microneedle by drilling a hole in a 75 mm stainless steel wire.
+- Used to replant a rabbit's ear by anastomosis of 1 mm vessels.
+- Acland developed the first commercially available needle with Springler–Tritt company.
+
+## Microsutures: Sizes and Applications
+
+- Available in combinations of materials, sizes (8-0 to 12-0), tensile strengths, and needle configurations.
+- Standard means of vascular anastomosis.
+
+| Suture | Needle Size | Vessel Diameter |
+|--------|-------------|-----------------|
+| 9-0 | 100 µm curved | 2 mm or more |
+| 10-0 | 70–100 µm curved | 1 to 2 mm |
+| 11-0 | 50–75 µm curved | Smaller vessels |
+| 12-0 | 50 µm curved | Very small vessels |
+
+## Microsutures: Needle Configurations
+
+- Needle length preference: 5.1 mm for 9-0/10-0; 3.6 mm for 11-0/12-0.
+- Shapes:
+  - Three-eighths of a circle (typical)
+  - Half-circle or straight (rarely used)
+- Tip types:
+  - Round
+  - Tapered (commonly used)
+  - Spatula-shaped (to prevent damage to vessel wall)
+- Suture material: Non-resorbable nylon (low tissue reactivity, good knot-holding). Polypropylene preferred by some (slides/handles better).
+
+## Anastomotic Devices: Overview
+
+- Microsutures do not fully meet the criteria of an "ideal" anastomosis.
+- Non-suture techniques developed for faster and less traumatic anastomosis.
+- Ring–pin device (Nakayama 1962, Östrup/Berggren 1986) is the most successful and commonly used.
+- Marketed as Microvascular Anastomotic COUPLER System (Synovis).
+
+## Anastomotic Devices: Ring-Pin Coupler
+
+- Consists of two disposable high-density polyethylene rings.
+- Six to eight evenly spaced 0.16 mm diameter stainless-steel pins.
+- Implanted with a reusable anastomotic instrument.
+- Advantages:
+  - Simple, fast, does not disturb the intima.
+  - Patency rates up to 100%, even in irradiated fields.
+- Sizes: 1 to 4 mm diameter (vessels 0.8–4.3 mm, max wall thickness 0.5 mm).
+- Suitable for end-to-end and end-to-side anastomosis.
+
+## Anastomotic Devices: Contraindications
+
+- Contraindications for coupler:
+  - Peripheral vascular disease
+  - Areas with ongoing radiation therapy
+  - Active infection
+  - Concurrent diabetes
+  - Corticosteroid therapy
+- Contraindications for arterial use specifically:
+  - Thick-walled vessels that do not adequately evert
+  - Diameter discrepancies > 1.5:1 ratio
+  - Non-pliable vessels (prior radiotherapy or calcification)
+  - Any artery less than 1.5 mm in diameter
+
+## Anastomotic Devices: Coupler Applications
+
+- Experimental comparison (venous anastomosis):
+  - Coupler: 100% patency
+  - Sleeve technique: 80% patency
+  - Standard end-to-end: 95% patency
+- 1000 consecutive venous anastomoses in breast reconstruction (Jandali et al.):
+  - Anastomotic time: 2–6 minutes.
+  - Patency rate: 99.4%. No total flap losses.
+- Effective in end-to-side anastomosis of veins in head/neck recon (99–100% patency).
+- Absorbable coupler developed to resolve permanent rigid ring issue (95% clinical patency; absorbed at 70 days to 30 weeks).
+
+## Anastomotic Devices: Other Couplers
+
+- Vacuum-assisted microvascular anasto-coupler:
+  - Uses negative pressure as an atraumatic force instead of pins.
+  - Only tested on rats; no clinical applications to date.
+- Nonpenetrating microvascular stapler (VCS clip applier system):
+  - Uses nonpenetrating titanium clips in an interrupted, everting fashion.
+  - Four sizes (0.9 to 3.0 mm).
+  - Reduced anastomotic time, higher patency rate.
+  - Requires stay sutures and everting forceps.
+
+## Other Non-Suture Methods: Glues
+
+- **Fibrin glues**:
+  - Two components: fibrinogen/factor XIII/plasma proteins + thrombin/aprotinin/calcium chloride.
+  - Imitates final coagulation pathway.
+  - Reduces number of sutures required and anastomotic time.
+  - Drawbacks: Potential luminal entry, allergic reactions, anaphylaxis.
+- **Cyanoacrylates**:
+  - Plagued by histotoxicity, foreign-body granulomatous response, vessel wall thinning, elastic lamina splitting, media calcification.
+  - 2-Octyl-cyanoacrylate might be less toxic.
+
+## Other Non-Suture Methods: Laser Welding
+
+- Welding with thermal or laser energy long advocated.
+- Types: Nd:YAG, CO2, argon, diode lasers.
+- Show up to 100% patency rates and better blood flow in veins.
+- Laser-activated protein solders introduced for more strength.
+- Diode laser-assisted anastomosis shows equal survival, shorter time, faster healing.
+- Limitation: Fear of weakening site and pseudoaneurysm formation.
+- Clinical study: 96.6% success rate (1 rupture, 3 hematomas).
+
+## Other Non-Suture Methods: Stents and Magnets
+
+- Cylindrical or T-shaped intravascular stents (experimental).
+- External metallic ring to keep cylindrical form and avoid through-stitching.
+- Magnets:
+  - First tested by Obora in 1978.
+  - Tested on large animal models for side-to-side AV or vein graft anastomoses.
+  - Deployment device inserts magnets, which attract and compress arterial wall forming a two-magnet vascular port.
+
+## General Principles: Working Environment
+
+- Prerequisites: Calm disposition and patience.
+- Concentrate without unnecessary interruptions; do not be hurried.
+- Justifiable to take breaks during long sessions.
+- Competent assistant and specialized scrub nurse make a big difference.
+- Microsurgeons often operate late, alone, or on challenging vessels.
+- Endurance and perseverance are virtues.
+
+## General Principles: Training
+
+- "Some are born microsurgeons while others become so through discipline and training."
+- Traditional apprenticeship is hard to apply; specialized fellowship is a must.
+- Lab training progression:
+  1. Familiarizing with instrument handling under magnification.
+  2. Suturing stretched surgical gloves or silicone tubes.
+  3. Live anastomoses in a rat model.
+- Alternatively, trainees learn from senior surgeons clinically.
+
+## General Principles: Clinical Training Progression
+
+- Trainees usually do the second vein first.
+- After achieving steady patency, the arterial anastomosis is handed to them under supervision.
+- Must be able to do both vein and artery well multiple times before operating alone.
+- Trainees encouraged to report honestly and call for help instead of wasting time.
+- If there is deviation from acceptable standards, the experienced member should immediately take over.
+
+## General Principles: Planning and Positioning
+
+- Time spent planning and positioning is never wasted.
+- Right position = easier movements and faster progress.
+- Comfort relates directly to success.
+- Two-team approach reduces operating time.
+- Proper patient positioning alleviates need to reposition during surgery.
+
+## General Principles: Surgeon Positioning
+
+- If seated on a self-adjustable stool:
+  - Legs under operating table, feet flat on ground (stable base).
+  - Forearms rest on folded drapes at the same level as anastomosis.
+- Minimizes tremor and fatigue.
+- Microscope positioned to not obstruct movement while providing maximum control.
+- Microscope base fixed to allow sufficient room for maneuvering.
+
+## General Principles: Securing the Flap Inset
+
+- Inset is considered *before* anastomosis is performed.
+- After circulation is restored, flap swells and bleeds, making deep inset difficult (especially in head/neck).
+- Partial/complete inset before anastomosis allows accurate judgment of pedicle length (avoids tension/redundancy).
+- Tailoring/thinning is better performed while flap is perfused to control bleeders and avoid hematoma.
+- Exception: Breast surgery (inset done after anastomosis if anastomosis lies deep to inset).
+
+## General Principles: Recipient Vessel Selection
+
+- Use healthy recipient vessels of appropriate size with good flow.
+- Away from zones of trauma, irradiation, inflammation, fibrosis, and scarring.
+- Healthy vessel: Soft wall, easily dissected vascular sheath.
+- Traumatized vessel: Encased in fibrotic tissue, prone to bleeding.
+- Perforating branches can be used instead of classic big vessels (extremity and breast recon).
+
+## Recipient Vessels: Assessment
+
+- Assessment needed following irradiation, stiff neck, osteoradionecrosis, multiple free flaps, single-vessel leg, trauma, DVT history, diabetes, atherosclerosis, advanced lymphatic disease.
+- Doppler ultrasound for leg vessels.
+- Angiography/CTA indicated when in doubt about availability/quality (e.g., non-palpable pedal pulses).
+- Normal findings may not always translate into healthy usable vessels.
+- Indocyanine green (ICG) imaging and lymphoscintigraphy for lymphatic surgery planning.
+
+## Recipient Vessels: Preparation
+
+- Done under loupes or microscope magnification.
+- Dissect sufficient length for tension-free anastomosis.
+- Deep vessels (e.g., internal thoracic) require greater length to orientate superficially.
+- Gross trimming of adventitia performed around anastomosis area.
+- Quality of artery and vein must be checked under microscope for signs of damage.
+
+## Figure 25.1: Horizontal Vessel Orientation
+
+- **Figure Description**: Horizontal vessel orientation allows both lumens of the vessel to be adequately visualized.
+- This facilitates accurate suture placement and alignment during anastomosis.
+
+## Recipient Vessels: Checking Arterial Flow
+
+- Vital to check flow within the artery.
+- Expansile pulsation indicates adequacy; confirm with healthy spurting from divided vessel.
+- If no good spurt:
+  - Check if patient is normotensive.
+  - Take steps to relieve vasospasm.
+  - Cut back vessel until healthy spurtting is encountered.
+- Apply vascular clip while waiting for flap harvest/inset.
+
+## Recipient Vessels: Vein Assessment
+
+- Ideal recipient vein: At least as wide as the flap vein.
+- Smaller diameter may cause bottle-neck effect and compromise drainage.
+- Divide vein to assess quality; good outflow indicates healthy vessel.
+- If in doubt, catheterize lumen and flush heparinized saline.
+  - Little/no resistance = good drainage.
+  - High pressure = tie off tributaries to reduce backflow.
+- Apply single or double clamp for anastomosis.
+
+## Recipient Vessels: Irrigation and Spasm Prevention
+
+- Irrigate vessels with heparinized saline during and after dissection.
+- Cover vessels with 2–4% lidocaine or 3% papaverine-soaked gauze.
+- Prevents desiccation and vasospasm.
+- When ready for revascularization, place vessel ends in double approximating clamp under microscope.
+- Use moist gauze beneath vessel to elevate plane, orientate horizontally, and mop up pooling fluids.
+- Silastic tube attached to suction can facilitate drainage without risking vessel suction.
+
+## Preparation of Vessels: Inspection
+
+- Inspect lumens for irregularities:
+  - Intimal tears or separation from media
+  - Thrombi
+  - Atherosclerotic plaques
+  - Friable calcified walls
+- Gently irrigate debris away or remove atraumatically with microforceps.
+- If unsuccessful, cut back vessel to attain healthier segment (without compromising pedicle length).
+- Suboptimal intima occasionally accepted; outcome dependent on meticulous technique.
+
+## Figure 25.2: Loose Intima
+
+- **Figure Description**: Illustrates various vessel wall pathologies.
+  - Friable walls
+  - Separation of intimal walls
+  - Separation of medial walls
+  - Intraluminal valves, clots, flaps, tears
+  - Branches near anastomosis
+- These irregularities must be identified before anastomosis.
+
+## Figure 25.3: Intraluminal Irrigation of Vessels
+
+- **Figure Description**: Shows the process of gently irrigating the vessel lumen.
+- Purpose is to clear blood, clots, and debris to provide a good view and wash away prothrombotic factors.
+- Ensures a clean environment for suture placement.
+
+## Preparation of Vessels: Wall Anatomy
+
+- **Tunica Intima**: Innermost layer. Single layer of endothelium on basal lamina. Thin subendothelial layer. Separated by internal elastic lamina.
+- **Tunica Media**: Mainly smooth-muscle cells. Thickest layer in arteries. Much thinner in veins (sometimes indistinguishable in lesser veins).
+- **Tunica Adventitia**: Outermost layer. Loose areolar connective tissue containing vasa vasorum.
+
+## Figure 25.4: Cross-Sectional View of Artery and Vein
+
+- **Figure Description**: Compares the cross-sectional layers of an artery (left) and a vein (right).
+- Shows the relative thickness of the tunica intima, internal elastic lamina, tunica media, and tunica adventitia.
+- Veins have less defined layers, particularly the tunica media.
+
+## Preparation of Vessels: Adventitia Trimming
+
+- Loose adventitia peeled off using microforceps or sharply trimmed.
+- Pull towards lumen and cut parallel to luminal edge (distance of 3–4 mm from anastomotic site).
+- Neither method removes all adventitia; sharp dissection causes less damage.
+- Purpose: Improve visualization, prevent adventitia from falling into lumen during knot tying.
+- Radical trimming: Cut tented adventitia parallel to vessel length, avoid injuring tunica media.
+- Overly aggressive stripping causes necrosis/false aneurysms.
+
+## Figure 25.5: Sharp Trimming of Adventitia
+
+- **Figure Description**: Demonstrates the technique of sharply trimming the adventitia.
+- The adventitia is pulled towards the lumen and cut parallel to the luminal edge to prevent it from prolapsing into the vessel lumen.
+
+## Figure 25.6: More Radical Resection of Adventitia
+
+- **Figure Description**: Shows the meticulous cutting of tented adventitia parallel to the length of the vessel.
+- Care is taken to avoid injuring the tunica media during this more radical resection.
+
+## Preparation of Vessels: Dilation
+
+- Gently dilate lumens in two different planes with vessel dilator or microneedle holder.
+- Maintain stretch for one second.
+- Benefits:
+  - Aids suturing process.
+  - Prevents vasospasm.
+  - Allows intraluminal blood to be flushed out.
+  - Overcomes minor size discrepancies.
+- Blood beyond clamps in undamaged vessels is not at risk of clotting.
+
+## Figure 25.7: Gentle Luminal Dilatation of the Vessel End
+
+- **Figure Description**: Illustrates the gentle dilation of the vessel lumen in two different planes.
+- The stretch is maintained for about one second to aid suturing and prevent vasospasm.
+
+## Figure 25.8: Bringing Clamps Together
+
+- **Figure Description**: Shows a hemostat artery forceps bringing the two clamps towards each other.
+- The vessel ends are positioned to just touch or have minimal overlap for anastomosis.
+
+## Anastomoses Sequence: General Rules
+
+- No consensus regarding optimal sequence.
+- Ischemia time and relative vessel position dictate order.
+- Deeper, more difficult-to-reach vessel is usually repaired first.
+- If anatomy doesn't restrict, arterial repair first may shorten warm ischemia time.
+
+## Anastomoses Sequence: Artery First
+
+- **Advantages**:
+  - Shortens warm ischemia time.
+  - Re-establishment of circulation reveals dominant venous drainage.
+  - Helps detect twist, kink, or compression in pedicle.
+- **Disadvantages**:
+  - Flap may start bleeding, affecting vein anastomosis.
+  - Venous congestion may increase bleeding and allow buildup of free radicals.
+- Solution: Allow second comitant vein to drain freely into gauze away from the field.
+
+## Anastomoses Sequence: Vein First
+
+- Allows for better adjustment of pedicle length.
+- Delays revascularization of the flap.
+- Experimental studies show highest failure rate if artery is done first and immediately unclamped (due to venous congestion).
+- Other studies show no optimal sequence.
+- Authors' practice: Routinely repair artery first and leave unclamped during vein repair. Allow less dominant vein to drain freely.
+
+## Anastomoses Sequence: Number of Venous Anastomoses
+
+- Some advocate two venous anastomoses to avoid venous insufficiency.
+  - Khouri et al.: 4.3% failure with one vs. 0% with two.
+- Single venous anastomosis to a suitable recipient vein provides adequate drainage and reduces operative time.
+  - Futran and Stack: Equivalency in survival with single vs. dual in radial forearm flaps.
+- Sound judgment required: If first vein is less reliable/uncertain, perform a second.
+- Flap anatomy and chimeric design could benefit from dual venous anastomoses.
+
+## Suturing Techniques: End-to-End Anastomosis
+
+- Most common method.
+- Simple and appropriate for most arterial and venous anastomoses.
+- Techniques:
+  - Halving
+  - Triangulation
+  - "Back wall-up"
+- Carrel's principles:
+  - Avoid luminal narrowing.
+  - Avoid creation of folds and rough inner surface.
+  - Oppose two intimal edges closely.
+
+## Figure 25.9: Interrupted Suturing Techniques
+
+- **Figure Description**: Shows placement of three stay sutures at 120° or 180° to ease subsequent placement of sutures.
+- Cobbett modified Carrel's 3-stay technique to 2 stays at 120°. Tensioning apart makes the back wall fall away, reducing through-stitch risk.
+- Alternatively, 2 stay sutures at 180° ensures even spacing.
+
+## End-to-End: Suture Placement
+
+- Needle should penetrate vessel wall perpendicularly, incorporating all layers (especially intima).
+- Bite size determined by wall thickness and suture; maintained throughout.
+- First throw should be double to maintain intended tension.
+- Two single throws follow to complete the knot.
+- Knots snugged down by sight, stopping when edges meet and slightly evert.
+
+## End-to-End: Knot Tying Precautions
+
+- Sutures too tight:
+  - Small tears expose subendothelium.
+  - Platelet aggregation and thrombus formation.
+  - Damage to media; if 1/3 of wall necroses, re-endothelialization fails and lumen occludes.
+  - Narrowing of anastomosis site.
+- Leave last few stitches untied until the last suture is placed, then tie in turn.
+- Leave apparent gaps alone until clamp is released and vessel refills to prevent through stitching.
+
+## Figure 25.10: Knot Tying with a Double Throw
+
+- **Figure Description**: Demonstrates the technique of tying a knot with a double throw.
+- The double throw ensures the intended tension is maintained during the anastomosis.
+
+## End-to-End: Continuous Suturing
+
+- Suitable for minimally size-discrepant vessels > 2 or 3 mm.
+- Reduces anastomosis time by nearly half. More hemostatic.
+- Problems: Suture entanglement, purse-string constriction.
+- Technique: Place 2-3 stay sutures. Running sutures placed at regular intervals and tied to next stay suture. Turn double clamp over and continue.
+- Patency rates of 97.5–100% achievable.
+
+## Figure 25.11: Placing a Halving Suture
+
+- **Figure Description**: (A) and (B) show how placing a halving suture may facilitate accurate stitch placement.
+- This is performed when executing an end-to-end anastomosis using interrupted suturing.
+
+## Figure 25.12: Back Wall First
+
+- **Figure Description**: Illustrates the "back wall-up" technique.
+- The first suture is placed posterocentrally. Subsequent sutures are placed on either side, working around the circumference.
+
+## Figure 25.13: Continuous Suture Technique
+
+- **Figure Description**:
+  - (A) Complete anastomosis using one continuous suture.
+  - (B) Using stay sutures placed at 180° and performing continuous sutures between the two and tying off to each stay suture prevents purse-stringing of the lumen.
+- Meticulous attention prevents purse-string effect.
+
+## End-to-End: Open-Loop Suturing
+
+- Combines convenience of continuous running suture with advantages of interrupted suturing.
+- Running suture performed leaving loops small enough that they do not flop.
+- First suture tied and cut short. Next loop pulled through and tied, repeated until all loops tied.
+- Reduces maneuvers and needle handling.
+- Maximal lumen visualization maintained. Eliminates purse-stringing.
+- Requires practice to avoid loop entanglement.
+
+## Figure 25.14: Open-Loop Suture
+
+- **Figure Description**: Visualizes the open-loop suturing technique.
+- Loops are left untied initially and then sequentially pulled through and tied to complete the anastomosis.
+
+## End-to-End: Sleeve Anastomosis
+
+- Variant of end-to-end ("end-in-end") introduced by Lauritzen (1978).
+- Telescopes vessels using two extraluminal sutures pulling one vessel inside the other.
+- Fewer sutures = reduced time and trauma.
+- Low patency rates prevented popularity.
+- Modification: "Hemi-invagination" by Riggio et al. improved patency to 95–100% (side cut on overlapping vessel + stitch at apex). Only tested on rats.
+
+## Figure 25.15: Sleeve Anastomosis
+
+- **Figure Description**: Demonstrates the sleeve anastomosis technique.
+- One vessel is telescoped inside the other using extraluminal sutures.
+
+## End-to-Side Anastomosis: Indications
+
+- Particularly useful for:
+  - Significant vessel size discrepancy.
+  - Significant wall thickness discrepancy.
+  - Need to preserve distal circulation (e.g., single-vessel leg).
+- Anecdotally less prone to vessel spasm in lower extremity.
+- Higher success rates, but not necessarily higher patency rates compared to end-to-end.
+
+## End-to-Side: Arteriotomy/Venotomy
+
+- Create triangular, elliptical, or longitudinal slit opening.
+- Opening opens up due to muscle contraction.
+- No irregular edges (weakens wall, facilitates thrombus).
+- Dissect sufficient length for two clamps. Trim adventitia circumferentially.
+- Baby Satinsky clamp useful to maintain flow and is less traumatic.
+- Vascular slings can be double-looped to act as stabilizers.
+
+## Figure 25.16: Making the Arteriotomy
+
+- **Figure Description**: Shows the end-to-side anastomosis process.
+- A single transverse stitch is taken as a stay suture. Vessel is excised using microvascular scissors and extended with a No. 11 blade.
+- Acland–Banis arteriotomy clamp can be used to hold and excise an ellipse.
+
+## End-to-Side: Suturing Technique
+
+- Opening should not be longer than donor vessel diameter (stretches when clamps released).
+- If flap vessel is long enough: Stay stitches at distal/proximal ends. Front wall completed, then pull vessel towards you for back wall (Godina).
+- If insufficient length: Wall further from you must be performed first.
+- Sutures placed radially to the center of the arteriotomy.
+- Transversely placed sutures may cause severe leakage at distal/proximal ends.
+
+## Figure 25.17: Back Wall First
+
+- **Figure Description**: Shows end-to-side anastomosis in cases where there is insufficient length to rotate the vessel.
+- The back wall needs to be sutured first to ensure proper closure and patency.
+
+## End-to-Side: Godina's Advantages
+
+- According to Godina, advantages included:
+  - Higher success rate.
+  - Greater freedom of operative planning.
+  - Technical simplicity in terms of access to vessels.
+- However, studies show end-to-end and end-to-side are equally effective when properly applied (patency approaches 100%).
+- End-to-side venous anastomosis had higher success rate than end-to-end in one rat study.
+- Slit technique easier than hole technique for vessels < 1.5 mm.
+
+## Use of the Coupler: Technique
+
+- Most common alternative to conventional suture.
+- Time-saving with equivalent patency rates.
+- Measure outer diameter of each vessel after gentle dilatation.
+- For size-discrepant vessels: Coupler internal diameter = outer diameter of smaller vessel.
+- Load device onto anastomotic instrument. Place perpendicular to vessels.
+- Thread vessel end through ring. Impale edges securely on pins (1-2 pin diameters with adequate intimal bite).
+- Impale every other pin first, then intermediate pins. Draping flap vessel first is easier.
+- Bring rings together (clockwise), reinforce with hemostat. Eject device (counterclockwise).
+
+## Figure 25.18: Application of the Coupler Device
+
+- **Figure Description**:
+  - (A) The vessel is oriented at 90° to the applicator and the vessel end impaled evenly on the pins.
+  - (B) The vessel is anastomosed and released by turning the applicator handle.
+
+## Difficult Anastomosis: Size-Discrepant Vessels
+
+- Commonly encountered.
+- Bigger problems if inflow recipient is big & flap artery is small, OR outflow flap is big & recipient vein is small.
+- Sudden caliber change causes turbulence predisposing to thrombosis.
+- Mismatches up to 4:1 can be anastomosed end-to-end depending on skill.
+
+## Figure 25.19: Size-Discrepant Vessels
+
+- **Figure Description**:
+  - (A) The smaller vessel end can be dilated and stretched to match the larger one, cut obliquely to increase the diameter, or a longitudinal side cut of the smaller vessel can be made. (Angles > 30° may cause kinking).
+  - (B) The smaller vessel is sutured as widely as possible to the larger vessel. A clip is brought across obliquely to taper the remaining end of the larger vessel, reducing turbulence.
+
+## Difficult Anastomosis: Managing Discrepancy
+
+- Simplest method: Gently stretch smaller vessel mechanically.
+- Place interrupted sutures further apart on the larger vessel.
+- Fish-mouth incision or oblique cut on smaller vessel.
+- Perform anastomosis distal to a side branch; open distal wall so V shape is the vessel end.
+- Discrepancy > 3:1: Consider end-to-side, vein graft, or side branch of larger vessel.
+- Last resort: Dilate smaller vessel maximally, suture widely to larger vessel, suture remaining vessel to itself, obliquely place surgical clip to taper.
+
+## Difficult Anastomosis: Wall Thickness Discrepancy
+
+- Does not usually pose a problem.
+- Gentle dilatation thins the wall.
+- For persistent discrepancy:
+  - Take equal bites of intima from both vessels.
+  - Incorporate less of media and adventitia of the thicker-walled vessel.
+
+## Difficult Anastomosis: Vertically Oriented Anastomosis
+
+- Most challenging configuration.
+- Strategies:
+  - Change position of body part, table, or yourself to make it horizontal.
+  - Free up more vessel length to manipulate into horizontal plane with gauze.
+  - Reduce magnification (increases depth of field, reduces need to alter focus constantly).
+
+## Difficult Anastomosis: Atherosclerosis
+
+- Common in elderly, cardiovascular disease, and irradiation-induced atherosclerosis.
+- If significant plaque found: Cut back to healthier intima or choose another vessel.
+- Divide artery with sharp scissors in one cut to minimize intimal separation.
+- Trimming: Slowly and circumferentially, resembling opening a can (not guillotine).
+
+## Difficult Anastomosis: Atherosclerosis (Cont'd)
+
+- Clamp tension: Do not exert too much to avoid fracturing calcified walls. Use venous microclamps for less pressure.
+- Sutures: Use round needle, smallest microsuture, meticulous interrupted placement.
+- Pass suture from inside lumen to outside to avoid further intimal separation.
+- If both vessels diseased: Use double-needle suture, or careful counterpressure with forceps within vessel.
+- Avoid vessel dilatation.
+- End-to-end preferred over end-to-side (less exposure of plaque edges).
+
+## Figure 25.20: Counterpressure for Intima
+
+- **Figure Description**: Shows the use of forceps to provide counterpressure to minimize trauma and separation of the intima.
+- This is crucial when suturing atherosclerotic vessels to prevent creating intraluminal flaps.
+
+## Microvascular Grafts: Overview
+
+- Increased flap options and proper planning have diminished the need for vein grafts.
+- Still necessary in trauma, vessel-depleted neck, and re-explorations.
+- Association with complication/failure may reflect case complexity, vessel quality, and hematoma rather than the graft itself.
+- Other studies show patency and survival are not reduced by vein grafts.
+
+## Microvascular Grafts: Indications
+
+- Recipient vessel out of reach of pedicle or under tension.
+- Considerable size mismatch.
+- Need to place anastomosis outside zone of injury/radiation.
+- Y-shaped vein graft can restore circulation to distal stump.
+
+## Microvascular Grafts: Harvest Principles
+
+- Harvest is just as important as anastomosis; done with loupe magnification.
+- Match caliber of graft to vessels.
+- Upper limb defects bridged with upper limb veins.
+- Workhorse: Great/lesser saphenous vein (length, two-team approach).
+- Alternatives: Cephalic, comitant veins, volar forearm, dorsal foot veins.
+- All grafts need dilatation prior to anastomosis.
+- Narrow venous flap can solve arterial gap + lack of soft-tissue cover simultaneously.
+
+## Microvascular Grafts: Vein Grafts
+
+- Handle vein minimally; ligate/coagulate tributaries.
+- Mark length required (grafts contract after division, lengthen with high-pressure flow -> risk of kinking).
+- Direction is crucial due to valves; must have antegrade flow.
+- Mark proximal end with surgical clip.
+- Hydrodilatation stretches graft, untwists vein, relieves spasm, visualizes bleeding points.
+- Anastomose open end first, release clamp to check direction and redundancy.
+
+## Microvascular Grafts: Arterial Grafts
+
+- Advantages over vein grafts:
+  - Absence of valves.
+  - Anatomical taper.
+  - Similar luminal and wall-thickness profiles.
+  - Better handling characteristics.
+  - Maintain endothelium; less subintimal hyperplasia.
+  - More prostacyclin in first 3 weeks (greater antithrombogenic activity).
+- No significant proven advantages in microvascular surgery context.
+- Harvest sites: Subscapular tree, anterior/posterior interosseous arteries, radial/ulnar arteries, deep/superficial inferior epigastric artery, dorsalis pedis artery.
+
+## Testing Patency: Observation
+
+- Assess after completion of each anastomosis and periodically through operation.
+- **Arterial pulsation**:
+  - Expansile: Normal.
+  - Longitudinal (long axis): Sign of partial/complete thrombosis. No return of circulation. Redo anastomosis.
+- **Vein patency**: Good flow, natural round diameter.
+  - Engorged, dark blood column = thrombosed. Reanastomose.
+  - Engorgement of secondary veins, continuous dark bleeding from flap edges = non-patent venous anastomosis.
+
+## Testing Patency: Physical Tests
+
+- **Uplift test**: Gently hook up thin-walled vessel until blood column almost occluded. Alternate filling and collapsing with each pulse indicates patency.
+- **Empty-and-refill test**: Gently occlude vessel distal to anastomosis. With second forceps, empty a segment next to first pair, running in direction of flow. Release first pair. Immediate refill = patent. Sluggish/absent = not patent.
+  - Slightly traumatic; perform only when needed, preferably on veins.
+
+## Figure 25.21: Empty-and-Refill Test
+
+- **Figure Description**: Illustrates the empty-and-refill (patency) test.
+- Two pairs of forceps are used distal to the anastomosis to empty a vessel segment. Releasing the proximal forceps allows immediate refill if the anastomosis is patent.
+
+## Testing Patency: Alternative Methods
+
+- **Side branches**: Atraumatic way to assess arterial flow and venous outflow. Requires awareness during dissection to keep side branches.
+- **Indocyanine Green (ICG)**: Easier and more accurate.
+  - Microscopes equipped with infrared cameras.
+  - Handheld devices available to examine flap perfusion.
+
+## General Aspects of Free Flap Surgery
+
+- First clinical application of microsurgery was replantation, which evolved into free flap surgery.
+- Requires thorough preoperative planning, flexibility, and flawless execution.
+- Success is multifactorial, heavily dependent on technical anastomosis skills.
+- High success rates (96–98%) make it a first-line, cost-effective option in modern reconstructive surgery.
+
+## Conclusion: The Evolution Continues
+
+- Microsurgery has reversed the reconstructive ladder.
+- Demands experience, resources, specialized infrastructure, and training.
+- Future applications expanding into:
+  - Supermicrosurgery
+  - Free-style free flaps
+  - Composite tissue allotransplantation
+- The field continues to evolve with technological and pharmacological innovations.
+
+## Summary: Key Takeaways
+
+- Microsurgery involves coaptation of tiny vessels, nerves, and lymphatics under magnification.
+- Essential tools: Surgical microscopes, loupes, microinstruments, microsutures, and anastomotic devices.
+- Techniques: End-to-end, end-to-side, continuous, open-loop, and sleeve anastomosis.
+- Difficult situations (size discrepancy, atherosclerosis, vertical orientation) require specialized maneuvers.
+- Vein or arterial grafts may be necessary despite advanced planning.
+- Patency testing and clinical assessment are critical for flap survival.
+- High success rates solidify microsurgery as a premier reconstructive option.
