@@ -1,0 +1,766 @@
+---
+title: "Left Lobe Liver Transplants"
+author: "Surgical Clinics NA"
+date: "2023"
+format: 
+  revealjs:
+    theme: black
+---
+
+## Introduction to Left Lobe Liver Transplantation
+
+- Living-donor liver transplantation (LDLT) established for end-stage liver disease (ESLD)
+- First performed in children (1989) using left lateral segment (LLS)
+- Extended to adults (1993) using left lobe (LL) allograft
+- Addresses organ shortage crisis with stagnant cadaveric transplantation rates
+- Wait-list mortality nearly 25% in United States
+
+## Key Points Overview
+
+- LL LDLT is safe and effective treatment for ESLD
+- Shifts risks from donor to recipient
+- Small-for-size syndrome (SFSS) previously limited LL use
+- Graft inflow modification (GIM) techniques eliminated SFSS risks
+- Two clinical forms of GIM: splenic artery ligation/splenectomy and portosystemic shunts
+- Long-term outcomes comparable to cadaveric liver transplantation
+- Preference for LL LDLT when possible - safer for donor and ethically correct
+
+## Organ Shortage Crisis
+
+- More than 5000 cadaveric liver transplants annually in US
+- Stagnant transplantation rates for several years
+- Strategies to expand donor pool:
+  - Split-liver transplantation
+  - Older donors
+  - Hemodynamically unstable donors
+  - Hepatitis B/C antibody-positive donors
+  - Donation after cardiac death (DCD)
+- Marginal expansion of donor pool despite these strategies
+
+## LDLT Potential and Limitations
+
+- Great potential to address donor shortage
+- Concerns about donor safety limit expansion in Western countries
+- Risk of donor morbidity and mortality proportional to:
+  - Extent of hepatectomy
+  - Remnant liver volume
+- Least risk: LLS donation
+- Highest risk: Right lobe (RL) donation
+
+## Recipient Considerations
+
+- Graft volume (GV) adequacy most important determinant for success
+- Minimum 40% of recipient's standard liver volume (SLV) required
+- Early series showed poor outcomes with small grafts:
+  - GRWR < 0.8% had 3-month graft survival of only 54.5%
+- Small-for-size grafts (SFSGs) caused imbalance between regeneration and function demand
+
+## Small-for-Size Syndrome (SFSS)
+
+- Defined by Dahm and colleagues:
+  - GRWR < 0.8%
+  - 2+ of following findings on 3 consecutive days within first week:
+    - Bilirubin > 10 mg/dL
+    - INR > 2.0
+    - Encephalopathy grade 3-4
+- Multifactorial etiology with portal hyperperfusion as major factor
+
+## Animal Model Findings
+
+- Sinusoidal congestion, rupture, hemorrhage within minutes of reperfusion
+- Changes not seen in full liver allografts
+- Severity inversely related to allograft size
+- Partial diversion of portal flow reduces changes and improves graft function
+
+## Evolution of Graft Selection
+
+- Initially used LL due to familiarity with LLS in pediatric population
+- Lower morbidity with LL hepatectomy
+- GV often < 40% of recipient's SLV
+- Led to inferior short- and long-term outcomes
+- RL became allograft of choice despite higher donor risk
+
+## Graft Inflow Modification (GIM)
+
+- Cumulative experience over 2 decades
+- Better understanding of SFSS pathophysiology
+- Successful application of GIM techniques
+- Made graft volume less critical factor
+- Small GV (GV/SLV < 40%, GRWR 0.6%) can be successfully used with GIM
+
+## Technical Refinements
+
+- Relatively lower risk of complications with LL LDLT
+- Comparable outcomes to cadaveric transplantation
+- Overriding concern for donor safety
+- LL allograft should be graft of choice whenever possible
+- Fundamentally shifts risks from donor to recipient
+
+## Preoperative Planning: 3-Step Process
+
+1. Clinical assessment and serologic testing
+2. Radiologic imaging
+3. Liver biopsy (optional)
+
+## Donor Eligibility Criteria
+
+- Healthy adults aged 18-60 years
+- ABO compatible
+- Complete history and physical examination
+- BMI calculation
+- Laboratory testing:
+  - Complete blood count
+  - Serum chemistries
+  - Thyroid function tests
+  - Coagulation profile
+  - Viral screening (Hep A/B/C, HIV, EBV, CMV, syphilis)
+  - Hypercholesterolemia screening
+  - Hypercoagulability workup
+  - Diabetes screening
+
+## Donor Screening Requirements
+
+- Mammography, colonoscopy, Papanicolaou smear, PSA up to date
+- Antimitochondrial antibody screen for family history of primary biliary cirrhosis
+- Psychological/psychiatric evaluation
+- No active or uncontrolled psychiatric disorders
+- No psychosocial, motivational, or ethical issues
+- Smoking cessation for 6 weeks pre-surgery
+- Oral contraceptive cessation for female donors
+- Cardiac clearance for hypertension or age > 50 years
+
+## Radiologic Assessment
+
+- Delineate liver anatomy:
+  - Hepatic veins
+  - Portal vein
+  - Hepatic artery
+  - Biliary system
+- Volumetric analysis of individual lobes
+- Assessment of hepatic steatosis
+- MRI with MRCP preferred modality
+- Institutional practices may vary
+
+## Limitations of MRCP
+
+- Spatial resolution often inadequate for intrahepatic biliary anatomy
+- Especially problematic with:
+  - Small caliber biliary tree
+  - Excessive patient movement during testing
+- May miss important anatomical variations
+
+## Volumetric Assessment Importance
+
+- Accurate size matching essential
+- Ensure adequate functional hepatic mass for recipient
+- Sustain metabolic needs
+- Permit regeneration
+- Avoid SFSS
+- GRWR of 0.8% required
+- Graft weight to SLV: 30-40%
+- Remnant liver volume: 30-40% of original volume
+
+## Specialized Software Tools
+
+- MeVis Liver Analyzer and Liver View
+- Produce 3D liver models for volume measurements
+- Preoperative planning of surgical planes
+- Identify vascular and biliary variations
+- Assist in decision-making process
+
+## Volumetric Analysis Accuracy
+
+- Good correlation between actual GVs and radiologically assessed volumes
+- Margin of error: 5-25%
+- Main cause of discrepancies: graft perfusion
+- Imaging measures perfused liver volume
+- Weight measurements performed when graft is blood-free
+
+## Comprehensive Road Map Benefits
+
+- Facilitates detailed surgical planning
+- Reduces postoperative complications
+- For both donor and recipient
+- Identifies anatomical variations that may:
+  - Affect allograft size
+  - Contraindicate hepatectomy
+
+## Hepatic Arterial Anatomy Variations
+
+- Present in nearly 45% of cases
+- Variant dominant supply to segment IV by right hepatic artery (11%)
+- Significant anomaly for LL transplants
+- May require double arterial anastomoses (LHA and segment IV variant artery)
+- Separate origins of segment II and III branches from proper hepatic artery
+- May require multiple arterial anastomoses
+
+## Hepatic Venous and Portal Venous Anatomy
+
+- Variations less common for LL allografts
+- Makes LL allograft technically easier to harvest and implant
+- Simpler surgical approach compared to RL
+
+## Biliary Anatomy Variations
+
+- Present in nearly 40% of population
+- Critical for LDLT due to high biliary complication rates
+- Significant variants include:
+  - Common hepatic duct trifurcation
+  - Drainage of right hepatic duct system into left duct system
+  - Drainage of right posterior duct into left main duct
+
+## Preoperative Liver Biopsy Role
+
+- Controversial role
+- Practices vary worldwide
+- Vancouver Forum guidelines recommend biopsy for:
+  - Abnormal liver function tests
+  - Evidence of steatosis
+  - Other imaging abnormalities
+  - Genetically related donors to recipients with autoimmune hepatitis, PSC, or PBC
+  - BMI > 30 kg/m²
+
+## Biopsy Considerations
+
+- Invasive part of donor evaluation
+- Potential complications
+- Usually performed just before scheduling LDLT
+  - Allows ruling out other exclusion criteria
+
+## Voluntary and Informed Consent
+
+- Primary selection criterion for LDLT donation
+- Donor must understand risks:
+  - Primary nonfunction
+  - Recurrence of liver disease in allograft
+  - Graft loss from technical reasons or rejection
+  - Death of recipient
+
+## Consent Process Details
+
+- Provide information about:
+  - Center's LDLT experience
+  - Cadaveric LT outcomes
+  - Complex hepatobiliary surgeries
+  - Short- and long-term donor morbidities, mortality, and outcomes
+- Review consent process privately with donor
+- Ensure no coercion present
+
+## Donor Rights in Consent Process
+
+- Right to withdraw from process at any time until surgery
+- Complete autonomy maintained throughout evaluation
+- Ethical imperative for transparent communication
+
+## Anesthesia Management Goals
+
+- Safest anesthetic with minimal morbidity
+- Address key issues:
+  - Hypothermia prevention
+  - Maintenance of low central venous pressure (CVP)
+  - Postoperative analgesia
+
+## Anesthesia Risks for Donors
+
+- No more than general anesthesia for complex abdominal surgery
+- Standard risk profile comparable to other major surgeries
+
+## Deep Venous Thrombosis Prophylaxis
+
+- Both chemoprophylaxis and mechanical prophylaxis used
+- Standard protocol for all donors
+- Essential component of perioperative care
+
+## CVP Management During Hepatectomy
+
+- Maintain low levels (0-5 cm)
+- Combination approach:
+  - Fluid restriction
+  - Venodilatory agents if necessary
+- Prevent sympathetic stimulation during induction
+
+## Blood Transfusion Policy
+
+- No homologous or autologous blood transfusions for donors
+- Cell-saver device used to minimize blood loss
+- Storage of autologous blood used by some centers for right liver donation
+
+## Monitoring and Positioning
+
+- Arterial line and 9F central venous catheter for invasive monitoring
+- Rapid fluid administration capability
+- Hypothermia prevention:
+  - Monitor room temperature
+  - Active warming with hot-air devices
+- Nasogastric tube and Foley catheter placement
+- Supine position with right arm extended at 90°, left arm at side
+
+## Antibiotic Prophylaxis
+
+- Administered within 60 minutes before incision
+- Per institutional protocol
+- Standard surgical prophylaxis
+
+## Donor Hepatectomy: Incision
+
+- Right subcostal incision with left subcostal extension
+- 2 finger breadths below costal margin
+- Preferred for ease of mobilization of both right and left lobes
+- Access to retrohepatic inferior vena cava (IVC)
+- Midline extension toward xiphoid process occasionally required
+  - For deep abdominal cavity extending high under rib cage
+
+## Alternative Approaches
+
+- Laparoscopic-assisted hepatectomies described
+- Completely laparoscopic hepatectomies recently described
+- Not currently standard of care
+
+## Initial Surgical Steps
+
+- Bimanual palpation of liver to estimate GV
+- Preoperative estimates can occasionally be misleading
+- Falciform ligament taken down to insertion at hepatic veins-IVC junction
+- Self-retaining retractor system established for exposure
+
+## Intraoperative Ultrasonography (IOUS)
+
+- Review portal and hepatic venous anatomy
+- Evaluate for occult lesions missed on preoperative imaging
+- Essential diagnostic tool during procedure
+
+## Left Triangular Ligament Division
+
+- Mobilize left lateral segment (LLS)
+- Dissection to level of left phrenic vein insertion into left hepatic vein (LHV)
+- Medial dissection until medial aspects of LHV and IVC exposed
+
+## Hepatic Vein Exposure
+
+- Confluence of LHV and middle hepatic vein (MHV) exposed
+- Low insertions of left phrenic vein and ligamentum venosum divided
+- Medial aspect of LHV exposed
+- Overlying liver tissue divided if LHV inserts low into IVC
+
+## Hepatoduodenal and Hepatogastric Ligaments
+
+- Exposed by retracting LLS cephalad and distal stomach caudally
+- Hepatogastric ligament divided
+- Accessory or replaced LHA encountered and preserved
+- Aberrant vessels dissected to origin from left gastric artery
+
+## Hepatic Artery Dissection
+
+- Hepatoduodenal ligament opened along medial aspect
+- LHA exposed and dissected proximally to origin from hepatic artery proper
+- Distally dissected until anterior surface of left portal vein (LPV) exposed
+- Proper hepatic artery dissection discouraged to avoid remnant liver injury
+
+## Portal Vein Mobilization
+
+- LHA gently retracted with vessel loop laterally
+- Anterior exposure of LPV achieved
+- LPV mobilized circumferentially
+- Short portal branches to segment IV divided between fine silk ligatures
+
+## Hilar Plate Dissection
+
+- Tissue along medial aspect of hilar plate divided
+- Additional retraction of quadrate lobe cephalad
+- Helps identify left hepatic duct cephalad to LHA and anterior to LPV
+
+## Biliary Anatomy Dissection
+
+- Confluence of right and left hepatic ducts dissected out
+- Care taken not to skeletonize ducts to preserve blood supply
+- Prevents biliary complications
+
+## Cholangiogram Preparation
+
+- Large hemoclip placed on periductal tissue at anticipated transection site
+- Gallbladder mobilized using fundus-first approach
+- Transcystic cholangiogram performed to:
+  - Confirm biliary anatomy
+  - Identify occult accessory ducts
+  - Determine hepatic duct confluence location relative to hemoclip
+
+## Caudate Lobe Mobilization
+
+- Peritoneum divided along left border from hepatic veins to IVC
+- Small direct hepatic venous branches from caudate lobe to IVC encountered
+- Branches ligated with fine silk ties or divided using tissue-sealing device
+
+## Final IOUS and Transection Planning
+
+- IOUS performed to identify hepatic vein course and branches
+- Liver capsule marked with diathermy 1 cm right of MHV course
+- Marks anterior projection of parenchymal transection plane
+- Extends posteriorly to anterior surface of IVC
+
+## Biliary Transection
+
+- Left hepatic duct sharply transected at level determined by cholangiogram
+- Precise anatomical localization critical for success
+
+## Penrose Drain Placement
+
+- Passed posterior to liver, in front of hilar structures inferiorly
+- Brought out superiorly anterior to IVC and right of MHV
+- Facilitates retraction and exposure
+
+## Parenchymal Transection
+
+- Initiated in gallbladder fossa
+- Continued with Cavitron Ultrasonic Surgical Aspirator (CUSA)
+- Precise dissection technique essential
+
+## Anticoagulation and Vascular Control
+
+- Patient anticoagulated with 60 U/kg heparin intravenously
+- LHA ligated and divided sharply
+- Vascular clamp placed on LPV, then divided sharply
+- MHV and LHV clamped distal to confluence close to IVC and divided sharply
+
+## Graft Procurement
+
+- Specimen transferred to back table
+- Flushed with cold preservative solution
+- Transferred to recipient room on ice
+- Immediate preservation critical
+
+## Donor Site Closure
+
+- Stumps of hepatic vein and portal vein oversewn with nonabsorbable polypropylene suture
+- Left hepatic duct stump oversewn with 6-0 Maxon or PDS suture in running fashion
+- Cut surface examined for bleeding and bile leakage
+- Small ducts transected during dissection identified and oversewn with 6-0 Maxon suture
+
+## Drain Placement and Abdominal Closure
+
+- Closed-suction drain placed along cut surface of liver
+- Abdomen closed in standard 2-layer fashion with heavy absorbable sutures
+- Patient extubated in operating room
+- Transferred to PACU, then ICU for first 24 hours
+
+## Recipient Hepatectomy: Incision
+
+- Standard right subcostal incision with left extension
+- Enter abdominal cavity
+- Mobilize liver akin to cadaveric transplantation
+
+## Hilar Dissection
+
+- Right hepatic artery and LHA individually ligated
+- Common bile duct divided as high as possible
+- Right, left, and main portal veins circumferentially dissected
+
+## Liver Mobilization
+
+- Liver mobilized off retrohepatic IVC
+- Right, middle, and left hepatic veins isolated
+- Clamps placed across main portal vein and hepatic veins proximal to IVC insertion
+
+## Vascular Division
+
+- Right and left portal veins divided
+- Right, middle, and left hepatic veins divided close to liver
+- Decision made regarding hemi-portacaval shunt (HPCS) creation based on allograft weight
+
+## GIM Decision Criteria
+
+- GW/RW ratio < 0.8%: routine splenic artery ligation
+- Portal venous pressure > 15 mm Hg: HPCS indicated
+- Portal venous flow (PVF) > 250 mL/min/100g liver tissue: HPCS indicated
+- Simple venting of native portal vein can provide flow estimation
+
+## HPCS Creation
+
+- Right portal vein anastomosed to IVC in end-to-side fashion
+- Large hemoclip placed on right portal vein
+- Left portal vein prepared for allograft implantation
+
+## Allograft Implantation
+
+- Allograft positioned in subhepatic fossa
+- Left hepatic vein anastomosed to recipient's left hepatic vein-IVC confluence
+- Running suture technique with nonabsorbable polypropylene
+
+## Portal Vein Anastomosis
+
+- Left portal vein anastomosed to recipient's left portal vein
+- Running suture technique with 6-0 or 7-0 polypropylene
+- Growth factor left to prevent purse-string effect
+
+## Reperfusion
+
+- Hepatic vein clamp removed first
+- Portal vein clamp removed slowly
+- Reperfusion of allograft begins
+- Hemodynamic monitoring critical during this phase
+
+## Arterial Anastomosis
+
+- Left hepatic artery anastomosed to recipient's left hepatic artery
+- Microsurgical technique with 8-0 or 9-0 nylon
+- Loupe magnification typically used
+- Careful handling to prevent intimal dissection
+
+## Biliary Reconstruction
+
+- Duct-to-duct anastomosis preferred when possible
+- Roux-en-Y hepaticojejunostomy if duct-to-duct not feasible
+- 6-0 or 7-0 PDS interrupted sutures
+- T-tube placement optional
+
+## Completion of Implantation
+
+- Hemostasis verified
+- All anastomoses inspected for patency
+- Doppler ultrasound performed to confirm vascular flow
+- Biliary anastomosis integrity confirmed
+- Abdominal closure in layers
+
+## Postoperative Monitoring
+
+- ICU monitoring for first 24-48 hours
+- Serial liver function tests
+- Doppler ultrasound surveillance
+- Coagulation profile monitoring
+- Early detection of complications
+
+## Vascular Complications
+
+- Hepatic artery thrombosis: most serious
+- Portal vein thrombosis: less common
+- Hepatic venous outflow obstruction
+- Requires urgent intervention
+- May require re-transplantation
+
+## Biliary Complications
+
+- Most common complication after LDLT
+- Bile leaks from cut surface or anastomotic site
+- Biliary strictures: anastomotic or non-anastomotic
+- Management: ERCP, PTC, or surgical revision
+
+## Small-for-Size Syndrome Management
+
+- Early recognition critical
+- Supportive care: albumin, diuretics, fresh frozen plasma
+- GIM techniques prevent majority of cases
+- Plasmapheresis in severe cases
+- Re-transplantation as last resort
+
+## Immunosuppression Protocol
+
+- Similar to cadaveric liver transplantation
+- Calcineurin inhibitor-based (tacrolimus)
+- Steroid taper
+- Mycophenolate mofetil
+- Individualized based on renal function and complications
+
+## Long-Term Outcomes
+
+- Graft survival comparable to cadaveric transplantation
+- Patient survival similar between LL and RL LDLT
+- Quality of life excellent for both donors and recipients
+- Low recurrence rate of original liver disease
+
+## Donor Outcomes
+
+- Most donors return to normal activity within 3 months
+- Low morbidity rate (<10%)
+- Mortality rate <0.5%
+- Most common complications: wound infection, bile leak, incisional hernia
+- Long-term liver function normal
+
+## Advantages of LL LDLT
+
+- Lower donor morbidity compared to RL
+- Simpler surgical technique
+- Adequate graft volume for many recipients
+- GIM techniques overcome size limitations
+- Ethically preferable due to donor safety
+
+## Limitations of LL LDLT
+
+- May not provide adequate volume for large recipients
+- Technical complexity of GIM techniques
+- Requires experienced surgical team
+- Not suitable for all recipients
+
+## Future Directions
+
+- Robotic-assisted donor hepatectomy
+- Improved imaging techniques
+- Better understanding of regeneration
+- Bioengineered liver grafts
+- Xenotransplantation developments
+
+## Ethical Considerations
+
+- Donor safety paramount
+- Informed consent process
+- Risk-benefit analysis for both donor and recipient
+- Equitable organ allocation
+- Transparency in outcomes reporting
+
+## Conclusion
+
+- LL LDLT is safe and effective for ESLD
+- GIM techniques have revolutionized the field
+- Outcomes comparable to cadaveric transplantation
+- Donor safety is primary consideration
+- Should be preferred over RL LDLT when feasible
+- Continued refinement will improve outcomes further
+
+## Key Takeaways
+
+- LL LDLT shifts risk from donor to recipient
+- GIM techniques eliminate SFSS concerns
+- Long-term outcomes excellent
+- Donor morbidity low with LL approach
+- Multidisciplinary team essential for success
+- Patient selection critical for optimal outcomes
+
+## Appendix: Surgical Techniques
+
+- Detailed operative descriptions available
+- Video references recommended
+- Institutional protocols vary
+- Experience-based modifications common
+
+## Appendix: Imaging Protocols
+
+- MRI/MRCP protocols institutional
+- Volumetric analysis software options
+- Intraoperative ultrasound techniques
+- Postoperative surveillance imaging
+
+## Appendix: Complication Management
+
+- Algorithm for vascular complications
+- Biliary complication management pathway
+- SFSS treatment protocol
+- Re-transplantation criteria
+
+
+## Final Remarks
+
+- LL LDLT represents significant advancement in transplantation
+- Continued innovation will expand donor pool
+- Focus on donor safety must remain paramount
+- Multidisciplinary approach essential
+- Future developments promising
+
+## Clinical Pearls
+
+- Always confirm anatomy with cholangiogram
+- Maintain low CVP during donor hepatectomy
+- Use growth factor in vascular anastomoses
+- Monitor portal pressure during reperfusion
+- Early detection of complications crucial
+
+## Technical Tips
+
+- CUSA settings: 70-80% amplitude, 70-80% irrigation
+- Suture selection: 6-0 PDS for biliary, 5-0/6-0 for vascular
+- Drain placement: near biliary anastomosis
+- Retractor positioning: adequate exposure essential
+
+## Pearls for Residents
+
+- Understand hepatic segmental anatomy
+- Practice microsurgical techniques
+- Learn to interpret intraoperative ultrasound
+- Recognize anatomical variations early
+- Communicate effectively with team
+
+## Educational Objectives
+
+- Understand LL LDLT indications
+- Learn donor selection criteria
+- Master surgical techniques
+- Recognize complications
+- Appreciate ethical considerations
+
+## Case Study Example
+
+- 45-year-old male with ESLD
+- MELD score 18
+- LL LDLT from sister
+- GRWR: 0.7%
+- GIM with splenic artery ligation
+- Excellent outcome at 5 years
+
+## Statistical Considerations
+
+- Power analysis for studies
+- Survival analysis methods
+- Risk factor identification
+- Propensity score matching
+- Multivariable regression models
+
+## Regulatory Issues
+
+- UNOS/OPTN regulations
+- Institutional review board approval
+- Informed consent documentation
+- Outcome reporting requirements
+- Quality assurance programs
+
+## International Perspectives
+
+- Asian experience with LDLT
+- European approaches
+- South American developments
+- Global disparities in access
+- Collaborative initiatives
+
+## Health Economics
+
+- Cost-effectiveness analysis
+- Insurance coverage issues
+- Donor financial considerations
+- Long-term cost savings
+- Healthcare policy implications
+
+## Psychosocial Aspects
+
+- Donor psychological impact
+- Recipient adjustment
+- Family dynamics
+- Support group importance
+- Long-term psychological outcomes
+
+## Pediatric Considerations
+
+- LL LDLT in children
+- Size matching challenges
+- Growth considerations
+- Long-term outcomes
+- Transition to adult care
+
+## Geriatric Considerations
+
+- Elderly donors
+- Age-related outcomes
+- Comorbidity assessment
+- Risk stratification
+- Ethical considerations
+
+## Future Technologies
+
+- 3D printing for surgical planning
+- Artificial intelligence applications
+- Robotic surgery advancements
+- Bioartificial liver support
+- Stem cell therapies
+
+## Summary of Key Points
+
+1. LL LDLT safe and effective
+2. GIM techniques overcome size limitations
+3. Donor safety paramount
+4. Excellent long-term outcomes
+5. Requires experienced multidisciplinary team

@@ -6,11 +6,15 @@
 
 ## Chapter 
 
-{{< 105_Liver_Transplantation_Indications_and_General_Considerations >}}
+{{< reveal 105_Liver_Transplantation_Indications_and_General_Considerations >}}
 
 ## APASL LDLT 
 
-{{< Extras/transplant/apasl_ldlt >}}
+{{< reveal Extras/transplant/apasl_ldlt >}}
+
+## Left lobe LDLT
+
+{{< reveal Extras/transplant/left_lobe_ldlt >}}
 
 :::
 

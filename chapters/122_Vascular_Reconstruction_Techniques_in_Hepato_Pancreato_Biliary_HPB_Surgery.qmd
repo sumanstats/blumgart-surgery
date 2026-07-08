@@ -3,9 +3,14 @@
 
 ::: {.panel-tabset}
 
+
 ## Hepatic artery recon 
 
-{{< Extras/transplant/microsurgery_ldlt >}}
+{{< reveal Extras/transplant/microsurgery_ldlt >}}
+
+## Microsurgery Plastic surgery 
+
+{{< reveal Extras/transplant/microsurgery_plastic_surgery >}}
 
 :::
 

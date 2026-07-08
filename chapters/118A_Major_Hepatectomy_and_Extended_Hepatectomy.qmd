@@ -6,6 +6,10 @@
 
 {{< reveal 118A_Major_Hepatectomy_and_Extended_Hepatectomy >}}
 
+## Chapter with Kimi
+
+{{< reveal Extras/liver/118A_major_hepatectomy_presentation_kimi >}}
+
 :::
 
 1. **How is a major hepatectomy typically defined?**  
