@@ -37,14 +37,14 @@ format:
 ## Indications for Major Hepatectomy
 
 **Most Common:**
-- Malignant tumors of the liver and biliary tree
+	- Malignant tumors of the liver and biliary tree
 
 **Less Common:**
-- Large symptomatic or premalignant benign tumors
-- En bloc resections of perihepatic tumors
-- Liver infections
-- Trauma
-- Complex bile duct injuries
+    - Large symptomatic or premalignant benign tumors
+    - En bloc resections of perihepatic tumors
+    - Liver infections
+    - Trauma
+    - Complex bile duct injuries
 
 ---
 
@@ -146,6 +146,7 @@ Major hepatectomy is indicated when pathology involves:
 **Critical Concept:** It is the volume of **residual liver parenchyma** that is directly responsible for posthepatectomy morbidity
 
 The surgeon should:
+
 - Have a sense of relative volumes
 - Have resources to directly measure planned resection volume
 
@@ -158,10 +159,12 @@ The surgeon should:
 **Mandatory:** High-quality, multiphasic cross-sectional imaging
 
 Required phases:
+
 - **Arterial phase**
 - **Portal venous phase**
 
 Purpose:
+
 - Assess extent of disease
 - Evaluate vascular proximity
 - Identify anatomic variations
@@ -200,6 +203,7 @@ Plus specific issues related to pathology proximity
 *See Chapter 2*
 
 Most common anomalies:
+
 - Right sectoral ducts draining to left bile duct
 - Low insertions into common hepatic/bile duct
 
@@ -207,17 +211,17 @@ Most common anomalies:
 
 ## Biliary Imaging: Left-Sided Resections
 
-Imaging of biliary tree is **most relevant for left-sided major resections**
+- Imaging of biliary tree is **most relevant for left-sided major resections**
 
-Reason: Must be prepared for right sectoral ducts that may be injured during left hepatectomy
+- Reason: Must be prepared for right sectoral ducts that may be injured during left hepatectomy
 
 ---
 
 ## Biliary Imaging: Right-Sided Resections
 
-Hilar branching of biliary tree should be known in every case
+- Hilar branching of biliary tree should be known in every case
 
-However, it is **not often relevant in right-sided major resections**
+- However, it is **not often relevant in right-sided major resections**
 
 ---
 
@@ -258,10 +262,12 @@ However, it is **not often relevant in right-sided major resections**
 **Critical:** Portal hypertension can be present even with normal synthetic function
 
 Causes:
+
 - Chronic liver disease
 - Extensive systemic chemotherapy
 
 Clinical findings:
+
 - Splenomegaly
 - Thrombocytopenia
 - Evidence of varices
@@ -286,6 +292,7 @@ Presence of either = prohibitive operative risk
 **FLR <25-30%** = significant risk of posthepatectomy liver failure
 
 Even **higher thresholds** required in:
+
 - Chronic liver disease
 - Chemotherapy-related hepatic injury
 
@@ -317,6 +324,7 @@ When FLR volumes are inadequate, strategies to increase volume and function incl
 ## PVE: Volume and Kinetics
 
 Assessment of:
+
 - **Absolute changes** in volume
 - **Kinetics** of growth
 
@@ -327,6 +335,7 @@ These are very good markers of liver function and improve safety of major resect
 ## Relevant Anatomy: Hepatic Artery
 
 The common hepatic artery:
+
 - Branches from celiac axis
 - Courses right along superior border of pancreas body
 - Gives off gastroduodenal artery
@@ -358,6 +367,7 @@ The common hepatic artery:
 ## Left Hepatic Artery: Segment IV Variation
 
 **Alternative branching pattern:**
+
 - Segment IV branch arises from proximal right hepatic artery
 - The apparent "left hepatic artery" only supplies left lateral section
 - Important variation to recognize preoperatively
@@ -388,6 +398,7 @@ The common hepatic artery:
 ## Right Hepatic Artery Anomalies
 
 Replaced/accessory right hepatic arteries:
+
 - Most commonly originate from **superior mesenteric artery**
 - Course posteriorly along right side of porta hepatis
 - **Lateral to portal vein**
@@ -397,6 +408,7 @@ Replaced/accessory right hepatic arteries:
 ## Left Hepatic Artery Anomalies
 
 Replaced/accessory left hepatic arteries:
+
 - Most commonly originate from **left gastric artery**
 - Run through **gastrohepatic ligament**
 - Enter liver at left side of base of umbilical fissure
@@ -406,6 +418,7 @@ Replaced/accessory left hepatic arteries:
 ## Common Hepatic Artery Anomalies
 
 Can be replaced to superior mesenteric artery:
+
 - Runs cephalad and anteriorly
 - Between portal vein and common bile duct
 - Enters anterior portion of porta hepatis
@@ -417,6 +430,7 @@ Can be replaced to superior mesenteric artery:
 **Nearly any branching pattern is possible**
 
 This anatomy should be:
+
 - Known from preoperative imaging
 - Anticipated at surgery
 
@@ -427,6 +441,7 @@ This anatomy should be:
 ## Relevant Anatomy: Portal Vein
 
 Formation:
+
 - Confluence of splenic vein and superior mesenteric vein
 - Courses posteriorly and to the right within porta hepatis
 
@@ -435,6 +450,7 @@ Formation:
 ## Portal Vein Branching
 
 At base of liver (between caudate and segment IV):
+
 - **Left portal vein:** Long, transverse, leftward running
 - **Right portal vein:** Shorter, more cephalad coursing
 
@@ -442,9 +458,9 @@ At base of liver (between caudate and segment IV):
 
 ## Caudate Portal Vein Branches
 
-**First branches** of right and left portal vein go to caudate lobe
+- **First branches** of right and left portal vein go to caudate lobe
 
-Must be identified before encircling right or left portal vein:
+- Must be identified before encircling right or left portal vein:
 
 | Origin | Supplies |
 |--------|----------|
@@ -473,9 +489,9 @@ Must be identified before encircling right or left portal vein:
 
 ## Portal Vein Anomalies
 
-**5-10% of patients:** Early branching posterior sectoral vein directly off main portal vein
+- **5-10% of patients:** Early branching posterior sectoral vein directly off main portal vein
 
-**Dangerous situation (<1%):** Single vein enters liver, gives off right portal vein, then courses left as left portal vein
+- **Dangerous situation (<1%):** Single vein enters liver, gives off right portal vein, then courses left as left portal vein
 
 *See Figs. 2.38–2.43*
 
@@ -484,6 +500,7 @@ Must be identified before encircling right or left portal vein:
 ## Dangerous Portal Vein Anomaly
 
 With a **single vein** in porta hepatis:
+
 - Easy to mistakenly divide entire portal venous anatomy
 - Must be anticipated by careful imaging review
 
@@ -491,17 +508,19 @@ With a **single vein** in porta hepatis:
 
 ## Portal Venous Inflow: Critical Importance
 
-**Preservation of portal venous inflow is critically important** for:
-- Postoperative liver regeneration
-- Particularly for major resections
+- **Preservation of portal venous inflow is critically important** for:
 
-Compromise can result in **postoperative liver failure**
+	- Postoperative liver regeneration
+	- Particularly for major resections
+
+- Compromise can result in **postoperative liver failure**
 
 ---
 
 ## Relevant Anatomy: Bile Duct
 
 Location:
+
 - Common bile duct: **anteriorly** along right border of porta hepatis
 - Common hepatic duct: cephalad to cystic duct insertion
 
@@ -519,23 +538,26 @@ Location:
 
 ## Danger: Skeletonization of Bile Tree
 
-Skeletonization along lateral aspects can result in:
-- **Ischemia**
-- **Strictures**
-- **Necrosis**
+- Skeletonization along lateral aspects can result in:
 
-Avoid lateral dissection of bile duct
+	- **Ischemia**
+    - **Strictures**
+    - **Necrosis**
+   
+- Avoid lateral dissection of bile duct
 
 ---
 
 ## Bile Duct Branching Patterns
 
 **Left bile duct:**
+
 - Long, courses transversely along base of segment IV
 - Enters umbilical fissure
 - Gives off segmental branches to left liver
 
 **Right bile duct:**
+
 - Short
 - Early branching into sectoral/segmental branches
 - Enters right liver at base of cystic plate
@@ -554,6 +576,7 @@ Avoid lateral dissection of bile duct
 ## Biliary Anomalies in Major Hepatectomy
 
 Most relevant anomalies:
+
 - Right posterior sectoral duct entering left bile duct
 - Right anterior sectoral duct entering left bile duct
 - Low entry sectoral ducts into common hepatic/bile duct
@@ -564,17 +587,18 @@ Most relevant anomalies:
 
 ## Left-Sided Insertions of Right Ducts
 
-**Particularly relevant for left-sided major resections**
+- **Particularly relevant for left-sided major resections**
 
-Risk:
-- Easy to injure right-sided biliary branches
-- Easy to narrow or ligate these branches
+- Risk:
+	- Easy to injure right-sided biliary branches
+    - Easy to narrow or ligate these branches
 
 ---
 
 ## Managing Anomalous Biliary Branches
 
 May require:
+
 - Biliary exploration
 - Cholangiogram to determine exact anatomy
 - Proceed only with confirmed safe anatomy
