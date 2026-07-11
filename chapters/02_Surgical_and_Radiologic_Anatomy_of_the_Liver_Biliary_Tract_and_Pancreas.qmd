@@ -19,6 +19,10 @@
 
 {{< reveal Extras/liver/liver_anatomy_grays >}}
 
+## Anatomy of resectional surgery 
+
+{{< reveal Extras/liver/anatomy_resectional_surgery >}}
+
 ## Caudate lobe anatomy article
 
 {{< reveal Extras/liver/caudate_lobe_anatomy >}}
