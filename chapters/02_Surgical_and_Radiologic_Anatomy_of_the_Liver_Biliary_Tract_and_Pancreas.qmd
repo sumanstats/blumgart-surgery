@@ -15,6 +15,14 @@
 
 {{< reveal Extras/liver/biliary_anat_embryology >}}
 
+## Grays anatomy liver
+
+{{< reveal Extras/liver/liver_anatomy_grays >}}
+
+## Caudate lobe anatomy article
+
+{{< reveal Extras/liver/caudate_lobe_anatomy >}}
+
 :::
 
 Generated with Claude. 

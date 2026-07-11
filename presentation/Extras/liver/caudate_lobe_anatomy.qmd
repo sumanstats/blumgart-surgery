@@ -1,0 +1,554 @@
+---
+title: "Extensive Review of the Caudate Lobe"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+## The Last Piece of "Jigsaw" Puzzle
+
+- **Journal:** Asian Journal of Surgery 47 (2024) 1-7
+
+## Abstract: Overview
+
+- Many liver surgeons have updated their understanding of the liver in recent years due to detailed studies on liver anatomy and rapid advances in laparoscopic liver surgery.
+- Despite newer approaches, concepts, and methods, research on the caudate lobe continues to be based on case reports.
+- Several persistent challenges concerning caudate lobe surgery are worth discussing.
+
+
+## Abstract: Anatomical History and Challenges
+
+- This study reviewed the anatomical history of the caudate lobe.
+- Focuses on the challenges associated with caudate lobe-related surgical resection.
+- Understanding the anatomical history of the caudate lobe and discussing the challenges associated with caudate lobectomy is essential for surgical success.
+
+## Introduction: Historical Context
+
+- The liver's caudate lobe was first studied in the 13th century.
+- It is situated in the deep dorsal region between the inferior vena cava (IVC) and the portal triad.
+- Defining the caudate lobe has been controversial throughout history owing to its unique anatomical location and complex venous return system.
+
+## Introduction: Anatomical Position and Challenges
+
+- Caudate lobe tumours have a deep and complex site.
+- The caudate lobe's right and ventral margins are difficult to determine.
+- These factors pose significant surgical treatment-related challenges.
+
+## Introduction: Limitations of Non-Surgical Treatments
+
+- Non-surgical treatments, such as ablation and transcatheter arterial embolization, are also challenging.
+- The results of these non-surgical treatments are inferior to surgical treatment.
+- Therefore, surgical resection is practically the only way of curing caudate lobe tumours.
+
+## Introduction: Advances in Surgical Modalities
+
+- With advances in diagnostic and treatment modalities, isolated caudate lobectomy has become increasingly common.
+- Laparoscopic-assisted technology has vastly improved the resection and survival rates associated with caudate lobe tumours.
+- This presentation discusses the research history and challenges of laparoscopic caudate lobectomy.
+
+## Section 1: Caudate Lobe-Related Anatomy and Study History
+
+- The caudate lobe is located deep in the liver.
+- **Anterior:** Inferior vena cava (IVC)
+- **Posterior:** Three main hepatic veins
+- **Extension:** To the point where the three main hepatic veins merge into the IVC, up to the hilar plate.
+- The definition of the caudate lobe is historically controversial.
+
+## Early Studies (1300s - 1654)
+
+- Sylvius and Spieghel began studying the posterior part of the liver in the 1300s.
+- In 1654, Glisson named the *lobus exiguous* after Spieghel.
+- Modern hepatic or Couinaud segments were identified after further studies on the liver's embryology, anatomy, and comparative anatomy.
+
+## Couinaud's Evolving Understanding
+
+- Professor Couinaud's (1922-2008) understanding and naming of the caudate lobe have been constantly revised.
+- **1954:** Defined the dorsal liver as Couinaud I Segment, or caudate lobe.
+- **1989:** Further divided Segment I into Segment I-l and Segment I-r.
+- **1994:** Renamed Segment I-r as Segment IX; suggested caudate lobe is divided into I and IX segments.
+
+## Couinaud's Later Revisions
+
+- **1998:** Suggested segment IX has three parts: b, c, and d (basis not specified).
+- **1999 (Filipponi article):** Argued caudate lobe comprised segments I and IX, further divided into IXL and IXR.
+- **2002 (Abdalla article):** Couinaud abandoned the IX designation completely.
+
+## Figure 1: Timeline of Caudate Lobe Nomenclature
+
+| Year | Author | Nomenclature / Segmentation |
+| :--- | :--- | :--- |
+| 1654 | Glisson | Lobus exiguous after Spieghel |
+| 1954 | Couinaud | Dorsal liver = Segment I (Caudate lobe) |
+| 1989 | Couinaud | Divided into Segment I-l and Segment I-r |
+| 1994 | Couinaud | Renamed I-r to Segment IX (Segments I and IX) |
+| 1998 | Couinaud | Segment IX divided into parts b, c, and d |
+| 1999 | Filipponi | Segments I and IX, divided into IX-L and IX-R |
+| 2002 | Abdalla | Abandoned the IX designation |
+| 1985 | Kumon | Caudate process, Paracaval portion, Spiegel lobe |
+
+## Kumon’s Segmentation Method (1985)
+
+- Kumon’s segmentation method, developed in 1985, has been widely accepted in clinical practice.
+- Classified the caudate lobe into three segments:
+  1. Caudate process
+  2. Paracaval portion
+  3. Spiegel lobe
+- This has become a common term for the nomenclature and segmentation of the caudate lobe.
+
+## Kumon’s 2020 Liver Cast Study
+
+- In 2020, Kumon used liver cast specimens to thoroughly study the anatomy of the:
+  - Hepatic vein
+  - Portal vein
+  - Bile duct
+  - Artery of each subsegment
+- This provided a definitive anatomical basis for the caudate lobe segmentation.
+
+## Kumon's Definition: Spiegel Lobe
+
+- Situated posterior to the omentum.
+- Extends to the left of the retrohepatic IVC.
+- Extends to the left of the venous ligament.
+
+## The Venous Ligament
+
+- Arises from the portal vein's left branch.
+- Crosses the anterior aspect of the caudate lobe.
+- Terminates in the IVC posterior to the common trunk of the middle and left hepatic veins.
+
+## Kumon's Definition: Paraval Vena Cava
+
+- Runs anterior to the retrohepatic IVC.
+- Located on the Spiegel lobe's right side.
+- Surrounds the right liver and middle hepatic vein.
+
+## Kumon's Definition: Caudate Process
+
+- Known to be a tiny protrusion in-between the IVC and the adjacent portal vein anteriorly.
+- Immediately to the right side of the vena cava.
+
+## Figure 2: Schematic Diagram of Hepatic Caudate Lobe (Kumon's Definition)
+
+| Segment | Anatomical Location |
+| :--- | :--- |
+| **Spiegel Lobe** | Posterior to omentum; left of retrohepatic IVC and left of venous ligament. |
+| **Paraval Vena Cava** | Anterior to retrohepatic IVC; right of Spiegel lobe; surrounds right liver and middle hepatic vein. |
+| **Caudate Process** | Tiny protrusion between IVC and portal vein anteriorly; right side of vena cava. |
+
+## World's First Total Caudal Lobectomy
+
+- Reported by Professors Nakayama and Hisashi in Japan.
+- At the time (1994), it was still known as the 'High Dorsal Resection of the Liver'.
+- Marked a significant milestone in caudate lobe surgery.
+
+## Reasons for Nomenclature Confusion
+
+The author assumes three primary factors are responsible for the confusion associated with the caudate lobe nomenclature:
+1. Deep and narrow spatial position.
+2. No obvious anatomical markers for right and ventral margins.
+3. Intertwined caudate vein drainage.
+
+## Reason 1: Deep Spatial Position
+
+- The caudate lobe has a deep and narrow spatial position.
+- The portal vein's blood supply is separated from the bile duct and hepatic artery.
+- They are not in the Glisson sheath.
+- This makes it challenging to determine each part of the caudate lobe's specific spatial structure.
+
+## Reason 2: Unclear Margins
+
+- The caudate lobe's right and ventral margins have no obvious anatomical markers.
+- The distinction between the caudate lobe and the right posterior liver is unclear.
+- This creates difficulties in defining the exact extent of the lobe for surgical resection.
+
+## Reason 3: Intertwined Venous Drainage
+
+- The caudate vein's drainage is intertwined.
+- Includes short hepatic vein drainage.
+- Also includes main hepatic vein drainage.
+- This complex venous return makes anatomical segmentation difficult.
+
+## Section 2: Anatomical Knowledge of the Caudate Lobe
+
+- The portal vein, bile duct, and hepatic artery cluster into the caudate lobe.
+- Together, they form the **caudate lobe pedicle**.
+- Kumon believed that two relatively constant pedicles exist: the left and right pedicles.
+
+## Left and Right Pedicles
+
+- **Left pedicle:** Relatively fixed. More than the middle and lower third of Spiegel's lobe enters the caudate lobe.
+- **Right pedicle:** Relatively unfixed. May enter the paracaval vena cava or caudate process, or it may even be absent.
+- Approximately **27.8%** of caudate lobes form three pedicles.
+
+## Caudate Artery Types
+
+Professor Akihiro Cho described the caudate artery as divided into three primary parts from the hepatic artery:
+1. **Independent branch type**
+2. **Common trunk type**
+3. **Communicating branch type**
+
+## Portal Vein Branches Overview
+
+- The caudate lobe's portal vein branches are more complex.
+- Primarily comprises the independent branch and common trunk types.
+- The origins differ based on the specific subsegment of the caudate lobe.
+
+## Portal Vein: Spiegel Lobe
+
+- The Spiegel lobe's portal vein is relatively stable.
+- Mainly stems from the **left branch** of the portal vein.
+
+## Portal Vein: Paravena Cava and Caudate Process
+
+- **Paravena Cava:** Mainly originates from the main portal vein and the bifurcation of the portal vein.
+- **Caudate Process:** Mainly emanates from the portal vein's **right branch**.
+
+## Figure 3: Anatomy of the Caudate Lobe (Pedicles and Branches)
+
+| Structure | Origin / Description |
+| :--- | :--- |
+| **Left Pedicle** | Fixed; enters middle/lower third of Spiegel's lobe. |
+| **Right Pedicle** | Unfixed; enters paracaval vena cava or caudate process. |
+| **Spiegel Portal Vein** | Stems from left branch of portal vein. |
+| **Paracaval Portal Vein** | Originates from main portal vein / bifurcation. |
+| **Caudate Process Portal Vein** | Emanates from right branch of portal vein. |
+
+## Bile Ducts of the Caudate Lobe
+
+- The caudate lobe's bile ducts commonly have two branches on the left and right.
+- Spiegel's lobe usually comprises two or three branches of bile ducts with drainage into the **left hepatic duct**.
+
+## Bile Ducts: Paracaval Portion
+
+- The paracaval portion commonly has two or three bile duct branches.
+- These usually drain into the **right posterior bile duct**.
+- A branch of the bile duct near the middle hepatic vein occasionally drains into the left hepatic duct.
+
+## Bile Ducts: Caudate Process Drainage
+
+- The right posterior bile duct usually receives the caudate process drainage.
+- There are multiple cross-confluence phenomena.
+- Masahiro highlighted that the Spiegel lobe's bile duct merged into the right hepatobiliary duct or the right posterior branch in **49 of 138 cases**.
+
+## Venous Drainage Overview
+
+- The caudate lobe receives venous drainage directly from:
+  - Short hepatic vein (IVC)
+  - Superior right hepatic vein
+  - Caudate processes hepatic vein (CPHV)
+  - Proper hepatic vein of the caudate phrenic vein (PrHVCL)
+  - Accessory hepatic vein of the caudate lobe (AcHV)
+
+## Caudate Processes Hepatic Vein (CPHV)
+
+- Located between the caudate process and the liver's right posterior lobe.
+- Drains the caudate process.
+- Drains further into the right margin of the lower part of the retrohepatic IVC.
+- Serves as a **boundary** between the caudate process and the right posterior lobe.
+
+## Proper Hepatic Vein of the Caudate Lobe (PrHVCL)
+
+- Generally situated between the Spiegel lobe's paracaval vena cava.
+- Drains into the left middle margin of the retrohepatic vena cava.
+- Usually comprises 1-2 veins approximately 3 mm in diameter.
+- Serves as the anatomic boundary between Spiegel's lobe and the paracaval vena cava.
+
+## Accessory Hepatic Vein (AcHV)
+
+- Distributed in the anterior margin of the vena cava.
+- Drains directly into the retrohepatic vena cava in several individuals.
+- Mainly drains the paracaval vein.
+
+## Figure 4: Venous Reflux in Hepatic Caudate Lobe
+
+| Vein | Abbreviation | Drainage Pathway / Function |
+| :--- | :--- | :--- |
+| Short Hepatic Vein | IVC | Direct venous drainage to inferior vena cava. |
+| Superior Right Hepatic Vein | SRHV | Main venous drainage. |
+| Caudate Processes Hepatic Vein | CPHV | Drains caudate process to retrohepatic IVC; boundary to right posterior lobe. |
+| Proper Hepatic Vein of Caudate | PrHVCL | Drains Spiegel's paracaval vena cava; boundary to Spiegel's lobe. |
+| Accessory Hepatic Vein | AcHV | Drains paracaval vein directly into retrohepatic IVC. |
+
+## Hasegawa's Classification of Lesions
+
+- Hasegawa et al. classified 11 cases of hepatocellular carcinoma with metastasis to the caudate lobe.
+- Found that caudate lobe lesions could have **5 possible locations**.
+- The subsegment of the lesion can be eliminated according to the caudate lobe segment and lesion location.
+
+## Surgical Approaches
+
+- Different surgical approaches can be applied based on lesion location.
+- Commonly used surgical approaches are:
+  1. Left approach
+  2. Right approach
+  3. Middle approach
+  4. Combined approach
+
+## Figure 5: Surgical Approaches to Caudate Lobe
+
+| Approach | Description / Application |
+| :--- | :--- |
+| **A (Right Approach)** | Used for lesions primarily in the caudate process or right paracaval portion. |
+| **B (Left Approach)** | Used for lesions primarily located in the Spiegel lobe. |
+| **C (Middle Approach)** | Used for lesions centrally located or spanning multiple segments. |
+| **Combined** | Utilized for complex lesions spanning the caudate lobe and adjacent hepatic segments. |
+
+## Origins of Caudate Lobe Lesions
+
+- Most lesions in the caudate lobe result from:
+  - Liver malignancy
+  - Hilar bile duct tumour invasion
+  - Colorectal tumour metastasis to the liver
+- Few lesions originate from the caudate lobe alone.
+- Therefore, most previous studies focus on left and right hemihepatectomy fusion.
+
+## Pure Caudate Lobectomy
+
+- Cases of pure caudate lobectomy have been widely reported because we now have a comprehensive knowledge of the caudate lobe.
+- Laparoscopy has been proven advantageous in total caudate lobectomy due to its unique visual advantages.
+- First reported by French scholar Jean-Louis Dulucq in 2006.
+
+## Difficulty Scoring Systems
+
+- Regarding the difficulty scoring system for laparoscopic liver surgery, the S1 segment is not assigned.
+- Further evaluation is warranted to assess the safety of laparoscopic caudate lobe surgery.
+
+## IWATE Criteria Scoring
+
+- In the IWATE Criteria scoring system, only the criterion wherein the tumour is located in the S1 segment is assigned **4 points**.
+- Other evaluation criteria are not considered for this specific segment.
+- The difficulty level is classified as **intermediate**, indicating relatively great difficulty.
+
+## Current Literature Limitations
+
+- Currently, most literature on laparoscopic caudate lobectomy comprises case reports or individual reports, primarily from Asia.
+- As of September 2021, there were only **20 reports** in English with complete case and surgical data.
+- 18 reports were from Asia; a maximum of 47 cases were included in one study.
+- High-quality studies are needed to evaluate difficulty levels accurately.
+
+## Section 3: Challenges Associated with Surgical Resection
+
+- This section discusses the primary challenges associated with surgical resection of the caudate lobe.
+- Topics include:
+  1. Nomenclature of caudate lobe surgery
+  2. Defining the right posterior lobe boundary
+  3. Need for resection in hilar cholangiocarcinoma
+  4. Compensatory proliferation mechanisms
+
+## 3.1 Nomenclature of Caudate Lobe Surgery
+
+- Due to confusion in the nomenclature, the surgical naming of caudate lobe resection has not been unified.
+- Literature reveals caudate lobe resection might comprise:
+  - Left liver resection combined with Spiegel’s lobe resection
+  - Right liver resection combined with caudate lobe resection
+  - Liver resection involving the caudate lobe
+  - Spiegel’s lobe resection alone
+
+## Technical Requirements Variations
+
+- The resection of the liver (left and right) combined with caudate lobe resection and total caudate lobe resection are not entirely the same.
+- They differ in:
+  - Technical requirements
+  - Surgical approach
+  - Anatomical marks
+- Several studies do not specifically distinguish between them, leading to inconsistent safety evaluation outcomes.
+
+## Need for Unified Evaluation Criteria
+
+- The surgical difficulty associated with different parts of the caudate lobe varies with each part.
+- The surgical approach and technical requirements of simple paracaval resection and simple Spiegel’s lobectomy differ.
+- Unified evaluation criteria should be used to describe caudate lobe lobectomy.
+- Developing surgical approach guidelines and standards for caudate lobectomy is warranted.
+
+## 3.2 Defining Caudate Lobe and Right Posterior Lobe
+
+- Previous studies usually determined the right boundary in simple total caudate lobectomy by opening the caudate process.
+- Utilized the right posterior Glisson’s pedicle as the right ventral plane of the caudate lobe.
+- Transected the liver parenchyma between the middle and the right hepatic vein with the IVC as the marker.
+- Nonetheless, determining the correct placement of the caudate lobe’s right and ventral margins remains obscure.
+
+## Kogure et al's Findings on Right Margin
+
+- Kogure et al. highlighted that the hepatic vein separates the right liver and caudate process as a boundary.
+- They reported that determining the paracaval portion’s right margin is more significant compared to the caudate lobe’s right border.
+- However, the paracaval portion is positioned inside the liver parenchyma in segments 7 and 8, bringing challenges in margin identification.
+
+## Kitagawa et al's Landmark Suggestion
+
+- Kitagawa et al. first suggested that the **right hepatic vein** was the most significant landmark of the paracaval portion’s right margin.
+- Later agreed that the **right paracaval plane** is the imaginary right margin of the caudate lobe.
+
+## Maki et al & Kumon et al's Views
+
+- **Maki et al.** reported that the paracaval vein, which rises from the right hepatic vein, separates the caudate lobe from segments 7 and 8.
+- **Kumon et al.** believed that the short hepatic vein in the paracaval portion acted as a boundary and separated the paracaval portion from segment 8.
+
+## Challenges in Identifying the Right Margin
+
+- Determining the caudate lobe’s right margin, particularly the right margin of the paracaval portion, is extremely challenging.
+- The right paracaval plane is often employed to determine the caudate lobe’s right margin.
+- The right hepatic vein and IVC are easily identified as landmarks in the surgical field and intraoperative ultrasonography.
+- However, surgical decisions cannot be based solely on this imaginary plane.
+
+## Shen's Preoperative 3D Reconstruction
+
+- Shen reported a study involving preoperative three-dimensional reconstruction of 94 liver transplant donors.
+- Found that **only 65.4%** of cases had the right margin of the paracaval portion in the right paracaval plane.
+- This indicates significant anatomical variation that complicates standardized surgical approaches.
+
+## Anatomical Variations (Kumon, Kwon, Maki)
+
+- **Kumon** highlighted that in 53% of corrosion liver casts, the paracaval region extended to the surface of the liver, beneath the diaphragm.
+- **Kwon et al.** reported identical findings in 50% of cadaveric studies.
+- **Maki et al.** saw similar results in 30% of living patients’ images.
+- This indicates that the caudate lobe’s three-duct system and that of segments 6 and 7 intersect with each other.
+
+## Author's Belief on Total Caudate Lobectomy
+
+- Performing total caudate lobectomy from the dorsal aspect of the liver is impossible in such intersecting caudate lobe anatomies.
+- The protocol for performing total caudate lobectomy under limited conditions is worth discussing.
+- The author believes total caudate lobectomy should be guided intraoperatively using **fluorescence navigation and ultrasound**.
+- Success can be conducted by identifying the main portal vein, tracing caudate lobe branches, and identifying branches to segments 7 and 8.
+- For non-malignant tumours, complete anatomical resection can be avoided when dealing with an interface.
+
+## 3.3 Need of Resection in Hilar Cholangiocarcinoma (CCC)
+
+- Hilar cholangiocarcinoma (CCC) is a malignant tumour in the hilar bile duct; radical resection is a possible cure.
+- The caudate lobe lies proximate to the IVC and the portal vein confluence, particularly the paravena cava, and is challenging to expose.
+- Total caudate lobectomy is challenging and associated with postoperative liver failure threat.
+- Research is required to determine if partial caudate lobectomy combined with hilar CCC radical resection is reasonable.
+
+## Evolution of Hilar CCC Surgical Management
+
+- Hilar CCC surgical management has grown from limited bile duct (and liver) resections to vast surgical operations.
+- Such surgeries involve extensive hepatectomies with related intrahepatic and extrahepatic bile duct removal and the caudate lobe.
+- Clinical cohort data revealed that radical surgery for hilar CCC is linked with long-term survival rates.
+- However, routine caudate lobe resection risks and benefits for hilar CCC remain debatable.
+
+## Debate on Routine Caudate Lobe Resection
+
+- **Mainstream view:** Recommends combined caudate lobectomy regarding the scope of liver lobectomy.
+- **Opposing view:** Some studies report that although combined caudate lobectomy is more likely to obtain a negative margin, it does not improve the overall prognosis of a patient.
+
+## Anatomical Rationale for Combined Resection
+
+- The rationale for combined caudate lobectomy emerges from anatomical and histopathological research.
+- **Anatomical perspective:** The biliary branches of the caudate lobe drain into the biliary confluence and bilaterally into the left and right hepatic ducts.
+- This dual drainage makes the caudate lobe highly susceptible to tumour involvement in hilar CCC.
+
+## Vishu Jain's Cadaveric Liver Study
+
+- Vishu Jain studied the caudate lobe biliary tract anatomy of 25 cadaveric livers.
+- Identified 81 caudate branches in 25 livers.
+- **19 livers:** 43 branches draining into the left hepatic duct.
+- **18 livers:** 27 branches draining into the right hepatic duct.
+- **11 livers:** 11 branches draining in confluence.
+
+## Distances from Confluence
+
+- The mean distance between the first bile duct of the right caudate lobe and the confluence was only **8.56 mm**.
+- The mean distance between the first bile duct of the left caudate lobe and the confluence was **11.53 mm**.
+- These short distances highlight why hilar CCC easily involves the caudate biliary branches.
+
+## Suzuki et al's Tumor Mapping Study
+
+- Some studies reported a microscopic tumoural invasion in caudate biliary branches, with recurrent CCC in the caudate lobe.
+- Suzuki et al. conducted a tumour mapping study of the caudate bile duct in 10 of 12 individuals with biliary hilar malignancies.
+- Found tumoural invasion, further advocating the contribution of caudate lobe resection in hilar CCC.
+- These studies reveal that almost all hilar CCC cases may involve the caudate bile duct.
+
+## Routine Caudate Lobectomy Considerations
+
+- Preoperative imaging research is subject to limitations in identifying this mode of drainage.
+- Therefore, routine caudate lobectomy must be considered a surgical resection in each case of hilar CCC.
+- Several studies have demonstrated the significance of the caudate lobe’s tumoural involvement and the advantages of routine total caudate lobectomy being part of curative intent surgery for hilar CCC.
+
+## Arguments Against Routine Caudate Lobectomy
+
+- Routine caudate lobectomy for patients with hilar CCC is quite slow worldwide.
+- The primary view is that the proportion of the caudate lobe’s tumour involvement in hilar CCC is small.
+- Combined caudate lobectomy does not seem to improve the long-term prognosis of individuals with hilar CCC.
+
+## Risks of Caudate Lobectomy in CCC
+
+- Caudate lobectomy is challenging to perform.
+- May increase:
+  - Operation time
+  - Blood loss
+  - Postoperative complication rate
+  - Mortality
+- The caudate lobe is usually accompanied by noticeable enlargement in individuals with cirrhosis or obstructive jaundice combined with hepatic lobe atrophy.
+- Combined caudate lobectomy may increase the risk of hepatic failure after hepatectomy.
+
+## Meta-Analysis on Perioperative Incidence
+
+- Most studies reported **no positive link** between total caudate lobectomy or increased postoperative complications associated with hilar CCC.
+- Domestic scholars used propensity score matching to compare total vs. partial caudate lobectomies for hilar CCC.
+- The overall survival difference was not statistically significant, but the survival rate was higher in the total caudate lobectomy group.
+- Median survival time was also longer in the total caudate lobectomy group.
+- A meta-analysis opposes the idea that combined total caudate lobectomy increases perioperative incidence rate and mortality.
+
+## 3.4 Mechanism of Compensatory Proliferation
+
+- The caudate lobe of the normal liver only accounts for less than **10%** of the total liver volume.
+- However, in some patients with severe liver diseases, the caudate lobe proliferates significantly.
+- The same can also be observed in some patients undergoing hemihepatectomy.
+- In several patients with intrahepatic bile duct stones, significant enlargement of the caudate lobe is observed.
+
+## Key Research Questions on Proliferation
+
+The observation of significant caudate lobe enlargement gives rise to the following questions:
+1. What mechanism increases the caudate lobe’s compensatory capacity?
+2. What is the limit of the caudate lobe’s increased compensatory capacity?
+3. What is the influence of caudate lobe enlargement and forward rotation on bile duct drainage?
+Such questions require further research.
+
+## Watanabe's A/X Ratio for Liver Compensation
+
+- Watanabe reported that the caudate lobe’s maximum transverse width ratio to the right lobe’s maximum transverse width (A/X) is a sign of liver compensation.
+- The A/X ratio in the cirrhosis compensation period is significantly higher than that in the decompensation period.
+- This indicates that caudate lobe proliferation is a type of compensation in the liver to maintain functionality.
+- The compensatory caudate lobe enlargement cannot be observed when the liver is in the decompensation period.
+
+## Portal Vein Blockage and Hepatocyte Proliferation
+
+- Studies have reported that when the portal vein’s left and right branches are blocked, enhancement of the proliferative function of the remaining hepatocytes can be observed.
+- Under normal circumstances, the liver receives sufficient blood supply from the portal vein and hepatic artery as per the liver size.
+- Abrupt ischaemia caused by percutaneous transhepatic portal embolization, transcatheter arterial embolization, or surgical division of both vessels to the right or left lobe can divert excess blood flow to the caudate lobe.
+
+## Mechanism of Caudate Lobe Enlargement
+
+- Diverted blood flow increases the caudate lobe's tissue perfusion and possibly leads to enlargement.
+- The mechanism of caudate lobe enlargement in left lobe hypertrophy and right lobe atrophy is reportedly linked to the predominant blood supply from the portal vein’s left branches to the caudate lobe.
+- Congenital agenesis of the right lobe also results in compensatory hypertrophy of the left lobe and caudate lobe.
+
+## Caudate Lobe's Venous Drainage Advantage
+
+- The caudate lobe has a short separate venous drainage connected directly to the IVC.
+- It is supplied by the left and right portal venous systems to form excellent inflow and outflow systems.
+- This empowers it with considerable regenerative potential.
+- However, the limit of such a strong regenerative potential is unclear.
+
+## The "Reserve Pool" Concept
+
+- No relevant studies and animal models can resolve the problem of the caudate lobe's regenerative limit.
+- Can the caudate lobe be regarded as the liver’s ‘reserve pool’ from the functional perspective?
+- Can it be used as a backup liver for hepatectomy with its strong regeneration ability?
+- Specific problems, such as the impact of an enlarged caudate lobe on cholangio-intestinal anastomosis and the rotation of the liver, require further research.
+
+## Figure 6: Caudate Lobe Enlargement
+
+| Feature | Description |
+| :--- | :--- |
+| **Pathology** | Caudate lobe enlargement caused by hepatic echinococcosis. |
+| **Source** | Picture provided by Professor Zhang, Sichuan Provincial People's Hospital. |
+| **Clinical Significance** | Demonstrates significant compensatory proliferation of the caudate lobe in severe liver disease. |
+| **Implication** | Highlights the caudate lobe's role as a potential functional "reserve pool" for the liver. |
+
+## Section 4: Summary
+
+- The caudate lobe must be considered an independent functional unit.
+- Despite a deeper understanding of the caudate lobe anatomy, it remains unclear whether hepatobiliary surgeons need to formulate a safer surgical strategy involving the area of the caudate lobe.
+- For some patients, the caudate lobe may be the final liver reserve pool.
+- The standardisation of the surgical nomenclature and surgical safety involving the caudate lobe demands further research.
