@@ -1,0 +1,847 @@
+---
+title: "Major Hepatectomy and Extended Hepatectomy"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+---
+
+## Major Hepatectomy and Extended Hepatectomy
+
+
+- An overview of technical aspects, indications, and specific operative procedures for major hepatic resections.
+
+---
+
+## Introduction: Definition
+
+- Major hepatectomy is typically defined as a resection of **three or more contiguous hepatic segments**.
+- Most commonly encompasses right and left hemihepatectomies and extended left and right hepatectomies.
+
+---
+
+## Introduction: Extended Hemihepatectomies
+
+- Extended hemihepatectomies can include:
+  - A small subsegmental portion of the adjacent parenchyma.
+  - A more formal "trisectionectomy" where adjacent segments are included (e.g., segment IV for right-sided, or segments V/VIII for left-sided).
+- The caudate lobe may be included in any of these resections.
+
+---
+
+## Introduction: Morbidity and Technical Challenge
+
+- The term "major hepatectomy" appropriately describes these technically challenging operations.
+- Associated with significant rates of postoperative morbidity.
+- Among liver resections, these have the highest rates of postoperative morbidity, including:
+  - Postoperative hepatic failure
+  - Other life-threatening complications
+
+---
+
+## Introduction: Chapter Scope
+
+- Reviews the technical aspects of major hepatectomies.
+- Does **not** cover:
+  - Operations requiring biliary or vascular resection (Chapters 118A to 119A and 119B).
+  - Living donor hepatectomy (Chapter 121).
+  - Minimally invasive hepatic resections (Chapter 127E), though the same principles apply.
+
+---
+
+## Indications: Malignant Tumors
+
+- Most commonly indicated for **malignant tumors of the liver and biliary tree** (Chapters 89–92 and 101).
+- Rarely indicated for large symptomatic or premalignant benign tumors (Chapters 88 and 101).
+
+---
+
+## Indications: Diagnostic Resection
+
+- In the contemporary era, a diagnostic hepatic resection for an indeterminate liver mass is **rarely indicated**.
+- Modern imaging and accurate pathology from percutaneous biopsy usually suffice (Chapters 13–15 and 23).
+
+---
+
+## Indications: Other Conditions
+
+- Less common indications include:
+  - En bloc resections of perihepatic tumors (e.g., diaphragm, adrenal, retroperitoneum, stomach, duodenum).
+  - Management of certain benign conditions:
+    - Infections of the liver or biliary tree (Chapter 11)
+    - Trauma
+    - Complex bile duct injuries (Chapter 113)
+
+---
+
+## Indications: Operation of Last Resort
+
+- Major hepatectomy should be an operation of **last resort**.
+- Whenever possible, parenchymal-sparing operations that remove less liver tissue should be the operation of choice (Chapters 102 and 118B).
+- Rationale: Removing less hepatic parenchyma is consistently associated with **less postoperative morbidity**.
+
+---
+
+## Indications: Liver Failure Risk
+
+- Removal of three or fewer segments of liver rarely results in liver failure.
+- Liver failure is the most life-threatening complication of hepatic resection.
+- Major hepatectomy should only be performed when pathology involves inflow and outflow vessels mandating removal of a hemiliver or more.
+
+---
+
+## Indications: Weighing Risks and Benefits
+
+- It is often difficult to decide between parenchymal-sparing resections and major resections.
+- The surgeon must weigh:
+  - **Risks:** Morbidity
+  - **Benefits:** Completeness of resection
+
+---
+
+## Indications: Volume of Hepatic Parenchyma
+
+- The hepatic surgeon should have a good sense of hepatic parenchyma volume.
+- **Right-sided major hepatic resections** are the largest volume resections.
+  - Right hemiliver encompasses ~two-thirds of the liver.
+  - Right liver + segment IV can occupy >80% of the liver.
+- **Left hemiliver resections** are relatively low-volume resections, even when extended.
+
+---
+
+## Indications: Future Liver Remnant (FLR)
+
+- The majority of left trisectionectomies leave a future liver remnant (FLR) of over 30%.
+- The volume of residual liver parenchyma is directly responsible for posthepatectomy morbidity.
+- Surgeons should have resources to directly measure the relative volume of the planned hepatic resection.
+
+---
+
+## Preoperative Planning: Imaging
+
+- High-quality, multiphasic (arterial and portal venous phases) cross-sectional imaging is mandatory.
+- Assesses:
+  - Extent of disease
+  - Vascular proximity
+  - Anatomic variation
+- Surgeon must assess branching patterns of hepatic veins, portal veins, and hepatic artery.
+- Both MRI and CT provide necessary detail.
+
+---
+
+## Preoperative Planning: Biliary Anomalies
+
+- Biliary anomalies are relatively common; preoperative recognition is important.
+- Most common anomalies involve right sectoral ducts draining to the left bile duct or as low insertions into the common hepatic/bile duct.
+- Imaging of the biliary tree is most relevant for **left-sided major resections** to avoid injuring right sectoral ducts.
+
+---
+
+## Preoperative Planning: Biliary Imaging
+
+- Hilar branching of the biliary tree should be known, though less relevant in right-sided major resections.
+- **MRCP with gadolinium contrast** is the imaging study of choice to assess the biliary tree.
+- MRCP with Eovist contrast and specific CT protocols can also be used to delineate biliary anatomy.
+
+---
+
+## Preoperative Planning: Liver Function and FLR
+
+- Assessments of overall liver function and the size/function of the FLR are critical.
+- **Child-Pugh scoring system:** Simple, easily obtainable, clinically useful measure of hepatic function.
+- Critical to also assess for **portal hypertension**, which is not included in Child-Pugh criteria.
+
+---
+
+## Preoperative Planning: Portal Hypertension
+
+- Portal hypertension can result from chronic liver disease or extensive systemic chemotherapy.
+- Diagnosed via clinical findings:
+  - Splenomegaly
+  - Thrombocytopenia
+  - Evidence of varices
+- Large-volume resections should only be performed in patients with **Child-Pugh A** liver function and no evidence of portal hypertension.
+
+---
+
+## Preoperative Planning: FLR Volumes
+
+- Direct measurement of FLR volumes should be liberally assessed.
+- FLR volumes <25% to 30% are associated with a significant risk of posthepatectomy liver failure.
+- Higher volume thresholds are required for patients with chronic liver disease or chemotherapy-related hepatic injury.
+- **Portal vein embolization** must be considered when volumes are inadequate.
+
+---
+
+## Preoperative Planning: Liver Growth Kinetics
+
+- Strategies to increase volume and function of the FLR are crucial.
+- Assessment of absolute changes in volume and the kinetics of such growth are very good markers of liver function.
+- These assessments improve the safety of major resections.
+
+---
+
+## Relevant Anatomy: Hepatic Artery Overview
+
+- The common hepatic artery typically branches off the celiac axis.
+- Courses to the right along the superior border of the body of the pancreas.
+- Gives off the gastroduodenal artery and right gastric artery before becoming the proper hepatic artery.
+
+---
+
+## Relevant Anatomy: Proper Hepatic Artery
+
+- The proper hepatic artery branches into the right and left hepatic artery.
+- It can be of variable distance or may not exist at all (immediate bifurcation after gastroduodenal artery).
+- **Left hepatic artery:** Runs cephalad along the left border of the porta hepatis toward the base of the umbilical fissure.
+- **Right hepatic artery:** Courses cephalad, to the right, and typically (90%) posterior to the common hepatic bile duct.
+
+---
+
+## Relevant Anatomy: Hepatic Artery Branches
+
+- Left hepatic artery typically branches into segment IV and left lateral section (segments II and III) at the base of the umbilical fissure.
+- Alternatively, segment IV branch can arise off the proximal right hepatic artery.
+- Right hepatic artery branching into sectoral branches often occurs outside the hepatic parenchyma.
+
+---
+
+## Relevant Anatomy: Hepatic Arterial Anomalies
+
+- **Replaced vessels:** Originate from a branch other than the hepatic artery and completely replace blood supply to a hemiliver.
+- **Accessory vessels:** Originate from a branch other than the hepatic artery and supply a portion in conjunction with standard inflow.
+- Most common replaced/accessory right hepatic arteries originate from the **superior mesenteric artery**.
+- Most common replaced/accessory left hepatic arteries originate from the **left gastric artery**.
+
+---
+
+## Relevant Anatomy: Portal Vein Overview
+
+- Forms from the confluence of the splenic vein and superior mesenteric vein.
+- Courses toward the liver posteriorly and to the right within the porta hepatis.
+- Splits into a long transverse left portal vein and a shorter, more cephalad right portal vein.
+
+---
+
+## Relevant Anatomy: Portal Vein Branches
+
+- The first branches of the right and left portal vein are to the **caudate lobe**.
+  - Must be identified before encircling the right or left portal vein.
+- Right portal vein gives off an anterior and posterior sectoral branch.
+- Left portal vein gives off a significant caudate branch before curving into the umbilical fissure.
+- Small segment IV branches come off the transverse portion of the left portal vein.
+
+---
+
+## Relevant Anatomy: Portal Vein Anomalies
+
+- Posterior sectoral branches often originate without a common posterior sectoral portal vein.
+- In 5% to 10% of patients, an early branching posterior sectoral vein comes directly off the main portal vein.
+- **Dangerous situation (<1%):** A single branch enters the liver, gives off a right portal vein, then courses left yielding the left portal vein.
+  - Risk of mistakenly dividing the whole portal venous anatomy during major hepatectomy.
+
+---
+
+## Relevant Anatomy: Portal Venous Inflow
+
+- Preservation of portal venous inflow is critically important for postoperative liver regeneration.
+- Compromise of portal venous inflow can result in **postoperative liver failure**, particularly for major resections.
+
+---
+
+## Relevant Anatomy: Bile Duct Overview
+
+- The common bile duct is located anteriorly along the right border of the porta hepatis.
+- The common hepatic duct is cephalad to the cystic duct insertion.
+- The biliary tree is supplied by hepatic artery branches running along the lateral borders of the duct (3 and 9 o’clock branches).
+
+---
+
+## Relevant Anatomy: Bile Duct Ischemia
+
+- The function and viability of the ductal wall relies on this arterial inflow.
+- **Skeletonization of the biliary tree along its lateral aspects can result in ischemia.**
+- Can lead to strictures or necrosis of the bile duct.
+
+---
+
+## Relevant Anatomy: Bile Duct Branches
+
+- **Left bile duct:** Courses transversely along the base of segment IV, enters the umbilical fissure, and gives off segmental branches.
+- **Right bile duct:** Short, runs into the right liver at the base of the cystic plate, with early branching into sectoral/segmental branches.
+- Both ducts provide biliary drainage to the caudate lobe.
+
+---
+
+## Relevant Anatomy: Biliary Branching Anomalies
+
+- Myriad biliary branching anomalies exist.
+- Most relevant to major hepatectomy: sectoral branching of right branches into the left bile duct.
+- Relatively common anomaly: right posterior or anterior sectoral duct entering the left bile duct.
+- Particularly relevant for **left-sided major resections** (risk of injuring, narrowing, or ligating right-sided branches).
+
+---
+
+## Relevant Anatomy: Bile Duct Division
+
+- Sectoral branches can exit the liver and insert into the common hepatic/bile duct as low entry sectoral ducts.
+- Safest to divide and ligate biliary branches **intrahepatically** to ensure protection of contralateral bile duct branches.
+- Contralateral biliary injuries during major hepatectomy can be a source of catastrophic morbidity.
+
+---
+
+## Relevant Anatomy: Hepatic Veins Overview
+
+- Understanding venous anatomy is critical to safe major hepatectomy.
+- Bleeding from major hepatic veins is the most common source of significant hemorrhage.
+- Venous injuries during low–central venous pressure anesthesia can result in significant air embolus.
+- Compromise of hepatic venous outflow can result in postoperative hepatic failure.
+
+---
+
+## Relevant Anatomy: Major Hepatic Veins
+
+- Three major hepatic veins course through the scissurae of the liver.
+- **Right hepatic vein:** Courses in the right scissura between right anterior and posterior sectors.
+- **Middle hepatic vein:** Runs in the main scissura between right and left hemilivers.
+- **Left hepatic vein:** Runs in the left scissura between segment II posteriorly and segments III/IV anteriorly.
+
+---
+
+## Relevant Anatomy: Hepatic Vein Confluence
+
+- The left and middle hepatic vein commonly join as a single common branch before entering the vena cava.
+- May also enter the suprahepatic cava as separate branches.
+- Detailed venous anatomy must be known from preoperative imaging and anticipated during parenchymal transection.
+
+---
+
+## Relevant Anatomy: Right Hepatic Vein
+
+- Typically branches to the right.
+- Gives off major segmental venous branches to segment VI and VII.
+- Does not typically give off major branches to the anterior sector.
+- Occasionally, one (or multiple) inferior right hepatic vein(s) may be present, draining segment VI directly into the retrohepatic cava.
+
+---
+
+## Relevant Anatomy: Middle Hepatic Vein
+
+- Provides the principal drainage of the anterior sector via dominant branches to segment VIII and V.
+- Typically has only small branches to the left to segment IV, but this varies.
+- During right or left hemihepatectomy, the surgeon must anticipate which side of the vein the transection will proceed.
+
+---
+
+## Relevant Anatomy: Left Hepatic Vein
+
+- Courses between segment II and III (beyond posterior aspect of segment IV).
+- A segment II branch often enters proximally and can have an extrahepatic course.
+- Distal to the segment II branch, it serves as the dominant drainage of segment III.
+
+---
+
+## Relevant Anatomy: Umbilical Vein
+
+- Nearly always present and courses anterior to the umbilical fissure between segments III and IV.
+- Provides additional drainage to segments III and IV.
+- Most commonly drains into the left hepatic vein.
+- Can drain into the middle hepatic vein or enter as a trifurcation at the confluence of the left and middle hepatic vein.
+
+---
+
+## Relevant Anatomy: Vena Cava
+
+- Borders a groove along a central strip of the posterior aspect of the liver.
+- To the right: abuts posterior aspects of segments VI and VII.
+- To the left: abuts the caudate lobe.
+- Retrohepatic cava arises just above the renal veins.
+
+---
+
+## Relevant Anatomy: Caval Ligament
+
+- At the cephalad portion of the retrohepatic cava, a ligament of fibrous tissue wraps around the cava.
+- Contains varying amounts of hepatic parenchyma.
+- Forms a sling from segment VII around the cava to the left border of the caudate lobe.
+- **Figure 118A.1:** Dividing this ligament is essential to expose the upper retrohepatic cava and right hepatic vein.
+
+---
+
+## Relevant Anatomy: Retrohepatic Caval Branches
+
+- The vena cava provides varying small- and medium-sized draining branches from the posterior aspect of the liver (mainly caudate lobe).
+- Some branches are large enough to require suture control or stapler division.
+- An inferior right hepatic vein, when present, drains into the retrohepatic cava.
+
+---
+
+## Relevant Anatomy: Phrenic Veins
+
+- Major hepatic veins drain into the vena cava just above the liver where the cava pierces the diaphragm.
+- Before entry into the chest, the **left and right phrenic veins** enter the left and right side of the cava just above the hepatic veins.
+- Less commonly, phrenic veins can drain directly into the right and left hepatic veins.
+
+---
+
+## Relevant Anatomy: Intrahepatic Segmental Branching
+
+- Once hilar vessels enter the liver, they are invaginated by Glisson capsule, forming intrahepatic sectoral/segmental branches ("pedicles").
+- Variation of pedicular branching patterns is the rule; anticipation guided by imaging is essential.
+- **Left inflow pedicle:** Forms at the base of the umbilical fissure; branches to segment II (cephalad) and segment III (anteriorly).
+
+---
+
+## Relevant Anatomy: Segment IV Branching
+
+- Segment IV does not have distinct A and B segmental branching.
+- Typically has multiple inflow pedicles coming from the transverse portion of the left inflow vessels.
+- Dominant branches originate from within the umbilical fissure.
+
+---
+
+## Relevant Anatomy: Right Inflow Pedicle
+
+- Main right inflow pedicle is typically short or nonexistent.
+- Branches into an anterior and posterior sectoral pedicle.
+- **Anterior pedicle:** Runs cephalad to segment VIII, giving off small segment V branches. Segment VIII branches into ventral and dorsal branches.
+- **Posterior sectoral pedicle:** Often short. Segment VI runs in the fissure of Gans; Segment VII runs cephalad and posteriorly.
+
+---
+
+## Relevant Anatomy: Perihepatic Ligaments
+
+- Major hepatic resections require mobilization of the liver by division of its ligaments (**Figure 118A.2**).
+- **Ligamentum teres:** Runs along abdominal wall, terminates at falciform ligament.
+- Division of falciform ligament cephalad exposes left and right coronary/triangular ligaments.
+
+---
+
+## Relevant Anatomy: Right Triangular Ligament
+
+- Typically broad.
+- Must be divided along a plane between the right liver and the diaphragm.
+- Division with rotation of the liver to the left exposes the vena cava and right side of the caval ligament.
+
+---
+
+## Relevant Anatomy: Left Triangular Ligament
+
+- Thin and lies just inferior to the left phrenic vein.
+- Typically avascular, but small phrenic veins draining into the segment II vein can occasionally be encountered.
+- Division mobilizes the left lateral section up to the left hepatic vein.
+
+---
+
+## Relevant Anatomy: Ligamentum Venosum
+
+- Runs from the left portal vein along the border between the left lateral section and the caudate lobe (**Figure 118A.3**).
+- Enters the left hepatic vein.
+- Division near the left hepatic vein is essential to expose the posterior aspect of the left and middle hepatic veins.
+- Allows encircling of these veins extrahepatically.
+
+---
+
+## Relevant Anatomy: Caudate Lobe Position
+
+- Knowledge of caudate lobe anatomy is essential for major hepatic resections.
+- Lies between the rest of the liver and the vena cava (except for the rightmost aspects of the right hemiliver).
+- The anterior sector lies anterior to the caudate lobe.
+- The left liver also lies anterior to the caudate.
+
+---
+
+## Relevant Anatomy: Caudate Process
+
+- The right side of the caudate lobe is called the **caudate process**.
+- Lies adjacent to the posterior border of the right inflow pedicles.
+- Division of this tissue is critical for exposure of the right inflow pedicle(s).
+
+---
+
+## Relevant Anatomy: Caudate Resection
+
+- Tumors involving any portion of the caudate often mandate a major hepatic resection en bloc with the caudate.
+- Involves complete mobilization and division of inflow vessels.
+- For right hepatectomies including the caudate, it should be mobilized completely to the right side of the cava.
+
+---
+
+## Positioning, Retractors, and Incision: Positioning
+
+- Patient positioned supine with arms out laterally for peripheral vascular access.
+- **Reverse Trendelenburg position** drops abdominal viscera and exposes the liver.
+- Right- or left-sided rotation throughout the case helps with exposure of different parts of the liver.
+
+---
+
+## Positioning, Retractors, and Incision: Incisions
+
+- Most common: Generous right subcostal incision with midline superior extension to the xyphoid process (**hockey stick incision**).
+- Can be extended to the left as a **bilateral subcostal incision (Mercedes type)** for large tumors.
+- Midline incision is useful for combined resections or left-sided resections, but may be difficult for reaching the right liver in obese patients.
+- **Figure 118A.5** illustrates these incisions.
+
+---
+
+## Positioning, Retractors, and Incision: Thoracoabdominal Incision
+
+- Extension into the right chest with division of the diaphragm.
+- Rarely necessary, but allows enhanced exposure of the superior cava.
+- Valuable in cases of caval injury or large right-sided tumors obscuring caval exposure.
+- Can be a J-type incision or an extension of the Mercedes/hockey stick incision.
+
+---
+
+## Positioning, Retractors, and Incision: Retractors
+
+- Retractors vary by institution and individual.
+- Essential part: **Cephalad retraction of the costal margin** at an approximately 45-degree angle.
+- Other helpful retraction:
+  - Lateral retraction of the right chest wall.
+  - Inferior retraction of the lower abdominal viscera.
+
+---
+
+## General Considerations: Principal Steps
+
+- Major hepatectomy can be broken up into four different phases:
+  1. Mobilization
+  2. Inflow control
+  3. Outflow control
+  4. Parenchymal transection
+- The order can vary, but general principles apply.
+
+---
+
+## General Considerations: Ordering of Steps
+
+- Mobilization is the first step (except for rare cases like anterior approach).
+- Outflow division should **not** be performed before inflow control (prevents congested liver parenchyma and venous bleeding).
+- Inflow and outflow vessels can be taken extrahepatically or intrahepatically as pedicles.
+
+---
+
+## General Considerations: Inflow Control
+
+- Extrahepatic control with hilar dissection provides early vascular control.
+- Intrahepatic control via pedicles can be approached by:
+  - Dividing liver parenchyma down to the pedicles.
+  - Using hepatotomies around the inflow pedicle(s) without parenchymal transection.
+- No demonstrable difference in outcomes between the two techniques.
+
+---
+
+## General Considerations: Outflow Control
+
+- Outflow vessels can be taken extrahepatically (as they enter the cava) or intrahepatically.
+- **Advantage of early extrahepatic venous division:** Further mobilization and early control of potential bleeding.
+- Sometimes pathology or difficulty in dissection makes it preferable to divide parenchyma back to the hepatic vein insertions.
+
+---
+
+## General Considerations: Parenchymal Transection
+
+- Goal: Dissect through parenchyma to expose anticipated anatomy for control and division of inflow/outflow structures.
+- Should be a dissection, **not a frantic effort to control hemorrhage**.
+- Coagulating energy devices should not be an excuse to blindly coagulate.
+- Intraoperative ultrasound is critical (identifies structures, documents vascular proximity/patency).
+
+---
+
+## General Considerations: Pringle Maneuver
+
+- Portal clamping with a Pringle maneuver is not necessary for all cases but has been shown to be safe.
+- Should be prepared for all liver resections so it is ready if necessary.
+- Low threshold to transect under Pringle control if bleeding is an issue.
+- **Intermittent clamping** is preferred to prevent portal venous congestion.
+
+---
+
+## General Considerations: Hemostasis and Biliostasis
+
+- If dissection goes well, there should be minimal bleeding beyond minor oozing.
+- Major bleeding may require simple compression or suture repair.
+- Care should be taken not to injure contralateral structures with deep sutures or excessive energy.
+- Meticulous inspection for bleeding and/or bile leaks is essential.
+
+---
+
+## General Considerations: Drains
+
+- Small bile leaks can be controlled with fine suture repair.
+- Drains are **not recommended** based on randomized trials.
+- If there is ongoing bile leakage, it is advisable to leave a drain in the operative bed.
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Mobilization
+
+- Divide ligamentum teres and falciform ligament.
+- Divide right coronary and triangular ligaments back to hepatic veins.
+- Right phrenic vein is a landmark for the right hepatic vein.
+- Dissect groove between right and middle hepatic vein.
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Caval Dissection
+
+- Turn liver left and inferiorly to expose broad right triangular ligament; divide it.
+- Retract base of right liver superiorly and kidney inferiorly; divide inferior border of right triangular ligament.
+- Cut more than you retract to avoid tearing liver tissue along peritoneal reflections.
+- Dissect right adrenal gland off the liver.
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Caval Ligament
+
+- Dissect superior border of caval ligament and lateral aspect of vena cava/right hepatic vein.
+- Dissect anterior border of cava from inferior to superior, controlling retrohepatic caval branches.
+- Encircle and divide the **caval ligament** (convenient with a vascular load stapler) (Figure 118A.1).
+- Continue dissecting caval branches up to the base of the right hepatic vein.
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Right Hepatic Vein
+
+- Create a tunnel between the right and middle hepatic vein.
+- This is a relatively wide and avascular plane dissected from above and below.
+- Encircle the right hepatic vein for division later.
+- If difficult, it can be approached intrahepatically during transection.
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Inflow Control
+
+- Lower hilar plate with incision at base of segment IV to protect left bile duct.
+- Perform cholecystectomy; retract cystic duct stump to the left to expose right hepatic artery.
+- Dissect and encircle right hepatic artery (verify pulse in left hepatic artery).
+- Divide right hepatic artery (Figure 118A.6).
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Portal Vein
+
+- Dissect main, right, and left portal vein.
+- Identify and ligate branch to caudate process.
+- Encircle right portal vein, clamp, and note demarcation.
+- Document portal flow to left liver with Doppler ultrasound.
+- Divide right portal vein (or tie off if bile ducts taken inside liver).
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Bile Duct
+
+- Good practice to divide right bile duct inside the liver within pedicles to maximize distance from left bile duct.
+- Protecting the left bile duct is of utmost importance.
+- If dividing in porta hepatis, divide sharply and probe left/main duct to ensure patency.
+- Perform cholangiography if there are any concerns.
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Pedicle Ligation
+
+- Inflow can be taken as a pedicle within the liver parenchyma.
+- **Anterior approach:** Split liver in principal plane toward inflow, encircle main right or sectoral pedicles.
+- **Hepatotomy approach:** Flanking incisions in caudate process and gallbladder fossa, encircle pedicles (Figure 118A.7).
+- Middle hepatic vein branches to segment V drape over the pedicle and must be anticipated.
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Anterior Approach
+
+- Anterior approach without mobilization studied for large right-sided hepatocellular carcinoma.
+- Divide falciform ligament; divide vascular inflow extrahepatically.
+- Split liver in principal plane down through inflow to vena cava.
+- Take right hepatic vein, caval branches, caval ligament, and right triangular ligament at the end.
+- **Hanging maneuver:** Use a clamp/drain between cava and liver as a guide for parenchymal resection.
+
+---
+
+## Specific Operations: Right Hemihepatectomy - Parenchymal Transection
+
+- Middle hepatic vein is the plane between right and left liver.
+- Preferable to preserve middle hepatic vein by dissecting along its right side.
+- Take segment V branches; expose and divide right inflow pedicles.
+- Carefully dissect, encircle, and divide segment VIII branches (common source of hemorrhage).
+- Complete resection to base of right hepatic vein.
+
+---
+
+## Specific Operations: Extended Right Hepatectomy - Overview
+
+- Encompasses part of segment IV and removes at least some of the middle hepatic vein.
+- **Right trisectionectomy:** Removes all of segment IV and middle hepatic vein at its origin.
+- Follows steps for right hepatectomy, with additional considerations for segment IV inflow and middle hepatic vein outflow.
+
+---
+
+## Specific Operations: Extended Right Hepatectomy - Inflow
+
+- Take segment IV inflow vessels within the parenchyma during transection to the right of the umbilical fissure (Figures 118A.8 and 118A.9).
+- Ensure inflow vessels and bile duct branches to segments II and III within the umbilical fissure are preserved.
+- Dissection within the umbilical fissure is only done if mandated by tumor proximity.
+
+---
+
+## Specific Operations: Extended Right Hepatectomy - Outflow
+
+- Plan how and where the middle hepatic vein will be divided preoperatively.
+- Most effective method of division is from within the liver.
+- For a formal trisectionectomy, take middle hepatic vein at or near its origin.
+- Prudent to clamp and observe venous drainage of the left lateral section before division.
+- **Protect the left hepatic vein** at all costs.
+
+---
+
+## Specific Operations: Extended Right Hepatectomy - Transection
+
+- Requires identification of segment IV inflow and middle hepatic vein.
+- Transection requires a **sharp right turn at the base of segment IV**.
+- Transection does not continue as a straight line, as this would proceed directly into the left inflow.
+- This dissection can be awkward but is critical to protect left-sided inflow/biliary drainage.
+
+---
+
+## Specific Operations: Left Hepatectomy - Mobilization
+
+- Left liver lies anterior to caudate lobe and does not abut vena cava (except superiorly).
+- Divide ligamentum teres and falciform ligament back to hepatic veins.
+- Expose groove between middle and right hepatic vein.
+- Divide left triangular ligament from lateral to medial, up to lateral border of left hepatic vein/common channel.
+- Avoid injuring the left phrenic vein.
+
+---
+
+## Specific Operations: Left Hepatectomy - Outflow Control
+
+- Divide lesser omentum and ligamentum venosum just before entry into left hepatic vein (Figure 118A.10).
+- Exposes narrow plane inferior to hepatic veins and superior to caudate lobe.
+- Encircle and control left and middle hepatic veins at their origins extrahepatically.
+- If difficult or dangerous, divide veins after transecting liver back to their origins.
+
+---
+
+## Specific Operations: Left Hepatectomy - Inflow Control
+
+- Extrahepatic control is preferable for left hepatectomy.
+- Perform cholecystectomy; dissect left side of porta hepatis.
+- Dissect and encircle left hepatic artery; confirm anatomy and protect right hepatic artery.
+- Identify any replaced/accessory left hepatic artery in lesser omentum.
+- Ligate and divide left arterial inflow (Figure 118A.11).
+
+---
+
+## Specific Operations: Left Hepatectomy - Portal Vein and Bile Duct
+
+- Dissect main, left, and right portal veins.
+- Protect caudate branch off left portal vein.
+- Encircle left portal vein between caudate branch and ligamentum venosum.
+- Divide left portal vein.
+- Best practice to divide left bile duct in the left main pedicle to avoid injuring right sectoral ducts that may drain into the left duct.
+
+---
+
+## Specific Operations: Left Hepatectomy - Parenchymal Transection
+
+- Determine whether dissection will take place to the left or right of the middle hepatic vein.
+- Transection through principal plane starts from anterior surface toward plane of ligamentum venosum, preserving caudate lobe.
+- If to the right of middle hepatic vein, anticipate and control segment V and VIII venous branches.
+- Split liver back to origin of hepatic veins if not taken early.
+
+---
+
+## Specific Operations: Extended Left Hepatectomy - Overview
+
+- Includes left liver along with an incomplete portion of segment V and/or VIII.
+- Parenchymal transection is to the right of the middle hepatic vein for at least some of its course.
+- Preferable to have extrahepatic control of left and middle hepatic vein before transection.
+
+---
+
+## Specific Operations: Extended Left Hepatectomy - Inflow and Transection
+
+- Specific extent of anterior sector to be resected must be planned.
+- Inflow vessels to the resected anterior sector are taken intrahepatically during transection.
+- Clamp and test perfusion to portions of liver to be left behind before division.
+- Intraoperative ultrasound guidance is critical in atypical transection planes.
+
+---
+
+## Specific Operations: Left Trisectionectomy - Overview
+
+- Challenging operation removing left liver en bloc with segment V and VIII of right liver (Figures 118A.12 and 118A.13).
+- Left and middle hepatic veins are taken at their origin.
+- Critical element: **Preservation of the right hepatic vein**.
+
+---
+
+## Specific Operations: Left Trisectionectomy - Vascular Control
+
+- Complete mobilization of liver; dissect all three hepatic veins at their origin.
+- Inflow/outflow control for left liver is as described for left hepatectomy.
+- Right anterior sectoral inflow can be taken as a pedicle inside the liver (preferred) or via dissection in porta hepatis.
+- Ensure posterior sector is well perfused after taking anterior sectoral inflow.
+
+---
+
+## Specific Operations: Left Trisectionectomy - Parenchymal Transection
+
+- Transection plane is to the left of the right hepatic vein, heading toward ligamentum venosum.
+- Anticipate and resect dorsal inflow branch to segment VIII to avoid leaving ischemic liver behind.
+- Transection curves left, anterior to intrahepatic caudate, toward base of anterior sectoral pedicle.
+- Take left bile duct within main left pedicle at base of umbilical fissure to minimize contralateral biliary injury.
+
+---
+
+## Specific Operations: En Bloc Caudate Resection - Overview
+
+- Common indications: Hilar cholangiocarcinoma and large tumors extending into the caudate.
+- Understanding typical and individual anatomy of the caudate is critical.
+- A critical element is **complete mobilization of the caudate from the cava** (Figures 118A.14 and 118A.15).
+
+---
+
+## Specific Operations: En Bloc Caudate Resection - Mobilization
+
+- For right-sided resections: Caval dissection continues left, dissecting caudate off cava.
+  - Divide caval ligament at left side of caudate.
+- For left-sided resections: Divide left side of caval ligament and mobilize caudate from cava completely from the left.
+- Retrohepatic caval branches are serially dissected and divided between clips or ties.
+
+---
+
+## Specific Operations: En Bloc Caudate Resection - Right-Sided
+
+- Inflow to left side of caudate must be taken at base of umbilical fissure (from left portal vein and hepatic artery).
+- Mobilize caudate so it can be placed on the right side of the vena cava.
+- Branch to caudate process must be taken along with right portal vein.
+- Caudate lobe is retracted to the right and included in resection as transection proceeds to the left of the caudate process.
+
+---
+
+## Specific Operations: En Bloc Caudate Resection - Left-Sided
+
+- Majority of the caudate is a left-sided structure.
+- Mobilization exposes origins of left and middle hepatic veins more easily, facilitating extrahepatic control.
+- Inflow to left portion of caudate is taken by dividing inflow proximally.
+- Biliary dissection must be extrahepatic; left duct taken proximally in porta hepatis.
+- Identify and preserve right sectoral ducts draining into the left bile duct.
+
+---
+
+## Summary: Overview
+
+- Major hepatic resections are technically difficult and morbid operations.
+- Require extensive mobilization of the liver and expertise in its working anatomy.
+- Vascular control and preservation of contralateral structures are critical.
+- Failure of these maneuvers can result in hemorrhage, ischemia, liver failure, or death.
+
+---
+
+## Summary: Final Thoughts
+
+- Anatomic variation is common; each case must be individualized.
+- These are operations of last resort, performed only when mandated by underlying pathology.
+- Parenchymal-sparing resections are much preferred whenever possible.
+- Extensive training and experience are critical for both judgment and technical skill.

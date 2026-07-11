@@ -10,6 +10,10 @@
 
 {{< reveal Extras/liver/118A_major_hepatectomy_presentation_kimi >}}
 
+## Chapter with ZAI
+
+{{< reveal Extras/liver/118A_major_hepatectomy_presentation_zai >}}
+
 :::
 
 1. **How is a major hepatectomy typically defined?**  

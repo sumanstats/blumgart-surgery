@@ -609,11 +609,10 @@ May require:
 
 ## Safe Biliary Division Principle
 
-**Whenever possible, divide and ligate biliary branches intrahepatically**
+- **Whenever possible, divide and ligate biliary branches intrahepatically**
+	- This ensures protection of contralateral bile duct branches
 
-This ensures protection of contralateral bile duct branches
-
-**Contralateral biliary injuries** = catastrophic morbidity
+- **Contralateral biliary injuries** = catastrophic morbidity
 
 ---
 
@@ -621,7 +620,8 @@ This ensures protection of contralateral bile duct branches
 
 **Critical for safe major hepatectomy**
 
-Key points:
+**Key points**:
+
 - Bleeding from hepatic veins = most common source of significant hemorrhage
 - Venous injuries can result in **air embolus** (especially with low CVP anesthesia)
 - Compromise of outflow can result in **postoperative hepatic failure**
@@ -656,6 +656,7 @@ Key points:
 ## Inferior Right Hepatic Vein
 
 **Occasionally present:**
+
 - Drains segment VI
 - Enters inferior portion of retrohepatic vena cava
 - When present, main right hepatic vein is small
@@ -677,6 +678,7 @@ Key points:
 ## Transection Planning: Middle Hepatic Vein
 
 When dividing liver in principal plane:
+
 - Anticipate which **side** of vein transection will proceed
 - Identify relevant branches that will be encountered
 - Plan venous division points carefully
@@ -696,11 +698,13 @@ When dividing liver in principal plane:
 ## Umbilical Vein
 
 **Nearly always present:**
+
 - Courses **anterior** to umbilical fissure
 - Between segments III and IV
 - Provides additional drainage to segments III and IV
 
 Drainage patterns:
+
 - Most commonly into left hepatic vein
 - Can drain into middle hepatic vein
 - Can enter as trifurcation of LHV/MHV
@@ -769,6 +773,7 @@ At cephalad portion of retrohepatic cava:
 ## Caval Branches During Dissection
 
 Some branches may require:
+
 - Suture control
 - Division with stapler
 
