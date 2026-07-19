@@ -1,0 +1,643 @@
+---
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    scrollable: true
+---
+
+## Gallbladder Cancer: Hepatic Resection for Biliary Tract Cancer
+
+- Chapter 119A focuses on surgical management of gallbladder cancer.
+- The chapter emphasizes hepatic resection, lymphadenectomy, and re-resection strategy.
+- Key clinical scenarios include incidental diagnosis, advanced disease, port sites, and timing of re-resection.
+
+## Scope of the Chapter
+
+| Topic | Key Emphasis |
+|---|---|
+| Incidental gallbladder cancer | Intraoperative and postoperative recognition |
+| Staging | Imaging, laparoscopy, and metastatic evaluation |
+| Early stage disease | Simple cholecystectomy versus radical resection |
+| Advanced disease | Extent of hepatic and adjacent organ resection |
+| Lymph nodes | Hepatoduodenal lymphadenectomy and node count |
+| Port sites | Risk of seeding and role of excision |
+| Timing | Interval between cholecystectomy and re-resection |
+
+## Epidemiology and Global Burden
+
+- Gallbladder cancer is rare.
+- It accounts for approximately 1.2 percent of all global cancers.
+- Despite its rarity, it is the most common biliary tract malignancy.
+- Gallbladder cancer represents 80 to 95 percent of all biliary cancer diagnoses.
+- The disease carries a poor overall prognosis.
+
+## Age and Sex Distribution
+
+| Feature | Pattern |
+|---|---|
+| Typical age | Most often in the fifth decade of life |
+| Sex predominance | Significant female predominance |
+| Female to male ratio | Females affected 3 to 4 times as often as males |
+
+## Risk Factors for Gallbladder Cancer
+
+| Risk Factor | Clinical Relevance |
+|---|---|
+| Gallstone disease | Common chronic irritant and inflammatory stimulus |
+| Gallbladder polyps | Associated with malignant potential |
+| Primary sclerosing cholangitis | Chronic biliary inflammation |
+| Salmonella typhi infection | Chronic infection in endemic areas |
+| Helicobacter bilis infection | Chronic infection linked to inflammation |
+
+## Shared Pathogenesis: Chronic Inflammation
+
+- The precise pathogenesis of gallbladder cancer is unknown.
+- Multiple risk factors share a common feature: chronic gallbladder inflammation.
+- Inflammation is central to the proposed pathway from benign disease to malignancy.
+- Endemic infections and chronic biliary irritation are important contextual factors.
+
+## Prognosis at Presentation
+
+| Prognostic Feature | Reported Estimate |
+|---|---|
+| Advanced stage at diagnosis | 70 to 90 percent of cancers |
+| Curative opportunity at diagnosis | Limited because many cases are advanced |
+| Median overall survival | Approximately 6 months |
+| Five-year survival | Approximately 5 percent |
+
+## Survival and the Role of Surgery
+
+- Systemic therapies have limited effectiveness.
+- Surgical resection remains the only potentially curative therapy.
+- Survival after surgery is highly variable.
+- Reported five-year survival after surgery ranges from 10 to 100 percent.
+- Outcomes depend strongly on disease stage and extent of resection.
+
+## Chapter Focus Areas
+
+- Surgical management of gallbladder cancer.
+- Management of port site recurrences.
+- Timing of re-resection after incidental discovery following routine cholecystectomy.
+- Technical aspects of hepatic margin resection and lymphadenectomy.
+
+## Incidentally Diagnosed Gallbladder Cancer
+
+- More than half of gallbladder cancers are incidentally diagnosed.
+- Diagnosis often occurs during evaluation or treatment for presumed benign biliary disease.
+- Malignancy may be recognized intraoperatively.
+- More commonly, malignancy is identified postoperatively on histopathologic examination of the cholecystectomy specimen.
+
+## Intraoperative Recognition During Cholecystectomy
+
+| Step | Recommendation |
+|---|---|
+| Suspicion intraoperatively | Perform frozen section biopsy |
+| Purpose of frozen section | Confirm malignancy and assess extent |
+| If cancer is confirmed | No further dissection is recommended |
+| Operative plan | Abort the procedure |
+| Next step | Proper staging workup and referral |
+
+## Why Abort the Operation After Confirmation
+
+- Current guidance recommends cessation of the procedure after intraoperative confirmation.
+- The patient should receive a proper staging workup.
+- Referral to an experienced hepatobiliary center is recommended.
+- Residual disease after an incomplete initial operation is associated with very poor outcomes.
+- A non-R0 resection at the initial operation, even if followed by R0 re-resection, is associated with outcomes equivalent to stage IV gallbladder cancer.
+
+## Postoperative Incidental Diagnosis
+
+- When cancer is found postoperatively, accurate pathologic stage confirmation is critical.
+- Pathologic stage guides further treatment strategy.
+- The specimen should be considered for re-evaluation by a hepatobiliary pathology specialist.
+- Precise staging helps determine the need for radical re-resection.
+
+## Staging Workup After Incidental Diagnosis
+
+| Modality | Role |
+|---|---|
+| Dynamic contrast-enhanced CT | Abdomen and pelvis staging |
+| Dynamic contrast-enhanced MRI | Alternative cross-sectional staging |
+| Chest CT | Evaluate thoracic metastatic disease |
+| Contrast use | With or without contrast depending on protocol |
+
+## FDG-PET and Tumor Markers
+
+| Test | Utility and Limitation |
+|---|---|
+| FDG-PET | Role is not well defined in incidental gallbladder cancer |
+| FDG-PET impact | In one report of 63 patients, management changed in only 13 percent due to metastatic disease detection |
+| CEA | Often obtained as a prognostic biomarker |
+| CA 19-9 | Often obtained as a prognostic biomarker |
+| Marker limitation | Limited evidence for increased sensitivity or specificity compared with high-resolution imaging |
+
+## Staging Laparoscopy Rationale
+
+- Metastatic disease is common in gallbladder cancer.
+- Palliative surgical options are limited.
+- Staging laparoscopy should be routinely performed.
+- It identifies occult liver, peritoneal, and lymph node metastases.
+- Reported data show laparotomy can be avoided in 56 percent of patients with unresectable gallbladder cancer when staging laparoscopy is used.
+
+## Staging Laparoscopy Technique
+
+| Step | Technical Detail |
+|---|---|
+| Abdominal entry | Veress needle, optical trocar, or open cutdown |
+| Inspection | Visceral and parietal peritoneum in abdomen and pelvis |
+| Omentum | Inspect for metastatic deposits |
+| Suspicious lesions | Frozen section biopsy |
+| Kocher maneuver | Reflect duodenum and pancreatic head medially |
+| Nodal inspection | Assess retropancreatic and aortocaval nodes for N2 involvement |
+
+## Figure 119A.1: Lymph Node Basins
+
+- Figure 119A.1 illustrates lymph node basins relevant to gallbladder cancer staging.
+- It distinguishes regional nodal stations from more distant nodal disease.
+- The figure supports understanding of N1, N2, and M1 categories.
+- It emphasizes the importance of anatomic nodal mapping during staging.
+
+## Lymph Node Basins and Staging Roles
+
+| Nodal Category or Site | Staging Meaning |
+|---|---|
+| Cystic nodes | Regional nodal basin |
+| Pericholedochal nodes | Regional nodal basin |
+| Retroportal nodes | Regional nodal basin |
+| Superior mesenteric nodes | Important nodal station to recognize |
+| Interaortocaval nodes | Distant nodal involvement concern |
+| Posterosuperior pancreaticoduodenal nodes | Important for N2 assessment |
+| N1 | Regional nodal disease |
+| N2 | More advanced nodal disease |
+| M1 | Distant metastatic disease |
+
+## Early Stage Surgical Strategy
+
+- Early stage disease includes T1 and T2 tumors.
+- Management depends on depth of invasion.
+- T1a tumors may be treated with simple cholecystectomy.
+- T1b and T2 tumors generally require radical resection.
+- Oncologic adequacy and margin status are central goals.
+
+## T1a Gallbladder Cancer
+
+| Feature | Implication |
+|---|---|
+| Depth of invasion | Tumor limited to lamina propria |
+| Muscular layer | Not invaded |
+| Recommended surgery | Simple cholecystectomy |
+| Lymph node dissection | Not required |
+| Approach | Minimally invasive or open |
+
+## Laparoscopic Simple Cholecystectomy Outcomes
+
+- Historically, open surgery was preferred for cancer operations.
+- Reported data show favorable outcomes for selected early tumors.
+- Patients with Tis and T1a gallbladder cancer undergoing laparoscopic simple cholecystectomy had 100 percent five-year survival.
+- This supports favorable oncologic outcomes for laparoscopic resection in appropriately selected early stage disease.
+
+## Technical Precautions During Simple Cholecystectomy
+
+- Simple cholecystectomy for gallbladder cancer is similar to cholecystectomy for benign disease.
+- Important differences must still be considered.
+- Avoid iatrogenic gallbladder perforation.
+- Bile spillage increases oncologic risk.
+- Use a laparoscopic retrieval bag for specimen extraction.
+- Retrieval bags are especially important if perforation occurs.
+
+## Bile Spillage and Oncologic Risk
+
+| Outcome | With Bile Spillage | Without Bile Spillage | Significance |
+|---|---:|---:|---|
+| Port site metastases | 12.3 percent | 5.1 percent | Significantly higher |
+| Local recurrences | 22 percent | 11.7 percent | Significantly higher |
+| Peritoneal carcinomatosis | 12.1 percent | 15.1 percent | Nonsignificant trend |
+
+## T1b and T2 Tumors Require Radical Resection
+
+- In T1b and T2 tumors, simple cholecystectomy does not provide optimal oncologic benefit.
+- Radical resection includes re-resection of the hepatic bed.
+- The typical hepatic resection is partial hepatectomy of segments IVb and V.
+- Radical resection also includes hepatoduodenal lymphadenectomy.
+- The goal is improved locoregional control and survival.
+
+## Survival by Surgical Approach in T1b and T2 Disease
+
+| Surgical Approach | Five-Year Survival |
+|---|---:|
+| Simple cholecystectomy | 20 to 40 percent |
+| Radical resection | 70 to 90 percent |
+
+## Residual Disease and Nodal Risk by T Stage
+
+| T Stage | Residual Hepatic Disease | Lymph Node Metastatic Disease | Locoregional Recurrence |
+|---|---:|---:|---:|
+| T1b | Approximately 10 percent | 10 to 20 percent | 20 to 50 percent |
+| T2 | Increases with T stage | Hepatoduodenal node disease in 30 to 60 percent | Higher than early T1a disease |
+
+## Figure 119A.2: Radical Cholecystectomy
+
+- Figure 119A.2 illustrates radical cholecystectomy.
+- The operation includes cholecystectomy.
+- It includes segment IVb and V partial hepatectomy.
+- It includes hepatoduodenal lymphadenectomy.
+- The figure demonstrates the combined hepatic and nodal resection concept.
+
+## Advanced Stage T3 Tumors
+
+| Feature | Surgical Implication |
+|---|---|
+| Definition | Tumor invades through visceral peritoneum |
+| Extension | Direct extension into liver or adjacent organ |
+| Treatment principle | Similar to T1b and T2 but often broader |
+| Resection extent | May require extensive hepatic resection |
+| Additional resection | May include bile duct resection or adjacent organ resection |
+| Residual disease | 36 percent |
+| Metastatic lymph node involvement | 46 percent |
+
+## Advanced Stage T4 Tumors
+
+| Feature | Clinical Meaning |
+|---|---|
+| Vascular involvement | Main portal vein or hepatic artery |
+| Organ involvement | Two or more adjacent organs |
+| Surgical challenge | Extensive vascular reconstruction may be needed |
+| Perioperative risk | High morbidity |
+| Upfront surgery | Generally unwarranted |
+
+## Neoadjuvant Therapy in Advanced Disease
+
+- Neoadjuvant chemotherapy and chemoradiation may be considered in advanced gallbladder cancer.
+- Therapy can help assess tumor biology before major resection.
+- It may help avoid unnecessary surgical resection in aggressive disease.
+- It is especially relevant when major anatomic hepatectomy is contemplated.
+
+## Hepatic Margin Resection Goals
+
+- The extent of hepatic resection depends on tumor involvement.
+- Resection may range from segment IVb and V partial hepatectomy to extended right hepatectomy.
+- The goal is complete resection of residual parenchymal disease.
+- Operative planning uses preoperative axial imaging and intraoperative ultrasonography.
+
+## Imaging and Intraoperative Ultrasound Planning
+
+| Tool | Purpose |
+|---|---|
+| Preoperative axial imaging | Define tumor extent and operative plan |
+| Intraoperative ultrasonography | Delineate vascular anatomy |
+| Middle hepatic vein branches | Identify during transection |
+| Parenchymal transection | Improve control and reduce blood loss |
+
+## Segment IVb and V Partial Hepatectomy Overview
+
+- Resection typically begins by lowering the hilar plate.
+- This helps avoid injury to the left bile duct.
+- Vessels within the umbilical fissure are exposed and controlled.
+- Parenchymal dissection proceeds to the right of the falciform ligament.
+- Dissection follows the principal scissura.
+
+## Figure 119A.3: Lowering the Hilar Plate
+
+- Figure 119A.3 shows the hilar plate.
+- Lowering the hilar plate is an important initial step.
+- It includes separating segment IV from the portal triad.
+- This step improves safe access for segment IVb and V partial hepatectomy.
+
+## Parenchymal Transection Steps
+
+| Step | Technical Detail |
+|---|---|
+| Parenchymal split | To the right of the falciform ligament |
+| Segment IVb inflow | Divided |
+| Transection line | Oblique and parallel to the right scissura |
+| Segment VIII | Preserved |
+| Middle hepatic vein | Divided while traversing the principal plane |
+| Segment V inflow | Located, secured, and divided |
+| Test clamping | Confirms preservation of right anterior pedicle and segment VIII inflow |
+
+## Figure 119A.4: Liver Segments and Extended Left Hepatectomy
+
+| Panel | Content | Surgical Meaning |
+|---|---|---|
+| A | Liver segment anatomy | Identifies segments II, III, IV, V, VI, VII, VIII, and I |
+| B | Extended left hepatectomy | Shows removal and preservation planes |
+| Solid line concept | Removal plane | Defines resected tissue |
+| Dotted line concept | Preservation plane | Defines preserved tissue, including caudate considerations |
+
+## Figure 119A.5: Resection Lines for Segment Excision
+
+- Figure 119A.5 shows lines of resection for excision of various segments.
+- Resection of segments IVb and V is bordered by specific anatomic planes.
+- The figure helps visualize how segmental boundaries guide parenchymal transection.
+- It reinforces the relationship between segmental anatomy and operative margins.
+
+## Figure 119A.6: Segment III Resection
+
+- Figure 119A.6 illustrates segment III resection.
+- An arrow indicates the ligamentum teres.
+- The ligamentum teres is an important anatomic landmark.
+- The figure supports understanding of left-sided hepatic resection anatomy.
+
+## Completing the Segment IVb and V Resection
+
+- The depth of transection includes the gallbladder fossa and cystic plate.
+- Transection must remain above the right and left hilar structures.
+- This avoids hilar injury.
+- The right and left parenchymal transection planes are joined to complete the resection.
+
+## Biliary and Vascular Safety Points
+
+| Safety Issue | Technical Principle |
+|---|---|
+| Biliary radicles | Meticulous ligation is required |
+| Anterior right portal pedicle | Lies close to the operative field |
+| Segment IV pedicles | Must be protected or controlled |
+| Biliary leak | Risk if radicles are not carefully managed |
+| Pringle maneuver | Surgeon discretion |
+| Postoperative drains | Surgeon discretion |
+| Routine use evidence | Lacks strong supporting evidence |
+
+## Major Hepatectomy and Future Liver Remnant
+
+- Right portal vein or artery involvement may require right or extended right hepatectomy.
+- Preoperative planning is paramount.
+- Future liver remnant size should be determined.
+- Adequate remnant volume reduces perioperative morbidity and mortality.
+- Neoadjuvant therapy may be warranted before major anatomic hepatic resection.
+
+## Concomitant Solid Organ Resection
+
+- Concomitant solid organ resection may be necessary in selected patients.
+- Colon or duodenum may be involved.
+- Resection is reasonable in well-selected patients without disseminated disease.
+- A period of neoadjuvant therapy is often useful to assess tumor biology.
+
+## Lymphadenectomy Rationale
+
+- T stage correlates with lymph node metastases.
+- Portal or hepatoduodenal lymphadenectomy is routinely performed for T1b tumors and greater.
+- Lymph node dissection includes N1 lymph nodes.
+- N1 nodes are located in the gastrohepatic ligament, retroduodenal space, and hepatoduodenal ligament at the porta hepatis.
+
+## Lymphadenectomy Technique: Initial Exposure
+
+| Step | Technical Detail |
+|---|---|
+| Kocher maneuver | Mobilize the duodenum thoroughly |
+| Peripancreatic tissue | Resect lymphatic tissue along the common bile duct near the pancreatic head |
+| Highest peripancreatic node | Lies at the junction of the common bile duct and superior pancreas border |
+| Nodal basin delineation | Separates N1 from N2 basins |
+| Prognostic value | Associated with disease-specific and recurrence-free survival |
+
+## Lymphadenectomy Technique: Porta Hepatis Dissection
+
+| Step | Technical Detail |
+|---|---|
+| Peritoneal incision | Overlying porta hepatis structures |
+| Structures identified | Common hepatic artery, common bile duct, main portal vein |
+| Anterior clearance | Common bile duct and common hepatic duct cleared from liver base to pancreas head |
+| Retraction | Cystic duct stump retracts common bile duct medially |
+| Posterior dissection | Lymphatic tissue posterior and lateral to bile duct, anterior to portal vein |
+| Completion view | Anterior portal vein visible and periarterial and periductal lymphatic tissue resected |
+
+## Figure 119A.7: Highest Peripancreatic Lymph Node
+
+- Figure 119A.7 highlights the highest peripancreatic lymph node.
+- This node lies between N1 and N2 lymph node basins.
+- It is an important anatomic and prognostic landmark.
+- Its status can help guide intraoperative decision-making.
+
+## Figure 119A.8: Completion Hepatoduodenal Lymphadenectomy View
+
+- Figure 119A.8 shows the view after hepatoduodenal lymphadenectomy.
+- The common bile duct is skeletonized.
+- The common and proper hepatic artery are skeletonized.
+- The anterior surface of the main portal vein is visible.
+- The figure demonstrates the expected completion anatomy.
+
+## Adequate Lymph Node Staging
+
+| Guideline or Concept | Recommendation or Finding |
+|---|---|
+| AJCC eighth edition | Minimum of six lymph nodes for adequate nodal staging |
+| Survival association | Adequate node count associated with improved outcomes |
+| Node count comparison | Six nodes compared with one to five nodes shows survival benefit |
+| N0 disease | Survival depends on total lymph node count |
+
+## Evidence Supporting a Minimum Node Count
+
+| Finding | Outcome |
+|---|---|
+| N0 patients with total lymph node count less than six | Median disease-specific survival approximately 24 months |
+| N0 patients with total lymph node count greater than six | Median disease-specific survival approximately 41 months |
+| Statistical significance | P less than .001 |
+| Small lymph node yield | Associated with lower therapeutic index and higher hazard of death |
+
+## N2 Basin Extension Is Not Recommended
+
+- Extending lymphadenectomy to include the N2 basin is not recommended.
+- N2 dissection increases perioperative morbidity.
+- It does not provide a clear survival benefit.
+- Intraoperative frozen assessment of suspicious aortocaval or retropancreatic nodes is appropriate.
+- Malignant nodes in these basins are consistent with M1 disease and should stop further resection.
+
+## Extrahepatic Biliary Tree Resection
+
+| Principle | Recommendation |
+|---|---|
+| Routine bile duct resection | Not recommended |
+| Outcome effect | Not demonstrated to improve outcomes |
+| Morbidity | Increases perioperative morbidity |
+| Node yield | Routine common bile duct resection does not improve lymph node yield |
+
+## Cystic Duct Margin and Biliary Reconstruction
+
+| Situation | Management |
+|---|---|
+| Cystic duct stump margin | Confirm early with intraoperative frozen section |
+| Positive margin | Bile duct resection may be necessary |
+| Division level | Bile duct may be divided at the level of the duodenum |
+| Goal | Negative surgical margins |
+| Reconstruction | Roux-en-Y hepaticojejunostomy |
+
+## Surgical Port Sites and Occult Seeding
+
+- After laparoscopic cholecystectomy, occult tumor seeding at port sites is possible.
+- Risk may be increased by bile or gallstone spillage.
+- Port site recurrences are estimated at 17 to 19 percent.
+- Historically, port site excision during re-resection was advocated.
+- Recent evidence questions this routine practice.
+
+## Evidence on Port Site Excision
+
+| Study Feature | Finding |
+|---|---|
+| Multicenter analysis year | 2017 |
+| Patients analyzed | 266 |
+| Curative re-resection | 73 percent |
+| Institutions | 10 |
+| Follow-up span | 15 years |
+| Port site excision among re-resected patients | 24 percent |
+| Three-year overall survival | No difference between excision and no excision |
+| Distant recurrence | 80 percent with excision versus 81 percent without excision |
+| Statistical comparison | P equals 1.0 |
+
+## Current Port Site Recommendation
+
+- Port site recurrences are considered a harbinger of systemic disease.
+- They are best addressed with nonlocalized therapy rather than local excision alone.
+- Routine resection of port sites during reexploration is not advised.
+- Avoiding routine port site excision reduces unnecessary morbidity without compromising survival.
+
+## Timing of Re-resection
+
+- Radical re-resection is recommended for selected patients with incidental gallbladder cancer.
+- The optimal interval after initial cholecystectomy has been debated.
+- A retrospective review divided patients into three intervals.
+- Intervals were less than 4 weeks, 4 to 8 weeks, and greater than 8 weeks.
+- The analysis adjusted for clinicopathologic and surgical factors.
+
+## Survival by Re-resection Interval
+
+| Interval From Cholecystectomy to Reoperation | Median Overall Survival |
+|---|---:|
+| Less than 4 weeks | 17.4 months |
+| 4 to 8 weeks | 40.4 months |
+| Greater than 8 weeks | 22.4 months |
+| Statistical significance | P equals 0.03 |
+
+## Practical Timing Strategy
+
+- An intentional delay allows careful evaluation of residual disease.
+- It allows assessment of metastatic spread.
+- It provides time to observe underlying tumor biology.
+- Excessively long delays may compromise outcomes.
+- Reported median time from incidental diagnosis to radical re-resection is 52 days.
+- This median falls within the favorable 4 to 8 week window.
+
+## Nonincidental Gallbladder Cancer
+
+| Feature | Nonincidental Disease |
+|---|---|
+| Detection | Diagnosed before or during planned cancer-directed evaluation |
+| Proportion | Approximately half of patients |
+| Survival | Worse median overall survival than incidental disease after adjustment |
+| Likely explanation | Worse tumor biology and broader malignant symptoms |
+| Workup | Similar to incidental disease |
+| Treatment tendency | Neoadjuvant therapy often considered before definitive resection |
+
+## Obstructive Jaundice as a Risk Marker
+
+- Obstructive jaundice suggests advanced disease.
+- It often reflects invasion of the extrahepatic biliary tree.
+- Historically, jaundice as an initial symptom precluded surgical resection.
+- Modern data suggest jaundice is associated with worse survival but may not be an independent poor-outcome predictor after adjustment.
+
+## Jaundice Outcomes in Historical Cohorts
+
+| Cohort | Key Outcome |
+|---|---|
+| Jaundiced gallbladder cancer cohort | 82 patients |
+| Resection with negative margin | Only 4 patients |
+| Matched nonjaundiced cohort | 158 patients |
+| Median disease-specific survival in nonjaundiced cohort | 16 months |
+| Median disease-specific survival in jaundiced cohort | 6 months |
+| Disease-free survivors at 2 years in jaundiced cohort | None |
+
+## Modern Management of Jaundiced Patients
+
+- Jaundice warrants careful patient selection before radical surgery.
+- Biliary decompression may be endoscopic or percutaneous.
+- Neoadjuvant chemotherapy is often warranted after decompression.
+- Treatment should further define tumor biology before resection.
+- Adjusted analyses include N status, liver invasion, and resection margin.
+
+## Minimally Invasive Techniques: Historical Concerns
+
+| Concern | Reason |
+|---|---|
+| Intraperitoneal dissemination | Fear of cancer spread |
+| Port site recurrence | Concern about seeding |
+| Hepatic resection adequacy | Concern about insufficient parenchymal resection |
+| Lymphadenectomy adequacy | Concern about incomplete nodal dissection |
+
+## Current Minimally Invasive Evidence
+
+- Minimally invasive techniques are increasingly used in other hepatic and pancreatobiliary malignancies.
+- Use in gallbladder cancer resection has only recently gained recognition.
+- Recent studies show extended cholecystectomy using minimally invasive techniques can achieve oncologic outcomes similar to open procedures.
+- The principles of radical cholecystectomy, hepatic resection, and lymphadenectomy should remain the same as open surgery.
+
+## Robotic-Assisted Radical Cholecystectomy Setup
+
+| Setup Element | Description |
+|---|---|
+| Preferred approach | Robotic assisted |
+| Patient position | Lithotomy |
+| Assistant position | Standing between the patient's legs |
+| Initial intraoperative step | Thorough liver ultrasonography |
+| Sequence preference | Hepatoduodenal lymphadenectomy before hepatic resection |
+| Rationale for sequence | Better visualization during liver resection |
+
+## Figure 119A.9: Robotic Port Placement
+
+| Port or Accessory | Role |
+|---|---|
+| Camera | Central visualization |
+| R1 | Robotic working arm |
+| R2 | Robotic working arm |
+| R3 | Robotic working arm |
+| Liver retractor | Liver elevation and exposure |
+| Accessory 1 | Assistant access |
+| Accessory 2 | Assistant access |
+
+## Figures 119A.10 and 119A.11: Resection Margins
+
+| Figure | Clinical Scenario | Key Visual Point |
+|---|---|---|
+| Figure 119A.10 | Incidentally diagnosed gallbladder cancer | Gallbladder already removed; proposed segment IVb and V margins shown |
+| Figure 119A.11 | Nonincidentally diagnosed gallbladder cancer | Gallbladder still present; proposed segment IVb and V margins shown |
+
+## Surgical Algorithm by Stage
+
+| Stage | Recommended Surgical Strategy |
+|---|---|
+| T1a | Simple cholecystectomy |
+| T1b | Radical cholecystectomy with segment IVb and V hepatic resection and hepatoduodenal lymphadenectomy |
+| T2 | Radical cholecystectomy with segment IVb and V hepatic resection and hepatoduodenal lymphadenectomy |
+| T3 | Radical cholecystectomy with possible extensive hepatic resection, bile duct resection, or adjacent organ resection |
+| T4 | Upfront extensive surgery generally unwarranted; consider neoadjuvant strategy and careful selection |
+
+## Figure and Table Coverage Summary
+
+| Figure | Topic Covered |
+|---|---|
+| Figure 119A.1 | Lymph node basins and staging roles |
+| Figure 119A.2 | Radical cholecystectomy components |
+| Figure 119A.3 | Hilar plate lowering |
+| Figure 119A.4 | Liver segments and extended left hepatectomy |
+| Figure 119A.5 | Resection lines for segment excision |
+| Figure 119A.6 | Segment III resection and ligamentum teres |
+| Figure 119A.7 | Highest peripancreatic lymph node |
+| Figure 119A.8 | Completion hepatoduodenal lymphadenectomy view |
+| Figure 119A.9 | Robotic port placement |
+| Figure 119A.10 | Resection margins after gallbladder removal |
+| Figure 119A.11 | Resection margins with gallbladder present |
+
+## Conclusion
+
+- Current recommendations are stage-based.
+- Simple cholecystectomy is appropriate for T1a disease.
+- Radical cholecystectomy is appropriate for T1b to T2 disease.
+- T3 disease may require radical cholecystectomy with adjacent organ resection.
+- Overall prognosis remains poor, but staging, patient selection, and early recognition have improved.
+
+## Take-Home Points
+
+- Early recognition is essential for improving prognosis.
+- Surgical resection at an early stage offers the best chance of long-term survival.
+- Neoadjuvant therapy may help delineate tumor biology before radical resection.
+- Open and minimally invasive techniques can achieve similar oncologic results when principles are maintained.
+- Routine port site excision and routine bile duct resection are not advised.
+- References are excluded per request.
