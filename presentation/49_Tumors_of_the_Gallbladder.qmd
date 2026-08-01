@@ -1,0 +1,749 @@
+---
+title: "Tumors of the Gallbladder"
+format: revealjs
+---
+
+
+## Introduction
+
+- Gallbladder cancer is a rare and aggressive malignancy with a generally dismal prognosis.
+- There are a number of benign conditions that can radiographically mimic malignancy.
+- Preoperative determination of a benign lesion may significantly alter treatment strategy.
+
+---
+
+## Benign Tumors of the Gallbladder
+
+- A robust differential diagnosis is crucial to avoid unnecessary radical surgery.
+- Benign tumors include:
+    - Epithelial lesions (e.g., Adenoma)
+    - Nonepithelial lesions (e.g., Leiomyoma, Granular cell tumor)
+    - Neurogenic lesions (e.g., Neurofibroma)
+    - Tumor-like lesions (e.g., Cholesterol polyp, Adenomyomatosis)
+
+---
+
+## Gallbladder Polyps
+
+- Found in 3-7% of abdominal ultrasounds and 2-12% of cholecystectomy specimens.
+- Majority (50-80%) are **Cholesterol Polyps**, which have no malignant potential.
+- Most common in women aged 40-50.
+- Can be single or multiple, usually <10 mm in size.
+
+---
+
+## Cholesterol Polyps: Pathology & Imaging
+
+- **Pathology:** Nonneoplastic collections of lipid-laden macrophages covered by normal epithelium.
+- **Imaging:**
+    - Brightly echogenic without shadowing on ultrasound.
+    - Larger polyps may be less echogenic but contain characteristic echogenic foci.
+    - Safely observed if < 10mm.
+
+---
+
+## Cholesterol Polyps: Radiographic Appearance
+
+<!-- This slide would contain an image, but since we cannot show it, we describe it -->
+**Figure 49.1:** Radiographic appearance of cholesterol polyp.
+- **A-B:** Ultrasound images showing echogenic polyp.
+- **C:** MRI T2-weighted sequence.
+- **D:** MRI venous phase.
+
+---
+
+## Adenomatous Polyps (Adenomas)
+
+- Neoplastic lesions derived from gallbladder epithelium (~15% of polyps).
+- More common in women, often asymptomatic.
+- Can be associated with cholelithiasis.
+- Histologically: Tubular, papillary, or tubulopapillary; sessile or pedunculated.
+- Radiographically: Smooth intraluminal mass, may be lobulated. Adjacent wall is normal (<3mm).
+
+---
+
+## Adenomatous Polyps: Imaging
+
+<!-- This slide would contain an image -->
+**Figure 49.2:** Radiographic appearance of gallbladder adenoma.
+- **A:** Ultrasound with Doppler.
+- **B:** MRI T2-weighted sequence.
+- **C:** MRI precontrast phase.
+
+---
+
+## Malignant Potential of Adenomatous Polyps
+
+- Malignant transformation does occur, though in the minority of cases.
+- High degree of suspicion is warranted due to vastly improved survival in early-stage cancer.
+- **Risk Factors for Malignancy:**
+    - Age > 50 years
+    - Presence of gallstones
+    - Larger polyp size (>10 mm)
+    - Isolated gallbladder wall thickening
+
+---
+
+## Management Guidelines for Polyps (SAGES)
+
+- **Guidelines recommend cholecystectomy for:**
+    - Polyps > 10 mm
+    - Larger, single polyps
+    - Symptomatic polyps
+- **Watchful waiting** is recommended for:
+    - Asymptomatic polyps < 5 mm
+- **Key Evidence:** 90% of cancers had lesions >10 mm. 100% of cancers occurred in polyps > 6 mm.
+
+---
+
+## Adenomyomatosis
+
+- Present in 8-10% of cholecystectomy specimens.
+- Associated with chronic inflammation.
+- **Three Variants:**
+    1.  Localized (30%) - mass in the fundus.
+    2.  Segmental (>60%) - focal, circumferential wall thickening.
+    3.  Diffuse (<5%) - diffuse wall thickening with intramural diverticulae.
+- **Histology:** Epithelial and smooth muscle proliferation leading to Rokitansky-Aschoff sinuses.
+
+---
+
+## Adenomyomatosis: Imaging & Management
+
+- Responsible for ~25% of cases of gallbladder wall thickening.
+- **Imaging:** Characteristic **"comet-tail" artifacts** on ultrasound (from calcium deposits in sinuses).
+- **Management:**
+    - Cholecystectomy is indicated for symptomatic cases.
+    - Cholecystectomy is indicated when differentiation from neoplastic thickening is a concern (though the lesion itself is benign).
+
+---
+
+## Adenomyomatosis: Radiographic Appearance
+
+<!-- This slide would contain an image -->
+**Figure 49.3:** Radiographic appearance of adenomyomatosis.
+- **A-C:** Ultrasound images showing characteristic "comet tail artefact" (arrow).
+- **D:** MRI T2-weighted sequence.
+- **E:** CT scan venous phase.
+- **F:** MRI T2-weighted sequence.
+
+---
+
+## Granular Cell Tumors
+
+- Very rare, nonepithelial tumors (1% occur in biliary tract).
+- 90% of patients are women, average age 34.
+- Predominantly occur in African Americans.
+- Often present with biliary colic or acute cholecystitis.
+- **Histology:** Schwann cell origin, S-100 positive.
+- **Imaging:** Heterogeneous, mildly hyperechoic, poorly defined masses on US; nonspecific soft tissue on CT.
+- **Management:** Cholecystectomy for symptoms or diagnostic uncertainty.
+
+---
+
+## Summary of Benign Tumors (Table 49.1)
+
+| **EPITHELIAL LESIONS** | **NONEPITHELIAL LESIONS** | **NEUROGENIC LESIONS** | **TUMOR-LIKE LESIONS** |
+| :--- | :--- | :--- | :--- |
+| Adenoma | Leiomyoma | Neurofibroma | Cholesterol polyp |
+| Papilloma | Lipoma | Paraganglioma | Inflammatory polyp |
+| Cystadenoma | Hemangioma | | Fibrous polyp |
+| | Lymphangioma | | Xanthogranulomatous cholecystitis |
+| | Granular cell tumor | | Adenomyomatosis |
+
+---
+
+## GALLBLADDER CANCER: Epidemiology
+
+- Incidence varies widely worldwide.
+- **High Incidence:** India (10-22), Asia (5-8), Eastern Europe (2-4), South America (9-14).
+- **Low Incidence:** United States (1-2 per 100,000), but it is the most common biliary tract malignancy.
+- Geographic differences linked to risk factor prevalence (e.g., gallstone disease).
+
+---
+
+## Gallbladder Cancer: Risk Factors
+
+- **Gallstone Disease:** The most cited risk factor (mechanical injury, chronic inflammation). Found in 80% of cases in India.
+- **Other Risk Factors:**
+    - Obesity & Multiparity (linked to gallstones)
+    - Female sex (~3-fold increased risk)
+    - Low socioeconomic status (decreased access to healthcare)
+    - Chronic *Salmonella typhi* and *H. pylori* infections
+    - Smoking and pollutant exposure
+
+---
+
+## Gallbladder Cancer: Molecular and Geographic Variation
+
+- In Japan, many cases are not associated with gallstones.
+- Equal incidence between men and women in Japan.
+- Higher prevalence of **K-ras mutations**, **anomalous pancreaticobiliary junction**, and **TP53 mutations** in Japan.
+- **Prognostic Factors:** Despite etiologic differences, disease extent at diagnosis is the most important predictor of survival (T-stage and lymph node involvement).
+
+---
+
+## Gallbladder Cancer: Clinical Presentation
+
+Patients typically present in one of three ways:
+1.  Malignancy diagnosed on final pathology after cholecystectomy for presumed benign disease (**Incidental**).
+2.  Malignancy discovered during cholecystectomy for benign disease.
+3.  Malignancy is suspected preoperatively.
+
+---
+
+## Gallbladder Cancer: Symptoms
+
+- **Incidental Cancer:** Often presents with abdominal pain or symptoms consistent with biliary colic or cholecystitis.
+- **Advanced Disease:**
+    - Jaundice
+    - Malaise
+    - Weight loss
+    - Palpable mass
+
+---
+
+## Gallbladder Cancer: Laboratory Findings
+
+- No specific pattern of lab values raises suspicion.
+- **Associated Findings:**
+    - Elevated alkaline phosphatase.
+    - Age >65, female sex, Asian/African American race (with elevated ALP).
+    - Advanced disease: Anemia, hypoalbuminemia, leukocytosis, hyperbilirubinemia.
+- **Tumor Markers:** CEA and CA19-9 may be elevated; useful for monitoring recurrence, not diagnosis.
+
+---
+
+## Radiologic Evaluation: Ultrasound
+
+Ultrasonography is the initial imaging modality.
+
+- **Appearance of Gallbladder Cancer:**
+    1.  Mass replacing the gallbladder or invading the liver bed (45-60%).
+    2.  Irregular wall thickening (20-30%).
+    3.  Intraluminal polyp or mass (15-25%).
+- **Sensitivity:** 85% for advanced disease, but early-stage disease is difficult to identify.
+
+---
+
+## Radiologic Evaluation: CEUS
+
+**Contrast-Enhanced Ultrasound (CEUS)** improves diagnosis of malignant polyps and wall thickening.
+
+- **Findings in Malignant Lesions:**
+    - Heterogeneous enhancement during arterial phase.
+    - Faster washout time (41.4 sec vs 58.2 sec).
+    - Branched or linear intralesional vessels.
+    - Gallbladder wall destruction adjacent to lesion.
+- **Predictors of Malignancy (Multivariable):**
+    - Branched/linear vessels (Sensitivity 74.8%, Specificity 98%).
+    - Wall destruction (Sensitivity 78.4%, Specificity 92.9%).
+
+---
+
+## CEUS: Radiographic Appearance
+
+<!-- This slide would contain an image -->
+**Figure 49.4:** Contrast-enhanced ultrasound of gallbladder carcinoma.
+- Arrow indicates heterogeneously enhancing mass on arterial phase with intra-tumoral vessel.
+
+---
+
+## Radiologic Evaluation: CEUS vs. Conventional US
+
+**Zhang et al. Study (105 lesions):**
+- CEUS showed higher (though not always statistically significant) sensitivity, specificity, PPV, NPV, and accuracy compared to conventional ultrasound.
+
+| Feature | Conventional US | CEUS |
+| :--- | :--- | :--- |
+| Sensitivity | 82.4% | 94.1% |
+| Specificity | 89.8% | 95.5% |
+| Positive Predictive Value | 60.9% | 80.0% |
+| Negative Predictive Value | 96.3% | 98.8% |
+| Accuracy | 88.6% | 95.2% |
+
+---
+
+## Radiologic Evaluation: CT and MRI
+
+- If cancer is suspected, **multiphase CT** or **contrasted MRI** of the abdomen/pelvis and CT of the chest are indicated.
+- **Purpose of Cross-Sectional Imaging:**
+    1.  Define local extent of disease.
+    2.  Evaluate for nodal metastases.
+    3.  Evaluate for distant metastatic disease.
+- Determines resectability (only 20-30% present with resectable tumors).
+
+---
+
+## Radiologic Evaluation: CT Findings and Resectability
+
+**Choi et al. Study:**
+- CT findings associated with a positive margin on final pathology:
+    - Liver invasion
+    - Bile duct invasion
+    - Hepatic artery involvement
+- **Specificity:** 93.3% when combining two or three of these criteria.
+- Tumor size, morphology, and portal vein involvement were not independent predictors.
+
+---
+
+## Radiologic Evaluation: Lymph Node Assessment
+
+- Adequate evaluation is critical; prognosis is drastically reduced with positive nodes.
+- **Imaging Modalities:** Both CT and MRI have widely variable sensitivity (CT: 25-93%; MRI: 59-92%).
+- **False-Negatives:** Often occur in nodes < 10 mm.
+- **Current Practice:** CT is most commonly used due to ease and patient comfort.
+
+---
+
+## Radiologic Evaluation: FDG-PET
+
+- Provides additional information for staging and work-up.
+- Most biliary tract cancers are FDG-PET avid.
+- **Uses:**
+    - Detecting occult metastatic disease (changed treatment in 23% of patients).
+    - Detecting residual disease after cholecystectomy for incidental cancers.
+- **Sensitivity/Specificity:**
+    - Primary Tumor: Sensitivity 86%, Specificity 50%.
+    - Metastatic Disease: Sensitivity 87%, Specificity 89%.
+
+---
+
+## FDG-PET: Residual Disease Detection
+
+- **Shukla et al. Study (24 patients with incidental cancer):**
+    - High specificity and accuracy for residual disease in the gallbladder fossa, regional disease, liver metastases, and lymph node metastases.
+    - **Complementary Use:** FDG-PET-CT excels at detecting occult metastatic disease outside the fields of MDCT.
+- **Caution:** Post-cholecystectomy inflammation can cause false positives in the gallbladder fossa.
+
+---
+
+## Preoperative Pathologic Diagnosis
+
+- **Not recommended** due to risk of tumor seeding the peritoneum and biopsy tracts.
+- **Risks:** Iatrogenic tumor dissemination can preclude curative resection.
+- **Current Guidelines:**
+    - Biopsy only recommended in the case of **unresectable disease**.
+    - Patients with resectable disease should proceed to definitive resection.
+
+---
+
+## Histology of Gallbladder Cancer
+
+- **Adenocarcinoma:** Makes up 90% of malignant tumors.
+- **Origin:** 60% from fundus, 30% from body, 10% from neck.
+- **Gross Types:**
+    1.  Infiltrative
+    2.  Nodular
+    3.  Combined nodular-infiltrative
+    4.  **Papillary** (best prognosis, limited invasion)
+    5.  Combined papillary-infiltrative
+
+---
+
+## Histology: Rare Subtypes
+
+- **Squamous Cell Carcinoma (SCC):** 2-3%. Proliferates faster, locally invasive, less likely to metastasize to nodes.
+- **Adenosquamous:** Similar characteristics and poor outcomes.
+- **Neuroendocrine Tumors (NET):** ~2-3%. Better median OS than adenocarcinoma (25 vs 17 months).
+- **Others:** Melanoma, Sarcoma, Lymphoma, Clear cell carcinoma (exceedingly rare).
+
+---
+
+## Staging: AJCC 8th Edition (T)
+
+- **Tis:** Carcinoma in situ
+- **T1a:** Lamina propria
+- **T1b:** Muscular layer
+- **T2a:** Perimuscular connective tissue on **peritoneal side**
+- **T2b:** Perimuscular connective tissue on **hepatic side**
+- **T3:** Perforates serosa or invades liver or one adjacent organ
+- **T4:** Invades main portal vein, hepatic artery, or two or more adjacent organs
+
+---
+
+## Staging Rationale: T2a vs. T2b
+
+- **Key Change from 7th Edition:** T2 is now divided into T2a (peritoneal) and T2b (hepatic).
+- **Rationale (Shindoh et al.):**
+    - Hepatic-sided tumors have higher rates of vascular invasion, neural invasion, and nodal metastases.
+    - Hepatic-sided tumors have worse 5-year OS (42.6% vs 64.7%).
+- **Anatomy:**
+    - **Hepatic side:** Multiple short cholecystic veins drain directly into segment IV.
+    - **Peritoneal side:** Longer veins join the pericholedochal plexus.
+
+---
+
+## Staging Controversy: T2a vs. T2b Validation
+
+External validation studies have yielded conflicting results:
+
+- **Sung et al.:** No difference in OS between T2a and T2b.
+- **Owiera et al. (SEER):** 7th and 8th editions had comparable prognostic value.
+- **Wang et al.:** Significant difference in OS on univariate analysis.
+
+---
+
+## Staging: AJCC 8th Edition (N & M)
+
+- **Nodal Status (Change from 7th Edition):**
+    - Changed from **location** of positive nodes to **number** of positive nodes.
+    - **N0:** No positive nodes
+    - **N1:** 1-3 positive regional lymph nodes
+    - **N2:** ≥4 positive regional lymph nodes
+- **Important:** Distant lymph nodes (celiac, para-aortic) are considered **M1**.
+- **Guideline:** Examination of at least **6** lymph nodes is recommended for accurate staging.
+
+---
+
+## Staging: Nodal Stage Validation
+
+- **Sung et al. Study:**
+    - In patients with ≥6 lymph nodes examined, there was a significant difference in 5-year OS for all pairwise comparisons (N0: 72.2%, N1: 28.8%, N2: 7.1%).
+    - This supports the new nodal staging guidelines.
+    - In patients with <6 nodes examined, the difference between N1 and N2 was not significant.
+
+---
+
+## Staging: AJCC 8th Edition Combined Stage
+
+| Stage | T | N | M |
+| :--- | :--- | :--- | :--- |
+| **0** | Tis | N0 | M0 |
+| **I** | T1 (a-b) | N0 | M0 |
+| **IIa** | T2a | N0 | M0 |
+| **IIb** | T2b | N0 | M0 |
+| **IIIa** | T3 | N0 | M0 |
+| **IIIb** | T1-3 | N1 | M0 |
+| **IVa** | T4 | N0-1 | M0 |
+| **IVb** | T(any) | N2 | M0 |
+| | T(any) | N(any) | M1 |
+
+---
+
+## EXTENT OF PRIMARY RESECTION: Overview
+
+- Complete resection (R0) is the only potential for cure.
+- Extent of resection varies by T stage.
+- For incidental cancer, re-resection (definitive oncologic resection) is often required.
+
+---
+
+## Extent of Resection: T1a & T1b
+
+- **T1a:** Simple cholecystectomy is appropriate and curative in ~90% of cases. Re-resection is not necessary.
+- **T1b:** Simple cholecystectomy is insufficient.
+    - ~10% have residual disease after simple cholecystectomy.
+    - 10-20% rate of lymph node metastases.
+- **NCCN Recommendation for T1b & T2:** Definitive oncologic resection: Cholecystectomy + **en-bloc resection of liver segments IVb and V** + **portal lymphadenectomy**.
+
+---
+
+## Extent of Resection: T3 & T4
+
+- **NCCN Guidelines:** "Radical cholecystectomy including segments IVb and V and lymphadenectomy and extended hepatic or biliary resection as necessary to obtain a negative margin."
+- **Adjacent Organ Resection:**
+    - Resect adherent organs (e.g., colon, duodenum) to achieve R0; malignant involvement is often present.
+    - No association found between adjacent organ involvement and increased morbidity, but major vascular resection has high morbidity and mortality.
+- **Expert Consensus:** T3/T4 N1 disease patients should be considered for clinical trials with neoadjuvant therapy rather than aggressive upfront resection.
+
+---
+
+## TREATMENT: Incidental Gallbladder Cancer
+
+- **Definition:** Discovered in 0.2-3% of cholecystectomy specimens (27-70% of all GBC).
+- Majority are early-stage (T1 or T2), offering potential for cure.
+- **Management:** Centers around re-resection.
+- **Rationale for Re-resection:** Removes residual disease in the liver and locoregional lymph nodes, improving survival.
+
+---
+
+## Incidental GBC: Treatment Algorithm
+
+<!-- This slide would contain an image -->
+**Figure 49.5:** Treatment algorithm for incidental gallbladder cancer.
+- Adapted from National Comprehensive Cancer Network (NCCN) Guidelines 3.2020.
+- Flowchart showing management based on T stage and findings from imaging.
+
+---
+
+## Incidental GBC: Re-resection Outcomes
+
+- **Improved Survival:**
+    - T2: 5-year OS increased from 0% to 62%.
+    - T3: 5-year OS increased from 0% to 19%.
+- **Residual Disease at Re-resection:**
+    - T1: 0% residual in liver, 12.5% nodal metastasis.
+    - T2: 10.4% residual in liver, 31.2% nodal metastasis.
+    - T3: 36.4% residual in liver, 45.5% nodal metastasis.
+
+---
+
+## Incidental GBC: Staging Laparoscopy
+
+- **Purpose:** To identify occult metastatic disease (10-57% of patients) before laparotomy.
+- **Yield:**
+    - Overall: ~48%.
+    - Incidental GBC: Lower yield (~20%).
+    - Known GBC: Higher yield (~56%).
+- **NCCN Recommendation:** Consider for T1b disease and greater.
+
+---
+
+## Staging Laparoscopy: Determining Value
+
+- **Butte et al. Series (136 patients):**
+    - Yield of staging laparoscopy was only 4.8%.
+    - Accuracy for detecting unresectable disease was 20%.
+- **Predictors of Disseminated Disease:**
+    - T3 tumors (26%)
+    - Positive resection margin
+    - Poorly differentiated tumors
+    - Lymphovascular or perineural invasion
+- **Conclusion:** Not necessary for every patient; consider based on risk factors.
+
+---
+
+## Incidental GBC: Extent of Hepatic Resection
+
+- **Debate:** Formal anatomic resection (IVb/V) vs. nonanatomic wedge resection (2-3cm margin).
+- **Studies Show:**
+    - Wedge resection has **equivalent oncologic efficacy** to anatomic segmentectomy, provided an R0 resection is achieved.
+    - No difference in 5-year OS (74% vs 72%).
+    - No difference in liver metastasis.
+    - Most hepatic recurrences after wedge resection are distant bilobar disease, not local.
+
+---
+
+## Hepatic Resection: Anatomic vs. Wedge
+
+<!-- This slide would contain an image -->
+**Figure 49.6:** Anatomic IVb/V segmentectomy (solid white line) compared with nonanatomic wedge resection (dotted white line) of the liver for radical resection of gallbladder cancer.
+
+---
+
+## Hepatic Resection: T2a vs. T2b
+
+- **Lee et al. Study (192 patients, T2 GBC):**
+    - **T2a (Peritoneal):** No difference in OS between cholecystectomy+lymphadenectomy and hepatic resection.
+    - **T2b (Hepatic):** Significant difference in OS between hepatic resection (80.3%) and no hepatic resection (30.0%).
+- **Current Guidelines:** Recommend hepatic resection for all T1b and above tumors, regardless of T2a or T2b designation.
+
+---
+
+## Hepatic Resection: Major Hepatectomy
+
+- **Indication:** Only if necessary to achieve negative margins (R0).
+- **Pawlik et al. Study:** Major hepatic resection was not associated with decreased OS. Independent predictors of decreased OS were increasing stage and residual carcinoma in the liver bed.
+- **Special Cases:** Invasion into hepatoduodenal ligament or Glisson's capsule necessitates right hepatectomy.
+- **Hepatopancreaticoduodenectomy (HPD):** Prophylactic PD does not improve survival and has high morbidity. Only indicated for direct pancreatic invasion.
+
+---
+
+## Incidental GBC: Timing of Resection
+
+- **Ethun et al. Study (207 patients):**
+    - Definitive operation at **4 to 8 weeks** after the index operation was associated with the best prognosis.
+- **Median OS:**
+    - <4 weeks: 17.4 months
+    - 4-8 weeks: 40.4 months
+    - >8 weeks: 22.3 months
+- **Conclusion:** Timing is independently associated with OS.
+
+---
+
+## Incidental GBC: Bile Duct Resection
+
+- **Indication:** Resection of the common bile duct is only indicated for malignant involvement.
+- **Routine Excision:** Not reliably shown to improve survival or lymph node yield.
+- **Fuks et al. Study:**
+    - No difference in survival, but increased postoperative complication rates (60% vs 23%).
+    - No difference in R0 resection rates.
+- **Mandatory Resection:** A positive cystic stump margin that cannot be cleared mandates bile duct resection.
+
+---
+
+## Incidental GBC: Portal Lymph Node Dissection
+
+- **Importance:** Lymphatic spread is a key mechanism of metastasis.
+- **Incidence of LN Involvement:**
+    - T1b: 12%
+    - T2: 31%
+    - T3: 45%
+- **Prognostic Value:** Lymph node metastases are independently associated with worse prognosis.
+- **Therapeutic Value:** Lymph node dissection is associated with improved survival.
+
+---
+
+## Lymph Node Dissection: Survival Impact
+
+- **Jensen et al. Study (SEER Database):**
+    - LN evaluation associated with improved median OS:
+        - T1b/T2: 123 months vs 22 months.
+        - T3: 10 months vs 6 months.
+    - Without lymphadenectomy, radical resection and simple cholecystectomy conferred similar OS.
+- **Conclusion:** Portal lymphadenectomy remains the standard of care.
+
+---
+
+## Lymph Node Dissection: Optimal Yield
+
+- **AJCC 8th Edition:** Recommends at least 6 lymph nodes.
+- **Supporting Evidence:**
+    - **Negi et al.:** ≥6 nodes improved DFS in node-negative patients.
+    - **Liu et al.:** ≥6 nodes prolonged DSS in node-positive patients.
+- **Debate:** Some studies (e.g., Birnbaum, Jensen) found no difference in OS with higher LN yield.
+- **Consensus:** Lymphadenectomy is oncologically important, and examining 6 nodes is a reasonable goal.
+
+---
+
+## Incidental GBC: Port Site Resection
+
+- **Incidence of Port Site Metastases:** ~10%.
+- **Risk Factors:** Gallbladder perforation, extraction port.
+- **Evidence Against Resection:**
+    - Not associated with improved OS or RFS.
+    - May confer additional morbidity (incisional hernias).
+- **NCCN Guidelines:** Port site resection is **not** considered standard of care.
+
+---
+
+## TREATMENT: Nonincidental (Per Primum) GBC
+
+- Represents the minority of cases in Western countries.
+- Patients often present with symptoms of advanced disease (jaundice, weight loss).
+- Associated with worse outcomes compared to incidental cancers.
+- **Differences:**
+    - Higher T-stage, nodal metastases, vascular/perineural invasion.
+    - Lower rates of resection, higher rates of R1/R2 resections.
+    - More likely to be non-Hispanic White, lower BMI.
+
+---
+
+## Nonincidental GBC: Treatment Algorithm
+
+<!-- This slide would contain an image -->
+**Figure 49.7:** Treatment algorithm for nonincidental gallbladder cancer.
+- Adapted from National Comprehensive Cancer Network (NCCN) Guidelines 3.2020.
+- Highlights the role of staging laparoscopy and intraoperative biopsy.
+
+---
+
+## Nonincidental GBC: Surgical Principles
+
+- Principles are largely similar to incidental cancer.
+- **Staging Laparoscopy:** Recommended before laparotomy for all cases due to increased risk of disseminated disease.
+- **Intraoperative Biopsy:** Expert consensus recommends intraoperative core needle biopsy with frozen section to confirm diagnosis before committing to radical resection.
+
+---
+
+## ADJUVANT THERAPY: Rationale
+
+- **High Recurrence Rate:** ~70% of patients develop recurrence postoperatively.
+- **Pattern of Recurrence:**
+    - Distant (72%): Peritoneum, liver, lung, abdominal wall.
+    - Local (17%).
+    - Regional (11%): Retroperitoneal lymph nodes.
+- **Need for Systemic Therapy:** Recurrence patterns emphasize the need for effective adjuvant therapies.
+
+---
+
+## Adjuvant Therapy: Meta-Analysis
+
+- **Horgan et al. (Systematic Review & Meta-Analysis):**
+    - Pooled analysis (including SEER studies) showed no benefit.
+    - **Analysis of 17 Institutional Studies:**
+        - Adjuvant therapy improved OS (HR 0.53).
+        - **Chemotherapy (HR 0.39) and Chemoradiotherapy (HR 0.61)** significantly improved survival.
+        - **Radiotherapy alone** did not improve survival.
+    - Benefit seen in patients with node-positive disease and R1 resections.
+
+---
+
+## Adjuvant Therapy: Modern RCTs
+
+| Trial | Study Design | Arms | Primary Endpoint | Result |
+| :--- | :--- | :--- | :--- | :--- |
+| **PRODIGE-12/ACCORD-18** | Randomized Phase III | GEMOX vs. Observation | RFS | **No difference** (HR 0.88, P=.48) |
+| **BCAT** | Randomized Phase III | Gemcitabine vs. Observation | OS | **No difference** (HR 1.01, P=.96) |
+| **BILCAP** | Randomized Phase III | Capecitabine vs. Observation | OS | **Improved** (HR 0.71, P=.01) |
+| **SWOG0809** | Single-arm Phase II | Gem/Cap + CRT | OS | Goal met (R0:67%, R1:60%) |
+
+---
+
+## BILCAP Trial: Details
+
+- **Population:** Cholangiocarcinoma and muscle-invasive gallbladder cancer (18%).
+- **Regimen:** Adjuvant capecitabine vs. best supportive care.
+- **Results:**
+    - **Significant improvement in OS** in the adjusted intention-to-treat analysis (HR 0.71, P=.01).
+    - Unadjusted ITT was not significant (HR 0.81, P=.097).
+    - Improved RFS for the first 24 months.
+- **Impact:** Adjuvant capecitabine is now a recommended strategy.
+
+---
+
+## Adjuvant Therapy: Current Practice
+
+- Due to BILCAP, **adjuvant capecitabine for 6 months** is one recommended strategy.
+- Despite the negative ITT analysis of BILCAP, many clinicians still use a **doublet regimen of gemcitabine and a platinum agent** (cisplatin or oxaliplatin) in the adjuvant setting.
+- **Ongoing Trial:** ACTICCA-1 is comparing adjuvant gemcitabine/cisplatin to capecitabine.
+- **SWOG0809:** Suggests a potential role for chemoradiotherapy in patients with positive margins.
+
+---
+
+## NEOADJUVANT THERAPY
+
+- **Role:** Not well defined, no level I evidence.
+- **Rationale:**
+    - Downstaging the tumor.
+    - In vivo test of chemosensitivity.
+    - Immediate treatment of micrometastatic disease.
+    - Optimizing patient selection for surgery.
+- **Risks:** Progression during therapy, toxicity affecting surgical candidacy.
+
+---
+
+## Neoadjuvant Therapy: Evidence
+
+- **Hakeem et al. (Systematic Review):**
+    - Included patients with stage IIIa disease or greater.
+    - 30.6% had progressive disease; 66.6% demonstrated clinical benefit.
+    - 50.4% were suitable for surgery; R0 resection rate was 35.4%.
+- **Conclusion:** Insufficient evidence to support routine use.
+- **Ongoing Trials:** (e.g., GAIN, EA2197) are evaluating perioperative chemotherapy.
+
+---
+
+## TARGETED THERAPY
+
+- **Common Mutations:**
+    - TP53 (55%), CDKN2A (26%), HER2/neu (15%), ERBB2 (12%).
+- **Potential Targets:** HER2/neu, ERBB2, EGFR.
+- **Evidence:**
+    - **Javle et al.:** HER2-directed therapy (trastuzumab) led to disease control in patients with HER2/neu mutations.
+    - **Li et al.:** ERBB2 inhibitors showed efficacy in gallbladder cancer cell lines.
+    - **Iyer et al.:** EGFR inhibitors may be effective, but Kras mutations may confer resistance.
+
+---
+
+## SURVEILLANCE
+
+- No specific data to guide a surveillance schedule.
+- Given high recurrence rates, surveillance is advisable.
+- **NCCN Guidelines:**
+    - Imaging (chest, abdomen, pelvis) every 3-6 months for the first 2 years.
+    - Then every 6-12 months for up to 5 years, or as clinically indicated.
+
+---
+
+## Summary
+
+- Gallbladder cancer is highly lethal, but improvements in understanding and treatment are being made.
+- **Surgical Management:** R0 resection remains the cornerstone.
+- **Incidental GBC:** Re-resection is critical for T1b and higher.
+- **Adjuvant Therapy:** Capecitabine is a recommended option; platinum-based doublets are also used.
+- **Future Directions:**
+    - Clinical trials for neoadjuvant and targeted therapies.
+    - Advancements in imaging for earlier diagnosis.
+    - Multidisciplinary management and international collaboration are essential to improve outcomes.
