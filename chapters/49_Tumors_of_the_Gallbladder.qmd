@@ -1,7 +1,7 @@
 # 49 Tumors of the Gallbladder
 
 
-{{ reveal 49_Tumors_of_the_Gallbladder }}
+{{< reveal 49_Tumors_of_the_Gallbladder >}}
 
 Generated with Claude. 
 

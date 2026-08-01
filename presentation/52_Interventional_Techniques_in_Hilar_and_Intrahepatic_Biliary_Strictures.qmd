@@ -1,0 +1,724 @@
+---
+title: "Interventional Techniques in Hilar and Intrahepatic Biliary Structures"
+format: revealjs
+---
+
+
+## Overview of the Presentation
+
+- Definition of high bile duct obstruction
+- Indications for biliary drainage
+- Endoscopic vs. percutaneous drainage
+- Preprocedure preparation
+- Intraprocedural issues
+- Postprocedure care
+- Summary
+
+---
+
+## Defining High Bile Duct Obstruction
+
+- Historically defined as above the cystic duct insertion into the common hepatic duct (CHD)
+- More accurate definition: obstruction involving the hepatic confluence and the 2–4 cm of CHD distal to it
+- Anatomic variability of the cystic duct/CHD confluence makes the historical definition inaccurate
+
+---
+
+## Causes of Hilar Obstruction
+
+- **Hilar cholangiocarcinoma** (most common)
+- **Intraductal tumor**
+- Other malignancies:
+    - Colorectal cancer
+    - Breast cancer
+    - Pancreatic cancer
+
+---
+
+## Goals of Treatment
+
+- Define goals before committing to any drainage procedure
+- Most important question: **Resectability?**
+- Multidisciplinary team discussion is ideal:
+    - Hepatobiliary surgeons
+    - Interventional radiologists
+    - Oncologists
+    - Gastroenterologists
+
+---
+
+## Indications for Palliative Biliary Drainage
+
+- Intractable pruritus
+- Cholangitis
+- Need to restore liver function for chemotherapy (agents with biliary metabolism/excretion)
+- Access for intraluminal brachytherapy
+- Diversion for bile leak
+
+---
+
+## Indications for Biliary Drainage (Detailed)
+
+- **Not indicated** for isolated hyperbilirubinemia or imaging findings of dilation alone
+- **Indicated** for:
+    - Pruritus
+    - Cholangitis
+    - Lowering bilirubin for chemotherapy
+    - Postoperative bile leaks (after biliary-enteric bypass)
+    - Local treatment delivery (brachytherapy, photodynamic therapy)
+
+---
+
+## Quality of Life and Preoperative Drainage
+
+- Relief of jaundice does not definitively improve QOL (Robson et al. trial)
+- Percutaneous drainage of high obstruction does not significantly improve QOL except in patients with pruritus
+- Controversy remains regarding preoperative drainage
+- Preoperative drainage of future remnant liver often performed for:
+    - Major hepatectomy
+    - Before portal vein embolization
+
+---
+
+## Preoperative Drainage: Methods
+
+- Endoscopic methods preferred for low obstruction (lower complication rate)
+- Percutaneous methods preferred for high obstruction (reduces risk of cholangitis in undrained segments)
+- Patients with Bismuth type II and higher are at high risk for multiple drainage procedures
+
+---
+
+## FIGURE 52.1: High vs. Low Bile Duct Obstruction
+
+- **High bile duct obstruction**: at or above the confluence
+- **Low bile duct obstruction**: below the common hepatic duct
+- Segmental anatomy highlighted
+
+---
+
+## Endoscopic vs. Percutaneous Drainage
+
+- **Low obstruction**: typically treated endoscopically
+- **High obstruction**: traditionally treated percutaneously
+- Percutaneous success rate is higher and complication rate lower
+- Endoscopic techniques are evolving, but high obstruction should still be approached percutaneously (with rare exception)
+
+---
+
+## Randomized Trial of Percutaneous vs. Endoscopic Drainage
+
+- Trial stopped prematurely due to high mortality (11%) in percutaneous group
+- 11% mortality is much higher than recent reports
+- SIR mortality threshold (2010): 1.7%
+- Raises questions about operator experience and expertise in the trial
+
+---
+
+## Drawbacks of Endoscopic Drainage for High Obstruction
+
+- Lack of ability to reliably target a specific liver area for drainage
+- Risk of enteric contamination of undrained parts of the biliary tree (retrograde contrast injection)
+- Inadequate preoperative drainage is common (Wiggers et al., 2015):
+    - 38% (108/288) of perihilar cholangiocarcinoma patients required additional percutaneous procedures after ERCP
+
+---
+
+## FIGURE 52.2: Inadequate Endoscopic Drainage
+
+- Image showing endoscopic stenting of right and left liver
+- Repeat imaging reveals incomplete drainage
+- Highlights the challenge of endoscopic approaches for high obstruction
+
+---
+
+## Endoscopic Ultrasound-Guided Drainage
+
+- Linear-array echoendoscope allows for:
+    - Choledochoduodenostomy
+    - Hepaticogastrostomy
+- Hepaticogastrostomy considered when:
+    - Left lateral segment drainage is needed
+    - Anatomy is favorable
+    - Percutaneous approach is difficult
+    - Risk of contaminating right bile ducts is prohibitive
+
+---
+
+## FIGURE 52.3: Right Liver Drainage of No Clinical Benefit
+
+- Cases where draining the right liver would not help:
+    - Tumor replacement of the liver
+    - Occlusion of the right portal vein
+- Hepaticogastrostomy may be an alternative
+
+---
+
+## Success and Complication Rates of EUS-Guided Drainage
+
+- Some authors report high technical success with few complications
+- Others report high technical success but less favorable complication and stent patency rates
+- Most operators are early on the learning curve
+- In skilled hands, this procedure can be gratifying, with relief of pruritus and bilirubin lowering without a percutaneous catheter
+
+---
+
+## Papillary Intraductal Tumor
+
+- Endoscopic drainage is rarely indicated
+- Inevitable tumor ingrowth into metallic stent leads to early occlusion
+- Intraductal tumor can arise from:
+    - Papillary cholangiocarcinoma
+    - Colorectal metastases
+    - Gallbladder cancer
+    - Hepatocellular carcinoma
+- Often direct extension of parenchymal metastasis into the duct
+
+---
+
+## FIGURE 52.4A: Hilar Cholangiocarcinoma with Intraductal Extension
+
+- Patient with hilar cholangiocarcinoma arising in segment IV (circle)
+- Tumor extension into the left hepatic duct (arrows)
+
+---
+
+## FIGURE 52.4B: Cholangiogram at Time of Drainage
+
+- Tumor in left hepatic duct (LHD) compressing hilus
+- Extension into the common hepatic duct (CHD) (arrows)
+
+---
+
+## FIGURE 52.4C: Stent Placement
+
+- Stent extends from right side to CHD
+- Excludes the tumor in the left hepatic duct
+
+---
+
+## FIGURE 52.4D: Post-Stent Cholangiogram
+
+- Cholangiogram after stent placement shows successful drainage
+
+---
+
+## Management of Intraductal Tumor
+
+- Often require permanent indwelling catheter drainage
+- Multi-sidehole catheter allows bile to drain around the tumor
+- May be stented when the intraductal tumor can be effectively excluded
+
+---
+
+## Preprocedure Preparation: Imaging
+
+- Importance of excellent preprocedure imaging cannot be overemphasized
+- Minimum: contrast-enhanced CT scan of the abdomen
+- Ultrasound: useful to establish dilated ducts, level of obstruction, portal vein patency, intraductal tumor
+- But ultrasound is **not adequate** for drainage planning
+
+---
+
+## MRCP for Biliary Imaging
+
+- Provides detailed 3D rendering of obstructed bile ducts
+- Effective at:
+    - Delineating intraductal abnormalities
+    - Depicting isolated bile ducts
+- Shortcomings:
+    - Poor visualization of surgical clips, calcifications, bony landmarks
+    - Suboptimal if patient cannot breath-hold
+
+---
+
+## FIGURE 52.5: MRCP Rendering
+
+- Detailed 3D rendering of obstructed bile ducts
+- Delineates intraductal abnormalities
+- Depicts isolated bile ducts
+
+---
+
+## CT Imaging for Drainage Planning
+
+- Multi-slice CT in PACS environment allows 3D rendering
+- Identifies relevant landmarks for targeting
+- Demonstrates structures to avoid (liver tumors, bowel)
+- Identifies ancillary findings:
+    - Ascites
+    - Hepatic lobar atrophy
+    - Portal vein occlusion/encasement
+
+---
+
+## Estimating Functional Parenchyma
+
+- Functional parenchyma = liver not replaced by tumor, with intact portal venous supply and hepatic venous drainage
+- If 75% of parenchyma is replaced by tumor, even complete biliary drainage may not normalize bilirubin
+- Portal vein occlusion leads to atrophy of affected segments
+
+---
+
+## FIGURE 52.6A: Right Hepatic Atrophy
+
+- Volume of right hemiliver is greatly diminished
+- Severe attenuation of the right portal vein (arrows)
+
+---
+
+## FIGURE 52.6B: Left Hepatic Atrophy
+
+- Small size of left hemiliver
+- Crowding of dilated bile ducts secondary to portal vein occlusion
+- Endoscopic stent (asterisk) previously placed, patient returned with jaundice and cholangitis
+
+---
+
+## Drainage of Atrophied Liver
+
+- Drainage of atrophied liver does not improve function
+- Often difficult to manipulate catheters through obstructed/atrophied portion
+- Results in external drainage catheter with no clinical benefit
+- Only risks complications and degrades QOL
+
+---
+
+## Isolation of Biliary Tree
+
+- Central tumors frequently obstruct right and left biliary tree, isolating them
+- Obstruction may extend to sectoral, segmental, or subsegmental level
+- Draining even a segment may relieve pruritus
+- For lowering bilirubin, aim to drain at least 75% of liver to normalize bilirubin
+- More than one catheter or stent may be needed
+
+---
+
+## Cholangitis as an Indication for Drainage
+
+- Rarely the primary indication except in patients with:
+    - Prior biliary instrumentation
+    - Contaminated biliary tree (biliary-enteric bypass, cross-ampullary stenting, sphincterotomy)
+- Draining an isolated region may contaminate other isolated parts
+- This can lead to chronic recurrent cholangitis
+- Should be anticipated and avoided if possible
+
+---
+
+## Preprocedure Laboratory Studies
+
+- Complete blood count
+- Hepatic function panel
+- Coagulation studies (PT, INR, PTT)
+- Serum bilirubin: draw within 24 hours of drainage
+    - Bilirubin is typically rising; may be higher the morning after the procedure
+    - Values drawn 48 hours after drainage more accurately predict effectiveness
+
+---
+
+## Coagulation Abnormalities
+
+- Lack of bile salts in intestine impairs vitamin K absorption
+- May result in elevated PT, INR, PTT
+- Corrected by:
+    - Vitamin K administration
+    - Fresh frozen plasma (depending on urgency)
+
+---
+
+## Antibiotic Prophylaxis
+
+- Given to all patients undergoing biliary drainage
+- History of instrumentation and fever are highly predictive of bactibilia
+- Up to 5% of patients without these signs may have positive bile cultures
+- Broad coverage: ticarcillin-clavulanate or ceftriaxone
+- Choice should reflect common biliary organisms at the institution
+- For contaminated biliary tree: piperacillin-tazobactam (Zosyn)
+
+---
+
+## Psychological Preparation
+
+- Manage patient expectations thoroughly
+- Discuss possible outcomes, especially for high obstruction
+- Patients should understand:
+    - Internal drainage may not be achieved
+    - Two or more catheters/stents may be required
+    - Pruritus often resolves, but bilirubin may not normalize
+    - Bilirubin may even increase
+- Mitigates surprise or anger if multiple procedures are needed
+
+---
+
+## FIGURE 52.7A: Tumor Causing Severe Narrowing
+
+- Obstruction caused by tumor severely narrows biliary tree up to secondary confluence on right
+
+---
+
+## FIGURE 52.7B: Catheter Placement and Compromise
+
+- After placement of multiple sidehole catheter, right posterior sector is well drained
+- Catheter compromises near-complete obstruction of right anterior division duct and left hepatic duct
+
+---
+
+## Approach: Right-Sided
+
+- **Advantages:**
+    - Right liver is larger and more accessible
+    - Avoids direct x-ray exposure to hands
+    - Direct approach to hepatic hilus and common bile duct
+    - Easier catheter and guidewire manipulations
+    - Fewer structures between skin and right liver (safer, lower bleeding risk)
+- **Disadvantages:**
+    - Intercostal catheter discomfort
+    - Leaking of ascites around gravity-dependent catheter
+- Mitigated with primary stent placement
+
+---
+
+## Anatomic Variant: Posterior Right Duct Joins Left
+
+- Occurs in 20% of patients
+- May add a 180-degree turn to approach the hilum
+- Can be advantageous: approach from posterior right duct drains right posterior sector and entire left liver when posterior duct joins the left
+
+---
+
+## Approach: Left-Sided
+
+- **Indications:**
+    - Tumor extends above biliary confluence, isolating right and left ducts
+    - Tumor involves secondary confluence or higher
+    - Right hepatic duct shorter; tumor more likely to isolate right anterior/posterior sectoral ducts
+    - Left medial/lateral sectors continue to communicate
+    - Single catheter/stent on left may drain more functional parenchyma
+    - Ascites: less leakage around left anterior catheter
+
+---
+
+## Image Guidance
+
+- Fluoroscopic guidance is most common
+- Ultrasound for left-sided puncture; less often for right
+- Careful review of high-quality CT:
+    - Identify radiopaque landmarks
+    - Target specific region or duct
+    - Important when isolation is suspected
+- Previously placed stents, surgical clips, etc., can aid targeting
+
+---
+
+## Sedation
+
+- General anesthesia not necessary but helpful when available
+- Especially useful when:
+    - Bile ducts are not dilated or minimally dilated
+    - Patient has sleep apnea (variable respirations make targeting difficult)
+- NPO for 8 hours before procedure
+- Hydration and functional venous access essential
+- Risk of sepsis and hypotension requiring rapid volume expansion
+
+---
+
+## Technical Aids: Multidetector CT (MDCT)
+
+- Most significant technical development in recent years
+- Ability to scan liver in a single breath hold
+- Facilitates identification of level of obstruction and isolation likelihood
+- Enables 3D mental image of biliary tree
+- Anticipates normal variants of bile duct anatomy
+- PACS workstations allow cross-reference of axial images with scout image for easier targeting
+
+---
+
+## FIGURE 52.8A: Axial Image
+
+- Axial image from PACS workstation used for targeting specific ducts
+
+---
+
+## FIGURE 52.8B: Scout Image
+
+- Simulated frontal radiograph used for programming scan extent
+
+---
+
+## FIGURE 52.8C: Final Catheter Placement
+
+- Final catheter resides within the planned segment of the liver
+
+---
+
+## Drainage Catheter vs. Primary Stent Placement
+
+- Decision based on:
+    - Indication for drainage
+    - Evidence of infected bile
+    - Presence of blood or tumor in biliary tree
+    - Cholangiographic findings
+- Goal: solve the clinical problem with as few catheters/stents as possible
+- Bile should drain internally when intervention is complete
+
+---
+
+## Primary Stent Placement: Considerations
+
+- Presumed sterile biliary tree: attempt to stent without placing drainage catheter into duodenum
+- Preserving sphincter of Oddi may reduce cholangitis risk if stent occludes
+- Patients with high obstruction without cholangitis: may be stented primarily at initial procedure
+- **Contraindications:**
+    - Significant blood clot within intrahepatic ducts (impairs drainage)
+    - Cholangitis (catheter manipulation minimized; stent later)
+
+---
+
+## Bismuth-Corlette Classification
+
+- Classification of hepatic confluence obstruction (1975)
+- **Types I–IV**
+- Predictions based on preprocedure imaging, but may need modification based on cholangiography
+
+---
+
+## FIGURE 52.9: Bismuth-Corlette Classification
+
+- **Type I:** Tumor below confluence
+- **Type II:** Tumor involves confluence
+- **Type III:** Tumor extends into right or left hepatic duct
+- **Type IV:** Tumor involves both right and left ducts to secondary confluence
+
+---
+
+## Bismuth Type I Obstruction
+
+- Entire liver can be drained with one catheter or stent
+- Right and left ducts communicate freely
+- Primary stent placement is appropriate (barring contraindications)
+
+---
+
+## Bismuth Type II Obstruction
+
+- Cannot be completely drained with one catheter
+- May be possible to opacify ducts on both sides
+- Some suggest better survival with bilateral drainage
+- Options:
+    1. T-shaped configuration: one stent ipsilateral to contralateral, second stent from ipsilateral to common bile duct
+    2. Y-shaped configuration: puncture contralateral side, place side-by-side stents
+
+---
+
+## FIGURE 52.10A: Bismuth Type II Obstruction
+
+- Patient with cholangiocarcinoma
+- Near-complete isolation of right and left hepatic ducts
+
+---
+
+## FIGURE 52.10B: T-Shaped Configuration
+
+- Side-by-side T-shaped configuration
+- One stent from left hepatic duct (LHD) to right hepatic duct
+- Second stent from LHD into common bile duct (CBD)
+- Stent ends short of duodenum, preserving sphincter
+
+---
+
+## FIGURE 52.11A: Type II Obstruction After Whipple
+
+- Patient with pancreatic cancer after Whipple procedure
+- Recurrence at biliary-enteric anastomosis
+- Type II obstruction
+
+---
+
+## FIGURE 52.11B: Y-Shaped Configuration
+
+- Side-by-side Y-shaped configuration stents
+- Both stents approachable percutaneously or endoscopically if occlusion occurs
+
+---
+
+## Stent Configuration: Y vs. T
+
+- **Y-shaped:**
+    - More anatomic
+    - If occlusion occurs, both stents approachable percutaneously or endoscopically
+    - Better patency in type IV obstruction
+- **T-shaped:**
+    - One stent from ipsilateral to contralateral side
+    - Second stent from ipsilateral into CBD
+
+---
+
+## Bismuth Type III or IV Obstruction
+
+- Contralateral biliary tree not opacified
+- If draining for pruritus alone: primary stent placement
+- If draining to lower bilirubin for chemotherapy: stent considered if >30% of liver will be drained
+- If bilirubin fails to fall: second drainage procedure can be performed
+- Creative solutions: multiple stents into isolated parts of the liver
+
+---
+
+## Rule of Thumb: 30% Liver Drainage
+
+- Series of 149 patients at Memorial Sloan Kettering:
+    - 29% of patients with <1/3 of liver drained attained bilirubin <2 mg/dL
+    - 51% of patients with >1/3 of liver drained attained bilirubin <2 mg/dL (P = .06)
+- Stent placement may be considered when >30% of the liver can be drained
+
+---
+
+## Stent Patency
+
+- No difference in patency for proximal vs. distal obstruction
+- Significant difference in patency when more than one stent is placed
+- Lower complication rates when stents placed primarily
+- Mean patency of multiple stents: almost 6 months
+
+---
+
+## FIGURE 52.12: Multiple Stents for Complex Drainage
+
+- Stents placed from:
+    - Right anterior hepatic duct to CBD
+    - Left hepatic duct to CBD
+    - Left hepatic duct to residual undrained posterior right duct
+- A: Without contrast
+- B: After injection of contrast
+
+---
+
+## Postprocedure Care: Monitoring
+
+- Patients monitored carefully for first 24 hours
+- Signs of bleeding or sepsis
+- Peripheral bile duct puncture minimizes serious bleeding complications
+
+---
+
+## Hemobilia
+
+- Blood may enter bile duct during catheter exchanges
+- Usually clears within 24 hours
+- New or recurrent hemobilia within first few days: catheter malposition
+    - Reposition catheter, often upsize
+- Significant arterial bleeding is rare
+
+---
+
+## FIGURE 52.13A: Proper Hepatic Angiogram
+
+- Patient with hemobilia and bleeding around catheter 1 week after drainage
+- Spasm of right hepatic artery branch adjacent to catheter at duct puncture site (arrows)
+
+---
+
+## FIGURE 52.13B: Coil Embolization
+
+- Right hepatic angiogram after coil embolization of right hepatic artery branch (arrows)
+
+---
+
+## Late Bleeding (>1 Week)
+
+- Sudden onset
+- Hemobilia and bleeding around catheter entry site
+- Suspect arterial injury
+- Angiographic study indicated
+- Pseudoaneurysm or extravasation may be seen
+- Any abnormality of adjacent hepatic arterial branch: presumptive evidence of injury
+- Selective coil embolization of the branch
+
+---
+
+## Sepsis After Drainage
+
+- Despite antibiotic prophylaxis, sepsis may occur
+- Manifests as rigors with normal or low temperature, hypotension, fever
+- Management:
+    - Continued antibiotics
+    - Intravascular volume expansion
+    - Pressor support if necessary
+- Blood cultures and bile cultures should be obtained
+
+---
+
+## Bile Leak Around Catheter
+
+- Most often due to catheter malposition (sideholes outside biliary tree)
+- Management: reposition catheter
+- Other causes:
+    - Inadequate sideholes above obstruction
+    - Catheter occlusion
+- Capped internal-external catheters: distal sidehole occlusion
+    - Open to gravity drainage initially, then exchange catheter
+
+---
+
+## Ascites Leak Around Catheter
+
+- Ascitic fluid may be bile-colored (mistaken for bile)
+- Difficult to manage
+- Best treatment: establish internal drainage with stent placement
+- If cannot be stented:
+    - Upsize catheter to tamponade site
+    - Frequent paracentesis or Tenckhoff catheter drainage
+    - Stoma device around entry site (last resort)
+
+---
+
+## Duodenal Obstruction or Impaired Motility
+
+- Patients may be relegated to obligate external drainage
+- Internal drainage not possible
+- Management of external drainage catheters
+
+---
+
+## Summary: Key Points
+
+- Malignant high bile duct obstruction presents unique challenges
+- Outcome depends on:
+    - Condition of underlying hepatic parenchyma
+    - Degree of biliary tree isolation
+    - Technical skills of the operator
+- High-quality imaging and understanding of functional biliary anatomy are essential
+
+---
+
+## Summary: Pruritus and Bilirubin
+
+- Pruritus may be palliated by draining even one segment of the liver
+- Lowering bilirubin to normal/near-normal: best achieved by draining at least 30% of the liver (assuming relatively normal parenchyma)
+
+---
+
+## Summary: Contamination and Stent Placement
+
+- Contamination of undrained biliary tree parts can lead to ongoing/recurrent cholangitis
+- Primary stent placement should be considered when ≥30% of the liver can be drained at the initial procedure
+
+---
+
+## Take-Home Messages
+
+1. Define goals of treatment before any procedure
+2. High obstruction: percutaneous approach preferred
+3. Excellent preprocedure imaging is critical
+4. Functional parenchyma and isolation degree guide planning
+5. Primary stent placement should be considered when possible
+6. Manage patient expectations realistically
+7. Monitor for complications: bleeding, sepsis, bile leak, ascites
+
+---
+
+## Learning Checkpoint
+
+- What is the most important question before biliary drainage?
+- What are accepted indications for palliative drainage?
+- Why is percutaneous drainage preferred for high obstruction?
+- What percentage of liver drainage is associated with bilirubin normalization?
+- What are the two main stent configurations for Bismuth type II obstruction?
