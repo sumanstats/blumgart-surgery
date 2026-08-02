@@ -1,0 +1,1240 @@
+---
+title: "Chapter 36: Cholecystectomy Techniques and Postoperative Problems"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+## Overview: Frequency of Cholecystectomy
+
+- Cholecystectomy is one of the most frequently performed general surgery procedures in the United States
+- Over 500,000 procedures are performed annually
+- Reasons include the frequency of gallbladder disease and indications for intervention in the US population
+
+---
+
+## Overview: Rise of Laparoscopic Approach
+
+- The advent of laparoscopic cholecystectomy in the 1980s resulted in a rapid rise in the number of cholecystectomies
+- Benefits include reduced postoperative recovery, reduced pain, and ability to complete the procedure in the outpatient setting
+- As familiarity with laparoscopy has increased, the incidence of open cholecystectomy has steadily decreased
+
+---
+
+## Overview: Chapter Scope
+
+- This chapter addresses techniques of open cholecystectomy because this approach is still used when laparoscopy is contraindicated or technically impossible
+- Appropriate laparoscopic cholecystectomy techniques will be discussed
+- Strategies to prevent common bile duct injuries (CBDI) will be covered
+- Alternative minimally invasive approaches and common complications will also be addressed
+
+---
+
+## Indications: Symptomatic Gallstones
+
+- Symptomatic gallstones are the primary reason a patient requires cholecystectomy
+- In the US, approximately 5% to 22% of the population has cholelithiasis
+- Cholelithiasis can lead to several pathologic conditions including biliary colic, acute cholecystitis, gallstone pancreatitis, or choledocholithiasis
+
+---
+
+## Indications: Asymptomatic Gallstones
+
+- The majority of patients with cholelithiasis will remain asymptomatic
+- Prophylactic cholecystectomy in asymptomatic patients is typically not warranted
+- Cholecystectomy may be indicated for certain populations with asymptomatic cholelithiasis
+- Example: sickle cell anemia where hepatic and vaso-occlusive disease can be indistinguishable from acute biliary pathology
+
+---
+
+## Indications: Gallbladder Polyps
+
+- Gallbladder polyps without cholelithiasis can be an indication for cholecystectomy
+- Resection is recommended for gallbladder polyps greater than or equal to 10 mm
+- Resection is also recommended in patients with biliary symptoms in the setting of gallbladder polyps of any size
+
+---
+
+## Indications: Concomitant Procedures
+
+- Cholecystectomy is often performed concomitantly with other procedures
+- Examples include pancreaticoduodenectomy and major anatomic liver resections
+- Cholecystectomy at the time of bariatric surgery is controversial
+- It is thought that biliary symptoms increase after extreme weight loss
+
+---
+
+## Indications: Bariatric Surgery Considerations
+
+- A systematic review and meta-analysis reported that concomitant cholecystectomy increases postoperative morbidity and operative time
+- The decision to perform concomitant cholecystectomy during bariatric surgery requires careful consideration of risks and benefits
+
+---
+
+## Indications: Timing of Cholecystectomy
+
+- Timing of cholecystectomy can vary by indication
+- Acute cholecystitis cases should proceed to the operating room as early as possible
+- A recent study using a Swedish registry found that adverse events, mortality, and CBDIs were higher in patients who underwent cholecystectomy more than 4 days after admission
+
+---
+
+## Indications: Optimal Timing for Acute Cholecystitis
+
+- Data suggest the optimal timing for cholecystectomy is within 48 hours of admission for acute cholecystitis
+- Delayed surgery beyond this window is associated with worse outcomes
+- Early intervention remains the standard of care
+
+---
+
+## Laparoscopic Cholecystectomy: Standard of Care
+
+- Laparoscopy has become the standard access for removing the gallbladder
+- Multiple studies have shown a decrease in postoperative pain
+- Earlier return to normal activity compared to open cholecystectomy
+- Decrease in hospital length of stay (LOS)
+- Reduction in incisional hernia development
+
+---
+
+## Laparoscopic Cholecystectomy: Anatomical Knowledge
+
+- Familiarity with the anatomy of the porta hepatis is essential
+- Knowledge of common biliary and vascular variations can reduce complication rates
+- This is particularly important for challenging cases presenting with significant inflammation
+
+---
+
+## Operating Room Setup: Equipment Verification
+
+- Before beginning any procedure, the surgeon must ensure that all equipment is present and functional
+- This includes equipment for potentially necessary procedures such as cholangiography
+- Equipment for potential conversion to laparotomy must also be available
+
+---
+
+## Box 36.1: Equipment for Laparoscopic Cholecystectomy
+
+- Comprehensive equipment list is essential for safe laparoscopic cholecystectomy
+- Equipment is divided into categories: viewing equipment, dissection instruments, and instruments for unusual circumstances
+- Proper preparation prevents intraoperative delays and complications
+
+---
+
+## Box 36.1: Laparoscopic Viewing Equipment
+
+- Camera light source
+- Laparoscope (5-mm and 10-mm, 30-degree)
+- Monitors (one over each shoulder)
+- Insufflator and tubing
+- Trocars (multiple 5-mm trocars and at least one 10-mm)
+
+---
+
+## Box 36.1: Instruments for Dissection and Removal
+
+- Clips (5-mm and 10-mm variety)
+- Electrocautery
+- Suction and irrigation
+- Atraumatic graspers
+- Maryland grasper (or laparoscopic right angle grasper)
+- Endoscopic retrieval bag
+
+---
+
+## Box 36.1: Instruments for Unusual Circumstances
+
+- Endoloop
+- Laparoscopic needle driver
+- Absorbable hemostatic agent
+- Staplers
+- Argon laser
+- Cholangiography equipment (catheter, injectable contrast, C-arm for fluoroscopy)
+- Open cholecystectomy tray and instruments
+
+---
+
+## Port Placement and Exposure: Initial Access
+
+- Once pneumoperitoneum is obtained, a 5- or 10-mm port is placed in the periumbilical region
+- A 30-degree laparoscope is inserted
+- The abdominal cavity is inspected systematically
+
+---
+
+## Port Placement and Exposure: Trocar Positions
+
+- One 5-mm trocar is placed along the right anterior axillary line 2 centimeters below the costal margin
+- The other 5-mm port is placed at the midclavicular line on the right at the edge of the liver
+- A fourth port (5- or 10-mm) is placed in the subxiphoid region
+
+---
+
+## Port Placement and Exposure: Subxiphoid Port
+
+- The subxiphoid port should be placed 2 to 4 centimeters below the xiphoid
+- Exact placement depends on the location of the gallbladder and falciform ligament
+- A fifth port can be placed in the location deemed most appropriate for additional retraction if needed
+
+---
+
+## Figure 36.1: Trocar Positions
+
+- **Panel A**: Positions for insertion of trocars during laparoscopic cholecystectomy
+  - Laparoscope (A) is positioned in the periumbilical region
+  - Graspers for gallbladder retraction (B) and manipulation (C) are positioned in the right upper quadrant along the subcostal region
+  - Subxyphoid region (D) is used for the dissector, diathermy, and clip appliers
+- **Panel B**: Cross-sectional view showing gallbladder, liver, and laparoscope positioning
+
+---
+
+## Dissection and Critical View of Safety: Initial Retraction
+
+- An atraumatic grasper is placed through the most lateral port
+- The fundus of the gallbladder is grasped to retract it cephalad and laterally
+- This raises the liver edge and exposes the neck of the gallbladder and the porta
+
+---
+
+## Dissection and Critical View of Safety: Infundibulum Manipulation
+
+- With the gallbladder retracted cephalad, a second atraumatic grasper is placed through the midclavicular port
+- This grasper manipulates the infundibulum of the gallbladder
+- Adhesions should be taken down until the gallbladder infundibulum can be seen clearly
+
+---
+
+## Dissection and Critical View of Safety: Triangle of Calot
+
+- Retraction of the infundibulum caudally and to the right exposes the triangle of Calot
+- A cautery instrument placed through the xiphoid port opens the peritoneum in the triangle of Calot
+- Dissection should be started at the edge of the gallbladder neck to avoid iatrogenic injury to aberrant hepatic vasculature or bile ducts
+
+---
+
+## Dissection and Critical View of Safety: Peritoneal Dissection
+
+- Dissection of the peritoneum is continued on both sides of the gallbladder
+- Stay 1 to 2 mm from the liver edge
+- Attention is next turned to obtaining the critical view of safety (CVS)
+
+---
+
+## Critical View of Safety: Importance
+
+- The CVS technique has been shown to reduce the rates of iatrogenic bile duct injuries
+- A recent multisociety consensus statement recommended CVS for identification of the cystic duct and cystic artery during laparoscopic cholecystectomy
+- When CVS was not attainable, a subtotal cholecystectomy should be performed rather than attempting a fundus-first approach
+
+---
+
+## Critical View of Safety: Dissection Technique
+
+- Attachments at the neck of the gallbladder are dissected using a combination of blunt and cautery assisted dissection
+- It is useful to serially retract the infundibulum medially and laterally to fully dissect the triangle of Calot
+- Carrying dissection to the level of the common bile duct (CBD) is not indicated because this only increases the risk for iatrogenic injury
+
+---
+
+## Critical View of Safety: Creating the Window
+
+- Blunt dissection with a Maryland grasper or right-angle grasper can help create a window behind the cystic duct
+- Spread in the avascular tissue
+- The gallbladder is dissected off the liver edge, exposing the cystic plate
+
+---
+
+## Box 36.2: Doublet Scoring for Critical View of Safety
+
+- Criteria for Achieving Critical View of Safety:
+  1. Two structures connected to gallbladder: Only two structures clearly seen entering the gallbladder
+  2. Cystic plate: Approximately 1/3 of cystic plate is clearly visible
+  3. Clearance of hepatocystic triangle: Hepatocystic triangle is cleared of tissue so visibility of cystic structures and plate is unimpeded
+
+---
+
+## Box 36.2: Certainty of Anatomy
+
+- The surgeon must be certain no other structures are in the hepatocystic triangle
+- If any question or doubt about the anatomy is encountered, a cholangiogram should be performed to reorient the surgeon
+- These views are demonstrated in Figure 36.3
+
+---
+
+## Figure 36.2: Anatomical Triangles
+
+- **Panel A**: Triangle of cholecystectomy limited by the common hepatic duct, right hepatic duct, cystic duct, and inferior liver edge
+- **Panel B**: The triangle of Calot limited by the common hepatic duct, cystic duct, and cystic artery
+- Understanding these boundaries is essential for safe dissection
+
+---
+
+## Figure 36.3: Critical View of Safety
+
+- **Panel A (Anterior view)**: Hepatocystic triangle is dissected free of all tissue except for the cystic duct and artery, and one-third of the cystic plate on the liver bed is exposed
+- **Panel B (Posterior view)**: Critical view of safety during laparoscopic cholecystectomy showing posterior perspective
+- When this view is achieved, the two structures entering the gallbladder can only be the cystic duct and artery
+
+---
+
+## CVS Achievement in Practice
+
+- Most surgeons attempt the CVS during laparoscopic cholecystectomy
+- In practice, it is rarely achieved properly
+- An evaluation of 160 online videos of laparoscopic cholecystectomy found only one video accomplished a passing CVS score
+
+---
+
+## Safe Cholecystectomy Curriculum
+
+- The safe cholecystectomy curriculum can be found free of charge at the Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) website
+- Education and training on CVS are essential for reducing bile duct injuries
+- Continuous quality improvement is needed in this area
+
+---
+
+## Completion of Cholecystectomy: Clipping Structures
+
+- Once all critical anatomy is confirmed, the cystic artery and duct are clipped and divided
+- Care should be taken to avoid tenting the CBD with clips placed too distally on the cystic duct
+- The tips of the clip should be directly visualized to be free before closing
+
+---
+
+## Completion of Cholecystectomy: Clip Safety
+
+- Avoid inadvertent injury to other structures
+- Ensure the clip completely occludes the artery or duct
+- If it is not possible to secure a clip completely across a structure, an Endoloop device can be used to ligate it
+
+---
+
+## Completion of Cholecystectomy: Division
+
+- Scissors are used to divide the cystic artery and duct
+- In rare cases with a large inflamed cystic duct that cannot accommodate clips, endovascular staplers can be used to divide and secure the duct
+- Cautery is avoided for division because of the increased risk for necrosis resulting in clip slippage
+
+---
+
+## Completion of Cholecystectomy: Gallbladder Dissection
+
+- The gallbladder is dissected off the cystic plate from the infundibulum to the fundus with electrocautery
+- Blindly placing clips, clamps, or cauterizing at this time risks causing hemorrhage
+- Risk of inadvertent injury to the hepatic blood supply, superficial biliary pedicles, or middle hepatic vein branches
+
+---
+
+## Figure 36.4: Risks of Blind Clip Placement
+
+- Blind placement of clips or clamps for hemostasis can result in injury to the hepatic artery or bile ducts
+- Four panels demonstrate potential injuries to various ductal and vascular structures
+- Proper visualization is essential before placing any clips in the hepatocystic triangle
+
+---
+
+## Completion of Cholecystectomy: Inspection
+
+- Before completely freeing the gallbladder from the liver, the gallbladder is used for retraction
+- Inspect the cystic plate for hemostasis
+- Inspect that clips are still securely placed on the cystic duct and artery
+
+---
+
+## Completion of Cholecystectomy: Specimen Removal
+
+- Specimen removal is performed through the periumbilical incision
+- This incision is easy to enlarge to extract large gallstones
+- Bag extraction is performed with videoscopic visualization to ensure the bag does not rip and specimen contents are not lost
+
+---
+
+## Completion of Cholecystectomy: Irrigation and Closure
+
+- Spilled bile or debris should be completely irrigated and cleared with suction
+- This prevents subsequent migration or abscess formation
+- The fascia of port sites greater than 10 mm are closed to prevent development of incisional hernias
+
+---
+
+## Completion of Cholecystectomy: Fascial Closure
+
+- Some surgeons elect not to close the epigastric site because herniation is unlikely in that location
+- Proper closure technique depends on port size and location
+- Attention to fascial closure prevents long-term complications
+
+---
+
+## Three-Port and Two-Port Techniques: Rationale
+
+- Attempts to improve on the traditional four-port laparoscopic cholecystectomy by decreasing the number of port sites have been introduced
+- Proponents cite reduced cost related to fewer trocars, fewer scars, and reduced cost
+- The series reporting these techniques are small but suggest that these techniques are feasible and safe
+
+---
+
+## Three-Port and Two-Port Techniques: Method
+
+- Typically, the right upper quadrant ports are eliminated by using suture to retract the gallbladder in their stead
+- Modified techniques have been described for two-port laparoscopic cholecystectomy
+- These approaches require advanced laparoscopic skills
+
+---
+
+## Three-Port and Two-Port Techniques: Evidence
+
+- A small randomized controlled trial (RCT) with 217 patients compared four-port with three-port cholecystectomy
+- Found no difference in length of operation or morbidity, including iatrogenic bile duct injuries
+- However, there was also no difference in pain medication required between groups
+
+---
+
+## Three-Port and Two-Port Techniques: Current Status
+
+- Currently, there are no obvious advantages that these techniques offer over the four-port approach
+- The standard four-port technique remains the gold standard
+- Reduced port techniques may be considered in select circumstances
+
+---
+
+## Single-Incision Laparoscopic Cholecystectomy: Introduction
+
+- Single-incision laparoscopic cholecystectomy (SILC) is the extreme attempt at reducing the number of ports
+- SILC is performed through a single transabdominal incision, usually at the umbilicus
+- There are specifically designed single-port systems and instruments available that have been approved by the US Food and Drug Administration
+
+---
+
+## Single-Incision Laparoscopic Cholecystectomy: Evidence
+
+- Several RCTs comparing SILC with standard laparoscopic cholecystectomy have been performed
+- Most are hampered by low accrual
+- A 2017 trial from Egypt enrolled 187 patients
+
+---
+
+## Single-Incision Laparoscopic Cholecystectomy: Results
+
+- SILC had a statistically significant longer operating time and conversion rate compared with three-port laparoscopic cholecystectomy
+- The only advantage to SILC in this study was the aesthetic score
+- In addition to the absence of benefit to the patient, SILC induces significantly more stress on the surgeon
+
+---
+
+## Single-Incision Laparoscopic Cholecystectomy: Surgeon Stress
+
+- A double-blind RCT measured surgeon heart rate and salivary cortisol
+- Measured before being randomized, after clipping the cystic duct, and while closing skin
+- SILC was associated with higher heart rates and cortisol levels
+- Surgeons also reported the surgical workload was more demanding with SILC
+
+---
+
+## Single-Incision Laparoscopic Cholecystectomy: Patient Selection
+
+- Careful patient selection is necessary to optimize the use of this technique
+- It is critical to understand that the CVS should be obtained regardless of the number of laparoscopic ports used
+- This reduces the risk of vasculobiliary injury during minimally invasive cholecystectomy
+
+---
+
+## Robotic-Assisted Laparoscopic Cholecystectomy: Introduction
+
+- The use of robotic assisted laparoscopic surgery has significantly increased in recent years
+- This upswing is because of a combination of aggressive marketing resulting in patient demand
+- The platform is attractive to surgeons as well
+
+---
+
+## Robotic-Assisted Laparoscopic Cholecystectomy: Advantages
+
+- Offers the benefits of 3-dimensional (3D) visualization
+- Improved ergonomics
+- An easier learning curve compared with laparoscopy
+- Robotic laparoscopic cholecystectomy has been proposed as an ideal tool to improve skill and confidence using the robotic platform
+
+---
+
+## Robotic-Assisted Laparoscopic Cholecystectomy: Costs
+
+- Despite similar outcomes, robotic surgery is associated with significantly higher costs than laparoscopy
+- The upfront cost of purchasing a robotic console is approximately 2 million dollars
+- There is also the cost of maintenance and replacement of disposable instruments
+
+---
+
+## Robotic-Assisted Laparoscopic Cholecystectomy: Outcomes
+
+- A single institution analysis reported lower readmission rates with robotic cholecystectomy in propensity matched patients
+- However, the overall hospital costs and operative time were significantly larger
+- These cost discrepancies must be considered when deciding on the optimal minimally invasive approach
+
+---
+
+## Contraindications: Categories
+
+- Contraindications to this procedure are divided into two categories:
+  1. Contraindications to cholecystectomy
+  2. Contraindications to laparoscopy
+
+---
+
+## Absolute Contraindications
+
+- Absolute contraindications to operative cholecystectomy include:
+  - Refractory coagulopathy
+  - Intolerance of general anesthesia
+- The 2018 Tokyo Guidelines do not discourage cholecystectomy for patients with severe sepsis and end-organ failure (Grade III cholecystitis) if supportive care is available and the operating surgeon feels the patient can withstand the procedure
+
+---
+
+## Relative Contraindications
+
+- Relative contraindications include:
+  - Severe cardiopulmonary disease
+  - Pregnancy
+  - Cirrhosis with portal hypertension
+- Ultimately the decision is made based on clinical judgment
+
+---
+
+## Contraindications: Cirrhosis
+
+- The presence of cirrhosis can complicate many abdominal surgical interventions
+- Laparoscopic cholecystectomy in cirrhotic patients is especially challenging
+- It can be difficult to retract the stiff, friable liver
+- There is potential for bleeding from the associated coagulopathy
+
+---
+
+## Contraindications: Cirrhosis Outcomes
+
+- Outcomes between Childs-Pugh A/B cirrhotic patients undergoing laparoscopic cholecystectomy and those with normal liver function are similar
+- Exceptions include longer operative times
+- There is a trend towards increased rates of conversion to open cholecystectomy in cirrhotic patients
+
+---
+
+## Contraindications: Portal Hypertension
+
+- Laparoscopic cholecystectomy is also feasible in cirrhotics with portal hypertension
+- The surgeon must be aware of aberrant portosystemic venous collateralization in the liver bed, porta hepatis, and abdominal wall
+- An energy-sealing device should be available to limit blood loss during dissection
+
+---
+
+## Contraindications: Hemostasis in Cirrhosis
+
+- Hemostatic agents and argon beam should be readily available to assist with hemostasis
+- The procedure should be converted to an open procedure for significant bleeding that cannot be controlled laparoscopically
+- Careful preoperative planning is essential in this population
+
+---
+
+## Conversion to Open: Overview
+
+- Although laparoscopy is the preferred approach for cholecystectomy, there are many situations that may necessitate conversion to open procedure
+- The decision and timing of intraoperative conversion to laparotomy depends on:
+  - The surgeon's experience
+  - Comfort with laparoscopic and open techniques
+  - Patient factors (anatomy and pathology)
+
+---
+
+## Conversion to Open: Decision Making
+
+- There is no consensus on when conversion is necessary as long as patient safety is the ultimate priority
+- Contemporary conversion rates are reported to be between 5% to 10%
+- Conversion has been described as a "complication" of laparoscopy by some
+
+---
+
+## Conversion to Open: Mature Judgment
+
+- The view that conversion is a complication is untenable
+- Conversion should be regarded as mature judgment because it can prevent disastrous complications in challenging cases
+- Knowing when to convert is a critical surgical skill
+
+---
+
+## Conversion to Open: Indications
+
+- Reasons to consider conversion include:
+  - Unclear anatomy despite cholangiography
+  - Intraoperative complication
+  - Failure to progress
+  - Pathology not amenable to laparoscopic or postoperative endoscopic techniques
+
+---
+
+## Conversion to Open: Risk Factors
+
+- Independent factors associated with conversion to open cholecystectomy include:
+  - Prior upper abdominal surgery
+  - Pericholecystic fluid
+  - Acute cholecystitis
+  - Emergent cholecystectomy
+- These factors should be considered during preoperative planning
+
+---
+
+## Open Technique: Incision
+
+- The traditional incision used for an open cholecystectomy is a right subcostal or Kocher incision
+- This incision is created 2 centimeters below the right costal margin
+- It extends from the midline to the lateral edge of the right rectus muscle
+- This incision can be extended superiorly along the midline if further exposure is needed
+
+---
+
+## Open Technique: Retrograde Cholecystectomy
+
+- When performing a retrograde cholecystectomy, the critical view of safety must be identified before removing the gallbladder from the liver
+- Although this is the usual approach during laparoscopic cholecystectomy, it can be more difficult for an inexperienced surgeon without the magnification of laparoscopy and difference in exposure
+- The same principles must be maintained to prevent inadvertent biliary injury
+
+---
+
+## Open Technique: Retrograde Exposure
+
+- The fundus of the gallbladder is grasped with a Kelly or similar clamp
+- Peritoneum overlying the infundibulum is incised
+- The incision is extended along the anterior and posterior gallbladder, being careful to stay close to the edge of the gallbladder
+
+---
+
+## Open Technique: Cystic Duct Identification
+
+- Once the cystic duct is identified, a suture ligature is passed around it
+- This is used to place tension on the duct for better exposure
+- It also helps prevent stone migration into the CBD
+- The CVS has been achieved once all fibroadipose tissue is cleared from the hepatocystic triangle
+
+---
+
+## Open Technique: CVS Criteria in Open Surgery
+
+- Only two structures are seen clearly entering the gallbladder
+- A third of the cystic plate is seen
+- Any stones palpated within the cystic duct are "milked" back into the gallbladder
+- The cystic artery can be ligated with either clips or sutures then divided
+
+---
+
+## Open Technique: Cholangiography and Duct Ligation
+
+- If cholangiography is indicated, it is performed at this time
+- Ligation and division of the cystic duct occurs after confirmation of anatomy
+- The cystic duct should be ligated securely to prevent bile leakage
+
+---
+
+## Open Technique: Gallbladder Dissection from Liver
+
+- To complete the retrograde cholecystectomy, the gallbladder is dissected off the cystic plate using cautery
+- The dissection plane is kept close to the gallbladder to avoid entering the cystic plate and deeper liver parenchyma
+- Brisk bleeding from liver parenchyma lacerations tend to be venous in nature
+
+---
+
+## Open Technique: Hepatic Vein Branches
+
+- Distal branches of the middle hepatic vein can be located immediately deep to the cystic plate
+- These can usually be treated by holding constant pressure over the area for 5 to 10 minutes
+- Hemostatic agents may be beneficial in these instances as well
+
+---
+
+## Open Technique: Deep Hemostasis
+
+- If pressure and hemostatic agents fail, deep hemostatic sutures can be placed
+- One must be aware of the location of the right portal pedicle and its anterior branch
+- These structures can be close to the base of the gallbladder
+
+---
+
+## Open Technique: Antegrade Cholecystectomy
+
+- Antegrade cholecystectomy is an alternate technique for cholecystectomy
+- This technique should not be used in the presence of severe inflammation that obstructs visualization of the cystic duct
+- As with the fundus-down laparoscopic technique, there is still significant risk of biliary injury in these cases without proper visualization
+
+---
+
+## Open Technique: Antegrade Method
+
+- A clamp is used to grasp the fundus of the gallbladder
+- Another clamp is used to grasp the peritoneum on the liver edge to provide countertraction
+- An incision is made in the gallbladder serosa approximately 5 millimeters from the liver edge with cautery
+
+---
+
+## Open Technique: Antegrade Dissection
+
+- A dissection plane is developed between the superior gallbladder wall and the cystic plate
+- Care is taken to avoid entering the cystic plate and lacerating the liver parenchyma
+- This plane is continued medially and laterally toward the gallbladder neck
+- An energy-sealing device can be used on edematous or vascularized peritoneum
+
+---
+
+## Open Technique: Antegrade Completion
+
+- Dissection is performed posterior and lateral to fully free the gallbladder from the cystic plate
+- This best exposes the cystic artery and duct
+- The cystic artery is ligated and transected as it enters the gallbladder wall
+- The infundibulum is dissected free to expose the cystic duct
+
+---
+
+## Open Technique: Antegrade Duct Management
+
+- One should not dissect more than 1 centimeter of the cystic duct because this increases risk of CBDI
+- Once the cystic duct is visualized, it can be ligated with suture or clips and divided
+- The gallbladder is removed, and the abdomen is closed
+
+---
+
+## Partial or Subtotal Cholecystectomy: Introduction
+
+- Subtotal cholecystectomy is the recommended technique for treating severely inflamed gallbladders when the CVS cannot be safely obtained
+- Fibrosis and inflammation can cause the cystic duct to shorten and fuse with the CBD
+- This can lead to the surgeon mistaking the CBD for the cystic duct
+
+---
+
+## Figure 36.5: CBD Misidentification
+
+- The common hepatic duct can be mistaken for the cystic duct when the region of the infundibulum cannot be delineated because of fibrosis and inflammation
+- This figure demonstrates the dangerous anatomical distortion that can occur in severe cholecystitis
+- Recognition of this situation is critical for safe surgical decision-making
+
+---
+
+## Partial or Subtotal Cholecystectomy: Safety Principle
+
+- In these cases, it is best to err on the side of caution and avoid dissecting in the hepatocystic triangle
+- Cholecystitis can be managed safely until inflammation has subsided
+- CBDIs have significant long-term morbidity
+
+---
+
+## Partial or Subtotal Cholecystectomy: Procedure Choice
+
+- A partial or subtotal cholecystectomy, in which a portion of the gallbladder is removed and gallstones are extracted while leaving the posterior wall of the gallbladder in place, is the procedure of choice
+- This provides source control and surgical drainage
+- This technique can be used either open or laparoscopically
+
+---
+
+## Figure 36.6: Line of Safety
+
+- The limit of proximal dissection for subtotal cholecystectomy is the "line of safety" between the sulcus of Rouviere and hilar plate
+- This ensures dissection occurs away from the common bile duct in the setting of severe inflammation
+- Key landmarks: Sulcus of Rouviere, Hilar plate, Line of safety
+
+---
+
+## Partial or Subtotal Cholecystectomy: Technique
+
+- To perform a safe subtotal cholecystectomy, all dissection should be performed above the "line of safety"
+- The gallbladder is drained and opened with cautery at the fundus
+- Bile, stones, and debris are suctioned or set aside for future extraction in a specimen bag in a laparoscopic approach
+
+---
+
+## Partial or Subtotal Cholecystectomy: Incision Extension
+
+- This incision is extended to the gallbladder neck without dissecting the cystic duct or artery
+- The anterior wall of the gallbladder is then completely removed
+- The posterior wall is left on the cystic plate
+
+---
+
+## Figure 36.7: Subtotal Cholecystectomy
+
+- **Panel A**: Laparoscopic subtotal cholecystectomy demonstrating the anterior wall excised and a small strip of the posterior wall left attached to the liver
+- **Panel B**: Open subtotal cholecystectomy showing the same principle
+- The remnant mucosa can then be either removed or coagulated with cautery or argon beam
+
+---
+
+## Partial or Subtotal Cholecystectomy: Mucosal Management
+
+- The remnant mucosa is then coagulated with either cautery or argon beam
+- A drain should be placed near the gallbladder stump to drain potential bile leaks
+- This is an essential step in preventing postoperative collections
+
+---
+
+## Partial or Subtotal Cholecystectomy: Trends
+
+- Subtotal cholecystectomies, both open and laparoscopic, are being performed more frequently
+- Conversion to open procedure is becoming less common
+- Surgeons are becoming more comfortable with this technique as a safe alternative
+
+---
+
+## Partial or Subtotal Cholecystectomy: Complications
+
+- As one may expect, there is a higher risk of bile leaks and subphrenic collection with subtotal cholecystectomy compared with standard cholecystectomy
+- One study found the relative risk of bile leak after subtotal cholecystectomy was as high as 3-fold
+- These were more common if the gallbladder remnant was left in situ
+
+---
+
+## Anatomic Variations: Introduction
+
+- An intimate knowledge of gallbladder and biliary anatomy, as well as common variations, is essential to perform a safe cholecystectomy
+- Variations in gallbladder anatomy such as duplicated, left-sided, bilobed, or congenitally absent gallbladder are rare
+- They are typically identified preoperatively
+
+---
+
+## Anatomic Variations: Biliary Duct Variations
+
+- Significant variations of the cystic duct and hepatic duct junction exist
+- The common hepatic duct can range in length from 1 to 7.5 centimeters
+- A large series of magnetic resonance cholangiopancreatographies demonstrated that 40.7% of patients had some variant in biliary tree anatomy
+
+---
+
+## Figure 36.8: Cystic Duct Variations
+
+- **Panel A**: Variations in the confluence of the cystic duct and common hepatic duct
+  - Multiple configurations of cystic duct insertion are shown
+  - Low insertion, high insertion, parallel course, and spiral configurations
+- **Panel B**: High insertion of the cystic duct demonstrated on endoscopic retrograde cholangiopancreatography
+
+---
+
+## Anatomic Variations: Medial Insertion
+
+- In this study, 5% of subjects had medial cystic duct insertion
+- Anomalous extrahepatic bile ducts occur in up to 12% of patients
+- The most common being an anomalous right sectoral duct that empties into either the common hepatic or cystic duct
+
+---
+
+## Figure 36.9: Right Sectoral Duct Variations
+
+- **Panel A**: Variations in the confluence of the extrahepatic bile ducts and cystic duct
+  - Six different configurations of right sectoral duct anatomy
+  - These variations represent the only biliary drainage for the corresponding segment(s) of the liver
+- **Panel B**: Cholangiogram demonstrating a cystic duct inserting into the right anterior section bile duct
+
+---
+
+## Anatomic Variations: Clinical Significance
+
+- When these variations occur, they often represent the only biliary drainage for the corresponding segment(s) of the liver
+- Thus injury or obstruction of these ducts results in liver atrophy or obstructive cholangitis in that segment
+- True duplication of the cystic duct is exceedingly rare
+
+---
+
+## Anatomic Variations: Cholangiography Recommendation
+
+- Cholangiography should be performed if the surgeon believes a true duplication or other significant anomaly has been encountered
+- Preoperative imaging with MRCP can help identify these variations
+- Intraoperative vigilance is essential when anatomy appears unusual
+
+---
+
+## Anatomic Variations: Arterial Anatomy
+
+- Arterial anatomic variations are also common and can contribute to morbidity after cholecystectomy
+- Typically, the cystic artery originates from the right hepatic artery (76%)
+- It may also branch off the left, common, or proper hepatic arteries
+
+---
+
+## Anatomic Variations: Vasculobiliary Injury
+
+- Arterial injury may accompany a bile duct injury resulting in a combined vasculobiliary injury
+- The right hepatic artery is involved in 92% of these injuries because of its proximity to the CBD
+- This can significantly add to the difficulty of bile duct repair
+
+---
+
+## Postoperative Management: Discharge
+
+- Most patients undergoing elective laparoscopic cholecystectomy are discharged the same day
+- This is because of the decreased pain profile associated with this minimally invasive technique
+- A patient admitted with acute cholecystitis is often observed in the hospital overnight postoperatively because of infectious concerns
+
+---
+
+## Postoperative Management: Admission Criteria
+
+- Elderly patients may benefit from postoperative admission
+- Comorbid patients require closer monitoring
+- Patients requiring significant analgesia postoperatively
+- Patients with complicated procedures
+
+---
+
+## Postoperative Management: Diet and Pain Control
+
+- The patient is allowed a diet shortly after surgery
+- Oral narcotics for postoperative incisional pain can be prescribed for pain control
+- Many patients recover with only over-the-counter pain medications, including nonsteroidal antiinflammatories and acetaminophen
+
+---
+
+## Postoperative Management: Follow-Up
+
+- Routine follow-up by the surgeon in clinic can occur between 1 and 4 weeks after surgery
+- Earlier follow-up may be needed for patients with complications or concerns
+- Telephone follow-up may be appropriate for uncomplicated cases
+
+---
+
+## Immediate Postoperative Complications: Biliary Injury
+
+- Biliary injury remains the most feared complication of cholecystectomy
+- It has been shown that bile duct injuries have a 30-day mortality rate of 2% in a large database study
+- Another prospective cohort of 800 patients with CBDI referred to a single center reported the mean survival after iatrogenic biliary injury was 17.6 years
+
+---
+
+## Biliary Injury: Long-Term Impact
+
+- Patients with biliary injury had a worse physical quality of life and loss of productivity
+- At long-term follow-up, 34.9% were receiving disability benefits
+- Although these injuries are rare, occurring at a rate of 0.08% and 0.25%, the impact on patients is profound
+
+---
+
+## Biliary Injury: Intraoperative Cholangiography
+
+- Intraoperative cholangiography has been proposed to reduce iatrogenic bile duct injury during laparoscopic cholecystectomy
+- Recent retrospective studies show a higher incidence of CBDI when intraoperative cholangiogram is performed (0.25% vs. 0.12%)
+- This is likely because cholangiography is used more frequently during challenging cases
+
+---
+
+## Biliary Injury: Cholangiography Limitations
+
+- Proper biliary anatomy identification and interpretation of the cholangiography images are required for it to aid in prevention of CBDI
+- The CVS remains the current standard technique to reduce the incidence of CBDI during cholecystectomy
+- Cholangiography is an adjunct, not a replacement for proper anatomical dissection
+
+---
+
+## Biliary Injury: Inflammation Risk
+
+- Inflammation of the gallbladder increases the risk of CBDI
+- As the grade of cholecystitis severity increases, the risk of CBDI rises
+- Severe inflammation distorts anatomy and makes identification of structures difficult
+
+---
+
+## Figure 36.10: Pathogenesis of the "Classic" Injury
+
+- **Step 1**: The common bile duct is mistaken as the cystic duct and is clipped and divided
+- **Step 2**: The dissection is carried up along the left side of the common hepatic duct in the belief that this is the underside of the gallbladder
+- **Step 3**: The common hepatic duct is transected while the surgeon tries to dissect what they believe is the gallbladder from the liver bed
+
+---
+
+## Figure 36.10: Classic Injury Mechanism
+
+- If the structure is recognized as a bile duct at this point, it is often thought to be a second cystic duct or an accessory duct
+- While the common hepatic duct is divided, the right hepatic artery is often injured
+- This creates a combined vasculobiliary injury with severe consequences
+
+---
+
+## Biliary Injury: Classic Injury Cause
+
+- The "classic injury" occurs when the CBD is mistaken for the cystic duct and ligated
+- This is thought to occur when the gallbladder is retracted too aggressively to the right
+- This causes the cystic duct to lie parallel and adjacent to the CBD
+
+---
+
+## Biliary Injury: Proximal Extension
+
+- Dissection is then continued along the CBD superiorly until an "aberrant" or "duplicated" duct is encountered
+- If this duct is subsequently divided, a more proximal bile duct injury will occur
+- This extends the damage and complicates subsequent repair
+
+---
+
+## Biliary Injury: Intraoperative Recognition
+
+- If a CBDI is identified at the time of surgery, the surgeon must assess:
+  - The extent of the injury
+  - Their own experience repairing these injuries
+  - The patient's condition
+  - The hospital resources
+
+---
+
+## Biliary Injury: Specialist Consultation
+
+- A hepatobiliary surgeon should be called to assess the situation if one is available
+- When a specialist is not available, the best course of action is to place a drain near the porta hepatis
+- Close the patient, and initiate transfer to a center with hepatobiliary expertise
+
+---
+
+## Biliary Injury: Intraoperative Management
+
+- Proceeding with gallbladder extraction after identifying a biliary injury is not recommended
+- This risks amplifying the injury
+- Early recognition and appropriate management are critical for optimal outcomes
+
+---
+
+## Biliary Injury: Postoperative Discovery
+
+- CBDIs are often not discovered during the index procedure
+- Patients with ongoing abdominal pain, fevers, or ileus should alert the surgeon to a potential complication
+- The initial diagnostic test should start with abdominal ultrasound
+
+---
+
+## Biliary Injury: Diagnostic Workup
+
+- Computed tomography (CT) of the abdomen should be performed if a complication is suspected
+- If excessive peritoneal fluid is present, percutaneous drainage should be performed
+- The type of injury should be determined next
+
+---
+
+## Biliary Injury: Defining the Injury
+
+- This can be done with:
+  - Magnetic resonance cholangiopancreatography (MRCP)
+  - Percutaneous transhepatic cholangiography
+  - Endoscopic retrograde cholangiopancreatography (ERCP)
+- Accurate characterization guides treatment selection
+
+---
+
+## Biliary Injury: Treatment of Simple Leaks
+
+- Simple postoperative leaks can be managed with drainage alone
+- Drainage and ERCP placement of biliary stents is another option
+- Several centers with advanced gastroenterologists are beginning to manage selected patients with complex injuries with percutaneous-endoscopic rendezvous procedures with promising long-term results
+
+---
+
+## Immediate Postoperative Complications: Bleeding
+
+- Clinically significant bleeding occurs in 0.1% to 1.9% of laparoscopic cholecystectomies
+- Bleeding can arise from:
+  1. The liver
+  2. An abdominal arterial source
+  3. Port sites
+
+---
+
+## Bleeding: Liver Bed Sources
+
+- Significant bleeding from the liver bed tends to be from the terminal branches of the middle hepatic vein
+- Bleeding from the gallbladder fossa that appears venous in nature can be controlled laparoscopically with hemostatic agents and applied pressure
+- Visualization can be improved by lifting the liver and increasing the pressure of pneumoperitoneum
+
+---
+
+## Bleeding: Laparoscopic Control
+
+- Clips or sutures can be placed in the cystic plate for hemostasis if all landmarks are identified
+- This avoids injury to underlying portal structures
+- If visualization is lost, pressure should be applied to the area with sponge and grasper while converting to laparotomy
+
+---
+
+## Bleeding: Open Management
+
+- During laparotomy, one should keep pressure on the venous injury
+- Air embolus is possible and can be severe
+- Acute hemodynamic decline in the postoperative period should raise concern for significant bleeding, which is likely because of a dislodged clip
+
+---
+
+## Bleeding: Trocar Site Bleeding
+
+- As with any laparoscopic procedure, bleeding can occur from trocar sites
+- Careful trocar placement and inspection at the end of the case can identify these injuries
+- Angioembolization may be needed for significant trocar site vascular injuries
+
+---
+
+## Immediate Postoperative Complications: Retained CBD Stones
+
+- Common bile duct stones are present in approximately 5% to 15% of patients presenting for cholecystectomy
+- Those suspected of having choledocholithiasis should undergo preoperative diagnostic MRCP or ERCP
+- This is especially important if the surgeon is not comfortable exploring the CBD laparoscopically
+
+---
+
+## Retained CBD Stones: Management Approach
+
+- Choledocholithiasis is not an indication for laparotomy in the modern era
+- Laparoscopic bile duct exploration at the time of cholecystectomy has been shown to reduce hospital LOS and overall cost compared with endoscopic treatment followed by cholecystectomy
+- Retained common duct stones after cholecystectomy are rare
+
+---
+
+## Retained CBD Stones: Incidence and Diagnosis
+
+- In one single center study, the incidence of postoperative ERCP for suspected retained stones was 1.8%
+- Those suspected of having a retained CBD stone should be studied with either MRCP or ERCP depending on facility capabilities
+- Endoscopic sphincteroplasty with stone extraction is the most widely accepted treatment for this condition in the current era
+
+---
+
+## Immediate Postoperative Complications: Gallbladder Perforation
+
+- Entering the gallbladder during cholecystectomy is a common event
+- This occurs particularly during the learning phase of the procedure
+- Careful retraction is essential because spillage of bile and stones can result in serious complications
+
+---
+
+## Gallbladder Perforation: Consequences
+
+- Intraperitoneal spillage of stones can lead to abscess and fistula formation
+- In patients with incidental gallbladder carcinoma, bile spillage at the time of cholecystectomy resulted in higher rates of carcinomatosis (24% vs. 4%) compared with those without spillage
+- Bile spillage is also associated with poorer disease-free survival in incidental gallbladder cancer
+
+---
+
+## Delayed Complications: Remnant Gallbladder and Cystic Duct Stones
+
+- Recurrent stone formation in a remnant gallbladder or cystic duct is rare
+- Most patients present with pain similar to their precholecystectomy symptoms
+- It can occur at any time from 4 months to 25 years after surgery
+
+---
+
+## Remnant Gallbladder Stones: Associations
+
+- Remnant gallbladder stones are usually associated with subtotal cholecystectomy
+- Diagnosis requires a study that delineates the biliary anatomy, such as MRCP or ERCP
+- Endoscopic ultrasound, intraoperative cholangiogram, and percutaneous transhepatic cholangiogram can also be useful in obtaining a diagnosis of retained stones
+
+---
+
+## Remnant Gallbladder Stones: Treatment
+
+- Treatment of cystic duct stones can be managed in a variety of ways
+- Some stones are amenable to endoscopic retrieval or lithotripsy
+- Others require a surgical intervention to extract the stone and ligate the cystic duct closer to the common duct
+
+---
+
+## Remnant Gallbladder: Treatment
+
+- Treatment of a remnant gallbladder typically requires resection to prevent further stone formation
+- Depending on the situation and surgeon skill set, completion cholecystectomy can be performed either open or laparoscopically with low morbidity
+- Proper preoperative imaging is essential for surgical planning
+
+---
+
+## Delayed Complications: Biliary Strictures
+
+- Benign strictures of the CBD occur in up to 2.7% of laparoscopic cholecystectomies and 0.5% of open cholecystectomies
+- These strictures arise from an injury to the bile duct that was unidentified in the immediate postoperative period
+- Causes include incomplete transection, clipping or ligation, thermal injury, or ischemic devascularization of the bile duct
+
+---
+
+## Biliary Strictures: Presentation
+
+- Commonly, patients with benign biliary strictures present with symptoms consistent with obstructive jaundice
+- These may include:
+  - Progressive jaundice
+  - Pruritus
+  - Dark urine
+  - Pale stools
+  - Elevated liver enzymes
+
+---
+
+## Biliary Strictures: Endoscopic Management
+
+- Endoscopic treatment is typically the first approach
+- Surgery is reserved for those who do not respond to endoscopic therapy
+- Endoscopic stenting has been shown to result in 67% of patients being symptom-free for 28 months
+- Having a normal ERCP after stenting was predictive of not reforming a stricture
+
+---
+
+## Biliary Strictures: Surgical Management
+
+- Surgery remains the mainstay of therapy for benign biliary strictures after cholecystectomy
+- A recent meta-analysis showed that a surgical approach had an 84% long-term patency rate
+- The choice between endoscopic and surgical management depends on stricture characteristics and patient factors
+
+---
+
+## Delayed Complications: Postcholecystectomy Diarrhea
+
+- Postcholecystectomy diarrhea is defined as three or more loose stools per day after removal of the gallbladder
+- It is difficult to assess the prevalence of this disorder
+- Etiology is likely multifactorial in nature
+
+---
+
+## Postcholecystectomy Diarrhea: Pathophysiology
+
+- One factor may be the increased number of bile salts in the colon because of continuous bile flow into the gut
+- This leads to secretory diarrhea
+- Recent evidence showed that the gut microbiome of patients with postcholecystectomy diarrhea is altered
+
+---
+
+## Postcholecystectomy Diarrhea: Microbiome Findings
+
+- Compared with healthy patients, patients with diarrhea after cholecystectomy had significantly higher levels of Proteobacteria
+- These bacteria may be pathogenic in this process
+- The role of microbiome modulation in treatment is an area of active research
+
+---
+
+## Postcholecystectomy Diarrhea: Treatment
+
+- Currently, the recommended therapy is the administration of bile-acid binding agents and antidiarrheals
+- These have variable success rates
+- Dietary modifications may also be helpful in some patients
+- Refractory cases may require specialist gastroenterology consultation
+
+---
+
+## Conclusion: Gold Standard
+
+- Cholecystectomy remains the gold standard for the management of gallbladder disease in the developed world
+- The vast majority are now performed minimally invasively with excellent results
+- Most patients now undergo this operation in an ambulatory setting
+
+---
+
+## Conclusion: Technological Advances
+
+- Attempts at improving outcomes from laparoscopic cholecystectomy will continue to drive the development of novel surgical tools and techniques
+- Although relatively safe, there is room to reduce the number of CBDIs
+- These injuries have a significant impact on patient quality of life and overall survival
+
+---
+
+## Conclusion: Education and Safety
+
+- These gains will be achieved with improved outreach and education regarding the CVS
+- Knowing when to pursue alternative procedures instead of forging ahead with total cholecystectomy is essential
+- As new technology arises, surgeons must always keep in mind the safety of the patient alongside the development of new techniques
+
+---
+
+## Conclusion: Key Takeaways
+
+- Laparoscopic cholecystectomy is the standard of care
+- Critical View of Safety is essential for preventing bile duct injuries
+- Subtotal cholecystectomy is a safe alternative when anatomy is unclear
+- Conversion to open is a sign of mature surgical judgment, not failure
+- Long-term complications, though rare, can significantly impact patient quality of life
