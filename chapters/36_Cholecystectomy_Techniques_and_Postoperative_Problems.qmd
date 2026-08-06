@@ -8,6 +8,6 @@
 
 ## With Kimi
 
-{{< reveal chap36_with_kimi >}}
+{{< reveal Extras/biliary/chap36_kimi >}}
 
 :::

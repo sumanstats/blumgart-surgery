@@ -1,0 +1,651 @@
+---
+title: "Liver Transplantation: Perioperative Anesthetic Considerations"
+format: revealjs
+---
+
+## Overview of the Chapter
+
+- **Key Topics:**
+    - Preoperative anesthetic assessment of end-stage liver disease (ESLD) patients.
+    - Intraoperative monitoring and management.
+    - Critical intraoperative events.
+    - Special situations (e.g., ALF, DCD, Pediatric LT).
+    - Postoperative intensive care.
+- **Importance:** The field has evolved with sicker recipients and expanded donor criteria, making perioperative care crucial for outcomes.
+
+## Global Context and Trends
+
+- **Annual Transplants:** >35,000 liver transplantations are performed worldwide.
+- **The Challenge:** The number of patients on the waiting list continues to exceed donor organ availability.
+- **Changing Demographics:**
+    - More patients >65 years old.
+    - Higher MELD scores (≥30) are more frequent.
+    - Increased prevalence of obesity and diabetes among recipients.
+    - Combined kidney-liver transplants are more common.
+    - Expanded use of "extended-criteria" donors (e.g., donation after cardiac death).
+
+## Improved Outcomes Despite Complexity
+
+- Despite increasing medical complexity, overall graft and patient outcomes have improved.
+- **Graft Survival Rates (Cadaveric Graft):**
+    - ~92% at 1 year (2017).
+    - 84% at 3 years (2015).
+    - 76% at 5 years (2013).
+- **Reasons for Improvement:**
+    - Advancement and standardization of surgical and anesthetic techniques.
+    - Systematic approach to quality improvement (QI) and patient safety.
+    - Accurate and timely perioperative management by the anesthesiology team.
+
+## Impact of the COVID-19 Pandemic
+
+- The COVID-19 pandemic has challenged the liver transplantation system worldwide.
+- **Key Issues:**
+    1.  **Resource Strain:** Limited ICU bed and equipment availability.
+    2.  **Infection Risk:** Concerns for nosocomial COVID-19 infection in recipients and transmission to healthcare workers.
+    3.  **Diagnostic Complexity:** COVID-19 can present with hepatic signs, requiring comprehensive differential diagnosis.
+- **Center Responses ("COVID-19 Protocols"):**
+    - Screening for both donors and recipients.
+    - Use of "good-quality grafts" to expedite recovery and discharge.
+    - Use of telemedicine for evaluations and follow-ups.
+
+## Preoperative Assessment: The Anesthesiologist's Role
+
+- Liver transplantation is the definitive treatment for acute/chronic liver failure and other specific conditions (e.g., polycystic liver disease, confined malignancies).
+- **Contraindications for Anesthesiologists:**
+    - Severe cardiopulmonary conditions (CAD, severe systolic dysfunction, etc.).
+    - Sustained ICP > 50 mm Hg.
+    - Uncontrolled sepsis.
+- **Key Evolving Concept:** Frailty is now recognized as an important factor; standardized frailty assessment is recommended.
+
+## The UNOS Bylaw on Liver Transplant Anesthesia
+
+- A 2012 UNOS bylaw mandates transplant centers appoint a **Director of Liver Transplant Anesthesia**.
+- **Rationale:** Standardized care by a dedicated, experienced liver transplant anesthesia team improves key outcomes and resource utilization.
+- **Benefits of a Dedicated Team:**
+    - Reduced blood transfusion.
+    - Shorter duration of mechanical ventilation.
+    - Reduced ICU and hospital stay duration.
+
+## Preoperative Assessment: Central Nervous System (CNS)
+
+- **Hepatic Encephalopathy (HE):** A progressive, potentially reversible syndrome.
+- **Presentation:** Ranges from subclinical to coma.
+- **Types (AASLD):**
+    - **Type A:** Associated with Acute Liver Failure (ALF).
+    - **Type B:** Associated with TIPS.
+    - **Type C:** Associated with Cirrhosis.
+- **Grades:** Range from unimpaired (Grade 0) to coma/brain death (Grade 4).
+
+## Pathophysiology of Hepatic Encephalopathy
+
+- **Central Role of Ammonia:**
+    - Bypasses liver clearance via portosystemic shunting.
+    - Crosses blood-brain barrier (BBB).
+    - Promotes astrocyte/neuronal swelling by increasing intracellular glutamine.
+- **Other Mediators:** ROS, inflammatory cytokines, hyponatremia, manganese.
+- **Neuroinflammation:** Activation of microglia and proinflammatory cytokines, altering BBB permeability.
+- **Key Difference:** In acute liver failure (ALF), high ammonia levels correlate well with **cerebral edema** and increased ICP, a major cause of death.
+
+## HE: Management in ALF (Table 106.1)
+
+<table>
+<thead>
+<tr>
+<th>GENERAL MEASURES</th>
+<th>SPECIFIC INTERVENTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Head elevation to 30 degrees</td>
+<td>Endotracheal intubation for grades 3 and 4</td>
+</tr>
+<tr>
+<td>Judicious (restrictive) fluid management</td>
+<td>Hyperventilation: limited, temporary benefit</td>
+</tr>
+<tr>
+<td>Judicious if any sedation</td>
+<td>N-acetylcysteine (if ALF due to acetaminophen)</td>
+</tr>
+<tr>
+<td>Cerebral perfusion pressure &gt; 60 mm Hg</td>
+<td>Renal replacement therapy: CVVHD</td>
+</tr>
+<tr>
+<td>Osmotic diuresis, hypertonic saline</td>
+<td>ICP monitoring (&gt;10% bleed); Transcranial Doppler</td>
+</tr>
+<tr>
+<td>Empiric: antibiotics, antivirals, disaccharides</td>
+<td>Hypothermia: mild, bridge to transplantation</td>
+</tr>
+</tbody>
+</table>
+
+## HE: Treatment and Monitoring
+
+- **Treatment:**
+    - Correction of precipitating factors (e.g., infection, GI bleed).
+    - Non-absorbable disaccharides (e.g., lactulose).
+    - Antibiotics targeting urease-producing bacteria.
+    - Benzodiazepine receptor antagonists.
+- **ICP Monitoring:**
+    - Recommended in ALF and comatose patients with CT evidence of brain edema.
+    - **Alternative:** Transcranial Doppler (TCD) sonography for non-invasive assessment of cerebral blood flow.
+
+## Preoperative Assessment: Cardiovascular System
+
+- **Importance:** Cardiovascular complications are the leading cause of nongraft morbidity and mortality early post-OLT.
+- **Key Clinical Problems:**
+    1.  **Hyperdynamic Circulation:** High cardiac output, low SVR.
+    2.  **Coronary Artery Disease (CAD):** Incidence up to 37% in decompensated patients.
+    3.  **Cirrhotic Cardiomyopathy:** Blunted systolic function, diastolic dysfunction, and electrophysiologic alterations.
+
+## Cardiovascular: Hyperdynamic Circulation
+
+- **Pathophysiology:**
+    - Reduced Systemic Vascular Resistance (SVR).
+    - Abnormal distribution of central, splanchnic, and peripheral circulation.
+    - Compensatory activation of sympathetic system and renin-angiotensin-aldosterone axis.
+- **Clinical Significance:**
+    - Low SVR can mask compromised cardiac function due to cirrhotic cardiomyopathy.
+    - The stress of LT surgery can unmask heart failure.
+
+## Cardiovascular: Coronary Artery Disease (CAD)
+
+- **Incidence:** Up to 37% in decompensated liver disease patients.
+- **Risk Factor:** Nonalcoholic steatohepatitis (NASH) is a leading etiology.
+- **Evaluation:**
+    - Symptoms and functional capacity are not reliable indicators.
+    - **Initial Test:** Dobutamine stress echocardiography (DSE), but has low sensitivity in ESLD patients.
+    - **Definitive Test:** Cardiac catheterization if CAD cannot be excluded.
+- **Newer Tools:**
+    - CT coronary calcium scoring.
+    - Stress cardiac MRI (higher sensitivity/specificity than DSE).
+
+## Cardiovascular: Cirrhotic Cardiomyopathy
+
+- **Characteristics:**
+    - Blunted systolic function (can be masked by hyperdynamic circulation).
+    - Diastolic dysfunction (associated with severity of post-reperfusion syndrome and post-transplant heart failure).
+    - Chronotropic incompetence.
+    - Electrophysiologic alterations (prolonged QTc interval).
+- **Diagnosis:**
+    - Advanced echocardiography (e.g., global longitudinal strain).
+    - Cardiac MRI.
+    - Elevated brain natriuretic peptide (BNP).
+
+## Cardiovascular: Treatment and Reversibility
+
+- **Pathophysiology Hallmarks:**
+    - Down-regulation and desensitization of β-adrenergic receptors.
+    - Myocardial fibrosis, myocyte hypertrophy, ion-channel defects.
+- **Medical Treatment:**
+    - Sodium restriction.
+    - β-blockers and aldosterone antagonists.
+- **Reversibility:**
+    - Liver transplantation can reverse cirrhotic cardiomyopathy.
+    - Nonischemic cardiomyopathy from other diseases (e.g., amyloidosis, hemochromatosis) rarely reverts.
+
+## Preoperative Assessment: Pulmonary System
+
+- **Prevalence:** Up to 70% of patients with chronic liver disease have respiratory problems.
+- **Evaluation:**
+    - History and physical examination.
+    - Radiologic studies (e.g., chest X-ray).
+    - Arterial blood gases (ABGs).
+    - Pulmonary function tests.
+    - **Key Conditions to Screen For:**
+        1.  Portopulmonary Hypertension (PPH)
+        2.  Hepatopulmonary Syndrome (HPS)
+        3.  Hepatic Hydrothorax
+        4.  COPD
+
+## Pulmonary: Portopulmonary Hypertension (PPH)
+
+- **Definition:** A specific type of pulmonary artery hypertension (PAH) associated with portal hypertension.
+- **Prevalence:** 2-10% of patients with cirrhosis.
+- **Diagnostic Criteria:**
+    - Portal hypertension.
+    - mPAP > 25 mm Hg.
+    - PVR > 240 dynes/sec/cm-5.
+    - PAOP < 15 mm Hg.
+- **Severity:**
+    - Mild: mPAP 24-34 mm Hg.
+    - Moderate: mPAP 35-44 mm Hg.
+    - Severe: mPAP ≥45 mm Hg.
+
+## PPH: Management and Transplantation
+
+- **Pre-Transplant Optimization:**
+    - Medical therapy with vasodilators.
+    - **Combination Therapy:** Prostaglandins, phosphodiesterase inhibitors (sildenafil), endothelin-1 antagonists (bosentan).
+- **Transplantation Criteria:**
+    - Most centers do not transplant patients with mPAP > 50 mm Hg or PVR > 240.
+    - Current recommendations suggest OLT for patients who respond to therapy and have mPAP ≤ 35 mm Hg.
+- **Outcomes:** Comparable outcomes for those with mPAP 35-50 mm Hg after treatment.
+
+## Pulmonary: Hepatopulmonary Syndrome (HPS)
+
+- **Definition:** Hypoxemia due to pulmonary capillary vasodilation in patients with liver disease.
+- **Prevalence:** 5-30% in cirrhotic patients.
+- **Pathology:** Gross dilation and increased number of pulmonary capillaries → Ventilation-perfusion mismatch.
+- **Symptoms:** Platypnea (shortness of breath when upright) and dyspnea.
+- **Diagnosis:**
+    - ABGs: PaO2 < 80 mm Hg or PA-aO2 gradient > 15 mm Hg.
+    - Contrast-enhanced echocardiography (**"positive bubble test"** with a delay).
+    - Macroaggregated albumin lung perfusion scan.
+
+## HPS: Management and Outcomes
+
+- **Natural Course:** Poor survival, especially with PaO2 < 50 mm Hg (median survival ~24 months without LT).
+- **Treatment:**
+    - **No effective medical therapy exists.**
+    - **Liver transplantation is the only treatment.**
+- **Perioperative Management:**
+    - Early extubation.
+    - 100% oxygen to maintain O2 saturation > 85%.
+    - Avoidance of fluid overload.
+    - Inhaled nitric oxide to improve oxygenation.
+    - **Outcome:** Favorable long-term outcomes in survivors, despite increased perioperative complexity.
+
+## Pulmonary: Hepatic Hydrothorax
+
+- **Definition:** A pleural effusion >500 mL not caused by cardiac or pulmonary disease in a patient with cirrhosis.
+- **Mechanism:** Diaphragmatic defect allowing ascites to pass from the peritoneal to pleural cavity.
+- **Symptoms:** Present in 5-10% of patients, primarily causing hypoxemia.
+- **Management:**
+    - Medical management of ascites (sodium restriction, diuretics).
+    - Paracentesis.
+    - TIPS placement.
+    - **Avoid:** Tube thoracostomy. A pleural catheter with intermittent decompression may be an alternative.
+
+## Preoperative Assessment: Hemostasis in ESLD
+
+- **Paradigm Shift:** ESLD is not simply a hypocoagulable state.
+- **Current Concept:** A **fragile, rebalanced** state.
+    - Complex disturbances of procoagulant, anticoagulant, and fibrinolytic pathways.
+    - Can be easily tipped towards bleeding or thromboembolism.
+- **Primary Hemostasis:**
+    - Thrombocytopenia (quantitative and qualitative).
+    - Compensatory increase in von Willebrand factor (vWF).
+    - Platelet count as low as 60 x 10^9/L may be sufficient for thrombin generation.
+
+## Hemostasis: Coagulation Factors
+
+- **Procoagulant Factors:**
+    - The liver synthesizes all procoagulant factors except vWF.
+    - Reduced levels of factors II, VII, IX, X (vitamin K-dependent), V.
+    - Factor VIII and vWF are often elevated due to extrahepatic production.
+- **Anticoagulant Factors:**
+    - Production of proteins C, S, antithrombin is decreased, offsetting the deficiency in procoagulants.
+- **Fibrinolysis:**
+    - Reduced levels of plasminogen, plasmin inhibitor, TAFI.
+    - Cirrhosis is associated with hyperfibrinolysis, but balance is often restored.
+    - **Conventional Tests (PT/PTT):** Are poor predictors of bleeding.
+
+## Hemostasis: Monitoring with Viscoelastic Tests
+
+- **Advantages of TEG/ROTEM:**
+    - Whole-blood clot formation and lysis.
+    - Includes platelet contribution.
+    - Easy recognition of hypercoagulable states.
+    - Quick, point-of-care.
+- **Figure 106.1 (Conceptual):** TEG/ROTEM tracing showing clot formation and lysis.
+- **In Practice:** TEG/ROTEM are superior for guiding transfusion therapy.
+
+## Preoperative Assessment: Renal System
+
+- **Renal Failure:** Confers increased risk of death for cirrhotic patients on the waiting list and after LT.
+- **Hepatorenal Syndrome (HRS):** A functional renal failure due to severe renal vasoconstriction.
+- **Pathophysiology:**
+    - Portal hypertension → Splanchnic vasodilation → Decreased SVR.
+    - Compensatory activation of sympathetic and renin-angiotensin systems.
+    - This causes renal vasoconstriction and hypoperfusion.
+- **Association:** HRS is almost invariably associated with ascites.
+
+## HRS: Diagnosis and Management
+
+- **Diagnosis:**
+    - Based on liver disease, precipitating factor, and FeNa < 1% (if not on diuretics).
+    - **New Biomarkers:** NGAL, IL-18 (tubular injury) vs. albumin (glomerular injury) can help differentiate HRS from ATN.
+- **Treatment:**
+    - General: Prevent infection, maintain volume, avoid nephrotoxins.
+    - Pharmacologic: Vasoconstrictors (terlipressin, norepinephrine) + albumin.
+    - TIPS (improves GFR in ~60% of patients).
+    - RRT (CVVHD is preferred).
+    - **Liver transplantation is the treatment of choice** (~90% recover renal function).
+
+## Enhanced Recovery After Surgery (ERAS) in LT
+
+- **Definition:** A multidisciplinary, evidence-based approach to optimize patient care from prehabilitation to postoperative recovery.
+- **Goal:** Improve outcomes, patient satisfaction, and reduce LOS and cost.
+- **Status in LT:**
+    - Most transplant centers incorporate individual ERAS elements.
+    - However, published evidence for a **comprehensive** ERAS program in LT is limited but growing.
+    - Small pilot studies show decreased ICU/hospital stay.
+
+## INTRAOPERATIVE MONITORING: CNS
+
+- **Bispectral Index (BIS):**
+    - Assesses anesthetic depth via processed EEG.
+    - Patients with HE have a lower baseline BIS.
+    - **Clinical Use:** Guides anesthetic management to prevent excessive use of inhalational agents, minimizing hypotension and hemodynamic instability.
+- **Transcranial Doppler (TCD):**
+    - Allows continuous non-invasive monitoring of cerebral hemodynamics.
+    - Can assess non-invasive ICP, CPP, and cerebral autoregulation.
+- **Near-Infrared Spectroscopy (NIRS):**
+    - Assesses regional cerebral oxygenation. Utility is still being evaluated.
+
+## Intraoperative Monitoring: Hemodynamics
+
+- **Arterial Pressure Monitoring:**
+    - Radial artery pressure may underestimate true aortic pressure (especially during hypotension).
+    - Femoral arterial line reflects central pressure more accurately.
+- **Pulmonary Artery Catheter (PAC):**
+    - Traditional mainstay, but its clinical utility is questioned.
+    - **Still advocated for:** Managing patients with PPH.
+- **Newer Less-Invasive Monitors:**
+    - PICCO, LiDCO, Flo-Trac/Vigileo.
+    - **Performance:** Varies across devices; none show clear superiority over PAC.
+
+## Intraoperative Monitoring: Transesophageal Echocardiography (TEE)
+
+- **Role:** Gaining acceptance; used in up to 80% of cases in large-volume centers.
+- **Advantages:**
+    - Provides continuous, real-time visualization of cardiac structures and function.
+    - Superior for estimating ventricular volume status, RV function, and wall motion abnormalities.
+    - Allows diagnosis of intracardiac thrombi, shunts (e.g., HPS bubble test), and other pathologies.
+- **Disadvantages:**
+    - Risk of rupture of gastroesophageal varices.
+    - Inability to provide trending numerical data (like CO) as easily as PAC.
+    - Operator-dependent.
+
+## Monitoring: Hemostasis (Conventional and POC)
+
+- **Limitations of PT/PTT:**
+    - Plasma-based tests devoid of platelets.
+    - Only measure procoagulant activity.
+    - Long turnaround time (~45 minutes).
+- **Point-of-Care (POC) Alternatives:**
+    - PT/PTT cartridge-type whole blood tests (results in 5-15 min).
+    - Activated Clotting Time (ACT) for heparin monitoring.
+
+## Monitoring: Hemostasis (TEG and ROTEM)
+
+- **TEG (Thromboelastography):**
+    - Measures time to onset, rate of clot formation, tensile strength, and rate of lysis.
+    - Kaolin activation shortens clot formation. Heparinase dissects effects of heparin.
+- **ROTEM (Rotational Thromboelastometry):**
+    - Five assays run concurrently (e.g., ExTEM, In-TEM, Fib-TEM, Hep-TEM, Ap-TEM).
+    - Very useful for determining poor tensile clot strength (platelets/fibrinogen deficiency).
+- **Key Point:** TEG and ROTEM are **not interchangeable**; their results may differ.
+
+## Figure 106.3: TEG Tracing (Conceptual)
+
+- **TEG Parameters:**
+    - **R (Reaction Time):** Time until initial fibrin formation.
+    - **K (Coagulation Time):** Rate of clot strengthening.
+    - **α angle:** Rate of clot formation.
+    - **MA (Maximum Amplitude):** Clot strength (platelet function/fibrinogen).
+    - **LY30:** Clot lysis at 30 minutes.
+
+## Monitoring: Metabolic (Glucose Control)
+
+- **ESLD and Glucose Control:**
+    - ALF: Hypoglycemia is common.
+    - CLD: Hyperglycemia due to insulin resistance.
+    - Intraoperative factors: Corticosteroids and surgical stress.
+- **Clinical Significance:**
+    - Poor perioperative glucose control is associated with more infections, graft rejection, and higher 1-year mortality.
+- **Management:**
+    - Conventional glycemic management (180-200 mg/dL) is a reasonable and achievable goal.
+
+## Monitoring: Metabolic (Electrolytes)
+
+- **Hyperkalemia:** Ominous; can cause fatal arrhythmias, especially after reperfusion.
+- **Ionized Calcium:** Decreases predictably with blood product and albumin administration.
+- **Hyponatremia:**
+    - Independent predictor of mortality on the waiting list (MELD-Na+).
+    - Rapid correction can cause Osmotic Demyelination Syndrome (ODS).
+    - **Rule of Thumb:** Correct at a rate < 8-10 mEq/L in 24 hours to prevent ODS.
+
+## Monitoring: Temperature
+
+- **Core Temperature Monitoring:** Esophageal probe, bladder probe, or PAC.
+- **Problem:** Hypothermia is common during OLT.
+- **Detrimental Effects:**
+    - Impaired wound healing and coagulation.
+    - Increased risk of infectious complications.
+    - Contributes to postreperfusion hemodynamic instability and bradyarrhythmias.
+- **Figure 106.4:** ECG showing bradycardia and tall T waves shortly after reperfusion, a common finding.
+
+## INTRAOPERATIVE MANAGEMENT: Hemodynamics, Fluid, and Transfusion
+
+- **Core Principle:** Fluid management and blood transfusion are critically linked.
+- **Balancing Act:**
+    - **Excessive fluid:** Increases IVC/PV pressure → More blood loss, tissue edema.
+    - **Inadequate volume:** Leads to hemodynamic instability and organ hypoperfusion.
+- **Targeting Low CVP:**
+    - Can reduce blood loss but may be detrimental in patients with diastolic dysfunction.
+- **Best Practice:**
+    - Use TEE or dynamic indexes (not CVP) to guide fluid management.
+    - Use POC labs (TEG/ROTEM) to guide transfusion.
+
+## Vasopressors and Fluid Choice
+
+- **Vasopressors:**
+    - **Phenylephrine/Norepinephrine:** Commonly used.
+    - **Vasopressin:** Useful for preserving renal function in HRS; reduces splanchnic blood flow (may reduce bleeding but can impede portal flow).
+- **Fluid Choice:**
+    - Combination of crystalloids and colloids.
+    - **Artificial colloids (e.g., HES):** May have deleterious effects on renal function and coagulation.
+- **Blood Transfusions:**
+    - Administration of RBCs, FFP, and platelets is associated with increased mortality.
+    - Threshold-based strategies (TEG/ROTEM) help decrease transfusion needs.
+
+## Intraoperative Management: Ventilation
+
+- **Goal:** Optimize gas exchange and facilitate early extubation.
+    - Prolonged mechanical ventilation is associated with increased mortality.
+- **Protective Ventilatory Strategy:**
+    - Prevent atelectasis.
+    - Avoid high, non-physiologic tidal volumes and high peak airway pressures.
+- **PEEP (Positive End-Expiratory Pressure):**
+    - Up to 10 cm H2O is safe and can prevent lung edema.
+- **Oxygenation:**
+    - High FiO2 may be needed for PPH or HPS.
+
+## CRITICAL EVENTS: Postreperfusion Syndrome (PRS)
+
+- **Definition:** A decrease in MAP to < 60 mm Hg within 5 minutes of reperfusion, lasting at least 1 minute.
+- **Incidence:** 25% to 55% of patients.
+- **Pathophysiology:**
+    - Release of vasoactive substances (potassium, prostanoids, bradykinin, ILs) from the graft.
+    - Hypovolemia, hypothermia, air/thrombotic emboli.
+- **Risk Factors:**
+    - Absence of portocaval shunt.
+    - Longer cold ischemia time.
+    - Patient hypothermia.
+    - Liver graft macrosteatosis.
+
+## PRS: Management and Outcomes
+
+- **Preventative Interventions:**
+    - Pre-treatment with chronotropic and vasoconstrictor agents.
+    - Optimization of temperature, pH, and electrolytes.
+- **Treatment of Refractory Vasoplegia:**
+    - **Methylene blue** and **Hydroxocobalamin** (scavenge NO and H2S).
+- **Outcomes:** PRS is associated with increased blood loss, transfusion requirements, and postoperative allograft loss.
+
+## Critical Events: Intracardiac Thrombosis (ICT) and Pulmonary Embolism
+
+- **Incidence:** Rare but catastrophic (0.4% - 6.2%).
+- **Risk Factors:**
+    - Higher MELD score, longer warm ischemia time, high donor BMI.
+    - **Protective:** IV heparin before IVC cross-clamping.
+- **Presentation of PE:** Systemic hypotension with increased pulmonary pressure, decreased EtCO2, progressing to pulseless electrical activity.
+- **Diagnosis:** TEE is critical for early diagnosis and immediate treatment.
+
+## ICT/PE: Management and Prevention
+
+- **Preventive Strategy:**
+    - Routine use of TEE.
+    - Identification of hypercoagulable states with TEG/ROTEM.
+    - Judicious use of IV heparin.
+    - **Avoid** unnecessary prophylactic administration of antifibrinolytics.
+- **Treatment:**
+    - Hemodynamic support.
+    - Thrombolysis (e.g., recombinant tPA).
+    - Clot evacuation.
+    - ECMO as a rescue strategy.
+- **Paradoxical Embolus:** A concern if an atrial septal defect is present.
+
+## SPECIAL SITUATIONS: Acute Liver Failure (ALF)
+
+- **Definition:** Severe liver dysfunction causing encephalopathy and coagulopathy (INR > 1.5) within 24 weeks of symptom onset.
+- **Prevalence:** Accounts for just over 8% of all LTs.
+- **Perioperative Challenges:**
+    1.  **Increased ICP** and cerebral edema (main cause of death).
+    2.  **Severe Coagulopathy** (Box 106.1).
+- **Treatment Goal:** Control intracranial hypertension and maintain adequate CPP.
+
+## ALF: Management Strategies
+
+- **ICP Management (Table 106.2):**
+    - ICP < 25 mm Hg.
+    - CPP 60-70 mm Hg or higher.
+    - Multifactorial approach: Respiratory, circulatory, and renal support.
+- **Coagulopathy (Box 106.1):**
+    - Prophylactic FFP is not justified.
+    - TEG/ROTEM and clinical assessment guide treatment.
+    - Antifibrinolytics if clinically significant fibrinolysis.
+- **Role of Liver Graft:** Restoration of liver function gradually eliminates encephalotoxins and reduces brain edema.
+
+## Special Situations: Combined Liver-Kidney Transplantation
+
+- **Prevalence:** Increasing (8.2% of all LTs in the US in 2019).
+- **Criteria (OPTN 2017):**
+    - **CKD:** GFR ≤ 30 mL/min for ≥3 months.
+    - **AKI:** Dialysis for >6 weeks and GFR ≤ 25 mL/min.
+- **Anesthetic Challenges:**
+    - Electrolyte abnormalities and metabolic acidosis.
+    - Preoperative dialysis may be needed.
+    - **Hyperkalemia:** Manage aggressively (maintain pH, insulin/glucose, β-agonists). Use washed or freshest RBC units.
+    - Intraoperative RRT may be used.
+
+## Special Situations: Donation After Cardiac Death (DCD)
+
+- **Prevalence:** Historically 5-6% of all LTs due to concerns of graft failure (ischemic cholangiopathy).
+- **Recent Evidence:** Comparable outcomes with DBD donors can be achieved with optimized recipient selection and minimized ischemia time.
+- **Intraoperative Challenges:**
+    - Increased prevalence of PRS.
+    - Coagulopathy (including hyperfibrinolysis).
+    - Electrolyte and hemodynamic instability.
+    - Higher need for postoperative mechanical ventilation and ICU stay.
+- **Strategies:** Intra-arterial tPA, rapid recovery, ex vivo organ perfusion.
+
+## Special Situations: Living-Donor Liver Transplantation (LDLT)
+
+- **Prevalence:** 5% of all adult and 14.3% of all pediatric OLTs in the US (2019).
+- **Advantages:** Decreased death on waitlist.
+- **Outcomes:** Survival rates similar to cadaveric graft recipients.
+- **Anesthetic Goal:**
+    - **Recipient:** Challenges depend more on the recipient's comorbidities than the donor category.
+    - **Donor:** Preserve graft perfusion and prevent donor complications.
+
+## Special Situations: Retransplantation
+
+- **Most Common Reasons:** Primary nonfunction, recurrence of viral hepatitis, rejection, hepatic artery thrombosis.
+- **Rate:** Currently ~3.8% of all LTs (down from 24.5% in 1988).
+- **Outcomes:** Historically lower survival (1-year: 68.7% vs. 83.3%; 5-year: 46% vs. 67.4%).
+- **Selection Criteria:**
+    - Whole graft should be used.
+    - Avoid extended-criteria donors.
+    - Patients with MELD > 25, requiring mechanical ventilation, or with advanced renal failure have worse outcomes.
+
+## Special Situations: Pediatric Transplantation
+
+- **Main Indications:**
+    1.  Biliary atresia (32%).
+    2.  Metabolic/genetic conditions (22%).
+    3.  Acute liver failure (11%).
+- **Allocation:** Based on the **PELD** (Pediatric End-Stage Liver Disease) score.
+- **Anesthetic Challenges:**
+    - Multifactorial hypoxemia (HPS).
+    - PPH in children with Alagille syndrome.
+    - High risk of hypoglycemia.
+    - Increased risk of hypothermia.
+
+## POSTOPERATIVE INTENSIVE CARE: Early Extubation
+
+- **Goal:** Early extubation is associated with better outcomes.
+- **Benefits:** Shorter ICU and hospital stay without increased morbidity or mortality.
+- **Predictors for Successful Early Extubation:**
+    - No severe encephalopathy.
+    - Serum lactate ≤ 8.2 mmol/L.
+    - RBC transfusion < 7 units.
+- **Fast-Tracking:** Avoiding ICU admission entirely is feasible in some centers with appropriate patient selection and resources.
+
+## Postoperative Care: Early Medical Complications (Table 106.2)
+
+<table>
+<thead>
+<tr>
+<th>TYPE</th>
+<th>COMPLICATION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pulmonary</strong></td>
+<td>TRALI/ARDS, pneumonia, pleural effusions, persistent shunting</td>
+</tr>
+<tr>
+<td><strong>Cardiovascular</strong></td>
+<td>CHF, hypotension, myocardial ischemia, arrhythmias</td>
+</tr>
+<tr>
+<td><strong>Renal</strong></td>
+<td>ATN, hepatorenal syndrome, CNI nephrotoxicity</td>
+</tr>
+<tr>
+<td><strong>Metabolic</strong></td>
+<td>Hyperglycemia/diabetes mellitus, electrolyte abnormalities</td>
+</tr>
+<tr>
+<td><strong>Neurologic</strong></td>
+<td>Encephalopathy, seizures, osmotic demyelination syndrome</td>
+</tr>
+<tr>
+<td><strong>Infectious</strong></td>
+<td>Wound infections, seromas, intraabdominal abscess, sepsis</td>
+</tr>
+<tr>
+<td><strong>Vascular</strong></td>
+<td>Hepatic artery or portal vein stenosis/thrombosis, IVC obstruction</td>
+</tr>
+<tr>
+<td><strong>Biliary</strong></td>
+<td>Biliary stricture or leaks</td>
+</tr>
+</tbody>
+</table>
+
+## Postoperative Care: Summary of Key Points
+
+- **Pulmonary:** Pneumonia and ARDS are common; protective ventilation and PEEP are important.
+- **Cardiovascular:** Cardiac complications are a leading cause of early mortality. Hyperdynamic circulation normalizes with a functioning graft.
+- **Renal:** AKI is very common. Maintaining kidney perfusion pressure is paramount.
+- **Neurologic:** Encephalopathy, seizures, and osmotic demyelination syndrome (ODS) are key concerns.
+- **Infectious:** Are the second most common cause of 30-day mortality. Routine postoperative prophylactic protocols are used.
+- **Surgical:** Vascular (hepatic artery, PV) and biliary complications require urgent diagnosis and intervention.
+
+## Key Takeaways for the Anesthesiologist
+
+1.  **Preoperative Assessment:** Recognize the systemic nature of ESLD (CNS, CV, Pulmonary, Renal, Coagulation).
+2.  **Intraoperative Monitoring:** Embrace advanced monitoring (TEE, TEG/ROTEM) for goal-directed therapy.
+3.  **Hemodynamic Management:** The rebalanced hemostasis requires a nuanced approach to fluids, blood products, and vasopressors.
+4.  **Critical Events:** Be prepared for PRS, ICT/PE, and ALF-specific challenges like ICP management.
+5.  **Postoperative Care:** The anesthesiologist’s plan directly impacts early extubation and the prevention of complications.

@@ -1,6 +1,10 @@
 # 106 Liver Transplantation: Perioperative Anesthetic Considerations
 
 
+
+{{< reveal 106_Liver_Transplantation_Perioperative_Anesthetic_Considerations >}}
+
+
 **1. According to the Global Observatory on Donation and Transplantation, what is the primary challenge in liver transplantation despite over 35,000 procedures being performed annually worldwide?**
 
 - The high cost of immunosuppressive medications
