@@ -1,0 +1,1156 @@
+---
+title: "Pancreaticoduodenectomy"
+format:
+  revealjs
+---
+
+
+## Chapter Outline
+
+- Exploration and assessment of distant metastatic disease
+- Mobilization and assessment of local resectability
+- Resection phase
+- Vascular resection
+- Multivisceral resections
+- Lymphadenectomy
+- Reconstruction (pancreatic, biliary, GI continuity)
+- Drains and nasogastric tubes
+
+## Introduction: The Operation
+
+- Pancreaticoduodenectomy (PD) remains one of the few operations with:
+  - Major morbidity rates ~**25%**
+  - 90-day mortality of **2%–4%**
+- Even at highest-volume centers with highest-volume surgeons
+- Chapter describes approach to **exploration, resection, and reconstruction**
+
+## Key Principles of the Chapter
+
+- Multiple techniques shown to be equally effective
+- Individual steps may — and should — be performed in different order depending on:
+  - Nature of abnormality
+  - Location of abnormality
+- Emphasis on evidence-based decisions over opinion
+
+## Open vs. Minimally Invasive PD
+
+- Chapter focuses on **open PD** technique
+- Minimally invasive approaches (laparoscopic and robotic) described in Chapter 127
+- Developed over past 20 years
+- **>95%** of these operations continue to be performed with open technique
+
+## Minimally Invasive PD: Current Evidence
+
+- Can be performed safely with equivalent outcomes to open approach
+- Only in **very select high-volume centers**
+- Requires a team dedicated to this endeavor
+
+## Exploration: Assessment of Distant Metastatic Disease
+
+- Initial goal: rule out **subradiographic metastatic disease**
+- Metastatic disease = contraindication to resection
+- Particularly important when operating for cancer
+- Careful inspection of:
+  - Liver
+  - Peritoneal surfaces
+- Targeted liver ultrasound for parenchymal abnormalities
+
+## Staging Laparoscopy (SL)
+
+- Use subject to individual surgeon preference and institutional experience
+- Reported as performed:
+  - Routinely
+  - Selectively
+  - Never
+- Yield of SL **decreases** as quality of cross-sectional imaging increases
+- Authors' approach: **selective, case-by-case basis**
+
+## Indications for Staging Laparoscopy
+
+- Concerning feature on preoperative imaging
+- Significantly elevated **CA 19-9** level
+- Degree of CA 19-9 elevation warranting SL varies:
+  - Ranges from **130 to 250 U/mL** across studies
+
+## CA 19-9: Important Caveat
+
+- Attention must be paid to **status of biliary tree** at time of CA 19-9 evaluation
+- Biliary obstruction can increase the CA 19-9 level
+- Interpret elevation in clinical context
+
+## Initial Incision
+
+- When SL not necessary: begin with **limited upper midline incision**
+- Initial incision small for:
+  - Visual inspection
+  - Manual inspection
+- Rule out metastatic disease
+- Once ruled out: extend incision to whatever length needed
+- Safety of operation tailored to individual patient
+
+## Mobilization: Wide Kocher Maneuver
+
+- Performed to level of:
+  - **Aorta**
+  - **Left renal vein**
+- Includes mobilization of **ligament of Treitz** from patient's right side
+- Transverse mesocolon mobilized off:
+  - Gerota's fascia
+  - Head of pancreas
+
+## Kocher Maneuver: Exposure Benefits
+
+- Allows dynamic and manual retraction of:
+  - Transverse colon
+  - Its mesentery
+- Retraction directed **caudally** to optimize exposure
+- Enables assessment of:
+  - Retroperitoneum
+  - Relationship of mass with **superior mesenteric artery (SMA)**
+
+## Figure 117A.1: Kocherization
+
+::: columns
+::: {.column width="60%"}
+**Adequate Kocherization to facilitate assessment of:**
+
+- The retroperitoneum
+- The relation of the tumor to the vascular structures
+:::
+::: {.column width="40%"}
+*[Figure showing mobilized duodenum and pancreatic head exposing retroperitoneal structures]*
+:::
+:::
+
+## Kocher Maneuver: What to Avoid
+
+- **No routine oncologic reason** to:
+  - Enter Gerota's fascia of right kidney
+  - Remove posterior aortocaval lymph nodes
+- Both maneuvers may increase risks:
+  - Lymphatic leak
+- Provide **no proven oncologic benefit**
+
+## Kocher Maneuver: Vascular Caution
+
+- Avoid the **right gonadal vein** as it enters the IVC
+- This vein is thin-walled
+- If injured → **brisk bleeding**
+
+## Artery-First Approach
+
+- SMA inspected from ligament of Treitz
+- Dissected on its right lateral surface
+- Purpose: exclude tumor infiltration
+- Helps with assessment of SMA involvement **early** in exploration
+
+## Figure 117A.2: Artery-First Approach
+
+::: columns
+::: {.column width="60%"}
+- Superior mesenteric artery is dissected
+- Infiltration of the artery is ruled out
+- Performed as one of the **first steps** of the operation
+:::
+::: {.column width="40%"}
+*[Figure demonstrating early SMA dissection]*
+:::
+:::
+
+## Authors' Practice on Artery-First
+
+- **Do NOT routinely perform** this maneuver
+- Rationale:
+  - High-quality preoperative imaging typically adequate
+  - Careful palpation in operating room typically adequate
+- Both sufficient for excluding gross SMA involvement
+
+## Access to the Lesser Sac
+
+- Achieved through dissection of **greater omentum off transverse colon**
+- Some surgeons enter lesser sac by directly dividing omentum near gastroepiploic vessels
+
+## Why NOT Divide Omentum Directly
+
+- May seem more direct and technically easier
+- BUT results in **ischemic distal omentum**
+- Branches from gastroepiploic arcade are divided
+- In obese patients with significant omental bulk:
+  - Ischemic tissue at risk for **postoperative infection**
+  - Particularly in setting of postoperative pancreatic leak
+
+## Advantage of Omental Preservation
+
+- Healthy perfused omentum can be used as:
+  - **Vascularized flap**
+- Covers at conclusion of operation:
+  - Pancreatic anastomosis
+  - Biliary anastomosis
+  - Gastroduodenal arterial (GDA) stump
+
+## Identifying the SMV
+
+- Dissection in avascular plane between:
+  - Hepatic flexure
+  - Duodenum
+- Extension of Kocher maneuver separates third part of duodenum from colonic mesentery
+- Avascular plane between gastroepiploic and middle colic veins divided
+- Leads to **SMV at inferior edge of pancreas**
+
+## SMV Dissection Details
+
+- Several small crossing vascular branches may be encountered
+- Should be **prospectively divided**
+- Gastroepiploic vein may be ligated at this point
+- Alternative: reserve until after pancreatic neck divided (more efficient)
+- Early development of tunnel between:
+  - Pancreatic neck
+  - SMV and portal vein (PV) confluence
+
+## Supraduodenal Compartment
+
+- Retract stomach **anteriorly and inferiorly**
+- Incise gastrohepatic ligament:
+  - From lesser curve of stomach
+  - To origin of right gastric artery (RGA)
+- RGA retracted anteriorly
+- Avascular tissue between GDA and RGA incised
+- Expedites division of RGA
+
+## Common Hepatic Artery Identification
+
+- Reliably identified by removing lymph node anterior to it
+- Known as **"common hepatic artery lymph node"**
+- Also called **"the node of importance"**
+- Involvement with disease may have prognostic value in pancreas cancer
+
+## Node of Importance: Management
+
+- Should generally be **removed** and sent for pathologic evaluation
+- Should **NOT** be used as determinant of proceeding with resection
+
+## GDA Ligation: Technique
+
+- GDA encircled and **clamped**
+- Ensure preserved pulse in:
+  - Right hepatic artery
+  - Left hepatic artery
+- Excludes:
+  - Misidentification of GDA
+  - Tight celiac artery stenosis with hepatic inflow dependent on retrograde GDA flow
+- Once deemed safe: GDA is **ligated and divided**
+
+## GDA Ligation: Celiac Stenosis Scenario
+
+- Must be prepared for **"what to do"** if pulse lost or diminished with clamping
+- Careful preoperative assessment of high-quality contrast-enhanced imaging essential
+- Clinically significant celiac stenosis evident on imaging through:
+  - Arterial collateralization around pancreatic head
+  - Enlarged GDA
+
+## Managing Celiac Stenosis Intraoperatively
+
+- Attempts to divide fibrotic attachments causing stenosis
+- Rarely results in normal pulse (authors' experience)
+- Even after clamping and division:
+  - Intraoperative duplex ultrasound generally identifies continued flow in hepatic artery
+  - In this setting: **proceed with resection**
+
+## GDA Stump Blowout: Critical Concern
+
+- GDA ligation **critically important** to minimizing morbidity and mortality
+- GDA stump blowout:
+  - Significant contributor to postoperative mortality
+  - Reported in as many as **6% of patients**
+
+## Protecting the GDA Stump
+
+- Variety of tissue coverage techniques recommended:
+  - Falciform ligament
+  - Omentum
+- Protect site of ligation from infection and leak
+- Authors' technique:
+  - **Triple ligation** (tie, suture ligation, clip)
+  - Attempt to place omentum over stump at end of case
+
+## Portal Vein Dissection
+
+- Ligation of GDA exposes anterior surface of PV
+- Anterior surface of PV dissected free
+- Lateral border identified
+- Lateral portal lymph nodes mobilized:
+  - Away from bile duct
+  - Brought down toward duodenum
+  - Included in specimen
+
+## Replaced/Accessory Right Hepatic Artery
+
+- Present in **10%–15%** of patients
+- Courses just **posterior and lateral** to bile duct
+- Must assess for this
+- Generally **preserved** if present
+
+## When to Ligate Accessory/Replaced RHA
+
+- In **absence of jaundice**:
+  - Either accessory or replaced right hepatic artery can typically be safely ligated and resected if oncologically indicated
+- In **setting of jaundice**:
+  - Avoid ligation
+  - Risk of postoperative **right liver necrosis**
+
+## Final Assessment of Resectability
+
+- Final assessment of:
+  - Pancreatic neck
+  - Overall resectability
+- Many surgeons create tunnel behind pancreatic neck
+- Ensures vein uninvolved OR safe resection possible if involved
+
+## Authors' Approach to the Tunnel
+
+- Attempt tunnel creation when vein does **not** appear involved on preoperative imaging
+- When PV resection definitely/possibly required:
+  - May not be safe to complete tunnel without some division of pancreas
+
+## Decision Making with Vascular Involvement
+
+- Determine whether reconstruction can be safely performed without complete tunnel
+- Assessment of pancreatic neck and PV:
+  - Critical
+  - Can be subtly difficult
+- **Intraoperative consultation with senior partners** should be considered
+- "Good decisions come from experience, and experience comes from making bad decisions"
+
+## Figure 117A.3: Pancreatic Neck Tunnel
+
+::: columns
+::: {.column width="60%"}
+- Full development of the pancreatic neck
+- Allows safe passage of:
+  - Penrose drain, OR
+  - Clamp
+- Positioned **anterior to the portal vein**
+:::
+::: {.column width="40%"}
+*[Figure showing developed tunnel behind pancreatic neck]*
+:::
+:::
+
+## Resection: Cholecystectomy
+
+- Performed once deemed resectable
+- Usually **anterograde fundus-down** technique
+- In preoperative biliary obstruction:
+  - Gallbladder can be distended and inflamed
+  - Emptying gallbladder can facilitate dissection
+- Cystic artery and duct identified and ligated
+
+## Cholecystectomy: Vascular Caution
+
+- Avoid iatrogenic injury to **right hepatic artery**
+- Usually runs **posterior to common hepatic duct**
+
+## Bile Duct Division Strategy
+
+- Two approaches exist:
+  - Leave gallbladder attached and divide common hepatic duct
+  - Ligate cystic duct and later divide common bile duct
+
+## Bile Duct Strategy by Disease
+
+- **Pancreatic cancer:**
+  - Positive bile duct margin generally not an issue
+  - Ligate cystic duct, later divide bile duct
+- **Cholangiocarcinoma of distal bile duct:**
+  - Leave gallbladder attached
+  - Later divide common hepatic duct
+  - Goal: achieve **negative margin**
+
+## Stomach Transection
+
+- Transected with **two fires of GIA stapler**
+- Just distal to the **incisura**
+- Question of pylorus preservation has generated:
+  - More than **8 clinical trials**
+  - Over **three decades**
+  - Over **1000 patients** prospectively evaluated
+
+## Pylorus Preservation: Evidence
+
+- Studies demonstrated **no difference in outcome**
+- Debate over advantage/disadvantage is:
+  - An exercise of **opinion**
+  - Rather than exercise in **evidence-based medicine**
+
+## Pylorus-Preserving Technique
+
+- If preservation planned:
+  - Right gastric artery divided **2 cm beyond pylorus**
+  - Right gastroepiploic artery divided 2 cm beyond pylorus
+  - Duodenum skeletonized
+  - Duodenum divided
+- Stomach along with omentum packed away in left upper quadrant
+
+## Jejunal Transection
+
+- Attention directed toward dividing:
+  - Remaining ligament of Treitz
+  - Jejunum
+- Body wall retractors adjusted to expose ligament of Treitz
+- Location of transection affected by:
+  - Planned route of biliary-pancreatic limb
+  - Via ligament of Treitz OR through transverse mesocolon
+
+## Jejunal Transection: Key Principle
+
+- Site of transection should allow:
+  - **Ample mesenteric mobility**
+  - **Tension-free anastomosis** for biliary and pancreatic reconstruction
+
+## Jejunal Mesentery Division
+
+- Mesentery divided close to bowel on specimen side
+- Down to level of:
+  - Root of mesentery
+  - Uncinate process of pancreas
+- Potential for postoperative hemorrhage from proximal jejunal mesentery
+- Authors' practice: control vessels with **LigaSure device + clips**
+
+## Ischemic Jejunal Limb
+
+- Rotated **under the ligament of Treitz**
+- Directed to **right upper quadrant**
+
+## Pancreatic Neck Transection: Preparation
+
+- Tunnel over PV fully developed
+- Penrose drain or vessel loop placed into tunnel to encircle neck when possible
+- Alternative: renal pedicle clamp to guide transection
+
+## Pancreatic Neck Transection: Hemostatic Sutures
+
+- Placed at superior and inferior borders of pancreas
+- On each side of planned transection plane
+- **Careful not to include pancreatic duct**
+- Purposes:
+  - Ligate superior and inferior pancreatic vessels
+  - Decrease bleeding from cut surface
+
+## Pancreatic Division Technique
+
+- Superficial portions: divided with **electrocautery** (minimize bleeding)
+- Deeper gland: divided **sharply with scalpel**
+- Especially the pancreatic duct
+
+## Bile Duct Division Timing
+
+- Typically reserved for this point in operation
+- Minimizes duration of bile drainage into right upper quadrant
+- Especially important in preoperatively stented patients
+- Some place clamp on distal bile duct to minimize bile spillage
+
+## SMV-PV Dissection
+
+- SMV-PV dissected away from pancreas and tumor
+- Small venous branches controlled with:
+  - Clips
+  - Ties
+  - Coagulation device
+
+## SMA Dissection
+
+- After vein completely freed
+- Releasing posterior attachments of specimen to retroperitoneum
+- Facilitates dissection along **right lateral plane of SMA**
+- Specimen attachments isolated to lateral aspect of SMA
+- Dissection completed along this plane to remove specimen
+
+## SMA Dissection: Technique
+
+- Specimen (pancreatic head, duodenum, proximal jejunum) retracted to patient's right
+- Position of SMA **continuously assessed** to avoid injury
+- Gentle retraction of SMV toward patient's left
+- Anterolateral aspect of SMA completely skeletonized
+
+## SMA Dissection: Instruments
+
+- Small windows made in tissue
+- Sealed with:
+  - Ties
+  - Clips
+  - Coagulation device (e.g., LigaSure)
+- Clips can combine with coagulation device
+- Especially on **inferior pancreaticoduodenal artery**
+- **Stapled transection should typically be avoided**
+  - Particularly with concern regarding oncologic margin
+
+## Venous Resection Strategy
+
+- If venous resection required:
+  - SMA dissection performed **first**
+  - Venous resection left as **last step**
+- Benefits:
+  - Minimizes clamp time on PV
+  - Allows more expeditious proximal and distal venous control
+
+## Venous Control for Resection
+
+- Control and often ligation of:
+  - Inferior mesenteric vein
+  - Splenic vein
+  - Left gastric vein
+- Necessary to isolate SMV-PV before venous resection
+
+## After Specimen Removal
+
+- Hemostasis ensured
+- Operative field washed with **warm fluid**
+- Proceed to reconstruction phase
+
+## Vascular Resection: Historical Perspective
+
+- More than 30 years ago: **Fortner** at Memorial Sloan Kettering
+- Reasoned that more radical resection might improve survival
+- Tumor adherence to PV/SMV previously criterion of unresectability
+- Could be overcome by **en bloc resection** of involved vessels
+
+## Vascular Resection: Authors' Approach
+
+- When confirmed safe: reasonable to perform
+- PV resection deemed appropriate in carefully selected patients
+- Even **isolated hepatic arterial resection** appropriate in select patients
+- **Routine SMA resection NOT considered appropriate**
+  - 20% operative mortality
+  - 11-month disease-specific survival
+
+## Venous Resection: Systematic Review Data
+
+- 52 manuscripts evaluated
+- **6333 patients** with pancreatic resection for cancer
+- **1646 patients (26%)** underwent synchronous portal/SMV resection
+- Proportion of PV/SMV resections varied widely: **2% to 77%**
+
+## Venous Resection: Operative Details
+
+- Operations performed:
+  - PD: **71%**
+  - Total pancreatectomy: 24%
+  - Subtotal pancreatectomy: 3%
+  - Distal pancreatectomy: 2%
+- Median operation time: **513 minutes** (range 168–1740)
+- Median blood loss: **1750 mL** (range 300–26,000)
+- Median PV occlusion time: **20 minutes** (range 7–302)
+
+## Venous Resection: Outcomes
+
+- Perioperative mortality: **5.9%** (range 0%–33%)
+- Postoperative morbidity: **42%** (range 9%–78%)
+- Venous invasion detected in **64%** of resection specimens
+- Median survival: **13 months** (range 1–109)
+
+## Venous Resection: Survival Rates
+
+- 1-year overall survival: **50%**
+- 3-year overall survival: **18%**
+- 5-year overall survival: **8%**
+- Based on 1351 patients undergoing PV/SMV resection
+
+## Interpreting Pooled Data
+
+- Substantially influenced by quality of each institutional report
+- Standards of perioperative care, surgical technique, adjuvant therapy have improved dramatically
+- Wide variations reflect heterogeneity in institutional experience
+
+## Venous Resection: Modern Outcomes
+
+- Long-term survival comparable to PD **without** vein resection
+- As surgical expertise improves in high-volume centers:
+  - Perioperative morbidity and mortality often similar to those without vein resection
+
+## Venous Resection: Conclusion
+
+- Venous involvement should **NOT** be contraindication to resection if:
+  - Technically feasible
+  - Acceptable morbidity/mortality at your institution
+- Extent of resection individualized to:
+  - Degree of tumor involvement
+  - Patient's anatomy
+
+## Borderline Resectable Disease
+
+- Patients with venous involvement considered **borderline resectable**
+- Should normally undergo some form of **preoperative therapy**
+
+## Arterial Involvement: Contrast
+
+- Poor prognostic factor for:
+  - Short-term outcomes
+  - Long-term outcomes
+- SMA resection sometimes technically feasible
+- **No data** suggest improved long-term survival
+- Reported perioperative mortality is **high**
+
+## PV Reconstruction Technique
+
+- Depends on extent of involvement
+- **Less than 1–2 cm**, not circumferential:
+  - Interposition graft generally not necessary
+- Adequate mobilization before venotomy important
+- Defect almost always closed **horizontally**
+  - Decreases narrowing of lumen
+
+## Larger Venous Defects
+
+- Interposition with:
+  - **Autologous vein** (typically saphenous)
+  - **Prosthetic**
+- Historical concern over prosthetic:
+  - Long-term patency
+  - Tendency to infection (especially with pancreatic leak)
+
+## Prosthetic Grafts: Recent Data
+
+- Low risk for infection
+- Similar long-term patency rates to autologous vein
+- Approximately **75% at 1–2 years**
+- Most surgeons consider aspirin or warfarin for patency
+- **No data** support such approach
+
+## Multivisceral Resections
+
+- Utility addressed in several reports
+- About **35%** of patients present with locally advanced pancreatic cancers
+- Involvement of surrounding structures and organs
+- Most often phenomenon of **body or tail** adenocarcinoma
+  - Detected later
+  - Larger size at diagnosis than head cancers
+
+## Multivisceral Resection: Outcomes
+
+- Extended resection morbidity historically increased
+- Some reports show en bloc resection can be performed **safely** in well-selected patients
+- No difference in:
+  - Perioperative morbidity (35%)
+  - Mortality (3%)
+- Compared with standard resection
+
+## Multivisceral Resection: Key Points
+
+- Operative time longer
+- Can include:
+  - Mesocolon, colon
+  - Adrenal glands
+  - Liver
+  - Stomach
+- Blood loss and hospital stay NOT significantly different
+- Primary goal: **R0 (margin negative) resection**
+- Important predictor of long-term survival
+
+## Lymphadenectomy: Rationale for Extended
+
+- Positive lymph nodes confirmed outside confines of standard dissection
+- Even for small cancers:
+  - Para-aortic region nodes can harbor metastases
+  - Between celiac trunk and inferior mesenteric artery
+- Extended lymphadenectomy most popular in **Japan**
+- Retrospective data: improved survival, similar morbidity/mortality
+
+## Defining Extended Lymphadenectomy
+
+- Consensus conference: **Castelfranco Veneto, Italy**
+- Used Japanese Pancreas Society terminology
+- Three types of lymphadenectomy during PD:
+  - Standard
+  - Radical
+  - Extended radical
+- For body/tail cancers:
+  - Standard
+  - Radical
+
+## Extended Lymphadenectomy: Nonrandomized Studies
+
+- Six prospective nonrandomized studies published
+- Prospective study based on clinical status:
+  - No significant differences in perioperative mortality
+  - No differences in long-term survival
+  - Trend toward better outcome in **standard** group
+- Extended lymphadenectomy: increased rate of **severe diarrhea** early postoperatively
+
+## Extended Lymphadenectomy: RCT Evidence I
+
+- Four RCTs conducted
+- Summarized in meta-analysis
+- Studies from centers on **three different continents**
+- Pedrazzoli study:
+  - No differences in morbidity, mortality, survival
+  - Retrospective subgroup analysis suggested benefit for node-positive patients
+  - Validity of this finding debated
+
+## Extended Lymphadenectomy: RCT Evidence II (Yeo)
+
+- Largest study: **294 patients**
+- Published 2002, updated 2005
+- Randomized to standard vs. extended after negative frozen margins
+- Heterogeneous tumor types
+- Only **57%** pancreatic origin
+
+## Yeo Study Results
+
+- Perioperative mortality: similar between groups
+- Long-term survival: similar between groups
+- Morbidity significantly increased in extended group:
+  - **43% vs. 29%** (P < .01)
+- Much morbidity related to:
+  - Delayed gastric emptying
+  - Pancreatic fistula
+
+## Extended Lymphadenectomy: Conclusions
+
+- **NOT routinely indicated**
+- Mayo Clinic and Japanese studies support same conclusions
+- Increased morbidity without improved survival
+- Reduction in quality of life:
+  - Postoperative diarrhea
+  - Subsequent malnutrition
+
+## Current Standard
+
+- For pancreatic head tumors:
+  - **PD without extended lymphadenectomy**
+- Except retrospective subgroup analysis (Pedrazzoli):
+  - No RCT showed survival benefit
+- Diarrhea and delayed gastric emptying more frequent with extended
+
+## Reconstruction: Overview
+
+- Three components:
+  - Pancreaticojejunostomy
+  - Bilioenteric anastomosis
+  - Gastrointestinal continuity
+
+## Pancreatic Leak: The Major Concern
+
+- Major cause of **procedure-related death**
+- Simply occluding pancreatic duct without anastomosis:
+  - Higher fistula rates
+  - Increased risk of exocrine and endocrine insufficiency
+- **Drainage of pancreatic remnant to GI tract remains crucial**
+
+## Pancreatoenteric Anastomosis: Principles
+
+- Many techniques described
+- Literature continues to report novel "safer" techniques
+- Success most dependent on:
+  - Surgeon's concentration
+  - **Meticulous execution** of chosen technique
+
+## Basic Tenets of Safe Anastomosis
+
+- Careful handling of pancreatic tissues
+- **Tension-free** adaptation
+- **Good perfusion**
+- **No distal obstruction**
+- Any technique meeting these can have excellent outcomes
+
+## PJ: Technique Options
+
+- Most common structure: **jejunum**
+- Two main approaches:
+  - **Dunking procedure** (invaginating pancreas into end of jejunum)
+  - **Duct-to-mucosa** technique
+- End-to-side or end-to-end
+- Technique does NOT significantly influence leak rate
+
+## Pancreatogastrostomy (PG)
+
+- Alternative organ: **stomach**
+- Proponents cite:
+  - Easier to perform (close proximity)
+  - Less prone to ischemia (rich gastric perfusion)
+- Original hypothesis: acidic environment prevents enzyme activation
+  - **Not proven true**
+
+## PJ vs. PG: RCT Data
+
+- Prospective RCT comparison:
+  - PJ leak rate: **11%**
+  - PG leak rate: **12%**
+  - Not significantly different
+- Remember: trials typically randomize "institutional norm" vs. unfamiliar technique
+- Institutional norm generally found superior or equivalent
+
+## Authors' Preferred PJ Technique
+
+- **Duct-to-mucosa PJ**
+- **End-to-side** fashion
+- **Retrocolic jejunal limb**
+- Originally described by Editor Emeritus (LHB) of textbook
+
+## PJ: Jejunal Limb Placement
+
+- Jejunum brought to right upper quadrant via:
+  - Ligament of Treitz, OR
+  - Defect in mesocolon just right of middle colic vessels
+- Authors prefer **latter** (mesocolic defect)
+  - Less vulnerable to obstruction with local recurrence
+
+## PJ: Preparing the Pancreatic Remnant
+
+- Mobilized off splenic vein for ~**2 cm**
+- Previously placed hemostatic sutures used to elevate gland
+- Away from venous confluence
+
+## PJ: First Layer (Blumgart)
+
+- **Transpancreatic horizontal mattress sutures**
+- Through and through pancreas
+- ~1 cm proximal to cut transection edge
+- **3.0 PDS** sutures
+- Needle may be straightened for perpendicular path
+
+## PJ: First Layer Details
+
+- Start 1–2 cm from edge anteriorly
+- Exit gland posteriorly same distance from transection edge
+- Reconstruction started on **inferior edge** of gland
+- Suture passed anterior to posterior
+
+## Figure 117A.4: Horizontal Mattress Suture
+
+::: columns
+::: {.column width="60%"}
+- Full-thickness **3.0 Vicryl** horizontal mattress stitch
+- Through pancreas
+- Through seromuscular layer of jejunum
+:::
+::: {.column width="40%"}
+*[Figure showing first layer suture placement]*
+:::
+:::
+
+## PJ: Jejunal Suture Placement
+
+- Seromuscular horizontal mattress suture through jejunal limb
+- **Longitudinally oriented**
+- Halfway between mesentery and anti-mesenteric bowel
+- ~**3 cm** from stapled transected edge of jejunum
+
+## PJ: Completing Horizontal Mattress
+
+- Suture passed again through pancreas:
+  - Entering posterior surface
+  - Exiting anterior surface
+- Keeping 1–2 cm from cut edge
+- Creates horizontal mattress between full thickness of pancreas and biliopancreatic limb
+
+## PJ: Number of Sutures
+
+- Pancreas typically accommodates:
+  - **2–3 stitches inferior** to pancreatic duct
+  - **2–3 stitches superior** to pancreatic duct
+- Probe placed in pancreatic duct to protect it
+- **Needles left on each suture** for final anterior layer
+
+## Figure 117A.5: Duct-to-Mucosa Preparation
+
+::: columns
+::: {.column width="60%"}
+- Corner and anterior row stitches placed in pancreatic duct
+- Duct **tented open**
+- Facilitates placement of posterior row
+:::
+::: {.column width="40%"}
+*[Figure showing duct sutures in place]*
+:::
+:::
+
+## PJ: Duct-to-Mucosa Layer
+
+- Pancreatic duct approximated to small full-thickness enterotomy in jejunum
+- **4.0 PDS** sufficient for most cases
+- 5.0 or 6.0 may be appropriate depending on duct size
+- Enterotomy ~1 cm from line of horizontal sutures
+- Allows tension-free adaptation
+
+## PJ: Duct-to-Mucosa Sutures
+
+- **4–6 sutures** fully approximate duct to jejunum:
+  - Two at corners
+  - One to two anteriorly
+  - One to two posteriorly
+- Helpful to place and tie **posterior suture first**
+  - Better visualization of duct for remaining stitches
+
+## Figure 117A.6: Anterior Row Completion
+
+::: columns
+::: {.column width="60%"}
+- After duct-to-mucosa layer complete
+- Vicryl sutures tied down
+- Inferior-most suture placed **vertically** in jejunum
+- Second **horizontal bite** taken
+- Jejunum folds over anterior surface of pancreas
+:::
+::: {.column width="40%"}
+*[Figure showing anterior layer technique]*
+:::
+:::
+
+## PJ: Final Anterior Layer
+
+- Previously placed 3.0 PDS sutures complete final anterior row
+- Each suture tied down starting with inferior edge
+- Imperative to **tie jejunum down to pancreas**
+- Horizontal mattress sutures continued from inferior to superior edge
+
+## PJ: Vertical Stitches
+
+- Last stitch placed in **mirror image** to first inferior stitch
+- Two bites in jejunum:
+  - First vertical
+  - Then horizontal mattress directed back toward pancreas
+- Vertical stitches **wrap jejunum** around inferior and superior edge of pancreas
+
+## Figure 117A.7: Completed Pancreaticojejunostomy
+
+::: columns
+::: {.column width="60%"}
+- **None of the duct-to-mucosa sutures should be visible** once anterior row complete
+- Jejunum folded over anterior surface of pancreas
+:::
+::: {.column width="40%"}
+*[Figure showing completed anastomosis]*
+:::
+:::
+
+## PJ: Technique Advantages
+
+- End-to-side technique allows:
+  - Adaptation of jejunal opening to specific requirements of pancreatic remnant
+- Separate duct-to-mucosa adaptation:
+  - Keeps duct orifice open
+  - Ensures **unobstructed flow** of pancreatic secretions
+- Authors **do NOT use pancreatic stents**
+
+## Bilioenteric Anastomosis: Overview
+
+- Less variability in construction
+- Less likely to experience leak or fistula
+- Can be fashioned:
+  - Continuous technique
+  - Interrupted technique
+- Choice depends on size of bile duct
+- Normally use **4.0 PDS** suture
+
+## Bilioenteric: Continuous Technique
+
+- Single-layer full-thickness anastomosis
+- **Posterior layer completed first:**
+  - Start at **3 o'clock** position
+  - Stop at **9 o'clock** position
+- **Second suture** completes anterior layer
+- Prevents purse-stringing of anastomosis
+
+## Figure 117A.8: Continuous Posterior Row
+
+::: columns
+::: {.column width="60%"}
+- Posterior suture row of bilioenteric anastomosis
+- In **continuous fashion**
+:::
+::: {.column width="40%"}
+*[Figure showing continuous posterior suture line]*
+:::
+:::
+
+## Bilioenteric: Interrupted Technique
+
+- Preferred for **small bile ducts < 5 mm**
+- Anterior row and corner sutures placed first in bile duct
+- Holds duct open for posterior row construction
+- Small enterotomy in jejunum ~**6–8 cm** from PJ
+
+## Figure 117A.9: Interrupted Technique
+
+::: columns
+::: {.column width="60%"}
+- Completed posterior row
+- Corner and anterior bile duct sutures in place
+- Posterior row tied with **knots on inside** of anastomosis
+:::
+::: {.column width="40%"}
+*[Figure showing interrupted suture placement]*
+:::
+:::
+
+## Interrupted Technique: Anterior Row
+
+- Anterior row and corner sutures passed through full-thickness jejunum
+- Tied down starting with corner stitches
+- Working toward **12 o'clock** position
+- Knots tied **outside** of anastomosis
+
+## Reconstitution of GI Continuity
+
+- Classic PD: **antecolic gastrojejunostomy**
+- Pylorus-preserving PD: **duodenojejunostomy**
+- Concern about intact pylorus and DGE:
+  - **Laid to rest** by several RCTs
+- Based on 2004 evidence:
+  - Pylorus preservation does **NOT** increase DGE frequency
+
+## Delayed Gastric Emptying: Theories
+
+- Retrocolic reconstruction may predispose to:
+  - Venous congestion
+  - Bowel edema
+  - Slowed jejunal peristalsis recovery
+- Postoperative gastroparesis:
+  - Temporary gastric distension
+  - Angulation of anastomosis in retrocolic position
+- Close proximity of duodenojejunostomy to PJ:
+  - DGE risk with PJ leak or remnant pancreatitis
+
+## Authors' GI Reconstruction
+
+- Regardless of classic vs. PPPD:
+  - **Antecolic end-to-side** duodenojejunostomy or gastrojejunostomy
+  - ~**50 cm downstream** from hepaticojejunostomy
+- Transverse colon and omentum used to shield anastomosis away from PJ
+- Single layer with **3.0 PDS** in continuous fashion
+
+## Abdominal Drains: Historical Dogma
+
+- Intraperitoneal drainage recommended for decades
+- Intention: control leakage of biliary, lymphatic, or pancreatic secretions
+- Prophylactic in nature
+- Stems more from **surgical dogma** than level 1 evidence
+
+## Drains: First RCT (MSKCC)
+
+- Placement of drains did **NOT** reduce surgical morbidity
+- Significantly higher proportion in drain group developed:
+  - Intraperitoneal sepsis
+  - Fluid collection
+  - Fistula
+
+## Drains: Heidelberg Trial
+
+- 438 patients randomized
+- No difference in:
+  - Postoperative fistula
+  - Fistula-related complications
+- In-hospital mortality: **3% in both groups**
+
+## Drains: Contrasting Data
+
+- Multi-institutional study prematurely closed
+- Higher morbidity and 90-day mortality in **no-drain** group
+  - Mortality: **12% vs. 3%**
+- Extremely high mortality not seen by others
+
+## Authors' Drain Practice
+
+- **Do NOT routinely place drains** after PD
+- Based on two large RCTs showing no benefit
+- Studies do not show clear harm with placement
+- **Selective use** of drains is reasonable
+
+## Early Drain Removal: Middle Ground
+
+- Verona group prospective RCT:
+  - Early drain removal by **postoperative day 3**
+  - Associated with **decreased rates** of pancreatic fistula
+
+## Postoperative Management Regardless of Drains
+
+- **Early cross-sectional imaging**
+- **Intervention** for evidence of undrained pancreatic collection
+- Failure to rescue and mortality often attributed to:
+  - **Late intervention** on early signs of sepsis
+
+## Nasogastric Decompression: Evidence
+
+- Meta-analysis refuted dogma of routine NG decompression
+- Without NG tubes:
+  - Fever significantly less common
+  - Atelectasis less common
+  - Pneumonia less common
+  - Days to first oral intake significantly fewer
+
+## NG Tube Considerations
+
+- Abdominal distension or vomiting without NG tube:
+  - Does NOT necessarily increase complications
+  - Does NOT necessarily increase length of stay
+- NG tubes omitted in most **enhanced recovery pathway** programs
+
+## Authors' NG Practice
+
+- Leave NG tube in place on night of surgery
+- Remove on **morning of postoperative day 1**
+- Trend toward omitting NG decompression in enhanced recovery protocols
+
+## Summary: Historical Progress
+
+- Surgical technique and outcomes advanced significantly since:
+  - **Allan Whipple, 1935**
+- Current expectations:
+  - Operative mortality ~**1%** at high-volume centers
+  - Median length of stay ~**7 days**
+
+## Summary: No Single Advance
+
+- No single advance, approach, or technique responsible
+- Rather: **incremental and thoughtful investigation**
+- By series of surgeon-researchers over decades
+
+## Summary: Final Message
+
+- Randomized data have **NOT** shown any single approach to be superior
+- Every surgeon encouraged to:
+  - Develop the approach that works best
+  - For their patients
+  - At their hospital
+
+## Key Takeaways: Exploration
+
+- Rule out metastatic disease first
+- Selective staging laparoscopy based on imaging and CA 19-9
+- Wide Kocher maneuver to assess SMA relationship
+- Avoid routine Gerota's fascia entry and aortocaval node removal
+
+## Key Takeaways: Resection
+
+- GDA ligation: triple ligation, check hepatic pulse
+- Beware celiac stenosis and replaced right hepatic artery
+- Pancreatic neck: hemostatic sutures, sharp duct division
+- SMA dissection: avoid stapled transection near margin
+
+## Key Takeaways: Vascular Resection
+
+- Venous involvement is NOT contraindication
+- PV/SMV resection safe in experienced hands
+- SMA resection: high mortality, no survival benefit
+- Borderline resectable patients: consider preoperative therapy
+
+## Key Takeaways: Lymphadenectomy
+
+- Extended lymphadenectomy NOT routinely indicated
+- Increased morbidity without survival benefit
+- Standard lymphadenectomy remains current standard
+
+## Key Takeaways: Reconstruction
+
+- Meticulous technique more important than specific variant
+- Tension-free, well-perfused, no distal obstruction
+- Blumgart-style duct-to-mucosa PJ preferred by authors
+- Bilioenteric anastomosis: continuous or interrupted based on duct size
+
+## Key Takeaways: Postoperative
+
+- No routine drains needed (selective use reasonable)
+- Early drain removal if used (POD 3)
+- No routine prolonged NG decompression
+- Early imaging and intervention for collections
+- Failure to rescue prevention is critical
