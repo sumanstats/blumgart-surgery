@@ -1,0 +1,553 @@
+---
+title: "ALPPS: Techniques and Evolution"
+format:
+  revealjs
+---
+
+
+**Sections covered:**
+
+1. Background and History
+2. Anatomic Considerations
+3. Patient Selection and Preoperative Assessment
+4. Surgical Techniques and Variations
+5. Interval Management
+6. Special Indications
+7. Summary
+
+## Background: The Miracle of Liver Regeneration
+
+- The liver's capacity to regenerate is unique in the human body
+- Captivated mankind since ancient civilizations (e.g., Greek myths of Tityus and Prometheus)
+- Twenty-seven centuries later, physicians manipulate this regenerative capacity to treat oncologic liver diseases
+- Goal: To cure, not to torture as in ancient myths
+
+## What is ALPPS?
+
+- **ALPPS** stands for:
+  - **A**ssociating
+  - **L**iver
+  - **P**artition and
+  - **P**ortal vein ligation for
+  - **S**taged hepatectomy
+
+- A two-stage strategy to induce rapid and massive future liver remnant (FLR) hypertrophy
+- Reduces the usual time interval between stages to **1 or 2 weeks**
+- Allows resection of liver tumors otherwise functionally irresectable
+
+## Figure 123.1: Surgical Photographs of ALPPS
+
+::: {.callout-note}
+## Visualizing the Procedure
+**(A) Stage 1:** Shows multiple resections in the future liver remnant (FLR) and the splitting of the liver parenchyma.
+**(B) Stage 2:** Shows massive hypertrophy of the cleaned-up FLR just 7 days after the second stage.
+:::
+
+## Figure 123.2: Diagram of ALPPS Stages
+
+::: {.callout-note}
+## The Two-Stage Concept
+**Stage 1:**
+- Division of the right portal vein
+- Resection/ablation of tumors in the FLR (if present)
+- Splitting of the parenchyma according to the future resection type
+
+**Stage 2:**
+- Division of the right hepatic artery, right bile duct, and right venous drainage
+- Allows resection of the tumor-bearing liver
+:::
+
+## History: The First ALPPS (2007)
+
+- Performed somewhat incidentally by **Prof. Hans J. Schlitt** (Regensburg, Germany) in September 2007
+- **Patient:** 49-year-old female with hilar cholangiocarcinoma
+- **Scheduled procedure:** Right trisectionectomy
+- **Original plan:** Right portal vein transection + complete in situ splitting along the falciform ligament
+
+## The First Case: Intraoperative Pivot
+
+- The middle hepatic vein (MHV) was taken down, but hepatic arteries were untouched
+- After complete transection, the FLR seemed critical and insufficient
+- **Plan canceled:** Resection was stopped without removing the tumor
+- A Roux-en-Y hepaticojejunostomy to the left lateral lobe was performed to decompress segments II and III
+
+## The First Case: The Result
+
+- **1 week later:** CT scan showed an almost **doubling in volume** of segments II and III (the FLR)
+- **Day 9:** Returned to the OR; trisectionectomy plus resection of the hilar bifurcation was completed
+- **Outcome:** Uneventful postoperative course without liver insufficiency (though early tumor relapse occurred)
+
+## Evolution of the Name
+
+- The technique was initially termed **"in situ-split liver resection"**
+- Soon adopted by other HPB centers in Germany
+- **2011:** First report of 5 cases presented at the E-AHPBA congress in Capetown
+- **2012:** Multicenter inaugural report of 25 cases published in *Annals of Surgery*
+- **Naming:** Eduardo de Santibañes and Pierre Clavien suggested the acronym **ALPPS** to avoid confusion with segmental liver transplantation partition
+
+## The International ALPPS Registry
+
+- Created in **2012** due to increasing interest and passion for the concept
+- **Founding members:** P. A. Clavien, H. Lang, and E. de Santibañes
+- Goal: Collect data on this new procedure from centers worldwide
+- Currently comprises over **1250 patients**
+
+## Initial Hype vs. Reality
+
+- ALPPS pushed the limits of resection into a new dimension
+- Seemed to offer an almost **100% resection rate** for tumors considered irresectable due to insufficient FLR
+- **Median hypertrophy rates:** 160% and up to 250%
+- Even allowed resection of all but one segment (**monosegment ALPPS**)
+
+## The Slowdown: Facing the Risks
+
+- Initial hype slowed down due to **very high initial perioperative surgical risk**
+- Inaugural multicenter German experience showed **12% mortality**
+- Concerns raised: Was the increase in resectability bought at the expense of safety?
+- Most deaths occurred after **Stage 2**
+- Main cause of poor outcomes: **Posthepatectomy liver failure (PHLF)**, paradoxically even when sufficient FLR volumes were achieved
+
+## Risk Factors for Poor Outcomes
+
+- Post-Stage 1 complications (Grade $\ge$ 3b) are significant predictors of Stage 2 mortality
+- Specific risk factors:
+  - Post-Stage 1 biliary fistula
+  - Infected and/or bilious peritoneal fluid at Stage 2
+  - Pre-Stage 2 **bilirubin** and **creatinine** levels
+
+## Figure 123.3: Timeline of ALPPS Development
+
+::: {.callout-note}
+## Evolution of Techniques (2007 to 2020+)
+**More aggressive Stage 1:**
+- Classic ALPPS (2007)
+
+**Less aggressive Stage 1 (Technical Refinements):**
+- Tourniquet ALPPS (2012)
+- Partial ALPPS (2014)
+- RFA / Microwave ALPPS (2015)
+- Mini ALPPS (2016)
+:::
+
+## Anatomic Considerations: Overview
+
+The main components of ALPPS (regardless of modification) are:
+1. Interruption of Portal Vein (PV) circulation
+2. Manipulation of liver parenchyma along the transection line
+3. The two stages of the operation
+
+**Core Concept:** Complete portal devascularization of the tumor-carrying liver, while preserving arterial flow and intact vascularization/biliary drainage of the FLR.
+
+## Preoperative Imaging is Mandatory
+
+- High proportion of vasculobiliary variants requires precise anatomic knowledge
+- Imaging must assess the FLR and all individual anatomic details
+- Tumors frequently alter normal anatomy in advanced liver diseases
+
+## Hepatic Artery: Crucial Preservation
+
+- At Stage 1, preservation of arterial inflow to **both sides** (remnant and specimen) is crucial
+- Lesions or occlusion of the HA can cause necrosis and failure of the procedure
+- Special attention in right trisectionectomy to the **"middle HA"** and branches supplying **Segment IV**
+
+## Figure 123.4: Arterial Variants of Segment IV
+
+::: {.callout-note}
+## Vascularization of Segment IV
+**(A)** Segment IV artery originating early from the left hepatic artery (**40%**)
+**(B)** Segment IV artery originating from the left hepatic artery in the umbilical fissure (**35%**)
+**(C)** Segment IV artery originating from the right hepatic artery (**25%**)
+
+*Preservation of perfusion to Segment IV is imperative to avoid ischemic complications.*
+:::
+
+## Portal Vein: The Key Interruption
+
+- Interruption of specimen-side portal inflow is the key to ALPPS
+- Variants mainly refer to the right side
+- Must distinguish single PV branching/trifurcation from truly abnormal configurations
+- Missing a portal branch during Stage 1 can occur in true aberrant branches (e.g., right anterior sectorial branch from the left branch)
+
+## Figure 123.5: Portal Vein Trunk Variants
+
+::: {.callout-note}
+## PV Anatomy Variations
+**(A)** Trifurcation (8%)
+**(B)** Early origin of the right-posterior (RP) branch (10%)
+**(C)** Right-anterior (RA) branch from the left (L) branch (2.7%)
+**(D)** Separate segmental branches of RA and RP (1%)
+**(E)** Complex anatomy with a single nonbifurcating PV (1%)
+:::
+
+## Hepatic Vein: Venous Drainage
+
+- Runs via right, middle, and left hepatic veins (HVs)
+- Middle and left form a common trunk in ~90% of cases
+- **Inferior Right Hepatic Vein (IRHV):** Drains segment VI; usually smaller than RHV but occasionally larger
+- **Middle Hepatic Vein (MHV):** Drains 20-30% of total liver volume (segments IVa/b, V, VIII). A dominant MHV may drain up to 50%.
+
+## Bile Duct: A Major Source of Morbidity
+
+- Biliary tree shows multiple variations in division and course
+- Precise knowledge is of **utmost importance** as biliary complications are a major source of postoperative morbidity and mortality in ALPPS
+- A single left hepatic duct is present in 98% of cases
+- Crossing right bile ducts (e.g., right-posterior entering left hepatic duct) occur in ~5% of cases
+
+## Figure 123.6 & 123.7: Biliary Variations
+
+::: {.callout-note}
+## Segment IV and Hepatic Duct Confluence
+- **Segment IV Biliary Drainage:** Highly variable. A separate Segment IV duct is present in ~57% of cases, but common trunks with Seg II or III occur frequently.
+- **Hepatic Duct Confluence:** Typical anatomy is common, but variations like a right posterior duct crossing to the left system require careful mapping to prevent catastrophic leaks or strictures.
+:::
+
+## Patient Selection: General Principles
+
+- Eligible for ALPPS on a case-by-case basis within a multidisciplinary tumor board
+- Indicated when an **insufficient FLR** (considering volume and function) is present
+- Despite being applied for any liver tumor initially, **Colorectal Liver Metastases (CRLM)** remains the indication of choice
+
+## Preoperative Workup and Volumetry
+
+- State-of-the-art imaging (multislice CT / MRI) with 3D reconstruction
+- **Total Liver Volume (TLV)** and **FLR volume** are mandatory
+- **FLR Inadequacy Cutoffs:**
+  - < 30% of TLV in healthy livers
+  - < 40% in patients with cholestasis, macrosteatosis, fibrosis, or long-course chemotherapy
+- **FLR-to-Body Weight Ratio:** < 0.5% (normal), < 0.8% (abnormal), < 1.4% (cirrhotic)
+
+## Functional Assessment: Beyond Volume
+
+- FLR volume does not necessarily reflect function (hepatocyte function might be impaired)
+- **Nuclear imaging techniques** (e.g., 99mTc-mebrofenin hepatobiliary scintigraphy - HBS) measure both volume and sectorial FLR function
+- **AMC Cutoff:** FLR function corrected for body surface area of **2.7%/min/m2** predicts PHLF
+
+## Specific Indications for ALPPS over PVE
+
+To get the best from ALPPS, restrict to patients with insufficient FLR AND at least one of:
+1. Tumor margin close to the FLR or its vascular pedicles
+2. Bilobar disease with contraindication for PVE as a single-stage strategy
+3. Need for large hypertrophy (> 65%) in an extremely small FLR
+4. HBS FLR uptake rate < 1.7/min/m2 (unlikely to reach sufficient function after PVE)
+5. **Failure of PVE/PVL** ("Rescue ALPPS")
+
+## Surgical Technique: Classic ALPPS Stage 1
+
+- **Exploration & Ultrasound:** Careful palpation and IOUS of the FLR; resect any tumors in the FLR
+- **Mobilization:** Complete mobilization; caudate lobe freed from IVC; cholecystectomy performed
+- **Portal Vein:** PV of the diseased hemiliver is divided
+- **Transection:** Total parenchymal transection up to the IVC
+
+## Figure 123.8: Preoperative Planning in CRLM
+
+::: {.callout-note}
+## Case Example: CRLM
+**(A)** Baseline CT: Irresectable disease with huge metastases in Seg I, IV-VIII.
+**(B)** Post-chemotherapy: Major response.
+**(C)** Volumetry: Insufficient FLR (only 17% of TLV).
+**(D)** Stage 2: Right trisectionectomy with bile duct resection.
+**(E)** Specimen: R0 resection. Patient alive and disease-free at 30 months.
+:::
+
+## Figure 123.9: Classic ALPPS Stage 1 Photos
+
+::: {.callout-note}
+## Step-by-Step Visuals
+**(A)** Right portal vein sectioned and sutured.
+**(B)** Liver mobilized, caudate freed from IVC. Vascular tags placed.
+**(C)** Parenchyma totally divided to IVC; MHV taken down.
+**(D)** Transcystic cholangiogram shows intact biliary tree, no leaks. Radiolucent liver partition visible.
+:::
+
+## The Challenge of Segment IV
+
+- In right trisectionectomy, Segment IV vascularization is crucial
+- Small portal branches to Seg IVa/b must be taken down
+- **Arterial supply to Seg IV MUST be preserved** to avoid ischemia, necrosis, and infection
+- Anatomic intraglissonian dissection at the umbilical groove is recommended
+
+## Figure 123.10: Glissonian Segment IV Pedicle
+
+::: {.callout-note}
+## A Risky Maneuver
+- Ligation of a glissonian Segment IV pedicle emerging from the right side of the umbilical fissure using the hanging maneuver.
+- *Current consensus:* Ligation of these specific pedicles is considered **risky and unnecessary** in right trisectionectomy ALPPS, as it threatens Segment IV viability.
+:::
+
+## Partial ALPPS: A Safer Alternative
+
+- Original ALPPS included taking down the MHV and complete transection
+- **Partial ALPPS:** Preserves the MHV and parts of surrounding tissue; incomplete parenchymal transection (~50% depth)
+- **Benefits:**
+  - Reduces risk of involuntary section of Seg IV bile ducts
+  - Reduces biliary leaks
+  - Results in similar velocity/extent of hypertrophy
+  - **Significant reduction in perioperative morbidity**
+
+## Figure 123.11: Partial ALPPS Stage 1
+
+::: {.callout-note}
+## Visualizing Partial Transection
+- About 50% splitting of liver parenchyma along the right side of the falciform ligament.
+- Light blue vascular tags mark the right main glissonian pedicle and right hepatic vein.
+- Cystic duct cannulated for transcystic hydraulic test and cholangiography.
+:::
+
+## Biliary Management in Stage 1
+
+- Perform transcystic hydraulic test, air-bubble test, or cholangiography to prevent leaks
+- **Bile duct ligation to the future specimen should NOT be performed** (leads to cholestasis, infection, leaks)
+- Manipulate the biliary tree as little as possible
+- Necessary reconstructions (e.g., hepaticojejunostomy) should be deferred to Stage 2 if possible
+
+## Ending Stage 1
+
+- Mark tumor-carrying liver vasculobiliary structures with silk ties or vessel loops (anatomy changes due to atrophy/hypertrophy)
+- Cover cut surfaces with hemostatic sheets to prevent adhesions (plastic bags are now abandoned)
+- Place two drains: one between transection lines, one in the right subphrenic space
+
+## Classic ALPPS Stage 2
+
+- Careful exploration, release adhesions, extensive washout
+- Intraabdominal swab for microbiologic analysis
+- Identify hilar structures using vascular tags
+- Resect tumor-bearing lobe (staplers for vascular/glissonian structures)
+- IOUS to check perfusion; refixation of falciform ligament
+- **Intraoperative test for bile leaks is strongly recommended**
+
+## Figure 123.14: Beginning of Stage 2
+
+::: {.callout-note}
+## Stage 2 Execution
+**(A)** Adhesions broken up; light blue tags easily recognized (RHV, glissonian pedicle, HA, cystic duct).
+**(B)** Intraparenchymal glissonian division using a vascular stapler.
+**(C)** Hypertrophied FLR seen after resection.
+**(D)** Final cholangiogram to rule out leaks.
+:::
+
+## Monosegment ALPPS: Pushing the Limits
+
+- **Definition:** Liver resection leaving a remnant of **1 single segment** (plus/minus Segment I)
+- Overcomes left and right trisectionectomy limits
+- First introduced in 2015 (Hospital Italiano de Buenos Aires) leaving only Segments I and IV
+- Challenges the basic rule requiring preservation of at least two contiguous Couinaud segments
+
+## Types of Monosegment ALPPS
+
+1. **S2 ALPPS:** Seg III resected in Stage 1 $\rightarrow$ Right trisectionectomy in Stage 2
+2. **S3 ALPPS:** Seg II resected in Stage 1 $\rightarrow$ Right trisectionectomy in Stage 2
+3. **S4 ALPPS:** Left lateral segment removed in Stage 1 $\rightarrow$ Right hepatectomy in Stage 2
+4. **S6 ALPPS:** Requires anatomic variant (IRHV draining Seg VI) $\rightarrow$ Most challenging
+
+## Figure 123.15 & 123.16: Monosegment ALPPS
+
+::: {.callout-note}
+## Extreme Hypertrophy
+**Figure 123.15 (Seg IV):** Liver partition at Cantlie's line, left lateral sectionectomy performed. FLR comprises only Seg IV and I.
+**Figure 123.16 (Seg II):** End of Stage 1 after Seg III resection. Stage 2 shows a massively hypertrophied Segment II FLR after extended right trisectionectomy.
+:::
+
+## Technical Variations: Overview
+
+To improve outcomes and reduce Stage 1 trauma, several variations have been introduced:
+- Tourniquet ALPPS
+- Microwave / Radiofrequency ALPPS
+- Hybrid ALPPS
+- Mini ALPPS
+- Laparoscopic ALPPS
+
+*Less invasive Stage 1 techniques are confirmed as an independent factor related to decreased mortality.*
+
+## Tourniquet ALPPS
+
+- Introduced by Robles et al. (Murcia, Spain)
+- Replaces transection with a **tourniquet** applied around the liver in a 1 cm parenchymal groove
+- Tourniquet passed via the hanging maneuver (in front of IVC)
+- Must be knotted tightly enough to completely occlude interlobar circulation (verified by IOUS)
+
+## Microwave and Radiofrequency ALPPS
+
+- Replaces parenchymal transection with thermal ablation
+- Creates a liver partition through a **"necrotic groove"**
+- Performed under IOUS guidance above major intrahepatic glissonian pedicles (40-60 mm depth)
+- Can be performed minimally invasively (laparoscopic or percutaneous)
+- **REBIRTH trial:** RFA-ALPPS produced significantly greater volume increase in shorter time than PVE, without increased morbidity
+
+## Hybrid ALPPS
+
+- Replaces surgical Portal Vein Ligation (PVL) with **Portal Vein Embolization (PVE)** during the interval period
+- Avoids portal pedicle dissection during Stage 1 ("no-touch" oncologic principle)
+- Facilitates Stage 2 (fewer adhesions, easier hilar identification)
+- Useful in PV variants where surgical occlusion is technically demanding
+
+## Mini ALPPS: A Paradigm Shift
+
+- Combines three concepts:
+  1. Partial parenchymal transection
+  2. Intraoperative transmesenteric PVE
+  3. "No-touch" oncologic rules (avoiding portal pedicle dissection and liver mobilization)
+- **Result:** Dramatically reduces surgical impact of Stage 1; main surgical steps shifted to Stage 2
+
+## Figure 123.17: Mini ALPPS Technique
+
+::: {.callout-note}
+## The Mini ALPPS Steps
+**(A)** Partial transection in the dome (depth 3-5 cm) to avoid MHV and Seg IV branches.
+**(B)** Intraoperative transmesenteric PVE via the inferior mesenteric vein (IMV).
+**(C)** Untouched hepatoduodenal ligament and gallbladder found at Stage 2.
+**(D)** Schematic of the technique.
+:::
+
+## Laparoscopic Mini ALPPS
+
+- Intraoperative transmesenteric PVE adapted for laparoscopy
+- Innovative technique: Laparoscopic-assisted percutaneous cannulation of the IMV using a 5-Fr introducer (Seldinger technique)
+- Adds benefits of minimally invasive surgery to the reduced trauma of Mini ALPPS
+
+## Figure 123.18: Laparoscopic Mini ALPPS
+
+::: {.callout-note}
+## Minimally Invasive Execution
+**(A)** Partial transection without right liver mobilization.
+**(B)** IMV individualized near the ligament of Treitz.
+**(C)** Laparoscopic-assisted percutaneous cannulation of IMV.
+**(D)** Trocar disposition and percutaneous sheath insertion.
+**(E)** Interval CT showing FLR hypertrophy and embolization material.
+:::
+
+## Table 123.1: Main Surgical Characteristics of Stage 1
+
+| Technique | PV Occlusion | Parenchymal Interruption | Liver Mobilization |
+|---|---|---|---|
+| **Classic** | Ligation/division | Complete transection | Full |
+| **Tourniquet** | Ligation/division | Tourniquet | Anterior approach |
+| **Hybrid** | Interval PVE | Partial transection | Anterior approach |
+| **Partial** | Ligation/division | Partial transection | Anterior approach |
+| **MWA/RFA** | Ligation/division | Thermal ablation | Anterior approach |
+| **Mini** | IO transmesenteric PVE | Partial transection | Anterior approach |
+
+## Interval Management: Volume vs. Function
+
+- Patient management between stages is key
+- Remnant volume is a predictor of PHLF, but **volume may increase rapidly and precede functional recovery**
+- Initial edema and hepatocyte immaturity occur in the first 2 weeks
+- **Discrepancy:** Rapid volume increase does not equal immediate functional sufficiency
+- **Conclusion:** Must assess liver *function* in addition to volume
+
+## Assessing FLR Function
+
+- **Hepatobiliary Scintigraphy (HBS)** combined with SPECT-CT offers quantitative segmental liver function
+- **AMC Cutoff:** Wait until FLR uptake rate reaches **2.7%/min/m2**
+- **HIBA Index:** Modern HBS assessment cutoff of **> 15%**
+- **Kinetic Growth Rate (KGR):** A KGR < 4.1% per day predicts PHLF after Stage 2
+
+## Figure 123.19: Perioperative FLR Assessment
+
+::: {.callout-note}
+## Merging Volume and Function
+**(A)** Baseline CT volumetry of Seg II FLR.
+**(B)** Interval CT showing 170% hypertrophy at Day 6.
+**(C)** Merging CT with 99mTc-mebrofenin HBS using SPECT.
+**(D)** Provides accurate 3D regional distribution of liver function, preventing futile Stage 2 operations.
+:::
+
+## Timing of Stage 2
+
+- The initial "1-week interval dogma" has been penalized with high complication rates
+- **Delay or abandon Stage 2 if:**
+  - Compromised clinical status
+  - Active complications
+  - Abnormal liver function tests
+  - MELD score > 10
+- Patients can be discharged home and readmitted once FLR sufficiency and low risk score are achieved
+
+## The ALPPS Risk Score
+
+- Created in 2016 from the ALPPS Registry to predict 90-day/in-hospital mortality
+- **Pre-Stage 2 Model Variables:**
+  - Pre-Stage 1 score
+  - Interstage complications $\ge$ 3b
+  - Serum bilirubin pre-Stage 2
+  - Serum creatinine pre-Stage 2
+- Predicts futility risk (5% to 50% based on scores 3.9 to 6.9)
+
+## Figure 123.20: Selection and Management Flowchart
+
+::: {.callout-note}
+## Algorithm for ALPPS
+1. **Indication:** Insufficient FLR + specific criteria (close margin, bilobar, PVE failure).
+2. **Stage 1:** Perform ALPPS.
+3. **Day 6 Assessment:** CT/MRI Volumetry + HBS.
+4. **Decision:**
+   - If HIBA-i $\ge$ 15% / AMC-i $\ge$ 2.7 $\rightarrow$ Proceed to Stage 2 (if clinical condition is good, MELD < 10).
+   - If functional criteria not met $\rightarrow$ Delay surgery and reassess weekly.
+:::
+
+## ALPPS for Colorectal Liver Metastases (CRLM)
+
+- **Best-established indication** (almost two-thirds of registry cases)
+- Morbidity/mortality comparable to conventional major hepatectomies
+- 3-year OS and DFS: 50% and 13% respectively
+- **LIGRO Trial:** Randomized trial comparing ALPPS vs. PVL/PVE-TSH
+
+## The LIGRO Trial Results
+
+- **Resectability:** Higher in ALPPS (92% vs. 57%)
+- **Safety:** Severe complications (43% vs 43%) and 90-day mortality (8.3% vs 6.1%) were statistically similar
+- **Rescue:** ALPPS rescued 57% of failures in the TSH group
+- **Survival:** Improved median survival for ALPPS (46 vs. 26 months)
+
+## ALPPS for Hepatocellular Carcinoma (HCC)
+
+- Challenging due to underlying cirrhosis and portal hypertension
+- Initial registry data showed 31% 90-day mortality
+- **Hong Kong University criteria** improved safety (6.5% mortality):
+  - FLR < 30%, Child A, ICG R15 < 20%, Platelets > 100k
+- Hypertrophy is somewhat less in cirrhotic livers, but complete transection yields faster hypertrophy than partial ALPPS
+- **Anterior approach** with hanging maneuver is feasible and safe
+
+## ALPPS for Intrahepatic Cholangiocarcinoma (ICC)
+
+- Early registry data showed high mortality (13-15%)
+- Recent large single-center and multicenter studies show improved safety (7-8.3% mortality)
+- 97% resectability rate, 85.3% R0 rate
+- Better survival than chemotherapy for otherwise irresectable solitary ICC
+- **Threshold:** FLR per body weight of 0.8% (or 40% TLV) recommended before Stage 2
+
+## ALPPS for Perihilar Cholangiocarcinoma (PHC)
+
+- Considered the **"Achilles' heel"** of ALPPS indications
+- High risk due to devascularized parenchyma + infected bile/leaks
+- 2017 case-matched analysis showed devastating 48% mortality vs 24% in PVE controls
+- High mortality largely driven by the **initial learning curve** and use of Classic ALPPS
+- **Mini ALPPS and Hybrid ALPPS** avoid hilar dissection in Stage 1 and show promise
+- Widespread use outside expert high-volume centers is **not recommended**
+
+## Figure 123.21: Classic ALPPS for ICC
+
+::: {.callout-note}
+## Long-Term Success in ICC
+**(A/B)** Baseline CT: Small FLR, tumor compromising biliary bifurcation.
+**(C)** Interval CT: FLR hypertrophy.
+**(D)** Stage 2: Ischemic suffering of Seg IV (arrow), vascular tag marking RHV.
+**(E/F)** Completion of right trisectionectomy and R0 specimen.
+*Patient alive and recurrence-free > 10 years after ALPPS.*
+:::
+
+## Summary: A Decade of ALPPS
+
+- Over 10 years since the first procedure by Hans Jürgen Schlitt
+- Early enthusiasm was hampered by high morbidity/mortality
+- Continuous efforts improved:
+  - Patient selection
+  - Timing of Stage 2
+  - Operative technique (minimizing Stage 1 trauma)
+- ALPPS is now a **milestone in HPB surgery** for accelerating liver hypertrophy
+
+## Summary: The Right Tool for the Right Patient
+
+- ALPPS does **not** replace PVE or standard TSH
+- It allows tumor resection in selected patients with no other surgical options
+- **Benchmark cases** (younger age, high-volume center, CRLM) yield standard outcome measures
+- Technical refinements may soon enable safer use in challenging entities like HCC and PHC
+- ALPPS has earned its place in the armamentarium of experienced hepatobiliary surgeons

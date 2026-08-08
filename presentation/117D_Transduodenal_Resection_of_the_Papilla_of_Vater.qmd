@@ -1,0 +1,467 @@
+---
+title: "Transduodenal Resection of the Papilla of Vater"
+format:
+  revealjs
+---
+
+
+## Learning Objectives
+
+By the end of this presentation, the learner should be able to:
+
+1. Describe the anatomy of the ampulla of Vater
+2. Understand the premalignant nature of ampullary adenomas
+3. Compare management options: pancreaticoduodenectomy (PD), transduodenal excision (TDE), and endoscopic ampullectomy
+4. Interpret outcomes and recurrence data for each approach
+5. Understand the step-by-step technique of transduodenal resection
+6. Recognize when PD should be considered over local excision
+
+## Introduction: The Ampulla of Vater
+
+- A papillary structure located in the **second portion of the duodenum**
+- The **common bile duct** and the **pancreatic duct** converge just before draining into the duodenal lumen
+- First described by **Samuel Collins in 1685**
+- Later described by **Abraham Vater in 1720**
+
+## Historical Background
+
+| Milestone | Year | Contributor |
+|---|---|---|
+| First description of the ampulla | 1685 | Samuel Collins |
+| Classic anatomic description | 1720 | Abraham Vater |
+| Autopsy studies identifying ampullary adenomas | 1930s–1940s | Shapiro & Lifvendahl; Baker & Caldwell |
+| Endoscopic ampullectomy first reported | 1980s | Ponchon et al.; Binmoeller et al. |
+
+## Anatomy of the Ampulla (Figure 117D.1)
+
+- Papillary structure in the second portion of the duodenum
+- Convergence point of the biliary and pancreatic ductal systems
+- Forms the **hepatopancreatic ampulla** before opening at the **major duodenal papilla**
+
+**Key relationships (Fig. 117D.1):**
+- Bile duct and pancreatic duct join within the papilla
+- Drains into the duodenal lumen through the major duodenal papilla
+- Surrounded by pancreatic parenchyma proximally
+
+## Figure 117D.1: Anatomic Diagram
+
+**Structures labeled in the figure:**
+
+| Structure | Location/Role |
+|---|---|
+| Bile duct | Converges with pancreatic duct |
+| Pancreatic duct | Converges with bile duct |
+| Hepatopancreatic ampulla | Combined channel before duodenal opening |
+| Major duodenal papilla | Opening into duodenal lumen |
+| Duodenum | Second portion harbors the papilla |
+| Pancreas | Surrounds the ductal confluence |
+
+## Benign Neoplasms of the Ampulla
+
+- Most common benign neoplasms: **villous and tubulovillous adenomas**
+- Autopsy prevalence: **0.04% to 0.12%** of individuals (studies from 1930s–1940s)
+- Classified as benign tumors BUT:
+  - They are truly **premalignant lesions**
+  - Have the potential to transform into **adenocarcinomas**
+
+## Premalignant Potential: Key Facts
+
+- Ampullary adenomas harbor **occult dysplasia or adenocarcinoma in as many as 60% of cases**
+- This high rate of occult malignancy is a central consideration in management
+- Complete resection is the **only way** to ensure the absence of:
+  - High-grade dysplasia
+  - Occult adenocarcinoma within an ampullary adenoma
+
+## Patient Populations
+
+**Sporadic adenomas:**
+- Typically present **later in life**
+
+**Polyposis syndromes:**
+- Familial adenomatous polyposis syndrome (FAP)
+- MUTYH-associated polyposis syndrome
+- Present **much earlier in life**
+
+## Clinical Presentation
+
+- **30% to 50%** of ampullary neoplasms present with **painless jaundice**
+- Increasing use of screening protocols has identified:
+  - An increasing number of patients with **asymptomatic** ampullary neoplasms
+- Presentation depends on:
+  - Tumor size
+  - Degree of ductal obstruction
+  - Sporadic vs. syndromic setting
+
+## Diagnostic Modalities
+
+The diagnostic modalities of choice:
+
+1. **Duodenoscopy** — direct visualization and biopsy
+2. **Endoscopic ultrasound (EUS)** — assessment of depth and regional nodes
+3. **Endoscopic retrograde cholangiopancreatography (ERCP)** — ductal anatomy and tissue sampling
+
+## Diagnostic Challenge: Biopsy Limitations
+
+- Distinguishing between **adenoma and adenocarcinoma** is extremely unreliable
+- **False negative rate** for ampullary biopsy: **25% to 60%**
+- Implication:
+  - A benign biopsy does NOT exclude occult malignancy
+  - Final pathology after complete resection is the gold standard
+
+## Biopsy Accuracy Summary
+
+| Parameter | Value |
+|---|---|
+| False-negative rate of ampullary biopsy | 25%–60% |
+| Occult dysplasia/adenocarcinoma in adenomas | Up to 60% |
+| High-grade dysplasia associated with invasive carcinoma in final specimen | 50%–60% |
+
+## Pancreaticoduodenectomy for Ampullary Adenocarcinoma
+
+PD is generally accepted as the **operation of choice** for ampullary adenocarcinoma because of:
+
+- Higher **margin-negative resection rate**
+- Resultant **lower recurrence rates**
+- Adequate **lymph node staging**
+- Elimination of the need for **surveillance endoscopy**
+
+## Survival After PD for Ampullary Adenocarcinoma
+
+- Survival is **better for ampullary adenocarcinoma** than for any of the other periampullary adenocarcinomas
+- Survival is **largely dependent on lymph node status**
+
+| Lymph Node Status | Five-Year Survival |
+|---|---|
+| Node-negative disease | 64% to 80% |
+| Node-positive disease | 17% to 50% |
+
+## Lymph Node Metastasis Rates
+
+- Rate of lymph node metastases correlates with T stage:
+
+| Pathologic T Stage | Lymph Node Metastasis Rate |
+|---|---|
+| pT1 ampullary adenocarcinoma | 6% to 10% |
+| pT2 and pT3 tumors | Approaches 50% |
+
+- This supports formal resection with lymphadenectomy for invasive disease
+
+## Management of Benign Ampullary Neoplasms: The Controversy
+
+- Optimal management of **benign** ampullary neoplasms remains **controversial**
+- Three main approaches:
+  1. Pancreaticoduodenectomy (PD)
+  2. Transduodenal excision (TDE)
+  3. Endoscopic ampullectomy
+- Debate centers on balancing:
+  - Oncologic completeness
+  - Operative morbidity and mortality
+  - Recurrence risk and surveillance burden
+
+## Argument for PD in All Cases
+
+Some have argued that PD should be performed in all cases because:
+
+- Complete resection is the **only way** to ensure absence of high-grade dysplasia or occult adenocarcinoma
+- Higher recurrence rates after local excision are cited as supporting evidence
+
+## Recurrence After Transduodenal Excision
+
+| Series | Recurrence After TDE |
+|---|---|
+| Farnell et al. (villous adenomas) | 32% at 5 years; 43% at 10 years |
+| Galandiuk et al. | 46% recurrence rate |
+
+- These relatively high recurrence rates are cited by proponents of PD
+
+## Argument for Transduodenal Excision
+
+Others suggest TDE is adequate because it is associated with:
+
+- **Reduced operative time**
+- **Reduced inpatient postoperative stay**
+- **Decreased morbidity and mortality rates** when compared with PD
+- Local recurrences, when benign, can typically be **salvaged with re-excision**
+
+## Comparison: PD vs. TDE
+
+| Feature | Pancreaticoduodenectomy | Transduodenal Excision |
+|---|---|---|
+| Oncologic completeness | Excellent (R0, lymph nodes) | Limited |
+| Operative time | Longer | Shorter |
+| Hospital stay | Longer | Shorter |
+| Morbidity/mortality | Higher | Lower |
+| Recurrence risk | Lower | Higher (32%–46%) |
+| Salvage of benign recurrence | N/A | Re-excision possible |
+| Surveillance endoscopy | Not needed | Required |
+
+## Endoscopic Ampullectomy: Historical Experience
+
+- Increasing role over the past **30 years** in both diagnosis and management
+- First reported in the literature in the **1980s**
+- Initial experiences reported:
+  - Periprocedural complication rate: ~**25%**
+  - Recurrence rate: approximately **25% to 50%**
+
+## Endoscopic Ampullectomy: Recent Outcomes
+
+More recent series have reported improved results:
+
+| Outcome | Recent Series |
+|---|---|
+| Periprocedural complication rate | ~20% |
+| Recurrence rate | 10% to 30% |
+
+- Recurrences after endoscopic resection can typically be **salvaged with repeat endoscopic resection**
+
+## En-Bloc vs. Piecemeal Endoscopic Resection
+
+- Technique of endoscopic resection affects recurrence:
+
+| Resection Technique | Recurrence Rate |
+|---|---|
+| Piecemeal excision | 54.3% |
+| En-bloc resection | 26.2% |
+
+- **En-bloc resection is preferred** when technically feasible
+
+## Summary of Recurrence Data by Approach
+
+| Approach | Recurrence Rate |
+|---|---|
+| TDE (Farnell) | 32% (5 yr), 43% (10 yr) |
+| TDE (Galandiuk) | 46% |
+| Endoscopic (early, 1980s) | 25%–50% |
+| Endoscopic (recent) | 10%–30% |
+| Endoscopic piecemeal | 54.3% |
+| Endoscopic en-bloc | 26.2% |
+
+## High-Grade Dysplasia: A Critical Finding
+
+- The presence of **high-grade dysplasia** on pathology after TDE or surgical ampullectomy is associated with:
+  - **Invasive adenocarcinoma in the final specimen in 50% to 60% of cases**
+- This is a pivotal finding that should prompt consideration of definitive oncologic resection
+
+## Findings Suggestive of Underlying Malignancy
+
+Endoscopic findings suggestive (but NOT conclusive) of malignancy:
+
+- **Induration** of the papilla
+- **Rigidity** of the papilla on probing
+- **Ulceration**
+- **Submucosal mass effect**
+
+> These findings raise suspicion but do not definitively establish malignancy.
+
+## When to Consider Pancreaticoduodenectomy
+
+Given the limitations of biopsy and local excision:
+
+- **PD should be considered if:**
+  - High-grade dysplasia is identified after local/endoscopic resection
+  - Adenocarcinoma is identified
+- PD provides definitive oncologic resection with lymph node staging
+
+## Operative Technique: Overview
+
+The transduodenal excision technique proceeds through these steps:
+
+1. Laparotomy and abdominal exploration
+2. Hepatic flexure mobilization and Kocher maneuver
+3. Lateral duodenotomy
+4. Identification of the bile duct (± cholecystectomy with trans-cystic cholangiocatheter)
+5. Excision of the ampulla with duct-to-mucosa suturing
+6. Approximation of bile duct and pancreatic duct to duodenal mucosa
+7. Closure of mucosal defect and duodenotomy
+
+## Step 1: Laparotomy and Exploration
+
+- **Laparotomy** is performed
+- A thorough **abdominal exploration** is performed to ensure there is no metastatic disease
+- If **no metastatic disease** is identified, proceed with the planned resection
+
+## Step 2: Mobilization and Kocher Maneuver
+
+- The **hepatic flexure of the colon** is mobilized
+- A **generous Kocher maneuver** is performed:
+  - To the level of the **aorta**
+  - Elevates the second portion of the duodenum from the retroperitoneum
+
+## Step 3: Duodenotomy (Figure 117D.2A)
+
+- **Stay sutures** are placed
+- A **lateral duodenotomy** is performed using **electrocautery**
+- The lateral orientation facilitates exposure of the ampulla medially
+
+## Step 4: Facilitating Bile Duct Identification
+
+To facilitate identification of the bile duct:
+
+- A **cholecystectomy** may be performed
+- Placement of a **trans-cystic cholangiocatheter**:
+  - Passed into the common bile duct
+  - Out through the ampulla
+- This can be **very helpful when the bile duct is not dilated**
+
+## Step 5: Excision of the Ampulla (Figure 117D.2B)
+
+- **Needle-point tip electrocautery** is used to excise the ampulla
+- Excision begins at the **11 o'clock position**
+- Continues down through the duodenal mucosa until the **bile duct is identified**
+- A **5-0 absorbable monofilament suture** is placed:
+  - Full thickness through the bile duct
+  - Out through the duodenum
+  - To oppose the bile duct wall to duodenal mucosa
+
+## Circumferential Excision with Interrupted Sutures
+
+- The dissection is continued in a **clockwise fashion**
+- **Interrupted sutures** are placed to approximate:
+  - The bile duct to the duodenal mucosa
+- Sutures are placed but **not tied** until excision is complete (per Figure 117D.2B)
+
+## Identification of the Pancreatic Duct
+
+- The pancreatic duct is encountered at approximately the **2 o'clock position**
+- It is sutured to the duodenum in the **same manner** as described for the bile duct
+- Key orientation landmarks:
+  - Bile duct: typically at **11 o'clock**
+  - Pancreatic duct: typically at **2 o'clock**
+
+## If the Pancreatic Duct Cannot Be Identified
+
+- **Intravenous secretin** can be administered
+- This facilitates:
+  - Pancreatic secretions
+  - Subsequent identification of the pancreatic duct orifice
+
+## Completing the Excision
+
+- The dissection is continued **circumferentially** until the mass is completely excised
+- The specimen should be **carefully oriented for the pathologist**
+- This facilitates **frozen-section examination** of margins
+
+## Duct Approximation (Figure 117D.2C)
+
+- Once the ampulla has been excised:
+  - The opposing walls of the **pancreatic duct** and the **common bile duct** are approximated
+- Technique:
+  - **Interrupted monofilament absorbable sutures**
+
+## Completing the Anastomosis (Figure 117D.2D)
+
+- All sutures are **tied**
+- This fully approximates:
+  - The bile duct to the medial duodenal wall
+  - The pancreatic duct to the medial duodenal wall
+- Result: separate, patent neo-orifices for bile and pancreatic drainage
+
+## Figure 117D.2: Step-by-Step Technique Summary
+
+| Panel | Step |
+|---|---|
+| A | Generous Kocher maneuver; stay sutures placed; lateral duodenotomy with electrocautery |
+| B | Ampulla excised along dotted margin; bile duct (11 o'clock) and pancreatic duct (2 o'clock) identified separately; interrupted sutures placed but not tied |
+| C | Opposing walls of bile duct and pancreatic duct approximated with interrupted absorbable monofilament sutures |
+| D | All sutures tied, approximating bile duct and pancreatic duct walls to duodenal mucosa |
+
+## Closure of the Mucosal Defect (Figure 117D.3)
+
+- There is typically a **mucosal defect adjacent to the anastomosis**
+- Reason: the duodenal mucosal defect is typically **larger** than the circumference of the bile duct and pancreatic ducts
+- This defect is closed with **interrupted sutures**
+
+## Figure 117D.3: Completed Ampullectomy
+
+**Features of the completed reconstruction:**
+
+- Bile duct approximated to duodenal mucosa (interrupted absorbable monofilament sutures)
+- Pancreatic duct approximated to duodenal mucosa
+- Resultant mucosal defect closed with interrupted sutures
+- Separate neo-orifices for each duct
+
+## Duodenotomy Closure
+
+- The lateral duodenotomy is closed in a **transverse fashion**
+- Purpose: to **avoid narrowing the duodenal lumen**
+- This is a standard principle when closing longitudinal enterotomies
+
+## Adjunctive Measures
+
+- A **pedicled omental flap** can be placed over the closure
+- A **drain** can be left at the discretion of the operating surgeon
+- These measures may help:
+  - Protect the repair
+  - Control any postoperative leak
+
+## Intraoperative Decision Points
+
+| Decision Point | Consideration |
+|---|---|
+| Metastatic disease on exploration | Abort resection if present |
+| Non-dilated bile duct | Consider cholecystectomy + trans-cystic catheter |
+| Pancreatic duct not identified | IV secretin to stimulate secretion |
+| Specimen orientation | Essential for frozen-section margin assessment |
+| High-grade dysplasia / adenocarcinoma on frozen | Consider conversion to PD |
+
+## Technical Pearls
+
+- Begin excision at **11 o'clock** to find the bile duct first
+- Use **5-0 absorbable monofilament** for duct-to-mucosa sutures
+- Place sutures **as you dissect** (clockwise), tie at the end
+- Expect the pancreatic duct at **2 o'clock**
+- Close duodenotomy **transversely** to preserve lumen caliber
+- Orient the specimen carefully for the pathologist
+
+## Post-Resection Surveillance and Salvage
+
+- Local recurrences after TDE (when benign):
+  - Can typically be salvaged with **re-excision**
+- Recurrences after endoscopic ampullectomy:
+  - Can typically be salvaged with **repeat endoscopic resection**
+- Surveillance endoscopy remains necessary after local approaches (unlike PD)
+
+## Management Algorithm
+
+1. **Ampullary neoplasm identified** → Duodenoscopy, EUS, ERCP
+2. **Adenocarcinoma confirmed or suspected** → Pancreaticoduodenectomy
+3. **Benign adenoma (no HGD)** → Consider endoscopic ampullectomy or TDE
+4. **High-grade dysplasia found** → Consider PD (50%–60% risk of invasive carcinoma)
+5. **Benign recurrence** → Salvage re-excision (surgical or endoscopic)
+
+## Conclusion: Authors' Position
+
+- The management of ampullary neoplasms has evolved over the last **30 years**
+- Morbidity and mortality after PD have **dramatically improved** in the modern era
+- The authors **favor PD** in the management of ampullary neoplasms given:
+  - The high incidence of **high-grade dysplasia**
+  - The high incidence of **occult adenocarcinoma**
+- **TDE can still be performed** in certain instances where PD cannot be performed
+
+## Key Takeaways
+
+- Ampullary adenomas are **premalignant**, with occult dysplasia/carcinoma in up to **60%**
+- Biopsy false-negative rates are high (**25%–60%**)
+- PD is the operation of choice for **ampullary adenocarcinoma**:
+  - 5-year survival: **64%–80%** node-negative; **17%–50%** node-positive
+- TDE has lower morbidity but higher recurrence (**32%–46%**)
+- Endoscopic ampullectomy recurrence: **10%–30%** in recent series; en-bloc superior to piecemeal
+- TDE technique centers on careful circumferential excision with duct-to-mucosa reconstruction
+
+## Summary of the Operative Technique
+
+1. Laparotomy → exclude metastatic disease
+2. Mobilize hepatic flexure → generous Kocher maneuver to the aorta
+3. Stay sutures → lateral duodenotomy with electrocautery
+4. ± Cholecystectomy with trans-cystic cholangiocatheter
+5. Needle-point electrocautery excision starting at 11 o'clock
+6. Interrupted 5-0 absorbable monofilament duct-to-mucosa sutures (bile duct, then pancreatic duct at 2 o'clock)
+7. Approximate duct walls → tie sutures → close mucosal defect
+8. Transverse duodenotomy closure ± omental flap ± drain
+
+## Questions and Discussion
+
+- How should we select patients between endoscopic ampullectomy, TDE, and PD?
+- What is the role of routine frozen section during TDE?
+- When is conversion to PD mandatory intraoperatively?
+- How should surveillance be structured after local excision?

@@ -1,12 +1,18 @@
 # 104 Liver and Pancreas Transplantation Immunobiology
 
 
-```{r}
-#| echo: false
-#| results: asis
+::: {.panel-tabset}
 
-slides_iframe(600)
-```
+## Chapter 
+
+{{< reveal 104_Liver_and_Pancreas_Transplantation_Immunobiology >}}
+
+## Immunology Surgery Oxford
+
+{{< reveal Extras/transplant/immunology_transplant_surg_oxford >}}
+
+:::
+
 
 Generated with Deepseek. 
 

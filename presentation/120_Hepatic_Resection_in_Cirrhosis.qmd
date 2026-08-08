@@ -1,0 +1,827 @@
+---
+title: "Hepatic Resection in Cirrhosis"
+format:
+  revealjs
+---
+
+
+## Learning Objectives
+
+By the end of this presentation, you will be able to:
+
+- Understand the role of liver resection for HCC in cirrhotic patients
+- Apply **Makuuchi's criteria** for determining surgical indications
+- Describe perioperative management of cirrhosis and portal hypertension
+- Explain key surgical techniques: inflow occlusion, IOUS, anatomic resection
+- Compare surgical devices for liver parenchyma division
+- Discuss laparoscopic approaches and advanced maneuvers
+
+---
+
+# (Section divider handled by slide titles below)
+
+## Introduction — Local Tumor Control
+
+- **Local tumor control** is the most important consideration in treating hepatocellular carcinoma (HCC)
+- HCC is the most common diagnosis associated with hepatic resection in the setting of **cirrhosis**
+- Liver resection can **completely remove cancerous tissues**
+- Theoretically regarded as a **curative treatment** for HCC
+
+## The Cirrhotic Liver — A Dual Problem
+
+::: {.columns}
+::: {.column width="55%"}
+- Patients with HCC often have **injured liver tissue or cirrhosis**
+- This factor must be considered when deciding therapeutic strategy
+- Two competing priorities:
+  1. Complete tumor removal
+  2. Preservation of liver function
+:::
+::: {.column width="45%"}
+::: {.callout-note}
+## Figure 120.1 — Appearance of the Cirrhotic Liver
+**(A)** Gross appearance of the cirrhotic liver — nodular surface
+**(B)** Cut surface — regenerative nodules surrounded by fibrous septa
+:::
+:::
+:::
+
+## Liver Transplantation — The Ideal Treatment
+
+- Liver transplantation is an **ideal treatment for early-stage HCC**
+- Especially for lesions meeting:
+  - **Milan criteria**, and/or
+  - Other expanded criteria for liver transplantation
+
+**Why transplantation is attractive:**
+
+- Removes **all injured liver tissues** with potential for carcinogenesis
+- Removes the **existing HCC** simultaneously
+
+## The Graft Shortage Problem
+
+- A **severe graft shortage** limits transplantation
+- Hepatic surgeons are sometimes forced to select **liver resection as a first-line therapeutic strategy** for HCC rather than transplantation
+- The **safety of liver resection** has been established:
+  - Present mortality rate: **2%–5%**
+  - Even in patients with **liver cirrhosis**
+
+## Second Priority — Preserving Liver Function
+
+- **Prevention of further deterioration in liver function** is the second priority in HCC treatment
+- Liver resection can be associated with **significant blood loss**
+- Remains **technically demanding**
+
+**To prevent fatal complications (e.g., liver failure):**
+
+- Careful **patient selection**
+- Meticulous **perioperative management**
+
+## Avoiding Excessive Resection
+
+- Extensive removal of **noncancerous liver parenchyma should be avoided** as much as possible
+- Accurate evaluation of:
+  - Liver volume **to be removed**
+  - Liver volume **to be preserved**
+- This is critical when deciding on an appropriate procedure
+
+## Scope of This Chapter
+
+General aspects of liver resection for HCC in patients with cirrhosis:
+
+| Domain | Focus |
+|---|---|
+| Surgical indication | Liver function, tumor factors, portal hypertension |
+| Perioperative management | Diuretics, portal hypertension management |
+| **Surgical techniques** | **Special emphasis of this chapter** |
+
+---
+
+## Surgical Indication — Three Pillars
+
+Surgical indication for hepatectomy in cirrhotic patients rests on assessment of:
+
+1. **Liver functional reserve**
+2. **Tumor-related factors**
+3. **Portal hypertension**
+
+---
+
+## Liver Functional Reserve — ICG R15
+
+- In **Eastern countries**, the **indocyanine green retention rate at 15 minutes (ICG R15)** is regarded as an important tool
+- Used for accurately assessing **what liver volume to remove**
+- Especially in **Japan**, criteria consisting of:
+  - ICG R15 value
+  - Ascites
+  - Jaundice
+
+...known as **"Makuuchi's criteria"** — widely used for decisions on surgical indications and to estimate tolerable resection volumes in cirrhotic patients
+
+## Makuuchi's Criteria — Absolute Contraindications
+
+**Liver resection is absolutely contraindicated when:**
+
+- **Uncontrollable ascites** even after use of diuretics, AND/OR
+- Serum total bilirubin level **constantly higher than 2.0 mg/dL**
+
+## Makuuchi's Criteria — Mildly Elevated Bilirubin
+
+When serum total bilirubin level is **1.1–1.9 mg/dL**:
+
+- Only **tumor enucleation** or
+- **Resection of a small part of the liver** is possible
+
+When serum total bilirubin level is **≤ 1.0 mg/dL**:
+
+- The surgical procedure can be determined based on the **ICG R15 value**
+
+## ICG R15-Based Decision — Normal Liver
+
+If ICG R15 is **normal (< 10%)**:
+
+- A **major hepatectomy** may be feasible, including:
+  - Right hemihepatectomy
+  - Left trisegmentectomy
+  - Central bisegmentectomy
+
+## ICG R15 — Slightly Injured Liver (10%–19%)
+
+If ICG R15 is **10%–19%**:
+
+- A **one-third resection** can be performed:
+  - Left hemihepatectomy, OR
+  - Right lateral sectionectomy, OR
+  - Paramedian sectionectomy
+- **Major hepatectomy would be associated with high risk**
+
+## ICG R15 — Moderately Injured Liver (20%–29%)
+
+If ICG R15 is **20%–29%**:
+
+- A **one-sixth resection** is possible, corresponding to:
+  - A **left lateral section**, OR
+  - **One Couinaud segment**
+
+## ICG R15 — Severely Injured Liver (> 30%)
+
+If ICG R15 is **more than 30%**:
+
+- Only a **limited resection** can be considered
+
+::: {.callout-important}
+## Key Principle
+As liver function deteriorates (rising ICG R15), the tolerable resection volume shrinks progressively: major hepatectomy → one-third → one-sixth → limited resection.
+:::
+
+## Summary Table — Makuuchi's Criteria
+
+| Ascites | Total Bilirubin | ICG R15 | Allowable Resection |
+|---|---|---|---|
+| Not controlled | Any | Any | **Not indicated for hepatectomy** |
+| None / controlled | ≥ 2.0 mg/dL | — | **Not indicated for hepatectomy** |
+| None / controlled | 1.6–1.9 mg/dL | — | Enucleation |
+| None / controlled | 1.1–1.5 mg/dL | — | Enucleation / limited |
+| None / controlled | ≤ 1.0 mg/dL | Normal (< 10%) | Major hepatectomy (trisectoriectomy, bisectoriectomy, left hepatectomy) |
+| None / controlled | ≤ 1.0 mg/dL | 10%–19% | Monosectoriectomy (segmentectomy) |
+| None / controlled | ≤ 1.0 mg/dL | 20%–29% | Limited resection / enucleation |
+| None / controlled | ≤ 1.0 mg/dL | 30%–39% | Limited resection / enucleation |
+| None / controlled | ≤ 1.0 mg/dL | ≥ 40% | Limited resection / enucleation |
+
+*(Recreated from Figure 120.2 decision tree; note: "sectionectomy" is now preferred for tri-, bi-, mono-sectionectomy.)*
+
+## Figure 120.2 — Decision Tree for Operative Procedures
+
+::: {.callout-note}
+## Makuuchi's Decision Tree (Makuuchi M, Kosuge T, Takayama T, et al. Semin Surg Oncol. 1993;9:298–304)
+**Step 1:** Ascites → Not controlled = **No hepatectomy**
+**Step 2:** Total bilirubin:
+ - ≥ 2.0 mg/dL → Not indicated
+ - 1.6–1.9 mg/dL → Enucleation
+ - 1.1–1.5 mg/dL → Enucleation (K values 0.15/0.11/0.08/0.06 guide safe resection rate)
+ - Normal → proceed to ICG R15
+**Step 3:** ICG R15:
+ - < 10% → Trisectoriectomy / bisectoriectomy / left hepatectomy
+ - 10%–19% → Monosectoriectomy / segmentectomy
+ - 20%–29% → Limited resection
+ - ≥ 30% → Enucleation / limited resection
+:::
+
+## Validation of Makuuchi's Criteria — Torzilli et al.
+
+- Torzilli and colleagues applied the criteria to **107 consecutive patients** (59.8% cirrhosis) undergoing liver resection for HCC
+
+**Results:**
+
+| Outcome | Rate |
+|---|---|
+| Mortality | **0%** |
+| Morbidity | **26.2%** |
+
+## ICG R15 as a Predictor of Mortality
+
+- A study of **127 patients with HCC** investigated the relationship between preoperative liver function and postoperative complications
+- The **ICG R15 value was confirmed to be the most significant factor** for prediction of mortality
+
+**Recent refinements:**
+
+- Refined and expanded Makuuchi's criteria have been proposed
+- Incorporate the **accurate estimation of remnant liver volume**
+
+---
+
+## Tumor-Related Factors — Single and Small HCC
+
+- In general, a **single and small HCC** is a **good indication for resection**
+
+## Tumor-Related Factors — Multifocal and Large Lesions
+
+- **Multifocal and large lesions** can also be treated by resection
+- Provides **satisfactory long-term outcomes**
+
+## Advanced HCC with Vascular Invasion
+
+- Liver resection can offer **acceptable results** for advanced HCC with vascular invasion
+- Compared with the use of a **molecular targeted agent (Sorafenib)**
+- Sorafenib is recommended in the treatment algorithm of the **Barcelona Clinic Liver Cancer (BCLC) group**
+
+## The BCLC Controversy
+
+- The BCLC algorithm is considered the **treatment standard worldwide**
+- However, **several investigators have objected** to this algorithm
+- Especially regarding the **extent of restrictions placed on surgical indications**
+- Consequently, **several additional treatment algorithms** are now available (e.g., APASL, HKLC, JSH guidelines)
+
+---
+
+## Portal Hypertension — Definition and Diagnosis
+
+- Usually defined as a **hepatic venous pressure gradient (HVPG) ≥ 10 mm Hg**
+- Can be **practically diagnosed** by the presence of:
+  - **Esophageal varices**, AND/OR
+  - **Platelet count < 100,000/mL** in association with **splenomegaly**
+
+## Portal Hypertension — The Bruix Report (1996)
+
+- Bruix and colleagues reported that liver resection for HCC in patients with portal hypertension led to:
+  - A **high incidence of postoperative liver decompensation of as much as 73%**
+- Their group later published a **meta-analysis** comparing prognosis after hepatectomy **with and without portal hypertension**
+- Conclusion: portal hypertension **increases the risk for mortality and clinical decompensation** after surgery for HCC
+
+## Guideline Position on Portal Hypertension
+
+- Based on these results:
+  - **American** and **European** guidelines for HCC management suggested that the presence of portal hypertension **may be a contraindication for liver resection**
+- This recommendation is now **widely accepted worldwide**
+
+## Counter-Evidence — Satisfactory Outcomes
+
+- Indeed, prognosis for patients **with** portal hypertension after hepatectomy is considered relatively **poor** compared with those **without** portal hypertension
+- However, **several investigators have reported satisfactory long-term outcomes** after hepatectomy for patients with portal hypertension **who were not eligible for liver transplantation**
+
+## Rethinking Surgical Indications with Portal Hypertension
+
+- Comparable outcomes are **difficult to obtain with other nonsurgical treatments**
+- Surgical indications for HCC associated with portal hypertension **should be discussed further**
+
+::: {.callout-tip}
+## The Correct Comparison
+The discussion should be based NOT on:
+- Comparison **with vs. without portal hypertension** among hepatectomy patients
+
+But rather on:
+- Comparison **with vs. without surgical treatment** among patients who **have** portal hypertension
+:::
+
+## Implication for BCLC Guidelines
+
+- Consequently, the **BCLC guidelines may need to be modified** in terms of the role of surgery
+
+---
+
+## Perioperative Management — Overview
+
+Key perioperative issues in cirrhotic patients:
+
+1. **Diuretics** — preventing refractory ascites and edema
+2. **Management for portal hypertension** — varices, thrombocytopenia
+
+## Diuretics — Spironolactone
+
+- **Routine administration of spironolactone** (aldosterone inhibitor) is recommended
+- Especially in cirrhotic patients
+- Rationale: **secondary hyperaldosteronemia** is caused by low degradation of aldosterone through **liver metabolic dysfunction**
+
+## Spironolactone Dosing by ICG R15
+
+| ICG R15 | Spironolactone Dose |
+|---|---|
+| < 20% | **100 mg/day** |
+| > 20% | **200 mg/day** |
+
+**If ascites is uncontrollable:**
+
+- Administration of **furosemide** is a better choice
+- Initial dose of **10 or 20 mg/day**
+
+---
+
+## Management for Portal Hypertension — Preoperative Evaluation
+
+If liver resection is scheduled in a patient with portal hypertension:
+
+- **Careful preoperative evaluation and management are mandatory**
+- **Gastrointestinal endoscopy** is necessary to evaluate the presence or absence of:
+  - **Esophageal varices**
+  - **Gastric varices**
+- These are frequently associated with liver cirrhosis
+
+## Esophageal Varices — Preoperative Treatment
+
+- If found, esophageal varices with a **high risk of rupture** (e.g., those with a **red color sign**) should be treated **before surgery** using:
+  - **Endoscopic ligation**, OR
+  - **Sclerotherapy**
+
+## Gastric Varices — Hassab's Operation
+
+- **Hassab's operation** should be considered for gastric varices with a high risk of rupture
+- Procedure: **devascularization around the upper stomach with a splenectomy**
+
+## Thrombocytopenia and Splenectomy
+
+- **Thrombocytopenia** (platelet count < 50,000/mL) caused by **hypersplenism** is a major symptom of portal hypertension
+- A **splenectomy is recommended before liver resection** to reduce the risks of:
+  - **Intraoperative blood loss**
+  - **Postoperative liver failure**
+
+## Figure 120.3 — Strategies for Perioperative Prophylactic Management (PPM)
+
+::: {.callout-note}
+## PPM Decision Algorithm (Takemura N, et al. Br J Surg. 2019;106(8):1066–1074)
+**Starting point:** Patients with HCC & portal hypertension (PH)
+
+**Branch by platelet count:**
+
+- **Platelets ≥ 5.0 × 10⁴/μL** → assess varices:
+  - No varix or ≤ F1 → **Hepatectomy without PPM**
+  - Esophagus varix ≥ F2,3, RC(+) → **EVL or EIS**
+  - Stomach varix ≥ F2,3, RC(+) → **BRTO** (indicated since 1999)
+  - Esophagus & stomach varices → **EVL & BRTO**
+- **Platelets < 5.0 × 10⁴/μL** → **Splenectomy**, with possible additions:
+  - Varix (esophagus) → Splenectomy + EVL/EIS
+  - Varix (stomach) → Splenectomy + BRTO or **Hassab**
+
+*On occasion, EVL + splenectomy or BRTO + splenectomy could be performed.*
+*BRTO = balloon-occluded retrograde transvenous obliteration; EIS = endoscopic injection sclerotherapy; EVL = endoscopic variceal ligation.*
+:::
+
+---
+
+## Surgical Techniques — Overview
+
+Techniques covered in this chapter:
+
+1. Inflow and outflow occlusion
+2. Intraoperative ultrasound (IOUS)
+3. Anatomic resection
+4. Laparoscopic liver resection
+5. Surgical devices for parenchyma division
+6. Anterior approach and hanging maneuver
+7. Hepatic vein reconstruction
+
+---
+
+## Inflow and Outflow Occlusion — Historical Context
+
+- **Ischemia-reperfusion injury** was once viewed as a critical form of damage to the liver
+- Neither inflow nor outflow occlusion was applied during liver parenchymal division
+- Result: liver resection was inevitably associated with **large blood loss**
+- This sometimes led to **liver failure and death**
+
+## Evolution of Vascular Occlusion
+
+- **Early 1980s:** the **hemihepatic vascular occlusion method** was devised
+- The **total inflow occlusion (Pringle maneuver)** became widely used
+- These inflow occlusion methods contributed to a **marked reduction in blood loss**
+- The usefulness of the Pringle maneuver was confirmed by a **randomized controlled trial (RCT) performed in Hong Kong**
+
+## Total Vascular Exclusion
+
+- **Total vascular exclusion** was performed for a time
+- However, due to:
+  - The **complexity of the procedure**, and
+  - The **risk of postoperative liver dysfunction**
+- It is now **used infrequently**
+
+## Ischemic Preconditioning and Intermittent Occlusion
+
+- Clavien and colleagues found that **10 minutes of ischemic preconditioning** by inflow occlusion **significantly improved postoperative liver function**
+- The **superiority of intermittent inflow occlusion** versus continuous or total occlusion is now **widely accepted**
+- This is an **indispensable technique** for improving the safety of liver surgery
+
+---
+
+## Intraoperative Ultrasound (IOUS) — Introduction
+
+- IOUS was **first introduced in the field of liver surgery in the late 1970s by Makuuchi**
+- Enables liver surgeons to grasp:
+  - The **location of tumors**
+  - **Anatomic structures**
+
+## Impact of IOUS on Safety
+
+- Using IOUS, the **safety of liver resection has been remarkably improved**
+- Especially in patients with **cirrhosis**, because:
+  - A **limited resection** to minimize loss of liver parenchyma is possible under IOUS guidance
+- IOUS is also useful for the **detection of occult HCCs** that cannot be detected using preoperative imaging modalities
+
+## Contrast-Enhanced IOUS
+
+- Detection ability has been further improved by using **contrast media**, such as:
+  - **Perfluorobutane microbubbles (Sonazoid)**
+
+::: {.callout-important}
+## Bottom Line
+**IOUS will continue to be indispensable for liver surgery.**
+:::
+
+---
+
+## Anatomic Resection — Rationale
+
+HCC has a unique biologic characteristic:
+
+- It tends to **spread intrahepatically**
+- It **metastasizes through the portal venous system**
+- Even a small HCC may be associated with **portal venous invasion**, which correlates with **worse prognosis**
+- Surgeons should consider **removing potential intrahepatic metastases** whenever possible
+
+## Anatomic Resection — Balancing Risks
+
+**The dilemma in cirrhotic liver:**
+
+- **Major hepatic resection should be avoided** because of the high risk of postoperative critical liver failure
+
+**The solution:**
+
+- **Anatomic resection** — the entire segment fed by the tumor-bearing portal branches is **completely and systematically removed**
+- A reasonable surgical procedure for **preventing recurrence via the portal venous pathway**
+
+## Anatomic Subsegmentectomy — Origin
+
+- Anatomic subsegmentectomy was **first proposed by Makuuchi and colleagues**
+- Depending on the size and location of the tumor, the following can be performed:
+  - Resection of a **complete Couinaud segment**
+  - **Part of a segment**
+  - **More than one segment** extending to the adjacent region
+
+## Figure 120.4 — Procedures for Anatomic Resection of HCC
+
+::: {.callout-note}
+## Technique (Makuuchi M, Hasegawa H, Yamazaki S. Surg Gynecol Obstet. 1986;161:346–350)
+1. A **blue dye (indigo carmine)** is injected into the **portal venous branch bearing the tumor** under IOUS guidance
+2. From the liver surface, a portal branch is **manually punctured distal to the point of ligation**
+3. The **stained surface of the liver is marked** with electric cautery
+4. **Parenchymal dissection** follows the marked line
+5. The **hepatic veins should be exposed longitudinally** on the dissected surface after complete resection
+:::
+
+## Figure 120.5 — Dissected Surface After Segment VIII Resection
+
+::: {.callout-note}
+## Complete SVIII Resection
+- Dissected surface after complete resection of liver **segment VIII (SVIII)**
+- Key exposed structures:
+  - **MHV** (middle hepatic vein)
+  - **RHV** (right hepatic vein)
+  - **P8 ventral stump** and **P8 dorsal stump** (portal vein branches of SVIII)
+- Hepatic veins exposed longitudinally confirm a true anatomic resection
+*(Kishi Y, et al. Br J Surg. 2012;99(8):1105–1112)*
+:::
+
+## ICG as an Alternative Staining Material
+
+- **ICG** is another useful staining material that can be used instead of indigo carmine
+- ICG is illuminated by **near-infrared light** and emits fluorescence
+- Peak wavelength: **about 840 nm**
+- This lies within the range of absorbance spectra of:
+  - Hemoglobin (< 600 nm)
+  - Water (> 900 nm)
+
+## ICG Fluorescence Imaging System
+
+- The wavelength of ICG excited by near-infrared light is **not visible to the human eye**
+- Therefore, the **ICG fluorescence system equipped with interferential filters** is applied to obtain fluorescence images
+
+## Figure 120.6 — ICG Fluorescent Anatomical Hepatectomy
+
+::: {.callout-note}
+## ICG Fluorescence-Guided Resection
+- Near-infrared fluorescence imaging reveals the boundary between:
+  - The **ICG-stained (positive) segment** to be resected
+  - The **unstained (negative) remnant liver**
+- Allows real-time visualization of segmental boundaries during parenchymal transection
+- Applicable to both open and **laparoscopic hepatectomy**
+:::
+
+## Technical Difficulty of Anatomic Resection
+
+- Anatomic subsegmentectomy is **technically difficult to perform**, especially for:
+  - **Segments IV, VII, and VIII**
+- Reasons:
+  - These locations are **surrounded by major vascular structures**
+  - They do not necessarily present with a **flat dissection plane**
+
+## Evidence — Anatomic vs. Nonanatomic Resection
+
+- To date, **several studies have shown that anatomic resection is superior** to nonanatomic resection
+
+::: {.callout-tip}
+## Recommendation
+As long as liver function is adequate, **anatomic resection is strongly recommended** as the surgical procedure of choice for HCC.
+:::
+
+- Anatomic hepatic resection has been recently applied in **laparoscopic hepatectomy**
+
+---
+
+## Laparoscopic Liver Resection — Introduction
+
+- Laparoscopy currently plays a **major role** in abdominal surgery
+- Enables **minimally invasive procedures**
+- Laparoscopic liver resection for HCC was **initially applied as a treatment option for peripheral HCC**
+
+## Louisville Consensus Statement (2008)
+
+- **45 experts** proposed that the most suitable candidates among HCC patients for laparoscopic liver resection are those with:
+  - **Solitary lesions**
+  - Measuring **≤ 5 cm** in diameter
+  - Located in **peripheral segments**
+
+## Morioka Consensus Conference (2014)
+
+The second consensus conference concluded:
+
+| Procedure | Status |
+|---|---|
+| **Minor laparoscopic resection** | **Standard practice** |
+| **Major laparoscopic resection** | Still considered **innovative / exploration phase** |
+
+## Expanding Indications for Laparoscopic Resection
+
+Recently, the indication for laparoscopic liver resection has been expanded to:
+
+- **Limited resection** for tumors in the **deep part of the liver parenchyma**
+- **Major hepatectomy**
+
+## Why Laparoscopy Is Especially Useful in Cirrhosis
+
+Laparoscopic resection may be **more useful for HCC, especially in cirrhotic patients**, because of:
+
+- **Smaller destruction of the abdominal wall**
+- **Lesser need for liver mobilization**
+- **Lower demand for IV fluid replacement** (minimization of unnecessary fluid loss)
+
+## Additional Benefits of Laparoscopy in Cirrhosis
+
+- **Fluid accumulation in the third space is also likely to be reduced**
+- Results in:
+  - **Decreased risk of prolonged postoperative ascites**
+  - **Shorter hospital stay**
+
+---
+
+## Surgical Devices for Parenchyma Division — Overview
+
+Liver parenchyma division consists of **two procedures**:
+
+1. **Crushing** of the liver parenchyma to detect vessels
+2. **Subsequent occlusion** of those vessels
+
+Various devices have been developed for one or both procedures. Through the introduction of inflow occlusion, refined operative techniques, and surgical devices, **blood loss has been significantly reduced**, improving the safety of liver resections.
+
+## Clamp Crushing — The Standard
+
+- **Clamp crushing with forceps combined with ligation remains the standard**
+- Advantages:
+  - **Simple**
+  - **Inexpensive**
+  - **Useful**
+
+## Clamp Crushing — Technique
+
+- Originally, the **surgeon's fingers** were used to crush liver parenchyma
+- **Pean forceps** are now used
+- The surgeon:
+  1. Removes parenchyma with forceps
+  2. Identifies vessels (**Glisson triads, hepatic vein**) by feeling structures through the tip
+  3. Ligates identified vessels with a string and divides them
+- **Advantage:** avoids tissue injury
+- **Limitation:** experience is needed to make the fullest use of this method
+
+## Figure 120.7 — Pean Forceps for Normal vs. Cirrhotic Liver
+
+::: {.callout-note}
+## Forceps Selection
+**Normal liver parenchymal crushing:**
+- **Blunt-tip** Pean forceps
+- Wider opening
+
+**Cirrhotic hard liver parenchymal crushing:**
+- Relatively **thin-tip** Pean forceps
+- **Not opened too much**
+- In cirrhosis, liver parenchyma is **hard**, so thin tips make crushing easier
+:::
+
+## Ultrasonic Dissector — CUSA
+
+- The **Cavitron Ultrasonic Surgical Aspirator (CUSA)** is a device used to:
+  - **Crush** the liver parenchyma
+  - **Remove crushed tissues**
+  - **Expose fibrous tissues** (Glisson triads, hepatic vein)
+- Works via **ultrasonic vibration at its tip**
+
+## CUSA — Operation and Modifications
+
+- Vessels must be exposed so they can be occluded with **ligation or sealing**, as with conventional clamp crushing
+- Simultaneously, the ultrasonic dissector:
+  - Supplies **saline from the tip** to wash the surgical field
+  - Aspirates fluid through the tip to **maintain an adequate field of vision**
+- **Modified versions** can be attached to an electrocautery device or ultrasonic scalpel
+
+## CUSA in Cirrhotic Liver
+
+- For division of **cirrhotic liver**:
+  - The **vibration width of the tip must be set wider**
+  - This can make it **more difficult to separate vessels**
+  - Thin vessels are **more easily injured** than in normal liver tissue
+- The CUSA has become one of the **standard surgical devices** for liver parenchyma transection
+
+## Vessel-Sealing System — Mechanism
+
+- Uses **bipolar electrothermal energy**
+- Can seal the vessel wall by **denaturing the collagen and elastin** in the wall
+- **Completely occludes** the blood vessel
+- During parenchymal division, it can easily occlude vessels exposed by:
+  - Clamp crushing, OR
+  - An ultrasonic dissector
+
+## Vessel-Sealing System — Benefits and Evolution
+
+**Benefits:**
+
+- Shortens **liver transection time**
+- Reduces the **amount of blood loss**
+
+**Evolution:**
+
+- Improved energy generator → **stronger sealing power** while minimizing damage to adjacent tissues
+- Increased sealing **speed and certainty**
+- Current type: **thinner and shorter tip**
+- **Built-in scissors** enable vessels to be cut immediately after sealing
+
+## Vessel-Sealing — Practical Note
+
+- Although clamp crushing itself is possible with the tip of the vessel-sealing system:
+  - **Pean forceps enable a better feel and vessel exposure** (per the authors' experience)
+
+## Automatic Suture Device — Vascular Stapler
+
+- For **laparoscopic liver resection**, an automatic suture device is now an **indispensable tool**
+- Frequently used to cut:
+  - **Glisson triads**
+  - **Hepatic veins**
+- A vascular stapler was **first applied to resect hepatic veins during hepatectomy**
+
+## Glissonean Approach with Stapler
+
+- Figueras et al. applied this device to cut the **Glisson pedicle** with the **Glissonean approach**
+
+::: {.callout-warning}
+## Caution
+When using a stapler to cut the Glisson triads, attention should be paid to **avoid accidental injury of the bile duct confluence**. The Glisson triads should be cut with the stapler **on the peripheral side as far as possible**.
+:::
+
+## Stapler Hepatectomy
+
+- Some surgeons apply the vascular stapler for **liver parenchymal resection** — called **"stapler hepatectomy"**
+- **Advantage:** may reduce parenchymal transection time
+- **Risk:** **hepatic vein avulsion injury**, especially in patients with cirrhosis
+  - Hemostasis even from thin hepatic veins is sometimes **difficult**
+
+---
+
+## Anterior Approach vs. Conventional Approach
+
+**Conventional approach:**
+
+- Before parenchyma transection, the liver is **mobilized** (e.g., in right hepatectomy, the right hemiliver is fully mobilized from the right adrenal gland, with extrahepatic division of the right hepatic vein)
+- Enables the surgeon to **control bleeding easily**
+- **Thoracophrenolaparotomy** is a good option to safely complete mobilization of the right liver
+
+## Rationale for the Anterior Approach
+
+- Several surgeons recommend the **anterior approach**: liver parenchyma division is done **before mobilization**, especially when the tumor is **large**
+- Believed to avoid the risks of:
+  - **Massive bleeding** from hepatic vein avulsion
+  - **Prolonged ischemia** in the remnant liver
+  - **Spillage of cancer cells** into the systemic circulation
+
+## Evidence — Anterior vs. Conventional Approach
+
+- In an **RCT, Liu and colleagues** found that the anterior approach for right hepatectomy had **beneficial effects on operative and survival outcomes** for patients with HCC
+- However, **Ishizawa and associates** reported that:
+  - The **conventional approach has the advantage** of preventing critical bleeding during liver transection
+  - The **anterior approach is an effective alternative** when difficulty is encountered during liver mobilization
+- **Further investigation is needed** to address this problem
+
+## The Hanging Maneuver — Belghiti et al.
+
+::: {.callout-note}
+## Figure 120.8 — Hanging Maneuver
+**(A)** A forceps is inserted **in front of the inferior vena cava (IVC)** from the **caudal side of the liver**; surgical tape is placed between the liver and the anterior surface of the IVC
+**(B)** The tape is **lifted** to suspend the liver during division of the liver parenchyma
+*(Belghiti J, et al. J Am Coll Surg. 2001;193:109–111)*
+:::
+
+## Advantages of the Hanging Maneuver
+
+As an option to the anterior approach, this maneuver can:
+
+- **Reduce blood loss** by compressing the liver parenchyma
+- Make it **easier to determine the proper direction** of parenchymal division
+- Allow **mobilization of the right liver to be avoided** during right hemihepatectomy, especially with a **large liver tumor**
+
+## Applications and Risks of the Hanging Maneuver
+
+- **Risk:** injury to the **short hepatic veins**
+- Despite insufficient evidence, it is regarded as a **useful surgical technique**
+- Widely applied to:
+  - Liver transection for **left hepatectomy**
+  - **Left caudate lobectomy**
+  - **Laparoscopic liver resection**
+
+---
+
+## Hepatic Vein Reconstruction — Indication
+
+- In liver resection for a malignant tumor, **hepatic venous reconstruction is also recommended** if the **functional volume of the residual liver is insufficient**
+
+## Hepatic Vein Reconstruction — Technical Considerations
+
+**Expansive growth type HCC:**
+
+- Usually relatively **easy to detach** the HCC from the hepatic vein, even if closely attached
+
+**Mixed or sclerosis type HCC:**
+
+- Detachment may be **difficult because of tumor invasion**
+- In such cases, **reconstruction techniques using an autologous vein graft** obtained from the resected liver specimen are useful
+
+## Functional Implications of Congestion
+
+- According to Kawaguchi and colleagues:
+  - A **congestive area may be functional** to some degree
+  - Corresponding to approximately **30%–40% of normal liver without congestion**
+- These findings are being **investigated further**
+
+---
+
+## Conclusion
+
+> **The safety and feasibility of liver resection for HCC are now established — even in patients with cirrhosis and portal hypertension.**
+
+This has been achieved by recent significant progress in:
+
+- **Preoperative evaluation**
+- **Surgical techniques**
+- **Surgical devices**
+- **Perioperative management**
+
+## Key Takeaways — Indications
+
+- **Makuuchi's criteria** (ascites, bilirubin, ICG R15) guide tolerable resection volume
+- ICG R15 is the **most significant predictor of mortality**
+- Portal hypertension increases risk but is **not an absolute contraindication** — surgical indications deserve further discussion
+- BCLC guidelines **may need modification** regarding the role of surgery
+
+## Key Takeaways — Perioperative Management
+
+- **Spironolactone** routinely (100–200 mg/day based on ICG R15); furosemide for uncontrollable ascites
+- Endoscopic evaluation and **prophylactic treatment of varices** (EVL/EIS/BRTO)
+- **Splenectomy** for thrombocytopenia from hypersplenism
+
+## Key Takeaways — Techniques
+
+- **Intermittent Pringle maneuver** is the standard inflow occlusion
+- **IOUS** is indispensable — including contrast-enhanced (Sonazoid)
+- **Anatomic resection** is the procedure of choice when liver function allows
+- ICG **fluorescence imaging** enables real-time segmental mapping
+- Devices: **clamp crushing (standard), CUSA, vessel-sealing systems, vascular staplers**
+
+## Key Takeaways — Approaches
+
+- **Laparoscopic resection** offers particular benefits in cirrhosis (less ascites, shorter stay)
+- **Anterior approach** — beneficial for large tumors; conventional approach retains advantage in bleeding control
+- **Hanging maneuver** — reduces blood loss and guides transection direction
+- **Hepatic vein reconstruction** preserves functional remnant volume

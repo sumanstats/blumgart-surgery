@@ -1,0 +1,842 @@
+---
+title: "Ex Vivo and In Situ Hypothermic Hepatic Resection"
+format:
+  revealjs
+---
+
+## Introduction to Complex Liver Surgery
+
+- Liver surgery techniques and imaging are constantly evolving
+- Allows ever more detailed planning of surgical strategy
+- Development of living-donor liver transplantation (LDLT) created comfort with vascular and biliary reconstruction techniques
+- These techniques are now applied to complex nontransplant liver surgery
+
+## The Challenge of Vascular Reconstruction
+
+- Principal difficulty: necessary period of hepatic ischemia
+- Liver tolerates moderate ischemia surprisingly well
+- Hepatic inflow occlusion (Pringle maneuver) often used during parenchymal transection
+- Combined with low central venous pressure (CVP), allows relatively bloodless transection
+
+## Ischemic Preconditioning
+
+- Intermittent hepatic inflow occlusion protects the liver from subsequent ischemic injury
+- Technique: Pringle maneuver for 10 minutes, then reperfusion for at least 10 minutes
+- Mechanisms not fully elucidated
+- Even longer periods of continuous ischemia are relatively well tolerated
+
+## Tolerance to Warm Ischemia
+
+- Normal liver can tolerate 60 minutes or more of continuous inflow occlusion
+- Patients with cirrhosis, biliary obstruction, or prolonged chemotherapy tolerate significantly less
+- Older patients may also have reduced tolerance
+- Risk of irreversible damage increases with prolonged continuous ischemia
+
+## When Standard Techniques Are Insufficient
+
+- Vascular reconstruction may require bloodless field longer than acceptable
+- Tumors involving retrohepatic IVC or hepatic veins (HVs) may require total vascular isolation
+- Total vascular isolation may increase ischemic injury more than inflow occlusion alone
+- Backward diffusion of HV blood may attenuate ischemic injury
+
+## Planning Complex Resections
+
+- Most complex liver tumor resections can be done without ex vivo or in situ cold perfusion
+- Tumors involving hilar vessels approached by temporary HA or PV occlusion
+- HA and PV reconstructions may be done in sequence
+- IVC involvement often approached with venous side-clamping or short-term total vascular isolation
+
+## Truly Unresectable Lesions
+
+- Minority of patients have lesions unresectable by conventional technique
+- Cases where vascular reconstruction is complex and predicted to take considerable time
+- Cases where transection is too dangerous to undertake in situ
+- Classic example: centrally placed lesions involving all three main HVs, with or without retrohepatic IVC involvement
+
+## Rationale for Hypothermic Perfusion Techniques
+
+- Better access to the tumor
+- Minimizing ischemic injury to future liver remnant using cold preservation
+- Higher likelihood of complete R0 resection
+- Theoretical concern: increased vascular and biliary complications due to re-anastomosis
+- Good long-term survival rates observed in experienced centers
+
+## Historical Development
+
+- Experience limited to few high-volume liver surgery and transplantation centers
+- Techniques mirror aspects of LDLT
+- Importance of patient selection, preoperative evaluation, intraoperative decision making, and postoperative care
+- Toronto Video Atlas of Surgery educational videos highlight key points
+
+## History of Hypothermic Perfusion
+
+- Fortner and colleagues (1974): first to describe hypothermic perfusion during liver resection
+- Series of 29 patients
+- Technical improvements over next two decades made hypothermic perfusion unnecessary in most cases
+- Growing understanding of liver's ability to tolerate normothermic ischemia
+
+## History of Liver Transplantation for Malignancy
+
+- Liver transplantation applied to technically unresectable primary and secondary liver malignancy
+- Results were dismal: rapid recurrence in new liver or elsewhere
+- Especially poor for large unresectable primary tumors and metastatic lesions
+
+## Development of Ex Vivo Resection
+
+- Pichlmayr and associates (1988): developed hypothermic perfusion with ex vivo liver resection
+- Liver completely removed from body
+- Perfused with cold preservation solution on back table
+- Resection performed in completely bloodless field
+- Reconstruction of HV outflow under ideal conditions
+
+## Evolution to In Situ and Ante Situm Techniques
+
+- Ex vivo morbidity and mortality relatively high
+- In situ and ante situm hypothermic perfusion techniques developed as alternatives
+- Three techniques described: in situ hypothermic perfusion, ante situm hypothermic perfusion, ex vivo liver resection
+- All mirror aspects of LDLT
+
+## Comparison of the Three Techniques
+
+- In situ and ante situm do not necessarily require HA and/or biliary reconstruction
+- Risk for vascular and biliary complications may be lower compared with ex vivo
+- Ex vivo provides outstanding exposure
+- Ex vivo permits parenchymal hypothermic perfusion (unless HV outflow is clotted)
+
+## In Situ Hypothermic Perfusion: Overview
+
+- Aim: provide bloodless operative field with hypothermic cellular protection
+- Permits prolonged and accurate dissection
+- For resections necessitating vascular isolation or during vascular reconstruction
+- Theoretically most straightforward, but IVC/HV exposure can be awkward
+
+## Hannoun et al. 1993: Normothermic Ischemia Data
+
+- Retrospective study of 34 patients with vascular occlusion exceeding 1 hour
+- All patients had normal liver parenchyma
+- Conclusion: continuous vascular occlusion safe on normal parenchyma up to 90 minutes
+- Advocated hepatic vascular exclusion with in situ hypothermic perfusion when occlusion might exceed 120 minutes
+
+## Hannoun et al. 1996: Diseased Liver Application
+
+- Same group showed successful application in patients with underlying liver disease
+- Cooling allows major hepatic resection using vascular exclusion longer than 1 hour
+- No increased morbidity or mortality in this sensitive population
+
+## Azoulay et al. 2005: Comparative Study
+
+- Compared in situ hypothermic perfusion vs standard total vascular exclusion
+- Assessed liver tolerance by AST/ALT peaks, bilirubin, PT, creatinine
+- Hypothermic perfusion associated with better ischemia tolerance at any duration
+- Better postoperative liver and renal function, lower morbidity for exclusions &gt;1 hour
+
+## Predictive Factors for Longer Resection
+
+- Azoulay et al. identified predictive factors for resection &gt;1 hour:
+  - Size of tumor
+  - Need for PV embolization
+  - Planned vascular reconstruction
+- These factors should guide decision for hypothermic perfusion
+
+## Indications for In Situ Cold Perfusion
+
+- Total vascular exclusion indicated for tumors involving or adjacent to IVC and/or HV confluence
+- Original Fortner technique: mobilization for total vascular isolation
+- Control of suprahepatic IVC, infrahepatic IVC, and portal structures
+- Gastroduodenal artery isolated and cannulated
+- PV cannulated via venotomy or branch of lobe to be resected
+
+## Original In Situ Perfusion Technique
+
+- Cannulae kept patent with slow Ringer's lactate infusion at room temperature
+- Common HA and PV clamped proximal to cannulae
+- Infrahepatic and suprahepatic IVC separately occluded
+- Cavotomy made immediately inferior to liver for effluent drainage
+- Ringer's lactate chilled to 4°C with 5mg/L heparin used for perfusion
+
+## Role of Veno-Venous Bypass in In Situ Perfusion
+
+- Standard use reduces time pressure and gut edema from prolonged portal clamping
+- Most patients tolerate total vascular isolation without bypass
+- Some series perform bypass routinely
+- If used: sufficient PV length (3-4cm) dissected for perfusion and bypass cannulae
+
+## Bypass Cannulation Techniques
+
+- Portal clamp placed relatively superiorly on PV
+- Bypass instituted below this clamp
+- Portal cannula directed down toward SMV after PV division
+- Alternative: divide anterior wall of PV and slide cannula down back wall
+- Preferred method: temporary biologic graft onto anterior wall of SMV, then cannulate graft
+
+## Modern In Situ Technique Without Bypass
+
+- Advent of LDLT, anterior approach, and improved transection techniques
+- Most parenchymal transection done without inflow occlusion
+- Total vascular isolation applied only as transection nears completion
+- Significantly shorter hepatic ischemia periods
+- Generally does not require veno-venous bypass
+
+## Portal Cannulation Options
+
+- PV dissected to right and left branches
+- Perfusion tubing placed into main PV
+- Option 1: cannulate PV branch on opposite side of liver to be removed (Figure 124.2)
+- Branch divided, maintaining portal flow to remnant but allowing cold perfusion access
+- Option 2: anterior wall of main PV used for cannula insertion (Figure 124.3)
+
+## Figure 124.2: Portal Cannulation in Branch
+
+- Portal cannula inserted in right portal vein (RPV) branch
+- Allows in situ perfusion of remaining segments II and III
+- Case shown: infant undergoing resection for hepatoblastoma
+- Cold perfusion allows IVC resection and repair of medial LHV
+
+## Figure 124.3: Anterior Wall Cannulation
+
+- Anterior wall of portal vein above portal clamp used for cannulation
+- Allows cold perfusion without dividing portal branches
+- Useful when preserving flow to entire remnant liver
+
+## Staged Vascular Isolation
+
+- As much parenchyma as possible divided under low CVP conditions
+- Hepatic perfusion maintained until vessels requiring reconstruction must be divided
+- Patient volume-loaded, inotropes started as necessary
+- Clamps placed sequentially: infrahepatic IVC, PV, HA, suprahepatic IVC
+
+## Partial Caval Clamping (Figure 124.4)
+
+- If only HV requires reconstruction, caval flow can be maintained
+- Clamp placed tangentially down onto IVC across HV orifice
+- Partially occludes IVC
+- Allows in situ perfusion without veno-venous bypass
+
+## Figure 124.4: Tangential IVC Clamping
+
+- Vascular clamp on IVC occluding implantation site of hepatic vein
+- Maintains cava flow
+- LHV and PV visible in operative field
+- Technique reduces need for full bypass
+
+## Figure 124.5: Continuous Cold Flushing
+
+- Continuous cold flushing of remnant liver
+- Allows resection and reconstruction of hepatic vasculature without time pressure
+- Ice placed around liver for topical cooling
+- Graft may be used for IVC reconstruction
+
+## Reperfusion Sequence
+
+- Before completing anastomoses: flush liver with cold 5% albumin
+- Or flush with 300-400mL of PV blood with caval clamps still in place
+- PV clamp reapplied, caval venotomy closed, all clamps removed
+- Alternative warm-flush technique: vent initial 300-500mL blood through infrahepatic cava
+
+## Results of In Situ Hypothermic Perfusion
+
+- Azoulay et al. 2015: 77 liver resections with standard TVE and hypothermic portal perfusion
+- 33 cases required vascular reconstruction
+- 90-day mortality rate: 19.5%
+- Independent predictors of mortality: age-adjusted CCI ≥3, tumor size ≥10cm, 50/50 criteria
+- Overall 5-year survival: 30.4%
+
+## Ante Situm Procedure: Introduction
+
+- Least frequently used of the three techniques
+- Used when resection of IVC and HVs expected to be difficult
+- Improved access to HVs and IVC required
+- Designed by Hannoun et al. (1991)
+
+## Ante Situm Technique Concept
+
+- Suprahepatic (and potentially infrahepatic) cava divided
+- Liver rotated anteriorly
+- Liver essentially exteriorized while connected only by hepatic pedicle
+- Future remnant liver perfused via PV or HA
+- Resection performed with involved HVs, remnant HVs reimplanted into vena cava
+
+## Advantages of Ante Situm Approach
+
+- Combines in situ hypothermic perfusion with separation of suprahepatic IVC
+- Better mobilization of liver posteriorly by rotating anteriorly toward abdominal wall
+- Used when combined IVC-HV reconstruction required
+- Biliary and HA anastomoses NOT required
+- Reduces ischemic time and potential complications
+
+## Exposure for Ante Situm: Figure 124.6
+
+- Phrenic veins divided bilaterally
+- Suprahepatic IVC dissected away from diaphragm
+- Provides adequate length for suprahepatic cava clamp
+- Allows division with enough length for reanastomosis
+- LHV visible in field
+
+## Figure 124.7: Median Sternotomy Option
+
+- Addition of median sternotomy provides excellent exposure
+- Suprahepatic IVC (SIVC) and confluence of hepatic veins well visualized
+- Right atrium (RA) accessible
+- Sternotomy avoided when possible due to additional morbidity
+
+## Intrapericardial Caval Control
+
+- Control of intrapericardial cava allows upper clamp placement within pericardium
+- Primary option for very large tumors
+- Secondary option if technical difficulties with suprahepatic clamp
+- Pericardium opened directly anterior to IVC
+
+## Figure 124.8: Ante Situm Cold Perfusion
+
+- Suprahepatic IVC divided
+- Liver rotated forward
+- Region of hepatic vein-IVC confluence better exposed
+- Cold perfusion through portal vein
+- Perfusate vented through divided suprahepatic IVC
+
+## Figure 124.9: Veno-Venous Bypass in Ante Situm
+
+- Bypass can be used during ante situm perfusion
+- If more exposure required to retrohepatic IVC
+- Infrahepatic IVC also divided
+- Liver rotated completely up onto abdominal wall
+- Greater access to posterior structures
+
+## Figure 124.10: Clinical Example — Cholangiocarcinoma
+
+- CT scan showing cholangiocarcinoma centered on all three hepatic veins
+- Junction with IVC involved
+- Right portal structures also involved
+- Right trisegmentectomy with reconstruction of left hepatic vein indicated
+
+## Figure 124.11: Ante Situm Operative View
+
+- Parenchymal division along right trisegmentectomy plane
+- Crossing into segments II and III superiorly
+- Cannula in RPV stump for cold perfusion with UW solution
+- Short segment of IVC at hepatic veins resected
+- Liver rotated anteriorly
+- IVC reconstructed end-to-end, LHV reimplanted above cava anastomosis
+
+## Figure 124.12: Reimplanted Segments II and III
+
+- Left hepatic duct reconstructed later using Roux-en-Y limb
+- IVC anastomosis visible
+- LHV anastomosis to reconstructed cava
+- LPV and PV visible
+- Demonstrates feasibility of complex reconstruction
+
+## Ex Vivo Liver Resection: Introduction
+
+- For tumors involving IVC and HVs requiring complex venous repair
+- Combined complex HV and hilar involvement
+- Severely compromised HV outflow
+- Liver completely removed from patient
+- Perfused with cold preservation solution on back table
+
+## Indications for Ex Vivo Resection
+
+- IVC-HV junction tumors requiring complex prolonged reconstruction
+- Combined vascular involvement of HVs and hilar structures
+- Involvement of all three HVs with venous outflow obstruction
+- Attempts to mobilize liver off IVC would cause massive hemorrhage
+- Acute Budd-Chiari picture
+
+## Patient Selection: General Assessment
+
+- Similar to liver transplantation evaluation
+- Particular assessment of cardiac risk factors
+- Detailed cardiovascular history: smoking, peripheral vascular disease, hypertension
+- Functional stress test for patients &gt;50 or with cardiac abnormality
+- Dobutamine stress echocardiogram if target heart rate achievement limited
+
+## Contraindications to Ex Vivo Resection
+
+- Significant cardiac abnormality
+- Melendez et al. 2001: combination of factors leads to very high mortality:
+  - Preoperative cholangitis
+  - Elevated serum creatinine
+  - Elevated serum bilirubin
+  - &gt;3 liters operative blood loss
+  - Vena cava resection
+- Mild renal dysfunction (creatinine &gt;1.3 mg/dL) should be considered contraindication
+
+## Preoperative Risk Factors
+
+- Azoulay et al.: age-adjusted Charlson Comorbidity Index ≥3
+- Maximum tumor size ≥10 cm
+- Number of comorbidities (CV, renal, pulmonary)
+- Ex vivo resection only in otherwise healthy, well-selected patients
+
+## Preoperative Imaging: CT and MRI
+
+- Triphasic spiral CT with 3D reconstructions: standard
+- Assess liver anatomy and tumor position
+- CT chest and pelvis to rule out metastatic disease
+- MRI with MR angiography and MR venography when all three HVs involved
+- Invasive angiography almost always unnecessary with modern CT/MRI
+
+## Contrast-Enhanced Ultrasound and PET
+
+- Contrast-enhanced ultrasound: dynamic view of tumor-HV/IVC relationship
+- Particularly useful for estimating extent of vascular invasion
+- PET scan considered for undetected extrahepatic disease
+- Used in selected cases
+
+## Remnant Liver Volume Assessment
+
+- Standard: 25% of total liver volume (TLV) adequate for normal liver
+- Patients with prolonged chemotherapy may require more (steatohepatitis)
+- With cold preservation and reperfusion: additional ischemic injury
+- Arbitrary cutoff: 40% of TLV for extended hepatectomy with complex vascular reconstruction
+- May require preoperative portal vein embolization (PVE)
+
+## 3D Imaging and Printed Models
+
+- 3D printed liver models demonstrate anatomy with high accuracy
+- Assist with preoperative planning
+- May be used for simulation of surgical procedures
+- Can reveal unusual anatomy making reconstruction unnecessary
+- Or reveal anatomy requiring additional reconstruction
+
+## Anesthesia: Multidisciplinary Team
+
+- Optimized anesthetic management essential
+- Circulation and hemodynamic stability
+- Coagulation function
+- Patient core temperature maintenance
+- Rapidly growing field evolving from transplant surgery knowledge
+
+## Hemodynamic Management
+
+- Most challenging: PV and IVC occlusion, liver reperfusion
+- Vasoactive agents used early to maintain stability
+- Factors influencing hemodynamic changes:
+  - Patient habitus
+  - IVC collateral circulation
+  - Sensitivity to vasoactive agents
+- Test clamp before IVC and PV clamping essential
+
+## Coagulation and Volume Management
+
+- Sufficient blood products and albumin before vascular reconstruction
+- Appropriate vasoactive doses before vena cava clamping
+- Dose adjusted during reconstruction and before reperfusion
+- Minimize crystalloid, use FFP or albumin for volume in anhepatic phase
+
+## Temperature Management
+
+- Major heat losses during:
+  - Induction of anesthesia
+  - Patient exposure and preparation
+  - Anhepatic phase
+  - Reperfusion
+- Hypothermia causes platelet dysfunction, coagulopathy, cardiac conduction slowing, coronary vasospasm
+- Forced-air warming, warmed fluids, heated humidifier, heated gel pads
+
+## Monitoring and Bypass Access
+
+- Swan-Ganz catheter for hemodynamic monitoring and PA blood temperature
+- Veno-venous bypass access: percutaneous insertion techniques
+- Low CVP maintained initially as for standard liver resections
+- Percutaneous catheters in internal jugular/subclavian and infrarenal cava for bypass
+
+## Anhepatic Phase Considerations
+
+- Generally lasts 2 to 4 hours
+- FFP or albumin for volume requirements
+- Minimize crystalloid
+- Glucose levels monitored; constant glucose infusion required
+- PA blood temperature monitored continuously
+
+## Reperfusion Temperature Management
+
+- On reperfusion of cold autograft: PA blood temperature precipitously drops
+- Manual compression of portal inflow when temperature &lt;35°C
+- Portal occlusion for ~10 seconds allows PA temperature to rise to 36°C
+- Repeated as necessary
+- Avoids cardiac dysfunction from cold effluent
+
+## Three Phases of Ex Vivo Resection
+
+1. Assessment of resectability and removal of the liver
+2. Liver resection and vascular reconstruction on the back table
+3. Reimplantation of the liver autograft
+
+## Phase 1: Assessment of Resectability
+
+- Initial laparoscopy or limited abdominal incision for peritoneal disease
+- Negative laparoscopy does not guarantee resectability
+- Additional small lesions or peritoneal spread may be found
+- Bilateral subcostal incision with or without midline extension preferred
+- Midline sternotomy considered for hepatocaval confluence exposure
+
+## Assessment of the Liver
+
+- Assess for resectability
+- Tumor involvement of HVs with or without IVC involvement
+- Liver often congested from obstructed venous outflow
+- Care during mobilization: small capsule breach causes torrential bleeding
+- Venous congestion NOT a contraindication (resection relieves obstruction)
+
+## Hilar Preparation: Step 1
+
+- Arterial anatomy dissected
+- Division site usually just above common HA-gastroduodenal artery junction
+- Aberrant anatomy may require alternative site
+- Preserve small arterial communications to biliary plate
+- For perihilar cholangiocarcinoma: dissect far enough for tumor-free branch
+
+## Hilar Preparation: Step 2
+
+- PV identified, common bile duct (CBD) encircled without skeletonization
+- Cholecystectomy performed
+- CBD reflected off PV preserving blood supply
+- Neural and lymphatic tissue around PV cleared
+- PV and HA dissected and mobilized for individual clamping
+
+## IVC Preparation: Infrahepatic
+
+- Dissected down to level of renal veins and encircled
+- Planned clamp placement immediately above renal veins
+- Division may be more cephalad
+- Right adrenal vein ligated and divided
+- Small caudate veins divided if accessible
+
+## Liver Mobilization
+
+- Freed from surrounding attachments
+- Challenging when liver congested from chronic venous obstruction
+- If tumor infiltrating diaphragm: resect en bloc
+- Large tumors may restrict rotation without undue tension
+- Early decision for ex vivo approach before elevating liver off IVC
+
+## Suprahepatic IVC Preparation
+
+- Phrenic veins divided bilaterally
+- Diaphragm dissected away from IVC
+- Increased length of intra-abdominal IVC for clamping and reconstruction
+- Pericardium opened directly anterior to IVC
+- Intrapericardial IVC looped or midline sternotomy performed
+
+## Pre-Removal Planning
+
+- Clamp placement, transection lines, need for vascular conduits assessed
+- HV branches reconstructed using HV or PV segments from resected side
+- Autologous vein grafts: superficial femoral vein, proximal left renal vein, gonadal vein, saphenous vein
+- Cryopreserved femoral or iliac vein grafts for long segments
+- IVC replacement: 19-mm ringed PTFE (Gore-Tex) tube graft
+
+## Figure 124.13: Veno-Venous Bypass Circuit
+
+- Liver removed, patient on bypass
+- A: Opening in pericardium for intrapericardial IVC control
+- B: Vascular clamp on suprahepatic IVC
+- C: Vascular clamp on hepatic artery
+- D: Portal cannula in portal vein
+- E: Vascular clamp on infrahepatic IVC
+
+## Removal Sequence with Bypass
+
+- Percutaneous access of internal jugular and femoral/infrarenal cava
+- IVC clamped, caval bypass started
+- PV clamped below bifurcation, portal cannula inserted toward SMV
+- PV completely transected 1.5-2cm below bifurcation
+- Portal flow added to bypass circuit
+- CBD transected 1-1.5cm below bifurcation
+
+## Figure 124.14: Temporary Portocaval Shunt
+
+- Alternative to bypass in selected patients
+- Prolonged anhepatic phase without veno-venous bypass
+- Intrapericardial IVC encircled
+- PC shunt constructed between PV and IVC
+- CHA and GDA visible
+
+## Alternative Without Bypass
+
+- For complex HV involvement without IVC tumor involvement
+- Liver completely mobilized off retrohepatic IVC
+- Suspended only by HVs
+- Hilar structures divided as for standard ex vivo
+- Partial clamp across IVC occluding HV orifices but preserving cava flow
+- Temporary portocaval shunt decompresses enteric circulation
+
+## Hepatic Perfusion and Preservation
+
+- Liver placed immediately in ice bath
+- Perfused with preservation solution through PV
+- UW or HTK solution used
+- Initial 500-1000mL flushed through liver
+- Effluent from IVC should be clear
+- HA and biliary tree flushed with ~100mL additional solution
+- Liver immersed in cold UW solution
+
+## Cold Ischemic Time
+
+- Exact accepted time to reimplantation not known
+- Up to 4 hours associated with good outcomes
+- Total cold ischemic time usually 2-4 hours
+- Well within acceptable limits compared to split-liver or reduced-size allografts
+
+## Back Table Resection: Overview
+
+- Hilar structures dissected out and divided
+- Care not to divide segmental arteries supplying remnant liver
+- Main segmental PV divisions usually repairable and reconstructible
+- Parenchymal transection: CUSA, water-jet, or sharp knife division
+- No fear of blood loss during back table dissection
+
+## Figure 124.15: Preoperative CT — Colorectal Metastasis
+
+- Single colorectal metastasis involving all three hepatic veins
+- RHV involvement visible
+- Centrally placed tumor requiring complex outflow reconstruction
+
+## Figure 124.16: Planned Hepatic Transection Line
+
+- Dashed line shows planned transection
+- Multiple hepatic vein branches require reconstruction
+- Resection must preserve adequate remnant with viable venous drainage
+
+## Figure 124.17: Back Table Transection Result
+
+- Multiple branches of right hepatic vein requiring reconstruction
+- Large segment VI branch entering middle hepatic vein also requires reconstruction
+- Transection surface visible with multiple orifices
+
+## Figure 124.18: Completed Back Table Transection
+
+- Branches of RHV visible
+- Segment 6 vein identified
+- HA visible
+- All visible vessels and ducts ligated or clipped to prevent bleeding
+
+## Back Table Leak Testing
+
+- Flush PV, HA, and CBD with cold preservation solution
+- Identify leaks from cut surface
+- Repair leaks before reimplantation
+- Fibrin glue or similar hemostatic agents sprayed on cut surface
+
+## Hepatic Vein Reconstruction: Principles
+
+- Main reason for ex vivo resection: extensive IVC or HV involvement
+- Three main HVs and major branches relatively thick-walled
+- Straightforward to reconstruct even several centimeters from IVC
+- For transections close to IVC: trim parenchyma for direct reimplantation
+
+## Figure 124.19: Complex HV Reconstruction
+
+- Two of three RHV branches joined together
+- Implanted into reversed portal vein bifurcation from patient's hilum
+- Transverse portion of left portal vein added to reach IVC without tension
+- Cryopreserved femoral vein graft extends segment VI vein to IVC
+
+## Figure 124.20: Prepared Autograft Diagram
+
+- Multiple hepatic veins reconstructed with extension grafts
+- Reimplantation similar to living-donor right liver graft
+- Venous outflow restored before implantation
+
+## Figure 124.21: Reimplanted Liver
+
+- Extension graft visible
+- RHV branches reimplanted
+- Segment 6 vein reconstructed
+- HA visible
+- Demonstrates complexity of reconstruction achievable
+
+## Venous Graft Considerations
+
+- Grafts kept as short as possible
+- Care to prevent kinking
+- HV-graft anastomosis performed first
+- Graft then reimplanted into IVC
+- Alternative: rotate liver remnant on inflow pedicle to bring HV directly to caval graft
+
+## IVC Reconstruction Options
+
+- Resected IVC replaced with autologous vein or prosthetic graft
+- Autologous vein superior for infection and thrombosis resistance
+- Long segment replacement may require prosthetic
+- Salvage native IVC portion and move superiorly for HV reimplantation
+- Ringed 19-mm Gore-Tex tube graft for composite or complete replacement
+
+## Reimplantation Sequence
+
+- Similar to reduced-size LT or LDLT
+- Suprahepatic IVC anastomosis performed first
+- Artificial venous graft shortened to prevent kinking
+- Back wall of infrahepatic IVC completed
+- PV flushed with 500mL cold 5% albumin, vented through infrahepatic cava
+
+## Reperfusion and Hemostasis
+
+- Infrahepatic IVC anastomosis completed
+- Cold rinse washes high-potassium UW solution out before reperfusion
+- Portal limb of bypass clamped and removed
+- PV anastomosis performed
+- Suprahepatic IVC clamp removed, liver back-perfuses through HVs
+
+## Arterial and Biliary Reconstruction
+
+- Major bleeding controlled before portal reperfusion
+- PV clamp removed, liver reperfused
+- Cut surface bleeding controlled
+- Patient taken off veno-venous bypass
+- Arterial anastomosis performed
+- Total warm ischemic time: 20-40 minutes
+
+## Biliary Anastomosis
+
+- Duct-to-duct anastomosis preferred in recent experience
+- Earlier cases: Roux-en-Y choledochojejunostomy
+- Duct-to-duct mirrors right lobe LDLT experience
+- Stapled ends can be resected at reimplantation to avoid bile leakage
+
+## Postoperative Course: Immediate Care
+
+- Similar to major liver resection or liver transplantation
+- Enhanced recovery protocol
+- Step-down unit or ICU admission
+- Ultrasound with Doppler or CT with contrast on postoperative day 1
+- Assess liver blood flow
+
+## Postoperative Laboratory Findings
+
+- Day 1 transaminases: 200-1000 IU/L (standard)
+- Return to near normal in 1 week
+- Hyperbilirubinemia and coagulopathy (higher INR) common
+- Varies inversely with size of liver remnant
+- Hyperbilirubinemia alone not concerning if other markers improving
+
+## Markers of Graft Function
+
+- Early sign: return of lactate to baseline in 12-24 hours
+- Maintenance of PT/INR suggests recovery of liver function
+- Vitamin K and/or FFP may be needed first few days
+- Target INR &lt;2
+
+## Metabolic Considerations
+
+- Hypophosphatemia between postoperative days 1-3
+- Indicates liver regeneration
+- May be profound, requiring constant IV replacement
+- Expected part of recovery
+
+## Anticoagulation Protocol
+
+- Low-dose IV heparin (500 U/hr) perioperatively
+- Hematocrit maintained between 30% and 35%
+- Prophylactic low-molecular-weight heparin for 30 days
+- Low-dose aspirin for life in patients with artificial caval grafts
+- Postoperative imaging to rule out early thrombosis
+
+## Vascular Complications
+
+- HA or PV thrombosis and stenosis can occur
+- Suspect with sudden rise in liver enzymes (especially ALT)
+- Ultrasound Doppler or urgent CT angiography with low threshold
+- Full-dose anticoagulation if thrombosis occurs (&gt;1 week from surgery)
+- Balloon angioplasty or endovascular stents for venous anastomotic stenosis
+
+## Graft and IVC Complications
+
+- Dacron IVC graft compression by regenerated liver reported
+- Presents as acute Budd-Chiari syndrome
+- Endovascular stent placement resolves symptoms
+- Dacron tends to sclerose and occlude (usually asymptomatic due to collaterals)
+- Ringed PTFE grafts currently preferred; sclerosis not encountered
+
+## Biliary Complications
+
+- Biliary strictures can occur with duct-to-duct anastomosis
+- Approach with ERCP/PTC stent or balloon dilation
+- Standard management as for any biliary anastomotic stricture
+
+## Graft Infection
+
+- Potential complication of these procedures
+- Perioperative antibiotic prophylaxis important
+- Avoiding enteric opening (choledochocholedochostomy vs choledochoenterostomy) may reduce risk
+- PTFE graft-associated sepsis rarely reported in LDLT literature
+
+## Current Role of Ex Vivo Liver Resection
+
+- Extensive procedure in advanced malignancies: role open for discussion
+- Three decades since first description, few surgeons have attempted
+- Largest series from Pichlmayr's group: only 22 patients
+- Major reason: in situ and ante situm techniques applicable to majority
+
+## Why Ex Vivo Remains Rare
+
+- Requires surgeon familiar with advanced liver resection AND liver transplantation
+- Restricts procedure to relatively few individuals
+- Many candidates deemed unresectable by competent surgeons and not referred
+- High risk/benefit ratio
+- Most literature: case reports describing technique
+- Long-term follow-up often unavailable
+
+## Outcomes: Perioperative Mortality
+
+- Well-selected patients: perioperative mortality 10-30%
+- In situ or ante situm with vascular reconstruction: 30-day mortality ≤10%
+- Azoulay et al.: 90-day mortality 19.5%
+- Recent ante situm series for HCC: 4% 90-day mortality
+- Previous ante situm studies: 11-20% 90-day mortality
+
+## Outcomes: Long-Term Survival
+
+- Best 5-year survival for ex vivo malignancy: 15-30%
+- Azoulay cohort: overall 5-year survival 30.4%
+- Oldhafer's series: colorectal metastases median survival 21 months
+- Occasional long-term survivors:
+  - Cholangiocarcinoma patient disease-free at 3.5 years
+  - HCC patient disease-free &gt;5 years
+
+## The Value of Ex Vivo Capability
+
+- Many patients benefit simply by being considered for ex vivo resection
+- Qualified surgeon may realize resection possible with less aggressive technique
+- In situ cold perfusion or standard vascular reconstruction may suffice
+- Ex vivo consideration expands boundaries of what is deemed resectable
+
+## Future Perspectives
+
+- Liver surgery constantly evolving
+- What is questionable today may become mainstream tomorrow
+- Standard liver resection for malignancy was once considered bordering on lunacy
+- Improvements in surgical technique and perioperative care transformed outcomes
+- Advances in adjuvant oncologic therapies may further improve results
+
+## Summary: Indications by Technique
+
+- **In situ hypothermic perfusion**: Most straightforward theoretically; for tumors involving IVC/HV requiring vascular exclusion &gt;1 hour
+- **Ante situm**: Better access to IVC-HV junction; no biliary/arterial reconstruction needed; for combined IVC-HV reconstruction
+- **Ex vivo**: Complex HV and hilar involvement; acute Budd-Chiari; complete exteriorization for ideal exposure
+
+## Summary: Key Technical Points
+
+- Preoperative 3D imaging and volume assessment essential
+- Veno-venous bypass often unnecessary with modern techniques
+- Cold perfusion with UW or HTK solution
+- Minimize warm ischemia, flush preservation solution before reperfusion
+- Meticulous vascular reconstruction without time pressure on back table
+- Temperature and hemodynamic management critical
+
+## Summary: Patient Selection
+
+- Highly selected patients in specialized centers
+- Normal liver function or compensated disease preferred
+- CCI &lt;3, tumor &lt;10 cm, creatinine &lt;1.3 mg/dL
+- Adequate future liver remnant (&gt;40% if complex reconstruction)
+- No extrahepatic disease
+
+## Conclusion
+
+- Ex vivo and in situ hypothermic hepatic resection represent the extreme frontier of liver surgery
+- Require expertise in both hepatic resection and liver transplantation
+- Appropriate for select patients with otherwise unresectable tumors
+- Technique selection should minimize complexity while achieving oncologic goals
+- Continued evolution of these techniques may expand their role in the future

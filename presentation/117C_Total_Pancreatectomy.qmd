@@ -1,0 +1,451 @@
+---
+title: "Total Pancreatectomy"
+format:
+  revealjs
+---
+
+## Introduction
+
+- Total pancreatectomy is associated with **significant metabolic consequences** secondary to the loss of exocrine and endocrine function.
+- Resultant **brittle type III diabetes** can be difficult to manage and result in severe recurrent hypoglycemia in some patients.
+- Outcomes after total pancreatectomy for **pancreatic adenocarcinoma (PDAC)** are particularly poor, and this operation is **rarely indicated** in this setting.
+- More appropriate indications include:
+    - Chronic pancreatitis
+    - Recurrent acute pancreatitis
+    - Hereditary pancreatitis
+    - Main-duct intraductal papillary mucinous neoplasm (IPMN) involving the entire gland
+- **Islet auto transplant** is offered at select centers and may be considered, particularly for benign disease.
+- With advances in pancreatic enzyme supplementation and insulin management, total pancreatectomy can be performed safely with acceptable quality of life in appropriately selected patients.
+
+## Metabolic Consequences of Total Pancreatectomy
+
+- **Complete loss of exocrine function** → malabsorption, steatorrhea, need for lifelong pancreatic enzyme replacement therapy
+- **Complete loss of endocrine function** → brittle type IIIc diabetes
+    - Loss of both insulin-producing β-cells and glucagon-producing α-cells
+    - Severe recurrent hypoglycemia is a major risk
+- Difficult to manage; requires close endocrinology follow-up
+- Quality of life considerations must be discussed extensively with patients preoperatively
+- These consequences underscore the need for careful patient selection
+
+## Indications — Overview
+
+- Total pancreatectomy is reserved for specific clinical scenarios where lesser resections are inadequate
+- The operation is **rarely indicated for pancreatic adenocarcinoma** due to poor outcomes
+- Best outcomes are seen in **benign and premalignant disease**
+- Islet auto transplantation should be considered whenever feasible, particularly for benign indications
+- Patient selection and thorough preoperative counseling are paramount
+
+## Box 117C.1: Indications — Benign
+
+| Indication | Notes |
+|---|---|
+| **Chronic pancreatitis** | After exhausting other options |
+| **Recurrent acute pancreatitis** | After exhausting other options |
+| **Hereditary pancreatitis** | Prophylactic and therapeutic rationale |
+
+- Benign indications are the most common and best-supported reasons for total pancreatectomy
+- Surgery is considered only after other medical, endoscopic, and surgical options have been exhausted
+
+## Box 117C.1: Indications — Premalignant
+
+| Indication | Notes |
+|---|---|
+| **Intraductal papillary mucinous neoplasm (IPMN)** | With inability to clear margin |
+
+- IPMN represents a **field defect** — the entire gland may be at risk
+- Diffuse main-duct involvement or multifocal high-grade dysplasia may necessitate total pancreatectomy
+- Patients should be counseled preoperatively about the possibility of completion pancreatectomy if margins cannot be cleared
+
+## Box 117C.1: Indications — Malignant
+
+| Indication | Notes |
+|---|---|
+| **Pancreatic adenocarcinoma** | With inability to clear margin (rarely, after careful consideration) |
+| **Completion pancreatectomy** | For new/recurrent premalignant or malignant neoplasm |
+| **Completion pancreatectomy** | For uncontrolled pancreatic leak after partial pancreatectomy after exhausting other options (extremely rare) |
+
+- Malignant indications are uncommon due to poor survival outcomes
+- Completion pancreatectomy for adenocarcinoma at the resection margin remains controversial
+
+## Preparation — Overview
+
+- **Proper preoperative planning is the backbone for success**
+- Appropriate cardiopulmonary and medical work-up is essential
+- **Extensive counseling** regarding the endocrine and exocrine consequences of total pancreatectomy is necessary
+- The patient should be followed closely by the **endocrinology team** in the perioperative period
+- **Indications and goals of surgery** must be discussed extensively to ensure the patient is able to make an informed decision
+- Discussion is tailored to indication and varies considerably between benign and malignant processes
+- **Auto islet cell transplantation** is gaining acceptance and should also be considered, particularly for patients with benign disease
+
+## Box 117C.2: Preoperative Checklist
+
+| Item |
+|---|
+| Goals of surgery discussion |
+| Endocrinology evaluation |
+| Postsplenectomy vaccines |
+| Consideration of auto islet cell transplantation if appropriate |
+| Consideration of diagnostic laparoscopy for malignant disease |
+| Preoperative antibiotics |
+| Thromboembolism prophylaxis |
+
+- This checklist ensures all critical preoperative steps are addressed before proceeding to the operating room
+
+## Preparation — Morning of Surgery
+
+- **Thoracic epidural** placed for analgesia
+- **Arterial line** placed for hemodynamic monitoring
+- **Foley catheter** placed for urine output monitoring
+- **Radiology images** displayed and reviewed
+- A **single preoperative dose of antibiotics** administered
+- A **prophylactic dose of heparin** administered
+- **Sequential compression devices** placed on bilateral lower extremities
+- A **hard-stop time out** is performed before incision
+
+## Positioning, Incision, and Exposure
+
+- Patient positioned **supine** with arms at 90 degrees (or tucked at the side)
+- Careful attention to **padding all pressure points**
+- Abdomen **prepped widely**
+- **Diagnostic laparoscopy** performed if indicated
+- In most cases, a **midline incision** provides adequate exposure
+- Some surgeons prefer a **bilateral subcostal incision**
+- Abdominal cavity **carefully inspected** to ensure no benign or malignant processes preclude resection
+- A **self-retaining retractor** is used to gain exposure to the entire peritoneal cavity
+
+## Exposure — Key Surgical Considerations
+
+- The resection portion combines techniques previously discussed for:
+    - **Pancreaticoduodenectomy (PD)** — Chapter 117A
+    - **Distal pancreatectomy** — Chapter 117B
+- Patients with **chronic and recurrent acute pancreatitis** often have a particularly **hostile operative field**
+- The surgeon must have significant experience operating in this setting
+- Dense inflammatory and adhesions are common and require meticulous dissection
+
+## Kocher Maneuver and Entry of the Lesser Sac
+
+- Resection begins with a **generous Kocher maneuver** to expose the **left renal vein** and **aorta**
+- The **hepatic flexure** is mobilized
+- The **omentum** is dissected free from the transverse colon
+- The **lesser sac** is carefully inspected
+- The attachments between the **pancreas and stomach** are divided
+
+## Challenges in the Pancreatitis Patient
+
+- Dissection can be **challenging** in patients with pancreatitis depending on the extent of surrounding inflammation
+- The **transverse colon mesentery** may be fused to:
+    - The anterior surface of the pancreas
+    - The posterior surface of the stomach
+- **Meticulous dissection** is needed to avoid:
+    - Devascularization of the transverse colon
+    - Injury to the stomach
+    - Significant hemorrhage
+
+## Identification of the Superior Mesenteric Vein (SMV)
+
+- The **middle colic** and **gastroepiploic veins** are encountered toward the head of the pancreas
+- These commonly join to form a **gastrocolic trunk**, which can be followed to the SMV
+- **Ligation of the gastrocolic trunk** and other draining tributaries prevents unintentional traction injury and bleeding
+- Careful dissection allows exposure of the SMV, which can be **traced to the inferior border of the pancreas**
+
+## Control of SMV Bleeding
+
+- Bleeding encountered during dissection of the gastroepiploic vein, gastrocolic trunk, or SMV can be controlled by:
+    - Placing the **left hand behind the head of the pancreas/duodenum**
+    - **Compressing the SMV/portal vein** between the thumb and left fingers
+- A carefully placed **Prolene stitch** can typically control SMV bleeding
+- **Specific attention** should be paid to avoid **narrowing or occluding the SMV**
+
+## Distal Pancreas Dissection and Splenectomy
+
+- The **retroperitoneal reflection** between the inferior border of the pancreas and transverse mesocolon is divided
+- This mobilizes the **entire length of the gland** from the neck to the tail
+- The **splenic flexure** is mobilized
+- The **short gastric vessels** are ligated and divided
+- The **peritoneal attachments to the spleen** are divided
+- The **spleen** is mobilized medially out of the left upper quadrant
+- Dissection continues to the level of the **takeoff of the splenic artery**
+
+## Splenic Vessel Division
+
+- The **splenic artery** is divided at its origin from the **celiac trunk**
+- The **splenic vein** is divided at the level of the **portal vein**
+- Depending on the location of the **inferior mesenteric vein**, this tributary may be spared
+- The **coronary vein** can serve as an anatomic landmark coursing between the common hepatic and splenic arteries and frequently can be spared
+
+## Splenic Preservation Options
+
+- Splenic preservation can be considered, **particularly for benign disease**
+- Two approaches:
+    1. Dissection of the pancreatic tail out of the **splenic hilum** while preserving the **left gastroepiploic** and **short gastric vessels**
+    2. The **splenic artery and vein may be preserved** and the posterior surface of the pancreas dissected off of these structures
+- Splenic preservation avoids the long-term infectious risks of asplenism
+
+## Portal Dissection — Overview
+
+- Once the **infrapancreatic and splenic dissection** is completed, attention is turned to the **suprapancreatic dissection**
+- **Cholecystectomy** is performed
+- **Aberrant vascular anatomy** should be identified in advance on preoperative imaging
+- The **gastrohepatic ligament** is opened widely
+
+## Portal Dissection — Hepatic Artery and GDA
+
+- The **station 8** (common hepatic artery lymph node) is usually a good marker of the hepatic artery
+- The **common hepatic artery** is traced distally to identify the **right gastric artery**, which is divided between silk ties
+- This typically exposes the **gastroduodenal artery (GDA)**
+- The GDA is either **suture ligated** or divided with a **35 mm vascular stapler**
+
+## Confirming Hepatic Inflow Before GDA Division
+
+- Before division of the GDA:
+    - The **left and right hepatic arteries** are identified
+    - The GDA is **occluded with a bulldog or spoon clamp** to ensure hepatic inflow is not compromised
+- This confirms:
+    - The anatomy has been **correctly identified**
+    - The GDA has **not been mistaken** for the proper or common hepatic artery
+    - Hepatic inflow is **not dependent on retrograde flow** through the GDA from the SMA (as may occur in severe celiac stenosis)
+
+## Aberrant Arterial Anatomy
+
+- In cases of aberrant arterial anatomy with a **common hepatic trunk from the SMA**:
+    - The common hepatic artery will travel **behind the pancreas** with the SMV
+    - It will be visualized **posteriorly and to the left** of the GDA
+- If this is the case:
+    - It may be easier to identify the **proper hepatic artery and GDA**
+    - Trace those structures **posteriorly** to the common hepatic artery
+- Preoperative imaging is critical for identifying such variants
+
+## Bile Duct Isolation and Division
+
+- Division of the GDA reliably exposes the **portal vein** immediately posterior
+- Dissection along the **anterior and medial border** of the bile duct continues
+- The bile duct is **isolated with a vessel loop**
+- Isolation is performed **from medial to lateral** to avoid inadvertent injury to the portal vein
+- Careful attention is paid to ensure there is not a **replaced or accessory right hepatic artery** tracing behind and lateral to the bile duct
+
+## Bile Duct Division — Malignant Indications
+
+- The bile duct is **divided and sent for frozen** if the operation is for a malignant indication
+- If a **stent** was placed preoperatively:
+    - The stent is sent for **gross pathology**
+    - The bile duct is **swabbed for culture**
+- A **bulldog clamp** is placed on the proximal bile duct
+- The handle is oriented **laterally** to avoid it interfering with the ongoing dissection
+
+## Completion of the Portal Tunnel
+
+- Once the portal dissection is complete, the **tunnel beneath the pancreas** connecting the **portal vein and SMV** is completed
+- A **Penrose drain or umbilical tape** is used to assist with retraction
+- This tunnel is a critical step connecting the superior and inferior dissection planes
+
+::: callout-note
+**Figure 117C.1**: A tunnel beneath the pancreas connecting the portal vein and SMV is completed and a Penrose drain or umbilical tape is used to assist with retraction.
+:::
+
+## Pancreatic Neck Division — Two-Specimen Approach
+
+- Depending on the indication for total pancreatectomy, the **pancreatic neck may be divided** followed by dissection of the **uncinate process off the SMA** as is performed in PD
+- This results in **two specimens**
+- This is the **most commonly employed method** of total pancreatectomy
+- It allows a familiar, stepwise approach combining PD and distal pancreatectomy techniques
+
+## En Bloc Resection
+
+- In cases where division of the pancreatic neck is **not appropriate**, the specimen may be resected **en bloc**
+- En bloc resection can be **technically challenging**
+- The safest and most efficient approach:
+    - **Fully mobilize the entire specimen**
+    - **Lift the left pancreas** out of the operative field to the patient's right side
+    - Complete the **uncinate dissection** with the specimen elevated
+- This provides excellent exposure of the retropancreatic portal vein and SMA
+
+## Pylorus Preservation vs. Classic Total Pancreatectomy
+
+- The **duodenum or stomach** is divided at the discretion of the surgeon
+- There is some data to suggest **better nutritional outcomes and quality of life** in patients that undergo **pylorus-preserving total pancreatectomy** compared with classic total pancreatectomy
+- The choice depends on the indication, disease extent, and surgeon preference
+
+## Jejunal Resection
+
+- The **jejunum** is divided approximately **10 cm distal to the ligament of Treitz**
+- The **mesentery** is divided along the surface using an **energy device**
+- The dissection should proceed **immediately adjacent to the jejunum** to avoid unintentional bleeding from the jejunal mesentery
+- The **ligament of Treitz** is fully mobilized and the jejunum is passed through the defect
+
+## Uncinate Resection — En Bloc Technique
+
+- If the specimen is to be removed en bloc, the remaining uncinate dissection is best performed by **lifting the left pancreas out of the operative field toward the patient's right side**
+- This exposes the **retropancreatic portal vein and SMA**
+- **Extreme care** is taken to avoid avulsing the remaining **venous tributaries** to the portal vein
+- These are divided with **clips, ties, or a 35 mm vascular stapler** as appropriate
+
+## SMA Skeletonization
+
+- Once the pancreatic head is fully mobilized off the portal vein, a **vein retractor** is used to apply gentle **leftward traction** on the portal vein
+- This exposes the **SMA** nicely
+- The SMA is **skeletonized** to free the remaining attachments to the **uncinate process and retroperitoneum**
+- Branches are divided as appropriate using:
+    - Energy device
+    - Ties
+    - Clips
+    - 35 mm vascular stapler
+
+## Specimen Removal and Hemostasis
+
+- The **specimen is passed off the field**
+- **Margins** are sent for frozen section as appropriate
+- **Absolute hemostasis** is ensured
+- The operative field is carefully inspected before proceeding to reconstruction
+
+::: callout-note
+**Figure 117C.2A**: Total pancreatectomy resection specimen with pylorus preservation and en bloc splenectomy performed in chronic pancreatitis. Islet autotransplantation was performed.
+
+**Figure 117C.2B**: Total pancreatectomy resection with antrectomy and en bloc splenectomy in patient with chronic pancreatitis. Islet autotransplantation was performed.
+:::
+
+## Reconstruction — Overview
+
+- A small defect is created in the **transverse mesocolon**, to the right of the **middle colic vessel**
+- The **jejunal limb** is delivered into the upper abdomen
+- The **staple line** is oversewn
+- An **end-to-side hepaticojejunostomy** is created
+- The biliary anastomosis is the key reconstruction step since there is no pancreatic anastomosis
+
+## Hepaticojejunostomy — Dilated Bile Duct
+
+- If the bile duct is **dilated**, a **running anastomosis** is created
+- The **posterior layer** is fashioned with **PDS suture**
+- The bowel is opened with **needle point electrocautery**
+- A **second posterior layer** of interrupted **Vicryl sutures** is created to ensure the mucosa is appropriately incorporated
+- The **anterior layer** is performed with a **second PDS suture**
+
+## Hepaticojejunostomy — Small or Thin-Walled Duct
+
+- If the bile duct is **small or particularly thin-walled**, an **interrupted anastomosis** is created
+- Suture options:
+    - **PDS sutures**
+    - **Vicryl sutures**
+- This technique allows more precise mucosa-to-mucosa approximation in delicate ducts
+
+::: callout-note
+**Figure 117C.3A**: Posterior wall biliary anastomosis.
+
+**Figure 117C.3B**: Anterior wall biliary anastomosis.
+:::
+
+## Gastrojejunostomy / Duodenojejunostomy
+
+- Approximately **30 cm downstream**, an **antecolic duodeno- or gastrojejunostomy** is created
+- This is **handsewn with 2 layers of PDS**
+- The jejunum is **tacked to the defect** in the right colon mesentery with interrupted silk sutures
+- The defect at the **ligament of Treitz** is closed with silk sutures
+- This restores gastrointestinal continuity
+
+## Drains and Wound Management
+
+- A **single 19-round Blake drain** is placed behind the biliary anastomosis
+- **Hemostasis** is again ensured
+- An **incisional wound vac** is frequently placed, especially in cases with prior instrumentation of the biliary tree
+- The wound vac may help reduce surgical site infection risk in contaminated fields
+
+## Minimally Invasive Total Pancreatectomy
+
+- A handful of centers have reported acceptable outcomes with either a **laparoscopic** or **robotic** approach for total pancreatectomy
+- Minimally invasive total pancreatectomy should be **limited to high-volume centers** with significant experience in minimally invasive pancreatic surgery
+- The complexity of the operation demands advanced minimally invasive expertise
+
+## Islet Cell Transplantation — History and Goals
+
+- Total pancreatectomy with **islet auto transplantation** was first performed in **1977 at the University of Minnesota** for a patient with refractory chronic pancreatitis
+- The goal of islet cell transplantation is to **prevent, or at least mitigate, the consequences of type III diabetes** by restoring beta cell function
+- This is a critical adjunct for patients undergoing total pancreatectomy for benign disease
+
+## Islet Cell Transplantation — Indications
+
+- Generally accepted indications for total pancreatectomy with islet auto transplantation:
+    - **Refractory chronic pancreatitis**
+    - **Recurrent acute pancreatitis**
+    - **Hereditary pancreatitis**
+- Some centers have advocated for **expanded indications**, but this remains controversial
+- Expanded indications should only be considered at **highly specialized centers**, ideally under an investigational protocol
+- Either **pylorus preservation** or **antrectomy** is acceptable in most cases
+
+## Islet Cell Transplantation — Islet Isolation
+
+- After total pancreatectomy, the specimen is delivered to a **laboratory with experience in islet isolation**
+- The **pancreatic duct is infused with collagenase**
+- **Islets are harvested** from the digested tissue
+- Depending on institutional resources and expertise, islets may be processed **on or off site**
+
+## Islet Cell Transplantation — Portal Infusion
+
+- Once available, islets are **infused into the portal circulation**:
+    - During the **same operation**, or
+    - **Percutaneously** as a staged procedure
+- **Portal pressures** should be monitored closely and **not exceed 25 cm H₂O**
+- Increased portal pressures during delivery increase the risk of **portal vein thrombosis**
+- Careful monitoring is essential for safe islet delivery
+
+## Completion Total Pancreatectomy — IPMN
+
+- This continues to be an area of **significant debate**
+- In the setting of **main-duct or multifocal IPMN**, the patient should be counseled preoperatively that this disease represents a **field defect** and the entire gland may be at risk
+- Generally, the **morbidity of total pancreatectomy outweighs** that of prophylactic pancreatectomy
+- Scenarios warranting total pancreatectomy in fit patients:
+    - **Diffuse main duct involvement**
+    - **Multifocal disease** in high-risk patients
+    - **Persistent high-grade dysplasia** at the pancreatic resection margin
+
+## Completion Total Pancreatectomy — IPMN Management Algorithm
+
+- Frozen section is sent intraoperatively
+- If the margin returns as **high-grade dysplasia**, an attempt is made to **clear this margin**
+- If there is **persistent high-grade dysplasia** at the resection margin, **total pancreatectomy is performed** if there are no contraindications
+- If the patient is **not appropriate** for total pancreatectomy, or there is **low-grade dysplasia** at the resection margin, **long-term surveillance** is the approach (as with all patients with IPMN)
+
+## Completion Total Pancreatectomy — Adenocarcinoma
+
+- **Pancreatic adenocarcinoma at the resection margin** is a poor prognostic indicator and likely a marker of **aggressive biology**
+- When performing a Whipple for adenocarcinoma:
+    - The **pancreatic neck margin** is sent for frozen section analysis
+    - Every attempt is made to **clear this margin**
+    - **Total pancreatectomy is avoided whenever possible**
+- There is **conflicting evidence** as to whether frozen section analysis with clearance of the pancreatic neck margin is associated with improved survival
+- Outcomes after total pancreatectomy for adenocarcinoma are **poor**, and this operation is **rarely indicated**, even in the setting of a positive resection margin after partial pancreatectomy
+
+## Postoperative Care — Immediate
+
+- Patient is monitored in the **intensive care unit overnight**
+- Started on an **insulin drip**
+- A **nasogastric tube** is typically left in place and removed on the morning of **postoperative day one**
+- The **Foley catheter** is removed once it is no longer necessary for urine output monitoring
+
+## Postoperative Care — Diet and Medications
+
+- Patient is **slowly advanced to a diabetic diet** over the coming days
+- **Endocrinology** assists with dosing of long- and short-acting insulin
+- The **epidural catheter** is removed once the patient is tolerating a full liquid diet
+- **Pancreatic enzymes** are administered as the patient begins to increase their oral intake
+- The **surgical drain** is removed assuming it is nonbilious
+
+## Postoperative Care — Discharge and Follow-Up
+
+- **Nutrition and diabetes education is paramount**
+- The patient is discharged home once all criteria are met
+- The patient is evaluated **frequently as an outpatient** by:
+    - Surgical team
+    - Endocrinology team
+    - Nutrition team
+- Lifelong pancreatic enzyme replacement and insulin therapy are required
+- Close multidisciplinary follow-up ensures optimal long-term outcomes
+
+## Summary — Key Points
+
+- Total pancreatectomy is a major operation with significant metabolic consequences
+- **Careful patient selection** and extensive preoperative counseling are essential
+- Best suited for **benign and premalignant disease** (chronic/recurrent pancreatitis, hereditary pancreatitis, diffuse IPMN)
+- Rarely indicated for pancreatic adenocarcinoma due to poor outcomes
+- The operation combines techniques of **pancreaticoduodenectomy** and **distal pancreatectomy**
+- **Islet auto transplantation** should be considered for benign indications to mitigate brittle diabetes
+- Reconstruction involves **hepaticojejunostomy** and **gastrojejunostomy/duodenojejunostomy**
+- **Multidisciplinary care** (surgery, endocrinology, nutrition) is critical for long-term success

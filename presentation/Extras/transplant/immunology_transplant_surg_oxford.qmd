@@ -1,0 +1,769 @@
+---
+title: "The Immunology of Organ Transplantation"
+author: "Harry VM Spiers & Vasilis Kosmoliaptsis"
+format:
+  revealjs
+---
+
+## Abstract
+
+Solid organ transplantation offers a transformative and often the only life-saving treatment option for many patients with end-stage organ failure.
+
+Despite remarkable success in overcoming surgical and medical challenges over the past decades, the principal biological hurdle to maximizing the benefits of transplantation is **immunological**.
+
+This presentation provides an overview of the immune response, graft rejection, and the translation of immunological understanding into clinical practice.
+
+## Introduction: The Immunological Hurdle
+
+Solid organ transplantation is the only life-saving treatment for end-stage disease involving the kidney, liver, heart, lung, pancreas, and small bowel.
+
+The recipient immune system recognizes foreign cells and tissue, leading to a sophisticated and complex response that threatens the donor organ in both the short- and longer-term.
+
+Controlling this response involves immunosuppressive medications with significant implications for the recipient.
+
+## The Hierarchy of Immunogenicity
+
+The intensity of the immunological response varies across organ types:
+
+- **Small bowel**: Most immunogenic (passenger lymphocytes in gut-associated lymphoid tissue)
+- **Heart and lung**: Close behind (clinical urgency restricts matching)
+- **Kidney and pancreas**: Donor-recipient tissue matching is well established
+- **Liver**: Requires relatively less immunosuppression; rejection is easier to treat
+
+The **kidney** serves as the principal model in this article, though concepts apply broadly.
+
+## Terminology: Types of Grafts
+
+| Term | Definition |
+|:---|:---|
+| **Graft** | Broad term describing any transplanted cell, tissue, or organ |
+| **Allo-** | Prefix referring to transplantation between two genetically non-identical individuals of the same species |
+| **Iso-** | Prefix referring to transplantation between genetically identical individuals (e.g., identical twins) |
+| **Auto-** | Prefix referring to transplantation from one site to another within the same individual |
+| **Xeno-** | Prefix referring to transplantation across different species (e.g., pig-to-human) |
+
+## Terminology: HLA and Allorecognition
+
+| Term | Definition |
+|:---|:---|
+| **MHC** | Region of the genome (chromosome 6p) encoding HLA genes and other immune proteins |
+| **HLA** | Human leucocyte antigens are cell surface proteins that present peptide fragments to T cells, enabling self/non-self discrimination |
+| **Allorecognition** | The process by which the recipient immune system identifies donor tissue as non-self |
+| **Alloresponse** | The totality of the recipient immune response directed against the donor allograft |
+
+## Terminology: DSA and Sensitization
+
+| Term | Definition |
+|:---|:---|
+| **DSA** | Donor-specific antibody |
+| **Sensitization** | Exposure to non-self HLA (through pregnancy, transfusion, or transplantation) that generates anti-HLA antibodies and immunological memory |
+
+## Antigens in Transplantation: Overview
+
+The major molecular targets of the alloimmune response are:
+
+1. **ABO blood group antigens**
+2. **Human leucocyte antigens (HLA)**
+3. **Non-HLA antigens** (minor histocompatibility antigens)
+
+Almost all solid organ transplants are **allografts** — donated from one individual to a genetically non-identical recipient.
+
+## ABO Blood Group Antigens
+
+ABO blood group antigens are glycoproteins expressed on:
+
+- Red blood cells (RBCs)
+- Vascular endothelium of solid organs
+
+The four major phenotypes (A, B, AB, O) are determined by the presence or absence of A and B carbohydrate side chains on a common precursor (H antigen).
+
+## ABO Compatibility in Transplantation
+
+| Blood Group | UK Prevalence | Antigen on RBCs/Endothelium | Preformed Antibodies in Serum | Compatible Recipients |
+|:---|:---|:---|:---|:---|
+| **A** | 45% | A | Anti-B (IgM/IgG) | A, O |
+| **B** | 9% | B | Anti-A (IgM/IgG) | B, O |
+| **AB** | 3% | A and B | None | A, B, AB, O (universal recipient) |
+| **O** | 43% | Neither A nor B | Anti-A and Anti-B (IgM/IgG) | O only (universal donor) |
+
+## Clinical Significance of ABO
+
+ABO antibodies arise naturally during infancy through cross-reactive stimulation by environmental antigens (**molecular mimicry**).
+
+Transplantation into a non-ABO-matched recipient can result in **hyperacute rejection** and graft loss through rapid activation of complement and coagulation systems.
+
+ABO-incompatible (ABOi) transplantation is possible mainly in the living donor setting or occasionally in urgent deceased-donor liver transplantation.
+
+## The Rhesus (Rh) System
+
+The Rh system is **not a barrier** to solid organ transplantation.
+
+- Rh antigens are expressed solely on red cells
+- Red cells are mostly flushed out of the organ before implantation
+- Not expressed on vascular endothelium
+
+**Exception**: Rh D-negative women of childbearing age may become sensitized after exposure to Rh D-positive red cells, requiring anti-RhD immunoglobulin prophylaxis.
+
+## The Human Leucocyte Antigen (HLA) System
+
+The HLA system is **central** to the regulation of the immune system and the response to transplantation.
+
+HLA refers to the human protein structure of the **major histocompatibility complex (MHC)**, located on the short arm of **chromosome 6**.
+
+This region encodes the most polymorphic region of the human genome.
+
+## Organization of the MHC
+
+The MHC is divided into three subregions:
+
+- **Class I**: Encodes HLA-A, -B, and -C (classical); HLA-E, -F, and -G (non-classical)
+- **Class II**: Encodes HLA-DR, -DQ, and -DP (classical); HLA-DM and -DO (regulatory)
+- **Class III**: Encodes neither class I nor II, but contains immunologically important genes including TNF cytokines and heat shock proteins
+
+## HLA Class I Molecules
+
+Found on **most nucleated cells** at various levels of expression.
+
+**Structure:**
+- Glycosylated heavy chain
+- Non-covalently associated with β2-microglobulin (chromosome 15)
+
+**Function:**
+- Present intracellular peptides (8–11 amino acid residues)
+- Surveyed by **CD8+ cytotoxic T lymphocytes** via the TCR
+
+## HLA Class II Molecules
+
+Heterodimers consisting of two non-covalently associated transmembrane glycoprotein chains (alpha and beta).
+
+**Function:**
+- Accommodate longer peptides (13–25 residues)
+- Derived from exogenous, endocytosed, or phagocytosed proteins
+- Recognized by **CD4+ T cells**, leading to activation of the adaptive immune response
+
+**Expression:** Professional APCs constitutively; inducible on endothelium and epithelium by IFN-γ and TNF-α.
+
+## Summary: HLA Class I vs. Class II
+
+| Feature | HLA Class I | HLA Class II |
+|:---|:---|:---|
+| **Subgroups** | HLA-A, HLA-B, HLA-C | HLA-DR, HLA-DQ, HLA-DP |
+| **Structure** | Polymorphic α heavy chain + β2-microglobulin | Two non-covalently associated chains (α and β) |
+| **Peptide-binding groove** | Closed-ended; 8–11 residues | Open-ended; 13–25 residues |
+| **Source of peptide** | Predominantly intracellular | Predominantly extracellular |
+| **Cell presentation target** | CD8+ cytotoxic T cells | CD4+ helper T cells |
+| **Expression** | Virtually all nucleated cells | Professional APCs; inducible on endothelium/epithelium |
+| **Polymorphism** | Very high; HLA-B alone exceeds 10,000 alleles | High at DRB1, DQA1, DQB1, DPB1 |
+
+## HLA Polymorphism
+
+The MHC is the most polymorphic region in the human genome with more than **44,500 HLA alleles** identified.
+
+**Mechanisms of diversity:**
+- Point mutation
+- Gene conversion
+- Recombination at well-defined hotspots
+
+**Evolutionary pressure:** Recognition of a vast array of pathogens. Diversity varies by geographic region and ethnic group.
+
+## HLA Polymorphism in Transplantation
+
+HLA antigens are inherited co-dominantly as **haplotypes**.
+
+A heterozygous individual expresses two different alleles at each of the six classical loci (HLA-A, -B, -C, -DR, -DQ, -DP).
+
+The probability of finding a fully matched unrelated donor is **low**, particularly for patients from ethnic minority backgrounds.
+
+## Minor Histocompatibility Antigens (mHAs)
+
+Beyond ABO and HLA, **mHAs** can elicit an alloimmune response:
+
+- Non-HLA proteins with low polymorphism
+- Allelic variants differ between donor and recipient
+- Peptides derived from donor-specific mHA variants recognized by recipient T cells in context of recipient HLA
+
+**Clinical significance:** Limited in solid organ transplantation, though a prominent role in rejection is possible with multiple mHA mismatches.
+
+## Activation of the Immune System: Overview
+
+The immune response against a transplanted organ is initiated at organ procurement and continues through preservation and transplantation.
+
+Physiological stress activates the **innate immune system**, which primes and amplifies the **adaptive immune response**.
+
+## Innate Immune System: Triggers
+
+The innate immune system is triggered by **sterile injury** resulting from:
+
+- Donor brainstem or circulatory death
+- Haemodynamic instability in the donor
+- Surgical organ procurement
+- Organ cold storage
+- Ischaemia-reperfusion injury (IRI) at implantation
+
+## Innate Immune System: DAMPs and PRRs
+
+Ischaemia renders cells unable to maintain homeostasis, leading to cellular damage and death.
+
+**Damage-associated molecular patterns (DAMPs)** released include:
+- High mobility group box 1 (HMGB1)
+- Heat shock proteins
+- Histones
+- ATP
+
+**Pattern recognition receptors (PRRs)** sensing DAMPs include:
+- Toll-like receptors (TLRs)
+- RIG-like receptors
+- NOD-like receptors
+
+## Complement Activation: Overview
+
+The complement system is a series of protein kinases sequentially activated, culminating in the **membrane attack complex (MAC)** (C5b-C9).
+
+MAC insertion disrupts cellular integrity leading to cell lysis.
+
+**Three activation pathways** converge on the common effector cascade.
+
+## Complement Activation Pathways
+
+*(Figure from original article: Complement activation pathways prior to formation of the common C5-9 membrane attack complex)*
+
+The three pathways are:
+
+1. **Classical pathway**: C1q binds to IgM or IgG immune complexes
+2. **Lectin/MBL pathway**: MBL or ficolins recognize carbohydrate patterns on pathogens or stressed cells
+3. **Alternative pathway**: Constitutively active at low level; requires regulation
+
+## Classical Pathway Details
+
+Initiated when C1q binds to immunoglobulin (IgM or IgG) immune complexes.
+
+C1r and C1s are sequentially activated, cleaving C4 and C2 to form the **C3 convertase (C4b2a)**.
+
+Particularly important in **antibody-mediated rejection** where antigen-antibody complexes induce complement effector function.
+
+## Lectin and Alternative Pathways
+
+**Lectin/MBL pathway:**
+- Triggered when mannose-binding lectin (MBL) or ficolins recognize carbohydrate patterns
+- Directly activated by IRI, independent of antibody
+
+**Alternative pathway:**
+- Constitutively active at low level
+- Requires circulating inhibitors (C1 esterase inhibitor, factors H and I)
+- Membrane-bound inhibitors: MCP, DCAF (CD55), protectin (CD59)
+- IRI downregulates complement regulatory proteins on graft endothelium
+
+## Complement Cascade and Regulation
+
+All three pathways generate a **C3 convertase** (C4bC2a or C3bBb), which cleaves C3 into:
+
+- **C3a**: Anaphylatoxin (recruits innate immune cells)
+- **C3b**: Opsonin
+
+C3b cleaves C5 to initiate the final common pathway resulting in MAC formation. Byproducts recruit neutrophils and mast cells.
+
+## Cellular Components: Neutrophils
+
+Neutrophils are rapidly recruited during IRI in response to chemokines (e.g., IL-8) from activated endothelial cells.
+
+**Functions:**
+- Engage DAMPs via PRRs
+- Produce reactive oxygen species and cytokines
+- Undergo **NETosis**: expel nuclear chromatin as extracellular traps (pro-inflammatory consequences in sterile settings)
+
+## Cellular Components: Macrophages
+
+Key effectors differentiated from monocytes, responsible for:
+
+- Phagocytosis of pathogens/cellular debris
+- Recruitment of other immune cells
+
+**Polarization spectrum:**
+- **M1 phenotype** (pro-inflammatory): Activated by DAMPs/pro-inflammatory cytokines; secretes TNF-α, IL-6, and IL-1β
+- **M2 phenotype** (anti-inflammatory)
+
+Macrophages drive both T-cell and B-cell allograft responses.
+
+## Cellular Components: Natural Killer (NK) Cells
+
+Innate lymphoid cells with roles in virus and tumour surveillance.
+
+- Express activating and inhibitory receptors
+- Recognize abnormal cells without prior sensitization
+- Lyse donor cells lacking self HLA class I (**"missing self" paradigm**)
+- Perform antibody-dependent cell-mediated cytotoxicity (ADCC) via Fcγ receptor
+- Act as "helper" innate immune cells
+
+## Cellular Components: Dendritic Cells
+
+Specialized **antigen-presenting cells (APCs)** — the critical bridge between innate and adaptive immunity.
+
+- Phagocytose donor antigens within tissues
+- Migrate to local lymph nodes
+- Present antigenic peptides to T cells via HLA
+- Prime activation of different T cell subsets through specific receptors and cytokines
+
+## Adaptive Alloimmunity: Antigen Presentation
+
+The adaptive immune response begins with recognition of donor antigen by recipient T cells through three concurrent pathways:
+
+1. **Direct allorecognition**
+2. **Indirect allorecognition**
+3. **Semi-direct allorecognition**
+
+These differ in kinetics, cellular origin, and contribution at different stages after transplantation.
+
+## Direct Allorecognition
+
+Recipient T cells recognize **intact donor HLA-peptide complexes** displayed on the surface of donor APCs.
+
+- Donor APCs (principally tissue-resident dendritic cells or "passenger leucocytes") mature in response to inflammation
+- Migrate from graft to recipient secondary lymphoid tissue
+- Encounter naïve recipient T cells
+- **Predominates in the early post-transplant period**, driving acute T cell-mediated rejection
+
+## Indirect Allorecognition
+
+Recipient APCs take up donor-derived proteins shed from the graft (HLA molecules prominent among them).
+
+- Process these into peptide fragments
+- Present them on **self-HLA class II** to recipient CD4+ T cells
+- The canonical pathway for handling foreign proteins
+- Continues for as long as the graft persists
+- **Principal driver of de novo DSA** and chronic humoral injury
+
+## Semi-Direct Allorecognition
+
+Proposed to address how indirectly-primed CD4+ helper T cells deliver linked help to directly-primed CD8+ cytotoxic T cells.
+
+Recipient DCs acquire intact donor HLA-peptide complexes by:
+- **Trogocytosis** ("nibbling" the cell membrane) of donor cells
+- Uptake of donor-derived extracellular vesicles (EV)
+
+A single recipient APC can deliver direct pathway recognition to CD8+ T cells while priming CD4+ T cells via the indirect pathway.
+
+## Pathways of Allorecognition
+
+*(Figure from original article: Pathways of Allorecognition)*
+
+- **Direct**: Donor APCs migrate to secondary lymphoid tissue and stimulate alloreactive recipient T cells via donor MHC
+- **Indirect**: Recipient APCs process proteins and present peptides derived from the graft
+- **Semi-direct**: Recipient APCs simultaneously present donor-specific peptides via self MHC and donor-derived MHC
+
+## T-Cell Activation: The Three Signals
+
+Recognition of HLA-peptide by the T-cell receptor (**Signal 1**) is necessary but not sufficient.
+
+Two further signals are required:
+
+- **Signal 2**: Co-stimulation through cell-surface receptors
+- **Signal 3**: Cytokine support
+
+Each major class of immunosuppressive drug acts on one of these three signals.
+
+## Signal 1: TCR Engagement
+
+Delivered through the αβ T-cell receptor in complex with CD3 subunits.
+
+**Downstream cascade:**
+- LCK and ZAP70 kinases
+- Adaptor proteins LAT and SLP76
+- Calcineurin activates NFAT
+- NFAT drives IL-2 expression
+
+**Drug target:** Calcineurin inhibitors (tacrolimus, ciclosporin) act here.
+
+## Signal 2: Co-stimulation
+
+Delivered through co-stimulatory receptors.
+
+**Prototype:** CD28 binding B7-1 (CD80) or B7-2 (CD86).
+
+- Engagement of CD28 in the context of TCR ligation drives glucose uptake and IL-2 secretion
+- Without Signal 2, the T cell becomes anergic or undergoes deletion
+
+**Reciprocal activation:** CD40 on APC engages CD154 (CD40L) on T cell.
+
+## Signal 3: Cytokine Support
+
+Delivered by cytokines released upon TCR engagement and costimulation.
+
+**Chief cytokine:** IL-2 acting on its high-affinity α/β/γ receptor.
+
+- Drives proliferation and effector differentiation
+- Stimulates macrophages, dendritic cells, B cells, and CD8+ T cells
+
+**CD4+ polarization subsets:**
+- Th1 (IFN-γ)
+- Th2 (IL-4, IL-5, IL-13)
+- Th17 (IL-17)
+- Regulatory T cells (Tregs: CD4, CD25, FoxP3)
+
+## Effector Mechanisms: Overview
+
+Activation of the adaptive alloimmune response is delivered by three main effector pathways:
+
+1. **Direct cellular toxicity** (CD8+ CTLs)
+2. **Humoral (antibody-mediated) response**
+3. **Delayed-type hypersensitivity (DTH)**
+
+## CD8+ Cytotoxic T Lymphocytes
+
+Principal executors of antigen-specific graft destruction.
+
+After priming, clonally expanded CTLs infiltrate the graft and lyse donor cells bearing non-self HLA class I molecules.
+
+**Cytotoxicity routes:**
+- **Granule exocytosis**: Perforin perforates target membrane; granzymes trigger apoptotic cascades
+- **Fas-FasL pathway**: CTL-expressed FasL engages Fas on graft cells, activating caspase-dependent apoptosis
+
+## Humoral Response: B Cell Activation
+
+B cells encountering donor HLA in secondary lymphoid tissue undergo:
+
+1. **Initial extrafollicular response**: Low-affinity IgM production
+2. **Germinal centre reaction** (with CD4+ T cell help via CD40-CD154): Somatic hypermutation and class-switching to high-affinity IgG
+
+**Long-lived compartments:**
+- Bone marrow-resident plasma cells (secrete IgG without further antigen exposure)
+- Memory B cells (rapid amplified responses on re-encounter)
+
+## DSA Injury Mechanisms
+
+Donor-specific antibody (DSA) bound to graft endothelium causes injury through three mechanisms:
+
+1. **Complement activation**: C1q binding to IgG Fc initiates classical pathway; C4d persists as diagnostic marker
+2. **Fc-receptor-mediated injury**: Fcγ receptors on NK cells mediate ADCC; IFN-γ damages endothelium
+3. **Direct endothelial activation**: DSA cross-linking HLA promotes endothelial proliferation, P-selectin expression, monocyte recruitment, and smooth-muscle remodelling
+
+## Delayed-Type Hypersensitivity (DTH)
+
+In DTH, CD4+ Th1 cells within the graft produce IFN-γ and TNF-α, activating macrophages and promoting their recruitment.
+
+**Activated macrophages cause tissue damage through:**
+- Reactive oxygen intermediates
+- Lysosomal enzymes
+- TNF-α
+
+**Fibrotic consequences:** Release of TGF-β and fibroblast growth factors driving smooth muscle cell proliferation and interstitial fibrosis — central to chronic rejection.
+
+## Classification of Allograft Rejection
+
+| Type | Onset | Mechanism | Treatment |
+|:---|:---|:---|:---|
+| **Hyperacute rejection** | Minutes to hours | Preformed DSA → complement activation → intravascular thrombosis → graft necrosis | Irreversible; prevention by cross-matching and ABO compatibility |
+| **Acute TCMR** | Days to weeks | CD4/CD8 T cell infiltration; tubulitis; endothelialitis | High-dose IV methylprednisolone; ATG for severe/steroid-resistant episodes |
+| **Acute ABMR** | Weeks to months | De novo or memory DSA; complement activation (C4d+); microvascular injury | IV methylprednisolone + plasmapheresis + IVIG ± rituximab ± eculizumab |
+| **Chronic rejection/IF/TA** | Months to years | Indolent cellular and/or humoral responses; non-immunological co-factors | Optimize immunosuppression; control contributing lifestyle factors |
+
+## Hyperacute Rejection (HAR)
+
+Occurs within **minutes to hours** of graft reperfusion.
+
+**Cause:** High titres of preformed DSA (most commonly anti-ABO, also anti-HLA class I) circulating at the time of transplantation.
+
+**Pathophysiology:**
+- Antibody deposition on graft endothelium
+- Immediate complement activation and coagulation cascade engagement
+- Widespread intravascular thrombosis, ischaemia, and graft necrosis
+
+**Outcome:** Irreversible and almost universally results in graft loss. Now exceptionally rare due to pretransplant ABO compatibility and tissue typing.
+
+## Acute T Cell-Mediated Rejection (TCMR)
+
+Historically the dominant form of acute rejection; now largely controlled by modern immunosuppression.
+
+- Clinically significant TCMR occurs in ~10–15% of kidney transplant recipients in the first year
+- Most early biopsies show only borderline changes
+
+**Histology:** Interstitial mononuclear infiltrate with tubulitis; in severe cases, endothelialitis (intimal arteritis).
+
+**Grading:** Banff classification (2024).
+
+## Acute Antibody-Mediated Rejection (ABMR)
+
+Caused by de novo DSA production or recall of pre-existing memory B cell response.
+
+- **Memory response:** Typically within 3 months
+- **De novo response:** Can occur at any time
+
+**Histology:** Microvascular inflammation (glomerulitis, peritubular capillaritis), C4d deposition, and circulating DSA.
+
+**Note:** ABMR in the absence of DSA is now a distinct Banff phenotype.
+
+**Treatment:** IV methylprednisolone + plasmapheresis/immunoadsorption + IVIG; rituximab or eculizumab in severe cases.
+
+## Chronic Rejection and IF/TA
+
+Chronic rejection is the **leading cause of late allograft loss**.
+
+The term has increasingly given way to **interstitial fibrosis and tubular atrophy (IF/TA)** in the kidney, reflecting multifactorial aetiology.
+
+**Immunological contributors:** Indolent cellular and humoral responses; chronic ABMR with transplant glomerulopathy, C4d deposition, and circulating DSA.
+
+**Non-immunological co-factors:** Hypertension, hyperlipidaemia, CNI nephrotoxicity, recurrent disease, donor age-related changes.
+
+## HLA Matching: Beneficial Effects
+
+Minimizing HLA mismatches reduces immunological risk.
+
+**Traditional focus:** HLA-A, -B, and -DR (increasing clinical significance in this order).
+
+- Fully matched (0-0-0) grafts have lower rejection rates, longer graft survival, and lower de novo DSA formation.
+
+**Emerging evidence:** HLA-DQ mismatches are significant in all solid-organ transplants.
+
+- De novo DSA (accounting for &gt;50% of long-term kidney graft loss) predominantly targets donor HLA-DQ.
+- NHS Blood and Transplant incorporates HLA-DQ and HLA-Cw into a "Total HLA Mismatch Score".
+
+## HLA Typing Methods
+
+| Method | Resolution | Example | Field Level |
+|:---|:---|:---|:---|
+| **Serology** | Low | HLA-A*02 | 1st field |
+| **PCR-SSP/SSO** | Low/intermediate | HLA-A*02:01/02/03 | 2nd field with strings |
+| **Sanger sequencing** | High | HLA-A*02:01 | 2nd or 3rd field |
+| **Next-generation sequencing** | Very high/allelic | HLA-A*02:01:01:01 | 4th field/full allele |
+
+For deceased donor programmes, typing must be reported within **4 hours** of sample receipt.
+
+## HLA Antibody Screening and Crossmatching
+
+Patients awaiting transplantation develop HLA-specific antibodies following sensitizing events: blood transfusions, previous organ transplants, and pregnancies.
+
+**Mandatory monitoring:** At least every 3 months in the UK.
+
+**Main immunoassays:**
+
+1. **Complement-dependent cytotoxicity (CDC)**
+2. **Flow cytometry cross-match (FCXM)**
+3. **Solid-phase assays (Luminex SAB)**
+
+## CDC and Flow Cytometry Cross-Match
+
+**CDC cross-match:**
+- Recipient serum incubated with donor T/B lymphocytes + complement
+- Detects complement-fixing antibodies (clinically significant)
+- Positive T cell CDC = veto to transplantation (high HAR risk)
+- Limited sensitivity; misses non-complement-fixing IgG
+
+**Flow cytometry cross-match (FCXM):**
+- Fluorescence-labelled secondary antibodies detect bound recipient IgG
+- Greater sensitivity than CDC
+- Identifies all IgG isotypes including non-complement-fixing antibodies
+- CDC-negative but FCXM-positive = increased rejection risk
+
+## Solid-Phase Assays: Luminex SAB
+
+Individual fluorescent microbeads coated with purified, single HLA molecules.
+
+**Capabilities:**
+- Precise antibody specificity definition
+- Semi-quantitative assessment via mean fluorescence intensity (MFI)
+- Characterization of antibody profiles
+- Identification of "unacceptable antigens"
+- Virtual crossmatching
+- Post-transplant DSA monitoring
+
+**Challenges:** Detects cross-reactive Ab-HLA interactions; lack of universally accepted MFI thresholds.
+
+## Alloantibody Detection and Immunological Risk
+
+*(Figure from original article: Alloantibody detection and immunological risk)*
+
+Risk stratification based on assay sensitivity:
+
+- **DSA not detected**: Lowest risk
+- **Luminex only**: Low risk
+- **Luminex + Flow cytometry**: Moderate risk
+- **CDC positive**: High to very high risk (hyperacute rejection)
+
+## Quantifying Sensitization: cRF and cPRA
+
+The degree of sensitization is quantified by the proportion of donors with alloantibodies.
+
+**UK:** Calculated reaction frequency (cRF)
+- Percentage of a standardized panel of 10,000 consecutive HLA-typed UK deceased organ donors incompatible with the recipient
+
+**International:** Calculated panel-reactive antibody (cPRA)
+
+**Clinical threshold:** cRF/cPRA ≥ 85% = **highly sensitized** (prioritized in national allocation).
+
+## Virtual Crossmatch
+
+When the recipient's antibody profile is fully defined and donor HLA is known, the physical crossmatch result can often be predicted **in silico**.
+
+**Benefits:**
+- Facilitates reduction of cold-ischaemia time
+- Removes need for physical cross-match in suitable patients
+
+**Mandatory physical cross-match remains when:**
+- Recent sensitization has occurred
+- Patient's antibody profile is not fully defined
+
+## Organ-Specific Considerations
+
+**Kidney and pancreas:** Standard approach broadly applicable.
+
+**Heart and lung:**
+- Prospective cross-matching using donor blood drawn before retrieval
+- Minimization of cold ischaemia time is essential
+- Highly sensitized recipients at significant risk of primary graft dysfunction and early mortality
+
+**Liver:**
+- Routine cross-matching not performed
+- Recent evidence suggests DSA can induce graft injury
+
+## Clinical Strategies: Living-Donor Kidney Sharing
+
+Where possible, ABO or HLA incompatibility should be avoided.
+
+**UK Living Kidney Sharing Scheme:**
+- Matches incompatible donor-recipient pairs across the country
+- Identifies swap combinations giving both recipients antibody-compatible transplants
+- Altruistic non-directed donation can initiate chains culminating in donation to deceased-donor waiting list patients
+
+## ABO-Incompatible Transplantation
+
+ABO-incompatible living-donor kidney transplantation is possible in specialist centres.
+
+**Pre-transplant desensitization:**
+- Antibody removal strategies (plasmapheresis or immunoadsorption)
+- B cell suppression (e.g., rituximab)
+
+**Accommodation:** The graft acquires resistance to antibody-mediated injury despite persistence of low-level anti-ABO antibodies, contributing to long-term graft survival.
+
+## HLA Antibody-Incompatible Transplantation
+
+More complex than ABOi and carries higher risk of AMR.
+
+**Desensitization protocols:**
+- Intensified immunosuppression (ATG or alemtuzumab)
+- Repeated plasma exchange or immunoadsorption
+- IVIG
+
+**Imlifidase:** An IgG-cleaving cysteine protease from *Streptococcus pyogenes*.
+- Single IV infusion cleaves all IgG
+- Converts positive cross-match to negative
+- Antibody rebounds over following weeks; AMR risk remains high
+
+## Antigen Delisting
+
+In highly sensitized patients facing prolonged waiting list time, some listed unacceptable donor HLAs may be removed after careful assessment of immunological risk.
+
+**Goal:** Increase access to transplantation with acceptable risk.
+
+## Immunosuppression: Principles
+
+**Aim:** Prevent rejection while minimizing adverse events (infections, malignancy).
+
+- Most intense in the immediate post-transplant period
+- Often tapered over following months
+- Maintenance immunosuppression required for the life of the graft
+
+**Intensity depends on:** Organ type and recipient's immunological risk.
+
+## Induction Therapy
+
+Short, intensive immunosuppression given at transplantation.
+
+**Three common agents in kidney transplantation:**
+
+1. **Basiliximab**: Anti-CD25 monoclonal antibody; blocks IL-2 receptor α chain; inhibits T-cell proliferation without depletion. Standard for low-to-moderate risk.
+2. **Alemtuzumab**: Anti-CD52 monoclonal antibody; profoundly depletes T and B cells. Used for early steroid withdrawal protocols.
+3. **ATG**: Polyclonal rabbit antibody; depletes T cells via complement and ADCC. Used for higher-risk recipients and steroid-resistant rejection.
+
+## Maintenance Immunosuppression
+
+Standard maintenance is a **triple combination**:
+
+1. **Calcineurin inhibitor** (tacrolimus or ciclosporin)
+2. **Antimetabolite** (mycophenolate mofetil)
+3. **Corticosteroid** (prednisolone)
+
+**Tacrolimus:** Blocks IL-2 transcription; backbone of T-cell suppression; nephrotoxic. Trough-level monitoring essential.
+
+**MMF:** Blocks inosine monophosphate dehydrogenase; impairs lymphocyte purine synthesis.
+
+**Prednisolone:** Broad anti-inflammatory effects.
+
+## Immunosuppressive Drug Classes
+
+| Class (examples) | Mechanism | Key Adverse Effects | Role |
+|:---|:---|:---|:---|
+| **Antibody induction** (basiliximab, ATG, alemtuzumab) | Basiliximab: anti-CD25. ATG: polyclonal T-cell depletion. Alemtuzumab: anti-CD52 (T and B depletion). | ATG: cytokine release syndrome. Alemtuzumab: mild CRS, prolonged lymphopenia. Basiliximab: minimal. | Peri-transplant induction; ATG also for severe acute rejection |
+| **CNI** (tacrolimus, ciclosporin) | Inhibit calcineurin, blocking NFAT-driven IL-2 transcription | Nephrotoxicity, hypertension, new-onset diabetes, neurotoxicity; ciclosporin: gingival hyperplasia, hirsutism | Backbone of maintenance triple therapy |
+| **mTOR inhibitors** (sirolimus, everolimus) | Block IL-2 signal transduction; cell-cycle arrest | Impaired wound healing, dyslipidaemia, proteinuria, marrow suppression | CNI-sparing maintenance; some anti-tumour activity |
+| **Corticosteroids** (prednisolone, methylprednisolone) | Broad inhibition of cytokine and adhesion-molecule synthesis | Diabetes, hypertension, osteoporosis, weight gain, mood disturbance, GI bleeding | Maintenance; first-line for acute cellular rejection |
+| **Belatacept** | CTLA-4-Ig fusion protein; blocks CD28/B7 (signal 2) | Higher early acute rejection rates; PTLD risk | CNI-sparing maintenance in EBV-seropositive recipients |
+| **Imlifidase** | IdeS-derived cysteine protease cleaves IgG heavy chains | Infusion reactions, antibody rebound, increased rejection | Pre-transplant desensitization in highly sensitized deceased-donor kidney candidates |
+
+## Belatacept and mTOR Inhibitors
+
+**Belatacept:**
+- CTLA-4-Ig fusion protein blocking CD28-B7 co-stimulatory pathway
+- Calcineurin-inhibitor-sparing maintenance agent
+- Avoids tacrolimus nephrotoxicity
+- Associated with lower rate of de novo DSA
+
+**mTOR inhibitors (sirolimus, everolimus):**
+- Block IL-2 signal transduction and arrest lymphocyte cell cycle
+- Useful as CNI-sparing agents, particularly with concern about post-transplant malignancy
+- Impair wound healing — avoided in immediate postoperative period
+
+## Adverse Effects and Post-Transplant Monitoring
+
+**Infections:** Highest risk in first 6–12 months.
+
+**Routine chemoprophylaxis:**
+- Co-trimoxazole (*Pneumocystis jirovecii*)
+- Valganciclovir for CMV risk (CMV-positive donor or recipient)
+
+**BK polyomavirus:** Monitored by blood PCR; can cause graft dysfunction.
+
+**Malignancy:** Roughly twice as common as general population.
+- Non-melanoma skin cancers &gt;100× background rate
+- Post-transplant lymphoproliferative disease (PTLD): mostly EBV-driven B cell transformation
+
+## Post-Transplant Immunological Monitoring
+
+Routine monitoring combines:
+
+- Measurement of graft function
+- Testing for **de novo DSA** by Luminex SAB
+- **Therapeutic drug monitoring**
+
+Specific protocols are largely centre-dependent.
+
+## Future Directions: Transplant Tolerance
+
+**Operational tolerance:** Durable graft acceptance without immunosuppression — the long-standing goal.
+
+**Animal models achieve tolerance by:**
+- Mixed haematopoietic chimerism
+- Co-stimulation blockade
+- Regulatory T cell therapy
+
+**Clinical reality:** Reliable tolerance induction remains elusive. A small proportion of recipients (most commonly liver) can achieve tolerance.
+
+**Emerging strategy:** Ex vivo expansion of autologous regulatory T cells (e.g., the ONE Study in kidney transplantation has established safety).
+
+## Future Directions: Xenotransplantation
+
+Donor organ shortage has prompted interest in **xenotransplantation** — transplantation of animal organs into humans.
+
+**Pigs** are the most studied donor species due to physiological and anatomical similarities.
+
+**Challenge:** Pigs express carbohydrate epitopes (most importantly α-1,3-galactose) absent in humans but against which humans carry preformed antibodies, causing HAR.
+
+**Recent progress:** Genetically engineered xenografts (with offending antigens knocked out) have achieved promising graft function in decedent recipients.
+
+## Conclusions
+
+Transplant immunology is a rich and ever-evolving field. A basic understanding of its principles is fundamental to the practising transplant clinician.
+
+**Key points:**
+- The immune response is underpinned by recognition of transplantation antigens (principally ABO and HLA)
+- Innate and adaptive effector mechanisms mediate graft injury
+- Assessment and management of immunological risk is essential
+- Modern immunosuppression has made transplantation routine, but balancing risks and benefits remains a challenge
