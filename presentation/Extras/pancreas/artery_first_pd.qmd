@@ -1,0 +1,408 @@
+---
+title: "Artery-First Approaches to Pancreaticoduodenectomy"
+author: "Based on the work of Kyoichi Takaori and Shinji Uemoto"
+format:
+  revealjs:
+    theme: dark
+---
+
+## Introduction to Pancreaticoduodenectomy
+
+*   **Pancreaticoduodenectomy (PD)**, also known as the Whipple procedure, has been practiced for nearly a century.
+*   **Historical Primary Challenge**: Overcoming the morbidity associated with the tenuous pancreatico-enteral anastomosis.
+*   **Modern Context**: Refinement of peri-operative techniques has reduced anastomotic morbidity to acceptable levels.
+*   **Current Challenge**: Achieving negative surgical margins in the setting of borderline and locally advanced pancreatic cancer.
+
+## The Modern Surgical Challenge
+
+*   Surgeons now face a more difficult challenge than anastomotic morbidity.
+*   The primary goal is achieving **margin-negative (R0) resection**.
+*   This is particularly critical in borderline resectable and locally advanced pancreatic cancer.
+*   **Solution**: The "Artery-First" approach to PD.
+*   **Objective of this Presentation**: To detail the techniques of artery-first PD, review the literature, and explain how it achieves a high rate of margin-negative resection.
+
+## History: Isolated Pancreatectomy (1993)
+
+*   In 1993, **Nakao and Takagi** first proposed the concept of "Isolated pancreatectomy".
+*   **Core Idea**: Isolate the blood flow to tumors in the pancreatic head.
+*   **Method**: 
+    *   Ligate the feeding arteries.
+    *   Bypass portal venous flow using a catheter.
+*   This represented the foundational concept of the artery-first approach, though the specific term was not yet used.
+
+## History: The Mesenteric Approach
+
+*   Nakao and Takagi described a **"mesenteric approach"**.
+*   **Anatomical Target**: The superior mesenteric vein (SMV) and superior mesenteric artery (SMA).
+*   **Access Point**: Approached from the mesentery of the jejunum at the base of the transverse mesocolon.
+*   **Key Benefits of this Early Technique**:
+    *   Allowed early division of the inferior pancreaticoduodenal artery (IPDA).
+    *   Enabled meticulous dissection along the SMA.
+
+## History: Coining the Term (2010)
+
+*   The term **"artery-first approach"** was first proposed in the English literature by **Weitz and colleagues in 2010**.
+*   Since 2010, many surgeons have described various methods of artery-first approaches to PD.
+*   Despite multiple variations, a well-accepted, uniform definition of "artery-first PD" has not been strictly established to date.
+
+## Six Primary Methods of Artery-First PD
+
+*[Figure 14.1: Diagram showing the six approaches to the superior mesenteric artery]*
+
+*   Literature reviews identify **six primary methods** for an artery-first approach:
+    1.  **S**: Superior approach
+    2.  **A**: Anterior approach
+    3.  **P**: Posterior approach
+    4.  **L**: Left posterior approach
+    5.  **R**: Right/medial uncinate approach
+    6.  **M**: Mesenteric approach
+*   Many other variants exist, including artery-first distal pancreatectomy with celiac artery resection.
+
+## Defining Artery-First Pancreatic Resection
+
+*   **Proposed Definition**: 
+    *   Any pancreatic operation in which a technique is used to **ligate the feeding arteries before the division of the pancreas**.
+*   **Primary Intents**:
+    1.  Reducing intraoperative blood loss.
+    2.  Achieving a more oncologically complete resection.
+
+## Putative Merits of Artery-First PD
+
+*   While standard PD often initiates with a Kocher maneuver, artery-first PD is increasingly preferred.
+*   **Four Putative Merits**:
+    1.  Reduction of intraoperative blood loss.
+    2.  Early determination of arterial involvement by the tumor.
+    3.  Clearance of surgical margins along the arteries.
+    4.  Ultimately, a more oncologically complete resection.
+
+## Merit 1: Reduction of Blood Loss
+
+*   Early ligation of feeding arteries prevents tumor engorgement and venous congestion.
+*   Minimizes bleeding from the uncinate process and pancreatic head during the later stages of dissection.
+*   Creates a bloodless operative field for critical vascular dissections.
+
+## Merit 2: Early Determination of Arterial Involvement
+
+*   Assessing the SMA and celiac axis early in the operation.
+*   Prevents the "point of no return" where irreversible structures have already been transected.
+*   Allows for immediate decision-making regarding resectability.
+
+## Merit 3 & 4: Margin Clearance & Oncological Completeness
+
+*   **Margin Clearance**: Direct visualization and dissection along the SMA sheath.
+*   **Oncological Completeness**: Ensures the SMA margin (the most common site of positive margins) is removed *en bloc* with the specimen.
+*   Reduces the risk of leaving microscopic or macroscopic disease behind on the arterial border.
+
+## Evidence: Case-Matched Study 1
+
+*   **Comparison**: Artery-first PD (posterior approach, n=21) vs. Standard PD (n=21).
+*   **Results for Artery-First**:
+    *   **Mean Blood Loss**: Significantly lower (P = 0.0314).
+    *   **Operative Time**: Significantly shorter (P = 0.0002).
+*   **No Significant Differences** in:
+    *   Early morbidity and mortality.
+    *   Length of hospitalization.
+    *   Overall survival.
+
+## Evidence: Case-Matched Study 2
+
+*   **Comparison**: Artery-first PD (left posterior approach, n=40) vs. Standard PD (n=35).
+*   **Results**:
+    *   No significant differences in operating time, blood loss, hospital stay, or overall morbidity.
+*   **Oncological Outcomes for Artery-First**:
+    *   **Fewer Recurrences** (P = 0.006).
+    *   **Improved 1- and 3-year survival rates** (P = 0.004).
+
+## The Need for Randomized Controlled Trials
+
+*   While retrospective and case-matched studies show promise, results across the literature can be inconsistent.
+*   General conclusions regarding survival benefits cannot be definitively drawn from retrospective data alone.
+*   **Conclusion**: Controlled randomized trials (RCTs) are needed to validate the potential advantages of artery-first PD over standard PD.
+
+## Global Role: East vs. West
+
+*   **Japan & Specialized Institutions**: Artery-first PD has been practiced for two decades and is routinely used by enthusiastic pancreatic surgeons.
+*   **Western Countries**: Historically less popular.
+    *   *Reason*: Difficulty in identification and dissection of arteries in obese patients.
+*   **Worldwide Trend**: Increasing role given the rise in surgical resection for borderline resectable pancreatic cancer.
+
+## Role in Borderline Resectable Cancer
+
+*   **Consensus**: Operative exploration and resection are indicated in high-volume centers for:
+    *   Involvement of SMV and/or portal vein.
+    *   Limited involvement of the SMA.
+*   **Contraindication**: Arterial encasement.
+*   **Necessity**: It is crucial to assess for arterial encasement at an *early stage* of pancreatectomy.
+*   **Solution**: Artery-first PD is the ideal approach to solve this clinical problem.
+
+## Impact of Neoadjuvant Therapy
+
+*   Artery-first PD is highly appropriate following **chemotherapy and/or chemoradiation**.
+*   Surgeons are resecting increasing numbers of patients post-induction therapy.
+*   **Imaging Limitations**: It is impossible to predict pathologic involvement of the SMA by imaging alone.
+    *   Fibrotic tissue often remains after treatment, even with a significant pathologic response.
+
+## The "Point of No Return"
+
+*   Upon surgical exploration, surgeons must dissect around major arteries (SMA, GDA).
+*   They must decide whether to resect *before* the "point of no return".
+*   In the setting of post-neoadjuvant fibrosis, **artery-first PD is the choice of operation**.
+*   Meticulous dissection of the SMA increases margin-negative rates and influences locoregional control.
+
+## Surgical Techniques: Institutional Policy
+
+*   **Institutional Approach**: The artery-first PD is used for **all cases**.
+*   **Rationale**: 
+    *   Ensures surgeons in training become familiar with the surgical principles.
+    *   Allows residents to gain consistent experience.
+*   **Core Technique**: The "Tora-no-Ana" approach.
+
+## Tora-no-Ana Approach: Concept
+
+*   **Translation**: "Tora-no-Ana" represents the "tiger's lair" in Japanese.
+*   **Proverb**: "One cannot get a tiger's cub without entering the tiger's lair."
+*   **Anatomical Meaning**: Refers to the anatomic opening (*Ana*) created by the division of the ligament of Treitz (*Tora*).
+*   Provides direct access to the retroperitoneum and SMA root.
+
+## OR Setting for Tora-no-Ana
+
+*[Figure 14.2: Setting in the operation room]*
+
+*   **Operator**: Stands on the right side of the patient.
+*   **First Assistant**: Stands on the opposite (left) side.
+*   **Second Assistant**: Stands cranial to the operator.
+*   **Third Assistant**: Optional (often scrub nurse/anesthesiologist positioning adjusted for optimal retraction).
+*   Proper positioning is critical for the unique angles required in the retroperitoneal dissection.
+
+## Creating the Tora-no-Ana
+
+*[Figure 14.3: Division of the ligament of Treitz]*
+
+*   The transverse colon is lifted upward by an assistant surgeon.
+*   The **ligament of Treitz** is divided along the lateral margin of the upper jejunum.
+*   The retroperitoneal space is entered.
+*   **Result**: The "Tora-no-Ana" is created.
+*   *Bonus*: Para-aortic lymph nodes can be sampled for frozen section at this stage.
+
+## Palpation of the Superior Mesenteric Artery
+
+*[Figure 14.4: Palpation of the SMA]*
+
+*   If needed, the inferior mesenteric vein (IMV) may be divided.
+*   The inferior posterior margin of the pancreatic body is mobilized to open the Tora-no-Ana widely.
+*   **Technique**: The surgeon inserts their right four fingers into the Tora-no-Ana.
+*   **Action**: Palpate the SMA and its branches by grasping the mesentery of the upper jejunum between the thumb and fingers.
+*   **Benefit**: Locates the SMA accurately, regardless of patient obesity.
+
+## Mesenteric Approach & Exposure
+
+*[Figure 14.5: Mesenteric approach]*
+
+*   The anterior peritoneum and adipose tissue of the mesentery are divided at the base of the transverse mesocolon.
+*   **Target**: Usually easier to first expose the SMV, which runs parallel to the SMA.
+*   Retraction of the transverse colon upward is maintained for optimal exposure.
+
+## Division of the Middle Colic Artery
+
+*[Figure 14.6: Division of the middle colic artery]*
+
+*   The **middle colic artery (MCA)** is divided at its origin from the SMA.
+*   **Purpose**: Provides better exposure of the SMA.
+*   **Critical Precaution**: Identify the first jejunal vein to avoid incidental injury and bleeding.
+*   The SMV and first jejunal vein are then looped with tapes.
+
+## Taping the SMV and First Jejunal Vein
+
+*[Figure 14.7: Taping of the SMV and FJV]*
+
+*   The Superior Mesenteric Vein (SMV) and First Jejunal Vein (FJV) are exposed at the base of the transverse mesocolon.
+*   Both vessels are carefully dissected and taped.
+*   This step secures vascular control and clarifies the anatomical landmarks for the subsequent SMA dissection.
+
+## Entering the Lesser Sac
+
+*[Figure 14.8: Division of the gastrocolic ligament]*
+
+*   The gastrocolic ligament is divided using a vessel sealing device.
+*   The lesser sac is entered.
+*   **Crucial Warning**: The superior mesenteric vein should **NOT** be exposed from the lesser sac at this stage, or else the surgical margin may be compromised.
+
+## Opening the Transverse Mesocolon
+
+*[Figure 14.9: Opening of the transverse mesocolon]*
+
+*   The middle colic vessels and right aberrant colic vessels are divided at their takeoffs from the inferior margin of the pancreatic body.
+*   The transverse mesocolon is widely divided along the anterior inferior margin of the pancreatic head and body.
+*   **Oncological Benefit**: A part of the mesentery of the transverse colon (where the head/proximal body attach) is resected *en bloc*.
+*   **Precaution**: Preserve the arcade of vessels along the transverse colon to prevent colon ischemia.
+
+## Hanging Maneuver: Preparation
+
+*[Figure 14.10: Passage of large Kelly forceps]*
+
+*   Transverse colon retracted downward; stomach body retracted upward.
+*   An avascular area on the left side of the left gastric artery and superior to the splenic artery is dissected.
+*   Large Kelly forceps are inserted into the dissection plane between the pancreatic body and the SMA.
+*   **Rule**: Forceps must pass *under* the fusion fascia of Treitz. Do not pass between the pancreatic body and splenic artery to avoid vessel injury.
+
+## Hanging Maneuver: Drain Placement
+
+*[Figure 14.11: Placement of Penrose drain]*
+
+*   The large Kelly forceps are progressed toward the avascular area until their tips appear above the pancreas and splenic artery.
+*   A **Penrose drain** is passed through the eye of the large Kelly forceps and pulled back.
+*   **Result**: The Penrose drain encircles the pancreatic body, splenic artery, and splenic vein.
+
+## Hanging Maneuver: Execution & Benefits
+
+*[Figure 14.12: Hanging maneuver]*
+
+*   The Penrose drain is lifted cephalad (hanging maneuver).
+*   This hangs the pancreatic body along with the splenic artery and vein.
+*   **Benefits**:
+    *   Inferior vena cava is well exposed from the left side.
+    *   Left renal vein is exposed through the Tora-no-Ana.
+    *   Provides a superior view of the proximal SMA where the IPDA arises.
+
+## Division of Jejunum & First Jejunal Artery
+
+*[Figure 14.13: Division of mesentery of the jejunum]*
+
+*   The jejunum is divided with a linear stapler.
+*   **Oncological Note**: The first jejunal artery (FJA) may be involved by the tumor, or harbor metastatic lymph nodes even in resectable cases.
+*   **Action**: Remove the proximal part of the FJA along with associated lymph nodes.
+*   The mesentery is divided along the FJA using a vessel sealer.
+
+## Identifying and Dividing the IPDA
+
+*[Figure 14.14: Division of the IPDA]*
+
+*   Adipose tissue around the SMA is cleaned circumferentially (preserve the nerve plexus!).
+*   The FJA is divided at its origin.
+*   The **Inferior Pancreaticoduodenal Artery (IPDA)** often forms a common trunk with the FJA.
+*   If not identified on a common trunk: Retract the SMA anteriorly with tape.
+*   Find the IPDA as a string arising from the posterior wall of the SMA toward the uncinate process, and divide at its origin.
+
+## Dissection Around the Gastroduodenal Artery
+
+*[Figure 14.15: Dissection around the GDA]*
+
+*   A cholecystectomy is performed.
+*   The stomach is divided with a linear stapler.
+*   The **proper hepatic artery (PHA)**, **common hepatic artery (CHA)**, and **gastroduodenal artery (GDA)** are dissected.
+*   Lymph nodes and adipose tissue around these vessels are cleared.
+*   All three arteries are taped individually.
+
+## Division of the GDA in Neoadjuvant Cases
+
+*[Figure 14.16: Division of the GDA]*
+
+*   **Challenge**: In borderline resectable cancer post-neoadjuvant chemoradiation, the GDA vascular wall may be fragile.
+*   **Risk**: Simple ligatures can collapse the GDA wall instantly.
+*   **Solution**: 
+    *   Occlude CHA, PHA, and GDA temporarily with bulldog clamps.
+    *   Cut the GDA sharply with a surgical knife.
+    *   Treat the stump with a two-way running suture of 6-0 Prolene.
+
+## Division of the Pancreas: WATSA Concept
+
+*   The splenic vein is taped; the Penrose drain is adjusted to hold only the pancreatic body and splenic vein.
+*   **Transection Line**: Between the origin of the splenic artery and the left border of the SMA.
+*   **WATSA Procedure**: "Whipple At the Splenic Artery" (advocated by Strasberg et al.).
+*   **Rationale**: The SMA margin is the most common site of positive margins. Removing it *en bloc* is critical.
+*   Endocrine/exocrine function of the remnant pancreas is not adversely affected.
+
+## Division of the Splenic Vein
+
+*[Figure 14.17: Division of the splenic vein]*
+
+*   **Caution**: Avoid injury to the splenic vein running behind the pancreatic parenchyma.
+*   **If SMV/PV resection is required**: Do not attempt to free the splenic vein from the pancreas.
+*   **Technique**: 
+    *   Clamp and divide the splenic vein between two pairs of Potts vascular forceps *after* dividing the pancreatic parenchyma.
+    *   Close the distal stump with a two-way running suture of 6-0 Prolene.
+
+## Division of the Common Bile Duct
+
+*   The common bile duct is divided cephalad to the confluence of the cystic duct.
+*   A drainage tube is inserted into the hepatic duct to contain bile drainage intraoperatively.
+*   **Preoperative Stents**: If a metallic stent was placed, divide the common duct at the upper margin of the stent (ideally placed below the right/left hepatic duct bifurcation).
+
+## En Bloc Resection: Mobilization & Clamping
+
+*[Figure 14.18: Division of the SMV]*
+
+*   Duodenum and upper jejunum fully mobilized and retracted to the right.
+*   Nerve plexus between pancreas head and celiac artery is divided.
+*   Specimen is mobilized from all structures *except* the SMV and portal vein.
+*   **Clamping**: SMV and portal vein are serially divided between two pairs of Potts vascular forceps.
+*   Specimen side is occluded with a bulldog clump to avoid blood contamination.
+
+## SMV/PV Anastomosis: Posterior Wall
+
+*[Figure 14.19: End-to-end anastomosis of portal vein]*
+
+*   The posterior walls of the SMV and Portal Vein (PV) are approximated between the Potts forceps.
+*   Stitched with a continuous suture of 6-0 Prolene.
+*   **Technique Tip**: Both edges of the posterior lip should be retracted bilaterally using a stay suture of 6-0 Prolene to prevent anastomotic stricture.
+
+## SMV/PV Anastomosis: Completion
+
+*[Figure 14.20: End-to-end anastomosis completion]*
+
+*   The anterior walls of the SMV and PV are approximated with a continuous suture of 6-0 Prolene.
+*   **Interposition Grafts**: Seldom necessary for standard SMV/PV resections in this context.
+*   **Splenic Vein Confluence**: If involved by the tumor, the splenic vein is left divided and never reconstructed.
+
+## Discussion: Institutional Experience
+
+*   **Timeline**: Routine use of this technique since March 2010.
+*   **Feasibility**: Successfully performed in all cases by surgeons of varying experience levels (including senior residents) under supervision.
+*   **Training Value**: Allows young staff surgeons to master the anatomical planes safely.
+
+## Discussion: Outcomes & Staging Data
+
+*   **R0 Resection Rate**: 88%
+*   **Average Intraoperative Blood Loss**: 1245 mL (Decreased over time with new vessel-sealing energy devices).
+*   **Initial Diagnoses**:
+    *   UICC Stage III: 13%
+    *   UICC Stage IV: 5%
+*   **Pathological T Classification**:
+    *   T3: 76%
+    *   T4: 1.3%
+*   *Conclusion*: Highly satisfactory data considering the high percentage of advanced disease.
+
+## Discussion: Nerve Plexus Preservation
+
+*   Based on previous RCTs comparing extended vs. standard dissections, the institutional policy is to **preserve the nerve plexus around the SMA**.
+*   **Goal**: Avoid intractable postoperative diarrhea.
+*   **Management of Suspected Invasion**: Use neoadjuvant intensity-modified radiation therapy (IMRT) + full-dose gemcitabine to "sterilize" cancer cells in the nerve plexus.
+*   **Result**: Postoperative diarrhea successfully managed with loperamide and/or tannic acid in all patients.
+
+## Discussion: Challenges of Neoadjuvant Therapy
+
+*   Neoadjuvant chemoradiation causes inflammatory reactions and adhesions in irradiated tissues.
+*   These changes make surgical dissection significantly more difficult.
+*   **Artery-First Advantage**: Helps surgeons reduce blood loss and develop the appropriate dissection plane in this challenging, fibrotic environment.
+
+## Discussion: Managing Obesity
+
+*   **Obesity Challenge**: Highest BMI in the series was 35.2%.
+*   Obesity traditionally makes arterial identification difficult (a reason for lower adoption in the West).
+*   **Tora-no-Ana Solution**: The SMA was easily palpable even in obese patients using the finger palpation technique through the retroperitoneal window.
+*   **Hanging Maneuver**: Helps establish a good operative field around the SMA origin regardless of body habitus.
+
+## Conclusion
+
+*   The **Artery-First PD** is a vital technique for modern pancreatic surgery.
+*   It addresses the challenges of borderline resectable and locally advanced cancers, especially post-neoadjuvant therapy.
+*   The **Tora-no-Ana approach** and **Hanging Maneuver** provide reproducible, safe anatomical landmarks.
+*   **Final Verdict**: The technique is highly feasible and oncologically sound if the surgical principles are strictly followed.
+
+## Summary of Key Takeaways
+
+1.  **Early Vascular Control**: Reduces blood loss and prevents tumor dissemination.
+2.  **Margin Assessment**: Allows early determination of SMA involvement before irreversible steps.
+3.  **Neoadjuvant Setting**: Essential for navigating fibrotic tissue and achieving R0 resections.
+4.  **Anatomical Innovations**: Tora-no-Ana and Hanging Maneuver overcome challenges like obesity and deep retroperitoneal access.
+5.  **Oncological Superiority**: Promotes locoregional control and improves survival metrics.
