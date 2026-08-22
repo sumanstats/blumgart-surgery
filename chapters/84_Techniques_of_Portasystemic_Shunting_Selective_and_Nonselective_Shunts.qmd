@@ -4,6 +4,10 @@
 
 ::: {.panel-tabset}
 
+## Chapter 
+
+{{< reveal 84_Techniques_of_Portasystemic_Shunting_Selective_and_Nonselective_Shunts >}}
+
 ## Non cirrhotic portal HTN 1
 
 {{< reveal Extras/non_cirrhotic_portal_htn >}}

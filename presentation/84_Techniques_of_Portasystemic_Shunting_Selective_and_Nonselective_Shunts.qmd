@@ -1,0 +1,923 @@
+---
+title: "Techniques of Portasystemic Shunting"
+subtitle: "Selective and Nonselective Shunts (Chapter 84)"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+## Introduction: A Paradox
+
+- Surgical shunts for portal hypertension and variceal bleeding are **rarely undertaken today**
+- The author's view: this makes the chapter **"more important than ever"** rather than irrelevant
+- Shunts were the **backbone of variceal bleeding control for half a century**, ending early in the 21st century
+- Even as surgical shunts evolved with improving outcomes, they were displaced by:
+  - Pharmacologic therapy (beta blockade)
+  - Endoscopic therapy (banding/sclerotherapy)
+  - Radiologic therapy (TIPS)
+
+## The Decline of Surgical Shunting
+
+The decline is generally attributed to:
+
+1. **Perceived outcomes** with transjugular intrahepatic portasystemic shunt (TIPS)
+2. The concept of **TIPS as a bridge to transplantation**
+
+::: {.callout-important title="The author's counterpoint"}
+TIPS results have been shown in several trials to be **inferior to — and never better than — surgical portal decompression**, and its role as a bridge to transplantation is often an **illusion** because the bridge is seldom "crossed."
+:::
+
+## Loss of Shunting in the Surgical Armamentarium
+
+- Shunting is **no longer "fair game"** on written or oral board certification exams
+- Patients with upper GI hemorrhage are **no longer routinely cared for on surgical services**
+- Surgeons are **rarely consulted** regarding bleeding varices or gastropathy
+- Portal decompression decisions are now made **without surgeons**, involving instead:
+  - Intensivists
+  - Hepatologists
+  - Interventional radiologists
+  - Gastroenterologists
+
+## UK Guidelines on Variceal Hemorrhage
+
+UK guidelines (cirrhotic patients) state TIPS should be used for:
+
+- Patients who **rebleed despite** combined variceal banding/ligation + noncardioselective β-blocker therapy
+- Selected patients using monotherapy (banding or β-blocker) due to **intolerance/contraindication** to combination therapy
+- Selected patients **by patient choice**
+
+Where TIPS is **not feasible** in Child A or B patients:
+
+> "Shunt surgery" can be used where local expertise and resources allow.
+
+## Critique of the UK Guideline Language
+
+- **How can patients knowledgeably choose?**
+- **"Shunt surgery" is excessively broad** — reflecting nonsurgeons' view of and understanding of surgery
+- Important data point:
+  - **Child class C patients consume fewer resources after operative portal decompression than after TIPS**
+
+## ACG & AASLD Joint Clinical Guidelines
+
+TIPS is indicated:
+
+- When hemorrhage from **esophageal varices** cannot be controlled, or bleeding recurs despite combined pharmacologic and endoscopic therapy
+- Should be considered when hemorrhage from **fundal varices** cannot be controlled, or bleeding recurs despite combined pharmacologic and endoscopic therapy
+
+::: {.callout-warning title="Detriment of the guidelines"}
+There is **no mention of operative shunting** in these guidelines.
+:::
+
+## Other Perspectives on Operative Shunting
+
+- Many state the role of operative shunting **with silence** — denoting their perception of its role
+- To others, **combined treatment** with vasoactive drugs, prophylactic antibiotics, and endoscopic techniques is the **recommended standard of care** for acute variceal bleeding
+- To still others, **surgical shunts are considered only when all other treatment modalities fail**
+
+## Has the Disorder Changed?
+
+There is a belief that cirrhosis with bleeding varices or portal gastropathy **has changed**, based on the decreasing number of patients undergoing portal decompression. Possible explanations:
+
+1. Patients are **identified earlier** in the course of their disorder
+2. Gastroenterologists are **better at caring** for these patients, making decompression unnecessary
+3. Care is so **decentralized** that numbers go unrecognized and unreported
+
+*The true reason is unknown.*
+
+## Purpose of This Chapter
+
+::: {.callout-note}
+This chapter brings together a summary of the shunt procedures that were the backbone for control of variceal bleeding for half a century ending early in the 21st century.
+:::
+
+- It is **unfortunate** that the role of surgical shunting has diminished to the extent it has
+- Its application is now **"unreasonably infrequent"**
+
+## Preoperative Assessment: Three Pillars
+
+Patient assessment before **any** shunt procedure is similar and is based on:
+
+| # | Domain | Focus |
+|---|--------|-------|
+| 1 | Underlying liver disease | Severity of disease |
+| 2 | Abdominal venous anatomy | Patency and anatomy |
+| 3 | Overall performance status | General fitness |
+
+## Assessing Severity of Liver Disease
+
+- **Clinical and lab assessment** with:
+  - Child class
+  - Model for End-Stage Liver Disease (MELD) score
+- These are the **best tools** for assessment of severity
+- Stated better: outcome after shunting is related to **hepatic reserve**
+- Hepatic reserve is **not measured well** with conventional "liver function tests" — which, in fact, are not tests of liver function at all
+
+## Child Class: The Best Predictor
+
+- **Child class**, 60 years since its description, is probably the **best predictor of outcome after shunting**
+- MELD score complements clinical and lab assessment
+- Outcome after shunting relates to **hepatic reserve**, not conventional liver tests
+
+## Vascular Imaging
+
+Imaging modalities used:
+
+- **Color-flow Doppler ultrasound**
+- **Computed tomography (CT) venography**
+- **Magnetic resonance imaging (MRI) venography**
+
+::: {.callout-caution title="When imaging is inconclusive"}
+If venous anatomy is not apparent after these studies, **something is wrong**.
+:::
+
+- Must resolve: **occlusion vs. patency vs. recanalization**
+- May sometimes require **angiography / portal venography**
+
+## Performance Status Assessment
+
+- Overall status assessed by:
+  - **American Society of Anesthesiologists (ASA) score**, or
+  - **Eastern Cooperative Oncology Group (ECOG) score** for general performance activities
+- Detail is beyond the scope of the chapter
+- **Centers managing patients with portal hypertension should have standard approaches** to general assessment of these patients
+
+## Options for Patients: Overview
+
+| Option | Key Feature |
+|--------|-------------|
+| 1. Endoscopic variceal sclerotherapy (EVS) or banding (EVB) | Definitive control of esophageal varices |
+| 2. Devascularization operations | Separates portal circulation from gastroesophageal variceal complex |
+| 3. TIPS | Not the authors' preferred choice |
+| 4. Operative shunting | Authors' choice when option #1 is not indicated or possible |
+
+## Option 1: Endoscopic Therapy (EVS / EVB)
+
+- For patients **amenable to definitive control of esophageal varices**
+- **Bleeding gastric varices / gastropathy requires one of the other options**
+- Endoscopic variceal sclerotherapy (EVS) or banding (EVB)
+
+## Option 2: Devascularization Operations
+
+- **Indicated to separate the portal circulation from the gastroesophageal variceal complex**
+- Key drawback:
+  - **Ascites**, among many issues, seems to plague these patients postoperatively
+
+## Option 3: TIPS — Why Not Preferred
+
+The authors' concerns with TIPS:
+
+- **High failure rates within the first year (about 50%)**
+- **Excessive diversion of nutrient hepatic blood flow**
+- Dramatic diminution of **effective hepatic blood flow**
+- Resultant **progressive hepatic dysfunction**
+
+## Option 4: Operative Shunting
+
+- **The authors' choice** when endoscopic therapy (option #1) is not indicated or possible
+- Multiple operative options exist:
+  - Portacaval shunts
+  - Mesocaval shunts
+  - Distal splenorenal shunt (selective)
+
+## Portacaval Shunts: Overview
+
+- Decompress the portal system **by direct means**
+- Referred to as **"central shunts"** or **"nonselective shunts"** — terms used interchangeably
+- They were the **only successful therapy in the first three-quarters of the 20th century** because of limitations of endoscopy and interventional radiology
+
+## Three Variations of Portacaval Shunts
+
+| Variation | Description |
+|-----------|-------------|
+| 1. End-to-side | PV divided and anastomosed end-to-side to IVC |
+| 2. Side-to-side | Small diameter or large diameter |
+| 3. Interposition | Prosthetic graft; may be large or small in diameter |
+
+- Exposure and setup of the portal vein (PV) and inferior vena cava (IVC) is **similar for all options**
+- The **anastomoses are different**
+
+## Portacaval Shunt: Access and Positioning
+
+- **Position:** 30-degree left lateral decubitus, with rolled sheets under the patient's right side
+- **Incision:** transverse incision dividing:
+  - Right rectus abdominis muscle
+  - A (short) portion of the obliques and transversus abdominis muscles
+- **Retraction:** self-retaining retractors placed over the (padded) gallbladder and hepatic flexure to expose the hepatoduodenal ligament
+
+## Exposure: Limited Kocher Maneuver
+
+- A **limited Kocher maneuver** is undertaken using electrocautery generously
+- From the **foramen of Winslow**, dividing tissue **caudally**
+- Goal: expose the **anterior surface of the IVC**
+- The peritoneal covering to the IVC contains **small collateral vessels** controlled with cautery
+
+## Figure 84.1 — Kocherization and Preparation of the Vena Cava
+
+::: {.callout-note title="Figure 84.1"}
+Kocherization and preparation of the vena cava. (From Rosemurgy AS, Korkolis DP. 8-mm interposition portacaval shunt. In: Clavian P, Sarr M, Fong Y, eds. *Atlas of Upper Gastrointestinal and Hepato-Pancreato-Biliary Surgery*. Springer; 2007:675–685.)
+:::
+
+- Dissection of the **fibroareolar tissue encasing the IVC** carried out caudally **to the level of the renal veins**
+- Using a conventional plastic sucker with a Russian forceps holding the IVC
+- Ultimately **100% of the IVC is freed of overlying tissue** — *unless an interposition shunt is used*
+
+## IVC Mobilization: Key Steps
+
+- Once mobilization is complete, a **vessel loop or umbilical tape** is placed around the vena cava
+- This should **elevate the IVC toward the PV without difficulty**
+- For an **interposition shunt**, mobilization of the IVC only needs to involve dissection of the **ventral 50%** of the IVC
+
+## Figure 84.2 — Exposure of the Portal Vein
+
+::: {.callout-note title="Figure 84.2"}
+Exposure of portal vein. (From Rosemurgy AS, Korkolis DP. 8-mm interposition portacaval shunt. In: Clavian P, Sarr M, Fong Y, eds. *Atlas of Upper Gastrointestinal and Hepato-Pancreato-Biliary Surgery*. Springer; 2007:675–685.)
+:::
+
+- The **hepatoduodenal ligament** is incised posteriorly and laterally with electrocautery
+- The **PV is identified**
+- The common bile duct and replaced/accessory right hepatic artery (if present) are retracted **ventrally and medially** with a vein retractor held from the left side of the table
+
+## Preserving Arterial Anatomy
+
+::: {.callout-important}
+Whatever shunt is used, it is important to **identify and preserve an accessory or replaced artery** to avoid deficiencies in liver blood flow after shunting.
+:::
+
+## Portal Vein Dissection Technique
+
+- Dissection carried out along the **long axis of the PV** in a **cranial to caudal** fashion
+- Gently **lifting the fibroareolar tissue away** from the vein
+- The vein should be grasped with a **Russian forceps**
+- Dissection should be **circumferential**, with a vessel loop placed around the PV
+- The vessel loop is used to retract the vein laterally as it is mobilized:
+  - To its **bifurcation distally** (toward the liver)
+  - To the **pancreas proximally**
+
+## Judging Adequate Mobilization
+
+- Adequate mobilization of both IVC and PV is judged by:
+  - Raising the **IVC ventrally**
+  - Retracting the **PV posterolaterally** with their respective vessel loops
+- Usually, **a portion of the caudate lobe requires resection** to bring the two vessels into appropriate propinquity **without tension**
+
+## Caudate Lobe Resection
+
+- The caudal tip of the caudate lobe can be:
+  - Grasped with a **ringed forceps**
+  - Retracted caudally
+  - Removed with **electrocautery**
+- If bleeding is notable:
+  - **Pressure** applied on the caudate edge, using a retractor if need be
+  - Bleeding generally stops with this
+  - Electrocautery reapplication may be necessary
+
+## Pressure Measurements: A Must
+
+::: {.callout-important}
+Regardless of the shunt approach undertaken, pressures in the **portal system (PV) and IVC** must be measured **before and after shunting**, with the patient **momentarily off the ventilator**.
+:::
+
+- After shunting, portal pressure should be assayed **proximal to the portacaval anastomosis**
+
+## End-to-Side Portacaval Shunt: Technique
+
+- Begin by **dividing the PV at its bifurcation**
+- Turn the PV **posteriorly** for anastomosis to the IVC
+- A **longitudinal strip of IVC is excised** to give a "window" ensuring adequate outflow
+- Anastomosis completed with either:
+  - Interrupted sutures, or
+  - Continuous sutures (author's choice)
+- **Do not "purse string" the anastomosis**
+
+## End-to-Side Shunt: Why It Fell Out of Favor
+
+This shunt fell out of favor beginning in the **1960s** because it:
+
+- Only decompressed the **portal system and splanchnic circulation** (including varices)
+- **Did not decompress** the high-pressure cirrhotic **liver sinusoids**
+  - As such, it **did not alleviate ascites**
+- **Diverted all portal blood flow from the liver**
+  - Greatly reduced effective hepatic blood flow
+  - Associated with **progressive liver failure**
+
+## Side-to-Side Portacaval Shunt: Setup
+
+- A **vein-to-vein side-to-side anastomosis**
+- Clamp placement:
+  - A **Satinsky clamp**, securely placed (closed all the way so the vein wall does not slip out), on the **ventral aspect of the IVC**
+  - **Two right-angled vascular clamps** placed approximately **5 cm apart** on the PV
+- A **2.5-cm longitudinal strip of IVC** is excised — a "window" ensuring adequate outflow
+- A **2.5-cm opening** is made along the **posterolateral aspect of the PV** to line up the veins
+
+## Figure 84.3 — Side-to-Side Portocaval Anastomosis: Three Steps
+
+::: {.callout-note title="Figure 84.3"}
+Three steps in a side-to-side portocaval anastomosis. **A:** Initial set-up. **B:** Posterior wall of anastomosis. **C:** Completion of anastomosis. (From Orloff M, Orloff S. Portacaval shunts: Side-to-side and end-to-side. In: Clavian P, Sarr M, Fong Y, eds. *Atlas of Upper Gastrointestinal and Hepato-Pancreato-Biliary Surgery*. Springer; 2007:687–702.)
+:::
+
+## Side-to-Side Anastomosis: Suture Technique
+
+- Begin in the **middle of the left (back) wall**
+- Use a **5-0 double-armed polypropylene suture**, running to the cephalad and caudal extents
+- Sutures tied at **each corner** (cephalad and caudad extents)
+- Right side (front wall) completed with **two 5-0 polypropylene sutures**, beginning at each corner
+- Tied to the free ends of the posterior layer
+- Run from each end **toward the midportion** of the anastomosis
+
+## Side-to-Side: Releasing the Clamps
+
+- Before tying sutures together, vascular clamps are **partially released, beginning with the IVC**, to release thrombus that may have formed
+- Upon completion, clamps are released **sequentially**:
+  1. **IVC** (the outflow)
+  2. **Distal PV clamp**
+  3. **Proximal PV clamp**
+
+## Side-to-Side: Expected Gradient
+
+::: {.callout-tip title="Target hemodynamics"}
+Pressure measurement in the PV and IVC should show a **minimal gradient (0–4 mm Hg)** across the anastomosis.
+:::
+
+## Small-Diameter Prosthetic Interposition H-Graft
+
+- Involves placement of a **prosthetic graft between the PV and the IVC**
+- Exposure differs from side-to-side anastomosis:
+  - IVC does **not** need circumferential mobilization
+  - Only enough mobilization to safely **side clamp** for graft placement (**about 50% of the IVC freed of overlying tissue**)
+
+## H-Graft: Graft Specifications
+
+- **8 to 10 mm externally ring-reinforced polytetrafluoroethylene (PTFE) graft**
+  - PVs larger than **1.5 cm** require a **10-mm graft**
+- Fashioned to measure:
+  - **3.0 cm toe-to-toe**
+  - **1.5 cm heel-to-heel**
+- Ends **beveled at 90 degrees to each other**
+- Because the PV is naturally oriented approximately **60 degrees to the IVC**, the bevels of each end are at about 90 degrees to each other
+
+## Figure 84.4 — Graft-Caval Anastomosis
+
+::: {.callout-note title="Figure 84.4"}
+Graft-caval anastomosis: because the PV is naturally oriented ~60° to the IVC, the bevels of each end of the graft are at about 90° to each other. (From Rosemurgy AS, Korkolis DP. *Atlas of Upper Gastrointestinal and Hepato-Pancreato-Biliary Surgery*. Springer; 2007:675–685.)
+:::
+
+## H-Graft: Removing Air from the Graft
+
+Once the graft is cut to size:
+
+- Place it in a **syringe full of heparinized saline**
+- With a finger over the tip, **suction** is placed on the syringe
+- Dislodged air bubbles emanate from the graft; **vigorous tapping** on the side facilitates dispersal
+
+Benefits of removing air:
+
+- Heparin **completely permeates** the prosthesis
+- Facilitates **postoperative Doppler ultrasound** evaluation
+- Promotes **graft patency**
+
+## H-Graft: Caval Anastomosis Technique
+
+- **Satinsky clamp** placed on the anterior wall of the IVC and **fully closed** (prevents wall slipping)
+- Excise a portion of IVC wall ≈ **4 mm long × 2 mm wide** — promotes graft outflow
+- Anastomosis sewn with **running 5-0 polypropylene**:
+  - Begin at the **cephalad end**, progressing along the back/left/medial wall
+  - Begin with a **horizontal mattress suture** at the cephalad heel (inside-out on vein, outside-in on graft)
+  - Run until beyond the **toe** of the graft
+  - Use the other limb to complete the **lateral (right) wall**
+
+## H-Graft: Testing the Caval Anastomosis
+
+- Assess the IVC–graft anastomosis for leak by:
+  - **Occluding the graft** with a right-angle clamp
+  - **Releasing the Satinsky clamp**
+- When the clamp is replaced on the IVC:
+  - Irrigate the graft with **heparinized saline** to remove blood and clot
+
+## Figure 84.5 — Portal Vein–Graft Anastomosis
+
+::: {.callout-note title="Figure 84.5"}
+Portal vein–graft anastomosis is made on the posterolateral wall of the PV. The PV is grasped and retracted laterally, and a right-angled side-biting vascular clamp is placed on it. (From Rosemurgy AS, Korkolis DP. *Atlas of Upper Gastrointestinal and Hepato-Pancreato-Biliary Surgery*. Springer; 2007:675–685.)
+:::
+
+- The PV **need not be completely occluded**, but usually is
+- Venotomy made with an **11-blade scalpel**, extended with **Potts scissors**
+- A **retraction suture** (5-0 polypropylene) placed on the midportion of the ventral wall of the PV to facilitate exposure
+
+## H-Graft: PV Anastomosis Suture Technique
+
+- Begin at the **midposterior wall** using a **double-armed 5-0 polypropylene**
+- Initial **horizontal mattress** (inside-out on vein, outside-in on graft)
+- Run the sutures **to the corners**
+- Once the back row is complete, draw the suture **tight with a nerve hook**
+  - *"The back wall will not be seen again — so make sure the back wall is tight"*
+- Front wall sewn with each free end, **converging upon the midportion**
+
+## H-Graft: Flushing and Clamp Release
+
+- Before closure:
+  - **Partially release the PV clamp** to blow clot and debris
+  - With clamp reapplied, **vigorously irrigate** graft and PV with heparinized saline
+- Tie sutures
+- Remove the **IVC clamp before the PV clamp**
+- A **palpable thrill** should be present in the IVC **cephalad to the anastomosis**
+
+## Figure 84.6 — Completed H-Graft Portacaval Shunt
+
+::: {.callout-note title="Figure 84.6"}
+The completed small-diameter prosthetic H-graft portacaval shunt. A palpable thrill should be present in the IVC cephalad to the anastomosis. (From Rosemurgy AS, Korkolis DP. *Atlas of Upper Gastrointestinal and Hepato-Pancreato-Biliary Surgery*. Springer; 2007:675–685.)
+:::
+
+- A **metallic clip** is placed on the IVC **cephalad and caudad** to the cava–graft anastomosis
+  - Allows interventional radiologists to **identify and cannulate** the anastomosis
+
+## H-Graft: Hemodynamic Confirmation
+
+Pressures in the PV and IVC are measured again. Graft function and patency are assured by:
+
+| Finding | Target |
+|---------|--------|
+| PV–IVC gradient | < 10 mm Hg |
+| Decrease in PV pressure | > 10 mm Hg |
+| IVC pressure | Increased |
+| Thrill in IVC cephalad to shunt | Present |
+
+- A gradient of **4 to 6 mm Hg is ideal** — this is **partial portal decompression** (to a normal PV–IVC gradient)
+
+## Mesocaval Shunts: History and Concept
+
+- In the **1970s**, mesocaval shunts were undertaken with interposition:
+  - Autologous, homologous, heterologous, and synthetic grafts
+- The prosthetic mesocaval shunt was **popularized by Drapanas**
+  - Emphasized **operating away from the liver hilum**
+
+## Mesocaval Shunts: Physiology
+
+- They **directly decompress the portal system** — central, nonselective shunts
+- Belong to the general category of **side-to-side portosystemic shunts**
+- As such, decompress both:
+  - The high-pressure **splanchnic circulation**, and
+  - The high-pressure **hepatic sinusoids** of the cirrhotic liver (if the PV is patent)
+- Degree of decompression (and percent loss of portal flow to the liver) depends on the **diameter and length of the shunt**
+
+## Mesocaval Shunts: Thrombosis Considerations
+
+- The **length** of a mesocaval shunt is much **longer** than an interposition portacaval shunt
+  - **Increases the risk of thrombosis** in the graft
+- The **smaller the diameter** of the graft:
+  - The **higher the likelihood of graft thrombosis**
+
+::: {.callout-tip title="Primary indication today"}
+Portal hypertension with an **obstructed (e.g., clotted) PV**.
+:::
+
+## Mesocaval Shunt: Access
+
+- **Transverse supraumbilical incision**
+- When the peritoneum is opened:
+  - Ascites is removed
+  - Abdomen explored
+  - Self-retaining retractor placed for maximal exposure
+- Exposure of SMV and IVC occurs in the **infracolic compartment**:
+  - Transverse mesocolon retracted **cephalad**
+  - Small intestine retracted **caudad and to the left**
+  - Exposes the **root of the mesentery**
+
+## Figure 84.7 — Exposure of the Superior Mesenteric Vein
+
+::: {.callout-note title="Figure 84.7"}
+Exposure of the superior mesenteric vein. A transverse incision is made through the peritoneum just below the middle colic vein to locate and initiate dissection of the SMV.
+:::
+
+- The **superior mesenteric artery** is usually located **ventral and to the left** of the SMV
+- These relationships are **inconstant** — Doppler ultrasound may help identify the vascular structures
+
+## SMV Dissection: Key Details
+
+- SMV mobilized and skeletonized from the **caudal border of the pancreas** to the **confluence of the ileocolic and jejunal veins**
+- Small branches: **doubly ligated and divided**
+- Large branches: controlled with **vessel loops**
+- SMV dissected **bluntly on the anterior surface**; sharp dissection limited until the vein and all tributaries are identified
+- Care required:
+  - A **large tributary** usually enters the right posterior lateral border of the SMV between the ileocolic and middle colic veins
+  - The **inferior mesenteric vein enters the left side of the SMV rather than the splenic vein in about 50% of patients**
+
+## SMV Dissection: Lymphatics and Length
+
+- Multiple **lymphatic channels and lymph nodes** are encountered
+  - Should be **ligated before division** to prevent uncontrolled lymph flow → postoperative ascites
+- Ideally, a **6- to 7-cm length** of large-diameter SMV exposed circumferentially and mobilized to accommodate the graft
+- If the SMV is quite short, the **ileocolic vein and/or middle colic vein may be sacrificed**
+
+## Figure 84.8 — Dissection of the IVC
+
+::: {.callout-note title="Figure 84.8"}
+Dissection of the anterior and lateral aspect of the inferior vena cava and its relationship to the superior mesenteric vein.
+:::
+
+- IVC identified by a **direct approach through the right colonic mesentery**
+- Distal second portion and third portion of the duodenum mobilized with a **limited Kocher maneuver**
+  - Again **ligating and dividing large lymphatic channels** in the retroperitoneum
+
+## Figure 84.9 — Inferior Vena Cava Venotomy
+
+::: {.callout-note title="Figure 84.9"}
+Inferior vena cava venotomy: a large side-biting Satinsky clamp is placed on the cava and an ellipse of anterior IVC wall is excised to promote graft outflow. The duodenum is retracted superiorly for exposure.
+:::
+
+- A **6- to 7-cm length of IVC** dissected along the anterior and lateral borders, freeing about **50% of its diameter**
+- Not necessary to mobilize the cava circumferentially — only enough for a **large side-biting Satinsky clamp**
+- After mobilization of SMV and IVC, **soft tissue between them is divided** so the graft takes an **optimal (shortest) route**
+
+## Mesocaval Anastomosis: Caval Side First
+
+- The **IVC–graft anastomosis is performed first**
+- Using angled Pott scissors, the venotomy is enlarged to the **same diameter as the graft** (usually **8 to 12 mm**)
+  - Graft choice: **externally ringed PTFE (preferred)** or **internal jugular vein** graft
+- If the opening is too large, the graft **does not assume a circular shape** at the anastomosis
+
+## Mesocaval Anastomosis: Exposure Essentials
+
+- The cava–graft anastomosis is **deep in the most dependent area of the wound**
+- Good exposure is **difficult, yet essential**:
+  - Duodenum retracted **superiorly**
+  - Rest of viscera retracted **inferiorly and to the left**
+- Two **corner sutures** (5-0 polypropylene) placed at first
+
+## Figure 84.10 — Caval Suture Line Technique
+
+::: {.callout-note title="Figure 84.10"}
+The inferior vena cava and graft are rotated medially, and the right lateral suture line is performed first.
+:::
+
+- Sewn from **inferior (caudad)** as a continuous suture — **outside-in on the graft, inside-out on the vein** — to the superior (cephalad) corner stitch
+- Satinsky clamp **rotated to the patient's right**; a suture run **cephalad-to-caudad** to complete the left side
+- A **stay suture** placed midway along the medial cava venotomy lip for gentle traction
+
+## Mesocaval Anastomosis: Leak Testing
+
+- Hemostasis checked by:
+  - Placing a **right-angle clamp on the prosthesis**
+  - **Releasing the Satinsky clamp**
+- Any leaks repaired; clamp reapplied
+- Remaining blood **suctioned from the graft lumen**
+- Lumen **irrigated with heparinized saline**
+
+## Mesocaval Graft: Length Matters
+
+::: {.callout-important}
+The length of the graft is crucial; it must be determined **before** doing the SMV–graft anastomosis.
+:::
+
+- The graft assumes a **C configuration** (often called a **"C shunt"**):
+  - Passes **caudad around the lower border of the third portion of the duodenum**
+  - Then **ventral to the third portion of the duodenum and uncinate process**
+  - Finally anastomosed **obliquely** to the **anterior-lateral** surface of the SMV
+
+## Mesocaval Graft: Too Short vs. Too Long
+
+| Problem | Consequence |
+|---------|-------------|
+| Graft too short | Undue tension on the suture line; SMV is retracted and distorted |
+| Graft too long | Redundantly bowed and distorted when clamps are removed |
+
+- It is helpful to **mark the graft** to maintain proper orientation
+- When length is determined, the graft is **cut obliquely** to correspond to its angle to the SMV
+
+## Figure 84.11 — SMV Venotomy and Graft Anastomosis
+
+::: {.callout-note title="Figure 84.11"}
+After occlusion with vascular clamps, the SMV venotomy is performed at the anterior-lateral aspect of the SMV, and the SMV–graft anastomosis is started. (Illustration courtesy Dominic Doyle, Medical Arts Group, Vanderbilt University.)
+:::
+
+- Two vascular clamps applied **proximally and distally** on the SMV
+- Vein **partially rotated** for anastomosis on the **anterior-left lateral aspect**
+- A small **ellipse** excised from the SMV; venotomy extended with angled Potts scissors to match the obliquely cut graft
+
+## Mesocaval: SMV Anastomosis Suture Technique
+
+- Sutures placed at **cephalad and caudad ends** of venotomy and graft (5-0 polypropylene)
+- The **right suture line (back wall)** completed first:
+  - Continuous fashion **from within the graft and vein**, from cephalad to caudad corners
+- The **left suture line** sewn by rotating the vein to the patient's right:
+  - Running from **cephalad to caudad**
+
+## Figure 84.12 — Completed Mesocaval Interposition Shunt
+
+::: {.callout-note title="Figure 84.12"}
+After completion of the interposition mesocaval shunt, the portal system pressures are measured. (Illustration courtesy Dominic Doyle, Medical Arts Group, Vanderbilt University.)
+:::
+
+- The **Satinsky clamp on the IVC is removed first**; anastomotic leaks repaired
+- Clamps removed from the **SMV**; flow allowed through the shunt
+- Gentle pressure may be applied to the anastomoses for hemostasis
+
+## Mesocaval Shunt: Target Gradient
+
+- Pressures in the SMV and IVC measured again
+- The gradient between them should be **0 to 6 mm Hg**, depending on graft diameter and length
+- A **physiologic gradient of 4 to 6 mm Hg is ideal**
+
+## Distal Splenorenal Shunt (DSRS): Introduction
+
+- Came on the shunt scene in the **1970s**
+- Introduced by **Warren and Zeppa**
+- Introduced the concept of **selective (i.e., noncentral) gastroesophageal variceal decompression**
+- Widely used for **four decades**
+- Extensively studied in randomized trials against:
+  - Total shunts
+  - Endoscopic therapy
+  - TIPS
+
+## DSRS: Concept of Selective Decompression
+
+This shunt **compartmentalizes the abdomen**:
+
+| Compartment | Effect |
+|-------------|--------|
+| Gastroesophageal varices | **Decompressed** through the spleen to the left renal vein |
+| SMV and PV axis | Portal hypertension and portal flow to the liver **(hopefully) maintained** to varying degrees |
+
+## DSRS: Access and Positioning
+
+- Patient positioned with:
+  - Left arm at the side
+  - Left side slightly elevated
+- **Hyperextending the operating table** to open the angle between the left lower ribs and iliac crest aids exposure to the tail of the pancreas
+- Preferred incision: **long left subcostal incision**, extended across the right rectus muscle
+- A **fixed retractor system** placed to facilitate and maintain exposure
+
+## Figure 84.13 — Mobilization of the Pancreas
+
+::: {.callout-note title="Figure 84.13"}
+The pancreas is mobilized from the superior mesenteric vein to the spleen by dividing the posterior parietal peritoneum along its inferior margin.
+:::
+
+- Access to splenic and left renal veins is through the **lesser sac**, exposing the pancreas and retroperitoneum
+- The **gastroepiploic arcade is interrupted** from the pylorus to the first short gastric vessels
+  - The **left gastroepiploic vein is divided**
+
+## DSRS: Enhancing Exposure
+
+- Exposure is greatly enhanced by **taking down the splenic flexure of the colon**
+  - Note: the **lienocolic ligament is very vascular**
+- This gives access to the **inferior margin of the pancreas** from the mesenteric vessels to the splenic hilum
+- The pancreas is then **fully mobilized** along its inferior border over its entire length
+  - Turned completely on its **cephalad side**
+- The **inferior mesenteric vein** is the first venous landmark identified
+  - Traced to its entry into the SMV or splenic vein, then **divided** to aid exposure
+
+## Figure 84.14 — Splenic Vein Dissection
+
+::: {.callout-note title="Figure 84.14"}
+The splenic vein is dissected initially along its inferior and posterior edge. This dissection must be directly on the vein.
+:::
+
+- The SMV–splenic vein junction identified initially on its **dorsal surface** — a safe plane for initial dissection
+- The splenic vein isolated along its **inferior and posterior aspect**
+  - Dissection occurring **directly on the vessel**
+
+## DSRS: The Ventral Plane
+
+- With the posterior plane free, attention turns to the **ventral (more difficult) plane**
+- Tributaries **rarely enter the ventral surface** of the PV
+- Open the plane between the **neck of the pancreas and the PV** first, lifting the pancreas ventrally
+- Then cautiously separate and dissect the pancreas from the anterior and superior surfaces of the splenic vein
+
+## Figure 84.15 — Isolating Pancreatic Tributaries
+
+::: {.callout-note title="Figure 84.15"}
+Isolation of tributaries from the pancreas into the splenic vein requires their dissection at right angles to the splenic vein. These vessels have thin walls and require gentle dissection.
+:::
+
+- **Key principle:** dissect the **pancreas off the splenic vein**, rather than the vein from the pancreas
+- Requires a **delicate touch** — best achieved by spreading tissues gently in the line of the tributaries, at right angles to the splenic vein
+- A fine **right-angle clamp** passed around tributaries:
+  - **3-0 tie on the vein side**
+  - **Clip on the pancreatic side**
+
+## DSRS: Pancreatic-Splenic Disconnect
+
+- As **much of the splenic vein as possible** should be dissected in this manner before dividing it at the SMV junction
+- It is **ideal to carry the dissection out into the splenic hilum** to achieve a **pancreatic-splenic disconnect**
+  - This **minimizes chances of recollateralization** between the portal and systemic systems
+
+## DSRS: Left Renal Vein Anatomy
+
+- Left renal vein isolated and mobilized from the retroperitoneum **before** dividing the splenic vein
+- Preoperative vascular imaging should define any abnormality:
+
+| Variant | Frequency |
+|---------|-----------|
+| Circumaortic left renal vein | 16% of the population |
+| Totally retroaortic left renal vein | 4% — may preclude DSRS construction |
+
+- In circumaortic anatomy, the **anterior branch is usually larger** and adequate for outflow
+
+## DSRS: Left Renal Vein Mobilization
+
+- Retroperitoneum opened just to the **left of the superior mesenteric artery** and ventral to the aorta (identified by palpation)
+- Tissue ventral to the left renal vein should be **ligated** — many lymphatics; ligation minimizes **chylous ascites**
+- Initial dissection minimal to identify the vein
+- Mobilized over an adequate length for a **side-biting vascular clamp**
+- The **left adrenal vein is divided**
+- The **gonadal vessel is left intact** — can serve as an outflow tract
+- Mobilized over approximately **3 cm**; anastomosis usually made just **ventral to the adrenal vein orifice**
+
+## Figure 84.16 — Division of the Splenic Vein
+
+::: {.callout-note title="Figure 84.16"}
+Division of the splenic vein allows the angle between the pancreas and vein to be opened. This improves exposure for dissection of small tributaries to the splenic vein at the cost of increased pressure in the vein.
+:::
+
+- Division of the splenic vein at the SMV junction **lines up the splenic and left renal veins** for anastomosis
+- A **lateral venorrhaphy** undertaken along the SMV
+- Splenic vein controlled with a **bulldog** or similar vascular clamp
+
+## DSRS: Judging the Dissection
+
+- The surgeon must judge whether **enough splenic vein has been dissected free of the pancreas** to come down to the left renal vein **without kinking or tension**
+- If more dissection is needed, it can now be performed more easily because the vein can be manipulated downward
+- **Disadvantage:** pressure in the splenic vein has increased with ligation → **greater risk of tearing** of small tributaries or the splenic vein
+
+## DSRS: Anastomosis Principles
+
+- Performed **without tension**
+- The splenic vein usually needs to be **trimmed** so that when clamps are removed, the vein is **not redundant and lies without kinking**
+- This alignment can be **difficult to judge**, particularly if the two veins are overlying each other
+
+## Figure 84.17 — Posterior Anastomosis
+
+::: {.callout-note title="Figure 84.17"}
+The posterior anastomosis is made with a running suture. The clamps must be held for a tension-free anastomosis.
+:::
+
+- The **left renal vein is opened over sufficient length without removing an ellipse**
+- The **posterior row** completed with a **running suture**
+  - Stay sutures placed at both corners
+  - Suture run **outside-in, inside-out**
+
+## Figure 84.18 — Anterior Anastomosis
+
+::: {.callout-note title="Figure 84.18"}
+The anterior row of the anastomosis is completed with interrupted sutures.
+:::
+
+- The **ventral (anterior) row is usually interrupted**
+  - To avoid risk of a **"purse-string" effect**
+
+## DSRS: Portal-Azygos Disconnection
+
+The final step: **interrupting the main paths** by which the high-pressure PV attempts to reconnect to the now low-pressure splenic vein:
+
+1. **Transpancreatic collaterals**
+2. **Collaterals along the mesocolon** to the inferior ramus of the splenic vein
+3. The **left and right gastric venous systems**
+
+## DSRS: How Each Pathway Is Interrupted
+
+| Pathway | Technique |
+|---------|-----------|
+| Pancreatic siphon (transpancreatic collaterals) | Dissect the splenic vein completely out of the pancreas and into the splenic hilum |
+| Mesocolon collaterals (final common pathway in splenocolic ligament to lower pole of spleen) | Take down the splenic flexure |
+| Transgastric collaterals | Ligate the left and right gastric veins |
+
+## DSRS: Abdominal Closure
+
+- Abdominal closure in **two layers** of the transverse incision
+- **Running nonabsorbable suture**
+- **No drains are placed**
+
+## Perioperative Management: The Challenge
+
+- The majority of patients have underlying **cirrhosis** as the cause of portal hypertension
+- This dictates careful **team management** with important differences from the typical surgical patient
+- Risks lie in **decompensation** of liver disease:
+  - Jaundice
+  - Ascites
+  - Encephalopathy
+  - Increased susceptibility to infection
+
+## Perioperative Management: General Points
+
+- **Careful preoperative selection and preparation**
+  - Optimize nutritional and fluid balance status preoperatively
+- **Intraoperative liver biopsy** should be done on all these patients
+  - As an assessment of the activity and stage of the underlying liver disease
+
+## Fluid Management: "Run Dry"
+
+- Fluid management (intra- and postoperatively) aims at **minimizing sodium retention**, which aggravates ascites
+- These patients are better **"run dry"** — in contrast to the normal surgical patient
+- However:
+  - It is **easier to treat ascites than liver failure**
+  - Ensure **organ perfusion** and **avoid oliguria**
+  - **Early resumption of diuretics** is important
+
+## Nutrition, Infection Prevention, and Wound Care
+
+- Get patients on an **oral diet ASAP**
+  - "They will do a better job maintaining their fluids than we will"
+- **Infection prevention:**
+  - Standard perioperative antibiotic prophylaxis
+  - Remove central lines and Foley catheters **as soon as possible**
+- **Careful wound closure** is important:
+  - Leaking ascites creates a **very high risk of infection**
+  - If it occurs, **run a nylon suture along the incision**
+
+## Shunt Patency Assessment
+
+::: {.callout-important}
+Shunt patency should be assessed in **all patients at 5 to 7 days**.
+:::
+
+- This can be done with **ultrasound** in most patients
+- **Direct shunt catheterization** — with measurement of portosystemic pressure gradient — is advocated by some
+
+## Perioperative Management: Summary Table
+
+| Domain | Key Action |
+|--------|-----------|
+| Selection | Optimize nutrition and fluid balance preoperatively |
+| Biopsy | Intraoperative liver biopsy in all patients |
+| Fluids | "Run dry"; ensure perfusion; avoid oliguria; early diuretics |
+| Diet | Oral diet as soon as possible |
+| Infection | Prophylaxis; early line/catheter removal; meticulous wound closure |
+| Patency | Assess at 5–7 days (ultrasound or catheterization) |
+
+## Outcomes: A Formidable Foe
+
+- **Cirrhosis and portal hypertension are formidable foes**
+- Portasystemic shunting, in its many varieties, has **unfairly and irresponsibly been excluded** from healthcare's armamentarium against portal hypertension
+
+## Why TIPS Is Not the Answer
+
+Per the authors, TIPS fails because of:
+
+1. **High one-year failure rate**
+2. **Diversion of excessive portal blood flow** resulting in progressive hepatic dysfunction
+3. **Illusionary relationship with transplantation**
+
+## Shunt Selection: Quick Reference
+
+| Shunt | Type | Key Feature |
+|-------|------|-------------|
+| End-to-side portacaval | Nonselective / central | Fell out of favor (1960s); no sinusoidal decompression |
+| Side-to-side portacaval | Nonselective / central | Decompresses splanchnic bed and sinusoids; gradient 0–4 mm Hg |
+| H-graft portacaval | Nonselective / central (partial) | 8–10 mm PTFE; ideal gradient 4–6 mm Hg |
+| Mesocaval | Nonselective / central | "C shunt"; preferred when PV is obstructed; gradient 0–6 mm Hg |
+| Distal splenorenal | Selective | Decompresses varices while maintaining portal flow |
+
+## Target Gradients: Comparison Table
+
+| Shunt | Ideal Gradient |
+|-------|----------------|
+| Side-to-side portacaval | 0–4 mm Hg |
+| H-graft portacaval | 4–6 mm Hg (partial decompression) |
+| Mesocaval interposition | 0–6 mm Hg (ideal 4–6 mm Hg) |
+
+- Pressure measurements are taken **with the patient momentarily off the ventilator**
+- After shunting, portal pressure is assayed **proximal to the anastomosis**
+
+## Key Technical Pearls
+
+- **Preserve** accessory or replaced hepatic arteries
+- **Ligate lymphatics** during mesocaval/DSRS dissection (prevents ascites/chylous leak)
+- Remove **air from PTFE grafts** with heparinized saline and suction
+- **Do not purse-string** venous anastomoses
+- Release clamps **IVC (outflow) first**
+- Confirm a **palpable thrill** and appropriate gradients
+- Place **metallic clips** beside H-graft caval anastomosis for future IR access
+
+## Summary: Introduction and Assessment
+
+- Surgical shunting is now unreasonably infrequent, despite randomized data showing TIPS is inferior to surgical decompression
+- Guideline language ("shunt surgery") is excessively broad and often omits operative options
+- Preoperative assessment rests on **liver reserve (Child class/MELD), venous anatomy/patency, and performance status**
+- Options include endoscopic therapy, devascularization, TIPS, and operative shunting — the authors' choice when endoscopy is not indicated or possible
+
+## Summary: Portacaval Shunts
+
+- Three variations: end-to-side, side-to-side, and interposition (H-graft)
+- End-to-side fell out of favor: no sinusoidal decompression, total portal diversion, progressive liver failure
+- Side-to-side decompresses both splanchnic bed and sinusoids (gradient 0–4 mm Hg)
+- Small-diameter H-graft achieves **partial portal decompression** (ideal gradient 4–6 mm Hg) with meticulous graft preparation and anastomotic technique
+
+## Summary: Mesocaval and DSRS
+
+- **Mesocaval shunt:**
+  - Central, nonselective; operates away from the liver hilum
+  - "C shunt" configuration; length/diameter determine decompression and thrombosis risk
+  - Primary indication: **portal hypertension with obstructed PV**
+- **DSRS:**
+  - Selective decompression of gastroesophageal varices via spleen → left renal vein
+  - Maintains portal flow to the liver
+  - Requires pancreatic-splenic disconnect and portal-azygos disconnection
+
+## Summary: Perioperative Care and Outcomes
+
+- Run patients "dry," but preserve organ perfusion
+- Intraoperative liver biopsy for all
+- Early oral diet, early line/catheter removal, meticulous wound closure
+- Assess shunt patency at **5–7 days**
+- Outcomes: portasystemic shunting has been unfairly excluded; TIPS is not the answer because of high failure rates, excessive portal flow diversion, and an illusionary bridge to transplantation

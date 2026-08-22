@@ -17,6 +17,6 @@ This book provides a comprehensive review of Blumgart's Surgery of the Liver, Bi
 This books provides MCQs for all chapters from the book so as to help retain the information.
 
 
-*Last updated*: `{r} format(Sys.time(), tz = "Asia/Kathmandu", usetz = TRUE)`, Nepal Time (NPT)`
+*Last updated*: `{r} format(Sys.time(), tz = "Asia/Kathmandu", usetz = TRUE)`, Nepal Time (NPT)
 
 

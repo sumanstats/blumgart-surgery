@@ -1,0 +1,77 @@
+---
+title: "Portal Hypertension in Children"
+subtitle: "Chapter 76 | Nadia Naz and Janis M. Stoll"
+format:
+  revealjs:
+    theme: dark
+---
+
+## Overview
+
+- Portal hypertension is a major complication of many pediatric liver and vascular diseases
+- Normal portal venous pressure: **5 to 10 mm Hg**
+- Portal hypertension: portal venous pressure **exceeding 10 mm Hg**
+- The **hepatic venous pressure gradient (HVPG)** is the accepted surrogate marker
+- Management spans pharmacologic, endoscopic, and surgical options
+- A multidisciplinary approach is often essential
+
+## Learning Objectives
+
+By the end of this presentation you will be able to:
+
+1. Define portal hypertension and interpret HVPG values
+2. Describe the pathophysiology of elevated portal pressure
+3. Classify pediatric causes as prehepatic, hepatic, or posthepatic
+4. Recognize the clinical presentations, including variceal bleeding, ascites, and hepatopulmonary syndrome
+5. Outline prophylaxis and acute management of variceal hemorrhage
+6. Understand the role of TIPS and the meso-Rex bypass
+
+## Definition of Portal Hypertension
+
+- Normal pressure in the portal venous system: **5–10 mm Hg**
+- Portal hypertension is defined as portal venous pressure **greater than 10 mm Hg**
+- Direct measurement of portal pressure is impractical, so **HVPG** is used as a surrogate marker
+- Elevated portal pressure drives the formation of collaterals (varices), splenomegaly, and ascites
+
+::: callout-important
+Portal hypertension is not a diagnosis by itself — it is a hemodynamic state with many possible prehepatic, hepatic, and posthepatic causes.
+:::
+
+## Hepatic Venous Pressure Gradient (HVPG)
+
+- HVPG is a **surrogate marker of portal hypertension**
+- Normal HVPG: **1 to 4 mm Hg**
+- Portal hypertension develops when HVPG is **more than 5 mm Hg**
+- In adults, HVPG **greater than 10 mm Hg** predicts the development of varices
+
+::: callout-note
+Data are limited in children, but they suggest **similar pressure thresholds** for the development of complications in the pediatric population.
+:::
+
+## HVPG Thresholds at a Glance
+
+| HVPG Value | Interpretation |
+|---|---|
+| 1–4 mm Hg | Normal |
+| More than 5 mm Hg | Portal hypertension develops |
+| More than 10 mm Hg | Predicts development of varices (adult data) |
+| 12 mm Hg | Predicts risk of bleeding from esophageal varices (adult data) |
+
+::: callout-warning
+Most threshold data come from adults. Pediatric data are limited but point to comparable cutoffs.
+:::
+
+## The Portal System: Anatomy and Physiology
+
+- The portal system is a **low-pressure venous system** carrying partially oxygenated blood to the liver
+- The liver receives highly oxygenated blood through the **hepatic arteries**
+- Both systems combine within the **sinusoidal spaces**
+- This dual supply makes the sinusoid the key site where resistance can rise
+
+```{mermaid}
+%%| label: fig-dual-supply
+%%| fig-cap: "Dual blood supply converging in the sinusoids"
+flowchart LR
+  PV["Portal vein (partially oxygenated, low pressure)"] --> S["Sinusoidal spaces"]
+  HA["Hepatic artery (highly oxygenated)"] --> S
+  S --> HV["Hepatic veins / systemic circulation"]

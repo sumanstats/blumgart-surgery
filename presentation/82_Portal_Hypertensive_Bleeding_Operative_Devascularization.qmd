@@ -1,0 +1,992 @@
+---
+title: "Portal Hypertensive Bleeding: Operative Devascularization"
+subtitle: "Chapter 82 — Anil Kumar Agarwal"
+format:
+  revealjs:
+    theme: dark
+---
+
+## Chapter Overview
+
+- **Topic:** Role of devascularization procedures in managing portal hypertensive bleeding
+- **Focus:** Bleeding from esophagogastric varices — the most life-threatening manifestation of portal hypertension
+- **Key message:** Devascularization remains a vital surgical option when nonsurgical measures fail or are unavailable
+
+## Management Is Individualized
+
+Management of variceal bleeding depends on:
+
+- The **underlying cause** of portal hypertension
+- **Liver function** status
+- **Presentation** (acute vs. recurrent bleeding)
+- The patient's **clinical condition**
+
+Several nonsurgical therapeutic options exist for acute bleeding and prevention of recurrence.
+
+## Variceal Bleeding: The Clinical Problem
+
+- Bleeding from esophageal and gastric varices is the **most life-threatening acute manifestation** of portal hypertension
+- Causes **significant morbidity and mortality**
+- Esophageal varices are the most common source
+- Primary hemorrhage from **gastric varices** is uncommon but:
+  - More difficult to control
+  - Higher morbidity and mortality
+
+## Mortality Has Improved
+
+- Historically, mortality from acute variceal bleeding was **30%–40%**
+- With standardized nonsurgical approaches, mortality has fallen to **14%–15%**
+
+Contributing advances:
+
+- Pharmacologic agents
+- Sclerotherapy, variceal band ligation, glue injection
+- TIPS and balloon-occluded retrograde transvenous obliteration (BRTO)
+
+## Failure of Nonoperative Treatment
+
+- **10%–15%** of patients with variceal bleeding do **not respond** to nonoperative methods
+- These patients require **surgical intervention**
+- Surgical options:
+  - **Shunt procedures**
+  - **Nonshunt (devascularization) procedures**
+
+## Limitations of Nonselective Shunts
+
+In patients with chronic liver disease and significant functional compromise, nonselective shunts cause:
+
+- **Unacceptably high incidence of encephalopathy**
+- **Hepatic decompensation**
+
+In advanced liver failure, **liver transplantation** is the definitive treatment, with other modalities serving as a bridge.
+
+## Advantages of Devascularization Over Shunts/TIPS
+
+Compared with TIPS and surgical shunts, devascularization procedures:
+
+- **Maintain portal perfusion**
+- **Preserve hepatocyte function**
+- Result in **much lower incidence** of:
+  - Postoperative hepatic dysfunction
+  - Encephalopathy
+
+## Additional Advantages of Devascularization
+
+- Shunting is **limited** in patients with extensive thrombosis of the mesenteric venous system (cirrhotic and noncirrhotic)
+- Nonshunting operations:
+  - Do **not alter vascular anatomy**
+  - Do **not complicate future liver transplantation**
+  - Though they may cause significant upper abdominal adhesions (with increased bleeding risk at transplantation)
+
+## Current Role of Devascularization
+
+- Now performed **less frequently**
+- Role **still exists** when:
+  - Most nonsurgical measures fail in an **emergent scenario**
+  - Radiologic therapies are **not feasible**
+- In **elective** situations, in patients **without cirrhosis** with:
+  - No shuntable vein
+  - Difficult-to-obliterate varices
+
+→ Devascularization is the **best, and at times the only, option**
+
+## Indications: Goals and Limitations
+
+**Aim:** Control bleeding from varices in the esophagogastric region
+
+**Limitations:**
+
+- Do **not** control bleeding from ectopic varices
+- Do **not** treat the underlying disease
+
+**Benefits of splenectomy** (part of most devascularization procedures):
+
+- Effectively treats **hypersplenism**
+- May improve liver function via favorable splanchnic hemodynamic changes
+
+## Indications: Three Clinical Uses
+
+Devascularization procedures can be used for:
+
+1. **Primary prophylaxis** of variceal bleeding
+2. Control of **acute bleeding**
+3. Prevention of **recurrent bleeding** from esophagogastric varices
+
+## Indications Discussed in Two Scenarios
+
+::: columns
+::: {.column width="50%"}
+**Scenario 1**
+
+Patients with underlying **chronic liver disease**
+:::
+
+::: {.column width="50%"}
+**Scenario 2**
+
+Patients with a **healthy liver**:
+
+- Extrahepatic portal vein obstruction (EHPVO)
+- Noncirrhotic portal fibrosis (NCPF)
+:::
+:::
+
+## Indications in Chronic Liver Disease
+
+- Liver transplantation is now well-established → **few indications** remain
+- AASLD practice guidelines do **not** include devascularization in acute or prophylactic settings
+- Reason: Most U.S. portal hypertension is cirrhotic, with nonsurgical modalities and transplantation more easily available
+- **However**, in less-developed regions, devascularization still plays a **significant role**, especially in **emergency management**
+
+## Emergency Indications in Cirrhosis
+
+Devascularization has a role as an **emergency procedure** when:
+
+- Other nonsurgical methods have **failed**, or
+- Are **not a feasible option** to control acute or recurrent bleeding
+
+Key evidence:
+
+- Rebleeding after **two sessions** of emergency variceal sclerotherapy is unlikely to respond to further endoscopic therapy
+- Devascularization may be used when **TIPS is not feasible or unavailable**
+
+## Prophylaxis and Bridge to Transplant
+
+- In patients who are **not candidates for transplantation** with:
+  - High-grade varices
+  - Symptomatic hypersplenism
+
+→ Devascularization is performed for **primary prophylaxis** and treatment of hypersplenism
+
+- Occasionally used as a **bridge to liver transplantation** when TIPS is unavailable:
+  - Unlike portocaval shunt, it does **not alter vascular anatomy** or complicate future transplantation
+
+## Contraindication
+
+- **Contraindicated** in severely compromised liver dysfunction, as in **Child-Pugh C** patients
+- **Exception:** perhaps as a **"last ditch"** effort
+
+## Indications in Noncirrhotic Portal Hypertension
+
+In EHPVO and NCPF, **shunt surgery is usually preferred**, but devascularization is indicated with:
+
+- **Unfavorable vascular anatomy**, such as:
+  - Absence of a shuntable vein (extensive mesenteric venous thrombosis)
+  - Inadequate vein size for a shunt (often detected intraoperatively)
+- **Acute variceal bleeding** when other modalities have failed and the patient is **unstable** for a shunt procedure
+
+## Devascularization in EHPVO: Key Data
+
+- In one series: **16 of 114 patients (14%)** with EHPVO underwent devascularization
+- Good results reported in **children** with:
+  - Massive splenomegaly
+  - Hypersplenism secondary to EHPVO
+- Goyal et al.: esophagogastric devascularization can be performed even in hospitals **without** facilities for shunt procedures or TIPS
+
+## Other Situations for Devascularization
+
+- **Portal biliopathy** in the absence of a shuntable vein
+- **Chronic pancreatitis** with portal hypertension
+
+## Isolated Splenectomy: Not Recommended
+
+- Splenectomy alone is **not considered** a devascularization procedure
+- In noncirrhotic patients needing splenectomy for hypersplenism, a **shunt is commonly added** if a shuntable vein exists
+- Isolated splenectomy as secondary prophylaxis has a **30%–50% failure rate** → not advocated
+- **Exception:** Left-sided portal hypertension (isolated splenic vein thrombosis)
+
+## Surgical Anatomy: The Basis
+
+To understand devascularization, one must understand the anatomy that produces esophagogastric varices:
+
+- Portal hypertension → diversion of portal venous blood away from the liver
+- Blood joins the **low-pressure systemic circulation** via collateral pathways
+- These are the **natural portosystemic shunts**
+
+## Natural Portosystemic Shunting
+
+- The **esophagogastric region** is the main site of natural portosystemic shunting
+- Coronary and other gastric veins connect to tributaries of the **superior vena cava** by collaterals in:
+  - The **submucosa** of the esophagus
+  - The **periesophageal area** (adventitial plexus)
+- Drainage is mainly into submucosal and subepithelial veins by the gastroesophageal junction
+
+## Formation of Varices
+
+- Increased blood flow + resistance in the muscularis layer → increased venous pressure
+- Results in dilated, tortuous varices
+
+**Three-dimensional anatomy of the esophageal wall:**
+
+- **Intrinsic veins** (intramural): submucosal, subepithelial, intraepithelial — strongly implicated in varices
+- **Extrinsic veins** (periesophageal): branch veins from periesophageal collaterals enter the wall and feed the varices
+
+## Where Bleeding Occurs
+
+- Increased venous pressure can produce varices throughout the esophagus and into the upper stomach
+- However:
+  - Esophageal variceal bleeding usually occurs in the **lowest 5 cm** of the esophagus
+  - Gastric varices are more common on the **lesser curve**
+  - But **fundal varices** are less common, more dangerous, and prone to **exsanguinating hemorrhage**
+
+→ The technique must target **extramural and intramural vessels** in this vulnerable area
+
+## Conceptual Basis of Devascularization
+
+- A **variceal-directed ablative surgery**
+- Aims to:
+  - **Obliterate varices**, or
+  - **Disconnect** esophagogastric veins from hypertensive portal tributaries
+- Goal: disconnect esophagus and stomach from the collateral system while **maintaining a portosystemic shunt** via the adventitial plexus surrounding the esophagus
+
+## Two Major Components of Most Procedures
+
+1. **Devascularization** of the esophagogastric region
+   - Reduces bleeding from esophagogastric varices
+
+2. **Splenectomy**
+   - Decreases portal flow and thereby pressure
+   - Facilitates esophagogastric devascularization
+   - Effectively treats hypersplenism
+
+## Conceptual Classification of Procedures
+
+Based on targeted vessels:
+
+**1. Hassab-type devascularization**
+
+- Targets **extramural vessels** feeding gastroesophageal varices
+
+**2. Sugiura-type devascularization**
+
+- Targets **extramural AND intramural vessels**
+- Preserves the **longitudinal esophageal vessels**
+- Maintains spontaneous portoazygos flow
+
+## Evolution of Devascularization: Three Stages
+
+**Stage 1 (1950s–1960s):** Ligation/transection of varices and esophageal transection — unsatisfactory results
+
+**Stage 2 (late 1960s–1970s):** Hassab and Sugiura developed systematic devascularization — good results, foundation of current practice
+
+**Stage 3 (recent):** Modified versions and minimally invasive (laparoscopic) approaches
+
+## Early Procedures: Unsatisfactory Era
+
+- **1950 — Boerema and Crile:** Ligation of esophageal varices (unsatisfactory)
+- **1964 — Walker:** Transthoracic esophageal transection
+- Other procedures of the era (all unsatisfactory):
+  - Gastroesophageal resection
+  - Upper gastric transection
+  - Transabdominal esophageal transection
+
+## The Hassab Procedure: History
+
+- Developed by **Hassab in 1957**; cumulative experience of **355 cases reported in 1967**
+- Performed for portal hypertension secondary to **schistosomiasis (bilharzial)**
+- Now recommended for **other causes as well**
+- Completely performed through the **abdominal route**
+
+## Hassab Procedure: Technique — Step by Step
+
+- Abdominal incision: midline, extended left subcostal, or L-shaped (depending on spleen size)
+- Free the left lobe of the liver
+- **Ligate splenic artery → splenectomy**
+- Ligate short gastric veins, then vessels ascending through the hiatus and diaphragm
+- Incise the gastrohepatic ligament; divide a major part containing the **left gastric vessel**
+
+## Hassab Procedure: Technique (Continued)
+
+- Reflect peritoneum over the intraabdominal esophagus
+- Circumferentially dissect and loop the abdominal esophagus with umbilical tape
+- Devascularize **3–4 inches (7–10 cm)** of:
+  - Lower esophagus
+  - Proximal stomach
+- Perform **vagotomy and pyloroplasty**
+- Place a drain and close
+
+## Figure 82.1: The Hassab Procedure
+
+*(Diagrammatic representation from Hassab, 1967)*
+
+Key elements illustrated in the figure:
+
+- Splenectomy
+- Devascularization of the lower esophagus and upper stomach
+- Ligation of the left gastric vessels
+- Division of short gastric veins and periesophageal collaterals
+
+Source: Hassab MA. *Surgery*. 1967;61:170–176.
+
+## Hassab Procedure: Key Feature — No Esophageal Transection
+
+- Hassab suggested **portoazygous disconnection without esophageal transection** was sufficient
+- Reported varices **disappeared or improved in 91%** of patients
+- However, **Nakamura et al.** (endoscopic ultrasonography):
+  - Hassab-type decongestion is effective for **extramural** connections
+  - But **not for intramural** connections → recurrent varices
+
+## Hassab Procedure: Critical Limitations
+
+- Hassab later suggested combined **sclerotherapy or endoscopic ligation** could reduce rebleeding from:
+  - Missed obliterated esophageal perforators
+  - Incomplete devascularization
+- The **main trunk of the left gastric vessels was not preserved**
+- Division of the left gastric vein may **disrupt the spontaneous portacaval shunt**
+
+## Consequences of Disrupting the Spontaneous Shunt
+
+Disruption of the spontaneous shunt at the gastroesophageal area:
+
+- **Increases portal pressure**
+- Promotes formation of **new collateral pathways**
+- Leads to:
+  - Recurrence of esophageal varices
+  - Exacerbation of portal hypertension gastropathy
+
+## Selective Devascularization: A Modification
+
+- Proposed as a modification of the Hassab procedure
+- Devascularizes **only the branch veins** entering the esophageal/gastric wall
+- Meta-analysis (7 RCTs + 7 observational studies) showed selective devascularization had:
+  - **Less** portal hypertensive gastropathy
+  - **Less** rebleeding
+  - **Lower** postoperative mortality
+
+## When Selective Devascularization Is Not Feasible
+
+Selective devascularization may not be possible if:
+
+- Paraesophageal veins **directly enter** the esophageal wall
+- Extensive varicose vessels make the paraesophageal vein **difficult to identify**
+
+→ In these cases, the **left gastric vein must be ligated** to block abnormal flow to varices
+
+## The Sugiura-Futagawa Procedure: History
+
+- Devised in **1967**
+- Initial experience of **84 patients published in 1973**
+- Larger experience of **671 patients published in 1984**
+- Consists of **two components** through separate incisions:
+  - Transthoracic: extensive paraesophageal devascularization + esophageal transection
+  - Abdominal: splenectomy, upper stomach devascularization, vagotomy, pyloroplasty
+
+## Sugiura Procedure: Staging
+
+Contrary to general belief:
+
+- **55 of 84** patients: single-stage operation
+- **29 poor-risk** patients: two stages, 4–6 weeks apart
+  - Transthoracic first stage in 21 patients
+  - Transabdominal first stage in 8 patients
+
+## Sugiura vs. Hassab: Key Differences
+
+| Feature | Hassab | Sugiura |
+|---|---|---|
+| Splenectomy | Yes | Yes |
+| Paraesophagogastric devascularization | Yes | Yes |
+| Vessels ligated | All (incl. left gastric) | Only **transverse branches**; preserves paraesophageal longitudinal channels and left gastric vessels |
+| Esophageal transection | **No** | **Yes** (disrupts intramural connections) |
+| Periesophageal portocaval shunt | Disrupted | **Preserved** |
+
+## Figure 82.2: Components of the Sugiura Procedure
+
+*(From Selzner M, et al. J Am Coll Surg. 2001;193:166–173)*
+
+1. **Splenectomy**
+2. **Devascularization** of 8–10 cm of the esophagus
+3. **Transection and end-to-end anastomosis** of the lower esophagus, 4–5 cm above the gastroesophageal junction
+4. **Devascularization** of the lesser and greater curvatures of the stomach
+5. **Pyloroplasty**
+
+## Sugiura Thoracic Procedure: Technique
+
+- Left lateral thoracotomy in the **6th intercostal space**
+- Incise mediastinal pleura
+- **Preserve** dilated collateral veins running parallel to the esophagus
+- **Ligate and divide** only the shunts from these to the esophagus
+- The lower esophagus is surrounded by an adventitial venous plexus communicating with submucosal varices via **perforating veins**
+
+## Sugiura Thoracic Procedure: Extent of Devascularization
+
+- **30–50 perforating veins** ligated and divided
+- Along **12–18 cm** of the thoracic esophagus
+- From the **upper edge of the inferior pulmonary vein** to the diaphragm
+- The inferior pulmonary vein is the landmark: drainage to bronchial/azygous veins begins at that level
+- Hiatus is devascularized; **lower esophagus transected at the level of the diaphragm**
+
+## Sugiura Thoracic Procedure: Transection Details
+
+- Posterior muscular layer left intact (original description)
+- Approximately **70–90 interrupted sutures** to occlude divided varices
+- **High risk of anastomotic leak** → esophageal transection is **NOT done** in patients with recent:
+  - Endoscopic sclerotherapy
+  - Variceal band ligation
+- Close thorotomy over a drain → proceed to laparotomy
+
+## Sugiura Abdominal Procedure: Technique
+
+- Upper midline incision with left lateral extension
+- **Step 1:** Splenectomy
+- Devascularization of the **greater curvature** and abdominal esophagus
+  - Posterior vagus nerve divided (proximity)
+- **Lesser curvature devascularization:** cardioesophageal branches of left gastric vessels ligated (but **not the main left gastric**)
+  - Length: ~6–7 cm along lesser curvature
+
+## Sugiura Abdominal Procedure: Completion
+
+- Esophagus and cardia **completely mobilized** and freed from adjacent structures
+- Anterior vagus nerve divided to facilitate devascularization
+- **Pyloroplasty** performed (because of vagotomy)
+- Drain placed in the splenic fossa
+
+## Sugiura Procedure: Physiological Rationale
+
+- Divides **extramural perforating veins** and **intramural portosystemic shunt** feeding varices
+- **Preserves** the periesophageal portocaval shunt
+- Splenectomy + preserved shunt reduces portal pressure, but **not** to the extent of a total shunt
+- → Lessens risk of **hepatic decompensation**
+- Considered the **most physiologic** devascularization procedure
+
+## Sugiura Results: 671 Patients (1984)
+
+- **203 (30%)** prophylactic
+- **363 (54%)** elective
+- **105 (16%)** emergency
+
+Causes of portal hypertension:
+
+- Cirrhosis: **495** patients
+- EHPVO: **39** patients
+- Other causes: **137** patients
+
+## Sugiura Results: Operative Mortality
+
+- Overall operative mortality: **4.9%**
+- Emergency setting: **13.3%**
+- Elective setting: **3%**
+
+**Child-Pugh–based mortality (cirrhosis):**
+
+| Child-Pugh Class | Patients | Mortality |
+|---|---|---|
+| A | 244 | **0%** |
+| B | 251 | **2%** |
+| C | 176 | **16%** |
+
+## Sugiura Results: Survival and Recurrence
+
+**10-year actuarial survival:**
+
+| Setting | Cirrhosis | Noncirrhotic |
+|---|---|---|
+| Emergency | 55% | 90% |
+| Prophylactic | 72% | 96% |
+| Elective | 72% | 95% |
+
+- Recurrent variceal bleeding: only **1.5%**
+- Recurrent varices: **5.2%**
+- **No** postoperative variceal bleeding in prophylactic cases
+- Late deaths due to hepatic failure and hepatocellular carcinoma — **not** variceal bleeding
+
+## Modified Sugiura Procedure: Why Modified?
+
+- Original procedure produced **excellent results in Japan**
+- But results **could not be duplicated in the West**
+- Considered **time-consuming and technically complex**
+
+Modifications by several surgeons achieved results similar to the combined thoracoabdominal approach.
+
+## Standard Modifications
+
+All modifications share the core: **splenectomy + gastroesophageal devascularization + esophageal transection**
+
+Variations include:
+
+- **Exclusive abdominal approach**
+- **Stapled transection** of the esophagus
+- Vagal preservation techniques
+- Addition of antireflux surgery
+
+## Historical Modifications
+
+- **1974 — Van Kemmel:** First to use a circular stapling device for esophageal transection
+- **1980 — Peracchia et al.:** Added antireflux cardioplasty
+- **1982 — Ginsberg et al.:**
+  - Proximal gastric vagotomy (preserving main vagal trunk, avoiding pyloroplasty)
+  - Circular end-to-end anastomosis stapler via left thoracoabdominal incision
+  - Loose fundal wrap
+
+## Author's Approach: Modified Sugiura
+
+Transabdominal approach including:
+
+- **Splenectomy** with esophagogastric devascularization
+- **Highly selective vagotomy** → no drainage procedure needed
+- **No fundoplication**
+
+## Author's Approach: Extent of Devascularization
+
+**Esophagus:**
+
+- 7–10 cm of distal esophagus
+- Preserving **longitudinal periesophageal veins**
+
+**Stomach:**
+
+- Up to the **incisura** along the lesser curve — preserving the **left gastric vein**
+- Two-thirds along the **greater curvature** — preserving the **gastroepiploic arcade**
+
+## Figure 82.3: Modified Sugiura Procedure (Author's Center)
+
+*(A)* Devascularization of 7–10 cm of distal esophagus
+
+*(B)* On the stomach:
+
+- Up to the incisura along the lesser curve (preserving left gastric vein)
+- Two-thirds along the greater curvature (60%–70% of stomach), preserving the right gastric arcade
+
+## Figure 82.4: Esophageal Transection by Mechanical Stapler
+
+- Esophageal transection performed using an **end-to-end anastomosis stapler**
+- The figure shows:
+  - The head of the circular stapler closed
+  - The completed esophageal anastomosis
+- **Alternative:** stapling of anterior and posterior walls using a thoracoabdominal stapler (without cutter) introduced by enterotomy on either side
+
+## Author's Approach: Technical Pearls
+
+- **Previous sclerotherapy** induces periesophageal fibrosis → risk of esophageal wall injury during devascularization
+- When the esophagus is inflamed (multiple sclerotherapy sessions, acute setting):
+  - Stapling done **just below the gastroesophageal junction**
+- **Fundic resection** occasionally performed for bleeding from large fundic varices
+- **Early gastrotomy** to oversew acutely bleeding gastric varices
+
+## Author's Approach: Sengstaken-Blakemore Tube and Feeding
+
+- If a Sengstaken-Blakemore tube is used for temporary control:
+  - First perform esophagogastric devascularization and splenic artery ligation **without deflating the tube**
+  - Then proceed to splenectomy
+- **Feeding jejunostomy** selectively used in high-risk patients with esophageal transection/stapling
+- **Gastrografin swallow** around postoperative day 7 before commencing oral feeds
+
+## Combined Shunt With Devascularization
+
+- Described in series from **Chinese centers**: splenectomy + splenorenal shunt + esophagogastric devascularization
+- Meta-analysis: combined group showed significant decrease in:
+  - Portal vein pressure
+  - Portal vein diameter
+  - Free portal pressure
+- Claim: combines advantages of shunt and devascularization while preserving portal vein anatomy
+
+## Author's View on Combined Procedures
+
+- Combined procedures **defeat the very reason** for choosing devascularization over shunting
+- Devascularization is often performed when a shunt is **not feasible or unsafe**
+- Results have **not** been compared with shunt alone
+- At best: patients chosen for a shunt may benefit from adding **limited devascularization**
+
+## Radical Procedures: Last Resort
+
+- Partial or total **esophagogastrectomy** with jejunal or colonic conduit bypass has been suggested
+- Disadvantages:
+  - Extensive, complex
+  - Require multiple anastomoses
+  - Not popular in often-unstable patients
+- **Useful only as a last resort** in EHPVO with unshuntable veins and a **failed devascularization procedure**
+
+## Laparoscopic Devascularization: History
+
+Reported experience is limited but growing:
+
+- **1994 — Kitano et al.:** First laparoscopic-assisted devascularization (7 cirrhotic patients)
+- **1996 — Manzano-Trovamala et al.:** First totally laparoscopic devascularization
+- **1998 — Hashizume et al.:** Laparoscopic Hassab procedure
+- **2009 — Jiang et al.:** Laparoscopic approach safe and effective in carefully selected patients
+- Single-port devascularization also described
+
+## Laparoscopic Devascularization: Setup
+
+- Patient **supine**, strapped to the table (position changes allowed)
+- **Reverse Trendelenburg** position
+- Ports:
+  - **10-mm camera port** at the umbilicus
+  - **12-mm port** at the left midclavicular line
+  - Two **5-mm ports** at the epigastrium and left anterior axillary line
+
+## Figure 82.5: Laparoscopic Port Sites and Steps
+
+*(From Hashizume et al. J Am Coll Surg. 1998;187:263–270)*
+
+- **(A)** Camera port near the umbilicus; 12-mm trocars in the left upper abdomen along the subcostal line
+- **(B)** Splenectomy completed; splenic artery and vein divided
+- **(C)** Devascularization along the fundic area after dissecting the posterior gastric wall
+- **(D)** Devascularization along the lesser curvature (including left gastric artery and vein) while lifting the greater curvature
+
+## Laparoscopic Devascularization: Technique
+
+- Expose splenic hilum by dividing splenogastric, gastrocolic, and splenocolic ligaments
+- Ligate splenic artery at the superior border of the pancreas (if feasible)
+- Divide remaining attachments (splenophrenic, splenorenal) — leaving only hilar attachments
+- Divide splenic vessels with a **laparoscopic vascular stapler**
+
+## Laparoscopic Technique: Devascularization
+
+- Greater curvature devascularization with **ultrasonic dissector or LigaSure**
+- Identify and divide (clips/stapler):
+  - Posterior gastric vein
+  - Main branch of the gastric coronary vein
+  - Left gastric artery
+- Lesser curvature devascularized similarly
+- Pull esophagus inferiorly; devascularize the **lower 6–10 cm**
+- Spleen placed in retrieval bag, morcellated, extracted from the 12-mm trocar
+
+## Laparoscopic Customization and Nerve Preservation
+
+- **Kawanaka et al.:** Customized laparoscopic devascularization for gastric varices based on **CT vascular anatomy**
+  - Posterior/short gastric veins feeding → splenectomy + left gastroesophageal devascularization
+  - Left gastric vein feeding → total laparoscopic devascularization including left gastric vessels
+- **Vagus-nerve-preserving** laparoscopic devascularization reported
+  - But thermal damage can still occur with energy devices
+
+## Operative Mortality: The Spectrum
+
+Mortality varies by case-mix:
+
+- **Low mortality:** Normal liver function (NCPF/EHPVO) in elective settings
+- **High mortality:** Chronic liver disease with decompensation in emergency settings
+
+## Operative Mortality: Reported Rates
+
+| Procedure | Overall | Emergency |
+|---|---|---|
+| Hassab (Egypt) | 12.4% | 38.4% |
+| Sugiura and modifications (Japan) | 8.5% | 20.6% |
+| Sugiura & Futagawa series | 4.9% | 13.3% (elective 3%) |
+
+- Western emergency series: mortality **22%–100%**
+- Better Japanese results partly attributed to **nonalcoholic** cirrhosis
+
+## Table 82.2: Operative Mortality Rates (Selected)
+
+| Procedure | Author | N | Total Mortality | Elective | Emergency |
+|---|---|---|---|---|---|
+| Hassab | Hassab, 1967 | 355 | 12.4% | 9.2% | 38.4% |
+| Laparoscopic Hassab | Zheng, 2018 | 250 | 2% | — | — |
+| Sugiura | Sugiura & Futagawa, 1984 | 671 | 4.9% | 3.4% | 13.3% |
+| Modified Sugiura | Inokuchi, 1985 | 854 | 7.1% | 4% | 31% |
+| Modified Sugiura | Ginsberg, 1982 | 20 | 20% | 0% | 100% |
+| Modified Sugiura | Zhang, 2019 | 81 | 3.7% | 3.7% | — |
+
+## Causes of Postoperative Death
+
+**In cirrhosis:**
+
+- Major cause of mortality is **hepatic decompensation**, not variceal bleeding
+
+**In noncirrhotic patients:**
+
+- **Variceal bleeding** (rather than liver failure) is the common cause of death
+
+**Inokuchi analysis (3,588 patients, 59 Japanese centers):**
+
+- Postoperative variceal bleeding: only **8.7%** of deaths
+- Liver failure: **45%** of deaths
+
+## Mortality by Child-Pugh Class (Qazi et al.)
+
+Modified Sugiura procedure mortality:
+
+| Child-Pugh Class | Operative Mortality |
+|---|---|
+| A | 12%–14% |
+| B | 30%–50% |
+| C | **80%** |
+
+High mortality in Child-Pugh C patients operated as a **"last-ditch effort"** for uncontrolled acute bleeding.
+
+## Operative Morbidity: Key Points
+
+- Related to underlying **liver dysfunction** and **surgical technique**
+- Technique-related risks:
+  - **Esophageal leak and stenosis** — attendant to esophageal transection
+  - **Gastric outlet obstruction** — when vagotomy done without pyloroplasty
+- Complications are **limited** in noncirrhotic (EHPVO, NCPF) or bilharzial patients compared with chronic liver disease
+
+## Esophageal Leak and Stenosis: Rates
+
+With Sugiura and modified Sugiura procedures incorporating esophageal transection:
+
+- **Esophageal leakage:** 5%–14%
+- **Esophageal stenosis:** 2%–28%
+
+**Debate:**
+
+- Some: avoiding transection avoids these complications with comparable rebleed rates
+- Others: transection is essential to reduce variceal recurrence; omitting it significantly increases failure
+
+## Author's Practice on Esophageal Transection
+
+- **Routinely performed**
+- Avoided only in:
+  - Friable esophagus
+  - Esophagus with recent multiple sessions of sclerotherapy
+- The staple line can be protected with a **fundal wrap** in selected cases
+
+## Postoperative Ascites and Liver Function
+
+**Ascites:**
+
+- Incidence ranges widely: **3%–33%**
+- Depends on severity of cirrhosis, extent of splanchnic venous thrombosis, preoperative ascites
+- Usually resolves within a few months
+
+**Liver function and encephalopathy:**
+
+- Devascularization does **not usually deteriorate** liver function
+- Encephalopathy is **generally not exacerbated**
+
+## Improvement in Liver Function After Devascularization
+
+Observed in some patients, likely due to favorable changes in splanchnic hemodynamics:
+
+- **Decreased portal pressure and flow**
+- **Increased flow in the hepatic artery**
+- Splenectomy-related hemodynamic benefits
+
+## Portal Vein Thrombosis After Devascularization
+
+- Affects **5.6%–6.6%** of patients (actual rate may be higher — only symptomatic cases reported)
+- Linked to:
+  - Thrombocythemia
+  - Decreased portal blood flow after splenectomy
+- **Risk factors:** high preoperative portal vein flow; wider portal and splenic vein diameters
+
+## Management of Portal Vein Thrombosis
+
+- **Suspicion:** unexplained fever and abdominal pain by end of the first postoperative week
+  - Assess with **ultrasound Doppler** and **contrast CT**
+- **Treatment:** anticoagulation for **3–6 months** with careful monitoring
+- **Prophylaxis:** Meta-analysis suggests prophylactic LMWH may decrease incidence without increasing bleeding — but two RCTs showed no benefit → role needs further evaluation
+
+## Efficacy: Control of Variceal Hemorrhage
+
+Best measures of a devascularization procedure:
+
+- Efficacy in controlling **acute bleeding**
+- Prevention of **rebleeding**
+- **Variceal grade reduction** → indicates long-term efficacy
+
+**Immediate control of bleeding achieved in 95%–100% of patients**
+
+## Rebleeding Rates by Procedure
+
+Early procedures (transection alone, splenectomy alone) had unsatisfactory results, but:
+
+| Procedure | Rebleeding Rate |
+|---|---|
+| Hassab | 6.2%–8.3% |
+| Sugiura and modifications | 1.5%–16% |
+
+Both procedures significantly decreased recurrence of bleeding and improved survival.
+
+## Hassab vs. Sugiura: Comparative Efficacy
+
+- Sugiura targets **extramural AND intramural** vessels; Hassab targets only **extramural**
+- Some studies: trend toward **better control** of recurrent bleeding after modified Sugiura with comparable operating time and morbidity
+- Modified Sugiura more effective than Hassab for rebleeding after **endoscopic variceal ligation**
+- Other studies: comparable rebleeding with or without esophageal transection
+
+## Choosing Between Procedures
+
+- In the absence of high-level evidence, a **Sugiura-type** devascularization (interrupting intramural and extramural vessels) is **preferred whenever feasible**
+- In **high-risk patients**, esophageal transection may be omitted
+- However, the principle of maintaining the **periesophageal spontaneous portocaval shunt** should always be followed for better outcomes
+
+## Survival Outcome: Determinants
+
+- In **cirrhosis**: survival is determined by the underlying liver disease
+- In **normal liver** (NCPF/EHPVO): control of rebleeding translates into improved overall survival
+
+## Survival: Hassab Procedure
+
+- 5-year survival rate: **73%–85%**
+- Seemingly better than other devascularization procedures
+- May be attributed to **preserved liver function** in schistosomal portal hypertension
+
+## Survival: Sugiura Procedures
+
+- 5-year survival of Sugiura and modified Sugiura: **~70%**
+- Decreases dramatically to **~30%** in the emergency setting
+- In most series, 5-year overall survival: **58%–93%**
+
+## Survival by Child-Pugh Class (Qazi et al., Emergency Setting)
+
+142 consecutive patients with failed endoscopic sclerotherapy — 15-year survival:
+
+| Child-Pugh Class | 15-Year Survival |
+|---|---|
+| A | 44% |
+| B | 22.5% |
+| C | **0%** |
+
+## Devascularization in Perspective
+
+- Rebleeding rate is **lower** with devascularization compared with endoscopic treatment and TIPS
+- But devascularization is **not a competing modality**
+- It is usually the **last resort** in cirrhotic patients when other modalities have failed or are not feasible
+
+## Long-Term Outcomes in Noncirrhotic Portal Hypertension
+
+**Mathur et al.** (68 patients: 44 EHPVO, 22 NCPF):
+
+- 5-year survival: **88%**
+- Operative mortality: 4%
+- Rebleeding: 11% (5% variceal)
+- Esophageal stricture: 15%
+
+**Goyal et al.** (22 NCPF patients): rebleeding 10%, **95% overall survival** at mean follow-up of 4 years.
+
+## Devascularization vs. Shunt: RCT Evidence
+
+- Devascularization showed **superior survival** and **less encephalopathy** in RCTs
+- **Rebleeding was less** with shunt surgery in another RCT
+- Egyptian series: devascularization better than shunts in:
+  - High-grade chronic hepatitis
+  - Nonalcohol-related chronic liver disease
+- Selective shunt preferred over devascularization in schistosomal patients **with a shuntable vein**
+
+## Devascularization vs. Shunt: Meta-Analysis (Zong et al.)
+
+- 1,716 patients: 770 devascularization; 946 shunt
+- **No significant difference** in mortality rate or overall survival
+- **Recurrent bleeding:** significantly higher with devascularization
+- **Encephalopathy:** lower with devascularization
+- **Ascites control:** better with shunt
+
+## Table 82.1: Outcomes — Hassab and Modified Hassab (Selected)
+
+| Author | N | Rebleed (%) | Encephalopathy (%) | Mortality (%) | Survival |
+|---|---|---|---|---|---|
+| Hassab, 1967 | 355 | 2.3 | 0.3 | 12.4 | — |
+| Lu et al., 1990 | 73 | 11.3 | 0 | — | 5-yr: 85.5%; 10-yr: 75.8% |
+| Abu-Elmagd, 1993 | 108 | 17 | 4.2 | 4.2 | 5-yr: 73% |
+| Liu et al., 2013 | 562 | 9.7 | 3.2 | 4.6 | Late mortality 15.1% |
+| Yang L et al., 2013 | 207 | 5.8 | 1.5% | 2.9 | 3-yr: 95.5% |
+| Zhang et al., 2019 | 91 | 30.8 | 16.9 | 4.4 | 5-yr: 71.4% |
+| Ma et al., 2020 | 151 | 17.2 | NA | NA | 5-yr: 77.9% |
+
+## Table 82.1: Outcomes — Sugiura Procedure (Selected)
+
+| Author | N | Rebleed (%) | Enceph. (%) | Leak (%) | Stricture (%) | Mortality (%) |
+|---|---|---|---|---|---|---|
+| Sugiura & Futagawa, 1984 | 671 | 1.5 | 0 | 6 | 2 | 5 |
+| Dagenais, 1994 | 21 | 26 | 0 | 14 | 37 | 10 |
+| Mariette, 1994 | 39 | 24 | 0 | — | 28 | 0 |
+
+## Table 82.1: Outcomes — Modified Sugiura (Selected)
+
+| Author | N | Rebleed (%) | Enceph. (%) | Leak (%) | Stricture (%) | Mortality (%) |
+|---|---|---|---|---|---|---|
+| Inokuchi, 1985 | 3136 | 7 | 5 | 7 | 13 | 9 |
+| Orozco, 1992 | 100 | 8 | 3 | 6 | — | 22 |
+| Mathur, 1997 | 65 | 6.3 | — | 6 | 8.5 | 27.6 |
+| Mercado, 2002 | 87 | 11 | 0 | 1.2 | 2.6 | 1.2 |
+| Ma, 2004 | 160 | 3.8 | 2.5 | 0 | 0 | 0 |
+| Qazi, 2006 | 142 | 6.9 | 0 | 5.6 | 4.6 | 12.7 |
+| Zhang, 2019 | 81 | 19 | 11.1 | 0 | 4.8 | 3.7 |
+
+## Sugiura & Futagawa Survival Summary (Table 82.1)
+
+10-year actuarial survival:
+
+| Group | Emergency | Prophylactic | Elective |
+|---|---|---|---|
+| Noncirrhotic | 90% | 96% | 95% |
+| Cirrhosis | 55% | 72% | 72% |
+
+## Table 82.3: Laparoscopic Devascularization Series (Selected)
+
+| Author | N | Morbidity n (%) | Mortality (%) | Rebleed (%) | Encephalopathy (%) |
+|---|---|---|---|---|---|
+| Hashizume, 1998 | 10 | 0 | 0 | 0 | NA |
+| Hong, 2007 | 23 | 5 (21.7) | 0 | 0 | NA |
+| Wang, 2008 | 25 | 8 (32) | 0 | 0 | 0 |
+| Jiang, 2009 | 28 | 5 (17.9) | 0 | 0 | 0 |
+| Luo, 2011 | 30 | 3 (10) | 0 | NA | NA |
+| Cheng, 2014 | 188 | 78 (41.5) | 0 | 3.7 | 1.1 |
+| Zheng, 2018 | 250 | 33 (13.2) | 2 | 3.6 | 1.6 |
+| Luo, 2020 | 30 | 10 (33.3) | 0 | 0 | 6 |
+
+## Laparoscopic vs. Open: Meta-Analyses
+
+Two meta-analyses comparing laparoscopic with open devascularization:
+
+**Lower with laparoscopy:**
+
+- Intraoperative blood loss
+- Postoperative complications
+- Hospital stay
+
+**Higher with laparoscopy:**
+
+- Operation time
+
+Conclusion: laparoscopic devascularization is a **safe, minimally invasive alternative** for cirrhosis with portal hypertension.
+
+## Table 82.4: Laparoscopic vs. Open Comparison (Selected)
+
+| Study | Group | Op. Time (min) | Blood Loss (ml) | Hospital Stay (days) | Complications (%) |
+|---|---|---|---|---|---|
+| Jiang, 2009 | Lap | 235 | 200 | 6.5 | 15.4 |
+| | Open | 178 | 420 | 6.5 | 42.3 |
+| Luo, 2011 | Lap | 232 | 550 | 6.5 | 10 |
+| | Open | 230 | 1850 | 6.5 | 11.4 |
+| Zheng, 2018 | Lap | 223 | 208 | 8 | 13.2 |
+| | Open | 188 | 298 | 12 | 15.3 |
+| Luo, 2020 | Lap | 119 | 142 | 8.1 | 33.3 |
+| | Open | 219 | 285 | 11.3 | 57.9 |
+
+## Laparoscopic Devascularization: Caveats
+
+- Technically **challenging** due to:
+  - Coagulopathy related to poor liver function
+  - Potential bleeding from injury to collaterals or the splenic capsule
+- Enabled by modern hemostatic tools: clips, monopolar/bipolar coagulation, ultrasonic coagulation, LigaSure, vascular stapler
+- **Hand-assisted** laparoscopy can be used in difficult situations
+
+## Level of Evidence for Laparoscopic Approach
+
+- Laparoscopic procedures show:
+  - **Longer** operative time
+  - **Less** blood loss and transfusion
+  - **Shorter** postoperative hospital stay
+  - **Lower** complication rates
+- However, evidence level is **not high**:
+  - Majority of studies are nonrandomized comparative studies
+- **Well-designed RCTs are needed** to conclusively prove benefit
+
+## Conclusion
+
+- **No single surgical treatment** is ideal for all cases of portal hypertension with variceal bleeding
+- The choice must weigh:
+  - Risks of **recurrent bleeding** and **decompensation**
+  - Patient's **hemodynamics**
+  - Underlying **cause and severity** of liver dysfunction
+  - **Transplant candidacy**
+  - Availability of a **shuntable vein**
+  - **Local expertise** and alternative strategies
+
+## Final Message
+
+> Devascularization is a **very effective tool** that must be available in the armamentarium of the surgeon to deal with the difficult problem of variceal bleeding — when all other options have **failed or are unavailable**.
+
+## Key Takeaways
+
+- Devascularization controls bleeding from **esophagogastric varices**; does not treat ectopic varices or underlying disease
+- **Maintains portal perfusion** → less encephalopathy and hepatic dysfunction than shunts/TIPS
+- Two main types: **Hassab** (extramural) and **Sugiura** (extramural + intramural, preserves portocaval shunt)
+- Sugiura-type procedures are **preferred when feasible**
+- **Emergency** devascularization carries significantly higher mortality, especially in Child-Pugh C patients
+- **Laparoscopic** devascularization is a safe, effective, minimally invasive alternative in selected patients

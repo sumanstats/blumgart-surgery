@@ -1,0 +1,744 @@
+---
+title: "Portal Hypertensive Bleeding: The Role of Portosystemic Shunting"
+subtitle: "Chapter 83 – Stuart J. Knechtle, Jigesh A. Shah, and Paul Suhocki"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+## Overview
+
+- Esophageal varices develop in patients with **portal hypertension**, most commonly secondary to **hepatic cirrhosis**
+- Occur most frequently in the **distal esophagus**, may be accompanied by gastric varices
+- Rupture → massive upper GI bleeding with **high mortality rate**
+- Therapy includes:
+  - Pharmacologic
+  - Endoscopic
+  - Radiologic (TIPS)
+  - Surgical strategies
+
+## Overview – Current Context
+
+- **Liver transplantation** has evolved as the definitive therapy for portal hypertension with liver disease
+- Far surpasses shunt surgery by volume in current practice
+- Many patients are treated **sequentially** with more than one modality
+- Surgical shunts are best applied within the context of:
+  - Medical management
+  - Endoscopic management
+  - TIPS
+  - Liver transplantation
+
+## Natural History of Esophageal Varices
+
+- Not all varices bleed; not all cirrhotic patients develop varices
+- In a series of **819 patients**: 46% with cirrhosis and no bleeding history had esophageal varices by endoscopy
+- Varices may **appear, disappear, or change in size** over time
+- Serial endoscopy (84 patients, 2 years):
+  - 31% without varices → progressed to **large varices**
+  - 70% with small varices → varices **enlarged**
+
+## Natural History – Progression & Regression
+
+- **Dagradi study**: Influence of alcohol on varices
+  - Variceal length **increased** in 65% who continued alcohol
+  - Variceal length **decreased** in 80% who abstained
+- **Baker et al.**: Monitored by endoscopy
+  - Regress: **25%**
+  - Disappear: **32%**
+  - Progress: **21%**
+
+## Natural History – Bleeding & Mortality
+
+- Most bleeding episodes occur during the **first 1–2 years** after identification
+- Average mortality rates after esophageal variceal bleeding:
+  - **23%** at 1 year
+  - **34%** at 2 years
+  - **58%** at 3 years
+- ~1/3 of deaths attributable to upper GI bleeding
+- Larger proportion die from **liver failure**
+- Mortality directly from variceal hemorrhage: **10%–17%**
+
+## Risk Factors for Hemorrhage & Death
+
+Clinical parameters associated with increased risk:
+
+| Risk Factor | Details |
+|---|---|
+| Large varices | Size matters |
+| Cherry-red spots | High-risk stigmata |
+| Concurrent gastric varices | Additional bleeding source |
+| CTP classification | Correlates with death |
+| Continued alcohol use | Worsens portal pressure |
+| Infection | Precipitates bleeding |
+| MELD score | Predicts mortality |
+
+## Rebleeding & Mortality After First Bleed
+
+- Rebleeding rates:
+  - **30%** within 6 weeks of initial hemorrhage
+  - **60%–75%** within 1 year
+- Esophageal varices cause ~**16%** of upper GI bleeding admissions
+- All-cause mortality within 1 year of initial hemorrhage: **40%–66%**
+- Risk of dying ↑ as interval between 1st and 2nd hemorrhage ↓
+- If survive **>12 weeks** post-bleed → risk returns to that of never-bled patients
+
+## Rebleeding – Pediatric Considerations
+
+- Risk of mortality **not well characterized** after a first bleed in children with portal hypertension
+- First bleed appears to be **only rarely fatal**
+- Associated morbidity is **not well characterized**
+
+## Pharmacologic Management – Prophylaxis
+
+**β-Blocker Therapy**
+
+- **Nadolol**: nonselective β-blocker (β₁ + β₂)
+  - Reduced bleeding incidence: 35% → **12%**
+  - Reduced fatal bleeds: 18% → **10%**
+  - No difference in overall mortality
+- Supports prophylactic β-blockade to prevent initial variceal hemorrhage
+
+## Pharmacologic Prophylaxis – Carvedilol
+
+- **Carvedilol**: nonselective β-blocker + α₁-blocking effect
+- Better at reducing **hepatic venous wedge pressure gradient** compared to nadolol
+- Gained interest as **primary prophylaxis** against variceal bleeding
+
+## Pharmacologic Prophylaxis – Nitrates
+
+- **Nitroglycerin**: vasodilator via nitric oxide on vascular smooth muscle
+- Decreases portal pressure at high doses
+- Animal studies: portal pressure ↓ 13%, systemic BP ↓ 25%
+- Lowers portal pressure **less** than systemic pressure
+- Nitrates + β-blockade may offer prophylaxis against initial variceal bleed
+
+## Pharmacologic Prophylaxis – Combination Therapy
+
+- RCTs: nonselective β-blockers (propranolol/nadolol) vs. no therapy → reduced risk of first hemorrhage
+- **Isosorbide mononitrate + β-blockade**: further reduces portal pressure
+- Shown in **3 studies** to reduce first bleed risk vs. β-blockade alone
+- Challenges:
+  - **Compliance** (especially in alcoholism)
+  - Fatigue (β-blocker side effect)
+  - Compromised tachycardia response if bleeding occurs
+
+## Acute Variceal Hemorrhage – Vasopressin
+
+- Posterior pituitary hormone → splanchnic arteriolar vasoconstriction
+- Reduces portal BP by ~**15%** (IV or intraarterial)
+- Optimal dose: **0.3–0.4 U/min IV**
+- Complications ↑ at doses 0.5–0.7 U/min (cardiac, mesenteric, cerebral vasoconstriction)
+- No tapering needed; stop at therapeutic endpoint
+- Controlled study: ~50% stopped bleeding, but **no difference vs. controls**
+
+## Acute Variceal Hemorrhage – Nitroglycerin + Vasopressin
+
+- Nitroglycerin given concurrently with vasopressin to:
+  - Reduce systemic vasoconstrictive effects
+  - Further reduce portal pressure
+- Infusion begins at **40 μg/min**
+- Titrated to mean arterial BP of **65–75 mmHg**
+
+## Acute Variceal Hemorrhage – Octreotide & Somatostatin
+
+- Reduce splanchnic, hepatic, and azygos blood flow
+- **Advantage over vasopressin**: no myocardial/cerebral vasoconstriction
+- Dose: **250 μg/hr** continuous → increase to **500 μg/hr** if bleeding continues
+- RCTs: equivocal results vs. vasopressin (similar efficacy)
+- **Terlipressin, somatostatin, octreotide**: equivalent when followed by endoscopic treatment
+- None FDA-approved for variceal bleeding (commonly used off-label)
+
+## Prevention of Rebleeding – Pharmacologic
+
+- **Propranolol** (Lebrec): reduces rebleeding via:
+  - ↓ Cardiac output (β₁)
+  - ↑ Splanchnic arteriolar resistance (β₂)
+  - ↓ Portal blood flow & azygos collateral flow
+- β-blockade **not widely used** in US for rebleeding prevention (EVL preferred)
+- **Nadolol + isosorbide mononitrate** more effective than sclerotherapy for rebleeding; fewer complications (16% vs. 37%)
+- **PPI infusion** post-EVL: similar to vasoconstrictor for hemostasis, fewer adverse events
+- Multimodal pharmacologic therapy plays a **principal role**
+
+## Endoscopic Therapy – Prophylaxis
+
+- Prophylactic sclerotherapy to prevent first hemorrhage:
+  - 3 meta-analyses: **2 concluded no benefit**
+  - 1 found decreased mortality with polidocanol
+- **VA Cooperative Trial** (281 patients):
+  - Prematurely closed due to **excess mortality** in sclerotherapy group
+  - Sclerotherapy prevented variceal hemorrhage but caused **ulceration-induced bleeding**
+  - Effectively **ended prophylactic sclerotherapy** in the US
+
+## Endoscopic Therapy – Acute Hemorrhage
+
+- **King's College Hospital Trial** (1980, 107 patients):
+  - Sclerotherapy controlled bleeding in **57%** vs. **25%** medical therapy
+  - Follow-up: improved survival with sclerotherapy
+- Important caveats:
+  - More nonalcoholic than alcoholic patients
+  - Relatively mild liver failure (74 CTP A/B; 33 CTP C)
+  - More alcoholic/CTP C patients → harder to show survival benefit
+- **VA Cooperative Study**: no long-term survival reduction with sclerotherapy
+
+## Endoscopic Variceal Ligation (EVL) vs. Sclerotherapy
+
+- EVL developed as alternative → lower risk of ulceration/perforation
+- **7 prospective RCTs** compared EVL vs. sclerotherapy:
+  - **Equal efficacy** in controlling active bleeding
+  - Complications **significantly lower** with EVL
+  - Esophageal strictures: **0%** (EVL) vs. **5%–33%** (sclerotherapy)
+- Multiband ligating device → no repeated scope reinsertions
+- EVL is now the **endoscopic therapy of choice**
+
+## Endoscopic Therapy – Prevention of Rebleeding
+
+- EVL effectively stops acute bleeding, but **rebleeding remains a problem**
+- Intermediate (2–5 year) survival **not improved** in many trials
+- Confounding variable: **continued alcoholism**
+  - Alcohol abstinence ≥6 months, CTP class, AST → independent predictors of survival
+- EVL vs. sclerotherapy:
+  - Rebleeding ↓ with EVL (3 studies)
+  - Mortality ↓ with EVL (3 studies)
+- EVL is the **principal therapy** for preventing rebleeding
+
+## Post-Bleed Antibiotic Prophylaxis
+
+- Prophylactic antibiotics after variceal bleeding:
+  - **Decrease risk of rebleeding**
+  - Superior to reactive antibiotic use
+- Recommended regimens:
+  - **Ceftriaxone 1 g IV daily** × up to 7 days, OR
+  - **Norfloxacin 400 mg PO daily** × up to 7 days
+
+## TIPS – Overview & Evolution
+
+- Developed in the **1990s**; use has since expanded
+- Treatment of choice for **high-risk variceal bleeding** patients
+- Advances in radiology → placement in more complex/high-risk patients
+- Technical success rate: **98%**
+- 30-day mortality: **<3%**
+- CTP class C: rebleeding ↓ from 60–70% to **40–50%**; mortality ↓ from 40% to **20–35%**
+
+## TIPS – New Imaging: ICE Catheter
+
+- **Intracardiac Echocardiography (ICE)** catheter:
+  - Positioned inside vein/artery → sagittal view beyond vessel wall
+  - **Budd-Chiari** (no hepatic veins): ICE in intrahepatic IVC → guides needle through IVC wall → liver → intrahepatic PV → **DIPS** (Direct Intrahepatic Portacaval Shunt)
+  - **Extrahepatic PV occlusion**: ICE visualizes SMV/splenic vein confluence through IVC wall → facilitates **mesocaval shunt** creation
+
+## TIPS – Extrahepatic Shunts & Cone Beam CT
+
+- Newer imaging/instrumentation → extrahepatic splanchnic & systemic veins usable as targets
+- Reduces operative time and radiation dose (safer for pregnant, pediatric, operator)
+- **Cone Beam CT** in angiographic suites:
+  - Uses fluoroscopy data → cross-sectional imaging
+  - Adequate for planning safe needle trajectory
+  - Ensures percutaneous splenorenal shunt avoids: pancreatic tail, kidney, duodenum, colon
+
+## TIPS – PowerWire & Chronic PV Occlusion
+
+- **PowerWire**: radiofrequency energy heats tip → effortless passage through tissues
+  - Used for side-to-side splenorenal shunt: burns through splenic vein + renal vein walls
+  - Maintains access while shunt is dilated and stent placed
+- **Chronic PV/splenic vein occlusion**:
+  - TIPS alone won't lower pressures throughout portal circulation
+  - Requires catheter-directed **thrombolysis + thrombectomy** first
+  - Balloon angioplasty ± stenting often needed
+  - TIPS maintains rapid flow → ensures patency
+  - Often performed in preparation for **liver transplantation**
+
+## TIPS – Noncirrhotic & Special Situations
+
+- **Sinistral portal hypertension** (noncirrhotic):
+  - Splenic vein thrombolysis/thrombectomy to reestablish flow
+  - If fails + favorable anatomy → **percutaneous splenorenal shunt**
+  - If unfavorable anatomy → **splenic embolization** (reduce volume, lower bleeding risk)
+- **Arterioportal fistula** (noncirrhotic, patent PV):
+  - Congenital or posttraumatic
+  - Treated with **coil or plug embolization** of feeding artery
+- **EUS-guided intrahepatic shunt**: described in swine model (5 animals survived 2 weeks)
+
+## TIPS – Stents & Patency
+
+- Modern stents: **PTFE-covered** (ePTFE)
+  - Less need for intervention, less dysfunction, better outcomes
+- **Primary patency** (no revision): 56%–75% at 6 years
+- **Primary-assisted patency** (after revision): 77%–96% at 6 years
+  - Median survival: **42.8 months**
+- Surveillance: **Color Doppler US** at 1 and 6 months
+- Restenosis/occlusion rate > recurrent symptom rate
+- Risk factors for occlusion: intra-stent stenosis, prior splenectomy, hepatic vein shortening
+
+## TIPS – Clinical Applications
+
+- **Prophylaxis**: Not formally studied, but patients with intractable ascites awaiting transplant → TIPS as bridge → lower portal pressure → low bleeding risk
+- **Acute hemorrhage**: Effective when medical/EVL fails
+  - As primary therapy: may ↓ treatment failure & mortality in high-risk patients
+- **Prevention of rebleeding**: Most common use
+
+## TIPS – Figures: Percutaneous Splenorenal Shunt
+
+**Figure 83.1** – CT coronal imaging: extensive chronic cavernous transformation and collateralization from portal hypertension and portal vein thrombosis
+
+**Figure 83.2** – CT axial imaging: patent renal vein (white asterisk) and patent proximal splenic vein (black asterisk) for subsequent splenorenal shunt
+
+**Figure 83.3** – Fluoroscopic image: sheath and snare in left femoral vein; direct access to splenic vein facilitates later central access
+
+**Figure 83.4** – Fluoroscopic image: snare and wire through spleen into left renal vein; contrast shows communication with IVC drainage
+
+**Figure 83.5** – CT axial imaging: stent placement in completed percutaneous distal splenorenal shunt
+
+## Surgical Shunts – Prophylactic Surgery
+
+- Early trials: portacaval shunts vs. medical therapy
+  - Bleeding effectively prevented
+  - **No survival benefit** → ↑ deaths from accelerated hepatic failure
+- Only **1/3** of patients with varices eventually bleed → surgery not justified as prophylaxis
+- **Inokuchi et al.**: 112 patients, prospective controlled
+  - Bleeding: 19.2% (medical) vs. **0%** (surgical)
+  - No survival difference at 2 years
+  - Only study supporting prophylactic surgery
+  - Note: majority had **posthepatic cirrhosis** with preserved liver function
+
+## Surgical Shunts – Acute Variceal Hemorrhage
+
+- Pharmacologic + endoscopic therapy used **first** at most centers
+- Non-responders → referred for **TIPS or surgical shunt**
+- Emergency shunts prevent bleeding more effectively than sclerotherapy, but **overall mortality equivalent**
+- If nonoperative measures fail → **emergency surgery promptly considered**
+- Emergency shunts normalize portal pressure immediately
+- Mortality rate: **20%–55%**
+
+## Emergency Shunts – Outcomes & Choice
+
+- High mortality related to:
+  - Decompensated liver function
+  - Comorbidity at time of acute bleed
+- Outcomes correlate with **CTP class and MELD score**, not shunt type
+- Liver failure and encephalopathy → proximate causes of death
+- **Portacaval shunt**: acceptable emergency choice (rapid, effective decompression)
+  - End-to-side: adequate
+  - Side-to-side: preferred if **ascites** present
+- **Mesocaval / proximal splenorenal**: effective, avoid porta hepatis dissection
+- **DSRS**: emergency use in select patients (large patent splenic vein, controlled ascites)
+
+## Surgical Shunts – Prevention of Rebleeding
+
+- More attractive role: **elective setting** to prevent recurrent hemorrhage
+- In appropriately selected patients:
+  - Substantially ↓ recurrent bleeding risk
+  - Maintain stable liver function
+  - Obviate repeated endoscopic procedures
+- **TIPS vs. DSRS RCT** (non-responders to medical therapy):
+  - Rebleeding: DSRS 5.5% vs. TIPS 10.5% (NS)
+  - No difference in encephalopathy or survival
+  - TIPS required more interventions (non-covered stents)
+  - TIPS slightly more cost-effective at 1 year
+  - Conclusion: **equal efficacy**
+
+## Shunt Classification
+
+| Type | Mechanism | Goal |
+|---|---|---|
+| **Nonselective** | Complete diversion | Full portal decompression |
+| **Partially selective** | Partial diversion | Preserve some portal perfusion |
+| **Selective** | Compartmentalization | Decompress varices, preserve hepatic portal flow |
+
+- Relative to nonselective: partial/selective aim to **preserve hepatic portal perfusion** and **minimize liver failure & encephalopathy**
+
+## Nonselective Shunts – General Aspects
+
+- **End-to-side portacaval shunt**: prototype nonselective shunt (first experimental shunt in dogs)
+- Side-to-side vs. end-to-side: **no significant clinical differences**
+- **Interposition mesocaval shunt**: no clinical/hemodynamic differences vs. side-to-side portacaval
+  - High graft thrombosis rate
+  - Advantage: avoids porta hepatis dissection (good for transplant candidates)
+- **Central/proximal splenorenal shunt** with splenectomy: additional option
+
+## Nonselective Shunts – Current Indications
+
+- Emergency shunt for variceal hemorrhage
+- Elective shunt with **significant ascites**
+- Treatment of **Budd-Chiari syndrome**
+- Long-term bridge to hepatic transplantation (when bleeding not controlled by endoscopy or TIPS)
+
+## Budd-Chiari Syndrome – Shunt Considerations
+
+- Ascites, abdominal pain, portal hypertension → **side-to-side portacaval shunt** (TIPS preferred if feasible)
+- Side-to-side necessary: PV serves as major **efferent conduit**
+- Fulminant disease or cirrhosis → **liver transplantation** preferred
+- **Caudate lobe hypertrophy** may prevent side-to-side portacaval shunt → **mesocaval shunt** more feasible
+- IVC occlusion → infrahepatic collaterals to azygos → mesocaval shunt decompresses portal circulation
+- Mesoatrial shunt: long, poor patency, poor outcomes → generally avoided
+- **Long-term anticoagulation** usually necessary
+- Must diagnose and treat underlying **hypercoagulable state**
+
+## Distal Splenorenal Shunt (DSRS) – Concept
+
+- Introduced by **Warren et al.**
+- Goal: preserve **hepatopetal blood flow** in PV while decompressing varices
+- Distal splenic vein → anastomosed to **left renal vein**
+- Collaterals ligated (coronary vein, gastroepiploic vein)
+- **Compartmentalizes** portal circulation:
+  - High-pressure SMV system → perfuses liver
+  - Decompressed gastrosplenic system → prevents variceal bleeding
+
+## DSRS – Contraindications & Controversies
+
+- **Contraindicated** in advanced ascites:
+  - Lymphatics transected during renal vein dissection
+  - Elevated sinusoidal pressures persist
+  - May **worsen ascites**
+- Preserving hepatic function better than nonselective shunts: **controversial**
+- Controlled trials: ↓ portosystemic encephalopathy after DSRS
+- Portal flow maintained in **nonalcoholic cirrhosis** and noncirrhotic portal hypertension
+- Portal flow rapidly collateralizes in **alcoholic cirrhosis** (especially with continued alcohol)
+- Failure to ligate coronary vein → early loss of hepatopetal flow
+
+## DSRS – Pancreatic Siphon & Splenopancreatic Disconnection
+
+- Despite surgical interruption of collaterals → collaterals develop through **pancreatic siphon**
+- **Splenopancreatic disconnection** improves selectivity (especially alcoholic cirrhosis)
+- However:
+  - Technically demanding
+  - Frequently bloody (fibrotic pancreas)
+  - Clinical benefits **not clearly shown**
+
+## DSRS – Preoperative Requirements
+
+- **Visceral or CT angiography** required before DSRS
+- Requires **patent splenic vein**, preferably ≥ **7 mm** diameter
+- **Not candidates**:
+  - Previous splenectomy
+  - Thrombosed splenic vein
+
+## DSRS – Controlled Trials vs. Nonselective Shunts
+
+- **6 of 7** controlled trials evaluated alcoholic cirrhotic patients
+- Summarized by **Jin and Rikkers**:
+  - **No survival advantage** of either procedure
+  - 4/7 trials: **less encephalopathy** after selective shunt
+  - 3/7 trials: no difference in encephalopathy
+  - Rebleeding rates: **no difference** (one trial: higher after DSRS)
+
+## DSRS vs. Endoscopic Therapy
+
+- Rebleeding **less frequent** with selective shunts
+- Hepatic portal perfusion **better maintained** by sclerotherapy
+- Encephalopathy rates: **similar**
+- Sclerotherapy effectively controls initial bleeding
+- Non-responders → **prompt surgery**
+- Another surgical indication: **poor access to advanced medical care** (avoids multiple endoscopy visits)
+
+## Partial Shunt (Sarfeh)
+
+- Decompresses varices while **preserving hepatic portal perfusion**
+- **8-mm or 10-mm PTFE graft** interposed between PV and IVC
+- RCT: partial (8 mm) vs. nonselective (16 mm):
+  - **Lower encephalopathy** with partial shunt
+  - Similar survival
+- **Rosemurgy series** (170 patients):
+  - 56% alcoholic, 44% nonalcoholic
+  - 38% CTP A/B, 62% CTP C
+  - Variceal bleeding after shunt: **2%** (very uncommon)
+  - Actual survival superior to MELD-predicted
+  - Encouraged for patients **not eligible/suitable for transplant**
+
+## Portacaval Shunt – Technique
+
+- Side-to-side, end-to-side, or interposition graft
+- Side-to-side: relieves ascites (↓ intrahepatic sinusoidal pressure) + ↓ portal pressure gradient
+- **Current indication**: significant ascites + bleeding varices unresponsive to nonsurgical treatment + **not a transplant candidate**
+- Transplant candidates: avoid porta hepatis dissection → prefer DSRS or mesocaval
+
+## Portacaval Shunt – Surgical Steps
+
+1. Transverse upper abdominal incision
+2. Encircle and retract common bile duct to patient's left
+3. If replaced right hepatic artery from SMA → encircle and retract left
+4. Dissect and encircle PV and IVC (between liver edge and right renal vein)
+5. Partially occluding clamps on IVC and PV
+6. Longitudinal venotomy (~2 cm) in each vein
+7. 6-0 polypropylene stay sutures at corners
+8. Running anastomosis
+9. Remove clamps → check hemostasis
+
+**Figure 83.7**: Completed side-to-side portocaval anastomosis → normalizes portal pressures, hepatofugal flow through shunt
+
+## Mesocaval Shunt – Indications & Technique
+
+- Long-term bridge to transplant or definitive therapy (endoscopic/TIPS failure)
+- Conduit: PTFE, Dacron, or **internal jugular vein autograft**
+  - Vein graft: better long-term patency
+  - Synthetic: more common, avoids jugular harvest morbidity
+- Advantage: dissection **away from porta hepatis** (transplant-friendly)
+- Disadvantage: long course around duodenum, relatively poor long-term patency
+
+## Mesocaval Shunt – Surgical Steps
+
+1. Transverse upper abdominal incision
+2. Elevate transverse colon → identify middle colic vein → SMV
+3. Dissect 2–3 cm SMV segment free of tributaries
+4. Dissect IVC through right colon mesentery (caudal to duodenum)
+5. Shunt should take **straight path** from SMV to IVC (avoid duodenal compression)
+
+## Jugular Vein Conduit – Technique
+
+- **Left neck** preferred (left jugular vein slightly longer)
+- Incision along anterior border of sternocleidomastoid
+- Divide platysma → identify jugular vein
+- Ligate and divide branches
+- Dissect from **clavicle to mastoid**
+- Ligate proximally and distally with silk → excise graft → place in sterile saline
+- Close neck wound
+- Proximal end → end-to-side to **SMV** (6-0 polypropylene)
+- Distal end → end-to-side to **IVC** (6-0 polypropylene)
+- Flow should be **1–2 L/min**; lower → inspect for technical problems
+
+**Figure 83.8**: Left jugular vein provides ideal autologous endothelialized vein graft for mesocaval shunt (8–10 cm graft)
+
+## Meso-Rex Shunt
+
+- For **extrahepatic PV occlusion** without cirrhosis/advanced fibrosis
+- Requires: patent intrahepatic **left PV** + patent **SMV** (or suitable collateral)
+- Venous conduit from SMV → left PV (usually **left internal jugular vein**)
+- **Key advantage**: restores portal blood flow to liver AND relieves portal hypertension
+  - Preserves liver integrity and function long term
+- More common in **children**; selected adults may benefit
+- Surgical dissection follows **round ligament** to left PV
+- Recent consensus: advocated for more common application in children with extrahepatic PV occlusion
+
+**Figure 83.9**: Meso-Rex shunt creation – dissection of round ligament to left portal vein, restoring portal inflow via SMV graft
+
+## DSRS – Technical Details
+
+- Transverse upper abdominal incision
+- Take down gastrocolic omentum → divide **right gastroepiploic vein**; leave **short gastric veins** intact
+- Mobilize splenic flexure caudally
+- Retract inferior border of pancreas anteriorly/cranially
+- Dissect **splenic vein** free from pancreas → ligate all tributaries
+  - Most challenging aspect (especially with pancreatic fibrosis)
+- Dissect medially to SMV confluence, laterally for adequate length
+- If splenopancreatic disconnection: continue to spleen, ligate all pancreatic tributaries
+
+**Figure 83.10**: Anatomy for DSRS – short gastric veins intact; coronary vein and right gastroepiploic veins ligated
+
+## DSRS – Left Renal Vein & Coronary Vein
+
+- Dissect **left renal vein**; ligate lymphatics (avoid chylous ascites)
+- Ligate and divide **left adrenal vein** (mobilization)
+- Leave **gonadal vein and lumbar veins** intact (additional outflow)
+- If circumaortic left renal vein with small anterior branch → anastomose to IVC (**distal splenocaval shunt**)
+- **Coronary vein ligation** is essential for selectivity:
+  - Preferably at junction with portal/splenic vein
+  - Or at superior border of pancreas
+  - Generally large and attenuated
+- Shunt flow: **300–1000 mL/min**
+
+**Figure 83.6**: DSRS diagram – ligation of coronary vein, drainage of splenic vein into left renal vein; right gastroepiploic vein ligated
+
+## Minimally Invasive Portosystemic Shunts
+
+- TIPS methodology → minimally invasive shunt creation with improving patency
+- RCT: DSRS vs. TIPS → **no superiority of DSRS**
+- Many clinicians recommend **TIPS as long-term solution**; reserve surgical shunts when TIPS not feasible
+- DSRS placed via **retroperitoneum** or via **left renal vein into splenic vein** (percutaneous)
+- As stent techniques/design improve → increasingly attractive alternatives to rare surgical shunts
+
+## Devascularization Procedures – Overview
+
+- Intent: disconnect varices from hypertensive portal system
+- **Avoid encephalopathy** by preserving hepatic portal perfusion
+- Gold standard: **Sugiura procedure**
+  - Thoracic esophageal transection + devascularization
+  - Followed weeks later by laparotomy
+  - Extensive esophageal + gastric devascularization
+  - Preserves coronary vein → azygos collaterals (discourages varix reformation)
+
+## Sugiura Procedure – Outcomes
+
+- **Initial report** (Sugiura & Futagawa, 276 patients):
+  - Operative mortality: **4.3%**
+  - Varix recurrence: **2.3%** (1–10 year follow-up)
+  - 1-year actuarial survival: **83%**
+  - Survival by CTP: A=95%, B=87%, C=57%
+  - Elective > emergency outcomes
+- **Outside Japan**: results not duplicated
+- **Orozco et al.**: 10-year experience, one-stage transabdominal → mortality correlated with CTP
+- **Toronto (Dagenais)**: 22% operative mortality (emergency); 5-year survival: A=100%, B=43%, C=25%
+
+## Devascularization – Additional Data & Indications
+
+- 32 patients, transabdominal esophagogastric devascularization:
+  - 11/12 **without liver disease** survived >10 years
+  - 20 with cirrhosis: 5-year survival **51%**
+- Effective alternative for **diffuse splanchnic venous thrombosis** without liver disease
+- Only RCT (bilharzial cirrhosis): devascularization → longer survival without encephalopathy vs. shunt
+- **Indications**: unsuitable PV anatomy, shunt failures, non-responders to medical management
+- CTP C → consider **liver transplantation**
+- Reserve for rare patients: refractory bleeding + ineligible for TIPS/shunt/transplant
+
+## Liver Transplantation – Definitive Therapy
+
+- Definitive therapy for **advanced liver failure** (CTP B or C)
+- Variceal hemorrhage → most common manifestation prompting transplant evaluation
+- Acute management: endoscopic diagnosis + EVL + pharmacologic therapy ± TIPS
+- Strong correlation between CTP class and long-term outcome → transplant is **treatment of choice** for advanced liver disease
+- All other treatments used in **complementary fashion**; sequential application common
+- Liver transplantation = ultimate solution for cirrhosis + end-stage liver failure
+
+## Liver Transplantation – Practical Considerations
+
+- Disparity between patients awaiting transplant and donor supply → **unpredictable waiting period**
+- Operative morbidity/mortality correlate with **preoperative condition**
+  - Use alternative measures to arrest bleeding + optimize condition before transplant
+- **Active alcoholics**: precluded from transplant; require ≥**6-month abstinence**
+  - May need temporizing alternative therapies
+- Liver transplantation → **immediate normalization** of portal pressure
+
+## Liver Transplantation – Shunt Implications
+
+- Portacaval shunt or porta hepatis dissection → makes subsequent transplant **more difficult**
+- If transplant anticipated: shunt **outside porta hepatis** preferred
+  - **DSRS and mesocaval shunts** preferred
+- Surgical shunt may be attractive if transplant not needed for **several years**
+- CTP C patients requiring short-term transplant → managed with **TIPS as bridge**
+  - TIPS may improve CTP class and reduce pre-transplant morbidity
+
+## Meso-Rex Shunt for PV Occlusion After Transplant
+
+- Especially in **children**: extrahepatic PV thrombosis months/years post-transplant
+- Manifestations: portal hypertension, GI bleeding from Roux-en-Y, splenomegaly, encephalopathy
+- **Meso-Rex shunt** (SMV → left PV):
+  - Placed in **rex recessus** space via round ligament
+  - Autologous vein conduit
+  - Relieves portal hypertension + restores **physiologic flow** to liver
+- Young children: seldom experience life-threatening bleeds; managed medically + planned shunts/transplant
+
+## Extrahepatic Portal Vein Thrombosis – Overview
+
+- Relatively uncommon cause of portal hypertension
+- Management **distinctly different** from cirrhosis:
+  - Usually **normal liver**
+  - Survival not limited by liver disease progression
+- Etiology:
+  - Direct: neonatal peritonitis, trauma, porta hepatis tumors, congenital PV abnormalities
+  - Indirect: neonatal sepsis, dehydration, hypercoagulable states
+- Results in **presinusoidal portal hypertension** with hepatopetal collaterals (excellent portal perfusion)
+
+## Extrahepatic PV Thrombosis – Treatment Options
+
+1. **Expectant medical management**:
+   - Bleeding generally well tolerated (normal liver)
+   - Appropriate in infants (self-limited; 50% outgrow bleeding)
+2. **Endoscopic variceal ablation + surgery** (adults):
+   - Mortality approaches **20%** over time with recurrent bleeding
+   - Normal liver → excellent candidates for aggressive treatment
+3. **Acute episode management**: resuscitation → vasopressin/octreotide → endoscopic ablation
+
+## Extrahepatic PV Thrombosis – Surgical Approach
+
+- Recurrent bleeding → **CT angiography/MRA** (portal, mesenteric, splenic veins)
+- Spleen in situ + patent splenic vein → **DSRS** (excellent candidate)
+  - Central splenorenal or mesocaval shunts also possible if SMV open
+- Splenic vein occluded or spleen absent → further endoscopic ablation
+  - If fails → exploration
+  - Rare: shuntable vein found (e.g., coronary vein → coronary-caval shunt)
+  - Most often: **gastric devascularization + splenectomy**
+- Recurrent hemorrhage after devascularization: **20%–30%** → further ablation; rarely esophagogastrectomy
+
+## Present Role of Surgical Shunts
+
+- Shunt may serve as **long-term bridge to transplant**
+- Vast majority with underlying liver disease → treated with **transplant** if candidates
+- Surgical shunts reserved for patients with **good hepatic reserve** and variceal bleeding
+- Excellent results in this setting
+- Over 25 years: liver transplantation + TIPS have substantially changed management
+  - CTP class of shunt patients progressively improved
+  - Need for emergency surgery declined
+  - Nonselective shunt use declined (EVL, TIPS, transplant)
+  - Less risky patients selected for elective shunts
+  - Postoperative encephalopathy ↓; long-term (10-year) survival ↑
+
+## Present Role – Pediatric Shunts
+
+- Another role: **children with variceal hemorrhage** after endoscopic therapy
+- Excellent results with:
+  - **Meso-Rex shunt**
+  - **Distal splenorenal shunt**
+  - **Mesocaval shunt**
+- To prevent bleeding in pediatric portal hypertension
+
+## Algorithm for Definitive Therapy (Figure 83.11)
+
+**Transplant Candidates:**
+- Nonalcoholic/abstinent alcoholic cirrhotics
+- Good operative risk + controllable ascites + compatible anatomy → **Selective shunt or TIPS**
+- Intractable ascites → **TIPS or nonselective shunt**
+- Poor operative risk / CTP C → **TIPS** (bridge to transplant)
+- Failure of endoscopic therapy → **TIPS**
+
+**Non-Transplant Candidates:**
+- Noncirrhotic, active alcoholic, elderly, significant cardiopulmonary disease, noncompliant, poor access, gastric varices
+- Compliant + ready access → **Endoscopic therapy**
+- Poor access / gastric varices → **Selective shunt or TIPS**
+- Splanchnic venous thrombosis → **Devascularization**
+- Failure → **Surgery or TIPS**
+
+## Algorithm – Key Decision Points
+
+| Patient Factor | Preferred Approach |
+|---|---|
+| Transplant candidate, good operative risk | Selective shunt or TIPS |
+| Transplant candidate, intractable ascites | TIPS or nonselective shunt |
+| CTP class C / progressive disease | TIPS → Transplant |
+| Non-transplant, compliant, good access | Endoscopic therapy |
+| Non-transplant, poor access / gastric varices | Selective shunt or TIPS |
+| Splanchnic venous thrombosis | Devascularization |
+| Endoscopic therapy failure | TIPS |
+
+## Summary – Evolution of Management
+
+- Clinical management of bleeding esophageal varices has **changed radically** in 25 years
+- Key changes:
+  - Improved TIPS patency (ePTFE-covered stents)
+  - Minimally invasive intravascular shunt techniques
+  - Improved liver transplant outcomes
+  - EVL: excellent efficacy, lower complications → increased use
+  - TIPS: minimally invasive, successful → reduced need for surgical shunts
+  - TIPS increasingly used when endoscopic intervention fails
+  - Liver transplantation routinely recommended for advanced liver failure
+
+## Summary – Current Role of Surgical Shunts
+
+1. **Less frequent** than in previous era
+2. Emergency setting in adults: only when medical therapy, endoscopic control, or TIPS have **failed**
+3. Elective: occasionally useful as **long-term bridge to transplant**
+4. Elective: definitive therapy for **noncirrhotic portal hypertension** or **CTP A cirrhosis** if TIPS/intravascular DSRS not feasible
+5. Beneficial for **Budd-Chiari syndrome** when TIPS not technically feasible
+
+## Summary – Preferred Shunt
+
+- **Selective DSRS** preferred in patients **without ascites**:
+  - Lower risk of portosystemic encephalopathy
+  - Potential for preserving portal blood flow
+- **Multidisciplinary approach** to evaluation and treatment improves outcomes
+- Selective use of each therapy, alone or in combination → improved outcomes
+
+## Key Figures Summary
+
+| Figure | Content |
+|---|---|
+| 83.1 | CT coronal: cavernous transformation, PV thrombosis |
+| 83.2 | CT axial: patent renal vein + splenic vein for splenorenal shunt |
+| 83.3 | Fluoroscopy: sheath/snare in left femoral vein → splenic vein access |
+| 83.4 | Fluoroscopy: snare/wire through spleen → left renal vein → IVC |
+| 83.5 | CT axial: stent in completed percutaneous DSRS |
+| 83.6 | Diagram: DSRS with coronary vein ligation |
+| 83.7 | Diagram: completed side-to-side portocaval anastomosis |
+| 83.8 | Diagram: left jugular vein graft for mesocaval shunt |
+| 83.9 | Diagram: meso-Rex shunt (SMV → left PV via round ligament) |
+| 83.10 | Diagram: DSRS anatomy (short gastrics intact, coronary/RGE ligated) |
+| 83.11 | Algorithm: definitive therapy of variceal hemorrhage |
+
