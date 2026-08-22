@@ -1,0 +1,722 @@
+---
+title: "Extrahepatic Portal Venous Obstruction (EHPVO)"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+## EHPVO at a Glance
+
+- A **leading cause of non-cirrhotic portal hypertension** in developing countries
+- Especially affects **children and adolescents**
+- Characterized by **chronic extrahepatic portal vein thrombosis** with **cavernomatous transformation**
+- Leads to:
+  - Recurrent variceal bleeding
+  - Hypersplenism
+  - Portal biliopathy
+- Hepatic parenchymal function is **generally preserved** — distinguishing it from cirrhosis
+
+## Why Revisit EHPVO Now?
+
+- The therapeutic landscape has **evolved significantly** in recent years
+- Transformative advances over the past two decades in:
+  - Diagnostic imaging
+  - **Endovascular recanalization**
+  - **Physiologic shunt surgery** (e.g., meso-Rex bypass)
+- This review provides an **updated clinical framework** emphasizing:
+  - Modern endovascular recanalization strategies
+  - Evolving concepts in portal cavernoma cholangiopathy (PCC)
+  - Pediatric versus adult management priorities
+  - Emerging technologies — AI-assisted vascular planning, hybrid approaches
+
+## Section: Epidemiology & Etiology {.title-slide}
+
+## Epidemiology: Global Perspective
+
+- Accounts for **15–30%** of portal hypertension cases in India and other tropical regions
+- In Western countries, contribution **rarely exceeds 10%**
+- Recent Indian hospital-based registries:
+  - EHPVO prevalence among portal hypertension referrals ≈ **35%**
+- Ongoing **public health relevance** in tropical regions
+- Male preponderance in Indian series: **M:F ≈ 2:1** (less pronounced in Western cohorts)
+
+## Epidemiology: Tropical vs Western Settings
+
+| Feature | Tropical regions (South / South-east Asia) | Western countries |
+|---|---|---|
+| Typical age at diagnosis | **Childhood and adolescence** | Usually **adults** |
+| Frequency | Common; major cause of non-cirrhotic portal hypertension | Uncommon (<10% of portal hypertension) |
+| Typical etiology | Neonatal / childhood insults | Prothrombotic disorders, incidental adult detection |
+| Disease burden | Lifelong: recurrent GI bleeding, growth retardation, portal biliopathy | Often longstanding, unrecognized childhood disease |
+
+## Age at Presentation
+
+- **Children:**
+  - Mean age at presentation: **6–10 years**
+  - Typically follows an initial episode of **variceal bleeding**
+- **Adults:**
+  - Diagnosis is often **incidental**
+  - During evaluation for **splenomegaly or cytopenias**
+  - Reflects longstanding, unrecognized childhood disease
+
+## Etiology: Pediatric EHPVO
+
+Predominant factors in children:
+
+- **Neonatal sepsis**
+- **Umbilical vein catheterization**
+- **Omphalitis**
+- **Dehydration**
+- **Intra-abdominal infection**
+
+::: {.callout-warning}
+Socioeconomic and environmental factors in tropical settings contribute substantially: unhygienic cord care, limited access to neonatal intensive care, and high infectious burden.
+:::
+
+## Etiology: Adult EHPVO
+
+Acquired **prothrombotic states** are prominent in adults:
+
+- Myeloproliferative disorders (MPN)
+- Antiphospholipid syndrome (APS)
+- Protein C / S deficiency
+- Factor V Leiden mutation
+- Oral contraceptive use
+
+Despite comprehensive evaluation, **30–40% of EHPVO cases remain idiopathic**.
+
+## Table 1: Etiologic Spectrum of EHPVO in Tropical Countries
+
+:::{.smaller}
+| Category | Specific causes / examples | Relative frequency (%) |
+|---|---|---|
+| Neonatal insults | Sepsis, omphalitis, umbilical vein catheterization | **30–40** |
+| Infections (childhood) | Intra-abdominal infection, dehydration | 10–15 |
+| Prothrombotic disorders | Protein C/S deficiency, factor V Leiden, APS, MPN | 20–25 |
+| Post-surgical / iatrogenic | Abdominal surgery, trauma | 5–10 |
+| Idiopathic | No identifiable factor | **20–40** |
+:::
+
+::: {.callout-note}
+Neonatal insults dominate in children; prothrombotic disorders are relatively more important in adults.
+:::
+
+## Idiopathic EHPVO & Tropical Contributors
+
+- Up to **30–40%** of cases remain **idiopathic** even after comprehensive evaluation
+- Tropical setting adds specific risks:
+  - Unhygienic cord care
+  - Limited access to neonatal intensive care
+  - High infectious burden
+- These factors explain the higher disease frequency in developing regions
+
+## EHPVO vs Chronic Portal Vein Thrombosis
+
+- EHPVO is often equated with chronic PVT, but important differences exist:
+
+| Dimension | EHPVO (tropical) | Chronic PVT (Western) |
+|---|---|---|
+| Typical patient | Children, after neonatal/childhood insults | Adults with prothrombotic disorders or malignancy |
+| Typical features | Growth failure, massive splenomegaly, portal biliopathy | Variable; often related to underlying disease |
+| Therapeutic focus | **Physiologic shunt surgery (meso-Rex shunt)** | Treat underlying liver disease, anticoagulation, TIPS or liver transplantation (if cirrhosis) |
+
+## Section: Pathophysiology {.title-slide}
+
+## Pathophysiology: The Initiating Event
+
+1. **Acute thrombotic obstruction** of the main portal vein or its tributaries
+2. Over weeks: **thrombus organization and fibrosis**
+3. Result: **permanent occlusion** of the portal vein
+4. Obstruction may extend to the **splenic vein** or **superior mesenteric vein**
+
+## Portal Cavernoma Formation
+
+- To maintain **hepatopetal flow**, numerous small **periportal collaterals** develop
+- These collaterals are collectively termed the **portal cavernoma**
+- The cavernoma reroutes mesenteric venous blood toward the liver
+- **Collateralization preserves hepatic function** — but at a cost:
+  - Elevated splanchnic pressure
+  - Splenomegaly and hypersplenism
+  - Gastroesophageal varices
+
+## Hemodynamic State
+
+- EHPVO induces a unique hemodynamic state:
+  - **Presinusoidal hypertension**
+  - **Preserved sinusoidal architecture**
+- The **hepatic artery enlarges** compensatorily to sustain parenchymal perfusion
+- Preserved liver architecture underlies the excellent hepatic reserve seen in EHPVO
+
+## Consequences of Portal Hypertension
+
+- **Spleen:** congested and hyperfunctional
+  - Thrombocytopenia and anemia (hypersplenism)
+  - Low-grade systemic inflammation and impaired immunity may occur
+- **Varices:** gastroesophageal varices → recurrent upper GI bleeding
+- **Biliary tree:** portal biliopathy (see later)
+- **Growth:** retardation in children
+
+## Growth Retardation in Children
+
+Longstanding elevated portal pressure contributes to growth retardation through:
+
+- Reduced nutrient absorption
+- Hypersplenism-related cytopenias
+- Impaired **insulin-like growth factor-1 (IGF-1)** signaling
+
+::: {.callout-important}
+Growth failure is a hallmark of longstanding pediatric EHPVO — and a key indication for definitive (physiologic) shunt surgery.
+:::
+
+## Pathogenesis of Portal Biliopathy
+
+Portal biliopathy arises from two mechanisms:
+
+1. **Extrinsic compression** of the bile duct by peribiliary collaterals
+2. **Ischemic cholangiopathy** due to loss of the peribiliary vascular plexus
+
+Longstanding disease → biliary complications collectively known as **portal biliopathy** or **portal cavernoma cholangiopathy (PCC)**.
+
+## Figure 1: Pathogenesis and Clinical Features of EHPVO
+
+:::{.smaller}
+```{mermaid}
+flowchart TD
+    A[Acute thrombotic obstruction of PV / tributaries] --> B[Thrombus organization & fibrosis]
+    B --> C[Chronic PV occlusion]
+    C --> D[Periportal collaterals: PORTAL CAVERNOMA]
+    D --> E[Hepatopetal flow maintained - hepatic function preserved]
+    D --> F[Elevated splanchnic pressure - presinusoidal portal hypertension]
+    F --> G[Gastroesophageal varices → recurrent bleeding]
+    F --> H[Congestive splenomegaly → hypersplenism]
+    F --> I[Growth retardation in children]
+    D --> J[Peribiliary collaterals + ischemic cholangiopathy]
+    J --> K[Portal biliopathy / PCC]
+    C --> L[Hepatic artery compensatory enlargement]
+```
+:::
+
+## Section: Natural History & Diagnosis {.title-slide}
+
+## Natural History: Typical Presentation
+
+Patients typically present with:
+
+- **Upper gastrointestinal bleeding** from varices
+- **Massive splenomegaly**
+- **Hypersplenism**
+- Liver function tests often **normal or mildly deranged**
+- Some adults present with **jaundice or recurrent cholangitis** due to PCC
+- In the older age group:
+  - Parenchymal extinction may occur
+  - May manifest as **ascites** and **hepatic encephalopathy**
+
+## Natural History: Survival & Variceal Development
+
+- **5-year survival:** ≈ **96%**
+- Probability of variceal development:
+  - **1-year:** 2%
+  - **5-year:** 22%
+
+::: {.callout-note}
+EHPVO carries an excellent survival outlook, but imposes a lifelong burden of recurrent bleeding, hypersplenism, and potential biliary complications.
+:::
+
+## Laboratory Profile
+
+- **Pancytopenia** (from hypersplenism)
+- **Normal albumin**
+- **Normal prothrombin time**
+- Liver enzymes: normal or mildly deranged
+- **Thrombophilia screening recommended:**
+  - Particularly in **adults**
+  - And in **idiopathic cases**
+
+## First-Line Imaging: Color Doppler Ultrasonography
+
+- First-line diagnostic test
+- Demonstrates:
+  - **Absence of normal portal flow**
+  - **Multiple serpiginous collaterals** (portal cavernoma)
+- Non-invasive, widely available, and suitable for screening and follow-up
+
+## Cross-Sectional & Advanced Imaging
+
+- **Contrast-enhanced CT and MR portography:**
+  - Map venous anatomy
+  - Aid planning for shunt surgery or recanalization
+- **MRCP:** evaluates biliary abnormalities (PCC)
+- **Endoscopic ultrasound (EUS):**
+  - Differentiates vascular from non-vascular compression
+  - Assesses pericholedochal collaterals
+- **Advanced tools:**
+  - Four-dimensional (4D) flow MRI
+  - Contrast-enhanced ultrasound
+  - Can **quantify portal hemodynamics**
+
+## Figure 2: MRI Findings in EHPVO
+
+Post-contrast coronal MRI demonstrates the classic constellation:
+
+- **Portal cavernoma** — serpiginous periportal collaterals
+- **Pericholecystic collaterals**
+- **Dilated biliary radicles** (biliary involvement / PCC)
+- **Splenomegaly** with **Gamma-Gandy bodies** (siderotic nodules from congestive splenopathy)
+
+::: {.callout-note}
+*Figure 2 of the article: post-contrast coronal MRI showing portal cavernoma, pericholecystic collaterals with dilated biliary radicles, and splenomegaly with Gamma-Gandy bodies.*
+:::
+
+## Figure 3: MRCP Findings in Portal Cavernoma Cholangiopathy
+
+- **Coronal 3D MRCP** in a patient with EHPVO shows:
+  - **Non-visualization of the mid common bile duct (CBD)**
+  - Due to a **dominant biliary stricture**
+
+::: {.callout-note}
+MRCP is the investigation of choice for mapping biliary involvement when cholestasis is suspected; EUS complements it by identifying pericholedochal vessels before intervention.
+:::
+
+## Differential Diagnosis
+
+Main differentials of EHPVO:
+
+1. **Non-cirrhotic portal fibrosis (NCPF)**
+2. **Budd-Chiari syndrome**
+3. **Cirrhosis with chronic PVT**
+
+Distinguishing pointers:
+
+- **Preservation of liver architecture** favors EHPVO
+- **Absence of hepatic vein obstruction** argues against Budd-Chiari
+- Liver biopsy is **not routine** — reserved for when cirrhosis is a differential
+
+## Table 2: EHPVO vs NCPF vs Cirrhosis — Clinical Features
+
+:::{.smaller}
+| Feature | EHPVO | NCPF | Cirrhosis |
+|---|---|---|---|
+| Etiology | Portal vein thrombosis (neonatal sepsis, catheter, thrombophilia) | Obliterative portal venopathy, idiopathic | Chronic liver injury (viral, alcohol, MASH) |
+| Liver size & texture | Normal | Normal / slightly coarse | Shrunken, nodular |
+| Splenomegaly | **Massive** | Moderate | Moderate |
+| Variceal bleeding | **Very common, early** | Common | Common, late |
+| Ascites | Rare, transient | Occasional | Frequent, persistent |
+:::
+
+## Table 2 (contd.): Investigations & Outcomes
+
+:::{.smaller}
+| Feature | EHPVO | NCPF | Cirrhosis |
+|---|---|---|---|
+| Liver function tests | Normal | Normal / mild ↑ alkaline phosphatase | Abnormal |
+| Portal vein patency | **Occluded / cavernomatous** | Patent | Often patent |
+| Hepatic veins | Patent | Patent | Patent / altered with advanced disease |
+| Biliary changes | **Portal biliopathy** | None | Secondary to cirrhosis |
+| Response to shunt surgery | Excellent | Variable | Risk of encephalopathy |
+| Prognosis | **Excellent** | Good | Guarded |
+:::
+
+## Liver Biopsy in EHPVO
+
+- **Not done routinely**
+- Indicated when **cirrhosis is a differential diagnosis**
+- Common biopsy findings:
+
+| Finding | Frequency |
+|---|---|
+| Portal vein dilatation | 70% |
+| Periportal aberrant vascular channels | 46% |
+| Portal vein thickening | 28% |
+| Portal vein narrowing | 10% |
+| Remnant portal triads | 2% |
+| Portal vein thrombosis | 1% |
+
+- Fibrosis stage: predominantly **Ishak stage 1 to Ishak stage 3**
+
+## A Practical Diagnostic Algorithm
+
+1. **Confirm cavernoma** on Color Doppler ultrasonography
+2. **Map vascular anatomy** with CT / MR portography
+3. **Evaluate the biliary tract** with MRCP when cholestasis is suspected
+4. **Thrombophilia workup** in adults or those with recurrent disease
+5. Liver biopsy only if cirrhosis is in the differential
+
+## Section: Management {.title-slide}
+
+## Principles of Management
+
+Management aims to:
+
+- **Control bleeding**
+- **Prevent rebleeding**
+- **Decompress portal pressure**
+- Address **hypersplenism, growth failure, and portal biliopathy**
+
+::: {.callout-important}
+Restoration of **physiologic portal flow** is emphasized whenever feasible.
+:::
+
+## Treatment Armamentarium
+
+- Endoscopic therapy
+- Surgical shunts
+- **Meso-Rex bypass (MRS)**
+- Endovascular recanalization
+- Hybrid approaches
+- Rarely: liver transplantation
+
+Treatment selection depends on: **age, vascular anatomy, complications, and institutional expertise.**
+
+## Strength of Evidence by Modality
+
+- **Surgical shunts** (especially physiologic shunts like meso-Rex in children):
+  - Strongest long-term outcome data
+  - Durable patency, excellent bleeding control, growth improvement
+- **Endovascular recanalization:**
+  - Emerging cohort studies and single-center experiences
+  - High technical success; encouraging mid-term patency
+- **Endoscopic therapy:**
+  - Essential for acute bleeding control and short-term management
+  - Generally **bridging**, not definitive
+- Direct comparisons limited by heterogeneity, follow-up duration, and rapidly evolving techniques
+
+## Table 3: Comparative Outcomes — Efficacy
+
+:::{.smaller}
+| Parameter | Endoscopic therapy | Surgical shunts (PSRS / MRS / DSRS) | Endovascular / hybrid |
+|---|---|---|---|
+| Primary goal | Variceal control | Definitive portal decompression | Physiologic / anatomic restoration |
+| Rebleeding (%) | 30–40 | **<10** | 10–20 |
+| Patency (5-year) | – | 85–90% | 70–80% |
+| Effect on hypersplenism | None | Marked improvement | Moderate improvement |
+| Growth recovery (children) | No | **>80%** | Variable |
+:::
+
+## Table 3 (contd.): Practical Considerations
+
+:::{.smaller}
+| Parameter | Endoscopic therapy | Surgical shunts | Endovascular / hybrid |
+|---|---|---|---|
+| Portal biliopathy relief | Minimal | 70–80% | ≈70% |
+| Hepatic encephalopathy risk | Nil | Low (physiologic) / higher (non-physiologic) | Low |
+| Hospital stay | Short | Moderate | Short |
+| Technical demand | Low | High (surgery) | High |
+| Durability | Temporary | Long term | Intermediate |
+| Preferred setting | Acute bleed control | Definitive in children / fit adults | Adults or high surgical risk |
+:::
+
+## Management of Acute Variceal Bleeding
+
+Managed **similarly to cirrhosis**:
+
+- Resuscitation
+- Vasoactive agents: **terlipressin or octreotide**
+- Prophylactic antibiotics
+- **Endoscopic variceal ligation (EVL)** — first-line for hemostasis
+- Uncontrolled or recurrent bleeding:
+  - Emergency **surgical** or **endovascular decompression**
+
+## Secondary Prophylaxis
+
+- **Serial EVL every 2–4 weeks** until variceal eradication
+- Then **6-monthly surveillance** endoscopy
+- **Non-selective beta-blockers** may be added
+- Definitive therapy considered for:
+  - Recurrent bleeding
+  - Severe hypersplenism
+  - Impaired growth
+  - Symptomatic portal biliopathy
+
+## Indications for Definitive Therapy
+
+Definitive therapy = **physiologic shunt surgery** or **portal vein recanalization**
+
+Consider in patients with:
+
+1. Recurrent bleeding despite endoscopic therapy
+2. Severe hypersplenism
+3. Impaired growth (children)
+4. Symptomatic portal biliopathy
+
+## Portal Cavernoma Cholangiopathy: Classification
+
+First, categorize patients into:
+
+- **Asymptomatic (radiologic) PCC:**
+  - Isolated radiologic abnormalities
+  - Normal or minimally elevated liver enzymes
+  - No cholangitis
+  - → **Observation alone** with periodic follow-up
+- **Clinically significant PCC:**
+  - Jaundice, biliary pain, cholangitis, or dominant biliary strictures
+  - → **Stepwise therapeutic approach**
+
+## Management of PCC: Stepwise Approach
+
+1. **ERCP-guided interventions:**
+   - Biliary stenting, stone extraction, balloon dilatation, nasobiliary drainage
+2. **Definitive portal decompression** (surgical shunting or endovascular PV recanalization):
+   - For persistent symptoms, recurrent cholangitis, or severe biliary obstruction
+3. **Second-stage biliary bypass** (Roux-en-Y hepaticojejunostomy):
+   - Minority with residual obstruction despite decompression
+
+## UDCA in PCC: What Is the Evidence?
+
+- Role of pharmacotherapy in PCC is **not clearly defined**
+- No extensive study has assessed **ursodeoxycholic acid (UDCA)** for treatment or prophylaxis
+- Some studies (Condat, Perlemuter, Llop) reported symptom disappearance and liver-test improvement
+- But other studies showed equally good results with endoscopic management **without** UDCA
+- No study has compared **ERCP alone vs ERCP + UDCA**
+- **Routine UDCA use cannot be recommended** — may be used case-by-case
+
+## Endoscopic Management of PCC
+
+Indications: biliary strictures, CBD stones, cholangitis, or when shunt surgery is not feasible
+
+- **CBD stones:** Dormia baskets and/or balloon catheters
+- Large stones: mechanical / laser lithotripsy
+- **Cholangitis:** endoscopic papillotomy with stenting ± nasobiliary drainage
+- **Dominant CBD strictures with stones:** balloon dilatation followed by stone removal
+- **EUS** used with ERCP to identify perforators and subepithelial biliary vessels → safer drainage
+- **Self-expanding fully covered metallic stents** increasingly used, especially with hemobilia
+
+## Surgical Portal Decompression in PCC
+
+- Goal: decompress the portal vasculature and reduce pressure in collaterals
+  - Relieves biliary obstruction, variceal hemorrhage, hypersplenism
+- Non-selective portosystemic shunts commonly created:
+  - **Proximal splenorenal shunt (PSRS)**
+  - **Mesocaval shunt**
+- Less common: side-to-side splenorenal, meso-gonadal vein, meso-renal, porta-varix to vena cava shunts
+- In most patients, a portosystemic shunt or Rex shunt **regresses pericholedochal collaterals** and relieves symptoms
+- Non-responders / partial responders → **Roux-en-Y hepaticojejunostomy**
+
+## The Meso-Rex Shunt: Physiologic Restoration
+
+- Shunt between the **mesenteric vein** and the **left portal vein** (Rex recessus)
+- Commonly created in **pediatric EHPVO**
+- Restores **physiologic hepatopetal portal flow**
+- Benefits:
+  - Excellent, durable bleeding control
+  - Marked improvement in hypersplenism
+  - **Growth recovery in >80% of children**
+  - Low encephalopathy risk
+
+## What About Patients With No Shuntable Veins?
+
+Interventional radiology plays a key role:
+
+- **Portal vein recanalization**
+- **TIPS** (transjugular intrahepatic portosystemic shunting)
+- **Portal vein reconstruction** (recanalization + stenting ± TIPS)
+
+Surgical fallback:
+
+- **Splenectomy and devascularization**
+
+## Figure 4: Rescue TIPS After Shunt Occlusion — A Case
+
+:::{.smaller}
+A patient with EHPVO, post-splenectomy and proximal splenorenal shunt (PSRS), presenting with **uncontrolled hematemesis after PSRS occlusion**:
+
+- **(A) Coronal CT:** portal cavernoma with portal biliopathy; prominent left gastric vein and gastric varices
+- **(B) Portovenogram:** portal cavernoma with **retrograde flow** into the left gastric vein and gastric varices
+- **(C) Post-TIPS portovenogram:** **disappearance of flow** into the cavernoma and gastric varices, with **antegrade flow via TIPS**
+:::
+
+::: {.callout-note}
+Illustrates endovascular rescue when surgical shunts fail or no shuntable veins remain.
+:::
+
+## Splenectomy and Devascularization
+
+- Controls portal hypertension-related manifestations:
+  - Variceal bleeding
+  - Hypersplenism
+- Also **reduces pressure in pericholedochal collaterals**
+  - Thereby improving symptoms related to PCC
+- Option for patients without shuntable veins or where other approaches are not feasible
+
+## Liver Transplantation: A Rare Option
+
+- Reserved for select patients with EHPVO and PCC
+- Exercised when patients are **troubled more by PCC-related symptoms** than by portal hypertension symptoms
+- Caveat:
+  - Transplant **does not decompress the splanchnic bed**
+  - Patients may continue to have hypersplenism and esophagogastric variceal symptoms
+
+## Surgical vs Endovascular: Weighing the Evidence
+
+Direct comparison is **problematic** because of:
+
+- Differences in patient selection
+- Variable follow-up duration
+  - Surgical series: often 5–10-year outcomes
+  - Endovascular series: typically 1–3 years
+- Rapid evolution of endovascular techniques
+
+Balanced view:
+
+- **Surgical shunts:** excellent durability over decades; require major surgery and suitable anatomy
+- **Endovascular approaches:** minimally invasive; shorter follow-up; potential need for reintervention
+- Optimal approach depends on **individual anatomy, age, local expertise, and patient preferences**
+
+## Endovascular Recanalization: Performance
+
+- Access routes: **transhepatic, transsplenic, or transmesenteric**
+- Combined with **angioplasty and stenting**
+- **Technical success:** ≈ **80–90%**
+- **5-year patency:** ≈ **70–80%** in selected anatomies
+- **Hybrid open-endovascular approaches** show promise in complex or post-surgical cases
+
+::: {.callout-warning}
+Candidates are a select subset: favorable anatomy, absent cirrhosis, treated at high-volume centers. Generalizability to broader populations and resource-limited settings needs validation.
+:::
+
+## Figure 5: Algorithmic Approach to EHPVO Management
+
+:::{.smaller}
+```{mermaid}
+flowchart TD
+    A[Suspected EHPVO: variceal bleed, splenomegaly, cytopenias] --> B[Color Doppler US: confirm portal cavernoma]
+    B --> C[CT / MR portography: map vascular anatomy]
+    C --> D{Clinical scenario?}
+    D -->|Acute variceal bleed| E[Resuscitation + vasoactive drugs + antibiotics + EVL]
+    E --> F[Secondary prophylaxis: serial EVL ± NSBB]
+    D -->|Incidental / asymptomatic| G[Surveillance; assess complications]
+    D -->|Cholestasis / cholangitis| H[MRCP ± EUS: evaluate PCC]
+    H --> I[ERCP: stenting, stone extraction, dilatation]
+    F --> J{Recurrent bleed / hypersplenism / growth failure / symptomatic PCC?}
+    J -->|Yes| K[Definitive therapy]
+    K --> L[Children: meso-Rex shunt when feasible]
+    K --> M[Adults: PSRS / other portosystemic shunts]
+    K --> N[Selected: endovascular recanalization ± TIPS]
+    I --> O{Persistent severe obstruction?}
+    O -->|Yes| P[Portal decompression; if residual → Roux-en-Y hepaticojejunostomy]
+```
+:::
+
+## Section: Pediatric vs Adult EHPVO {.title-slide}
+
+## Pediatric vs Adult: Divergent Priorities
+
+| Domain | Pediatric EHPVO | Adult EHPVO |
+|---|---|---|
+| Preferred shunt | **Physiologic shunting** (meso-Rex when feasible) | Portosystemic shunts or endovascular approaches |
+| Critical goal | **Growth restoration** | Managing established portal biliopathy |
+| Durability | Long-term patency essential | Balance of durability vs invasiveness |
+| Safety concerns | Minimize radiation; avoid encephalopathy | Anticoagulation risks; fertility / pregnancy in women |
+
+## Pediatric Management Priorities
+
+- **Physiologic shunting preferred** — meso-Rex when feasible
+- **Growth restoration is critical**
+- **Long-term patency essential** (lifelong disease horizon)
+- **Minimize radiation exposure**
+- **Avoid hepatic encephalopathy**
+- Surveillance: **growth monitoring** and developmental assessment
+
+## Adult Management Priorities
+
+- **Portosystemic shunts or endovascular approaches** more common than in children
+- Managing **established portal biliopathy**
+- Addressing **fertility / pregnancy concerns** in women
+- **Balancing anticoagulation risks** (prothrombotic states common)
+- Surveillance: **biliary surveillance** and endoscopic variceal follow-up
+
+## Anticoagulation in EHPVO: Current Position
+
+- **Limited role in chronic pediatric EHPVO**
+- More commonly used in adults with **identified prothrombotic states**
+- **No randomized trials** compare anticoagulation regimens specifically in EHPVO
+- Most recommendations extrapolated from **cirrhotic PVT or Budd-Chiari syndrome** management
+- **DOACs** increasingly used — but comparative effectiveness vs warfarin in EHPVO is limited
+
+## Surveillance Strategy
+
+**Children:**
+
+- Growth monitoring
+- Developmental assessment
+
+**Adults:**
+
+- Biliary surveillance (PCC increases with disease duration)
+- Endoscopic variceal follow-up
+
+## Section: Outcomes & Future Directions {.title-slide}
+
+## Outcomes: Excellent With Systematic Care
+
+- **10-year survival exceeds 90%** (5-year survival ≈ 96%)
+- Rebleeding:
+  - **<10%** after definitive shunt
+  - vs **30–40%** with endoscopic therapy alone
+- **Growth recovery in >80% of children** after meso-Rex shunt
+- PCC incidence **increases with disease duration**
+- Quality of life **improves substantially** after decompression
+- Hepatic encephalopathy is **rare** — except with extensive non-physiologic shunts
+
+## Interpreting Outcome Data Across Eras
+
+- Outcome data must be interpreted in the context of **evolving therapeutic eras**:
+  - **Earlier cohorts:** primarily surgical or endoscopic therapy
+  - **Contemporary series:** increasingly incorporate endovascular and hybrid approaches
+- Enabled by improved imaging and stent technology
+- Long-term durability data for newer endovascular techniques are still maturing
+
+## Emerging Directions: Endovascular Innovation
+
+- **Newer covered stents** and **dual-access techniques** (transhepatic + transsplenic):
+  - Technical success improved to **≈90%**
+  - Multi-year patency achieved
+- **Standardized anticoagulation pathways:**
+  - Sequential low-molecular-weight heparin → **DOAC**
+  - Enhance patency without excess bleeding
+
+::: {.callout-warning}
+Covered portal stents, dual-access recanalization, and AI-assisted planning currently have limited prospective outcome data — consider them **adjunctive rather than standard** approaches.
+:::
+
+## Emerging Directions: AI & Personalized Planning
+
+- **AI-assisted vascular segmentation**
+- **Three-dimensional (3D) printing**
+- Applications:
+  - Complex **meso-Rex** planning
+  - **Hybrid** procedure planning
+- May further refine future management pathways in multidisciplinary EHPVO care
+
+## Transition Care: A Growing Need
+
+- Pediatric survivors are increasingly entering adulthood
+- Transition care must address:
+  - **Fertility**
+  - **Pregnancy** management
+  - **Bone health**
+- A growing need as long-term survival becomes the norm
+
+## Conclusions
+
+- EHPVO remains a **significant cause of non-cirrhotic portal hypertension** in tropical countries
+- With systematic management it now carries an **excellent prognosis**
+- Advances in imaging, physiologic shunting, endovascular recanalization, and hybrid interventions have **substantially expanded therapeutic options**
+- Contemporary management emphasizes:
+  - **Restoration of physiologic portal flow**
+  - **Individualized treatment strategies**
+  - **Multidisciplinary care**
+- Emerging technologies (AI-assisted vascular planning) may refine future pathways — providing **new perspectives** for modern EHPVO care
+
+## Key Takeaways
+
+:::{.smaller}
+1. EHPVO = chronic extrahepatic PV thrombosis + portal cavernoma; **preserved liver function**, presinusoidal portal hypertension
+2. In tropical regions it is predominantly a **disease of children** (15–30% of portal hypertension; ≈35% of referrals in Indian registries)
+3. Diagnosis: Doppler → CT/MR portography → MRCP (if cholestasis) → thrombophilia workup (adults/idiopathic)
+4. Acute bleeding: treat like cirrhosis (vasoactive drugs + EVL); endoscopy is **bridging**, not definitive
+5. **Meso-Rex shunt** is the pediatric gold standard — growth recovery in >80%
+6. PCC: distinguish asymptomatic radiologic disease (observe) from clinically significant disease (ERCP → decompression → hepaticojejunostomy if needed); **routine UDCA not recommended**
+7. Endovascular recanalization: 80–90% technical success, 70–80% 5-year patency in selected patients
+8. 10-year survival **>90%** with definitive therapy; rebleeding <10%
+:::
