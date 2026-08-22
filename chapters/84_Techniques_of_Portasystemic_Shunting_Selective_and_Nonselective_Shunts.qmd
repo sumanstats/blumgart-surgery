@@ -16,5 +16,9 @@
 
 {{< reveal Extras/non_cirrhotic_two >}}
 
+##  EHPVO new perspective
+
+{{< reveal Extras/EHPVO/ehpvo_new_perspectives >}}
+
 :::
 
