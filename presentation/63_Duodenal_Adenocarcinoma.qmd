@@ -1,0 +1,549 @@
+#  Duodenal Adenocarcinoma
+	
+## Overview: Definition and Rarity
+- Duodenal adenocarcinoma (DA) is a rare malignancy.
+- Accounts for less than 1% of all gastrointestinal (GI) cancers.
+- Incidence rate is less than 6 cases per million person-years.
+
+## Overview: US Epidemiology (2018)
+- Estimated 10,470 cases of small bowel cancer in the US.
+- Resulted in approximately 1,450 deaths.
+- Highlights the high mortality rate relative to incidence.
+
+## Overview: Proportion of Small Bowel Cancers
+- The duodenum comprises a relatively small portion of the small intestine.
+- Despite this, DA represents the majority of small bowel adenocarcinomas (SBAs).
+- Reported rates range between 55% and 82% of SBA cases.
+
+## Overview: Histologic Subtypes
+- Adenocarcinoma accounts for ~40% of all small bowel cancers.
+- It is the most common histologic subtype of duodenal malignancy.
+- Compared to lymphoma, carcinoid, and GI stromal tumors (GIST).
+
+## Overview: Incidence Trends
+- Epidemiologic studies suggest an increasing incidence of DA.
+- Reasons for this trend are still under investigation.
+- Highlights the need for updated clinical guidelines.
+
+## Overview: Prognosis and Survival
+- Prognosis for DA remains poor.
+- 5-year overall survival (OS) is less than 50% even with curative surgical resection.
+- 5-year survival rates drop to 15%–33% when all stages at diagnosis are considered.
+
+## Overview: The Challenge of Rarity
+- Rarity of DA is a persistent challenge to advancing treatment.
+- Many studies aggregate DA with all small bowel cancers or periampullary tumors.
+- Limits disease-specific data and targeted therapy development.
+
+## Overview: Clinical Practice Guidelines
+- Guidelines for SBA were only recently published.
+- First by a French intergroup in 2018.
+- Followed by the National Comprehensive Cancer Network (NCCN) in 2019.
+
+## Presentation: Demographics
+- DA demonstrates a slight male predominance.
+- Most common presentation occurs during the 6th or 7th decade of life.
+
+## Presentation: Delayed Symptoms
+- Clinical presentation is often delayed.
+- Tumors must grow large enough to cause noticeable symptoms before detection.
+- Contributes to advanced stage at diagnosis.
+
+## Presentation: Common Symptoms
+- Bleeding is a primary symptom.
+- Symptoms related to gastric outlet obstruction are highly common.
+- Includes nausea, vomiting, anorexia, early satiety, and weight loss.
+
+## Presentation: Nonspecific Symptoms
+- Nonspecific or vague abdominal pain is commonly reported.
+- Makes early clinical suspicion difficult.
+- Often leads to delayed diagnostic workup.
+
+## Presentation: Jaundice
+- Patients may present with jaundice.
+- Typically occurs if the cancer is located in the second portion of the duodenum.
+- Due to obstruction of the biliary tree near the ampulla.
+
+## Presentation: Asymptomatic Cases
+- A retrospective Japanese study of 205 SBA patients evaluated asymptomatic cases.
+- 64 patients (43.0%) with DA were asymptomatic at diagnosis.
+- Highlights the hidden nature of early-stage DA.
+
+## Presentation: Incidental EGD Findings
+- 85.9% of asymptomatic DA cases were found via esophagogastroduodenoscopy (EGD).
+- These EGDs were completed for unrelated reasons.
+- Emphasizes the value of incidental findings.
+
+## Presentation: Symptomatic Jejunioileal Adenocarcinoma
+- In contrast to DA, jejunioileal adenocarcinoma presents differently.
+- 47 patients (83.8%) were symptomatic at the time of diagnosis.
+- Anatomical differences likely contribute to earlier symptom onset.
+
+## Presentation: Consequence of Asymptomatic Progression
+- Asymptomatic progression leads to high rates of late-stage diagnosis.
+- High rates of unresectability at the time of initial presentation.
+- Underscores the need for better early detection strategies.
+
+## Presentation: Late Stage at Diagnosis (Japanese Cohort)
+- 24.2% of new DA cases were found to be Stage 3.
+- 20.8% were found at Stage 4 disease.
+- Demonstrates the burden of advanced disease at presentation.
+
+## Presentation: Western Countries vs. EGD Surveillance
+- In Western countries, EGD for gastric cancer surveillance is not routine.
+- The risk for late presentation of DA may be even higher than in Japan.
+- Lack of routine upper endoscopy delays diagnosis.
+
+## Presentation: Resectability Rates
+- A significant proportion of DA patients do not proceed to curative intent surgery.
+- Systematic review indicates 29% of DA patients receive palliative treatment only.
+- Curative options are lost due to late presentation.
+
+## Presentation: French Cohort Study
+- Recent prospective cohort study from France evaluated resectability.
+- Demonstrated that less than 60% of SBAs were resectable at diagnosis.
+- Confirms the global challenge of surgical candidacy.
+
+## Presentation: Periampullary vs. Extra-ampullary
+- Periampullary tumors often present earlier than extra-ampullary tumors.
+- Likely due to earlier biliary or pancreatic duct obstruction.
+- Slightly greater percentage of periampullary lesions are resectable at presentation.
+
+## Gross Pathology: Macroscopic Appearance
+- DAs appear as circumferential "napkin-ring" type masses.
+- Can also present as polypoidal fungating masses.
+- Growth patterns influence the onset of obstructive symptoms.
+
+## Figure 63.1: Macroscopic and Microscopic Views
+- **Panel A**: Macroscopic photograph of a resected duodenal adenocarcinoma.
+- **Panel B**: Microscopic image of a duodenal adenocarcinoma.
+- Visualizes the typical gross and histological presentation of the tumor.
+
+## Gross Pathology: Tumor Size
+- Median tumor size at presentation is approximately 4.0 to 4.6 cm.
+- Reflects the delayed clinical presentation and prolonged asymptomatic growth.
+
+## Gross Pathology: Size and Resectability
+- It is important to note that tumor size may not be a primary factor in resectability.
+- Vascular encasement and metastases are more critical determinants.
+- Large tumors can still be resected if localized.
+
+## Pathogenesis: Multistep Process
+- The pathogenesis of DA is incompletely understood.
+- Available data suggest a multistep process of malignant transformation.
+- Progresses from an adenomatous polyp to carcinoma.
+
+## Pathogenesis: Acquired Mutations
+- Driven by acquired mutations in key oncogenes and tumor suppressor genes.
+- Similar to the adenoma-carcinoma sequence seen in colorectal cancer.
+- Highlights the genetic basis of the disease.
+
+## Pathogenesis: Key Genetic Drivers
+- Mutations in SMAD4, KRAS, TP53, ERBB2, and TGFBRII are reported.
+- These act as drivers in the malignant transformation of preexisting polyps.
+- Targetable pathways for future therapeutic research.
+
+## Pathogenesis: Villous Adenomas
+- As with colon cancer, villous adenomas harbor the most malignant potential.
+- High-grade dysplasia in villous architecture increases carcinoma risk.
+- Justifies aggressive surveillance of villous lesions.
+
+## Pathogenesis: Distinct Genetic Profile
+- The genetic profile of SBA is distinct from both gastric cancer and colorectal cancer.
+- Despite some overlapping mutations, the molecular landscape is unique.
+- Implies that treatments for colon cancer may not perfectly translate to SBA.
+
+## Pathogenesis: Chronic Inflammation
+- A role for chronic inflammation is suggested in DA pathogenesis.
+- Perhaps secondary to exposure to intestinal carcinogens.
+- Leads to the accumulation of somatic mutations and eventual malignant transformation.
+
+## Risk Factors: Lifestyle Factors
+- Body mass index (BMI) is suggested to be associated with increased DA risk.
+- Alcohol intake is also linked to higher risk.
+- Smoking remains a significant risk factor for DA development.
+
+## Risk Factors: Familial Adenomatous Polyposis (FAP)
+- The most important hereditary syndrome contributing to DA.
+- Patients harbor a germline mutation in the APC gene.
+- Promotes polyposis and tumor formation in the colon and duodenum.
+
+## FAP: Duodenal Involvement
+- DAs will develop in nearly all patients with FAP.
+- The periampullary segment of the duodenum is most commonly affected.
+- Requires rigorous lifelong upper GI surveillance.
+
+## FAP: Post-Colectomy Mortality
+- DA and desmoid tumors are the leading causes of death in FAP patients.
+- This applies specifically to patients who have already undergone colectomy.
+- Shifts the clinical focus to upper GI and extra-intestinal manifestations.
+
+## FAP: Spigelman Classification
+- FAP patients with duodenal polyps are staged from 0 to IV.
+- Based on histologic and macroscopic findings.
+- Guides the frequency of endoscopic surveillance and surgical intervention.
+
+## FAP: Progression to Stage 4
+- Progression to Spigelman stage 4 is often slow.
+- One group found a 22.4-year median time to progression from first EGD.
+- Allows a window for intervention but requires long-term commitment.
+
+## FAP: Surgical Intervention for Polyposis
+- Patients with advanced stage Spigelman polyps are offered duodenal resection.
+- Goal is to precede progression to invasive carcinoma.
+- Balances surgical morbidity with cancer prevention.
+
+## FAP: Effectiveness of Screening
+- Screening to prevent DA in FAP patients has been found to be variably effective.
+- Not all patients benefit equally from standard surveillance protocols.
+- Highlights the limitations of current endoscopic monitoring.
+
+## FAP: Danish Study on Screening
+- Study of 304 FAP patients by a Danish group.
+- Found significantly improved survival after screening-diagnosed DA.
+- Survival was 8 years vs. 0.8 years for symptom-diagnosed DA (p<.0001).
+
+## FAP: Limitations of Surveillance
+- Despite screening benefits, some patients still develop late-stage DA.
+- Not all FAP patients have preceding Spigelman stage IV polyposis before cancer.
+- Cancer can arise de novo or from lower-stage polyps.
+
+## FAP: Upstaging on Final Pathology
+- Patients undergoing resection for Stage III/IV polyposis are frequently upstaged.
+- Final pathologic analysis often reveals invasive duodenal carcinoma.
+- Demonstrates the difficulty of distinguishing severe dysplasia from invasive cancer endoscopically.
+
+## FAP: French Series on Surveillance
+- Large French series: 437 patients undergoing over 1900 endoscopies.
+- Over 20% of patients undergoing surgery for advanced polyposis were upstaged to adenocarcinoma.
+- Confirms that surveillance is not fool-proof.
+
+## FAP: Extent of Surgical Resection
+- Extent of resection depends on the number and distribution of polyps.
+- Limited resections may be performed if endoscopic removal is impossible.
+- Tailored to the individual patient's polyposis burden.
+
+## FAP: Need for Second Resection
+- Patients undergoing limited resection may require a second, more radical resection.
+- Indicated for recurrent late-stage polyposis.
+- Highlights the progressive and relentless nature of FAP duodenal disease.
+
+## Risk Factors: Lynch Syndrome
+- Lynch syndrome confers a risk of DA, though lower than FAP.
+- Requires aggressive endoscopic surveillance.
+- Associated with DNA mismatch repair (MMR) deficiencies.
+
+## Risk Factors: Lynch Syndrome Statistics
+- Relative risk (RR) of DA is estimated to be 100-fold the general population.
+- Lifetime risk of developing DA is approximately 4%.
+- Justifies inclusion in Lynch syndrome screening protocols.
+
+## Risk Factors: Peutz-Jeghers Syndrome
+- Also confers an increased risk of DA.
+- Risk is significantly higher than the general population.
+- Requires vigilant monitoring of the entire GI tract.
+
+## Risk Factors: Peutz-Jeghers Statistics
+- Risk of DA estimated to be between 1.7% and 13%.
+- Hamartomatous polyps can undergo malignant transformation.
+- Underscores the need for multidisciplinary management.
+
+## Risk Factors: Inflammatory Bowel Disease (IBD)
+- IBD is thought to be associated with an increased risk for DA.
+- Chronic inflammation drives somatic mutations.
+- Similar to the well-known risk of colorectal cancer in IBD.
+
+## Risk Factors: IBD Retrospective Data
+- Retrospective study of over 9,000 patients with IBD.
+- Significantly increased risk of small bowel cancer (RR = 3.70; 95% CI 1.23–11.1).
+- Confirms the statistical link between IBD and SBA/DA.
+
+## Risk Factors: Celiac Disease
+- Case reports and epidemiologic studies suggest celiac disease increases SBA risk.
+- Chronic mucosal inflammation and villous atrophy contribute to malignancy.
+- French guidelines recommend evaluating celiac disease in DA patients.
+
+## Diagnostic Workup: Initial Studies
+- Varies depending on patient symptoms and individual risk factors.
+- Evaluation of any duodenal mass requires a tissue diagnosis.
+- Once confirmed, complete staging is mandatory.
+
+## Diagnostic Workup: Staging Objectives
+- Determine the resectability of the primary lesion.
+- Rule out evidence of distant metastases.
+- Staging is based on the TNM (Tumor, Node, Metastasis) system.
+
+## Diagnostic Workup: Endoscopy
+- Tissue diagnosis and location relative to the ampulla are obtained via upper GI endoscopy.
+- Essential for planning the type of surgical resection.
+- Allows for direct visualization and biopsy.
+
+## Diagnostic Workup: Cross-Sectional Imaging
+- CT or MRI used to assess resectability.
+- Crucial for ruling out metastatic disease and vascular involvement.
+- Standard of care for preoperative staging.
+
+## Diagnostic Workup: Radiologic Findings
+- Intraluminal exophytic mass.
+- Intramural mass with ulceration.
+- Central necrosis can also be present in larger tumors.
+
+## Figure 63.2: Radiologic Imaging of DA
+- **Panel A**: Barium swallow showing narrowing of the duodenum secondary to DA.
+- **Panel B**: Abdominal CT image demonstrating a mass in the second portion of the duodenum.
+- Illustrates classic imaging modalities and findings.
+
+## Diagnostic Workup: Resectability Criteria
+- Potentially resectable tumors show no evidence of major vascular encasement.
+- No distant lymphadenopathy.
+- No distant metastases.
+
+## Diagnostic Workup: Surgical Planning
+- If a segmental resection is planned, endoscopy must confirm the tumor's relationship to the ampulla.
+- Proximity to the ampulla dictates the need for pancreaticoduodenectomy.
+- Critical for avoiding positive margins.
+
+## Diagnostic Workup: NCCN Laboratory Studies
+- Guidelines indicate lab studies should include CA19-9 and CEA.
+- Tumor markers assist in baseline assessment and future surveillance.
+- Not diagnostic on their own but prognostically useful.
+
+## Diagnostic Workup: Evaluating Comorbidities
+- Patients should be evaluated for celiac disease and/or IBD.
+- Depends on the overall clinical picture and symptoms.
+- Important for comprehensive patient management.
+
+## Diagnostic Workup: Molecular Testing
+- DNA mismatch repair (MMR) or microsatellite instability (MSI) testing on tumor tissue is recommended.
+- Identifies patients who should be tested for Lynch syndrome.
+- Opens doors for immunotherapy if MSI-High.
+
+## Diagnostic Workup: French Guidelines
+- Include colonoscopy to assess for synchronous lesions in all DA patients.
+- Ensures no concurrent colorectal malignancies are missed.
+- Reflects the field defect theory of GI malignancies.
+
+## Treatment: Surgical Therapy Overview
+- Surgical resection is the strongest predictor of long-term survival in DA.
+- Only curative intent surgery offers a chance for prolonged survival.
+- Requires careful patient selection and preoperative staging.
+
+## Treatment: Survival with Resection
+- For invasive adenocarcinoma, most series report a 5-year OS of ~40%.
+- A 2018 meta-analysis of 6,438 patients showed a 5-year OS of 36%.
+- Median survival was 31 months in the pooled analysis.
+
+## Treatment: Curative vs. Palliative Intent
+- Two meta-analyses compared curative intent surgery to palliative treatment.
+- Curative intent increased 5-year OS to 46%.
+- Palliative treatment only yielded <1% 5-year OS.
+- Emphasizes the paramount importance of surgical resection.
+
+## Treatment: Endoscopic Resection
+- Only patients with dysplasia or carcinoma in situ are candidates for endoscopic submucosal excision.
+- Invasive disease requires more extensive surgical intervention.
+- Endoscopic therapy is strictly limited to early, non-invasive lesions.
+
+## Treatment: Extensive Operations
+- Any patient with invasive adenocarcinoma requires segmental resection or pancreaticoduodenectomy (Whipple).
+- Technical details are complex and require specialized centers.
+- Goal is R0 (microscopically margin-negative) resection.
+
+## Treatment: Optimal Extent of Resection
+- Continues to be a subject of debate.
+- Rarity of cancer limits high-quality comparative studies.
+- Balances oncologic clearance with surgical morbidity.
+
+## Treatment: Periampullary Tumors
+- Uniform agreement on the necessity of pancreaticoduodenectomy.
+- Required to achieve negative margins and adequate lymphadenectomy.
+- Segmental resection is oncologically inadequate for periampullary DA.
+
+## Treatment: Extra-ampullary Tumors
+- Retrospective series and SEER database (1998-2010, 1,611 patients) evaluated resection types.
+- Demonstrated NO survival difference between pancreaticoduodenectomy and segmental resection.
+- Applies to extra-ampullary tumors that do not invade the pancreas.
+
+## Treatment: Confounding Factors
+- The equivalence of resection types for extra-ampullary tumors holds true even after controlling for confounders.
+- Includes extent of disease and patient comorbidities.
+- Supports parenchyma-sparing surgery when oncologically safe.
+
+## Treatment: Lymphatic Drainage Patterns
+- 3rd and 4th portions of duodenum drain into the small bowel mesentery.
+- NOT via the pancreaticoduodenal lymphatic basins.
+- 1st portion often drains to the pyloric nodes.
+
+## Treatment: Anatomic Considerations
+- Understanding lymphatic drainage is critical for surgical planning.
+- Lymph node metastases are a major prognostic factor.
+- Resection must encompass the appropriate nodal basin.
+
+## Treatment: Impact of Lymph Node Metastases
+- MGH and Mayo Clinic series showed drastic survival drops with node positivity.
+- MGH: 5-year OS decreased from 65% to 25%.
+- Mayo: 5-year OS decreased from 68% to 22%.
+
+## Treatment: Meta-analysis on Lymph Nodes
+- Meta-analysis of 11 studies (654 patients) confirmed the prognostic impact.
+- Node-negative disease had a 65% 5-year survival vs. 21% for node-positive.
+- Prognostic importance remains after correcting for tumor size, grade, and stage.
+
+## Treatment: NCCN Lymph Node Recommendation
+- NCCN guidelines recommend evaluating at least eight lymph nodes.
+- Ensures adequate staging of small bowel and duodenal cancer.
+- Prevents understaging and guides adjuvant therapy decisions.
+
+## Treatment: Extent of Resection Principles
+- Based on the tumor’s location with respect to the ampulla.
+- Must ensure the ability to obtain an R0 resection.
+- Must allow for adequate lymph node sampling based on drainage patterns.
+
+## Prognosis: Perineural Invasion
+- MGH series identified perineural invasion as the most powerful independent predictor of survival.
+- 5-year OS was 56% WITHOUT perineural invasion.
+- 5-year OS dropped to 19% WITH perineural invasion.
+
+## Prognosis: Histologic Subtypes
+- Extra-ampullary DAs are characterized by morphologic and immunophenotypic traits.
+- Gastric type (50% of cases).
+- Intestinal type (37% of cases).
+- Pancreaticobiliary subtype (5% of cases).
+
+## Prognosis: Intestinal Type
+- Has the most favorable prognosis among subtypes.
+- Generally expresses CDX2, MUC2, and CD10.
+- Mimics colorectal adenocarcinoma biology.
+
+## Prognosis: Gastric and Pancreaticobiliary Types
+- Gastric-type tumors express MUC5AC and MUC6.
+- Pancreaticobiliary subtype behaves more aggressively.
+- Subtyping may guide future targeted therapies and prognostication.
+
+## Neoadjuvant Therapy: Rationale
+- Several small retrospective series evaluated neoadjuvant therapy for DA.
+- Demonstrated occasions of pathologic complete response.
+- Can convert unresectable lesions to resectable ones.
+
+## Neoadjuvant Therapy: Mayo Clinic Series
+- Evaluated 10 patients with unresectable DA.
+- Conversion to resectability achieved in 9 patients.
+- 3 patients showed complete or near-complete pathologic response.
+
+## Neoadjuvant Therapy: NCCN Guidelines
+- Recommend neoadjuvant therapy for locally unresectable or medically inoperable DA.
+- Requires close monitoring for conversion to resectable disease.
+- Offers a potential curative pathway for initially hopeless cases.
+
+## Adjuvant Therapy: Rationale
+- Many patients are offered postoperative adjuvant therapy.
+- Based on the premise that DA shares features with colorectal cancer.
+- Adjuvant therapy benefit is well established in colorectal cancer.
+
+## Adjuvant Therapy: NCCN Guidelines (Stage III)
+- Recommend adjuvant therapy for patients with positive lymph nodes (Stage III).
+- Standard of care for node-positive small bowel adenocarcinoma.
+- Aims to eradicate micrometastatic disease.
+
+## Adjuvant Therapy: NCCN Guidelines (Stage II)
+- Consideration of adjuvant therapy for Stage II disease with high-risk features.
+- High-risk features include T4 tumors, poorly differentiated histology.
+- Also includes lymphovascular/perineural invasion or tumor perforation.
+
+## Adjuvant Therapy: Chemoradiation
+- Noted as a treatment possibility for Stage II or III disease.
+- Specifically indicated for patients with positive or close surgical margins.
+- Aims to improve local control in the duodenal bed.
+
+## Adjuvant Therapy: Extrapolation from Colorectal Data
+- NCCN acknowledges recommendations are extrapolated from colorectal cancer literature.
+- Proven efficacy in the specific context of SBA is lacking.
+- Preferred regimen is enrollment in a clinical trial.
+
+## Adjuvant Therapy: French Guidelines
+- Similarly adopted from colon cancer treatment paradigms.
+- Recommends adjuvant chemotherapy for Stage III disease.
+- Consideration for Stage II disease with T4 tumors.
+
+## Adjuvant Therapy: Mixed Retrospective Data
+- Retrospective data supporting these practices is highly mixed.
+- Systematic review of 6 studies (148 treated vs. 263 untreated).
+- Showed NO significant benefit (48% vs. 46% 5-year OS, OR 1.14).
+
+## Adjuvant Therapy: Second Systematic Review
+- Pooled outcomes for 607 patients with DA.
+- Did NOT demonstrate an overall survival benefit for adjuvant therapy.
+- Hazard risk (HR) = 0.96, 95% CI 0.75–1.23.
+
+## Adjuvant Therapy: National Cancer Database (NCDB)
+- Contrasting retrospective study using NCDB data.
+- Showed increased median OS for adjuvant chemotherapy in Stage III SBA.
+- 42.4 months vs. 26.1 months without adjuvant therapy.
+
+## Adjuvant Therapy: Chemotherapy vs. Chemoradiation
+- Comparison of adjuvant chemotherapy alone vs. chemoradiation.
+- Demonstrated NO benefit for the addition of radiotherapy.
+- Even in patients with positive surgical margins.
+
+## Adjuvant Therapy: Limitations of Retrospective Data
+- Analyses often aggregated patients receiving ANY adjuvant therapy.
+- Were not stratified by specific chemotherapy regimens.
+- Limits the ability to draw definitive conclusions on optimal drug combinations.
+
+## Clinical Trials: The BALLAD Trial
+- Ongoing international prospective, randomized study.
+- Aims to clarify the benefit of adjuvant therapy for Stage I–III DA.
+- Known as the Benefit of Adjuvant Chemotherapy for Small Bowel Adenocarcinoma (BALLAD) trial.
+
+## BALLAD Trial: Objectives
+- Objective 1: Compare disease-free survival (DFS) in adjuvant therapy vs. observation.
+- Objective 2: Compare DFS between fluoropyrimidine-based therapy with or without oxaliplatin.
+- Designed to provide Level 1 evidence for SBA.
+
+## BALLAD Trial: Randomization Strategy
+- Uncertain value of chemotherapy: Randomized to observation vs. LV5FU2.
+- Certain benefit of chemotherapy: Randomized to LV5FU2 vs. FOLFOX.
+- Stratified based on risk and stage to optimize trial design.
+
+## BALLAD Trial: Primary Outcomes
+- 3-year disease-free survival.
+- Overall survival.
+- Results are highly anticipated to change global treatment paradigms.
+
+## Current Standards Pending BALLAD
+- Until BALLAD results are available, current standards apply.
+- Neoadjuvant therapy for select unresectable patients.
+- Adjuvant therapy for resected disease with aggressive biology, positive margins, or node metastases.
+
+## Patterns of Disease Recurrence: MGH Series
+- Evaluated 83 patients with DA treated between 1982 and 2010.
+- Recurrence documented in 37 patients (44.6%).
+- Median follow-up time was 14.5 months.
+
+## Patterns of Disease Recurrence: Locoregional vs. Distant
+- MGH series showed an approximately equal proportion of recurrence sites.
+- Locoregional: 16 of 37 (43.2%).
+- Distant: 17 of 37 (47.2%).
+- Both: 4 of 37 (10.8%).
+
+## Patterns of Disease Recurrence: Norwegian Series
+- More recent series of 69 patients treated from 2000 to 2015.
+- Over 80% of first disease recurrence was distant.
+- 29 of 36 patients (80.6%) experienced distant failure.
+
+## Patterns of Disease Recurrence: Most Common Site
+- For both the MGH and Norwegian series, the liver was the most common site of distant recurrence.
+- Highlights the hematogenous spread pattern of DA.
+- Suggests a need for better systemic control.
+
+## Patterns of Disease Recurrence: Clinical Implications
+- High rate of disease recurrence and associated poor prognosis.
+- Underscores the importance of ongoing, collaborative research.
+- Focus must be on improving systemic therapy for more durable disease control.
+
+## Summary: Key Takeaways
+- DA is a rare but highly lethal malignancy of the small bowel.
+- Early detection is hampered by vague symptoms and lack of routine screening.
+- Surgical resection (R0) remains the cornerstone of curative treatment.
+- Adjuvant therapy is widely used but lacks Level 1 evidence pending the BALLAD trial.
+- Multidisciplinary care and clinical trial enrollment are strongly encouraged.

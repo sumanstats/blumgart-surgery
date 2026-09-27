@@ -1,2 +1,13 @@
 # 63 Duodenal Adenocarcinoma
 
+::: {.panel-tabset}
+
+## Kimi
+
+{{< reveal 63_Duodenal_Adenocarcinoma >}}
+
+## Qwen
+
+{{< reveal Extras/transplant/63_Duodenal_Adenocarcinoma >}}
+
+:::
