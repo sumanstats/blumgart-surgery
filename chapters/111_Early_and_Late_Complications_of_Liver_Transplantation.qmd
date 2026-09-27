@@ -1,5 +1,13 @@
 # 111 Early and Late Complications of Liver Transplantation
 
+::: {.panel-tabset}
+
+## Kimi
+
 {{< reveal 111_Early_and_Late_Complications_of_Liver_Transplantation >}}
 
+## Qwen 
 
+{{< reveal Extras/transplant/chap111_qwen >}}
+
+:::

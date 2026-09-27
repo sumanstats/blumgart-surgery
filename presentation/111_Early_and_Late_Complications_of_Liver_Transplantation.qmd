@@ -3,9 +3,6 @@ title: "Early and Late Complications of Liver Transplantation"
 format:
   revealjs:
     theme: dark
-    slide-number: true
-    width: 1280
-    height: 720
 ---
 
 
@@ -25,8 +22,8 @@ format:
 
 ## The Obesity Epidemic and LT
 - Obesity has a 2-fold effect impacting LT complications
-- 1. Increasing the overall demand for donor livers
-- 2. Increasing prevalence of fatty liver disease in potential organ donors
+  - 1. Increasing the overall demand for donor livers
+  - 2. Increasing prevalence of fatty liver disease in potential organ donors
 - Recipients with BMI > 30 have increased postoperative cardiopulmonary complications
 - Longer intensive care unit (ICU) stays are observed in obese recipients
 

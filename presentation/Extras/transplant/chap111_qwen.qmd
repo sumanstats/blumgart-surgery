@@ -1,0 +1,813 @@
+---
+title: "Early and Late Complications of Liver Transplantation"
+format: revealjs
+---
+
+
+## Evolution of Liver Transplantation
+
+- Liver transplantation (LT) has evolved from a high-risk procedure to a standard treatment for liver failure.
+- Significant morbidity and mortality historically.
+- 1-year survival rates exceed 85%.
+- 5-year survival rates exceed 70%.
+- Despite improvements, life-threatening complications still occur, sometimes requiring reoperation.
+
+## Shifting Demographics: Hepatitis C to NASH
+
+- Hepatitis C cirrhosis was historically the main indication for LT in Europe and North America.
+- Effective antiviral therapy has changed this landscape.
+- Nonalcoholic steatohepatitis (NASH) is quickly becoming the most common indication.
+- Rapid increase in NASH resulting in decompensated liver failure.
+
+## The NASH Epidemic
+
+- Expected to surpass effectively treated viral hepatitis.
+- Anticipated increase in end-stage liver disease (ESLD) related deaths by 178% by 2030.
+- Shifts the demographic profile of transplant recipients.
+
+## Obesity Epidemic: Impact on Donors
+
+- 2-fold effect impacting LT complications.
+- First effect: Increasing the demand for livers.
+- Second effect: Increasing prevalence of fatty liver disease in potential organ donors.
+- Increased number of discarded livers from brain-dead donors.
+- Increased number of transplanted grafts with higher degrees of macrosteatosis.
+
+## Obesity Epidemic: Macrosteatosis Risks
+
+- Survival rates with macrosteatosis greater than 30% are comparable to less fatty livers.
+- However, postoperative complication rates are markedly increased:
+  - Postreperfusion syndrome (PRS)
+  - Early allograft dysfunction (EAD)
+  - Postoperative dialysis
+  - Need for a second operation
+
+## Obesity Epidemic: Impact on Recipients
+
+- LT recipients have a higher frequency of obesity.
+- Body mass index (BMI) greater than 30 is associated with:
+  - Increased rate of postoperative cardiopulmonary complications.
+  - Longer intensive care unit (ICU) stays.
+
+## Marginal Donors and Surgical Expertise
+
+- As expertise grows, surgeons perform LT on patients previously considered poor candidates.
+- Increased use of marginal donor livers.
+- Surgical techniques to increase donor pool:
+  - Reduced-size grafts
+  - Split-liver grafts
+
+## Living-Donor Liver Transplantation (LDLT) Complications
+
+- Parenchymal-splitting operations bring unique complications.
+- Incidence of hepatic artery thrombosis (HAT), bile leaks, and stricture is at least two times higher in living-donor grafts vs cadaveric grafts.
+- Learning curve exists to reduce these complications.
+
+## Small-for-Size Syndrome (SFSS)
+
+- Major complication after LDLT.
+- Characterized by:
+  - Hyperbilirubinemia
+  - Coagulopathy
+  - Encephalopathy observed shortly after transplant.
+
+## SFSS vs Early Allograft Dysfunction (EAD)
+
+- SFSS terminology is becoming historic.
+- EAD is a more appropriate term to describe graft dysfunction.
+- Graft size is not the only factor for slow return of hepatic function in LDLT and cadaveric donors.
+- Despite higher morbidity in LDLT, patient and graft survival are similar or superior to deceased donors.
+
+## Procurement: Team Dispatch
+
+- Process begins with identifying a suitable organ.
+- Procurement teams are dispatched for recovery.
+- Liver procurement team dictates dissection below the diaphragm.
+- Cardiac and thoracic teams work in concert for heart/lungs.
+- Careful planning required to minimize cold-ischemia time for heart and lungs.
+
+## Brain Death and Cardiac Instability
+
+- Ideal conditions: orderly and well-controlled operation.
+- Reality: Patient progressing to brain death rapidly can show cardiac instability.
+- Can result in expedited operation.
+- Perfusion cannulae hastily placed.
+- Identification of appropriate anatomy is difficult; technical errors more likely.
+
+## Donation After Cardiac Death (DCD)
+
+- Gained popularity since the 1990s to increase organ availability.
+- Estimated to increase donor pool by 10% in 2010.
+- UNOS data: DCD donors increased from 6% to 11% of all donors (2010 to 2019).
+- Patient deemed hopeless but not "brain dead" is allowed to die naturally after removal of supportive measures.
+- Organs procured after 2 to 5 minutes of asystole.
+
+## DCD Outcomes and Ischemic Cholangiopathy
+
+- DCD outcomes are mixed but generally acceptable.
+- Concerns for increased biliary strictures and worse long-term graft survival.
+- Modern assessment supports comparable outcomes to brain-dead donors with appropriate selection.
+- Ischemic cholangiopathy is a major feared complication.
+
+## Normothermic Perfusion
+
+- Use of normothermic regional perfusion and normothermic machine perfusion.
+- Believed to make ischemic cholangiopathy much less common.
+- Expands the usable donor pool safely.
+
+## Procurement Injuries Overview
+
+- Injuries during liver procurement occur in roughly 20% to 30% of organ donors.
+- Broken down into:
+  - Parenchymal injuries
+  - Vascular injuries
+  - Bile duct injuries
+
+## Aberrant Hepatic Artery Ligation
+
+- Most common major injury during liver procurement.
+- Occurs by failure to recognize replaced/accessory right or left hepatic artery during hilar dissection.
+- Or unintentional division during organ removal.
+
+## Hiatt et al. Data on Arterial Anatomy
+
+- 1000 donor case series:
+  - Replaced/accessory right hepatic artery in roughly 10% of donors.
+  - Similar frequency for left replaced/accessory arteries.
+  - 3% had dual replacement arteries.
+- Hilum-replaced left and right arteries represent two-thirds of all vascular injuries during procurement.
+
+## Consequences of Arterial Injuries
+
+- Serious because segments of the liver are not perfused during recovery.
+- Usually require reconstruction on the back table before reimplantation.
+- Associated with a high rate of early HAT (30%).
+- Subsequent need for re-transplantation.
+
+## Parenchymal Injuries
+
+- Most common form of minor liver injury during graft removal.
+- Can also occur during graft implantation.
+- Treated with topical hemostatics, cautery, or liver stitch.
+- Associated with long operative times and increased blood loss.
+- Do not have an impact on long-term graft function.
+
+## Bile Duct Injuries
+
+- More infrequent complication.
+- Can be caused by stripping vascular supply or cutting the duct too short.
+- Managed by Roux-en-Y biliary reconstruction.
+- Typically not associated with graft loss.
+
+## Cold-Ischemia and Macrosteatosis
+
+- Prolonged cold-ischemia time contributes to recipient morbidity.
+- Grafts with more than 12 hours of cold ischemia are at increased risk for graft loss and complications.
+- Macrosteatosis greater than 30% is associated with poor early graft function.
+
+## High BMI Donors
+
+- Used less commonly for liver grafts.
+- Bedside and procurement biopsy can help improve utilization without increased risk.
+- Confirms percent of macrosteatosis.
+- Macrosteatosis greater than 30% is only prevalent in 21% of high BMI donors.
+- Majority of these donors can be used for LT.
+
+## En Bloc Procurement Method
+
+- Visceral adipose tissue makes procurement challenging and time-consuming.
+- To minimize dissection-related injuries, some suggest the en bloc method.
+- Removal of abdominal organs with back-table dissection after procurement.
+- Attention to detail and identification of appropriate anatomy helps avoid injury.
+
+## Coagulopathy in ESLD
+
+- Patients with ESLD present with a spectrum of coagulation abnormalities.
+- Combination of pro and anticoagulants with derangements of fibrinolysis.
+- Prone to both massive hemorrhage and life-threatening thrombosis.
+- Compounded by portal hypertension and adhesions from prior surgery.
+
+## Portal HTN and Adhesions
+
+- Previous operations increase risk.
+- Prolonged lysis of adhesions increases operation duration.
+- Creates additional raw surface areas for bleeding.
+- Leads to derangements in temperature and fluid homeostasis.
+- Worsens coagulopathy, creating a vicious cycle.
+
+## Preoperative Assessment
+
+- Guides anesthesia and surgical team for massive bleeding risk.
+- Attenuating blood loss improves long-term outcomes.
+- Blood loss has incremental increase in postoperative complications and decrease in graft survival.
+
+## Historical Blood Utilization
+
+- LT historically had a reputation for draining blood banks.
+- Early report from 1980s: 3% to 9% of all blood products in Pittsburgh central blood bank used for LT.
+- Proposed threshold for excessive bleeding: more than 10 units of red blood cells (RBCs).
+
+## Viscoelastic Testing (TEG and ROTEM)
+
+- Used to predict massive transfusion.
+- TEG maximum amplitude associated with massive transfusion (higher performance than INR and MELD).
+- ROTEM outperforms conventional assays in predicting nonsurgical bleeding after LT.
+
+## Preemptive Coagulopathy Treatment
+
+- Often not indicated for mild to moderate derangements.
+- Platelets believed to be rapidly sequestered by the spleen.
+- Plasma transfusions can exacerbate venous hypertension and paradoxically increase bleeding.
+
+## Prothrombin Complex Concentrate (PCC)
+
+- Early use associated with reduced blood loss during LT.
+- Corrects INR without requiring the volume of plasma.
+- Associated with life-threatening thrombotic complications.
+- Conservative use advised until ongoing clinical trial results are released.
+
+## Hypercoagulable Profile in Cirrhosis
+
+- Evolving measurements show a cohort of LT recipients present with hypercoagulable profiles.
+- Cirrhosis is an independent risk factor for deep vein thrombosis (DVT).
+- NASH is associated with an even higher risk of thrombotic complications.
+- Conventional measurements do not capture this state.
+
+## TEG and HAT Risk
+
+- Elevated preoperative TEG maximum amplitude (clot strength) associated with a 5-fold risk of early HAT.
+- Unmeasured hypercoagulability attributed to the operating surgeon.
+- Intraoperative heparin bolus adopted after hepatic artery anastomosis in selected high-risk recipients.
+
+## TIPS and Portocaval Shunts
+
+- Transjugular intrahepatic portosystemic shunt (TIPS) lowers portal hypertension preoperatively.
+- May help reduce blood loss.
+- Misplaced TIPS can be life-threatening during LT; removal is difficult.
+- Temporary portocaval shunts can decompress the portal circulation during hepatectomy.
+
+## Hemostasis During LT
+
+- Infusion of fresh frozen plasma, cryoprecipitate, and antifibrinolytic agents can help.
+- Cannot supplant the need for sound surgical technique.
+- Good communication with anesthesiology team is essential.
+- Scoring systems used to communicate coagulation assessment needs.
+
+## Hyperfibrinolytic State
+
+- Important transition occurs when native liver is removed.
+- Recipients develop hyperfibrinolytic state (excessive clot degradation from elevated t-PA).
+- After reperfusion, majority of patients correct their fibrinolytic state.
+- Rapid clearance of t-PA by the liver (half-life of 5 minutes).
+
+## t-PA Clearance and Antifibrinolytics
+
+- Lack of clearance of t-PA after graft reperfusion associated with massive bleeding.
+- Exacerbated by metabolic disturbances.
+- Antifibrinolytics may be of value to improve hemostasis control.
+- Bleeding may also relate to release of heparin-like substances from the graft.
+
+## Tamponade and Packing
+
+- Protamine administration is rarely used.
+- Heparin effect often mediated by plasma transfusion.
+- If medical strategies fail, temporary intra-abdominal tamponade with laparotomy packs provides conservative management.
+- Temporary vacuum-pack closure with plans for reexploration.
+- Packs usually removed within 24 to 48 hours if graft functions well.
+
+## Fibrinolysis Shutdown
+
+- Almost all LT recipients develop inhibition of fibrinolytic system 2 hours after reperfusion.
+- Persists beyond postoperative day 1.
+- Lack of capacity to break down endogenous clots.
+- Essential to not overtransfuse during this time frame.
+- Associated with decreased graft survival and postoperative thrombotic complications.
+
+## Postop Transfusion Thresholds
+
+- Decision guided by clinical judgement and stable hemoglobin levels.
+- Target hemoglobin of 10 to promote platelet margination.
+- Platelet transfusion for absolute count less than 30,000 or TEG MA less than 50 with dropping hemoglobin.
+- Plasma for TEG R time greater than 10 mins or INR greater than 2 with dropping hemoglobin.
+
+## Surgical Bleeding Indicators
+
+- Normal coagulation parameters with dropping hemoglobin prompt concerns for surgical bleeding.
+- Threshold of more than 6 hours of RBC postoperative bleeding indicates need to return to the OR.
+
+## EAD and PNF: Donor Factors
+
+- Numerous conditions interfere with initial allograft function.
+- Donor-related factors:
+  - Hemodynamic instability
+  - Poor nutritional status
+  - Extremes of age
+  - Drug toxicity
+  - Steatosis
+
+## Primary Nonfunction (PNF)
+
+- Extreme end of graft dysfunction spectrum.
+- Requires relisting for transplantation.
+- Mortality rate as high as 50% even after re-transplantation.
+- Occurs in 2% to 6% of LTs.
+- Clinical manifestations: altered mental status, persistent acidosis, hypoglycemia, coagulopathy, hemodynamic instability.
+
+## PNF Risk Factors and Labs
+
+- Major risk factor: steatosis of donor liver.
+- Female donor, older donor, long cold/warm ischemia times.
+- Labs: serum transaminase levels greater than 8000 IU/L within first 24 to 48 hours.
+- Diminished bile and urine output.
+
+## Clinical Assessment of PNF
+
+- Postoperative trends in serum bilirubin and INR are most reliable predictors.
+- Should plateau and trend toward normalization.
+- Increase portends worse prognosis.
+- Resolution of hepatic encephalopathy, adequate urine production, absence of metabolic acidosis are reassuring.
+- Metabolic alkalosis may be a sensitive indicator of early graft function (citrate metabolism).
+
+## Early Allograft Dysfunction (EAD)
+
+- Broader term capturing recipients who do not necessarily require re-transplantation but have less favorable outcomes.
+- Occurs in roughly 25% of recipients.
+- Associated with up to 7-fold increased risk of early graft loss and 10-fold risk of mortality.
+- Time frame for diagnosis commonly calculated at 7 days after LT.
+
+## EAD Risk Factors
+
+- High levels of macrosteatosis
+- Donor location and weight
+- DCD donor
+- Recipient obesity and HCC
+- Severity of postreperfusion syndrome
+- Warm and cold ischemia time
+- Operative time
+- Amount of transfused fresh frozen plasma
+
+## MEAF Score
+
+- Model for early allograft function (MEAF).
+- Continuous variable grading severity of dysfunction.
+- Ranges from 1 to 10 based on postoperative day 3 laboratory values.
+- Each increase in MEAF score associated with progressively lower graft survival time.
+
+## SFSS in LDLT
+
+- Graft size was an initial concern for EAD.
+- Evidence suggests pressure and flow are major contributors rather than size alone.
+- Graft to body weight ratio of 0.8 can be transplanted successfully.
+- Key prognostic factor: achieving portal systemic gradient less than 15 mm Hg.
+
+## EAD Treatment (Steroids RCT)
+
+- One successful RCT targeting EAD.
+- 65 patients randomized to steroids or standard of care (bilirubin greater than 10 on day 7).
+- Methylprednisolone IV once daily for 5 days.
+- Both arms received oral ursodeoxycholic acid.
+- Treatment arm had lower alkaline phosphatase, lower bilirubin, shorter hospital stay.
+
+## Vascular Complications Overview
+
+- Major source of morbidity and graft loss, especially in live-donor grafts.
+- Arterial complications account for 64% to 82% of vascular complications.
+- Hepatic Artery Thrombosis (HAT) is the most common.
+
+## Hepatic Artery Thrombosis (HAT)
+
+- Overall incidence 1.6% to 8% in adult series.
+- 15% to 26% in pediatric patients.
+- Incidence in LDLT varies widely.
+- Risk factors: CMV positivity, prolonged operating time, redo LT, arterial conduit, variant anatomy, low surgical volume.
+
+## Early vs Late HAT
+
+- Early HAT: time cut off debated (7 to 100 days).
+- Late HAT: typically presents as biliary complication or identified incidentally.
+- Bilomas are most common presenting symptom of late HAT.
+- Late HAT has lower frequency and better prognosis.
+
+## UNOS Policy for Early HAT
+
+- Defines early HAT as lasting less than 7 days.
+- Qualifies for status 1A if AST greater than 3000 and INR greater than 2.5 or acidosis.
+- Early HAT less than 14 days qualifies recipients as MELD 40.
+- Attempt at revascularization should be conducted in early HAT.
+
+## Late HAT Presentation
+
+- Bilomas salvaged with percutaneous drainage and antibiotics.
+- Asymptomatic individuals can be followed for biliary complications.
+- Risk factors for late HAT: CMV infection and variant arterial anatomy.
+
+## HAT Screening (Doppler US)
+
+- Doppler ultrasound is the best screening method.
+- Used liberally in first 2 weeks after transplantation.
+- Care must be taken to establish arterial flow within hepatic parenchyma (collateral flow can cause false-negatives).
+- Confirmation by celiac arteriography, multiphase CT, or operative exploration.
+
+## Figure 111.1: Hepatic Artery Thrombosis
+
+- Patient experienced rapid increase in serum transaminases early postop.
+- Ultrasound could not locate intrahepatic arterial signal.
+- Celiac arteriography shows left gastric and splenic arterial flow.
+- Fails to show any contrast in the liver.
+- Consistent with intimal dissection of the entire common hepatic artery.
+- T-tube within the common bile duct is visible.
+
+## Intraoperative HAT Management
+
+- Intimal dissection down to celiac axis is a common cause.
+- Immediate reconstruction with donor iliac allograft indicated.
+- Patient must not leave OR without completely revascularized graft.
+- Autogenous saphenous vein graft used if donor iliac allograft unavailable.
+- Artificial conduits (Dacron or ePTFE) rarely used.
+
+## Figure 111.2: Hepatic Artery Reconstruction
+
+- Early diagnosis allows immediate reconstruction.
+- Donor iliac artery allograft used.
+- Anastomosed between the infrarenal aorta and liver allograft common hepatic artery.
+
+## HAT Clinical Presentation and Treatment
+
+- Ranges from asymptomatic to fulminant hepatic necrosis.
+- Common presentation: postoperative biliary complications (leaks, strictures).
+- Rapid reestablishment of arterial inflow attempted via urgent operation.
+- Thrombolysis and stent placement attempted by some, but durable results limited.
+- 50% to 70% ultimately require re-transplantation.
+
+## Portal Vein Thrombosis (PVT) Pre-Surgery
+
+- Previously considered absolute contraindication to OLT.
+- Found in 5% to 25% of LT recipients.
+- Increases surgical complexity and perioperative morbidity.
+- Imaging with duplex or CT before implant is invaluable.
+
+## Yerdel Scoring System for PVT
+
+- Grade 1: less than 50% PVT.
+- Grade 2: greater than 50% with minimal SMV obstruction.
+- Grade 3: 100% PVT.
+- Grade 4: 100% PVT with SMV thrombosis.
+- Grades 1 and 2: intraoperative thrombectomy.
+- Grade 3: jump graft.
+- Grade 4: relative contraindication unless bypass achievable.
+
+## PVT Post-Transplant
+
+- Rare complication, usually technical reasons (incomplete thrombectomy, twisting).
+- Early PVT has poor prognosis (50% mortality).
+- Risk factors: postop platelet/RBC transfusions, PVT before transplant.
+- Late PVT results from intimal hyperplasia with cavernous transformation.
+- Treated with angioplasty, stent placement, anticoagulation.
+
+## IVC Obstruction Overview
+
+- Rare complication (1% of patients).
+- Piggyback transplantation increasingly popular (donor suprahepatic IVC to recipient middle/left hepatic veins).
+- Reduces blood loss, shorter warm ischemia, lower acute kidney injury rates.
+- Concerns for increased outflow obstruction due to anastomotic strictures or kinking.
+
+## Outflow Obstruction vs CVP
+
+- Early high outflow obstruction confused with increased central venous pressure (CVP) from high volume resuscitation.
+- Nonanatomic source treated with diuretics (target CVP below 11).
+- Venography with segmental pressures used if CVP ruled out.
+- Gradient greater than 10 mm Hg warrants intervention (angioplasty).
+
+## IVC Thrombosis and VOD/SOS
+
+- IVC thrombosis: direct surgical removal difficult; conservative management with radiologic procedures and anticoagulation preferred.
+- Veno-occlusive disease / sinusoidal obstruction syndrome (VOD/SOS).
+- Related to acute rejection and drug toxicity.
+- Diagnosed via liver biopsy (fibrous obliteration of small hepatic veins).
+- TIPS used as last-line therapy.
+
+## Biliary Complications Overview
+
+- Previously considered the "Achilles heel" of LT.
+- Improvements in technique reduced complications.
+- Obstruction and leaks cause approx. half of all technical failures.
+- Require reoperation in 10% to 20% of patients.
+- Living-donor grafts have twice the incidence of cadaveric grafts.
+
+## Biliary Leaks Incidence
+
+- Reported incidence varies widely (10% to 50%).
+- Most often at choledochal anastomosis or T-tube insertion site.
+- Leaks at insertion site observed most frequently at tube removal (25% to 40%).
+- Managed conservatively with analgesics and antibiotics.
+
+## T-Tube vs Stenting
+
+- To minimize leak risk, many surgeons prefer not to place stents.
+- Alternative: 5 French pediatric feeding tube placed through cystic duct stump.
+- Secured with hemorrhoidal band and PDS suture.
+- Band obliterates lumen of preformed tract at stent removal (6 to 8 weeks).
+
+## Leak Diagnosis and Management
+
+- Early anastomotic leaks related to technical errors, tension, or ischemic necrosis after HAT.
+- Signs: bilious fluid in drains, abdominal/shoulder pain, increased bilirubin, fever.
+- Diagnosis: cholangiography, ERC, or PTC.
+- ERC favored (endoscopic stent placement without transhepatic catheter risks).
+- Large leaks require percutaneous drainage or surgical revision (Roux-en-Y).
+
+## Biliary Strictures Overview
+
+- Occur in approx. 7% to 15% of patients.
+- Site of obstruction aids in determining cause.
+- Anastomotic stricture accounts for 50% of cases.
+- Can occur early (edema) or later (compromised blood supply).
+
+## Anastomotic vs Nonanastomotic
+
+- Anastomotic: usually at the biliary anastomosis.
+- Nonanastomotic obstruction (NAS): caused by bile duct ischemia or sludge/debris.
+- NAS can occur in hilar region or intrahepatically.
+- Suspect thrombosis of hepatic artery or branches.
+
+## Figure 111.3: Biliary Stricture
+
+- Patient with previously created Roux-en-Y hepaticojejunostomy.
+- Now has an anastomotic stricture.
+- Note the dilated intrahepatic ducts.
+- Percutaneous access of the Roux-en-Y limb affords diagnosis and treatment with balloon dilation.
+- Avoids placement of transhepatic catheters.
+
+## Stricture Risk Factors
+
+- Technical error during reconstruction.
+- ABO incompatibility.
+- Prolonged preservation times.
+- Recurrent rejection.
+- Viral infections.
+- Recurrence of primary ductal disease (up to 50% at long-term follow-up).
+
+## NAS in LDLT and DCD
+
+- Anastomotic leak or stricture twice more common after LDLT vs cadaveric LT.
+- NAS associated with chronic ductopenic rejection, ABO incompatibility.
+- Ischemia-reperfusion injury associated with allograft preservation.
+- Especially common in grafts from DCD donors.
+
+## Figure 111.4: Nonanastomotic Stricture
+
+- Nonanastomotic biliary stricture observed from ischemic injury.
+- Liver graft from a donor who died of cardiac death (DCD).
+- DCD grafts are more prone to ischemic injury problems such as bile duct stricture.
+
+## Stricture Treatment
+
+- ERC recommended to confirm diagnosis and implement immediate stenting.
+- Failure to cross stricture endoscopically requires PTC or surgical revision (Roux-en-Y).
+- Intrahepatic strictures best treated with percutaneous balloon dilation.
+- Long-term stents rarely needed.
+
+## Ischemic Cholangiopathy Overview
+
+- Spectrum of NAS that tends to be diffuse.
+- Main causes: ischemia reperfusion injury, immune mediated injury, bile salt injury.
+- Major risk factors: HAT and DCD donors.
+- Clinical vs subclinical cholangiopathy.
+- Rapidly progressive form associated with necrosis warrants urgent re-transplantation.
+
+## Ischemic Cholangiopathy Prevention
+
+- Best strategy is avoidance.
+- tPA treatment in DCD donors reduces ischemic cholangiopathy and improves graft survival.
+- Machine perfusion of high-risk donors shows promising results in reducing biliary complications.
+
+## Renal Dysfunction Overview
+
+- Observed to some degree in almost every LT patient.
+- Early dysfunction: oliguria with transient creatinine increase, or anuria with acute renal failure.
+- Risk factors: preexisting renal dysfunction, primary graft nonfunction.
+- Usual mechanism: prerenal azotemia secondary to hypotension/hypovolemia.
+
+## CNI Toxicity
+
+- Calcineurin inhibitors (cyclosporine and tacrolimus) are nephrotoxic.
+- Renal failure induced by CNIs occurs in approx. 5% of patients.
+- Long-term exposure is a clear risk factor.
+- Interest in automatic dose reduction or substitution with mTOR inhibitors.
+
+## mTOR Inhibitors (Sirolimus)
+
+- Macrocyclic antibiotic used for renal sparing.
+- Disadvantages: dyslipidemia, impaired wound healing (alterations in VEGF).
+- Apparent benefit in reducing cancer formation.
+- Associated with early HAT; wait at least 4 weeks post-transplant before initiating.
+
+## Fluid and Electrolyte Disturbances
+
+- Universal after LT.
+- Preoperative malnutrition and ESLD lead to derangements in total body water and electrolytes.
+- Worsened by metabolic stress of surgery and massive resuscitation.
+- Recovery depends on renal and liver allograft function.
+
+## Metabolic Alkalosis
+
+- Early development secondary to metabolism of citrate in blood products.
+- Favorable sign of graft function.
+- Serious if alkalemia develops.
+- Judicious replacement of chloride (normal saline or hydrogen chloride) warranted.
+
+## Acute Cellular Rejection Overview
+
+- Acute deterioration in allograft function with specific histologic changes.
+- Mixed inflammatory cell infiltrate (predominantly lymphocytes).
+- Involves portal triads, disrupts biliary, hepatic artery, and portal venous endothelia.
+- Incidence approx. 45%.
+
+## Rejection Clinical Signs
+
+- Early stage: mostly asymptomatic.
+- Signs: fever, abdominal pain, malaise, fatigue, poor appetite.
+- Earliest lab indicator: elevated bilirubin.
+- Modest increase in alkaline phosphatase and transaminases.
+- PT and serum albumin usually unaffected.
+
+## Rejection Diagnosis (Banff)
+
+- Lab measurements neither sensitive nor specific.
+- Liver histology from percutaneous biopsy is the standard.
+- Banff score used for evaluation:
+  - Mild (RAI less than 4)
+  - Moderate (RAI 4 to 6)
+  - Severe (RAI greater than 7)
+
+## Rejection Treatment
+
+- Mild: increasing calcineurin inhibitor.
+- Moderate and severe: high-dose pulse corticosteroids (successful in 80% to 90% of cases).
+- Antithymocyte globulin (thymoglobulin) does not improve rates as induction agent.
+- Can be used as adjunct in steroid-resistant antibody-mediated rejection (AMR).
+
+## Chronic Rejection
+
+- Associated with reduced graft survival.
+- Occurs in roughly 10% of all LTs.
+- No effective treatments.
+- Ductopenic rejection: loss of bile ducts in more than 50% of portal tracts.
+- Arteriopathy affects large and medium-sized arteries.
+- Only effective treatment is re-transplantation.
+
+## Antibody-Mediated Rejection (AMR)
+
+- Rare form of immunologic complication (1% of all LTs).
+- Increased to 5% in patients with positive donor-specific antigen (DSA).
+- Diagnosed with C4D-positive stained biopsies.
+- Treatment: plasmapheresis, IVIG, rituximab.
+- Rising DSA post-transplant could cause occult liver fibrosis.
+
+## Infection Overview
+
+- Lifelong immunosuppressant therapy required.
+- Tenuous balance between preventing rejection and minimizing infection/PTLD risk.
+- Two-thirds of transplant patients experience at least one serious infection.
+- Accounts for more than half of observed mortality associated with LT.
+
+## Bacterial Infections
+
+- Tend to occur within first month.
+- Risk factors: prolonged operating time, indwelling catheters, biliary obstruction, PVT, poor graft function.
+- Common pathogens: gram-negative (E. coli, Enterobacter, Pseudomonas) and gram-positive (S. aureus, coagulase-negative staph).
+- Rarely, S. aureus causes toxic shock syndrome.
+
+## Viral Infections Overview
+
+- Common in immunocompromised patients.
+- Includes HIV, adenovirus, influenza, RSV.
+- Risk of acquiring viral hepatitis from infected organs, blood, or illicit drug use.
+- CMV is the most important infection in organ transplant patients.
+
+## CMV Disease vs Infection
+
+- CMV disease usually occurs 30 to 50 days post-transplant.
+- Manifestations: fever, malaise, arthralgia, leukopenia, hepatitis, pneumonitis, enterocolitis.
+- CMV disease: histologically evident invasive infection or positive culture from deep tissue.
+- Positive blood/serologic tests insufficient for disease diagnosis.
+
+## CMV Histology and Risk Factors
+
+- Liver biopsy with immunostaining enables early diagnosis.
+- Histology: hepatocyte necrosis, parenchymal microabscesses, magenta-colored intranuclear inclusion (owl's eye nucleus).
+- Risk factors: seronegative recipient / seropositive donor, anti-lymphocyte antibody therapy, re-transplantation.
+- Chronic CMV associated with cholestatic hepatitis and vanishing bile duct syndrome.
+
+## CMV Treatment and Prophylaxis
+
+- Reduce immunosuppressive regimen if possible.
+- IV ganciclovir mainstay of therapy.
+- Foscarnet alternative (nephrotoxic).
+- Oral valganciclovir effective for prevention and mild infection.
+- Prophylactic regimens range from 3 to 6 months of daily oral treatment.
+
+## HSV and EBV
+
+- HSV seropositivity present in most patients.
+- Postop infection usually reactivation due to immunosuppression.
+- Mild mucocutaneous disease responds to acyclovir.
+- EBV infection characterized by mononucleosis-like syndrome.
+- Clinical significance: pathogenesis of PTLD (unrestricted B cell proliferation).
+
+## Fungal Infections Overview
+
+- Clinically significant fungal infection incidence: 20% to 25%.
+- Risk factors: poor nutrition, re-transplantation, prolonged antibiotics, high immunosuppression, Roux-en-Y.
+- Invasive fungal infection: 1% to 3% incidence, high mortality.
+- Prophylactic antifungals reduce postoperative invasive fungal infections.
+
+## Candida and Aspergillus
+
+- Candida: most common fungal infection.
+- Aspergillus: second most frequent, angioinvasive, disseminates to CNS and lungs.
+- Invasive aspergillosis incidence approx. 1%, mortality close to 100% despite treatment.
+
+## Cryptococcus and Coccidiomycosis
+
+- Cryptococcus neoformans: occurs months to years post-transplant (0.25%).
+- Subtle signs: mental status changes, headache, fever.
+- Coccidiomycosis: rare, endemic to southwest.
+- Long-term fluconazole prophylaxis given to recipients from this region.
+
+## P. carinii and Legionella
+
+- Pneumocystis carinii pneumonia decreased dramatically with routine TMP/SMX prophylaxis.
+- Occurs almost exclusively in patients without prophylaxis.
+- Legionella pneumophila: uncommon cause of pneumonia.
+- Source usually water supply.
+- Treated with quinolones (do not interact with CNIs).
+
+## PTLD Overview
+
+- Life-threatening complication of chronic immunosuppression.
+- Strongly associated with EBV replication in B cells.
+- Incidence 1% to 3% among LT recipients.
+- Polyclonal PTLD: treatable with discontinuation of immunosuppression.
+- Monoclonal PTLD: difficult to treat, can result in death.
+
+## PTLD Treatment
+
+- Clinical presentation: fever, malaise, lymphadenopathy, GI bleeding/perforation, CNS manifestations.
+- Non-Hodgkin lymphoma accounts for 93% of lymphomas in transplant recipients.
+- Extranodal involvement common (70%).
+- Monoclonal antibody against CD20 (rituximab) shows promising results.
+
+## Immunosuppressive Toxicity
+
+- CNIs (cyclosporine, tacrolimus) side effects: GI disturbances, headache, tremor.
+- Cyclosporine: gingival hyperplasia, hirsutism.
+- Tacrolimus: glucose intolerance.
+- Renal tubular dysfunction: hyperkalemia, hyperuricemia, hypophosphatemia, hypomagnesemia.
+- Nephrotoxicity is most clinically significant adverse effect.
+
+## Mycophenolate Mofetil
+
+- Side effects: GI disturbances (nausea, vomiting, diarrhea).
+- May increase certain postoperative infections.
+- Difficult to differentiate from early transplant symptoms.
+- Alternative forms, dose modification, or discontinuation may help.
+
+## Recurrent Hepatitis (HBV and HCV)
+
+- HBV: recurrence rate 80% to 90% in first year without prophylaxis.
+- HBIG and adjuvant therapies (lamivudine) allow routine transplantation with excellent results.
+- HCV: recurrent infection universal (90% confirmed on biopsy).
+- Improved HCV medications with almost 100% cure rates significantly improve outlook.
+
+## Bone Disease
+
+- Hepatic osteodystrophy in almost all patients (especially primary biliary cirrhosis).
+- Causes: corticosteroid therapy, bed rest, cholestasis.
+- Osteoporosis common 3 to 6 months post-LT.
+- Bone density starts gaining by end of first year.
+- Atraumatic fractures frequent within first 6 months.
+
+## Neuropsychiatric Complications
+
+- Severe changes can occur.
+- Anxiety and depression common.
+- Seizures, altered consciousness, CNS infections infrequent but significant.
+- Encephalopathy often multifactorial (metabolic, hypoxia, sedation, drugs).
+- CNI toxicity: tremors, headaches, seizures (avoid by monitoring drug levels).
+
+## Hypertension and Hyperlipidemia
+
+- Common sequelae of immunosuppression.
+- Hypertension observed in approx. 70% at 1 year.
+- 40% manifest metabolic syndrome (diabetes, hypercholesterolemia, hypertriglyceridemia).
+- Rapamycin causes hyperlipidemia and wound healing issues.
+- Omega-3 fatty acids (fish oil) reduce hypertriglyceridemia significantly.
+
+## Conclusion
+
+- LT is a lifesaving treatment for ESLD.
+- Preoperative comorbidities contribute to postoperative complications.
+- Aggressive immunosuppression prevents rejection but risks neoplasms/infections.
+- Trend toward significant reduction of immunosuppression and early steroid withdrawal.
+- Multidisciplinary team approach essential for constant surveillance and early diagnosis.
