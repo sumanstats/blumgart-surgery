@@ -1,2 +1,11 @@
 # 61 Pancreatic Cancer: Epidemiology
 
+
+::: {.panel-tabset}
+
+## Qwen
+
+{{< reveal 61_Pancreatic_Cancer_Epidemiology >}}
+
+
+:::

@@ -2,6 +2,10 @@
 
 ::: {.panel-tabset}
 
+## Chapter Qwen
+
+{{< reveal 62_Pancreatic_Cancer_Clinical_Aspects_Assessment_and_Management >}}
+
 ## Imaging PDAC
 
 {{< reveal Extras/pancreas/imaging_pdac >}}

@@ -1,0 +1,501 @@
+---
+title: "Pancreatic Cancer: Clinical Aspects, Assessment, and Management"
+format:
+  revealjs:
+    theme: dark
+---
+
+## Overview
+
+- Pancreatic adenocarcinoma is one of the **most lethal malignancies**
+- Ranks 8th among cancer types in women, 10th in men
+- **3rd leading cause** of cancer death in the United States
+- Expected to become **2nd most common** cause of cancer death in coming decade
+- Lethality reflects:
+  - Intrinsic biologic aggressiveness
+  - Most patients diagnosed at relatively advanced stage
+
+## Epidemiology & Prognosis
+
+- Over **half** of patients have systemic metastases at diagnosis
+- Another **third** have locally advanced disease precluding immediate surgery
+- Only **15%–20%** initially present with surgically operable disease
+- Surgical resection is the **only** treatment modality associated with long-term survival
+- Targeted therapy and immunotherapy have had **limited benefit** thus far
+- Risk approximately **doubles** for each decade of life between age 50 and 90
+
+## Clinical Presentation – Early Detection Challenges
+
+- Pancreas cancer is **rarely diagnosed "early"**
+- Often relatively **asymptomatic** in initial stages
+- Most signs and symptoms are **nonspecific** and **subacute**
+- Exception: **jaundice** (more specific)
+- Contributes to rarity of early-stage diagnosis
+
+## Clinical Presentation – Symptoms
+
+- **"Painless jaundice"** – classic presentation (head tumors obstructing bile duct)
+- Most operable tumors occur in the **pancreatic head**
+- Many tumors do **not** obstruct the bile duct
+- Most pancreas cancers are **not painless** by diagnosis
+- Nonlocalized upper abdominal discomfort present for weeks/months
+- Pain radiating to the back = **particularly ominous** (retroperitoneal nerve involvement)
+- Pain often **worse at night** when supine, relieved with sitting
+
+## Clinical Presentation – Signs & Symptoms
+
+| Sign/Symptom | Clinical Significance |
+|---|---|
+| Weight loss | Common, nonspecific |
+| Nausea/vomiting | Gastric outlet obstruction |
+| Palpable mass | Advanced disease |
+| Courvoisier's sign | Gallbladder distension |
+| Trousseau's sign | Peripheral venous thrombosis |
+| Pancreatitis | Without gallstones/alcohol |
+| Pancreatic insufficiency | Exocrine and/or endocrine |
+
+## New-Onset Diabetes & Pancreatic Cancer
+
+- New-onset **insulin-dependent diabetes** after age 60
+- Associated with **1%–2% incidence** of previously undiagnosed pancreas cancer
+- Important clinical clue for early detection
+- Should prompt further evaluation in appropriate clinical context
+
+## Diagnosis – Laboratory Tests
+
+- Initial evaluation with serum blood tests
+- **Obstructive jaundice pattern:**
+  - Markedly elevated bilirubin
+  - Elevated alkaline phosphatase
+  - Some elevation of ALT and AST
+
+## CA 19-9 Tumor Marker
+
+- Often **elevated** in pancreas cancer
+- **Limitations:**
+  - Markedly elevated in benign biliary obstruction
+  - ~15%–20% of patients **cannot synthesize** CA 19-9 (Lewis blood group)
+  - Limited diagnostic value, especially in jaundiced patients
+- **Primary utility:**
+  - Following treatment response in nonjaundiced patients
+  - Reduction associated with improved survival
+  - Negative prognostic factor if markedly elevated
+
+## Other Serum Markers
+
+- **CEA:** Too insensitive/nonspecific for initial diagnosis
+- **Emerging approaches (experimental):**
+  - Circulating cancer cells
+  - Circulating tumor DNA
+  - Combined with CA 19-9 and other markers
+  - May offer sensitive/specific early diagnosis approach
+
+## Imaging Studies – CT Scanning
+
+- **High-resolution triple-phase contrast-enhanced CT** = primary imaging tool
+- Pancreatic carcinomas appear:
+  - **Hypoenhancing** on arterial phase
+  - **Hypointense/isointense** on venous phase
+- CT can define:
+  - Regional adenopathy
+  - Extrapancreatic extension
+  - Vascular involvement
+  - Liver/peritoneal metastases
+
+## Imaging Studies – MRI
+
+- **Similar utility** to CT for pancreatic mass assessment
+- **May be more useful** for:
+  - Defining small liver metastases
+  - Characterizing small/indeterminate lesions
+  - Assessing **cystic lesions** of the pancreas
+  - Long-term follow-up (no radiation exposure)
+- Preferred over CT in patients with:
+  - Limited renal function
+  - Contrast allergy
+
+## Imaging Studies – PET Scanning
+
+- FDG-PET has **limited utility**
+- **10%–30%** of pancreas cancers fail to take up FDG tracer (PET negative)
+- Benign inflammation may be **erroneously PET positive**
+- Greatest utility: defining small indeterminate lesions when:
+  - Cannot be well characterized by CT/MRI
+  - Low suspicion for benign inflammatory process
+- Alternative tracers (e.g., 68-gallium dotatate) for neuroendocrine tumors
+
+## Diagnostic Biopsy – Key Principles
+
+- Definitive diagnosis requires **histopathology**
+- **NOT all operable masses require preoperative biopsy**
+- Biopsy may be unnecessary if:
+  - Radiographic characteristics consistent with carcinoma
+  - Amenable to surgical resection
+  - Low surgical risk
+- Biopsy **recommended** for:
+  - Higher surgical risk patients
+  - Patients requiring neoadjuvant chemotherapy
+  - Patients desiring tissue confirmation before surgery
+
+## EUS-Guided Fine Needle Aspiration (FNA)
+
+- **Most common** nonoperative/preoperative biopsy approach
+- Vast majority of lesions can be sampled in experienced hands
+- **Important limitation:**
+  - Pancreas cancers often highly **fibrotic**
+  - <10% of cancer area may harbor nests of cancer cells
+  - Remainder = fibrous stroma
+  - **10%–20% false-negative rate** due to sampling error
+- EUS may be **more sensitive** than axial imaging for:
+  - Vascular involvement
+  - Suspicious peripancreatic lymph nodes
+
+## Alternative Biopsy Approaches
+
+- **ERCP with brushings:**
+  - For lesions causing biliary obstruction
+  - Inferior sensitivity to EUS-FNA
+  - Risk of pancreatitis (can be severe)
+  - Rarely performed for diagnosis alone
+- **Percutaneous biopsy** (US or CT-guided):
+  - Option when EUS-FNA unsuccessful
+  - Can target primary tumor or metastases
+  - Tumor seeding risk: ~0.1% (very rare)
+
+## ERCP – Role in Management
+
+- **Diagnostic role:** Limited (inferior to EUS-FNA)
+- **Therapeutic role:** Biliary stenting for jaundice relief
+  - Indicated for inoperable disease
+  - Or planned neoadjuvant chemotherapy
+- **Stent selection:**
+  - **Metallic wall stents** preferred for neoadjuvant candidates
+  - Plastic stents require replacement every 2–3 months
+- **Routine preoperative stenting NOT supported** by randomized data
+- Preoperative biliary intervention associated with **higher postoperative infection rate**
+
+## Diagnostic Laparoscopy
+
+- Purpose: Define/exclude metastatic disease before resection
+- Early studies: 20%–30% with "resectable" disease had occult metastases
+- With improved CT: yield now **<10%**
+- **Selective approach warranted:**
+  - Large tumors (T3 or T4)
+  - Indeterminate liver lesions on imaging
+  - Markedly elevated CA 19-9
+
+## Cancer Staging – AJCC 8th Edition (2016)
+
+- Combines **T** (tumor), **N** (nodes), **M** (metastases)
+- Stages I through IV
+- **Key changes from prior editions:**
+  - T1: <2 cm; T2: 2–4 cm; T3: >4 cm
+  - T4: SMA or celiac artery involvement
+  - N0: node negative; N1: 1–3 nodes; N2: >3 nodes
+  - M1: distant metastasis
+
+## AJCC Staging Table – T Classification
+
+| Stage | T | N | M | Description |
+|---|---|---|---|---|
+| 0 | Tis | N0 | M0 | Carcinoma in situ (PanIN3) |
+| IA | T1 | N0 | M0 | Tumor ≤2 cm, limited to pancreas |
+| IB | T2 | N0 | M0 | Tumor >2 cm and <4 cm |
+| IIA | T3 | N0 | M0 | Tumor >4 cm |
+| IIB | T1–T3 | N1 | M0 | 1–3 regional LN metastasis |
+| III | T4 | N2 | M0 | SMA/celiac involvement and/or ≥4 LN |
+| IV | Any | Any | M1 | Distant metastasis |
+
+## Five-Year Survival by Stage
+
+| Stage | 5-Year Survival |
+|---|---|
+| IA | ~40% |
+| IB | ~30% |
+| IIA | ~25% |
+| IIB | ~13% |
+| III | ~10% |
+
+- Validated using multiple datasets (US, Europe, Asia)
+- Stage IIA now more objectively defined (tumor >4 cm)
+- Stage III includes N2 nodal involvement with any T stage
+
+## Treatment Overview
+
+- **Surgical resection** = only treatment with long-term survival
+- Assessment for resectability = critical initial step
+- Multidisciplinary tumor board evaluation recommended
+- Experienced pancreatic surgeon at **high-volume center** essential
+- Patients categorized as:
+  - Resectable
+  - Borderline resectable / Locally advanced
+  - Metastatic
+
+## Resectable Disease – Criteria
+
+- **No** evidence of metastatic disease
+- **No** SMA or celiac artery involvement/abutment
+- Portal/SMV involvement:
+  - None, OR
+  - Venous involvement that can be **readily resected en bloc** for R0 resection
+
+## Figure 62.1 – Resectable Tumor
+
+- Pancreatic adenocarcinoma in head/uncinate process
+- **Well-preserved fat plane** (arrow) between tumor (T) and superior mesenteric artery (A)
+- Clear separation indicates resectability
+- No vascular invasion
+
+## Borderline Resectable Disease
+
+- Tumor **proximity to or direct involvement** of venous/arterial structures
+- Venous involvement potentially resectable with reconstruction
+- Arterial involvement: **<180 degrees** of SMA or celiac artery circumference
+- May be grossly resectable but likely **R1 or R2** margins
+- Better termed **"borderline unresectable"**
+- Should receive **initial chemotherapy ± radiation** to attempt downstaging
+
+## Locally Unresectable Disease
+
+- More extensive vascular involvement:
+  - **Complete encasement** of portal/SMV (not reconstructible)
+  - More extensive arterial involvement
+- Only potentially resectable with **R2 (grossly positive)** resection
+- Low but some potential for response to treatment
+- Treatment slows tumor growth, improves survival
+
+## Metastatic Disease
+
+- **Largest subset** of pancreas cancer patients
+- Managed with **systemic chemotherapy**
+- Surgery/radiation only for **palliation** of specific symptoms
+- Systemic therapy has improved in recent years
+- Improvements translated to:
+  - Adjuvant setting
+  - Neoadjuvant treatment for borderline/locally unresectable tumors
+
+## Advances in Chemotherapy – Historical
+
+- Before 1997: Single-agent **5-FU** (unclear survival benefit)
+- 1997 (Burris et al.): **Gemcitabine** superior to 5-FU
+  - Survival: 5.6 vs 4.4 months
+  - Improved quality of life (clinical benefit response)
+- Next 16 years: Multiple gemcitabine combinations **failed** to show incremental benefit
+
+## FOLFIRINOX – A Breakthrough (2011)
+
+- Combination: **5-FU + Irinotecan + Oxaliplatin**
+- Compared to gemcitabine monotherapy:
+  - Median survival: **11 vs 6 months** (nearly doubled)
+  - Quality of life improved
+  - Partial response: **31% vs 9%**
+  - Significant number survived **>12 months**
+- More toxic but more effective
+
+## Gemcitabine + Nab-Paclitaxel (2013)
+
+- Von Hoff et al.
+- **Gemcitabine + nab-paclitaxel (GA)** vs gemcitabine alone
+- Survival: **9 vs 7 months**
+- Tumor shrinkage: **23% vs 7%**
+- Both FOLFIRINOX and GA superior to single-agent gemcitabine
+- FOLFIRINOX may be superior but more toxic
+
+## Surgical Treatment – Resectable Disease
+
+| Location | Procedure |
+|---|---|
+| Pancreatic head | Pancreaticoduodenectomy (Whipple) |
+| Pancreatic body/tail | Distal pancreatectomy ± splenectomy |
+| Extensive intrapancreatic spread | Total pancreatectomy (rare) |
+
+- Marked improvements in **short-term outcomes** (morbidity/mortality)
+- Minimally invasive approaches (laparoscopy, DaVinci robot) emerging
+- Comparable short-term results with open vs minimally invasive
+- Technical modifications have **not** improved long-term oncologic outcomes beyond R0 resection
+
+## Figure 62.2 – Unresectable Tumor
+
+- Pancreatic adenocarcinoma in head/uncinate process
+- **Loss of fat plane** (arrow) between tumor (T) and SMA (A)
+- Indicates vascular invasion/unresectability
+- Metallic endoprosthesis in distal common bile duct (palliative stent)
+
+## Adjuvant Therapy – Historical Progress
+
+| Trial | Treatment | Key Finding |
+|---|---|---|
+| GITSG | 5-FU + radiation | MS 20 vs 11 months; 2-yr survival 43% |
+| CONKO-001 | Gemcitabine vs none | 5-yr survival 21% vs 9% |
+| ESPAC-3 | Gemcitabine vs 5-FU/LV | Similar outcomes (~high teens 5-yr) |
+
+## Adjuvant Therapy – Modern Era
+
+| Trial | Treatment | Key Finding |
+|---|---|---|
+| ESPAC-4 | Gem + Capecitabine vs Gem | 5-yr survival: 29% vs 17% |
+| PRODIGE-24 | FOLFIRINOX vs Gemcitabine | MS: **54 vs 35 months** |
+
+- R0 resection + combination therapy → median survival 39 months, 5-yr >40%
+- Increasingly effective combinations = improved long-term survival
+- FOLFIRINOX more toxic but superior
+
+## Neoadjuvant vs Adjuvant Therapy
+
+**Advantages of Neoadjuvant:**
+- Ensures all patients receive chemotherapy
+- Biologic test of tumor aggressiveness
+- Potential tumor shrinkage → increased R0 resections
+- Avoids surgery in patients with early metastatic progression
+
+**Counter-arguments:**
+- Tumor progression may lose surgical window
+- Low radiologic response rate (~31%)
+- Chemotherapy toxicity may delay/abandon surgery
+
+## PREOPANC Trial (Dutch)
+
+- Only published **randomized** neoadjuvant vs adjuvant trial
+- Neoadjuvant: Chemoradiation + gemcitabine → surgery → gemcitabine
+- Adjuvant: Surgery → gemcitabine
+- Included both resectable AND borderline patients
+- **Limitations:**
+  - Different treatments in each arm
+  - Mixed patient population
+  - Underpowered
+- Result: No overall survival difference (ITT); more benefit in borderline/locally unresectable subgroup
+
+## Borderline Resectable & Locally Unresectable – Neoadjuvant Results
+
+- Neoadjuvant chemotherapy may render lesion resectable:
+  - **30%–60%** of borderline resectable
+  - Smaller fraction of locally unresectable
+- Patients who undergo resection after neoadjuvant: survival **equal** to initially resectable patients
+- Role of radiation therapy: **controversial**
+  - Alliance trial closed radiation arm early (lack of efficacy)
+  - LAP07 trial: no advantage to chemoradiation
+- Stereotactic ablative radiation may improve local control
+
+## Post-Treatment Imaging Limitations
+
+- Radiologic assessment after neoadjuvant therapy does **NOT accurately predict resectability**
+- Cannot discriminate:
+  - Residual cancer adjacent to vessels
+  - Residual scar tissue (tumor-free)
+- Surgeons need **low threshold** for surgical exploration
+- Requires skill to mobilize and safely remove tumors near major arteries
+
+## Formal Arterial Resection – Historical
+
+- 1970s–80s: "Regional pancreatectomy" at MSKCC and NCI
+- Arterial + venous resections en bloc with pancreatectomy
+- **Extraordinarily high** morbidity and mortality
+- **Few long-term survivors**
+- Led to view: arterial involvement requiring resection = generally **not appropriate** for surgery
+
+## Appleby Procedure – Exception
+
+- For locally advanced **pancreatic body tumors** involving upper celiac artery
+- Requirements:
+  - Celiac origin from aorta free of tumor
+  - Intact GDA and proper hepatic artery (uninvolved)
+  - Ideally aberrant right hepatic artery from SMA
+- Resect celiac + common hepatic artery en bloc with distal pancreatectomy
+- Depends on **retrograde GDA flow** for hepatic arterial supply
+- Major risk: **liver failure**
+- "Supercharge" with arterial bypass graft described
+- Select patients: survival similar to resectable tumors
+
+## Arterial Resection After Neoadjuvant Therapy
+
+- Some patients with arterial abutment can achieve **R0 margins** post-neoadjuvant
+- Selective arterial resection/reconstruction of celiac/SMA
+- **Higher risk:** increased morbidity and mortality
+- Unclear long-term survival benefit
+- Most patients eventually succumb to **metastatic disease** regardless
+- Ablative radiation may reduce need for arterial resection
+- Should be **highly selective**, performed only by experienced surgeons/centers
+
+## Surgical Palliation
+
+- Unresectable/recurrent cancers cause obstruction:
+  - Biliary tree
+  - Duodenum
+  - Intestine
+- Historic "double bypass" (gastrojejunostomy + choledochojejunostomy):
+  - Significant morbidity/mortality
+  - **Largely supplanted** by nonoperative approaches
+- Current management:
+  - **Biliary obstruction:** Endoscopic/percutaneous stents
+  - **Duodenal obstruction:** Endoluminal stents
+  - Surgical palliation (gastrojejunostomy): now **infrequent**
+
+## Advances in Cancer Biology – Diagnosis
+
+- **Circulating tumor DNA:**
+  - Predicts recurrence **months ahead** of imaging
+  - May aid early identification in high-risk populations
+- **Radiomic analysis:**
+  - Potential to define tumor prognosis from imaging
+- **Combined biomarker approaches:**
+  - ctDNA + protein markers
+  - May enable earlier detection
+
+## Advances in Cancer Biology – Genomics & Treatment
+
+- **Genomic characterization:**
+  - Distinct subsets with markedly different prognoses
+  - Some subtypes may benefit from specific chemotherapy
+  - May guide FOLFIRINOX vs GA selection
+- **KRAS targeting:**
+  - Drug targeting of mutant K-ras oncogene demonstrated
+  - Common molecular driver of pancreas cancer
+- **Immunotherapy:**
+  - Mismatch repair deficiency (Lynch syndrome) → response to checkpoint inhibitors
+  - Suggests potential for immune stimulation in standard pancreatic cancer
+
+## Key Takeaways
+
+1. Pancreatic cancer remains highly lethal; early diagnosis is rare
+2. **Surgical resection** is the only path to long-term survival
+3. Multidisciplinary approach at **high-volume centers** is essential
+4. CA 19-9 has limited diagnostic value but useful for monitoring
+5. Triple-phase CT is the primary imaging modality
+6. EUS-FNA is the preferred biopsy method (10–20% false-negative rate)
+7. FOLFIRINOX and GA have transformed systemic therapy
+8. Neoadjuvant therapy is increasingly important for borderline/locally advanced disease
+9. R0 resection remains the surgical goal
+10. Emerging biology (ctDNA, genomics, KRAS targeting, immunotherapy) offers future hope
+
+## Summary – Treatment Algorithm
+
+```
+Suspected Pancreatic Cancer
+        │
+        ▼
+  Imaging (CT/MRI)
+        │
+        ▼
+  Staging & Assessment
+        │
+   ┌────┼────────────┐
+   ▼    ▼            ▼
+Resectable  Borderline/LA  Metastatic
+   │         │              │
+   ▼         ▼              ▼
+Surgery   Neoadjuvant    Systemic
+   │      ± Radiation    Chemo
+   ▼         │
+Adjuvant  Reassess
+Chemo     for Surgery
+```
+
+## Future Directions
+
+- **Earlier diagnosis:** Liquid biopsies (ctDNA, circulating tumor cells)
+- **Personalized therapy:** Genomic subtyping to guide chemotherapy selection
+- **KRAS-targeted therapy:** Direct targeting of most common driver mutation
+- **Immunotherapy:** Expanding beyond Lynch syndrome patients
+- **Improved radiation:** Stereotactic ablative approaches
+- **Better surgical selection:** Biomarkers and imaging to predict resectability
+- **Clinical trials:** Enrollment should be encouraged
