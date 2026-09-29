@@ -8,6 +8,6 @@
 
 ## Qwen
 
-{{< reveal Extras/transplant/63_Duodenal_Adenocarcinoma >}}
+{{< reveal Extras/small_intestine/63_Duodenal_Adenocarcinoma >}}
 
 :::
