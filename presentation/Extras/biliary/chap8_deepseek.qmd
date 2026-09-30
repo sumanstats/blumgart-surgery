@@ -1,0 +1,1169 @@
+---
+title: "Bile Secretion and Pathophysiology of Biliary Tract Obstruction"
+format: revealjs
+---
+
+
+
+
+## Overview
+
+- Bile secretion is one of the major functions of the liver
+- Serves two major purposes:
+  - Excretion of hepatic metabolites including bilirubin, cholesterol, drugs, and toxins
+  - Facilitation of intestinal absorption of lipids and fat-soluble vitamins
+- Bile acids have important signaling functions through interaction with gut microbiome
+- Through receptor activation, bile acids regulate lipid, glucose, and energy metabolism
+- Alterations in bile secretion may contribute to cholelithiasis and its complications
+- Obstruction of bile flow results in alterations of coagulation, immune system, and all organ functions
+
+## Bile Secretion: Bile Formation
+
+- Two primary roles of bile in normal physiology:
+  - Excretion of organic compounds such as bilirubin and cholesterol
+  - Intestinal absorption of lipids
+- Bile secretion results from active transport of solutes into the canaliculus
+- Followed by passive flow of water
+- Water constitutes approximately 85% of the volume of bile
+- Major organic solutes in bile:
+  - Bilirubin
+  - Bile salts
+  - Phospholipids
+  - Cholesterol
+
+## Bilirubin Metabolism
+
+- Bilirubin is the breakdown product of spent red blood cells
+- Conjugated with glucuronic acid by hepatic enzyme glucuronyl transferase
+- Excreted actively into the adjacent canaliculus
+- Normally, a large enzyme reserve exists to handle excess bilirubin production
+- This reserve may be important in hemolytic states
+
+## Bile Salts
+
+- Steroid molecules synthesized by hepatocytes
+- Account for approximately 72% of biliary lipids
+- Primary bile salts in humans:
+  - Cholic acid
+  - Chenodeoxycholic acid
+- These account for approximately 80% of those produced
+- Primary bile salts conjugated with either taurine or glycine
+- Can undergo bacterial alteration in intestine to form secondary bile salts:
+  - Deoxycholate
+  - Lithocholate
+- Purpose: solubilize lipids and facilitate their absorption
+
+## Phospholipids and Cholesterol
+
+- Phospholipids:
+  - Synthesized in liver in conjunction with bile salt synthesis
+  - Account for approximately 24% of biliary lipids
+  - Lecithin is primary phospholipid in human bile
+  - Constitutes more than 95% of total phospholipids
+- Cholesterol:
+  - Final major solute of bile
+  - Accounts for 4% of lipids
+  - Produced primarily by liver with small contribution from dietary sources
+
+## Bile Volume and Flow
+
+- Normal volume of bile secreted daily by liver: 750 to 1000 mL
+- Bile flow depends on neurogenic, humoral, and chemical control
+- Vagal stimulation increases bile secretion
+- Splanchnic stimulation causes vasoconstriction with decreased hepatic blood flow
+- Results in diminished bile secretion
+- Gastrointestinal hormones that increase bile flow:
+  - Secretin
+  - Cholecystokinin
+  - Gastrin
+  - Glucagon
+- Most important factor regulating bile volume: rate of bile salt synthesis by hepatocytes
+
+## Bile Composition
+
+- Components of hepatic and gallbladder bile are essentially the same
+- Concentration varies considerably due to gallbladder's ability to absorb water
+- Gallbladder absorbs water:
+  - Actively via sodium-hydrogen (Na+/H+) pumps
+  - Passively through aquaporin channels
+- Chloride and bicarbonate absorbed by gallbladder epithelium via CFTR
+- Secretion of hydrogen ions and absorption of bicarbonate alter acid-base balance
+- Hepatic bile is basic; gallbladder bile is acidic
+
+## Table 8.1: Composition of Hepatic and Gallbladder Bile
+
+| CHARACTERISTICS* | HEPATIC BILE | GALLBLADDER BILE |
+|-----------------|--------------|------------------|
+| Sodium | 160 | 270 |
+| Potassium | 5 | 10 |
+| Chloride | 90 | 15 |
+| Bicarbonate | 45 | 10 |
+| Calcium | 4 | 25 |
+| Magnesium | 2 | 4 |
+| Bilirubin | 1.5 | 15 |
+| Proteins | 150 | 200 |
+| Bile acids | 50 | 150 |
+| Phospholipids | 8 | 40 |
+| Cholesterol | 4 | 18 |
+| Total solids | — | 125 |
+| pH | 7.8 | 7.2 |
+
+*All determinations are milliequivalents per liter, except for pH.
+
+## Gallbladder Absorption
+
+- Gallbladder mucosa absorbs calcium (Ca+2) and magnesium (Mg+2)
+- Calcium absorption is not as efficient as sodium and water absorption
+- Leads to significantly greater relative increase in calcium concentration in gallbladder
+- Bilirubin concentration may be as high as 10-fold
+- Precipitation of calcium bilirubinate crystals more likely within gallbladder
+- This is major component of pigment gallstones
+
+## Concentration Effects on Biliary Lipids
+
+- Biliary lipids become more concentrated in gallbladder:
+  - Bile salts
+  - Phospholipids
+  - Cholesterol
+- Changes occur in capacity of bile to solubilize cholesterol
+- Solubility in micellar fraction is increased
+- Stability of phospholipid-cholesterol vesicles is greatly decreased
+- Cholesterol crystal precipitation occurs preferentially by vesicular mechanisms
+- Net effect of concentrating bile: increased tendency to form cholesterol crystals
+
+## Bile Salt Secretion
+
+- Bile secreted from hepatocyte into canaliculi
+- Canaliculi drain contents into small bile ducts
+- Secretion of bile salts is major osmotic force for generation of bile flow
+- Bile acids formed at rate of 500 to 600 mg per day
+- Bulk of bile salt pool maintained in:
+  - Gallbladder
+  - Liver
+  - Small intestine
+  - Extrahepatic bile ducts
+
+## Bile Acid Synthesis Pathways
+
+- Bile acids synthesized from cholesterol via two main pathways:
+  - Classic pathway: leads to formation of cholic acid
+  - Alternative pathway: results in synthesis of chenodeoxycholic acid
+- Classic pathway is predominant mode in humans
+- 60% to 70% of bile acid pool consists of:
+  - Cholic acid and its metabolite deoxycholic acid
+- Chenodeoxycholic acid occurs less commonly in human bile
+
+## Bile Acid Transport in Plasma
+
+- In plasma, bile acids circulate bound to either albumin or lipoproteins
+- In space of Disse within liver, bile salt uptake into hepatocytes is very efficient
+- Process mediated by sodium-dependent and sodium-independent mechanisms
+- Sodium-dependent pathway:
+  - Accounts for more than 80% of taurocholate uptake
+  - Less than 50% of cholate uptake
+- Transport proteins play key role in this process
+
+## Figure 8.1: Bile Formation in Human Liver
+
+[Figure showing bile formation in human liver with transporters]
+
+- Key transporters identified:
+  - NTCP: Sodium-taurocholate cotransporting polypeptide
+  - OATPs: Organic anion transporting polypeptides
+  - BSEP: Bile salt export pump (ABCB11)
+  - MRP2: Multidrug-resistance protein-2
+  - MDR3: Multidrug-resistance protein 3
+  - MRP3: MDR-related protein-3
+
+## Bile Salt Transport Proteins
+
+- Bile salt transporter termed NTCP (sodium-taurocholate cotransporting polypeptide)
+- Exclusively expressed in liver
+- Located in basolateral membrane of hepatocyte
+- Sodium-independent hepatic uptake mediated primarily by OATPs
+- OATP-C is major sodium-independent bile salt uptake system
+- OATP-A also takes up bile acids
+- OATP-8 mediates taurocholate uptake
+
+## Intracellular Bile Acid Transport
+
+- Occurs within a matter of seconds
+- Two mechanisms responsible for bile acid transcellular movement:
+  - Transfer of bile acids from basolateral membrane to canalicular membrane via bile acid-binding proteins
+  - Movement of cellular bile salts through vesicular transport
+- Transport across canalicular membrane represents rate-limiting step
+- Bile salt concentrations are 1,000-fold greater within canalicular than in hepatocytes
+- This gradient necessitates active transport mechanism
+- ATP-dependent process
+
+## ATP-Binding Cassette Transporters
+
+- ABCB11 (formerly BSEP) plays key role in bile salt transport
+- ABC transporters mediate transport of:
+  - Metabolites
+  - Peptides
+  - Fatty acids
+  - Cholesterol
+  - Lipids
+  - Drugs
+- Found in liver, intestines, pancreas, lungs, kidneys, brain, macrophages
+- MRP2 also transports sulfated and glucuronidated bile salts
+- MRP2 mediates export of other organic anions
+
+## Bile Acids as Signaling Molecules
+
+- Recent studies suggest bile acids regulate lipid, glucose, and energy metabolism
+- Function mediated primarily by:
+  - Nuclear receptor farnesoid X receptor (FXR)
+  - G-protein-coupled receptor TGR5
+- Bile acids in small and large intestine regulate gut microbiome
+- Regulate incretin secretion
+- Regulate production of fibroblast growth factors 15 and 19 (FGF15/FGF19)
+- These FGFs modulate lipid, glucose, and energy metabolism
+- May play role in rapid improvement in glycemic control after gastric bypass surgery
+
+## Biliary Lipid Secretion
+
+- Compared with bile salts, biliary lipids play secondary role in bile formation
+- Phospholipids and cholesterol formed primarily from:
+  - Low-density lipoproteins circulating in plasma
+  - De novo synthesis by hepatocytes
+- Biliary lipid secretion crucial for:
+  - Cholesterol disposal
+  - Intestinal absorption of dietary lipids
+  - Cytoprotection against bile acid-induced hepatocyte and cholangiocyte injury
+
+## Phospholipid Secretion
+
+- Involves delivery of phospholipids to inner leaflet of canalicular plasma membrane
+- MDR3 transporter translocates phospholipids from inner to outer leaflet
+- Progressive familial intrahepatic cholestasis type 3 develops with MDR3 deficiency
+- These patients have no phosphatidylcholine in bile
+- Therefore do not form mixed micelles with bile salts
+- Toxic bile salts injure biliary epithelium
+- Results in neonatal cholestasis, cholestasis of pregnancy, and cirrhosis in adults
+
+## Cholesterol Secretion
+
+- Less known about role of transporter proteins in cholesterol secretion
+- ABC transporters ABCG5 and ABCG8 involved in elimination of plant sterols
+- Cholesterol is highly nonpolar and insoluble in water
+- Therefore also insoluble in bile
+- Key to maintaining cholesterol in solution: formation of micelles
+- Micelles are bile salt-phospholipid-cholesterol complex
+- Bile salts are amphipathic compounds
+- Contain both hydrophilic and hydrophobic portions
+- In aqueous solutions, bile salts orient with hydrophilic portion outward
+- Phospholipids incorporated into micellar structure
+- Allows cholesterol to be added to hydrophobic central portion
+
+## Figure 8.2: Cholesterol Crystal Nucleation
+
+[Figure showing concentration of bile leads to net transfer of phospholipids and cholesterol from vesicles to micelles]
+
+- Phospholipids transferred more efficiently than cholesterol
+- Leads to cholesterol enrichment of remaining (remodeled) vesicles
+- Aggregation of these cholesterol-rich vesicles forms multilamellar liquid crystals of cholesterol monohydrate
+- In simplest and smallest form, vesicles are unilamellar
+- May aggregate, leading to multilamellar vesicles
+- In states of excess cholesterol production, large vesicles may exceed capacity to transport cholesterol
+- Crystal precipitation may occur
+
+## Bilirubin Secretion
+
+- Heme released at time of degradation of senescent erythrocytes by reticuloendothelial system
+- Heme source of approximately 80% to 85% of bilirubin produced daily
+- Remaining 15% to 20% derived largely from breakdown of hepatic hemoproteins
+- Both enzymatic and non-enzymatic pathways for formation of bilirubin proposed
+- Microsomal enzyme heme oxygenase plays major role in initial conversion of heme to biliverdin
+- Biliverdin reduced to bilirubin by cytosolic enzyme biliverdin reductase
+- In "unconjugated" form, bilirubin has very low solubility
+- Bound avidly to plasma proteins, primarily albumin
+
+## Bilirubin Uptake and Conjugation
+
+- Liver is sole organ capable of removing albumin-bilirubin complex from circulation
+- Liver converts potentially toxic bilirubin to water-soluble, nontoxic derivatives
+- In sinusoidal membrane of hepatocyte, bilirubin taken up by OATP-C
+- OATP-C involved with uptake of both conjugated and unconjugated bilirubin
+- Unconjugated bilirubin also can cross hepatic sinusoidal membranes by diffusion
+- In hepatocyte, bilirubin binds to glutathione-S-transferase
+- Catalyzed by bilirubin uridine-5'-diphosphate glycosyltransferase
+- Forms bilirubin glucuronides
+- Mutations in gene encoding bilirubin UDP-glycosyltransferase associated with:
+  - Crigler-Najjar syndrome
+  - Gilbert syndrome
+
+## Bilirubin Excretion
+
+- Bilirubin glucuronides excreted into bile canaliculus primarily via MRP2
+- MRP2 also plays role in transport of:
+  - Glucuronidated bile salts
+  - Wide spectrum of organic anions
+  - Antibiotic ceftriaxone
+- MRP3 expressed in basolateral membrane of hepatocytes and cholangiocytes
+- Participates in transport of bilirubin monoglucuronide
+- MRP3 may prevent intracellular accumulation of conjugated bilirubin, bile salts, and other organic anions in cholestatic situations
+
+## Bile Flow
+
+- Bile ducts, gallbladder, and sphincter of Oddi act in concert to modify, store, and regulate bile flow
+- Bile flow primarily driven by bile salt secretion
+- During passage through bile ductules, canalicular bile modified by absorption and secretion of electrolytes and water
+- Bicarbonate secretion by bile ducts plays important role in bile salt-independent bile flow
+- Gastrointestinal hormone secretin increases bile flow
+- Primarily by increasing active secretion of chloride-rich fluid by bile ducts
+- Bile duct secretion also stimulated by cholecystokinin and gastrin
+
+## Gallbladder Function
+
+- Bile duct epithelium capable of water and electrolyte absorption
+- May be of primary importance in storage of bile during fasting in patients who have undergone cholecystectomy
+- Main functions of gallbladder:
+  - Concentrate and store hepatic bile during fasting state
+  - Deliver bile into duodenum in response to meal
+- Usual capacity of human gallbladder: about 40 to 50 mL
+- Only small fraction of bile produced each day would be stored without gallbladder's remarkable absorptive capacity
+
+## Enterohepatic Circulation
+
+- Provides important negative feedback system on bile salt synthesis
+- If recirculation interrupted by resection of terminal ileum or primary ileal disease:
+  - Abnormally large losses of bile salts occur
+  - Increases bile salt production to maintain normal bile salt pool
+- If bile salts lost through external biliary fistula:
+  - Increased bile salt synthesis necessary
+- Except in unusual circumstances, bile salt synthesis matches losses
+- Maintains constant bile salt pool size
+- During fasting, approximately 90% of bile acid pool sequestered in gallbladder
+
+## Figure 8.3: Enterohepatic Circulation of Bile Salts
+
+[Figure showing enterohepatic circulation]
+
+- Cholesterol taken up from plasma by liver
+- Bile acids synthesized at rate of 0.6 g/24 hr
+- Excreted through biliary system into small bowel
+- Most bile salts reabsorbed in terminal ileum
+- Returned to liver to be extracted and re-extracted
+- Total bile salt pool: 2 to 4 g
+- Recycles through enterohepatic cycle 6 to 10 times daily
+- Only about 600 mg actually excreted into colon
+
+## Enterohepatic Circulation Details
+
+- Bile salts synthesized and conjugated in liver
+- Secreted into bile
+- Stored temporarily in gallbladder
+- Passed from gallbladder into duodenum
+- Absorbed throughout small intestine, especially in ileum
+- Returned to liver via portal vein
+- This cycling referred to as enterohepatic circulation
+- Total amount of bile acids in enterohepatic circulation defined as circulating bile pool
+- Nearly 95% of bile salts reabsorbed
+
+## Bacterial Modification of Bile Salts
+
+- Bacterial action in colon on primary bile salts:
+  - Cholate
+  - Chenodeoxycholate
+- Results in formation of secondary bile salts:
+  - Deoxycholate
+  - Lithocholate
+- Bile acid signature of individual very dependent on gut microbial modification
+- Bacterial enzymes modify primary bile acids through:
+  - Deconjugation
+  - Dehydrogenation
+  - Dehydroxylation
+  - Sulfation reactions
+- Bile acids restrict bacterial proliferation and overgrowth
+- Physiology dramatically altered when bile ducts become obstructed
+
+## Biliary Obstruction: Introduction
+
+- Evaluation and management of patient with biliary obstruction common problem for general surgeon
+- Over past 40 years, significant advances made in understanding of:
+  - Pathophysiology
+  - Diagnosis
+  - Management of jaundiced patient
+- Advances in perioperative and operative management improved survival
+- Obstructive jaundice affects multiple organ systems:
+  - Hepatic
+  - Renal
+  - Cardiovascular
+  - Hematologic
+  - Immune systems
+
+## Table 8.2: Classification of Jaundice
+
+| DEFECT IN BILIRUBIN METABOLISM | PREDOMINANT HYPERBILIRUBINEMIA | EXAMPLES |
+|-------------------------------|--------------------------------|----------|
+| Increased production | Unconjugated | Congenital hemoglobinopathies, hemolysis, multiple transfusions, sepsis, burns |
+| Impaired hepatocyte uptake | Unconjugated | Gilbert disease, drug induced |
+| Reduced conjugation | Unconjugated | Neonatal jaundice, Crigler-Najjar syndrome |
+| Altered transport and excretion | Conjugated | Hepatitis, cirrhosis, Dubin-Johnson syndrome, Rotor syndrome |
+| Biliary obstruction | Conjugated | Choledocholithiasis, benign strictures, chronic pancreatitis, sclerosing cholangitis, periampullary cancer, biliary malignancies |
+
+## Causes of Jaundice
+
+- Jaundice may result from:
+  - Increased production of bilirubin
+  - Impaired hepatocyte uptake of bilirubin
+  - Reduced conjugation of bilirubin
+  - Altered transport or excretion of bilirubin into bile canaliculus
+  - Obstruction of intrahepatic or extrahepatic biliary tree
+- Overproduction, impaired uptake, and reduced conjugation lead to predominantly unconjugated hyperbilirubinemia
+- Altered transport and excretion and biliary ductal obstruction result in primarily conjugated hyperbilirubinemia
+- Some patients have multiple defects in normal metabolism
+
+## Classification of Bile Duct Obstruction
+
+- Diseases causing bile duct obstruction divided into:
+  - Complete obstruction
+  - Intermittent obstruction
+  - Chronic incomplete obstruction
+  - Segmental duct obstruction
+- Patients with complete biliary obstruction will have clinical jaundice
+- Patients with intermittent obstruction may experience symptoms without clinical jaundice
+- Hepatic fibrosis can eventually develop in chronic incomplete obstruction
+- Biliary cirrhosis can develop
+
+## Box 8.1: Lesions Commonly Associated With Biliary Tract Obstruction
+
+**Type I: Complete Obstruction**
+- Tumors of the head of the pancreas
+- Common bile duct ligation
+- Cholangiocarcinoma
+- Gallbladder cancer
+- Parenchymal liver tumors (primary or secondary)
+
+**Type II: Intermittent Obstruction**
+- Choledocholithiasis
+- Periampullary tumors
+- Duodenal diverticula
+- Choledochal cyst
+- Polycystic liver disease
+- Biliary parasites
+- Hemobilia
+
+## Box 8.1 (Continued)
+
+**Type III: Chronic Incomplete Obstruction**
+- Strictures of the common bile duct
+- Congenital biliary atresia
+- Traumatic (iatrogenic)
+- Sclerosing cholangitis
+- Post radiotherapy
+- Stenosis of biliary-enteric anastomosis
+- Chronic pancreatitis
+- Cystic fibrosis
+- Sphincter of Oddi stenosis
+
+**Type IV: Segmental Obstruction**
+- Traumatic
+- Intrahepatic stones
+- Sclerosing cholangitis
+- Cholangiocarcinoma
+
+## Pathophysiology of Biliary Obstruction
+
+- Biliary obstruction produces local effects on bile ducts
+- Leads to derangements of hepatic function
+- Ultimately leads to widespread systemic effects
+- Jaundiced patients at increased risk for:
+  - Hepatic dysfunction
+  - Renal failure
+  - Cardiovascular impairments
+  - Nutritional deficiencies
+  - Bleeding problems
+  - Infections
+  - Wound complications
+- Perioperative mortality and morbidity increased in patients with biliary obstruction
+
+## Hepatobiliary Effects
+
+- Hepatocytes arranged in plates along which blood flows from portal to central veins
+- Small apical domains of adjacent hepatocytes form tubular lumen (canaliculus)
+- Canaliculus is site of primary bile formation
+- From canalicular network, bile flows to small ductules and subsequently to larger ducts
+- With biliary obstruction:
+  - Bile canaliculi become dilated
+  - Microvilli are distorted and swollen
+- In long-standing obstruction:
+  - Intrahepatic bile ductule proliferation occurs
+  - Increase in length and tortuosity of canaliculi
+
+## Biliary Pressure Changes
+
+- Biliary system normally has low pressure (5-10 cm H2O)
+- In complete or partial biliary obstruction, biliary pressure can approach 30 cm H2O
+- As biliary pressure increases:
+  - Tight junctions between hepatocytes and bile duct cells disrupted
+  - Increase in bile duct and canalicular permeability
+- Bile contents can freely reflux into liver sinusoids
+- Causes marked polymorphonuclear leukocyte infiltration into portal triads
+- Inflammatory response followed by increased fibrinogenesis
+- Deposition of reticulin fibers
+- Conversion to type I collagen
+
+## Extrahepatic Bile Duct Changes
+
+- Extrahepatic bile ducts exhibit:
+  - Mucosal atrophy
+  - Squamous metaplasia
+- Followed by:
+  - Inflammatory infiltration
+  - Fibrosis in subepithelial layers of bile duct
+- Elevated biliary pressure can alter bile production by hepatocytes
+- In setting of biliary obstruction and elevated biliary pressure:
+  - Bile becomes less lithogenic
+  - Relative decrease in cholesterol and phospholipid secretion compared with bile acid secretion
+
+## Effects of Relief of Obstruction
+
+- With relief of biliary obstruction and normalization of biliary pressures:
+  - Recovery of cholesterol and phospholipid secretion more rapid than bile acid secretion
+  - Bile is more lithogenic in this setting
+- This phenomenon may lead to premature occlusion of decompressive biliary stents
+- Several authors reported impairment of macrovascular and microvascular perfusion of liver in obstructive jaundice
+- Intravital fluorescence microscopy shown significant increase in number of nonperfused sinusoids after three days of extrahepatic obstruction
+- May explain increased risk for hepatocellular dysfunction when performing liver resections in patients with obstructive jaundice
+
+## Hepatic Function Changes
+
+- Extrahepatic biliary obstruction and jaundice can alter important secretory, metabolic, and synthetic functions of liver
+- When biliary pressure rises higher than 20 cm H2O:
+  - Hepatic bile secretion diminished
+  - Hepatocytes cannot excrete efficiently against high pressure
+- Excretory products of hepatocytes reflux directly into vascular system
+- Leads to systemic toxicity
+- Patients with jaundice have decreased capacity to excrete drugs normally secreted into bile
+- Increased concentration of bile acids inhibits hepatic cytochrome P450 enzymes
+- Decrease in rate of oxidative metabolism in liver
+
+## Hepatocyte Changes
+
+- Bile acids in abnormally high concentrations can induce apoptosis in hepatocytes
+- Synthetic function of hepatocyte also decreased with obstructive jaundice
+- Evidenced by decreased plasma levels of:
+  - Albumin
+  - Clotting factors
+  - Secretory immunoglobulins (IgA)
+- Kupffer cells are tissue macrophages
+- Predominant cell type of hepatic reticuloendothelial system
+- Normally filter infectious agents, damaged blood cells, cellular debris, fibrin degradation products, and endotoxin
+- Obstructive jaundice has profound effects on Kupffer cells
+
+## Kupffer Cell Effects
+
+- Decreased endocytosis
+- Decreased phagocytosis
+- Decreased clearance of bacteria and endotoxin
+- Decreased expression of major histocompatibility complex class II antigen
+- Diminished ability to process antigen
+- Biliary obstruction increases levels of proinflammatory cytokines:
+  - Tumor necrosis factor (TNF)-α
+  - Interleukin (IL)-6
+
+## Cardiovascular Effects
+
+- Obstructive jaundice may cause severe hemodynamic and cardiac disturbances
+- Experimental animals with obstructive jaundice tend to be hypotensive
+- Exhibit exaggerated hypotensive response to hemorrhage
+- Studies demonstrated bile duct ligation:
+  - Decreases cardiac contractility
+  - Reduces left ventricular pressures
+  - Impairs response to β agonist drugs
+  - Decreases peripheral vascular resistance
+- Negative correlation between serum bilirubin and left ventricular systolic work
+- Successful internal biliary drainage associated with significant increase in cardiac output, compliance, and contractility
+
+## Cardiovascular Effects (Continued)
+
+- Combination of depressed cardiac function and decreased total peripheral resistance
+- Makes jaundiced patient more susceptible to development of postoperative shock
+- Than nonjaundiced patients
+
+## Renal Effects
+
+- Association between jaundice and postoperative renal failure known for many years
+- Reported incidence of postoperative acute kidney injury as high as 10%
+- Varies depending on nature of procedure
+- Mortality rate in patients with jaundice who develop renal failure reported as high as 70%
+- Important factors in development of renal failure:
+  - Depressed cardiac function
+  - Hypovolemia
+  - Bile salt-mediated effects on renal FXR and TGR5 receptors
+  - Endotoxemia
+
+## Renal Effects (Continued)
+
+- Decreased cardiac function leads to decrease in renal perfusion
+- Decreased cardiac output may result in stretching of atrium
+- Increased production of atrial natriuretic peptide (ANP)
+- ANP causes:
+  - Natriuresis
+  - Counters action of water- and sodium-retaining hormones
+  - Inhibits thirst mechanism
+  - Produces peripheral vasodilation
+- Plasma levels of ANP increased in experimental animals and patients with extrahepatic biliary obstruction
+
+## Renal Effects of Bile Acids
+
+- Increased serum levels of bile acids have direct diuretic and natriuretic effect on kidney
+- Results in significant extracellular volume depletion and hypovolemia
+- Infusion of bile into renal artery of dogs results in:
+  - Increased urine flow
+  - Natriuresis
+  - Kaliuresis
+- Diuretic effect may be mediated by increased prostaglandin E2 production by kidney
+- And/or by effect on FXR and TGR5 receptors
+
+## Endotoxemia and Renal Failure
+
+- Approximately 50% of patients with obstructive jaundice have endotoxin in peripheral blood
+- May be result of:
+  - Decreased hepatic clearance of endotoxin by Kupffer cells
+  - Lack of bile salts in gut lumen
+- Bile salts normally prevent absorption of endotoxins
+- Bile salts normally inhibit anaerobic bacterial growth
+- Endotoxin causes:
+  - Renal vasoconstriction
+  - Redistribution of renal blood flow away from cortex
+  - Disturbances in coagulation
+  - Activation of complement, macrophages, leukocytes, and platelets
+- Glomerular and peritubular fibrin deposited
+- Combined with reduced renal cortical blood flow
+- Results in tubular and cortical necrosis
+
+## Figure 8.4: Obstructive Jaundice Leads to Renal Impairment
+
+[Figure showing pathways from obstructive jaundice to renal impairment]
+
+- Obstructive jaundice leads to:
+  - Decreased Kupffer cell clearance
+  - Increased systemic bile salts
+  - Decreased gut bile salts
+  - Increased systemic bilirubin
+- These lead to endotoxemia
+- Endotoxemia affects cardiovascular, renal, and coagulation systems
+- Ultimately leads to renal impairment or acute renal failure
+
+## Coagulation Effects
+
+- Disturbances of blood coagulation commonly present in jaundiced patients
+- Most frequently observed abnormality: prolongation of prothrombin time
+- Results from impaired vitamin K absorption from gut
+- Secondary to lack of intestinal bile
+- Coagulopathy usually reversible with parenteral administration of vitamin K
+- Decreased bile levels in small intestine may result in diminished absorption of other fat-soluble vitamins and fats
+- Results in weight loss and loss of calcium
+- May further contribute to clotting abnormalities
+
+## Coagulation Effects (Continued)
+
+- In experimental animals, endotoxin affects metabolism of factors XI and XII
+- Causes platelet and direct endothelial damage
+- Endotoxin release in patients with jaundice results in low-grade disseminated intravascular coagulation
+- Increased fibrin degradation products
+- Patients with jaundice with circulating endotoxin or increased fibrin degradation product levels before surgery at increased risk for hemorrhagic complications
+- Patients with coexisting cirrhosis often have additional problems:
+  - Thrombocytopenia from hypersplenism
+  - Fibrinolysis
+- Portal hypertension in patients with cirrhosis exacerbates coagulation disorders
+
+## Immune System Effects
+
+- Surgery in patients with jaundice associated with higher rate of postoperative septic complications
+- Due in large measure to defects in cellular immunity
+- Makes them more prone to infection
+- Association between jaundice and altered delayed-type hypersensitivity
+- Only 16% of 118 patients with jaundice were immunocompetent
+- Compared with 76% of 59 healthy controls
+- Tested with panel of seven skin antigens
+- Ability of reticuloendothelial system to clear bacteria and endotoxin reduced in obstructive jaundice
+
+## Immune System Effects (Continued)
+
+- Studies in humans demonstrated:
+  - Decreased T-lymphocyte proliferation
+  - Decreased expression of adhesion molecules
+  - Altered monocyte functions
+- Septic manifestations in jaundiced patients result from cellular immune insufficiency
+- Induced by release of cytokines:
+  - TNF-α
+  - IL-1
+  - IL-6
+  - Interferon-γ
+- Prostaglandins and other inflammatory mediators also involved
+
+## Bacterial Translocation
+
+- Absence of bile from intestinal tract plays role in infectious complications
+- Bacterial translocation from gut increased in setting of bile duct obstruction
+- Obstruction causes disruption of enterohepatic circulation
+- Results in loss of emulsifying antientotoxin effect of bile acids
+- Larger pool of endotoxin available within intestine for absorption into portal circulation
+- Combination of reduced or absent bile in intestine and impaired cellular immunity and reticuloendothelial cell function
+- Major factor contributing to more frequent infective complications
+
+## Acute Cholangitis
+
+- Bacterial infection of biliary ductal system
+- Varies in severity from mild and self-limited to severe and life threatening
+- Clinical triad associated with cholangitis first described in 1877 by Charcot:
+  - Fever
+  - Jaundice
+  - Pain
+- Cholangitis results from combination of two factors:
+  - Significant bacterial concentrations in bile
+  - Biliary obstruction
+
+## Cholangitis Pathophysiology
+
+- Bile from gallbladder and bile ducts usually sterile
+- In presence of common bile duct stones or other obstructing pathology, incidence of positive cultures increases
+- Instrumentation of biliary tree greatly increases rates of bile colonization
+- Most common organisms recovered from bile in patients with cholangitis:
+  - Escherichia coli
+  - Klebsiella pneumoniae
+  - Enterococci
+  - Bacteroides fragilis
+- Even in presence of high biliary bacterial concentrations, clinical cholangitis and bacteremia will not develop unless obstruction causes elevated intraductal pressures
+
+## Cholangitis and Biliary Pressure
+
+- Normal biliary pressures range from 7 to 14 cm H2O
+- In presence of bacteribilia and normal biliary pressures, hepatic venous blood and perihepatic lymph are sterile
+- With partial or complete biliary obstruction, intrabiliary pressures rise to 20 to 30 cm H2O
+- Organisms rapidly appear in both blood and lymph
+- Fever and chills associated with cholangitis result from systemic bacteremia
+- Caused by cholangiovenous and cholangiolymphatic reflux
+
+## Causes of Biliary Obstruction
+
+- Most common causes:
+  - Choledocholithiasis
+  - Benign strictures
+  - Biliary-enteric anastomotic strictures
+  - Periampullary or proximal biliary cancers
+- Before 1980, choledocholithiasis cause of approximately 80% of reported cases of cholangitis
+- In recent years, malignant strictures have become frequent cause
+- Especially after placement of biliary stents
+- Endoscopic cholangiography, percutaneous transhepatic cholangiography, and stent placement known to cause bacteremia
+- Frequently performed in patients with presumptive diagnosis of malignant obstruction
+
+## Wound Healing Effects
+
+- Delayed wound healing and high incidence of wound dehiscence and incisional hernia observed in patients with jaundice undergoing surgery
+- Patients with obstructive jaundice have decreased activity of enzyme propyl hydroxylase in skin
+- Propyl hydroxylase necessary for incorporation of amino acid proline into collagen
+- Activity used as measure of collagen synthesis
+- Patients with jaundice had only 11% of skin propyl hydroxylase activity of controls
+- In subgroup with jaundice secondary to malignancy, activity less than 7% of controls
+
+## Wound Healing Effects (Continued)
+
+- With relief of obstruction, activity increased to 22% of controls
+- In patients with jaundice secondary to benign obstruction, activity increased to 100% of controls
+
+## Other Factors: Nutrition
+
+- Other problems facing patients with jaundice:
+  - Anorexia
+  - Weight loss
+  - Malnutrition
+- Appetite adversely influenced by lack of bile salts in intestinal tract
+- Patients with pancreatic or periampullary malignant lesions may have:
+  - Partial duodenal obstruction
+  - Abnormal gastric emptying
+  - Tumor infiltration of celiac nerve plexus
+- Patients with pancreatic or ampullary tumors may have pancreatic endocrine and exocrine insufficiency
+- May further compound other nutritional defects
+- May exacerbate immune deficits
+
+## Prolonged Effects of Obstructive Jaundice
+
+- Several recent observations suggest many physiologic derangements induced by obstructive jaundice take long time to reverse
+- Hepatic mitochondrial function does not return to normal even seven weeks after relief of obstruction
+- Same prolonged effect noted with:
+  - Lymphocyte function
+  - Polymorphonuclear function
+  - Kupffer cell function
+- Even patients who have had temporary relief of biliary obstruction via percutaneous or endoscopic stents likely to remain at risk for significant complications after surgery
+- Derangements in hepatic function likely still present at time of operation
+- Preoperative jaundice may adversely affect long-term survival in patients with resected pancreatic cancer
+
+## Management: Introduction
+
+- Historically, only option for relief of obstructive jaundice was operative intervention
+- With development of therapeutic techniques, many nonoperative options now available:
+  - Percutaneous stenting
+  - Endoscopic stenting
+  - Balloon dilation
+  - Endoscopic sphincterotomy
+- Surgeon must determine safest and most effective therapy for each individual patient
+- Must adequately prepare each patient for surgery or nonoperative therapeutic intervention
+
+## Management: General Considerations
+
+- Patients with obstructive jaundice and those with hepatocellular disease severe enough to cause jaundice prone to many secondary problems
+- Patients with jaundice at increased risk for:
+  - Kidney injury
+  - Gastrointestinal bleeding
+  - Infections
+  - Wound complications
+- Cardiac, pulmonary, and renal function must be considered in every patient undergoing major abdominal surgery
+- Special attention must be focused on:
+  - Nutritional status
+  - Coagulability
+  - Immune function
+  - Presence or absence of biliary sepsis
+- Complications related to portal hypertension may develop in patients with chronic liver disease and cirrhosis
+
+## Cardiopulmonary Assessment
+
+- In assessing cardiopulmonary status, consider:
+  - Patient's age
+  - History of recent myocardial infarction
+  - Presence of congestive heart failure
+  - Significant valvular heart disease
+  - Disturbance of normal cardiac rhythm
+- All have been correlated with increased operative risk
+- Patients with severe pulmonary disease may not be candidates for extensive abdominal surgery
+
+## Renal Assessment
+
+- Patients with jaundice, especially those with cirrhosis and cholangitis, at increased risk for renal insufficiency
+- Maintenance of adequate blood volume and correction of dehydration extremely important to avoid renal complications
+- Fluid management can be quite complex in patients with jaundice
+- Both excess and insufficient fluids may be problematic
+- Selected patients may benefit from invasive hemodynamic monitoring
+- To assist with goal-directed fluid management
+
+## Prevention of Renal Complications
+
+- Certain oral bile salts shown to be efficacious in preventing development of postoperative kidney injury
+- In one study, 54% of 24 patients with jaundice not given oral bile salts before surgery found to have systemic endotoxemia
+- Associated with renal impairment in two-thirds of cases
+- In comparison, none of eight patients with jaundice given 500 mg of sodium deoxycholate every eight hours for 48 hours before surgery had portal or systemic endotoxemia
+- None of these eight patients had evidence of renal impairment
+
+## Nutritional Assessment and Support
+
+- Malnutrition is significant risk factor for surgery in setting of obstructive jaundice
+- Patients who died in postoperative period after surgery for obstructive jaundice had significant reduction in:
+  - Body weight
+  - Midarm circumference
+  - Total body potassium
+  - Reactivity to skin test antigens preoperatively
+- Enteral hyperalimentation found to significantly decrease operative morbidity and mortality
+- In group treated with 20 days of preoperative percutaneous biliary drainage
+- Most patients with benign biliary problems adequately nourished
+- Various degrees of malnutrition frequently present in patients with malignant obstruction
+- Patients with malignant obstructive jaundice should be evaluated for malnutrition
+- Nutritional support instituted if necessary
+
+## Coagulation Management
+
+- Patients with obstructive jaundice, cholangitis, or cirrhosis all prone to excessive intraoperative bleeding
+- Most common clotting defect in patients with obstructive jaundice: prolongation of prothrombin time (PT)
+- Usually reversible by administration of parenteral vitamin K
+- Patients with severe jaundice and/or cholangitis also may develop disseminated intravascular coagulation (DIC)
+- May require infusion of platelets and fresh frozen plasma
+- Reversal of DIC also requires control of underlying sepsis
+- Should include biliary drainage in patients with cholangitis
+- In addition to systemic antibiotics
+
+## Coagulation Management in Cirrhotic Patients
+
+- Clotting abnormalities often multifactorial:
+  - Thrombocytopenia secondary to hypersplenism
+  - Prolongation of PT and partial thromboplastin time (PTT)
+  - Fibrinolysis
+- Vitamin K should be administered if PT is prolonged
+- If no effect seen and/or if PTT also prolonged, fresh frozen plasma should be given
+- Thrombocytopenia usually can be managed by intraoperative platelet infusions
+- If patient has shortened clot lysis time and hypofibrinogenemia, ε-aminocaproic acid may be indicated
+
+## Pruritus Management
+
+- Pruritus often distressing problem in jaundiced patient
+- Exact cause remains obscure
+- Increased circulating levels of bile salts, histamines, and central nervous system opiate receptors implicated
+- In some patients, relief from itching obtained by bile salt-binding agents such as cholestyramine
+- Various sedatives and antihistamines also can provide relief
+- Relief of biliary obstruction remains most effective method for managing pruritus
+- Improvement can occur rapidly after stent placement
+- Occasionally can take a week or so
+
+## Cholangitis Management
+
+- Biliary sepsis identified as major risk in jaundiced patients
+- Cholangitis occurs when partial or complete obstruction of bile duct exists
+- Results in increased intraluminal pressure and infected bile proximal to obstruction
+- Patients with cholangitis may present with:
+  - Right upper quadrant abdominal pain
+  - Fever
+  - Jaundice (Charcot's triad)
+- Patients with "toxic" cholangitis have Charcot's triad plus:
+  - Shock
+  - Mental confusion (Reynold's pentad)
+- Have significant mortality with appropriate antibiotic therapy alone
+- Require emergent biliary decompression
+
+## Indications for Urgent Biliary Decompression
+
+- Gigot and associates identified seven prognostic factors as indications for urgent biliary decompression:
+  1. Acute kidney injury
+  2. Liver abscess
+  3. Cirrhosis
+  4. High malignant stricture
+  5. Percutaneous transhepatic cholangiography
+  6. Female gender
+  7. Advanced age
+- Emergent surgical treatment associated with significant morbidity and mortality
+- Both percutaneous and endoscopic biliary drainage proposed as effective therapy
+- For the 5% to 10% of patients with cholangitis unresponsive to conservative therapy
+- Endoscopic drainage associated with lower morbidity (34% vs. 66%) and mortality (10% vs. 32%) than operative drainage
+
+## Preoperative Drainage
+
+- Preoperative relief of jaundice and reversal of systemic effects by endoscopic or transhepatic biliary decompression proposed as method to decrease risk of surgery
+- However, several prospective randomized studies shown routine use of preoperative biliary drainage (PBD) does not reduce operative morbidity or mortality
+- Meta-analyses concluded PBD increased (P < .001) rather than decreased overall complications from surgery
+- Drainage procedure provided no benefit in terms of reduced mortality or decreased hospital stay
+- Insufficient evidence exists to determine whether endoscopic plastic or metal stents or percutaneous transhepatic drains are better than no drainage
+- EUS-guided biliary drainage may have advantage over percutaneous drainage when ERCP fails
+
+## Table 8.3: Prospective Randomized Trials of Preoperative Biliary Drainage (PBD)
+
+| FIRST AUTHOR | TYPE OF DRAINAGE | MORTALITY, PBD | MORTALITY, NO PBD | MORBIDITY, PBD | MORBIDITY, NO PBD |
+|--------------|------------------|----------------|-------------------|----------------|-------------------|
+| Hatfield | Percutaneous | 4/29 | 4/28 | 7/29 | 4/28 |
+| McPherson | Percutaneous | 11/34 | 6/31 | 17/34 | 13/31 |
+| Pitt | Percutaneous | 3/37 | 2/38 | 30/37 | 20/38 |
+| Lai | Endoscopic | 6/43 | 6/44 | 28/43 | 18/44 |
+| Wig | Percutaneous | 1/20 | 4/20 | 12/20 | 10/20 |
+| van der Gaag | Endoscopic | 15/102 | 12/94 | 75/102 | 37/94 |
+| **Total (%)** | | **40/265 (15.1)** | **34/255 (13.3)** | **169/265 (63.8)*** | **104/255 (40.0)** |
+
+*P < .001 vs. no PBD.
+
+## Preoperative Drainage: Additional Considerations
+
+- Criticism of some prospective studies: duration of preoperative drainage (10-18 days) may have been inadequate
+- To reverse multiple metabolic and immunologic abnormalities associated with severe obstructive jaundice
+- Both animal and human studies demonstrate recovery of various metabolic and immune functions requires at least six weeks
+- Animal studies strongly suggest return of bile to intestinal tract has significant advantages over external biliary drainage
+- Although data suggest routine PBD may be of limited benefit, PBD may have value in selected patients with:
+  - Advanced malnutrition
+  - Biliary sepsis
+  - Hilar malignancies that require liver resection
+
+## Preoperative Drainage: Specific Indications
+
+- Most published data regarding PBD focus on patients with periampullary malignancy
+- Patients with proximal biliary obstruction undergoing major hepatic resection represent entirely different subgroup
+- Multicenter European study suggests those requiring right hepatectomy benefit from preoperative drainage of future liver remnant
+- In patients with perihilar cholangiocarcinoma:
+  - Percutaneous drainage associated with less cholangitis and pancreatitis compared with endoscopic drainage
+- Preoperatively placed transhepatic catheters may be of value in operating room during difficult biliary dissections
+- May aid in placement of long-term transhepatic stents
+- Preoperative drainage required in patients receiving neoadjuvant therapy
+- Metal stents have fewer problems with cholangitis at no additional cost
+- Plastic stents preferable for patients with hilar cholangiocarcinoma in whom surgery is planned
+
+## Summary
+
+- Over past few decades, tremendous strides made in understanding of bile secretion and ability to care for jaundiced patient
+- Clinicians now have better understanding of:
+  - Normal bile salt physiology
+  - Biliary lipid physiology
+  - Bilirubin physiology
+- Can classify diseases that cause jaundice as defects in normal metabolism
+- Investigators have elucidated multiple pathophysiologic effects of jaundice
+- Explain why jaundiced patients at risk for increased perioperative morbidity and mortality
+
+## Key Points: Bile Secretion
+
+- Bile secretion is major function of liver
+- Two primary roles: excretion of organic compounds and intestinal absorption of lipids
+- Water constitutes approximately 85% of bile volume
+- Major organic solutes: bilirubin, bile salts, phospholipids, cholesterol
+- Bile salts account for approximately 72% of biliary lipids
+- Phospholipids account for approximately 24% of biliary lipids
+- Cholesterol accounts for 4% of biliary lipids
+- Normal volume of bile secreted daily: 750 to 1000 mL
+
+## Key Points: Bile Composition
+
+- Hepatic and gallbladder bile have same components but different concentrations
+- Gallbladder absorbs water, sodium, chloride, bicarbonate
+- Gallbladder mucosa also absorbs calcium and magnesium
+- Calcium absorption less efficient than sodium and water
+- Leads to greater relative increase in calcium concentration
+- Bilirubin concentration may be as high as 10-fold
+- Precipitation of calcium bilirubinate crystals more likely in gallbladder
+
+## Key Points: Bile Salt Transport
+
+- Bile salt transporter NTCP exclusively expressed in liver
+- Located in basolateral membrane of hepatocyte
+- Sodium-independent hepatic uptake mediated primarily by OATPs
+- OATP-C is major sodium-independent bile salt uptake system
+- Transport across canalicular membrane is rate-limiting step
+- Bile salt concentrations 1,000-fold greater within canalicular than in hepatocytes
+- ATP-dependent process
+- ABCB11 (BSEP) plays key role
+
+## Key Points: Enterohepatic Circulation
+
+- Bile salts synthesized and conjugated in liver
+- Secreted into bile
+- Stored temporarily in gallbladder
+- Passed into duodenum
+- Absorbed throughout small intestine, especially ileum
+- Returned to liver via portal vein
+- Total bile salt pool: 2 to 4 g
+- Recycles 6 to 10 times daily
+- Only about 600 mg excreted into colon
+- Nearly 95% of bile salts reabsorbed
+
+## Key Points: Biliary Obstruction Effects
+
+- Affects multiple organ systems:
+  - Hepatic
+  - Renal
+  - Cardiovascular
+  - Hematologic
+  - Immune
+- Jaundiced patients at increased risk for:
+  - Hepatic dysfunction
+  - Renal failure
+  - Cardiovascular impairments
+  - Nutritional deficiencies
+  - Bleeding problems
+  - Infections
+  - Wound complications
+- Perioperative mortality and morbidity increased
+
+## Key Points: Hepatobiliary Effects
+
+- Bile canaliculi become dilated
+- Microvilli distorted and swollen
+- Intrahepatic bile ductule proliferation in long-standing obstruction
+- Biliary pressure can approach 30 cm H2O
+- Tight junctions disrupted
+- Bile contents reflux into liver sinusoids
+- Inflammatory response with fibrinogenesis
+- Extrahepatic bile ducts exhibit mucosal atrophy and squamous metaplasia
+
+## Key Points: Cardiovascular Effects
+
+- Obstructive jaundice causes hemodynamic and cardiac disturbances
+- Bile duct ligation:
+  - Decreases cardiac contractility
+  - Reduces left ventricular pressures
+  - Impairs response to β agonist drugs
+  - Decreases peripheral vascular resistance
+- Negative correlation between serum bilirubin and left ventricular systolic work
+- Internal biliary drainage associated with increased cardiac output, compliance, and contractility
+- Jaundiced patient more susceptible to postoperative shock
+
+## Key Points: Renal Effects
+
+- Postoperative acute kidney injury incidence as high as 10%
+- Mortality rate in patients with jaundice who develop renal failure as high as 70%
+- Factors in development of renal failure:
+  - Depressed cardiac function
+  - Hypovolemia
+  - Bile salt-mediated effects on renal FXR and TGR5 receptors
+  - Endotoxemia
+- Approximately 50% of patients with obstructive jaundice have endotoxin in peripheral blood
+- Endotoxin causes renal vasoconstriction and redistribution of renal blood flow
+
+## Key Points: Coagulation Effects
+
+- Most frequently observed abnormality: prolongation of prothrombin time
+- Results from impaired vitamin K absorption
+- Usually reversible with parenteral vitamin K
+- Endotoxin release results in low-grade disseminated intravascular coagulation
+- Increased fibrin degradation products
+- Patients with circulating endotoxin or increased fibrin degradation products at increased risk for hemorrhagic complications
+- Patients with coexisting cirrhosis have additional problems
+
+## Key Points: Immune System Effects
+
+- Surgery in patients with jaundice associated with higher rate of postoperative septic complications
+- Defects in cellular immunity make them more prone to infection
+- Only 16% of patients with jaundice immunocompetent vs. 76% of controls
+- Decreased T-lymphocyte proliferation
+- Decreased expression of adhesion molecules
+- Altered monocyte functions
+- Bacterial translocation from gut increased in bile duct obstruction
+- Loss of emulsifying antientotoxin effect of bile acids
+
+## Key Points: Cholangitis
+
+- Bacterial infection of biliary ductal system
+- Charcot's triad: fever, jaundice, pain
+- Results from bacterial concentrations in bile and biliary obstruction
+- Most common organisms:
+  - Escherichia coli
+  - Klebsiella pneumoniae
+  - Enterococci
+  - Bacteroides fragilis
+- Clinical cholangitis and bacteremia will not develop unless obstruction causes elevated intraductal pressures
+- Normal biliary pressures: 7 to 14 cm H2O
+- With obstruction, pressures rise to 20 to 30 cm H2O
+- Organisms rapidly appear in blood and lymph
+
+## Key Points: Wound Healing
+
+- Delayed wound healing and high incidence of wound dehiscence and incisional hernia
+- Decreased activity of propyl hydroxylase in skin
+- Propyl hydroxylase necessary for incorporation of proline into collagen
+- Patients with jaundice had only 11% of skin propyl hydroxylase activity of controls
+- In patients with jaundice secondary to malignancy, activity less than 7% of controls
+- With relief of obstruction, activity increased to 22% of controls
+- In patients with benign obstruction, activity increased to 100% of controls
+
+## Key Points: Management
+
+- Many nonoperative options now available for relief of obstructive jaundice:
+  - Percutaneous stenting
+  - Endoscopic stenting
+  - Balloon dilation
+  - Endoscopic sphincterotomy
+- Surgeon must determine safest and most effective therapy for each patient
+- Special attention to:
+  - Nutritional status
+  - Coagulability
+  - Immune function
+  - Presence or absence of biliary sepsis
+- Routine preoperative biliary drainage does not reduce operative morbidity or mortality
+- May have value in selected patients
+
+## Key Points: Preoperative Drainage
+
+- Several prospective randomized studies shown routine PBD does not reduce operative morbidity or mortality
+- Meta-analyses concluded PBD increased overall complications from surgery
+- No benefit in terms of reduced mortality or decreased hospital stay
+- PBD may have value in selected patients with:
+  - Advanced malnutrition
+  - Biliary sepsis
+  - Hilar malignancies requiring liver resection
+- Preoperative drainage required in patients receiving neoadjuvant therapy
+- Metal stents have fewer problems with cholangitis
+- Plastic stents preferable for patients with hilar cholangiocarcinoma in whom surgery is planned
+
+## Conclusion
+
+- Tremendous strides made in understanding bile secretion and care of jaundiced patient
+- Better understanding of normal bile salt, biliary lipid, and bilirubin physiology
+- Can classify diseases that cause jaundice as defects in normal metabolism
+- Multiple pathophysiologic effects of jaundice elucidated
+- Explain why jaundiced patients at risk for increased perioperative morbidity and mortality
+- Management requires careful assessment of multiple organ systems
+- Selection of appropriate therapeutic interventions based on individual patient characteristics

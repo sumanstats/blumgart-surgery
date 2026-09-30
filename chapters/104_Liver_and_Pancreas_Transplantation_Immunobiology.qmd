@@ -7,6 +7,10 @@
 
 {{< reveal 104_Liver_and_Pancreas_Transplantation_Immunobiology >}}
 
+## Deepseek
+
+{{< reveal Extras/transplant/chap104_deepseek >}}
+
 ## Immunology Surgery Oxford
 
 {{< reveal Extras/transplant/immunology_transplant_surg_oxford >}}
