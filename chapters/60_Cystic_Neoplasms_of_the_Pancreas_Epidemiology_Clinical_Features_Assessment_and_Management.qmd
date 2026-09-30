@@ -1,12 +1,14 @@
 # 60 Cystic Neoplasms of the Pancreas: Epidemiology, Clinical Features, Assessment, and Management
 
 
-```{r}
-#| echo: false
-#| results: asis
+::: {.panel-tabset}
 
-slides_iframe(600)
-```
+## Deepseek
+
+{{< reveal 60_Cystic_Neoplasms_of_the_Pancreas_Epidemiology_Clinical_Features_Assessment_and_Management >}}
+
+:::
+
 
 Generated with Claude. 
 

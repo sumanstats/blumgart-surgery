@@ -6,544 +6,607 @@ format:
     theme: dark
 ---
 
-## Introduction & Epidemiology {.smaller}
+## Introduction: Rising Diagnosis
+- Cystic neoplasms of the pancreas are now a well-defined radiographic entity
+- Increased use of cross-sectional imaging, better imaging quality, and aging population
+- Diagnosis rate: estimated 2.6 cystic lesions per 100 individuals per year
+- Detection by modality:
+  - Abdominal ultrasonography: 0.21%
+  - Computed tomography: 2.6%
+  - MRI/MRCP: 2.4% to 49.1%
+  - Autopsy studies: up to 50%
 
-- Cystic neoplasms have become a well-defined radiographic entity
-- **Estimated incidence:** 2.6 cystic lesions per 100 individuals per year
-- Detection rates vary by modality:
-  - Abdominal US: **0.21%**
-  - CT: **2.6%**
-  - MRI/MRCP: **2.4% – 49.1%**
-  - Autopsy studies: up to **50%**
+## Classification of Pancreatic Cysts
+- WHO classification: neoplastic vs nonneoplastic
+- Neoplastic cysts: intraductal papillary mucinous neoplasms, mucinous cystic neoplasms, serous cystadenomas, solid pseudopapillary neoplasms
+- Nonneoplastic cysts: pseudocysts
+- Neoplastic cysts further categorized:
+  - Mucin-producing: IPMNs, MCNs
+  - Nonmucin-producing: SCAs, SPTs
+- Mucinous cysts are malignant precursor lesions, lined by endoderm-derived columnar epithelium
+- Nonmucinous cysts are lined by simple cuboidal epithelium
 
-::: {.callout}
-The diagnosis rate has increased due to better imaging quality, increased cross-sectional imaging use, and an aging population.
-:::
+## Diagnostic Challenge and Management Shift
+- Ability to differentiate neoplastic pancreatic cystic neoplasms without resection continues to evolve
+- Serous cysts often differentiated from mucinous cysts by cross-sectional imaging and EUS with cyst fluid analysis
+- Next-generation sequencing of pancreatic cyst fluid helps distinguish cyst types and predict invasive carcinoma risk
+- Cystic lesions remain a diagnostic challenge
+- Increasing incidence and differential diagnosis
+- Management has changed to selective resection based on clinicopathologic variables and natural history
 
----
+## Clinicopathologic Variables: Pseudocysts
+- Majority of patients with pancreatic cysts have nonneoplastic inflammatory pseudocysts
+- Develop as a complication of acute pancreatitis
+- Pseudocyst: fluid collection devoid of an epithelial lining
+- Reported in as many as 50% of patients who experience acute pancreatitis
+- Up to 20% of unexplained pancreatitis occurs because of cystic neoplasms
+- Consider cystic neoplasm in differential diagnosis of incidental cyst associated with pancreatitis
+- Pseudocysts managed with observation, endoscopic drainage, or operative drainage
 
-## Classification (WHO) {.smaller}
+## Clinicopathologic Variables: Cystic Neoplasms
+- Cystic neoplasms make up approximately 10% to 15% of cystic lesions of the pancreas
+- Heterogeneous group ranging from benign to malignant
+- Cystic lesions with risk of invasive carcinoma: IPMNs and MCNs
+- SPTs and SCAs have very low risk for invasive carcinoma
+- Other benign cystic lesions: lymphoepithelial cysts, simple cysts, mucinous nonneoplastic cysts
+- Most common cystic neoplasms encountered by surgeons: IPMNs, MCNs, SCAs
+- Massachusetts General Hospital study of 851 resected pancreatic cystic neoplasms: these three lesions made up 77% of all lesions
 
-- **Neoplastic cysts**
-  - **Mucin-producing:** IPMNs, MCNs
-  - **Non-mucin producing:** SCAs, SPTs
-- **Non-neoplastic cysts**
-  - Pseudocysts (no epithelial lining)
-- Mucinous cysts = **malignant precursor lesions**
-  - Lined by endoderm-derived columnar epithelium
-- Non-mucinous cysts = generally benign
-  - Lined by simple cuboidal epithelium
+## Table 60.1: Common Cystic Neoplasms (Part 1)
+| Feature | IPMN-BD | IPMN-MD | MCN |
+|---|---|---|---|
+| Age of presentation | 5th to 7th decade | 5th to 7th decade | 4th to 5th decade |
+| Gender distribution | Equal | Equal | Female > male |
+| Imaging characteristics | Macrocystic, grape-like cystic lesion; unilocular or multilocular | Segmental or diffuse dilation of main pancreatic duct | Macrocystic, unilocular body/tail location; peripheral calcification |
+| Macroscopic features | Mucin-producing epithelium with papillae | Mucin-producing epithelium with papillae | Tall columnar mucin-producing epithelium; ovarian-type stroma |
+| Connection with MPD | Yes | Yes | No |
+| Invasive or HGD potential | 12%-30% | 36%-100% | 10%-50% |
+| Cyst fluid analysis | Mucin, high CEA, GNAS frequently mutated, RNF43 mutated | Mucin, high CEA, GNAS frequently mutated, RNF43 mutated | Mucin, high CEA, GNAS wild, RNF43 mutated |
 
-::: {.callout}
-Up to 20% of unexplained pancreatitis occurs because of cystic neoplasms. Pseudocysts develop in up to 50% of patients with acute pancreatitis.
-:::
+## Table 60.1: Common Cystic Neoplasms (Part 2)
+| Feature | SCA | SPT | Pseudocyst |
+|---|---|---|---|
+| Age of presentation | 5th to 7th decade | 2nd to 3rd decade | 4th to 5th decade |
+| Gender distribution | Female > male | Female > male | Equal |
+| Imaging characteristics | Microcystic honeycomb pattern; stellate scar | Macrocystic, solid and cystic; areas of hemorrhage | Unilocular; associated with pancreatitis |
+| Macroscopic features | Clear cytoplasm, well-defined borders, uniform nuclei, glycogen-rich cells | Solid sheets of variable cells | No epithelial lining |
+| Connection with MPD | No | No | Common |
+| Invasive or HGD potential | Negligible | 10%-15% | 0% |
+| Cyst fluid analysis | Serous, very low CEA, VHL gene mutated, RNF43 wild | Bloody, necrotic debris | Nonmucinous, high amylase, low viscosity, dark, low CEA |
 
----
+## Table 60.1: Abbreviations
+- BD: branch duct
+- CEA: carcinoembryonic antigen
+- HGD: high-grade dysplasia
+- IPMN: intraductal papillary mucinous neoplasm
+- MCN: mucinous cystic neoplasm
+- MD: main duct
+- MPD: main pancreatic duct
+- SCA: serous cystadenoma
+- SPT: solid pseudopapillary tumor
 
-## Overview of Common Cystic Neoplasms
+## Serous Cystadenomas: Background
+- First characterized by Compagno and Oertel in 1978 as microcystic and glycogen-rich
+- Seminal distinction of SCAs from mucinous cysts such as MCNs and IPMNs
+- Around half of patients with SCAs are found incidentally
+- Symptoms: abdominal pain, palpable mass, weight loss
+- Symptoms usually related to mass effect
+- Jaundice due to bile duct compression is infrequent
+- SCAs can be associated with von Hippel-Lindau disease
+- Reported in 2.7% to 9.5% of patients with VHL
+- VHL-associated SCAs: diagnosed at younger age around 25 years; benign course
 
-<div style="overflow-x:auto; font-size: 0.70em;">
+## SCA: Morphology and Imaging
+- Morphologic varieties: microcystic, macrocystic or oligocystic, mixed microcystic/macrocystic, and solid SCA
+- Grossly: septations, thick fibrous walls, innumerable small cysts containing clear thin fluid
+- Microcystic SCAs often have classic honeycomb appearance
+- May have calcified central scar with or without hemorrhage
+- Septa may centrally coalesce into characteristic stellate scar
+- Stellate scar with or without calcification is pathognomonic for SCA
+- Oligocystic appearance: single large cyst; difficult to distinguish from mucinous lesions
+- Solid component often visualized due to fibrous nature; if other SCA features present, not concerning for invasive carcinoma
 
-| Feature | IPMN-BD | IPMN-MD | MCN | SCA | SPT |
-|---------|---------|---------|-----|-----|-----|
-| **Age** | 5th–7th decade | 5th–7th decade | 4th–5th decade | 5th–7th decade | 2nd–3rd decade |
-| **Gender** | Equal | Equal | Female > Male | Female >> Male | Female >> Male |
-| **Location** | Head/uncinate | Diffuse/segmental | Body/tail | Any | Tail/body |
-| **MPD Connection** | Yes | Yes | No | No | No |
-| **Malignant Potential** | 12%–30% | 36%–100% | 10%–50% | Negligible | 10%–15% |
-| **Key Marker** | GNAS mut | GNAS mut | RNF43 mut | VHL mut | CTNNB1 mut |
+## SCA: Malignant Potential
+- SCAs generally considered benign lesions
+- Serous cystadenocarcinoma is extremely uncommon; about 30 cases reported
+- Many reported malignant SCAs were locally invasive
+- Only 14 of 30 cases 46.6% had evidence of metastasis
+- Despite metastasis, long-term prognosis was excellent
+- True incidence of invasive carcinoma within SCAs appears much less than 1%
+- Multinational study of 2622 patients with SCAs: 61% underwent surgical resection; only 0.1% diagnosed with serous cystadenocarcinoma
+- More common problem: local invasion causing early satiety, obstructive jaundice, and pain
+- Large lesions more likely symptomatic
+- Risk of invasive carcinoma associated with female gender, older age at detection, and larger cyst size >10 cm
 
-</div>
+## Mucinous Cystic Neoplasms: Definition
+- MCNs are mucin-producing cystic tumors
+- Lack communication with the pancreatic duct
+- Contain mucin-producing columnar epithelium
+- Ovarian-like stroma surrounding columnar epithelium is pathognomonic
+- Presumed reason MCNs are almost exclusively found in females
+- Ovarian stroma shared with mucinous cysts of ovary and liver
+- MCNs classified separately from IPMNs by WHO since 1996
 
+## MCN: Clinical and Imaging Features
+- Most commonly found in body and tail of pancreas
+- Size ranges from small 2 cm to large 25 cm
+- Many MCNs discovered incidentally
+- Symptoms: abdominal pain, nausea or vomiting, back pain, recurrent pancreatitis, rarely jaundice
+- Any macrocystic lesion in distal pancreas of a female patient should be highly suspicious for MCN
+- Often unilocular but may contain septa
+- Multilocular lesions typically macrocystic, in contrast to SCAs which are microcystic
+- Peripheral eggshell calcifications best demonstrated on noncontrast CT
+- Mural nodularity concerning for invasion
+- Gross: round, smooth surface, fibrous pseudocapsule
 
-<small>This table summarizes the key clinicopathologic variables. MCNs are distinguished by ovarian-type stroma and are almost exclusively found in females.</small>
-
-
----
-
-## Serous Cystadenomas (SCAs) {.smaller}
-
-- First characterized by Compagno & Oertel in **1978**
-- **~50% found incidentally**
-- Symptoms (when present): abdominal pain, palpable mass, weight loss, early satiety
-- **Morphologic varieties:**
-  - Microcystic (classic honeycomb appearance)
-  - Macrocystic / oligocystic
-  - Mixed
-  - Solid
-
-::: {.callout}
-SCAs can be associated with von Hippel-Lindau (VHL) disease, generally diagnosed at younger age (~25 years) and have a benign course.
-:::
-
----
-
-## SCAs: Imaging & Pathology {.smaller}
-
-- **Pathognomonic finding:** Central "stellate scar" with or without calcification
-- Septations and thick fibrous walls with innumerable small cysts
-- **Macrocystic/oligocystic variants** can mimic mucinous lesions
-- Solid component may be visualized due to fibrous nature — **not necessarily malignant**
-- **Serous cystadenocarcinoma is extremely rare** (< 1% true incidence)
-  - Only ~30 cases reported in literature
-  - Even with metastasis, long-term prognosis is excellent
-
-::: {.callout}
-In a multinational study of 2622 patients with SCAs, only 0.1% had serous cystadenocarcinoma. The more common problem is local invasion causing symptoms.
-:::
-
----
-
-## SCAs: Management {.smaller}
-
-::: {.callout}
-Conservative Approach is Standard
-:::
-
-- Asymptomatic patients: **follow radiographically**
-- Resection reserved for:
-  - Symptomatic patients
-  - Significant growth / large lesions
-  - Diagnostic dilemma
-  - Concern for invasive carcinoma (rare)
-- Growth rate ~0.6 cm/year (higher in lesions >4 cm)
-- **Risk of invasive carcinoma < 1%** — surgical risk exceeds cancer risk
-
-::: {.callout}
-Decisions for large SCAs should be individualized based on age, tumor location, and comorbidities. Function-preserving minimally invasive resection may be considered in young, healthy patients.
-:::
-
----
-
-## Mucinous Cystic Neoplasms (MCNs) {.smaller}
-
-- **Mucin-producing cystic tumors** lacking communication with pancreatic duct
-- **Pathognomonic:** Ovarian-like stroma surrounding columnar epithelium
-- **Almost exclusively found in females**
-- Most common in **body and tail** of pancreas
-- Size range: 2 cm to 25 cm
-- Often discovered incidentally; symptoms include pain, nausea, back pain, pancreatitis
-
-::: {.callout}
-Any macrocystic lesion in the distal pancreas of a female patient should be highly suspicious for MCN. May have peripheral "eggshell" calcifications.
-:::
-
----
-
-## MCNs: Malignant Potential & Management {.smaller}
-
-- **Risk of invasive carcinoma: 10%–50%**
-- Concerning features:
+## MCN: Invasive Risk and Prognosis
+- MCNs have risk for harboring invasive carcinoma
+- Rates of invasive disease range from 10% to 50%
+- May be underestimate because benign and malignant epithelium may coexist
+- Extensive pathologic evaluation is critical for accurate diagnosis
+- Multicenter US analysis: overall rate of invasive carcinoma in MCN lesions up to 15%
+- Factors associated with invasive risk:
   - Male gender
-  - Pancreatic head/neck location
-  - Larger size
-  - **Mural nodules**
+  - Pancreatic head and neck location
+  - Larger MCN
+  - Mural nodules
   - Duct dilation
-- **5-year disease-specific survival with invasive carcinoma:** 57%–64%
+- Natural history not well defined due to rarity
+- 5-year disease-specific survival for invasive carcinoma: 57% to 64%
 
-::: {.callout}
-<div class="callout-title">Treatment Recommendations</div>
-- **IAP 2012:** Resection for all MCNs regardless of size
-- **European 2018:** Resection if ≥4 cm, mural nodules, or symptoms
-- Small asymptomatic MCNs (<4 cm) may be followed every 6 months
-:::
+## IPMN: Definition and Epidemiology
+- IPMNs are epithelial tumors arising from main pancreatic duct or branch ducts
+- Cause ductal dilation from mucin production
+- Unified diagnosis by WHO in 1996
+- Increasing identification of asymptomatic cystic lesions with high-quality cross-sectional imaging
+- Significant percentage of incidentally discovered cysts are IPMNs
+- IPMNs occur equally in men and women
+- More often found in older individuals; peak incidence 50 to 70 years
+- IPMNs represent approximately 15% to 30% of cystic neoplasms in large series
+- Early reports may have mixed IPMN and MCN; interpret with caution
 
-::: {.callout}
-No surveillance needed after resection of noninvasive MCN — unlike IPMN, there is no lifelong follow-up required. This favors resection in young patients.
-:::
+## IPMN: Radiographic Classification
+- IPMN believed to involve entire pancreas
+- Radiographically detectable disease may involve main duct alone, branch ducts alone, or both
+- Main-duct IPMN: diffuse or segmental dilatation of main pancreatic duct >5 mm without other obstruction
+- Branch-duct IPMN: communication with main pancreatic duct without significant main duct dilation
+- BD-IPMN may be unilocular, multilocular, with septations or mural nodularity
+- Without septations, mural nodules, or solid component, BD-IPMN may be indistinguishable from retention cysts, MCNs, small cystic endocrine tumors, or pseudocysts
+- Mixed IPMN: branch-duct dilation associated with main-duct dilation >5 mm
 
----
+## IPMN: Malignant Risk by Subtype
+- Radiographic subtype is one of strongest predictors of high-grade dysplasia or invasive cancer
+- MD-IPMN:
+  - Up to 60% are malignant high-grade dysplasia and invasive cancer
+  - Up to 45% have invasive adenocarcinoma
+  - Generally, patients with MD-IPMN should undergo resection
+- BD-IPMN:
+  - Invasive carcinoma or high-grade dysplasia reported in 12% to 30% of resected patients
+- Mixed IPMN:
+  - Rates of invasive carcinoma or high-grade dysplasia generally between BD-IPMN and MD-IPMN
+- This classification forms backbone of IPMN management paradigm
 
-## Intraductal Papillary Mucinous Neoplasms (IPMNs) {.smaller}
+## IPMN: Histologic Subtypes
+- Gastric type: papillae often mingled with tubular glands resembling pyloric glands
+- Intestinal type: villous papillae; tall columnar cells; pseudostratified cigar-shaped nuclei; basophilic cytoplasm; variable apical mucin
+- Pancreatobiliary type: complex branching papillae; columnar cells with marked atypical nuclei; neutral or basophilic cytoplasm
+- Oncocytic type: arborizing papillae; cells with enlarged round nuclei; eosinophilic cytoplasm due to abundant mitochondria
+- Classification based on histologic appearance, mucin gene expression, and tissue architecture
+- Each subtype exhibits a particular risk of invasive carcinoma
 
-- Epithelial tumors arising from main or branch pancreatic ducts
-- Cause ductal dilation from **mucin production**
-- Classified by **radiographic subtype:**
-  - **Main-duct (MD-IPMN):** Diffuse or segmental MPD dilation >5 mm
-  - **Branch-duct (BD-IPMN):** Communication with MPD without significant MPD dilation
-  - **Mixed:** Both branch-duct and main-duct dilation
+## IPMN: Dysplasia Grading
+- Revised classification system and Baltimore consensus recommendations
+- IPMNs graded as:
+  - Low-grade dysplasia
+  - High-grade dysplasia
+  - Invasive carcinoma
+- Multiple degrees of dysplasia can coexist in a resected IPMN specimen
+- Pathologists generally report the highest grade of dysplasia in the resected lesion
+- Accurate grading is important for prognosis and management
 
-::: {.callout}
-IPMNs represent 15%–30% of all cystic neoplasms. Peak incidence between 50–70 years. Occurs equally in men and women, unlike MCNs.
-:::
+## IPMN-Associated Cancer: Incidence
+- Invasive carcinoma arising from IPMN is well documented
+- Invasive cancer found in 20% to 50% of resected IPMN specimens
+- Japanese series of 1404 patients with BD-IPMN:
+  - Overall incidence of invasive carcinoma: 3.3% at 5 years, 6.6% at 10 years, 15.0% at 15 years
+- Massachusetts General Hospital study:
+  - Rate of high-grade or invasive cancer: 5.5%
+  - Invasive cancer developed in 4.4%
+- Patients with IPMN are at increased risk for conventional pancreatic ductal adenocarcinoma elsewhere in pancreas: 1% to 8%
 
----
-
-## IPMN: Radiographic Subtypes & Risk {.smaller}
-
-| Subtype | Malignancy Risk | Invasive Cancer |
-|---------|----------------|-----------------|
-| **MD-IPMN** | ~60% (HGD + invasive) | ~45% |
-| **Mixed IPMN** | Intermediate | Intermediate |
-| **BD-IPMN** | 12%–30% | Lower |
-
-- **Morphologic subtypes:** Gastric, Intestinal, Pancreatobiliary, Oncocytic
-- Each subtype exhibits particular risk of invasive carcinoma
-- Histologic grading: **Low-grade dysplasia → High-grade dysplasia → Invasive carcinoma**
-
-::: {.callout}
-The radiographic classification forms the backbone of management. MD-IPMN generally warrants resection due to high malignant potential.
-:::
-
----
-
-## IPMN-Associated Cancer {.smaller}
-
-
-- Invasive cancer found in **20%–50%** of resected IPMN specimens
-- BD-IPMN cumulative incidence of invasive carcinoma:
-  - 5 years: **3.3%**
-  - 10 years: **6.6%**
-  - 15 years: **15.0%**
-- **Risk factors for invasive cancer**
-
-  ::: {.columns}
-
-  ::: {.column width="50%"}
+## IPMN-Associated Cancer: Risk Factors
+- Symptoms at presentation:
   - Jaundice
   - Pancreatitis
   - New-onset diabetes
-  - Cyst size ≥3 cm
-  - Mural nodules
-  :::
+- Larger lesions: cyst size ≥3 cm
+- Abrupt change in caliber of pancreatic duct with distal pancreatic atrophy
+- Mural nodules
+- Main-duct dilation
+- Cyst growth over time
+- Elevated serum CA19-9 levels
 
-  ::: {.column width="50%"}
-  - Main-duct dilation
-  - Abrupt duct caliber change with distal atrophy
-  - Elevated serum CA 19-9
-  :::
+## IPMN-Associated Cancer: Prognosis
+- Reported 5-year survival for IPMN-associated invasive cancer: 43% to 60%
+- Compared with ductal adenocarcinoma: 15% 5-year survival after resection
+- Poultsides et al. Johns Hopkins experience:
+  - IPMN-associated cancers had lower rates of advanced T stage and lymph node metastasis
+  - Ductal adenocarcinoma more often had high-grade lesions, perineural invasion, vascular invasion, and positive margins
+  - If adverse tumor-related factors present, outcome similar to ductal adenocarcinoma
+- Improved outcome of IPMN-associated cancer may be due to earlier stage at resection
+- Findings confirmed in meta-analysis of 12 comparative studies
 
-  :::
+## IPMN-Associated Cancer: Variants
+- Colloid-subtype invasive IPMN: significantly better survival than conventional pancreatic carcinoma and invasive tubular IPMN
+- Tubular-variant and lymph node involvement: negative prognostic factors
+- Conventional adenocarcinoma: more often obstructive jaundice, perineural/vascular invasion, regional lymph node metastasis
+- Pooled analysis:
+  - Tubular adenocarcinoma had poor overall survival HR 1.90 compared with colloid carcinoma
+  - Survival similar to pancreatic ductal adenocarcinoma
 
-::: {.callout}
-Patients with IPMN also have 1%–8% risk of developing conventional pancreatic ductal adenocarcinoma elsewhere in the pancreas.
-:::
-
-
----
-
-## Prognosis of IPMN-Associated Cancer {.smaller}
-
-
-- **5-year survival:** 43%–60% (better than conventional ductal adenocarcinoma at ~15%)
-- Improved outcome likely due to **earlier stage at resection**
-- **Colloid subtype** has significantly better survival than tubular subtype
-- **Negative prognostic factors:**
-  - Tubular-variant histology
-  - Lymph node involvement
-  - Perineural/vascular invasion
-  - Positive margins
-
-
-::: {.callout}
-If adverse tumor factors are present, outcome is similar to conventional ductal adenocarcinoma. The survival advantage is primarily stage-related.
-:::
-
----
-
-## Genetics of IPMN {.smaller}
-
-- **Shared mutations with pancreatic cancer:**
+## Genetics of IPMN
+- Shares many molecular alterations with pancreatic cancer:
   - KRAS mutations
   - Loss of p16
   - TP53 mutations
-- **Key differences from pancreatic cancer:**
-  - **SMAD4/DPC4 preserved** in virtually all noninvasive IPMNs
-  - **GNAS mutations** in up to 66% of IPMNs — **not found** in other cyst types or non-IPMN adenocarcinomas
-- **Mutation patterns predict histology:**
-  - **Colloid carcinoma:** GNAS predominant, KRAS uncommon
-  - **Tubular carcinoma:** KRAS predominant, GNAS uncommon
+- Key differences:
+  - SMAD4/DPC4 inactivated in more than half of pancreatic adenocarcinomas
+  - SMAD4/DPC4 preserved in virtually all noninvasive IPMNs
+  - Lost in only 10% of colloid cancers arising in intestinal-type IPMN
+  - GNAS mutations described in as many as 66% of IPMNs
+  - GNAS mutations not found in other pancreatic cystic neoplasms or invasive adenocarcinomas not associated with IPMN
+- GNAS mutations predominant in colloid carcinoma; KRAS uncommon
+- KRAS mutations much more common in tubular carcinoma; GNAS uncommon
+- Concomitant pancreatic adenocarcinoma tends to develop in pancreas with IPMNs with wild-type GNAS, regardless of BD- or MD-IPMN subtype
+- Whole-exome sequencing: IPMNs had alterations of RNF43, GNAS, or KRAS; never VHL or CTNNB1
+- Molecular genetic analysis combined with clinical and radiologic data improves diagnosis and may predict progression
 
-::: {.callout}
-Whole-exome sequencing shows IPMNs have alterations of RNF43, GNAS, or KRAS, and never VHL or CTNNB1. Molecular analysis improves diagnostic accuracy when combined with clinical and radiologic data.
-:::
+## Diagnostic Evaluation: Cross-Sectional Imaging
+- High-quality cross-sectional imaging is key to diagnostic evaluation
+- Multidetector CT allows thin-section imaging of pancreas
+- Most common method for evaluation of pancreatic cysts
+- Pancreatic protocol CT:
+  - Carefully delineates and characterizes pancreatic parenchyma near cystic lesion
+  - Critical in assessing for radiographically occult invasive cancer causing adjacent pancreatic duct dilation
+  - Allows evaluation of septations, mural nodules, and calcifications
+- MRCP:
+  - Defines cyst morphology
+  - May be better than CT for determining connection with pancreatic duct, enhancing mural nodule, or internal septations
+- Secretin-enhanced MRCP improves visualization of connection between pancreatic cyst and main pancreatic duct
 
----
+## Diagnostic Evaluation: EUS
+- EUS is adjunct to other imaging modalities if pancreas cyst has concerning or radiologic features
+- Also used to obtain cyst fluid for cytology and biochemical analysis
+- Procedure is operator dependent; expertise valuable
+- Distinction between mucin clots or debris and mural nodules is clinically important
+- Contrast-enhanced EUS:
+  - One of most accurate diagnostic modalities for discrimination
+  - Characterizes vascularity by detecting signals from microbubbles in vessels after IV contrast
 
-## Diagnostic Evaluation: Imaging {.smaller}
+## Diagnostic Evaluation: Confocal Laser Endomicroscopy
+- New promising technique to differentiate pancreatic cyst types
+- Shows real-time visualization of pancreatic cyst with microscopic detail
+- Endoscopic probe introduced through a 19-gauge needle
+- Each pancreatic cyst type has specific imaging pattern:
+  - SCA: superficial vascular network or fern pattern is highly specific
+  - MCN: single or multiple layers of epithelium without papillary configuration, called epithelial bands
+  - IPMN: finger-like papillae is characteristic
 
-- **Multidetector CT:** Most common method; evaluates septations, mural nodules, calcifications
-- **MRCP:** Better than CT for:
-  - Duct connection
+## Cyst Fluid Analysis
+- EUS-fine-needle aspiration is low-risk; complication rate 2% to 3%
+- Markers evaluated: CA19-9, CEA, CA15-3, mucin proteins, KRAS, amylase
+- Brugge et al.: cyst fluid CEA >192 ng/mL best predictor of mucinous lesion
+- Accurately defined mucinous lesions in 79% of cases
+- Cyst fluid CEA elevation plus extracellular mucin: positive predictive value up to 85%
+- SCAs and pancreatic retention cysts uniformly have undetectable CEA
+- CEA measurement does not predict presence of invasive disease
+- Cyst fluid glucose: potential biomarker for mucinous pancreatic cyst
+  - Similar diagnostic accuracy to standard CEA, amylase, and cytology
+  - Improved efficiency
+- Cyst fluid amylase:
+  - Low amylase useful to exclude pseudocyst
+  - High amylase not helpful; may be found in SCAs, IPMNs, and MCNs
+- Cytology limitations: small volume, low cellular content, contamination with mucin and mucin-producing cells from stomach or duodenum
+- Through-the-needle forceps device: investigational approach for EUS-guided tissue acquisition
+
+## Molecular Markers and CompCyst
+- Molecular events leading to cyst formation: KRAS mutation, p53 mutation, loss of p16 and SMAD4
+- Mutations or deletions in SMAD4, CDKN2A, TP53, PIK3CA and/or PTEN associated with advanced neoplasia
+- KRAS mutation followed by allelic loss initially felt strongly predictive of malignant cyst
+- Validation studies mixed:
+  - KRAS mutation alone: high specificity but very low sensitivity at 11%
+  - Molecular analysis alone lower sensitivity 76.5% vs CEA measurement alone detecting 82.4% of mucinous lesions
+- Novel murine monoclonal antibody Das-1: high sensitivity and specificity for high-risk and invasive carcinoma
+- CompCyst machine-learning method:
+  - Integrates clinical symptoms, imaging, and genetic mutations from cyst fluid
+  - Mutations include KRAS, GNAS, RNF43, CDKN2A, CTNNB1, TP53, BRAF, VHL, PIK3CA
+  - Diagnoses and determines likely best course of action
+  - More accurate than management dictated by conventional clinical and imaging criteria alone
+  - Potential to reduce patient morbidity and economic costs
+
+## Box 60.1: Indications for EUS Evaluation
+- European 2018:
+  - If EUS changes clinical management
+  - Cyst clinical or radiologic features of concern identified during initial investigation or surveillance
+- IAP 2017:
+  - Growth rate ≥5 mm over 2 years
+  - Increased levels of serum CA19-9
+  - MPD dilatation between 5 and 9 mm
+  - Cyst diameter ≥3 cm
+  - Acute pancreatitis caused by IPMN
+  - Enhancing mural nodule <5 mm
+  - Abrupt change in caliber of MPD with distal pancreatic atrophy
+  - Lymphadenopathy
+  - Thickened/enhancing cyst walls
+
+## Treatment Principles
+- If histopathology of cystic neoplasm can be diagnosed by clinical and imaging criteria:
+  - Treatment recommendations should be based on known behavior of that specific histologic entity
+- In some instances, most often small cysts:
+  - Exact histopathologic diagnosis cannot be determined without formal pancreatectomy
+- Under these circumstances:
+  - Treatment recommendations based on radiographic and inferred histopathology after comprehensive diagnostic evaluation
+
+## Treatment: Serous Cystadenoma
+- When radiographic and/or endoscopic findings characteristic of SCA:
+  - Resection reserved for young patients with significant growth
+  - Clearly symptomatic lesions
+  - Prevention of complications related to occlusion of splenic and/or portal veins
+- Asymptomatic patients: risk of invasive carcinoma less than 1%
+- Risk associated with pancreatectomy much greater than risk of cancer
+- Tseng et al.:
+  - Radiographically followed 24 patients with SCA for median 23 months
+  - Median growth rate 0.6 cm per year
+  - Larger lesions ≥4 cm had higher growth rate 1.98 cm/year vs <4 cm 0.12 cm/year
+  - Recommended all SCAs larger than 4 cm should be resected regardless of symptoms
+- Memorial Sloan Kettering study: no association between larger size and faster growth
+- Multicenter study of 2622 patients with SCA:
+  - Risk of invasive carcinoma estimated very low
+  - Surgical treatment recommended only to minority with uncertain diagnosis, significant related symptoms, or exceptional concern for invasive carcinoma
+- Management should mainly follow conservative approach:
+  - Follow asymptomatic patients
+  - Monitor progression in size and appearance or onset of symptoms
+- Surgical resection considered only for:
+  - Symptomatic patients
+  - Potentially malignant tumor
+  - Diagnostic dilemma
+- Large SCAs: decisions case-by-case considering age, tumor location, comorbidities
+- Young patient without comorbidity with potentially growing body/tail lesion: candidate for function-preserving minimally invasive surgical resection
+- Otherwise, large SCAs can be strictly followed; resection considered only for symptoms or rapid increase in cyst size
+
+## Treatment: Mucinous Cystic Neoplasms
+- 2012 International Association of Pancreatology guidelines: resection for all MCNs regardless of size
+- European guidelines 2018: resection for MCNs with:
+  - Cyst dimension 4 cm or larger
   - Enhancing mural nodules
-  - Internal septations
-- **Secretin-enhanced MRCP:** Improves visualization of cyst-duct communication
-- Pancreatic protocol CT critical for detecting radiographically occult invasive cancer
+  - Symptoms related to cyst: jaundice, acute pancreatitis, new-onset diabetes
+- European 2018: MCN less than 4 cm and otherwise asymptomatic can be safely followed every 6 months for 1 year, then yearly
+- Multiple studies: small indeterminate MCNs without symptoms or high-risk features can safely be observed
+- MCNs more often located in distal pancreas
+- May be amenable to splenic preservation and laparoscopic resection, demonstrated safe and feasible
+- Systematic review of 13 studies with 773 patients:
+  - No risk of progression after resection of MCN without invasive cancer
+  - Resected MCN with low-grade or high-grade dysplasia do not require surveillance
+- This is an additional argument for resection, particularly in young patients
+- Unlike IPMN, MCN does not require long-term lifelong follow-up
+- Features concerning for invasive carcinoma: formal pancreatectomy
+- If patient has mucinous cystadenocarcinoma: postoperative surveillance as for pancreatic cancer
 
-::: {.callout}
-High-quality cross-sectional imaging is the key to diagnostic evaluation. Careful visualization of the cystic lesion allows evaluation of features that predict malignancy.
-:::
+## Treatment: MD-IPMN and Mixed-Type IPMN
+- When MD-IPMN identified on cross-sectional imaging, operative resection generally recommended
+- These lesions have high risk of harboring high-grade dysplasia or invasive disease
+- Even when invasive carcinoma or high-grade dysplasia does not exist at presentation, most if not all MD-IPMNs will progress to invasive carcinoma
+- Careful assessment of local resectability should be performed before operative intervention
+- Historically, mixed-type IPMNs treated like MD-IPMN
+- MGH group: minimal involvement of main pancreatic duct does not carry same malignant potential as true MD-IPMN
+- International consensus for main-duct/mixed-type IPMN with pancreatic duct dilation ≥5 mm:
+  - 41% of experts advised nonoperative surveillance every 3 to 6 months
+  - 59% advised operative intervention
+- European 2018 guidelines:
+  - Main pancreatic duct dilation 10 mm or greater: absolute indication for surgical resection
+  - 5 to 9 mm: relative indication
+- IAP 2017:
+  - Surgical resection for all MD-IPMNs with main pancreatic duct at least 10 mm
+  - Main pancreatic duct 5 to 9 mm considered worrisome features
+  - No recommendation for immediate surgical resection; EUS evaluation recommended
 
----
+## MD-IPMN: Extent of Resection
+- Goal of surgery in MD-IPMN: resection of invasive carcinoma and high-grade dysplasia
+- If possible, removal of all high-risk disease
+- When presence of invasive cancer ascertained preoperatively:
+  - Standard resection with lymphadenectomy should be considered
+- Prognosis of patients with invasive IPMN dominated by biology and outcome of invasive component
+- Development of additional invasive or noninvasive disease in remnant MD-IPMN is of less concern
+- Total pancreatectomy generally avoided when preoperative testing suggests invasive cancer in setting of IPMN
+- MD-IPMN limited to part of pancreas and no overt radiologic evidence of invasive cancer:
+  - Resect IPMN-containing pancreas
+  - Head: pancreatoduodenectomy
+  - Body and tail: distal pancreatectomy
+- Partial pancreatectomy for IPMN:
+  - Intraoperative frozen-section evaluation focused on identification of high-grade dysplasia or invasive cancer at margin
+- Positive margin for high-grade dysplasia:
+  - Should be resected
+  - High-risk disease at margin is significant predictor of future remnant progression
+- 2017 IAP guidelines:
+  - Low-grade dysplasia at margin: no further resection required
+  - Risk of progression to cancer minimal
+  - High-grade dysplasia or invasive carcinoma at margin: prompt additional resection
+  - Some advocate total pancreatectomy if negative margin cannot be achieved
+- Frozen section cannot capture discontinuous skipped lesions of main pancreatic duct
 
-## Endoscopic Ultrasound (EUS) {.smaller}
+## MD-IPMN: Diffuse Involvement and Total Pancreatectomy
+- Patients with MD-IPMN diffusely involving whole gland pose difficult management dilemma
+- Ductal dilation throughout pancreas could be due to:
+  - MD-IPMN extending throughout pancreatic duct
+  - Outflow obstruction caused by invasive carcinoma or IPMN in head
+  - Dilation may occur proximal or distal to high-risk lesion due to overproduction of mucin
+- Without clear signs of invasive carcinoma such as mass effect, intraductal mass, or nodules:
+  - Ductal dilation does not help localize invasive cancer
+- IPMN considered a field defect within entire ductal system
+- Concern: resection of just part of pancreas leaves patient with remnant pancreas with significant risk for developing pancreatic adenocarcinoma
+- Greater concern in young patients because remnant pancreas has longer time for development of invasive carcinoma
+- Must balance morbidity, mortality, and quality of life of total pancreatectomy
+- Study of 329 patients undergoing total pancreatectomy at two high-volume centers 2000-2014:
+  - Operative morbidity 59.3%
+  - 30-day operative mortality 2.1%
+  - QoL assessed with SF-36, EORTC QLQ-PAN26, Diabetes Dependent questionnaires
+  - Young age, abdominal pain, worse body image negatively associated with physical component of SF-36
+  - Diabetes, sexual satisfaction, perception of body image affected mental component of SF-36
+- Another study of 93 patients total pancreatectomy French multicentric 2004-2013:
+  - Postoperative mortality 4.3%
+  - Morbidity 47.3%
+- Total pancreatectomy is a viable option for patients with main-duct IPMN with diffuse involvement and high risk for developing invasive carcinoma
 
-- **Indicated when:**
-  - Concerning clinical or radiologic features
-  - Need for cyst fluid analysis
-- **Contrast-enhanced EUS:** Most accurate for discriminating mural nodules vs. mucin clots
-- **Confocal laser endomicroscopy (CLE):**
-  - Real-time microscopic visualization
-  - SCA: "Fern pattern" / superficial vascular network
-  - MCN: Epithelial bands without papillary configuration
-  - IPMN: Finger-like papillae
+## Postoperative Surveillance After Pancreatectomy for IPMN
+- When less than total pancreatectomy is performed, postoperative surveillance warranted in all patients
+- Noninvasive IPMN: follow for development of additional lesions in remnant gland
+- Invasive disease: follow for distant recurrence and gland recurrence
+- No consensus on best follow-up strategy
+- IAP 2017 guidelines:
+  - Follow-up at least twice a year in patients with:
+    - Family history of pancreatic cancer
+    - Surgical resection margin with high-grade dysplasia
+    - Resected IPMN of nonintestinal subtype
+  - Follow-up every 6 to 12 months in all other patients with resected IPMNs
+- European 2018 guidelines:
+  - Follow-up every 6 months for first 2 years, then yearly
+  - For IPMNs with high-grade dysplasia or main duct involvement after pancreatectomy
+  - IPMN with low-grade dysplasia followed same way as nonresected IPMN
+- Completion pancreatectomy indicated for treatment of detected progression thought to be high-grade dysplasia or invasive disease
 
-::: {.callout}
-EUS is operator-dependent. A gastroenterologist with expertise in EUS is highly valuable. Contrast-enhanced EUS characterizes vascularity using microbubbles.
-:::
-
----
-
-## Cyst Fluid Analysis {.smaller}
-
-- **CEA > 192 ng/mL:** Best predictor of mucinous lesion (79% accuracy)
-  - SCAs and retention cysts: undetectable CEA
-  - Cannot predict invasive disease
-- **Amylase:**
-  - Low levels exclude pseudocyst
-  - High levels nonspecific (seen in SCAs, IPMNs, MCNs)
-- **Glucose:** Potential biomarker with similar accuracy to CEA
-- **Cytology:** Limited by small volume and low cellular content
-
-::: {.callout}
-A through-the-needle forceps device has been introduced for EUS-guided tissue acquisition but remains investigational.
-:::
-
----
-
-## Molecular Markers & CompCyst {.smaller}
-
-- **Advanced neoplasia associated with:**
-  - SMAD4, CDKN2A, TP53, PIK3CA, PTEN alterations
-- **KRAS mutation + allelic loss:** Initially felt predictive of malignancy
-  - Sensitivity only ~11% (high specificity)
-- **Das-1 antibody:** High sensitivity/specificity for high-risk/invasive carcinoma
-- **CompCyst (machine learning):**
-  - Integrates clinical, imaging, and genetic data
-  - More accurate than conventional criteria alone
-  - Potential to reduce morbidity and costs
-
-::: {.callout}
-CompCyst analyzes mutations including KRAS, GNAS, RNF43, CDKN2A, CTNNB1, TP53, BRAF, VHL, PIK3CA to diagnose and determine management.
-:::
-
----
-
-## Treatment: Main-Duct IPMN {.smaller}
-
-::: {.callout}
-<div class="callout-title">Generally Recommend Resection</div>
-- High risk of high-grade dysplasia or invasive disease
-- Even without invasive cancer at presentation, most MD-IPMNs will progress to invasive carcinoma
-:::
-
-- **Extent of resection:**
-  - Standard resection with lymphadenectomy if invasive cancer suspected
-  - Partial pancreatectomy (Whipple or distal) if disease localized
-  - **Intraoperative frozen section** critical for margin assessment
-- **Margin management (IAP 2017):**
-  - Low-grade dysplasia: No further resection
-  - High-grade dysplasia or invasive carcinoma: Consider additional resection
-
-::: {.callout}
-Total pancreatectomy generally avoided unless diffuse gland involvement. Morbidity of total pancreatectomy is significant (59% in high-volume centers, 2.1% 30-day mortality).
-:::
-
----
-
-## Treatment: Mixed-Type IPMN {.smaller}
-
-- Historically treated like MD-IPMN
-- **Recent evidence:** Minimal MPD involvement ≠ same malignant potential as true MD-IPMN
-- **European 2018 guidelines:**
-  - MPD ≥10 mm: Absolute indication for surgery
-  - MPD 5–9 mm: Relative indication
-- **IAP 2017:**
-  - MPD ≥10 mm: Resection
-  - MPD 5–9 mm: "Worrisome feature" — EUS evaluation, not immediate surgery
-
-::: {.callout}
-During international consensus, 41% of experts advised surveillance for MPD 5–9 mm, while 59% advised operative intervention.
-:::
-
----
-
-## Postoperative Surveillance After IPMN Resection {.smaller}
-
-- **IAP 2017:**
-  - High-risk features (family history of pancreatic cancer, positive margin with HGD, nonintestinal subtype): Every 6 months
-  - All others: Every 6–12 months
-- **European 2018:**
-  - HGD or main duct involvement: Every 6 months for 2 years, then yearly
-  - Low-grade dysplasia: Same as nonresected IPMN
-- **Completion pancreatectomy** indicated for progression thought to be HGD or invasive carcinoma
-
-::: {.callout}
-Surveillance is warranted for development of additional lesions in remnant gland (noninvasive) or distant/gland recurrence (invasive).
-:::
-
----
-
-## Treatment: Branch-Duct IPMN {.smaller}
-
-::: {.callout}
-<div class="callout-title">Selective Resection Based on Risk Stratification</div>
-:::
-
-- **High-risk stigmata** → Resection without further testing:
-  - Obstructive jaundice + cystic head lesion
+## Treatment: BD-IPMN Resection Indications
+- Resection reserved for selected patients with BD-IPMN
+- 2017 IAP guidelines classify concerning radiographic features into worrisome features and high-risk stigmata
+- High-risk stigmata: patients should undergo resection without further testing
+  - Obstructive jaundice in patient with cystic lesion of pancreatic head
   - Enhancing mural nodule ≥5 mm
   - Main pancreatic duct ≥10 mm
-- **Worrisome features** → EUS evaluation:
-  - Pancreatitis, cyst ≥3 cm, mural nodule <5 mm
-  - Thickened/enhancing walls, MPD 5–9 mm
-  - Abrupt MPD caliber change with atrophy
-  - Lymphadenopathy, elevated CA 19-9
-  - Cyst growth rate >5mm/2 years
+- Worrisome features: patients should undergo further evaluation with EUS
+  - Pancreatitis
+  - Cyst ≥3 cm
+  - Enhancing mural nodule <5 mm
+  - Thickened/enhancing cyst walls
+  - Main duct size 5 to 9 mm
+  - Abrupt change in caliber of pancreatic duct with distal pancreatic atrophy
+  - Lymphadenopathy
+  - Increased serum level of CA19-9
+  - Cyst growth rate >5 mm over 2 years
+- EUS also recommended for cysts greater than 3 cm without worrisome features to verify absence of thickened walls or mural nodules
+- Multicentric study of nonoperative patients with presumed IPMNs:
+  - Worrisome features: 5-year disease-specific survival 96%; conservative management appropriate
+  - High-risk stigma: 40% risk of IPMN-related death; surgical resection policy
 
-::: {.callout}
-Patients with "worrisome features" had 96% 5-year disease-specific survival with conservative management. "High-risk stigmata" had 40% risk of IPMN-related death.
-:::
+## BD-IPMN: European 2018 Guidelines
+- Similar recommendations to 2017 IAP for resection of BD-IPMN
+- Absolute indications for surgery:
+  - Jaundice
+  - Cytology positive for high-grade dysplasia or cancer
+  - Presence of contrast-enhancing mural nodule ≥5 mm
+  - Solid mass
+- Relative indications for surgery:
+  - Growth rate ≥5 mm/year
+  - Increased serum CA19.9 >37 U/mL in absence of jaundice
+  - Main pancreatic duct diameter between 5 and 9.9 mm
+  - Cyst size ≥4 cm
+  - New-onset diabetes mellitus or acute pancreatitis
+  - Contrast-enhancing mural nodules <5 mm
+- Patients with relative indications: closer follow-up or resection based on comorbidities
 
----
-
-
-## Treatment: Branch-Duct IPMN {.smaller}
-
-::: {.callout}
-<div class="callout-title">The 2018 European guidelines are broadly similar to the 2017 IAP recommendations for management of BD-IPMN.</div>
-:::
-
-
-:::{.columns}
-
-::: {.column width="50%"}
-- Absolute Indications for Surgery
-
-    - Obstructive jaundice
-    - Cytology positive for **high-grade dysplasia** or **cancer**
-    - Contrast-enhancing mural nodule **≥ 5 mm**
-    - Presence of a **solid mass**
-:::
-::: {.column width="50%"}
-- Relative Indications for Surgery
-
-    - Growth rate **≥ 5 mm/year**
-    - Serum **CA 19-9 > 37 U/mL** (without jaundice)
-    - Main pancreatic duct diameter **5-9.9 mm**
-    - Cyst size **≥ 4 cm**, New-onset **diabetes mellitus or AP**
-    - Contrast-enhancing mural nodules **< 5 mm**
-:::
-:::
-
-Patients with relative indications should undergo **closer follow-up or resection** depending on comorbidities.
-
-
-
----
-
-## BD-IPMN: Surgical Details {.smaller}
-
-- Head lesions: **Pancreatoduodenectomy**
-- Tail lesions: **Distal pancreatectomy** ± splenectomy
-- **Pancreas-sparing procedures:**
+## Surgical Approaches for BD-IPMN
+- Branch-duct lesions in head of pancreas: pancreatoduodenectomy
+- Branch-duct lesions in tail: distal pancreatectomy with or without splenectomy
+- Recently, pancreas-sparing procedures reported to maintain exocrine and endocrine pancreatic function:
   - Enucleation
   - Central pancreatectomy
-  - Uncinate process resection
-- Feasible in selected patients (89% feasibility in one study)
-- **Higher morbidity** than standard resections (mainly pancreatic fistula)
+  - Resection of uncinate process
+- Single institutional study:
+  - Pancreas-sparing pancreatectomy attempted in 91 patients
+  - Feasible in 81 patients 89%
+  - Enucleation most common pancreas-sparing procedure
+- Acceptable mortality
+- Higher-than-expected morbidity compared with standard pancreatic resections, mainly pancreatic fistula
+- Whether pancreas-sparing pancreatectomy preserves pancreatic exocrine and endocrine function requires further investigation
 
-::: {.callout}
-Whether pancreas-sparing procedures preserve exocrine and endocrine function better than standard resections requires further study.
-:::
+## Solid Pseudopapillary Tumor: Epidemiology
+- SPTs also known as Frantz or Hamoudi tumors
+- Named after pathologists who first described entity in 1950s
+- Rare tumors; account for as many as 2.5% of resected pancreatic neoplasms
+- Predominately in young women
+- Often discovered when patients experience symptoms
+- Review of 2744 patients from English literature:
+  - Female to male ratio 9:1
+  - Mean age 29 years
+  - Only 38% asymptomatic at presentation
+  - 64% had pain
+  - 33% had a mass
+  - Mean tumor size 8.6 cm
+  - Most common location: tail and body pancreas 59.3%
+- May present acutely with rupture of capsule and hemoperitoneum, but uncommon
+- Review of 292 reported cases found 8 cases with acute rupture
 
----
+## SPT: Imaging and Pathology
+- Cross-sectional imaging: encapsulated lesions with irregular areas of hypodensity secondary to necrosis or hemorrhage
+- Wall may reveal calcifications
+- Cystic degeneration makes differentiation from pseudocyst or other pancreatic cystic neoplasms difficult
+- Young female with well-encapsulated pancreatic mass with cystic and solid components: SPT should be top differential diagnosis
+- Differentiating features: combination of solid and cystic components with gradual degenerative changes resulting in pseudopapillae formation
+- SPTs distinct from normal pancreatic parenchyma; rarely cause ductal dilation due to lack of invasion
+- MRI: areas of high signal intensity on T1-weighted images correspond to hemorrhagic necrosis or hemorrhagic debris
+- Gross: tan or yellow, well circumscribed, smooth on palpation
+- Opened: irregular cystic cavities with areas of necrosis or hemorrhage
+- Histology: polygonal epithelial cells arranged in discohesive pattern
+- Boundaries resemble mass effect as opposed to being invasive
+- Immunohistochemical staining: vimentin, keratin, neuron-specific enolase, CD10, progesterone common
+- Rarely express chromogranin or estrogen
+- Abnormal β-catenin expression present; KRAS, p53, and DPC4 appear unaltered
+- Aggressive phenotypes: high mitotic rate, nuclear atypia, spindling of tumor cells, anaplastic giant tumor cells consistent with sarcomatoid carcinoma
+- Molecular alterations: Wnt/β-catenin, Hedgehog, androgen receptor signaling pathways, and epithelial mesenchymal transition genes activated
+- Role of genetic testing in diagnosis of SPTs not extensively investigated
 
-## Solid Pseudopapillary Tumor (SPT) {.smaller}
+## SPT: Management and Prognosis
+- Clinically generally indolent
+- Typically cured with complete surgical extirpation
+- Many series demonstrate long-term survival after resection
+- Significant vascular invasion: most common reason for inability to resect
+- Metastatic disease present in as many as 15%
+- Criteria for defining SPTs as malignant:
+  - Locally advanced disease with vascular invasion precluding resection
+  - Lymph node or hepatic metastasis
+- Long-term survival often possible despite malignant factors such as metastatic disease
+- Should not preclude resection in selected cases
+- Meta-analysis 2002-2017:
+  - Progression rate after initial surgery in patients with nonmetastatic SPTs ~2.6%
+  - Male gender, positive lymph nodes, positive margin at resection, and lymphovascular invasion associated with risk of progression
 
-- Also known as **Frantz or Hamoudi tumors**
-- Account for ~2.5% of resected pancreatic neoplasms
-- **Female:male ratio = 9:1**
-- Mean age: **29 years**
-- Only **38% asymptomatic** at presentation
-- Common symptoms: Pain (64%), palpable mass (33%)
-- Mean tumor size: **8.6 cm**
-- Most common location: **Tail and body** (59%)
+## Other Cystic Pancreatic Neoplasms
+- Benign cystic lesions include lymphoepithelial cysts, simple cysts, and mucinous nonneoplastic cysts
+- Pseudocysts are nonneoplastic, devoid of epithelial lining
+- Pseudocyst management includes observation, endoscopic drainage, or operative drainage
+- Cystic neoplasms are heterogeneous
+- Most common encountered by surgeons: IPMNs, MCNs, SCAs
+- Multidisciplinary evaluation is essential
 
-::: {.callout}
-SPTs may present acutely with rupture and hemoperitoneum. When a well-encapsulated mass with solid and cystic components is found in a young female, SPT should top the differential.
-:::
+## Conclusions
+- Diagnosis of cystic lesions of the pancreas is increasing
+- Most common lesions: IPMNs, MCNs, and SCAs
+- Despite multiple clinical guidelines, no definitive strategy to differentiate between various cyst types
+- Patients with pancreas cysts should be discussed by multidisciplinary team in centers with expertise in diagnosis and surgical treatment
+- SCAs should be considered benign; asymptomatic patients can be followed radiographically
+- Most patients with mucinous lesions should undergo resection, especially with concerning features:
+  - Size greater than 3 cm
+  - Solid component
+  - Ductal dilation
+- Initial evaluation of small, benign-appearing cyst should include one early interval image to ensure no occult invasive carcinoma or high-grade dysplasia causing retention cyst
+- More clinicians adopting selective approach
+- Improvements in determining histopathologic subtypes without resection
+- High-quality cross-sectional imaging and EUS with cyst fluid analysis help subtype many pancreatic cystic neoplasms
+- Advancements in biomarkers from cyst fluid should lead to better identification of mucinous subtypes and obviate need for resection in some patients
 
----
-
-## SPT: Pathology & Genetics {.smaller}
-
-- **Imaging:** Encapsulated lesions with hypodense areas (necrosis/hemorrhage)
-- **Histology:** Polygonal epithelial cells in discohesive pattern
-- **Immunohistochemistry:** Vimentin, keratin, NSE, CD10, progesterone positive
-- **Molecular:**
-  - Abnormal β-catenin expression present
-  - KRAS, p53, DPC4 typically unaltered
-  - Wnt/β-catenin, Hedgehog, androgen receptor pathways activated
-  - Genes involved in epithelial mesenchymal transition activated
-
-::: {.callout}
-SPTs are distinct from normal pancreatic parenchyma and rarely cause ductal dilation due to lack of invasion. MRI shows high T1 signal in areas of hemorrhagic necrosis.
-:::
-
----
-
-## SPT: Management {.smaller}
-
-::: {.callout}
-<div class="callout-title">Generally Indolent — Cured with Complete Surgical Extirpation</div>
-:::
-
-- **Metastatic disease:** Present in up to 15%
-- **"Malignant" criteria:**
-  - Locally advanced disease with vascular invasion
-  - Lymph node metastasis
-  - Hepatic metastasis
-- **Long-term survival possible** even with metastatic disease
-- **Progression rate after surgery:** ~2.6% in nonmetastatic SPTs
-- **Risk factors for progression:**
-  - Male gender, positive lymph nodes
-  - Positive margin at time of resection, lymphovascular invasion
-
-::: {.callout}
-Significant vascular invasion is the most common reason for unresectability. Resection should still be considered in selected cases with metastatic disease.
-:::
-
----
-
-## Conclusions {.smaller}
-
-- Most common lesions: **IPMNs, MCNs, and SCAs**
-- **No definitive strategy** exists to differentiate various cyst types
-- Management requires **multidisciplinary team** with expertise in:
-  - Advanced imaging
-  - Endoscopy
-  - Pathology
-  - Surgical treatment
-- **SCAs:** Benign — conservative management
-- **Mucinous lesions:** Generally resect, especially if >3 cm, solid component, and ductal dilation
-- **Advancements** in biomarkers and machine learning (CompCyst) improving nonoperative diagnosis
-
-::: {.callout}
-The initial evaluation of a small, benign-appearing cyst should include one early interval image to ensure no occult invasive carcinoma or high-grade dysplasia is present.
-:::
-
----
-
-## Key Takeaways {.smaller}
-
-1. **SCAs:** <1% malignant risk — observe unless symptomatic
-2. **MCNs:** 10%–50% malignant risk — resect (especially if ≥4 cm or symptomatic)
-3. **MD-IPMN:** ~60% malignant risk — generally resect
-4. **BD-IPMN:** Resect only with high-risk stigmata or worrisome features
-5. **SPT:** Surgical resection curative in most; indolent even when "malignant"
-6. **Molecular markers** (GNAS, KRAS, RNF43) increasingly guide diagnosis
-7. **CompCyst** and advanced EUS techniques represent the future of cyst management
-
-
-
+## Key Takeaways
+- Cystic neoplasms include IPMN, MCN, SCA, and SPT; pseudocysts are nonneoplastic
+- MD-IPMN has high malignant risk; BD-IPMN resection is selective based on worrisome features and high-risk stigmata
+- MCN has 10%-50% invasive risk; ovarian-type stroma; almost exclusively female
+- SCA is generally benign; resect for symptoms, significant growth, or diagnostic uncertainty
+- SPT occurs in young women; complete surgical extirpation is usually curative
+- Cyst fluid CEA >192 ng/mL predicts mucinous cyst; molecular markers and CompCyst are evolving
+- Surveillance after resection depends on dysplasia grade, IPMN subtype, and extent of resection
