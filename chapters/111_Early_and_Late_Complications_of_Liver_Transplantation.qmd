@@ -16,3 +16,35 @@
 
 
 :::
+
+
+
+
+::: {.callout-note}
+
+### **DONOR → RECIPIENT → OPERATION → RESUSCITATION**
+
+**DONOR**
+
+* Macrosteatosis
+* Location
+* Weight
+* DCD
+
+**RECIPIENT**
+
+* Obesity
+* HCC
+
+**OPERATION**
+
+* Warm ischemia
+* Cold ischemia
+* Operative time
+
+**RESUSCITATION/INTRAOPERATIVE COURSE**
+
+* Postreperfusion syndrome
+* FFP transfusion
+
+:::
