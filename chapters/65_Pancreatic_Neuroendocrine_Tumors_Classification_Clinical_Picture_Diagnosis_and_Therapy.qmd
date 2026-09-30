@@ -1,2 +1,16 @@
 # 65 Pancreatic Neuroendocrine Tumors: Classification, Clinical Picture, Diagnosis, and Therapy
 
+
+
+::: {.panel-tabset}
+
+## Z AI
+
+{{< reveal 65_Pancreatic_Neuroendocrine_Tumors_Classification_Clinical_Picture_Diagnosis_and_Therapy >}}
+
+## Deepseek
+
+{{< reveal Extras/pancreas/chap65_pnet >}}
+
+
+:::

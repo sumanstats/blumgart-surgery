@@ -1,0 +1,1211 @@
+---
+title: "Pancreatic Neuroendocrine Tumors"
+subtitle: "Classification, Clinical Picture, Diagnosis, and Therapy"
+format:
+  revealjs:
+    theme: dark
+---
+
+## Presentation Outline
+
+- Introduction
+- Epidemiology
+- Molecular Biology and Somatic Alterations
+- Pathology and Staging (incl. **Table 65.1**)
+- Prognosis
+- Familial Syndromes (MEN1, VHL, TS, NF1)
+- Functional Tumors: Clinical Features (incl. **Figure 65.1**)
+- Nonfunctional Tumors: Clinical Features
+- Imaging (incl. **Figure 65.2**)
+- Surgical Management (incl. **Figures 65.3–65.5**)
+- Nonsurgical Management and Systemic Therapy
+
+
+## Introduction — Neuroendocrine Tumors (NETs)
+
+- NETs are a **heterogeneous group of neoplasms** originating from the diffuse neuroendocrine cell system
+- Most commonly arise in the **lung** or **gastrointestinal (GI) tract**
+- Although a rarer group of neoplasms:
+  - NET **incidence and prevalence continue to increase**
+  - NETs are now the **second most prevalent GI cancer**
+
+## Introduction — Defining PNETs
+
+- Well-differentiated NETs are subdivided largely by **tissue of origin**
+- **Pancreatic neuroendocrine tumors (PNETs)** arise from the endocrine tissue of the pancreas — the **islets of Langerhans**
+- PNETs are the **second most common tumor** arising from the pancreas
+
+## Introduction — Making a Comprehensive Diagnosis
+
+- A comprehensive PNET diagnosis relies on evaluation of:
+  - **Clinical symptoms**
+  - **Imaging**
+  - **Histopathology**
+
+## Introduction — Why Management Is Challenging
+
+- Management and treatment of PNETs is challenging because of:
+  - **Heterogeneity in tumor behavior**
+  - **Heterogeneity in clinical presentation**
+- Approximately **30% of PNETs are functional** — producing clinical symptoms from hormone hypersecretion
+
+## Introduction — Observation First, Then Treatment
+
+- Many advanced PNETs can be **monitored initially** because of **indolent growth patterns**
+- With time, the disease will require treatment
+- Decision to start therapy is triggered by:
+  - Increasing clinical symptoms (hormone secretion and/or tumor bulk)
+  - High tumor burden
+  - Progressive disease while on observation
+
+## Introduction — Treatment Landscape
+
+- Treatment options for PNETs are **multidisciplinary**:
+  - Surgical resection
+  - Liver-directed therapies
+  - Systemic treatments
+- For metastatic PNETs, treatment is **almost always noncurative**
+- Survival can often be measured **in years**, but **most patients die of the disease**
+
+## Epidemiology — Key Statistics
+
+- PNETs account for approximately:
+  - **7% of all NETs**
+  - **1% to 2% of pancreatic tumors**
+
+## Epidemiology — Rising Incidence
+
+- Incidence has risen over the past **30 years**:
+  - From **0.17** to **0.43 cases per 100,000 people**
+
+## Epidemiology — Who Gets PNETs?
+
+- **Males and females are affected equally**
+- Most patients are diagnosed between **60 and 80 years** of age
+- Approximately **5%** of patients have an underlying familial syndrome:
+  - MEN1, VHL, tuberous sclerosis (TS), or NF1
+  - These patients tend to be diagnosed at a **younger age**
+
+## Epidemiology — Risk Factors
+
+- A **family history of NET** is the **only well-established risk factor** for PNET development
+- Risk factors for pancreatic adenocarcinoma have **NOT** been associated with PNETs:
+  - Cigarette smoking
+  - Diabetes mellitus
+  - Chronic pancreatitis
+  - Obesity
+
+## Molecular Biology — First Sequencing Efforts
+
+- In one of the earliest studies:
+  - **Whole-exome sequencing (WES)** performed on **10 nonfamilial PNETs**
+  - Most commonly mutated genes screened in an additional **58 PNET specimens**
+
+## Molecular Biology — Whole-Exome Findings
+
+- Increased number of mutations identified in:
+  - **Chromatin remodeling genes:** MEN1, DAXX, ATRX
+  - **mTOR pathway genes:** PTEN, TSC2, PIK3CA
+- These pathways became foundational to understanding sporadic PNET biology
+
+## Molecular Biology — Whole-Genome Sequencing
+
+- Whole-genome sequencing performed on **102 PNETs**
+- Somatic point mutations and gene fusions observed in **four pathways**:
+  - Chromatin remodeling
+  - DNA damage repair
+  - mTOR
+  - **Telomere maintenance**
+- A larger-than-anticipated **germline contribution** was identified:
+  - Previously unreported germline mutations in DNA repair genes **MUTYH, CHEK2, BRCA2**
+
+## Molecular Biology — NGS in the Clinic
+
+- Next-generation sequencing (NGS) assessed in **96 tumor samples from 80 patients** with metastatic PNETs
+- **Somatic alterations identified in 95%** of tested tumor samples
+- Most commonly altered genes: **MEN1, DAXX, ATRX, TSC2**
+- Sequencing of pre- and post-treatment samples revealed:
+  - **Progression in tumor grade**
+  - **Clonal evolution** of tumors
+
+## Molecular Biology — Germline Findings in Metastatic PNET
+
+- Germline analysis identified alterations in **high-penetrance autosomal dominant cancer susceptibility genes**:
+  - MEN1
+  - TSC2
+  - VHL
+- Supports a role for genetic testing in the routine clinic setting
+
+## Molecular Biology — PNECs Are Distinct
+
+- Poorly differentiated **pancreatic neuroendocrine carcinomas (PNECs)** are **clinically and genetically distinct** from PNETs
+- Most commonly mutated genes in PNECs (tumor suppressors):
+  - **p53 — 95%**
+  - **Rb — 74%**
+
+## Pathology — Gross Features
+
+- PNETs are generally:
+  - **Well-circumscribed**
+  - **Solitary masses**
+  - Can occur **anywhere in the pancreas**
+- The **majority of PNETs are well differentiated**
+
+## Pathology — All PNETs Have Malignant Potential
+
+- All PNETs have the potential to **grow and eventually metastasize**
+- Because of this, these tumors are **considered malignant**
+- The term **"benign"** has been used as a classification variable only because metastatic likelihood is **very low** in certain subsets
+
+## Pathology — Features Defining Malignancy
+
+Most classification schemes consider a PNET **malignant** if it:
+
+- Invades locoregionally
+- Has metastasized distantly or to regional lymph nodes
+- Is **> 2 cm** in size
+- Displays **vascular, lymphatic, or perineural invasion**
+- Has a **proliferative index > 2%**
+
+## Pathology — WHO 2017 Classification
+
+- PNETs are classified by the **2017 WHO classification of pancreatic neuroendocrine neoplasms (PNENs)**
+- Pathologic classification by WHO 2017 is the **most significant prognostic tool**:
+  - Predicts tumor behavior
+  - Guides treatment selection
+- Stratification is by:
+  - **Differentiation:** well or poorly differentiated
+  - **Grade:** G1 (low), G2 (intermediate), G3 (high) — by Ki-67 and/or mitotic count
+
+## TABLE 65.1 — Grading System for Pancreatic Neuroendocrine Tumors
+
+| Terminology | Differentiation | Grade | Mitotic rate (mitoses/2 mm²) | Ki-67 index (%) |
+|---|---|---|---|---|
+| NET, G1 | Well differentiated | Low | <2 | <3 |
+| NET, G2 | Well differentiated | Intermediate | 2 to 20 | 3 to 20 |
+| NET, G3 | Well differentiated | High | >20 | >20 |
+| NEC (small cell or non-small cell) | Poorly differentiated | High | >20 | >20 |
+
+*From: Lloyd RV, Osamura RY, Klöppel G, et al. WHO Classification of Tumours of Endocrine Organs. IARC; 2017.*
+
+## TABLE 65.1 — Notes on the Grading System
+
+- Poorly differentiated NECs are **not formally graded** but are considered **high grade by definition**
+- This system is recommended by the **European Neuroendocrine Tumor Society (ENETS)** and the **World Health Organization**
+- It is the **most widely used grading system** and the method used by most surgical pathology laboratories
+
+## Pathology — Measuring Mitoses and Ki-67
+
+- **Mitotic index:** number of mitotic figures per 10 high-powered microscopic fields (HPFs)
+  - Recommended that **40 to 50 HPFs** be examined
+- **Ki-67 labeling:**
+  - Tags neoplastic cells with an antibody
+  - Reports the **percentage of cells that stain positively**
+
+## Pathology — Terminology: NET vs NEC
+
+- **Well-differentiated** NENs are defined as **tumors (NETs)**
+- **Poorly differentiated** NENs are defined as **carcinomas (NECs)**
+- The 2017 classification recognizes **heterogeneity of grade 3** pancreatic NENs:
+  - Well-differentiated **NET G3** vs. poorly differentiated **NEC** — distinct subtypes
+
+## Pathology — Why the WHO Classification Evolved
+
+- Changes from WHO 2010 to 2017 evolved through understanding of:
+  - **Distinct treatment responses** for grade 3 PNETs vs. PNECs
+  - **Distinct clinical outcomes** for grade 3 PNETs vs. PNECs
+
+## Staging — AJCC TNM (2017)
+
+- Most commonly used staging system in the United States: **2017 American Joint Committee on Cancer tumor-node-metastasis (TNM) system**
+- **Stage I** — localized tumors
+- **Stages II and III** — more advanced local or regional disease
+- **Stage IV** — distant metastases
+
+## Staging — SEER Survival by Stage
+
+- 5-year overall survival (OS), functional and nonfunctional tumors combined (SEER database):
+  - **Localized:** 62%
+  - **Regionally advanced:** 54%
+  - **Distant metastases:** 20%
+
+## Prognosis — The Paradox of Well-Differentiated Tumors
+
+- Despite being classified as well differentiated, the **majority of PNETs**:
+  - Have pathologic features that increase the likelihood of **future recurrence**, **or**
+  - Have **metastatic disease at the time of diagnosis**
+
+## Prognosis — Survival by Grade
+
+- 5-year OS by grade:
+  - **G1 (low):** 75%
+  - **G2 (intermediate):** 63%
+  - **G3 (high):** 7%
+- Low- and intermediate-grade PNETs have significantly better survival than G3 tumors
+
+## Prognosis — Functional Status Matters
+
+- **Functional tumors** are associated with better survival than nonfunctional PNETs:
+  - **68% vs. 60% 5-year OS**
+- Reason: functional tumors are more often identified at an **earlier stage** (symptomatic hormone hypersecretion)
+
+## Prognosis — Distant Metastases at Presentation
+
+- Approximately **60% of PNET cases have distant metastases at presentation**
+- Metastatic disease is associated with **decreased survival** compared with local or locoregional disease
+
+## Prognosis — Age at Diagnosis
+
+- Older age at diagnosis correlates with **impaired survival**:
+  - **< 55 years:** 67.8% 5-year OS
+  - **> 75 years:** 40.8% 5-year OS
+- Age helps stratify patients into prognostic categories
+
+## Familial Syndromes — Overview
+
+- PNETs are associated with **four familial diseases**:
+  - **MEN1** (most common)
+  - **VHL**
+  - **NF1**
+  - **Tuberous sclerosis (TS)**
+
+## MEN1 — The Most Common Syndrome
+
+- Approximately **5% to 7%** of patients with PNETs have **MEN1**
+- Inherited in an **autosomal dominant** fashion
+
+## MEN1 — Classic Manifestations
+
+- **Parathyroid adenomas** → hyperparathyroidism in **90%** of patients
+- **Multiple functional or nonfunctional PNETs** in **75%**
+- **Pituitary adenomas** in **40%**
+
+## MEN1 — Other Associated Tumors
+
+- Also seen in some patients:
+  - **Adrenocortical tumors** (functional and nonfunctional)
+  - **Thymic tumors**
+  - **Bronchial NETs**
+
+## MEN1 — Genetic Testing
+
+- Genetic testing for MEN1 should be performed in:
+  - **All first-degree relatives** of affected patients (including children younger than 5 years)
+  - Those who have had a **germline mutation identified in the MEN1 gene**
+
+## MEN1 — Metastases and Mortality
+
+- Approximately **30% to 50%** of patients present with **metastases**
+- Complications of metastases are the **most common cause of death** from MEN1
+- Surgical management of these tumors is **complex**
+
+## VHL — Genetics and Tumor Spectrum
+
+- **Autosomal dominant** syndrome caused by **inactivation of the VHL gene** (a role in angiogenesis)
+- Predisposes to:
+  - Renal cell carcinoma
+  - Pheochromocytoma
+  - Cerebellar and spinal hemangioblastoma
+  - Retinal angioma
+  - Endolymphatic sac neoplasms
+  - Epididymal cystadenoma
+  - Cystic and solid pancreatic neoplasms
+
+## VHL — Pancreatic Disease
+
+- **10% to 15%** of VHL patients will develop **PNETs**
+- However, the most common pancreatic manifestation of VHL is **serous cystadenoma**
+
+## Tuberous Sclerosis (TS)
+
+- The **TSC1/2 complex inhibits mTOR**; a defect in the **TSC2 gene** leads to TS
+- Hamartomas may develop in: **brain, eyes, heart, lungs, skin, kidneys, and pancreas**
+
+## Neurofibromatosis Type 1 (NF1)
+
+- The **NF1 gene regulates the activity of TSC2**
+- **Loss of NF1 → constitutive mTOR activation**
+- Primary manifestation: **benign neurofibromas** in multiple locations of the peripheral nervous system
+- Patients are also at risk for **pheochromocytomas and sarcomas**
+
+## TS and NF1 — Pancreatic Involvement
+
+- In **both TS and NF1**, multiple PNETs may develop in the **pancreas and duodenum**
+- Shared biology: both syndromes converge on **mTOR pathway dysregulation**
+
+## Functional Tumors — Clinical Classification
+
+- PNETs are clinically classified into **two categories**:
+  - **Functional:** produce clinical syndromes due to hypersecretion of biologically active peptides
+  - **Nonfunctional:** no hormone-associated syndrome
+- **~30%** of PNETs are functional
+
+## Functional Tumors — Why They Fare Better
+
+- Functional PNETs tend to have **better 5-year OS** than nonfunctional PNETs
+- Likely because they are **detected earlier** due to the presence of symptoms
+
+## Insulinoma — Overview
+
+- Secrete **insulin and/or proinsulin → hypoglycemia**
+- Represent **1% to 2% of all pancreatic tumors**
+- Typically:
+  - **Small (< 2 cm)**
+  - **Solitary** (except in MEN1)
+  - **Intrapancreatic**
+
+## Insulinoma — Whipple's Triad
+
+A critical part of the history includes establishment of **Whipple's triad**:
+
+- Plasma glucose **< 40 mg/dL**
+- **Symptoms of hypoglycemia**
+- **Resolution of symptoms** with a meal
+
+## Insulinoma — Biochemical Diagnosis
+
+- Diagnosis confirmed by drawing during a **72-hour fast**:
+  - Plasma glucose
+  - Insulin
+  - C-peptide
+  - Proinsulin
+- This panel detects **90% of insulinomas**
+
+## Insulinoma — Malignant Behavior
+
+- In the rare cases where insulinomas are **malignant**:
+  - 5-year OS: **56%**
+  - 10-year OS: **29%**
+- Malignant insulinomas produce **higher levels of insulin and proinsulin** → more severe symptoms (metastases also secrete these hormones)
+
+## Insulinoma — Localization
+
+- Most insulinomas are identified with **CT or ultrasound (US)**
+- When tumors are **very small**, these methods may fail → **arterial stimulation venous sampling (ASVS)** may be helpful
+
+## Insulinoma — Arterial Stimulation Venous Sampling (ASVS)
+
+- Right and left **hepatic veins catheterized** via a femoral puncture
+- **Calcium injected successively** into:
+  - Gastroduodenal artery
+  - Proximal splenic artery
+  - Superior mesenteric artery
+  - Proper hepatic artery
+- Venous blood sampled from hepatic veins at **30, 60, and 120 seconds** after each injection
+
+## Insulinoma — ASVS Interpretation & Accuracy
+
+- **Positive localization** = **2-fold increase** in hepatic vein insulin levels
+- Accuracy for localizing the tumor to a pancreatic region (head, body, tail): **94% to 100%**
+
+## Gastrinoma — Overview
+
+- Secrete **gastrin → Zollinger-Ellison syndrome (ZES)**
+- Named for **Zollinger and colleagues (1955)**: a case series of two patients with:
+  - Gastric acid hypersecretion
+  - Severe peptic ulceration
+  - Pancreatic tumors
+
+## Gastrinoma — Clinical Syndrome
+
+- Extraordinarily high gastrin levels cause:
+  - **Recurrent peptic ulcers**
+  - **Diarrhea**
+  - **Reflux esophagitis**
+- Cause the **thickened mucosal folds** in the stomach that are a hallmark of the disease
+
+## Gastrinoma — Sporadic vs. Familial
+
+- May be **sporadic (67%)** or **familial (33%)**
+- Generally **solitary** tumors — **except in MEN1**, where they are:
+  - Small
+  - Multiple
+  - Most likely found in the **duodenum (> 85%)**
+
+## FIGURE 65.1 — The Gastrinoma Triangle
+
+> **FIGURE 65.1 — Gastrinoma triangle.** Approximately **90% of gastrinomas** are thought to arise in this anatomic location. *(From Howard TJ, Stabile BE, Zinner MJ, et al. Anatomic distribution of pancreatic endocrine tumors. Am J Surg. 1990;159:258–264.)*
+
+```
+            Apex:
+  cystic duct / common
+      bile duct junction
+              /\
+             /  \
+            /    \
+           /      \
+  Medial  /        \  Inferior
+  extent  \        /  aspect
+           \      /
+   head–body      second–third
+   junction       duodenal junction
+```
+
+## Gastrinoma Triangle — Anatomic Boundaries
+
+- **Apex:** junction of the **cystic duct and common bile duct**
+- **Inferior aspect:** junction of the **second and third parts of the duodenum**
+- **Medial extent:** junction of the **head and body of the pancreas**
+- Landmarks in the figure: **SMA** (superior mesenteric artery), **SMV** (superior mesenteric vein) — tumors described relative to left/right of SMA
+- Described in **1984** to aid surgeons in finding these frequently **diminutive tumors**
+
+## Gastrinoma — Malignant Behavior
+
+- The **majority of gastrinomas are malignant (60%)**
+- Have spread to **regional lymph nodes** by the time of diagnosis
+- **Liver metastases** are often associated with gastrinomas arising **in the pancreas**
+
+## Gastrinoma — Laboratory Diagnosis
+
+- Requires demonstration of **hypergastrinemia** and **abnormal gastric acid secretion**
+- Obtain:
+  - **Fasting serum gastrin**
+  - **Gastric pH**
+- Diagnosis confirmed if: gastrin **10 times normal** AND gastric pH **< 2**
+
+## Gastrinoma — Stimulation Tests
+
+- If results are **equivocal**, perform a **secretin or glucagon stimulation test**
+- Rationale: gastrinomas frequently **express both receptors** and respond by secreting abnormally large amounts of gastrin to the injected reagent
+
+## Glucagonoma — Overview
+
+- Secrete **glucagon → hyperglycemia**
+- **Extremely rare** — only about **400 cases** reported in the literature
+- Tend to be **large (> 6 cm)** and **solitary** pancreatic tumors
+
+## Glucagonoma — Clinical Features
+
+- Most common symptoms:
+  - **Glucose intolerance**
+  - **Migratory necrolytic erythema (MNE)** — the migratory rash is often the **first manifestation**
+  - **Weight loss**
+- The rash tends to start in the **perineum**, then spreads to the **trunk and extremities**
+
+## Glucagonoma — Diagnosis & Prognosis
+
+- Diagnosis: **elevated plasma glucagon** in the context of an **enhancing pancreatic mass on CT**
+- Approximately **60% have liver metastases at diagnosis**
+- In a case report of 23 glucagonomas: 5-year OS (regardless of treatment) was **nearly 75%**
+
+## VIPoma — Overview
+
+- Secrete **vasoactive intestinal peptide (VIP) → severe secretory diarrhea**
+- Tend to be **solitary, intrapancreatic** tumors
+- **> 50% are metastatic at presentation**
+
+## VIPoma — Verner-Morrison Syndrome
+
+- VIP is a **neurotransmitter and intestinal secretagogue**
+- Hypersecretion causes **"pancreatic cholera"** (also known as **Verner-Morrison syndrome**):
+  - **Large-volume (average 4.5 L) watery diarrhea**
+  - **Metabolic acidosis**
+  - **Achlorhydria**
+  - **Hypokalemia**
+- If not properly identified and treated → death from **renal failure secondary to hypovolemia**
+
+## VIPoma — Diagnosis
+
+- Diagnosis requires:
+  - **Radiographic evidence** of a pancreatic tumor
+  - **History consistent** with the VIP hypersecretion syndrome
+  - Confirmation by **elevated plasma VIP level**
+
+## Somatostatinoma — Overview
+
+- **Less-defined clinical syndrome** than other functional PNETs
+- Not all tumors that hypersecrete somatostatin cause symptoms
+- The syndrome may include:
+  - Glucose intolerance
+  - Cholelithiasis
+  - Weight loss
+  - Diarrhea
+  - Steatorrhea
+  - Anemia
+
+## Somatostatinoma — Sites & the NF1 Connection
+
+- May arise in the **pancreas (56%)** or **duodenum**
+- May be **more aggressive if intrapancreatic**
+- **Duodenal somatostatinomas** are associated with **NF1 in ~50% of cases**
+- If discovered in the NF1 context, they are **less likely to be malignant**
+
+## Pancreatic Polypeptide–Secreting Tumors
+
+- PNETs that predominantly secrete **pancreatic polypeptide (PP)** are **extremely rare**
+- Whether they should be classified as **functional is debated** — no specific syndrome has been defined
+- Patients may present with:
+  - Intermittent abdominal pain
+  - Pancreatitis
+  - Glucose intolerance
+- In **MEN1**, these tumors tend to be **multifocal and malignant**
+- **PP as a marker in MEN1:** fasting PP levels **> 3× normal** correlate with a PNET likely large enough to detect on standard imaging
+
+## Nonfunctional Tumors — Definition
+
+- Characterized by **lack of hormone production** and hormone-associated syndromes
+- They have the potential to produce peptides (which do **not** cause hormone-producing symptoms):
+  - Pancreatic polypeptide
+  - Chromogranin A
+  - Ghrelin
+  - Neurotensin
+  - Subunits of chorionic gonadotropin
+  - Neuron-specific enolase
+- Patients with "nonfunctional" tumors can **develop hormone-secretion symptoms later** in their disease course
+
+## Nonfunctional Tumors — How Common?
+
+- The true proportion of nonfunctional PNETs is **difficult to know** — reports vary widely: **10% to 91%**
+
+## Nonfunctional Tumors — Why Estimates Vary
+
+- **Single-institution rates may be lower:** referral bias for functional tumors at academic medical centers
+- **Large public databases (SEER, NCDB) show higher rates:**
+  - Do not collect data on symptoms or hormone levels
+  - Default categorization is **nonfunctional** unless a specific functional histology code is recorded (e.g., insulinoma, gastrinoma, VIPoma, glucagonoma)
+- **Reasonable estimate: ~75% of PNETs are nonfunctional**
+
+## Nonfunctional Tumors — Symptomatic Presentation
+
+- In one report, **39%** were discovered due to **mass-effect symptoms**:
+  - Abdominal pain
+  - Jaundice
+  - Weight loss
+  - Abdominal mass
+  - Nausea, vomiting
+  - Back pain
+  - Pancreatitis
+- Symptomatic nonfunctional PNETs are **larger** than incidental ones (**2.5 vs. 1.8 cm**) and **more likely to have involved nodes** at diagnosis
+
+## Nonfunctional Tumors — Incidental Discovery
+
+- Approximately **35% of PNETs are discovered incidentally**
+- Frequency is **increasing** as use of high-quality axial imaging increases
+
+## Nonfunctional Tumors — Outcomes of Incidental PNETs
+
+- In one series of incidentally discovered PNETs:
+  - **19%** benign histopathologic findings → **89% 5-year OS**
+  - **52%** uncertain histology → **93% 5-year OS**
+  - **28%** malignant pathologic features → **50% 5-year OS**
+
+## Nonfunctional Tumors — Biomarker Caveats
+
+- Blood biomarkers that can be elevated with PNETs:
+  - Chromogranin A, pancreastatin, pancreatic polypeptide, neuron-specific enolase, tachykinins
+- **Limitations:**
+  - Lack of laboratory standards
+  - Varying sensitivity and specificity
+  - Serum chromogranin A can be elevated in kidney/heart disease, proton-pump inhibitor use, and other non-NEN tumors
+- **Currently, no data justify using these biomarkers in isolation** for diagnosis or treatment decision making
+
+## Imaging — Goals & Modalities
+
+- Imaging and endoscopy are used for:
+  - Primary tumor detection
+  - Staging
+  - Surgical planning
+  - Evaluation of **somatostatin receptor (SSTR)** expression
+- Modalities used most often:
+  - **CT**, **MRI**, **endoscopic US (EUS)**, standard **US**
+  - **Somatostatin receptor scintigraphy (SRS)**
+  - **Positron-emission tomography (PET)**
+
+## Imaging — CT: The First Stop
+
+- CT is often the **first modality** used to image PNETs
+- Valuable for detection of **primary, regional, and metastatic disease**
+- More sensitive for **hepatic metastases** than for primary tumors
+
+## FIGURE 65.2 — CT Appearance of a PNET
+
+> **FIGURE 65.2** — Arterial phase of a contrast-enhanced CT of the abdomen showing an **early enhancing pancreatic neuroendocrine tumor** in the **head and uncinate process** of the pancreas (**white arrow**), with a **necrotic node medially** (**red arrow**).
+
+**Teaching points:**
+
+- PNETs and their metastases are **hypervascular** → best seen in the **arterial phase**
+- Lesions **wash out** in the venous and delayed phases
+
+## CT — Sensitivity
+
+- Sensitivity for tumors **> 2 cm: 80% to 100%**
+- Can detect some PNETs **smaller than 0.5 cm**
+- However, more likely to **miss small lesions** compared with EUS
+
+## CT — Contrast Protocol Matters
+
+- CT should be obtained with **oral and IV contrast**
+- **IV contrast:** essential — PNETs and metastases are hypervascular, best seen in **arterial phase** (washout in venous/delayed phases)
+- **Oral contrast:** helpful for visualizing the **duodenum**
+
+## MRI — When to Use
+
+- Considered a **second-line test** for primary PNET detection
+- Indications:
+  - Superior delineation of **hepatic metastases** required
+  - **Iodinated contrast allergy**
+  - **Renal failure**
+- Should also be obtained **with IV contrast**
+
+## MRI — Tumor Characteristics
+
+- PNETs are:
+  - **Hypointense on T1**
+  - **Hyperintense on T2**
+- As with CT, lesions **< 1 cm may be missed**, regardless of contrast administration
+
+## Ultrasound — EUS
+
+- US is most commonly:
+  - **Combined with endoscopy (EUS)**, or
+  - Used **intraoperatively** for tumor localization
+- EUS may be used to identify:
+  - The **primary tumor**
+  - **Local nodal involvement**
+  - With **fine needle biopsy** → tissue diagnosis
+
+## Ultrasound — Performance
+
+- **EUS with FNB:** diagnostic accuracy of **90%**
+- **EUS sensitivity:** 79% to 82%; can detect tumors as small as **2 to 3 mm**
+- **Intraoperative US** (e.g., for insulinomas): sensitivity **80% to 100%**
+- Caveat: EUS and IOUS are **highly operator dependent**
+
+## SSTR Imaging — The Rationale
+
+- Imaging is **critical to clarify SSTR status** of the disease
+- Scintigraphy with **radiolabeled SST analogs** is a useful tool in diagnosis and treatment determination
+- There are **five somatostatin receptor subtypes (SSTR1–SSTR5)**
+- **SSTR2** is frequently expressed on **well-differentiated NETs** and serves as the **primary receptor** for somatostatin analogue imaging **and treatment**
+
+## OctreoScan and SPECT
+
+- Original somatostatin analogue imaging: the **OctreoScan**, using radiotracer **indium-111–DPTA-octreotide**
+- Basic form: whole-body planar image — dark spots indicate radiotracer bound to **SSTR2** (and to a lesser extent SSTR5 and SSTR3)
+- Most centers add **SPECT** (single-photon emission CT): axial 3D imaging + functional scintigraphic image
+- In one study, adding **SPECT improved lesion detection by 52%**
+
+## 68Ga-PET/CT — Ligands
+
+- Most modern SSTR-based imaging: **PET combined with CT**, using **gallium-68**–labeled somatostatin analogues:
+  - **68Ga-DOTA-Tyr(3)-octreotide (DOTATOC)**
+  - **68Ga-DOTA-1-Nal(3)-octreotide (DOTANOC)**
+  - **68Ga-DOTA-Tyr(3)-octreotate (DOTATATE)**
+- Each ligand varies in SSTR subtype affinity, but these differences are **not clinically significant**
+
+## 68Ga-PET/CT — Performance & Approval
+
+- **68Ga-PET/CT is the preferred functional imaging** of choice over OctreoScan
+- Detects both **functional and nonfunctional PNETs**
+- Studies consistently demonstrate **superiority over conventional imaging** (CT, MRI, OctreoScan) for detection of NET primary tumors and metastases
+- Approved for **general use in the United States in 2016**
+
+## 68Ga-PET/CT — Pitfalls
+
+- Care must be taken to differentiate NETs from **physiologic uptake of 68Ga**, seen in:
+  - **Uncinate process** of the pancreas
+  - **Pituitary**
+  - **Spleen** (or accessory spleen)
+  - **Kidneys**
+
+## 18FDG PET — Role in High-Grade Disease
+
+- **18-Fluoro-deoxy-glucose PET** is most often used when the tumor is **high grade**
+- Patients with PNETs **avid on 18FDG PET** are more likely to have **early disease progression** than those who are 18FDG PET negative
+
+## Surgery — Goals of Resection
+
+- Cure requires excision of:
+  - The **primary PNET**
+  - **Regional nodal disease**
+  - **Distant metastases**
+- Cure is **unlikely in the setting of distant metastases**
+- Despite this, patients may still **derive benefit** from surgical resection in metastatic disease → evaluate with a surgeon familiar with **NET-directed operations**
+
+## Surgery — Indications for Resection
+
+In general, resection is indicated for:
+
+1. **Functional, symptomatic PNETs**
+2. **Isolated G1 or G2 PNETs > 2 cm**
+3. **Metastatic disease** in which **all visible metastases can be resected**
+
+## Surgery — Palliative Resection
+
+- **Palliative resection of the primary** and **hepatic debulking** may be considered when:
+  - Symptomatic, advanced disease
+  - The **liver is the only focus** of distant metastases
+- Whether this affects overall survival is **unknown**
+
+## The Small PNET Dilemma
+
+- Generally accepted: **nonfunctional PNETs > 2 cm should be resected** (metastatic potential)
+- **Much debate** exists about **smaller PNETs**
+- In many centers: small tumors are **observed with serial imaging**, resected **if progression**
+- Evidence for this approach is **conflicting** — see the next three studies
+
+## Small PNETs — Lee et al. (2012)
+
+- Compared nonfunctional PNETs **< 4 cm**:
+  - **Nonoperative:** n = 77; median tumor size **1 cm**
+  - **Resection:** n = 56; median tumor size **1.8 cm**
+- In the operative group: **9% had positive nodes** (median tumor size 2.4 cm)
+- Mean follow-up: **3.75 years** (maximum, 12.75 years)
+
+## Small PNETs — Lee et al.: Results
+
+- In the **nonoperative** group:
+  - Median primary tumor size **did not change** during follow-up
+  - **No disease progression**
+  - **No disease-specific mortality**
+- Conclusion: **small PNETs can be safely managed nonoperatively**
+
+## Small PNETs — Sadot et al.
+
+- Reviewed **464 incidentally discovered, sporadic, small (< 3 cm), stage I–II PNETs**
+- **104 were recommended for observation**
+
+## Small PNETs — Sadot et al.: Results
+
+- **Observation group:** at last follow-up:
+  - Median tumor size unchanged (**1.2 cm**, P = .7)
+  - **No patient developed metastases**
+- **Resection group:**
+  - Low-grade pathology in **72 (95%)** tumors
+  - **5 (6%) developed recurrence** — after a median of **5.1 years** (range, 2.9–8.1)
+- **No patient in either group died from disease**; death from other causes in 11 of 181 (6%)
+- Conclusion: **observation of stable, small, incidental PNETs is reasonable** in selected patients
+
+## Small PNETs — The NCDB Counterpoint
+
+- NCDB study of **localized, nonfunctioning PNETs < 2 cm** (n = 380):
+  - **Resection → median OS > 5 years** vs. **2.3 years** with observation
+- **Important caveat:** NCDB inclusion requires a **tissue diagnosis** → many incidentally found, imaging-followed tumors were **not included**
+
+## Small PNETs — Bottom Line
+
+- Optimal management of nonfunctional tumors **< 2 cm is unclear**
+- In patients with **significant comorbidities**, observation seems reasonable
+- Reminder: **pancreas-directed operations are not without risk**
+
+## Surgery — Perioperative Morbidity
+
+- In the Lee et al. (2012) series:
+  - **46%** of surgically treated patients had a **perioperative complication**
+  - Most common: **pancreatic fistula**
+
+## FIGURE 65.3 — Distal Pancreatectomy
+
+> **FIGURE 65.3** — **A,** Intraoperative view of a pancreatic neuroendocrine tumor located in the **body of the pancreas**. **B,** Specimen resulting from **distal pancreatectomy and splenectomy**.
+
+## Distal Pancreatectomy — Technical Points
+
+- **Body and tail lesions** → **distal pancreatectomy**
+- Larger tumors commonly **invade the splenic vein** → **splenectomy** often performed
+- If tumors are small and do **not** invade the vein → **splenic preservation** should be considered
+
+## Surgery by Location — Head Lesions
+
+- Tumors in the **head**, especially if large → **pancreaticoduodenectomy (PD)**
+- **Small tumors in the head** can be considered for **enucleation**
+
+## Enucleation — Concept
+
+- More limited procedures (e.g., enucleation) are acceptable for **small, isolated PNETs**
+- In well-selected patients: associated with **relatively low complication rates**
+- Generally performed for:
+  - **Insulinomas**
+  - Small, isolated **gastrinomas** or **nonfunctional PNETs**
+
+## FIGURE 65.4 — Enucleation
+
+> **FIGURE 65.4** — **A,** Enucleation of an **insulinoma in the uncinate process**; tumor circled, duodenum laterally (D), superior mesenteric vein pulled medially for exposure (arrow). **B,** Enucleation of a PNET at the **superior aspect of the neck of the pancreas**; tumor (circle) mostly detached and rolled inferiorly over the pancreas. GDA, gastroduodenal artery; PV, portal vein; SV, splenic vein.
+
+## Enucleation — Comparative Outcomes
+
+- Three recent studies of enucleation for **small (1–3 cm) PNETs**
+- Compared with **PD or distal pancreatectomy**, enucleation showed:
+  - **Less blood loss**
+  - **Shorter operative times**
+  - **Fewer postoperative complications**
+  - **Less pancreatic insufficiency**
+- Can be approached safely via **laparotomy or laparoscopy**
+- Should be **reserved for PNETs most likely to be benign**
+
+## Enucleation — Selection Criteria & Technique
+
+- From a technical standpoint, enucleation should only be considered for PNETs that are:
+  - **2 to 3 mm away from the main pancreatic duct**
+  - **< 2 cm** in size
+  - Located relatively **near the surface** of the pancreatic parenchyma
+- **Intraoperative US** should be used to visualize the pancreatic duct during the procedure
+
+## Minimally Invasive Distal Pancreatectomy
+
+- To improve recovery, distal pancreatectomy may be performed **laparoscopically or robotically**
+- **Meta-analysis:** 18 studies, **1814 patients** with tumors amenable to distal pancreatectomy
+  - **43%** laparoscopic resection; remainder laparotomy
+
+## Laparoscopic DP — Meta-analysis Findings
+
+- Laparoscopic group had:
+  - **Shorter length of stay**
+  - **Less blood loss**
+  - **Fewer postoperative complications**
+- Encouragingly, **no difference** in:
+  - Margin positivity
+  - Postoperative pancreatic fistula
+  - Mortality
+- Caveat: **trend toward fewer lymph nodes sampled** with the laparoscopic approach
+
+## Resecting the Primary in Advanced Disease — The Debate
+
+- **Argument against resection:** unlikely to obtain a curative (R0) resection → risk of a large operation without survival benefit
+- **Counter-evidence:** Hill et al. (2009) — see next slide
+
+## FIGURE 65.5 — Hill et al. Survival Analysis
+
+> **FIGURE 65.5** — In a retrospective SEER analysis, Hill and colleagues demonstrated that OS of PNET patients can be **improved if surgical resection of the primary can be performed**. Patients in whom surgery was recommended but not performed (including palliative procedures) had median survival **on par with patients in whom surgery was not offered** — across **all disease stages**. *(Modified from Hill JS, et al. Cancer 2009;115:741–751.)*
+
+| Group | n |
+|---|---|
+| Resection performed | 310 |
+| Recommended, but not resected | 53 |
+| Surgery not recommended | 302 |
+
+*Log-rank P < .0001*
+
+## Hill et al. — Results & Interpretation
+
+- Patients who had surgery: median OS **114 months** vs. **35 months** with medical management
+- The trend **persisted even in the M1 subgroup** — surgery conferred a significant survival advantage
+- **Caution:** significant **selection bias** in such studies — benefit of resection cannot be assumed
+- Practical approach:
+  - Primary **growing** and/or at risk of complications (e.g., bleeding) → **consider removing the primary**
+  - Small, **asymptomatic, stable** primary in metastatic disease → **watch**
+
+## MEN1 — Surgical Complexity
+
+- Resection of the primary in **MEN1** is **more difficult and more controversial** than sporadic PNET:
+  - **Partial pancreatectomy only treats the tumor identified at operation**
+- Three PNET types most frequently encountered in MEN1:
+  - **Insulinomas**
+  - **Gastrinomas**
+  - **Nonfunctional tumors**
+- Imaging frequently shows **multiple small tumors**; functional and nonfunctional PNETs often **coexist**
+- **Resection of functional tumors is generally recommended**
+
+## MEN1 — Insulinomas
+
+- Insulinomas in MEN1 typically arise in the **tail of the pancreas**
+- When **many PNETs** are seen at surgery:
+  - **Distal pancreatectomy** (to the level of the superior mesenteric vein) has been suggested
+- PNETs in the **head** should be **enucleated**, if possible
+- **Cure rates of 90%** achieved with this method
+
+## MEN1 — Gastrinomas
+
+- More difficult to treat than insulinomas:
+  - **Biochemical cure is rare**
+  - **Recurrence is frequent**
+- In MEN1, gastrinomas tend to occur in the **duodenum**
+
+## MEN1 — Duodenal Exploration
+
+- In addition to careful **US examination of the pancreas**:
+  - **Transillumination of the duodenum**
+  - **Duodenotomy** for palpation of the wall
+- Purpose: ensure **excision of all gastrinomas**
+
+## MEN1 — Escalating to Extensive Surgery
+
+- If duodenal gastrinomas **preclude simple excision**:
+  - Consider **pancreas-preserving total duodenectomy** + enucleation of as many PNETs **> 1 cm** as possible
+- **More extensive surgery** for primary gastrinomas **> 2 cm**:
+  - More likely to see **resolution of ZES**
+  - Lower risk of **hepatic metastases** vs. unresected similarly sized PNETs
+- Gastrinoma primary in the **head**, especially **> 2 cm** → **PD is indicated**
+
+## VHL — Surgical Considerations
+
+- PNETs are found in **12% to 17% of patients with VHL**
+- Approximately **17%** of those tumors will eventually **metastasize**
+
+## VHL — Libutti Criteria & Validation
+
+- **Libutti et al. (1998):** PNETs **> 3 cm should be resected**
+  - Median size of PNETs in metastatic disease: **5 cm** vs. only **2 cm** in localized disease
+- **Prospective validation:** 44 VHL patients with PNETs observed or resected **based on size**
+  - Median follow-up **32 months** (range, 4–110 months)
+  - **None** who underwent resection developed metastatic disease
+
+## VHL — Blansfield Additions
+
+- **Blansfield et al. (2007)** suggested additional risk features:
+  - **Germline mutation in exon 3**
+  - **Doubling time < 500 days**
+- These features correlate with PNETs likely to metastasize
+- Libutti (2000) confirmed most VHL patients with metastatic PNETs have **exon 3 mutations**
+- **No study has validated** the inclusion of the Blansfield guidelines along with size criteria
+
+## Metastatic Disease — Nodal Involvement
+
+- At least **20% of PNET patients** have spread to **regional lymph nodes** at diagnosis
+- **No guideline** exists on the number of lymph nodes to sample, or a requirement for formal lymphadenectomy
+- However: lymph node metastases are associated with **increased risk of recurrence**
+- Recent studies suggest a **more aggressive approach may be of benefit**
+
+## Lymphadenectomy — Bartsch et al. (2012)
+
+- **48 cases of sporadic gastrinoma with N1 disease**
+- Primary tumor resected (variety of procedures) + **systematic lymphadenectomy**:
+  - Peripancreatic and pancreaticoduodenal nodes
+  - Nodes in the hepatoduodenal ligament along the hepatic artery
+  - Aortocaval nodes
+- **Formal lymphadenectomy = > 10 lymph nodes** pathologically assessed
+
+## Lymphadenectomy — Results & Supporting Evidence
+
+- **Bartsch:** formal lymphadenectomy → significantly higher **postoperative biologic cure rate**:
+  - Fasting gastrin **< 125 pg/mL** + negative secretin stimulation test
+  - Trend toward improved **disease-free survival**
+- In sporadic gastrinoma patients treated by **enucleation only vs. more extensive procedure + formal lymphadenectomy**:
+  - Significant improvement in **time-to-recurrence** with lymphadenectomy
+
+## Hepatic Metastases — The Problem
+
+- Hepatic metastases are seen in approximately **50% of PNET patients**
+- **Curative resection is rarely achieved**
+- However, surgical reduction of hepatic tumor burden may:
+  - **Diminish symptoms** from functional tumor syndromes
+  - **Delay liver failure** secondary to hepatic replacement
+
+## Hepatic Metastases — Cytoreductive Surgery
+
+- Surgical debulking is appropriate when an estimated **90% reduction of metastatic burden** can be achieved
+- **Tumor grade should be considered** — debulking reserved for **lower-grade tumors**
+- **Gold-standard cytoreductive technique: formal segmental resection**
+
+## Ablation & Embolization
+
+- Additional valuable techniques (advantages: preserve maximal normal liver parenchyma, lower complication rates):
+  - **Wedge resection**
+  - **Enucleation**
+  - **Ablation** (radiofrequency or microwave)
+  - **Hepatic artery embolization**
+- Ablative techniques are **best for small-volume isolated metastases (< 5 cm)**
+- Because most patients have **large, multiple tumors** → **hepatic artery embolic therapy** is often the most rational and preferred approach
+- A **standard set of criteria** guides patient selection
+
+## Transplantation
+
+- Preoperative factors predicting **poor outcome**:
+  - Primary located in the **pancreas or duodenum**
+  - Need for **upper abdominal exenteration**
+  - **Hepatomegaly**
+- A patient presenting for transplant with a **PNET and hepatomegaly**: estimated 5-year survival **12%**
+- Improves to **68%** if the patient has only **one or neither** of those factors
+- **Transplant is rarely curative**
+
+## Nonsurgical Management — Indications
+
+Medical management is indicated for patients with:
+
+- **Clinical symptoms** (hormone secretion and/or tumor bulk)
+- **High tumor burden**
+- **Metastatic disease**
+- **High-grade disease** (particularly nonlocalized)
+- **Progressive disease**
+
+## Medical Management — Goals
+
+- In the presence of metastases, treatment is **almost always noncurative**
+- Goals should be to:
+  - **Improve quality of life**
+  - **Extend survival**
+
+## Medical Therapy — Insulinomas (Diazoxide)
+
+- Hypoglycemia of insulinomas can be treated with **diazoxide (200–600 mg/day)**
+- **Fast-acting drug**, but may work in only **~50% of patients**
+- Nearly **50% experience side effects**:
+  - Fluid retention
+  - Nausea
+  - Hirsutism
+  - Palpitations
+  - Anorexia
+
+## Medical Therapy — ZES (PPIs)
+
+- Symptoms of Zollinger-Ellison syndrome are best treated with **proton-pump inhibitors (PPIs)**
+- Dose should be **titrated to effect**
+- Non-surgical candidates can be sustained on PPIs **long term**:
+  - Patients treated **> 10 years do not develop tachyphylaxis**
+  - May develop **achlorhydria** → can lead to **nutritional deficiencies**
+
+## Systemic Therapy — Choosing a Strategy
+
+- Given PNET heterogeneity, systemic therapy strategy depends on:
+  - **Tumor functional status**
+  - **Pathologic grade**
+  - **SSTR avidity** on functional imaging
+  - **Disease bulk**
+  - **Disease behavior**
+
+## Somatostatin Analogs — Mechanism & Role
+
+- Most well-differentiated NETs **express SSTRs** (most commonly **subtype 2**) and are avid on functional imaging (OctreoScan or 68Ga-DOTATATE PET/CT)
+- **SSAs (octreotide, lanreotide):**
+  - Typically **first-line** for advanced, progressive, **SSTR-avid PNETs**
+  - Also moderate **symptoms** in functional PNETs
+- **Antiproliferative mechanism:** bind primarily **SSTR2, SSTR5, SSTR3** → stimulate **cell-cycle arrest** and **inhibition of mitosis**
+
+## Somatostatin Analogs — Tolerability
+
+- Well-tolerated class; most common side effects:
+  - Flatulence
+  - Diarrhea or steatorrhea
+  - Nausea
+  - Cholelithiasis
+  - Glucose intolerance
+
+## PROMID Study — Octreotide
+
+- **85 patients** with well-differentiated, functioning and nonfunctioning, **metastatic midgut NETs**
+- Randomized: **42 octreotide LAR** vs. **43 placebo** (intramuscularly monthly)
+- Primary endpoint: **progression-free survival (PFS)**
+
+## PROMID — Results
+
+- At 6 months, stable disease:
+  - **Octreotide: 66.7%**
+  - **Placebo: 37.2%**
+- Median time to tumor progression:
+  - **Octreotide: 14.3 months**
+  - **Placebo: 6 months** (P < .001)
+
+## CLARINET Study — Lanreotide
+
+- **204 patients** with advanced, well- or moderately differentiated, **nonfunctioning**, low- or intermediate-grade NETs
+- Randomized: **101 lanreotide** vs. **103 placebo** (monthly)
+- At 24 months, estimated progression-free:
+  - **Lanreotide: 65.1%**
+  - **Placebo: 33%**
+- Median PFS: **not reached vs. 18 months** (P < .001)
+
+## SSAs — NCCN Recommendations
+
+- PROMID and CLARINET illustrated the **clinically relevant antiproliferative effects** of SSAs in patients with NETs
+- **NCCN guidelines** recommend **octreotide LAR or lanreotide first-line**:
+  - For **relief of symptoms** (in the setting of hormone release)
+  - For **tumor control** in patients with **SSTR-avid NETs**
+
+## Targeted Therapies — Overview
+
+- **Sunitinib** and **everolimus** have both demonstrated activity and are **approved** for advanced PNETs
+- Because of the **highly vascular nature** of PNETs, **inhibition of angiogenesis** is a favorable target
+  - **Sunitinib:** multitargeted receptor tyrosine kinase inhibitor — blocks **VEGF, PDGFR, and c-KIT**
+  - **Everolimus:** **mTOR inhibitor**
+
+## Everolimus — Mechanism
+
+- The **mTOR pathway** regulates:
+  - Cell survival
+  - Proliferation
+  - Metabolism
+- Several genes in the pathway are important in the development of **familial syndromes (NF1, TS)**
+- FDA approval for PNETs was established through **RADIANT-3**
+
+## RADIANT-3 — Design
+
+- **410 patients** with **advanced and progressive PNETs**
+- Randomized:
+  - **207 everolimus** vs. **203 placebo** daily, in conjunction with best supportive care
+
+## RADIANT-3 — Results
+
+- Everolimus associated with improved median PFS by **6.4 months**:
+  - **11 months vs. 4.6 months**
+- Increased response rate: **5% vs. 2%**
+- Well tolerated; most adverse events were **grade 1 or 2**:
+  - Stomatitis, rash, diarrhea, fatigue, upper respiratory infections
+
+## Everolimus — Overall Survival
+
+- Later survival analysis:
+  - Everolimus arm: median OS **44 months** — the **longest OS reported in a phase III study** for this population
+- **Crossover** from placebo to open-label everolimus was allowed at progression:
+  - **172 patients (85%)** of the placebo group crossed over
+  - Placebo cohort OS: **37.7 months**
+
+## Everolimus — A Bonus in Insulinomas
+
+- Everolimus can be **effective in treating insulinomas**
+- One of its known side effects is **induction of glucose intolerance** — which may **eliminate the symptoms of hypoglycemia** in some patients
+
+## Everolimus + Octreotide — Phase II
+
+- Phase II study of the **synergistic effects** of everolimus and octreotide:
+  - 50 NET patients, **14 with PNETs**
+- In the PNETs:
+  - **14% partial response**
+  - **None had complete response**
+- Despite relatively poor response rates: **clinical benefit rate was 92%** — better than many other drug combinations
+
+## Sunitinib — Mechanism
+
+- **Sunitinib is an effective therapy for PNETs**
+- Multitargeted **receptor tyrosine kinase inhibitor**:
+  - Blocks **VEGF**
+  - Blocks **PDGFR**
+  - Blocks **c-KIT**
+
+## Sunitinib — Phase III Trial
+
+- Randomized, multinational, phase III study:
+  - **171 patients** with advanced, well-differentiated PNETs
+  - Best supportive care + **daily sunitinib** vs. **placebo**
+- Study was **stopped early** because:
+  - Serious adverse events and deaths observed in the **placebo group**
+  - PFS **favored sunitinib**
+
+## Sunitinib — Phase III Results
+
+- Median PFS:
+  - **Sunitinib: 11.4 months**
+  - **Placebo: 5.5 months**
+- A notable difference in **objective overall response** was also seen (9.3% in the sunitinib arm)
+
+## Key Takeaways — Classification & Diagnosis
+
+- PNETs are the **second most common pancreatic tumor**; incidence is rising
+- **WHO 2017 grading** (Ki-67/mitotic count) is the most significant prognostic tool
+- All PNETs have malignant potential — but behavior is heterogeneous
+- ~30% are functional (insulinoma, gastrinoma, glucagonoma, VIPoma, somatostatinoma); functional tumors are detected earlier and fare better
+- **68Ga-PET/CT** is the preferred functional imaging modality; CT/MRI/EUS remain core tools
+
+## Key Takeaways — Surgery
+
+- Resect functional symptomatic tumors, isolated G1/G2 tumors > 2 cm, and resectable metastatic disease
+- Small incidental nonfunctional PNETs can often be **observed** — evidence is conflicting; tailor to comorbidities
+- **Enucleation** and **minimally invasive distal pancreatectomy** offer lower morbidity in selected patients
+- Hepatic debulking (≥90% cytoreduction) can palliate and delay liver failure; transplant is rarely curative
+- Familial syndromes (MEN1, VHL) demand specialized, individualized surgical strategies
+
+## Key Takeaways — Medical & Systemic Therapy
+
+- **Diazoxide** (insulinoma) and **PPIs** (ZES) control hormonal syndromes
+- **SSAs (octreotide, lanreotide):** first-line for SSTR-avid advanced PNETs — antiproliferative benefit proven in PROMID and CLARINET
+- **Everolimus (mTOR inhibitor):** PFS benefit in RADIANT-3; longest reported median OS (44 months); may ameliorate hypoglycemia in insulinomas
+- **Sunitinib (TKI):** PFS benefit (11.4 vs. 5.5 months) in advanced well-differentiated PNETs
+- Treatment selection depends on functional status, grade, SSTR avidity, bulk, and behavior
+
+## Summary
+
+- PNETs are rare but increasingly prevalent neuroendocrine neoplasms with distinct molecular underpinnings (MEN1/DAXX/ATRX, mTOR pathway)
+- Prognosis is driven by **grade, stage, functional status, and age**
+- Management is **multidisciplinary**: surgery, liver-directed therapy, and systemic treatments
+- Despite often indolent behavior, metastatic PNETs are generally incurable — goals are **quality of life and survival extension**
+- Familiarity with familial syndromes, imaging modalities, and the evolving systemic therapy landscape is essential for optimal patient care
+
+

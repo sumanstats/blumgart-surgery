@@ -2,11 +2,11 @@
 
 ::: {.panel-tabset}
 
-## Kimi
+## Qwen
 
 {{< reveal 63_Duodenal_Adenocarcinoma >}}
 
-## Qwen
+## Kimi
 
 {{< reveal Extras/small_intestine/63_Duodenal_Adenocarcinoma >}}
 
