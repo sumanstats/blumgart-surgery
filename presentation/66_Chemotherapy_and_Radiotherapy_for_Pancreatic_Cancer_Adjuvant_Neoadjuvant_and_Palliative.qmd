@@ -1,0 +1,1063 @@
+---
+title: "Chemotherapy and Radiotherapy for Pancreatic Cancer"
+subtitle: "Adjuvant, Neoadjuvant, and Palliative"
+format:
+  revealjs:
+    theme: dark
+---
+
+## Learning Objectives
+
+1. Describe the landmark adjuvant chemoradiotherapy trials (GITSG, EORTC, ESPAC-1, RTOG 9704, EORTC 40013)
+2. Trace the evolution of adjuvant chemotherapy: 5-FU → gemcitabine → GemCap → mFOLFIRINOX
+3. Apply standardized resectability criteria (AHPBA/SSO/SSAT, MD Anderson, NCCN)
+4. Evaluate the rationale and evidence for neoadjuvant therapy (PREOPANC, JSAP-05, ESPAC-5F, A021501)
+5. Summarize standards for locally advanced and metastatic disease (FOLFIRINOX, gemcitabine/nab-paclitaxel)
+
+## Presentation Roadmap
+
+| Section | Focus |
+|---|---|
+| Part 1 | Adjuvant chemoradiotherapy: GITSG → EORTC → ESPAC-1 → RTOG 9704 → RTOG-0848 |
+| Part 2 | Adjuvant chemotherapy: CONKO-001, ESPAC-3/4, JASPAC-01, PRODIGE-24, APACT |
+| Part 3 | Emerging adjuvant directions: vaccines, checkpoint blockade, MRD, targeted therapy |
+| Part 4 | Neoadjuvant therapy: rationale, resectability criteria, PREOPANC, ongoing trials |
+| Part 5 | Unresectable/metastatic disease: GemCap, FOLFIRINOX, MPACT, JCOG1407 |
+
+## Key Abbreviations (1/2)
+
+- **PDAC** — pancreatic ductal adenocarcinoma
+- **EBRT** — external beam radiotherapy; **RT/CRT** — (chemo)radiotherapy
+- **5-FU** — 5-fluorouracil; **FA/LV** — folinic acid/leucovorin
+- **Gem** — gemcitabine; **GemCap** — gemcitabine + capecitabine
+- **OS / DFS / PFS** — overall / disease-free / progression-free survival
+- **HR** — hazard ratio; **CI** — confidence interval; **RR** — relative risk/response rate
+
+## Key Abbreviations (2/2)
+
+- **R0 / R1** — margin-negative / margin-positive resection
+- **SMV, PV, SMA, CA, CHA, GDA, IVC** — vascular anatomy (superior mesenteric vein/artery, portal vein, celiac axis, common hepatic artery, gastroduodenal artery, inferior vena cava)
+- **RECIST** — Response Evaluation Criteria in Solid Tumors
+- **MRD** — minimal residual disease; **ctDNA** — circulating tumor DNA
+- **PS** — performance status (ECOG/WHO); **QoL** — quality of life
+
+## PART 1 · Adjuvant Chemoradiotherapy
+
+**From early radiosensitization concepts to modern practice**
+
+- GITSG → EORTC → ESPAC-1 → RTOG 9704 → EORTC 40013 → network meta-analysis → RTOG-0848
+
+## Origins — EBRT + 5-FU
+
+- Early studies examined **EBRT combined with 5-FU** as a radiosensitizing agent in **advanced, unresectable pancreatic adenocarcinoma**
+- These identified **increased median survival over radiotherapy alone**
+- This experience provided the rationale for testing chemoradiation **after potentially curative resection**
+
+## GITSG (1979) — First Randomized Evidence
+
+- Gastrointestinal Tumour Study Group: first RCT of adjuvant therapy after potentially curative pancreatic resection
+- **43 patients randomized** to:
+  - Chemoradiotherapy: **40 Gy EBRT + concurrent 5-FU**, then 5-FU for up to **2 years**
+  - vs. **no adjuvant treatment**
+
+## GITSG — Results
+
+- **Median, 2-year, and 5-year survival were all increased** in the treatment group (Table 66.1)
+- Established **proof of principle** for adjuvant chemoradiation in pancreatic cancer
+
+## GITSG — Limitations
+
+- **Slow recruitment:** only 43 of an intended **150 patients** enrolled over **8 years**
+- **Poor compliance:** only **9%** completed the intended 2 years of therapy
+- **Quality assurance problems:** **32%** had violations of the intended radiation therapy
+- An additional **30 patients** were entered into the treatment group **without randomization**
+
+## GITSG (1987) — Nonrandomized Extension
+
+- 30 additional (nonrandomized) patients treated with **60 Gy EBRT + 5-FU → follow-on 5-FU**
+- Median survival **18 months**; 2-year survival **46%** (Table 66.1)
+
+## Corroborating Nonrandomized Studies
+
+- Several subsequent studies showed **similar advantages** for adjuvant chemoradiation
+- Important caveats:
+  - **Nonrandomized** designs
+  - **Small numbers of patients**
+
+## EORTC Trial (Klinkenbijl et al.) — Design
+
+- Phase III trial on behalf of the **European Organization for Research and Treatment of Cancer (EORTC)**
+- **218 patients** randomized after curative resection:
+  - **114 pancreatic cancer**
+  - **92 periampullary cancer**
+- **40 Gy EBRT + concurrent 5-FU** vs. **no adjuvant treatment**
+
+## EORTC — Results in Pancreatic Cancer
+
+- **Non-statistically significant trend** toward survival benefit:
+  - Observation: median **1.0 year** (95% CI, 0.8–1.4)
+  - Treatment: median **1.3 years** (95% CI, 1.1–1.8)
+  - **P = .099**
+- A similar trend was noted in the **overall study population**
+
+## EORTC — Interpretation & Caveats
+
+- **~20% of patients randomized to chemoradiotherapy never received the intended treatment**
+- Raises the question: would the benefit have been **significant if the study were adequately powered**?
+
+## Table 66.1 — Early Adjuvant Chemoradiotherapy Studies (1/2)
+
+| Study | No. of Patients | Regimen | Median (mo) | 2-Year (%) | 5-Year (%) |
+|---|---|---|---|---|---|
+| GITSG-9173 (1985) | 21 | 60 Gy EBRT + 5-FU → follow-on 5-FU | 20 | 42 | 18^a^ |
+| | 22 | Surgery, observation | 11 | 15 | 0 |
+| GITSG (1987) | 30 | 60 Gy EBRT + 5-FU → follow-on 5-FU | 18 | 46 | — |
+
+^a^Estimated. *EBRT, external beam radiotherapy; 5-FU, 5-fluorouracil; GITSG, Gastrointestinal Tumour Study Group; PDAC, pancreatic ductal adenocarcinoma; RR, relative risk.*
+
+## Table 66.1 — Early Adjuvant Chemoradiotherapy Studies (2/2)
+
+| Study / Subset | No. of Patients | Regimen | Median (mo) | 2-Year (%) | 5-Year (%) |
+|---|---|---|---|---|---|
+| EORTC — PDAC | 60 | 40 Gy EBRT + 5-FU | 17.1 | 37 | 20 |
+| RR = 0.7 (0.5–1.1); P = .099 | 54 | Surgery, observation | 12.6 | 23 | 10 |
+| EORTC — Periampullary | 44 | 40 Gy EBRT + 5-FU | 39.5 | 70 | 38 |
+| RR = 0.9 (0.5–1.6); P = .737 | 49 | Surgery, observation | 40.1 | 64 | 36 |
+
+*EORTC, European Organization for Research and Treatment of Cancer.*
+
+## Setting the Stage — ESPAC
+
+- The early GITSG/EORTC studies motivated the **European Study Group for Pancreatic Cancer (ESPAC)** to conduct a definitive RCT of **adjuvant chemotherapy and chemoradiotherapy** after pancreatic cancer resection
+
+## ESPAC-1 — Design
+
+- ~Half of patients randomized to:
+  - **Chemotherapy** (bolus 5-FU × 6 months) vs. no chemotherapy, **and**
+  - **Chemoradiotherapy** (20 Gy + concurrent 5-FU) vs. no chemoradiotherapy
+- Other half: novel **2 × 2 factorial design**:
+
+```text
+        Randomization (2 x 2 factorial)
+                     |
+     +--------+--------+--------+--------+
+     |        |        |        |        |
+  Chemo     CRT     Both    Observation
+  (5-FU x   (20 Gy+           (no
+   6 mo)     5-FU)          treatment)
+```
+
+## ESPAC-1 — Scale & Uniqueness
+
+- **541 patients** from **61 centers** in **11 countries**
+- **Largest adjuvant therapy trial** in pancreatic cancer at the time
+- **289 patients** in the 2 × 2 factorial design
+- **256 patients** randomized to chemotherapy or chemoradiation vs. observation outside the original design (**ESPAC-1 plus**)
+
+## ESPAC-1 — Headline Results
+
+- Overall study: **failed to demonstrate a survival benefit for chemoradiotherapy** over observation
+- **Statistically significant survival benefit for chemotherapy**
+- Findings **maintained** when only the 2 × 2 factorial data were evaluated
+
+## Table 66.2 — ESPAC-1 Data (1/2)
+
+| Analysis | Arm | Median Survival (mo) | 2-Year (%) | 5-Year (%) |
+|---|---|---|---|---|
+| 2 × 2 chemoradiotherapy analysis | Chemoradiotherapy | 15.9 | 28.5 | 10 |
+| | No chemoradiotherapy | 17.9 | 41.4 | 19.6 (P = .053) |
+| 2 × 2 chemotherapy analysis | Chemotherapy | 20.1 | 39.7 | 21.1 |
+| | No chemotherapy | 15.5 | 30 | 8.4 (P = .009) |
+
+## Table 66.2 — ESPAC-1 Data (2/2): Full Factorial
+
+| Arm (2 × 2 factorial design) | Median Survival (mo) | 2-Year (%) | 5-Year (%) |
+|---|---|---|---|
+| Observation | 16.9 | 38.7 | 10.7 |
+| Chemoradiotherapy | 13.9 | 21.7 | 7.3 |
+| Chemotherapy | 21.6 | 44 | 29 (P = .0005) |
+| Chemoradiotherapy + follow-on chemotherapy | 19.9 | 35 | 13.2 |
+
+## ESPAC-1 — Criticisms
+
+- The **2 × 2 design itself** has been criticized
+- **Variation in the amount of radiotherapy received**
+- **Lack of adjuvant chemotherapy in the radiation arm**
+- These raised doubts about the observed **lack of benefit of radiotherapy**
+
+## ESPAC-1 — Why the Data Remain Relevant
+
+- Data from **both patient sets** are relevant
+- Chemotherapy benefit evident in **both R1 (margin-positive)** and **R0 (margin-negative)** patients
+- The 2 × 2 design answered the two most important questions:
+  1. Is there a benefit for **adjuvant chemoradiotherapy**?
+  2. Is there a benefit for **adjuvant chemotherapy**?
+
+## Meta-analytic Confirmation
+
+- Meta-analyses confirmed the survival advantage of adjuvant chemotherapy:
+  - **Reduced risk of death: 25%** (95% CI, 0.64–0.90; **P = .001**)
+- Benefit **more pronounced in R0** vs. R1 margin patients
+- Survival advantage **maintained when adjusted for quality of life** over the 24 months after resection
+- **Conclusion:** chemotherapy — not radiotherapy — provides the significant survival impact in resected pancreatic cancer
+
+## RTOG 9704 — Question & Design
+
+- Evaluated **gemcitabine** in conjunction with adjuvant chemoradiotherapy
+- **451 patients**, stratified by **tumor size, nodal involvement, resection margin status**
+
+```text
+Randomize
+   |
+   +-- Arm A: Gem x 3 wk -> 50.4 Gy EBRT + infusional 5-FU -> Gem x 10-12 wk
+   |
+   +-- Arm B: 5-FU x 3 wk -> 50.4 Gy EBRT + infusional 5-FU -> 5-FU x 10-12 wk
+```
+
+## RTOG 9704 — Results
+
+- Median survival **not improved** with gemcitabine:
+  - Gemcitabine: **20.5 months**
+  - 5-FU: **16.9 months**
+  - **HR = 0.84; 95% CI, 0.67–1.05; P = .12**
+- 5-year analysis: **no changes to the original inferences**
+
+## Table 66.3 — Gemcitabine-Based Chemoradiation Studies
+
+| Study | Patient No. | Regimen | Median Survival (mo) | 2-Year (%) | 3-Year (%) |
+|---|---|---|---|---|---|
+| EORTC-40013 | 45 | 4 cycles of Gem | 24.4 | 50.2 | — |
+| | 45 | 2 cycles of Gem → Gem + 50.5 Gy EBRT | 24.3 | 50.6 | — |
+| RTOG-9704 (head of pancreas only; eligible n = 388) | 187 | Gem pre-CRT, 50.4 Gy EBRT + 5-FU, Gem post-CRT | 20.5^a^ | — | 31 |
+| | 201 | 5-FU pre-CRT, 50.4 Gy EBRT + 5-FU, 5-FU post-CRT | 16.9 | — | 22 |
+
+^a^HR 0.82; CI 0.65–1.03; P = .09. *CRT, chemoradiotherapy; Gem, gemcitabine.*
+
+## EORTC 40013/FFCD/GERCOR — Design
+
+- Rationale: ESPAC-1 showed chemotherapy benefit — **could chemoradiotherapy improve on it?**
+- **Phase II** trial; **90 patients**, **R0 resections only**
+- Arm A: chemotherapy alone — **4 cycles gemcitabine**
+- Arm B: **2 courses gemcitabine → 50.4 Gy EBRT + weekly gemcitabine × 5–6 weeks**
+
+## EORTC 40013 — Results
+
+- **Primary endpoint (toxicity): comparable** in both arms
+- **Overall survival: 24 months in both arms**
+- **Disease-free survival:** 12 months (CRT arm) vs. 11 months (chemo-alone arm)
+- **Local relapse:** lower with CRT — **11% vs. 24%**
+- **Distant metastases:** no difference — **42% vs. 40%**
+
+## EORTC 40013 — Interpretation
+
+- Chemoradiotherapy added to chemotherapy can **reduce the incidence of local recurrence**, even though it does **not demonstrate an overall survival benefit**
+
+## PEFG Induction — Intensification Fails
+
+- Phase II RCT: does **more intense chemotherapy before chemoradiotherapy** help?
+- **3 months induction PEFG** (cisplatin, epirubicin, 5-FU, gemcitabine) **vs. gemcitabine**
+- Followed by chemoradiotherapy: **54–60 Gy RT + infusional 5-FU**
+- Result: intensification **did not increase survival**
+
+## Network Meta-analysis — Quantifying Benefit
+
+- Systematic review + network meta-analysis: **9 high-quality studies, 3033 patients**
+- Randomized across **6 treatment arms** (chemotherapy and/or chemoradiotherapy)
+- **Adjuvant chemotherapy with 5-FU or gemcitabine reduces mortality by at least one-third** in resected pancreatic adenocarcinoma
+- **Unclear** whether chemoradiation + chemotherapy is more effective than chemotherapy alone for survival
+- **Radiotherapy added toxicity**
+
+## Geographic Practice Divide
+
+- **North America:** adjuvant chemoradiation continues in many parts (contrast with Europe/Asia, where **adjuvant chemotherapy is standard of care**)
+- North American guidelines favor adjuvant chemotherapy **while allowing the addition of chemoradiotherapy**, particularly in **high-risk recurrence settings** (e.g., positive resection margins)
+
+## Interferon-Based Adjuvant Protocols
+
+- Evaluated in the adjuvant setting
+- **No improvement in survival**
+- **Significant toxicity**
+
+## NRG/RTOG-0848 — Design
+
+- Joint NRG (National Radiation Group)/RTOG-0848 **Phase III** trial (NCT01013649); commenced **2009**
+- Target: **950 patients** with resected pancreatic head cancer
+- **Step 1:** adjuvant **gemcitabine vs. gemcitabine + erlotinib**
+- **Step 2** (after 5 cycles gemcitabine, no progression): **fluoropyrimidine + radiotherapy vs. continued gemcitabine-based chemotherapy**
+
+## RTOG-0848 — Erlotinib Randomization Results
+
+- **163 gemcitabine** vs. **159 gemcitabine + erlotinib**
+- Median follow-up: **42.5 months** (surviving patients)
+- Median OS: **29.9 months** (gem; 95% CI, 21.7–33.4) vs. **28.1 months** (gem + erlotinib; 95% CI, 20.7–30.9)
+- **HR 1.04; P = .062** — no benefit with erlotinib
+- Design modified to **gemcitabine-based combinations**; radiation randomization completed — **final results anticipated 2022**
+
+## PART 2 · Adjuvant Chemotherapy
+
+**From biomodulated 5-FU to mFOLFIRINOX**
+
+- ESPAC-1 → CONKO-001 → ESPAC-3 → JASPAC-01 → ESPAC-4 → PRODIGE-24 → APACT
+
+## Foundation — ESPAC-1 & Meta-analyses
+
+- ESPAC-1 provided the **first evidence of survival benefit from adjuvant chemotherapy** (biomodulated 5-FU regimens)
+- Benefit evident in **both R1 and R0 resections**
+- Two meta-analyses confirmed:
+  - **25% reduced mortality risk** (95% CI, 0.64–0.90; P = .001)
+  - Advantage in **R0 vs. R1** margin patients
+- Survival advantage **maintained when adjusted for QoL** during 24 months post-resection
+- This advance drove the **next generation of trials**: ESPAC-3 (version 2), ESPAC-4, and translational runoffs
+
+## Emergence of Gemcitabine
+
+- Emerging evidence in the **1990s** demonstrated gemcitabine's value, initially in **advanced disease**
+- Provided the platform for adjuvant testing
+
+## CONKO-001 — Design
+
+- **Multicenter Phase III RCT**
+- **Adjuvant gemcitabine vs. observation** after resection of pancreatic cancer
+
+## CONKO-001 — Disease-Free Survival
+
+- Median DFS: **13.4 months** (95% CI, 11.4–15.3) with gemcitabine vs. **6.9 months** (95% CI, 6.1–7.8) with observation
+- **P < .001**
+- DFS: **3-year 23.5% vs. 7.5%**; **5-year 16.5% vs. 5.5%** (gemcitabine vs. observation)
+
+## CONKO-001 — Overall Survival
+
+- Median OS: **22.1 months** (95% CI, 18.4–25.8) vs. **20.2 months** (95% CI, 17–23.4)
+- **P = .06** — not statistically significant
+- OS: **3-year 34% vs. 20.5%**; **5-year 22.5% vs. 11.5%**
+
+## CONKO-001 — Long-Term Follow-up
+
+- 5- and 10-year analyses continued to demonstrate **significantly improved OS**:
+  - **5-year: 20.7% vs. 10.4%**
+  - **10-year: 12.2% vs. 7.7%** (gemcitabine vs. observation)
+- Establishes a **durable survival advantage** for adjuvant gemcitabine
+
+## Table 66.4 — Single-Agent Gemcitabine Adjuvant Trials (1/3)
+
+| Study | Patient No. | Regimen | Median OS (mo) | 1-Year (%) | 2-Year (%) | 3-Year (%) | 5-Year (%) |
+|---|---|---|---|---|---|---|---|
+| CONKO-001 | 179 | Gemcitabine | 22.1 | 72.5 | 47.5 | 34 | 22.5 |
+| | 175 | Surgery, observation | 20.2 | 72.5 | 42 | 20.5 | 11.5 |
+
+## Table 66.4 — Single-Agent Gemcitabine Adjuvant Trials (2/3)
+
+| Study | Patient No. | Regimen | Median OS (mo) | 1-Year (%) | 2-Year (%) | 3-Year (%) | 5-Year (%) |
+|---|---|---|---|---|---|---|---|
+| Yoshitomi et al. | 50 | Gemcitabine | 29.8 | 85.7 | — | 46.9 | — |
+| | 50 | Gemcitabine + uracil/tegafur | 21.2 (P = .28) | 80 | — | 30.4 | — |
+| JSAP-02 | 58 | Gemcitabine | 22.3 | 77.6 | 48.5 | — | 23.9 |
+| | 60 | Surgery alone | 18.4^a^ | 75 | 40 | — | 10.6 |
+
+^a^HR 0.77; CI 0.51–1.14; P = .19.
+
+## Table 66.4 — Single-Agent Gemcitabine Adjuvant Trials (3/3)
+
+| Study | Patient No. | Regimen | Median OS (mo) | 1-Year (%) | 2-Year (%) | 3-Year (%) | 5-Year (%) |
+|---|---|---|---|---|---|---|---|
+| ESPAC-3 | 537 | Gemcitabine | 23.6 (P = .39) | 80.1 | 49.1 | — | — |
+| | 551 | 5-FU/FA | 23.0 | 78.5 | 48.1 | — | — |
+| JASPAC-01 | 190 | Gemcitabine | 25.5 | — | — | 38.8 | 24.2 |
+| | 187 | S-1 | 46.5 (HR 0.57^b^) | — | — | 59.7^b^ | 44.1^b^ |
+
+^b^P < .0001 vs. gemcitabine; per protocol. *FA, folinic acid.*
+
+## Yoshitomi et al. — Gem ± UFT
+
+- Gemcitabine vs. gemcitabine + uracil/tegafur (UFT)
+- Median OS: **29.8 vs. 21.2 months** (P = .28)
+- **Addition of fluoropyrimidine to gemcitabine did not improve survival**
+- Both smaller studies provided **similar survival estimates** for gemcitabine with a benefit over observation
+
+## JSAP-02 — Gemcitabine vs Surgery Alone
+
+- Gemcitabine vs. surgery alone
+- Median OS: **22.3 vs. 18.4 months** (HR 0.77; 95% CI, 0.51–1.14; P = .19)
+- **5-year survival: 23.9% vs. 10.6%**
+
+## The Unanswered Question → ESPAC-3
+
+- CONKO-001: gemcitabine > observation ✓
+- Yoshitomi: gem + fluoropyrimidine not > gemcitabine ✓
+- **Remaining question: is gemcitabine superior to 5-FU** in the adjuvant setting?
+- → **ESPAC-3** set out to answer this
+
+## ESPAC-3 — Design & Results
+
+- **1088 patients** with PDAC
+- **5-FU/leucovorin (folinic acid)** vs. **gemcitabine**
+- **No difference** in:
+  - OS by treatment (**P = .39**)
+  - Treatment effect by resection status (**P = .56**)
+  - Progression-free survival (**P = .44**)
+- Median OS: **23.6 vs. 23.0 months** (gem vs. 5-FU/FA)
+
+## ESPAC-3 — Why Gemcitabine Won
+
+- **Similar efficacy** to 5-FU/FA
+- **Significantly reduced side effect and toxicity profile**
+- → Gemcitabine became the preferred adjuvant platform
+
+## ESPAC-3 — Timing & Duration (Valle et al.)
+
+- **Completion of all 6 cycles** of adjuvant chemotherapy was an **independent prognostic factor** after resection
+- **No survival disadvantage** from delaying chemotherapy initiation **up to 12 weeks** after resection
+- In the subgroup completing < 6 months: those starting **after 8 weeks fared better** than those starting before 8 weeks
+- Suggests benefit to **delaying chemotherapy up to 12 weeks** to allow adequate postoperative recovery
+- **Caution:** interpretation of non-prespecified subgroup analyses
+
+## JASPAC-01 — Design & S-1
+
+- **Phase III, multi-institutional trial, Japan**; **385 patients**: gemcitabine vs. **S-1** (orally active fluoropyrimidine)
+- **S-1 composition:**
+  - **Tegafur** — prodrug of 5-FU
+  - **Gimeracil** — minimizes systemic toxicity (inhibits 5-FU degradation)
+  - **Oteracil** — minimizes gastrointestinal toxicity
+  - Net effect: **increases the tolerable tumor dose of 5-FU**
+- S-1 was **noninferior to gemcitabine in advanced disease** → adjuvant noninferiority tested here
+
+## JASPAC-01 — Results
+
+- **Stopped early** at interim analysis per prespecified discontinuation criteria; all protocol treatments completed
+- **5-year OS: 44.1% (S-1) vs. 24.4% (gemcitabine)** (table reports 24.2%)
+- **Median OS (per protocol): 46.5 vs. 25.5 months**; HR 0.57
+- **3-year OS: 59.7% vs. 38.8%** (P < .0001 per protocol)
+- S-1 determined **noninferior** (indeed superior) to gemcitabine in Japanese patients
+
+## JASPAC-01 — Generalizability Caveat
+
+- **S-1 is not approved in the West**
+- Uncertain how generalizable these findings are **outside of Japan**
+
+## Multi-agent Attempts — Bakkevold (FAM)
+
+- Patients after pancreatic resection (**61 radical resections**, including 14 periampullary cancers)
+- **FAM** (5-FU + doxorubicin/Adriamycin + mitomycin C) vs. observation
+- **Median survival: 23 vs. 11 months (P = .02)** — significant
+- **But:** no improvement in **3-year or 5-year** survival
+- **Increased toxicity**; only **56%** completed the six courses
+
+## Takada et al. — MMC + 5-FU
+
+- **508 patients** with mixed pancreaticobiliary cancers (**158 pancreatic cancer**)
+- Surgery alone vs. surgery + **mitomycin C + 5-FU**
+- 5-year survival **not significantly different: 11.5% vs. 18%**
+- Key caveat: used **oral 5-FU** — lower bioavailability than IV due to **first-pass hepatic metabolism**
+
+## Kosuge et al. — Cisplatin + 5-FU
+
+- Multicenter RCT: surgery vs. surgery + **cisplatin + 5-FU**
+- **60% of patients also received 30 Gy intraoperative radiotherapy**
+- Conclusion: safe and well tolerated, but **no survival benefit**
+- Median OS 12.5 vs. 15.8 months; 5-year 26.4% vs. 14.9% (P = .94)
+
+## Table 66.5 — Combination Chemotherapy for Resected Pancreatic Cancer (1/2)
+
+| Study | Patient No. | Regimen | Median Survival (mo) | 2-Year (%) | 3-Year (%) | 5-Year (%) |
+|---|---|---|---|---|---|---|
+| Bakkevold et al. | 30 | 5-FU + doxorubicin + mitomycin C | 23 (P = .02) | 70 | 27 | 4 |
+| | 31 | Observation | 11 | 45 | 30 | 8 |
+| Takada et al. | 81 | 5-FU + mitomycin C | — | — | — | 11.5 |
+| | 77 | Observation | — | — | — | 18 |
+| Kosuge et al. | 45 | 5-FU + cisplatin | 12.5 | — | — | 26.4 |
+| | 44 | Observation | 15.8 | — | — | 14.9 (P = .94) |
+
+## Table 66.5 — Combination Chemotherapy for Resected Pancreatic Cancer (2/2)
+
+| Study | Patient No. | Regimen | Median Survival (mo) | 3-Year (%) |
+|---|---|---|---|---|
+| PRODIGE-24 | 247 | mFOLFIRINOX | 54.4 | 63.4 |
+| | 246 | Gemcitabine | 35.0 | 48.6 |
+| APACT | — | Gemcitabine + nab-paclitaxel | 19.4^a^ | — |
+| | — | Gemcitabine | 18.8^a^ | — |
+
+^a^Disease-free survival. *nab, albumin-bound.*
+
+## GemCap — From Advanced Disease to Adjuvant Testing
+
+- Gemcitabine + **capecitabine** (orally active 5-FU prodrug)
+- Produced a **small improvement in survival vs. gemcitabine alone in advanced disease**
+- Rationale for adjuvant evaluation in **ESPAC-4**
+
+## ESPAC-4 — Design
+
+- **732 patients** after curative resection for PDAC
+- Randomized:
+  - **Gemcitabine (n = 366)**
+  - **GemCap (n = 364)**
+
+## ESPAC-4 — Results
+
+- Median OS: **28.0 months GemCap** (95% CI, 23.5–31.5) vs. **25.5 months gemcitabine** (95% CI, 22.7–27.9)
+- **HR = 0.82 (95% CI, 0.68–0.98); P = .032**
+
+## ESPAC-4 — Updated Analysis & Clinical Role
+
+- Updated analysis maintained benefit:
+  - Median OS **30.2 months** (95% CI, 25.8–33.5) vs. **27.9 months** (95% CI, 24.8–29.9)
+- **GemCap established as an adjuvant option**
+- Now typically used for **older patients** and/or patients with **ECOG performance status > 1**
+
+## PRODIGE-24/ACCORD-24/CCTG PA.6 — Design
+
+- Established **adjuvant mFOLFIRINOX** (5-FU, oxaliplatin, leucovorin, irinotecan) as standard for **fit patients** after curative surgery
+- **493 patients** randomized: adjuvant **mFOLFIRINOX vs. gemcitabine** × 6 months
+
+## PRODIGE-24 — Eligibility
+
+- **WHO performance status 0–1**
+- **CA19-9 < 180 U/mL**
+- **R0 or R1 resection**
+
+## PRODIGE-24 — Results
+
+- Median follow-up: **33.6 months** (surviving patients)
+- **Median DFS: 21.6 vs. 12.8 months** — HR 0.58 (95% CI, 0.46–0.73); **P < .001**
+- **Median OS: 54.4 vs. 35.0 months** — HR 0.64 (95% CI, 0.48–0.86); **P = .03**
+
+## PRODIGE-24 — Toxicity & Practice Impact
+
+- **Grade 3–4 adverse events: 75.9% (mFOLFIRINOX) vs. 52.9% (gemcitabine)**
+- These data **immediately changed practice**
+- Support recommendation of **adjuvant mFOLFIRINOX for good performance status patients**
+
+## APACT — Design
+
+- **Adjuvant PAnCreas Trial** — role of **gemcitabine + nab-paclitaxel** in the adjuvant setting
+- **866 patients**: gemcitabine + nab-paclitaxel vs. gemcitabine alone × 6 cycles
+- Eligibility similar to adjuvant PRODIGE trial
+- Primary endpoint: **DFS adjudicated by blinded independent central review**
+
+## APACT — Results
+
+- Median follow-up: **38.5 months**
+- **DFS: 19.5 vs. 18.8 months** — HR 0.88 (95% CI, 0.729–1.063); **P = .18** (not significant; table: 19.4 months)
+- **Interim median OS: 40.5 vs. 36.2 months** — HR 0.82 (95% CI, 0.68–0.99); **P = .045**
+
+## APACT — Current Status
+
+- **Mature OS data awaited** — interim analysis did not show significant benefit with the doublet for the primary endpoint
+- Gemcitabine + nab-paclitaxel **remains investigational** in the adjuvant setting
+
+## Moving the Adjuvant Benchmark
+
+Key factors improving adjuvant therapy outcomes:
+
+- **Improved patient selection** (e.g., limiting by CA19-9 level)
+- **Integration of optimal supportive therapy measures**
+- **Improvements in therapy**
+
+## PART 3 · Emerging Directions in Adjuvant Therapy
+
+**Recruiting the immune system and targeting tumor biology**
+
+- Vaccines · Checkpoint blockade · MRD-guided therapy · Germline-targeted agents
+
+## Immunotherapy — The New Frontier
+
+- A preponderance of **ongoing adjuvant trials attempt to recruit the immune system**
+- Primarily in the form of **vaccines and checkpoint blockade**, given **after completion of standard adjuvant regimens**
+
+## MSK Personalized RNA Vaccine (NCT04161755)
+
+- Pilot **nonrandomized** study — Memorial Sloan Kettering Cancer Center
+- Combines:
+  - **RO7198457** — personalized RNA-based cancer vaccine
+  - **Atezolizumab** — PD-L1 antibody
+  - **Chemotherapy**
+- Vaccine uses **tumor antigens obtained from the surgical specimen** — unique to each individual patient's cancer
+
+## KRAS Vaccine Approaches
+
+- **Johns Hopkins (NCT04117087):** KRAS vaccine + **dual checkpoint blockade** — nivolumab (anti-PD-1) + ipilimumab (anti-CTLA4)
+- **University of Pennsylvania (NCT03592888):** KRAS vaccine after **depletion of regulatory T-cells with cyclophosphamide**
+- **NCT01088789 (Phase II):** allogeneic pancreatic tumor cell vaccine + cyclophosphamide
+
+## MRD-Guided Therapy & AMPLIFY
+
+- Emerging direction: incorporation of **minimal residual disease (MRD) status** into treatment decisions
+- **AMPLIFY trial:** patients with **KRAS-mutated disease** and **MRD detected via circulating tumor DNA** are treated with **KRAS-targeted immunotherapy**
+- **ELI-002:** mutant KRAS peptides + immune stimulant
+
+## APOLLO (NCT04858334)
+
+- **Phase II RCT** in resected pancreatic cancer
+- Investigates a **targeted drug (olaparib, PARP inhibitor)** in patients with germline mutations in **BRCA1, BRCA2, or PALB2** + chemotherapy vs. placebo + chemotherapy
+
+## Table 66.6 — Ongoing Trials: Adjuvant (1/2)
+
+| Study ID | Treatment | Comparator | Start (Accrual) |
+|---|---|---|---|
+| NCT04858334 (APOLLO) | Olaparib (PARPi) + chemotherapy | Placebo + chemotherapy | 2021 (152 patients) |
+| NCT04161755 | RO7198457 (personalized neoantigen vaccine) + atezolizumab + mFOLFIRINOX | N/A (Phase I) | 2019 (20) |
+| NCT04117087 | KRAS vaccine + nivolumab + ipilimumab | N/A (Phase I) | 2020 (30) |
+| NCT03592888 | mDC3/8-KRAS vaccine + cyclophosphamide | N/A (Phase I) | 2018 (12) |
+| NCT01088789 | Allogeneic pancreatic tumor cell vaccine + cyclophosphamide | N/A (Phase II) | 2010 (72) |
+
+## Table 66.6 — Ongoing Trials: Adjuvant/Neoadjuvant (2/2)
+
+| Study ID | Treatment | Comparator | Start (Accrual) |
+|---|---|---|---|
+| NCT04853017 (AMPLIFY) | ELI-002 (mutant KRAS peptides + immune-stimulant) in MRD-positive | N/A (Phase 1A/B); observation (Phase 2) | 2021 (159) |
+| NL7094 (PREOPANC-2) | FOLFIRINOX (neoadjuvant) | Gemcitabine/RT (neoadjuvant) + gemcitabine (adjuvant) | 2018 (368) |
+| NCT04340141 (A021806) | FOLFIRINOX × 8 (neoadjuvant) + FOLFIRINOX × 4 (adjuvant) | FOLFIRINOX × 12 (adjuvant) | 2020 (344) |
+| NCT04536077 | CDX-1140 (anti-CD40) (neoadjuvant) | CDX-1140 + CDX-301 (FLT3 ligand) (neoadjuvant) | 2021 (24) |
+
+## PART 4 · Neoadjuvant Treatment of Pancreatic Cancer
+
+**Treating earlier: rationale, resectability, and evidence**
+
+- Rationale → meta-analysis → resectability criteria → PREOPANC → JSAP-05 → TNT → ongoing phase III trials
+
+## Why Neoadjuvant? — The R1 Problem
+
+- Neoadjuvant treatment is **increasingly incorporated** into management of localized pancreatic cancer
+- Even patients deemed to have **resectable disease**: a large number have **microscopically incomplete (R1) resections** after surgery
+
+## Computational Rationale
+
+- Mathematical and computational analysis of primary pancreatic tumors and metastases:
+  - Pancreatic tumors grow in an **exponential manner**
+  - Patients are **likely to have metastases at diagnosis**
+- Modeling suggested: **targeting tumor cells while they are rapidly growing is crucial** — **any delay in treatment may be detrimental**
+
+## Goals of Neoadjuvant Therapy
+
+- **Increase the number of patients with resectable disease**
+- **Treat micrometastases not evident at staging**
+
+## Limitations of Existing Evidence
+
+- Proposed **> 30 years ago**; benefit demonstrated in some other tumor types
+- **Limited phase III RCT data** in pancreatic cancer
+- Many prior trials suffered **poor recruitment and closed early**
+- Many **grouped locally advanced with borderline resectable cancers**
+- Ongoing debate: **most appropriate patient groups, optimal regimen, definition of borderline disease**
+
+## Phase II RCT — Gem/Cisplatin Neoadjuvant CRT
+
+- Neoadjuvant chemoradiation (**gemcitabine + cisplatin**) followed by surgery vs. **immediate surgery** in resectable pancreatic cancer
+- Required **254 patients** — **terminated early** due to slow recruitment (**33 eligible patients per arm**)
+
+- Results:
+  - Tumor resection: **23 vs. 19 patients**
+  - **R0 resection: 48% vs. 52%**
+  - **pN0 rate: 30% vs. 39%**
+  - Postoperative complications: **comparable**
+  - **Median OS: 14.4 vs. 17.4 months**
+
+## Gillen Meta-analysis — Design
+
+- **111 studies** reviewed (**56 phase I/II**); median **31 patients/study** (IQR, 19–46)
+- Compared treatment of:
+  - **Group 1:** resectable tumors
+  - **Group 2:** nonresectable (borderline resectable/unresectable) tumors
+
+## Gillen — Treatment Landscape
+
+- Neoadjuvant **chemotherapy**: **96.4%** received gemcitabine, fluoropyrimidines, mitomycin C, and platinum compounds
+- Neoadjuvant **radiotherapy**: **93.7%** received doses ranging **24–63 Gy**
+
+## Gillen — Resectability & Response
+
+- Resectability estimated at **73.6% (Group 1)** vs. **33.2% (Group 2)**
+- Group 2 had **higher resection-associated morbidity and mortality**
+- **Combination chemotherapy** → higher estimated response and resection probabilities in initially unresectable disease vs. monotherapy
+
+## Gillen — Survival After Resection
+
+- Median survival after resection:
+  - **Group 1: 23.3 months** (range, 12–54)
+  - **Group 2: 20.5 months** (range, 9–62)
+
+## Implications — Resectable Disease
+
+- Data argue there is **no advantage to neoadjuvant treatment in resectable disease** vs. current practice of **resection + adjuvant therapy**
+- Recognizing that apparent early-stage pancreatic cancer can metastasize frequently:
+- Current guidance: neoadjuvant therapy in resectable disease is **optimally evaluated in clinical trials** or when **poor prognostic factors** are evident
+
+## Poor Prognostic Factors Favoring Neoadjuvant Use
+
+- **Elevated CA19-9**
+- **Large primary tumors**
+- **Large regional lymph nodes**
+- **Equivocal extrapancreatic imaging lesions**
+- **Excessive weight loss**
+- **Extreme pain**
+
+## Implications — Locally Advanced/Unresectable
+
+- **20%–30%** of patients initially staged as locally advanced/unresectable may undergo **resection after neoadjuvant treatment**
+- With **survival rates comparable to resectable cases**
+
+## Evolution of Neoadjuvant Philosophy
+
+- **Historical concept:** neoadjuvant treatment to **avoid surgery in poor responders** (aggressive tumor biology)
+- **Modern thinking:** neoadjuvant treatment may **improve survival of patients who respond**
+- → Findings suggest a need for trials focusing on **borderline/unresectable disease**
+
+## Defining Resectability — Consensus Process
+
+- Crucial point in evaluating neoadjuvant therapy: **criteria for defining resectability**
+- **Multi-institutional, multidisciplinary team of experts**: radiologists, gastroenterologists, hepatobiliary surgeons formulated a **consensus statement**
+
+## Resectable Disease — Criteria
+
+Per the preoperative reporting template:
+
+1. **No evidence of SMV or portal vein (PV) distortion**
+2. **Clear fat planes** around the **celiac axis (CA)**, **hepatic artery (HA)**, and **superior mesenteric artery (SMA)**
+
+## Borderline Resectable — Criteria
+
+1. **Venous involvement of SMV/PV** with distortion, narrowing, or occlusion of the vein — yet allowing **safe resection and replacement**
+2. **Gastroduodenal artery encasement up to the HA** with either short-segment encasement or direct abutment of the HA, **without extension to the CA**
+3. **Tumor abutment of the SMA ≤ 180 degrees** of the vessel wall circumference
+
+## Unresectable — Criteria
+
+1. **Unreconstructable SMV or PV occlusion**; arterial involvement depends on tumor location:
+2. **Pancreatic head tumor:** > 180° **SMA encasement**, **any CA abutment**, or **IVC** involvement
+3. **Pancreatic body/tail tumor:** **SMA or CA encasement > 180°**
+
+## Table 66.7 — AHPBA/SSO/SSAT Classification
+
+| Localization | Potentially Resectable | Borderline Resectable | Locally Advanced |
+|---|---|---|---|
+| SMV/PV | No abutment or encasement | Abutment, encasement, or occlusion | Not constructible |
+| SMA | No abutment or encasement | Abutment | Encasement |
+| CHA | No abutment or encasement | Abutment or short-segment encasement | Long-segment encasement |
+| Celiac trunk | No abutment or encasement | No abutment or encasement | Abutment |
+
+*Abutment, < 180 degrees of vascular circumference; encasement, ≥ 180 degrees.*
+
+## Table 66.7 — MD Anderson Classification
+
+| Localization | Potentially Resectable | Borderline Resectable | Locally Advanced |
+|---|---|---|---|
+| SMV/PV | Abutment or encasement without occlusion | Short-segment occlusion | Not constructible |
+| SMA | No abutment or encasement | Abutment | Encasement |
+| CHA | No abutment or encasement | Abutment or short-segment encasement | Long-segment encasement |
+| Celiac trunk | No abutment or encasement | Abutment | Encasement |
+
+## Two Classifications, Subtle Differences
+
+- Two main North American classifications:
+  - **MD Anderson Classification**
+  - **AHPBA/SSO/SSAT consensus guidelines** (American Hepato-Pancreato-Biliary Association/Society of Surgical Oncology/Society for Surgery of the Alimentary Tract)
+- Both define: **potentially resectable**, **borderline resectable**, and **locally unresectable** disease
+- Most definitions **overlap**, with a few **differences**
+
+## NCCN Guidelines & International Endorsement
+
+- These classifications + the **radiology reporting template** (Al-Hawary et al.) form the most recent **NCCN guidelines** (Table 66.8)
+- Largely endorsed by the **International Study Group for Pancreatic Surgery (ISGPS)**
+
+## Table 66.8 — NCCN (v2.2021) Resectability Criteria: Venous (1/2)
+
+| Status | Criteria |
+|---|---|
+| Resectable | No radiographic evidence of tumor contact with SMV or PV, **or** ≤ 180° contact **without vein distortion** |
+| Borderline resectable | Solid tumor contact with SMV/PV **> 180°**; or contact ≤ 180° **with distortion or thrombosis** but with suitable vessel proximal and distal allowing complete resection with **vein reconstruction**; solid tumor contact with **IVC** |
+| Locally advanced | **Unreconstructable** SMV or PV because of tumor involvement or occlusion |
+
+## Table 66.8 — NCCN (v2.2021) Resectability Criteria: Arterial (2/2)
+
+| Site | Resectable | Borderline Resectable | Locally Advanced |
+|---|---|---|---|
+| Head/uncinate | No arterial tumor contact involving CA, SMA, or CHA | CHA contact without extension to CA or hepatic artery bifurcation (resectable/reconstructable); SMA contact ≤ 180°; contact with variant arterial anatomy | SMA contact > 180°; CA contact > 180° |
+| Body/tail | CA contact ≤ 180° | SMA or CA contact > 180°; CA contact > 180° without aortic involvement and with intact, uninvolved GDA permitting **modified Appleby** | CA contact **with aortic involvement** |
+
+## MD Anderson — Borderline Disease Review
+
+- Review of **129 patients with borderline disease** from MD Anderson Cancer Center
+- Identified **considerable discrepancies** in classification of potentially resectable, borderline resectable, and locally unresectable disease **between the MD Anderson and AHPBA/SSO/SSAT systems**
+
+## MD Anderson — Response to Neoadjuvant Therapy
+
+- **122 patients restaged** after neoadjuvant therapy (RECIST v1.1):
+  - **84 (69%) stable disease**
+  - **15 (12%) partial response**
+  - **23 (19%) progressive disease**
+- **Only 1 patient (0.8%) had radiographic downstaging**
+- Yet **85 patients (66%) underwent pancreatectomy**
+
+## RECIST — A Poor Yardstick (and Survival Data)
+
+- Median survival: **22 months** (all 129 patients); **33 months** for those who underwent resection
+- **Current consensus:** RECIST criteria **cannot accurately determine tumor response and efficacy of neoadjuvant therapy**
+
+## PREOPANC — Landmark Phase III Design
+
+- One of the **first phase III RCTs of neoadjuvant vs. adjuvant therapy** reported in pancreatic cancer; updated analysis at median follow-up **56 months**
+- **246 patients** (resectable + borderline) randomized:
+
+```text
+Arm 1: Surgery -> adjuvant gemcitabine (n = 127)
+Arm 2: Gemcitabine -> gemcitabine + RT -> surgery
+       -> adjuvant gemcitabine (n = 119)
+```
+
+## PREOPANC — Results
+
+- **R0 resection rate: 72% vs. 43% (P < .001)** favoring the neoadjuvant group
+- **Median OS (intent-to-treat): 15.7 vs. 14.3 months** — HR 0.73 (95% CI, 0.56–0.96); **P = .025**
+- Neoadjuvant chemoradiotherapy also associated with:
+  - **Improved disease-free survival**
+  - **Lower lymph node involvement** at resection
+  - **Less neurovascular invasion**
+
+## PREOPANC — Resected Subset
+
+- For patients who underwent resection:
+  - **Neoadjuvant: 33.7 months** vs. **initial surgery: 17.3 months**
+  - **HR 0.47 (95% CI, 0.32–0.67); P = .029**
+- Demonstrated benefits of neoadjuvant gemcitabine + radiotherapy over adjuvant gemcitabine alone, particularly in **patients successfully resected after neoadjuvant therapy**
+
+## Preop-02/JSAP-05 — Japanese Evidence
+
+- Japan; **phase II/III**; resectable or borderline resectable disease
+- **6 weeks neoadjuvant gemcitabine + S-1** vs. **initial surgery**
+- All resected patients received **adjuvant S-1 × 24 weeks**
+- **Median OS: 36.7 vs. 26.7 months** — HR 0.72 (95% CI, 0.55–0.94); **P = .015**
+- Provides **phase III evidence supporting neoadjuvant therapy in an Asian population**
+
+## TNT (MGH) — Design
+
+- Massachusetts General Hospital; **total neoadjuvant treatment (TNT)** strategy
+- **48 patients** with **borderline resectable** pancreatic cancer
+- **8 cycles FOLFIRINOX**, then:
+  - **No vascular involvement → short-course radiation**
+  - **Residual vascular involvement → standard 5.5-week long-course radiation**
+- Radiotherapy administered **concurrently with capecitabine**
+
+## TNT (MGH) — Results
+
+- Entire cohort: **median PFS 14.7 months**; **median OS 37.7 months**
+- **65% (32/48) underwent surgery**, with **97% R0 resection**
+- Resected group: **median PFS 48.6 months**; **median OS not reached**
+- Survival compares **favorably to adjuvant benchmarks (PRODIGE-24)** — calls for a **large RCT** of neoadjuvant chemo ± radiotherapy
+
+## A021501 — Design
+
+- **2021 preliminary results**; phase II RCT in **borderline resectable** pancreatic cancer
+- Two parallel arms vs. **historical control** (not designed for direct arm comparison):
+  - **mFOLFIRINOX → hypofractionated radiation**, or
+  - **mFOLFIRINOX alone**
+  - Both followed by surgery
+- Primary endpoint: **18-month OS**
+
+## A021501 — Results
+
+- **Radiation arm closed early** — lack of efficacy at preplanned interim analysis
+- **18-month OS: 47.3%** (radiation arm; 95% CI, 33.7–59.7) vs. **67.9%** (chemotherapy alone; 95% CI, 54.6–78.0)
+- Chemotherapy arm **compared favorably to historical controls** and **met the predefined benchmark** of relative efficacy (**> 50%**)
+- Conclusion: supports **neoadjuvant systemic therapy** in borderline resectable pancreatic cancer
+
+## SWOG S1515 — Perioperative Comparison
+
+- **Southwest Oncology Group phase II RCT** — perioperative **mFOLFIRINOX** vs. **gemcitabine + nab-paclitaxel** in **resectable** pancreatic cancer
+- **Primary endpoint 2-year OS: 47%** (95% CI, 31–61) mFOLFIRINOX vs. **48%** (95% CI, 31–63) gem/nab-paclitaxel
+- **Median OS: 23.2** (95% CI, 17.6–45.9) vs. **23.6 months** (95% CI, 17.8–31.7)
+- **Median DFS after resection: 10.9 vs. 14.2 months**
+- No direct comparison allowed by design, but the **gem/nab-paclitaxel arm performed better than expected** — suggesting a larger-than-expected perioperative role
+
+## ESPAC-5F — Design
+
+- **Phase II RCT**; small **4-arm** study in **borderline resectable** pancreatic cancer
+- **Upfront surgery followed by adjuvant GemCap** vs. **3 neoadjuvant regimens**:
+  - **GemCap**
+  - **FOLFIRINOX**
+  - **Chemoradiation with capecitabine** as radiosensitizer
+- **90 patients enrolled**
+
+## ESPAC-5F — Results
+
+- **Resection rate: 62% (upfront surgery) vs. 55% (combined neoadjuvant arms)** — P = .668
+- **1-year survival: 40% (upfront surgery; 95% CI, 26–62) vs. 77% (neoadjuvant; 95% CI, 66–89)**
+- **HR 0.27 (95% CI, 0.13–0.55); P < .001**
+- Investigators concluded a **survival advantage to neoadjuvant therapy over upfront surgery**
+
+## Ongoing Neoadjuvant Trials
+
+- **PREOPANC-2** (Netherlands) — all-neoadjuvant approach
+- **Alliance A021806** (North America) — the definitive neoadjuvant vs. adjuvant question
+- **NEPAFOX** — perioperative FOLFIRINOX (closed early)
+
+## PREOPANC-2
+
+- Dutch Pancreatic Cancer Group — **completed enrollment** (EudraCT 2017-002036-17; NL7094)
+- **All-neoadjuvant approach**; resectable or borderline resectable disease:
+
+```text
+Arm 1: Neoadjuvant mFOLFIRINOX x 8 -> surgery
+Arm 2: PREOPANC regimen:
+       gemcitabine -> gemcitabine/RT -> surgery
+       -> adjuvant gemcitabine
+```
+
+## Alliance A021806 (NCT04340141)
+
+- **Phase III RCT**; planned **344 patients** with **resectable** pancreatic cancer:
+
+```text
+Arm 1: Initial surgery -> adjuvant mFOLFIRINOX
+Arm 2: mFOLFIRINOX x 8 (neoadjuvant) -> surgery
+       -> 4 additional adjuvant cycles
+```
+
+- **Activated 2020**; currently the **only North American RCT** specifically addressing **neoadjuvant vs. adjuvant chemotherapy**
+
+## NEPAFOX
+
+- Randomized **phase II/III** study: **neoadjuvant/adjuvant FOLFIRINOX** vs. **surgery + adjuvant gemcitabine**
+- Planned for **310 patients** — **stopped early due to slow accrual** (40 patients over 3 years)
+- Findings **suggested an advantage for adjuvant gemcitabine** over perioperative FOLFIRINOX — but too **underpowered** to be more than descriptive
+
+## PART 5 · Treatment for Unresectable Pancreatic Cancer
+
+**Locally advanced and metastatic disease**
+
+- 5-FU foundation → gemcitabine → combination era → FOLFIRINOX and gem/nab-paclitaxel
+
+## Scope & 5-FU Foundation
+
+- Unresectable pancreatic cancer encompasses:
+  - **Locally advanced disease** not amenable to surgical resection
+  - Disease with **de novo metastases**
+- RCTs demonstrated **5-FU and 5-FU-based regimens improve survival and quality of life vs. best supportive care** in advanced disease
+
+## Gemcitabine — New Gold Standard (Burris)
+
+- Gemcitabine **replaced 5-FU** as gold standard for palliative therapy in the **late 1990s**
+- Pivotal phase III trial demonstrated:
+  - Improvement in several QoL parameters (**Clinical Benefit Response**)
+  - **Modest improvement in median OS: 5.65 vs. 4.41 months** vs. bolus 5-FU (**P = .0025**)
+
+## GemCap — Advanced Disease
+
+- **553 patients** with advanced pancreatic cancer; gemcitabine + capecitabine vs. gemcitabine monotherapy
+- **Objective response rate: 19.1% vs. 12.4% (P = .034)**
+- **Improved PFS: HR 0.78 (95% CI, 0.66–0.93); P = .004**
+- **Trend toward improved OS: HR 0.86 (95% CI, 0.72–1.02); P = .08**
+
+## GemCap — Meta-analysis & Stage Subgroups
+
+- Survival benefit **confirmed in meta-analysis**: **HR 0.86 (95% CI, 0.75–0.98); P = .020**
+- GemCap became an **accepted regimen** in advanced pancreatic cancer
+- Benefit applied to **both locally advanced (155 patients)** and **metastatic disease (377 patients)** — similar OS benefit by stage
+
+## CCTG PA.3 — Gem + Erlotinib (Moore)
+
+- NCIC CTG study: **gemcitabine-erlotinib vs. gemcitabine alone**
+- **Survival benefit in the whole population** (locally advanced + metastatic): **6.24 vs. 5.91 months; P = .038**
+- Benefit **less pronounced in the locally advanced group** (138 of 569 patients) — likely because of being **underpowered for subset analysis**
+
+## PRODIGE-4/ACCORD-11 — FOLFIRINOX (Conroy)
+
+- Phase III trial in metastatic disease
+- **FOLFIRINOX** (folinic acid + 5-FU + irinotecan + oxaliplatin) vs. gemcitabine
+- **Median OS: 11.1 vs. 6.8 months (P < .001)**
+- **Response rate: 31.6% vs. 9.4%**
+
+## MPACT — Gem + nab-Paclitaxel (Von Hoff)
+
+- Phase III trial in metastatic disease
+- **Gemcitabine + nab-paclitaxel** vs. gemcitabine
+- **Median OS: 8.5 vs. 6.7 months (P < .001)**
+- **Response rate: 23% vs. 7%**
+
+## FOLFIRINOX vs Gem/Nab-P — The Gap
+
+- **Both regimens recommended** for metastatic disease with **good performance status and normal liver function**
+- FOLFIRINOX has **not been thoroughly compared head-to-head** with gemcitabine + nab-paclitaxel — **except in retrospective analyses**
+- **JCOG1407**: one of the **first prospective randomized comparisons** (in locally advanced disease)
+
+## Eligibility Differences & European Guidelines
+
+- **MPACT allowed:** patients **> 75 years** and **ECOG PS 2** — **both excluded** from PRODIGE
+- **European guidelines:** FOLFIRINOX for patients:
+  - **Up to 75 years of age**
+  - **ECOG performance status 0–1**
+  - **Bilirubin up to 1.5 × upper limit of normal**
+
+## JCOG1407 — Prospective Comparison in LAPC
+
+- **Phase II RCT**; **locally advanced pancreatic cancer**; Japanese institutions; **126 patients** (62 mFOLFIRINOX vs. 64 gem/nab-paclitaxel)
+- **1-year OS: 77.4%** (FOLFIRINOX; 95% CI, 64.9–86.0) vs. **82.5%** (gem/nab; 95% CI, 70.7–89.9) — initially favoring gem/nab-paclitaxel
+- **2-year OS: 48.2%** (95% CI, 33.3–61.7) vs. **39.7%** (95% CI, 28.6–52.5) — direction reversed
+- **Median OS: 2.0 years** (95% CI, 1.6–2.7) vs. **1.8 years** (95% CI, 1.5–2.0)
+- **Significant confidence interval overlap** — await further maturity of the data
+
+## Table 66.9 — Pivotal Phase III Trials in Advanced Disease (1/2)
+
+| Study | Regimen | No. of Patients | Locally Advanced No. (%) | Response Rate (%) | OS (mo) | P Value |
+|---|---|---|---|---|---|---|
+| Burris et al. | Gemcitabine | 63 | NA | 5.4 | 5.65 | .0025 |
+| | Bolus 5-FU | 63 | NA | 0 | 4.41 | |
+| Moore et al. | Gemcitabine | 284 | 67 (25) | 8.0 | 5.91 | .038 |
+| | Gemcitabine + erlotinib | 285 | 71 (24) | 8.6 | 6.24 | |
+| Cunningham et al. | Gemcitabine | 266 | 76 (29) | 12.4 | 6.2 | .08 (meta-analysis = .02) |
+| | Gemcitabine + capecitabine | 267 | 80 (30) | 19.1 | 7.1 | |
+
+## Table 66.9 — Pivotal Phase III Trials in Advanced Disease (2/2)
+
+| Study | Regimen | No. of Patients | Response Rate (%) | OS (mo) | P Value |
+|---|---|---|---|---|---|
+| Conroy et al. | Gemcitabine | 171 | 9.4 | 6.8 | < .001 |
+| | Folinic acid + 5-FU + irinotecan + oxaliplatin (FOLFIRINOX) | 171 | 31.6 | 11.1 | |
+| Von Hoff et al. | Gemcitabine | 430 | 7 | 6.7 | < .001 |
+| | Gemcitabine + nab-paclitaxel | 431 | 23 | 8.5 | |
+
+## Key Takeaways — Adjuvant Chemoradiotherapy
+
+- **GITSG/EORTC:** suggested benefit but small, flawed, underpowered
+- **ESPAC-1:** **chemotherapy — not chemoradiation — drives survival benefit** (25% reduced death risk on meta-analysis)
+- **RTOG 9704:** gemcitabine vs. 5-FU around CRT — no significant OS difference
+- **EORTC 40013:** CRT reduces **local relapse** without OS benefit
+- **Practice divide:** North America (selective CRT for high-risk) vs. Europe/Asia (chemotherapy alone standard)
+
+## Key Takeaways — Adjuvant Chemotherapy
+
+- **CONKO-001:** adjuvant gemcitabine improves DFS and long-term OS (10-yr: 12.2% vs. 7.7%)
+- **ESPAC-3:** gemcitabine = 5-FU/FA efficacy with **better tolerability**; completing 6 cycles matters; delay up to 12 weeks is safe
+- **JASPAC-01:** S-1 noninferior/superior in Japan (not approved in the West)
+- **ESPAC-4:** GemCap — modest improvement; option for older/less fit patients
+- **PRODIGE-24:** **mFOLFIRINOX standard for fit patients** (median OS 54.4 months)
+- **APACT:** gem/nab-paclitaxel **investigational** pending mature OS
+
+## Key Takeaways — Neoadjuvant Therapy
+
+- Rationale: exponential growth, likely micrometastases at diagnosis, R1 rates
+- **Resectability standardized** (consensus, MD Anderson, AHPBA/SSO/SSAT, NCCN; ISGPS-endorsed)
+- **PREOPANC** (R0 72% vs. 43%; ITT OS benefit) and **JSAP-05** support neoadjuvant therapy
+- **RECIST is inadequate** for response assessment after neoadjuvant therapy
+- **A021806** will answer the definitive neoadjuvant vs. adjuvant question in North America
+
+## Key Takeaways — Advanced/Palliative Disease
+
+- 5-FU → **gemcitabine (1997)** → multi-agent era
+- **GemCap** and **gem-erlotinib**: incremental gains
+- **FOLFIRINOX (OS 11.1 mo)** and **gem/nab-paclitaxel (OS 8.5 mo)**: current standards for fit patients
+- **JCOG1407:** prospective comparison maturing
+
+## The Evolving Landscape
+
+- **Patient selection** (CA19-9 limits), **supportive care**, and **therapy improvements** move the benchmark
+- **Immune strategies:** personalized RNA vaccines, KRAS vaccines, checkpoint blockade combinations
+- **MRD-guided treatment:** AMPLIFY (ELI-002 in ctDNA-positive, KRAS-mutant disease)
+- **Germline-targeted approaches:** APOLLO — olaparib in BRCA1/BRCA2/PALB2-mutated resected disease
+- **Total neoadjuvant strategies** under prospective evaluation (PREOPANC-2, A021806)
+
+## Closing Summary
+
+- Pancreatic cancer systemic therapy has advanced across the **entire disease continuum**:
+  - **Adjuvant:** from 5-FU to mFOLFIRINOX (median OS > 54 months in fit patients)
+  - **Neoadjuvant:** from concept to phase III evidence, with ongoing definitive trials
+  - **Palliative:** doubling of median OS in the metastatic setting within two decades
+- Future directions: **immunotherapy, MRD-guided and genotype-directed strategies, and refined perioperative sequencing**

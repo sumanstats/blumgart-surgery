@@ -10,4 +10,9 @@
 
 {{< reveal Extras/transplant/chap111_qwen >}}
 
+## Deepseek
+
+{{< reveal Extras/transplant/chap111_deepseek >}}
+
+
 :::

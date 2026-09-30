@@ -1,0 +1,2703 @@
+---
+format: revealjs
+---
+
+
+## Presentation Outline
+
+- Tumors of pancreatic ductal or ductal-related origin
+- Pancreatic intraepithelial neoplasia (PanIN)
+- Ductal adenocarcinoma and variants
+- Tumors associated with cystic intraductal neoplasm
+- Mucinous cystic neoplasm
+- Serous cystic tumors
+- Lymphoepithelial cyst
+- Neuroendocrine tumors of the pancreas
+- Tumors with acinar differentiation
+- Tumors of uncertain cell lineage
+- Mesenchymal and other non-epithelial tumors
+- Lymphomas
+- Pseudotumors of the pancreas
+- Metastatic tumors
+- Tumors of ampulla and periampulla
+
+---
+
+## Tumors of Pancreatic Ductal or Ductal-Related Origin
+
+- Pancreatic intraepithelial neoplasia (PanIN)
+- Ductal adenocarcinoma and variants
+- Tumors associated with cystic intraductal neoplasm
+- Mucinous cystic neoplasm
+- Serous cystic tumors
+- Lymphoepithelial cyst
+
+---
+
+## Pancreatic Intraepithelial Neoplasia (PanIN) — Definition
+
+- Noninvasive lesion confined to the pancreatic ducts
+- Observed only microscopically (< 0.5 cm)
+- Mucin-containing duct epithelium
+- Spectrum of architectural and cytologic atypia
+- Designated as:
+  - Low-grade (PanIN-1 and PanIN-2)
+  - High-grade dysplasia (PanIN-3)
+- High-grade PanIN is the key precursor of pancreatic ductal adenocarcinoma
+- Staged as carcinoma in situ
+
+---
+
+## PanIN — Epidemiology and Associations
+
+- Low-grade PanIN may be associated with:
+  - Age
+  - Obesity
+  - Diabetes mellitus (DM)
+- Found in more than 50% of people older than 50 years of age
+- Molecular and genomic studies indicate high-grade PanIN is the key precursor of PD adenocarcinoma
+
+---
+
+## PanIN — Pathologic Features
+
+**Low-grade PanIN (PanIN-1 and PanIN-2)**
+- Flat or mildly papillated, polarized mucinous epithelium
+- Mild to moderate nuclear atypia
+
+**High-grade PanIN (PanIN-3)**
+- Increased architectural complexity
+- Prominent epithelial papillations
+- Cribriforming
+- Budding micropapillae
+- Loss of cellular polarity
+- Marked cytologic atypia with nuclear pleomorphism
+- Frequent mitoses
+
+---
+
+## Figure 59.1 — Pancreatic Intraepithelial Neoplasia (PanIN)
+
+- **A:** Low-grade PanIN-1 — small, basally oriented nuclei; flat to minimally papilled mucinous epithelium
+- **B:** Low-grade PanIN-2 — mildly enlarged, basally oriented nuclei; increased papillary architecture
+- **C:** High-grade PanIN-3 — marked cytologic atypia, loss of nuclear polarity, increased architectural complexity
+
+---
+
+## PanIN — Biomarker Expression
+
+- Biomarker expression in high-grade PanIN usually mirrors ductal adenocarcinoma
+- Positive immunoreactivity to mucin 1 (MUC1)
+- Abnormal expression of carcinoembryonic antigen (CEA)
+
+---
+
+## PanIN — Clinical Significance
+
+- Presence of high-grade PanIN is virtually indicative of invasive adenocarcinoma in the pancreas
+- When PanIN-3 is identified without established invasive adenocarcinoma:
+  - Re-examine specimen thoroughly
+  - Exclude occult or overlooked early-stage adenocarcinoma
+- High-grade PanIN at resection margin = microscopically positive margin (R1)
+
+---
+
+## PanIN — Molecular Biology and Genetics
+
+- Most PanINs (high- and low-grade) harbor KRAS mutations
+- Significantly increased clonality in high-grade PanINs
+- High-grade PanIN shares genetic abnormalities with invasive ductal adenocarcinoma:
+  - Biallelic inactivation of CDKN2A (p16)
+  - Wide spectrum of clonal copy number changes
+- Lacks TP53 and SMAD4 mutations (commonly seen in invasive ductal adenocarcinoma)
+
+---
+
+## Ductal Adenocarcinoma and Variants — Definition
+
+- Pancreatic ductal adenocarcinoma (PDAC):
+  - Aggressive malignant epithelial neoplasm
+  - Derived from pancreatic duct
+  - Predominant glandular/tubular differentiation
+  - With or without mucin production
+
+**Less common variants:**
+- Adenosquamous carcinoma
+- Neuroendocrine carcinoma (NEC; small-cell or large-cell type)
+- Colloid carcinoma
+- Anaplastic undifferentiated carcinoma
+- Sarcomatoid undifferentiated carcinoma
+- Undifferentiated carcinoma with osteoclastic giant cells
+- Medullary carcinoma
+- Hepatoid carcinoma
+- Signet ring cell carcinoma
+- Mixed ductal and nonductal carcinoma
+
+---
+
+## PDAC — Epidemiology
+
+- Most common neoplasm of the pancreas (> 90%)
+- Most cases are sporadic
+- About 10% have documented familial history
+  - Deleterious germline mutation identified in 10%–20% of these patients
+- More commonly located in the head of the pancreas (two thirds)
+- Can also occur in pancreatic heterotopia of the upper GI tract (extremely rare)
+- Median age at diagnosis: approximately 70 years
+
+---
+
+## PDAC — Clinical Features
+
+**Most common presentation:**
+- Unexplained weight loss
+- Back pain
+- Jaundice
+- Decreased appetite
+- New-onset DM
+
+**Rare symptoms:**
+- Migratory thrombophlebitis
+- Acute pancreatitis (AP)
+
+---
+
+## PDAC — Diagnosis
+
+- Usually diagnosed when infiltrative solid mass detected by:
+  - CT scans with multiphasic dynamic contrast
+  - MRI
+- Endoscopic ultrasound (EUS) facilitates sampling of mass or lymph node
+- Serum biomarkers: CEA and CA 19-9 may be elevated
+
+---
+
+## PDAC — Prognosis
+
+- Overall 5-year survival: less than 10%
+- Most effective treatment: complete surgical resection + adjuvant systemic therapy
+  - 5-year survival: about 12%–20%
+  - Only possible in approximately 20% of patients at diagnosis
+- Neoadjuvant therapy may improve surgical resectability and survival in some cases
+- Untreated or metastatic disease: mean survival less than 6 months
+
+---
+
+## PDAC — Macroscopic Features
+
+- Solid firm mass with irregular contour
+- Mean size of resectable lesions: roughly 3.5 cm
+- Tumors in distal pancreas usually larger
+- Focal cystic changes may be observed distal to tumor (duct obstruction)
+- Obstruction of common bile duct (CBD) and main pancreatic duct is common (head of pancreas)
+- May grossly infiltrate:
+  - Ampulla
+  - Duodenal wall
+  - Superior mesenteric vein
+  - Uncinate process
+  - Retroperitoneum
+
+---
+
+## Figure 59.2 — Macroscopic Appearance of PDAC
+
+- Example of ductal adenocarcinoma in the head of the pancreas near the uncinate process
+- Obstructs the pancreatic duct (PD)
+- Impinges on common bile duct (CBD)
+- Causes distal dilatation of both ducts
+
+---
+
+## Conventional Ductal Adenocarcinoma — Microscopic Features
+
+- Most PDAC has gland formation
+- Significant heterogeneity in histologic pattern
+- Distorted glands/tubules of varying sizes and shapes
+- Large glands: cribriform and papillary pattern
+- Small units: incomplete gland/tubular structure or single cell-infiltrating pattern
+- Intracellular and extracellular mucin common
+- Desmoplastic reaction surrounding malignant epithelium is typical
+- Tumor stroma may appear hypocellular with dense pink collagen
+- Epithelium: columnar or cuboidal with considerable nuclear pleomorphism
+- Nuclear membrane irregular with smudged appearance
+- Better differentiated PDAC: well-formed glands with vesicular/foamy intracellular mucin and condensed thickened apical border
+
+---
+
+## Figure 59.3 — Microscopic Appearance of PDAC
+
+- **A:** Primary PDAC with histologic and cytologic heterogeneity
+- **B:** Primary PDAC with foamy intracellular mucin and thickened atypical cytoplasmic membrane
+- **C:** Metastatic PDAC to lung showing paradoxical better differentiation
+
+---
+
+## PDAC — Metastatic Pattern and Diagnostic Challenge
+
+- PDAC metastases to lung and omentum may present paradoxically with better differentiation
+- Diagnostically challenging during workup to exclude lung or other potential primary sites
+- Immunohistochemical and molecular studies can facilitate definitive diagnosis
+
+---
+
+## PDAC — Immunoprofile
+
+- Typical pancreatobiliary phenotype
+- Not entirely specific
+- Workup usually for diagnosis of exclusion of adenocarcinoma from other primary sites
+- Tumor cells:
+  - Positive for CK7
+  - Negative for CK20 and CDX2
+  - Express MUC1, CEA, CA125, and B72.3
+- DPC4 and CDKN2A gene mutations:
+  - Loss of nuclear SMAD4 expression
+  - Loss of p16 expression
+
+---
+
+## Adenosquamous Carcinoma
+
+- Homogenous squamous cell carcinoma of pancreas is uncommon
+- Varying extents of squamous differentiation can occur with conventional ductal adenocarcinoma
+- Classification requires ≥ 30% squamous component
+- **Pitfall:** Exclusively squamous carcinoma may be present in small biopsies or at metastatic site
+  - Raises differential of primary squamous cell carcinoma from other sites (e.g., lung)
+
+---
+
+## Neuroendocrine Carcinoma (NEC)
+
+- Rare; accounts for less than 1% of pancreatic neoplasms
+- Includes small-cell and large-cell variants
+- Clinically, pathologically, and genetically distinct from well-differentiated neuroendocrine tumor (NET)
+- More akin to PDAC in pathogenesis
+- Commonly associated with an adenocarcinoma component
+- Frequent TP53 and RB1 mutations or inactivation of RB1/P16 pathway
+- Diagnosis requires:
+  - Morphologic characteristics of NEC
+  - Immunoreactivity for neuroendocrine markers (chromogranin and synaptophysin)
+
+---
+
+## NEC — Subtypes and Grading
+
+**Small-cell subtype:**
+- Nuclear hyperchromasia and molding
+- Minimal cytoplasm
+- Loss of Rb protein expression in most cases
+
+**Large-cell subtype:**
+- Can be challenging, particularly in small biopsies
+- Morphologic features overlap with high-grade PanNET, acinar cell carcinoma, and other solid pancreatic neoplasms
+
+**Proliferative index (Ki67):**
+- Small-cell subtype: > 80%
+- Large-cell subtype: > 20%
+
+---
+
+## Figure 59.4 — Variants of PDAC
+
+- **A:** Adenosquamous carcinoma
+- **B:** Neuroendocrine carcinoma, non-small cell type
+- **C:** Undifferentiated carcinoma with osteoclastic giant cells
+- **D:** Mixed ductal (upper left) and acinar carcinoma (lower right)
+
+---
+
+## Colloid Carcinoma
+
+- Variant of PDAC
+- Usually derived from intestinal-type intraductal papillary mucinous neoplasia (IPMN)
+- **Defining feature:** At least 80% of neoplastic epithelium suspended in mucin
+- Tumor cells may have focal poorly differentiated signet ring cell morphology
+- Majority arranged as strips, clusters, or glands (well to moderately differentiated)
+- Immunoreactive for CK20, CDX2, and MUC2
+- More favorable outcomes than conventional PDAC
+- 5-year survival: greater than 55%
+
+---
+
+## Undifferentiated Carcinoma
+
+- Lacks recognizable cell line of differentiation
+- Hypercellularity with confluent growth pattern
+- Tumor cells may have partial or complete loss of immunoreactivity for cytokeratin
+- Usually positive for vimentin
+- **Sarcomatoid carcinoma and carcinosarcoma:**
+  - Significant component of malignant spindle cells
+  - With or without heterologous elements
+- Tumors with rhabdoid morphology may be associated with SWI/SNF pathway abnormalities
+  - Loss of nuclear expression of SMARCA2 or SMARCA4 proteins
+  - Designated as SMARC-deficient malignancies
+
+---
+
+## Undifferentiated Carcinoma with Osteoclastic Giant Cells
+
+- Loss of epithelial differentiation
+- Composed of both neoplastic and non-neoplastic mononuclear cells
+- Includes osteoclast-like multinucleated giant cells
+- Giant cells immunoreactive to histiocytic markers CD68 and CD163
+
+---
+
+## Mixed Ductal and Nonductal Carcinoma
+
+- Includes:
+  - Ductal-NEC
+  - Ductal-acinar cell carcinoma
+  - Ductal-neuroendocrine-acinar carcinoma combination
+- Discussed in corresponding sections of acinar cell carcinoma and NEC
+
+---
+
+## PDAC — Molecular Biology and Genetics
+
+**Somatic genetic drivers:**
+- Oncogenic mutations of KRAS (> 90%)
+- Mutation or deletion of:
+  - TP53 (75%)
+  - SMAD4 (55%)
+  - CDKN2A (80%)
+
+**Other less common somatic mutations:**
+- Genes involved in DNA repair and epigenetics
+- PALB2, ATM, CHEK2, RAD51
+
+---
+
+## PDAC — Hereditary Cases
+
+**Well-established susceptibility genes:**
+- BRCA2
+- ATM
+- BRCA1
+- PALB2
+- CDKN2A
+- STK11
+- PRSS1
+- SPINK1
+- DNA mismatch repair genes
+
+- Majority of familial aggregations of PDAC have uncertain underlying genetic abnormalities
+
+---
+
+## Tumors Associated with Cystic Intraductal Neoplasm — Overview
+
+- Group of neoplasms with prominent intraductal papillary growth pattern
+- Grossly visible cystic lesions in most cases (> 5 mm)
+- May involve main pancreatic duct or accessory branch ducts
+
+**Subtypes based on epithelial phenotype:**
+- Intraductal papillary mucinous neoplasm (IPMN)
+- Intraductal oncocytic papillary neoplasm (IOPN)
+- Intraductal tubulopapillary neoplasm (ITPN)
+
+- Neoplastic epithelium exhibits spectrum of histologic and cytologic atypia
+- Designated as low-grade or high-grade neoplasm
+- Invasive carcinoma when stromal invasion is present
+
+---
+
+## Intraductal Neoplasms — Epidemiology and Clinical Features
+
+- Can occur in wide range of age groups
+- More common in older adults in their 50s and 60s
+- Location in head of pancreas more common than distal portion
+- Lesions can be multifocal
+- Most common and better evaluated: IPMN
+
+**IPMN can involve:**
+1. Main pancreatic duct with prominent dilation
+2. Branch ducts with isolated cystic lesion (no apparent communication with main duct)
+3. Mixed main-branch duct type
+
+**Clinical symptoms:** Nonspecific — pain, chronic pancreatitis (CP), DM, jaundice
+- In absence of invasive carcinoma, serum CEA and CA19-9 may not be elevated
+- Markers may be elevated only in cyst fluid from aspiration samples
+
+---
+
+## IPMN — Prognosis
+
+- Without invasive carcinoma: favorable prognosis
+  - Branch-duct subtype: 5-year survival > 85%
+- Main-duct subtype:
+  - Often associated with multifocal lesions
+  - Greater risk of high-grade dysplasia and carcinoma
+  - Higher risk of recurrence
+- With invasive carcinoma: depends on tumor stage and subtype
+  - 5-year survival ranges from 35% to 90%
+- IPMN with associated colloid carcinoma: significantly better outcome than conventional PDAC
+- IOPN and ITPN with invasive carcinoma also appear to have better prognoses (may not be conclusive due to rarity)
+
+---
+
+## IPMN — Macroscopic Features
+
+**Main-duct IPMN:**
+- May involve a portion of duct or entire duct, including ampulla
+- Mucin extrusion may be visualized by upper GI endoscopy or ERCP
+- Dilated duct usually filled with mucin and soft papillary projections
+
+**Branch-duct IPMN:**
+- May lack visible connection to main duct
+- Usually present as multilocular cysts filled with mucin
+
+**High-risk features:**
+- Larger IPMNs (> 3 cm)
+- Mural nodules or intracystic masses
+- More likely to harbor high-grade dysplasia or invasive carcinoma
+
+---
+
+## Figure 59.5 — Macroscopic Appearance of IPMN
+
+- **A:** Total pancreatectomy (head left, tail right) with multifocal IPMN involving the entire main duct
+- **B:** Distal pancreatectomy with mixed main-duct and branch-duct IPMN
+
+---
+
+## IPMN — Microscopic Features
+
+- Intraductal proliferation of columnar epithelium
+- Abundant intracellular and extracellular mucin
+- Categorized as low- or high-grade dysplasia based on:
+  - Histologic complexity
+  - Cytologic atypia
+
+**Subtypes:**
+- Intestinal type
+- Gastric type
+- Pancreatobiliary type
+
+---
+
+## IPMN — Intestinal Type
+
+- Commonly associated with main-duct IPMN
+- Neoplastic epithelium forms villous papillary architecture
+- Tall columnar intestinal-type cells
+- Elongated nuclei with apical intracellular mucin
+- High-grade dysplasia commonly observed
+- **Immunophenotype:**
+  - Positive: CK20, CDX2, MUC2
+  - Negative: CK7, MUC1
+
+---
+
+## IPMN — Gastric Type
+
+- Often found in branch ducts
+- Lining epithelium has gastric foveolar phenotype
+- Often with low-grade dysplasia
+- High-grade dysplasia and invasive carcinoma can occur
+- **Immunophenotype:**
+  - Positive: CK7, MUC5AC
+  - Negative: CK20, CDX2, MUC2, MUC1
+
+---
+
+## IPMN — Pancreatobiliary Type
+
+- Usually involves main pancreatic duct
+- More complex architecture with anastomosing papillae
+- Composed of cuboidal cells with eosinophilic or amphophilic cytoplasm
+- May or may not contain intracellular mucin
+- Most have high-grade dysplasia within the lesion
+- **Immunophenotype:**
+  - Positive: CK7, MUC1, MUC5AC
+  - Negative: CK20, CDX2, MUC2
+
+---
+
+## Figure 59.6 — Histopathology of IPMN and Variants
+
+- **A:** Intestinal-type IPMN in main pancreatic duct with associated invasive colloid carcinoma; CBD not involved
+- **B:** Gastric-type IPMN with foveolar-type epithelium
+- **C:** Intraductal oncocytic papillary neoplasm (IOPN) with papillary growth pattern and eosinophilic/oncocytic cytoplasm
+- **D:** Intraductal tubulopapillary neoplasm (ITPN) with complex tubular and cribriform pattern, lack of intracellular mucin
+
+---
+
+## Adenocarcinoma Arising in IPMN
+
+- Can be either colloid type or conventional PDAC type
+- **Colloid type:** Associated with intestinal-type IPMN
+- **Conventional PDAC type:** Commonly associated with pancreatobiliary-type or gastric-type IPMN
+- Thorough examination and adequate sampling crucial to identify occult carcinoma
+- Particularly important in large lesions or cysts with complex architecture
+
+---
+
+## Intraductal Oncocytic Papillary Neoplasm (IOPN)
+
+- Considered a variant of intraductal cystic papillary neoplasm
+- Unique pathologic and molecular characteristics
+- Exophytic growth pattern with friable papillary projections into dilated pancreatic ducts
+- Histologically: back-to-back papillary or cribriform complexes
+- Lined by multilayered columnar cells
+- Characteristic eosinophilic (oncocytic) and granular cytoplasm
+- Focal mucin-containing neoplastic epithelium can be observed
+- **Immunophenotype:**
+  - Oncocytic cells: positive for MUC1, MUC6, Heppar-1
+  - Mucin-containing goblet cells: positive for MUC2, MUC5AC
+
+---
+
+## Intraductal Tubulopapillary Neoplasm (ITPN)
+
+- Least common pancreatic intraductal neoplasm
+- Predominant tubule-forming neoplasia with PD epithelial phenotype
+- Lack of mucin production
+- Macroscopically: more solid, less cystic appearance
+- Intraductal growth may be difficult to recognize
+- Microscopically: tightly packed tubules forming cribriform-appearing nests
+- Tumor cells: cuboidal with scant eosinophilic or amphophilic cytoplasm
+- Foci of necrosis and high-grade dysplasia common
+- Invasive carcinoma identified in 70% of reported cases
+- **Immunophenotype:**
+  - Positive: CK7, MUC1, MUC6
+  - Negative: MUC2, MUC5AC
+
+---
+
+## Intraductal Neoplasms — Molecular Biology and Genetics
+
+- **IPMN:**
+  - KRAS mutations: 60%–80%
+  - GNAS mutations: 50%–70% (particularly intestinal phenotype)
+  - RNF43 mutations: approximately 50%
+  - GNAS mutation appears unique to IPMN (KRAS also common in PDAC)
+- **IOPN:**
+  - No defining genomic alterations in most cases
+  - Recurrent mutations of ERBB4, ARHGAP26, ASXL1, EPHA8 identified in some cases
+- **ITPN:**
+  - Alterations in chromatin remodeling genes: MLL1-3, BAP1
+  - PI3K pathway genes
+
+---
+
+## Mucinous Cystic Neoplasm (MCN) — Definition
+
+- Cystic lesions of the pancreas
+- Lined by mucin-producing neoplastic epithelium
+- Can exhibit low-grade to high-grade dysplasia
+- Noninvasive MCN = mucinous cystadenoma
+- With invasion = mucinous cystadenocarcinoma
+
+---
+
+## MCN — Epidemiology and Clinical Features
+
+- Occurs almost exclusively in women (> 98%)
+- Mean onset age: 48 years
+- Patients with mucinous cystadenocarcinoma are 5–10 years older on average
+  - Suggests potential malignant progression from mucinous cystadenoma
+- Majority located in body and tail of pancreas (> 98%)
+- Radiographically: thick-walled cystic lesions without communication with pancreatic ducts
+- Cystic fluid from preoperative aspiration shows elevated CEA levels
+  - Helps distinguish MCN from nonmucinous cystic lesions
+  - Serous cystadenoma, cystic neuroendocrine tumor, solid pseudopapillary neoplasm
+
+---
+
+## MCN — Prognosis
+
+- Noninvasive MCN: favorable prognosis
+  - 5-year survival: 100%
+- Invasive mucinous cystadenocarcinoma: depends on pathologic stage
+  - Tumor size and metastatic status
+  - Estimated 5-year survival: 26%
+
+---
+
+## MCN — Pathologic Features
+
+- Median diameter: approximately 6 cm
+- Cyst wall fibrotic with peripheral calcifications ("egg-shell calcifications")
+- MCNs with invasive carcinoma are reportedly larger
+- Cyst lining relatively smooth in low-grade MCNs
+- Irregularities (papillary projections, nodules) may be present in high-grade MCNs or mucinous cystadenocarcinoma
+- Cyst can be unilocular or multilocular
+- Contains thick mucin or necrotic debris
+
+---
+
+## MCN — Microscopic Features
+
+- Typical MCN lined by tall columnar cells with abundant apical intracellular mucin
+- Cyst wall may be denuded and lack epithelial lining
+- Epithelium may be cuboidal and devoid of intracellular mucin
+- **Defining features:**
+  - Subepithelial spindle cell-rich, ovarian-like stroma
+  - Nests of epithelioid cells resembling luteinized cells within stroma
+- Density of ovarian-like stroma varies:
+  - More cellular in younger patients
+  - Less cellular in postmenopausal patients
+  - Larger tumors tend to have less dense stroma
+
+---
+
+## Figure 59.7 — Mucinous Cystic Neoplasm (MCN)
+
+- **A:** Gross photo of MCN with a unilocular cyst in the tail of pancreas without involvement of pancreatic duct
+- **B:** Low-grade MCN lined by a single layer of tall columnar mucinous epithelium overlying dense ovarian-like stroma
+- **C:** Ovarian-like stroma immunoreactive to estrogen receptor
+
+---
+
+## MCN — Grading
+
+**Low-grade MCN:**
+- Maintains cellular polarity
+- Minimal nuclear stratification
+- Mild to moderate cytologic atypia
+
+**High-grade MCN:**
+- Increased architectural complexity
+- Cribriform and branching epithelium
+- Budding papillae
+- Loss of cellular polarity
+- Significant cytologic atypia
+- Frequent mitotic activity
+
+---
+
+## MCN — Invasive Carcinoma
+
+- When invasive carcinoma is present, it recapitulates the phenotype of PDAC
+- Includes:
+  - Conventional tubular type adenocarcinoma
+  - Adenosquamous carcinoma
+  - Undifferentiated carcinoma with osteoclast-like giant cells
+
+---
+
+## MCN — Immunophenotype
+
+- Neoplastic epithelium is predominantly of the pancreatobiliary type
+- Exhibits pancreatobiliary immunophenotype
+  - Reactivity to CK7 and CEA
+- Mucinous cystadenocarcinoma expresses MUC1
+- May lose nuclear SMAD4 expression
+- Ovarian-like stromal cells:
+  - Positive for estrogen and progesterone receptors
+  - Luteinized cells immunoreactive to α-inhibin and calretinin
+
+---
+
+## MCN — Molecular Biology and Genetics
+
+- Malignant epithelium harbors activating KRAS mutations in codon 12
+- RNF43 gene alterations in 50%–66% of cases
+
+---
+
+## Serous Cystic Tumors — Introduction
+
+- Exact pathogenesis not known
+- Abnormal VHL/HIF pathway regulation in cells of centroacinar origin postulated as potential tumor cytogenesis
+- Vast majority are benign
+- Synonymous terminology with serous cystadenoma
+- **Classification:**
+  - Microcystic serous adenoma (most common)
+  - Oligocystic serous adenoma
+  - Solid serous adenoma
+  - VHL syndrome-associated serous cystic adenoma
+  - Mixed serous-neuroendocrine neoplasm
+- Rare cases of serous cystadenocarcinoma (1%–3%)
+- No specific morphologic criteria or molecular alterations characterizing malignant transformation
+- Strict criteria for serous cystadenocarcinoma: presence of distant metastasis (< 0.2% of cases)
+
+---
+
+## Serous Cystadenoma — Epidemiology
+
+- Accounts for 1%–2% of all pancreatic neoplasms
+- 10%–16% of operations for pancreatic cystic lesions
+- Most discovered incidentally by abdominal imaging
+- Typically identified in age group 50–60 years (mean age 58)
+- Female predominance (7:3)
+- Patients may have nonspecific symptoms secondary to local mass effect
+- More than 50% are asymptomatic
+
+---
+
+## Serous Cystadenoma — Clinical Features
+
+- CT scan: well-circumscribed, multinodular cystic or microcystic mass
+- Characteristic central scar with sunburst calcification pattern in approximately 30% of cases
+- Tumor does not communicate with PD system
+- Prognosis generally excellent
+- Surgical resection almost always curative
+- Radiographic observation considered appropriate for asymptomatic tumors after diagnosis
+
+---
+
+## Serous Cystadenoma — Pathologic Features
+
+- Most commonly located in body or tail of pancreas (> 50%)
+- Solitary tumor
+- When associated with germline VHL gene alterations: multifocal lesions throughout entire pancreas
+- Size varies; can be relatively large (up to 25 cm)
+- **Microcystic variant:**
+  - Well demarcated
+  - Numerous minute cysts (1–2 mm)
+  - Sponge-like texture
+  - Calcifications may be observed in central scar
+- **Macrocystic (oligocystic) type:**
+  - Lacks central scar
+  - Larger cysts (1–3 cm)
+  - Unilocular or multilocular
+- **Solid-type serous cystadenoma:** No cystic formation
+- Serous cystadenomas do not usually communicate with PD system
+
+---
+
+## Figure 59.8 — Serous Cystadenoma
+
+- **A:** Gross photo of serous cystadenoma with numerous minute cysts
+- **B:** Microscopically, cysts lined by a single layer of cuboidal epithelium with clear cytoplasm and homogeneously hyperchromatic nuclei
+- **C:** Co-existing serous cystadenoma (upper right) and neuroendocrine tumors (lower left) in a case of von Hippel-Lindau (VHL) syndrome
+
+---
+
+## Serous Cystadenoma — Microscopic Features
+
+- Cysts lined by a single layer of nonmucinous, cuboidal epithelium
+- Sharp cell borders
+- Glycogen-containing clear cytoplasm
+- Homogeneously hyperchromatic, round nuclei
+- Distinctive capillary-rich network underlies tumor epithelium
+- Nuclear atypia and mitotic activity uncommon
+- Cytoplasm and cyst contents devoid of mucin and mucin-related glycoproteins/oncoproteins
+  - Monoclonal CEA, CA125, CA19.9, MUC1
+- This feature helps establish preoperative diagnosis
+
+---
+
+## Serous Cystadenoma — VHL Association
+
+- Associated with VHL disease in 50%–90% of cases
+- Usually presents as multifocal lesions throughout entire pancreas (diffuse serous cystadenoma)
+- Can occur in microcystic or macrocystic form
+- No significant morphologic distinction between sporadic and familial VHL-associated serous cystadenoma
+- Neuroendocrine neoplasms can also develop in VHL disease:
+  - 10%–17% of PanNET
+  - 70% of neuroendocrine microadenomas
+- Serous and neuroendocrine tumors can exist independently or intermingle
+  - Mixed serous-neuroendocrine phenotype
+
+---
+
+## Serous Cystadenocarcinoma
+
+- Unequivocal examples exceedingly rare (< 0.2%)
+- Require evidence of distant metastasis (often to liver)
+- Large tumors may exhibit locally aggressive features:
+  - Direct extension or adhesion to adjacent organs/structures
+  - Including liver
+- Do not fulfill typical definition of malignancy
+
+---
+
+## Serous Tumors — Immunophenotype
+
+- Recapitulate centroacinar cells in histopathology and immunophenotype
+- Express:
+  - Low molecular weight and broad-spectrum cytokeratins
+  - EMA
+  - MUC6
+  - Inhibin
+
+---
+
+## Serous Tumors — Molecular Biology and Genetics
+
+- VHL gene alterations account for both familial and sporadic serous cystic tumors
+- Somatic VHL mutations at 3p25.3: 50% of cases
+- Loss of heterozygosity of 3p: 90% of cases
+- Allelic loss of chromosome 10p reported in 50% of serous cystadenomas
+
+---
+
+## Lymphoepithelial Cyst (LEC)
+
+- Benign unilocular or multilocular lesions
+- Lined by squamous epithelium
+- Surrounding cuff of lymphocytes in cyst wall
+- Rare: less than 1% of all pancreatic cystic lesions
+- Pathogenesis unknown
+- **Hypothetical etiologies:**
+  - Development from squamous metaplasia of pancreatic ducts
+  - Derivation from epithelial remnants in lymph nodes
+  - Displacement of branchial cysts and fusion with pancreas during embryogenesis
+  - Form of teratoma
+
+---
+
+## LEC — Epidemiology and Clinical Features
+
+- Strong male preponderance (male to female ratio 3–4:1)
+- Mean age: 56 years
+- About half present incidentally
+- Remaining associated with nonspecific symptoms
+- Preoperative differential diagnosis includes:
+  - Serous cystadenoma
+  - MCN
+  - IPMN
+  - Pseudocyst
+- Mean size at presentation: 4.7 cm
+- Well circumscribed without communication with pancreatic ducts
+- Sharply demarcated from adjacent normal pancreas
+
+---
+
+## LEC — Pathologic Features
+
+- Cyst filled with chalky keratin debris
+- Inner cyst wall smooth to granular
+- Most lined by keratinized squamous epithelium
+- Nonkeratinizing squamous epithelium, transitional epithelium, and flat cuboidal epithelium can be present
+- Lining epithelium may exhibit reactive atypia secondary to inflammation
+- Dysplasia is absent
+- Layer of lymphoid stroma with varying thickness immediately beneath squamous epithelium
+- May have germinal center formation
+
+---
+
+## Figure 59.9 — Lymphoepithelial Cyst (LEC)
+
+- **A:** Gross photo of LEC filled with chalky keratin debris
+- **B:** LEC lined by keratinized squamous epithelium overlying lymphoid tissue; keratin debris present in cyst content
+
+---
+
+## Neuroendocrine Tumors of the Pancreas — Historical Background
+
+- Islet cell tumor first recognized in autopsy specimen by Nicholls in 1902
+- After discovery of glucose regulatory function of insulin by Banting and Best et al. in 1921:
+  - Insulinoma derived from β-cell of islet reported in 1924
+- Virginia K. Franz at Columbia University described glucagonoma in detail in 1940
+  - First one-stage pancreaticoduodenectomy specimen obtained by Allan Whipple
+  - Production of glucagon confirmed only after radioimmunoassay became available in 1966
+- Other functional islet tumors documented:
+  - Gastrinoma associated with MEN-1 syndrome
+  - VIPoma associated with Verner-Morrison syndrome
+- Nonfunctional PanNET initially designated as "endocrine-inactive islet cell tumors"
+
+---
+
+## PanNEN — WHO 2019 Classification
+
+1. **Pancreatic neuroendocrine microadenoma** (< 5 mm)
+2. **Well-differentiated PanNET**
+   - Nonfunctional
+   - Functional (with clinical evidence of hormone release)
+   - Insulinoma, glucagonoma, gastrinoma, VIPoma
+3. **Poorly differentiated pancreatic NEC (PanNEC)**
+   - Small cell and large cell PanNEC
+   - Considered a variant carcinoma (discussed with PDAC)
+
+---
+
+## Pancreatic Neuroendocrine Microadenoma
+
+- Arbitrarily designated by size: smaller than 5 mm
+- Considered a precursor neoplasm of well-differentiated PanNET
+- Particularly in setting of hereditary conditions and functional PanNETs
+- Numerous microadenomas of varying sizes can be seen in background
+- Before they are large enough (> 5 mm) to be designated as PanNETs
+- **Common issue:** Distinguishing enlarged islet or aggregate of islets from microadenoma
+- Normal pancreatic islets made up of two predominant endocrine cell populations:
+  - Glucagon-producing α-cells
+  - Insulin-producing β-cells
+- α-cell and β-cell distribution delineated by immunohistochemical stains for glucagon and insulin
+
+---
+
+## Figure 59.10 — Microadenoma vs. Islet Cell Hyperplasia
+
+- Nonneoplastic islet aggregate (**A**) with normal central insulin (**B**) and peripheral glucagon (**C**) distribution on immunostains
+- Pancreatic neuroendocrine microadenoma (**D**) lacks insulin expression (**E**) and has clonal production of glucagon (**F**)
+
+---
+
+## Microadenoma vs. Normal Islet
+
+- Regardless of size of islet:
+  - If glucagon and insulin distributions reveal a normal pattern → not a neoplasm
+- Microadenoma represents a neoplastic process:
+  - Hormone production is either clonal with abnormal distribution
+  - Or derives from random expression of multiple pancreatic or nonpancreatic peptide hormones
+
+---
+
+## Islet Aggregation and Nesidioblastosis
+
+- Aggregation of islets commonly seen in atrophic pancreas
+  - Secondary to duct obstruction by tumor or diffuse CP
+- Islet aggregates sometimes considered synonymous with "nesidioblastosis" — misconception
+- George F. Laidlaw coined term nesidioblastosis in 1938
+  - Greek words for islet (nesidion) and builder (blastos)
+  - Emphasized cells differentiate and bud from PD epithelium to form new islet tissue
+  - Believed to be pathogenic mechanism of congenital hyperinsulinemia
+- In 1970s–1980s, nesidioblastosis synonymous with congenital hyperinsulinemia
+- 1995: Genetic basis identified as inactivating mutation in subunit forming β-cell plasma membrane ATP-dependent potassium channel
+- Malfunction, not proliferation, of β-cells accountable for hyperinsulinemia
+- Preferred terminology: idiopathic hyperinsulinism of infant or adult
+- Term nesidioblastosis not recommended for hyperinsulinism or islet aggregates in atrophic pancreas
+
+---
+
+## PanNET — Classification
+
+- Historically classified as:
+  1. Functional NETs with clinical evidence of hormone release and associated symptoms
+  2. Nonfunctional NETs
+- Further stratified by tumor differentiation and tumor grade
+- Two categories sometimes used interchangeably — generated confusion
+- Best classified as:
+  - Well-differentiated PanNET
+  - Poorly differentiated PanNEC
+
+---
+
+## PanNET — Pathologic Features (1)
+
+- Vary in size; solid and fleshy appearance
+- Characteristic pathologic features of neuroendocrine lineage
+- Morphologically resemble nonneoplastic counterpart (neuroendocrine cells of islet)
+- Tumor cells contain neuroendocrine secretory granules in cytoplasm
+- Diffuse and strong immunoreactivity to neuroendocrine markers:
+  - Chromogranin-A
+  - Synaptophysin
+- Most PanNETs are low- to intermediate-grade (WHO G1 and G2)
+- Can rarely progress to high-grade (WHO G3)
+  - Mitotic activity > 20 per 10 high-power fields
+  - Ki67 proliferative index > 20%
+
+---
+
+## PanNET — Pathologic Features (2)
+
+- High-grade component in PanNET usually not homogenous
+- Lower-grade counterpart often observed in resection specimens or specimens from different sites
+  - Primary vs. metastasis
+- G3 PanNET rarely seen at initial presentation without obvious progression
+- Distinguishing high-grade PanNET (WHO G3) from PanNEC in small biopsies can be challenging
+- Poorly differentiated PanNECs:
+  - Do not resemble neuroendocrine cells of islet
+  - Rarely resemble any nonneoplastic epithelial cell counterparts
+  - High-grade cytologic features
+  - Only partial expression of neuroendocrine markers
+- PanNEC does not represent genetic progression from lower-grade PanNET
+
+---
+
+## PanNET — Macroscopic Features
+
+- Most sharply demarcated from adjacent pancreatic parenchyma
+- Or encapsulated
+- Small tumors: homogeneous and fleshy in consistency
+- Partially cystic tumors not uncommon (secondary to degenerative changes)
+- Large PanNETs: often multiloculated or multinodular
+- Can exhibit gross invasion into:
+  - Peripancreatic tissues
+  - Mesentery
+  - Adjacent organs (stomach, duodenum, colon, spleen)
+- Vascular invasion may be grossly evident (particularly splenic vein)
+- Most do not involve pancreatic duct
+- Variant of serotonin-producing PanNET described:
+  - Arises from pancreatic duct with associated fibrosis
+  - Similar to mesenteric fibrosis seen in NETs of small intestine
+  - May generate clinical impression of ductal adenocarcinoma (duct obstruction and jaundice)
+
+---
+
+## Figure 59.11 — Well-Differentiated PanNET
+
+- **A:** Gross photo of PanNET with well-circumscribed, fleshy-appearing lesion
+- **B:** PanNET showing trabecular pattern with low-grade cytologic features
+
+---
+
+## PanNET — Microscopic Features
+
+- Characteristic histologic patterns:
+  - Loosely cohesive
+  - Nested
+  - Trabecular/gyriform
+  - Hyaline vascular architecture
+  - Clear cell change
+  - Pleomorphic type
+- Groups of neoplastic cells separated by enriched and delicate vessels
+- Most are hypercellular and stroma-poor
+- Tumor cells: copious granular eosinophilic or amphophilic cytoplasm
+- Usually polygonal without distinct cell borders
+- Nucleus centrally or peripherally located (latter → plasmacytoid appearance)
+- Nuclei usually uniform in size and shape
+- Characteristically finely stippled appearance (better appreciated in well-fixed tissue)
+
+---
+
+## PanNET — High-Grade Transformation
+
+- May be morphologically subtle on routine histopathology evaluation
+- Immunostain of Ki67 can be helpful
+- Figure 59.12:
+  - **A:** Hematoxylin-and-eosin-stained PanNET with subtle morphologic alterations
+  - **B:** Ki67 immunostain showing high proliferative index
+
+---
+
+## Figure 59.12 — PanNET with High-Grade Transformation
+
+- **A:** H&E-stained PanNET with subtle morphologic alterations
+- **B:** Ki67 immunostain highlighting high proliferative activity
+
+---
+
+## PanNET — Morphologic Variants
+
+- Uncommon morphologic variants:
+  - Oncocytic phenotype
+  - Clear cell change
+  - Should be distinguished from renal cell carcinoma (most common metastatic malignancy in pancreas)
+- **Pleomorphic PanNETs:**
+  - Marked nuclear atypia
+  - Can be confused with poorly differentiated or undifferentiated ductal adenocarcinomas
+  - Despite bizarre cytologic features, most do not demonstrate increased proliferative activity
+  - Do not correlate with unfavorable outcome
+
+---
+
+## Hereditary PanNET Syndromes
+
+**Four established hereditary associations:**
+1. MEN-1/4
+2. VHL disease
+3. Neurofibromatosis type 1 (NF1)
+4. Tuberous sclerosis (TSC)
+
+- All inherited as autosomal dominant disorders
+- Frequencies of PanNET:
+  - High in MEN1 (30%–80%)
+  - High in VHL (17%)
+  - Extremely rare in NF1 and TSC
+- NF1-associated duodenal and ampullary somatostatinoma more common
+
+**Fifth hereditary PanNET:**
+- Mahvash disease
+- Autosomal recessive
+- Homozygous or biallelic heterozygous mutation of gene encoding glucagon receptor
+- Patients present with asymptomatic hyperglucagonemia
+- Develop multiple glucagonomas
+- Penetrance 100% by 60 years of age (based on limited case reports)
+
+**Insulinomatosis:**
+- Not associated with MEN-1/4
+- Molecular and genetic mechanisms remain to be delineated
+
+---
+
+## Hereditary PanNET — Pathologic Relevance
+
+- Precursor microadenomas present in:
+  - MEN-1 (predominantly insulin- and glucagon-producing in pancreas; gastrin-producing in duodenum)
+  - Mahvash disease (glucagon-producing)
+- Microscopic finding of spectrum of abnormal islets with varying sizes in background
+  - Should raise possibility of one of these hereditary conditions
+- Multiple PanNETs often observed in MEN-1, VHL, and Mahvash disease
+- Challenge in management when patient is symptomatic
+  - Source of hormone production can be from one of several tumors
+- Patients with VHL can also develop serous cystadenomas that coexist with PanNETs
+
+---
+
+## Figure 59.13 — Hereditary PanNET
+
+- **A:** Hereditary PanNET with abnormal islets of varying sizes and neuroendocrine microadenoma and PanNET
+- **B:** von Hippel-Lindau (VHL) with serous cystadenoma (lower right) and co-existing well-differentiated neuroendocrine neoplasm (upper left)
+
+---
+
+## PanNET — Molecular Biology and Genetics (1)
+
+- Hereditary syndromes account for less than 10% of PanNETs
+- Germline mutations in DNA damage repair genes (CHEK2, MUTYH) identified in 17% of sporadic cases without apparent familial association
+- Early cytogenetic and molecular genetic studies identified many chromosomal alterations
+  - Result of progressive accumulation associated with clinical tumor stage and disease progression
+- Deletions more frequently detected in primary PanNET
+- Increased copy numbers seen in metastatic tumors
+- Activation of oncogenes does not appear to play major role in PanNET development
+
+---
+
+## PanNET — Molecular Biology and Genetics (2)
+
+- Advances in NGS enabled genome-wide analyses
+- Highlighted molecular heterogeneity of disease
+- Many genes implicated in PDAC development not affected in PanNETs
+  - KRAS2, TP53, p16/CDKN2A, SMAD4 usually not mutated
+- Even in absence of TP53 mutation, impaired p53 pathway evident:
+  - Amplifications of negative regulators of p53: MDM2, MDM4, WIP1
+- MEN1 (44%) and DAXX/ATRX (43%) frequently mutated in sporadic PanNETs
+- DAXX and ATRX mutations are mutually exclusive
+- More than 20% of tumors harbor either DAXX or ATRX and MEN1 mutations
+- Collectively, about 60% of PanNETs carry MEN1/DAXX/ATRX mutations
+
+---
+
+## PanNET — Molecular Correlations
+
+- Genes affect epigenetic landscape, epigenome
+  - DNA methylation, histone modification, posttranscriptional regulation
+  - Ultimately gene expression
+- Likely plays critical role in pathogenesis of PanNET
+- PanNETs with MEN1/DAXX/ATRX mutant genotype as a group:
+  - Correlate with worse clinical prognosis than tumors carrying wild-type alleles
+- Different gene expression profiles:
+  - MEN1/DAXX/ATRX-mutant PanNETs exhibit gene signatures of islet α-cell lineage
+  - MEN1/DAXX/ATRX wild-type PanNETs more heterogeneous in gene expressions
+- Findings suggest PanNETs may be further characterized into different subtypes based on cell lineage and molecular genotype
+- Mutations in PI3K/AKT/mTOR pathway occur in 14.7% of PanNETs
+  - Involves vital cellular processes of cell cycle progression, angiogenesis, DNA repair, epigenetic regulation, gene expression
+- Treatment with mTOR inhibitor everolimus has shown improved survival in subset of patients with advanced PanNETs
+
+---
+
+## Tumors with Acinar Differentiation — Overview
+
+- Acinar cell cystadenoma (acinar cyst transformation)
+- Acinar cell carcinoma
+- Pancreatoblastoma
+
+---
+
+## Acinar Cell Cystadenoma
+
+- Considered a non-neoplastic cystic lesion
+- Lined by mixed acinar and ductal epithelium
+- Proposed etiology: obstruction or metaplastic process
+- Exact incidence unknown (less than 50 cases reported)
+- May be underrecognized or misdiagnosed
+- Can occur at any age with female predominance (3:1)
+- Lesions vary significantly in size (from less than 1 cm to 20 cm)
+- Mean size: 5.8 cm
+- Clinically evident or incidental microscopic finding
+- Patients with large acinar cell cystadenoma can experience mass-related clinical symptoms
+- All reported cases clinically benign without evidence of recurrence or malignant transformation
+- No pathologic association with acinar cell carcinoma or pancreatoblastoma
+
+---
+
+## Acinar Cell Cystadenoma — Pathologic Features
+
+- Radiographically: 1.5 cm to 17.9 cm in greatest dimension
+- Multicentricity common
+- Can form unilocular or multilocular cysts
+- Smooth, thin inner wall with clear fluid
+- Do not communicate with pancreatic ducts
+- Microscopically: cysts of varying sizes separated by either atrophic pancreatic parenchyma or incomplete fibrotic septa
+- Some cysts filled with eosinophilic proteinaceous material
+- Lined by one or two layers of simple cuboidal epithelium
+- Pale eosinophilic or granulated cytoplasm
+- Acinar differentiation appreciated when granular and intense eosinophilic cytoplasm is apically located
+- Nuclei basally oriented
+- Presence of intervening columnar epithelium with ductal differentiation can create diagnostic challenge
+- Differential diagnosis: serous cystadenoma, squamous cysts of pancreatic ducts, retention cyst, low-grade PanIN, variants of intraductal papillary neoplasm
+
+---
+
+## Figure 59.14 — Tumors with Acinar Differentiation
+
+- **A:** Acinar cystadenoma lined by mixed acinar and ductal type epithelium
+- **B:** Acinar cell carcinoma with acinar architecture and polarized apical eosinophilic and granular cytoplasm
+- **C:** Pancreatoblastoma with a squamoid nest
+
+---
+
+## Acinar Cell Cystadenoma — Immunohistochemistry
+
+- Immunostains for cytokeratin, including CK7, are positive
+- Reveal the ductal differentiation of cyst-lining cells
+- Cells with apparent acinar differentiation:
+  - Positive for periodic acid-Schiff (PAS) stain with resistance to diastase
+  - Stain positive for pancreatic enzymes (trypsin and chymotrypsin) by immunohistochemistry
+
+---
+
+## Acinar Cell Cystadenoma — Malignant Transformation
+
+- Rare cases of malignant transformation to cystadenocarcinoma reported
+- Diagnosis based on combination of morphologic features and distant metastasis
+- Microscopic findings include recognizable acinar cell cystadenoma with increased architectural complexity resembling acinar cell carcinoma
+- Most reported cases had liver or peritoneal metastasis
+- Mean survival: 14.3 months
+
+---
+
+## Acinar Cell Cystadenoma — Molecular Biology
+
+- No pathogenic gene alterations identified in acinar cell cystadenoma
+- Some studies reported random X-chromosome inactivation
+
+---
+
+## Acinar Cell Carcinoma — Definition
+
+- Malignant epithelial neoplasm derived from acinar cells of the pancreas
+- Subtypes include:
+  - Acinar cell cystadenocarcinoma
+  - Mixed acinar-NEC
+  - Mixed acinar-neuroendocrine-ductal carcinoma
+  - Mixed acinar-ductal combination
+- These subtypes appear to share the same cytogenetic background
+
+---
+
+## Acinar Cell Carcinoma — Epidemiology
+
+- Male sex predominance (2:1)
+- Accounts for less than 2% of pancreatic neoplasms in adults
+- Accounts for 15% in children
+- Age of onset: 60 to 70 years of age (range 2–88 years)
+- Although uncommon, up to 6% of acinar cell carcinomas can occur in children
+- Majority of cases are sporadic
+- Rare cases diagnosed in association with:
+  - Familial adenomatous polyposis (FAP)
+  - Lynch syndrome
+  - Carney's complex
+
+---
+
+## Acinar Cell Carcinoma — Clinical Features
+
+- Symptoms usually related to mass effect
+- When associated with disseminated metastasis:
+  - Subcutaneous fat necrosis
+  - Polyarthralgia
+  - Due to hypersecretion of pancreatic enzymes (lipase) from tumor cells
+- Alpha-fetal protein may be present at increased levels in young patients
+- Usually appears as well-demarcated, large enhancing mass on radiographic studies
+- Median survival: 19 months
+- 5-year survival: approximately 25%
+
+---
+
+## Acinar Cell Carcinoma — Pathologic Features
+
+- Average size at presentation: approximately 9 cm
+- Fleshy and homogeneous appearance
+- Friable consistency because of hypercellular nature
+- Focal necrosis and cystic change may occur (large-size-associated degeneration)
+- Microscopically: characteristically hypercellular with minimal thin fibrous septa
+- Lacks stromal desmoplasia
+- At low magnification: tumor cells arranged in sheets and large nests with lobulated growth pattern
+- Acinar pattern of small units most characteristic
+  - Resemblance to normal pancreatic acini
+  - Minute luminal spaces or solid central eosinophilic rosettes
+- Other histologic patterns: solid, glandular, trabecular
+  - Can bear resemblance to well-differentiated pancreatic neuroendocrine tumor
+- Less common histology subtypes: oncocytic, clear, spindle, and pleomorphic variants
+- Tumor cells usually monotonous with mild to moderate nuclear atypia and prominent nucleoli
+- Tumor mitotic activity variable but usually increased
+- Apically located abundant eosinophilic zymogen granules in cytoplasm
+  - Highly suggestive of acinar cell carcinoma
+  - Not always histologically appreciated
+
+---
+
+## Acinar Cell Carcinoma — Diagnosis
+
+- Definitive diagnosis requires documentation of pancreatic enzyme production in tumor cells
+- Zymogen granules stain positively with PAS with resistance to diastase
+- Immunohistochemical staining of trypsin and/or chymotrypsin has highest degree of sensitivity
+- C-terminal portion of BCL10 is also specific in identifying acinar differentiation by recognizing pancreatic lipase
+- β-catenin nuclear reactivity observed in about 10% of cases
+
+---
+
+## Mixed Acinar Cell Carcinoma
+
+- Defined as having greater than 30% of each line of cell differentiation
+- Most encountered type: mixed acinar-NEC
+- In most cases, two cell types are intermingled without morphologically distinct acinar and neuroendocrine components
+- Diagnosis usually established based on co-expression of acinar and neuroendocrine markers by immunohistochemistry
+- Mixed acinar-NEC should be regarded as a subtype of acinar cell carcinoma
+  - Shares clinical and genomic characteristics with pure acinar cell carcinoma
+- Mixed acinar-ductal carcinoma:
+  - Usually has distinct component of gland-forming ductal adenocarcinoma
+  - Uncommon
+  - Associated with poor clinical outcome
+- Combined line of cell differentiation may also include acinar-neuroendocrine-ductal carcinoma
+
+---
+
+## Acinar Cell Carcinoma — Molecular Genetics
+
+- No consistent genetic alterations in most cases
+- Small subset carry SMAD4, CDKN2A, and CDKN2B mutations
+- Abnormalities in APC/β-catenin pathway documented
+- Mutations in APC and CTNNB1 genes each occur in less than 10% of cases
+- APC gene loss (48% of cases) or promoter hypermethylation (56% of cases) may be more frequent
+- BRAF and RAF1 gene rearrangements found in 23% of cases
+
+---
+
+## Pancreatoblastoma — Definition
+
+- Malignant acinar cell neoplasm with distinct squamous nests
+- Endocrine, ductal, and mesenchymal differentiation can also be uncommonly observed within tumor
+- Prognosis more favorable in children than adults
+- 5-year survival: 65% for those with resectable tumors
+- 18% develop locoregional recurrence
+- Distant metastasis (mostly to liver) associated with poor outcome
+
+---
+
+## Pancreatoblastoma — Epidemiology and Clinical Features
+
+- Rare neoplasm in adults
+- Accounts for 25% of pancreatic neoplasms in early childhood
+- Median age: 4 to 5 years
+- Most cases sporadic
+- Association with Beckwith-Wiedemann syndrome and familial adenomatous polyposis reported
+- Most common clinical presentation: palpable mass and associated symptoms
+- Inappropriate ACTH secretion from tumor can cause Cushing syndrome (rare)
+- Markedly elevated serum alpha-fetoprotein (AFP) common in two-thirds of cases, particularly children
+
+---
+
+## Pancreatoblastoma — Pathologic Features
+
+- Usually large solitary mass
+- Mean diameter: 10 cm
+- Focal necrosis and cystic change can occur secondary to degeneration
+- Beckwith-Wiedemann syndrome-associated pancreatoblastoma may be predominantly cystic
+- Hypercellular neoplasm with lobulated growth pattern separated by fibrous septa
+- Similar to acinar cell carcinoma:
+  - Tumor cells with acinar differentiation form small units of acini
+  - Polarized eosinophilic and granular cytoplasm
+  - Tiny lumina in center
+- Presence of squamoid nests is essential feature for diagnosis
+  - Composed of epithelial cells with varying degree of squamous differentiation
+  - With or without keratinization
+- Heterologous stromal elements (bone and cartilage) may also be present
+
+---
+
+## Pancreatoblastoma — Immunohistochemistry
+
+- Immunostaining for β-catenin should reveal nuclear pattern of reactivity in most cases
+- Acinar component of tumor is positive for:
+  - PAS with resistance to diastase
+  - Pancreatic enzymes
+  - BCL10
+
+---
+
+## Pancreatoblastoma — Molecular Biology and Genetics
+
+- Loss of chromosome 11p occurs in more than 80% of:
+  - Sporadic pancreatoblastomas
+  - Cases of children with Beckwith-Wiedemann syndrome
+- APC pathway alterations involving CTNNB1 mutations present in 50% to 80% of pancreatoblastomas
+  - Result in abnormal β-catenin nuclear labeling
+
+---
+
+## Solid Pseudopapillary Neoplasm (SPN) — Introduction
+
+- Cell lineage unknown
+- Striking predominance among females and young age distribution
+  - Suggests potential hormonal effect
+  - No apparent association with endocrine imbalances reported
+- SPNs described in ovary and testis
+- Suggested that cells giving rise to SPN occur in genital ridges and migrate to pancreas during embryogenesis
+
+---
+
+## SPN — Epidemiology and Clinical Features
+
+- Accounts for 0.9% to 2.7% of all exocrine pancreatic neoplasms in adults
+- Represents about 5% of all cystic pancreatic neoplasms
+- Predominantly in young women (mean age 28 years; > 85% female)
+- No apparent ethnic predilection
+- When SPN occurs in men, age of onset usually 5 to 10 years older than women
+- Low-grade malignant neoplasm
+- Complete surgical resection curative in most cases
+- Metastasis occurs in less than 15% of patients
+  - Usually to liver or peritoneum
+- Even with metastasis, patients usually have protracted clinical course
+  - 10-year disease-specific survival rate: 96%
+- Rare cases of highly aggressive SPNs reported
+  - Transformation from conventional SPN to high-grade malignancy or carcinoma phenotype
+
+---
+
+## SPN — Pathologic Features (1)
+
+- Grossly: well demarcated
+- At presentation may be as large as 8 to 10 cm in diameter
+- Solid appearance when small
+- Cystic degeneration and intratumor hemorrhage common when tumor is large
+- Calcifications may be present in septa or wall of tumor
+- Microscopically: heterogeneous histologic pattern
+- Various proportions of solid, cystic, and pseudopapillary structures
+- Periphery of tumor may interweave with adjacent pancreatic parenchyma
+  - Creating poorly defined margin
+- Neoplastic cells round to oval
+- Eosinophilic or vacuolated cytoplasm
+- Often containing diastase-resistant PAS-positive hyaline globules
+
+---
+
+## SPN — Pathologic Features (2)
+
+- Solid component:
+  - May resemble well-differentiated PanNET or acinar cell carcinoma
+  - Composed of uniform cells arranged in poorly or loosely cohesive pattern
+  - Intertwined capillary vessels
+- Pseudopapillary morphology:
+  - Secondary to detachment of neoplastic cells distant from vessels
+  - Leaving some tumor cells clinging to hyalinized or myxoid fibrovascular cords
+- Nuclei of tumor cells: round to oval
+- Often grooved or indented with finely dispersed chromatin
+- Tumor mitotic activity: nil
+- Lympho-vascular and perineural invasion: uncommon
+- Areas with hemorrhage and cystic degeneration:
+  - Foamy macrophages
+  - Deposits of cholesterol crystals
+
+---
+
+## Figure 59.15 — Solid Pseudopapillary Neoplasm (SPN)
+
+- **A:** Gross photo of a large SPN with degenerative changes
+- **B:** Microscopic photo of SPN with prominent papillary structure
+
+---
+
+## SPN — Immunophenotype
+
+- Distinctive immunophenotype helpful in differential diagnosis
+- Morphologic mimics: well-differentiated PanNET and pancreatic acinar cell carcinoma
+- Tumor cells characteristically reveal:
+  - Nuclear or cytoplasmic immunoreactivity for β-catenin
+  - Express vimentin
+  - Progesterone receptors
+  - CD10
+  - Some less specific neuroendocrine markers (CD56, synaptophysin)
+- Chromogranin (most specific neuroendocrine marker): negative in SPN
+  - Important for differential diagnosis with PanNETs
+- Pancreatic enzymes (trypsin, chymotrypsin): not expressed
+  - Distinguishes SPN from pancreatic acinar cell carcinoma
+- CD99: dot-like paranuclear expression pattern
+- Tumor cells may show patchy reactivity to pan-cytokeratin or low-molecular-weight cytokeratin
+- Often negative for cytokeratin
+- Never reveal diffusely positive pattern
+
+---
+
+## SPN — Molecular Biology and Genetics
+
+- Somatic activating mutations in exon 3 of CTNNB1 gene
+- Involved in Wnt/β-catenin signaling pathway
+- Mutations prevent phosphorylation of β-catenin in cytoplasm
+- Result in loss of membranous expression
+- β-catenin translocated to nucleus
+
+---
+
+## Mesenchymal and Other Non-Epithelial Tumors — Introduction
+
+- Primary mesenchymal or nonepithelial neoplasms of pancreas are rare
+- Account for 1% to 2% of pancreatic tumors
+- Pathologic classification similar to same neoplasms arising outside pancreas
+- Can be either solid or cystic
+- Distinguishing from more common epithelial neoplasms can be diagnostically challenging
+  - Both clinically and radiographically
+
+**Benign mesenchymal tumors:**
+- Mature cystic teratoma
+- Lymphangioma
+- Schwannoma
+- Ganglioneuroma
+- Granular cell tumor
+- Desmoid tumor
+- Leiomyoma
+- Lipoma
+- Perivascular epithelioid cell tumor (PEComa)
+- Paraganglioma
+
+---
+
+## Mature Cystic Teratoma
+
+- Germ cell origin
+- Commonly found in ovaries and testes
+- May arise anywhere along path of germ cell migration during embryogenesis
+- Usually along midline of body
+- Pancreas is least common site
+- Majority composed of ectodermal elements (hair follicles, sebaceous glands, skin)
+- Also referred to as dermoid cysts
+- Usually diagnosed in younger patients
+- Mean age: 36 years (range 4 months to 74 years)
+- Important to differentiate from mucinous neoplasms (MCN, IPMN)
+  - Given potential for malignant transformation
+- Difficulty in definitive preoperative diagnosis (particularly larger lesions > 3 cm)
+  - Often leads to surgical resection
+
+---
+
+## Mature Cystic Teratoma — Pathologic Features
+
+- Slow-growing
+- Can be large at presentation
+- Mean size: 7 to 8 cm (range 2–20 cm)
+- Macroscopically: heterogeneous with solid and cystic areas
+- Cystic contents may appear pasty
+  - Containing hair, keratinous debris, sebaceous material
+- Microscopically: cyst wall lined by epithelium
+  - May be squamous, respiratory, or glandular
+- All reported cases of pancreatic teratomas classified as mature and thus benign
+- Complete sampling of resected specimen recommended
+  - To exclude presence of any immature elements
+- Prognosis excellent with complete resection
+- Neither recurrence nor malignant transformation reported
+
+---
+
+## Lymphangioma
+
+- Benign tumors arising from lymphatic system
+- 95% of cases occur in neck/axilla
+- Less than 5% occur in mesentery/retroperitoneum
+- Pancreatic lymphangiomas account for less than 1% of all abdominal lymphangiomas
+- May arise from pancreatic parenchyma or adjacent tissue
+- Possible etiology: congenital lymphatic malformations lead to lymphatic obstruction and development of lymphangiectasia
+- Symptoms vary, nonspecific, typically based on locoregional effects
+- Reported in all age groups but more commonly in women
+
+---
+
+## Lymphangioma — Pathologic Features
+
+- Macroscopically: cystic masses, usually multilocular
+- Cysts may be interconnected (dilated lymphatic channels)
+- Cysts contain chylous, serous, or serosanguineous fluid
+- Microscopically: cystic or cavernous subtype
+- Cyst walls lined with endothelial cells
+- Composed of varying amounts of collagenous connective tissue, smooth muscle, focal adipose tissue, lymphocytes
+- Lining endothelial cells immunoreactive to CD31 and D2-40
+- Usually negative for CD34
+- Negative for epithelial markers
+- Differential diagnosis: pancreatic MCN, branch-duct IPMN, serous cystadenoma, retention cysts, pseudocysts, other solid tumors with cystic degeneration
+- Diagnosis can be made when cystic fluid (EUS aspiration) has elevated triglyceride level (above 5000 mg/dL or 56.5 mmol/L)
+- Cyst fluid should be tested for CEA to rule out epithelial lesions
+- Generally benign but may be locally invasive
+- Surgical excision curative; incomplete resection may result in recurrence
+
+---
+
+## Schwannoma
+
+- Predominantly benign peripheral nerve sheath tumors
+- Composed of Schwann cells
+- Most are solitary
+- Multiple schwannomas associated with neurofibromatosis type 2
+- Pancreatic schwannoma extremely rare (only 37 reported cases in English literature)
+- Typically occurs in adults
+- Affects men and women equally
+- Arise from autonomic sympathetic or parasympathetic nerves within pancreas
+- Identified more often in head, body, and uncinate process
+- Less frequently in tail of pancreas
+- Slow-growing but may be large at diagnosis
+- Average size: 9 cm (range 2–20 cm)
+- Most common symptom: vague abdominal pain
+
+---
+
+## Schwannoma — Pathologic Features
+
+- Macroscopically: well-circumscribed, round, firm, encapsulated masses
+- Large tumors may have secondary degenerative alterations:
+  - Cyst formation
+  - Hemorrhage
+  - Calcification
+  - Yellowish xanthomatous change
+- Histologically: intertwined hypercellular (Antoni-A) and hypocellular (Antoni-B) spindle cell neoplasm
+- Lymphocytes may be present at periphery
+- Hypocellular area can have myxoid changes
+- Diffusely positive for S100 on immunohistochemistry
+- Treatment: surgical resection
+- Prognosis should mirror nonpancreatic primaries
+- Presence of underlying neurofibromatosis adversely affects prognosis
+
+---
+
+## Ganglioneuroma
+
+- Benign mesenchymal tumors
+- Arise from sympathetic ganglion cells
+- Consist of mature gangliocytes and stroma
+- Pancreatic ganglioneuromas exceedingly rare
+- May arise from peripancreatic sympathetic nerve fibers
+- Symptoms related to mass effect on adjacent structures
+- Most detected incidentally
+- Average size at presentation: approximately 8 cm
+- Tumors firm and well-circumscribed
+- Although not usually encapsulated
+- Microscopically: Schwann cells and variable amounts of mature ganglion cells
+- Tumor cells immunoreactive to:
+  - Neuron-specific enolase
+  - Neurofilament protein
+  - Synaptophysin
+- Treatment: complete surgical resection
+- Recurrence rare
+
+---
+
+## Granular Cell Tumor
+
+- Benign nerve sheath origin
+- Only rare cases in pancreas reported
+- Clinical diagnosis may be challenging
+- May mimic ductal adenocarcinoma
+- Microscopically: characteristic eosinophilic granular cytoplasm
+- Small and inconspicuous nuclei
+- Definitive diagnosis established by tumor cells' positive immunoreactivity to S100
+
+---
+
+## Desmoid Tumor
+
+- Locally aggressive mesenchymal tumors
+- Typically associated with FAP and Gardner syndrome
+- May occur sporadically or as result of trauma or surgery
+- Ten cases of desmoid tumors of pancreas described over past several decades
+- No metastatic potential
+- Exhibit locally aggressive growth
+- Invade adjacent structures
+- Estimated morbidity: 10%
+- Patients may be asymptomatic or have symptoms related to mass effect
+- Complications associated with encasement of adjacent structures
+
+---
+
+## Desmoid Tumor — Pathologic Features
+
+- Macroscopically: homogeneous, firm, white masses
+- Usually have infiltrative borders
+- Tumor can occasionally be cystic
+- Composed of bland proliferative fibroblasts within collagen matrix
+- Low-grade
+- Lack pleomorphism, atypia, and significant mitotic activities
+- Positive nuclear β-catenin immunoreactivity effective in distinguishing desmoid tumors from other spindle-cell neoplasms with fibroblastic and myoblastic differentiation
+- Differential diagnosis: solitary fibrous tumor, GI stromal tumor (GIST), low-grade sarcoma
+- All have characteristic immunophenotype that does not overlap with desmoid tumors
+- Surgery is mainstay treatment
+- Achievement of clear resection margins may be challenging due to infiltrative growth pattern
+- Risk of recurrence: 20% to 75%
+- Higher rate in patients with FAP or Gardner syndrome
+
+---
+
+## Leiomyoma
+
+- Benign smooth muscle tumors
+- Usually arise in organs composed primarily of smooth muscle
+- Primary leiomyoma of pancreas exceedingly rare
+- Likely arises from smooth muscle wall of blood vessels
+- Microscopically: spindle cells with characteristic blunt-ended and cigar-shaped nuclei
+- Eosinophilic cytoplasm
+- Diffusely positive for smooth muscle actin and desmin by immunohistochemistry
+- Differential diagnosis includes other mesenchymal tumors of pancreas (e.g., leiomyosarcoma)
+
+---
+
+## Lipoma
+
+- Benign mesenchymal tumors composed of mature adipose tissue
+- Uncommon in pancreas
+- Pancreatic lipomatosis or diffuse fatty change of pancreas can be seen in:
+  - Cystic fibrosis
+  - Schwachman-Diamond syndrome
+  - CP
+  - Obesity
+  - DM
+  - May be age-related
+- Differential diagnosis: other fat-containing neoplasms
+  - Cystic teratoma
+  - Liposarcoma
+  - Fibrolipoma
+  - Lipoblastoma
+- Grossly: well-circumscribed fatty lesions
+- Given classic imaging findings, histologic confirmation may not be necessary
+- Microscopically: mature adipocytes with delicate fibrous septa and thin collagen capsule
+- Lipomatosis and lipomas can be observed and managed conservatively
+- Presence of solid nodules, thick septa, calcification, or rapid growth raises concern for malignant transformation to liposarcoma or other malignancies
+
+---
+
+## Perivascular Epithelioid Cell Tumor (PEComa)
+
+- Also known as angiomyolipoma
+- Mesenchymal tumor arising from perivascular epithelioid smooth muscle cells with clear cytoplasm
+- PEComa of pancreas very rare (few cases described)
+- Strong female predominance
+- Some cases related to genetic alteration in tuberous sclerosis gene complex
+- Usually located in head and body of pancreas
+- Grossly: well-circumscribed tumors
+- Average size: 2.5 cm
+- May demonstrate hemorrhage or cystic degeneration
+- Microscopically: nests of large low-grade epithelioid cells
+- Eosinophilic or clear (glycogen-rich) cytoplasm
+- Macrovesicular fat may be present (uncommon)
+- Glycogen-rich clear cells positive for PAS and diastase sensitive
+- Co-express smooth muscle actin (SMA) and melanocytic markers (HMB-45, Melan-A)
+- Negative for cytokeratin by immunohistochemistry
+- Differential diagnosis: other cellular epithelial tumors of pancreas
+  - Pancreatic neuroendocrine tumor
+  - Uncommon variants of adenocarcinoma expressing cytokeratin and other lineage-specific markers
+
+---
+
+## Paraganglioma
+
+- Tumors arising from extra-adrenal paraganglia
+- Nests of specialized neural crest cells dispersed along sympathetic ganglia and plexuses throughout body
+- Retroperitoneal paragangliomas arising in peripancreatic location can manifest as primary pancreatic neoplasms
+- Incidence same for men and women
+- Most often detected in patients between ages 42 and 85 years
+- Most retroperitoneal/pancreatic paragangliomas are nonfunctional
+- Discovered incidentally or in patients with abdominal pain or palpable abdominal mass
+- Functioning paragangliomas can cause symptoms of catecholamine excess:
+  - Palpitations
+  - Headache
+  - Sweating
+  - Hypertension
+- Associated with elevated urine and plasma metanephrine and normetanephrine levels
+
+---
+
+## Paraganglioma — Pathologic Features
+
+- All share similar pathologic features regardless of site of origin
+- Grossly: well-marginated fleshy and tan-brown mass
+- Microscopically: typical zellballen arrangement
+  - Variably sized nests of tumor cells
+  - Entwined reticular vascular network
+- Tumor cells contain abundant granular amphophilic cytoplasm and eccentric nuclei
+- Tumor nests surrounded by delicate sustentacular cells
+- Immunohistochemistry:
+  - Tumor cells express chromogranin and synaptophysin
+  - Sustentacular cells positive for S100
+  - Immunostains for cytokeratin should be negative in tumor cells
+  - Distinguishes paraganglioma from epithelial neuroendocrine neoplasm
+- Metastasis rarely occurs
+- No morphologic criteria that can unequivocally define malignancy
+- Preoperative diagnosis can be challenging
+- Differential diagnosis: other hyper-enhancing tumors of pancreas on CT
+  - Well-differentiated pancreatic neuroendocrine tumors
+- When dealing with neuroendocrine neoplasm in small biopsies:
+  - Immunostain of cytokeratin should be performed in addition to neuroendocrine markers
+  - Diagnosis of paraganglioma (negative for cytokeratin) requires preoperative preparation to prevent intraoperative hypertensive crisis
+
+---
+
+## Malignant Mesenchymal and Nonepithelial Tumors — Overview
+
+- Group consists primarily of sarcomas resembling soft-tissue counterparts
+- 10% of sarcomas arise in retroperitoneum
+- When occurring in peripancreatic retroperitoneal space, can infiltrate pancreas and simulate primary pancreatic neoplasm
+- Less commonly occur primarily within pancreas
+- Sarcomas represent 0.1% of all pancreatic malignancies
+- Classification and clinical behavior similar to same neoplasms arising outside pancreas
+
+**Types:**
+- Leiomyosarcoma
+- Liposarcoma
+- Primitive neuroectodermal tumor (PNET) and extraosseous Ewing sarcoma (EES)
+- Extragastrointestinal stromal tumor (E-GIST)
+- Solitary fibrous tumor (SFT)
+- Inflammatory myofibroblastic tumor (IMT)
+
+---
+
+## Leiomyosarcoma
+
+- Very rare
+- Most common primary sarcoma of pancreas
+- Affects women more often than men
+- Mean age: mid-50s
+- Tumor can be large (some as big as 30 cm)
+- Large tumors usually associated with:
+  - Cystic degeneration
+  - Hemorrhage
+  - Necrosis
+- Microscopically: spindled tumor cells arranged in long and storiform fascicles
+- Marked nuclear pleomorphism
+- Eosinophilic cytoplasm
+- Neoplastic cells immunoreactive to muscle markers SMA and desmin
+- Differential diagnosis: primary undifferentiated/sarcomatous carcinoma of pancreas
+  - May show partial expression of muscle markers
+  - Should have some expression for cytokeratin (although reactivity can be focal)
+
+---
+
+## Liposarcoma
+
+- Affects middle-aged or older patients
+- Most common sarcoma of retroperitoneum
+- Tumor can be as large as 20 cm
+- Exhibits wide spectrum of differentiation and phenotypes
+- Distinct clinical, radiologic, and cytogenetic features
+- Well-differentiated liposarcomas have areas that follow fat attenuation or signal intensity by CT and MRI
+- Microscopically: high-grade liposarcoma usually contains pleomorphic adipocytes and lipoblasts
+- Well-differentiated liposarcomas may have minimal cytologic atypia of neoplastic adipocytes
+- Often require ancillary studies
+- Dedifferentiated tumors reveal hypercellularity and significant pleomorphisms
+- Indistinguishable from other high-grade sarcomas
+- Diagnosis confirmed if amplification of MDM2 and CDK4 genes revealed by in situ hybridization
+- Or MDM2 and Cdk4 protein overexpression detected by immunohistochemistry
+
+---
+
+## Primitive Neuroectodermal Tumor (PNET) and Extraosseous Ewing Sarcoma (EES)
+
+- Rare tumors arising from ectopic neural and neuroectodermal tissue
+- Can occur anywhere in body
+- Grouped together in Ewing sarcoma family
+- Similar morphology, immunophenotype, and cytogenetic alterations (t[11;22])
+- Aggressive malignancies
+- Occur almost exclusively in children and young adults
+- Equal sex distribution
+- Manifest as large solid masses (mean size 8.2 cm)
+- Clinical presentations of pancreatic PNET and EES:
+  - Abdominal pain
+  - Jaundice
+- Grossly: fleshy and lobulated masses
+- Frequently invade into peripancreatic soft tissue and adjacent structures
+- Microscopically: sheets or nodules of small round blue cells
+- Open and coarse chromatin
+- Frequent mitoses
+- Scant cytoplasm
+- Tumor cells show strong and membranous immunoreactivity to CD99
+- Cytokeratin may also be positive
+- Results should be interpreted with caution in differential diagnosis of undifferentiated and sarcomatous carcinoma
+- t(11:22) chromosomal translocation characteristic
+- Can be confirmed by in situ hybridization or other genetic testing platforms
+
+---
+
+## Extragastrointestinal Stromal Tumor (E-GIST)
+
+- GISTs: spindle cell neoplasms originating from interstitial cells of Cajal
+- Primarily located in GI tract
+- Identified in pancreas as well
+- E-GISTs represent less than 10% of all GISTs
+- Exceedingly rare in pancreas
+- E-GISTs of pancreatic origin affect middle-aged adults
+- Represent less than 1% of all GISTs
+- Primary pancreatic E-GISTs can be large (up to 13 cm)
+- Microscopically: tumor cells arranged in fascicles or nests
+- Can exhibit spindled or epithelioid morphology with perinuclear vacuoles
+- Epithelioid morphology can simulate other primary pancreatic epithelial tumors
+- E-GIST cells immunoreactive to CD117, DOG-1, and CD34
+- Variable expression of SMA
+- Differential diagnosis: leiomyosarcoma (confirmed by immunohistochemistry with expression of muscle markers desmin and SMA)
+- Primary desmoid tumor, schwannoma, solitary fibrous tumor, and inflammatory myofibroblast tumor should be considered
+- Prognosis of primary pancreatic E-GIST similar to small bowel GIST
+  - Relatively aggressive compared with GIST from other sites of GI tract
+
+---
+
+## Solitary Fibrous Tumor (SFT)
+
+- Extrapleural SFT: rare fibroblastic mesenchymal tumor
+- Hemangiopericytoma-like branching vascular pattern
+- Develops in soft-tissue sites: thorax, extremities, orbit, retroperitoneum
+- Pancreatic SFT reported in middle-aged to elderly women (age range 41–78 years)
+- Most manifest as slow-growing and painless masses
+- Patients with large tumors can present with compressive symptoms
+- Rarely hypoglycemia (Doege-Potter syndrome)
+- Most SFTs are indolent but should not be considered benign
+- May display aggressive local invasion or recur after treatment
+- Rare cases of metastases from pancreatic SFTs reported
+- Grossly: well circumscribed
+- May be exophytic with thin fibrous capsule
+- Microscopically: short spindle cells with indistinct cell borders
+- Arranged around branching vasculature of variable caliber
+- Frequently with staghorn-like appearance
+- Aggressive SFTs tend to be hypercellular with increased mitotic count and tumor necrosis
+- Immunohistochemical staining: reactivity to CD34, CD99, and STAT6
+- EMA and SMA immunoreactive only in small portion of cases
+- Differential diagnosis: other primary spindle cell tumors of pancreas
+
+---
+
+## Inflammatory Myofibroblastic Tumor (IMT)
+
+- Low-grade and uncommon mesenchymal neoplasms
+- Unknown etiology
+- Variable myofibroblastic proliferation and inflammatory infiltrate
+- Most commonly occur in mesentery, omentum, retroperitoneum, pelvis, abdominal soft tissues
+- In most recent WHO classification of soft tissue tumors:
+  - Classified as tumors of intermediate biologic potential
+  - Due to tendency for local recurrence and rare metastasis
+- Primary pancreatic IMT uncommon
+- Slightly more prevalent in women
+- Wide age distribution (0.5–70 years)
+- Symptoms vague: abdominal pain, weight loss, palpable mass
+- When IMT involves pancreatic head, obstructive jaundice may occur
+- Prognosis considered favorable after surgical resection
+- Rare cases of malignant transformation described
+
+---
+
+## IMT — Pathologic Features
+
+- Grossly: nodular, lobulated masses
+- Microscopically: spindled and stellate-shaped cells of variable cellularity
+- Myxoid to collagenous stroma
+- Background of mixed inflammatory infiltrate
+  - Lymphocytes
+  - Plasma cells
+  - Frequently eosinophils
+- Spindle cells can be pleomorphic
+- Lymphoid follicles with germinal centers may be present
+- Malignant transformation may be associated with:
+  - Local invasion
+  - Vascular invasion
+  - Marked nuclear polymorphism
+- Tumor cells immunoreactive with SMA
+- About one-third may be positive for cytokeratin
+- Many IMTs harbor clonal ALK rearrangements
+- Immunoreactivity with anaplastic lymphoma kinase 1 (ALK-1) is diagnostic hallmark
+- Differential diagnosis: other primary spindle cell tumors of pancreas
+- Undifferentiated and sarcomatous carcinoma of pancreas (much more common primary neoplasm)
+
+---
+
+## Lymphomas
+
+- Most cases of lymphoma found in pancreas associated with systemic disease
+- When disease localized to pancreas (even with contiguous nodal involvement or distant spread):
+  - Considered primary pancreatic lymphoma (PPL)
+- Non-Hodgkin lymphoma most common subtype of PPL
+- Histologic subtype: diffuse large B-cell lymphoma (DLBCL)
+- Followed by follicular lymphoma
+- PPL accounts for 0.5% of all pancreatic tumors
+- Accounts for 0.6% of extranodal lymphomas
+- Most PPLs occur in middle-aged patients
+- Mean age: 63 years (range 15–85 years)
+- More common in immunocompromised patients
+  - Associated organ transplantation
+  - HIV/AIDS
+- Common symptoms: abdominal pain and weight loss
+- Jaundice not common despite frequent location in head of pancreas
+
+---
+
+## Lymphomas — Diagnosis and Prognosis
+
+- Treatment and prognosis considerably different from PDAC
+- Accurate diagnosis crucial
+- PPL has high complete response rate to chemotherapy
+- Long disease-specific survival similar to nodal non-Hodgkin lymphoma
+- Grossly: soft masses of variable size
+- White and fleshy appearance on cut surface
+- Higher-grade PPL such as DLBCL can show areas of necrosis
+- Pathologically: lymphomas are monoclonal
+- Can be characterized by:
+  - Histopathology
+  - Flow cytometry
+  - Immunohistochemistry
+  - Cytogenetics
+  - Molecular genetic testing
+- Infiltrative and sclerosing form of lymphoma can mimic PDAC or pancreatitis
+- Distinguishing these entities can be extremely challenging preoperatively
+- Given drastic difference in management, biopsy diagnoses may be prudent
+  - When radiographic and clinical presentations are not typical for conventional ductal carcinoma
+
+---
+
+## Pseudotumors of the Pancreas — Pseudocyst
+
+- Circumscribed collections of fluid rich in pancreatic enzymes
+- With hemorrhage and necrosis
+- Usually form as complication of pancreatitis
+- In children, frequently occur after abdominal trauma
+- Inflamed fibrous capsule with no epithelial lining
+- Develop after acute injury resulting in release and activation of pancreatic enzymes
+- Leads to tissue necrosis
+- Dissolved tissue confined within surrounding granulation tissue
+- Ultimately forms encapsulated cyst
+- Most patients have clinical history of repeated attacks of AP
+- Can be secondary to:
+  - Alcohol abuse
+  - Duct obstruction by non-neoplastic ideology (e.g., stones)
+  - Trauma
+
+---
+
+## Pseudocyst — Pathologic Features
+
+- Macroscopically: most are unilocular
+- Varying sizes; some as large as 20 cm
+- Cyst contents: hemorrhagic, oily, or necrotic
+- Cyst wall: thick and fibrotic
+- Microscopically: cyst wall lacks any epithelial lining
+- Composed of organized granulation tissue
+- Varying degrees of inflammatory infiltrate and fibroblastic proliferation
+- Aggregates of foamy histiocytes and fat necrosis can be observed in inner cyst wall
+- Differential diagnosis: neoplastic cystic lesions of pancreas
+  - Mucinous cystic neoplasm
+  - Solid pseudopapillary tumor
+  - Serous cystadenoma
+- Radiographic diagnosis can be challenging
+- Established clinical history of repetitive episodes of AP or trauma can facilitate diagnosis
+- Cyst fluid aspirations accompanying cytology specimen can be used for:
+  - Measurement of amylase and CEA levels
+  - Other molecular tests
+- Markedly elevated amylase along with clinical history could bolster diagnosis of pseudocysts
+- Elevated CEA levels and other molecular profiles suggest potential mucinous neoplasms
+
+---
+
+## Retention Cyst
+
+- Usually unilocular
+- Developed by dilatation of obstructed pancreatic main or branch duct
+- Due to stones, inflammation, or tumors
+- Although isolated retention cysts are benign
+- Can be observed distal to pancreatic adenocarcinoma (impedes duct proximally)
+- Multiple retention cysts with viscose content can be seen in patients with cystic fibrosis
+- Thin walled
+- Vary in size from incidental microscopic findings (a few millimeters) to grossly detectable cysts
+- Careful examination of pancreatic duct proximal to cyst is prudent
+  - To exclude potential occult adenocarcinoma
+- Inner cyst wall has smooth and shiny appearance
+- Cyst lined by a single layer of cuboidal epithelium mirroring normal PD epithelium
+- Epithelium can exhibit low-grade PanIN
+- Raises differential diagnosis of true neoplastic lesions such as MCN and branch-duct IPMN
+- MCNs usually occur in women and have characteristic cellular ovarian-like stroma
+- Distinguishing between retention cyst with PanIN and branch-duct IPMN can be challenging
+- Latter usually has at least focal papillae formation
+- May be associated with multiple, microscopically dilated ducts in vicinity
+
+---
+
+## Figure 59.16 — Pancreatic Retention Cyst
+
+- Gross photo of a retention cyst formed secondary to obstruction by stones
+
+---
+
+## Chronic Pancreatitis
+
+- Benign chronic inflammatory and fibrosing conditions of pancreas
+- May be difficult to distinguish from carcinomas
+- Both clinically and pathologically
+- CP associated with alcohol abuse, ductal obstruction, or other inflammatory conditions
+- May lead to localized fibrosis and mass-forming lesions
+- Certain subtypes of CP especially inclined to form pseudotumors
+- Simulate malignant carcinomas
+
+---
+
+## Groove Pancreatitis (GP)
+
+- Localized form of CP
+- Occurs in pancreaticoduodenal space
+- Between medial wall of first and second portions of duodenum
+- And superior-posterior aspect of head of pancreas
+- Also known as:
+  - Paraduodenal pancreatitis
+  - Cystic dystrophy of heterotopic pancreas
+  - Myoadenomatosis
+  - Periampullary duodenal wall cyst
+  - Pancreatic hamartoma of duodenum
+- Etiology multifactorial
+- Involves structural and anatomic factors
+- Stasis of pancreatic secretions
+- Leads to PD obstruction with extravasation of activated proteolytic enzymes
+- Triggers pancreatitis and cascade of chronic inflammation, cyst formation, and fibrosis
+- Primary or secondary obstruction of accessory duct of Santorini and its outlet minor papilla appears to be leading cause
+- Supported by frequent finding of cystic dilatation of accessory duct on pathologic examination
+- Heterotopic pancreatic tissue and Brunner's gland hyperplasia that infiltrate wall of second portion of duodenum can lead to partial obstruction of minor papilla
+- Minor papilla lacks well-developed sphincter
+  - More susceptible to partial obstruction
+
+---
+
+## GP — Clinical Features
+
+- Patients typically males in fifth or sixth decade
+- Most have history of chronic alcohol and/or nicotine abuse
+- Up to 50% may have history of prior episodes of AP
+- Clinical presentation may mimic AP
+  - Severe abdominal pain
+  - Nausea
+  - Vomiting
+- Often has more chronic and relapsing course
+- Repeated episodes of abdominal pain and weight loss
+- Jaundice may be present with involvement of CBD and postinflammatory strictures
+- Symptoms can simulate those of PDAC
+- Variability of GP on imaging analysis can render definitive preoperative diagnosis challenging
+- Particularly with differential diagnosis of pancreatic or ampullary carcinomas
+
+---
+
+## GP — Pathologic Features
+
+- Macroscopic findings:
+  - Thickening of medial aspect of duodenal wall
+  - Mucosal nodularity in vicinity of minor papilla
+  - Ampulla of Vater usually unremarkable
+  - Fibrotic mass in pancreaticoduodenal space
+  - Some degree of microcystic change
+  - Foci of pancreatic parenchyma can be found within fibrotic mass
+- Microscopically (pseudotumor of GP):
+  - Varying amounts of dense fibrosis
+  - Lymphoplasmacytic or histiocytic type inflammation
+  - Granulation tissue
+  - Microabscesses
+  - Brunner's gland hyperplasia
+  - Smooth muscle hyperplasia
+  - Myoadenomatosis of duodenal wall
+- Fibrosis may lead to duodenal encasement and stenosis
+  - Resultant gastric outlet obstruction
+- Biliary obstruction may occur when lesion extends to CBD
+
+---
+
+## Autoimmune Pancreatitis (AIP)
+
+- Also known as lymphoplasmacytic sclerosing pancreatitis (LPSP)
+- Or nonalcoholic destructive pancreatitis
+- Chronic inflammatory condition
+- Increasingly recognized as uncommon but important cause of recurrent AP or painless jaundice
+- Can be radiographically and endoscopically mistaken for PDAC
+- Reported to account for up to 2% of all cases of CP
+- Etiology considered autoimmune
+- Demonstrated by presence of lymphoplasmacytic infiltration on histology
+
+**Two clinical subtypes:**
+- **Type 1:** IgG4-related pancreatitis
+  - Associated with high serum IgG4 concentration
+  - IgG4-bearing plasma cell infiltration of pancreas
+  - Background of lymphoplasmacytic sclerosing pancreatitis
+- **Type 2:** Idiopathic duct-centric pancreatitis
+  - Granulocytic epithelial lesions in pancreatic duct
+  - Without IgG4-positive cells or systemic involvement
+
+---
+
+## AIP — Clinical Features and Diagnosis
+
+- Patients can present with recurrent episodes of abdominal pain
+- With or without attacks of pancreatitis
+- Obstructive jaundice common presentation
+- Can be accompanied by nonspecific symptoms:
+  - Nausea
+  - Vomiting
+  - Loss of appetite
+  - Weight loss
+- Responds generally well to treatment with corticosteroids
+- Favorable prognosis
+- Diagnostic criteria include:
+  - Imaging of pancreas and pancreatic duct
+  - Serologic studies of IgG4 levels
+  - Histopathology
+  - Presence of other associated conditions
+    - Multifocal fibrosclerosis syndrome
+    - Retroperitoneal and mediastinal fibrosis
+    - Riedel thyroiditis
+    - Inflammatory pseudotumor of orbit
+    - Sclerosing cholangitis
+
+---
+
+## AIP — Pathologic Features
+
+- If resected, pancreatic parenchyma may or may not have discrete lesions
+- Usually have a rigid appearance
+- Microscopically:
+  - Dense periductal and perivenular lymphoplasmacytic infiltrates
+  - Obliterative phlebitis
+  - Presence of both interlobular and intralobular fibrosis
+  - Acinar atrophy
+- Immunohistochemistry for IgG4 reveals numerous positive plasma cells
+- Diffusely distributed in periductal infiltrates in Type 1 AIP
+
+---
+
+## Figure 59.17 — LPSP Macroscopic Appearance
+
+- Gross photo of a pancreatoduodenectomy with rigid pancreatic parenchyma without discrete lesion/mass
+- Both pancreatic duct and common bile duct are not obstructed
+
+---
+
+## Figure 59.18 — LPSP Histopathology
+
+- **A:** Dense periductal lymphoplasmacytic infiltrate
+- **B:** Dense perivenular lymphoplasmacytic infiltrate (venulitis)
+- **C:** Interstitial and periductal fibrosis
+- **D:** Diffuse and intense staining for IgG4 by immunohistochemistry
+
+---
+
+## Heterotopic Spleen
+
+- Nodules of heterotopic spleen tissue (splenules) can be present within pancreatic parenchyma
+- Most located in distal pancreas
+- Radiographically: splenules may appear as solid primary pancreatic neoplasm
+- Macroscopically: well-circumscribed, red-tan soft lesions
+- Usually less than 3 cm in diameter
+- Microscopically: made up of unremarkable spleen tissue
+
+---
+
+## Hamartoma
+
+- Benign tumor-like nodules
+- Composed of overgrowth of mature parenchymal elements
+- Usually acini and/or ducts with distorted architecture
+- Lacking discrete islets of Langerhans
+- Macroscopically: sharply demarcated nodules
+- Average diameter: 3.3 cm
+- Cut surface may be solid or focally cystic
+- Microscopically: epithelial elements and fibrous stroma
+- Epithelial elements (acini or ducts) tend to distribute in periphery of tumor
+- Fibrotic stroma situated more centrally
+
+---
+
+## Metastatic Tumors — Overview
+
+- Most common metastatic tumors involving pancreas:
+  - Carcinomas of lung
+  - Carcinomas of GI origin
+  - Lymphomas
+  - Renal cell carcinoma
+- Secondary tumors account for almost half of pancreatic masses detected at autopsy
+- Common metastatic tumors in surgical resection specimens:
+  - Lymphomas
+  - Renal cell carcinomas
+  - Melanomas
+- Resected either as result of:
+  - Occult primary tumors
+  - Unrecognized clinical history of primary tumors
+  - Therapeutic modality
+  - Complications caused by secondary tumors
+  - Curative attempts
+- In these situations, tumors usually solitary with no other detectable masses
+- Lymphomas and renal cell carcinomas particularly prone to involve pancreas in absence of other metastatic foci
+  - Mimicking primary carcinoma of pancreas
+
+---
+
+## Metastatic Renal Cell Carcinoma
+
+- Often involve pancreas as solitary mass
+- In absence of other metastatic foci
+- Amenable to surgical resection
+- Associated with long-term survival
+- Clear cell carcinoma most common subtype to metastasize to pancreas
+- Can manifest more than a decade after initial presentation and diagnosis of primary kidney tumor
+- Macroscopically: well-circumscribed, fleshy, bright yellow-tan lesions
+- Microscopically: tumor cells arranged in nests, sheets, or cords
+- Rich sinusoid-pattern of vascular network
+- Prominent clear cytoplasm
+- Differential diagnosis:
+  - Primary pancreatic well-differentiated neuroendocrine tumor of clear cell subtype
+  - Other solid tumors with clear cytoplasm
+    - Ductal adenocarcinoma with clear cell appearance
+    - Solid serous adenoma
+    - Clear cell variant of solid pseudopapillary tumor
+    - PEComa
+
+---
+
+## Metastatic Melanoma
+
+- Metastatic melanoma in pancreas of unknown primary site is rare
+- Major primary sites of melanoma metastasizing to pancreas: cutaneous and ocular
+- In up to 13% of cases, primary site may not be identified
+  - Suggests possibility of misdiagnosis of primary pancreatic malignancy
+- Some propose patients with isolated pancreatic melanoma may benefit from surgery
+  - When complete resection is possible
+- Patients with unknown primary melanoma appear to have equivalent or better outcomes
+  - Than patients with known primaries of similar stage
+- Gross appearance may be black if tumor is intensely pigmented
+- Microscopic examination: wide spectrum of morphologic features
+- Tumor cells generally not arranged in particular pattern
+- Display diffuse and noncohesive infiltration
+- Malignant melanocytes described as having large round nuclei with macronucleoli
+- Can notoriously mimic many types of malignancies
+  - Carcinoma
+  - Sarcoma
+  - Lymphoma
+  - Particularly when tumor is not pigmented
+- Immunoreactivity for melanocytic markers (S100, SOX10, Melan-A, HMB45)
+- Negative labeling for cytokeratin can confirm diagnosis
+
+---
+
+## Tumors of Ampulla and Periampulla — Introduction
+
+- Variety of neoplasms can arise at:
+  - Ampulla of Vater
+  - Minor papillae
+  - Surrounding periampullary duodenum
+  - At confluence of pancreatic and biliary ducts
+- Ampulla comprised of several types of epithelia:
+  - Intestinal-type duodenal mucosa covering papilla
+  - PD epithelium
+  - Biliary epithelium of distal CBD
+  - Epithelium lining common channel uniting PD and CBD within duodenal wall
+- Lining epithelia of PD, CBD, and common channel are histologically similar
+  - Pancreatobiliary-type epithelium
+- Neoplasms arising in ampulla may have predominantly:
+  - Intestinal phenotype
+  - Pancreatobiliary phenotype
+  - Mixed phenotype
+- Most ampullary neoplasms are adenocarcinomas or precursor lesions
+- Rare specific types of neuroendocrine tumors also involve this region
+- Tumors often extend to involve ampulla, pancreas, distal bile duct, and duodenum
+
+---
+
+## Ampullary Adenoma and Noninvasive Intraampullary Papillary-Tubular Neoplasm
+
+**Two subtypes based on location and histologic phenotype:**
+
+1. **Intestinal-type adenomas**
+   - Arising from duodenal surface mucosa overlying ampulla
+   - Similar to colorectal adenomas
+   - Can occur in association with FAP or Lynch syndromes
+
+2. **Intraampullary papillary-tubular neoplasm (IAPN)**
+   - Arising within intraampullary channel (distal CBD and PD)
+   - Usually pancreatobiliary-type
+
+- Most patients with ampullary adenomas and IAPNs are asymptomatic when tumors are small
+- Larger tumors can cause:
+  - Jaundice
+  - Cholangitis
+  - Pancreatitis
+  - Secondary to obstruction of CBD or PD
+
+---
+
+## Ampullary Adenoma and IAPN — Microscopic Features
+
+**Intestinal-type ampullary adenomas:**
+- Resemble colorectal counterparts
+- May have tubular, villous, or tubulovillous configuration
+- Intestinal-type epithelium reveals nuclear pseudostratification of tall-columnar cells with elongated nuclei
+- Degree of dysplasia assessed based on cytologic atypia and architectural complexity
+- High-grade dysplasia: complex, cribriform glands with significant nuclear atypia and loss of epithelial polarity
+- Immunohistochemistry: expression of intestinal markers (CK20, MUC2, CDX2)
+- Generally lack expression of CK7 and MUC1
+
+**IAPNs:**
+- Defined as predominantly pancreatobiliary type
+- Nearly half of cases have mixed pancreatobiliary and intestinal phenotype
+- Form exophytic polypoid masses in ampulla
+- Grow within ampullary channel with minimal or no involvement of PD, CBD, or duodenal papilla
+- Leads to protuberant ampulla with widened orifice seen by endoscopy
+- Microscopically: markedly complex villous and papillary architecture
+- Branching papillae lined by cuboidal cells
+- Round and atypical nuclei lacking nuclear pseudostratification of intestinal-type adenomas
+- Most IAPNs (> 80%) have both low-grade and high-grade dysplasia
+- Degree of dysplasia assessed by architecture complexity and nuclear atypia
+
+---
+
+## Figure 59.19 — Ampullary Adenoma
+
+- **A:** An adenoma arising from duodenal surface mucosa overlying ampulla at convergence of distal common bile duct (CBD) and pancreatic duct (PD)
+- **B:** An intraampullary papillary-tubular neoplasm arising within intraampullary channel (distal CBD and PD)
+
+---
+
+## Ampullary Adenoma and IAPN — Treatment and Prognosis
+
+- May be treated effectively by endoscopic resection or transduodenal papillectomy
+- Rather than pancreatoduodenectomy
+- Specimens from these procedures should be carefully examined to determine:
+  - Complete excision of lesion
+  - Search for occult foci of carcinoma
+- Patients with noninvasive carcinomas have very good prognosis
+- May occasionally develop recurrence in long-term follow-up
+- Presence of carcinoma can give rise to recurrence after local therapy
+- More radical operative approach commonly preferred
+
+---
+
+## Ampullary Adenocarcinoma — Epidemiology and Clinical Features
+
+- Ampulla is most common site for small intestinal adenocarcinoma
+- Accounts for 15% of all pancreatoduodenectomies performed
+- Because of complex anatomy at papilla and biliary/pancreatic effluents:
+  - Many carcinomas arising in duodenum, pancreas, or CBD can secondarily extend into ampulla
+  - May be incorrectly designated as ampullary primary tumor
+- Establishment of tumor's ampullary origin may be challenging preoperatively
+- May ultimately require examination of pancreatoduodenectomy specimen
+- Median age for ampullary adenocarcinoma: approximately mid-60s
+- Typical presentation: biliary obstruction and associated symptoms
+  - Cholestasis
+  - Jaundice
+  - Lead to relatively early diagnosis
+- Periampullary duodenal subtype carcinomas can cause GI bleeding
+  - Because of mucosal ulceration
+
+---
+
+## Ampullary Adenocarcinoma — Prognosis
+
+- Patients with ampullary carcinomas have relatively favorable survival prognosis
+- Compared with those with pancreatic ductal carcinomas
+- 5-year survival rate: 50% with localized disease
+- 5-year survival rate: 28% with lymph node metastases
+
+**Ampullary adenocarcinoma can arise from:**
+1. Periampullary duodenal mucosa
+   - Usually with associated adenoma
+   - Prevalent in patients with FAP
+2. Intraampullary channel
+   - Either with associated IAPN
+   - Or flat dysplasia of ampullary ducts
+
+---
+
+## Ampullary Adenocarcinoma — Pathologic Features
+
+- Macroscopic appearance depends on specific subtype
+- When tumor involves surface duodenal mucosa:
+  - Can form polypoid or ulcerated mass evident at endoscopic evaluation
+- Intraampullary carcinomas:
+  - Relatively small
+  - Covered by intact duodenal mucosa
+  - May only present as subtle and raised nodule elevated from duodenal mucosa
+- Microscopically: most have gland formation
+- Either intestinal or pancreatobiliary phenotype
+- About 30% to 40% of cases have mixed phenotype
+
+---
+
+## Figure 59.20 — Ampullary Adenocarcinoma in a Whipple Specimen
+
+- **A:** An adenocarcinoma protruding from the ampulla
+- **B:** Bi-valved pancreatectomy specimen showing the tumor at the ampulla and distal CBD and pancreatic duct, causing proximal ductal dilatation
+
+---
+
+## Ampullary Adenocarcinoma — Intestinal Type
+
+- Usually arises in association with an ampullary adenoma
+- Resembles large intestinal adenocarcinoma counterpart
+- Tumors composed of cribriform glands with tall columnar cells
+- Elongated nuclei
+- Intestinal phenotype confirmed by immunohistochemistry
+- Positive reactivity for CDX2 and MUC2
+
+---
+
+## Ampullary Adenocarcinoma — Pancreatobiliary Type
+
+- Shares morphologic features and immunophenotype with PDAC
+- Tumors composed of simple or branching glands
+- Lined by a single layer of cuboidal cells
+- Round or pleomorphic nuclei
+- Prominent stromal desmoplasia
+- Tumor cells immunoreactive to CK7 and MUC1
+
+---
+
+## Ampullary Neuroendocrine Carcinoma
+
+- Poorly differentiated NECs represent rare phenotype of ampullary carcinoma
+- Many NECs arise in association with an adenoma
+- May have mixed components of glandular or squamous differentiation
+- **Small-cell carcinoma subtype:**
+  - Fusiform cells with minimal cytoplasm
+  - Hyperchromatic chromatin
+  - Nuclear molding
+- **Large-cell variant NECs:**
+  - Moderate amounts of cytoplasm
+  - Round nuclei with prominent nucleoli
+- Poorly differentiated NECs are high-grade, aggressive malignancies
+- Geographic necrosis commonly observed
+- Neuroendocrine differentiation required for diagnosis
+- Generally assessed by checking expression of chromogranin or synaptophysin
+
+---
+
+## Other Histology Variants of Ampullary Carcinoma
+
+- Many other less common histologic variants described:
+  - Adenosquamous carcinoma
+  - Mucinous adenocarcinoma
+  - Signet ring cell carcinoma
+  - Medullary carcinoma
+  - Undifferentiated carcinoma
+- Although morphologic features of each subtype are distinctive
+- They do not have specific clinical or genetic differences
+- Compared with more common histologic subtypes
+
+---
+
+## Ampullary Neuroendocrine Tumors — Epidemiology and Clinical Features
+
+- Duodenal NETs are rare among intestinal NETs (2%–3%)
+- Represent most diverse group of neoplasms
+- Often present with unusual clinical features and unique pathologic characteristics
+- Involve several subtypes of neuroendocrine cells
+- Associated with multiple hereditary associations
+- Ampullary NETs predominantly involve submucosa and muscularis of duodenum and ampulla
+- Extension into mucosa with subsequent bleeding can occur
+- Diagnosis can be established via endoscopic mucosal biopsy
+- Ampullary duodenum is primary location of:
+  - Somatostatin-producing D-cell NET (somatostatinoma)
+  - Gangliocytoparaganglioma
+  - Constitute about 30% of all duodenal NETs
+- Both entities have known associations with hereditary conditions of NF1 and MEN1
+- Hereditary association much less common in gangliocytoparaganglioma
+
+---
+
+## Ampullary Somatostatinoma vs. Pancreatic Somatostatinoma
+
+- **Pancreatic counterpart:**
+  - Extremely rare
+  - Presents with somatostatin hypersecretion-related symptoms
+    - Diarrhea
+    - Cholelithiasis
+    - Dyspepsia
+    - Diabetes
+- **Duodenal somatostatinoma:**
+  - Almost never functional
+  - Given exclusive location at or around major or minor ampulla
+  - Frequently cause obstructive symptoms
+    - AP
+    - Jaundice
+    - Intestinal bleeding
+
+---
+
+## Ampullary NET — Pathologic Features
+
+- Somatostatin-producing D-cell NETs commonly exhibit glandular growth pattern
+- Psammomatous calcifications present in lumen of glands
+- Also known as glandular carcinoid and psammomatous somatostatinoma
+- Usually less than 1 to 3 cm in size
+- Typically located in either major or minor ampulla or periampullary region
+- Presence of calcification phenomena associated with:
+  - 100% of NF1-associated tumors
+  - 60% of sporadic somatostatinomas
+- When present in submucosa, may have appearance mimicking benign Brunner's glands of duodenum
+- Tumor does not form well-circumscribed border
+- Infiltrates deeply into smooth muscle of Sphincter of Oddi
+- Abutting or invading pancreas common without eliciting desmoplastic reaction
+- Negative deep resection margins can be difficult to achieve from local excisions
+  - Either endoscopic intervention or papillectomy
+- Given combined clinical presentation of jaundice and glandular-forming histology
+  - Not uncommon for somatostatinomas to be misinterpreted as adenocarcinoma of ampulla in biopsy specimens
+- Cytologic level: relatively homogenous and round to ovoid nuclei
+- Stippled chromatin
+- Moderate amount of granular cytoplasm
+- Tumor necrosis almost never seen in small tumors
+- Mitotic activity in range of 0 to 2 mitoses/10 high power fields (WHO G1 grade)
+- Ki67 proliferative index > 2% may place them in WHO G2 grade
+
+---
+
+## Figure 59.21 — Ampullary Somatostatinoma
+
+- Somatostatinoma with prominent glandular formation, bland cytologic features, and a psammoma body (upper left)
+
+---
+
+## Gangliocytoparaganglioma (GCP)
+
+- May present as polypoid or pedunculated ampullary or periampullary lesion
+- Usually measure 1 to 3 cm
+- Unique type of neuroendocrine tumor with trilineage differentiation:
+  - Neuroendocrine epithelium
+  - Schwannian/nerve sheath
+  - Ganglion components
+- Immunohistochemically:
+  - Tumor cells generally reactive for chromogranin and synaptophysin
+  - Epithelial component may not be immunoreactive to cytokeratin in up to 50% of cases
+  - Tumor cells usually positive for pancreatic polypeptide, somatostatin, or VIP
+  - Schwannian component immunoreactive for S100
+
+---
+
+## Figure 59.22 — Ampullary Gangliocytoparaganglioma (GCP)
+
+- **A:** Endoscopic appearance of a polypoid mass
+- **B:** GCP with trilineage differentiation including neuroendocrine epithelium (upper left), spindled schwannian/nerve sheath, and ganglion components (lower right)
+
+---
+
+## Ampullary NET — Prognosis
+
+- Lymph node metastasis occurs in approximately 30%
+- Liver metastasis occurs in approximately 5%
+- Most patients have favorable outcomes after complete removal of disease
+- May require pancreatoduodenectomy because of ampullary location of tumor
+- 10-year survival: over 70%
+
+---
+
+## Summary — Key Points (1)
+
+- PanIN is the precursor lesion of pancreatic ductal adenocarcinoma
+- High-grade PanIN (PanIN-3) is carcinoma in situ
+- PDAC is the most common pancreatic neoplasm (> 90%)
+- Most PDAC harbor KRAS mutations (> 90%)
+- Tumor suppressor genes: TP53, SMAD4, CDKN2A
+- Colloid carcinoma has better prognosis than conventional PDAC
+- IPMN, IOPN, and ITPN are intraductal neoplasms with cystic features
+- GNAS mutation is unique to IPMN
+- MCN occurs almost exclusively in women; ovarian-like stroma is defining
+- Serous cystadenoma is benign; VHL-associated cases are multifocal
+
+---
+
+## Summary — Key Points (2)
+
+- Pancreatic NETs are classified as well-differentiated PanNET or poorly differentiated PanNEC
+- PanNETs: MEN1, DAXX, ATRX mutations; not KRAS/TP53/SMAD4
+- Acinar cell carcinoma: trypsin/chymotrypsin positive; BCL10 positive
+- Pancreatoblastoma: squamoid nests; children; AFP elevated
+- SPN: young women; β-catenin nuclear; chromogranin negative
+- Mesenchymal tumors of pancreas are rare (1%–2%)
+- Lymphomas: DLBCL most common; PPL is 0.5% of pancreatic tumors
+- Pseudocysts lack epithelial lining; retention cysts have cuboidal epithelium
+- AIP: Type 1 (IgG4-related) and Type 2 (duct-centric)
+- Metastatic tumors to pancreas: lung, GI, lymphoma, RCC, melanoma
+
+---
+
+## Summary — Key Points (3)
+
+- Ampullary adenomas: intestinal type and IAPN (pancreatobiliary type)
+- Ampullary adenocarcinoma: intestinal or pancreatobiliary phenotype
+- Ampullary NETs: somatostatinoma and gangliocytoparaganglioma
+- Somatostatinomas: glandular pattern, psammomatous calcifications, NF1 association
+- GCP: trilineage differentiation (neuroendocrine, schwannian, ganglion)
+- Prognosis of ampullary carcinomas is better than PDAC
+- Accurate diagnosis is crucial for appropriate management
+- Molecular testing increasingly important for targeted therapy

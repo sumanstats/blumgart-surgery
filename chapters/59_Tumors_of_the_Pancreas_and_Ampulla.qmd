@@ -1,2 +1,18 @@
 # 59 Tumors of the Pancreas and Ampulla
 
+
+::: {.panel-tabset}
+
+## Qwen
+
+
+{{< reveal 59_Tumors_of_the_Pancreas_and_Ampulla >}}
+
+## Deepseek
+
+{{< reveal Extras/pancreas/chap59_deepseek >}}
+
+
+
+
+:::

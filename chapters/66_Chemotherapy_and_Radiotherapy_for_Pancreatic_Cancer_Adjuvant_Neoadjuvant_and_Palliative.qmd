@@ -1,2 +1,16 @@
 # 66 Chemotherapy and Radiotherapy for Pancreatic Cancer: Adjuvant, Neoadjuvant, and Palliative
 
+
+
+::: {.panel-tabset}
+
+## Z AI
+
+{{< reveal 66_Chemotherapy_and_Radiotherapy_for_Pancreatic_Cancer_Adjuvant_Neoadjuvant_and_Palliative >}}
+
+
+
+
+
+:::
+
