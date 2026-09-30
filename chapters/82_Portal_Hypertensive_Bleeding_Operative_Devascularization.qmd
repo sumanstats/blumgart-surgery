@@ -1,4 +1,19 @@
 # 82 Portal Hypertensive Bleeding: Operative Devascularization
 
 
+::: {.panel-tabset}
+
+
+## Original 
+
 {{< reveal 82_Portal_Hypertensive_Bleeding_Operative_Devascularization >}}
+
+## Deepseek
+
+{{< reveal Extras/EHPVO/chap82_deepseek >}}
+
+
+:::
+
+
+
