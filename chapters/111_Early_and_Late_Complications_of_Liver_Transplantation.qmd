@@ -48,3 +48,15 @@
 * FFP transfusion
 
 :::
+
+
+::: {.callout-note}
+
+#### **EAD models**
+
+DDLT specific: Olthoff EAD → MEAF → L-GrAFT → EASE  
+
+LDLT specific: EAGLE-LDLT (Early Allograft failure in Living donor Liver Transplantation) published in 2026
+
+:::
+
