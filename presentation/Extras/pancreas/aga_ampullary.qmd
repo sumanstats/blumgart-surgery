@@ -1,0 +1,1124 @@
+---
+title: "AGA Clinical Practice Update on Management of Ampullary Neoplasms"
+format:
+  revealjs:
+    theme: dark 
+---
+
+
+## Introduction 
+
+- Ampullary neoplasia is **rare** — represents only **0.6%–0.8%** of gastrointestinal cancers
+- However, **incidence among young adults has risen** over the past 20 years
+- Most ampullary tumors are **sporadic**
+- A few **genetic syndromes** substantially increase the risk of ampullary neoplasia
+- Compared with other neoplastic pancreaticobiliary entities, there is a **relative lack of guidance** on best practices for management of ampullary lesions
+- Ampullary cancer 5-year survival ranges from **20% to 75%** depending on stage at diagnosis
+
+---
+
+## The Central Premise
+
+- Ensuring **high-quality endoscopic assessment** and treatment with **complete resection** will:
+  - Decrease recurrence risk
+  - Identify patients at an earlier stage
+- Early detection depends on:
+  - Increased utilization of cross-sectional imaging
+  - Education of endoscopists
+  - A higher proportion of patients undergoing upper endoscopy for other indications
+- Result: incidental ampullary neoplasms are increasingly detected earlier
+
+---
+
+## Description
+
+- Although ampullary neoplasia is a rare entity and represents 0.6%–0.8% of gastrointestinal cancers, the incidence among young adults has risen over the past 20 years
+- Most ampullary tumors are sporadic, but a few genetic syndromes substantially increase the risk of ampullary neoplasia
+- Compared with other neoplastic pancreaticobiliary entities, there is a relative lack of guidance on best practices for management of ampullary lesions
+- Ampullary cancer is associated with a 5-year survival rate ranging from 20% to 75% depending on the stage of diagnosis
+- Ensuring high-quality endoscopic assessment and treatment with complete resection will decrease recurrence risk and identify patients at an earlier stage
+
+---
+
+## Methods — How This Update Was Developed
+
+- **Commissioned and approved by:**
+  - AGA Institute Clinical Practice Updates Committee
+  - AGA Governing Board
+- **Purpose:** Provide timely guidance on a topic of high clinical importance to the AGA membership
+- **Peer review:**
+  - Internal peer review by the Clinical Practice Updates Committee
+  - External peer review through standard procedures of *Clinical Gastroenterology and Hepatology*
+- **Evidence base:** Review of published literature and expert opinion
+- **Important caveat:** Systematic reviews were **not** performed
+  - Therefore these Best Practice Advice statements **do not carry formal ratings** regarding quality of evidence or strength of the presented considerations
+
+---
+
+## Best Practice Advice Statements — Overview
+
+- **15 Best Practice Advice (BPA) statements** in total
+- Organized thematically:
+  - **Diagnosis:** BPA 1–3
+  - **Staging and Assessment:** BPA 4–6
+  - **Technical Aspects:** BPA 7–11
+  - **Surveillance and Follow-Up:** BPA 12–15
+- The narrative text expands on each statement, provides supporting data, and addresses areas of controversy
+
+---
+
+## BPA Summary Table (1 of 2)
+
+| BPA | Topic | Core Recommendation |
+|-----|-------|---------------------|
+| 1 | Assessment | Use a side-viewing duodenoscope |
+| 2 | Biopsy | Obtain at least 6 biopsies |
+| 3 | Staging | Consider EUS in lesions amenable to resection |
+| 4 | Benign features | Well-defined margins, size less than 4–5 cm, nonfriable, soft, intraductal extension 1 cm or less |
+| 5 | Intraductal extension | More than 1 cm: surgical consultation; less than 1 cm: endoscopy with close surveillance |
+| 6 | Contraindications | Metastases, invasive cancer beyond mucosa, more than 1 cm intraductal extension in a fit patient |
+| 7 | Biliary drainage | ERCP with SEMS when resection is not feasible and obstruction/cholangitis is present |
+| 8 | Sphincterotomy | Avoid prepapillectomy biliary and pancreatic sphincterotomies |
+
+---
+
+## BPA Summary Table (2 of 2)
+
+| BPA | Topic | Core Recommendation |
+|-----|-------|---------------------|
+| 9 | Resection | En bloc snare resection when feasible; submucosal injection generally not required |
+| 10 | Pancreatitis prophylaxis | Pancreatic duct stent, rectal NSAIDs, high-volume lactated Ringer's hydration |
+| 11 | Hemostasis | Standard techniques: epinephrine, electrocoagulation, hemoclips, APC, sprays |
+| 12 | Surveillance | Begin at 3 months; then 6 months, 12 months, then annually for at least 5 years |
+| 13 | Enhanced follow-up | For adenomas greater than 3 cm resected piecemeal or positive margins: thermal ablation and ductography every 2–3 months until eradication |
+| 14 | Beyond 5 years | Individualize based on health and life expectancy |
+| 15 | Multidisciplinary | HGD, incomplete resection, or suspected malignancy: MDT review |
+
+---
+
+## Best Practice Advice 1
+
+> **Assessment for ampullary adenomas is best conducted using a side-viewing duodenoscope, because ampulla visualization and access for biopsies with a standard forward-viewing gastroscope is limited. Furthermore, use of a duodenoscope allows for a more careful biopsy, avoiding the pancreatic orifice to minimize postprocedure pancreatitis risk.**
+
+- Key points:
+  - **Side-viewing duodenoscope** is the preferred instrument
+  - Forward-viewing gastroscope provides **limited visualization and access**
+  - Duodenoscope enables **careful, targeted biopsy**
+  - **Avoid the pancreatic orifice** to reduce postprocedure pancreatitis risk
+
+---
+
+## Best Practice Advice 2
+
+> **A significant proportion (20%–40%) of ampullary adenomas harbor malignancy; therefore, at least 6 biopsies should be obtained to assess histopathology, especially from ulcerated or indurated areas.**
+
+- Key points:
+  - Malignancy rate in ampullary adenomas ranges **up to 40%**
+  - **At least 6 biopsies** for adequate sampling
+  - Target **ulcerated or indurated (atypical) areas** specifically
+  - Sample **each ampullary quadrant**
+  - Still avoid the pancreatic duct orifice
+
+---
+
+## Best Practice Advice 3
+
+> **Endoscopic ultrasound assessment is valuable for staging and determination of the extent (if any) of intraductal extension and should be considered for each patient with an ampullary adenoma that is potentially amenable to endoscopic resection, barring lesions smaller than 1 cm with no worrisome clinical or endoscopic features.**
+
+- Key points:
+  - EUS is valuable for **staging** and **intraductal extension** assessment
+  - Consider for **every patient** with an ampullary adenoma potentially amenable to endoscopic resection
+  - **Exception:** lesions smaller than 1 cm with no worrisome clinical or endoscopic features
+
+---
+
+## Best Practice Advice 4
+
+> **Endoscopic characteristics of an ampullary adenoma that suggest it is benign and render it most amenable to endoscopic papillectomy include: well-defined margins, size less than 4 to 5 cm, a nonfriable lesion, and a lesion that is soft to endoscopic probing and with intraductal extension limited to 1 cm or less.**
+
+- Favorable features:
+  - **Well-defined margins**
+  - **Size less than 4 to 5 cm**
+  - **Nonfriable** lesion
+  - **Soft** to endoscopic probing
+  - **Intraductal extension 1 cm or less**
+
+---
+
+## Best Practice Advice 5
+
+> **For ampullary adenomas with significant (greater than 1 cm) intraductal extension, consultation for consideration of surgical resection is suggested. Lesions with minimal (less than 1 cm) intraductal involvement may be amenable to endoscopic treatment with close surveillance.**
+
+- Two pathways:
+  - **Greater than 1 cm intraductal extension** → surgical consultation
+  - **Less than 1 cm intraductal involvement** → endoscopic treatment with **close surveillance** may be appropriate
+- Note: ESGE permits a more liberal threshold of **up to 20 mm** in selected expert-center cases
+
+---
+
+## Best Practice Advice 6
+
+> **Three definitive contraindications to endoscopic papillectomy are: metastatic spread, invasive cancer that extends beyond the mucosal layer, and with greater than 1 cm intraductal extension in a surgically fit patient. Relative contraindications or factors that warrant further consideration include lesions over 5 cm in size, early-stage/T1 cancers and concerns surrounding patients with limited follow-up adherence.**
+
+- **Definitive contraindications (3):**
+  - Metastatic spread
+  - Invasive cancer extending beyond the mucosal layer
+  - Greater than 1 cm intraductal extension in a surgically fit patient
+- **Relative contraindications / factors warranting further consideration:**
+  - Lesions over 5 cm
+  - Early-stage / T1 cancers
+  - Concerns surrounding patients with limited follow-up adherence
+
+---
+
+## Best Practice Advice 7
+
+> **In cases where endoscopic resection is not feasible, and biliary obstruction resulting in significant jaundice or when cholangitis is present, biliary drainage with or without sphincterotomy and self-expandable metal stent placement may be considered at the discretion of the surgeon.**
+
+- Applies when:
+  - Endoscopic resection is **not feasible**
+  - **Biliary obstruction** with significant jaundice, **or**
+  - **Cholangitis** is present
+- Options:
+  - Biliary drainage with or without sphincterotomy
+  - **Self-expandable metal stent (SEMS)** placement
+- Decision at the **discretion of the surgeon**
+
+---
+
+## Best Practice Advice 8
+
+> **Avoid prepapillectomy biliary and pancreatic sphincterotomies to minimize the risk of incomplete histopathologic assessment due to electrocautery artifact and bleeding prior to resection.**
+
+- Rationale:
+  - **Electrocautery artifact** can compromise histopathologic assessment
+  - **Bleeding** prior to resection can impair the procedure
+  - Prepapillectomy sphincterotomies may **hinder en bloc resection**
+- Caveat: a preresection **cholangiogram and pancreatogram** may still be beneficial (see later slide)
+
+---
+
+## Best Practice Advice 9
+
+> **En bloc snare resection should be performed when feasible. Submucosal injection is generally not required but may be beneficial for laterally spreading components of the lesion along the duodenal wall.**
+
+- **En bloc resection whenever feasible**
+  - Facilitates more complete histopathologic assessment
+  - Decreases risk of residual tissue
+- **Submucosal injection:**
+  - Generally **not required**
+  - May be beneficial for **laterally spreading components** along the duodenal wall
+  - Helps facilitate resection and minimize perforation risk in lateral extension
+
+---
+
+## Best Practice Advice 10
+
+> **Prophylactic pancreatic duct stenting, rectal nonsteroidal anti-inflammatory drugs, and high-volume hydration with lactated Ringer's solution should be used to minimize post-papillectomy pancreatitis.**
+
+- Three pillars of prophylaxis:
+  - **Prophylactic pancreatic duct stenting**
+  - **Rectal NSAIDs**
+  - **High-volume hydration with lactated Ringer's solution**
+- Goal: minimize **post-papillectomy pancreatitis**
+
+---
+
+## Best Practice Advice 11
+
+> **Standard hemostasis techniques, such as epinephrine injection, electrocoagulation, use of hemoclips, argon plasma coagulation, and hemostatic sprays, may all be carefully employed for treating bleeding from endoscopic papillectomy.**
+
+- Available techniques:
+  - **Epinephrine injection**
+  - **Electrocoagulation**
+  - **Hemoclips**
+  - **Argon plasma coagulation (APC)**
+  - **Hemostatic sprays**
+- All may be **carefully employed** for bleeding after endoscopic papillectomy
+
+---
+
+## Best Practice Advice 12
+
+> **Following endoscopic papillectomy, surveillance should begin at 3 months, with side-viewing duodenoscopy and biopsy of the resection scar and any abnormal area. If there is no residual adenoma, surveillance should be repeated at 6 months and 12 months, and then annually for at least 5 years. Surveillance beyond 5 years should be individualized based on recurrence risk, comorbidity, and life expectancy. In familial adenomatous polyposis, surveillance intervals should be individualized according to ampullary, gastric, and duodenal disease burden.**
+
+- **3 months** → **6 months** → **12 months** → **annually for at least 5 years**
+- Beyond 5 years: **individualize**
+- FAP: individualize by **ampullary, gastric, and duodenal disease burden**
+
+---
+
+## Best Practice Advice 13
+
+> **For adenomas greater than 3 cm resected piecemeal or those with positive margins, consider adjunct thermal ablation and ductography. Perform this follow-up every 2–3 months until eradication is confirmed via biopsy.**
+
+- Applies to:
+  - Adenomas **greater than 3 cm** resected **piecemeal**
+  - Adenomas with **positive margins**
+- Adjunctive measures:
+  - **Thermal ablation** (for example, APC for mucosal residue)
+  - **Ductography** (ERCP cholangiography / pancreatography)
+- Interval: **every 2–3 months** until **histologic eradication** is confirmed via biopsy
+
+---
+
+## Best Practice Advice 14
+
+> **There are some reports of recurrence or cancer developing more than 5 years after resection; however, these cases are rare. Due to the limited number of such reports, the decision to continue endoscopic surveillance beyond 5 years should be individualized based on the overall health and life expectancy of the patient. If high-risk features are present, long-term endoscopic monitoring is required.**
+
+- Late recurrence (greater than 5 years) is **rare** but reported
+- Decision to continue surveillance beyond 5 years → **individualize**:
+  - Overall health
+  - Life expectancy
+- **High-risk features present** → **long-term endoscopic monitoring is required**
+
+---
+
+## Best Practice Advice 15
+
+> **Patients with high-grade dysplasia, incomplete resection, or suspected malignancy should be discussed by a multidisciplinary team that includes gastroenterologists, surgeons, and oncologists.**
+
+- Triggers for multidisciplinary team (MDT) review:
+  - **High-grade dysplasia (HGD)**
+  - **Incomplete resection**
+  - **Suspected malignancy**
+- Team composition:
+  - **Gastroenterologists**
+  - **Surgeons**
+  - **Oncologists**
+- Broader MDT may also include **radiology** and **pathology**
+
+---
+
+## Approaching Ampullary Neoplasms
+
+- Ampullary neoplasms have a **prevalence of less than 0.1%**
+- However, patients with **genetic polyposis syndromes** have up to a **3-fold increased risk** of developing these neoplasms
+- Ampullary lesions typically **present late** and thus have a relatively **high rate of harboring malignancy**
+- With increased utilization of cross-sectional imaging, education of endoscopists, and more upper endoscopies performed for other indications, **incidental ampullary neoplasms are increasingly detected earlier**
+- Focus of this Clinical Practice Update: **management of ampullary adenomas**, the most common type of ampullary lesion
+
+---
+
+## Prevalence and Risk
+
+- **General population:** prevalence less than 0.1%
+- **Genetic polyposis syndromes:** up to **3-fold increased risk**
+- Ampullary neoplasia overall: **0.6%–0.8%** of gastrointestinal cancers
+- Rising incidence among **young adults** over the past 20 years
+- Most tumors **sporadic**; a minority associated with **hereditary syndromes**
+
+---
+
+## Clinical Presentation and Natural History
+
+- **Early preneoplastic and neoplastic lesions** of the ampulla are frequently **asymptomatic**
+- As lesions grow, they often lead to **obstruction**, with patients presenting with:
+  - **Biliary obstruction**
+  - **Cholangitis**
+  - **Pancreatitis**
+- These symptoms should prompt **cross-sectional imaging** — ideally **MRCP** — for evaluation of the pancreaticobiliary tract
+- If cross-sectional imaging reveals **no evidence of an obstructing process**, consider **endoscopic evaluation**
+
+---
+
+## Initial Evaluation Pathway
+
+- Suspicion arises from either:
+  - **Cross-sectional imaging**
+  - **Endoscopic evaluation**
+- Most appropriate next step: **upper endoscopy** to:
+  - Evaluate for the presence of an ampullary lesion
+  - Evaluate the characteristics of the lesion
+  - Obtain biopsies to sample the lesion
+- Biopsies serve to:
+  - Characterize **lesion histopathology**
+  - Determine **whether malignancy is present**
+
+---
+
+## Focus of This Update
+
+- Primary focus: **management of ampullary adenomas**
+- Most common type of ampullary lesion
+- The update analyzes existing data and develops best practice advice for **each stage** of ampullary adenoma care:
+  - **Diagnosis**
+  - **Staging and assessment**
+  - **Technical aspects of resection**
+  - **Surveillance and follow-up**
+- See **Figure 1** for the overall algorithm
+
+---
+
+## Diagnosis — Overview
+
+- Best Practice Advice 1: **Side-viewing duodenoscope** for assessment
+- Best Practice Advice 2: **At least 6 biopsies**
+- Best Practice Advice 3: **EUS assessment** for staging and intraductal extension
+- If an ampullary adenoma is evident on upper endoscopy and **confirmed by pathology, without evidence of malignancy**, further evaluation is appropriate to determine **candidacy for endoscopic resection**
+
+---
+
+## Diagnosis — Endoscopic Assessment (BPA 1)
+
+- **Ampulla visualization is best achieved using a side-viewing duodenoscope** rather than a standard gastroscope
+- Standard forward-viewing gastroscope limitations:
+  - Limited **visualization** of the ampulla
+  - Limited **access for biopsies**
+- Duodenoscope advantages:
+  - Allows a **more careful biopsy**
+  - Allows **avoidance of the pancreatic orifice**
+  - Thereby minimizes **postprocedure pancreatitis risk**
+
+---
+
+## Diagnosis — Biopsy Strategy (BPA 2)
+
+- **Rates of malignancy in ampullary adenomas range up to 40%**
+- Therefore, **at least 6 biopsies** for adequate sampling are recommended
+- Biopsies should:
+  - **Avoid the pancreatic duct orifice**
+  - Be targeted to sample **each ampullary quadrant**
+  - Specifically sample any **concerning regions** — ulcerated or atypical areas
+- Rationale: ensure adequate histopathologic characterization and detection of malignancy
+
+---
+
+## Diagnosis — Malignancy Rates
+
+- Ampullary adenomas harbor malignancy in a **significant proportion**
+- Reported range: **20% to 40%**
+- Rates of malignancy in ampullary adenomas range **up to 40%**
+- Consequence: **generous, systematic sampling** is mandatory
+- Lesions that present late carry a relatively **high rate of harboring malignancy**
+
+---
+
+## Diagnosis — Appearance Variability
+
+- Ampullary adenoma appearance can be **highly variable**, ranging from:
+  - A **mildly prominent ampulla**
+  - A **flat area of atypical mucosa**
+  - A **large polypoid lesion** with friability and ulceration
+- Implication: **endoscopic suspicion** must remain high even for subtle findings
+- Biopsy of **any abnormal mucosa** is essential
+
+---
+
+## Diagnosis — Next Steps After Confirmation
+
+- If an ampullary adenoma is evident on upper endoscopy and **confirmed by pathology**
+- **And** there is **no evidence of malignancy**
+- Then: **further evaluation is appropriate** to determine the patient's **candidacy for endoscopic resection**
+- This sets the stage for the **staging and assessment** phase
+
+---
+
+## Staging and Assessment — Overview
+
+- Best Practice Advice 4: **Endoscopic characteristics suggesting benign disease**
+- Best Practice Advice 5: **Intraductal extension thresholds**
+- Best Practice Advice 6: **Contraindications to endoscopic papillectomy**
+- Robust **evidence-based criteria** for determining when endoscopic papillectomy is appropriate are **not yet established**
+- Therefore, the decision regarding management approach is typically **individualized** based on:
+  - **Lesion characteristics**
+  - **Patient's clinical status**
+  - **Preference and available endoscopic expertise**
+
+---
+
+## Endoscopic Features Suggesting Benign Disease (BPA 4)
+
+- Appropriate **patient selection** for endoscopic resection is essential for successful papillectomy
+- Endoscopic features most associated with a **benign lesion**:
+  - **Well-defined margins**
+  - **Nonfriable** lesion
+  - **Soft to endoscopic probing**
+- These are used by many endoscopists as part of the **assessment prior to papillectomy**
+- Combined with **size less than 4 to 5 cm** and **intraductal extension 1 cm or less**
+
+---
+
+## Evidence Gaps in Selection Criteria
+
+- Robust evidence-based criteria for when endoscopic papillectomy is appropriate are **not yet established**
+- Decision-making is therefore **individualized** based on:
+  - Lesion characteristics
+  - Patient's clinical status
+  - Patient and physician preference
+  - Available **endoscopic expertise**
+- This individualized approach is a **recurring theme** throughout the document
+
+---
+
+## Endoscopic Features — Detail
+
+- Features used in the pre-papillectomy assessment:
+  - **Well-defined margins** — favors benign
+  - **Nonfriable** — favors benign
+  - **Soft to endoscopic probing** — favors benign
+- Features raising concern:
+  - **Friable** lesion
+  - **Ulcerated** lesion
+  - **Fixed** lesion
+  - Lesions **larger than 4 cm**
+
+---
+
+## Narrow-Band Imaging
+
+- The narrow-band imaging (NBI) appearance of an ampullary adenoma is characterized by **pinecone/leaf-shaped villi** typical of adenomas
+- The appearance of **irregular or nonstructured villi** within an ampullary lesion on NBI may be **indicative of adenocarcinoma**
+- Areas with this NBI characteristic **should be sampled via biopsy**
+
+---
+
+## Cross-Sectional Imaging Features
+
+- Certain clinical, endoscopic, and imaging characteristics should **raise concerns** before proceeding with endoscopic papillectomy — **even when biopsies do not indicate cancer**
+- **Clinical signs:**
+  - Notable **weight loss**
+  - **Jaundice**
+- **Endoscopic indicators:**
+  - Lesions **larger than 4 cm**
+  - **Friable, ulcerated, or fixed** lesions
+- **Imaging signs:**
+  - **Dilated ducts**, particularly with **intraductal extension**
+
+---
+
+## Evaluation for Intraductal Involvement
+
+- **EUS** is typically performed as part of the staging and assessment process to assess the extent of **intraductal involvement**
+- **MRCP** can also be performed as an **adjunct** to assess the extent of intraductal involvement
+- Thresholds:
+  - **Limited intraductal extension (10 mm or less)** — may still be managed **endoscopically** in expert centers
+  - **Greater than 10 mm intraductal extension** — generally favors **surgery** in a surgically fit patient
+- Note: **ESGE permits a more liberal threshold of up to 20 mm** in selected expert-center cases
+
+---
+
+## Lesion Size
+
+- The **maximum size** of an ampullary adenoma for endoscopic resection **remains controversial**
+- **ESGE guidelines and some studies** support a size threshold of **4 to 4.5 cm**
+- **Others** have suggested that lesions measuring up to **one-half the duodenal circumference** may be amenable to endoscopic resection
+- This controversy is reflected in the relative contraindication threshold of **lesions over 5 cm** in BPA 6
+
+---
+
+## Other Considerations
+
+- In addition to the factors noted above, some **clinical and imaging characteristics** should raise concerns before proceeding with endoscopic papillectomy, **even when biopsies do not indicate cancer**
+- **Clinical signs:**
+  - Notable weight loss
+  - Jaundice
+- **Imaging:**
+  - **Substantial ductal dilation** with an **abrupt cutoff at the ampulla** on cross-sectional imaging
+- These may warrant **further consideration and/or evaluation** prior to proceeding with endoscopic papillectomy
+
+---
+
+## Familial Adenomatous Polyposis (FAP)
+
+- Patients with **FAP have higher adverse event rates** relative to others who undergo endoscopic papillectomy
+- In FAP, **recurrence rates are high** after resection
+- Removal of an ampullary adenoma **does not eliminate or substantially reduce** the recurrence or development of new upper gastrointestinal malignancy
+- In FAP, the rate of **progression of ampullary adenomas is low** relative to other patients: **11%–14%**
+
+---
+
+## FAP — Surveillance Versus Excision
+
+- Because of the low progression rate, **some experts recommend surveillance endoscopy with biopsies instead of excision** for patients with FAP with ampullary adenomas
+- Condition: provided there is **no rapid growth** or **evidence of high-grade dysplasia (HGD)** on biopsy
+- **Main advantage:** reduction of risks associated with removal of these lesions
+- **Remaining risk:** missing **unsampled HGD or carcinoma**
+- Management is therefore determined on an **individual patient level**, considering:
+  - Patient's clinical context and preference
+  - Perspectives of the care teams
+
+---
+
+## Intramucosal Malignancy Detected on Biopsy
+
+- There is **controversy** surrounding optimal management
+- Reasons for concern:
+  - **Spread via lymph nodes and lymphatic channels** has been reported
+  - **Vascular invasion** has been reported
+  - It is **challenging to determine** whether there is tumor invasion into the **sphincter of Oddi**
+- Authors advise:
+  - **Referral for surgical consultation**
+  - **Joint decision-making** between endoscopy and surgical colleagues
+  - Formulate a **patient-specific plan** considering comorbidities and preference
+
+---
+
+## Contraindications to Endoscopic Papillectomy
+
+| Category | Criteria |
+|----------|----------|
+| **Definitive (3)** | Evident metastases |
+| | Invasive cancer extending past the mucosal layer |
+| | Intraductal extension with a lesion that cannot be resected during papillectomy (generally greater than 1 cm into the duct) |
+| **Relative / warrants further consideration** | Lesions larger than 4 or 5 cm |
+| | Early-stage / T1 cancers |
+| | Concerns surrounding insufficient patient compliance for follow-up |
+| | Inadequate expertise in pancreaticobiliary endoscopy to safely perform endoscopic resection |
+
+---
+
+## Technical Aspects — Overview
+
+- Best Practice Advice 7: **Biliary drainage** when resection is not feasible
+- Best Practice Advice 8: **Avoid prepapillectomy sphincterotomies**
+- Best Practice Advice 9: **En bloc snare resection**
+- Best Practice Advice 10: **Postpapillectomy pancreatitis prophylaxis**
+- Best Practice Advice 11: **Hemostasis techniques**
+
+---
+
+## Biliary Drainage (BPA 7)
+
+- In cases where **endoscopic resection is not an option**, and when **obstructive jaundice** or **cholangitis** is present:
+  - **ERCP with placement of an SEMS** should be considered **over percutaneous drainage**
+- SEMS = self-expandable metal stent
+- Decision may be considered **at the discretion of the surgeon**
+- Option includes biliary drainage **with or without sphincterotomy**
+
+---
+
+## ERCP Versus Percutaneous Drainage
+
+- A **large retrospective analysis from a national database** assessed procedural adverse event rates with:
+  - Percutaneous transhepatic biliary drainage
+  - Endoscopic drainage
+- Population: patients with **malignant biliary obstruction**
+- **ERCP was associated with:**
+  - Lower rates of adverse events
+  - Lower costs of hospitalization
+  - Shorter length of stay
+- Compared with percutaneous transhepatic biliary drainage **for pancreatic cancer**
+- A **2017 systematic review and meta-analysis** found **comparable rates** of:
+  - Clinical success
+  - Complications
+  - 30-day mortality
+
+---
+
+## EUS-Guided Biliary Drainage
+
+- **EUS-guided biliary drainage** has also been shown to be a **safe and effective option** for drainage
+- Several large studies demonstrate **comparable safety and efficacy** of EUS-guided biliary drainage:
+  - **After failed ERCP**, or
+  - **As primary therapy**
+- Key advantage: it **mitigates the risk of pancreatitis**
+
+---
+
+## SEMS Versus Plastic Stents
+
+- **SEMSs are favored over plastic stents**
+- Reasons demonstrated by several studies:
+  - **Longer stent patency**
+  - **Reduced cholangitis events**
+  - **Less need for reintervention**
+  - **Lower rates of hospitalization** due to stent-related complications
+
+---
+
+## Prepapillectomy Sphincterotomies (BPA 8)
+
+- When embarking on endoscopic papillectomy, a **preresection cholangiogram and pancreatogram** may be beneficial to:
+  - **Exclude intraductal extension**
+  - Provide **fluoroscopic guidance** for accessing the pancreatic duct post-papillectomy
+- However, some studies suggest **prepapillectomy sphincterotomies** may:
+  - Cause difficulties in obtaining **complete histopathologic assessment** due to **cautery artifact**
+  - Hinder the ability to achieve **en bloc resection**
+- Prepapillectomy cholangiogram and pancreatogram can be performed **at the discretion of the endoscopist**
+- A prepapillectomy **pancreatogram** sometimes provides a **roadmap** of pancreatic duct trajectory for post-papillectomy access and stenting
+
+---
+
+## Submucosal Injection and Snare Resection (BPA 9)
+
+- Endoscopists should pursue **en bloc resection whenever feasible**
+  - Facilitates more complete histopathologic assessment
+  - Decreases risk of residual tissue
+- **Submucosal injection:**
+  - Does **not significantly aid** in resection
+  - May lead to **higher rates of incomplete resection**
+- Evidence: prospective, multicenter study of **50 patients** with ampullary adenomas undergoing snare papillectomy:
+  - **Submucosal injection group:** complete resection rate **50%**
+  - **No-injection group:** complete resection rate **80%**
+- **Exception:** in cases of **lateral extension along the duodenal wall**, submucosal injection is helpful in facilitating resection and **minimizing perforation risk**
+
+---
+
+## Postpapillectomy Pancreatitis (BPA 10)
+
+- Several measures should be pursued to minimize the risk of post-papillectomy pancreatitis
+- **Prophylactic pancreatic duct stents:**
+  - Maintain patency of the pancreatic duct
+  - Mitigate the effects of cautery leading to **edema and occlusion of the pancreatic orifice**
+  - Supported by a **small randomized controlled trial** and a **large meta-analysis**
+- **Rectal NSAIDs:**
+  - Shown to decrease risk of **post-ERCP pancreatitis**
+  - Not specifically studied in endoscopic papillectomy, but **should be administered** in this setting as well
+- **Aggressive periprocedural and postprocedural intravenous hydration:**
+  - Ideally **lactated Ringer's solution**
+  - Appropriate for the patient's **cardiac status and size**
+  - A systematic review and meta-analysis performed by the authors of the **2023 ASGE guidelines** on prevention of post-ERCP pancreatitis demonstrated:
+    - **Lower risk of pancreatitis** in the aggressive hydration group
+    - **No difference in volume overload**
+
+---
+
+## Hemostasis (BPA 11)
+
+- When bleeding is encountered, endoscopists should employ **standard endoscopic techniques** for achieving hemostasis
+- A **meta-analysis** showed:
+  - Pooled rate of bleeding: **10.6%**
+  - Efficacy of endoscopic treatment: **96%**
+- Most studies assessing treatment of bleeding are **retrospective**
+- Largely successful treatments include:
+  - **Epinephrine injection**
+  - **Electrocautery**
+  - **APC**
+  - **Hemostatic clipping**
+- **Hemostatic spray:** studied in this setting with rates of hemostatic control **similar to conventional methods**
+- **Hemostatic gel:** a recent randomized controlled trial assessed efficacy and safety after endoscopic papillectomy
+  - Appeared **more effective than epinephrine injection** in achieving **primary hemostasis**
+
+---
+
+## Surveillance and Follow-Up — Overview
+
+- Best Practice Advice 12: **Standard surveillance schedule**
+- Best Practice Advice 13: **Enhanced follow-up after piecemeal resection or positive margins**
+- Best Practice Advice 14: **Duration of surveillance**
+- Best Practice Advice 15: **Multidisciplinary review for high-risk features**
+- Key principle: **most recurrences occur early** — surveillance must be front-loaded
+- **Figure 2** summarizes management after endoscopic papillectomy
+
+---
+
+## Standard Surveillance After Complete En Bloc Resection (BPA 12)
+
+- After endoscopic papillectomy, the **first surveillance examination should be performed at 3 months**
+- Use a **side-viewing duodenoscope**
+- **Biopsy the resection scar** and any abnormal area
+- If **no residual adenoma** is identified:
+  - Repeat surveillance at **6 months** and **12 months** after resection
+  - Then **annually for at least 5 years**
+- Surveillance **beyond 5 years** should be individualized based on:
+  - Recurrence risk
+  - Comorbidity
+  - Life expectancy
+- In patients with **FAP**, surveillance intervals should be individualized according to **ampullary, gastric, and duodenal disease burden**
+
+---
+
+## Surveillance Schedule Table
+
+| Timepoint | Examination | Notes |
+|-----------|-------------|-------|
+| **3 months** | Side-viewing duodenoscopy plus biopsy | Biopsy resection scar and any abnormal mucosa |
+| **6 months** | Side-viewing duodenoscopy plus biopsy | If no residual adenoma at 3 months |
+| **12 months** | Side-viewing duodenoscopy plus biopsy | If no residual adenoma at 6 months |
+| **Annually to at least 5 years** | Side-viewing duodenoscopy plus biopsy | Continue annually for at least 5 years |
+| **Beyond 5 years** | Individualized | Based on recurrence risk, comorbidity, life expectancy |
+| **FAP** | Individualized | According to ampullary, gastric, and duodenal disease burden |
+
+---
+
+## Standard Surveillance — Additional Detail
+
+- Most recurrences after endoscopic papillectomy are identified **within the first 2 to 3 years**, but **late recurrences can occur**
+- Therefore, after complete endoscopic resection, surveillance at **3 months, 6 months, and 12 months, then annually for at least 5 years**
+- **Biopsy the resection scar even when the site appears endoscopically normal**, and biopsy any abnormal mucosa
+- This approach aligns with **ESGE** and the **international Delphi consensus**
+- Surveillance beyond 5 years should be individualized and is **most appropriate in patients with high-risk features:**
+  - Piecemeal resection
+  - Positive or indeterminate margins
+  - Intraductal extension
+  - HGD
+  - FAP
+- Where the ampulla is difficult to visualize, **cap-assisted forward-view endoscopy** can aid inspection
+  - However, **a duodenoscope remains preferred** for papillary evaluation
+
+---
+
+## Special Considerations in Familial Adenomatous Polyposis
+
+- In FAP, surveillance is **individualized to duodenal adenoma burden (Spigelman stage)** and **ampullary status**
+- Intervals:
+  - **Closer intervals (6–12 months)** for **advanced polyposis**
+  - **Longer intervals (3–5 years)** for **minimal disease**
+- This strategy is **endorsed by major societies** and supported by **British Society of Gastroenterology staging tables**
+- **Gastric phenotype** (fundic gland polyposis or gastric adenomas) also informs intensity
+- **Meticulous ampullary inspection** is needed at each esophagogastroduodenoscopy
+- The recent **AGA Clinical Practice Update on duodenal lesions** advises **early postresection surveillance for duodenal adenomas** (initially at 6 months)
+  - Highlighting the general principle that **early recurrence is common** and should be actively sought
+
+---
+
+## Enhanced Follow-Up After Piecemeal Resection or Positive Margins (BPA 13)
+
+- Applies to:
+  - **Large lesions resected piecemeal** (greater than 3 cm)
+  - **Positive / indeterminate margins**
+- **Intensify follow-up every 2–3 months** until **histologic eradication** is documented
+- Two adjunctive steps are appropriate:
+  - **Adjunct thermal ablation** of residual margin or flat remnant (for example, **APC** for mucosal residue)
+  - **Intraductal radiofrequency ablation (RFA)** for limited ductal extension
+- Evidence for RFA:
+  - Observational data and a **2024 systematic review/meta-analysis**
+  - **Approximately 76% clinical success** at short-term follow-up
+  - **Nontrivial adverse events** — biliary strictures **approximately 22%**
+  - Emphasizes use in **expert centers** and with **prophylactic stenting** when indicated
+- **APC** after snare papillectomy has been associated with **improved local control** in cohort studies
+
+---
+
+## Ductography
+
+- **Ductography (ERCP cholangiography / pancreatography)** can be valuable during surveillance
+- Purpose: detect **subtle intraductal extension**
+- Why it matters: intraductal extension is a **major risk factor** for persistent/recurrent dysplasia
+
+---
+
+## Duration of Surveillance (BPA 14)
+
+- Although **rare cases of late (greater than 5 years) recurrence or cancer** after endoscopic papillectomy have been reported, the **preponderance of events occurs earlier**
+- **ESGE** recommends at least **5 years of annual surveillance** after the initial 3-, 6-, and 12-month checks
+- A **Delphi consensus** similarly favored **5 years or more** of follow-up
+- A **5-year structured surveillance program** demonstrated:
+  - **High adherence**
+  - **High diagnostic yield**
+  - Most clinically relevant findings emerged **within the early years**
+- Given the limited number of unequivocal very late events, **routine surveillance beyond 5 years is not suggested** for average-risk patients after durable negative exams
+- **However, extend surveillance** (for example, annual or biannual) if **high-risk features** were present originally or during follow-up:
+  - Piecemeal resection
+  - Positive/indeterminate margins
+  - Intraductal extension
+  - HGD
+  - FAP
+
+---
+
+## Multidisciplinary Review (BPA 15)
+
+- Patients with **HGD**, **incomplete resection** (persistently positive biopsies), or **any suspicion of invasive disease** should be discussed by a **multidisciplinary team**
+- Team members:
+  - Gastroenterology
+  - Surgery
+  - Oncology
+  - Radiology
+  - Pathology
+- Aligns with international guidance:
+  - **French Intergroup, 2024**
+  - **Japan Gastroenterological Endoscopy Society, 2022**
+- Emphasizes MDT review:
+  - **Before definitive therapy**
+  - **Whenever** history or imaging raises concern for **carcinoma or significant intraductal spread**
+- **Cross-sectional staging (EUS and MRCP)** helps adjudicate:
+  - Depth of invasion
+  - Ductal involvement
+- And helps determine candidacy for:
+  - **Surgical ampullectomy** or **pancreaticoduodenectomy** versus **further endoscopic therapy**
+
+---
+
+## Figure 1 — Algorithm for Approaching Ampullary Neoplasms
+
+- **Starting point:** Suspected ampullary lesion
+- **Triggers:** Incidental imaging or symptoms
+  - Jaundice
+  - Cholangitis
+  - Pancreatitis
+- **Step 1:** Upper endoscopy with **side-viewing duodenoscope**
+  - At least 6 biopsies, target ulcerated or indurated areas
+  - Avoid pancreatic orifice to reduce pancreatitis risk
+  - (BPA 1, 2)
+- **Decision node:** Malignancy confirmed on biopsy?
+  - **Yes** → Metastatic or invasive cancer → **MDT review: GI, surgery, oncology** (BPA 6, 15)
+  - **No** → Proceed to staging and assessment
+
+---
+
+## Figure 1 — Staging and Assessment Arm
+
+- **Staging and assessment** (BPA 3):
+  - EUS plus or minus MRCP
+  - Lesion size
+  - Intraductal extension
+  - Clinical features: weight loss, jaundice, ductal dilation
+- **Decision node:** Intraductal extension greater than 1 cm?
+  - **Yes** → **Surgical consult**
+  - **No (or 1 cm or less)** → Next decision node
+- **Decision node:** Contraindications to endoscopic resection? (BPA 4, 6)
+  - Metastases, mucosal invasion, size 4–5 cm, limited follow-up
+  - **Yes** → **Surgical consult or oncology referral**
+  - **No** → Next decision node
+
+---
+
+## Figure 1 — Therapeutic Arm
+
+- **Decision node:** Obstructive jaundice or cholangitis?
+  - **Yes** → **Biliary drainage: ERCP plus SEMS** (BPA 7)
+  - **No** → **Endoscopic papillectomy** (BPA 8, 9):
+    - En bloc snare resection
+    - No preresection sphincterotomy
+    - Submucosal injection only if lateral wall extension
+- **Postprocedural prophylaxis** (BPA 10, 11):
+  - PD stent, rectal NSAIDs, lactated Ringer's hydration
+  - Hemostasis as needed: epinephrine, APC, clips, spray
+- **Decision node:** Complete en bloc resection, 3 cm or less, R0?
+  - **No** → **Piecemeal or positive margins: ablation**
+  - **Yes** → **Surveillance — side-viewing duodenoscope** (BPA 12)
+
+---
+
+## Figure 1 — Full Flow Diagram
+
+```{mermaid}
+flowchart TD
+  A["Suspected ampullary lesion"] --> B["Upper endoscopy: side-viewing duodenoscope<br/>At least 6 biopsies, target ulcerated or indurated areas<br/>Avoid pancreatic orifice"]
+  B --> C{"Malignancy confirmed on biopsy?"}
+  C -->|Yes| D["Metastatic or invasive cancer"]
+  D --> E["MDT review: GI, surgery, oncology<br/>BPA 6, 15"]
+  C -->|No| F["Staging and assessment<br/>EUS plus or minus MRCP, lesion size<br/>Intraductal extension, weight loss, jaundice, ductal dilation"]
+  F --> G{"Intraductal extension greater than 1 cm?"}
+  G -->|Yes| H["Surgical consult"]
+  G -->|No| I{"Contraindications to endoscopic resection?"}
+  I -->|Yes| J["Surgical consult or oncology referral"]
+  I -->|No| K{"Obstructive jaundice or cholangitis?"}
+  K -->|Yes| L["Biliary drainage<br/>ERCP plus SEMS"]
+  K -->|No| M["Endoscopic papillectomy<br/>En bloc snare resection<br/>No preresection sphincterotomy"]
+  M --> N["Postprocedural prophylaxis<br/>PD stent, rectal NSAIDs, LR hydration<br/>Hemostasis as needed"]
+  N --> O{"Complete en bloc resection, 3 cm or less, R0?"}
+  O -->|No| P["Piecemeal or positive margins: ablation"]
+  O -->|Yes| Q["Surveillance - side-viewing duodenoscope"]
+```
+
+---
+
+## Figure 1 — Legend
+
+| Color / Category | Meaning |
+|------------------|---------|
+| **Light blue** | Diagnostic and staging |
+| **Green** | Therapeutic procedure |
+| **Tan / beige** | Decision node |
+| **Light green** | Surveillance |
+| **Orange** | MDT and retreatment |
+| **Purple** | Surgical and adjunct |
+
+- The algorithm integrates **BPA 1 through 12** into a single clinical pathway
+- Note the **early branching** to MDT review when malignancy is confirmed on biopsy
+- Note the **separate biliary drainage pathway** for obstructive jaundice or cholangitis
+
+---
+
+## Figure 2 — Management After Endoscopic Papillectomy
+
+- At **3 months**, perform the first surveillance examination with a **side-viewing duodenoscope**
+- **Biopsy the resection scar even when it appears normal**, and biopsy any abnormal mucosa
+- At the same visit, review:
+  - **Pathology**
+  - **Resection method**
+  - **Lesion size**
+  - **Margin status**
+  - **Residual adenoma**
+  - **Intraductal concerns**
+  - **FAP status**
+- Figure 2 presents **four parallel pathways** based on these findings
+
+---
+
+## Figure 2 — The Four Pathways
+
+| Pathway | Trigger | Action |
+|---------|---------|--------|
+| **Immediate escalation** | High-grade dysplasia, incomplete resection, or suspected malignancy | Discuss with a multidisciplinary team; include gastroenterology, surgery, oncology, radiology, pathology |
+| **Default surveillance pathway** | No residual adenoma identified at 3 months | Continue structured surveillance: 3 months, 6 months, 12 months, then annually to 5 years |
+| **Intensified eradication pathway** | Risk is higher | Intensified follow-up for adenomas 3 cm or more resected piecemeal, positive or indeterminate margins, or residual adenoma found on biopsy |
+| **Long-term modifiers** | Beyond 5 years | Individualized surveillance based on recurrence risk, comorbidity, and life expectancy |
+
+---
+
+## Figure 2 — Immediate Escalation Pathway
+
+- **Trigger:** High-grade dysplasia, incomplete resection, or suspected malignancy
+- **Action:** Discuss with a **multidisciplinary team**
+- Include:
+  - Gastroenterology
+  - Surgery
+  - Oncology
+  - Radiology
+  - Pathology
+- **Restage when concern persists:**
+  - Use **EUS and/or MRCP** when depth of invasion, intraductal extension, or operative fitness remains uncertain
+- **Any time during surveillance:**
+  - If biopsy, scar appearance, or interval imaging suggests recurrent dysplasia or cancer, **return to multidisciplinary team review** and consider definitive therapy
+
+---
+
+## Figure 2 — Default Surveillance Pathway
+
+- **Entry criterion:** No residual adenoma identified at 3 months
+- Continue **structured surveillance** — this is the manuscript's default pathway after a negative first check
+- Schedule:
+  - **3 months** — Scar biopsy plus biopsy of any abnormality
+  - **6 months** — Repeat side-viewing surveillance
+  - **12 months** — Repeat surveillance and histologic confirmation
+  - **Annually to 5 years** — Continue at least yearly for 5 years; most recurrences occur early
+- **Biopsy is not optional:**
+  - Even when the scar looks normal, the manuscript advises **biopsy of the scar and any abnormal area** at surveillance examinations
+- **Low-risk option:**
+  - For adenomas **3 cm or less** resected en bloc or piecemeal with **clear margins**, after a negative 3-month biopsy, the manuscript allows **re-evaluation every 6–12 months for at least 2 years**, then every **3–5 years** thereafter
+
+---
+
+## Figure 2 — Intensified Eradication Pathway
+
+- **Entry criterion:** Risk is higher
+- **Intensified follow-up for:**
+  - Adenomas **3 cm or more** resected piecemeal
+  - **Positive or indeterminate margins**
+  - **Residual adenoma** found on surveillance biopsy
+- **Add eradication tools:**
+  - Consider **adjunct thermal ablation** and **ductography**
+  - The narrative text also discusses **APC for mucosal remnant** and **intraductal RFA** in selected expert settings
+- **Repeat every 2–3 months:**
+  - Continue close follow-up until **eradication is confirmed histologically with negative biopsy**
+- **If eradication fails or cancer is suspected:**
+  - **Escalate back** to multidisciplinary review and surgical planning
+
+---
+
+## Figure 2 — Long-Term Modifiers Pathway
+
+- **Beyond 5 years is individualized**
+  - Late recurrence can occur, but it is **uncommon**
+  - Continue surveillance beyond 5 years according to:
+    - Recurrence risk
+    - Comorbidity
+    - Life expectancy
+- **High-risk features justify longer monitoring:**
+  - Keep long-term endoscopic monitoring when there was:
+    - Piecemeal resection
+    - Positive margins
+    - Intraductal extension
+    - High-grade dysplasia
+    - Other high-risk findings
+- **FAP requires individualized intervals:**
+  - In FAP, tailor surveillance to **ampullary, gastric, and duodenal disease burden** rather than using a fixed generic interval
+- **Practical rule:**
+  - **Low-risk patients can de-intensify over time**
+  - **High-risk patients usually cannot**
+
+---
+
+## Figure 2 — Operational Logic
+
+- The operational logic: **3-month scar biopsy starts postpapillectomy pathways**
+- **Margin status, piecemeal resection, lesion size, HGD, residual adenoma, and FAP** determine whether the patient follows the:
+  - Default surveillance pathway
+  - Intensified eradication pathway
+- Findings that are **concerning or advanced** route **directly to multidisciplinary team care**
+- This structure reinforces the core message: **risk-stratified surveillance**, not a one-size-fits-all schedule
+
+---
+
+## Key Takeaways — Diagnosis
+
+- Use a **side-viewing duodenoscope** for assessment and biopsy of ampullary lesions
+- Obtain **at least 6 biopsies**, targeting **ulcerated or indurated areas** and each ampullary quadrant
+- **Avoid the pancreatic orifice** during biopsy to reduce pancreatitis risk
+- Consider **EUS** for every patient with an ampullary adenoma potentially amenable to endoscopic resection
+- **Exception:** lesions smaller than 1 cm with no worrisome features
+- **MRCP** is a useful adjunct for assessing intraductal involvement
+
+---
+
+## Key Takeaways — Staging and Selection
+
+- **Benign-appearing features:** well-defined margins, size less than 4–5 cm, nonfriable, soft to probing, intraductal extension 1 cm or less
+- **Intraductal extension greater than 1 cm** → surgical consultation
+- **Intraductal extension less than 1 cm** → endoscopy with close surveillance may be appropriate
+- **Three definitive contraindications** to endoscopic papillectomy:
+  - Metastatic spread
+  - Invasive cancer beyond the mucosal layer
+  - Greater than 1 cm intraductal extension in a surgically fit patient
+- **Relative contraindications:** lesions over 5 cm, early-stage/T1 cancers, limited follow-up adherence, inadequate endoscopic expertise
+
+---
+
+## Key Takeaways — Technique
+
+- **Avoid prepapillectomy biliary and pancreatic sphincterotomies**
+- Perform **en bloc snare resection** when feasible
+- **Submucosal injection** generally not required — may help with laterally spreading duodenal wall components
+- **Prevent postpapillectomy pancreatitis** with:
+  - Prophylactic pancreatic duct stenting
+  - Rectal NSAIDs
+  - High-volume lactated Ringer's hydration
+- **Hemostasis** options: epinephrine injection, electrocoagulation, hemoclips, APC, hemostatic sprays, hemostatic gel
+
+---
+
+## Key Takeaways — Surveillance
+
+- **First surveillance at 3 months** with a side-viewing duodenoscope and **biopsy of the scar**
+- If no residual adenoma: **6 months, 12 months, then annually for at least 5 years**
+- **Beyond 5 years:** individualize based on recurrence risk, comorbidity, and life expectancy
+- **High-risk features** (piecemeal resection, positive margins, intraductal extension, HGD, FAP) justify **long-term monitoring**
+- **Piecemeal resection greater than 3 cm or positive margins:** thermal ablation and ductography **every 2–3 months** until eradication confirmed
+- **FAP:** tailor intervals to ampullary, gastric, and duodenal disease burden
+
+---
+
+## Key Takeaways — Multidisciplinary Care
+
+- **MDT review is required** for:
+  - High-grade dysplasia
+  - Incomplete resection
+  - Suspected malignancy
+- MDT should include **gastroenterology, surgery, and oncology** — with radiology and pathology as appropriate
+- **Cross-sectional staging (EUS and MRCP)** helps determine candidacy for:
+  - Surgical ampullectomy
+  - Pancreaticoduodenectomy
+  - Further endoscopic therapy
+- International guidance (**French Intergroup 2024; JGES 2022**) supports MDT review **before definitive therapy** and whenever carcinoma or significant intraductal spread is suspected
+
+---
+
+## Summary — The Full Clinical Pathway
+
+| Phase | Core Action | BPA |
+|-------|-------------|-----|
+| **Diagnosis** | Side-viewing duodenoscope; at least 6 biopsies | 1, 2 |
+| **Staging** | EUS for staging and intraductal extension | 3 |
+| **Selection** | Assess benign features, intraductal extension, contraindications | 4, 5, 6 |
+| **Drainage** | ERCP plus SEMS if obstruction or cholangitis | 7 |
+| **Resection** | Avoid prepapillectomy sphincterotomy; en bloc snare | 8, 9 |
+| **Prophylaxis** | PD stent, rectal NSAIDs, LR hydration, hemostasis | 10, 11 |
+| **Surveillance** | 3, 6, 12 months, then annually to at least 5 years | 12 |
+| **Enhanced follow-up** | Thermal ablation and ductography every 2–3 months | 13 |
+| **Long term** | Individualize beyond 5 years | 14 |
+| **MDT** | HGD, incomplete resection, suspected malignancy | 15 |
+
+---
+
+## Closing Message
+
+- Ampullary neoplasia is **rare but increasingly detected**
+- The stakes are high — **20% to 40%** of ampullary adenomas harbor malignancy
+- **High-quality endoscopic assessment** and **complete resection** decrease recurrence risk and enable earlier stage diagnosis
+- Management is **individualized** based on lesion characteristics, patient status, and available expertise
+- **Risk-stratified surveillance** and **multidisciplinary care** are the cornerstones of long-term success
+- This AGA Clinical Practice Update provides the **first consolidated framework** for the diagnosis, management, and follow-up of ampullary adenomas

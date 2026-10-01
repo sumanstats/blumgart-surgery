@@ -12,7 +12,9 @@
 
 {{< reveal Extras/pancreas/chap59_deepseek >}}
 
+## AGA guideline deepseek
 
+{{< reveal Extras/pancreas/aga_ampullary >}}
 
 
 :::
