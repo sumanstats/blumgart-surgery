@@ -1,0 +1,1220 @@
+---
+title: "Hepatocellular Carcinoma"
+format:
+  revealjs:
+    theme: dark
+---
+
+
+## Learning Objectives
+
+- Understand the **epidemiology** and evolving risk factors of HCC
+- Describe the **molecular profile** of hepatocarcinogenesis
+- Know current **screening strategies** and diagnostic criteria
+- Master the **BCLC staging** system and prognostic evaluation
+- Review **treatment approaches**: surgery, transplantation, ablation, intra-arterial and systemic therapies
+- Explore **future prospects** in prevention and precision oncology
+
+## Chapter Overview
+
+- **Hepatocellular carcinoma (HCC)** is the most common primary liver tumor
+- Results in approximately **800,000 deaths globally per year**
+- Usually develops in the setting of **chronic liver disease**, particularly cirrhosis
+- This chapter provides an overview of:
+  - Epidemiology
+  - Diagnosis
+  - Therapeutic approaches
+
+## What Is Hepatocellular Carcinoma?
+
+- Most common **primary liver tumor**
+- ~**800,000 deaths** globally per year
+- Liver tumors worldwide:
+  - **4th** leading cause of cancer death
+  - **6th** most common neoplasia
+- Usually arises on a background of **chronic liver disease**, particularly **cirrhosis**
+
+## Global Burden of Disease
+
+- Marked **geographic differences** in incidence
+- **High-risk areas**: Asia and sub-Saharan Africa
+  - Yearly incidence exceeding **20 cases per 100,000 population**
+- Incidence rates and mortality are **increasing** in many parts of the world:
+  - North America
+  - Latin America
+  - Central Europe
+- Incidence appears to be **decreasing in Japan**
+
+## Geographic Distribution by Etiology
+
+- Varies widely according to **ethnic groups and regions**
+- Clear association with exposure to:
+  - **Hepatitis viruses**
+  - **Environmental pathogens**
+- **80% of cases** occur in:
+  - Sub-Saharan Africa
+  - West Asia
+
+## Demographics
+
+- Prevalence is **3-fold higher in males** compared with females
+- Peak incidence around the **sixth and seventh decade** of life
+
+## The Usual Setting: Chronic Liver Disease
+
+- HCC usually develops in the setting of **chronic liver disease**
+- Particularly in patients with **cirrhosis**
+- Main background etiologies:
+  - Chronic viral hepatitis **B (HBV)**
+  - Chronic viral hepatitis **C (HCV)**
+  - **Alcoholic** liver disease
+  - **MAFLD** (metabolic dysfunction-associated fatty liver disease)
+
+## A Reshaped Landscape of Risk Factors
+
+The burden of risk factors and geographic distribution are being reshaped by:
+
+- Implementation of **universal HBV vaccination**
+- Widespread use of **direct-acting antivirals (DAAs)** against HCV
+- Growing occurrence of **MAFLD-associated comorbidities**:
+  - Obesity, diabetes, dyslipidemia
+  - Frequently overlap with **excessive alcohol consumption**
+
+## The Survival Gap
+
+- HCC is a **major global health problem**
+- Preventive and therapeutic strategies are areas of **increasing interest** among clinical researchers
+- Nevertheless, the **5-year survival rate is between 5% and 15%**
+- This reflects the **challenging management** of these patients
+
+## Roadmap of This Presentation
+
+1. Epidemiology, risk factors, and prevention
+2. Molecular profile
+3. Screening strategies
+4. Clinical presentation
+5. Diagnosis
+6. Staging and prognostic evaluation
+7. Treatment approaches
+8. Future prospects
+
+## Section 1 · Epidemiology, Risk Factors, and Prevention
+
+::: {.callout-note}
+## Key question
+What drives HCC risk, and how can it be prevented?
+:::
+
+- Cirrhosis as the major determinant
+- Viral hepatitis (HBV, HCV)
+- MAFLD and metabolic syndrome
+- Prevention strategies
+
+## Cirrhosis: The Major Determinant
+
+- **Cirrhosis is the major determinant of HCC**
+- Can be caused by:
+  - Viral infections (**HBV and HCV**)
+  - **MAFLD**
+  - **Alcohol** intake
+  - **Alpha-1 antitrypsin deficiency**
+  - **Hereditary hemochromatosis**, among others
+
+## Lifetime and Annual Risk in Cirrhosis
+
+- **One-third** of cirrhosis patients will develop HCC throughout their lifetime
+- **Annual risk of 1% to 8%**, depending on the etiology
+- The risk is greater:
+  - The more **relevant the signs** are
+  - The more **severe the liver disease** is
+
+## HBV: Geographic Patterns
+
+- The majority of cases (**80%**) occur in:
+  - **Sub-Saharan Africa**
+  - **West Asia**
+- These regions have:
+  - High prevalence of **HBV infection**
+  - Exposure to **aflatoxin B1**
+
+## Aflatoxin B1 and p53
+
+- Aflatoxin B1 is a **mycotoxin** produced by ***Aspergillus*** species
+- Induces a **specific p53 mutation**
+- This mutation offers **proliferation advantages** to hepatocytes
+- Synergizes with HBV in high-risk regions
+
+## HBV-Related HCC: Risk Factors
+
+In addition to **cirrhosis**, the risk of developing HCC among patients with chronic HBV is related to:
+
+- **High viral load**
+- **Active viral replication**
+- **Genotype C**
+- Presence of **liver dysfunction**
+
+## HBV: HCC Without Cirrhosis
+
+- HBV-related HCC can develop **even in the absence of cirrhosis**
+  - Occurs in **20% to 30%** of the cases
+- **Inactive HBV carriers** are also at increased risk
+  - Due to **HBV gene integration** into the host genome
+
+## HBV Vaccination: A Prevention Success
+
+- A significant impact on **reducing HCC-related deaths** through HBV vaccination has been reported
+- Best documented in **endemic areas**, such as **Taiwan**
+- Universal vaccination is reshaping the global burden of HCC
+
+## HCV: Geographic Patterns
+
+- In **Japan** and **Western countries** (especially Europe and the United States):
+  - The main risk factor is **chronic HCV infection**
+- HCC in patients with HCV occurs **almost exclusively** in the setting of:
+  - **Advanced stage liver disease**
+  - **Cirrhosis**
+
+## HCV Treatment Reduces — But Does Not Eliminate — Risk
+
+- Increasing evidence that **HCV treatment decreases** the risk of HCC
+  - But **does not eliminate** it
+- A meta-analysis: **sustained virologic response (SVR)** is associated with a **reduced risk** of developing HCC
+- The rate of HCV-related HCC is expected to **decrease or stabilize** in the coming years
+
+## The DAA Era
+
+- **Direct-acting antivirals (DAAs)** are highly effective
+- Induce **sustained virologic response** at higher rates compared with:
+  - The ancient **interferon-based regimens**
+- Expected consequence: decreasing/stabilizing HCV-related HCC incidence
+
+## DAA Controversy in Previously Treated HCC
+
+- It has been **hypothesized** that the use of DAAs in patients **previously treated for HCC** may be related to:
+  - **Early recurrences**
+  - **Aggressive biological behaviour**
+- This raises concern about the wide applicability of DAAs in patients with past HCC
+- **Still highly controversial**: major heterogeneity between studies prevents a robust conclusion
+
+## MAFLD: An Emerging Epidemic
+
+- A noticeable **transition in risk factors** has been observed in Western countries
+- Growing evidence that **MAFLD** is an increasingly frequent liver condition in patients who develop HCC
+- Often associated with other comorbidities:
+  - **Obesity**
+  - **Hypertension**
+  - **Diabetes**
+- Clearly **overlapping with alcohol consumption**
+
+## MAFLD → HCC: Pathogenesis
+
+- It is likely that MAFLD causes HCC **via cirrhosis**
+- However, the **precise pathogenesis has not yet been elucidated**
+- Some cases are reported to happen **in the absence of cirrhosis**
+
+## Trends in Liver Transplant Etiology (US Registry, 2002–2016)
+
+A national United States registry on liver transplantations between **2002 and 2016** showed:
+
+| Etiology | Trend |
+|---|---|
+| HCV | Remained stable |
+| Alcohol intake | Remained stable |
+| HBV | Decreased |
+| "NASH" (now grouped under **MAFLD**) | **Relevant increase** |
+
+## Implications of the MAFLD Trend
+
+- Projects an **ascending burden of MAFLD-related HCC** in the coming years
+- Need to implement strategies to **prevent and reduce risk factors** associated with metabolic syndrome
+- However, in patients with MAFLD the **main cause of death is cardiovascular events**
+  - Stresses the need for a **multiorgan approach** beyond individual specialties
+
+## Protective Factors
+
+- **HBV vaccination**
+- **Antiviral treatment** for both HBV and HCV
+- Proper controls in **healthcare settings** prevent HCV dissemination through blood transmission
+
+## Primary Prevention Measures
+
+- **Alcohol intake** should be the target of health campaigns in the community
+- **Aflatoxin** contamination of food can be prevented by:
+  - Avoiding **grain storage in humid conditions**
+- The epidemic of **obesity** must be controlled by **health education**
+
+## Secondary Prevention
+
+- Requires the **prior recognition of affected individuals** with chronic liver disease
+- **No proof of cost-effectiveness** of population screening for liver disease has been offered
+
+## Observational Protective Associations
+
+Observational studies support that the following **reduce the risk of HCC**:
+
+- **Statins**
+- **Aspirin**
+- **Coffee consumption**
+
+::: {.callout-caution}
+Additional evidence is needed to clarify if any alimentary or pharmacologic measure truly impacts in reducing the risk of HCC.
+:::
+
+## Risk Factors at a Glance
+
+| Category | Factors |
+|---|---|
+| Viral | HBV (integration, genotype C, viral load), HCV |
+| Environmental | Aflatoxin B1 |
+| Metabolic | MAFLD, obesity, diabetes, dyslipidemia |
+| Lifestyle | Alcohol |
+| Genetic/other | Cirrhosis of any cause, alpha-1 antitrypsin deficiency, hemochromatosis |
+| Protective | HBV vaccination, antivirals, statins, aspirin, coffee |
+
+## Section 2 · Molecular Profile
+
+::: {.callout-note}
+## Key question
+Which molecular events drive hepatocarcinogenesis — and are they targetable?
+:::
+
+## Hepatocarcinogenesis: A Complex Process
+
+- A **complex process** involving several:
+  - Molecular landmarks
+  - Signaling pathways
+- Genomic analyses are **predominantly restricted to early-stage resected HCC samples**
+- This inadvertently depicts early genetic and epigenetic events that might **not reflect intermediate and advanced stages**
+
+## Most Frequent Molecular Alterations
+
+- **Telomerase maintenance**
+  - *TERT* promoter alterations
+- **CTNNB1 / Wnt–Beta-catenin** pathway activation
+- **p53** mutations
+- **MAP kinase** signaling
+
+## Targetable Pathways Under Exploration
+
+Explored in translational research:
+
+- Activation of **c-MET**
+- **Fibroblast growth factor receptor (FGFR)**
+- **Vascular endothelial growth factor receptor (VEGFR)**
+- **Transforming growth factor beta (TGF-β)**, among others
+
+## Molecular Classification: Two Classes
+
+::: {.columns}
+::: {.column width="50%"}
+### Proliferative class
+- Activation of **RAS pathway**
+- **FGF amplification**
+- **HBV** infection
+- **Poor prognosis**
+:::
+::: {.column width="50%"}
+### Nonproliferative class
+- **Wnt–Beta-catenin** alterations
+- **HCV** infection
+:::
+:::
+
+## Whole-Genome Sequencing: Three Integrated Clusters
+
+| Cluster | Features |
+|---|---|
+| **Cluster 1** | Low mutation frequency of *CTNNB1*; low expression of *TERT*; associated with **early stage** and **Asian origin** |
+| **Cluster 2** | Higher prevalence of *TERT* promoter and *CTNNB1* mutations |
+| **Cluster 3** | Higher prevalence of *TERT* promoter and *CTNNB1* mutations; **high p53 mutation occurrence** |
+
+## Limitations of HCC Molecular Profiling
+
+- Need to distinguish:
+  - **"Driver" events** — fundamental for neoplastic transformation, with potential therapeutic applicability
+  - **"Passenger" events**
+- Genetic variations are **heterogeneous**:
+  - Through **time**
+  - Between **tumor sites** in the same individual
+  - Even **within a single tumor site**
+
+## Molecular Findings and Clinical Practice
+
+::: {.callout-important}
+In spite of the advances in molecular characterization of HCC, these findings have **not yet translated into substantial changes in the clinical setting**.
+:::
+
+## Section 3 · Screening Strategies
+
+::: {.callout-note}
+## Key question
+Can early detection reduce HCC mortality — and who should be screened?
+:::
+
+## Purpose of Screening
+
+- To **reduce mortality** through early detection
+- Goal: detect HCC at a stage **amenable to curative treatment**
+- Several uncontrolled studies suggest screening results in:
+  - A higher proportion of **early diagnoses**
+  - Higher **cure rates**
+  - Better **prognosis**
+
+## Landmark Evidence: The Chinese Randomized Trial
+
+- More than **18,000 participants** with chronic HBV infection
+- Randomized to screening with:
+  - **Ultrasound + serum AFP every 6 months**
+- HCC mortality was **significantly reduced** in the screening group:
+  - **83.2 vs. 131.5** per 100,000 persons
+
+## Caveats of the Evidence
+
+- The trial had **low adherence** among participants
+- Carried out in a population with a **particular risk factor (HBV)**
+- Data have **not been reproduced globally**
+- Reproducing such a trial seems **unfeasible for ethical reasons**
+- Nevertheless, screening in patients with **cirrhosis** is widely established in clinical practice
+
+## Selecting Individuals for Screening
+
+Determined by:
+
+- The **risk of developing HCC**
+- **Life expectancy**
+- Local **health structure conditions** that allow for proper treatment
+
+::: {.callout-tip}
+## Cost-effectiveness threshold
+Screening should be applied when the risk of HCC is **at least 1.5% per year**, regardless of the etiology of liver disease.
+:::
+
+## Who Should Be Screened?
+
+- **All patients with cirrhosis** who are potential candidates to receive anti-tumor treatment
+- Some **subgroups without cirrhosis** with chronic HBV infection and high risk, according to recently proposed scores:
+  - **PAGE-B**
+  - **Toronto-THRI**
+- Cirrhotic patients with **SVR after HCV treatment must remain under screening**
+  - SVR does **not eliminate** the risk of HCC
+
+## Unresolved Screening Questions
+
+- **Noncirrhotic patients with HCV** (e.g., with bridging fibrosis):
+  - It is **not clear** whether they should be screened
+- **Nonviral etiologies such as MAFLD**:
+  - It is **not defined** which subgroups benefit from screening
+- Reasons:
+  - **Heterogeneous incidence** of HCC within these scenarios
+  - HCC can arise even **in the absence of cirrhosis**
+
+## Screening Modality: Ultrasonography
+
+- **Ultrasonography is the screening study of choice**
+- Balances **cost and availability**
+- Reported performance for screening liver tumors:
+  - Sensitivity: **60% to 80%**
+  - Specificity: **greater than 90%**
+
+## Serum AFP: Strengths and Weaknesses
+
+- Commonly applied in screening
+- However, this marker has **low sensitivity**:
+  - In general, **not increased in small tumors**
+  - May be altered because of the **underlying liver disease**
+  - Also altered in patients with **cholangiocarcinoma (CC)**
+- Cirrhosis is also a **risk factor for CC**
+  - A primary hepatic mass with increased AFP may correspond to **either HCC or CC**
+
+## Emerging Biomarkers
+
+Being analyzed for their role in early detection:
+
+- **Des-γ-carboxyprothrombin (DCP)**
+- **AFP-lectin**
+- **Glypican-3**
+
+## Screening Interval: Semiannual
+
+- Recommended screening interval: **every 6 months**
+- Based on estimates of **tumor growth rate**
+- A prospective study showed:
+  - **6-month interval** performed better than 12-month in detecting early lesions
+  - **3-month interval** increased detection of small nodules **without impacting survival**
+- The role of **CT and MRI** as screening for HCC is **not yet established**
+
+## EASL and AASLD Recommendations
+
+::: {.callout-tip}
+## Guideline consensus
+The **EASL** and the **AASLD** recommend **abdominal ultrasonography every 6 months**.
+:::
+
+- Because of the **suboptimal accuracy** of the AFP serum level:
+  - Determination of this marker is **optional**
+
+## Section 4 · Clinical Presentation
+
+::: {.callout-note}
+## Key question
+How do patients with HCC present to the clinician?
+:::
+
+## Spectrum of Clinical Presentation
+
+- A **range of clinical presentations**:
+  - From **asymptomatic** (as in cases diagnosed in screening programs)
+  - To **severe symptoms**
+- Symptoms may occur because of:
+  - The **underlying cirrhosis**
+  - The **tumor growth and spread**
+
+## Symptoms Due to Underlying Cirrhosis
+
+- **Ascites**
+- **Jaundice**
+- Abdominal **collateral circulation**
+- **Upper digestive hemorrhage**
+- **Hepatic encephalopathy**
+
+## Symptoms Due to Tumor Growth and Spread
+
+- **Abdominal pain**
+- **Weight loss**
+- Palpable **abdominal mass**
+- **Dyspnea**
+- **Bone pain**
+
+## Warning Signs
+
+::: {.callout-warning}
+## Red flag
+A **sudden worsening of liver function** in a patient with otherwise stable chronic liver disease should be investigated for the possibility of HCC.
+:::
+
+- **Ascites** and **variceal bleeding** may develop because of:
+  - **Portal vein** invasion
+  - **Hepatic vein** invasion
+
+## Paraneoplastic Syndromes
+
+May be present and are generally associated with **poor prognosis**:
+
+- **Diarrhea**
+- **Hypoglycemia**
+- **Erythrocytosis**
+- **Hypercalcemia**
+
+## Section 5 · Diagnosis
+
+::: {.callout-note}
+## Key question
+How can HCC be diagnosed — often without biopsy?
+:::
+
+## Diagnosis in Cirrhosis: Imaging-Based
+
+- For patients with **cirrhosis**, diagnosis can be made using **dynamic contrast-enhanced imaging**
+- Based on the **neovascularization process** during hepatocarcinogenesis
+- Key vascular difference:
+  - **Malignant lesions** develop blood supply from the **hepatic artery**
+  - **Nontumor liver parenchyma** supply is predominantly from the **portal system**
+
+## The Radiologic Hallmark of HCC
+
+- HCC nodules show:
+  - **Contrast uptake in the arterial phase**
+  - **"Wash-out" in the venous and late phases**
+- Performance in liver nodules **larger than 2 cm** in the context of cirrhosis:
+  - Sensitivity: around **80%**
+  - Specificity: **at least 90%**
+
+## Diagnostic Algorithm: Nodules < 1 cm
+
+- On detection of an abnormal finding in ultrasonography, further evaluation must be performed
+- Nodules measuring **less than 1 cm** in a cirrhotic liver:
+  - May **not correspond to a malignant focus in greater than 60%** of cases
+  - **Close follow-up in 3 to 4 months** is recommended
+
+## Diagnostic Algorithm: Nodules > 1 cm
+
+- In a cirrhotic liver, nodules **larger than 1 cm** can be diagnosed as HCC if:
+  - The **vascular profile on imaging techniques is typical**
+- In these cases, a **single dynamic imaging technique** can establish the diagnosis:
+  - **CT** or **MRI**
+- If the characteristic dynamic profile is **not recognized**:
+  - **Fine-needle biopsy** is recommended
+
+## Figure 89.1 — Typical CT Appearance of HCC
+
+::: {.columns}
+::: {.column width="55%"}
+CT scan of a 3.5-cm nodule in segment VII, hypervascular in arterial phase and faint hypovascular in portal phase
+:::
+::: {.column width="45%"}
+- CT scan depicts a **3.5-cm nodule in segment VII**
+- **(A)** Hypervascular in the **arterial phase**
+- **(B)** Faint hypovascular in the **portal phase** ("wash-out")
+:::
+:::
+
+## Biopsy: Caveats
+
+::: {.callout-caution}
+It must be stressed that **biopsy is not 100% sensitive**; hence a **negative result does not exclude HCC**.
+:::
+
+## Tumor Markers and Immunohistochemistry
+
+- Other tumor markers proposed (alone or in combination with AFP):
+  - **Protein induced by vitamin K absence (PIVK)**
+  - **AFP fractions**
+  - **Glypican-3**
+  - Their usefulness in routine clinical practice has **not been established**
+- Immunohistochemical markers can increase the specificity of histologic diagnosis:
+  - **Hsp-70**, **glypican-3**, **glutamine synthetase**
+  - But they do **not replace expert pathology analysis**
+
+## The Non-Cirrhotic Liver
+
+::: {.callout-important}
+In the context of a **noncirrhotic liver**, the diagnosis **must be made by histology**.
+:::
+
+- Imaging hallmarks validated in cirrhosis cannot be assumed in non-cirrhotic livers
+
+## LI-RADS
+
+- The **Liver Imaging Reporting and Data System**, proposed by the American College of Radiology
+- Estimates the **likelihood of malignancy**
+- Classifies lesions into **5 categories**:
+  - From **definitely benign (1)**
+  - To **definitely malignant (5)**
+- Objective: provide guidance for subsequent management
+
+## LI-RADS: Current Status
+
+- May be useful for **homogeneous reporting**
+- Seems to aggregate **little changes** to what is already current practice based on well-established radiologic criteria
+- **Prospective studies** to define the role of LI-RADS in the clinical realm are **awaited**
+
+## Section 6 · Staging and Prognostic Evaluation
+
+::: {.callout-note}
+## Key question
+How do we integrate tumor burden, liver function, and patient status?
+:::
+
+## Dimensions of Prognostic Evaluation
+
+Considering that the majority of patients with HCC have associated liver disease, prognostic evaluation should assess:
+
+- The **extent of tumor involvement**
+- The **severity of liver function impairment**
+- **Performance status**
+- **Cancer-related symptoms**
+
+## Prognostic Systems: An Overview
+
+A number of systems and algorithms have been proposed to predict prognosis for HCC:
+
+- Cancer of the Liver Italian Program (**CLIP**) score
+- Tumor-Node-Metastasis (**TNM**)
+- Hong Kong Liver Cancer staging system
+- Albumin-bilirubin (**ALBI**) score
+- **Okuda** system
+
+## Table 89.1 — Prognostic Systems in HCC (1/3)
+
+::: {.smaller}
+| Prognostic System (Year) | No. | Tumor Stage | Liver Function | Health Status | Stages |
+|---|---|---|---|---|---|
+| Okuda (1985) | 850 | Tumor involvement > 50% | Bilirubin, albumin, ascites | — | I, II, III |
+| CLIP (1998) | 435 | Tumor morphology, AFP, portal vein invasion | Child-Pugh | — | 0–6 |
+| GRETCH (1999) | 761 | Portal vein invasion and AFP | Bilirubin, alkaline phosphatase | Karnofsky | A–C |
+| AJCC TNM (2002) | — | Number of nodules, tumor size, portal vein invasion, metastases | — | — | I, II, III, IV |
+| CUPI (2002) | 926 | TNM and AFP | Bilirubin, ascites, alkaline phosphatase | Symptoms | Score 0–12; 3 risk groups |
+:::
+
+## Table 89.1 — Prognostic Systems in HCC (2/3)
+
+::: {.smaller}
+| Prognostic System (Year) | No. | Tumor Stage | Liver Function | Health Status | Stages |
+|---|---|---|---|---|---|
+| JIS (2003) | 722 | TNM by LCSGJ | Child-Pugh | — | 0–5 |
+| SLiDe (2004) | 177 | TNM by LCSGJ | Liver damage by LCSGJ, PIVKA | — | 0–3 |
+| Tokyo (2005) | 403 | Number of nodules and tumor size | Albumin, bilirubin | — | 0–8 |
+| Taipei Integrated (2010) | 2030 | Total tumor volume and AFP | Child-Pugh | — | 0–6 |
+:::
+
+## Table 89.1 — Prognostic Systems in HCC (3/3)
+
+::: {.smaller}
+| Prognostic System (Year) | No. | Tumor Stage | Liver Function | Health Status | Stages |
+|---|---|---|---|---|---|
+| **BCLC (1999)** | — | Number of nodules, tumor size, portal vein invasion, metastases | Child-Pugh, portal hypertension | PS | 0, A–D |
+| Yau (2014) | 3856 | Number of nodules, tumor size, portal vein invasion | Child-Pugh | PS | 9 stages I–Vb |
+:::
+
+::: {.smaller}
+*AFP = α-fetoprotein; BCLC = Barcelona Clinic Liver Cancer; CLIP = Cancer of the Liver Italian Program; CUPI = Chinese University Prognostic Index; JIS = Japan Integrated Scoring; LCSGJ = Liver Cancer Study Group of Japan; PIVKA = protein induced by vitamin K absence or antagonist; PS = performance status; TNM = tumor-node-metastasis classification (AJCC/UICC).*
+:::
+
+## The BCLC Strategy
+
+- The **Barcelona Clinic Liver Cancer (BCLC)** strategy has been widely validated
+- Incorporates **all relevant dimensions** to predict prognosis:
+  - **Tumor burden**
+  - **Liver function**
+  - **Cancer-related symptoms**
+- Original version in **1999**; updated concepts incorporated over the years
+
+## BCLC: Five Stages
+
+The BCLC classification includes **five stages (0, A, B, C, and D)** according to prognostic variables related to:
+
+- **Liver function** (preserved or end-stage liver disease)
+- **Performance status** according to the ECOG scale
+- **Tumor burden**
+
+## Why BCLC Is Widely Accepted
+
+- Links:
+  - **Staging**
+  - **Prognosis prediction**
+  - **Clinical decision-making**
+  - **Treatment indication**
+- Has become a widely accepted clinical tool for treatment decision making (EASL, AASLD)
+- The BCLC staging system **outperforms other prognosis systems**
+
+## Figure 89.2 — BCLC Staging and Treatment Strategy
+
+::: {.columns}
+::: {.column width="60%"}
+BCLC strategy: five stages linked to first-line treatment recommendations and expected median survival
+:::
+::: {.column width="40%"}
+- Establishes prognosis according to **5 stages** linked to **first-line treatment**
+- Expected outcome expressed as **median survival** of each stage
+- **Individualized decision-making** integrating the patient's medical profile
+- Liver function evaluated **beyond Child-Pugh** (ALBI, MELD)
+:::
+:::
+
+## BCLC Stage 0 — Very Early
+
+- **Single tumor up to 2 cm**
+- Absence of:
+  - Vascular invasion
+  - Cancer symptoms
+- **Preserved liver function**
+- Candidates for **curative local treatments**
+
+## BCLC Stage A — Early
+
+- **Single lesions irrespective of size**, or
+- Up to **3 nodules of up to 3 cm**
+- Absence of vascular invasion and cancer symptoms
+- Preserved liver function
+- Should be considered for **local treatments with curative intention**:
+  - Surgical resection
+  - Liver transplantation
+  - Percutaneous ablation
+- **5-year survival ranges from 50% to 70%**
+
+## BCLC Stage B — Intermediate
+
+- Patients with **multifocal tumors** and **preserved liver function**
+- Should be considered for **TACE**:
+  - May achieve a **50% survival rate at 3 years**
+- Tumors should be **able to be selectively approached** to prevent damage to nontumoral liver
+- Liver disease should be **compensated** (no clinically relevant ascites in need of treatment)
+- **Diffuse, infiltrative, or extensive bilobar involvement** → consider **systemic therapies**
+
+## BCLC Stage C — Advanced
+
+- Patients with **preserved liver function** and one or more of:
+  - **Extrahepatic dissemination**
+  - **Vascular invasion**
+  - Nonsevere impairment of functionality (**ECOG 1–2**)
+- Benefit from **systemic treatment** with the aim to:
+  - Increase survival
+  - Improve quality of life
+- Sequences of systemic agents provide an extended **overall survival of around 2 years**
+
+## BCLC Stage D — Terminal
+
+- Characterized by:
+  - **Liver dysfunction**, or
+  - Severe functional impairment (**ECOG 3–4**)
+- **Dismal prognosis**
+- Should receive **best supportive care** to minimize symptoms
+
+## Section 7 · Treatment Approaches
+
+::: {.callout-note}
+## Key question
+How do we match each patient to the optimal therapy?
+:::
+
+## Multidisciplinary Management
+
+- Appropriate treatment selection is **complex**
+- Patients with HCC should ideally be managed in **reference centers** with multidisciplinary teams including:
+  - Hepatologists
+  - Surgeons
+  - Radiologists
+  - Pathologists
+  - Radiation oncologists
+  - Clinical oncologists
+
+## Levels of Evidence
+
+- The level of evidence for many modalities is limited to:
+  - **Cohort studies**
+  - **Retrospective series**
+- **Randomized studies** performed in the setting of **intermediate and advanced stages**
+- Major research is needed in several scenarios
+
+## The Treatment Arsenal
+
+::: {.columns}
+::: {.column width="33%"}
+### Local
+- Resection
+- Transplantation
+- Ablation
+:::
+::: {.column width="33%"}
+### Intra-arterial
+- TACE
+- TARE
+:::
+::: {.column width="33%"}
+### Systemic
+- Tyrosine kinase inhibitors
+- Monoclonal antibodies
+- Immunotherapy
+:::
+:::
+
+::: {.callout-tip}
+Guidelines and algorithms are useful for conceptualization and standardization, but the approach should be **personalized** according to each individual context.
+:::
+
+## Surgery: Liver Resection — Indications
+
+- Treatment of choice for **localized HCC in the absence of cirrhosis**
+- Patients with **compensated cirrhosis** should be thoroughly evaluated for the risk of decompensation
+- In cases with **severe liver dysfunction**, surgery is **formally contraindicated**
+
+## Assessment of Liver Function
+
+- **Assessment of liver function is crucial** to achieving favorable outcomes
+- Postoperative mortality is **significantly reduced** in patients with:
+  - **Normal bilirubin**
+  - **Absence of clinically significant portal hypertension**
+
+## Assessing Portal Hypertension
+
+- **Indirect markers**:
+  - Thrombocytopenia
+  - Esophageal varices
+  - Ascites
+  - Splenomegaly
+- **Hepatic vein catheterization** is the most accurate tool:
+  - **Hepatic pressure gradient < 10 mm Hg** is the best cutoff value
+- Alternatively, **elastography** may establish clinically significant portal hypertension, avoiding catheterization
+
+## Resection Outcomes
+
+- In selected patients, **5-year survival rate reaches 70% to 80%** with surgical resection
+- Patients with **portal hypertension** are at high risk for:
+  - Liver decompensation
+  - Death after surgery
+  - Survival rates at 5 years of **50%**
+
+## Tumor Selection for Resection
+
+- Optimal results demonstrated in **single lesions**
+- In some groups, selected cases with **two or three nodules** may be considered after careful evaluation
+- **Tumor size is not a limiting factor**, but recurrence risk is higher the larger the tumor
+- **Vascular invasion** denotes an elevated risk of systemic recurrence:
+  - Ideally managed with **systemic therapy**
+  - Some groups advocate resection for **segmental vascular invasion**
+
+## Intraoperative Ultrasound
+
+::: {.callout-important}
+Despite advances in diagnostic capacity, **underestimation of tumour extension** continues to be a possibility.
+:::
+
+- **Intraoperative ultrasound** is essential to:
+  - Detect potential unrecognized nodules between **0.5 and 1 cm**
+  - **Optimize** the surgical resection efficacy
+  - Instrumental to perform **anatomical resections**
+
+## Figure 89.3 — Surgical Specimen of Segmental Resection
+
+::: {.columns}
+::: {.column width="55%"}
+Surgical specimen of a segmental hepatic resection
+:::
+::: {.column width="45%"}
+- **Segment-oriented resections** maximize the elimination of **tumor satellites**
+- This goal may be hampered by:
+  - **Tumor size**
+  - **Growth pattern**
+:::
+:::
+
+## Minimally Invasive Liver Surgery
+
+- **Laparoscopic-robotic surgery** allows a less invasive surgical treatment
+- Provides **comparable results in terms of survival** with:
+  - Lower perioperative **morbidity**
+  - Shorter **hospital stays**
+- No differences in operative time, blood loss, intraoperative complications, hospital stay, and morbidity between cirrhotic and noncirrhotic patients
+- Laparoscopic approach appears to **reduce postoperative ascites, liver failure, and morbidity**
+- May play a role in **"expanding indications"** beyond the "ideal candidate"
+
+## International Consensus on Laparoscopic Liver Resection
+
+Three international consensus conferences provided up-to-date summaries of status and perspectives:
+
+| Year | Location |
+|---|---|
+| 2008 | Louisville, United States |
+| 2014 | Morioka, Japan |
+| 2017 | Southampton, UK |
+
+## Predicting Recurrence After Resection
+
+Disease recurrence might be predicted by pathologic findings:
+
+- **Poor differentiation** degree
+- Presence of **satellites / multifocality**
+- Existence of **microvascular invasion**
+
+::: {.callout-note}
+## "Ab initio indication"
+Because of the high risk of recurrence, at the BCLC it has been proposed to **enlist for transplantation** those patients with resected HCC who have pathology-registered pejorative histologic markers.
+:::
+
+## Adjuvant Therapy: An Unmet Need
+
+::: {.callout-important}
+There is **no proof of benefit** of any adjuvant therapy to prevent recurrence — and thus **no approach should be recommended**.
+:::
+
+## Liver Transplantation: Rationale
+
+- Has the advantage of approaching **both**:
+  - The **tumor**
+  - The **underlying liver disease**
+- Recommended as the **first-line option** for HCC within **Milan criteria**
+
+## The Milan Criteria
+
+- **1 nodule ≤ 5 cm**, or
+- Up to **3 nodules ≤ 3 cm**
+- In the **absence** of:
+  - Portal invasion
+  - Extrahepatic disease
+
+Within Milan criteria:
+
+- **5-year survival rate: 60% to 80%**
+- **Recurrence rate: less than 15%**
+
+## Beyond Milan
+
+- The Milan criteria are widely used
+- Increasing data suggest the potential benefit of liver transplantation in cases with **larger tumor burden**:
+  - e.g., using the **UCSF expanded criteria**
+- The level of **AFP** can also be used:
+  - Levels **greater than 1000 ng/mL** are associated with **high risk of recurrence**
+
+## Bridging Therapy
+
+- Bridging therapies, such as **TACE or ablation**, are often needed for patients on the waiting list
+- Purpose: **reduce the risk of tumor progression**
+- Especially when the time on the list is **longer than 6 months**
+
+## Downstaging
+
+- **Locoregional therapies** can be used to increase eligibility for liver transplantation
+- Key question: what criteria should be used for staging and potential downstaging?
+- Results are **variable**, mainly because of differences in eligibility criteria:
+  - Successful downstaging tends to be lower with more liberal criteria
+  - Rates of downstaging achievement can reach **up to 90%** when more strict criteria are applied
+
+## Living Donor Liver Transplantation
+
+- Offers the possibility to **avoid waiting lists** for a deceased organ
+  - Reduces the **dropout rate** and **time to transplant**
+- Potential to provide access to transplantation for patients who otherwise would **not be eligible** for a deceased donor according to Milan criteria
+
+::: {.callout-caution}
+Living-donor transplantation must be **restricted to centers of excellence** to minimize donor risk and optimize recipient outcome.
+:::
+
+## Percutaneous Ablation: Techniques
+
+- Proposed for patients with **liver-only disease** who are **not candidates for surgery or transplantation**
+- Main techniques:
+  - **Radiofrequency** ablation
+  - **Microwave** ablation
+- **Ethanol injection** can be used in particular situations:
+  - Subcapsular location
+  - In the vicinity of the gallbladder, blood vessels, or heart
+
+## Ablation: Best Results
+
+- Best results achieved in **solitary tumors smaller than 2 cm**
+  - May achieve **complete necrosis**
+  - Recurrence rates **comparable to resection**
+- Tumors between **2 to 3 cm** or **up to three nodules** may also be treated percutaneously
+
+## Ablation vs. Resection
+
+- It has been suggested that **resection was not superior to ablation** in tumors of up to 3 cm
+- There is a **need for further comparative trials** to validate these findings
+
+## Radiotherapy in HCC
+
+- **External radiotherapy** and **stereotactic body radiation therapy (SBRT)** have been explored in some settings:
+  - e.g., **segmental portal vein invasion**
+- **Encouraging results**
+- Still **lacks robust evidence** on safety and efficacy
+
+## Intra-arterial Therapy: Principles
+
+- For patients with **liver-only HCC without vascular invasion** who are not amenable to resection, transplantation, or ablation
+- Aim to **induce tumor necrosis**, exploiting the predominant **arterial blood supply** of HCC
+- This allows for:
+  - Selective infusion of **embolizing particles**, coupled or not with cytotoxic agents
+  - Intraarterial infusion of **radioactive isotopes**
+
+## TACE Techniques
+
+- **Drug-eluting beads (DEB-TACE)** that slowly release chemotherapy
+- **Conventional chemoembolization (cTACE)**:
+  - Emulsion of cytotoxic agents with **lipiodol**, followed by **spongostan** injection
+- The two seem to have **similar efficacy**
+  - DEB-TACE is suggested to have **less toxicity and better tolerance**
+- Both techniques are preferred over **bland embolization**, although there is no firm evidence of superiority
+
+## TACE Efficacy
+
+- Randomized trials and meta-analyses confirmed that **TACE improves survival** in cases not suitable for curative treatment
+- Current expected **median survival** in patients selected according to evidence-based recommendations:
+  - Around **30 months**
+  - May even **exceed 40 months**
+
+## TACE: Contraindications and Stage Migration
+
+- **Absolute contraindications** to TACE:
+  - **Decompensated cirrhosis**
+  - **Severely reduced portal vein flow** (tumoral or nontumoral portal vein thrombosis)
+- It is crucial to **assess liver function before and after every procedure** to prevent deterioration
+- In the absence of objective response or untreatable progression:
+  - **Systemic therapy** should be considered as part of a **stage migration strategy**
+
+## TARE (Transarterial Radioembolization)
+
+- Uses the injection of **⁹⁰Yttrium-labeled spheres** without the need for macroembolization
+- No robust randomized studies comparing TARE with TACE
+  - Data suggest **comparable tumor control rates**
+- In patients with **BCLC C** stage:
+  - TARE was **not superior to sorafenib**
+  - Failed to enhance the benefit of sorafenib in **combination**
+- More studies needed to place TARE into treatment algorithms and define subgroups that benefit
+
+## Section 8 · Systemic Treatment
+
+::: {.callout-note}
+## Key question
+From sorafenib to immuno-combinations — how far have we come?
+:::
+
+## Indications for Systemic Therapy
+
+Recommended for patients with **preserved liver function** who:
+
+- Present with **extrahepatic spread**, or
+- Have **macrovascular invasion**, or
+- Are **ineligible for liver-directed modalities** because of refractoriness or contraindication
+
+## The Pre-2007 Era
+
+- Until 2007, **limited therapies** existed for advanced stage disease
+- Previous studies with **conventional chemotherapy** (e.g., doxorubicin and platinum combinations) resulted in:
+  - **Significant toxicities**
+  - **Modest efficacy**
+- A resurgence of enthusiasm came with increasing knowledge on:
+  - Molecular mechanisms
+  - Intracellular signaling pathways
+  - Angiogenesis
+
+## Sorafenib: The Pioneer
+
+- A **tyrosine kinase inhibitor** with antiangiogenic and antiproliferative activity
+- The **first drug to demonstrate increased overall survival** in patients with advanced HCC
+- Survival benefit was shown both in:
+  - **Western** populations
+  - **Asian** populations
+- Pioneered the era of **systemic treatment in HCC**
+
+## Regorafenib and the Concept of Sequencing
+
+- **Regorafenib** has shown a significant increase in survival in patients with advanced HCC who had **progressed on sorafenib**
+- An exploratory analysis showed that the sequence **sorafenib → regorafenib** provided:
+  - A **median survival of 26 months**
+- Reflects a significant advance in the treatment of advanced HCC
+
+## Novel Targeted Agents
+
+- **Lenvatinib** (tyrosine kinase inhibitor):
+  - Proved **noninferior to sorafenib** in the first line
+  - Approved as an **alternative to sorafenib**
+- After progression to sorafenib:
+  - **Regorafenib**
+  - **Cabozantinib** (as second- or third-line)
+  - **Ramucirumab** (in patients with **AFP of at least 400 ng/mL**)
+- All based on positive results of **phase III trials**
+
+## Immunotherapy: Rationale
+
+The liver is a complex immunologic organ because of:
+
+- Its **physiologic immunotolerance**
+- The abundance of **immunosuppressive molecules** (such as **PD-1** and **PDL-1**)
+- The fact that HCC develops mostly under **chronic inflammation** conditions
+
+Immunity-modulating therapies are being studied in many active clinical trials.
+
+## Immunotherapy: Early Results
+
+- Preliminary results with **anti-PD1 antibodies** (nivolumab and pembrolizumab) showed:
+  - **Encouraging response rates**
+- However, they have **not compared favorably** with:
+  - **Sorafenib** (in the first line)
+  - **Placebo** (in the second line)
+
+## Combination Breakthroughs
+
+- **Atezolizumab** (anti-PDL1) + **bevacizumab** (anti-VEGF):
+  - Improved survival in a **phase 3 trial in first-line** versus sorafenib
+  - Included HCC patients with **very well preserved liver function**
+- **Durvalumab** (anti-PDL1) + single dose of **tremelimumab** (anti-CTLA-4):
+  - Improved survival over sorafenib
+  - Durvalumab was **non-inferior** to sorafenib (randomized phase III trial)
+
+## More Promising Combinations
+
+Other combinations with encouraging results:
+
+- **Nivolumab + ipilimumab**
+- **Lenvatinib + pembrolizumab**
+
+## Personalizing Systemic Therapy
+
+Considering the increasing alternatives, the standard of care in advanced HCC is based on:
+
+- **Selection of candidates**:
+  - Performance status
+  - Liver function
+  - Degree of portal hypertension
+  - Comorbidities
+- Definition of the most suitable **sequence of drugs**
+- Expected **incidence and severity of adverse events**
+
+## Adverse Events: A Silver Lining?
+
+- Interestingly, some adverse events are **associated with better outcomes**:
+  - e.g., **dermatologic reaction** under sorafenib or regorafenib
+- These should be seen **positively**
+- Not as unnecessary **treatment interruptions**
+
+## Section 9 · Future Prospects
+
+::: {.callout-note}
+## Key question
+Where is the field heading — prevention, early detection, precision oncology?
+:::
+
+## Prevention Priorities
+
+- **Prevention of HCC** in patients with chronic liver disease is essential
+- Advances have been achieved with:
+  - **Antiviral treatment**
+  - **HBV vaccination**
+- A trend toward increasing rates of **MAFLD-related HCC** underscores the need to broaden the preventive focus to causes of metabolic syndrome:
+  - **Obesity**
+  - **Diabetes**
+  - **Dyslipidemia**
+
+## Early Detection and the Recurrence Problem
+
+- **Novel biomarkers and imaging tools** may allow detection of:
+  - Dysplastic nodules **before malignant transformation**
+  - Early-stage disease suitable for curative treatment
+- Early diagnosis implies **better outcomes**
+- But even after local treatment, the **probability of recurrence** is a matter of concern
+- **Adjuvant treatments**, such as immune-oncology agents, are promising strategies to be tested
+- **Close follow-up** is warranted — some local recurrences are still suitable for curative treatment
+
+## Advanced Disease and Precision Medicine
+
+- A significant proportion of patients are still diagnosed with **advanced stage**
+- Many recurrences occur **outside the liver**
+- **Systemic treatment** is probably the most evolving field in HCC:
+  - From a context with **no effective drugs** in the early 2000s
+  - To a situation with **several options**
+- Active **translational research** should help develop **predictive biomarkers**:
+  - Opening the doors to **personalized medicine and precision oncology**
+  - Already in place in many neoplasms, but **not yet in primary liver cancer**
+
+## Figure 89.4 — Interventions Across the Natural History of HCC
+
+::: {.columns}
+::: {.column width="60%"}
+Interventions across the natural history of HCC development in progressive liver diseases
+:::
+::: {.column width="40%"}
+Progressive stages:
+
+1. **Healthy liver**
+2. **Chronic disease**
+3. **Cirrhosis**
+4. **Liver-only HCC** (early/intermediate)
+5. **Advanced-stage HCC**
+:::
+:::
+
+## Figure 89.4 — Interventions by Stage (Detail)
+
+::: {.smaller}
+| Stage | Preventive measures | Active treatment | Supportive measures | Areas of research |
+|---|---|---|---|---|
+| Healthy liver | Primary: HBV vaccination, education, anti-alcohol campaigns, control of diabetes/obesity/dyslipidemia, testing high-risk groups, reduce aflatoxin | Diabetes, dyslipidemia, alcohol use disorders, obesity therapy | Primary care follow-up, governmental engagement | Prophylaxis (statins, aspirin, coffee), mass screening for viral hepatitis |
+| Chronic disease / Cirrhosis | Secondary: semiannual screening, antiviral therapy, stop alcohol | Liver transplantation, antiviral therapy, control of metabolic risk factors | Specialist follow-up, screening for cirrhosis complications | Identify at-risk groups, screening methods, molecular risk scores, chemoprophylaxis |
+| Liver-only HCC | Tertiary: post-treatment monitoring, screening for recurrence, management of adverse events | Local therapies, intra-arterial treatment, transplantation, systemic treatment | Multidisciplinary follow-up, symptom control, palliative care | Personalized therapies, predictive biomarkers, prevention of recurrence |
+:::
+
+## Key Takeaways (1/2)
+
+- HCC is the **most common primary liver tumor**, causing ~**800,000 deaths/year**
+- Usually develops on a background of **cirrhosis** (HBV, HCV, alcohol, MAFLD)
+- The epidemiology is **shifting**: vaccination, DAAs, and rising MAFLD
+- **Screening**: ultrasound every 6 months in at-risk patients (AFP optional)
+- Diagnosis in cirrhosis can be made by **imaging** (arterial enhancement + wash-out)
+- **BCLC** links staging, prognosis, and treatment — the most widely accepted system
+
+## Key Takeaways (2/2)
+
+- **Curative options**: resection, transplantation, ablation (5-year survival 50–80% in selected patients)
+- **Intermediate stage**: TACE (median survival ~30–40 months with proper selection)
+- **Advanced stage**: systemic therapy sequences — from **sorafenib** to **atezolizumab + bevacizumab** and **durvalumab + tremelimumab** (OS ~2 years)
+- The future lies in **prevention, early detection, adjuvant strategies, and precision oncology**

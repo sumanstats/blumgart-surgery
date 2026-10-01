@@ -1,5 +1,20 @@
 # 89 Hepatocellular Carcinoma
 
+
+::: {.panel-tabset}
+
+## Qwen 
+
+{{< reveal 89_Hepatocellular_Carcinoma >}}
+
+## Deepseek 
+
+{{< reveal Extras/liver/chap89_deepseek >}}
+
+:::
+
+
+
 ### 📊 **Epidemiology & Risk Factors (Q1-25)**
 
 1. **Globally, HCC is the ___ most common cancer-related cause of death.**  
